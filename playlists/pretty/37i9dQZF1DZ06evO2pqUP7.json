@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAAAwRGcZrCXIMwSNUUAX8ehs",
+  "snapshot_id": "Zya9AAAAAACqNW/HUqHBqD0btjfvstXG",
   "tracks": [
     {
       "added_at": null,
@@ -187,26 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qui\u00e9n es Dei V?",
-        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 157142,
-      "name": "Hot (with Lunay)",
-      "url": "https://open.spotify.com/track/77SzXqzzyf6wyvVxAmM9cB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuevo",
         "url": "https://open.spotify.com/album/41n0TpObqsR4TbOmBdkrLX"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 139350,
       "name": "Nuevo",
       "url": "https://open.spotify.com/track/5OAUEIwUw1TsoeCkoI1hbo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qui\u00e9n es Dei V?",
+        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 157142,
+      "name": "Hot (with Lunay)",
+      "url": "https://open.spotify.com/track/77SzXqzzyf6wyvVxAmM9cB"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Relaciones",
+        "url": "https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "Relaciones",
+      "url": "https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 229955,
       "name": "Mi Favorita",
       "url": "https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Relaciones",
-        "url": "https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 206896,
-      "name": "Relaciones",
-      "url": "https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV"
     },
     {
       "added_at": null,

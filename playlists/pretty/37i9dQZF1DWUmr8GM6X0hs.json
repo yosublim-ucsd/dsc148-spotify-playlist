@@ -1,6 +1,6 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 90200,
+  "num_followers": 90238,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,22 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
+        "name": "Fiesta Mexicana en las Voces de los Tres Ases",
+        "url": "https://open.spotify.com/album/2RP4ihLMXbkJJWqVLmnKvC"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
+        }
+      ],
+      "duration_ms": 182520,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/4FRFwdjDKCD0of1vLLeCoE"
+    },
+    {
+      "added_at": "2024-06-25 17:49:34",
+      "album": {
         "name": "Historia De Un Amor",
         "url": "https://open.spotify.com/album/6ZqE68apCVUrnZh0nRe5x5"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 172533,
       "name": "Quizas Quizas Quizas",
       "url": "https://open.spotify.com/track/2RB9jaGMu5IXhZeAAXrbNG"
-    },
-    {
-      "added_at": "2024-06-25 17:49:34",
-      "album": {
-        "name": "Fiesta Mexicana en las Voces de los Tres Ases",
-        "url": "https://open.spotify.com/album/2RP4ihLMXbkJJWqVLmnKvC"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
-        }
-      ],
-      "duration_ms": 182520,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/4FRFwdjDKCD0of1vLLeCoE"
     },
     {
       "added_at": "2024-06-25 17:49:34",

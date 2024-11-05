@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Lyn x ISU\(린 x 이수\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,088 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,094 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 43 | [You, Who?](https://open.spotify.com/track/5WLLVrfFNbseupmtv0p2B1) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [You, Who?](https://open.spotify.com/album/2VJD2d4spfkILWzOmHEd4i) | 3:39 |
 | 44 | [Alley \(with SUNG SI KYUNG\)](https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Alley](https://open.spotify.com/album/1klgaObg00RhXIsKmVysk4) | 4:45 |
 | 45 | [one summer](https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [one summer](https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK) | 3:59 |
-| 46 | [Echo \(feat\. JUKJAE\)](https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v), [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Echo \(feat .JUKJAE\)](https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj) | 3:12 |
-| 47 | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59) | 2:43 |
+| 46 | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59) | 2:43 |
+| 47 | [Echo \(feat\. JUKJAE\)](https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v), [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Echo \(feat .JUKJAE\)](https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj) | 3:12 |
 | 48 | [Even for a moment](https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Even for a moment](https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2) | 4:53 |
 | 49 | [My Love \(Duet Ver.\)](https://open.spotify.com/track/0K0HXYXl26keaIiVH8dPI1) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Lee Seung Chul 35th Anniversary Album Special 'My Love'](https://open.spotify.com/album/3gAshpQbkBHturbpMAB3YL) | 3:47 |
 | 50 | [Dinner](https://open.spotify.com/track/4I48kLVde5Rwvw8MyloC4A) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m), [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Dinner \- SM STATION](https://open.spotify.com/album/34DtbBknXHV8X3w4NLzAx1) | 3:24 |

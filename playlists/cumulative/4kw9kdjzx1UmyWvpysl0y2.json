@@ -3073,6 +3073,28 @@
     },
     {
       "album": {
+        "name": "DABADABADABADABA",
+        "url": "https://open.spotify.com/album/4JGsUCVSHp0G9UESD2eH8g"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144535,
+      "name": "DABADABADABADABA",
+      "url": "https://open.spotify.com/track/3VxkYtmVCInFfhkbsaMg0B"
+    },
+    {
+      "album": {
         "name": "Daisies",
         "url": "https://open.spotify.com/album/37kDHVg9VwJgW5fbKkwzls"
       },
@@ -8544,7 +8566,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 198500,
       "name": "Lily Garden",
       "url": "https://open.spotify.com/track/7wRqT3udwo3luOmcQhYpzB"
@@ -9708,7 +9730,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 255172,
       "name": "Movements",
       "url": "https://open.spotify.com/track/7lMYRwvhweOmiuVfKFf0Sq"

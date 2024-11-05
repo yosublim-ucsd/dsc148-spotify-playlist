@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 33654,
+  "num_followers": 33659,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAAAbjI1HezGQeRRs4xSIU/Rc",
+  "snapshot_id": "Zya9AAAAAACTqhH3FR3n1jjNw9B0M+OZ",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerdos De Carlos y Jose Vol. 1",
-        "url": "https://open.spotify.com/album/4C6h3NopDACF7wRqKQJm0l"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 163786,
-      "name": "El Pasito Vaquero",
-      "url": "https://open.spotify.com/track/0laXs1RoWZ5GgnQ1fok7Hs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tres Tumbas",
         "url": "https://open.spotify.com/album/1watZSuUenWvLyw2qVUCU0"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 168520,
       "name": "Las Tres Tumbas",
       "url": "https://open.spotify.com/track/3YGzZ79OPpdMLMFQPgV8Zh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recuerdos De Carlos y Jose Vol. 1",
+        "url": "https://open.spotify.com/album/4C6h3NopDACF7wRqKQJm0l"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 163786,
+      "name": "El Pasito Vaquero",
+      "url": "https://open.spotify.com/track/0laXs1RoWZ5GgnQ1fok7Hs"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es Imposible",
-        "url": "https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 147453,
-      "name": "El Mandil\u00f3n",
-      "url": "https://open.spotify.com/track/02bFz2UbOMliv2MifwLyej"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00a1Ay Que Triste!",
         "url": "https://open.spotify.com/album/6M886Mg1U15kSK4lACU9H5"
       },
@@ -567,22 +551,6 @@
       "duration_ms": 186226,
       "name": "Asesino A Sueldo",
       "url": "https://open.spotify.com/track/0T9MBxiBJznCdjdw2QMMlV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Patrulla 05 Corridos Con",
-        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 227306,
-      "name": "Dos Cruces En La Curva",
-      "url": "https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts"
     },
     {
       "added_at": null,
@@ -612,9 +580,25 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 168386,
-      "name": "Corrido De Cruz Estrada Aka Crucillo Estrada",
-      "url": "https://open.spotify.com/track/2fT6krdKBX5bWSm4mnsA3G"
+      "duration_ms": 147453,
+      "name": "El Mandil\u00f3n",
+      "url": "https://open.spotify.com/track/02bFz2UbOMliv2MifwLyej"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patrulla 05 Corridos Con",
+        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 227306,
+      "name": "Dos Cruces En La Curva",
+      "url": "https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Es Imposible",
+        "url": "https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 168386,
+      "name": "Corrido De Cruz Estrada Aka Crucillo Estrada",
+      "url": "https://open.spotify.com/track/2fT6krdKBX5bWSm4mnsA3G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Chubasco",
         "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
       },
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patrulla 05 Corridos Con",
-        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
+        "name": "Busca Otro Amor",
+        "url": "https://open.spotify.com/album/6Nyc5TvWBWPSxNYK3iiUTO"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 174573,
-      "name": "La Emboscada Del Gallo",
-      "url": "https://open.spotify.com/track/1IbrUgORKmQVk6lbqY73eW"
+      "duration_ms": 164826,
+      "name": "Dos Seres Que Se Aman",
+      "url": "https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Otro Amor",
-        "url": "https://open.spotify.com/album/6Nyc5TvWBWPSxNYK3iiUTO"
+        "name": "Patrulla 05 Corridos Con",
+        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 164826,
-      "name": "Dos Seres Que Se Aman",
-      "url": "https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O"
+      "duration_ms": 174573,
+      "name": "La Emboscada Del Gallo",
+      "url": "https://open.spotify.com/track/1IbrUgORKmQVk6lbqY73eW"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 125774,
+  "num_followers": 125817,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAAA1Z5l4eBOOgx2pirAvLKQn",
+  "snapshot_id": "Zya9AAAAAABj6aNI2H4Wz2JnGQ8RClqi",
   "tracks": [
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "+1 (404) 476-6404",
-        "url": "https://open.spotify.com/album/41Bnkkh7oh5qMLw7bI32DX"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 48000,
-      "name": "+1 (404) 476-6404",
-      "url": "https://open.spotify.com/track/4OLXP8Bgh2AouRvSKQTRbj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 154983,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/2L3nFptzwy0jlVKSzXHjnL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "+1 (404) 476-6404",
+        "url": "https://open.spotify.com/album/41Bnkkh7oh5qMLw7bI32DX"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 48000,
+      "name": "+1 (404) 476-6404",
+      "url": "https://open.spotify.com/track/4OLXP8Bgh2AouRvSKQTRbj"
     },
     {
       "added_at": null,

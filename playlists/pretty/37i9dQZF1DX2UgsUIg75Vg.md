@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: KWN
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,360,947 likes - 162 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,361,085 likes - 162 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

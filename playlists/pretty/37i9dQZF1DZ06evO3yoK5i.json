@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 232258,
+  "num_followers": 232278,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAABRZhmnGXX8KtZR00cWivuL",
+  "snapshot_id": "Zya9AAAAAACYMPP0ZdwragzkRxfljBMF",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musica Es",
-        "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 305400,
-      "name": "Nada Sin Ti",
-      "url": "https://open.spotify.com/track/1SqNm3h3tjXYqAZUYOcX5L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuovi Eroi [35th Anniversary Edition (Remastered 192 khz)]",
         "url": "https://open.spotify.com/album/2f5XCS5aYFMyxzIz7uKcMU"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 225600,
       "name": "Terra promessa - Remastered 2021",
       "url": "https://open.spotify.com/track/5NxVsVTmbQsKF1dkLxhYyF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Musica Es",
+        "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 305400,
+      "name": "Nada Sin Ti",
+      "url": "https://open.spotify.com/track/1SqNm3h3tjXYqAZUYOcX5L"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuovi Eroi [35th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/2f5XCS5aYFMyxzIz7uKcMU"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 251893,
-      "name": "Una storia importante - Remastered 2021",
-      "url": "https://open.spotify.com/track/0Ji0XFJtiOoqNt2RWSbpPZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Musica \u00e8",
         "url": "https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 241666,
       "name": "Ti sposer\u00f2 perch\u00e9",
       "url": "https://open.spotify.com/track/5ZODincIREhQ6RYnoJdXNd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuovi Eroi [35th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/2f5XCS5aYFMyxzIz7uKcMU"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 251893,
+      "name": "Una storia importante - Remastered 2021",
+      "url": "https://open.spotify.com/track/0Ji0XFJtiOoqNt2RWSbpPZ"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 253053,
-      "name": "Una Historia Importante - Remastered 2021",
-      "url": "https://open.spotify.com/track/6uulJvNvvJep8eNtOLOOIX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The World Of Pavarotti",
         "url": "https://open.spotify.com/album/4sZtLMwl4ga9aV73G1Nn8D"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 275733,
       "name": "Se Bastasse Una Canzone",
       "url": "https://open.spotify.com/track/1Mc6y8Q3MYppvrCylqDkwO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 253053,
+      "name": "Una Historia Importante - Remastered 2021",
+      "url": "https://open.spotify.com/track/6uulJvNvvJep8eNtOLOOIX"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musica Es",
-        "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 251866,
-      "name": "Completamente Enamorados",
-      "url": "https://open.spotify.com/track/0kz3GgE2wVAw7o5p8FeUdO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfetto",
         "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 228080,
       "name": "Sei Un Pensiero Speciale",
       "url": "https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Musica Es",
+        "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 251866,
+      "name": "Completamente Enamorados",
+      "url": "https://open.spotify.com/track/0kz3GgE2wVAw7o5p8FeUdO"
     },
     {
       "added_at": null,

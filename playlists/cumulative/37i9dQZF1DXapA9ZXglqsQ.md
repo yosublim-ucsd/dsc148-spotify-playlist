@@ -4,7 +4,7 @@
 
 > Meet Joe Hisaishi, a one\-of\-a\-kind composer/musician known for his world famous "Studio Ghibli" film scores, as well as countless other classics.
 
-68 songs - 5 hr 8 min
+69 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Silence](https://open.spotify.com/track/1ryPERKzpkuwFRFHWJDOj6) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ETUDE ～a Wish to the Moon～](https://open.spotify.com/album/40yhQ9lfcanVVJkHTvSd0q) | 4:30 | 2021-08-19 |  |
 | [Spring](https://open.spotify.com/track/1cfZtDIbyEThJSNGNdb1k9) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [FREEDOM PIANO STORIES 4](https://open.spotify.com/album/5y3QOvNMlvamEs4rzua8JV) | 2:52 | 2021-08-19 |  |
 | [Summer](https://open.spotify.com/track/2Cxe8qnbsyeXCOpNg05KVl) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [メロディフォニー](https://open.spotify.com/album/3Ofc5o63VISy2y14grDpy1) | 4:05 | 2021-08-19 |  |
+| [Summer](https://open.spotify.com/track/3L8F7sU7Kt4iTiIGICZ2jA) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Wiener Symphoniker](https://open.spotify.com/artist/6XZxFuZaBnZBngpxbut80O) | [Summer](https://open.spotify.com/album/2W7lnrsKqd1XXCHSFKl9hE) | 3:56 | 2024-11-05 |  |
 | [Symphonic Suite "Castle in the Sky": The Eternal Tree of Life](https://open.spotify.com/track/4YWsyVPhOMjPIt6qlL06A3) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [Symphonic Suite Castle in the Sky](https://open.spotify.com/album/48BlyQmPIQOZZbJq9UkFGJ) | 3:37 | 2021-08-19 |  |
 | [Symphonic Suite “Kiki’s Delivery Service” : On a Clear Day 〜 A Town with an Ocean View \- Live In Japan / 2019](https://open.spotify.com/track/3TWA7l03qmqOdz1KcmMtun) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [Symphonic Suite “Kiki’s Delivery Service”](https://open.spotify.com/album/1KBEf92eBTtfJQU5C7wmf0) | 4:40 | 2021-08-19 |  |
 | [Tango X.T.C\. \- Live](https://open.spotify.com/track/2WjQJbP0aYjc2k5r35bQif) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [WORKS II ～Orchestra Nights～ \(Live\)](https://open.spotify.com/album/1v3S0aoWq5xOFZPaOxWPie) | 4:52 | 2021-08-19 |  |

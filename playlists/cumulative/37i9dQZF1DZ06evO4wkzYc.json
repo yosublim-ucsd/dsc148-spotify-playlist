@@ -1227,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "Playball",
+        "url": "https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203480,
+      "name": "Recuerdos Del 1",
+      "url": "https://open.spotify.com/track/3W79DIintC1GZeDs010tLa"
+    },
+    {
+      "album": {
         "name": "Seraf\u00edn",
         "url": "https://open.spotify.com/album/6d6lprZdfdYRoyy1aOtNLU"
       },
@@ -1278,7 +1296,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 256519,
       "name": "Seraf\u00edn - En Vivo",
       "url": "https://open.spotify.com/track/6aFS8Lvqlbtgt0EchjOsd2"

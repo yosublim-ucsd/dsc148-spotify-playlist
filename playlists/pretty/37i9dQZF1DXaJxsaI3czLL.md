@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,542 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,561 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 64 | [Wish You Were Here](https://open.spotify.com/track/2EZM4rYK3tbiRaGS3XyYvi) | [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Wish You Were Here](https://open.spotify.com/album/6X0e48IHrHjAtgb00eYxsp) | 4:37 |
 | 65 | [北ウイング \-CLASSIC\-](https://open.spotify.com/track/07OiQkDWUwgatxU5WUWxXN) | [Akina Nakamori](https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J) | [50th Anniversary Special A Tribute of Hayashi Tetsuji \- Saudade \-](https://open.spotify.com/album/5xsy4iKnYN4g8uM3KWiMLf) | 6:22 |
 | 66 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 |
-| 67 | [Twinkle Stars](https://open.spotify.com/track/56fKMuyvHEhjJctUljeO4D) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [THE UNION](https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh) | 4:46 |
-| 68 | [猫村さんのうた](https://open.spotify.com/track/30G4STumh4gJ0aq2sU3h9t) | [松重豊](https://open.spotify.com/artist/3pHwaIplhKgtrVqaW16o50), [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [猫村さんのうた](https://open.spotify.com/album/69O6a8s4FMk37vtSs4qjU0) | 2:46 |
+| 67 | [猫村さんのうた](https://open.spotify.com/track/30G4STumh4gJ0aq2sU3h9t) | [松重豊](https://open.spotify.com/artist/3pHwaIplhKgtrVqaW16o50), [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [猫村さんのうた](https://open.spotify.com/album/69O6a8s4FMk37vtSs4qjU0) | 2:46 |
+| 68 | [Twinkle Stars](https://open.spotify.com/track/56fKMuyvHEhjJctUljeO4D) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [THE UNION](https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh) | 4:46 |
 | 69 | [クレイ](https://open.spotify.com/track/0TtzPfEvqp8YasVy0xOsvd) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc) | 4:29 |
 | 70 | [Arrows](https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Arrows](https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3) | 4:26 |
 | 71 | [夜のままで](https://open.spotify.com/track/4S3RhR7avC92O5rFsi55nX) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 1:56 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 93 | [A Rainy Night in NY](https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [A Rainy Night in NY](https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH) | 2:58 |
 | 94 | [いつしか](https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [いつしか](https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq) | 4:00 |
 | 95 | [moonlight](https://open.spotify.com/track/6XFHr2ZCgyndx3LO47kEyL) | [Jane Jade](https://open.spotify.com/artist/6wmQqcVc9s7XztjlNNL2sm), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT), [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [moonlight](https://open.spotify.com/album/58BwJa6AO9RdRVBNJls2b7) | 3:19 |
-| 96 | [Flavor Of Life](https://open.spotify.com/track/2Ss4fzhZw5TMgdoZzRbQOk) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [Flavor Of Life](https://open.spotify.com/album/539IJjkQjkvYazzzCA9gPX) | 6:57 |
-| 97 | [眠れぬ羊 \- with TENDRE](https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Twilight](https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf) | 3:53 |
-| 98 | [焦がれNight](https://open.spotify.com/track/4tcU2rCJGCERolNoWf1EGG) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [焦がれNight](https://open.spotify.com/album/5KrrC445nlotY96Ifz3gA2) | 3:55 |
-| 99 | [天国にいちばん近い島](https://open.spotify.com/track/5ZwdNfFGj1ut9PzGgynYev) | [Tomoyo Harada](https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1) | [音楽と私](https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0) | 6:32 |
+| 96 | [眠れぬ羊 \- with TENDRE](https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Twilight](https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf) | 3:53 |
+| 97 | [Flavor Of Life](https://open.spotify.com/track/2Ss4fzhZw5TMgdoZzRbQOk) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [Flavor Of Life](https://open.spotify.com/album/539IJjkQjkvYazzzCA9gPX) | 6:57 |
+| 98 | [天国にいちばん近い島](https://open.spotify.com/track/5ZwdNfFGj1ut9PzGgynYev) | [Tomoyo Harada](https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1) | [音楽と私](https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0) | 6:32 |
+| 99 | [焦がれNight](https://open.spotify.com/track/4tcU2rCJGCERolNoWf1EGG) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [焦がれNight](https://open.spotify.com/album/5KrrC445nlotY96Ifz3gA2) | 3:55 |
 | 100 | [帰りたくなったよ](https://open.spotify.com/track/2p1CDsp3PCIt6juRzQWsgP) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [帰りたくなったよ](https://open.spotify.com/album/0fNR4AYbU7lZ6m4LrQobu6) | 5:17 |
 
 Snapshot ID: `ZvZA2AAAAAAFJ7LURXl5lpmYXZS1o4oB`

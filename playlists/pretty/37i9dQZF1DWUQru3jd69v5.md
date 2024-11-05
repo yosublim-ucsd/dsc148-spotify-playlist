@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > 22simba in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,040 likes - 55 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,038 likes - 55 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,18 +50,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 40 | [ALLOW IT](https://open.spotify.com/track/2S2ynG196RjsDYn8rj9zA1) | [Haren Brett](https://open.spotify.com/artist/6ReIFZ6FRjCBUlsNBXr4AC) | [ALLOW IT](https://open.spotify.com/album/3pfImB0s17Qttq084azh4r) | 1:31 |
 | 41 | [Nemmeno Mia Madre](https://open.spotify.com/track/5YtuHT8K8GTWMhEr9RmWW3) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB) | [Nemmeno Mia Madre](https://open.spotify.com/album/4VHudNS9aDgjLarAHCVIIa) | 3:14 |
 | 42 | [PROVA VIVENTE](https://open.spotify.com/track/5NnRhwXUVIc7EAxnJ9e7Hy) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [PROVA VIVENTE](https://open.spotify.com/album/3LtEbDNS4fQzu4NWYsl6tl) | 2:06 |
-| 43 | [Fotografia](https://open.spotify.com/track/5ZWi4wyfjozOlEA6AyjCRc) | [Baby Rich](https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN) | [Fotografia](https://open.spotify.com/album/4Flb1Nz1dcb02Az1CuKuAZ) | 2:20 |
-| 44 | [BOY](https://open.spotify.com/track/56Mxkk2FpNTkg9cCoRXjRs) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka), [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI) | [BOY](https://open.spotify.com/album/20XcplC26XNhRAabYXk9K2) | 2:58 |
-| 45 | [Ragazzetto](https://open.spotify.com/track/7CHBnQwgD9GQGXXrjnHJch) | [Cana](https://open.spotify.com/artist/00l3k6xqdOgeC7F4drpy89) | [Ragazzetto](https://open.spotify.com/album/2hUgUMxrVBkUyhfQClvuCg) | 2:17 |
-| 46 | [40°C](https://open.spotify.com/track/7G9xXlMMSGYgF9uPEVbeF8) | [b4ze](https://open.spotify.com/artist/6Mh1nUtD5kZghWvdso2SC8) | [40°C](https://open.spotify.com/album/1gUkPILSid28zZkJsPGypu) | 1:57 |
-| 47 | [BROKER](https://open.spotify.com/track/6GbELElaCiUeok1zEdcCBF) | [Mocro Yakuza](https://open.spotify.com/artist/3To9zBWMwJt0ohLMHPxxSV) | [BROKER](https://open.spotify.com/album/1DRBrhYobmGDDfRomHJPvz) | 1:37 |
-| 48 | [MILANOBELLADADIO](https://open.spotify.com/track/3zuAkAuftpDMWOBgVBjI1F) | [Raspyy](https://open.spotify.com/artist/06aQxTBpi11b8LTWNw4yCd) | [MILANOBELLADADIO](https://open.spotify.com/album/0QrUu2fTC9RzTsYuzha1XL) | 1:54 |
-| 49 | [Best in TO](https://open.spotify.com/track/3bmy4Iw88wFKTzSF7RtRQx) | [ODT](https://open.spotify.com/artist/7qjWcA6FFIXU0JUWDv47Gf), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [LaMagieDuTiel](https://open.spotify.com/artist/654NFDDfEoyiwCwbycKIl3) | [Best in TO](https://open.spotify.com/album/4G6dLoktjTmhxOMkReD46k) | 2:47 |
-| 50 | [Hunnids](https://open.spotify.com/track/1rblyDV9RZd3fNz035rkLl) | [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8) | [Hunnids](https://open.spotify.com/album/2OlysZHEOkQQdobjvFrz1c) | 1:48 |
-| 51 | [Scammer](https://open.spotify.com/track/11XWUi1Tne1UgmCNxAZPwY) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az) | [Scammer](https://open.spotify.com/album/6FgoIA49H1lM46NqAw355Q) | 3:16 |
-| 52 | [Plastica](https://open.spotify.com/track/3AaeYnKeQ7qehcs0KZj44T) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Plastica](https://open.spotify.com/album/388cfcJn3XVc1Os60btSzr) | 2:46 |
-| 53 | [POMPEI](https://open.spotify.com/track/1YfTssksdzMfYOI2g2gba2) | [Glasond](https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq), [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2), [Ksub](https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ) | [POMPEI](https://open.spotify.com/album/4yoT0WC0uxSvAs7Cl19ohk) | 2:25 |
-| 54 | [War](https://open.spotify.com/track/1IWNbOtJKlGwMJlP79fPZR) | [YTN Maden](https://open.spotify.com/artist/23kbFdbRpeUNQumiTA88NU) | [War](https://open.spotify.com/album/3j3hVhpiFDC8yetrPpH9en) | 2:49 |
-| 55 | [Cassetta di Sicurezza](https://open.spotify.com/track/7zGptf2U9zBeAhoePwol3v) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [ECO](https://open.spotify.com/album/4Bs0C9219lQmNxLi9nLY91) | 1:29 |
+| 43 | [BOY](https://open.spotify.com/track/56Mxkk2FpNTkg9cCoRXjRs) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka), [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI) | [BOY](https://open.spotify.com/album/20XcplC26XNhRAabYXk9K2) | 2:58 |
+| 44 | [Ragazzetto](https://open.spotify.com/track/7CHBnQwgD9GQGXXrjnHJch) | [Cana](https://open.spotify.com/artist/00l3k6xqdOgeC7F4drpy89) | [Ragazzetto](https://open.spotify.com/album/2hUgUMxrVBkUyhfQClvuCg) | 2:17 |
+| 45 | [40°C](https://open.spotify.com/track/7G9xXlMMSGYgF9uPEVbeF8) | [b4ze](https://open.spotify.com/artist/6Mh1nUtD5kZghWvdso2SC8) | [40°C](https://open.spotify.com/album/1gUkPILSid28zZkJsPGypu) | 1:57 |
+| 46 | [BROKER](https://open.spotify.com/track/6GbELElaCiUeok1zEdcCBF) | [Mocro Yakuza](https://open.spotify.com/artist/3To9zBWMwJt0ohLMHPxxSV) | [BROKER](https://open.spotify.com/album/1DRBrhYobmGDDfRomHJPvz) | 1:37 |
+| 47 | [MILANOBELLADADIO](https://open.spotify.com/track/3zuAkAuftpDMWOBgVBjI1F) | [Raspyy](https://open.spotify.com/artist/06aQxTBpi11b8LTWNw4yCd) | [MILANOBELLADADIO](https://open.spotify.com/album/0QrUu2fTC9RzTsYuzha1XL) | 1:54 |
+| 48 | [Best in TO](https://open.spotify.com/track/3bmy4Iw88wFKTzSF7RtRQx) | [ODT](https://open.spotify.com/artist/7qjWcA6FFIXU0JUWDv47Gf), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [LaMagieDuTiel](https://open.spotify.com/artist/654NFDDfEoyiwCwbycKIl3) | [Best in TO](https://open.spotify.com/album/4G6dLoktjTmhxOMkReD46k) | 2:47 |
+| 49 | [Hunnids](https://open.spotify.com/track/1rblyDV9RZd3fNz035rkLl) | [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8) | [Hunnids](https://open.spotify.com/album/2OlysZHEOkQQdobjvFrz1c) | 1:48 |
+| 50 | [Scammer](https://open.spotify.com/track/11XWUi1Tne1UgmCNxAZPwY) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az) | [Scammer](https://open.spotify.com/album/6FgoIA49H1lM46NqAw355Q) | 3:16 |
+| 51 | [Plastica](https://open.spotify.com/track/3AaeYnKeQ7qehcs0KZj44T) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Plastica](https://open.spotify.com/album/388cfcJn3XVc1Os60btSzr) | 2:46 |
+| 52 | [POMPEI](https://open.spotify.com/track/1YfTssksdzMfYOI2g2gba2) | [Glasond](https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq), [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2), [Ksub](https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ) | [POMPEI](https://open.spotify.com/album/4yoT0WC0uxSvAs7Cl19ohk) | 2:25 |
+| 53 | [War](https://open.spotify.com/track/1IWNbOtJKlGwMJlP79fPZR) | [YTN Maden](https://open.spotify.com/artist/23kbFdbRpeUNQumiTA88NU) | [War](https://open.spotify.com/album/3j3hVhpiFDC8yetrPpH9en) | 2:49 |
+| 54 | [Cassetta di Sicurezza](https://open.spotify.com/track/7zGptf2U9zBeAhoePwol3v) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [ECO](https://open.spotify.com/album/4Bs0C9219lQmNxLi9nLY91) | 1:29 |
+| 55 | [Fotografia](https://open.spotify.com/track/5ZWi4wyfjozOlEA6AyjCRc) | [Baby Rich](https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN) | [Fotografia](https://open.spotify.com/album/4Flb1Nz1dcb02Az1CuKuAZ) | 2:20 |
 
-Snapshot ID: `ZyQMLAAAAADlAbmJkDUzKY69swBdkfpO`
+Snapshot ID: `ZyjUmAAAAADzq6yfFYg89ti7danb9qTe`

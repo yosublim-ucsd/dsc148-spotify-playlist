@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544151,
+  "num_followers": 544143,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Make It All Right",
-        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 214053,
-      "name": "Make It All Right",
-      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "I Want To Disappear",
         "url": "https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 130664,
       "name": "Watch You Go",
       "url": "https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Make It All Right",
+        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 214053,
+      "name": "Make It All Right",
+      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
+        "name": "Proper Dose",
+        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 146622,
+      "name": "Keep This Up",
+      "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
         "name": "estella//",
         "url": "https://open.spotify.com/album/03q6OOInl2G0qYtmFlybqh"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 147907,
       "name": "deathwish (feat. nothing,nowhere.)",
       "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
-        "name": "Proper Dose",
-        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 146622,
-      "name": "Keep This Up",
-      "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -747,18 +747,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+        "name": "THE FIRST TEST",
+        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
         }
       ],
-      "duration_ms": 146436,
-      "name": "Jurassic Park",
-      "url": "https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj"
+      "duration_ms": 134224,
+      "name": "THE FIRST TEST",
+      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "THE FIRST TEST",
-        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
       "artists": [
         {
-          "name": "Speed",
-          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
         }
       ],
-      "duration_ms": 134224,
-      "name": "THE FIRST TEST",
-      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
+      "duration_ms": 146436,
+      "name": "Jurassic Park",
+      "url": "https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 177011,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/6FxIFdX1jeJYwPozaeqaZj"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Float Around",
         "url": "https://open.spotify.com/album/6xi0HS84N10LbQRyOXtO3z"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 204114,
       "name": "Everything You Want Me to Be",
       "url": "https://open.spotify.com/track/44DORmYYzUfVP1YKFgkLZn"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 177011,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/6FxIFdX1jeJYwPozaeqaZj"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Brain Invaders",
-        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 183282,
-      "name": "When Both Sides Suck, We're All Winners",
-      "url": "https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Morbid Stuff",
         "url": "https://open.spotify.com/album/0819j23RlVKRJLnXM8ZQI3"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 210160,
       "name": "Kids",
       "url": "https://open.spotify.com/track/6DS51W3CvxpUO3Z8XXfKok"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Brain Invaders",
+        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 183282,
+      "name": "When Both Sides Suck, We're All Winners",
+      "url": "https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Never Gonna Die",
-        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Won't Give Up The Fight",
-      "url": "https://open.spotify.com/track/60O4BYfrtOOcq9rywcEyi3"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "If There Is Light, It Will Find You",
         "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 205373,
       "name": "Double Cross",
       "url": "https://open.spotify.com/track/0LLA6vTC4qkmENHsr3PkOH"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Never Gonna Die",
+        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Won't Give Up The Fight",
+      "url": "https://open.spotify.com/track/60O4BYfrtOOcq9rywcEyi3"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Bad Frequencies",
-        "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "The Perfect Way to Fall Apart",
-      "url": "https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Brain Invaders",
         "url": "https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j"
       },
@@ -1631,18 +1615,34 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Our Brand Could Be Yr Life",
-        "url": "https://open.spotify.com/album/2bPeqXdzzjatAWeCI09gF1"
+        "name": "Bad Frequencies",
+        "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
       },
       "artists": [
         {
-          "name": "BODEGA",
-          "url": "https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5"
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 160346,
-      "name": "ATM",
-      "url": "https://open.spotify.com/track/4jkJUXrUF5t0jDFDOjOybf"
+      "duration_ms": 249000,
+      "name": "The Perfect Way to Fall Apart",
+      "url": "https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Overexposed",
+        "url": "https://open.spotify.com/album/6p6S6vJY9V2Rd22BO9VZFn"
+      },
+      "artists": [
+        {
+          "name": "Sleep On It",
+          "url": "https://open.spotify.com/artist/5FmgqLlJ8MJ9A8zmOPFxK2"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "A New Way Home",
+      "url": "https://open.spotify.com/track/4bIZ9j4SHomHdcTjh2rfhc"
     }
   ],
   "unique_name": "Punk Rock Workout",

@@ -1,6 +1,6 @@
 {
   "description": "El futuro est\u00e1 ac\u00e1. Conoce a la Generaci\u00f3n 2024 de RADAR M\u00e9xico. CHOCA en portada.",
-  "num_followers": 86544,
+  "num_followers": 86549,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "c\u00f3mo dormiste?",
-        "url": "https://open.spotify.com/album/02HbzA9lAQTVWuLvaYuSj8"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 183680,
-      "name": "c\u00f3mo dormiste?",
-      "url": "https://open.spotify.com/track/4gcVqUyT7lj281442LiBYV"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
         "name": "Y As\u00ed Suena el 3030",
         "url": "https://open.spotify.com/album/0EyzgnJs5vDFFGzElJTCo7"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 179610,
       "name": "El Jami",
       "url": "https://open.spotify.com/track/38QNVdvyL1NO5XxHXQ4Emk"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "c\u00f3mo dormiste?",
+        "url": "https://open.spotify.com/album/02HbzA9lAQTVWuLvaYuSj8"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 183680,
+      "name": "c\u00f3mo dormiste?",
+      "url": "https://open.spotify.com/track/4gcVqUyT7lj281442LiBYV"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Aprendimos A Jugar",
-        "url": "https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o"
+        "name": "Un Tabaco (En Vivo)",
+        "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
       },
       "artists": [
         {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
         }
       ],
-      "duration_ms": 152789,
-      "name": "Pensando",
-      "url": "https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC"
+      "duration_ms": 207625,
+      "name": "Un Tabaco - En Vivo",
+      "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Un Tabaco (En Vivo)",
-        "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
+        "name": "Aprendimos A Jugar",
+        "url": "https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o"
       },
       "artists": [
         {
-          "name": "Juanpa Salazar",
-          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
         }
       ],
-      "duration_ms": 207625,
-      "name": "Un Tabaco - En Vivo",
-      "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
+      "duration_ms": 152789,
+      "name": "Pensando",
+      "url": "https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC"
     },
     {
       "added_at": "2024-07-26 14:56:01",

@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 411020,
+  "num_followers": 411093,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -215,34 +215,6 @@
     {
       "added_at": "2024-10-25 09:15:45",
       "album": {
-        "name": "Deep in a Dream",
-        "url": "https://open.spotify.com/album/3kvH4Zr11zkfvUtwGS2Z7F"
-      },
-      "artists": [
-        {
-          "name": "Dmitry Baevsky",
-          "url": "https://open.spotify.com/artist/728obCMssc3nIbC1qyaWJq"
-        },
-        {
-          "name": "Clovis Nicolas",
-          "url": "https://open.spotify.com/artist/5JsYUdqyzTibf8j5w3PXKh"
-        },
-        {
-          "name": "Jason Brown",
-          "url": "https://open.spotify.com/artist/2MYIvlQlzAXcgIlS4qqflY"
-        },
-        {
-          "name": "St\u00e9phane Belmondo",
-          "url": "https://open.spotify.com/artist/7uHyUkVGYl24xpCzTGZlzQ"
-        }
-      ],
-      "duration_ms": 340760,
-      "name": "Deep in a Dream",
-      "url": "https://open.spotify.com/track/069VcK8RjjzhZK3UT3A8ja"
-    },
-    {
-      "added_at": "2024-10-25 09:15:45",
-      "album": {
         "name": "Stay a While",
         "url": "https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE"
       },
@@ -287,26 +259,30 @@
     {
       "added_at": "2024-10-25 09:15:45",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/3AOFyozta3QSEfa7T9supv"
+        "name": "Deep in a Dream",
+        "url": "https://open.spotify.com/album/3kvH4Zr11zkfvUtwGS2Z7F"
       },
       "artists": [
         {
-          "name": "Emil Brandqvist",
-          "url": "https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8"
+          "name": "Dmitry Baevsky",
+          "url": "https://open.spotify.com/artist/728obCMssc3nIbC1qyaWJq"
         },
         {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+          "name": "Clovis Nicolas",
+          "url": "https://open.spotify.com/artist/5JsYUdqyzTibf8j5w3PXKh"
         },
         {
-          "name": "Maija Kauhanen",
-          "url": "https://open.spotify.com/artist/4IfPb99Q6EIAGqE1w9Gw4q"
+          "name": "Jason Brown",
+          "url": "https://open.spotify.com/artist/2MYIvlQlzAXcgIlS4qqflY"
+        },
+        {
+          "name": "St\u00e9phane Belmondo",
+          "url": "https://open.spotify.com/artist/7uHyUkVGYl24xpCzTGZlzQ"
         }
       ],
-      "duration_ms": 366133,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2uLa2EKuWZ62AsBUE1TNi6"
+      "duration_ms": 340760,
+      "name": "Deep in a Dream",
+      "url": "https://open.spotify.com/track/069VcK8RjjzhZK3UT3A8ja"
     },
     {
       "added_at": "2024-10-25 09:15:45",
@@ -331,6 +307,30 @@
       "duration_ms": 246634,
       "name": "Hope",
       "url": "https://open.spotify.com/track/347Fpu96gIJPsNrAO2bj9g"
+    },
+    {
+      "added_at": "2024-10-25 09:15:45",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/3AOFyozta3QSEfa7T9supv"
+      },
+      "artists": [
+        {
+          "name": "Emil Brandqvist",
+          "url": "https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8"
+        },
+        {
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+        },
+        {
+          "name": "Maija Kauhanen",
+          "url": "https://open.spotify.com/artist/4IfPb99Q6EIAGqE1w9Gw4q"
+        }
+      ],
+      "duration_ms": 366133,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2uLa2EKuWZ62AsBUE1TNi6"
     },
     {
       "added_at": "2024-10-25 09:15:45",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-10-25 09:15:45",
       "album": {
+        "name": "Forest Floor",
+        "url": "https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi"
+      },
+      "artists": [
+        {
+          "name": "Fergus McCreadie",
+          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Glade",
+      "url": "https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD"
+    },
+    {
+      "added_at": "2024-10-25 09:15:45",
+      "album": {
         "name": "Massimo Fara\u00f2 Plays the Great Jazz American Composers - George Gershwin, Vol. 3",
         "url": "https://open.spotify.com/album/0w9US9EzNtLwIMDHM4QDQC"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 268081,
       "name": "Bess Is My Woman Now",
       "url": "https://open.spotify.com/track/0H7udegVzTRxIYzPXoBvkI"
-    },
-    {
-      "added_at": "2024-10-25 09:15:45",
-      "album": {
-        "name": "Forest Floor",
-        "url": "https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi"
-      },
-      "artists": [
-        {
-          "name": "Fergus McCreadie",
-          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "Glade",
-      "url": "https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD"
     },
     {
       "added_at": "2024-10-25 09:15:45",
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-10-25 09:15:45",
       "album": {
-        "name": "Stan Getz In Stockholm",
-        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
+        "name": "On the Second Day",
+        "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "J\u00f8rgen Emborg",
+          "url": "https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS"
         }
       ],
-      "duration_ms": 317146,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
+      "duration_ms": 272794,
+      "name": "On The Second Day",
+      "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
     },
     {
       "added_at": "2024-10-25 09:15:45",
@@ -579,46 +579,18 @@
     {
       "added_at": "2024-10-25 09:15:45",
       "album": {
-        "name": "On the Second Day",
-        "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
+        "name": "Stan Getz In Stockholm",
+        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
       },
       "artists": [
         {
-          "name": "J\u00f8rgen Emborg",
-          "url": "https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 272794,
-      "name": "On The Second Day",
-      "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
-    },
-    {
-      "added_at": "2024-10-25 09:15:45",
-      "album": {
-        "name": "The Lion Turtle",
-        "url": "https://open.spotify.com/album/5ntyasxJzPodwnnZJ252Td"
-      },
-      "artists": [
-        {
-          "name": "Oded Tzur",
-          "url": "https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi"
-        },
-        {
-          "name": "Nitai Hershkovits",
-          "url": "https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN"
-        },
-        {
-          "name": "Petros Klampanis",
-          "url": "https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B"
-        },
-        {
-          "name": "Johnathan Blake",
-          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
-        }
-      ],
-      "duration_ms": 515253,
-      "name": "The Lion Turtle",
-      "url": "https://open.spotify.com/track/4RJVRVB6PkFnlJcaVsoMbE"
+      "duration_ms": 317146,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
     },
     {
       "added_at": "2024-10-25 09:15:45",
@@ -651,6 +623,34 @@
     {
       "added_at": "2024-10-25 09:15:45",
       "album": {
+        "name": "The Lion Turtle",
+        "url": "https://open.spotify.com/album/5ntyasxJzPodwnnZJ252Td"
+      },
+      "artists": [
+        {
+          "name": "Oded Tzur",
+          "url": "https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi"
+        },
+        {
+          "name": "Nitai Hershkovits",
+          "url": "https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN"
+        },
+        {
+          "name": "Petros Klampanis",
+          "url": "https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B"
+        },
+        {
+          "name": "Johnathan Blake",
+          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
+        }
+      ],
+      "duration_ms": 515253,
+      "name": "The Lion Turtle",
+      "url": "https://open.spotify.com/track/4RJVRVB6PkFnlJcaVsoMbE"
+    },
+    {
+      "added_at": "2024-10-25 09:15:45",
+      "album": {
         "name": "Jazz Lullaby",
         "url": "https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 189929,
       "name": "Frere Jacques",
       "url": "https://open.spotify.com/track/4SwwjgzWcTeCw1xT9VTP6D"
-    },
-    {
-      "added_at": "2024-10-25 09:15:45",
-      "album": {
-        "name": "Blue Hour",
-        "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
-      },
-      "artists": [
-        {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
-        }
-      ],
-      "duration_ms": 319706,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
     },
     {
       "added_at": "2024-10-25 09:15:45",
@@ -715,18 +699,18 @@
     {
       "added_at": "2024-10-25 09:15:45",
       "album": {
-        "name": "P\u00e5 nye eventyr",
-        "url": "https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6"
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
       },
       "artists": [
         {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
         }
       ],
-      "duration_ms": 322253,
-      "name": "P\u00e5 nye eventyr",
-      "url": "https://open.spotify.com/track/3PVMg33zbePrQvoUgXpnBq"
+      "duration_ms": 319706,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
     },
     {
       "added_at": "2024-10-25 09:15:45",
@@ -743,6 +727,22 @@
       "duration_ms": 341695,
       "name": "These Foolish Things",
       "url": "https://open.spotify.com/track/5HKgNwcH9JrDyBiJ6jCc49"
+    },
+    {
+      "added_at": "2024-10-25 09:15:45",
+      "album": {
+        "name": "P\u00e5 nye eventyr",
+        "url": "https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6"
+      },
+      "artists": [
+        {
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+        }
+      ],
+      "duration_ms": 322253,
+      "name": "P\u00e5 nye eventyr",
+      "url": "https://open.spotify.com/track/3PVMg33zbePrQvoUgXpnBq"
     },
     {
       "added_at": "2024-10-25 09:15:45",
@@ -819,6 +819,26 @@
     {
       "added_at": "2024-10-25 09:15:45",
       "album": {
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+        }
+      ],
+      "duration_ms": 280011,
+      "name": "Blues Arabesque",
+      "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
+    },
+    {
+      "added_at": "2024-10-25 09:15:45",
+      "album": {
         "name": "Our Songs",
         "url": "https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF"
       },
@@ -859,26 +879,6 @@
     {
       "added_at": "2024-10-25 09:15:45",
       "album": {
-        "name": "Going Up",
-        "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
-      },
-      "artists": [
-        {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Stephen Riley",
-          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
-        }
-      ],
-      "duration_ms": 280011,
-      "name": "Blues Arabesque",
-      "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
-    },
-    {
-      "added_at": "2024-10-25 09:15:45",
-      "album": {
         "name": "Colour Yes (Special Edition)",
         "url": "https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46"
       },
@@ -891,22 +891,6 @@
       "duration_ms": 521373,
       "name": "Colour Yes - Special Edition",
       "url": "https://open.spotify.com/track/4B46C7e9iptaLvlaKysH3A"
-    },
-    {
-      "added_at": "2024-10-25 09:15:45",
-      "album": {
-        "name": "Nothing Happens Here",
-        "url": "https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Nothing Happens Here",
-      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
     },
     {
       "added_at": "2024-10-25 09:15:45",
@@ -943,6 +927,22 @@
     {
       "added_at": "2024-10-25 09:15:45",
       "album": {
+        "name": "Nothing Happens Here",
+        "url": "https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 254560,
+      "name": "Nothing Happens Here",
+      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
+    },
+    {
+      "added_at": "2024-10-25 09:15:45",
+      "album": {
         "name": "In the Mountains",
         "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
       },
@@ -959,6 +959,26 @@
       "duration_ms": 496933,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
+    },
+    {
+      "added_at": "2024-10-25 09:15:45",
+      "album": {
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "Going Up",
+      "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
     },
     {
       "added_at": "2024-10-25 09:15:45",
@@ -999,26 +1019,6 @@
       "duration_ms": 331461,
       "name": "Mack the Knife",
       "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
-    },
-    {
-      "added_at": "2024-10-25 09:15:45",
-      "album": {
-        "name": "Going Up",
-        "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
-      },
-      "artists": [
-        {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Stephen Riley",
-          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "Going Up",
-      "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
     },
     {
       "added_at": "2024-10-25 09:15:45",
@@ -1119,6 +1119,30 @@
     {
       "added_at": "2024-10-25 09:15:45",
       "album": {
+        "name": "Going Home",
+        "url": "https://open.spotify.com/album/7auXfJEUlOjhquq5JAFaq8"
+      },
+      "artists": [
+        {
+          "name": "Arne Torvik Trio",
+          "url": "https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ"
+        },
+        {
+          "name": "Bj\u00f8rnar Kaldefoss Tveite",
+          "url": "https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66"
+        },
+        {
+          "name": "\u00d8ystein Aarnes Vik",
+          "url": "https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u"
+        }
+      ],
+      "duration_ms": 283266,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/10csxHiNeiIya5IRKop4Pa"
+    },
+    {
+      "added_at": "2024-10-25 09:15:45",
+      "album": {
         "name": "The Great Belonging",
         "url": "https://open.spotify.com/album/0IhSJ4CocuulbqMyhGIbIB"
       },
@@ -1143,30 +1167,6 @@
       "duration_ms": 371120,
       "name": "The Great Belonging",
       "url": "https://open.spotify.com/track/2b908yzXY8uzaD4gMDcc8G"
-    },
-    {
-      "added_at": "2024-10-25 09:15:45",
-      "album": {
-        "name": "Going Home",
-        "url": "https://open.spotify.com/album/7auXfJEUlOjhquq5JAFaq8"
-      },
-      "artists": [
-        {
-          "name": "Arne Torvik Trio",
-          "url": "https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ"
-        },
-        {
-          "name": "Bj\u00f8rnar Kaldefoss Tveite",
-          "url": "https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66"
-        },
-        {
-          "name": "\u00d8ystein Aarnes Vik",
-          "url": "https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u"
-        }
-      ],
-      "duration_ms": 283266,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/10csxHiNeiIya5IRKop4Pa"
     },
     {
       "added_at": "2024-10-25 09:15:45",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-10-25 09:15:45",
       "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
+      },
+      "artists": [
+        {
+          "name": "Carl Bagge",
+          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
+        }
+      ],
+      "duration_ms": 330213,
+      "name": "To Mr K.K.",
+      "url": "https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC"
+    },
+    {
+      "added_at": "2024-10-25 09:15:45",
+      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/2dKEg2AOgzHVpL3GMbShxb"
       },
@@ -1223,46 +1239,6 @@
       "duration_ms": 301783,
       "name": "June 2nd",
       "url": "https://open.spotify.com/track/6ljElurA01VdrVynPgZn4k"
-    },
-    {
-      "added_at": "2024-10-25 09:15:45",
-      "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
-      },
-      "artists": [
-        {
-          "name": "Carl Bagge",
-          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
-        }
-      ],
-      "duration_ms": 330213,
-      "name": "To Mr K.K.",
-      "url": "https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC"
-    },
-    {
-      "added_at": "2024-10-25 09:15:45",
-      "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Muthspiel",
-          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
-        },
-        {
-          "name": "Scott Colley",
-          "url": "https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs"
-        },
-        {
-          "name": "Brian Blade",
-          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
-        }
-      ],
-      "duration_ms": 422506,
-      "name": "Amelia",
-      "url": "https://open.spotify.com/track/7MfOcicIHjkkm1NPaQDx64"
     },
     {
       "added_at": "2024-10-25 09:15:45",
@@ -1299,6 +1275,30 @@
     {
       "added_at": "2024-10-25 09:15:45",
       "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Muthspiel",
+          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
+        },
+        {
+          "name": "Scott Colley",
+          "url": "https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        }
+      ],
+      "duration_ms": 422506,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/7MfOcicIHjkkm1NPaQDx64"
+    },
+    {
+      "added_at": "2024-10-25 09:15:45",
+      "album": {
         "name": "Uncle John's Band",
         "url": "https://open.spotify.com/album/1Plvo3OJgozxDluN4QKoTo"
       },
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-10-25 09:15:45",
       "album": {
-        "name": "The Rumor",
-        "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
-      },
-      "artists": [
-        {
-          "name": "Ron Miles",
-          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
-        }
-      ],
-      "duration_ms": 270613,
-      "name": "The Rumor",
-      "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
-    },
-    {
-      "added_at": "2024-10-25 09:15:45",
-      "album": {
         "name": "Have a Day",
         "url": "https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 383626,
       "name": "Have a Day",
       "url": "https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY"
+    },
+    {
+      "added_at": "2024-10-25 09:15:45",
+      "album": {
+        "name": "The Rumor",
+        "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
+      },
+      "artists": [
+        {
+          "name": "Ron Miles",
+          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
+        }
+      ],
+      "duration_ms": 270613,
+      "name": "The Rumor",
+      "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
     },
     {
       "added_at": "2024-10-25 09:15:45",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-10-25 09:15:45",
       "album": {
-        "name": "Bye Bye Blackbird (Live)",
-        "url": "https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE"
-      },
-      "artists": [
-        {
-          "name": "Jim Snidero",
-          "url": "https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv"
-        }
-      ],
-      "duration_ms": 422813,
-      "name": "Bye Bye Blackbird - Live",
-      "url": "https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1"
-    },
-    {
-      "added_at": "2024-10-25 09:15:45",
-      "album": {
         "name": "Pannonica",
         "url": "https://open.spotify.com/album/2yuuyMO0wzr2pbku1Wurd1"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 403285,
       "name": "Pannonica",
       "url": "https://open.spotify.com/track/1gyHEnqX09wctbRdqO6HUc"
+    },
+    {
+      "added_at": "2024-10-25 09:15:45",
+      "album": {
+        "name": "Bye Bye Blackbird (Live)",
+        "url": "https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE"
+      },
+      "artists": [
+        {
+          "name": "Jim Snidero",
+          "url": "https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv"
+        }
+      ],
+      "duration_ms": 422813,
+      "name": "Bye Bye Blackbird - Live",
+      "url": "https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1"
     },
     {
       "added_at": "2024-10-25 09:15:45",
@@ -1555,30 +1555,26 @@
     {
       "added_at": "2024-10-25 09:15:45",
       "album": {
-        "name": "Professor Nelson Strikes Again",
-        "url": "https://open.spotify.com/album/4DnzGUum1AtQ1RMeclFhma"
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG"
       },
       "artists": [
         {
-          "name": "The New York Second",
-          "url": "https://open.spotify.com/artist/5IvR1puiIiwZY0xh5VFWR9"
+          "name": "Robert Ke\u00dfler",
+          "url": "https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0"
         },
         {
-          "name": "Harald Walkate",
-          "url": "https://open.spotify.com/artist/1h6G6eVgBdJ88Mo6mMGrl2"
+          "name": "Andreas Henze",
+          "url": "https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39"
         },
         {
-          "name": "Max Sergeant",
-          "url": "https://open.spotify.com/artist/1Zg8kiLomzWw8H4vTsqFT2"
-        },
-        {
-          "name": "Lorenzo Buffa",
-          "url": "https://open.spotify.com/artist/0wK2uFLKljFvDacip7lXbB"
+          "name": "Tobias Backhaus",
+          "url": "https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg"
         }
       ],
-      "duration_ms": 251863,
-      "name": "Professor Nelson Strikes Again - Single Version",
-      "url": "https://open.spotify.com/track/6SwWNBBqNylPPRUFNy1W5k"
+      "duration_ms": 359982,
+      "name": "Theo",
+      "url": "https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD"
     },
     {
       "added_at": "2024-10-25 09:15:45",
@@ -1615,26 +1611,30 @@
     {
       "added_at": "2024-10-25 09:15:45",
       "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG"
+        "name": "Professor Nelson Strikes Again",
+        "url": "https://open.spotify.com/album/4DnzGUum1AtQ1RMeclFhma"
       },
       "artists": [
         {
-          "name": "Robert Ke\u00dfler",
-          "url": "https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0"
+          "name": "The New York Second",
+          "url": "https://open.spotify.com/artist/5IvR1puiIiwZY0xh5VFWR9"
         },
         {
-          "name": "Andreas Henze",
-          "url": "https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39"
+          "name": "Harald Walkate",
+          "url": "https://open.spotify.com/artist/1h6G6eVgBdJ88Mo6mMGrl2"
         },
         {
-          "name": "Tobias Backhaus",
-          "url": "https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg"
+          "name": "Max Sergeant",
+          "url": "https://open.spotify.com/artist/1Zg8kiLomzWw8H4vTsqFT2"
+        },
+        {
+          "name": "Lorenzo Buffa",
+          "url": "https://open.spotify.com/artist/0wK2uFLKljFvDacip7lXbB"
         }
       ],
-      "duration_ms": 359982,
-      "name": "Theo",
-      "url": "https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD"
+      "duration_ms": 251863,
+      "name": "Professor Nelson Strikes Again - Single Version",
+      "url": "https://open.spotify.com/track/6SwWNBBqNylPPRUFNy1W5k"
     },
     {
       "added_at": "2024-10-25 09:15:45",

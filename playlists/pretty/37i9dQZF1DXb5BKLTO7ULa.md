@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: RONDÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,259 likes - 98 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,262 likes - 98 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

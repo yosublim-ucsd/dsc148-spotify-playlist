@@ -1664,7 +1664,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 86762,
       "name": "Mehaboob Theme",
       "url": "https://open.spotify.com/track/5O6DBwk3vHjPLfYMGjcuF6"
@@ -2096,6 +2096,24 @@
       "duration_ms": 263440,
       "name": "Private Party",
       "url": "https://open.spotify.com/track/55lcV76gPJUqAnHj3Z9xRd"
+    },
+    {
+      "album": {
+        "name": "Proposal (From \"Love Reddy\")",
+        "url": "https://open.spotify.com/album/6x0UthIyzcRRTGhZKEx5J0"
+      },
+      "artists": [
+        {
+          "name": "Prince Henry",
+          "url": "https://open.spotify.com/artist/3vJDvKa5cfjEH2vFEhj4EY"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47000,
+      "name": "Proposal (From \"Love Reddy\")",
+      "url": "https://open.spotify.com/track/27yelBarlAKbDh28Yn3JRf"
     },
     {
       "album": {

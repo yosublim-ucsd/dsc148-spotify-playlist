@@ -1285,6 +1285,32 @@
     },
     {
       "album": {
+        "name": "Aguas da Amazonia: Negro River",
+        "url": "https://open.spotify.com/album/0axFeQPLNfBW2hSE57PKKK"
+      },
+      "artists": [
+        {
+          "name": "Third Coast Percussion",
+          "url": "https://open.spotify.com/artist/7aQZO27ByZmD9uWUgA1lJA"
+        },
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Constance Volk",
+          "url": "https://open.spotify.com/artist/7GDIzLPD6Fo9JJNWcWcRzY"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171026,
+      "name": "Aguas da Amazonia: Negro River",
+      "url": "https://open.spotify.com/track/2fNiWwBYCqIef8NDVcJB8x"
+    },
+    {
+      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn"
       },
@@ -1772,7 +1798,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 154983,
       "name": "American Idiot (Alt. Version) - Demo",
       "url": "https://open.spotify.com/track/3tSGHoEd3CKJ9E5OtHKFZ1"
@@ -2822,7 +2848,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 154261,
       "name": "Balloon (feat. Doechii)",
       "url": "https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ"
@@ -7494,7 +7520,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 320826,
       "name": "Decay",
       "url": "https://open.spotify.com/track/0ITNLAeEu0F0aZWTnFaTxd"
@@ -9954,7 +9980,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 195427,
       "name": "EAST TO THE WEST",
       "url": "https://open.spotify.com/track/5wlV1N4hOZbK8OPCjJdEQA"
@@ -11340,7 +11366,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 202200,
       "name": "Feeling So Real 2024",
       "url": "https://open.spotify.com/track/4bzrhnr9taRlRvKgoPEl4p"
@@ -12364,7 +12390,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 146957,
       "name": "Frankenstein",
       "url": "https://open.spotify.com/track/0PL8Noq0tGCl4NJPjwSvTR"
@@ -14344,7 +14370,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 176034,
       "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB"
@@ -15444,7 +15470,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 160007,
       "name": "Hey Rudy (with The Roots)",
       "url": "https://open.spotify.com/track/04IzM8tyRnsjN6Em9LNBpR"
@@ -16054,7 +16080,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "How to Impress God",
       "url": "https://open.spotify.com/track/1o5j4OuuHUVMTG0sv35Lsa"
@@ -19040,7 +19066,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 241818,
       "name": "King Illusion",
       "url": "https://open.spotify.com/track/6Ia6oCCkZneqsbQFh5eH2P"
@@ -19504,7 +19530,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 384827,
       "name": "La Llorona - Live",
       "url": "https://open.spotify.com/track/0yrzo7DTvSa21L2rGyafdT"
@@ -20028,7 +20054,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 172338,
       "name": "Let Me Cook",
       "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
@@ -23286,7 +23312,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 180236,
       "name": "Move (feat. Camila Cabello)",
       "url": "https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG"
@@ -23864,7 +23890,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 740098,
       "name": "My Funny Valentine - Live at Paris, Salle Pleyel, France - October 1, 1964 [2nd Concert]",
       "url": "https://open.spotify.com/track/7C5x1Us4oj2LUjzXvLSyyT"
@@ -31555,6 +31581,32 @@
     },
     {
       "album": {
+        "name": "Smoke Stain's, Pt.2",
+        "url": "https://open.spotify.com/album/5mEef2rDgo4KgK1X4XzbF3"
+      },
+      "artists": [
+        {
+          "name": "Btraylz 1",
+          "url": "https://open.spotify.com/artist/5Els9hsNniscXRFOm8BeNQ"
+        },
+        {
+          "name": "Acizm",
+          "url": "https://open.spotify.com/artist/2oaXu53IpHpQ9yQ47zBAQc"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194783,
+      "name": "Smoke Stain's, Pt.2",
+      "url": "https://open.spotify.com/track/1ezZkIEV8P5tjNtOXPKlSN"
+    },
+    {
+      "album": {
         "name": "Smokeface",
         "url": "https://open.spotify.com/album/2H6KIqys3QM5XOrM3en5Vi"
       },
@@ -32494,7 +32546,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 197019,
       "name": "St. Chroma (feat. Daniel Caesar)",
       "url": "https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4"
@@ -32940,7 +32992,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 255915,
       "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
@@ -34216,7 +34268,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 253909,
       "name": "Take Your Mask Off (feat. Daniel Caesar & LaToiya Williams)",
       "url": "https://open.spotify.com/track/4BSR9I4ExlCJdXJo2GpBD5"
@@ -36386,7 +36438,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 191445,
       "name": "The Workload",
       "url": "https://open.spotify.com/track/6IrG5DFdKKotGMbkg4Qoow"
@@ -36448,7 +36500,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 160842,
       "name": "Thick Of It (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/6wrpz2MLTN97nYn4hwDhFo"
@@ -36668,7 +36720,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 207272,
       "name": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
       "url": "https://open.spotify.com/track/2aYHxnMF2umAavtgBvmkY1"
@@ -36896,7 +36948,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 431950,
       "name": "TO KINDA LOUNGE AROUND",
       "url": "https://open.spotify.com/track/7nyhRSu4PFOJJtQ9ZXILB8"

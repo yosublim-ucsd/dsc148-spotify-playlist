@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 
 > This is Chris Stapleton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,226 likes - 48 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,319 likes - 48 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 11 | [I Was Wrong](https://open.spotify.com/track/7dUdMZqfGSIt0ZkmTOgRLA) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 3:11 |
 | 12 | [Traveller](https://open.spotify.com/track/178OI1A3qjROeFeh8lmNwW) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:42 |
 | 13 | [Scarecrow In The Garden](https://open.spotify.com/track/2heBToLEB7odACQ3xwb32A) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:20 |
-| 14 | [Only Thing That’s Gone \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0CfPMZ1DSdzglsMRpLDM2H) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:16 |
-| 15 | [Devil Always Made Me Think Twice](https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:51 |
+| 14 | [Devil Always Made Me Think Twice](https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:51 |
+| 15 | [Only Thing That’s Gone \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0CfPMZ1DSdzglsMRpLDM2H) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:16 |
 | 16 | [Fire Away](https://open.spotify.com/track/5j4hSQH0KaAc8f6cimnXIT) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:04 |
 | 17 | [What Are You Listening To?](https://open.spotify.com/track/3KZw9g7PNBBx66sHNqme6Z) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [What Are You Listening To?](https://open.spotify.com/album/7DQVMB8uAJyLF7lyvY7j1n) | 4:05 |
 | 18 | [ghost in my guitar \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:20 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 47 | [Joy](https://open.spotify.com/track/1VGeBBGNjnscSsWToLV8cJ) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Blessings and Miracles](https://open.spotify.com/album/5BsYeVFVdAihPY4srh9Ac7) | 3:46 |
 | 48 | [Amanda \(feat\. Morgane Stapleton\)](https://open.spotify.com/track/31N3agcx1BKlLkYBXAx1Ax) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Morgane Stapleton](https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX) | [Gentle Giants: The Songs of Don Williams](https://open.spotify.com/album/4Fa6HWiSqDPsa7E27BOUdt) | 3:02 |
 
-Snapshot ID: `ZyVrgAAAAABf8vOOiUQW+b3tawBt57R9`
+Snapshot ID: `Zya9AAAAAABZd9s4xcTt8Xpvk2vFSyaa`

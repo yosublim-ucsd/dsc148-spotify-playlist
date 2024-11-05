@@ -1,6 +1,6 @@
 {
   "description": "Ritmo latino!",
-  "num_followers": 354652,
+  "num_followers": 354920,
   "original_name": "Workout Latino",
   "owner": {
     "name": "Spotify",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-10-31 23:01:00",
       "album": {
+        "name": "DURO",
+        "url": "https://open.spotify.com/album/235ZKHV3Tg09Cj4vtYnZm8"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 162204,
+      "name": "DURO",
+      "url": "https://open.spotify.com/track/1kyLInQ2qgYbK4wZxllfV2"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
         "name": "Primera Cita",
         "url": "https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld"
       },
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2024-10-31 23:01:00",
       "album": {
-        "name": "IMAN (Two Of Us)",
-        "url": "https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 122405,
-      "name": "IMAN (Two Of Us)",
-      "url": "https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH"
-    },
-    {
-      "added_at": "2024-10-31 23:01:00",
-      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-10-31 23:01:00",
       "album": {
+        "name": "IMAN (Two Of Us)",
+        "url": "https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 122405,
+      "name": "IMAN (Two Of Us)",
+      "url": "https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
         "name": "M\u00e1s Negro Que Rojo",
         "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 186133,
       "name": "Hecha Pa' Mi",
       "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
-    },
-    {
-      "added_at": "2024-10-31 23:01:00",
-      "album": {
-        "name": "DURO",
-        "url": "https://open.spotify.com/album/235ZKHV3Tg09Cj4vtYnZm8"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 162204,
-      "name": "DURO",
-      "url": "https://open.spotify.com/track/1kyLInQ2qgYbK4wZxllfV2"
     },
     {
       "added_at": "2024-10-31 23:01:00",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2024-10-31 23:01:00",
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0"
-      },
-      "artists": [
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Cinco Estrellas",
-      "url": "https://open.spotify.com/track/0bZ5NMULGjx65BhgXTfA33"
-    },
-    {
-      "added_at": "2024-10-31 23:01:00",
-      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 233453,
       "name": "Medallo",
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Cinco Estrellas",
+      "url": "https://open.spotify.com/track/0bZ5NMULGjx65BhgXTfA33"
     },
     {
       "added_at": "2024-10-31 23:01:00",

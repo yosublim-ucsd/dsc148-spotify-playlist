@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,065,174 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,065,164 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,18 +83,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 73 | [Lucky](https://open.spotify.com/track/4W6s22YsPYXdKpvf5yF6BG) | [Atta Boy](https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2) | [Big Heart Manners](https://open.spotify.com/album/1obci0e4UHEokoLkZzlQqI) | 3:41 |
 | 74 | [Here Comes The Comeback](https://open.spotify.com/track/42X7jGOwOJIW1cEFLvaytf) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Here Comes The Comeback](https://open.spotify.com/album/7An2n1nwYUoH8JpmQMEjB7) | 2:42 |
 | 75 | [Down \(Exit Song\)](https://open.spotify.com/track/4mw2XX72WZ43X7QcrrlIf9) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Down \(Exit Song\)](https://open.spotify.com/album/78SFR8C0xd8wt4vDuhxmqK) | 3:07 |
-| 76 | [Carolina Rolling By](https://open.spotify.com/track/3KPbfMIQy43Wc9XbhmaIFy) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Carolina Rolling By](https://open.spotify.com/album/09vc762pu9mS1mnKBIK9Sj) | 4:55 |
-| 77 | [Parking Lot](https://open.spotify.com/track/632xyZbSBdyc5tJ9gOYFdE) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq) | [Parking Lot](https://open.spotify.com/album/6wGepQvwSctX1zib7kpUdH) | 3:52 |
+| 76 | [Parking Lot](https://open.spotify.com/track/632xyZbSBdyc5tJ9gOYFdE) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq) | [Parking Lot](https://open.spotify.com/album/6wGepQvwSctX1zib7kpUdH) | 3:52 |
+| 77 | [Carolina Rolling By](https://open.spotify.com/track/3KPbfMIQy43Wc9XbhmaIFy) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Carolina Rolling By](https://open.spotify.com/album/09vc762pu9mS1mnKBIK9Sj) | 4:55 |
 | 78 | [How Bad I Wanna Live](https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Violet Light](https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC) | 2:53 |
 | 79 | [Lie to Me](https://open.spotify.com/track/76MCLNEw1AbrDjlprsoFkP) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Lie to Me](https://open.spotify.com/album/4FfQqWJbo7vCoC3oxz3k7E) | 3:25 |
-| 80 | [House Parties](https://open.spotify.com/track/24Zi5CRVX19Wi494VttArT) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [House Parties](https://open.spotify.com/album/03iw3EgMQIBS8kNH5hukrZ) | 3:54 |
-| 81 | [When I Say That I Love You](https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD) | [Gabe Goodman](https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF) | [When I Say That I Love You](https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784) | 2:57 |
+| 80 | [When I Say That I Love You](https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD) | [Gabe Goodman](https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF) | [When I Say That I Love You](https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784) | 2:57 |
+| 81 | [Whiskey Whiskey](https://open.spotify.com/track/12oNWDCd6iK6NIsCZFg3B0) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Whiskey Whiskey](https://open.spotify.com/album/37vW9MedFrxDPmdQlKz5dB) | 2:49 |
 | 82 | [The Voyager](https://open.spotify.com/track/2jOBv78VYIGrvvmmSTTdkl) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [The Voyager](https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB) | 3:30 |
-| 83 | [Whiskey Whiskey](https://open.spotify.com/track/12oNWDCd6iK6NIsCZFg3B0) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Whiskey Whiskey](https://open.spotify.com/album/37vW9MedFrxDPmdQlKz5dB) | 2:49 |
+| 83 | [House Parties](https://open.spotify.com/track/24Zi5CRVX19Wi494VttArT) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [House Parties](https://open.spotify.com/album/03iw3EgMQIBS8kNH5hukrZ) | 3:54 |
 | 84 | [America](https://open.spotify.com/track/1inPvlZzUNG4hqYxLLEF0W) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H), [Molly Sarlé](https://open.spotify.com/artist/4XLoKwIIoARkhaKuZocq5d), [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [America](https://open.spotify.com/album/7m8l1V5XSWHN7QF6cDDYby) | 4:11 |
 | 85 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 |
-| 86 | [Burden](https://open.spotify.com/track/7HOTm58hiTnCjpSJq4OvJs) | [St\. Catherine's Child](https://open.spotify.com/artist/3szGfag8AiviPVbSmXewBK) | [Burden](https://open.spotify.com/album/6F0IlXWoKvO6YOS1v7PIhF) | 3:41 |
-| 87 | [Dreamers](https://open.spotify.com/track/74892qRbe5YeOnlPAYZzoG) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Dreamers](https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA) | 3:27 |
+| 86 | [Dreamers](https://open.spotify.com/track/74892qRbe5YeOnlPAYZzoG) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Dreamers](https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA) | 3:27 |
+| 87 | [Burden](https://open.spotify.com/track/7HOTm58hiTnCjpSJq4OvJs) | [St\. Catherine's Child](https://open.spotify.com/artist/3szGfag8AiviPVbSmXewBK) | [Burden](https://open.spotify.com/album/6F0IlXWoKvO6YOS1v7PIhF) | 3:41 |
 | 88 | [Out for Blood](https://open.spotify.com/track/7739yFrjY8ZOg3619Y07yH) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Slow Lightning \(Deluxe\)](https://open.spotify.com/album/7Mz65cNLCpxl7qzFIxfCVA) | 3:54 |
 | 89 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
 | 90 | [Come Back to Me](https://open.spotify.com/track/794cBkkuwcRJ6tDq35dhgC) | [Virginia Man](https://open.spotify.com/artist/2SHS7BBj7Rv0UjsWwlkFEt) | [These Four Words](https://open.spotify.com/album/6spUqdLQA7jkRInsc7MxFb) | 2:06 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 96 | [Could’ve Been](https://open.spotify.com/track/2bmYuAIAGJEgLwwIHtusHR) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Ellen](https://open.spotify.com/album/6BATuu8z9yFBk41UeHe9E0) | 3:25 |
 | 97 | [Maybe Tomorrow](https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Maybe Tomorrow](https://open.spotify.com/album/5UfmWpaxxhLd6f0ZdKnHaT) | 3:45 |
 | 98 | [What Have We Got to Lose](https://open.spotify.com/track/2sCDzRlkLoeYpZX00i6iiq) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [What Have We Got to Lose](https://open.spotify.com/album/5TeiUeXr6EdjZL9F08QPJf) | 2:49 |
-| 99 | [Road Trip](https://open.spotify.com/track/7yXjeZ4Iw5R78hLXkRs3ku) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [Garden Snake](https://open.spotify.com/album/5ndQYno2ocWkZFdbsnNcmD) | 3:05 |
-| 100 | [The Good Life](https://open.spotify.com/track/6fAJL7dFFaAlRgrmXKvctr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Slow Lightning](https://open.spotify.com/album/44YK1hIbqIgm50o6zPZAhB) | 3:58 |
+| 99 | [The Good Life](https://open.spotify.com/track/6fAJL7dFFaAlRgrmXKvctr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Slow Lightning](https://open.spotify.com/album/44YK1hIbqIgm50o6zPZAhB) | 3:58 |
+| 100 | [Six Years](https://open.spotify.com/track/6utnpta3hVCU9McSCyxJps) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [Six Years](https://open.spotify.com/album/09h1Ua90MNSAay3tru8GkS) | 4:42 |
 
 Snapshot ID: `ZwX/wAAAAACB6GAL9Lsy/CofN3o2hSi1`

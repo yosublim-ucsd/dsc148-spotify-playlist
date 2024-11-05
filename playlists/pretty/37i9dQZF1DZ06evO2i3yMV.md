@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,217 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,217 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 10 | [Darkest \(Dim\)](https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 5:09 |
 | 11 | [Floating \- feat\. Candy Crush Saga](https://open.spotify.com/track/3gMCxYKNYbb1S9U1EoerCV) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Floating \(feat\. Candy Crush Saga\)](https://open.spotify.com/album/00FbxiKiTvjcauRoUnRo5t) | 2:53 |
 | 12 | [Smoke & Mirrors](https://open.spotify.com/track/5mwfkFzjO16jnWY5A8oqvz) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Cosmic Intoxication](https://open.spotify.com/album/3DQ3JWmMfSaSr7ebt3ML8o) | 3:38 |
-| 13 | [Corazón / Death by Disco Pt 2](https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Corazón / Death by Disco Pt 2](https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q) | 3:01 |
-| 14 | [Phases \- bad tuner Remix](https://open.spotify.com/track/1zk4lGFlhhWbwkE4vvXeYn) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Oasis Nocturno \(Remixed\)](https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH) | 3:25 |
+| 13 | [Phases \- bad tuner Remix](https://open.spotify.com/track/1zk4lGFlhhWbwkE4vvXeYn) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Oasis Nocturno \(Remixed\)](https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH) | 3:25 |
+| 14 | [Corazón / Death by Disco Pt 2](https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Corazón / Death by Disco Pt 2](https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q) | 3:01 |
 | 15 | [Get Me Some](https://open.spotify.com/track/02uIosVt2J6YyX5OWVLPKG) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:32 |
 | 16 | [Naked](https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Naked](https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy) | 3:38 |
 | 17 | [Switch It](https://open.spotify.com/track/2bZRE5rSZL2aMZh86oaMuI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Switch It](https://open.spotify.com/album/4und1ixZx8BGcsyvk2kniU) | 3:04 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 43 | [Surrender](https://open.spotify.com/track/2i2FA9KzL0fKg5IuVePGhX) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [You're Invited](https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo) | 3:40 |
 | 44 | [Come and Go \- Halogenix Remix](https://open.spotify.com/track/20vmuTwxzhupT4hQhAtdtL) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Oasis Nocturno \(Remixed\)](https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH) | 4:08 |
 | 45 | [House of Dal](https://open.spotify.com/track/0QppVcTeM2ZQlxKbHhs3pf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 4:26 |
-| 46 | [Say Tell Me](https://open.spotify.com/track/31ojb5Lqb88oqAr4bR7dQd) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Say Tell Me](https://open.spotify.com/album/1OvNqF9M9XKSpVEL8THanQ) | 4:01 |
-| 47 | [Sa Mo Jung](https://open.spotify.com/track/0hzDTl4D0iK3VUqcQ2rBIB) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi) | 3:06 |
+| 46 | [Sa Mo Jung](https://open.spotify.com/track/0hzDTl4D0iK3VUqcQ2rBIB) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi) | 3:06 |
+| 47 | [Say Tell Me](https://open.spotify.com/track/31ojb5Lqb88oqAr4bR7dQd) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Say Tell Me](https://open.spotify.com/album/1OvNqF9M9XKSpVEL8THanQ) | 4:01 |
 | 48 | [2nd Boom](https://open.spotify.com/track/1ezQ8Q9pYUXaJ5lAFtoWw7) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 1:33 |
 | 49 | [Renter's Anthem](https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:58 |
-| 50 | [Day Job](https://open.spotify.com/track/15Mo2tdzulBWzaG6Yv37Tq) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 4:35 |
+| 50 | [We Love \- Felix Cartal Remix](https://open.spotify.com/track/2yie05svrhg545Jg8b7rte) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Lune Rouge \(Remixed\)](https://open.spotify.com/album/5N6srwSnMVnUr2CGTbEByX) | 3:10 |
 
-Snapshot ID: `ZyVrgAAAAACyP1lKmXV+97oFWiaaFHK7`
+Snapshot ID: `Zya9AAAAAAB0IY8VvPcwQcqFJoLp5o0U`

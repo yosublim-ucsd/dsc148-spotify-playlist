@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Podcasts que voc\u00ea precisa ter no RADAR. Capa: <a href=\"spotify:show:4b5P4Tq5loWnl139Uw853q\">POGRAMA</a>",
-  "name": "RADAR Podcasters Brasil",
+  "description": "Creators que voc\u00ea precisa ter no RADAR. Capa: <a href=\"spotify:show:0jChaPqRQFGVIjnwTqeZiD\">T\u00e1 com Tempo?</a>",
+  "name": "RADAR Creators Brasil",
   "tracks": [
+    {
+      "album": {
+        "name": "\"T\u00e1 com Tempo?\" - Elisama Santos",
+        "url": "https://open.spotify.com/album/0jChaPqRQFGVIjnwTqeZiD"
+      },
+      "artists": [
+        {
+          "name": "\"T\u00e1 com Tempo?\" - Elisama Santos",
+          "url": "https://open.spotify.com/show/0jChaPqRQFGVIjnwTqeZiD"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3098154,
+      "name": "#05 - Como lidar com as expectativas dos nossos pais? - Elisama responde e-mails de ouvintes.",
+      "url": "https://open.spotify.com/episode/6jTSyQDFj0utu82inF7YFy"
+    },
     {
       "album": {
         "name": "Muito al\u00e9m da Checklist",

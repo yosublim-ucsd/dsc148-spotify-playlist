@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: HVDES \\m/
 
-462 songs - 1 day 2 hr 8 min
+463 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Heaven](https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Heaven](https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul) | 4:12 | 2024-02-16 |  |
 | [Here and Now](https://open.spotify.com/track/2f6x7QwXjRkCtKlY6eTsdu) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Hot Laundry](https://open.spotify.com/artist/0WzKbQgJdy366oUDAToP2x), [Jacob Lauing](https://open.spotify.com/artist/0pg6TFVif7XPHoCxF35ngj) | [Here and Now](https://open.spotify.com/album/2j446mPzcNYRgMqFZ3Kzsp) | 3:25 | 2022-08-05 | 2023-02-28 |
 | [Hero](https://open.spotify.com/track/0gU1afVwFWTspbHNot3yLa) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Hero](https://open.spotify.com/album/5All8BvGGdApHlpnuELjmP) | 3:18 | 2023-06-30 | 2024-06-29 |
+| [Hero Pt\. II](https://open.spotify.com/track/0GRt0Q1Oh1IreuOP8ntVpl) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Hero Pt\. II](https://open.spotify.com/album/2JoxWM8Q9WJMdQRnYtvK78) | 3:35 | 2024-11-04 |  |
 | [High](https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 2:55 | 2022-06-24 | 2022-11-12 |
 | [High](https://open.spotify.com/track/0Dtv5iaqPWtftabQfjBvxh) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t) | 2:55 | 2022-06-24 | 2022-08-17 |
 | [High](https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [High](https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP) | 2:55 | 2022-01-28 | 2022-07-29 |
@@ -214,7 +215,7 @@
 | [i don’t wanna write sad songs anymore](https://open.spotify.com/track/1mDAyIXR1GlQRsSr0c2YQ4) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [whyislavndr](https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E) | [create together vol\. 3](https://open.spotify.com/album/4G599lsqp9XBStqTtloBg2) | 4:01 | 2022-07-01 | 2022-09-29 |
 | [i don’t wanna write sad songs anymore](https://open.spotify.com/track/5lrOg4024hpqo39lVsr2nM) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [whyislavndr](https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E) | [i don’t wanna write sad songs anymore \(Acoustic\)](https://open.spotify.com/album/3GLUq3a8bnqClIZl32Q7dS) | 4:01 | 2023-04-28 | 2023-08-13 |
 | [I Wish I Could Forget You](https://open.spotify.com/track/37ezXYMDox6zjvU5HNhdF6) | [Cabuizee](https://open.spotify.com/artist/60v1WXUYLa0WGarCGy7hF4), [Raddix](https://open.spotify.com/artist/2ECb9wVfWlrUdjGlpk1P2H) | [I Wish I Could Forget You](https://open.spotify.com/album/1KpagOX50yv8bE0XvcZNUq) | 3:16 | 2023-11-24 | 2023-12-23 |
-| [i'm FINE](https://open.spotify.com/track/3RYE5stoVTlYmqjVrKFoJ8) | [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [i'm FINE](https://open.spotify.com/album/6KayznQ5nE5s454TAffoMX) | 2:43 | 2024-05-10 |  |
+| [i'm FINE](https://open.spotify.com/track/3RYE5stoVTlYmqjVrKFoJ8) | [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [i'm FINE](https://open.spotify.com/album/6KayznQ5nE5s454TAffoMX) | 2:43 | 2024-05-10 | 2024-11-05 |
 | [I'm Just A Monster Underneath, My Darling](https://open.spotify.com/track/5CkicabyzDs7F7Froa503f) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [I'm Just A Monster Underneath, My Darling](https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU) | 4:10 | 2022-01-28 | 2023-07-09 |
 | [I'm Losing Myself](https://open.spotify.com/track/1iPBZhlxcsMnkdXBiAs1VS) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3) | [Prock House](https://open.spotify.com/album/6WmVszxhoZlftm89rz5FFq) | 2:47 | 2021-12-10 | 2022-04-21 |
 | [Immortal](https://open.spotify.com/track/4CtHOVGGI0CXmow1DnhaVL) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Immortal](https://open.spotify.com/album/31sFjiahDnYKKsPdDcqCSv) | 4:08 | 2023-01-30 | 2023-09-09 |

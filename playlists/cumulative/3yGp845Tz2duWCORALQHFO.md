@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-1,333 songs - 3 day 0 hr 28 min
+1,335 songs - 3 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Don't U](https://open.spotify.com/track/0KQu9kRMEGdPnJxj8XNMbq) | [Steering Will](https://open.spotify.com/artist/4mzymqidYbaWR93Chsm8Xy) | [Don't U](https://open.spotify.com/album/5vXTiDIKO6sRtyBLyQmv5C) | 4:58 | 2024-07-25 | 2024-08-02 |
 | [Don’t Keep Me Waiting \(feat\. Mila Falls\)](https://open.spotify.com/track/0iRxPHydedV81XOsc3JWu7) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Don’t Keep Me Waiting \(feat\. Mila Falls\)](https://open.spotify.com/album/2Zm55SQeHeeK2fK9UBJlrE) | 2:38 | 2024-07-05 | 2024-07-12 |
 | [Down The Rabbit Hole](https://open.spotify.com/track/4w6e2YfQXS2oRfsO43YY3o) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Down The Rabbit Hole](https://open.spotify.com/album/1SiUlsquYJZ3MmuMppvXEU) | 3:15 | 2024-08-08 | 2024-08-16 |
+| [Downtown](https://open.spotify.com/track/5ZrakcfcNoQKRcpmr3oSkc) | [EL MO](https://open.spotify.com/artist/53f0uBVhxoPxSJtlCMGWuH) | [Downtown](https://open.spotify.com/album/1baMkJktPTWqATxqmQanT4) | 2:35 | 2024-11-04 |  |
 | [Drama](https://open.spotify.com/track/2wQbkV33bR844vBns2L9nr) | [The M](https://open.spotify.com/artist/5meu2FI3cmtZ8XXAeJT7q7) | [Drama](https://open.spotify.com/album/6zdTNAAWnrxS7DPn7j2Okx) | 2:52 | 2024-07-26 | 2024-08-02 |
 | [Dream Come True \- Edit](https://open.spotify.com/track/4MxQEwaxUs6nY7ivDH7uS4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Dream Come True](https://open.spotify.com/album/1x77uCRznNDhRD1OLil1pt) | 2:34 | 2024-09-05 | 2024-09-13 |
 | [Drifting \(KREAM Remix\)](https://open.spotify.com/track/1EUTDw9E70ewmIi5pDCu4b) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Drifting \(Remixes\)](https://open.spotify.com/album/2rCBDFnr6sMOrei4zh2kvS) | 3:00 | 2024-08-23 | 2024-08-31 |
@@ -669,6 +670,7 @@
 | [Let It Out](https://open.spotify.com/track/66MmXN5uJDfde13YSOXErn) | [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [Camilia](https://open.spotify.com/artist/58jQ9ySMbgsPyB4VkDjGrQ) | [Let It Out](https://open.spotify.com/album/1ecuth1VASzvanfYE9Km5P) | 2:34 | 2024-06-28 | 2024-07-06 |
 | [Let Loose](https://open.spotify.com/track/4AC3RWE2VaO5FMZyz2qqnb) | [Jay Bird](https://open.spotify.com/artist/2TrjvaUmQgHOhqzOiIPPLD), [Nico Crespo](https://open.spotify.com/artist/7zfiCy3mxE1X3WsHJoQxDd) | [Let Loose](https://open.spotify.com/album/5XMkobHJmq722HrSbA9UQ7) | 3:02 | 2024-05-24 | 2024-06-08 |
 | [Let Me Go](https://open.spotify.com/track/0YZjrWzJMCWl310yhzYMYD) | [Daniel Wanrooy](https://open.spotify.com/artist/2eWC3Ckg8BA2MDV2NoHBWd), [Rafael Osmo](https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5) | [Let Me Go](https://open.spotify.com/album/4gttr7xXh34B9q4Q3RFNh2) | 2:57 | 2024-07-25 | 2024-08-02 |
+| [Let Me Go](https://open.spotify.com/track/1HacAMT0gWQWqytCIHsCEZ) | [White Whale](https://open.spotify.com/artist/7iJ8iFAOikb11EdAAP4H5B) | [Let Me Go](https://open.spotify.com/album/1jlXyBiS1igy6FKg6GCdci) | 3:05 | 2024-11-04 |  |
 | [Let Me Show You](https://open.spotify.com/track/2a7EPJ2PxMr2S4gRmKFmCR) | [Camisra](https://open.spotify.com/artist/1aHPNBPSjYv4vHc2pU37Xf), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Let Me Show You](https://open.spotify.com/album/3roc1FTj57pjPGUPzvO8Gy) | 2:47 | 2024-08-23 | 2024-08-31 |
 | [Let You Go](https://open.spotify.com/track/4LJN5ZRLNbU9R6MINd947R) | [DJ ALEX ALIDAD](https://open.spotify.com/artist/1auKza5PpAvjKT29nwVQYO) | [Let You Go](https://open.spotify.com/album/7FoI7XleumN6XGrSNPdK1s) | 2:56 | 2024-09-12 | 2024-09-27 |
 | [Let Your Spirit Fly](https://open.spotify.com/track/38GTyO4wWpc3EO5O7h48lT) | [Sunlounger](https://open.spotify.com/artist/39xJyKl2iYCAQywsUk4aWg), [Ambedo](https://open.spotify.com/artist/58TFIrb4R2yFMkiGv5b5HV), [Ambedoverse](https://open.spotify.com/artist/6kROPcICNOAoOgkXcvoCx7) | [Let Your Spirit Fly](https://open.spotify.com/album/1q4XRTSbys5MfvKpe5Pm78) | 3:46 | 2024-10-21 | 2024-10-26 |

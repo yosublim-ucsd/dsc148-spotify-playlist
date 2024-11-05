@@ -1,12 +1,12 @@
 {
-  "description": "This is \u85cd\u4e95\u30a8\u30a4\u30eb. The essential tracks, all in one playlist.",
-  "num_followers": 21395,
-  "original_name": "This Is \u85cd\u4e95\u30a8\u30a4\u30eb",
+  "description": "This is Eir Aoi. The essential tracks, all in one playlist.",
+  "num_followers": 21393,
+  "original_name": "This Is Eir Aoi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAADFrb00bd+gG/FvB8xdWcPw",
+  "snapshot_id": "Zya9AAAAAACKDbGUZnZ2XSFtfChckuym",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u9f13\u52d5",
-        "url": "https://open.spotify.com/album/3ScfmGFBtfyu9Gsj3yWDU3"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 243133,
-      "name": "\u9f13\u52d5",
-      "url": "https://open.spotify.com/track/6QDyiZyiQjRL02PIiJo2bq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PHOENIX PRAYER",
         "url": "https://open.spotify.com/album/3sF10xHFVzOntlAtqkuB3Q"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 252775,
       "name": "PHOENIX PRAYER",
       "url": "https://open.spotify.com/track/034PmlTJzGmjITEBl80ya8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u9f13\u52d5",
+        "url": "https://open.spotify.com/album/3ScfmGFBtfyu9Gsj3yWDU3"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 243133,
+      "name": "\u9f13\u52d5",
+      "url": "https://open.spotify.com/track/6QDyiZyiQjRL02PIiJo2bq"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST -E-",
-        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 291746,
-      "name": "\u30a2\u30ab\u30c4\u30ad",
-      "url": "https://open.spotify.com/track/3ZMnn1muAjYZ1XBbUuLqgi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INNOCENCE",
         "url": "https://open.spotify.com/album/44tCGweHm2ZAHeGYud3UKI"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 279080,
       "name": "dear brightness",
       "url": "https://open.spotify.com/track/3ThZkUIeOfcI7pE8BBZ2rV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEST -E-",
+        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 291746,
+      "name": "\u30a2\u30ab\u30c4\u30ad",
+      "url": "https://open.spotify.com/track/3ZMnn1muAjYZ1XBbUuLqgi"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "duration_ms": 260000,
-      "name": "YeLL",
-      "url": "https://open.spotify.com/track/3ughjGlNEbLBm5ba7y2vdB"
+      "duration_ms": 209066,
+      "name": "\u30ed\u30bc",
+      "url": "https://open.spotify.com/track/2Je51HC5BEKT6xJEzS4iHt"
     },
     {
       "added_at": null,
@@ -704,9 +704,25 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "duration_ms": 209066,
-      "name": "\u30ed\u30bc",
-      "url": "https://open.spotify.com/track/2Je51HC5BEKT6xJEzS4iHt"
+      "duration_ms": 260000,
+      "name": "YeLL",
+      "url": "https://open.spotify.com/track/3ughjGlNEbLBm5ba7y2vdB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30a2\u30af\u30bb\u30f3\u30c6\u30a3\u30a2",
+        "url": "https://open.spotify.com/album/1l1C3kJKVLamC0jevsP4Xo"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 269253,
+      "name": "Close Friend",
+      "url": "https://open.spotify.com/track/0S58WfNGli8Ik6pxCbXowy"
     },
     {
       "added_at": null,
@@ -739,22 +755,6 @@
       "duration_ms": 255666,
       "name": "\u7a7a\u306e\u30ab\u30bf\u30c1",
       "url": "https://open.spotify.com/track/1ZYrRfd8aswno49SP74jDQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30a2\u30af\u30bb\u30f3\u30c6\u30a3\u30a2",
-        "url": "https://open.spotify.com/album/1l1C3kJKVLamC0jevsP4Xo"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 269253,
-      "name": "Close Friend",
-      "url": "https://open.spotify.com/track/0S58WfNGli8Ik6pxCbXowy"
     },
     {
       "added_at": null,
@@ -807,94 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Animelo Summer Live (2014 -ONENESS-\uff83\uff70\uff8f\uff7f\uff9d\uff78\uff9e)",
-        "url": "https://open.spotify.com/album/6gUAibRBj3baFQ3jzjUenw"
+        "name": "HELLO HELLO HELLO",
+        "url": "https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6"
       },
       "artists": [
         {
-          "name": "\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc(\u4e2d\u6751\u7e6a\u91cc\u5b50\u30fb\u5c71\u5d0e\u306f\u308b\u304b\u30fb\u5927\u6a4b\u5f69\u9999)",
-          "url": "https://open.spotify.com/artist/5PWrN23XkUq3uwhnVHBAFh"
-        },
-        {
           "name": "Eir Aoi",
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        },
-        {
-          "name": "\u30a2\u30d5\u30a3\u30ea\u30a2\u30fb\u30b5\u30fc\u30ac",
-          "url": "https://open.spotify.com/artist/4Ip0Amlvr3OqSJFDLxRGBB"
-        },
-        {
-          "name": "angela",
-          "url": "https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL"
-        },
-        {
-          "name": "\u3044\u3068\u3046\u304b\u306a\u3053",
-          "url": "https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN"
-        },
-        {
-          "name": "Wake Up,Girls!",
-          "url": "https://open.spotify.com/artist/29tW0ETcoveUVtlTIr1tiI"
-        },
-        {
-          "name": "\u5c0f\u91ce\u8ce2\u7ae0",
-          "url": "https://open.spotify.com/artist/6yg8XM7BirJ6GnfBUt7BUU"
-        },
-        {
-          "name": "OLDCODEX",
-          "url": "https://open.spotify.com/artist/7CdQSdjEWtSQ5DQEeaikUq"
-        },
-        {
-          "name": "Eri Kitamura",
-          "url": "https://open.spotify.com/artist/3IYKCbAUuXkZdkiAeYEKwC"
-        },
-        {
-          "name": "\u6817\u6797\u307f\u306a\u5b9f",
-          "url": "https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz"
-        },
-        {
-          "name": "GRANRODEO",
-          "url": "https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc"
-        },
-        {
-          "name": "\u9ed2\u5d0e\u771f\u97f3",
-          "url": "https://open.spotify.com/artist/4SLTgwsFXbomwbNjsAvs3E"
-        },
-        {
-          "name": "ZAQ",
-          "url": "https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6"
-        },
-        {
-          "name": "JAM Project",
-          "url": "https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU"
-        },
-        {
-          "name": "sweet ARMS",
-          "url": "https://open.spotify.com/artist/4VNX81QK24dwtTCv4lx8Ae"
-        },
-        {
-          "name": "\u9234\u6728\u3053\u306e\u307f",
-          "url": "https://open.spotify.com/artist/2zL2DcyFc5UL5WI9zaWZqR"
-        },
-        {
-          "name": "STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/5AVLn44oMughW4oWx8mvg4"
-        },
-        {
-          "name": "Takayoshi Tanimoto",
-          "url": "https://open.spotify.com/artist/5nCVXtvsB2KsngsMbk8Hat"
-        },
-        {
-          "name": "\u7530\u6751\u3086\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7iSJ9H9hMz0BzaL3dOv3DP"
-        },
-        {
-          "name": "\u8305\u539f\u5b9f\u91cc",
-          "url": "https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ"
         }
       ],
-      "duration_ms": 427224,
-      "name": "ONENESS",
-      "url": "https://open.spotify.com/track/3onTTLru4g0vGoOD8H8Aai"
+      "duration_ms": 91000,
+      "name": "HELLO HELLO HELLO -TV size ver",
+      "url": "https://open.spotify.com/track/4ZqNeWPINaNzPcQ7rZ10gd"
     },
     {
       "added_at": null,
@@ -913,6 +837,6 @@
       "url": "https://open.spotify.com/track/3VFdCj1qd29ODOSDvGxhOQ"
     }
   ],
-  "unique_name": "This Is \u85cd\u4e95\u30a8\u30a4\u30eb",
+  "unique_name": "This Is Eir Aoi",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BRqs5"
 }

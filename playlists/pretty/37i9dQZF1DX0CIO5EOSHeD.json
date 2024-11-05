@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 500753,
+  "num_followers": 500792,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Big Day",
-        "url": "https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "High",
-      "url": "https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Wachito Rico",
         "url": "https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 255000,
       "name": "i <3 u",
       "url": "https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "Big Day",
+        "url": "https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "High",
+      "url": "https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -859,6 +859,26 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo"
+      },
+      "artists": [
+        {
+          "name": "Fox Academy",
+          "url": "https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow"
+        },
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
         "name": "Vampire in Beverly Hills",
         "url": "https://open.spotify.com/album/34GevB4U1WHwDcm7kQmANH"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 154607,
       "name": "Skater Dater (feat. Bb trickz & Elvia)",
       "url": "https://open.spotify.com/track/4GYGVb83KdpBszyMhaPh9O"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo"
-      },
-      "artists": [
-        {
-          "name": "Fox Academy",
-          "url": "https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow"
-        },
-        {
-          "name": "Sipper",
-          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Long Nights and Wasted Affairs",
-        "url": "https://open.spotify.com/album/2YKrT7Izbd8U5muoR0ZNaL"
-      },
-      "artists": [
-        {
-          "name": "Mind\u2019s Eye",
-          "url": "https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd"
-        }
-      ],
-      "duration_ms": 222992,
-      "name": "running to find you",
-      "url": "https://open.spotify.com/track/2FEf9b0UGPt3jsEQ3VGGTS"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "i don't need to understand",
         "url": "https://open.spotify.com/album/40VtthuGOFcTw8Lc1JGJJ3"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 146594,
       "name": "i don't need to understand",
       "url": "https://open.spotify.com/track/55Z8UeiGPWq7m5DXxi1uPm"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "Long Nights and Wasted Affairs",
+        "url": "https://open.spotify.com/album/2YKrT7Izbd8U5muoR0ZNaL"
+      },
+      "artists": [
+        {
+          "name": "Mind\u2019s Eye",
+          "url": "https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd"
+        }
+      ],
+      "duration_ms": 222992,
+      "name": "running to find you",
+      "url": "https://open.spotify.com/track/2FEf9b0UGPt3jsEQ3VGGTS"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
+        "name": "Maybe the Problem Is Me",
+        "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
       },
       "artists": [
         {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
         }
       ],
-      "duration_ms": 237398,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3"
+      "duration_ms": 133090,
+      "name": "Maybe the Problem Is Me",
+      "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Maybe the Problem Is Me",
-        "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
       },
       "artists": [
         {
-          "name": "dexter in the newsagent",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
         }
       ],
-      "duration_ms": 133090,
-      "name": "Maybe the Problem Is Me",
-      "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
+      "duration_ms": 237398,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "The Gaping Mouth",
-        "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
-      },
-      "artists": [
-        {
-          "name": "Lowertown",
-          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
-        }
-      ],
-      "duration_ms": 219010,
-      "name": "Seaface",
-      "url": "https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Year Of The Rat",
         "url": "https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 191684,
       "name": "Take It Off",
       "url": "https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "The Gaping Mouth",
+        "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "duration_ms": 219010,
+      "name": "Seaface",
+      "url": "https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Fuzzy",
-        "url": "https://open.spotify.com/album/2YVL66TiPtd66D939cdkKW"
-      },
-      "artists": [
-        {
-          "name": "Freeds",
-          "url": "https://open.spotify.com/artist/71OucXLZgracCypSFSaDwi"
-        }
-      ],
-      "duration_ms": 176872,
-      "name": "Fuzzy",
-      "url": "https://open.spotify.com/track/3rbvTHMixDKS84FLygc7ns"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Royal Headache",
         "url": "https://open.spotify.com/album/2g0N32g0cQXFDp4QnIa1RN"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 93146,
       "name": "Surprise",
       "url": "https://open.spotify.com/track/7d4bEIDNRgTWUTOZqWzFfK"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "Fuzzy",
+        "url": "https://open.spotify.com/album/2YVL66TiPtd66D939cdkKW"
+      },
+      "artists": [
+        {
+          "name": "Freeds",
+          "url": "https://open.spotify.com/artist/71OucXLZgracCypSFSaDwi"
+        }
+      ],
+      "duration_ms": 176872,
+      "name": "Fuzzy",
+      "url": "https://open.spotify.com/track/3rbvTHMixDKS84FLygc7ns"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Dreams of Losing Teeth",
-        "url": "https://open.spotify.com/album/6wdNsB7Bwk1bk3TAPdRk1w"
-      },
-      "artists": [
-        {
-          "name": "Suave Punk",
-          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
-        }
-      ],
-      "duration_ms": 202818,
-      "name": "Dreams of Losing Teeth",
-      "url": "https://open.spotify.com/track/6hp3izQkKSK5JUpNLAOGSS"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "you look lovely when you're living",
         "url": "https://open.spotify.com/album/65mlCGFrqJMEb8eXoc3TxW"
       },
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
+        "name": "Dreams of Losing Teeth",
+        "url": "https://open.spotify.com/album/6wdNsB7Bwk1bk3TAPdRk1w"
+      },
+      "artists": [
+        {
+          "name": "Suave Punk",
+          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
+        }
+      ],
+      "duration_ms": 202818,
+      "name": "Dreams of Losing Teeth",
+      "url": "https://open.spotify.com/track/6hp3izQkKSK5JUpNLAOGSS"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
         "name": "Lady Luck EP",
         "url": "https://open.spotify.com/album/5HeAzBZmmQl3hbfVCODU24"
       },
@@ -1551,6 +1551,22 @@
       "duration_ms": 231925,
       "name": "Solid Door",
       "url": "https://open.spotify.com/track/2Cv5RfiMkCTgrYKxkYqLAo"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "Makeup",
+        "url": "https://open.spotify.com/album/4pBMcr7cjlbsB7MkMiuA0H"
+      },
+      "artists": [
+        {
+          "name": "Oberhofer",
+          "url": "https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX"
+        }
+      ],
+      "duration_ms": 208101,
+      "name": "Makeup",
+      "url": "https://open.spotify.com/track/1vTNp2KQzVM5GkQ7sd2GOp"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Makeup",
-        "url": "https://open.spotify.com/album/4pBMcr7cjlbsB7MkMiuA0H"
-      },
-      "artists": [
-        {
-          "name": "Oberhofer",
-          "url": "https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX"
-        }
-      ],
-      "duration_ms": 208101,
-      "name": "Makeup",
-      "url": "https://open.spotify.com/track/1vTNp2KQzVM5GkQ7sd2GOp"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs"
       },
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "End Of The Day (music from the film Anonymous Club)",
-        "url": "https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 131107,
-      "name": "Start Somewhere",
-      "url": "https://open.spotify.com/track/5nq6JuSSC7quMwNqfHBRVv"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "at least, I tried",
         "url": "https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 194060,
       "name": "at least, I tried",
       "url": "https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "End Of The Day (music from the film Anonymous Club)",
+        "url": "https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 131107,
+      "name": "Start Somewhere",
+      "url": "https://open.spotify.com/track/5nq6JuSSC7quMwNqfHBRVv"
     },
     {
       "added_at": "2024-07-09 21:52:54",

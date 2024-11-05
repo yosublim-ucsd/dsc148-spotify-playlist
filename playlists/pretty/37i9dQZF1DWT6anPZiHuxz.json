@@ -1,6 +1,6 @@
 {
   "description": "Chasing that runner's high this marathon season. See you there ;)",
-  "num_followers": 541478,
+  "num_followers": 541550,
   "original_name": "Running Club",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
+      },
+      "artists": [
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "duration_ms": 252106,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Free (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 212345,
       "name": "Free (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
-      },
-      "artists": [
-        {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
-        }
-      ],
-      "duration_ms": 252106,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Still Into You",
+        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Still Into You",
+      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "i like the way you kiss me (remixes)",
         "url": "https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 236999,
       "name": "My Gasoline",
       "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Still Into You",
-        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Still Into You",
-      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1419,18 +1419,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Can't Fight The Moonlight",
-        "url": "https://open.spotify.com/album/3PSHf7TnrG5dMDJLbpo6lK"
+        "name": "It's ok I'm ok (remixes)",
+        "url": "https://open.spotify.com/album/3XaVpz5yxOIkha03FETXPQ"
       },
       "artists": [
         {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
         }
       ],
-      "duration_ms": 116814,
-      "name": "Can't Fight The Moonlight",
-      "url": "https://open.spotify.com/track/1rtnGo1NBXhgcxcRMzl5RB"
+      "duration_ms": 166125,
+      "name": "It's ok I'm ok - Ian Asher remix",
+      "url": "https://open.spotify.com/track/6GAvlyyIZM9uvNa5VPSFMK"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1459,22 +1463,18 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "It's ok I'm ok (remixes)",
-        "url": "https://open.spotify.com/album/3XaVpz5yxOIkha03FETXPQ"
+        "name": "Can't Fight The Moonlight",
+        "url": "https://open.spotify.com/album/3PSHf7TnrG5dMDJLbpo6lK"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
         }
       ],
-      "duration_ms": 166125,
-      "name": "It's ok I'm ok - Ian Asher remix",
-      "url": "https://open.spotify.com/track/6GAvlyyIZM9uvNa5VPSFMK"
+      "duration_ms": 116814,
+      "name": "Can't Fight The Moonlight",
+      "url": "https://open.spotify.com/track/1rtnGo1NBXhgcxcRMzl5RB"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Pump It Up",
+        "url": "https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 150635,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Lighter",
         "url": "https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7"
       },
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Pump It Up",
-        "url": "https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 150635,
-      "name": "Pump It Up",
-      "url": "https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "4U",
         "url": "https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr"
       },
@@ -1627,6 +1627,26 @@
       "duration_ms": 180703,
       "name": "4U",
       "url": "https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "I Could Be The One [Avicii vs Nicky Romero]",
+        "url": "https://open.spotify.com/album/292ltz2MxXuFZw9FaEbaZ3"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 208320,
+      "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
+      "url": "https://open.spotify.com/track/591nHHHzZl1NLt9PMKpinM"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1659,26 +1679,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "I Could Be The One [Avicii vs Nicky Romero]",
-        "url": "https://open.spotify.com/album/292ltz2MxXuFZw9FaEbaZ3"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 208320,
-      "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
-      "url": "https://open.spotify.com/track/591nHHHzZl1NLt9PMKpinM"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Chase It (Mmm Da Da Da)",
         "url": "https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN"
       },
@@ -1691,6 +1691,30 @@
       "duration_ms": 154639,
       "name": "Chase It (Mmm Da Da Da)",
       "url": "https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Better Off (Alone, Pt. III)",
+        "url": "https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Vikkstar",
+          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
+        }
+      ],
+      "duration_ms": 151702,
+      "name": "Better Off (Alone, Pt. III)",
+      "url": "https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1723,30 +1747,6 @@
       "duration_ms": 185244,
       "name": "Push",
       "url": "https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Better Off (Alone, Pt. III)",
-        "url": "https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Vikkstar",
-          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
-        }
-      ],
-      "duration_ms": 151702,
-      "name": "Better Off (Alone, Pt. III)",
-      "url": "https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1891,6 +1891,30 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "stayinit",
+        "url": "https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 274925,
+      "name": "stayinit",
+      "url": "https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Gas Pedal Remix",
         "url": "https://open.spotify.com/album/5nshc7uzMruLtzRAErOway"
       },
@@ -1915,30 +1939,6 @@
       "duration_ms": 130070,
       "name": "Gas Pedal Remix",
       "url": "https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "stayinit",
-        "url": "https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 274925,
-      "name": "stayinit",
-      "url": "https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -2079,22 +2079,30 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "MAMI",
-        "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7"
       },
       "artists": [
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
         },
         {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Naisha",
+          "url": "https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI"
         }
       ],
-      "duration_ms": 247896,
-      "name": "MAMI",
-      "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
+      "duration_ms": 232984,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
     }
   ],
   "unique_name": "Running Club",

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: mxmtoon
 
-1,995 songs - 4 day 9 hr 29 min
+1,996 songs - 4 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -599,13 +599,14 @@
 | [f\*\*k it, i'm the man](https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [f\*\*k it, i'm the man](https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj) | 2:30 | 2022-02-25 | 2022-04-19 |
 | [F2F](https://open.spotify.com/track/2e2AXpIiJpet5b4qg85Gh6) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:05 | 2023-03-01 | 2023-08-26 |
 | [Factoury Girl](https://open.spotify.com/track/3b5NDASYtn3eGgTSYfUk2p) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Factoury Girl](https://open.spotify.com/album/3FMWPf3hJwNQ9Lr0R2M83t) | 3:26 | 2022-10-28 | 2022-11-12 |
+| [Fake Nice](https://open.spotify.com/track/0dK3P7orK9XUTeAcebUHwK) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Melt](https://open.spotify.com/album/20K5SdVLHQqzBepWDdIqVs) | 3:27 | 2024-10-25 |  |
 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 | 2021-08-06 | 2022-04-12 |
 | [Fall Into Me](https://open.spotify.com/track/6kyWkZKmS8s8o30Gq9A1Ph) | [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Fall Into Me](https://open.spotify.com/album/4RxlvRj82Lo3XHqmVphG4b) | 3:56 | 2021-02-24 | 2021-02-25 |
 | [Fall to Pieces](https://open.spotify.com/track/6GBYnyMRtW43bVnwJQoiDA) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Fall to Pieces](https://open.spotify.com/album/1DrQpvNKmjlNasyNw47xro) | 2:47 | 2021-02-13 | 2021-05-26 |
 | [Falling Asleep At The Wheel](https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Falling Asleep At The Wheel](https://open.spotify.com/album/359BMiYkEMDC70gvpCVljg) | 3:23 | 2020-10-20 | 2021-06-03 |
 | [Falling In Love](https://open.spotify.com/track/4hGFv1daRapAGF7fXSeGKY) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Falling In Love](https://open.spotify.com/album/6a1lM0SctageP5fxs5kheS) | 2:47 | 2021-10-13 | 2021-10-14 |
 | [False Art](https://open.spotify.com/track/77OXCuJjR83b2mnp0HmYMo) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [False Art](https://open.spotify.com/album/5LKDSeG8WNydz4yvRAKVvd) | 3:03 | 2020-10-16 | 2021-06-03 |
-| [family and friends](https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [family and friends](https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR) | 2:56 | 2024-09-20 |  |
+| [family and friends](https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [family and friends](https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR) | 2:56 | 2024-09-20 | 2024-11-05 |
 | [fan behavior](https://open.spotify.com/track/2HWJELHnneoKGVe0mRFeeD) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [evil twin](https://open.spotify.com/album/0veq4sEuFjopH21yI3u7QH) | 3:01 | 2021-03-02 | 2022-04-15 |
 | [Far Away](https://open.spotify.com/track/0HKzYLiNdTdGFfgStbfpQV) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP) | [Far Away](https://open.spotify.com/album/6ebG7C6aLeVRnhWfFxdZHi) | 2:11 | 2021-03-14 | 2021-05-25 |
 | [Fast Track to Heaven](https://open.spotify.com/track/1RdCFZlGa5JUMmv9O5wNxO) | [Hearts <3](https://open.spotify.com/artist/32gTQwEODaNCVu6SdNko3z) | [Fast Track to Heaven / JACKASS](https://open.spotify.com/album/1mmN7ucScgLGkIQ2ckwf1t) | 3:32 | 2021-03-22 | 2021-10-16 |

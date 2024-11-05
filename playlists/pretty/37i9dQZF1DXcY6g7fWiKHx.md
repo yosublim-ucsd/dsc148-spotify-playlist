@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,500 likes - 253 songs - 21 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,507 likes - 264 songs - 21 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -261,5 +261,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 251 | [I Hadn't Known \(I only heard\) \- Bonus Track](https://open.spotify.com/track/1Qd0No0lExyNRkbs7l4PtJ) | [Herbert](https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn) | [Around The House \(Special Edition\)](https://open.spotify.com/album/5tgVDeZ3r2IPYlitzedyjT) | 7:14 |
 | 252 | [In 10,000 Places](https://open.spotify.com/track/2MThJYGRpWfPmfdK04VrjQ) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [In 10,000 Places](https://open.spotify.com/album/7F67kb9cW8j6aT5OksMoCS) | 6:35 |
 | 253 | [Hustle do Brasil](https://open.spotify.com/track/6ne8agwOHjbFHcDTILeCYS) | [Aroop Roy](https://open.spotify.com/artist/13ZcbaFfAsWtq989FqCXVQ) | [Hustle do Brasil](https://open.spotify.com/album/1u6WFnkNGorTI9lTTgKJ78) | 4:28 |
+| 254 | [Perfect Smile](https://open.spotify.com/track/1Jchm9oU34WKV23OkNIEnc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ) | [Love Can Go The Distance](https://open.spotify.com/album/7JeGLkLEZbMss1QvqGj1e6) | 4:27 |
+| 255 | [As the World Unravels](https://open.spotify.com/track/38WbVHigpE4xfJRnHxbJAb) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [She Dances](https://open.spotify.com/album/1WubIHS21fxdcGRgVmpc5n) | 2:33 |
+| 256 | [Honey](https://open.spotify.com/track/2wKwfXzNCAC7R2uCWhHVo9) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/7uxfQPw7jZrMCwmFijglNT) | 4:22 |
+| 257 | [COULD BE WRONG](https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu) | [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL) | [COULD BE WRONG](https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP) | 3:06 |
+| 258 | [Acid Kid](https://open.spotify.com/track/0C55DUJaNkGGkUB5twbipk) | [Make A Dance](https://open.spotify.com/artist/0uCHsPscaxehIexzf7nkXP) | [Acid Kid](https://open.spotify.com/album/7Cf3oJOMjLIAWY6eXjcyGT) | 6:30 |
+| 259 | [Wish You Knew](https://open.spotify.com/track/4LXVPTN6OHPbWQ2zZUIxej) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Trouble Symphony](https://open.spotify.com/album/61bRPKGMbA5rsNOZAdmLos) | 3:48 |
+| 260 | [Diiing](https://open.spotify.com/track/1lRih6Mtec3rkbD47Q4UIW) | [Will Hofbauer](https://open.spotify.com/artist/5ph5qdAJXZPWas7Ch9f6Uf) | [Dingers EP](https://open.spotify.com/album/3d1tLKEB8gwK5guDxKCojx) | 4:17 |
+| 261 | [Tropicana Thunder](https://open.spotify.com/track/3FVTwKxIoDUXmWAxCQ4Gz9) | [Ari Bald & CJ Scott](https://open.spotify.com/artist/0E6gscdNMDFByNLHQkm4aG), [Ari Bald](https://open.spotify.com/artist/4BIUrqQlg2nOgFdem5DTup), [CJ Scott](https://open.spotify.com/artist/0thkTEQ87kDOsVs9ohjiCl) | [Västertorp](https://open.spotify.com/album/2MmW24gyKixixb0vl1efHT) | 7:30 |
+| 262 | [Hold You Now \- Original Mix](https://open.spotify.com/track/6y9cxC8TQ8NEg21zfrIYtU) | [Løne Døg](https://open.spotify.com/artist/5M4CIxy6u5hKcneJxiQQJ7) | [Hold You Now](https://open.spotify.com/album/4pwBFeUhZ4CCynZRQ1lSmU) | 4:51 |
+| 263 | [No Boys Allowed \- OG House Mix](https://open.spotify.com/track/5ECEMutDIhmSKM6MkJuVc3) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Locomotiva Ibiza 2099 II](https://open.spotify.com/album/6nIry8iPceW6XDXT8UTSUm) | 5:52 |
+| 264 | [Birthday Club](https://open.spotify.com/track/0wfZuSr3J9mAaTKCj05ir1) | [Panthera Krause](https://open.spotify.com/artist/6vpvDZ1hqY1GUPUjvyiCjU) | [It's A Business Doing Pleasure With You](https://open.spotify.com/album/1HVcRSp1s3I9e0eJB3RI27) | 5:13 |
 
-Snapshot ID: `ZuLjIgAAAAAMN8g42SZGv5+266KMA1nL`
+Snapshot ID: `ZyiNEAAAAAC44zVw53ZkM0DHI3Ze0bWs`

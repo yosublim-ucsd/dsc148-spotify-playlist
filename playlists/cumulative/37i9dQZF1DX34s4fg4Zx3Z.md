@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: LAMOON
+> Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: VƯƠNG BÌNH
 
-1,871 songs - 4 day 13 hr 36 min
+1,872 songs - 4 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [An ủi](https://open.spotify.com/track/67UuUCkM3wy5xPToORcS4X) | [Minh Lame](https://open.spotify.com/artist/2yr3M7WBJ21pYIOW5Jhzza) | [An ủi](https://open.spotify.com/album/3wHpVv0lPbt0wHv94xWYnj) | 2:55 | 2023-09-08 | 2023-09-29 |
 | [angel](https://open.spotify.com/track/0A5Ha1taIRMfegQfAHIucP) | [crai](https://open.spotify.com/artist/6MceMZCAizxgXTTbAxWqi7) | [angel](https://open.spotify.com/album/7GyCsd5Q3OOdWfB03fDNoA) | 2:18 | 2023-10-26 | 2023-11-16 |
 | [Anh Biết Anh Đang Sai](https://open.spotify.com/track/17w5ebCui16ZhSH1iq8d9m) | [Hazel](https://open.spotify.com/artist/4ZFRJP4p2Ul4kGnKrEn5W2), [Minh Vũ](https://open.spotify.com/artist/42070xcFbkPmMRLZLIE8VM) | [Anh Biết Anh Đang Sai](https://open.spotify.com/album/1QDoAhqLlfdj48D6W4X84R) | 2:51 | 2022-10-20 | 2022-11-03 |
+| [Anh Bờ Vai](https://open.spotify.com/track/5fSjfwTHjzQovSM0VlMVD2) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 3:39 | 2024-11-05 |  |
 | [Anh Chưa Biết Em](https://open.spotify.com/track/0U9TFIiCYcOqULZ2dYJcmu) | [Liu Grace](https://open.spotify.com/artist/5DTQVDm1qjLUoAGC8v85c3) | [Anh Chưa Biết Em](https://open.spotify.com/album/3AtUCcrqH1LnCRjkixPcKQ) | 2:58 | 2022-10-26 | 2024-03-29 |
 | [Anh Chẳng Quan Tâm Em Nữa Rồi](https://open.spotify.com/track/1lctl2S32k72azI5Pd4T7R) | [VAnh](https://open.spotify.com/artist/4QC9UUJeYEo4wnbTvuOHLo), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m), [Phạm Nguyên Ngọc](https://open.spotify.com/artist/2Xlia1jlI7JDki4Xa42uyK) | [Anh Chẳng Quan Tâm Em Nữa Rồi](https://open.spotify.com/album/413MvADaoCHcscgo1EAjan) | 3:48 | 2023-06-06 | 2023-09-19 |
 | [Anh Chẳng Thể](https://open.spotify.com/track/1gmCssbzpEgzeLAC7M3PT6) | [Lập Nguyên](https://open.spotify.com/artist/3ymuVFLSS5P2PCK5aOmhEB), [Freaky](https://open.spotify.com/artist/3JlzPlR5FYYa402qPCCaAm), [Xôn Nguyễn](https://open.spotify.com/artist/2KhDttLplSvTjfipdzvOu3) | [Anh Chẳng Thể](https://open.spotify.com/album/7vjigMTOI8fPWDOTa26kbX) | 4:23 | 2024-07-10 | 2024-08-01 |
@@ -1442,7 +1443,7 @@
 | [Thấu Hiểu](https://open.spotify.com/track/3cFOA7zgCHW7cGFgnqwjiD) | [An Vũ](https://open.spotify.com/artist/0IBUlucigx80io4qV5fQ34) | [Thấu Hiểu](https://open.spotify.com/album/4TZmVTx43b3NbIOSxDotba) | 4:56 | 2024-06-20 | 2024-06-28 |
 | [Thấy Em Quay Lưng Lạnh Lùng](https://open.spotify.com/track/4V8R0joaCTvTyy58GQVpjD) | [GT](https://open.spotify.com/artist/2CeEP068ZccYXs5MZXGzkW) | [Thấy Em Quay Lưng Lạnh Lùng](https://open.spotify.com/album/3p99oChZTuKE8ChUgDwSUr) | 3:31 | 2022-01-06 | 2022-01-11 |
 | [Thần Điếu Đại Hiệp](https://open.spotify.com/track/7ifgnHATAUYiDtPyMfofBH) | [Mixed Miyagi](https://open.spotify.com/artist/4mk54kenUTmMSMRnMeK5vB) | [Thần Điếu Đại Hiệp](https://open.spotify.com/album/7Bo0cl4HE6XvgIsigsoxSE) | 3:32 | 2023-04-26 | 2023-05-05 |
-| [Thẩm Cẩm Hay Đậu Xanh](https://open.spotify.com/track/1J8d72a0NY10nzccf97vL5) | [Kart](https://open.spotify.com/artist/4qpeGhUog7p0HHP2ZQEoC3), [Linh](https://open.spotify.com/artist/3B2E8RTMHEb8Un7tTDVYKk), [Age 20’s](https://open.spotify.com/artist/0wnLAnncSnOzJpjwdEhEt7) | [Thẩm Cẩm Hay Đậu Xanh](https://open.spotify.com/album/577uFB9xRnA8k1iPQTpuJw) | 1:06 | 2024-09-03 |  |
+| [Thẩm Cẩm Hay Đậu Xanh](https://open.spotify.com/track/1J8d72a0NY10nzccf97vL5) | [Kart](https://open.spotify.com/artist/4qpeGhUog7p0HHP2ZQEoC3), [Linh](https://open.spotify.com/artist/3B2E8RTMHEb8Un7tTDVYKk), [Age 20’s](https://open.spotify.com/artist/0wnLAnncSnOzJpjwdEhEt7) | [Thẩm Cẩm Hay Đậu Xanh](https://open.spotify.com/album/577uFB9xRnA8k1iPQTpuJw) | 1:06 | 2024-09-03 | 2024-11-05 |
 | [Thật Khó Để Nói “Tôi Yêu Em“](https://open.spotify.com/track/6EOxi2lJ3J8PgDXNulCrhx) | [Huỳnh Đức](https://open.spotify.com/artist/66MCxQvUl5GOX5fJJbbSSY), [Luân Mía](https://open.spotify.com/artist/3DUWlprIU27RiyvwYTCmrF), [Melomix](https://open.spotify.com/artist/6rLm6yMYaTHSlixXSpuPfw) | [Thật Khó Để Nói “Tôi Yêu Em“](https://open.spotify.com/album/4xzgG0RnNMROKworCo1sKh) | 3:21 | 2022-09-07 | 2022-10-03 |
 | [Thật May Em Đã Đồng Ý](https://open.spotify.com/track/5Z8bXAPnzowqaPWOgbATUf) | [Mias](https://open.spotify.com/artist/0OUo4odW5aRAYMhJYWNyEQ), [Gin.AK](https://open.spotify.com/artist/3vBK9XFP46pTWPvkA7BlUG) | [Thật May Em Đã Đồng Ý](https://open.spotify.com/album/2NIW9uEMEEFJhFZkxJ4sGw) | 3:38 | 2022-09-29 | 2022-10-21 |
 | [Thật Ra Em Chẳng Thương Anh Vậy Đâu](https://open.spotify.com/track/5HEHl6EHbRulVVOE2FREB0) | [Nguyenn](https://open.spotify.com/artist/0FflNqUFk4ODtAZuVuqgou), [Đặng Tuấn Vũ](https://open.spotify.com/artist/215WQLToYXwGfSazi1b8bB) | [Thật Ra Em Chẳng Thương Anh Vậy Đâu](https://open.spotify.com/album/434zqqNMd84YfHnfko2WoV) | 6:09 | 2023-04-17 | 2023-06-16 |

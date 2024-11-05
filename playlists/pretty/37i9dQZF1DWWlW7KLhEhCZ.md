@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: TOKIODK
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,374 likes - 82 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,369 likes - 82 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

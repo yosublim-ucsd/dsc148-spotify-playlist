@@ -4,7 +4,7 @@
 
 > 
 
-785 songs - 1 day 13 hr 41 min
+786 songs - 1 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,6 +611,7 @@
 | [Second Day Out](https://open.spotify.com/track/0HoWwOa0XVeUFsmYz1sJok) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Second Day Out](https://open.spotify.com/album/0P02ahe5RNTDXEKXIbQmMv) | 1:36 | 2023-01-11 | 2023-12-14 |
 | [Secure the Vibe \(feat\. Young Thug\)](https://open.spotify.com/track/0Zh07yxAYHbGrjd0wFd0be) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Drip Season 2](https://open.spotify.com/album/3vObc2h4jNdpjUoA1XlxCQ) | 2:44 | 2023-12-15 |  |
 | [See Y'all Again](https://open.spotify.com/track/2WvptDpqPBo6rNBJxK48h6) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [After TTBR](https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa) | 3:05 | 2024-03-04 |  |
+| [Self](https://open.spotify.com/track/6NVoUHjFFQmW8fYA8eaJcQ) | [bentley](https://open.spotify.com/artist/0tGHZpweTz8PClcc6rK4sy) | [Self](https://open.spotify.com/album/0f6zfh28vIM6IFtjImHggN) | 2:16 | 2024-11-04 |  |
 | [Self](https://open.spotify.com/track/2wUnFLr2k5491Pv4cUYd83) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/7oHM3Sj0l2nXAzGAxW0KOt) | 1:34 | 2024-05-20 |  |
 | [Self Care](https://open.spotify.com/track/4os8zlf0umDZxCvZC2u2Z1) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Cold Summer](https://open.spotify.com/album/0TxLAUhKclBHQUoeunGQlq) | 1:46 | 2023-04-11 | 2023-05-09 |
 | [Serious Shit](https://open.spotify.com/track/521qLebnOvsIOtJKhQvGmi) | [Lil Ugly Mane](https://open.spotify.com/artist/2gPLG9mGaU67woC5L0luYA) | [Mista Thug Isolation](https://open.spotify.com/album/6VNXIYzXocTyZMNDLG88Gb) | 3:36 | 2024-04-23 |  |

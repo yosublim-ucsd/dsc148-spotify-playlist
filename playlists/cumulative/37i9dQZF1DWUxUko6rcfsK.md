@@ -4,7 +4,7 @@
 
 > Het leven is prachtig en dat verdient goede muziek
 
-89 songs - 4 hr 53 min
+92 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,25 +30,28 @@
 | [Good To You](https://open.spotify.com/track/0c8lSIQejPTJPKJ8fgA7eW) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Good To You](https://open.spotify.com/album/3tObTrR6FqKbPYJUHRKcbg) | 3:44 | 2024-10-21 |  |
 | [Goodbye Never Felt So Bad](https://open.spotify.com/track/0yLNWToE0zigyg3aqYrwdL) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Goodbye Never Felt So Bad](https://open.spotify.com/album/1oxbrgjKFu46YXY6zVZf9G) | 4:10 | 2024-07-01 | 2024-07-19 |
 | [Got an Idea](https://open.spotify.com/track/3q6b1cke3QLZxxOzZtVp9I) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Got an Idea](https://open.spotify.com/album/6YrPlAqnQwhiKBZIl7qlSk) | 2:53 | 2024-10-24 |  |
-| [Half a Man](https://open.spotify.com/track/2eUC6tKYCfIvXyZJ5k9F8n) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Half a Man](https://open.spotify.com/album/5XM1KXwrQkexM7Zm6WLrx4) | 2:56 | 2024-07-01 |  |
+| [Half a Man](https://open.spotify.com/track/2eUC6tKYCfIvXyZJ5k9F8n) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Half a Man](https://open.spotify.com/album/5XM1KXwrQkexM7Zm6WLrx4) | 2:56 | 2024-07-01 | 2024-11-05 |
 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 | 2024-07-18 |  |
 | [Happy](https://open.spotify.com/track/79rweGcDxRZTnEorOLhg4L) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Happy](https://open.spotify.com/album/3WlWHNK3j3vmMfR66YjNb2) | 2:42 | 2024-07-01 |  |
 | [Have This Dance](https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Have This Dance](https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5) | 3:34 | 2024-07-01 |  |
 | [Have You Ever Loved Someone](https://open.spotify.com/track/4UdsCQV2xKfcMF4EUew9ZD) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Have You Ever Loved Someone](https://open.spotify.com/album/1MmZnUzFTvJvU1G9Ws3ds0) | 3:19 | 2024-07-01 | 2024-10-22 |
 | [heat](https://open.spotify.com/track/0qB6vfLUW11bMGjz8SHvtt) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [heat](https://open.spotify.com/album/7N1nx9qGHk0KpDDgJNtG6z) | 3:06 | 2024-07-01 |  |
-| [Heaven](https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Heaven](https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6) | 3:52 | 2024-07-01 |  |
+| [Heaven](https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Heaven](https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6) | 3:52 | 2024-07-01 | 2024-11-05 |
 | [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2024-07-15 |  |
 | [Higher Love](https://open.spotify.com/track/1fYN7EbQCFgz7rhy7zoUfU) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Higher Love](https://open.spotify.com/album/7MZZANSLtVsVBCXsXMdow9) | 3:00 | 2024-07-01 |  |
+| [How Many Nights](https://open.spotify.com/track/565PkWWdrqFITixrqoNSRi) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:20 | 2024-11-04 |  |
 | [I Ain't Worried](https://open.spotify.com/track/73PAbYaVbnFG0tQ4aBfxeN) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 2:28 | 2024-07-01 |  |
+| [I Cried, I Wept](https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [I Cried, I Wept](https://open.spotify.com/album/09N8Dm5XaBbssMo7VZmUuA) | 3:31 | 2024-11-04 |  |
 | [I Don't Wanna Leave Just Yet](https://open.spotify.com/track/5hM0JAqF7VzzD8JxU5RbYL) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [I Don't Wanna Leave Just Yet](https://open.spotify.com/album/5CA5LlVVLzW1XCF6ESiCGq) | 3:05 | 2024-07-01 |  |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-07-29 | 2024-10-22 |
 | [I Remember](https://open.spotify.com/track/5xboC9LvGQFCwcWIpUwwhf) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [I Remember](https://open.spotify.com/album/5v9qFRmHHCoT44bBeQfalp) | 3:56 | 2024-07-01 |  |
+| [I Will Go There \(feat\. remme\)](https://open.spotify.com/track/71V025BxBhBKJNHAky0ZfM) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX), [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [I Will Go There \(feat\. remme\)](https://open.spotify.com/album/5cs3LTA5B9mHiTzolOdH55) | 3:20 | 2024-11-04 |  |
 | [It's You Or Me](https://open.spotify.com/track/4hq7e1IgOKKS3nmfUaEwaH) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [It's You Or Me](https://open.spotify.com/album/1arwfvhx4Ox7cl84QqHCUl) | 3:54 | 2024-07-18 |  |
 | [IYKYK](https://open.spotify.com/track/1wkze3nOLQkWG9uHjHaKjc) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [IYKYK](https://open.spotify.com/album/7DtIpa0EWgU79yWXKnAx4t) | 3:28 | 2024-07-01 | 2024-10-22 |
 | [Lari](https://open.spotify.com/track/6Xq83QyKrdGOJEXBt1pQ7T) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Lari](https://open.spotify.com/album/7xAFH0K3NpmDSa1F5uKyXJ) | 3:29 | 2024-09-26 |  |
 | [Let You Go](https://open.spotify.com/track/63t1r4qxpc8WmM3sGW03cM) | [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [Let You Go](https://open.spotify.com/album/5f0BeyC7OKitwUPFjZl6IW) | 2:46 | 2024-09-05 |  |
 | [London, Tokyo](https://open.spotify.com/track/78fv8y2e8uSXaoumhH2h5E) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [London, Tokyo](https://open.spotify.com/album/61rIcpa6ktXyHi6Q8ol5S3) | 3:03 | 2024-07-01 |  |
-| [Looking At You](https://open.spotify.com/track/1vfNaTL5DfKAPEd4ywUjlo) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Looking At You](https://open.spotify.com/album/2jrADtaLp3ptjv4UW2okro) | 3:10 | 2024-07-01 |  |
+| [Looking At You](https://open.spotify.com/track/1vfNaTL5DfKAPEd4ywUjlo) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Looking At You](https://open.spotify.com/album/2jrADtaLp3ptjv4UW2okro) | 3:10 | 2024-07-01 | 2024-11-05 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-07-01 | 2024-07-19 |
 | [Louder](https://open.spotify.com/track/2uNoq7Xuqo7wBBg1rU3Xjk) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Louder](https://open.spotify.com/album/1oQupLohOrOigi27xo9qwf) | 3:49 | 2024-09-24 |  |
 | [Love At First Fight](https://open.spotify.com/track/6jNzsK1Ef8H2QcXjFUCsZV) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Love At First Fight](https://open.spotify.com/album/4HxBqKWfyCMeq3ZnqTbg68) | 3:12 | 2024-07-01 | 2024-08-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,230 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,237 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 14 | [Real Oppy \(feat\. G Herbo\)](https://open.spotify.com/track/33b88WhmUTvmavA6yAsKQp) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Grandson](https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN) | 2:43 |
 | 15 | [Ahhh](https://open.spotify.com/track/1LMsoLko6U1QHS2zHi5B5T) | [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Stepping In Blood](https://open.spotify.com/album/6NMO2xSNS195esMlTJu3Mk) | 2:50 |
 | 16 | [Influence](https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 2:56 |
-| 17 | [Write Your Name](https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland](https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl) | 3:19 |
-| 18 | [ROTTEN](https://open.spotify.com/track/7juzMlYu3mq7iSojvDz32y) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [THA STREETS VOL 1](https://open.spotify.com/album/7BQHGnFNwftsmtHvsAJqAr) | 2:06 |
-| 19 | [Dark Knight](https://open.spotify.com/track/4eVjHYvqgwQsPN16XeX9JR) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 2:59 |
+| 17 | [Dark Knight](https://open.spotify.com/track/4eVjHYvqgwQsPN16XeX9JR) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 2:59 |
+| 18 | [Write Your Name](https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland](https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl) | 3:19 |
+| 19 | [ROTTEN](https://open.spotify.com/track/7juzMlYu3mq7iSojvDz32y) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [THA STREETS VOL 1](https://open.spotify.com/album/7BQHGnFNwftsmtHvsAJqAr) | 2:06 |
 | 20 | [Swerve \(feat\. G Herbo\)](https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [UNDERWORLD](https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV) | 3:01 |
 | 21 | [Drench Gang \(feat\. G Herbo\)](https://open.spotify.com/track/2s8jq5UcAjIsRCo4VYvQrW) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [SLICK ALMIGHTY](https://open.spotify.com/album/5Kz4xbbXLmUuRUhGzBgsSF) | 3:24 |
-| 22 | [Onna Come Up \(feat\. G Herbo\) \[Remix\]](https://open.spotify.com/track/05WPbN0RZeYj62c4VGpldv) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Rookie Of The Year](https://open.spotify.com/album/6RJcigjcQHiRUfoIhxCRcB) | 2:55 |
-| 23 | [In The Air \(feat\. Lil Durk\)](https://open.spotify.com/track/231WYOehAI5i10vZ2XTGzk) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 3:39 |
+| 22 | [In The Air \(feat\. Lil Durk\)](https://open.spotify.com/track/231WYOehAI5i10vZ2XTGzk) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 3:39 |
+| 23 | [Onna Come Up \(feat\. G Herbo\) \[Remix\]](https://open.spotify.com/track/05WPbN0RZeYj62c4VGpldv) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Rookie Of The Year](https://open.spotify.com/album/6RJcigjcQHiRUfoIhxCRcB) | 2:55 |
 | 24 | [No Recruits \(feat\. G Herbo\)](https://open.spotify.com/track/4OdWhMgfS8BYilx5WAha43) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [HOOD POET](https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW) | 3:02 |
 | 25 | [Kill Shit \(feat\. Lil Bibby\) \- Bonus Track](https://open.spotify.com/track/4DLO89J3G62BcXy6coIukw) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Bibby](https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW) | [Welcome to Fazoland](https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl) | 2:59 |
 | 26 | [High Speed](https://open.spotify.com/track/6CibhjvNeSRJRy6XGshcZ4) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 2:44 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 50 | [Equilibrium \(with BabyTron & G Herbo\)](https://open.spotify.com/track/3ZrobdWN5kvgpPlwpzCvTt) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 3:03 |
 | 51 | [Clap](https://open.spotify.com/track/3nrGWia7GYsni8efepcHe6) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 2:11 |
 
-Snapshot ID: `ZyVrgAAAAADhYrxm7nZiW7B7w6EVtZmj`
+Snapshot ID: `Zya9AAAAAABSlK5e3mIcFd1lX1Lys0fh`

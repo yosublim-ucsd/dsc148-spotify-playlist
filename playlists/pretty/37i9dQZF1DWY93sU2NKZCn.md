@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY93sU2NKZCn.md) - [plain]
 
 > No quieren compromiso, solo quieren bellaquera\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,378 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,476 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY93sU2NKZCn.md) - [plain]
 | 42 | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW) | 3:41 |
 | 43 | [CÓMO CHILLA ELLA](https://open.spotify.com/track/0W3TCDzYM7xFrZSaXnQvs4) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 2:14 |
 | 44 | [Tra Tra Tra Remix \- Remix](https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Mad Fuentes](https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW) | [Tra Tra Tra Remix](https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc) | 2:51 |
-| 45 | [Malory](https://open.spotify.com/track/4T18CIOag4LfuqqfzyBQmw) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Malory](https://open.spotify.com/album/407qOoTCcCGtc6DP2Wm0zi) | 1:56 |
-| 46 | [34 Amor y Mafia](https://open.spotify.com/track/6doVTElb0aU40nVrQ8Supq) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Los Green Lanters](https://open.spotify.com/album/5fu0DvDw45SEtOfwDF0m69) | 3:26 |
+| 45 | [34 Amor y Mafia](https://open.spotify.com/track/6doVTElb0aU40nVrQ8Supq) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Los Green Lanters](https://open.spotify.com/album/5fu0DvDw45SEtOfwDF0m69) | 3:26 |
+| 46 | [Malory](https://open.spotify.com/track/4T18CIOag4LfuqqfzyBQmw) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Malory](https://open.spotify.com/album/407qOoTCcCGtc6DP2Wm0zi) | 1:56 |
 | 47 | [M.A \- Remix](https://open.spotify.com/track/7JB29gnUowzSGRdIpeVqRQ) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [M.A \(Remix\)](https://open.spotify.com/album/3iggaiQChBAIIfQP8ZH2bR) | 4:32 |
 | 48 | [MÍRENME AHORA](https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 3:07 |
 | 49 | [Las Bratz \(Remix\)](https://open.spotify.com/track/36W1V6ft4fX7HQVSdIYL0J) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki), [El Bobe](https://open.spotify.com/artist/3FtVhV92rZyHa7ot2ioG5a), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [GIO](https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH) | [Las Bratz \(Remix\)](https://open.spotify.com/album/6c5uQ7ApweOF7C9mw7Bvge) | 7:24 |

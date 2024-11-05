@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Touché Amoré
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,486 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,544 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,25 +56,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 46 | [Opossum! My Possum!](https://open.spotify.com/track/5yghSwq7jePANBrd72J8Ly) | [Thanks! I Hate It](https://open.spotify.com/artist/2AXYLreE6e33pDQgQNNNyu) | [Lovers Lane](https://open.spotify.com/album/66VJJVlE4sn1PlZVIRKW58) | 3:45 |
 | 47 | [goin' for the garbage plate](https://open.spotify.com/track/2mH0I08tBUW5ZdgGrGrMT7) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x), [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [goin' for the garbage plate](https://open.spotify.com/album/1FoVLF5NnbJBlZPkXork3J) | 4:02 |
 | 48 | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/track/6SpavaUktNu788dew49p9U) | [Predisposed.](https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X) | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C) | 4:39 |
-| 49 | [Black Hole](https://open.spotify.com/track/2pNlprM4EeUDywzOcbIE2q) | [Goalkeeper](https://open.spotify.com/artist/1foCMRbxVRo99EWPglSD3n) | [Black Hole](https://open.spotify.com/album/3ZvWNjZk7kFwvM4EF5fiGf) | 2:48 |
-| 50 | [Glass](https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme) | [Forest Green](https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc) | [Glass](https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc) | 4:43 |
+| 49 | [Glass](https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme) | [Forest Green](https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc) | [Glass](https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc) | 4:43 |
+| 50 | [Black Hole](https://open.spotify.com/track/2pNlprM4EeUDywzOcbIE2q) | [Goalkeeper](https://open.spotify.com/artist/1foCMRbxVRo99EWPglSD3n) | [Black Hole](https://open.spotify.com/album/3ZvWNjZk7kFwvM4EF5fiGf) | 2:48 |
 | 51 | [You Will Never Be the Best at Anything You Try \(Surely Not\)](https://open.spotify.com/track/3kuRDe1vBmCXldgLl4ZJY9) | [Short Fictions](https://open.spotify.com/artist/07VKGw5BhunkwMnvz71Z1h) | [Every Moment of Every Day](https://open.spotify.com/album/2KKOxOD55emoqgbG2l5FSW) | 4:09 |
 | 52 | [Sometimes Things Change](https://open.spotify.com/track/2FEVvpf3HkEhIZMO3Gi6T0) | [Swimming](https://open.spotify.com/artist/102w2ubGZNdbZSCBkcGbJa) | [That's OK](https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl) | 4:05 |
-| 53 | [Leviathan](https://open.spotify.com/track/5Q7EvbPIC4ipRVlduRrnMn) | [State Faults](https://open.spotify.com/artist/6D3k7skHIg72j2v9J4zT9b) | [Children Of The Moon](https://open.spotify.com/album/7tqqBxs66oVjVvz7a9Isg7) | 4:10 |
-| 54 | [Numb](https://open.spotify.com/track/4OxACWNlVfc3KxcCaLy9mf) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [NUMB](https://open.spotify.com/album/6qkJORPQBeXP9DOqV6u4wR) | 4:00 |
+| 53 | [Numb](https://open.spotify.com/track/4OxACWNlVfc3KxcCaLy9mf) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [NUMB](https://open.spotify.com/album/6qkJORPQBeXP9DOqV6u4wR) | 4:00 |
+| 54 | [Leviathan](https://open.spotify.com/track/5Q7EvbPIC4ipRVlduRrnMn) | [State Faults](https://open.spotify.com/artist/6D3k7skHIg72j2v9J4zT9b) | [Children Of The Moon](https://open.spotify.com/album/7tqqBxs66oVjVvz7a9Isg7) | 4:10 |
 | 55 | [Botch Job](https://open.spotify.com/track/1m6BbiDMnZyOL2bEabfaqo) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Botch Job](https://open.spotify.com/album/4wkb2xBR8tVhsJVLCc6Yk3) | 2:46 |
-| 56 | [Auguries of Guilt](https://open.spotify.com/track/1lWuzJReshkbjDKjElnmeA) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Auguries of Guilt](https://open.spotify.com/album/1kPoDuvNX6536cx1ZWpUAN) | 5:37 |
-| 57 | [MC Hammered](https://open.spotify.com/track/6Dz3eXASv7SgydvUeJCErm) | [Smoke Detector](https://open.spotify.com/artist/2HBDXRQZZJyKINI8JUE1Ff) | [Needs Batterys](https://open.spotify.com/album/716jaC1Q5qyZQQFSCRhv9t) | 2:54 |
+| 56 | [MC Hammered](https://open.spotify.com/track/6Dz3eXASv7SgydvUeJCErm) | [Smoke Detector](https://open.spotify.com/artist/2HBDXRQZZJyKINI8JUE1Ff) | [Needs Batterys](https://open.spotify.com/album/716jaC1Q5qyZQQFSCRhv9t) | 2:54 |
+| 57 | [Auguries of Guilt](https://open.spotify.com/track/1lWuzJReshkbjDKjElnmeA) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Auguries of Guilt](https://open.spotify.com/album/1kPoDuvNX6536cx1ZWpUAN) | 5:37 |
 | 58 | [Stone](https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP) | [Clementine](https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c) | [Stone](https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK) | 3:34 |
 | 59 | [Pyramid](https://open.spotify.com/track/3EeM9ImuhVIkPMfKofSENY) | [Guitar Fight from Fooly Cooly](https://open.spotify.com/artist/6mJuP6zvtXUAVL9xjxZiDL) | [Drought](https://open.spotify.com/album/3OeQC3qI4aHJSb9acJvniZ) | 2:25 |
 | 60 | [Cactus Song](https://open.spotify.com/track/5XLxy3qdfkkzGR5gpMFSXs) | [Raccoon Tour](https://open.spotify.com/artist/5mGnbFnoUYEUNE5EKnQY7R) | [Cactus Song](https://open.spotify.com/album/4qLnXj96NMYOlH6ZjfoA8W) | 3:02 |
 | 61 | [Passing Through The Hourglass](https://open.spotify.com/track/5ZU9XFpImuMvbwkTxnefFu) | [Kaonashi](https://open.spotify.com/artist/60Zpxsk0QxhPEyyvWfSv0I) | [Passing Through The Hourglass](https://open.spotify.com/album/6ywlr4h3z5yPWAgMxQOTgA) | 3:58 |
 | 62 | [Dead On The Page](https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91) | [Park National](https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul) | [I'm Here And This Is Real](https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk) | 3:18 |
-| 63 | [Won't You Fade](https://open.spotify.com/track/2ORXMAC5DctNtC3LfhIsQF) | [Wither Away](https://open.spotify.com/artist/5qMmv2bWNnZOP0RLAzaHvM) | [Won't You Fade](https://open.spotify.com/album/0JzKDW5zcrzql9gz0UDEI3) | 4:33 |
-| 64 | [Grendel](https://open.spotify.com/track/3Pad3Y43Rlk4nSWi0etGNY) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Grendel](https://open.spotify.com/album/1FA9WX9DwRwR7Mdam8Ef82) | 5:04 |
+| 63 | [Grendel](https://open.spotify.com/track/3Pad3Y43Rlk4nSWi0etGNY) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Grendel](https://open.spotify.com/album/1FA9WX9DwRwR7Mdam8Ef82) | 5:04 |
+| 64 | [Won't You Fade](https://open.spotify.com/track/2ORXMAC5DctNtC3LfhIsQF) | [Wither Away](https://open.spotify.com/artist/5qMmv2bWNnZOP0RLAzaHvM) | [Won't You Fade](https://open.spotify.com/album/0JzKDW5zcrzql9gz0UDEI3) | 4:33 |
 | 65 | [Seoul](https://open.spotify.com/track/242MWOVEHopesZNGpUXih2) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0) | [Seoul](https://open.spotify.com/album/6In2brueDbHP59jDfPjmJM) | 3:17 |
-| 66 | [What I'm Feeling](https://open.spotify.com/track/34A5x3oPuiysfF2DD2YAvy) | [Mint Green](https://open.spotify.com/artist/5ivuVlLA09RcBnLFkOza7C) | [All Girls Go to Heaven](https://open.spotify.com/album/0dU3VxFjynVOH4jjv7CySV) | 4:02 |
-| 67 | [Stupid](https://open.spotify.com/track/7hJp3RopLaJZBj6SEqxkHx) | [I Love Your Lifestyle](https://open.spotify.com/artist/2gHsHeJxm4bTuS94fKQgB5) | [No Driver](https://open.spotify.com/album/7nWOIJtPFYFxVVPpSXzRQk) | 5:04 |
+| 66 | [Stupid](https://open.spotify.com/track/7hJp3RopLaJZBj6SEqxkHx) | [I Love Your Lifestyle](https://open.spotify.com/artist/2gHsHeJxm4bTuS94fKQgB5) | [No Driver](https://open.spotify.com/album/7nWOIJtPFYFxVVPpSXzRQk) | 5:04 |
+| 67 | [What I'm Feeling](https://open.spotify.com/track/34A5x3oPuiysfF2DD2YAvy) | [Mint Green](https://open.spotify.com/artist/5ivuVlLA09RcBnLFkOza7C) | [All Girls Go to Heaven](https://open.spotify.com/album/0dU3VxFjynVOH4jjv7CySV) | 4:02 |
 | 68 | [No Stranger](https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids // POOL](https://open.spotify.com/album/7l53P1GftnthQCpHQ3LwFX) | 3:44 |
 | 69 | [Anthem](https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Anthem](https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q) | 1:42 |
 | 70 | [Totally Cool](https://open.spotify.com/track/3SftY180mtXw6xQmAcmdU7) | [Magazine Beach](https://open.spotify.com/artist/1TgjkaIsJUDAINCbgLQIio) | [Constant Springtime](https://open.spotify.com/album/4r8ok6hGk7Uqvd6A498Xkb) | 2:39 |

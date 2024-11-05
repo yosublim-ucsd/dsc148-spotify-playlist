@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 671450,
+  "num_followers": 671507,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAABIfsbZh4WmhwRXJIJR3V1j",
+  "snapshot_id": "Zya9AAAAAAAtMR4mp51JS4uV83SYL4sO",
   "tracks": [
     {
       "added_at": null,
@@ -931,8 +931,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard Candy",
-        "url": "https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu"
+        "name": "Madame X - Music From The Theater Xperience (Live)",
+        "url": "https://open.spotify.com/album/5NLO9sMI3xznCGrRWhsPN3"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 288920,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/5OWUKkLu9nesbbD0bLwcRL"
+      "duration_ms": 98712,
+      "name": "Intro - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",
+      "url": "https://open.spotify.com/track/1ZipQfxercPLpiocNlMUpR"
     }
   ],
   "unique_name": "This Is Madonna",

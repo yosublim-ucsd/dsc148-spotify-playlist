@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Judeline.",
-  "num_followers": 165774,
+  "num_followers": 165777,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Ojos Diamante",
-        "url": "https://open.spotify.com/album/4rtY6WZ5mVN9tPgLw8ta51"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 163432,
-      "name": "Ojos Diamante",
-      "url": "https://open.spotify.com/track/5xhk8G4SbcV3WInNiOy3pt"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Sue\u00f1o C\u00edtrico (El D\u00eda Despu\u00e9s)",
         "url": "https://open.spotify.com/album/1c92815dElLk9cEKctEvEv"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 171612,
       "name": "Playita",
       "url": "https://open.spotify.com/track/3zUBGvGynrXKx1sKzTre98"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Ojos Diamante",
+        "url": "https://open.spotify.com/album/4rtY6WZ5mVN9tPgLw8ta51"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 163432,
+      "name": "Ojos Diamante",
+      "url": "https://open.spotify.com/track/5xhk8G4SbcV3WInNiOy3pt"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Superdeli",
+        "url": "https://open.spotify.com/album/10I29JjHVk7kRIDa85Bagx"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 168013,
+      "name": "Superdeli",
+      "url": "https://open.spotify.com/track/7oizn3u0M51APTosX3LQzL"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "M\u00edstica",
         "url": "https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 232693,
       "name": "M\u00edstica",
       "url": "https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Superdeli",
-        "url": "https://open.spotify.com/album/10I29JjHVk7kRIDa85Bagx"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 168013,
-      "name": "Superdeli",
-      "url": "https://open.spotify.com/track/7oizn3u0M51APTosX3LQzL"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Se siente bien",
-        "url": "https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI"
-      },
-      "artists": [
-        {
-          "name": "stivijoes",
-          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Se siente bien",
-      "url": "https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Live For Me",
         "url": "https://open.spotify.com/album/6zGhZBWh0K0PolEhjLv1Km"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 211666,
       "name": "Live For Me",
       "url": "https://open.spotify.com/track/3wEa4oO2y9kuaPAbh4pzQb"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Se siente bien",
+        "url": "https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI"
+      },
+      "artists": [
+        {
+          "name": "stivijoes",
+          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Se siente bien",
+      "url": "https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Fue un adi\u00f3s",
-        "url": "https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Fue un adi\u00f3s",
-      "url": "https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
         "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 154070,
       "name": "Eutanasia",
       "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Fue un adi\u00f3s",
+        "url": "https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Fue un adi\u00f3s",
+      "url": "https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Radiocaset",
-        "url": "https://open.spotify.com/album/4tUM9WQUaWaZkU9qPlvtN7"
-      },
-      "artists": [
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "Radiocaset",
-      "url": "https://open.spotify.com/track/3eJxCkekeUGMI237Uc3I4q"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Milanoche",
         "url": "https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 168282,
       "name": "Milanoche",
       "url": "https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Radiocaset",
+        "url": "https://open.spotify.com/album/4tUM9WQUaWaZkU9qPlvtN7"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "Radiocaset",
+      "url": "https://open.spotify.com/track/3eJxCkekeUGMI237Uc3I4q"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Ya No Es Lo Mismo",
-        "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
+        "name": "ESP\u00cdRITU",
+        "url": "https://open.spotify.com/album/1l4DLLvpzcHxswYRrSMMf7"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "A.CHAL",
+          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
         }
       ],
-      "duration_ms": 229573,
-      "name": "Ya No Es Lo Mismo",
-      "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
+      "duration_ms": 186613,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/2cHu1IBtAVO5q9cl3LLJie"
     }
   ],
   "unique_name": "Top Latin Indie",

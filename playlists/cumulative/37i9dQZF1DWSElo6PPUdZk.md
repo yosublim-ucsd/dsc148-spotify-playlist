@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
 
-134 songs - 6 hr 58 min
+135 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Pasand](https://open.spotify.com/track/6spnRIONdFbgl4NsBccGKO) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Saggi Nexuss](https://open.spotify.com/artist/5dMJiBJVkicivaHCgRKadi), [Khan Mallan Wala](https://open.spotify.com/artist/7Hs5OBCr72yssKFxWws6MN), [Ranjha Rajan](https://open.spotify.com/artist/4dHeX7BNfbSKdO8qAs555N) | [Pasand](https://open.spotify.com/album/3LYsjAh6DzEmo8wHYP9WfN) | 2:50 | 2024-08-30 | 2024-10-02 |
 | [Pasand Bangi](https://open.spotify.com/track/0PQkxMXbAWaqRZfdLxeamN) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Pasand Bangi](https://open.spotify.com/album/2PJPQ8mRBTPVOreuUDTJ2X) | 3:45 | 2023-03-18 | 2024-09-06 |
 | [Perfection](https://open.spotify.com/track/6hN5PBVrnAwydgOYNWeUWj) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Perfection](https://open.spotify.com/album/4IToiiA9yQfiSmAJJcQM4a) | 1:40 | 2024-04-24 | 2024-09-03 |
-| [Phulkari](https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Phulkari](https://open.spotify.com/album/3skDjGnv85nUKxVQknCk2B) | 3:16 | 2023-03-18 |  |
+| [Phulkari](https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Phulkari](https://open.spotify.com/album/3skDjGnv85nUKxVQknCk2B) | 3:16 | 2023-03-18 | 2024-11-05 |
 | [Raanjha \- Spotify Singles](https://open.spotify.com/track/2Xi2rN0Awghch9seTfDmge) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Raanjha \- Spotify Singles](https://open.spotify.com/album/644jvb8ZYS8ySgtUrXM8T0) | 2:23 | 2023-03-18 | 2023-04-20 |
 | [Raule](https://open.spotify.com/track/1IDO3YDXZEpBIT53R6QJSe) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Above All](https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG) | 3:15 | 2023-03-18 | 2024-10-11 |
 | [Rise](https://open.spotify.com/track/27eRjakkpVZjubP8iAvO9r) | [Sangeetha Rajeev](https://open.spotify.com/artist/3QthfLyCNAX8WDOAiGssHG) | [Rise](https://open.spotify.com/album/6FXWuqf9mdHV6aM0e781yI) | 2:48 | 2023-11-21 | 2024-01-31 |
@@ -133,6 +133,7 @@
 | [The Way You Look](https://open.spotify.com/track/4k5byIdn5kNQBpkRQNCPrl) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [The Way You Look](https://open.spotify.com/album/0L244FjMUoRQw2dHr9ktJS) | 3:20 | 2024-10-23 |  |
 | [Throughout India](https://open.spotify.com/track/7j1DG6gSjOJGlJfxlzrERW) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Throughout India](https://open.spotify.com/album/1ttVBeIUtxc9tL0aYcCUgG) | 2:25 | 2024-04-24 | 2024-09-10 |
 | [Time Chahida](https://open.spotify.com/track/4NiXbLYDwnA93pAxOO9fw2) | [Sana Panesar](https://open.spotify.com/artist/6tOoWveZi0RsecgXm6cxKf), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Time Chahida](https://open.spotify.com/album/57YtSUNY9HmiA7aJIhnxLi) | 2:36 | 2023-03-18 | 2024-09-03 |
+| [Trouble Maker](https://open.spotify.com/track/0oNW0SEIgjvKB6DWqRysA4) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Rao Fu](https://open.spotify.com/artist/7iDremzr2H92xcSusk6VRq), [Davvy Singh](https://open.spotify.com/artist/5Kq8UpbqjCdPBGshVrYnsc) | [Trouble Maker](https://open.spotify.com/album/3c3wvRAfV1v0rjDsmn4wj9) | 3:58 | 2024-11-04 |  |
 | [US \(feat\. Raja Kumari\)](https://open.spotify.com/track/36cqlmc53NqlEUqPJdgUOx) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:50 | 2023-03-18 | 2024-09-07 |
 | [Who Was With You](https://open.spotify.com/track/58mJuJRqVeoDBBIk9HWCiz) | [Shahat Gill](https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Who Was With You](https://open.spotify.com/album/2OtWaIyzG95Ljev1hyzwlz) | 2:45 | 2024-09-05 |  |
 | [Wrangler](https://open.spotify.com/track/22J4nmeDNKv8OlaFaqgfpr) | [Naaz Aulakh](https://open.spotify.com/artist/4IM8q4PhjHwrBOdITz0eRi) | [Wrangler](https://open.spotify.com/album/2HRm4krnpq1ZuZc9tInKya) | 2:33 | 2023-03-18 | 2023-10-10 |

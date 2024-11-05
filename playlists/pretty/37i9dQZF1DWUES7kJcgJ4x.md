@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,360 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,368 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 19 | [Supercalifragilisticoespialidoso](https://open.spotify.com/track/2nsdIXWjz3oq7uK75aJldh) | [Tania Velia](https://open.spotify.com/artist/7JphpBGpfygziWKh2Wuu3G) | [Donde Están las Llaves](https://open.spotify.com/album/60BZH8eGyNMsjl3WvcZVYn) | 2:10 |
 | 20 | [Dime Mi Amor](https://open.spotify.com/track/0OntImjbj7R9nZcWx4CkDv) | [Hilda Aguirre](https://open.spotify.com/artist/3OSm0uwQm0s67bllaGW80E) | [Jingle Jangle](https://open.spotify.com/album/4VO4juUpEGOsIxEmRrkwOC) | 2:02 |
 | 21 | [Cerca de ti \- 2015 Remastered Version](https://open.spotify.com/track/3E03E8hqTwUBmkNcWqnC19) | [Las Chic](https://open.spotify.com/artist/17V3HR9eBXClxwY2oS0Foj) | [Bailando el chic \(Remasterizado 2015\)](https://open.spotify.com/album/3PoBHm7Eh5S0MAY42odJ3T) | 2:30 |
-| 22 | [The "In" Crowd](https://open.spotify.com/track/139BfysfluWVAu4gnNh7L8) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 3:14 |
-| 23 | [Tú No Eres Ye Yé \(Jägerlatein\)](https://open.spotify.com/track/1Za7ZDhPUshMp2MOTiFbKT) | [Blanca Aurora](https://open.spotify.com/artist/4PPSXsmdy7P9QBDuoBLJ7M) | [Tú No Eres Ye Yé](https://open.spotify.com/album/2DuHHwSXls32idFXEZkiI0) | 2:19 |
+| 22 | [Tú No Eres Ye Yé \(Jägerlatein\)](https://open.spotify.com/track/1Za7ZDhPUshMp2MOTiFbKT) | [Blanca Aurora](https://open.spotify.com/artist/4PPSXsmdy7P9QBDuoBLJ7M) | [Tú No Eres Ye Yé](https://open.spotify.com/album/2DuHHwSXls32idFXEZkiI0) | 2:19 |
+| 23 | [The "In" Crowd](https://open.spotify.com/track/139BfysfluWVAu4gnNh7L8) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 3:14 |
 | 24 | [Muy Cerca de Tí](https://open.spotify.com/track/5f80txb4SYgEJtO6QTKS9l) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Cuando España Bailaba el Twist](https://open.spotify.com/album/1S1vdRlUTJVDMMNCEol9zU) | 2:32 |
 | 25 | [Me lo dijo Pérez](https://open.spotify.com/track/3ncN95x01VjT3FPm1ymMCc) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Los EP's Originales, Vol\. 2](https://open.spotify.com/album/3BdHDRBRICbHKSx5d67PGR) | 2:11 |
 | 26 | [Johnny \- Remastered](https://open.spotify.com/track/5QUna8ZopPtdNbdVKfbo44) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [Grabaciones Completas \(Remastered\)](https://open.spotify.com/album/4FYwjdq1HA7SenIHj5gNdQ) | 2:12 |

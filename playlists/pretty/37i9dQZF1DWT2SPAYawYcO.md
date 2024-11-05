@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Chase Atlantic
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,427 likes - 68 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,469 likes - 68 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

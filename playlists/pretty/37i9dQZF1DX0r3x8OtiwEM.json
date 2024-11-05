@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 964947,
+  "num_followers": 965085,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -967,18 +967,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Love You Got",
-        "url": "https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG"
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS"
       },
       "artists": [
         {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Volen Sentir",
+          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
         }
       ],
-      "duration_ms": 273600,
-      "name": "Love You Got",
-      "url": "https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu"
+      "duration_ms": 244517,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -999,22 +1003,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS"
+        "name": "Love You Got",
+        "url": "https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG"
       },
       "artists": [
         {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "Volen Sentir",
-          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
         }
       ],
-      "duration_ms": 244517,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA"
+      "duration_ms": 273600,
+      "name": "Love You Got",
+      "url": "https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu"
     },
     {
       "added_at": "2024-10-25 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Heat that will make you sweat 🥵 Cover: Greeicy & Kapo
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,937 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,993 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 47 | [Tucu](https://open.spotify.com/track/4oSDSQzBBB2BIvHeHcXoyu) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:06 |
 | 48 | [SISI](https://open.spotify.com/track/0AjwTEzkMErfaWOzVPswQ1) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [SISI](https://open.spotify.com/album/3ud1UfUZ1QnnsXXRA4TD0A) | 2:15 |
 | 49 | [Uff](https://open.spotify.com/track/6pw7KggD2vbvxRTV2iASxK) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Los Reyes Del Mar](https://open.spotify.com/album/6gICJJez4pXMZVV0MvqLZb) | 2:32 |
-| 50 | [LA BUENA VIDA](https://open.spotify.com/track/0qdgnVCqA0OVzvICPrD38E) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [LA BUENA VIDA](https://open.spotify.com/album/1LZfrEY6XrYpNDaM5hsEpG) | 2:20 |
+| 50 | [MPENZI WANGU](https://open.spotify.com/track/2ZIuMho0jsKb8OhBAZPAWz) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [CVRBON VRMOR](https://open.spotify.com/album/4ZOlDViNpY9CrAXTNZMffm) | 2:38 |
 
 Snapshot ID: `ZyR86QAAAACzCAk8ABHNVEJaPQeS0NuA`

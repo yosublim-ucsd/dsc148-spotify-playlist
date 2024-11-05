@@ -4,7 +4,7 @@
 
 > Lagu\-lagu mengsedih yang menyayat hati 😭
 
-172 songs - 11 hr 58 min
+173 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Angin Rindu](https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Angin Rindu](https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY) | 4:18 | 2024-10-15 |  |
 | [Antara](https://open.spotify.com/track/7egqnqmJvsOLqMWMcxnfKv) | [OKAAY](https://open.spotify.com/artist/0qeOMneLDwmcxGM2CuFnfq), [Quincy Jordan](https://open.spotify.com/artist/75EF8AJUBa970K88XlpOFS) | [Together We Are OKAAY](https://open.spotify.com/album/7Bb0ZIOOqQPcCvDFU8V5u3) | 3:59 | 2023-10-24 | 2023-11-14 |
 | [Apa Mungkin](https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin](https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31) | 3:58 | 2022-11-28 |  |
+| [Asumsi](https://open.spotify.com/track/72DL0kjCGfA4qIDQnR88hT) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [HARAP\-HARAP EMAS](https://open.spotify.com/album/62tBcSn5N7vgrndYZwC4GB) | 4:21 | 2024-11-04 |  |
 | [Bagaimana Kalau Aku Tidak Baik Baik Saja](https://open.spotify.com/track/7As3vd7OvJwyGUsZfNtHce) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Bagaimana Kalau Aku Tidak Baik Baik Saja](https://open.spotify.com/album/2EAkuKnERWRUnGBw1OTDZo) | 3:52 | 2022-11-28 | 2023-05-04 |
 | [Bahaya](https://open.spotify.com/track/45FQZlkNDDHg4pzyjiLQkc) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Bahaya](https://open.spotify.com/album/4MidcEabYlfTGK6LGMzpSY) | 4:20 | 2023-09-28 | 2023-11-14 |
 | [Bawa Dia Kembali](https://open.spotify.com/track/25M9piWxSsq0xLcjQW5yz6) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 3:46 | 2024-07-23 | 2024-09-03 |
@@ -37,7 +38,7 @@
 | [Bukan Manusia](https://open.spotify.com/track/1S7esa61kNKHJkCE9WXrzx) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Bukan Manusia](https://open.spotify.com/album/7kOe0Yje0NJbxAXMO1P1Lr) | 4:15 | 2023-06-23 | 2023-06-27 |
 | [Bulan Dikekang Malam \- From ''Ayat Ayat Cinta 2''](https://open.spotify.com/track/1fztiHQGVlICM9hI17dCmn) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Bulan Dikekang Malam \(From ''Ayat Ayat Cinta 2''\)](https://open.spotify.com/album/50mMnTDrXLCCFEE5zzWS69) | 3:54 | 2024-01-31 | 2024-02-21 |
 | [Cinta Dalam Hidupku](https://open.spotify.com/track/52BT4xBNjnJFrHi9p5PsQn) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [A New Chapter](https://open.spotify.com/album/0xA0QM3piWiMF22mqRVT6U) | 3:48 | 2024-02-20 | 2024-03-06 |
-| [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 | 2022-11-28 |  |
+| [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 | 2022-11-28 | 2024-11-05 |
 | [Cinta Sejati](https://open.spotify.com/track/7zoWyFMR4t8m4CWSmTAois) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Hit Singles BCL And More](https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j) | 5:02 | 2023-04-30 | 2023-07-27 |
 | [Cinta Tak Pada Waktunya](https://open.spotify.com/track/3QqZEiJytmm7Av6FRoknRQ) | [Dikta Wicaksono](https://open.spotify.com/artist/0zUPDmk0fO1r3OdJWZxGKj) | [Sendiri](https://open.spotify.com/album/3QIzUyXYgnKHDcPmoch1MR) | 4:09 | 2023-07-13 | 2023-08-31 |
 | [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 | 2024-01-31 |  |

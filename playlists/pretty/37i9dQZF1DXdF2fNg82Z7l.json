@@ -1,6 +1,6 @@
 {
   "description": "a strictly smooth mood...cover: Kehlani",
-  "num_followers": 121069,
+  "num_followers": 121121,
   "original_name": "Raw Silk ",
   "owner": {
     "name": "Spotify",
@@ -204,7 +204,7 @@
           "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 153693,
+      "duration_ms": 153266,
       "name": "gen z luv",
       "url": "https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK"
     },
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-10-24 13:01:00",
       "album": {
+        "name": "So High",
+        "url": "https://open.spotify.com/album/3VZiexdNV9MFUGDg2gFakT"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 201573,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/2qyhy9ndo8tTGMzXeHTisR"
+    },
+    {
+      "added_at": "2024-10-24 13:01:00",
+      "album": {
         "name": "Parking Lot",
         "url": "https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 172794,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju"
-    },
-    {
-      "added_at": "2024-10-24 13:01:00",
-      "album": {
-        "name": "So High",
-        "url": "https://open.spotify.com/album/3VZiexdNV9MFUGDg2gFakT"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 201573,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/2qyhy9ndo8tTGMzXeHTisR"
     },
     {
       "added_at": "2024-10-24 13:01:00",
@@ -323,22 +323,18 @@
     {
       "added_at": "2024-10-24 13:01:00",
       "album": {
-        "name": "Blow for Blow (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/3X327wwUvZhYQYlA6cfk9S"
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
       "artists": [
         {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 210285,
-      "name": "Blow for Blow (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/3rXlcLZk3MCaRPND5g9QiW"
+      "duration_ms": 314075,
+      "name": "Nikes",
+      "url": "https://open.spotify.com/track/19YKaevk2bce4odJkP5L22"
     },
     {
       "added_at": "2024-10-24 13:01:00",
@@ -359,18 +355,22 @@
     {
       "added_at": "2024-10-24 13:01:00",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+        "name": "Blow for Blow (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/3X327wwUvZhYQYlA6cfk9S"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 314075,
-      "name": "Nikes",
-      "url": "https://open.spotify.com/track/19YKaevk2bce4odJkP5L22"
+      "duration_ms": 210285,
+      "name": "Blow for Blow (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/3rXlcLZk3MCaRPND5g9QiW"
     },
     {
       "added_at": "2024-10-24 13:01:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-10-24 13:01:00",
       "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
+    },
+    {
+      "added_at": "2024-10-24 13:01:00",
+      "album": {
         "name": "Saturday Mornings (feat. Lil Wayne)",
         "url": "https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 207501,
       "name": "Hide It (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/2NXGMnNU6nctSmcKWjfdCS"
-    },
-    {
-      "added_at": "2024-10-24 13:01:00",
-      "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
     },
     {
       "added_at": "2024-10-24 13:01:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-10-24 13:01:00",
       "album": {
-        "name": "One In A Million",
-        "url": "https://open.spotify.com/album/79EIRdmpPSIWfRlxaZdJbG"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 270760,
-      "name": "One In A Million",
-      "url": "https://open.spotify.com/track/6gdhHMWUv1pvkOHqCUGvCp"
-    },
-    {
-      "added_at": "2024-10-24 13:01:00",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 264826,
       "name": "Promises",
       "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
+    },
+    {
+      "added_at": "2024-10-24 13:01:00",
+      "album": {
+        "name": "One In A Million",
+        "url": "https://open.spotify.com/album/79EIRdmpPSIWfRlxaZdJbG"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 270760,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/6gdhHMWUv1pvkOHqCUGvCp"
     },
     {
       "added_at": "2024-10-24 13:01:00",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2024-10-24 13:01:00",
       "album": {
-        "name": "Tana Talk 4",
-        "url": "https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Johnny P's Caddy",
-      "url": "https://open.spotify.com/track/59ClUavkkfRhryajZBn2Lf"
-    },
-    {
-      "added_at": "2024-10-24 13:01:00",
-      "album": {
         "name": "Playboi Carti",
         "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 183552,
       "name": "Lookin",
       "url": "https://open.spotify.com/track/1UAmQe8EwpxQ80OfYVD13z"
+    },
+    {
+      "added_at": "2024-10-24 13:01:00",
+      "album": {
+        "name": "Tana Talk 4",
+        "url": "https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Johnny P's Caddy",
+      "url": "https://open.spotify.com/track/59ClUavkkfRhryajZBn2Lf"
     },
     {
       "added_at": "2024-10-24 13:01:00",
@@ -1251,18 +1251,26 @@
     {
       "added_at": "2024-10-24 13:01:00",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa"
+        "name": "The House Is Burning",
+        "url": "https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko"
       },
       "artists": [
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "Kal Banx",
+          "url": "https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL"
         }
       ],
-      "duration_ms": 127022,
-      "name": "911",
-      "url": "https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8"
+      "duration_ms": 176682,
+      "name": "Wat U Sed (feat. Doechii & Kal Banx)",
+      "url": "https://open.spotify.com/track/0VYchQkqpeEyh95D1pWqy2"
     },
     {
       "added_at": "2024-10-24 13:01:00",
@@ -1287,26 +1295,18 @@
     {
       "added_at": "2024-10-24 13:01:00",
       "album": {
-        "name": "The House Is Burning",
-        "url": "https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko"
+        "name": "911",
+        "url": "https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa"
       },
       "artists": [
         {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "Kal Banx",
-          "url": "https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 176682,
-      "name": "Wat U Sed (feat. Doechii & Kal Banx)",
-      "url": "https://open.spotify.com/track/0VYchQkqpeEyh95D1pWqy2"
+      "duration_ms": 127022,
+      "name": "911",
+      "url": "https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8"
     },
     {
       "added_at": "2024-10-24 13:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! RENEE en portada.",
-  "num_followers": 31680,
+  "num_followers": 31699,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -643,18 +643,18 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Tormentas Inesperadas",
-        "url": "https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl"
+        "name": "Pienso En Vos",
+        "url": "https://open.spotify.com/album/0KanSt4pJ5LqTVjBHpsTSX"
       },
       "artists": [
         {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         }
       ],
-      "duration_ms": 264749,
-      "name": "Amanecidos",
-      "url": "https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s"
+      "duration_ms": 146000,
+      "name": "Pienso En Vos",
+      "url": "https://open.spotify.com/track/16oWKtRubxV7MFaSCG5zgQ"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Pienso En Vos",
-        "url": "https://open.spotify.com/album/0KanSt4pJ5LqTVjBHpsTSX"
+        "name": "Tormentas Inesperadas",
+        "url": "https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl"
       },
       "artists": [
         {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Pienso En Vos",
-      "url": "https://open.spotify.com/track/16oWKtRubxV7MFaSCG5zgQ"
+      "duration_ms": 264749,
+      "name": "Amanecidos",
+      "url": "https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
+        "name": "\u00bfC\u00f3mo decir adi\u00f3s?",
+        "url": "https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 156610,
+      "name": "Atardeci\u00f3 sin vos",
+      "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
         "name": "Cristal",
         "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 182948,
       "name": "B2B",
       "url": "https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "\u00bfC\u00f3mo decir adi\u00f3s?",
-        "url": "https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 156610,
-      "name": "Atardeci\u00f3 sin vos",
-      "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
     },
     {
       "added_at": "2024-11-01 06:00:00",

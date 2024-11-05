@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Leiva.",
-  "num_followers": 585596,
+  "num_followers": 585640,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Agila",
-        "url": "https://open.spotify.com/album/3msSCqpQLoY0nl4RTSf1Is"
-      },
-      "artists": [
-        {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
-        }
-      ],
-      "duration_ms": 281666,
-      "name": "So payaso",
-      "url": "https://open.spotify.com/track/5HSpMRUC4m3L3q48to2Kmu"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Voy A Pasarmelo Bien",
         "url": "https://open.spotify.com/album/50XOsvW7uGrpaCtzqUm2bv"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 235080,
       "name": "Voy a pas\u00e1rmelo bien",
       "url": "https://open.spotify.com/track/78FJd3BMjDQCA1Hh2QfKqS"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Agila",
+        "url": "https://open.spotify.com/album/3msSCqpQLoY0nl4RTSf1Is"
+      },
+      "artists": [
+        {
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+        }
+      ],
+      "duration_ms": 281666,
+      "name": "So payaso",
+      "url": "https://open.spotify.com/track/5HSpMRUC4m3L3q48to2Kmu"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Canciones Prohibidas",
-        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
-      },
-      "artists": [
-        {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
-        }
-      ],
-      "duration_ms": 318986,
-      "name": "Salir",
-      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Un \u00faltimo vals",
         "url": "https://open.spotify.com/album/5EIyVu9MNNnpn7nuaYHMRp"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 253769,
       "name": "Un \u00faltimo vals",
       "url": "https://open.spotify.com/track/4CiY69daQtmIl2RNqsYCtp"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Canciones Prohibidas",
+        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
+      },
+      "artists": [
+        {
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+        }
+      ],
+      "duration_ms": 318986,
+      "name": "Salir",
+      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Correos",
-        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
-      },
-      "artists": [
-        {
-          "name": "Platero Y Tu",
-          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Cigarrito",
-      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "El Bien",
         "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 206226,
       "name": "El Bien",
       "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Correos",
+        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
+      },
+      "artists": [
+        {
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Cigarrito",
+      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Vispera De Todos Los Santos",
-        "url": "https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY"
-      },
-      "artists": [
-        {
-          "name": "Los Suaves",
-          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
-        }
-      ],
-      "duration_ms": 294200,
-      "name": "Palabras Para Julia",
-      "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Sin Tiempo",
         "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 296400,
       "name": "Todo Tiene Su Fin",
       "url": "https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Vispera De Todos Los Santos",
+        "url": "https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY"
+      },
+      "artists": [
+        {
+          "name": "Los Suaves",
+          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
+        }
+      ],
+      "duration_ms": 294200,
+      "name": "Palabras Para Julia",
+      "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Bailar\u00e9 sobre tu tumba",
-        "url": "https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw"
-      },
-      "artists": [
-        {
-          "name": "Siniestro Total",
-          "url": "https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "Bailar\u00e9 sobre tu tumba",
-      "url": "https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "El Bandido Medina (De la serie original de Prime Video, Medina: El Estafador de Famosos)",
         "url": "https://open.spotify.com/album/2KWlO5OH2N5ImoY7XzX9SI"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 196917,
       "name": "El Bandido Medina - De la serie original de Prime Video, Medina: El Estafador de Famosos",
       "url": "https://open.spotify.com/track/4bVINAreycRGIVE6abq6Dj"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Bailar\u00e9 sobre tu tumba",
+        "url": "https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw"
+      },
+      "artists": [
+        {
+          "name": "Siniestro Total",
+          "url": "https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "Bailar\u00e9 sobre tu tumba",
+      "url": "https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Fugitivos De Paraiso",
+        "url": "https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk"
+      },
+      "artists": [
+        {
+          "name": "Doctor Deseo",
+          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Corazon de Tango",
+      "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Hasta el final (feat. Leiva)",
         "url": "https://open.spotify.com/album/4FrxrMUrBRgRpWuri46Trx"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 313923,
       "name": "Hasta el final (feat. Leiva)",
       "url": "https://open.spotify.com/track/5QMHGB9Ea6nVVar5sh3x8q"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Fugitivos De Paraiso",
-        "url": "https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk"
-      },
-      "artists": [
-        {
-          "name": "Doctor Deseo",
-          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Corazon de Tango",
-      "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
     },
     {
       "added_at": "2024-10-31 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women opening up the pit\. Cover: Poppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,716 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,995 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 19 | [Whisper](https://open.spotify.com/track/1TU3KOnNwSERgNbF2Yzl7N) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 5:27 |
 | 20 | [Atonement](https://open.spotify.com/track/1IcUvKPxQSbGCL4fhf0oaK) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Slow Burn](https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9) | 3:57 |
 | 21 | [Petrichor](https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Petrichor](https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS) | 4:03 |
-| 22 | [Sensorium](https://open.spotify.com/track/5Souga96S54RLFk30XrEJP) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [The Phantom Agony \(Expanded Edition\)](https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf) | 4:49 |
-| 23 | [Big in Japan](https://open.spotify.com/track/3lQO10djAi0Ym506za76Wt) | [Guano Apes](https://open.spotify.com/artist/4whxX965DKKqYkXmk33b4E) | [Don't Give Me Names](https://open.spotify.com/album/37GjnYxAXPk9EPXgL4jv4s) | 2:48 |
+| 22 | [Big in Japan](https://open.spotify.com/track/3lQO10djAi0Ym506za76Wt) | [Guano Apes](https://open.spotify.com/artist/4whxX965DKKqYkXmk33b4E) | [Don't Give Me Names](https://open.spotify.com/album/37GjnYxAXPk9EPXgL4jv4s) | 2:48 |
+| 23 | [Sensorium](https://open.spotify.com/track/5Souga96S54RLFk30XrEJP) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [The Phantom Agony \(Expanded Edition\)](https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf) | 4:49 |
 | 24 | [Tsunami \(11:11\)](https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Tsunami \(11:11\)](https://open.spotify.com/album/1mQwEcEkEfQ5EFW9Q4PpsE) | 3:08 |
 | 25 | [Our Truth](https://open.spotify.com/track/6vS5siwSidItcWFXskcpAA) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:03 |
 | 26 | [Spit](https://open.spotify.com/track/35UePqF4pjXRtIsF7jLBFi) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Spit](https://open.spotify.com/album/1A1imsxjEk8FxR6w31vjdh) | 2:30 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 74 | [Like That](https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 2:35 |
 | 75 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 |
 | 76 | [Shadow](https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:48 |
-| 77 | [And So It Went \(feat\. Tom Morello\)](https://open.spotify.com/track/03Szk0skbXqllHkNCVZI9p) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [And So It Went](https://open.spotify.com/album/3i32UJ5zr5ZEuGbiovsIY3) | 4:30 |
-| 78 | [Sleeping with the Enemy](https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Sleeping with the Enemy](https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA) | 3:32 |
+| 77 | [Sleeping with the Enemy](https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Sleeping with the Enemy](https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA) | 3:32 |
+| 78 | [And So It Went \(feat\. Tom Morello\)](https://open.spotify.com/track/03Szk0skbXqllHkNCVZI9p) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [And So It Went](https://open.spotify.com/album/3i32UJ5zr5ZEuGbiovsIY3) | 4:30 |
 | 79 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 |
 | 80 | [Real Wild Child](https://open.spotify.com/track/0aJkQe2ux7kl3XKpbYVibb) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Flashback](https://open.spotify.com/album/6lw1mTt5OLU02aOwTp7NSk) | 1:35 |
 

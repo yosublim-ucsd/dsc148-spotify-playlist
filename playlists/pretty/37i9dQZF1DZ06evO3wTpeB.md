@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 
 > This is Ali Aka Mind\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,228 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,230 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 | 31 | [Una Oportunidad](https://open.spotify.com/track/5bJvvd2M5byWc8t8DJ5dwr) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Una Oportunidad](https://open.spotify.com/album/4siy0X5dG8LiSX2EbGYbV7) | 3:33 |
 | 32 | [Agradezco](https://open.spotify.com/track/0bzXvilLiJGEe0ACmeFi5Z) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Agradezco](https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp) | 3:08 |
 | 33 | [Mi Ciudad Es Fresca](https://open.spotify.com/track/0rbrXJIMU4ucrLJLCdTXtX) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Andrade A.K.A Doble A](https://open.spotify.com/artist/7b9fbzEOUa59TNhgCVIGLU) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 3:07 |
-| 34 | [Ahora Que Puedo](https://open.spotify.com/track/5k0VGSqgmgV2YwedsyMaSb) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 3:49 |
-| 35 | [Yo Quise](https://open.spotify.com/track/7LM6uu4KYVoduR9ESEf6Ym) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Elias Wallace](https://open.spotify.com/artist/5SaZEYSyIV17OizlU9DjzI), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW) | [Yo Quise](https://open.spotify.com/album/77SgnkVqnSZXF5gdgmhXBR) | 3:32 |
+| 34 | [Yo Quise](https://open.spotify.com/track/7LM6uu4KYVoduR9ESEf6Ym) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Elias Wallace](https://open.spotify.com/artist/5SaZEYSyIV17OizlU9DjzI), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW) | [Yo Quise](https://open.spotify.com/album/77SgnkVqnSZXF5gdgmhXBR) | 3:32 |
+| 35 | [Ahora Que Puedo](https://open.spotify.com/track/5k0VGSqgmgV2YwedsyMaSb) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 3:49 |
 | 36 | [Mestizo](https://open.spotify.com/track/2FEJmKj4F8DsR24MpDUqZY) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 2:28 |
 | 37 | [One Hood](https://open.spotify.com/track/4BngReMiuIjovvG7LAel8T) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ) | [One Hood](https://open.spotify.com/album/28aKhF6U8oavtisSPOqwsw) | 3:30 |
 | 38 | [Nunca Es Tarde Pa' Empezar](https://open.spotify.com/track/0rKTUWLac8ZmYYAsQqsxqX) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 | 49 | [Cypher \(feat\. Mecal, Benzina, La Reyna & Elephanto\)](https://open.spotify.com/track/3Delq0wrQ6oLoquNU08AoX) | [El B](https://open.spotify.com/artist/2hbqnyDIEyi8JbZCmOkPdm), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5), [Benzina](https://open.spotify.com/artist/6wS510Ui8Es2eB6vsriZPY), [La Reyna](https://open.spotify.com/artist/41sIcvBVhFqCKi0ifbLvct), [Elephanto](https://open.spotify.com/artist/5NoTWqoGm1FNGyRpKp7EBI) | [7](https://open.spotify.com/album/1hR0olM285k9Ri0qj76ue7) | 5:14 |
 | 50 | [Emily](https://open.spotify.com/track/6ka4z78PDgF3mepKkY2W4o) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 3:20 |
 
-Snapshot ID: `ZyVrgAAAAAD+MtLBDYv28qVsvb+8B0ns`
+Snapshot ID: `Zya9AAAAAABw7uYaHTuPtnEBX1XNDaTf`

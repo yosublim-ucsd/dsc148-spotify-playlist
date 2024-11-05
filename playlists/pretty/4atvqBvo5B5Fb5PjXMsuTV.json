@@ -1,13 +1,101 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 02 Nov 05:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 05 Nov 23:02 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAM5ErNAFQVesb8pTHTGc/7+/Xi1v/N",
+  "snapshot_id": "AAAM7smgTIZzm/eJyMCoN/8tvD3hG0vi",
   "tracks": [
+    {
+      "added_at": "2024-11-04 05:02:38",
+      "album": {
+        "name": "DABADABADABADABA",
+        "url": "https://open.spotify.com/album/4JGsUCVSHp0G9UESD2eH8g"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        }
+      ],
+      "duration_ms": 144535,
+      "name": "DABADABADABADABA",
+      "url": "https://open.spotify.com/track/3VxkYtmVCInFfhkbsaMg0B"
+    },
+    {
+      "added_at": "2024-11-04 11:03:13",
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/0lzllJKffqeHBrlhg79BMw"
+      },
+      "artists": [
+        {
+          "name": "Doves",
+          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+        }
+      ],
+      "duration_ms": 311702,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/6XMHSmYxPPSu5dEIYT2iiB"
+    },
+    {
+      "added_at": "2024-11-04 23:02:47",
+      "album": {
+        "name": "The Bed I Made",
+        "url": "https://open.spotify.com/album/7xTWhpb2IMY0KIfqXxbqTZ"
+      },
+      "artists": [
+        {
+          "name": "Danny Worsnop",
+          "url": "https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW"
+        }
+      ],
+      "duration_ms": 186808,
+      "name": "The Bed I Made",
+      "url": "https://open.spotify.com/track/3gBiP88ggeaMxwVdLULEVv"
+    },
+    {
+      "added_at": "2024-11-04 17:02:54",
+      "album": {
+        "name": "Bikinis and Trackies",
+        "url": "https://open.spotify.com/album/6WsFthfrDQuLxlvu5uYWW3"
+      },
+      "artists": [
+        {
+          "name": "Babymorocco",
+          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
+        },
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Bikinis and Trackies",
+      "url": "https://open.spotify.com/track/55xDoUMKFhBWi3ZxJBzyt5"
+    },
+    {
+      "added_at": "2024-11-04 08:02:41",
+      "album": {
+        "name": "Horrors of the Reformed",
+        "url": "https://open.spotify.com/album/4wEkhrgrwpOVpKDSqjMprW"
+      },
+      "artists": [
+        {
+          "name": "Deadbody",
+          "url": "https://open.spotify.com/artist/1wGgCyV0NZ50dH1aEoKjma"
+        }
+      ],
+      "duration_ms": 111600,
+      "name": "Horrors Of The Reformed",
+      "url": "https://open.spotify.com/track/7I0zILweTNPOxHTGiXQfav"
+    },
     {
       "added_at": "2024-11-02 05:02:28",
       "album": {
@@ -617,26 +705,6 @@
       "url": "https://open.spotify.com/track/49p6Jr3v4lrHxoUa7XnMN5"
     },
     {
-      "added_at": "2024-11-01 05:03:09",
-      "album": {
-        "name": "Open The Pit",
-        "url": "https://open.spotify.com/album/5wiAY7ul5fy4xdzfKq9BV6"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        }
-      ],
-      "duration_ms": 226069,
-      "name": "Open The Pit",
-      "url": "https://open.spotify.com/track/1HComaUOXdl7jRuGB3KsVB"
-    },
-    {
       "added_at": "2024-11-01 20:03:07",
       "album": {
         "name": "Fantasy (feat. Channel Tres)",
@@ -655,6 +723,26 @@
       "duration_ms": 216588,
       "name": "Fantasy (feat. Channel Tres)",
       "url": "https://open.spotify.com/track/1dGk1UhfbLY0neBaedx37o"
+    },
+    {
+      "added_at": "2024-11-01 05:03:09",
+      "album": {
+        "name": "Open The Pit",
+        "url": "https://open.spotify.com/album/5wiAY7ul5fy4xdzfKq9BV6"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "duration_ms": 226069,
+      "name": "Open The Pit",
+      "url": "https://open.spotify.com/track/1HComaUOXdl7jRuGB3KsVB"
     },
     {
       "added_at": "2024-11-01 11:02:35",
@@ -763,86 +851,6 @@
       "duration_ms": 195759,
       "name": "on my way!",
       "url": "https://open.spotify.com/track/3xop7j0ksS5xxLnR9uFi6U"
-    },
-    {
-      "added_at": "2024-11-01 08:02:42",
-      "album": {
-        "name": "Breath and Air",
-        "url": "https://open.spotify.com/album/5IBrs2SIkhxt25XlOBdaYl"
-      },
-      "artists": [
-        {
-          "name": "Heather Nova",
-          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
-        }
-      ],
-      "duration_ms": 243696,
-      "name": "Breath and Air",
-      "url": "https://open.spotify.com/track/1O5kwGOmJG14kjPWKKDPK6"
-    },
-    {
-      "added_at": "2024-11-01 23:02:42",
-      "album": {
-        "name": "Wild Wild Country",
-        "url": "https://open.spotify.com/album/284u2HN5bS9LNzArwBwziP"
-      },
-      "artists": [
-        {
-          "name": "Vista Kicks",
-          "url": "https://open.spotify.com/artist/6wnSPJpmVKFcn1TpRl5Uli"
-        }
-      ],
-      "duration_ms": 369789,
-      "name": "Wild Wild Country",
-      "url": "https://open.spotify.com/track/7kghki7K4wGa4GZQpFZzZA"
-    },
-    {
-      "added_at": "2024-11-01 05:03:09",
-      "album": {
-        "name": "CONTROL",
-        "url": "https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6"
-      },
-      "artists": [
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "CONTROL",
-      "url": "https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK"
-    },
-    {
-      "added_at": "2024-11-01 23:02:42",
-      "album": {
-        "name": "Mele Kalikimaka",
-        "url": "https://open.spotify.com/album/56uk9UNvOo4u345ARGona0"
-      },
-      "artists": [
-        {
-          "name": "Ax and the Hatchetmen",
-          "url": "https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9"
-        }
-      ],
-      "duration_ms": 141383,
-      "name": "Mele Kalikimaka",
-      "url": "https://open.spotify.com/track/52dVLvpHm87AYtUoABEZbl"
-    },
-    {
-      "added_at": "2024-11-01 11:02:35",
-      "album": {
-        "name": "to be free",
-        "url": "https://open.spotify.com/album/12i8HQPqFmEO1cBqhF26fI"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 230476,
-      "name": "to be free",
-      "url": "https://open.spotify.com/track/2f526wBHCGx6u6HsbF0uAE"
     }
   ],
   "unique_name": "New Singles Now",

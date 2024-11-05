@@ -1,13 +1,29 @@
 {
   "description": "The official playlist for <a href=\"spotify:user:0ouhj3nctpqgo8bgamzte2o6o\">Paramount Network</a>'s Yellowstone.",
-  "num_followers": 532665,
+  "num_followers": 533012,
   "original_name": "Yellowstone Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZIxYdwAAAAD3tPTw5tvn1bPz8DQ3GPE+",
+  "snapshot_id": "ZylzFQAAAADmsNfzxbHPFBQ+exXub+wd",
   "tracks": [
+    {
+      "added_at": "2019-06-27 02:01:00",
+      "album": {
+        "name": "Yellowstone (Original Television Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L"
+      },
+      "artists": [
+        {
+          "name": "Brian Tyler",
+          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
+        }
+      ],
+      "duration_ms": 148080,
+      "name": "Yellowstone Theme",
+      "url": "https://open.spotify.com/track/39dFpriXYV9LfUSRJZXqyI"
+    },
     {
       "added_at": "2023-01-04 01:00:00",
       "album": {
@@ -3223,22 +3239,6 @@
       "duration_ms": 69626,
       "name": "Yellowstone Main Titles",
       "url": "https://open.spotify.com/track/2UJvq5v0tSh1UrtINtKhMn"
-    },
-    {
-      "added_at": "2019-06-27 02:01:00",
-      "album": {
-        "name": "Yellowstone (Original Television Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L"
-      },
-      "artists": [
-        {
-          "name": "Brian Tyler",
-          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
-        }
-      ],
-      "duration_ms": 148080,
-      "name": "Yellowstone Theme",
-      "url": "https://open.spotify.com/track/39dFpriXYV9LfUSRJZXqyI"
     }
   ],
   "unique_name": "Yellowstone Official Playlist",

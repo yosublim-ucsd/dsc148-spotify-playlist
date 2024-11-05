@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Alessandra Amoroso in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,992 likes - 65 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,001 likes - 65 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 9 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 |
 | 10 | [BUTTALO VIA](https://open.spotify.com/track/1HpBoY16BEoyLpitEG9kTC) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [BUTTALO VIA](https://open.spotify.com/album/27V0r3kcxje96sG3e8cJab) | 4:05 |
 | 11 | [HO SBAGLIATO ANCORA](https://open.spotify.com/track/33LYvdSbeXaVc5PEIsjR6Z) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [HO SBAGLIATO ANCORA](https://open.spotify.com/album/05KkTlwyI1nwyfIkp5BEqA) | 3:10 |
-| 12 | [Serve amore](https://open.spotify.com/track/5t86bO0cNDDwv6YfZOerVJ) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [IRBIS](https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL) | [Serve amore](https://open.spotify.com/album/1ZW7D2JshhEjpwvxrku5tF) | 3:05 |
+| 12 | [Serve Amore](https://open.spotify.com/track/5t86bO0cNDDwv6YfZOerVJ) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [IRBIS](https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL) | [Serve Amore](https://open.spotify.com/album/1ZW7D2JshhEjpwvxrku5tF) | 3:05 |
 | 13 | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0) | 2:56 |
 | 14 | [One By One](https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [One By One](https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K) | 2:59 |
 | 15 | [We Good](https://open.spotify.com/track/0F60WLPs6Oz2slHomvLt9U) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:05 |

@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Tate McRae",
-  "num_followers": 4091028,
+  "num_followers": 4091045,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Houdini (Adam Port Mix)",
-        "url": "https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG"
+        "name": "Say Yes To Heaven (Anyma Remix)",
+        "url": "https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         },
         {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Houdini - Adam Port Mix",
-      "url": "https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ"
+      "duration_ms": 222076,
+      "name": "Say Yes To Heaven - Anyma Remix",
+      "url": "https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Say Yes To Heaven (Anyma Remix)",
-        "url": "https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 222076,
-      "name": "Say Yes To Heaven - Anyma Remix",
-      "url": "https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Hide Away (Alan Walker Remix)",
         "url": "https://open.spotify.com/album/2nJlv1pIys7dtM2vhiUL2N"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 137538,
       "name": "Hide Away - Alan Walker Remix",
       "url": "https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Houdini (Adam Port Mix)",
+        "url": "https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Houdini - Adam Port Mix",
+      "url": "https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -735,26 +735,6 @@
       "duration_ms": 189391,
       "name": "I Can Do It With a Broken Heart - Dombresky Remix",
       "url": "https://open.spotify.com/track/0hFF0aqyjDwDh6SQwRbTyx"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Love Again (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Love Again - Imanbek Remix",
-      "url": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -851,6 +831,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Love Again (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Love Again - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi"
       },
@@ -867,6 +867,26 @@
       "duration_ms": 155676,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Feeling Good (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        }
+      ],
+      "duration_ms": 150789,
+      "name": "Feeling Good - Austin Millz Remix",
+      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -951,26 +971,6 @@
       "duration_ms": 173658,
       "name": "Sunroof - Loud Luxury Remix",
       "url": "https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Feeling Good (Austin Millz Remix)",
-        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        }
-      ],
-      "duration_ms": 150789,
-      "name": "Feeling Good - Austin Millz Remix",
-      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Summertime Sadness (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 265997,
+      "name": "Summertime - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Numb (Alok Remix)",
         "url": "https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 172913,
       "name": "Numb - Alok Remix",
       "url": "https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Summertime Sadness (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 265997,
-      "name": "Summertime - Imanbek Remix",
-      "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Illusion (The Blaze Remix)",
-        "url": "https://open.spotify.com/album/1eQnfWI0gVyTFV1aT3DQwE"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 250683,
-      "name": "Illusion - The Blaze Remix",
-      "url": "https://open.spotify.com/track/2Z8bXQpJTjR78t7nu4FRCk"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Never Gonna Not Dance Again (Sam Feldt Remix)",
         "url": "https://open.spotify.com/album/4qxm7mFPzfXYEo5A9LPg5J"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 162480,
       "name": "Seven (feat. Latto) (Alesso Remix)",
       "url": "https://open.spotify.com/track/748MqeDRJ401KBqwCn5zHB"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Illusion (The Blaze Remix)",
+        "url": "https://open.spotify.com/album/1eQnfWI0gVyTFV1aT3DQwE"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 250683,
+      "name": "Illusion - The Blaze Remix",
+      "url": "https://open.spotify.com/track/2Z8bXQpJTjR78t7nu4FRCk"
     },
     {
       "added_at": "2024-07-26 04:00:00",

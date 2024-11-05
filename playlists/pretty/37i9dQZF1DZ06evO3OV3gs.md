@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,450 likes - 54 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,507 likes - 54 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,6 +61,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 51 | [Faz Gostoso \(feat\. Anitta\)](https://open.spotify.com/track/2SC14LGDbRWRlyLg9Wupa0) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:05 |
 | 52 | [BREAK MY SOUL \- THE QUEENS REMIX](https://open.spotify.com/track/4DukzQv7lF6DXe6Un7lghr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [BREAK MY SOUL \(THE QUEENS REMIX\)](https://open.spotify.com/album/4xm2wzhAU05Y4dEdj1BO5J) | 5:56 |
 | 53 | [Frozen On Fire](https://open.spotify.com/track/7MfRwjpGwlZpxOvKiMlf1m) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen On Fire](https://open.spotify.com/album/1tigrws32UpX26xU9Y3Yac) | 3:12 |
-| 54 | [Miles Away](https://open.spotify.com/track/5OWUKkLu9nesbbD0bLwcRL) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hard Candy](https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu) | 4:48 |
+| 54 | [Intro \- Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12\-23/2020](https://open.spotify.com/track/1ZipQfxercPLpiocNlMUpR) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madame X \- Music From The Theater Xperience \(Live\)](https://open.spotify.com/album/5NLO9sMI3xznCGrRWhsPN3) | 1:38 |
 
-Snapshot ID: `ZyVrgAAAAABIfsbZh4WmhwRXJIJR3V1j`
+Snapshot ID: `Zya9AAAAAAAtMR4mp51JS4uV83SYL4sO`

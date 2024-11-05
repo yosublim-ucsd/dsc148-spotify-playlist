@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด และเพลงอิงกระแสตอนนี้\. ศิลปิน: Butterbear
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,626 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,778 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 |
 | 2 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
-| 3 | [ฮีลใจ \(Here For You\)](https://open.spotify.com/track/2jMxARZO1H1CNDyApCpwNr) | [Butterbear](https://open.spotify.com/artist/7bDJAhi2Egiu9bGQq91Qkr) | [ฮีลใจ \(Here For You\)](https://open.spotify.com/album/2LvIsQRWHQOPjKUyWIPh1p) | 3:02 |
-| 4 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
+| 3 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
+| 4 | [ฮีลใจ \(Here For You\)](https://open.spotify.com/track/2jMxARZO1H1CNDyApCpwNr) | [Butterbear](https://open.spotify.com/artist/7bDJAhi2Egiu9bGQq91Qkr) | [ฮีลใจ \(Here For You\)](https://open.spotify.com/album/2LvIsQRWHQOPjKUyWIPh1p) | 3:02 |
 | 5 | [หยอกไม่หลอก \(TRICK OR TREAT\)](https://open.spotify.com/track/1QJpqMMm9kB8IcmZHtHPNR) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj), [Chrrissa](https://open.spotify.com/artist/3HbdAO1uUXLMo1FRXJWdYt) | [หยอกไม่หลอก \(TRICK OR TREAT\) \- Single](https://open.spotify.com/album/0KX3FdLHvQZtbKwri44BmX) | 3:37 |
 | 6 | [สาริกาลิ้นทอง \(Smooth\-talker\)](https://open.spotify.com/track/4UyEA5UP6ducMaV9NiggTr) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW), [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [สาริกาลิ้นทอง \(Smooth\-talker\) \- Single](https://open.spotify.com/album/5UGFoT5E3XTctzfOondKRU) | 4:08 |
-| 7 | [TRAFFIC](https://open.spotify.com/track/2fChLz9Gp6tl5gTEiOuywH) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [TRAFFIC](https://open.spotify.com/album/3vqZjXdm32aotxndvwr8FT) | 2:42 |
-| 8 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 |
+| 7 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 |
+| 8 | [TRAFFIC](https://open.spotify.com/track/2fChLz9Gp6tl5gTEiOuywH) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [TRAFFIC](https://open.spotify.com/album/3vqZjXdm32aotxndvwr8FT) | 2:42 |
 | 9 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
-| 10 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 |
+| 10 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 |
 | 11 | [ไม่ให้ไป](https://open.spotify.com/track/0zLFNFvbnPmWZfDewtyaVg) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ไม่ให้ไป \- Single](https://open.spotify.com/album/5mS7KW0IM3CrLf0SO9QM6P) | 4:00 |
 | 12 | [2AM \(คุณเคยรักใครมากๆมั้ย?\)](https://open.spotify.com/track/50D7ptFXhgR9GZ9g7G20SF) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [Rifle](https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D) | [2AM \(คุณเคยรักใครมากๆมั้ย?\)](https://open.spotify.com/album/3CDUojnPiIiyslUq2WuTWb) | 3:53 |
 | 13 | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/track/28uUXmHx13AZ1nkl57vCwN) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/album/7HfFwe6RcWEiSMxNSTWf6f) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 99 | [ดาวหางฮัลเลย์](https://open.spotify.com/track/56wDFSIa9Tr7zbEXUVMwjP) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ดาวหางฮัลเลย์](https://open.spotify.com/album/3ZqqQUWMeZasXiZhu7L1Zl) | 3:44 |
 | 100 | [ไม่คิดว่าจะเจ็บขนาดนี้](https://open.spotify.com/track/18nwXd2wrksn4ELwtglCOy) | [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny) | [ไม่คิดว่าจะเจ็บขนาดนี้](https://open.spotify.com/album/47Mmmv9hMKrda3jBQ1zpbR) | 3:38 |
 
-Snapshot ID: `ZySgMwAAAAA/+GFJOwkNWqNQ1fh36yoZ`
+Snapshot ID: `ZykI9QAAAAD/lhHufM2xTSCW65q8+hXf`

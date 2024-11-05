@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Grupo Frontera en portada.",
-  "num_followers": 487552,
+  "num_followers": 487594,
   "original_name": "Norte\u00f1o 2024",
   "owner": {
     "name": "Spotify",
@@ -399,18 +399,22 @@
     {
       "added_at": "2024-10-25 07:56:01",
       "album": {
-        "name": "Sin Pagar Renta",
-        "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
+        "name": "Hublot",
+        "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
       },
       "artists": [
         {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
         }
       ],
-      "duration_ms": 202443,
-      "name": "Sin Pagar Renta",
-      "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
+      "duration_ms": 225250,
+      "name": "Hublot",
+      "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
     },
     {
       "added_at": "2024-10-25 07:56:01",
@@ -451,22 +455,18 @@
     {
       "added_at": "2024-10-25 07:56:01",
       "album": {
-        "name": "Hublot",
-        "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
+        "name": "Sin Pagar Renta",
+        "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
       },
       "artists": [
         {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Los Nuevos Escoltas",
-          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 225250,
-      "name": "Hublot",
-      "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
+      "duration_ms": 202443,
+      "name": "Sin Pagar Renta",
+      "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
     },
     {
       "added_at": "2024-10-25 07:56:01",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2024-10-25 07:56:01",
       "album": {
-        "name": "M.L.P",
-        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        },
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        }
-      ],
-      "duration_ms": 211961,
-      "name": "M.L.P",
-      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
-    },
-    {
-      "added_at": "2024-10-25 07:56:01",
-      "album": {
         "name": "A M\u00ed Me Gustas T\u00fa",
         "url": "https://open.spotify.com/album/3E8pEagTMZOFpfTppkRIHy"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 186400,
       "name": "A M\u00ed Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z"
+    },
+    {
+      "added_at": "2024-10-25 07:56:01",
+      "album": {
+        "name": "M.L.P",
+        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "duration_ms": 211961,
+      "name": "M.L.P",
+      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
     },
     {
       "added_at": "2024-10-25 07:56:01",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-10-25 07:56:01",
       "album": {
-        "name": "Aqu\u00ed Mando Yo",
-        "url": "https://open.spotify.com/album/0UT6sSqUR1QMQ7a1vt9ROP"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Aqu\u00ed Mando Yo",
-      "url": "https://open.spotify.com/track/3Kv0GCIjO52qkUj1K9PqZW"
-    },
-    {
-      "added_at": "2024-10-25 07:56:01",
-      "album": {
         "name": "Baby (Version Norte\u00f1a)",
         "url": "https://open.spotify.com/album/6vMqBW93GIL1H4Y2Q9NdYK"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 198639,
       "name": "Baby (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/6AK1tlnsm8q0R3xKmBZvG8"
+    },
+    {
+      "added_at": "2024-10-25 07:56:01",
+      "album": {
+        "name": "Aqu\u00ed Mando Yo",
+        "url": "https://open.spotify.com/album/0UT6sSqUR1QMQ7a1vt9ROP"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Aqu\u00ed Mando Yo",
+      "url": "https://open.spotify.com/track/3Kv0GCIjO52qkUj1K9PqZW"
     },
     {
       "added_at": "2024-10-25 07:56:01",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-10-25 07:56:01",
       "album": {
-        "name": "THE GB",
-        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 236250,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/0AedbGm7eNJnEFCXVKQX2C"
-    },
-    {
-      "added_at": "2024-10-25 07:56:01",
-      "album": {
         "name": "Se Me Solt\u00f3 El Hocico",
         "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 175319,
       "name": "Se Me Solt\u00f3 El Hocico",
       "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
+    },
+    {
+      "added_at": "2024-10-25 07:56:01",
+      "album": {
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 236250,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/0AedbGm7eNJnEFCXVKQX2C"
     },
     {
       "added_at": "2024-10-25 07:56:01",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2024-10-25 07:56:01",
       "album": {
+        "name": "La Mamoncita del Insta",
+        "url": "https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 193193,
+      "name": "La Mamoncita del Insta",
+      "url": "https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV"
+    },
+    {
+      "added_at": "2024-10-25 07:56:01",
+      "album": {
         "name": "Vibras",
         "url": "https://open.spotify.com/album/4PTwwifZ4XrCCEth8m9Mm0"
       },
@@ -1679,26 +1699,6 @@
       "duration_ms": 207400,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a"
-    },
-    {
-      "added_at": "2024-10-25 07:56:01",
-      "album": {
-        "name": "La Mamoncita del Insta",
-        "url": "https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 193193,
-      "name": "La Mamoncita del Insta",
-      "url": "https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV"
     },
     {
       "added_at": "2024-10-25 07:56:01",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2024-10-25 07:56:01",
       "album": {
+        "name": "Ya No Puedo Con Esto",
+        "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 149951,
+      "name": "Ya No Puedo Con Esto",
+      "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
+    },
+    {
+      "added_at": "2024-10-25 07:56:01",
+      "album": {
         "name": "The Beginning",
         "url": "https://open.spotify.com/album/5VkepErVQUGrabLNsUPQZz"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 184000,
       "name": "Gente de Trabajo",
       "url": "https://open.spotify.com/track/2mEKAonomU58PwavJwYSlc"
-    },
-    {
-      "added_at": "2024-10-25 07:56:01",
-      "album": {
-        "name": "Ya No Puedo Con Esto",
-        "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 149951,
-      "name": "Ya No Puedo Con Esto",
-      "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
     },
     {
       "added_at": "2024-10-25 07:56:01",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2024-10-25 07:56:01",
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/0H2PeujiXUo7qOnRLLmrKz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 189504,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/2jjrH4sgaGxgDWss3XWenX"
+    },
+    {
+      "added_at": "2024-10-25 07:56:01",
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1"
       },
@@ -1907,38 +1923,6 @@
     {
       "added_at": "2024-10-25 07:56:01",
       "album": {
-        "name": "Direcci\u00f3n Equivocada",
-        "url": "https://open.spotify.com/album/6xdmbSBueb704E5lGXGqfL"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Direcci\u00f3n Equivocada",
-      "url": "https://open.spotify.com/track/4rS0DRx5wKCNmdLsyFb9Pk"
-    },
-    {
-      "added_at": "2024-10-25 07:56:01",
-      "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/0H2PeujiXUo7qOnRLLmrKz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 189504,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/2jjrH4sgaGxgDWss3XWenX"
-    },
-    {
-      "added_at": "2024-10-25 07:56:01",
-      "album": {
         "name": "Mi Yo de Antes",
         "url": "https://open.spotify.com/album/1I5XmzOXBxwveYrj5CCRqJ"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 168135,
       "name": "Mi Yo de Antes",
       "url": "https://open.spotify.com/track/6OJBasHWodBnPOu4gcXLtH"
+    },
+    {
+      "added_at": "2024-10-25 07:56:01",
+      "album": {
+        "name": "Direcci\u00f3n Equivocada",
+        "url": "https://open.spotify.com/album/6xdmbSBueb704E5lGXGqfL"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Direcci\u00f3n Equivocada",
+      "url": "https://open.spotify.com/track/4rS0DRx5wKCNmdLsyFb9Pk"
     },
     {
       "added_at": "2024-10-25 07:56:01",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2024-10-25 07:56:01",
       "album": {
-        "name": "La Guerita",
-        "url": "https://open.spotify.com/album/2LcCq1U716IqmlzlwSLAct"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 184165,
-      "name": "La Guerita",
-      "url": "https://open.spotify.com/track/7AuloEFqtDCrlcPTF2uP9q"
-    },
-    {
-      "added_at": "2024-10-25 07:56:01",
-      "album": {
         "name": "Un Amor Bonito",
         "url": "https://open.spotify.com/album/6dzoLkJvnmpTfjaElAPrEG"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 153647,
       "name": "Un Amor Bonito",
       "url": "https://open.spotify.com/track/1JQfkZedTZnrudWt104FEt"
+    },
+    {
+      "added_at": "2024-10-25 07:56:01",
+      "album": {
+        "name": "La Guerita",
+        "url": "https://open.spotify.com/album/2LcCq1U716IqmlzlwSLAct"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 184165,
+      "name": "La Guerita",
+      "url": "https://open.spotify.com/track/7AuloEFqtDCrlcPTF2uP9q"
     },
     {
       "added_at": "2024-10-25 07:56:01",

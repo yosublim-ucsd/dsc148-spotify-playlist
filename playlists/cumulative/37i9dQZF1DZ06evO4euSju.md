@@ -4,7 +4,7 @@
 
 > This is Teenage Wrist\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 21 min
+53 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Chrome Neon Jesus](https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:43 | 2022-09-16 |  |
 | [Cigarette Two Step](https://open.spotify.com/track/5KwLLL8VE4k3mUTy1gfgpP) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Fear Before The March Of Flames](https://open.spotify.com/artist/4sGnh5atNR6I2OHURlmlMq), [David Marion](https://open.spotify.com/artist/1Su8KMQGp47Q3LddHVXj5k) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:55 | 2023-08-05 | 2023-08-26 |
 | [Cold Case](https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:44 | 2023-08-05 |  |
+| [Dark Sky](https://open.spotify.com/track/1LkC13v4sIOOcvVMRhiljd) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [S.A\. Martinez](https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy) | [Still Love \(Deluxe\)](https://open.spotify.com/album/7bjoRFAziiXoBlPbLtUlV7) | 3:11 | 2024-11-05 |  |
 | [Dark Sky](https://open.spotify.com/track/4XvDPaoKmHsrgf5eksXNYu) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [S.A\. Martinez](https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy) | [Dark Sky](https://open.spotify.com/album/7A8gtZtoZMbpT0xAYl7ma3) | 3:11 | 2023-07-12 | 2023-08-26 |
 | [Dark Sky](https://open.spotify.com/track/5cNGzuptAf9M47qvH4F4zx) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [S.A\. Martinez](https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:11 | 2023-08-25 | 2024-10-20 |
 | [Daylight](https://open.spotify.com/track/3NFESrMYBdTbsKVtIpg2Sz) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:47 | 2022-09-16 | 2024-02-06 |

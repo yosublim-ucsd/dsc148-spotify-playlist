@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 388733,
+  "num_followers": 388754,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-11-01 03:16:41",
       "album": {
-        "name": "Love seeker",
-        "url": "https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF"
-      },
-      "artists": [
-        {
-          "name": "JO1",
-          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
-        }
-      ],
-      "duration_ms": 174226,
-      "name": "Love seeker",
-      "url": "https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G"
-    },
-    {
-      "added_at": "2024-11-01 03:16:41",
-      "album": {
         "name": "\u660e\u308b\u3044\u90e8\u5c4b",
         "url": "https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 174082,
       "name": "\u660e\u308b\u3044\u90e8\u5c4b",
       "url": "https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1"
+    },
+    {
+      "added_at": "2024-11-01 03:16:41",
+      "album": {
+        "name": "Love seeker",
+        "url": "https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "duration_ms": 174226,
+      "name": "Love seeker",
+      "url": "https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G"
     },
     {
       "added_at": "2024-11-01 03:16:41",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-11-01 03:16:41",
       "album": {
-        "name": "Stay With Me (feat. Hikaru Utada)",
-        "url": "https://open.spotify.com/album/6Y7Keo6YYwgBbB50ShM976"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 172085,
-      "name": "Stay With Me (feat. Hikaru Utada)",
-      "url": "https://open.spotify.com/track/6KrGHvcXxhFi9O4z3NUrv9"
-    },
-    {
-      "added_at": "2024-11-01 03:16:41",
-      "album": {
         "name": "Danger Danger",
         "url": "https://open.spotify.com/album/4sP5O2OY79bnsZcWW1t4ri"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 221000,
       "name": "Danger Danger",
       "url": "https://open.spotify.com/track/72fowNtwZtSkYFDEYMDjQo"
+    },
+    {
+      "added_at": "2024-11-01 03:16:41",
+      "album": {
+        "name": "Stay With Me (feat. Hikaru Utada)",
+        "url": "https://open.spotify.com/album/6Y7Keo6YYwgBbB50ShM976"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 172085,
+      "name": "Stay With Me (feat. Hikaru Utada)",
+      "url": "https://open.spotify.com/track/6KrGHvcXxhFi9O4z3NUrv9"
     },
     {
       "added_at": "2024-11-01 03:16:41",
@@ -1023,18 +1023,22 @@
     {
       "added_at": "2024-11-01 03:16:41",
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/66azqlrT0IYzfh3621YClv"
+        "name": "Speed Tape",
+        "url": "https://open.spotify.com/album/0pYpedPWmSW8BABYhG4QDD"
       },
       "artists": [
         {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+          "name": "KEIJU",
+          "url": "https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL"
+        },
+        {
+          "name": "JJJ",
+          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
         }
       ],
-      "duration_ms": 267401,
-      "name": "Get Back To \u4eba\u751f",
-      "url": "https://open.spotify.com/track/4sg2qkykUHXz9Sf3XcAvJX"
+      "duration_ms": 185034,
+      "name": "Wind Rise",
+      "url": "https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW"
     },
     {
       "added_at": "2024-11-01 03:16:41",
@@ -1071,22 +1075,18 @@
     {
       "added_at": "2024-11-01 03:16:41",
       "album": {
-        "name": "Speed Tape",
-        "url": "https://open.spotify.com/album/0pYpedPWmSW8BABYhG4QDD"
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/66azqlrT0IYzfh3621YClv"
       },
       "artists": [
         {
-          "name": "KEIJU",
-          "url": "https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL"
-        },
-        {
-          "name": "JJJ",
-          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
         }
       ],
-      "duration_ms": 185034,
-      "name": "Wind Rise",
-      "url": "https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW"
+      "duration_ms": 267401,
+      "name": "Get Back To \u4eba\u751f",
+      "url": "https://open.spotify.com/track/4sg2qkykUHXz9Sf3XcAvJX"
     },
     {
       "added_at": "2024-11-01 03:16:41",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-11-01 03:16:41",
       "album": {
-        "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
-        "url": "https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y"
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi"
       },
       "artists": [
         {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
         }
       ],
-      "duration_ms": 207707,
-      "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
-      "url": "https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm"
+      "duration_ms": 200268,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG"
     },
     {
       "added_at": "2024-11-01 03:16:41",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2024-11-01 03:16:41",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi"
+        "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
+        "url": "https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y"
       },
       "artists": [
         {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
         }
       ],
-      "duration_ms": 200268,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG"
+      "duration_ms": 207707,
+      "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
+      "url": "https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm"
     },
     {
       "added_at": "2024-11-01 03:16:41",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-11-01 03:16:41",
       "album": {
-        "name": "\u66d6\u6627\u306aBEACH",
-        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
-      },
-      "artists": [
-        {
-          "name": "\u793c\u8cdb",
-          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "\u66d6\u6627\u306aBEACH",
-      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
-    },
-    {
-      "added_at": "2024-11-01 03:16:41",
-      "album": {
         "name": "\u521d\u604b",
         "url": "https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 195657,
       "name": "\u521d\u604b",
       "url": "https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm"
+    },
+    {
+      "added_at": "2024-11-01 03:16:41",
+      "album": {
+        "name": "\u66d6\u6627\u306aBEACH",
+        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
+      },
+      "artists": [
+        {
+          "name": "\u793c\u8cdb",
+          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "\u66d6\u6627\u306aBEACH",
+      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
     },
     {
       "added_at": "2024-11-01 03:16:41",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-11-01 03:16:41",
       "album": {
-        "name": "plum",
-        "url": "https://open.spotify.com/album/4X1QUjwxbC4aatDurNoZDr"
-      },
-      "artists": [
-        {
-          "name": "\u306b\u3057\u306a",
-          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
-        }
-      ],
-      "duration_ms": 200929,
-      "name": "plum",
-      "url": "https://open.spotify.com/track/7DnLX5NYns6rw9IqPcyDNg"
-    },
-    {
-      "added_at": "2024-11-01 03:16:41",
-      "album": {
         "name": "\u98df\u5353",
         "url": "https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 206107,
       "name": "\u98df\u5353",
       "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"
+    },
+    {
+      "added_at": "2024-11-01 03:16:41",
+      "album": {
+        "name": "plum",
+        "url": "https://open.spotify.com/album/4X1QUjwxbC4aatDurNoZDr"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+        }
+      ],
+      "duration_ms": 200929,
+      "name": "plum",
+      "url": "https://open.spotify.com/track/7DnLX5NYns6rw9IqPcyDNg"
     },
     {
       "added_at": "2024-11-01 03:16:41",

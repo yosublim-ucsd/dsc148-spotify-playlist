@@ -11763,6 +11763,24 @@
     },
     {
       "album": {
+        "name": "Self",
+        "url": "https://open.spotify.com/album/0f6zfh28vIM6IFtjImHggN"
+      },
+      "artists": [
+        {
+          "name": "bentley",
+          "url": "https://open.spotify.com/artist/0tGHZpweTz8PClcc6rK4sy"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136301,
+      "name": "Self",
+      "url": "https://open.spotify.com/track/6NVoUHjFFQmW8fYA8eaJcQ"
+    },
+    {
+      "album": {
         "name": "Room 25",
         "url": "https://open.spotify.com/album/7oHM3Sj0l2nXAzGAxW0KOt"
       },

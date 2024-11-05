@@ -407,6 +407,28 @@
     },
     {
       "album": {
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301623,
+      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
+    },
+    {
+      "album": {
         "name": "Teresa & Maria",
         "url": "https://open.spotify.com/album/0Q3a4oVaiaVAQeq9WPz5aB"
       },
@@ -625,6 +647,24 @@
     },
     {
       "album": {
+        "name": "\u0412\u0440\u0443\u0431\u0430\u0439",
+        "url": "https://open.spotify.com/album/2mVqd1fBBrN4aFQ083mB9X"
+      },
+      "artists": [
+        {
+          "name": "Parfeniuk",
+          "url": "https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150583,
+      "name": "\u0412\u0440\u0443\u0431\u0430\u0439",
+      "url": "https://open.spotify.com/track/41hRWgoaw67f4VGMbNSfoZ"
+    },
+    {
+      "album": {
         "name": "\u0412\u0442\u043e\u043c\u043b\u0435\u043d\u0430 \u0441\u0442\u0440\u0456\u0442",
         "url": "https://open.spotify.com/album/5maWszGHyI4ZZiFNj5KByk"
       },
@@ -730,7 +770,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 164210,
       "name": "\u0414\u043e\u043b\u043e\u043d\u0456",
       "url": "https://open.spotify.com/track/28nCv762IfyLVB2OGGQcMb"
@@ -828,7 +868,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 161136,
       "name": "\u041a\u043e\u043b\u0438\u0441\u043a\u043e\u0432\u0430 2022",
       "url": "https://open.spotify.com/track/3fm1gwToVxnT4eK0GfGV0K"
@@ -1004,6 +1044,28 @@
       "duration_ms": 192711,
       "name": "\u041e\u0431\u0438\u0440\u0430\u0442\u0438\u043c\u0443 \u0441\u0435\u0431\u0435",
       "url": "https://open.spotify.com/track/5MR4WYVpjpvjjpsjRwdwxJ"
+    },
+    {
+      "album": {
+        "name": "\u041e\u0441\u043e\u0431\u0438\u0441\u0442\u0438\u0439 \u0440\u0430\u0439",
+        "url": "https://open.spotify.com/album/1O8gbNfK8cIQ0DT0RK9KzY"
+      },
+      "artists": [
+        {
+          "name": "\u0413\u0435\u043b\u044f \u0417\u043e\u0437\u0443\u043b\u044f",
+          "url": "https://open.spotify.com/artist/5NR8eODM4CQ2X6rBuGpZ2B"
+        },
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185409,
+      "name": "\u041e\u0441\u043e\u0431\u0438\u0441\u0442\u0438\u0439 \u0440\u0430\u0439",
+      "url": "https://open.spotify.com/track/75LJxqoSy5MSM2xCFzQp8F"
     },
     {
       "album": {
@@ -1356,7 +1418,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 195756,
       "name": "\u044f \u043d\u0435 \u043f\u0440\u0438\u0439\u0434\u0443",
       "url": "https://open.spotify.com/track/05QSXEQXXqyF1Oa7cN2pKX"

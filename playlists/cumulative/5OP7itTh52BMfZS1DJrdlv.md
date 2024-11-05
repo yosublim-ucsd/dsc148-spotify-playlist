@@ -4,7 +4,7 @@
 
 > Celebrate the holiday season with 100 of the biggest Christmas songs in 2024 and beyond! Merry Christmas, Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul! 🎁 🎄
 
-116 songs - 6 hr 5 min
+117 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [My Only Wish \(feat\. Christopher\)](https://open.spotify.com/track/0zavRY9lIR1UZIX0vRZImx) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [My Only Wish \(feat\. Christopher\)](https://open.spotify.com/album/4EYmRuwHd0urc6gLA2JNYJ) | 2:31 | 2023-12-09 | 2023-12-25 |
 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 | 2023-12-09 |  |
 | [Presents for Christmas](https://open.spotify.com/track/4TH7c6LlwcnFPqdi23gA5I) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:13 | 2023-12-09 |  |
+| [Pure Imagination](https://open.spotify.com/track/56mgK7OVdzQCAku9ro5GPj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Pure Imagination](https://open.spotify.com/album/1e1k5dvhUv0qmLPhJepLyA) | 1:57 | 2024-11-04 |  |
 | [Rest Of Our Days](https://open.spotify.com/track/0jLsr3uZp9i5VUpWdmd3k6) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Rest Of Our Days](https://open.spotify.com/album/50L3qkwrnkqHoEwOT6bp12) | 2:31 | 2023-12-09 |  |
 | [Rockin' Around the Christmas Tree \- Re\-Recorded Version](https://open.spotify.com/track/27jhnberlYbjEgL3oFL4BA) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:06 | 2023-12-09 |  |
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/2d8qUH5mYN7z0eqcVWy4gD) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [Christmas with The Tenors](https://open.spotify.com/album/3KPvwbNGc4WL7IzvD0fP2V) | 2:39 | 2023-12-09 |  |
@@ -107,7 +108,7 @@
 | [The Christmas Song](https://open.spotify.com/track/4SWAozNLRfZXF25ghKqm2q) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 4:18 | 2023-12-09 |  |
 | [The Christmas Stick](https://open.spotify.com/track/7roxhEz0gRoyWzvZdgKSeY) | [Bubble & Squeak](https://open.spotify.com/artist/2ntb4uNltWuDZdPd0xNOYC) | [The Christmas Stick](https://open.spotify.com/album/2lhrxeEOVmfOzhIFiLMTkE) | 3:38 | 2023-12-24 |  |
 | [The Christmas Sweater](https://open.spotify.com/track/4neC8JZBnxcwVXb9hrKe3I) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:43 | 2023-12-09 |  |
-| [The Power of Love](https://open.spotify.com/track/7FTyjQwlWyg0AeghomXjVY) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 4:05 | 2023-12-09 |  |
+| [The Power of Love](https://open.spotify.com/track/7FTyjQwlWyg0AeghomXjVY) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 4:05 | 2023-12-09 | 2024-11-05 |
 | [Think of Christmas](https://open.spotify.com/track/60ypavjPmJKbrcoDLd7NJH) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:50 | 2023-12-09 |  |
 | [This Christmas](https://open.spotify.com/track/4xEUfPbamZ3tlwNxLUo2nr) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:51 | 2023-12-09 |  |
 | [This Christmas](https://open.spotify.com/track/4dmllVoANTAb2jDuieDo22) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [This Christmas](https://open.spotify.com/album/20TOto2tIkD8b9OK04yLil) | 2:59 | 2023-12-09 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Manuel Turizo",
-  "num_followers": 395321,
+  "num_followers": 395363,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 278973,
+      "name": "Alo",
+      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Lluvia y Samba",
         "url": "https://open.spotify.com/album/3FyrRtHlDXhkmwT8d5KScA"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 227546,
       "name": "Lluvia y Samba",
       "url": "https://open.spotify.com/track/1AV9KQLsAUWlUhCxbExYxz"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 278973,
-      "name": "Alo",
-      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
     },
     {
       "added_at": "2024-08-23 04:00:00",

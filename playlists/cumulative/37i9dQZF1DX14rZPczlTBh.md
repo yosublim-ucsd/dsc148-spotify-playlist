@@ -4,7 +4,7 @@
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-147 songs - 8 hr 14 min
+148 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Mass Theme Of Pushpa](https://open.spotify.com/track/4kyFdoTanak2xGGLvxQE7u) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Pushpa The Rise \- OST](https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk) | 1:55 | 2024-08-23 |  |
 | [MCA](https://open.spotify.com/track/5MhnpBzKRDQpeAJgR7vmHV) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [MCA \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4q7TQdPkWFRzo3CkhqQe4Q) | 3:17 | 2021-06-24 | 2022-07-29 |
 | [MCA](https://open.spotify.com/track/7h5QJLJ1KtgChdKnj8kXqG) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [MCA](https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN) | 3:17 | 2021-06-24 | 2024-08-24 |
-| [Mehaboob Theme](https://open.spotify.com/track/5O6DBwk3vHjPLfYMGjcuF6) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC) | [Tillu Square \- OST](https://open.spotify.com/album/7bqzL2VfqE1qQRM9nhWjRN) | 1:26 | 2024-09-02 |  |
+| [Mehaboob Theme](https://open.spotify.com/track/5O6DBwk3vHjPLfYMGjcuF6) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC) | [Tillu Square \- OST](https://open.spotify.com/album/7bqzL2VfqE1qQRM9nhWjRN) | 1:26 | 2024-09-02 | 2024-11-05 |
 | [Miami](https://open.spotify.com/track/3yTT15CQlhscT81BcImuqk) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Rita](https://open.spotify.com/artist/3Z7tNWlrQnxjy4LuhlHAAB), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Chal Mohan Ranga \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2gaopiyX0WtLuTMgQvZeUo) | 3:42 | 2021-06-24 | 2022-07-29 |
 | [Miami \- Ma Ma Ma Ma Mia](https://open.spotify.com/track/4BfdCnlFZ8sSSL21Sho1yf) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Rita](https://open.spotify.com/artist/3Z7tNWlrQnxjy4LuhlHAAB), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Chal Mohan Ranga \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Th8ogCMASbR8eJ9xL3ekG) | 3:38 | 2021-06-24 | 2024-08-24 |
 | [Miami Dj Remix](https://open.spotify.com/track/1P6GZJqUtFQ2Wv2gXuSmf4) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Rita](https://open.spotify.com/artist/3Z7tNWlrQnxjy4LuhlHAAB), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Chal Mohan Ranga](https://open.spotify.com/album/6opwqr8TSIt91hqgN3aHE4) | 3:38 | 2021-06-24 | 2024-08-24 |
@@ -107,6 +107,7 @@
 | [Pilla Picture Perfect](https://open.spotify.com/track/3na6VGHw5UrfEUHeHdAN6m) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Ranarangam](https://open.spotify.com/album/2QTbh3cSBuKbw821yvcPRg) | 3:34 | 2021-06-24 | 2024-08-24 |
 | [Pillaa Raa DJ Remix](https://open.spotify.com/track/1aQkquVqxeRJvPlBT8pkVW) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [RX 100](https://open.spotify.com/album/19OwKq3vosh2lBwG1so6c1) | 3:54 | 2021-06-24 | 2022-06-04 |
 | [Private Party](https://open.spotify.com/track/55lcV76gPJUqAnHj3Z9xRd) | [M.C\. Vickey](https://open.spotify.com/artist/7bxJB2vrMkzPAHRBLhaeiL), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Sarrainodu](https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8) | 4:23 | 2021-06-24 | 2024-08-24 |
+| [Proposal \(From "Love Reddy"\)](https://open.spotify.com/track/27yelBarlAKbDh28Yn3JRf) | [Prince Henry](https://open.spotify.com/artist/3vJDvKa5cfjEH2vFEhj4EY) | [Proposal \(From "Love Reddy"\)](https://open.spotify.com/album/6x0UthIyzcRRTGhZKEx5J0) | 0:47 | 2024-11-04 |  |
 | [Psycho Saiyaan](https://open.spotify.com/track/5WnlpdU8nHfbogtkAl6k8E) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Saaho](https://open.spotify.com/album/1mZYQfcWj83VOe1v7wpYMr) | 2:46 | 2021-06-24 | 2024-08-24 |
 | [Pushpa To Be Continued](https://open.spotify.com/track/4FAExsUfyPhBWZh40fIyrJ) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Pushpa The Rise \- OST](https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk) | 1:52 | 2024-08-23 |  |
 | [Ra Ra \(Roar of the Revengers\)](https://open.spotify.com/track/3bXNfFKUI9p5WKjjOgMqzs) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Bashermax](https://open.spotify.com/artist/11FBZoyhsRx6NeGzZA5DYb) | [Gang Leader \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JdE4IkqObXwTWzYKieCUv) | 4:10 | 2021-06-24 | 2024-08-24 |

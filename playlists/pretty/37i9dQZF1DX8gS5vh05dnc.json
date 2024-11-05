@@ -1,6 +1,6 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 129730,
+  "num_followers": 129728,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-11-04 01:00:00",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 161811,
-      "name": "Summer Baby",
-      "url": "https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U"
-    },
-    {
-      "added_at": "2024-11-04 01:00:00",
-      "album": {
         "name": "This Is What It Feels Like",
         "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 180488,
       "name": "The Bottom",
       "url": "https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y"
+    },
+    {
+      "added_at": "2024-11-04 01:00:00",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 161811,
+      "name": "Summer Baby",
+      "url": "https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U"
     },
     {
       "added_at": "2024-11-04 01:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-11-04 01:00:00",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 189280,
-      "name": "New Man",
-      "url": "https://open.spotify.com/track/5HDPtsnyb3maFmPL8LLUTG"
-    },
-    {
-      "added_at": "2024-11-04 01:00:00",
-      "album": {
         "name": "Buttons",
         "url": "https://open.spotify.com/album/60cW2bcyQVKvbCh0QmXyAK"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 127342,
       "name": "Buttons",
       "url": "https://open.spotify.com/track/6ejid3XQunJpAaZCFS9rDa"
+    },
+    {
+      "added_at": "2024-11-04 01:00:00",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 189280,
+      "name": "New Man",
+      "url": "https://open.spotify.com/track/5HDPtsnyb3maFmPL8LLUTG"
     },
     {
       "added_at": "2024-11-04 01:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-11-04 01:00:00",
       "album": {
+        "name": "Waffle House",
+        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 145440,
+      "name": "Waffle House",
+      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
+    },
+    {
+      "added_at": "2024-11-04 01:00:00",
+      "album": {
         "name": "Lottery (feat. LU KALA)",
         "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": "2024-11-04 01:00:00",
       "album": {
-        "name": "The Race",
-        "url": "https://open.spotify.com/album/4BTzguyoRmiBkf9KYV60Dy"
-      },
-      "artists": [
-        {
-          "name": "Chris James",
-          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
-        }
-      ],
-      "duration_ms": 141562,
-      "name": "The Race",
-      "url": "https://open.spotify.com/track/28Uw7wcsuQQpm5xElRoiww"
-    },
-    {
-      "added_at": "2024-11-04 01:00:00",
-      "album": {
         "name": "Anything You Want",
         "url": "https://open.spotify.com/album/0heGEO3au4OmkR8Oor96qu"
       },
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-11-04 01:00:00",
       "album": {
-        "name": "Waffle House",
-        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
+        "name": "The Race",
+        "url": "https://open.spotify.com/album/4BTzguyoRmiBkf9KYV60Dy"
       },
       "artists": [
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Chris James",
+          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
         }
       ],
-      "duration_ms": 145440,
-      "name": "Waffle House",
-      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
+      "duration_ms": 141562,
+      "name": "The Race",
+      "url": "https://open.spotify.com/track/28Uw7wcsuQQpm5xElRoiww"
     },
     {
       "added_at": "2024-11-04 01:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-11-04 01:00:00",
       "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5"
+    },
+    {
+      "added_at": "2024-11-04 01:00:00",
+      "album": {
         "name": "Fuzzy Feeling",
         "url": "https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst"
       },
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2024-11-04 01:00:00",
       "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+        "name": "Boys",
+        "url": "https://open.spotify.com/album/4cdqRn65PB3wyN2Yog1nc8"
       },
       "artists": [
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 217533,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5"
+      "duration_ms": 162585,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq"
     },
     {
       "added_at": "2024-11-04 01:00:00",
@@ -1075,22 +1091,6 @@
       "duration_ms": 155563,
       "name": "Genius",
       "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
-    },
-    {
-      "added_at": "2024-11-04 01:00:00",
-      "album": {
-        "name": "Boys",
-        "url": "https://open.spotify.com/album/4cdqRn65PB3wyN2Yog1nc8"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 162585,
-      "name": "Boys",
-      "url": "https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq"
     },
     {
       "added_at": "2024-11-04 01:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-11-04 01:00:00",
       "album": {
-        "name": "CHARLIE",
-        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 204376,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj"
-    },
-    {
-      "added_at": "2024-11-04 01:00:00",
-      "album": {
         "name": "I Feel Good",
         "url": "https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 136058,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F"
+    },
+    {
+      "added_at": "2024-11-04 01:00:00",
+      "album": {
+        "name": "CHARLIE",
+        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 204376,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj"
     },
     {
       "added_at": "2024-11-04 01:00:00",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2024-11-04 01:00:00",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/653aKK0vOZIlyWmq8B0RSd"
+        "name": "Craziest thing happened in my backyard",
+        "url": "https://open.spotify.com/album/2jmWbG3qOhAutjzQnr47K6"
       },
       "artists": [
         {
-          "name": "WIM",
-          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+          "name": "Ardhito Pramono",
+          "url": "https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd"
         }
       ],
-      "duration_ms": 200865,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/1urNcISPElPL9gIcYd1VNu"
+      "duration_ms": 192233,
+      "name": "Here We Go Again / Fanboi",
+      "url": "https://open.spotify.com/track/1sUcuZMuz5Kn5rATfzL77v"
     }
   ],
   "unique_name": "\u6d88\u9664\u58d3\u529b",

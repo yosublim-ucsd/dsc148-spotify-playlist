@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-584 songs - 1 day 15 hr 24 min
+585 songs - 1 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Chariot](https://open.spotify.com/track/12kZPPg7Ve9Br7mEtmVY1h) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [B\-Sides and Rarities](https://open.spotify.com/album/2K3XaSsGQ9Bxxr7byYAcrO) | 5:16 | 2023-01-17 | 2023-11-01 |
 | [Chateau](https://open.spotify.com/track/2LY0DjFGGF0JQugFzWSGpi) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Chateau](https://open.spotify.com/album/68Uy1KyPTQTWjVqrSE97hV) | 4:33 | 2023-01-17 | 2024-10-19 |
 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 | 2023-01-17 | 2024-04-19 |
-| [Clearer](https://open.spotify.com/track/1t0yaPngkHpryY7LmGVhNb) | [Blueboy](https://open.spotify.com/artist/0arZTC10n2y1hVMZfRV6Xn) | [Clearer and other singles, 1991\-1995](https://open.spotify.com/album/5goYNsARssw85qlKypHQPR) | 3:52 | 2023-01-17 |  |
+| [Clearer](https://open.spotify.com/track/1t0yaPngkHpryY7LmGVhNb) | [Blueboy](https://open.spotify.com/artist/0arZTC10n2y1hVMZfRV6Xn) | [Clearer and other singles, 1991\-1995](https://open.spotify.com/album/5goYNsARssw85qlKypHQPR) | 3:52 | 2023-01-17 | 2024-11-05 |
 | [Colourblind](https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:54 | 2023-01-17 | 2024-04-19 |
 | [Combat](https://open.spotify.com/track/6pHIEG8q0I4jCuUVHC3s3m) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/2hfCUR15idZb8Keg95B6qQ) | 3:48 | 2023-01-17 | 2024-04-19 |
 | [Come On Let's Go](https://open.spotify.com/track/0e3zNp2pKzbgzTGWMwnyKG) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Maida Vale Sessions](https://open.spotify.com/album/7dCYsWwOlURGcomJrgncEe) | 3:23 | 2023-01-17 | 2024-04-19 |
@@ -210,7 +210,7 @@
 | [Heart of Gold](https://open.spotify.com/track/3rVbE0KZ8N26C9yn6PonQ0) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 2:51 | 2023-01-17 | 2024-04-19 |
 | [Hearts](https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno) | [Nari](https://open.spotify.com/artist/3aetvKAJdTvsNmeoCHpUKl) | [Hearts](https://open.spotify.com/album/1TjnaFhP1lDhYrqlSQvsDt) | 2:50 | 2023-01-17 |  |
 | [Heavenly](https://open.spotify.com/track/70YTBH8vOGJNMhy6186yFm) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:46 | 2023-01-17 | 2024-04-19 |
-| [Heavenly](https://open.spotify.com/track/0M6TLjxixptslrmQpWbRoR) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Heavenly](https://open.spotify.com/album/3cgFq282Yi9czapuam0DwB) | 4:48 | 2023-01-17 | 2024-05-08 |
+| [Heavenly](https://open.spotify.com/track/0M6TLjxixptslrmQpWbRoR) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Heavenly](https://open.spotify.com/album/3cgFq282Yi9czapuam0DwB) | 4:48 | 2023-01-17 |  |
 | [Heavenly](https://open.spotify.com/track/1Bh0UzthW8pKEnYg7v40Oa) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:48 | 2023-01-17 | 2023-09-21 |
 | [Help Me Help Myself](https://open.spotify.com/track/0ZIllgA4WQsH2dSCUCAdRb) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Help Me Help Myself](https://open.spotify.com/album/4CvsRCXktnzHYXgt2qsLSn) | 3:35 | 2023-01-17 |  |
 | [Here in the Dark](https://open.spotify.com/track/312rd2c4ALzMJ0nbbie6Pg) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Land of No Junction](https://open.spotify.com/album/10QaSb6RScjUha6Wkeu1Km) | 5:26 | 2023-01-17 |  |
@@ -302,7 +302,7 @@
 | [Look At Me Now](https://open.spotify.com/track/0YBEcp0T2LfQVxTs4ozFew) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Look At Me Now](https://open.spotify.com/album/5UZArj31gNk2uEFsDKawUt) | 3:03 | 2023-01-17 |  |
 | [Looking Backward](https://open.spotify.com/track/3fdocuLx6MshLRTtXSWvqr) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Looking Backward](https://open.spotify.com/album/0EfmslMYF1WjVprELXpQvx) | 3:21 | 2023-01-17 |  |
 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 | 2023-01-17 | 2024-04-19 |
-| [Lorelei](https://open.spotify.com/track/1MwGbyzRmPXWABLIdW8tzG) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/5N2tixSCaFkwdtJIG0jQmi) | 3:43 | 2023-01-17 |  |
+| [Lorelei](https://open.spotify.com/track/1MwGbyzRmPXWABLIdW8tzG) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/5N2tixSCaFkwdtJIG0jQmi) | 3:43 | 2023-01-17 | 2024-11-05 |
 | [Losing My Religion](https://open.spotify.com/track/1KKO7lAg5RTGYaTJkkZC9E) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Thief](https://open.spotify.com/album/2WA5txUH1i8QHvOh9ptsWh) | 4:06 | 2023-01-17 | 2024-04-19 |
 | [Losing My Religion](https://open.spotify.com/track/5gQJkOnav0JZPh32HERWYD) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Losing My Religion](https://open.spotify.com/album/64SvXrbWzFrDIykCtZ4O3r) | 4:06 | 2023-01-17 |  |
 | [Lost Moon](https://open.spotify.com/track/5uyTTYvJ820qJUan2gNTXI) | [Nightlands](https://open.spotify.com/artist/6j1PJ7qiMlHAzkyPN3ldN6) | [I Can Feel the Night Around Me](https://open.spotify.com/album/58idVWfPZQgTcAXcDw2REd) | 5:56 | 2023-01-17 | 2023-10-10 |
@@ -482,6 +482,7 @@
 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 | 2023-01-17 |  |
 | [Sugar](https://open.spotify.com/track/6ZdAsADC9LIICvsVRuGWbZ) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP) | 2:56 | 2023-01-17 | 2024-04-19 |
 | [Sugar](https://open.spotify.com/track/366BzkiO6uiLgTYCLPddkJ) | [Ora the Molecule](https://open.spotify.com/artist/6RQoLyY1nkArRcNc3sE86m) | [Human Safari](https://open.spotify.com/album/1XvJINGjwPys8xSK1ThiDJ) | 3:59 | 2023-01-17 | 2023-12-12 |
+| [Summer Girl \- Bonus Track](https://open.spotify.com/track/1GZH9Sv6zCIse2GKihRHKy) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Summer Girl \(Bonus Track\)](https://open.spotify.com/album/2U2dYHLwLrHSQ3m2YQcNHj) | 3:25 | 2023-01-17 |  |
 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:25 | 2023-01-17 | 2024-04-19 |
 | [Summer night \(Bat song\)](https://open.spotify.com/track/5u3MTIrAo8cUZ1nP22ahcB) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [A flame my love, a frequency](https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp) | 5:14 | 2023-01-17 |  |
 | [Summer Song](https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Summer Song](https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL) | 4:05 | 2024-07-11 |  |

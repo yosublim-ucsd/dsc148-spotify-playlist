@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring Sueño A Marte ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,936 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,947 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 64 | [cartulinas de colores](https://open.spotify.com/track/2wEfLzvEWrSWmi63CeNDSO) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [cartulinas de colores](https://open.spotify.com/album/62r1JOXim0HDI909Vl0QiC) | 2:39 |
 | 65 | [GARZA](https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [GARZA](https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ) | 3:26 |
 | 66 | [Abismo](https://open.spotify.com/track/0FEayppbKROCxKGyQ78PD8) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Abismo](https://open.spotify.com/album/31PeflXHidvrIDfVW0ivR1) | 3:39 |
-| 67 | [CUANDO ESTÉS DELANTE](https://open.spotify.com/track/0Slcgu1iQojwddRuC9SAGD) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [TURIAN BOY](https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb) | [VOLVER A INTENTARLO CUANDO ESTÉS DELANTE](https://open.spotify.com/album/5E27KX2EJwPGdsXDNKNHBs) | 3:28 |
+| 67 | [los pies](https://open.spotify.com/track/3hZ20RZMCSjJfRdoyUVncW) | [Mina con N](https://open.spotify.com/artist/1hFYEvNr5V7JBuqxznqpm7), [Lorenzo Engell](https://open.spotify.com/artist/5w5VigociNIme6JiUUGkgN) | [los pies](https://open.spotify.com/album/5DudjWk6xe6rJVTQpD2IIl) | 3:06 |
 | 68 | [Antes de Marcharte](https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Mareas](https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP) | 4:02 |
-| 69 | [Nada Más](https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Nada Más](https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz) | 3:23 |
-| 70 | [los pies](https://open.spotify.com/track/3hZ20RZMCSjJfRdoyUVncW) | [Mina con N](https://open.spotify.com/artist/1hFYEvNr5V7JBuqxznqpm7), [Lorenzo Engell](https://open.spotify.com/artist/5w5VigociNIme6JiUUGkgN) | [los pies](https://open.spotify.com/album/5DudjWk6xe6rJVTQpD2IIl) | 3:06 |
-| 71 | [About You](https://open.spotify.com/track/4QoZMxwAGm4yDYlNoHNyHN) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [About You](https://open.spotify.com/album/1Foa824MwXtyHNov2zbPHK) | 2:54 |
-| 72 | [Acicálame](https://open.spotify.com/track/7pyY0YE7EJQ552qAK4l0mO) | [Flacø](https://open.spotify.com/artist/2MP4Sye1CkjSzki8eqG1ub), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Acicálame](https://open.spotify.com/album/0l81vXuYP8EdwIjXG2YYrW) | 3:55 |
-| 73 | [Prometimos No Hablar](https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Prometimos No Hablar](https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU) | 4:19 |
+| 69 | [CUANDO ESTÉS DELANTE](https://open.spotify.com/track/0Slcgu1iQojwddRuC9SAGD) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [TURIAN BOY](https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb) | [VOLVER A INTENTARLO CUANDO ESTÉS DELANTE](https://open.spotify.com/album/5E27KX2EJwPGdsXDNKNHBs) | 3:28 |
+| 70 | [Nada Más](https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Nada Más](https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz) | 3:23 |
+| 71 | [Acicálame](https://open.spotify.com/track/7pyY0YE7EJQ552qAK4l0mO) | [Flacø](https://open.spotify.com/artist/2MP4Sye1CkjSzki8eqG1ub), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Acicálame](https://open.spotify.com/album/0l81vXuYP8EdwIjXG2YYrW) | 3:55 |
+| 72 | [About You](https://open.spotify.com/track/4QoZMxwAGm4yDYlNoHNyHN) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [About You](https://open.spotify.com/album/1Foa824MwXtyHNov2zbPHK) | 2:54 |
+| 73 | [Una noche que nunca termina](https://open.spotify.com/track/5FsobFWmtzBqmUw9qNkVhE) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Una noche que nunca termina](https://open.spotify.com/album/0xcepcn70088Fgal5hLnsi) | 3:01 |
 | 74 | [Para Hacernos Bien](https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [erihka](https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd) | [Para Hacernos Bien](https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A) | 3:10 |
-| 75 | [Cielo de Colores](https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Cielo de Colores](https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB) | 3:04 |
+| 75 | [Burrito](https://open.spotify.com/track/7nrXB3YeDpUhgbvJBuxnVy) | [13deMarzo](https://open.spotify.com/artist/3OeRfHBe5dfguqSQn0cMpy), [Only](https://open.spotify.com/artist/0hTpzLejwiEa2ClxGbVvty) | [Burrito](https://open.spotify.com/album/7pdk7DN18zNmpDqOyeQZwo) | 1:46 |
 
 Snapshot ID: `Zwl9mgAAAAD3poHgP9/d4To7Vwua9+we`

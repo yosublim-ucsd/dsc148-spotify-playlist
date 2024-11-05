@@ -4,7 +4,7 @@
 
 > Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Brandy in Best\. Christmas\. Ever.
 
-82 songs - 4 hr 7 min
+84 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Little Saint Nick](https://open.spotify.com/track/75dfH68JDisE8dDaD4KlVY) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Christmas With The Beach Boys](https://open.spotify.com/album/4eKWZxl6GskSlM2u7TYOC0) | 2:10 | 2022-11-18 | 2023-11-07 |
 | [Lumi's Fairytale](https://open.spotify.com/track/3s8hK6xmHdnVpPDdduSUjg) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [A Boy Called Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ) | 1:12 | 2022-11-18 | 2022-11-23 |
 | [Make It Work](https://open.spotify.com/track/2iVVtYtEgeXfpN1DGvBZlP) | [Forest Whitaker](https://open.spotify.com/artist/0zvQLEOu8PpOaR8wVS9FRz), [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 3:50 | 2022-11-18 |  |
+| [Meet Me Next Christmas](https://open.spotify.com/track/71c1qn8GR6xhx7pFjWWcks) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Meet Me Next Christmas](https://open.spotify.com/album/2VVfxBR6rxdMOyBPQZAyPx) | 2:43 | 2024-11-05 |  |
 | [Mother Vodol is not Amused](https://open.spotify.com/track/69HsdkMdP5hnQiCvJjL3S0) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [A Boy Called Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ) | 4:13 | 2022-11-18 | 2022-11-23 |
 | [Nicholas Finds his Father](https://open.spotify.com/track/5vFcGNzpRIUu5DAbMdQmRj) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [A Boy Called Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ) | 3:45 | 2022-11-18 | 2022-11-23 |
 | [Noche de ¿paz? \(from the Netflix Film "Reviviendo la Navidad"\)](https://open.spotify.com/track/6Mi7pOAGx8wkCHeu7dmerb) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Noche de ¿paz? \(from the Netflix Film "Reviviendo la Navidad"\)](https://open.spotify.com/album/7KCzMJ14PhDEhjvzGDCTjz) | 2:06 | 2022-12-09 |  |
@@ -61,6 +62,7 @@
 | [O Christmas Tree](https://open.spotify.com/track/2F27MVZ8bYuP0GXuXu2fFA) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Happy Holidays](https://open.spotify.com/album/1CHbNUmk6dE4I7bdKkEQGg) | 4:31 | 2022-11-18 | 2023-11-07 |
 | [O Christmas Tree](https://open.spotify.com/track/2VsCE6ui7N4IRzGIGT7Di8) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [A Swingin' Christmas Featuring The Count Basie Big Band](https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j) | 3:27 | 2022-11-18 | 2023-11-07 |
 | [O Holy Night \(From the Netflix Original "A California Christmas"\)](https://open.spotify.com/track/3pnmwhfvDzJtCVVpGug5Wo) | [Katelyn Epperly](https://open.spotify.com/artist/14aJsSAhOrAHk0wXiB1Vm7) | [O Holy Night \(From the Netflix Original "A California Christmas"\)](https://open.spotify.com/album/40XUWEzP3lS4i9jQzpAOOk) | 4:13 | 2022-11-18 |  |
+| [Please Santa Please](https://open.spotify.com/track/398egUWDwedHWTPQmlel9E) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Greatest Christmas Hits](https://open.spotify.com/album/4tRcSRjaE98LsBVOm6cSJT) | 3:17 | 2024-11-05 |  |
 | [Presents Giving](https://open.spotify.com/track/0tBuMYiwCLfn7STyA1Smm6) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [A Boy Called Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ) | 2:40 | 2022-11-18 | 2022-11-23 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2022-11-18 | 2023-09-11 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2yxTGxTDbgcbMN0Ae102bn) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Rockin' Around The Christmas Tree/The Decca Christmas Recordings](https://open.spotify.com/album/1gAceSZFd4irbzRRHLof8U) | 2:06 | 2022-11-18 | 2023-11-07 |

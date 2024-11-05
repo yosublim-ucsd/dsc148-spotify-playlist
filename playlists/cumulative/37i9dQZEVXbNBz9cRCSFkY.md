@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-896 songs - 2 day 5 hr 50 min
+897 songs - 2 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,7 +394,8 @@
 | [Jump Then Fall \(Taylor’s Version\)](https://open.spotify.com/track/2m3ObD945KvpE5y9A1eUWm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:57 | 2021-04-11 | 2021-04-15 |
 | [Just A Little Bit](https://open.spotify.com/track/3QdjLOemIcMZovVOnvJP7P) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 2:47 | 2021-10-14 | 2021-10-17 |
 | [Just as usual](https://open.spotify.com/track/64xTu0cKbXu3ZSRkfXiBnx) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 3:27 | 2021-06-09 | 2021-06-12 |
-| [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 | 2023-06-27 |  |
+| [Just the Way You Are](https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:40 | 2024-11-04 |  |
+| [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 | 2023-06-27 | 2024-11-05 |
 | [Kabilang Buhay](https://open.spotify.com/track/0knRQzgvbUed6K74mX81hG) | [Bandang Lapis](https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx) | [Kabilang Buhay](https://open.spotify.com/album/1bXVfDuQen1YkHWKudAi2c) | 5:25 | 2021-03-27\* | 2021-04-08 |
 | [Kagome](https://open.spotify.com/track/2BDrpeAnTxCurLt38yDSrE) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Kagome](https://open.spotify.com/album/4CIT1BsHQams5FP5RUSydD) | 3:58 | 2022-05-02 | 2023-01-14 |
 | [Kampana Ng Simbahan](https://open.spotify.com/track/3WJNclt6udgjcPiSy0hMNb) | [Leo Valdez](https://open.spotify.com/artist/55yK9bebS7rDYaiTiR0slN) | [Pamasko Ng Mga Bituin](https://open.spotify.com/album/1CIUzJ8OkF00ewxIQgVzhq) | 2:54 | 2023-12-25 | 2023-12-27 |

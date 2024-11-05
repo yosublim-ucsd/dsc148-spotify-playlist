@@ -157,6 +157,28 @@
     },
     {
       "album": {
+        "name": "Still Love (Deluxe)",
+        "url": "https://open.spotify.com/album/7bjoRFAziiXoBlPbLtUlV7"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "S.A. Martinez",
+          "url": "https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191323,
+      "name": "Dark Sky",
+      "url": "https://open.spotify.com/track/1LkC13v4sIOOcvVMRhiljd"
+    },
+    {
+      "album": {
         "name": "Dark Sky",
         "url": "https://open.spotify.com/album/7A8gtZtoZMbpT0xAYl7ma3"
       },

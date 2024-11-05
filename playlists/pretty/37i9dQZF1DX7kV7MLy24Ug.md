@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kV7MLy24Ug.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,046 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,053 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

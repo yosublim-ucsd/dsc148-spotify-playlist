@@ -507,22 +507,6 @@
     {
       "added_at": "2024-10-03 16:50:32",
       "album": {
-        "name": "Second Sparkle",
-        "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
-      },
-      "artists": [
-        {
-          "name": "\u9b3c\u585a\u590f\u7f8e (CV.\u7d75\u68ee \u5f69)",
-          "url": "https://open.spotify.com/artist/6HDDfm7DzxaJtwBW79XQFx"
-        }
-      ],
-      "duration_ms": 214453,
-      "name": "Eye\u3092\u3061\u3087\u3046\u3060\u3044",
-      "url": "https://open.spotify.com/track/4zpo5aWr2n1LTjpUYu8awo"
-    },
-    {
-      "added_at": "2024-10-03 16:50:32",
-      "album": {
         "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f2",
         "url": "https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 221382,
       "name": "\u99c6\u3051\u308b\u30e1\u30ea\u30fc\u30b4\u30fc\u30e9\u30f3\u30c9 - \u5d50 \u5343\u7802\u90fd Ver.",
       "url": "https://open.spotify.com/track/3o8J9VsfhIDpsJlRRu8VBW"
+    },
+    {
+      "added_at": "2024-10-03 16:50:32",
+      "album": {
+        "name": "Second Sparkle",
+        "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
+      },
+      "artists": [
+        {
+          "name": "\u9b3c\u585a\u590f\u7f8e (CV.\u7d75\u68ee \u5f69)",
+          "url": "https://open.spotify.com/artist/6HDDfm7DzxaJtwBW79XQFx"
+        }
+      ],
+      "duration_ms": 214453,
+      "name": "Eye\u3092\u3061\u3087\u3046\u3060\u3044",
+      "url": "https://open.spotify.com/track/4zpo5aWr2n1LTjpUYu8awo"
     },
     {
       "added_at": "2024-10-03 16:50:32",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-10-03 16:50:32",
       "album": {
-        "name": "Second Sparkle",
-        "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
-      },
-      "artists": [
-        {
-          "name": "\u685c\u5c0f\u8def\u304d\u306a\u5b50 (CV.\u9234\u539f\u5e0c\u5b9f)",
-          "url": "https://open.spotify.com/artist/5YhJfeXFPB1cuhpR7pJAx2"
-        }
-      ],
-      "duration_ms": 194869,
-      "name": "\u30d3\u30ae\u30ca\u30fc\u30baRock!!",
-      "url": "https://open.spotify.com/track/0rTV99hC01MZ0hw2NaqNhu"
-    },
-    {
-      "added_at": "2024-10-03 16:50:32",
-      "album": {
         "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f",
         "url": "https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx"
       },
@@ -628,45 +612,13 @@
       },
       "artists": [
         {
-          "name": "\u5510 \u53ef\u53ef (CV.Liyuu)",
-          "url": "https://open.spotify.com/artist/4y8VczgZelLjn9D6roTQ8M"
+          "name": "\u685c\u5c0f\u8def\u304d\u306a\u5b50 (CV.\u9234\u539f\u5e0c\u5b9f)",
+          "url": "https://open.spotify.com/artist/5YhJfeXFPB1cuhpR7pJAx2"
         }
       ],
-      "duration_ms": 234078,
-      "name": "\u661f\u5c51\u30af\u30eb\u30fc\u30b8\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/20DDILVNtFMfzEjYWCgZDZ"
-    },
-    {
-      "added_at": "2024-10-03 16:50:32",
-      "album": {
-        "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f",
-        "url": "https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx"
-      },
-      "artists": [
-        {
-          "name": "\u8449\u6708 \u604b (CV.\u9752\u5c71\u306a\u304e\u3055)",
-          "url": "https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD"
-        }
-      ],
-      "duration_ms": 222742,
-      "name": "Dears",
-      "url": "https://open.spotify.com/track/4KIf76IEf4ubbrn5YA5AES"
-    },
-    {
-      "added_at": "2024-10-03 16:50:32",
-      "album": {
-        "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f2",
-        "url": "https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB"
-      },
-      "artists": [
-        {
-          "name": "\u6f81\u8c37\u304b\u306e\u3093 (CV.\u4f0a\u9054\u3055\u3086\u308a)",
-          "url": "https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF"
-        }
-      ],
-      "duration_ms": 214305,
-      "name": "Dreamer Coaster - \u6f81\u8c37\u304b\u306e\u3093 Ver.",
-      "url": "https://open.spotify.com/track/1xiqPO3GW5Z9TweNzNdC1i"
+      "duration_ms": 194869,
+      "name": "\u30d3\u30ae\u30ca\u30fc\u30baRock!!",
+      "url": "https://open.spotify.com/track/0rTV99hC01MZ0hw2NaqNhu"
     },
     {
       "added_at": "2024-10-03 16:50:32",
@@ -692,45 +644,29 @@
       },
       "artists": [
         {
-          "name": "\u5e73\u5b89\u540d\u3059\u307f\u308c (CV.\u30da\u30a4\u30c8\u30f3\u5c1a\u672a)",
-          "url": "https://open.spotify.com/artist/6LHaUvM2Rg2ct1FyJZAUKn"
+          "name": "\u5510 \u53ef\u53ef (CV.Liyuu)",
+          "url": "https://open.spotify.com/artist/4y8VczgZelLjn9D6roTQ8M"
         }
       ],
-      "duration_ms": 248290,
-      "name": "Starry Prayer",
-      "url": "https://open.spotify.com/track/7cGH6rmdQga1CpehVY8HwS"
+      "duration_ms": 234078,
+      "name": "\u661f\u5c51\u30af\u30eb\u30fc\u30b8\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/20DDILVNtFMfzEjYWCgZDZ"
     },
     {
       "added_at": "2024-10-03 16:50:32",
       "album": {
-        "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f",
-        "url": "https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx"
+        "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f2",
+        "url": "https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB"
       },
       "artists": [
         {
-          "name": "\u5e73\u5b89\u540d\u3059\u307f\u308c (CV.\u30da\u30a4\u30c8\u30f3\u5c1a\u672a)",
-          "url": "https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp"
+          "name": "\u6f81\u8c37\u304b\u306e\u3093 (CV.\u4f0a\u9054\u3055\u3086\u308a)",
+          "url": "https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF"
         }
       ],
-      "duration_ms": 225040,
-      "name": "Message",
-      "url": "https://open.spotify.com/track/3kWOerHNFMYfcWEgABBdz3"
-    },
-    {
-      "added_at": "2024-10-03 16:50:32",
-      "album": {
-        "name": "Second Sparkle",
-        "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
-      },
-      "artists": [
-        {
-          "name": "\u5d50 \u5343\u7802\u90fd (CV.\u5cac \u306a\u3053)",
-          "url": "https://open.spotify.com/artist/0iBPB6UCyYXdmwdrZVXFOJ"
-        }
-      ],
-      "duration_ms": 215277,
-      "name": "\u541b\u3092\u60f3\u3046\u82b1\u306b\u306a\u308b",
-      "url": "https://open.spotify.com/track/1FVbpHeODljyh4ppzVimHr"
+      "duration_ms": 214305,
+      "name": "Dreamer Coaster - \u6f81\u8c37\u304b\u306e\u3093 Ver.",
+      "url": "https://open.spotify.com/track/1xiqPO3GW5Z9TweNzNdC1i"
     },
     {
       "added_at": "2024-10-03 16:50:32",
@@ -760,9 +696,57 @@
           "url": "https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD"
         }
       ],
-      "duration_ms": 210613,
-      "name": "Anniversary",
-      "url": "https://open.spotify.com/track/7HnxJymLu101xufequpt8m"
+      "duration_ms": 222742,
+      "name": "Dears",
+      "url": "https://open.spotify.com/track/4KIf76IEf4ubbrn5YA5AES"
+    },
+    {
+      "added_at": "2024-10-03 16:50:32",
+      "album": {
+        "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx"
+      },
+      "artists": [
+        {
+          "name": "\u5e73\u5b89\u540d\u3059\u307f\u308c (CV.\u30da\u30a4\u30c8\u30f3\u5c1a\u672a)",
+          "url": "https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp"
+        }
+      ],
+      "duration_ms": 221146,
+      "name": "Dears",
+      "url": "https://open.spotify.com/track/1nnYVSTnh8ON9XM8OvE8XC"
+    },
+    {
+      "added_at": "2024-10-03 16:50:32",
+      "album": {
+        "name": "Second Sparkle",
+        "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
+      },
+      "artists": [
+        {
+          "name": "\u5e73\u5b89\u540d\u3059\u307f\u308c (CV.\u30da\u30a4\u30c8\u30f3\u5c1a\u672a)",
+          "url": "https://open.spotify.com/artist/6LHaUvM2Rg2ct1FyJZAUKn"
+        }
+      ],
+      "duration_ms": 248290,
+      "name": "Starry Prayer",
+      "url": "https://open.spotify.com/track/7cGH6rmdQga1CpehVY8HwS"
+    },
+    {
+      "added_at": "2024-10-03 16:50:32",
+      "album": {
+        "name": "Second Sparkle",
+        "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
+      },
+      "artists": [
+        {
+          "name": "\u5d50 \u5343\u7802\u90fd (CV.\u5cac \u306a\u3053)",
+          "url": "https://open.spotify.com/artist/0iBPB6UCyYXdmwdrZVXFOJ"
+        }
+      ],
+      "duration_ms": 215277,
+      "name": "\u541b\u3092\u60f3\u3046\u82b1\u306b\u306a\u308b",
+      "url": "https://open.spotify.com/track/1FVbpHeODljyh4ppzVimHr"
     },
     {
       "added_at": "2024-10-03 16:50:32",
@@ -788,13 +772,29 @@
       },
       "artists": [
         {
+          "name": "\u8449\u6708 \u604b (CV.\u9752\u5c71\u306a\u304e\u3055)",
+          "url": "https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "Anniversary",
+      "url": "https://open.spotify.com/track/7HnxJymLu101xufequpt8m"
+    },
+    {
+      "added_at": "2024-10-03 16:50:32",
+      "album": {
+        "name": "\u30ea\u30a8\u30e9\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx"
+      },
+      "artists": [
+        {
           "name": "\u5e73\u5b89\u540d\u3059\u307f\u308c (CV.\u30da\u30a4\u30c8\u30f3\u5c1a\u672a)",
           "url": "https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp"
         }
       ],
-      "duration_ms": 221146,
-      "name": "Dears",
-      "url": "https://open.spotify.com/track/1nnYVSTnh8ON9XM8OvE8XC"
+      "duration_ms": 225040,
+      "name": "Message",
+      "url": "https://open.spotify.com/track/3kWOerHNFMYfcWEgABBdz3"
     },
     {
       "added_at": "2024-10-03 16:50:32",

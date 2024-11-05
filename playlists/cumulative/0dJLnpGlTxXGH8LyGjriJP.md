@@ -4,7 +4,7 @@
 
 > 
 
-812 songs - 1 day 17 hr 30 min
+813 songs - 1 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Go Hard](https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Go Hard](https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo) | 3:37 | 2023-05-05 |  |
 | [Go Legend \(& Metro Boomin\)](https://open.spotify.com/track/3wAI7MIQtTgwcRmwchPZBc) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Double Or Nothing \(& Metro Boomin\)](https://open.spotify.com/album/0llyIxX3nDC3hobbGibVZl) | 4:28 | 2023-10-25 |  |
 | [Go Loko \(feat\. Tyga, Jon Z\)](https://open.spotify.com/track/1kK6DwzyXJSp58u5HYWwuD) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [4REAL 4REAL](https://open.spotify.com/album/5zuM1EG06X1J7VsIF1omRm) | 4:59 | 2022-10-30 |  |
+| [Go Shit](https://open.spotify.com/track/1Koeu2dRr4mqtmhlxLaRHP) | [Zarech](https://open.spotify.com/artist/7DHVVPqZYKCrro216FSMzq) | [Mixed Bag](https://open.spotify.com/album/1Ucn2V3MRzIvZDxVH64PXW) | 3:31 | 2024-11-04 |  |
 | [Go Stupid](https://open.spotify.com/track/4PklAHGXT5ityno3IA8SKd) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:45 | 2022-07-31 |  |
 | [GOAT FREESTYLE \(feat\. Sleepy Hallow\)](https://open.spotify.com/track/7bUgkElvOK9jkph6stj7JA) | [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [CESAR](https://open.spotify.com/album/3RzMoqM47QjGMmeyQQQxDd) | 2:27 | 2023-01-20 |  |
 | [God's Plan](https://open.spotify.com/track/5t9KtCfnu8wQui1G6IqqBR) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/42wvKYHFezpmDuAP43558f) | 3:18 | 2022-10-11 |  |

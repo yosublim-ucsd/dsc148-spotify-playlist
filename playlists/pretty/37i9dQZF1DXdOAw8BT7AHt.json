@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Drug Church",
-  "num_followers": 467746,
+  "num_followers": 467755,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Make It All Right",
-        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 214053,
-      "name": "Make It All Right",
-      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "I Want To Disappear",
         "url": "https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 130664,
       "name": "Watch You Go",
       "url": "https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Make It All Right",
+        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 214053,
+      "name": "Make It All Right",
+      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
+        "name": "God's Country / Body of Mine",
+        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 131161,
+      "name": "Body of Mine",
+      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
         "name": "PRUDE",
         "url": "https://open.spotify.com/album/4SiGEjeock157xR33nCQdb"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 148106,
       "name": "You've Got The Nerve",
       "url": "https://open.spotify.com/track/4D27D0dO71irY4ngdUvsjJ"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "God's Country / Body of Mine",
-        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 131161,
-      "name": "Body of Mine",
-      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Nothing Would Change",
-        "url": "https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 203774,
-      "name": "Nothing Would Change",
-      "url": "https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Dirty Mirror Selfie / Where Blue Light Blooms",
         "url": "https://open.spotify.com/album/2l8tR5Q0mToBh2I2U6D0w4"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "DOWN N OUT",
-        "url": "https://open.spotify.com/album/6wkmm5YeCDnfIZoKXhLU98"
+        "name": "Nothing Would Change",
+        "url": "https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH"
       },
       "artists": [
         {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
         }
       ],
-      "duration_ms": 143626,
-      "name": "DOWN N OUT",
-      "url": "https://open.spotify.com/track/3I7bQjEBfbyo7wI3AeF0eg"
+      "duration_ms": 203774,
+      "name": "Nothing Would Change",
+      "url": "https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -771,6 +755,22 @@
       "duration_ms": 149483,
       "name": "Boyfeel",
       "url": "https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "DOWN N OUT",
+        "url": "https://open.spotify.com/album/6wkmm5YeCDnfIZoKXhLU98"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "duration_ms": 143626,
+      "name": "DOWN N OUT",
+      "url": "https://open.spotify.com/track/3I7bQjEBfbyo7wI3AeF0eg"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1299,18 +1299,22 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Git Some Balls / Air Con",
-        "url": "https://open.spotify.com/album/7EGNNZlyXVERZ3DG2dObR1"
+        "name": "Walk Alone",
+        "url": "https://open.spotify.com/album/0Cpkr1J8G7a1ntNd1ZLdyg"
       },
       "artists": [
         {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        },
+        {
+          "name": "Matty Mullins",
+          "url": "https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot"
         }
       ],
-      "duration_ms": 146578,
-      "name": "Git Some Balls",
-      "url": "https://open.spotify.com/track/2537WG5KdqGVGeDgU7aTvi"
+      "duration_ms": 195608,
+      "name": "Walk Alone",
+      "url": "https://open.spotify.com/track/6hpIW8zOcktH6AbRuDWwjr"
     }
   ],
   "unique_name": "Today's Punk",

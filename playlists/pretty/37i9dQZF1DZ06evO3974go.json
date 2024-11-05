@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 19471,
+  "num_followers": 19479,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAABgvERnL8ibxc6Eae3R3DeI",
+  "snapshot_id": "Zya9AAAAAABU7YQScwYPNJjiIT1XQdx8",
   "tracks": [
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 141586,
-      "name": "Unlimited Budget",
-      "url": "https://open.spotify.com/track/2HJMz5sKM456DXFNSk8Wz3"
+      "duration_ms": 252693,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/4ivbsok0LJFpPkFauN0vfF"
     },
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 252693,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/4ivbsok0LJFpPkFauN0vfF"
+      "duration_ms": 141586,
+      "name": "Unlimited Budget",
+      "url": "https://open.spotify.com/track/2HJMz5sKM456DXFNSk8Wz3"
     },
     {
       "added_at": null,
@@ -535,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
+        "name": "Rich Homie Cartel Vol 1",
+        "url": "https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M"
       },
       "artists": [
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 114385,
-      "name": "Friday Night",
-      "url": "https://open.spotify.com/track/6PXNkTD5k1atKFDOF03YId"
+      "duration_ms": 222720,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/48SBWnRiIs0SNfCRzM3kiN"
     },
     {
       "added_at": null,
@@ -587,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rich Homie Cartel Vol 1",
-        "url": "https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M"
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
       },
       "artists": [
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 222720,
-      "name": "Freestyle",
-      "url": "https://open.spotify.com/track/48SBWnRiIs0SNfCRzM3kiN"
+      "duration_ms": 114385,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/6PXNkTD5k1atKFDOF03YId"
     },
     {
       "added_at": null,
@@ -695,42 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Thru",
-        "url": "https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Come Thru",
-      "url": "https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever Goin In",
-        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 115586,
-      "name": "Suffocating",
-      "url": "https://open.spotify.com/track/3VCWEq0O2sacNcPeIqWbnX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Private Room (feat. Rich Homie Quan) - Single",
         "url": "https://open.spotify.com/album/1EZPtQxaaD648L0RXVBUXZ"
       },
@@ -755,6 +719,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forever Goin In",
+        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 115586,
+      "name": "Suffocating",
+      "url": "https://open.spotify.com/track/3VCWEq0O2sacNcPeIqWbnX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Thru",
+        "url": "https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Come Thru",
+      "url": "https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still Goin In - Reloaded",
         "url": "https://open.spotify.com/album/7HXAggzDfYkYdZoc7sUjcd"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family & Mula",
-        "url": "https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 144023,
-      "name": "Krazy",
-      "url": "https://open.spotify.com/track/7xhOLtSMUUfZHTK0QVLFnU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Summer Sampler",
         "url": "https://open.spotify.com/album/236GZxcyha7tPOExcuFFBK"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 239089,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/2UDvJRFkOFCXbsnf9CsMbe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Family & Mula",
+        "url": "https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 144023,
+      "name": "Krazy",
+      "url": "https://open.spotify.com/track/7xhOLtSMUUfZHTK0QVLFnU"
     },
     {
       "added_at": null,

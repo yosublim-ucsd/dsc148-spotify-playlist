@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,025 songs - 2 day 14 hr 59 min
+1,026 songs - 2 day 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [JIHAD JOE](https://open.spotify.com/track/4PU87uxvq5whJwrKEIarj0) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:14 | 2024-08-03 |  |
 | [Johnny P's Caddy](https://open.spotify.com/track/59ClUavkkfRhryajZBn2Lf) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Tana Talk 4](https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2) | 3:45 | 2022-04-22 |  |
 | [JPEGULTRA! \(feat\. Denzel Curry\)](https://open.spotify.com/track/0NMC6aezcf1GItgscoiQCO) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 4:51 | 2024-08-03 |  |
+| [Judge Judy](https://open.spotify.com/track/6ie0uyyvOKTTuIFBMPiNIl) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:29 | 2024-11-04 |  |
 | [Jumpsuit](https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:58 | 2021-08-05 |  |
 | [Just the Two of Us \(feat\. Bill Withers\)](https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Anthology](https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp) | 7:18 | 2023-08-01 |  |
 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 | 2022-01-26 |  |

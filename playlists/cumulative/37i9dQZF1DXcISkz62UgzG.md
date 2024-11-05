@@ -4,7 +4,7 @@
 
 > Listen to Selena's latest releases, plus all her essential hits.
 
-71 songs - 3 hr 58 min
+72 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Love You Like A Love Song](https://open.spotify.com/track/5IpKZbfJNefqY6nMejBHjr) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [For You](https://open.spotify.com/album/3NkZqXMTPlFgbgvifgrhLN) | 3:08 | 2024-02-28 |  |
 | [Me & My Girls](https://open.spotify.com/track/4ulNKUFHijHiPD2rtrSNOC) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 3:30 | 2022-11-04 |  |
 | [Me & The Rhythm](https://open.spotify.com/track/7fBUnDgtSvYpYWuX4iAfns) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 3:33 | 2022-11-04 |  |
+| [Mi Camino](https://open.spotify.com/track/2NPzPNhkwSTBMLfTxcaoPZ) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Emilia Pérez \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU) | 3:43 | 2024-11-04 |  |
 | [My Mind & Me](https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [My Mind & Me](https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5) | 2:27 | 2022-11-04 |  |
 | [Naturally](https://open.spotify.com/track/1YaVmBh7EAeR54FIjuFcb5) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [Kiss & Tell](https://open.spotify.com/album/5lm8loAsSpprr19lwSY16V) | 3:22 | 2022-11-04 |  |
 | [Only You](https://open.spotify.com/track/1hCowBAyytVNFhdZeQWU9M) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [13 Reasons Why \(A Netflix Original Series Score\)](https://open.spotify.com/album/6PZD4RSi2hlcg5YV86luib) | 3:04 | 2024-02-28 |  |
@@ -62,7 +63,7 @@
 | [Same Old Love](https://open.spotify.com/track/6ZANrVuAMp2rpjhfbOuJly) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE) | 3:49 | 2024-02-28 |  |
 | [Selfish Love \(with Selena Gomez\)](https://open.spotify.com/track/3zxUdf7XmWpH6oddULwbwJ) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 2:48 | 2022-11-04 |  |
 | [Shake It Up \- From "Shake It Up"](https://open.spotify.com/track/1oLcpJA9TfwwejiEM9C5gi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Shake It Up \(From "Shake It Up"\)](https://open.spotify.com/album/4RYzLsns7p8y1CA8jUBFoB) | 3:00 | 2022-11-04 | 2024-05-28 |
-| [She](https://open.spotify.com/track/1z1ztKUrDr09ZSMDnN3QIG) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 2:52 | 2022-11-04 |  |
+| [She](https://open.spotify.com/track/1z1ztKUrDr09ZSMDnN3QIG) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 2:52 | 2022-11-04 | 2024-11-05 |
 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2023-08-25 |  |
 | [Sober](https://open.spotify.com/track/3viZcRlE38APncWJ5VGM4q) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 3:14 | 2022-11-04 |  |
 | [Souvenir](https://open.spotify.com/track/3ZCBSFcZSRM9Z48ew28Zrf) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 2:41 | 2022-11-04 |  |

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 
 > This is UVERworld\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,757 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,761 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [D\-tecnoLife](https://open.spotify.com/track/3eyxh8xkW0X7k1FSHlAatt) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Timeless](https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0) | 3:53 |
-| 2 | [ODD FUTURE](https://open.spotify.com/track/5tHp131qFB3T7e01x1xsO2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:46 |
-| 3 | [MMH \(Anime ver.\)](https://open.spotify.com/track/2qgWqOSmXzJ8UPNssX613X) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [MMH \(Anime ver.\)](https://open.spotify.com/album/2EHMBjnuzZCJBOgkYE38lr) | 1:32 |
+| 2 | [MMH \(Anime ver.\)](https://open.spotify.com/track/2qgWqOSmXzJ8UPNssX613X) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [MMH \(Anime ver.\)](https://open.spotify.com/album/2EHMBjnuzZCJBOgkYE38lr) | 1:32 |
+| 3 | [ODD FUTURE](https://open.spotify.com/track/5tHp131qFB3T7e01x1xsO2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:46 |
 | 4 | [CORE PRIDE](https://open.spotify.com/track/55n4sFy8tjysBcCjQFwX3A) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 4:18 |
 | 5 | [儚くも永久のカナシ](https://open.spotify.com/track/3nIxNymArWd7kIL4kGb6er) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AwakEVE](https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS) | 4:08 |
-| 6 | [Touch off](https://open.spotify.com/track/7CSTVNXkW2AbmNktlP1hi2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 4:18 |
-| 7 | [Eye's Sentry](https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Eye's Sentry](https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp) | 4:11 |
+| 6 | [Eye's Sentry](https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Eye's Sentry](https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp) | 4:11 |
+| 7 | [Touch off](https://open.spotify.com/track/7CSTVNXkW2AbmNktlP1hi2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 4:18 |
 | 8 | [Colors of the Heart](https://open.spotify.com/track/7vPKB0XXYhWsTjyZ8DAId8) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [BUGRIGHT](https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe) | 3:52 |
-| 9 | [ODD FUTURE short ver.](https://open.spotify.com/track/5tXOuIoDO0ZtGLijEOD6HZ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ODD FUTURE short ver.](https://open.spotify.com/album/276iqWzPw3i8uGdvoDzMsN) | 1:29 |
-| 10 | [Forever Young](https://open.spotify.com/track/1lq7KJ0TY8sTxazl6y68YW) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [DAWN](https://open.spotify.com/album/5clOVOw7JaQdfBOP1aboZ3) | 4:00 |
+| 9 | [Forever Young](https://open.spotify.com/track/1lq7KJ0TY8sTxazl6y68YW) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [DAWN](https://open.spotify.com/album/5clOVOw7JaQdfBOP1aboZ3) | 4:00 |
+| 10 | [ODD FUTURE short ver.](https://open.spotify.com/track/5tXOuIoDO0ZtGLijEOD6HZ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ODD FUTURE short ver.](https://open.spotify.com/album/276iqWzPw3i8uGdvoDzMsN) | 1:29 |
 | 11 | [一滴の影響](https://open.spotify.com/track/6a8zOePRBenXtHq2AY49xB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [一滴の影響 \(Extra Edition\)](https://open.spotify.com/album/0faHUWjxWLIjiTA8xfs7tq) | 4:51 |
 | 12 | [SHAMROCK](https://open.spotify.com/track/5M6hrn7yus9MefXLBnCCVA) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [BUGRIGHT](https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe) | 4:08 |
 | 13 | [ROB THE FRONTIER](https://open.spotify.com/track/0vgQEQxb49LCKEH5Gg7E4z) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 49 | [シャカビーチ〜Laka Laka La〜](https://open.spotify.com/track/3cJOvrRzZqaXP7TSzP0SSp) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Neo SOUND BEST](https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6) | 3:56 |
 | 50 | [NAMELY](https://open.spotify.com/track/0ZfWNX0kP9ofAjmTkpVSzJ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [NAMELY](https://open.spotify.com/album/37U1o22d174FbOHy59LsbK) | 4:07 |
 
-Snapshot ID: `ZyVrgAAAAAD29hCsa/mtRHP4FwsEbhse`
+Snapshot ID: `Zya9AAAAAAD2OVYUtexJpd2JziBhDxYN`

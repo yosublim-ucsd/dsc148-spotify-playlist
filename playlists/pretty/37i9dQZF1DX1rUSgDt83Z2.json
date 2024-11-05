@@ -1,31 +1,31 @@
 {
   "description": "Mooi van eigen bodem, nationaal in elke taal \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 34411,
+  "num_followers": 34414,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx/LZwAAAABp/b34Es+dIfCpu2Mi2JBw",
+  "snapshot_id": "ZylR8AAAAAAc24xqi0k9rpfph4fP4t+g",
   "tracks": [
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
-        "name": "Welkom In Mijn Hart",
-        "url": "https://open.spotify.com/album/0NqR8qCYxL7FelKt55NQ48"
+        "name": "Ik Zeg Niets",
+        "url": "https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM"
       },
       "artists": [
         {
-          "name": "Jeroen Van Der Boom",
-          "url": "https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua"
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
         }
       ],
-      "duration_ms": 209757,
-      "name": "Welkom In Mijn Hart",
-      "url": "https://open.spotify.com/track/4d2tygrOxWjYkAoEykuOfI"
+      "duration_ms": 187800,
+      "name": "Ik Zeg Niets",
+      "url": "https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Het Idee",
         "url": "https://open.spotify.com/album/2ZMTizNKEhWBtoi9CIu1ZA"
@@ -45,7 +45,39 @@
       "url": "https://open.spotify.com/track/0XnIwi98ZtAEHGkmz9rd9h"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
+      "album": {
+        "name": "Samen \u00c9\u00e9n",
+        "url": "https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf"
+      },
+      "artists": [
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        }
+      ],
+      "duration_ms": 175381,
+      "name": "Schreeuwen",
+      "url": "https://open.spotify.com/track/2xn7cPoNGK74i52b5whZ7A"
+    },
+    {
+      "added_at": "2024-11-04 23:00:00",
+      "album": {
+        "name": "Welkom In Mijn Hart",
+        "url": "https://open.spotify.com/album/0NqR8qCYxL7FelKt55NQ48"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Van Der Boom",
+          "url": "https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua"
+        }
+      ],
+      "duration_ms": 209757,
+      "name": "Welkom In Mijn Hart",
+      "url": "https://open.spotify.com/track/4d2tygrOxWjYkAoEykuOfI"
+    },
+    {
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Weg",
         "url": "https://open.spotify.com/album/4P0dCRcQ0KvojIXord13sg"
@@ -65,7 +97,7 @@
       "url": "https://open.spotify.com/track/4TPdpRvrDAdJjJ72yThfn5"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Campari Soda",
         "url": "https://open.spotify.com/album/4vXWhQGukziiGb92GnRgx7"
@@ -81,7 +113,7 @@
       "url": "https://open.spotify.com/track/1U8QcWfeEYPWNxUOL4ogmd"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Struikelen",
         "url": "https://open.spotify.com/album/3ZP5gH8NURtyWDDSX5NBZZ"
@@ -97,23 +129,23 @@
       "url": "https://open.spotify.com/track/3OvdIGwqjkKYbaH99H57Vb"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
-        "name": "Tankstation",
-        "url": "https://open.spotify.com/album/4eu8csS8j5wIwZuTVIRes3"
+        "name": "Dancing Boontjes",
+        "url": "https://open.spotify.com/album/0oV3dWAJAaMJJfeWEqevjM"
       },
       "artists": [
         {
-          "name": "Hiigo",
-          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
+          "name": "Thijs Boontjes",
+          "url": "https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei"
         }
       ],
-      "duration_ms": 202200,
-      "name": "Tankstation",
-      "url": "https://open.spotify.com/track/3N8l96fR93JyiKJhc8qxFY"
+      "duration_ms": 185906,
+      "name": "Nachtportier",
+      "url": "https://open.spotify.com/track/7ybaNamWNLq1NqdF8GNclY"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Schijnbaar Niet Waar",
         "url": "https://open.spotify.com/album/18SrsVBd4z2Y7duRaDdvVS"
@@ -129,7 +161,7 @@
       "url": "https://open.spotify.com/track/1WITbzl4lGLokvRBIqKWVj"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Hoeveel Tranen Moet Ik Huilen",
         "url": "https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm"
@@ -145,27 +177,27 @@
       "url": "https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
-        "name": "Tikkie Voor De Tranen",
-        "url": "https://open.spotify.com/album/44MrnLxg9BLf7PX7N8cDFm"
+        "name": "Groots De Laatste - Live In Het Philips Stadion",
+        "url": "https://open.spotify.com/album/0Ddv5pUl9FzLGf35J6YSJW"
       },
       "artists": [
         {
-          "name": "Ruben Annink",
-          "url": "https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ"
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
         },
         {
-          "name": "Roxeanne Hazes",
-          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
         }
       ],
-      "duration_ms": 155151,
-      "name": "Tikkie Voor De Tranen",
-      "url": "https://open.spotify.com/track/6qhH43TLfe30AvzKPsvTEl"
+      "duration_ms": 274760,
+      "name": "Wat Ik Ook Ga Doen - Live @ Philips Stadion, Eindhoven 2024",
+      "url": "https://open.spotify.com/track/3c3e66jUoGP04uX6IyMljV"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Kan Ik Iets Voor Je Doen?",
         "url": "https://open.spotify.com/album/2G5idixK1zfPctvTeRtCfU"
@@ -181,7 +213,27 @@
       "url": "https://open.spotify.com/track/6K1xfSVsfGLvvcCCQjFRMy"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
+      "album": {
+        "name": "Mijn Huisje",
+        "url": "https://open.spotify.com/album/0fy34G5zLy2C86oi23Gph1"
+      },
+      "artists": [
+        {
+          "name": "Bolle Tito",
+          "url": "https://open.spotify.com/artist/20768ncxf9ouMj8IKAB6nc"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Mijn Huisje",
+      "url": "https://open.spotify.com/track/2S0b2igN6JP3gcokE7EXtE"
+    },
+    {
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Dansen In Gedachten",
         "url": "https://open.spotify.com/album/1qQfB5fDB3wr8X9rDogBGq"
@@ -197,7 +249,7 @@
       "url": "https://open.spotify.com/track/3W7bJWDlxjFuJbY8JoK9PV"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Slapeloos",
         "url": "https://open.spotify.com/album/3rorul1v1uEObKiX6Zn3i4"
@@ -213,7 +265,7 @@
       "url": "https://open.spotify.com/track/2RrgTyCnqDo2QNsRiJoy28"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Nooit Meer",
         "url": "https://open.spotify.com/album/63DRVLfUVYRkRLTQlyXZIG"
@@ -229,7 +281,7 @@
       "url": "https://open.spotify.com/track/4AkddDB8Eg2PWcWapZBT2P"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Slaapwandelaar",
         "url": "https://open.spotify.com/album/5ynpuj3Kb6zGCJSJS4NO3R"
@@ -249,7 +301,7 @@
       "url": "https://open.spotify.com/track/47TXIa09GpZU1zSu9xc3p2"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Ik Weet Dat Jij Het Niet Weet",
         "url": "https://open.spotify.com/album/1ybW8KtzTEhTOuEp1JFXLi"
@@ -265,7 +317,7 @@
       "url": "https://open.spotify.com/track/3IkpXUu95h0zEOnkxzbqjU"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Zin In Het Leven",
         "url": "https://open.spotify.com/album/4oLXbJ12gAFe9pHFliC2ON"
@@ -281,7 +333,7 @@
       "url": "https://open.spotify.com/track/5dyLNO5s3BKjKYmHAj75VK"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Tijd Genoeg",
         "url": "https://open.spotify.com/album/4A6d7ZUpUrfpmcRG2RdTVF"
@@ -301,7 +353,7 @@
       "url": "https://open.spotify.com/track/7JGJexoaC9puUyX51N5JJe"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "(Die Man Is) Verliefd",
         "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
@@ -321,7 +373,23 @@
       "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
+      "album": {
+        "name": "Bang Alleen Te Blijven",
+        "url": "https://open.spotify.com/album/3pboEsYZAqlrkCgASC0JLY"
+      },
+      "artists": [
+        {
+          "name": "Hiigo",
+          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
+        }
+      ],
+      "duration_ms": 205554,
+      "name": "Bang Alleen Te Blijven",
+      "url": "https://open.spotify.com/track/0OCZpLuFQz3H3eowjX7ho4"
+    },
+    {
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Sweet, Salt, Sour",
         "url": "https://open.spotify.com/album/0DlOdShIvC2KfD07XDAlzU"
@@ -337,23 +405,7 @@
       "url": "https://open.spotify.com/track/4wBIyPFm5WKg72pa1qz5Oq"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Alsof ik jou ben",
-        "url": "https://open.spotify.com/album/1r9hyOpKtFTMD3PChabTk6"
-      },
-      "artists": [
-        {
-          "name": "Glennis Grace",
-          "url": "https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h"
-        }
-      ],
-      "duration_ms": 185285,
-      "name": "Alsof ik jou ben",
-      "url": "https://open.spotify.com/track/7kNaoL9H8xPtR0MaVCuZwD"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z"
@@ -373,27 +425,27 @@
       "url": "https://open.spotify.com/track/0aw9eYHRnhcOCKRGUmg8mB"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
-        "name": "I Will Go There (feat. remme)",
-        "url": "https://open.spotify.com/album/5cs3LTA5B9mHiTzolOdH55"
+        "name": "Tikkie Voor De Tranen",
+        "url": "https://open.spotify.com/album/44MrnLxg9BLf7PX7N8cDFm"
       },
       "artists": [
         {
-          "name": "Krezip",
-          "url": "https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX"
+          "name": "Ruben Annink",
+          "url": "https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ"
         },
         {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
         }
       ],
-      "duration_ms": 200960,
-      "name": "I Will Go There (feat. remme)",
-      "url": "https://open.spotify.com/track/71V025BxBhBKJNHAky0ZfM"
+      "duration_ms": 155151,
+      "name": "Tikkie Voor De Tranen",
+      "url": "https://open.spotify.com/track/6qhH43TLfe30AvzKPsvTEl"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Geen Water Bij De Wijn",
         "url": "https://open.spotify.com/album/2plkKddAxmd2uGduoVyrZm"
@@ -409,7 +461,7 @@
       "url": "https://open.spotify.com/track/4CwkzrnBCZjuaqROr29LUw"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Alsof",
         "url": "https://open.spotify.com/album/6VtLheGYOudLBOwCTkDK9S"
@@ -425,7 +477,7 @@
       "url": "https://open.spotify.com/track/0AqCxKxCmZcLpWW4hD4hWv"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Wat Ik Ook Ga Doen",
         "url": "https://open.spotify.com/album/4SQiHWRdAA9WfUF3tae3XY"
@@ -441,7 +493,7 @@
       "url": "https://open.spotify.com/track/35BBNYg2fEtgYjkgJrGcg1"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Vrouw Van De Wereld",
         "url": "https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh"
@@ -457,7 +509,23 @@
       "url": "https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
+      "album": {
+        "name": "Alsof ik jou ben",
+        "url": "https://open.spotify.com/album/1r9hyOpKtFTMD3PChabTk6"
+      },
+      "artists": [
+        {
+          "name": "Glennis Grace",
+          "url": "https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h"
+        }
+      ],
+      "duration_ms": 185285,
+      "name": "Alsof ik jou ben",
+      "url": "https://open.spotify.com/track/7kNaoL9H8xPtR0MaVCuZwD"
+    },
+    {
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Geef Me Over",
         "url": "https://open.spotify.com/album/0Qi68mTfZhoCeAyztugCD2"
@@ -473,7 +541,7 @@
       "url": "https://open.spotify.com/track/6Gx4pWKnHhp7gyRDEH9N6f"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Zie Ik Jou Weer Morgen?",
         "url": "https://open.spotify.com/album/0tUcPCqXyt90DHnHWMtaMo"
@@ -493,23 +561,7 @@
       "url": "https://open.spotify.com/track/07iAKwRXb0yRWPK0cqasFZ"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Somebody New",
-        "url": "https://open.spotify.com/album/1esmSMTOShTTI0OqG3rsnO"
-      },
-      "artists": [
-        {
-          "name": "Jana Mila",
-          "url": "https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB"
-        }
-      ],
-      "duration_ms": 172146,
-      "name": "Somebody New",
-      "url": "https://open.spotify.com/track/1u4RBJArUMeEXHic7VqWjv"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Omhoog",
         "url": "https://open.spotify.com/album/518wPXNPF0xHjX5TdgCQGm"
@@ -525,7 +577,7 @@
       "url": "https://open.spotify.com/track/2UklSNaVRkMInzUTOEkmsM"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "The Ones We Seek",
         "url": "https://open.spotify.com/album/2Af8iQCdiVQUjW7RTy15Kc"
@@ -541,7 +593,7 @@
       "url": "https://open.spotify.com/track/63H0KKB9i7QO0bchVPffRm"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Zomaar Zomer",
         "url": "https://open.spotify.com/album/07sVqmOJJWQfQHdaushDSO"
@@ -557,7 +609,7 @@
       "url": "https://open.spotify.com/track/6y5URC59KrtzlFxWxhaq5y"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "We Zijn Hier",
         "url": "https://open.spotify.com/album/1rsOJSZNmEwcqoHIBcjmMg"
@@ -573,7 +625,7 @@
       "url": "https://open.spotify.com/track/3m40Nh93jW2AVB85kwN4I5"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Als Nu Nu Is",
         "url": "https://open.spotify.com/album/2ESWFC4Y56iHorfe5y74V9"
@@ -589,7 +641,7 @@
       "url": "https://open.spotify.com/track/7BULw4wshBw0FzcosF7wgf"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Still Love",
         "url": "https://open.spotify.com/album/7i076sfhcW2scS62C8bHQQ"
@@ -605,7 +657,7 @@
       "url": "https://open.spotify.com/track/3VN2hCxJRJEVjWwAMd10sL"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "zij aan zij",
         "url": "https://open.spotify.com/album/3Mjo5eqIC0FEcjlnTtcQc2"
@@ -621,39 +673,7 @@
       "url": "https://open.spotify.com/track/7j3gracBYr3MPEg3VLJ306"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Maar Niet Met Jou Erbij",
-        "url": "https://open.spotify.com/album/6KGMZMTMQvbFgaqZJDu1ey"
-      },
-      "artists": [
-        {
-          "name": "Bente",
-          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
-        }
-      ],
-      "duration_ms": 181951,
-      "name": "Maar Niet Met Jou Erbij",
-      "url": "https://open.spotify.com/track/1mYqzZR5sfv0zZhgtyUsna"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "By My Side",
-        "url": "https://open.spotify.com/album/7LWtW6KBmbvFd9V6EVuvjq"
-      },
-      "artists": [
-        {
-          "name": "Penny Roox",
-          "url": "https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg"
-        }
-      ],
-      "duration_ms": 186182,
-      "name": "Garden of Eden",
-      "url": "https://open.spotify.com/track/2u109kLlyAdp5Kidcwi8HP"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Omdat Je Me Ziet",
         "url": "https://open.spotify.com/album/0nCjIQmD4gmIZrXSTcJ46x"
@@ -669,7 +689,7 @@
       "url": "https://open.spotify.com/track/5FgTrTxLgQcf4N2Nxgarkw"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Thuis & Vliegen",
         "url": "https://open.spotify.com/album/4qLWvDi7OaLGMpkfQdxIzw"
@@ -685,23 +705,7 @@
       "url": "https://open.spotify.com/track/4QU7b7cffYGrzVk0jayBeA"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Hedonism",
-        "url": "https://open.spotify.com/album/4YEOVs05mZl1CC8GYwV2os"
-      },
-      "artists": [
-        {
-          "name": "Janne Schra",
-          "url": "https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K"
-        }
-      ],
-      "duration_ms": 169787,
-      "name": "Hedonism",
-      "url": "https://open.spotify.com/track/2q2dQNaDVmSeLV4UgbLGtn"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Voor Je \u2018t Weet",
         "url": "https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc"
@@ -721,39 +725,23 @@
       "url": "https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
-        "name": "Kom Met Me Dansen",
-        "url": "https://open.spotify.com/album/6kCO8tjI1Tzs9jWH9v66e3"
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/7LWtW6KBmbvFd9V6EVuvjq"
       },
       "artists": [
         {
-          "name": "Krystl",
-          "url": "https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi"
+          "name": "Penny Roox",
+          "url": "https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg"
         }
       ],
-      "duration_ms": 240249,
-      "name": "Kom Met Me Dansen",
-      "url": "https://open.spotify.com/track/3F6BHPhUkM5jKzpzJAxw90"
+      "duration_ms": 186182,
+      "name": "Garden of Eden",
+      "url": "https://open.spotify.com/track/2u109kLlyAdp5Kidcwi8HP"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "It's You Or Me",
-        "url": "https://open.spotify.com/album/1arwfvhx4Ox7cl84QqHCUl"
-      },
-      "artists": [
-        {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
-        }
-      ],
-      "duration_ms": 234129,
-      "name": "It's You Or Me",
-      "url": "https://open.spotify.com/track/4hq7e1IgOKKS3nmfUaEwaH"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/214tK7D0YvGWW2p7yJgtbP"
@@ -769,7 +757,7 @@
       "url": "https://open.spotify.com/track/3caukRr0UZRCvg2QCvbGeH"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Zeg Niks",
         "url": "https://open.spotify.com/album/7tI2nI10T5KYcE11Nt76n3"
@@ -785,7 +773,7 @@
       "url": "https://open.spotify.com/track/5dBGZaXPyxlAZoGqbshZLb"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Brandende Zee",
         "url": "https://open.spotify.com/album/19ijVBynplq41Q4ra9fVhf"
@@ -801,7 +789,23 @@
       "url": "https://open.spotify.com/track/2Z9qbGSmIaIZEZeEfAjAUt"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
+      "album": {
+        "name": "Hedonism",
+        "url": "https://open.spotify.com/album/4YEOVs05mZl1CC8GYwV2os"
+      },
+      "artists": [
+        {
+          "name": "Janne Schra",
+          "url": "https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K"
+        }
+      ],
+      "duration_ms": 169787,
+      "name": "Hedonism",
+      "url": "https://open.spotify.com/track/2q2dQNaDVmSeLV4UgbLGtn"
+    },
+    {
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Horizon (ft. Julia Zahra)",
         "url": "https://open.spotify.com/album/7rOWMke1nsdCGJgwtceL9B"
@@ -821,7 +825,7 @@
       "url": "https://open.spotify.com/track/1BmKQoSJjf617wC1zbQ8WR"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
         "name": "Belangrijk",
         "url": "https://open.spotify.com/album/0KpvKRZa46wgvsDtXlVCTt"
@@ -837,20 +841,20 @@
       "url": "https://open.spotify.com/track/6QJFBH8HpTzTVVNE7Crbh2"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-04 23:00:00",
       "album": {
-        "name": "Queen of my Castle",
-        "url": "https://open.spotify.com/album/4RRplsBhzIVuwUeFcQnDJr"
+        "name": "Kom Met Me Dansen",
+        "url": "https://open.spotify.com/album/6kCO8tjI1Tzs9jWH9v66e3"
       },
       "artists": [
         {
-          "name": "MELL VF",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+          "name": "Krystl",
+          "url": "https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi"
         }
       ],
-      "duration_ms": 192278,
-      "name": "Queen of my Castle",
-      "url": "https://open.spotify.com/track/5xvL8aAtHOj0R7Fpz4eAVS"
+      "duration_ms": 240249,
+      "name": "Kom Met Me Dansen",
+      "url": "https://open.spotify.com/track/3F6BHPhUkM5jKzpzJAxw90"
     }
   ],
   "unique_name": "Helemaal NL",

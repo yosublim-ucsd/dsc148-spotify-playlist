@@ -2,7 +2,7 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Check out the OG Hitmaker's new album right here\. Cover: Maanu, Annural Khalid
+> Check out the OG Hitmaker's new album right here\. Cover: Zeeshan Ali
 
 168 songs - 11 hr 23 min
 

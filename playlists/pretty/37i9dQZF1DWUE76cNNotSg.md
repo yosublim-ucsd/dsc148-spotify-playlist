@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,569 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,721 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,10 +89,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 79 | [Been A Minute...](https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Been A Minute...](https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub) | 3:09 |
 | 80 | [go with u \- Louis La Roche Remix](https://open.spotify.com/track/5FxcDJENpjWY6lL9CnbHgc) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [Someone’s EP II X](https://open.spotify.com/album/6tUqkoCwuE4NffYRmMPVNR) | 4:26 |
 | 81 | [I Wanna Go](https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC) | [Summer Heart](https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio) | [About A Feeling](https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX) | 4:07 |
-| 82 | [Petit Boy](https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Petit Boy](https://open.spotify.com/album/4V9Cce5LCcaxbWxzHIyTVg) | 3:09 |
+| 82 | [Moment](https://open.spotify.com/track/4CpqVGd8GCTFQqEifhgsTz) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [MOVIES! WORLDWIDE: PART I](https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md) | 2:12 |
 | 83 | [Canary Islands](https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Canary Islands](https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L) | 3:24 |
 | 84 | [something will happen](https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [something will happen](https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC) | 2:59 |
-| 85 | [Moment](https://open.spotify.com/track/4CpqVGd8GCTFQqEifhgsTz) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [MOVIES! WORLDWIDE: PART I](https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md) | 2:12 |
+| 85 | [Petit Boy](https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Petit Boy](https://open.spotify.com/album/4V9Cce5LCcaxbWxzHIyTVg) | 3:09 |
 | 86 | [Wait on You](https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Notes from a Quiet Life](https://open.spotify.com/album/4HYukOf0RGN2YotkEsMCue) | 2:56 |
 | 87 | [Heartbeat Highway](https://open.spotify.com/track/2YbJ0qJ5uqOPfLGvqMLkaK) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Heartbeat Highway](https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r) | 3:41 |
 | 88 | [Next 2 Me](https://open.spotify.com/track/1W3xsWvZq7k1XtMk9U5Mnr) | [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9), [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Next 2 Me](https://open.spotify.com/album/50CQhtln0o5KQjb5QcTL8p) | 2:43 |

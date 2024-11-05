@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 143729,
+  "num_followers": 143759,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAACcHrFKUnDyyQADhVvEu/gu",
+  "snapshot_id": "Zya9AAAAAAAoWqm+HFG62ZMPP8CZQyvO",
   "tracks": [
     {
       "added_at": null,
@@ -399,38 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 154386,
-      "name": "Velvet Elvis",
-      "url": "https://open.spotify.com/track/65krgqLiZqW12PZAUQ9l2x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "Giver / Taker",
-      "url": "https://open.spotify.com/track/7aWAahCNnOyF1yP547S9fv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
         "url": "https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR"
       },
@@ -451,6 +419,38 @@
       "duration_ms": 213571,
       "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
       "url": "https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "Giver / Taker",
+      "url": "https://open.spotify.com/track/7aWAahCNnOyF1yP547S9fv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 154386,
+      "name": "Velvet Elvis",
+      "url": "https://open.spotify.com/track/65krgqLiZqW12PZAUQ9l2x"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > the best cuts from the underground, at the heart of club culture 💎💎
 
-412 songs - 1 day 3 hr 13 min
+413 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Get Off The Wall \- Gianni Lee Remix](https://open.spotify.com/track/574WtreEEkP6jPPkXTQGzn) | [Philly Goats](https://open.spotify.com/artist/2WdQEgolM3ReWDLVbULP0U), [Gianni Lee](https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20) | [Philly Goats House Mixes](https://open.spotify.com/album/6QOGShPPl9oiWqWRigqcJM) | 3:10 | 2024-01-26 | 2024-07-13 |
 | [Ghetto Capitalism](https://open.spotify.com/track/4DuRwaaj9Fy5t7BRL5ySQO) | [Jaymie Silk](https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr) | [Ghetto Capitalism](https://open.spotify.com/album/3lrNkWrfbgQIopMOqnIF8t) | 4:01 | 2024-08-09 | 2024-10-02 |
 | [GiGi](https://open.spotify.com/track/7n2vLTUO8JahfIXqa5WcxQ) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [GiGi](https://open.spotify.com/album/0gprGvfrEwT06lVNqGVZJq) | 3:12 | 2024-08-09 |  |
-| [Gilda](https://open.spotify.com/track/4ay1ETtX0dTbm4jqNNFfo4) | [Bratři](https://open.spotify.com/artist/6awECfAD0fQKYiQdWQsVxH) | [Escape](https://open.spotify.com/album/0g2QOSLD2GmVkWUn0CZNqH) | 4:40 | 2024-09-20 |  |
+| [Gilda](https://open.spotify.com/track/4ay1ETtX0dTbm4jqNNFfo4) | [Bratři](https://open.spotify.com/artist/6awECfAD0fQKYiQdWQsVxH) | [Escape](https://open.spotify.com/album/0g2QOSLD2GmVkWUn0CZNqH) | 4:40 | 2024-09-20 | 2024-11-05 |
 | [Give It 2 Em \- Remix](https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Tre Oh Fie](https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G), [DJ TBoogie](https://open.spotify.com/artist/3BM1QrNPAXUDliDwey7Hlz) | [Give It 2 Em \(Remix\)](https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK) | 2:00 | 2021-12-10 | 2024-07-13 |
 | [GL \- Chloé Robinson + DJ ADHD Remix](https://open.spotify.com/track/7n1dvdXLQA8IoZx3XIyOWM) | [Hagop Tchaparian](https://open.spotify.com/artist/14hI6ZlrKB6X81Y046P2MW), [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [GL \(Chloé Robinson + DJ ADHD Remix\)](https://open.spotify.com/album/0nhbtEa5nSyzWAMwqd49Db) | 5:12 | 2024-07-12 | 2024-08-17 |
 | [Globale](https://open.spotify.com/track/1HsHJvovqPVJy1utSqJ7LD) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV) | [Globale EP](https://open.spotify.com/album/00Haz9aSoRGF6IgmrSroqm) | 2:46 | 2024-09-13 |  |
@@ -290,6 +290,7 @@
 | [Progression](https://open.spotify.com/track/4pnDR3Dbsn19PE7VRbI4ed) | [Twinny Twin](https://open.spotify.com/artist/7w2gMJn1yZ8R7aUvNFbPGF), [Caesar Corleone](https://open.spotify.com/artist/5EH9ReV7qP0a0EG1VLEtSb), [Cardi Ice](https://open.spotify.com/artist/0XBwyY2qsWPdNihked3RAD) | [Progression](https://open.spotify.com/album/66GgLiC3TRHQrXKj6suhq2) | 3:43 | 2021-12-10 | 2024-07-01 |
 | [Pulgueiro Baile](https://open.spotify.com/track/6STxAo5kKX2XWRFftsfeE0) | [Kassian](https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx) | [Pulgueiro Baile](https://open.spotify.com/album/0vmsUk7bKO8Kg0oh30Ghsz) | 3:21 | 2024-07-12 |  |
 | [Pull Up](https://open.spotify.com/track/4saRjwihATVCpaphNwC5QR) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [Pull Up](https://open.spotify.com/album/6SWDIQ7ig3uipY6NYAY6Pi) | 3:28 | 2024-10-04 |  |
+| [Pulse XIII](https://open.spotify.com/track/2nJGylEwkddd4j7EAG4WH5) | [Peverelist](https://open.spotify.com/artist/0UrA452V5vJpCW5ezx0YMP) | [Pulse Echo EP](https://open.spotify.com/album/65s546D9JTDUOLzgJ4o8BN) | 5:32 | 2024-11-04 |  |
 | [Push](https://open.spotify.com/track/4SQ2tsNTbiAhK1Xvg9M3mQ) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [Take](https://open.spotify.com/album/0bDvU6KgZNEI4BpajPzfgS) | 2:40 | 2022-04-01 | 2022-10-18 |
 | [PUSH](https://open.spotify.com/track/3G6i2nRaAWKcmzjQKL3ke4) | [Matisa](https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9) | [PUSH](https://open.spotify.com/album/77K70caFbp8CNnwAb0VPxf) | 6:06 | 2024-09-06 |  |
 | [Push It](https://open.spotify.com/track/6l35oNxCLgzyVtqtLvRG7g) | [Benyayer](https://open.spotify.com/artist/62kspOSigHDVlzg2R7UMaO), [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [Push It](https://open.spotify.com/album/3cW2cnDMbR0EEq1LcxZvxc) | 5:09 | 2024-07-12 | 2024-08-10 |

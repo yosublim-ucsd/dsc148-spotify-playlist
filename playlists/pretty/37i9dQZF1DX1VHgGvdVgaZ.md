@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,631 likes - 75 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,666 likes - 75 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 53 | [Rāga: Kharaharapriya / Ālāpana](https://open.spotify.com/track/1ibvLixDYokvMwAAex6ZA6) | [Ranganayaki Rajagopalan](https://open.spotify.com/artist/5kUDJrh7qHEz1aZQk2QWUi) | [South India: Ranganayaki Rajagopalan—Continuity in the Karaikudi Vina Style](https://open.spotify.com/album/1TNRXFTFwiYduNDHEVKOGv) | 7:48 |
 | 54 | [Gnana Vinayakane Gambheera Natai Adi Papanasam Sivan Saxopho](https://open.spotify.com/track/2t01bxdtsCcuuSzWnB9UA1) | [Kadri Gopalnath](https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7) | [South Indian Classical Music](https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1) | 9:49 |
 | 55 | [Pullanguzhal](https://open.spotify.com/track/3vYQHX42EySRe4rPWEzlXc) | [Kalaimamani Prabhavathi Ganesan](https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T) | [Veena Gana Murali](https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5) | 5:30 |
-| 56 | [Jagadhodharana](https://open.spotify.com/track/4NBwL6wloNkYC7ebNKEOiQ) | [Anayampatti Ganesan](https://open.spotify.com/artist/7peRM2HNejEZitLzz6jn7U) | [Entharo Mahanu Bhavulu](https://open.spotify.com/album/3DrMgh6rUz4s5eTAQZ8dmG) | 5:04 |
+| 56 | [Sambho Mahaadeva](https://open.spotify.com/track/6WBqkuNScTjtfOI5XB6cg3) | [D S D Selvarathinam](https://open.spotify.com/artist/74i3Sm3ydql7bWtNVoBrdY) | [Subhamuhurtham \- Nadaswaram](https://open.spotify.com/album/4i8nApXIIMM8QqzVao74hV) | 8:32 |
 | 57 | [Ayigiri Nandini](https://open.spotify.com/track/7iCHzlWd2To9Fo54ogIdJf) | [Tyagaraja](https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu), [K\. S\. G\. Somanathan](https://open.spotify.com/artist/0oJfpDHkMLKr82gj28370X) | [Mangala Naadaswaram \- For Marriages And Auspicious Functions](https://open.spotify.com/album/57Kgxjj6RZsfgSzgsBlTmc) | 3:43 |
-| 58 | [Sambho Mahaadeva](https://open.spotify.com/track/6WBqkuNScTjtfOI5XB6cg3) | [D S D Selvarathinam](https://open.spotify.com/artist/74i3Sm3ydql7bWtNVoBrdY) | [Subhamuhurtham \- Nadaswaram](https://open.spotify.com/album/4i8nApXIIMM8QqzVao74hV) | 8:32 |
+| 58 | [Jagadhodharana](https://open.spotify.com/track/4NBwL6wloNkYC7ebNKEOiQ) | [Anayampatti Ganesan](https://open.spotify.com/artist/7peRM2HNejEZitLzz6jn7U) | [Entharo Mahanu Bhavulu](https://open.spotify.com/album/3DrMgh6rUz4s5eTAQZ8dmG) | 5:04 |
 | 59 | [Samininne \- Sankarabharanam \- Adi \(Live\)](https://open.spotify.com/track/0zZ0NYg5T7GBxLNFF49TQn) | [Karaikudi Sambasiva Iyer](https://open.spotify.com/artist/3Z2VSb0x4HRszBRC7pYXOs), [Karaikudi Muthiah Iyer](https://open.spotify.com/artist/0edZhlzB5d3M8oXpqiSaub) | [Stalwarts \(Live\)](https://open.spotify.com/album/7tth1hR5kb6DxSKh4gDZyg) | 11:22 |
 | 60 | [Nravadhi Sugadha](https://open.spotify.com/track/7a3ZnJVKO66APNbbV9a18g) | [T.N\. Rajarathnam Pillai](https://open.spotify.com/artist/25JW590YfuB6SigAifDrCc) | [Music of India: Traditional & Classical](https://open.spotify.com/album/7LcyYDD8MmvwARFuFIxzN5) | 3:20 |
 | 61 | [Thevaram Mangayarkarasi Bowli Adi](https://open.spotify.com/track/1r9t9EOQNsHPaJ9VuJVqYk) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Kalaimamani Prabhavathi Ganesan](https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T) | [Mahathi Melodies](https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B) | 5:18 |

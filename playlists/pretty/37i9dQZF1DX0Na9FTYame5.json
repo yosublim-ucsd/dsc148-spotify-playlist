@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Montez",
-  "num_followers": 585453,
+  "num_followers": 585463,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -179,18 +179,26 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "ex und so",
-        "url": "https://open.spotify.com/album/5a1RQxsWXpvWrB1cuFvtnl"
+        "name": "tempo",
+        "url": "https://open.spotify.com/album/3T77zsspapRdhGH9FXf4A7"
       },
       "artists": [
         {
-          "name": "IBRA",
-          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
+          "name": "Sampagne",
+          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
+        },
+        {
+          "name": "badchieff",
+          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
+        },
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
         }
       ],
-      "duration_ms": 135000,
-      "name": "ex und so",
-      "url": "https://open.spotify.com/track/2qGCbovPihUJFbaRlGsFLL"
+      "duration_ms": 164745,
+      "name": "tempo",
+      "url": "https://open.spotify.com/track/2sTXJinZQxl58tFCTYtEqa"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -215,26 +223,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "tempo",
-        "url": "https://open.spotify.com/album/3T77zsspapRdhGH9FXf4A7"
+        "name": "ex und so",
+        "url": "https://open.spotify.com/album/5a1RQxsWXpvWrB1cuFvtnl"
       },
       "artists": [
         {
-          "name": "Sampagne",
-          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
-        },
-        {
-          "name": "badchieff",
-          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
-        },
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+          "name": "IBRA",
+          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
         }
       ],
-      "duration_ms": 164745,
-      "name": "tempo",
-      "url": "https://open.spotify.com/track/2sTXJinZQxl58tFCTYtEqa"
+      "duration_ms": 135000,
+      "name": "ex und so",
+      "url": "https://open.spotify.com/track/2qGCbovPihUJFbaRlGsFLL"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -627,30 +627,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Eigentlich",
-        "url": "https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ"
+        "name": "nie wieder normal",
+        "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
       },
       "artists": [
         {
-          "name": "LEA",
-          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
         },
         {
-          "name": "01099",
-          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
-        },
-        {
-          "name": "Zachi",
-          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
-        },
-        {
-          "name": "Gustav",
-          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
         }
       ],
-      "duration_ms": 158895,
-      "name": "Eigentlich",
-      "url": "https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7"
+      "duration_ms": 197618,
+      "name": "nie wieder normal",
+      "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -695,22 +687,30 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "nie wieder normal",
-        "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
+        "name": "Eigentlich",
+        "url": "https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ"
       },
       "artists": [
         {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
         },
         {
-          "name": "Blumengarten",
-          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
         }
       ],
-      "duration_ms": 197618,
-      "name": "nie wieder normal",
-      "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
+      "duration_ms": 158895,
+      "name": "Eigentlich",
+      "url": "https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Breaking your heart",
+        "url": "https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "duration_ms": 170579,
+      "name": "Breaking your heart",
+      "url": "https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Beverly Hills",
         "url": "https://open.spotify.com/album/7gT0Xn9actXgHjVBweCzxL"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 127799,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/3euFYtusViGwzX1R6wiUEx"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Breaking your heart",
-        "url": "https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        }
-      ],
-      "duration_ms": 170579,
-      "name": "Breaking your heart",
-      "url": "https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1183,8 +1183,8 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "verstecken",
-        "url": "https://open.spotify.com/album/2PoecB4132E7hBtLC0uBgy"
+        "name": "Herzfeind (Titelsong zum Film \u201eTrauzeugen\u201c)",
+        "url": "https://open.spotify.com/album/7ck5XxkoEY7Y7K7QcHzrbZ"
       },
       "artists": [
         {
@@ -1192,9 +1192,9 @@
           "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
         }
       ],
-      "duration_ms": 162975,
-      "name": "verstecken",
-      "url": "https://open.spotify.com/track/6LliQsJvqpEBrP1Bhf6HEw"
+      "duration_ms": 150369,
+      "name": "Herzfeind - Titelsong zum Film \u201eTrauzeugen\u201c",
+      "url": "https://open.spotify.com/track/0BxwNmVneOi0XkSbvwdk6Z"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1343,8 +1343,8 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Herzfeind (Titelsong zum Film \u201eTrauzeugen\u201c)",
-        "url": "https://open.spotify.com/album/7ck5XxkoEY7Y7K7QcHzrbZ"
+        "name": "verstecken",
+        "url": "https://open.spotify.com/album/2PoecB4132E7hBtLC0uBgy"
       },
       "artists": [
         {
@@ -1352,9 +1352,9 @@
           "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
         }
       ],
-      "duration_ms": 150369,
-      "name": "Herzfeind - Titelsong zum Film \u201eTrauzeugen\u201c",
-      "url": "https://open.spotify.com/track/0BxwNmVneOi0XkSbvwdk6Z"
+      "duration_ms": 162975,
+      "name": "verstecken",
+      "url": "https://open.spotify.com/track/6LliQsJvqpEBrP1Bhf6HEw"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Ende der Strasse",
-        "url": "https://open.spotify.com/album/2FeJYliSXXAzXG3lO5XqFZ"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 156200,
-      "name": "Ende der Strasse",
-      "url": "https://open.spotify.com/track/3fl9kXdEeCFrs9ydRkNjVF"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "sag was",
         "url": "https://open.spotify.com/album/2biK8sXdAObBs6oRqNpTEs"
       },
@@ -1663,8 +1647,24 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "BOI",
-        "url": "https://open.spotify.com/album/48xBOWLlBupgfhNKkErgDJ"
+        "name": "Ende der Strasse",
+        "url": "https://open.spotify.com/album/2FeJYliSXXAzXG3lO5XqFZ"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 156200,
+      "name": "Ende der Strasse",
+      "url": "https://open.spotify.com/track/3fl9kXdEeCFrs9ydRkNjVF"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Panikwei\u00df",
+        "url": "https://open.spotify.com/album/759SIsxU0p4v2TJ2yrplV5"
       },
       "artists": [
         {
@@ -1672,17 +1672,13 @@
           "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
         },
         {
-          "name": "Megaloh",
-          "url": "https://open.spotify.com/artist/7M6ItqYUMPQRQQ5q54tl7G"
-        },
-        {
           "name": "Schmyt",
           "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
         }
       ],
-      "duration_ms": 228736,
-      "name": "Monoton",
-      "url": "https://open.spotify.com/track/6gZEyiqUvEpWpJYz7QjLjx"
+      "duration_ms": 170016,
+      "name": "Panikwei\u00df",
+      "url": "https://open.spotify.com/track/2sledoZeAbV6vtTo6HsrqG"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1707,22 +1703,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "trauen",
-        "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
-      },
-      "artists": [
-        {
-          "name": "Levin Liam",
-          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
-        }
-      ],
-      "duration_ms": 164011,
-      "name": "trauen",
-      "url": "https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "PAUL",
         "url": "https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D"
       },
@@ -1743,18 +1723,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "schwarze SUVs",
-        "url": "https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2"
+        "name": "trauen",
+        "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
       },
       "artists": [
         {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
         }
       ],
-      "duration_ms": 169761,
-      "name": "schwarze SUVs",
-      "url": "https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi"
+      "duration_ms": 164011,
+      "name": "trauen",
+      "url": "https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1779,26 +1759,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "1000 Sterne",
-        "url": "https://open.spotify.com/album/6v5nqgBpLAGyIWoL4KRGYc"
-      },
-      "artists": [
-        {
-          "name": "1986zig",
-          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
-        },
-        {
-          "name": "AYLIVA",
-          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
-        }
-      ],
-      "duration_ms": 123280,
-      "name": "1000 Sterne",
-      "url": "https://open.spotify.com/track/1WTWjnCrjwzktuY2UFGUx1"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "SMS",
         "url": "https://open.spotify.com/album/1mWkEBrG6UKMnz8FOVzHRx"
       },
@@ -1815,22 +1775,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Panikwei\u00df",
-        "url": "https://open.spotify.com/album/759SIsxU0p4v2TJ2yrplV5"
+        "name": "1000 Sterne",
+        "url": "https://open.spotify.com/album/6v5nqgBpLAGyIWoL4KRGYc"
       },
       "artists": [
         {
-          "name": "MAJAN",
-          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
         },
         {
-          "name": "Schmyt",
-          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
         }
       ],
-      "duration_ms": 170016,
-      "name": "Panikwei\u00df",
-      "url": "https://open.spotify.com/track/2sledoZeAbV6vtTo6HsrqG"
+      "duration_ms": 123280,
+      "name": "1000 Sterne",
+      "url": "https://open.spotify.com/track/1WTWjnCrjwzktuY2UFGUx1"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1859,18 +1819,58 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Mufasa",
-        "url": "https://open.spotify.com/album/7gkyr2RLvlijFDtzXtXnz1"
+        "name": "BOI",
+        "url": "https://open.spotify.com/album/48xBOWLlBupgfhNKkErgDJ"
       },
       "artists": [
         {
-          "name": "METRICKZ",
-          "url": "https://open.spotify.com/artist/2P7AfQW941UU324qq2ggZf"
+          "name": "MAJAN",
+          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+        },
+        {
+          "name": "Megaloh",
+          "url": "https://open.spotify.com/artist/7M6ItqYUMPQRQQ5q54tl7G"
+        },
+        {
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
         }
       ],
-      "duration_ms": 195859,
-      "name": "W\u00fcnsch mir was",
-      "url": "https://open.spotify.com/track/01eVMUiJcYmHqy1HUURwOY"
+      "duration_ms": 228736,
+      "name": "Monoton",
+      "url": "https://open.spotify.com/track/6gZEyiqUvEpWpJYz7QjLjx"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "schwarze SUVs",
+        "url": "https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "duration_ms": 169761,
+      "name": "schwarze SUVs",
+      "url": "https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Liebst du mich",
+        "url": "https://open.spotify.com/album/2OCFALs4BTWP2Xdhdyu9pd"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 177123,
+      "name": "Liebst du mich",
+      "url": "https://open.spotify.com/track/1AmHFe9qiR4ydvHRMQgMnY"
     },
     {
       "added_at": "2024-10-24 22:00:00",

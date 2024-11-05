@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > <a href="spotify:artist:5ixQSDvAMa5O758xG8MWXT">mor ve ötesi</a>  ile birlikte hazırlanan özel Türkçe Rock seçkisi 🎸
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,810 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,829 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

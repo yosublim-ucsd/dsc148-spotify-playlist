@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Quevedo",
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Duki",
   "name": "PEGAO",
   "tracks": [
     {
@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 278644,
       "name": "ADIVINO",
       "url": "https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd"
@@ -4918,6 +4918,28 @@
       "duration_ms": 173760,
       "name": "FERXXO 30",
       "url": "https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV"
+    },
+    {
+      "album": {
+        "name": "Ferxxoko",
+        "url": "https://open.spotify.com/album/5uRpRstxMvxTSbAXZmaBnh"
+      },
+      "artists": [
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177209,
+      "name": "Ferxxoko",
+      "url": "https://open.spotify.com/track/12VjaTNEaCfDlvW1XPZTQ9"
     },
     {
       "album": {
@@ -11563,6 +11585,24 @@
     },
     {
       "album": {
+        "name": "Triana",
+        "url": "https://open.spotify.com/album/47wk0lhqRt1MWuCxPfctcc"
+      },
+      "artists": [
+        {
+          "name": "Cano",
+          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159375,
+      "name": "Se Pone Las Nike",
+      "url": "https://open.spotify.com/track/6aO53Wsz32bgMBytw6pIYm"
+    },
+    {
+      "album": {
         "name": "SE TE NOTA",
         "url": "https://open.spotify.com/album/60dyqQXDuWRObhCLM1diVF"
       },
@@ -12954,7 +12994,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 225154,
       "name": "Trending Remix (with Myke Towers)",
       "url": "https://open.spotify.com/track/7y8wfdPTJT94sIs6LnGDJC"

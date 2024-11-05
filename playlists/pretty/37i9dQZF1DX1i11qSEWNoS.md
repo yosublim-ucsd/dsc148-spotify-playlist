@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i11qSEWNoS.md) - [plain]
 
 > und macht laune
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,139 likes - 90 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,235 likes - 90 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i11qSEWNoS.md) - [plain]
 | 18 | [2 Times](https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [2 Times](https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy) | 2:11 |
 | 19 | [My Immortal](https://open.spotify.com/track/6MzlejwnoVvH0hM0YYjo7B) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi) | [My Immortal](https://open.spotify.com/album/0vsYzVY9OWrOBGZcpm2saS) | 2:19 |
 | 20 | [Ständer](https://open.spotify.com/track/3KGG2P5vn1Lg6tS3z6W6e8) | [SXTN](https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3) | [Leben am Limit](https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h) | 3:39 |
-| 21 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 |
-| 22 | [Freed From Desire \- prod\. Molella, Phil Jay](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf), [Phil Jay](https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 |
+| 21 | [Freed From Desire \- prod\. Molella, Phil Jay](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf), [Phil Jay](https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 |
+| 22 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 |
 | 23 | [All I Wanna](https://open.spotify.com/track/7BenhguFkOw1irlhoOkvoq) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [Lex Ledu](https://open.spotify.com/artist/4F0a2Vk6M0lPjpzxWl2POl) | [All I Wanna](https://open.spotify.com/album/6QPTz9BSRPmmztADxFINCu) | 2:10 |
 | 24 | [Mockingbird](https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mockingbird](https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg) | 2:34 |
 | 25 | [I Got It For You](https://open.spotify.com/track/301oJIHAvyWrm7G6iVQdgM) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [I Got It For You](https://open.spotify.com/album/48OqGn9GnSmXUTcg5EXzi5) | 3:34 |

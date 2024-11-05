@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Boombeat, Jaloo
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,592 likes - 60 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,577 likes - 60 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 39 | [Pitbull Sem Coleira](https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA) | [Bixarte](https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Traviarcado](https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y) | 2:22 |
 | 40 | [Neo Thang](https://open.spotify.com/track/3JaXOtxSsNWgJ9su8DUSC2) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND \(BLOSSOM EDITION\)](https://open.spotify.com/album/3uAKzfR2PMG5eJTEXprAPF) | 2:31 |
 | 41 | [BONITA](https://open.spotify.com/track/1cuVUWpKUatvXpbJ9ITtih) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [AGRIDOCE](https://open.spotify.com/album/2rnBW5ksDgtam7tzL6jn9x) | 2:42 |
-| 42 | [Mapa De Estrelas](https://open.spotify.com/track/6sayqC4sAyPHxqy0iJi636) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:11 |
-| 43 | [Em Plena Lua De Mel](https://open.spotify.com/track/19F1I2zcOOUMAc8KK4ntIO) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [FREVÁLIA](https://open.spotify.com/album/4S048cLKhn1TaH814OJPcz) | 3:44 |
+| 42 | [Em Plena Lua De Mel](https://open.spotify.com/track/19F1I2zcOOUMAc8KK4ntIO) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [FREVÁLIA](https://open.spotify.com/album/4S048cLKhn1TaH814OJPcz) | 3:44 |
+| 43 | [Mapa De Estrelas](https://open.spotify.com/track/6sayqC4sAyPHxqy0iJi636) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:11 |
 | 44 | [Garoto Invisível](https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Garoto Invisível](https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P) | 2:36 |
 | 45 | [Cavalo de Troia](https://open.spotify.com/track/2RlqNmjyNfVDQLNQN0DV4k) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe) | [Cavalo de Troia](https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J) | 2:45 |
 | 46 | [Calcinha](https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe) | [Calcinha](https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW) | 2:58 |

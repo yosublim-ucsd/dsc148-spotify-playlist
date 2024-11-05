@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Amabbi
 
-208 songs - 9 hr 17 min
+209 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [18K](https://open.spotify.com/track/2OnR3EE6hnr3mkQb8VrdrJ) | [Razza](https://open.spotify.com/artist/4YloRSGWAe8uoTJANaYpNL), [Lil Tec](https://open.spotify.com/artist/62ZZ5XZHCUg0O6QMPzEAQQ) | [18K](https://open.spotify.com/album/5b85c5VRv1qghJcBUFyHBI) | 2:22 | 2022-03-18 | 2023-08-05 |
 | [24hrs](https://open.spotify.com/track/7h8IgSnEDjclxGvUKyfyvj) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [24hrs](https://open.spotify.com/album/0dIToP40dUYcpMW9Gwso91) | 2:20 | 2024-08-02 |  |
 | [A Firma é Forte](https://open.spotify.com/track/2hXPKwtp3D4LJl29MalPMh) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [LOUD](https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [A Firma é Forte](https://open.spotify.com/album/4CzzlUFpX7RPTzALrKFQYk) | 2:43 | 2022-03-18 |  |
-| [A Trança](https://open.spotify.com/track/0qyvAoh5RL05BlUbGTnYBm) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [A Trança](https://open.spotify.com/album/2I9FyslpABgSZQ7zKizUGb) | 2:27 | 2023-07-21 |  |
+| [A Trança](https://open.spotify.com/track/0qyvAoh5RL05BlUbGTnYBm) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [A Trança](https://open.spotify.com/album/2I9FyslpABgSZQ7zKizUGb) | 2:27 | 2023-07-21 | 2024-11-05 |
 | [Alone](https://open.spotify.com/track/0ekFR7W6o4VPUHsDjn4ZU4) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo), [Eaedaddy](https://open.spotify.com/artist/3s8GYKFrXLsyx3WN6mdwh8) | [Alone](https://open.spotify.com/album/4MVU8BmR5lk8lxmH1RBMyu) | 2:42 | 2022-03-18 | 2022-11-12 |
 | [Ambição](https://open.spotify.com/track/11GBZzXwJ12PcXmK2L6d7d) | [LOH ALMEIDAH](https://open.spotify.com/artist/3cOGQtOrVLFdII5VCawDAk), [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv) | [Ambição](https://open.spotify.com/album/4E7e0akZk9SuDTTcnRu9GQ) | 2:25 | 2024-03-08 | 2024-06-01 |
 | [Ampulheta](https://open.spotify.com/track/4JDFZho5o7NiDmN3u8AwBR) | [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O), [Ari Falcão](https://open.spotify.com/artist/1tJcpyjn4f1vbRJW1E7P3b), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Ampulheta](https://open.spotify.com/album/59rPrkTt8G1ffLlaMl49qN) | 2:02 | 2023-04-14 |  |
@@ -55,6 +55,7 @@
 | [Da Minha Janela](https://open.spotify.com/track/2iB7aFaUqa9lQbsNMYYSoS) | [Alana Pires](https://open.spotify.com/artist/5jmnFNMoHnnc2YU9emT4ce) | [Da Minha Janela](https://open.spotify.com/album/2ubQ78WGsyH3v3Uc97k4Sk) | 2:12 | 2022-03-18 | 2023-04-01 |
 | [Daiquiri](https://open.spotify.com/track/0QCLAUzilCByys1Uaz72KH) | [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9) | [Who Is The Villain ??](https://open.spotify.com/album/4xTavRVrCq0snxkVv0WdUk) | 2:51 | 2024-09-20 |  |
 | [Dama da Noite](https://open.spotify.com/track/0wOYCvsXQvHXYghnIzXiP4) | [Charlotte](https://open.spotify.com/artist/0KY3H0d4zc4Pwi7d7Onmn8), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Dama da Noite](https://open.spotify.com/album/4vbJPuDV02FML2XNieJxei) | 1:58 | 2022-03-18 | 2022-05-28 |
+| [Date](https://open.spotify.com/track/51TPPeZpsia4O6EGhFXrYP) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Date](https://open.spotify.com/album/3WAICN4NCMJpkY7uG1DcIK) | 2:40 | 2024-11-04 |  |
 | [DE CRIA PRA CRIA / MC Marcelly](https://open.spotify.com/track/6ytgQdqiWF2QDH9lA24knH) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD) | [DE CRIA PRA CRIA](https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad) | 2:20 | 2022-11-11 |  |
 | [Desamor](https://open.spotify.com/track/77ylP1AFdw0i0T435Sm20F) | [Ya Malb](https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8) | [Desamor](https://open.spotify.com/album/2AATRFcL1HPWlx4P6bT9kr) | 1:58 | 2023-01-27 |  |
 | [Desfecho](https://open.spotify.com/track/0tyR7y2Zz9J7BMZ2PqpmN5) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Desfecho](https://open.spotify.com/album/6V2bSKag8gME9P1cT2f021) | 2:22 | 2023-06-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 34685,
+  "num_followers": 34686,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAAAtQbp3/lvSN0vn/MyfxpF/",
+  "snapshot_id": "Zya9AAAAAACFzPEvzytCUuLStePb9rVZ",
   "tracks": [
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Llorando x 1",
-        "url": "https://open.spotify.com/album/7hRErvNPgsqn5IAuv73qBX"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 150732,
-      "name": "Llorando x 1",
-      "url": "https://open.spotify.com/track/2pmdNnInTpDCoui6M8JK8n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quem Quer F1 Com o G?",
         "url": "https://open.spotify.com/album/4fkmsXc6PvWwgNJJ5yzW4E"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 166153,
       "name": "T\u00e1 Jogando Demais",
       "url": "https://open.spotify.com/track/62ehb7GLAwFpHCtzP96k4f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Llorando x 1",
+        "url": "https://open.spotify.com/album/7hRErvNPgsqn5IAuv73qBX"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 150732,
+      "name": "Llorando x 1",
+      "url": "https://open.spotify.com/track/2pmdNnInTpDCoui6M8JK8n"
     },
     {
       "added_at": null,
@@ -439,6 +439,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
+      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revoada do Tubar\u00e3o 2 (feat. Mc Davi, Mc PP da VS, Mc Pedrinho, Mc Dricka, Mc Lbx, Mc Kevin, Salvador Da Rima, Ferrugem, MC Kevinho, Gaab)",
         "url": "https://open.spotify.com/album/6SYKU2YKvPcBslCHjnFtKU"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 591157,
       "name": "Revoada do Tubar\u00e3o 2 (feat. Mc Davi, Mc PP da VS, Mc Pedrinho, Mc Dricka, Mc Lbx, Mc Kevin, Salvador Da Rima, Ferrugem, MC Kevinho, Gaab)",
       "url": "https://open.spotify.com/track/5Dcb2W1UpzVFQuyzxpqZaB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Presen\u00e7a",
-          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
-      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
     },
     {
       "added_at": null,
@@ -1131,34 +1131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soca Com Press\u00e3o",
-        "url": "https://open.spotify.com/album/4TqKAZRTG5HUCMS9FNLFi3"
-      },
-      "artists": [
-        {
-          "name": "Mc Troia",
-          "url": "https://open.spotify.com/artist/4qeuGyDAaXAa1wuWcy0KuV"
-        },
-        {
-          "name": "Mc Terror",
-          "url": "https://open.spotify.com/artist/67qkN07rOU517tFWiOghoQ"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 140231,
-      "name": "Soca Com Press\u00e3o",
-      "url": "https://open.spotify.com/track/0hPD3ikmwJmWvNY3ITOZHG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rave Don't Start Now",
         "url": "https://open.spotify.com/album/3xOrZD9NxfMTD08Yjx4vt7"
       },
@@ -1187,6 +1159,34 @@
       "duration_ms": 237230,
       "name": "Rave Don't Start Now",
       "url": "https://open.spotify.com/track/1rjQCYjZkl475WiV1YhAbF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soca Com Press\u00e3o",
+        "url": "https://open.spotify.com/album/4TqKAZRTG5HUCMS9FNLFi3"
+      },
+      "artists": [
+        {
+          "name": "Mc Troia",
+          "url": "https://open.spotify.com/artist/4qeuGyDAaXAa1wuWcy0KuV"
+        },
+        {
+          "name": "Mc Terror",
+          "url": "https://open.spotify.com/artist/67qkN07rOU517tFWiOghoQ"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 140231,
+      "name": "Soca Com Press\u00e3o",
+      "url": "https://open.spotify.com/track/0hPD3ikmwJmWvNY3ITOZHG"
     },
     {
       "added_at": null,
@@ -1379,6 +1379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pretinha do Peitin e do Bund\u00e3o",
+        "url": "https://open.spotify.com/album/67QFNXjKS1gwrBhu6STeHl"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 168922,
+      "name": "Pretinha do Peitin e do Bund\u00e3o",
+      "url": "https://open.spotify.com/track/5Y9nPcOtIyzT4DeHAqIatb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Tipo F\u00e1bio Jr",
         "url": "https://open.spotify.com/album/53xyrvLqe51ezB3SAG0oWK"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 643571,
       "name": "Set Tipo F\u00e1bio Jr",
       "url": "https://open.spotify.com/track/0qxx0e0xM38oMmKky8Dcss"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pretinha do Peitin e do Bund\u00e3o",
-        "url": "https://open.spotify.com/album/67QFNXjKS1gwrBhu6STeHl"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 168922,
-      "name": "Pretinha do Peitin e do Bund\u00e3o",
-      "url": "https://open.spotify.com/track/5Y9nPcOtIyzT4DeHAqIatb"
     },
     {
       "added_at": null,
@@ -1499,6 +1499,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Colocadinha",
+        "url": "https://open.spotify.com/album/1BzI9XaLvtBy1BdklTSQd1"
+      },
+      "artists": [
+        {
+          "name": "Argentino No Beat",
+          "url": "https://open.spotify.com/artist/34M7UdepuokkiSNHjB4opv"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 143085,
+      "name": "Colocadinha",
+      "url": "https://open.spotify.com/track/6GWe9a8eVDNecYYMvWy0XB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "38 Carregado",
         "url": "https://open.spotify.com/album/7rRRBPuisxQKGRQsglK20U"
       },
@@ -1523,26 +1543,6 @@
       "duration_ms": 126249,
       "name": "38 Carregado",
       "url": "https://open.spotify.com/track/4VqtUzguJZRomDHACkvwig"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Colocadinha",
-        "url": "https://open.spotify.com/album/1BzI9XaLvtBy1BdklTSQd1"
-      },
-      "artists": [
-        {
-          "name": "Argentino No Beat",
-          "url": "https://open.spotify.com/artist/34M7UdepuokkiSNHjB4opv"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 143085,
-      "name": "Colocadinha",
-      "url": "https://open.spotify.com/track/6GWe9a8eVDNecYYMvWy0XB"
     },
     {
       "added_at": null,

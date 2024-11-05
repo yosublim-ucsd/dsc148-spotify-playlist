@@ -524,7 +524,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 160657,
       "name": "Alcoholic Party 2024",
       "url": "https://open.spotify.com/track/52eNGQysAJ9yn92QkQ7Csa"
@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 222580,
       "name": "Behind Enemy Lines",
       "url": "https://open.spotify.com/track/0r3hUPdNI7fhxCyFpJbsYX"
@@ -3170,6 +3170,28 @@
     {
       "album": {
         "name": "By My Side",
+        "url": "https://open.spotify.com/album/3AWe5yHlsLmkhKFcq8KIUV"
+      },
+      "artists": [
+        {
+          "name": "Lady Faith",
+          "url": "https://open.spotify.com/artist/1va2Hj3SvWvu3L6jAN6k01"
+        },
+        {
+          "name": "Lexy Panterra",
+          "url": "https://open.spotify.com/artist/5bB58D2RfSIIM2eBJy2Kww"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/24snDKG3n2r4F0E5f3yLYz"
+    },
+    {
+      "album": {
+        "name": "By My Side",
         "url": "https://open.spotify.com/album/0LB3djbtzOr36YIbyUy9Y0"
       },
       "artists": [
@@ -4329,6 +4351,28 @@
     },
     {
       "album": {
+        "name": "Dark Magic",
+        "url": "https://open.spotify.com/album/0z86DPyb7j4NNE9yuypOUo"
+      },
+      "artists": [
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/1YvxDrTQpgqX8uSK4gjtPL"
+        },
+        {
+          "name": "MC Flo",
+          "url": "https://open.spotify.com/artist/6kn1zMFsqWQgdLSUN69j9R"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157132,
+      "name": "Dark Magic",
+      "url": "https://open.spotify.com/track/6Y6VlGhnDPpCkQQ1rQSAww"
+    },
+    {
+      "album": {
         "name": "Dark Side Of The Wall",
         "url": "https://open.spotify.com/album/4abcPRFT4rt5tQYVSW7Xwr"
       },
@@ -4628,7 +4672,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 204774,
       "name": "Defiance",
       "url": "https://open.spotify.com/track/05uemG3jbWdpnyPKuqyL2p"
@@ -5144,7 +5188,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 152834,
       "name": "Do What I Wanna Do - Rave Mix",
       "url": "https://open.spotify.com/track/3ezo0jCOQpT3aTSsbJ0BiK"
@@ -5472,7 +5516,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 158788,
       "name": "DREAMLAND",
       "url": "https://open.spotify.com/track/6GiOYjZZW4oyarMoJKTNAc"
@@ -5526,7 +5570,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 124540,
       "name": "Drop That",
       "url": "https://open.spotify.com/track/08XCFa4gCODqSy6FDv2Uhs"
@@ -6456,6 +6500,24 @@
       "duration_ms": 164250,
       "name": "Face Of Violence",
       "url": "https://open.spotify.com/track/1lZHiK2IInP32FeQFEp7ZV"
+    },
+    {
+      "album": {
+        "name": "FADE AWAY",
+        "url": "https://open.spotify.com/album/1bIEcghsmWKSMedYNYMPbQ"
+      },
+      "artists": [
+        {
+          "name": "Bmberjck",
+          "url": "https://open.spotify.com/artist/4NQTa7bCWWmWlc6SjyGX4G"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170019,
+      "name": "FADE AWAY",
+      "url": "https://open.spotify.com/track/1bo7aiVjVHL9RWtaxZsxr1"
     },
     {
       "album": {
@@ -7547,6 +7609,24 @@
     },
     {
       "album": {
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/76tjwS44TxTx1r6Qnkn0gr"
+      },
+      "artists": [
+        {
+          "name": "KELTEK",
+          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/3mfpOff75guQLuD48YxDxA"
+    },
+    {
+      "album": {
         "name": "The Enlightenment",
         "url": "https://open.spotify.com/album/1lgcbB1XtebCbd5JlbEAiZ"
       },
@@ -8571,6 +8651,24 @@
     },
     {
       "album": {
+        "name": "Have You Ever",
+        "url": "https://open.spotify.com/album/0WzqWs9zBmEqGZ6f54xAhy"
+      },
+      "artists": [
+        {
+          "name": "Envine",
+          "url": "https://open.spotify.com/artist/4jxFb0CASzyps1aMpZOxyi"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Have You Ever",
+      "url": "https://open.spotify.com/track/7uCLGyrNkiIFl49lpcNDqQ"
+    },
+    {
+      "album": {
         "name": "HEAR THE NOISE",
         "url": "https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye"
       },
@@ -9094,6 +9192,28 @@
       "duration_ms": 169632,
       "name": "Hold Us Down",
       "url": "https://open.spotify.com/track/7jRaQYNWfwexTjLW86TCtr"
+    },
+    {
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/7bia7aTsUp7bBIrVg6BTMC"
+      },
+      "artists": [
+        {
+          "name": "Nightcraft",
+          "url": "https://open.spotify.com/artist/4IQIMZPSBfizEPPGdCmsXV"
+        },
+        {
+          "name": "Digital Mindz",
+          "url": "https://open.spotify.com/artist/6BPReCUBYOimAPOqJqQXLW"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229500,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/1wbSUhtaRqUHYe62gfy6QB"
     },
     {
       "album": {
@@ -11933,6 +12053,24 @@
     },
     {
       "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/7q4GO1xwFZDt9GdgmvSq6S"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210580,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
+    },
+    {
+      "album": {
         "name": "Live It Up",
         "url": "https://open.spotify.com/album/75hlXBtKOaV0GssyMaROgw"
       },
@@ -13786,7 +13924,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 165000,
       "name": "My Weakness",
       "url": "https://open.spotify.com/track/2p0ABXkWRU53bqRq1K4YgC"
@@ -13888,7 +14026,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 209032,
       "name": "Neon Dreams",
       "url": "https://open.spotify.com/track/06udvmmawWkUS5YI3GGoKp"
@@ -14090,6 +14228,28 @@
       "duration_ms": 143592,
       "name": "Never Gonna Stop",
       "url": "https://open.spotify.com/track/4qQeJHebvYHbKghDz8ygEJ"
+    },
+    {
+      "album": {
+        "name": "Never Not Done",
+        "url": "https://open.spotify.com/album/3FjMAy0kYLbSHH5kqUo7He"
+      },
+      "artists": [
+        {
+          "name": "Phuture Noize",
+          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
+        },
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150374,
+      "name": "Never Not Done",
+      "url": "https://open.spotify.com/track/5B1rekO09gXl8Gr2V6x2Nn"
     },
     {
       "album": {
@@ -15672,7 +15832,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 164000,
       "name": "Party All The Time",
       "url": "https://open.spotify.com/track/7MxyjShs8F5zq2iiiIwdQ1"
@@ -15804,7 +15964,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 185806,
       "name": "Pictures Of You",
       "url": "https://open.spotify.com/track/4sz9GRfS0G5kT7pGUmodmK"
@@ -16192,7 +16352,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 136218,
       "name": "PWR",
       "url": "https://open.spotify.com/track/5F77xUTErpZtpKNOaaJnE8"
@@ -16815,6 +16975,28 @@
     },
     {
       "album": {
+        "name": "Rebel Revolution (Official REBELLiON Indoor 2024 Anthem)",
+        "url": "https://open.spotify.com/album/0pePUkHjltJ61BETWBQ0kc"
+      },
+      "artists": [
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        },
+        {
+          "name": "MC Livid",
+          "url": "https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226562,
+      "name": "Rebel Revolution - Official REBELLiON Indoor 2024 Anthem",
+      "url": "https://open.spotify.com/track/6vPQ63XDadIOzKZwDdx2IT"
+    },
+    {
+      "album": {
         "name": "Rebels Of Shutdown (Shutdown Festival 2023 Anthem)",
         "url": "https://open.spotify.com/album/4hCGqMZtwaKkZSGCkiDLGR"
       },
@@ -16856,7 +17038,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 140506,
       "name": "Redemption & Rage",
       "url": "https://open.spotify.com/track/3sIUP0aAQNHectEBIPG7LW"
@@ -18291,6 +18473,28 @@
     },
     {
       "album": {
+        "name": "SCREECH SLAVER",
+        "url": "https://open.spotify.com/album/6CPgny0bpgK1v9FGqjE7na"
+      },
+      "artists": [
+        {
+          "name": "DEEZL",
+          "url": "https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L"
+        },
+        {
+          "name": "Exproz",
+          "url": "https://open.spotify.com/artist/22jcDppDfbm4cqqUDzM8tU"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171007,
+      "name": "SCREECH SLAVER",
+      "url": "https://open.spotify.com/track/57bTwRTSXIBJQVZYmaYNPS"
+    },
+    {
+      "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/75NHhqvk0Q2CO9jK6snNKZ"
       },
@@ -18314,6 +18518,32 @@
       "duration_ms": 206524,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/5lfwREI237PpvLjIKvN34u"
+    },
+    {
+      "album": {
+        "name": "Separate Lives",
+        "url": "https://open.spotify.com/album/2sMJuAJfkDQHJeQ96jFRNq"
+      },
+      "artists": [
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        },
+        {
+          "name": "Deepack",
+          "url": "https://open.spotify.com/artist/5hnFqGY2kc233cXstqrGev"
+        },
+        {
+          "name": "Jordan Jade",
+          "url": "https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206207,
+      "name": "Separate Lives",
+      "url": "https://open.spotify.com/track/4Pa4eYDKeKzQxDdNG9EIis"
     },
     {
       "album": {
@@ -19488,7 +19718,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 174219,
       "name": "Street Knowledge",
       "url": "https://open.spotify.com/track/0WttTZoBrLug5IPptYBbuB"
@@ -20519,6 +20749,32 @@
     },
     {
       "album": {
+        "name": "The Age Of Love (Brennan Heart & ANDY SVGE Remix)",
+        "url": "https://open.spotify.com/album/4pk35uSAFZ7Q2MweAdCWN3"
+      },
+      "artists": [
+        {
+          "name": "Age Of Love",
+          "url": "https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "ANDY SVGE",
+          "url": "https://open.spotify.com/artist/4MciZ3SoIaHGhBecweONHp"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "The Age Of Love - Brennan Heart & ANDY SVGE Remix",
+      "url": "https://open.spotify.com/track/4h1igBodAXxo1IKsbV5h4Q"
+    },
+    {
+      "album": {
         "name": "The Air I Breathe (Adaro Remix)",
         "url": "https://open.spotify.com/album/6LzcZXnXBYCK0fLyLJHYvz"
       },
@@ -21212,6 +21468,28 @@
       "duration_ms": 279679,
       "name": "The Nightmare Factory",
       "url": "https://open.spotify.com/track/716rRyCS2V70kdjTnXGHld"
+    },
+    {
+      "album": {
+        "name": "The Nightmare Project",
+        "url": "https://open.spotify.com/album/1sp42CWf4ZjbVQVs2QKPp3"
+      },
+      "artists": [
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        },
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "The Nightmare Project",
+      "url": "https://open.spotify.com/track/1kMIk5PtG4v7089GiRjtFs"
     },
     {
       "album": {
@@ -22894,7 +23172,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 229157,
       "name": "Unleash Me",
       "url": "https://open.spotify.com/track/0hLHpjZjdnTpIGy77tLcAp"
@@ -23938,6 +24216,24 @@
       "duration_ms": 152000,
       "name": "We Won't Stop (For Eternity)",
       "url": "https://open.spotify.com/track/3VpHxjjTRdyFH8MMSPR5Ws"
+    },
+    {
+      "album": {
+        "name": "We'll Never Fall",
+        "url": "https://open.spotify.com/album/5dZFMk05rSCejG1yFGcMsN"
+      },
+      "artists": [
+        {
+          "name": "Lowriderz",
+          "url": "https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236903,
+      "name": "We'll Never Fall",
+      "url": "https://open.spotify.com/track/2PAYcCzAi0W6W9rn4zaiNb"
     },
     {
       "album": {

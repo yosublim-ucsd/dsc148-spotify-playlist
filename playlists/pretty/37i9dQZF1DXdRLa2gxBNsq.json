@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: La Polla Records.",
-  "num_followers": 108168,
+  "num_followers": 108194,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Love the Antros",
-        "url": "https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv"
+        "name": "Asesinos",
+        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
       },
       "artists": [
         {
-          "name": "Karne Cruda",
-          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
+          "name": "Manifa",
+          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
         }
       ],
-      "duration_ms": 155469,
-      "name": "Love the Antros",
-      "url": "https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi"
+      "duration_ms": 176117,
+      "name": "Asesinos",
+      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Asesinos",
-        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
+        "name": "Love the Antros",
+        "url": "https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv"
       },
       "artists": [
         {
-          "name": "Manifa",
-          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
+          "name": "Karne Cruda",
+          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
         }
       ],
-      "duration_ms": 176117,
-      "name": "Asesinos",
-      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
+      "duration_ms": 155469,
+      "name": "Love the Antros",
+      "url": "https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1387,54 +1387,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Mundo Muerto",
-        "url": "https://open.spotify.com/album/6zyik6tAV3g4jMLeJU8Tei"
+        "name": "Humanos",
+        "url": "https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy"
       },
       "artists": [
         {
           "name": "Akritud",
           "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
-        },
-        {
-          "name": "EtsaiakEroak",
-          "url": "https://open.spotify.com/artist/0xmpnK00j3aUbhdXqkX7j6"
         }
       ],
-      "duration_ms": 157482,
-      "name": "Mundo Muerto",
-      "url": "https://open.spotify.com/track/1QiX7ZF1DC00p3443jzII1"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Una Noche M\u00e1s",
-        "url": "https://open.spotify.com/album/4ejbet0sT4xw2xs4IAmxE7"
-      },
-      "artists": [
-        {
-          "name": "Debruces",
-          "url": "https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S"
-        }
-      ],
-      "duration_ms": 212785,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/4nUVcqvsg0jq4Z0KEfttXw"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Influencers",
-        "url": "https://open.spotify.com/album/0aLb1OseJN1zVxtXTS84r2"
-      },
-      "artists": [
-        {
-          "name": "\u00daltimo Rekurso",
-          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
-        }
-      ],
-      "duration_ms": 246493,
-      "name": "Influencers",
-      "url": "https://open.spotify.com/track/3QeyHS6OYXDuoNXeePq2TG"
+      "duration_ms": 151134,
+      "name": "Humanos",
+      "url": "https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1455,6 +1419,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Influencers",
+        "url": "https://open.spotify.com/album/0aLb1OseJN1zVxtXTS84r2"
+      },
+      "artists": [
+        {
+          "name": "\u00daltimo Rekurso",
+          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
+        }
+      ],
+      "duration_ms": 246493,
+      "name": "Influencers",
+      "url": "https://open.spotify.com/track/3QeyHS6OYXDuoNXeePq2TG"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "Sabor a Plomo",
         "url": "https://open.spotify.com/album/4CR0loWGYTsMyIgY8kybeh"
       },
@@ -1471,18 +1451,38 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Humanos",
-        "url": "https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy"
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/4ejbet0sT4xw2xs4IAmxE7"
+      },
+      "artists": [
+        {
+          "name": "Debruces",
+          "url": "https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S"
+        }
+      ],
+      "duration_ms": 212785,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/4nUVcqvsg0jq4Z0KEfttXw"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Mundo Muerto",
+        "url": "https://open.spotify.com/album/6zyik6tAV3g4jMLeJU8Tei"
       },
       "artists": [
         {
           "name": "Akritud",
           "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
+        },
+        {
+          "name": "EtsaiakEroak",
+          "url": "https://open.spotify.com/artist/0xmpnK00j3aUbhdXqkX7j6"
         }
       ],
-      "duration_ms": 151134,
-      "name": "Humanos",
-      "url": "https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY"
+      "duration_ms": 157482,
+      "name": "Mundo Muerto",
+      "url": "https://open.spotify.com/track/1QiX7ZF1DC00p3443jzII1"
     },
     {
       "added_at": "2024-10-03 22:00:00",

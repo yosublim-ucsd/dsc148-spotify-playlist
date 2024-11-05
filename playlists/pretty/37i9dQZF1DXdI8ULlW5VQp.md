@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Alejandro Sanz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,884 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,934 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 67 | [Hola, Me Llamo María](https://open.spotify.com/track/2J5AcNu1g9UHgWjDVMok5q) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [Hola, Me Llamo María](https://open.spotify.com/album/0hPPueaVFAIrjdMAx1z7P1) | 2:36 |
 | 68 | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV) | 3:46 |
 | 69 | [Qué Suerte](https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Qué Suerte](https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6) | 2:45 |
-| 70 | [Canción de Cuna Para mi Amor](https://open.spotify.com/track/7oVscokaAqXztmruCWVAXq) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Canción de Cuna Para mi Amor](https://open.spotify.com/album/1IRb97dQDYVbfSzJ8e5InQ) | 2:18 |
-| 71 | [Hola, Buenas Noches](https://open.spotify.com/track/7kRRsr7Wdfru5o7wWjJPUb) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Hola, Buenas Noches](https://open.spotify.com/album/37UpKSYkiLfgNAINIxl8YK) | 3:13 |
+| 70 | [Hola, Buenas Noches](https://open.spotify.com/track/7kRRsr7Wdfru5o7wWjJPUb) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Hola, Buenas Noches](https://open.spotify.com/album/37UpKSYkiLfgNAINIxl8YK) | 3:13 |
+| 71 | [Canción de Cuna Para mi Amor](https://open.spotify.com/track/7oVscokaAqXztmruCWVAXq) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Canción de Cuna Para mi Amor](https://open.spotify.com/album/1IRb97dQDYVbfSzJ8e5InQ) | 2:18 |
 | 72 | [Puñetas Mentales](https://open.spotify.com/track/4M54nkILKhxGO73bEMr3hU) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Puñetas Mentales](https://open.spotify.com/album/2CgMSZgcZAVyhq0vVSk7kn) | 2:19 |
 | 73 | [MUJER MARAVILLA](https://open.spotify.com/track/1AGQa2mcc0EdSrWALwpqXB) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [MUJER MARAVILLA](https://open.spotify.com/album/2o0V68kbkNTXKP1OgS5TJ0) | 3:06 |
 | 74 | [No Fue Fácil](https://open.spotify.com/track/1cvbDvA7RXnlyhrJBtcbyt) | [Sous\-Sol](https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T) | [No Fue Fácil](https://open.spotify.com/album/6jINtxzOgJOnBfl1T3DD7b) | 3:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,317 likes - 69 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,645 likes - 69 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 41 | [haunted, but it's ambient](https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [haunted, but it's ambient](https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl) | 2:16 |
 | 42 | [The Promise of Snakes](https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D) | [The Angelic Process](https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W) | [Weighing Souls With Sand](https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl) | 9:32 |
 | 43 | [where is life?](https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [where is life?](https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP) | 2:07 |
-| 44 | [Spectral](https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 8:09 |
-| 45 | [Locale](https://open.spotify.com/track/7EmVoBw3vXMwBpIhPA4KEF) | [Violet A\. Foster](https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi) | [Moments.](https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t) | 2:36 |
+| 44 | [Locale](https://open.spotify.com/track/7EmVoBw3vXMwBpIhPA4KEF) | [Violet A\. Foster](https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi) | [Moments.](https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t) | 2:36 |
+| 45 | [Spectral](https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 8:09 |
 | 46 | [River Whispering Run](https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:08 |
 | 47 | [Below the House](https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:41 |
 | 48 | [Bardo Landscape](https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e) | [Alicia Enstrom](https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa) | [Bardo Landscape](https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f) | 3:23 |

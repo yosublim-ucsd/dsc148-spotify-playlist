@@ -4,7 +4,7 @@
 
 > Racikan akustik dalam secangkir kopi.
 
-150 songs - 10 hr 5 min
+151 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,12 +131,13 @@
 | [Sesuatu Di Jogja](https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [8 Tahun](https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28) | 4:47 | 2022-12-07 |  |
 | [Soon Finland](https://open.spotify.com/track/2mpPBZRP0EaFx3NnChQ6ru) | [Heidi \(The Girl with the Hair\)](https://open.spotify.com/artist/5OxLnOIdVy8HPo4VUYZXL0) | [Soon Finland](https://open.spotify.com/album/1HwnwAuoLSugzyarIzBmd8) | 3:38 | 2024-03-05 | 2024-09-03 |
 | [Sorai](https://open.spotify.com/track/3ymuBMTviroWLuf1jMsMVf) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Sorai](https://open.spotify.com/album/60YDoJUMHjkYtZnPztRvZ1) | 4:38 | 2022-12-07 |  |
-| [Sudut Memori](https://open.spotify.com/track/2ZjaCEltPgL2WqEiCQ2bod) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:19 | 2022-12-07 |  |
+| [Sudut Memori](https://open.spotify.com/track/2ZjaCEltPgL2WqEiCQ2bod) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:19 | 2022-12-07 | 2024-11-05 |
 | [Surat Cinta Untuk Starla](https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Surat Cinta Untuk Starla](https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3) | 5:08 | 2022-12-07 |  |
 | [Tak Apa \(feat\. Nosstress\)](https://open.spotify.com/track/3iZ6I95xY5YXNSinAuXgl8) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI), [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Tak Apa \(feat\. Nosstress\)](https://open.spotify.com/album/0z1bZJUqQIGVghcHJs4d7b) | 3:59 | 2023-08-30 | 2023-09-14 |
 | [Tak Ingin Pisah Lagi](https://open.spotify.com/track/67L0rPX2z7n44XBYStoHDg) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5), [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Tak Ingin Pisah Lagi](https://open.spotify.com/album/55EPRJFc0JAWKeLEFJogQ4) | 4:25 | 2024-05-08 | 2024-07-25 |
 | [Tak Ingin Sendiri](https://open.spotify.com/track/7KxpRVlmUMM85DYougYWn3) | [Felix Irwan](https://open.spotify.com/artist/5mwjkxQflHcuSGuDpEPm66) | [Tak Ingin Sendiri \- Single](https://open.spotify.com/album/6EYVHiIl6Lq2XG1e9og907) | 3:27 | 2024-03-05 | 2024-04-15 |
 | [Tampar](https://open.spotify.com/track/2RHm5IDIZ8fYRGzBIo7exV) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Tampar](https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz) | 3:22 | 2022-12-07 |  |
+| [Tanpa Bicara \- Acoustic Version](https://open.spotify.com/track/3rZakDmhQjz0UbUjl6eROP) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Tanpa Bicara \(Acoustic Version\)](https://open.spotify.com/album/6k86SYxKHyaPsnB0gRv8ll) | 3:11 | 2024-11-04 |  |
 | [Tanpa Pamrih](https://open.spotify.com/track/2WKS8Tk8OwHnAY847eq1Xr) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Tanpa Pamrih](https://open.spotify.com/album/73wlf7LjR5ytZvdINDIowe) | 3:32 | 2024-03-05 | 2024-07-25 |
 | [terima kasih](https://open.spotify.com/track/2m1ozXAKFam3YQXRPDnEfE) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/0RIVNgA95YzOPDHD4aYbqZ) | 3:24 | 2023-11-07 | 2024-04-19 |
 | [terima kasih](https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20) | 3:24 | 2022-12-07 | 2023-11-05 |

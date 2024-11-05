@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,219 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,349 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 46 | [Brand New \(feat\. James Vincent McMorrow and A\-Trak\)](https://open.spotify.com/track/0gCLVhDXFT8iPC63rABwr4) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Brand New \(feat\. James Vincent McMorrow and A\-Trak\)](https://open.spotify.com/album/4DNFg3mPxTEIlGHpPK06Bd) | 5:08 |
 | 47 | [Been A Minute...](https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Been A Minute...](https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub) | 3:09 |
 | 48 | [I CAN’T LOSE YOU](https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [I CAN'T LOSE YOU](https://open.spotify.com/album/4Vks6PwxrmJ6CAfhNSrcvO) | 2:35 |
-| 49 | [Rainbow](https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Rainbow](https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1) | 2:56 |
-| 50 | [Peace of Mind](https://open.spotify.com/track/7h8qrDfxBzUGcXXiR4Jxea) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Peace of Mind](https://open.spotify.com/album/6yF8JrEp3yBfFJptdIPLi7) | 3:09 |
+| 49 | [Peace of Mind](https://open.spotify.com/track/7h8qrDfxBzUGcXXiR4Jxea) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Peace of Mind](https://open.spotify.com/album/6yF8JrEp3yBfFJptdIPLi7) | 3:09 |
+| 50 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:30 |
 
 Snapshot ID: `Zxu9fAAAAABWb7ht5daPn8ZNfG31sb0y`

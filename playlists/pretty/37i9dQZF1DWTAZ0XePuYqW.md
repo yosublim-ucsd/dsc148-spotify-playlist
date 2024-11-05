@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > That's that big energy\. Cover: Young Franco & Kah\-Lo
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,064 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,077 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 5 | [Pretty Girls Cry Too \(feat\. Lay Bankz, Saweetie & Flo Milli\)](https://open.spotify.com/track/1xIUzmnbBGks5bWZjngTIH) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Pretty Girls Cry Too \(feat\. Lay Bankz, Saweetie & Flo Milli\)](https://open.spotify.com/album/4EPslQriJfV1wLD1NS49IU) | 3:02 |
 | 6 | [collect$$$save](https://open.spotify.com/track/1vMvlL0V2ulcClCfSDmZ8t) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2), [Funkywhat](https://open.spotify.com/artist/4TJJXS1c48aAOf4XcClVYG) | [collect$$$save](https://open.spotify.com/album/1ktAR5Cnf75Cbgxii215PY) | 3:35 |
 | 7 | [Feel It](https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [Milaa](https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB) | [Feel It](https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS) | 3:34 |
-| 8 | [Final Boss](https://open.spotify.com/track/3Mr14q2s9iTtgg2h7qiXQn) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [Final Boss](https://open.spotify.com/album/3Lw8q30CGNUizoa05LGvY0) | 1:24 |
+| 8 | [Final Boss](https://open.spotify.com/track/3Mr14q2s9iTtgg2h7qiXQn) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [Final Boss](https://open.spotify.com/album/3Lw8q30CGNUizoa05LGvY0) | 1:24 |
 | 9 | [Strength \(R U Ready\) \[feat\. Joy Crookes\]](https://open.spotify.com/track/1sVWTkfmfSjcip9unXt1Wz) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 3:21 |
 | 10 | [Immaculate](https://open.spotify.com/track/21XJd63KiArnOgo39sJezL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Immaculate](https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2) | 2:34 |
 | 11 | [Hold Me Down \(feat\. Kah\-Lo\)](https://open.spotify.com/track/6PaNqowxXiXwNtbT6Nk6vy) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Hold Me Down \(feat\. Kah\-Lo\)](https://open.spotify.com/album/77kQjc7iSD6oE0K11HWBjv) | 2:47 |

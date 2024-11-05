@@ -1,6 +1,6 @@
 {
   "description": "nasze brzmienie \u2728 Cover: Karolina B\u0142o\u0144ska",
-  "num_followers": 21011,
+  "num_followers": 21012,
   "original_name": "gen z ",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-10-25 15:16:47",
       "album": {
+        "name": "przypadkiem",
+        "url": "https://open.spotify.com/album/7cPkz7ex0tIwfxls5NaPK0"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria Zwoli\u0144ska",
+          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
+        }
+      ],
+      "duration_ms": 183881,
+      "name": "przypadkiem",
+      "url": "https://open.spotify.com/track/4qnzc5iJp1NI23WG0iroCQ"
+    },
+    {
+      "added_at": "2024-10-25 15:16:47",
+      "album": {
         "name": "VIBE",
         "url": "https://open.spotify.com/album/7oMDu4vRQOfWhru1Xrsk1P"
       },
@@ -271,22 +287,6 @@
     {
       "added_at": "2024-10-25 15:16:47",
       "album": {
-        "name": "przypadkiem",
-        "url": "https://open.spotify.com/album/7cPkz7ex0tIwfxls5NaPK0"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria Zwoli\u0144ska",
-          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
-        }
-      ],
-      "duration_ms": 183881,
-      "name": "przypadkiem",
-      "url": "https://open.spotify.com/track/4qnzc5iJp1NI23WG0iroCQ"
-    },
-    {
-      "added_at": "2024-10-25 15:16:47",
-      "album": {
         "name": "Zadzwo\u0144 do mnie",
         "url": "https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE"
       },
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-10-25 15:16:47",
       "album": {
-        "name": "Znak",
-        "url": "https://open.spotify.com/album/0IjNaus9nS3fT3gxbsR15C"
-      },
-      "artists": [
-        {
-          "name": "Daniel Godson",
-          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Znak",
-      "url": "https://open.spotify.com/track/0lTP9dBVc2QyUu24PfikM3"
-    },
-    {
-      "added_at": "2024-10-25 15:16:47",
-      "album": {
         "name": "Tak widz\u0119 nas (za 20 lat)",
         "url": "https://open.spotify.com/album/3cLG13ntRQcRdQg6QmyJQx"
       },
@@ -351,6 +335,42 @@
     {
       "added_at": "2024-10-25 15:16:47",
       "album": {
+        "name": "Znak",
+        "url": "https://open.spotify.com/album/0IjNaus9nS3fT3gxbsR15C"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Znak",
+      "url": "https://open.spotify.com/track/0lTP9dBVc2QyUu24PfikM3"
+    },
+    {
+      "added_at": "2024-10-25 15:16:47",
+      "album": {
+        "name": "paj\u0119cze lilie",
+        "url": "https://open.spotify.com/album/5wEivRW2GnR1Hl7IHCXxZ1"
+      },
+      "artists": [
+        {
+          "name": "irys",
+          "url": "https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U"
+        },
+        {
+          "name": "Marcin Przyby\u0142owicz",
+          "url": "https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "paj\u0119cze lilie",
+      "url": "https://open.spotify.com/track/6Y6f7kQa1kj0tvY2rVN5hu"
+    },
+    {
+      "added_at": "2024-10-25 15:16:47",
+      "album": {
         "name": "Tylko Lepiej EP",
         "url": "https://open.spotify.com/album/40hXd3kTwv8wF9iVxQLKHC"
       },
@@ -363,6 +383,22 @@
       "duration_ms": 147804,
       "name": "A\u017c B\u0119dziesz Wiedzie\u0107",
       "url": "https://open.spotify.com/track/4AvHEHhWzVYtda38KLWEkM"
+    },
+    {
+      "added_at": "2024-10-25 15:16:47",
+      "album": {
+        "name": "jeste\u015b g\u0142upi",
+        "url": "https://open.spotify.com/album/4GTDDsP3d06obFoqZpM6nw"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria Zwoli\u0144ska",
+          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
+        }
+      ],
+      "duration_ms": 158692,
+      "name": "jeste\u015b g\u0142upi",
+      "url": "https://open.spotify.com/track/1AeL4E8mv5IGP16PlhmbTb"
     },
     {
       "added_at": "2024-10-25 15:16:47",
@@ -391,42 +427,6 @@
       "duration_ms": 172361,
       "name": "Miliony monet (feat. Wiktor Walig\u00f3ra, Piotr Odoszewski & Kajetan Wolas)",
       "url": "https://open.spotify.com/track/3u7NG0qKoxZPbdLiz2G6lp"
-    },
-    {
-      "added_at": "2024-10-25 15:16:47",
-      "album": {
-        "name": "paj\u0119cze lilie",
-        "url": "https://open.spotify.com/album/5wEivRW2GnR1Hl7IHCXxZ1"
-      },
-      "artists": [
-        {
-          "name": "irys",
-          "url": "https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U"
-        },
-        {
-          "name": "Marcin Przyby\u0142owicz",
-          "url": "https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "paj\u0119cze lilie",
-      "url": "https://open.spotify.com/track/6Y6f7kQa1kj0tvY2rVN5hu"
-    },
-    {
-      "added_at": "2024-10-25 15:16:47",
-      "album": {
-        "name": "jeste\u015b g\u0142upi",
-        "url": "https://open.spotify.com/album/4GTDDsP3d06obFoqZpM6nw"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria Zwoli\u0144ska",
-          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
-        }
-      ],
-      "duration_ms": 158692,
-      "name": "jeste\u015b g\u0142upi",
-      "url": "https://open.spotify.com/track/1AeL4E8mv5IGP16PlhmbTb"
     },
     {
       "added_at": "2024-10-25 15:16:47",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-10-25 15:16:47",
       "album": {
-        "name": "Ju\u017c nie szkoda",
-        "url": "https://open.spotify.com/album/4rfPIIZxl5G2O5UcuxZlvh"
-      },
-      "artists": [
-        {
-          "name": "evelina ross",
-          "url": "https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw"
-        }
-      ],
-      "duration_ms": 168002,
-      "name": "Ju\u017c nie szkoda",
-      "url": "https://open.spotify.com/track/3FwSAioifZmEAWoIDNvAe4"
-    },
-    {
-      "added_at": "2024-10-25 15:16:47",
-      "album": {
         "name": "kochaj na serio",
         "url": "https://open.spotify.com/album/581rUrcXqf5JvYMVT4abjE"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 160709,
       "name": "kochaj na serio",
       "url": "https://open.spotify.com/track/4BYly5wqMJiOAqcNGTN5EJ"
+    },
+    {
+      "added_at": "2024-10-25 15:16:47",
+      "album": {
+        "name": "Ju\u017c nie szkoda",
+        "url": "https://open.spotify.com/album/4rfPIIZxl5G2O5UcuxZlvh"
+      },
+      "artists": [
+        {
+          "name": "evelina ross",
+          "url": "https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw"
+        }
+      ],
+      "duration_ms": 168002,
+      "name": "Ju\u017c nie szkoda",
+      "url": "https://open.spotify.com/track/3FwSAioifZmEAWoIDNvAe4"
     },
     {
       "added_at": "2024-10-25 15:16:47",
@@ -691,22 +691,22 @@
     {
       "added_at": "2024-10-25 15:16:47",
       "album": {
-        "name": "MINT",
-        "url": "https://open.spotify.com/album/30OQrORu7TyhQhTZ0yB21y"
+        "name": "nie wracam",
+        "url": "https://open.spotify.com/album/4Zmx2snI7W2imHGADlCup1"
       },
       "artists": [
         {
-          "name": "Frank Leen",
-          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+          "name": "Alicja",
+          "url": "https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb"
         },
         {
-          "name": "Blinders",
-          "url": "https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J"
+          "name": "Bartek Kr\u00f3lik",
+          "url": "https://open.spotify.com/artist/4rE8hvv3ZvCVAyaxZVtmTT"
         }
       ],
-      "duration_ms": 164788,
-      "name": "Przy Tobie to...",
-      "url": "https://open.spotify.com/track/2wkLEogc1aCPETKmZzILtM"
+      "duration_ms": 162608,
+      "name": "pami\u0119tasz?",
+      "url": "https://open.spotify.com/track/17oBC8vG7zlS0e7V0pBIQP"
     },
     {
       "added_at": "2024-10-25 15:16:47",
@@ -727,22 +727,22 @@
     {
       "added_at": "2024-10-25 15:16:47",
       "album": {
-        "name": "nie wracam",
-        "url": "https://open.spotify.com/album/4Zmx2snI7W2imHGADlCup1"
+        "name": "MINT",
+        "url": "https://open.spotify.com/album/30OQrORu7TyhQhTZ0yB21y"
       },
       "artists": [
         {
-          "name": "Alicja",
-          "url": "https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb"
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
         },
         {
-          "name": "Bartek Kr\u00f3lik",
-          "url": "https://open.spotify.com/artist/4rE8hvv3ZvCVAyaxZVtmTT"
+          "name": "Blinders",
+          "url": "https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J"
         }
       ],
-      "duration_ms": 162608,
-      "name": "pami\u0119tasz?",
-      "url": "https://open.spotify.com/track/17oBC8vG7zlS0e7V0pBIQP"
+      "duration_ms": 164788,
+      "name": "Przy Tobie to...",
+      "url": "https://open.spotify.com/track/2wkLEogc1aCPETKmZzILtM"
     },
     {
       "added_at": "2024-10-25 15:16:47",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-10-25 15:16:47",
       "album": {
-        "name": "MILION",
-        "url": "https://open.spotify.com/album/2uMYW6xYTT6yQeCZorgoaD"
-      },
-      "artists": [
-        {
-          "name": "LIJA",
-          "url": "https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5"
-        }
-      ],
-      "duration_ms": 177196,
-      "name": "MILION",
-      "url": "https://open.spotify.com/track/5F3tMkclVSZ3sYyhU9knBx"
-    },
-    {
-      "added_at": "2024-10-25 15:16:47",
-      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/4yF8NpjrJD2ObQsGvXm1m7"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 126835,
       "name": "Candy",
       "url": "https://open.spotify.com/track/0I2Ma5SzwI4MXxvCoVL6lx"
+    },
+    {
+      "added_at": "2024-10-25 15:16:47",
+      "album": {
+        "name": "MILION",
+        "url": "https://open.spotify.com/album/2uMYW6xYTT6yQeCZorgoaD"
+      },
+      "artists": [
+        {
+          "name": "LIJA",
+          "url": "https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5"
+        }
+      ],
+      "duration_ms": 177196,
+      "name": "MILION",
+      "url": "https://open.spotify.com/track/5F3tMkclVSZ3sYyhU9knBx"
     },
     {
       "added_at": "2024-10-25 15:16:47",
@@ -1011,6 +1011,22 @@
       "duration_ms": 142336,
       "name": "Gadu\u0142a",
       "url": "https://open.spotify.com/track/0PW79OISoSCzmPwoqyphnV"
+    },
+    {
+      "added_at": "2024-10-25 15:16:47",
+      "album": {
+        "name": "D\u0142ugie Spacery",
+        "url": "https://open.spotify.com/album/4NtdplntD8TeKTki9Y9mIB"
+      },
+      "artists": [
+        {
+          "name": "Filip Grodowski",
+          "url": "https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f"
+        }
+      ],
+      "duration_ms": 276095,
+      "name": "D\u0142ugie Spacery",
+      "url": "https://open.spotify.com/track/6PN0dwNmzDEBt092pWDfdp"
     },
     {
       "added_at": "2024-10-25 15:16:47",
@@ -1055,38 +1071,6 @@
     {
       "added_at": "2024-10-25 15:16:47",
       "album": {
-        "name": "D\u0142ugie Spacery",
-        "url": "https://open.spotify.com/album/4NtdplntD8TeKTki9Y9mIB"
-      },
-      "artists": [
-        {
-          "name": "Filip Grodowski",
-          "url": "https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f"
-        }
-      ],
-      "duration_ms": 276095,
-      "name": "D\u0142ugie Spacery",
-      "url": "https://open.spotify.com/track/6PN0dwNmzDEBt092pWDfdp"
-    },
-    {
-      "added_at": "2024-10-25 15:16:47",
-      "album": {
-        "name": "MIAMI VICE",
-        "url": "https://open.spotify.com/album/5XBFcO4GD7rNxenfYE5ZoU"
-      },
-      "artists": [
-        {
-          "name": "NEL",
-          "url": "https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF"
-        }
-      ],
-      "duration_ms": 134117,
-      "name": "MIAMI VICE",
-      "url": "https://open.spotify.com/track/6cvLck4RJ9yABjPuSQrx6w"
-    },
-    {
-      "added_at": "2024-10-25 15:16:47",
-      "album": {
         "name": "lawenda",
         "url": "https://open.spotify.com/album/4SYewAkrqWANmfutFXeZc1"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 235401,
       "name": "lawenda",
       "url": "https://open.spotify.com/track/1MkUt0F83LEQUOkMylVLQR"
+    },
+    {
+      "added_at": "2024-10-25 15:16:47",
+      "album": {
+        "name": "MIAMI VICE",
+        "url": "https://open.spotify.com/album/5XBFcO4GD7rNxenfYE5ZoU"
+      },
+      "artists": [
+        {
+          "name": "NEL",
+          "url": "https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF"
+        }
+      ],
+      "duration_ms": 134117,
+      "name": "MIAMI VICE",
+      "url": "https://open.spotify.com/track/6cvLck4RJ9yABjPuSQrx6w"
     },
     {
       "added_at": "2024-10-25 15:16:47",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-10-25 15:16:47",
       "album": {
-        "name": "Narkotyk",
-        "url": "https://open.spotify.com/album/1eVrFxiHAjO66n5JsXF7CQ"
-      },
-      "artists": [
-        {
-          "name": "PHERO",
-          "url": "https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM"
-        }
-      ],
-      "duration_ms": 127407,
-      "name": "Narkotyk",
-      "url": "https://open.spotify.com/track/5AO9dmRl4XCb0iW6ZP3fQb"
-    },
-    {
-      "added_at": "2024-10-25 15:16:47",
-      "album": {
         "name": "spok\u00f3j w ciele",
         "url": "https://open.spotify.com/album/2kwYX1EuiZXzFEImvpX2H3"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 195789,
       "name": "spok\u00f3j w ciele",
       "url": "https://open.spotify.com/track/1g1KaSYXkfQ8hhZYDsLTK0"
+    },
+    {
+      "added_at": "2024-10-25 15:16:47",
+      "album": {
+        "name": "Narkotyk",
+        "url": "https://open.spotify.com/album/1eVrFxiHAjO66n5JsXF7CQ"
+      },
+      "artists": [
+        {
+          "name": "PHERO",
+          "url": "https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM"
+        }
+      ],
+      "duration_ms": 127407,
+      "name": "Narkotyk",
+      "url": "https://open.spotify.com/track/5AO9dmRl4XCb0iW6ZP3fQb"
     },
     {
       "added_at": "2024-10-25 15:16:47",

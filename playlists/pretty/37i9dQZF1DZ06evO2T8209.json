@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 634330,
+  "num_followers": 634976,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAABDNYG1+M0fmSZ76T2wVvU3",
+  "snapshot_id": "Zya9AAAAAABIpRqL42hLxdXCxmJzdjTY",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 206049,
+      "name": "SORRY NOT SORRY",
+      "url": "https://open.spotify.com/track/410ZZP746AQeiywhKvXWCo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WASTELAND",
         "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 214692,
       "name": "GRAVITY (FEAT. TYLER, THE CREATOR)",
       "url": "https://open.spotify.com/track/3zakx7RAwdkUQlOoQ7SJRt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 206049,
-      "name": "SORRY NOT SORRY",
-      "url": "https://open.spotify.com/track/410ZZP746AQeiywhKvXWCo"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CALL ME IF YOU GET LOST",
-        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 146481,
-      "name": "CORSO",
-      "url": "https://open.spotify.com/track/46oHvXwpEZOFX518we1nJD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Biking",
         "url": "https://open.spotify.com/album/7yOOPJjNelITCaYMqk8V6r"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 277520,
       "name": "Biking",
       "url": "https://open.spotify.com/track/2q0VexHJirnUPnEOhr2DxK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 146481,
+      "name": "CORSO",
+      "url": "https://open.spotify.com/track/46oHvXwpEZOFX518we1nJD"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolf",
-        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 166346,
-      "name": "Tamale",
-      "url": "https://open.spotify.com/track/60b6B2ULC85t4Y5IjZvP7A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hitler Wears Hermes 8: Side B",
         "url": "https://open.spotify.com/album/0KtFP56RU7bd32pcvdeWOU"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 105185,
       "name": "The Fly who couldn't Fly straight (feat. Tyler, The Creator)",
       "url": "https://open.spotify.com/track/6bCbBTw3mqHWQwhFMMaOOq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 166346,
+      "name": "Tamale",
+      "url": "https://open.spotify.com/track/60b6B2ULC85t4Y5IjZvP7A"
     },
     {
       "added_at": null,
@@ -935,22 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolf",
-        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Cowboy",
-      "url": "https://open.spotify.com/track/2hjjUjikOa29kImnI5kQPw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Know NIGO!",
         "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 199500,
       "name": "Come On, Let's Go (with Nigo)",
       "url": "https://open.spotify.com/track/6f44p3Kc4ayD9VtbC9Clkr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/2hjjUjikOa29kImnI5kQPw"
     },
     {
       "added_at": null,

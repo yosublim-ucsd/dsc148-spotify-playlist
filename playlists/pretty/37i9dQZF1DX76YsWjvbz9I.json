@@ -1,6 +1,6 @@
 {
   "description": "The unforgettable romantic Jazz songs.",
-  "num_followers": 299532,
+  "num_followers": 299636,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-06-13 11:32:24",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 232280,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo"
-    },
-    {
-      "added_at": "2024-06-13 11:32:24",
-      "album": {
         "name": "All Or Nothing At All",
         "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 226680,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
+    },
+    {
+      "added_at": "2024-06-13 11:32:24",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "duration_ms": 232280,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo"
     },
     {
       "added_at": "2024-06-13 11:32:24",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-06-13 11:32:24",
       "album": {
-        "name": "Can't Resist You - My Summer Love",
-        "url": "https://open.spotify.com/album/3ZoUT0HdjBcsSpNR0Oi24K"
-      },
-      "artists": [
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 125946,
-      "name": "Have You Met Miss Jones",
-      "url": "https://open.spotify.com/track/1gpAfQ8jtLxlqARnuhysFc"
-    },
-    {
-      "added_at": "2024-06-13 11:32:24",
-      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 224226,
       "name": "My Romance",
       "url": "https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn"
+    },
+    {
+      "added_at": "2024-06-13 11:32:24",
+      "album": {
+        "name": "Can't Resist You - My Summer Love",
+        "url": "https://open.spotify.com/album/3ZoUT0HdjBcsSpNR0Oi24K"
+      },
+      "artists": [
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "duration_ms": 125946,
+      "name": "Have You Met Miss Jones",
+      "url": "https://open.spotify.com/track/1gpAfQ8jtLxlqARnuhysFc"
     },
     {
       "added_at": "2024-06-13 11:32:24",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-06-13 11:32:24",
       "album": {
-        "name": "The Essential Rosemary Clooney",
-        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
-    },
-    {
-      "added_at": "2024-06-13 11:32:24",
-      "album": {
         "name": "L.A. Is My Lady",
         "url": "https://open.spotify.com/album/4zvku3SSgsUaVRsvcCZ1aU"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 225933,
       "name": "Teach Me Tonight",
       "url": "https://open.spotify.com/track/4waAobn5tpdqVoH9R8oDqc"
+    },
+    {
+      "added_at": "2024-06-13 11:32:24",
+      "album": {
+        "name": "The Essential Rosemary Clooney",
+        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
     },
     {
       "added_at": "2024-06-13 11:32:24",
@@ -967,38 +967,6 @@
     {
       "added_at": "2024-06-13 11:32:24",
       "album": {
-        "name": "All of You",
-        "url": "https://open.spotify.com/album/2cN5fPkdSSmUlWhFxpsVrk"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "The Nearness of You",
-      "url": "https://open.spotify.com/track/1lk5RIC2NMUMLgyOVMSCKs"
-    },
-    {
-      "added_at": "2024-06-13 11:32:24",
-      "album": {
-        "name": "Ella And Louis Again",
-        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 521200,
-      "name": "Let's Do It (Let's Fall In Love)",
-      "url": "https://open.spotify.com/track/5mRF9wpnR4j6QnRXJCNgoO"
-    },
-    {
-      "added_at": "2024-06-13 11:32:24",
-      "album": {
         "name": "Sinatra's Sinatra",
         "url": "https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5"
       },
@@ -1015,18 +983,18 @@
     {
       "added_at": "2024-06-13 11:32:24",
       "album": {
-        "name": "Carmen McRae For Lovers",
-        "url": "https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU"
+        "name": "All of You",
+        "url": "https://open.spotify.com/album/2cN5fPkdSSmUlWhFxpsVrk"
       },
       "artists": [
         {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
         }
       ],
-      "duration_ms": 229226,
-      "name": "When I Fall In Love",
-      "url": "https://open.spotify.com/track/3qo1rizHmEmLPZbCwYSiKX"
+      "duration_ms": 178960,
+      "name": "The Nearness of You",
+      "url": "https://open.spotify.com/track/1lk5RIC2NMUMLgyOVMSCKs"
     },
     {
       "added_at": "2024-06-13 11:32:24",
@@ -1047,6 +1015,38 @@
       "duration_ms": 144466,
       "name": "Taking A Chance On Love",
       "url": "https://open.spotify.com/track/6gaYlANvT72vnO0cGACx2A"
+    },
+    {
+      "added_at": "2024-06-13 11:32:24",
+      "album": {
+        "name": "Carmen McRae For Lovers",
+        "url": "https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "When I Fall In Love",
+      "url": "https://open.spotify.com/track/3qo1rizHmEmLPZbCwYSiKX"
+    },
+    {
+      "added_at": "2024-06-13 11:32:24",
+      "album": {
+        "name": "Ella And Louis Again",
+        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 521200,
+      "name": "Let's Do It (Let's Fall In Love)",
+      "url": "https://open.spotify.com/track/5mRF9wpnR4j6QnRXJCNgoO"
     },
     {
       "added_at": "2024-06-13 11:32:24",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-06-13 11:32:24",
       "album": {
-        "name": "Meet Me Around Midnight",
-        "url": "https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO"
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
       },
       "artists": [
         {
-          "name": "Ida Sand",
-          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
         }
       ],
-      "duration_ms": 229613,
-      "name": "One for My Baby",
-      "url": "https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN"
+      "duration_ms": 219506,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/3JByavtrnBqKpNzl18SGNI"
     },
     {
       "added_at": "2024-06-13 11:32:24",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-06-13 11:32:24",
       "album": {
-        "name": "Some Nice Things I've Missed",
-        "url": "https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV"
+        "name": "Meet Me Around Midnight",
+        "url": "https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Ida Sand",
+          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
         }
       ],
-      "duration_ms": 241733,
-      "name": "What Are You Doing The Rest Of Your Life?",
-      "url": "https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn"
+      "duration_ms": 229613,
+      "name": "One for My Baby",
+      "url": "https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN"
     },
     {
       "added_at": "2024-06-13 11:32:24",
@@ -1143,6 +1143,22 @@
       "duration_ms": 150720,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6"
+    },
+    {
+      "added_at": "2024-06-13 11:32:24",
+      "album": {
+        "name": "Some Nice Things I've Missed",
+        "url": "https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 241733,
+      "name": "What Are You Doing The Rest Of Your Life?",
+      "url": "https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn"
     },
     {
       "added_at": "2024-06-13 11:32:24",
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2024-06-13 11:32:24",
       "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
       "artists": [
         {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 219506,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/3JByavtrnBqKpNzl18SGNI"
+      "duration_ms": 162000,
+      "name": "You're Getting To Be A Habit With Me",
+      "url": "https://open.spotify.com/track/3JrECZZVBiWeL9GJMMfzdj"
     },
     {
       "added_at": "2024-06-13 11:32:24",
@@ -1207,22 +1223,6 @@
       "duration_ms": 206986,
       "name": "I'm Confessin' (That I Love You)",
       "url": "https://open.spotify.com/track/5JXIXRW1vXBgWvBqyUEHZg"
-    },
-    {
-      "added_at": "2024-06-13 11:32:24",
-      "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "You're Getting To Be A Habit With Me",
-      "url": "https://open.spotify.com/track/3JrECZZVBiWeL9GJMMfzdj"
     },
     {
       "added_at": "2024-06-13 11:32:24",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-06-13 11:32:24",
       "album": {
-        "name": "Love Swings",
-        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 109813,
-      "name": "Long Ago and Far Away",
-      "url": "https://open.spotify.com/track/48QgQqeezCQCHKr009uAe6"
-    },
-    {
-      "added_at": "2024-06-13 11:32:24",
-      "album": {
         "name": "A Day At The Movies",
         "url": "https://open.spotify.com/album/2d9J1hq0I8fkd1vKUYCgwi"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 119000,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/25uHdsKbJ51ovqUODbz00P"
+    },
+    {
+      "added_at": "2024-06-13 11:32:24",
+      "album": {
+        "name": "Love Swings",
+        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 109813,
+      "name": "Long Ago and Far Away",
+      "url": "https://open.spotify.com/track/48QgQqeezCQCHKr009uAe6"
     },
     {
       "added_at": "2024-06-13 11:32:24",

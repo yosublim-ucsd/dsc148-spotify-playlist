@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1363863,
+  "num_followers": 1364427,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,26 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "It's Nice Outside",
+        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
+      },
+      "artists": [
+        {
+          "name": "Anti Lilly",
+          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        }
+      ],
+      "duration_ms": 201011,
+      "name": "Nobody's Perfect",
+      "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 185160,
       "name": "Chase It",
       "url": "https://open.spotify.com/track/3GiZZZXh7iTzmwjVxQVEzC"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "It's Nice Outside",
-        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
-      },
-      "artists": [
-        {
-          "name": "Anti Lilly",
-          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        }
-      ],
-      "duration_ms": 201011,
-      "name": "Nobody's Perfect",
-      "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Stories From The Brass Section",
+        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
+      },
+      "artists": [
+        {
+          "name": "Anti Lilly & Phoniks",
+          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
+        }
+      ],
+      "duration_ms": 200829,
+      "name": "Blue In Green",
+      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Gilgamesh",
         "url": "https://open.spotify.com/album/3VAilypndl6FcUryyLqA9I"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 144805,
       "name": "Gilgamesh",
       "url": "https://open.spotify.com/track/449JKvl3cCFdkwQZqreV79"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Stories From The Brass Section",
-        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
-      },
-      "artists": [
-        {
-          "name": "Anti Lilly & Phoniks",
-          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
-        }
-      ],
-      "duration_ms": 200829,
-      "name": "Blue In Green",
-      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Pertenecer",
-        "url": "https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 207801,
-      "name": "Pertenecer",
-      "url": "https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "The FEEL",
         "url": "https://open.spotify.com/album/7zfjn93all67uzqxxkjlIO"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "bbhur",
-        "url": "https://open.spotify.com/album/01WVU6MPHyU0I9ijmSPSxR"
+        "name": "Pertenecer",
+        "url": "https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T"
       },
       "artists": [
         {
-          "name": "Clairmont The Second",
-          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
         }
       ],
-      "duration_ms": 245803,
-      "name": "bbhur",
-      "url": "https://open.spotify.com/track/6rq7UM6Wwgo7NFm73NP2vD"
+      "duration_ms": 207801,
+      "name": "Pertenecer",
+      "url": "https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1451,6 +1435,22 @@
       "duration_ms": 220589,
       "name": "Black & Whites",
       "url": "https://open.spotify.com/track/4uf1XtTgsXPzpqsFZeRfFb"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "bbhur",
+        "url": "https://open.spotify.com/album/01WVU6MPHyU0I9ijmSPSxR"
+      },
+      "artists": [
+        {
+          "name": "Clairmont The Second",
+          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
+        }
+      ],
+      "duration_ms": 245803,
+      "name": "bbhur",
+      "url": "https://open.spotify.com/track/6rq7UM6Wwgo7NFm73NP2vD"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "New Day (feat. Illa J)",
-        "url": "https://open.spotify.com/album/6LYOnP339GvjeB6imk4q2j"
-      },
-      "artists": [
-        {
-          "name": "Abstract Orchestra",
-          "url": "https://open.spotify.com/artist/4u3JZVJYDq2F3KgnUFw9dp"
-        },
-        {
-          "name": "Illa J",
-          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
-        }
-      ],
-      "duration_ms": 145051,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/6frS5yt1VZWpjrsJDNbzN3"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "EQUINOX",
         "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
       },
@@ -1535,6 +1515,26 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "New Day (feat. Illa J)",
+        "url": "https://open.spotify.com/album/6LYOnP339GvjeB6imk4q2j"
+      },
+      "artists": [
+        {
+          "name": "Abstract Orchestra",
+          "url": "https://open.spotify.com/artist/4u3JZVJYDq2F3KgnUFw9dp"
+        },
+        {
+          "name": "Illa J",
+          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
+        }
+      ],
+      "duration_ms": 145051,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/6frS5yt1VZWpjrsJDNbzN3"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "DADADOO",
         "url": "https://open.spotify.com/album/7jThw9jJDU3UitZRESpvGC"
       },
@@ -1547,22 +1547,6 @@
       "duration_ms": 171506,
       "name": "DADADOO",
       "url": "https://open.spotify.com/track/0eYWFMi3v00NOx0tt9ONWI"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
-      },
-      "artists": [
-        {
-          "name": "freekind.",
-          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
-        }
-      ],
-      "duration_ms": 216883,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1583,6 +1567,22 @@
       "duration_ms": 136785,
       "name": "DOOM",
       "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
+      },
+      "artists": [
+        {
+          "name": "freekind.",
+          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
+        }
+      ],
+      "duration_ms": 216883,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
+        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
+      },
+      "artists": [
+        {
+          "name": "Buckshot LeFonque",
+          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
+        }
+      ],
+      "duration_ms": 354640,
+      "name": "Breakfast At Denny's",
+      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Palm Trees",
         "url": "https://open.spotify.com/album/5cFilTRRO7XTL1ZN3AjDKM"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 136526,
       "name": "Midnight Schemes",
       "url": "https://open.spotify.com/track/6xPB98epJF3wqRObu8w0Ro"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
-        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
-      },
-      "artists": [
-        {
-          "name": "Buckshot LeFonque",
-          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Breakfast At Denny's",
-      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1747,30 +1747,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Jazz & Coffee, Pt. 4",
-        "url": "https://open.spotify.com/album/6cNg9DdYwzXpgeW5CHYm70"
-      },
-      "artists": [
-        {
-          "name": "Kid Abstrakt",
-          "url": "https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w"
-        },
-        {
-          "name": "Emapea",
-          "url": "https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6"
-        },
-        {
-          "name": "DJ Million Faces",
-          "url": "https://open.spotify.com/artist/4yIHridldZW7jSDEWiGipP"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Jazz & Coffee, Pt. 4",
-      "url": "https://open.spotify.com/track/7AKRcTsRrHHhEGBHOCbSPQ"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Tulips",
         "url": "https://open.spotify.com/album/6Oa2B45zimQ8lfbknds32G"
       },
@@ -1791,6 +1767,30 @@
       "duration_ms": 334374,
       "name": "Tulips",
       "url": "https://open.spotify.com/track/43nvSCEaxW5t26KEbDfmvg"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Jazz & Coffee, Pt. 4",
+        "url": "https://open.spotify.com/album/6cNg9DdYwzXpgeW5CHYm70"
+      },
+      "artists": [
+        {
+          "name": "Kid Abstrakt",
+          "url": "https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w"
+        },
+        {
+          "name": "Emapea",
+          "url": "https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6"
+        },
+        {
+          "name": "DJ Million Faces",
+          "url": "https://open.spotify.com/artist/4yIHridldZW7jSDEWiGipP"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Jazz & Coffee, Pt. 4",
+      "url": "https://open.spotify.com/track/7AKRcTsRrHHhEGBHOCbSPQ"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1911,6 +1911,26 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Premium",
+        "url": "https://open.spotify.com/album/5IR3xKNBHV8zcJUOWc6w3P"
+      },
+      "artists": [
+        {
+          "name": "Padre T\u00f3xico",
+          "url": "https://open.spotify.com/artist/5uxLOvJty3MKT7ftXvmTkZ"
+        },
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Premium",
+      "url": "https://open.spotify.com/track/4d2VRSpCPthFd4UUZdRVTf"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Morning Walk",
         "url": "https://open.spotify.com/album/4e9WJyGgbyfxGAv06RneXG"
       },
@@ -1931,26 +1951,6 @@
       "duration_ms": 193450,
       "name": "Morning Walk",
       "url": "https://open.spotify.com/track/4C2y1aKylM9BcA0qrk0ABY"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Premium",
-        "url": "https://open.spotify.com/album/5IR3xKNBHV8zcJUOWc6w3P"
-      },
-      "artists": [
-        {
-          "name": "Padre T\u00f3xico",
-          "url": "https://open.spotify.com/artist/5uxLOvJty3MKT7ftXvmTkZ"
-        },
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Premium",
-      "url": "https://open.spotify.com/track/4d2VRSpCPthFd4UUZdRVTf"
     },
     {
       "added_at": "2024-10-25 04:00:00",

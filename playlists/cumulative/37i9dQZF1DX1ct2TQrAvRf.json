@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "India's Rap Scene. Cover- Dhanda Nyoliwala",
+  "description": "India's Rap Scene. Cover- KR$NA",
   "name": "RAP 91",
   "tracks": [
     {
@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 109714,
       "name": "Haramzada",
       "url": "https://open.spotify.com/track/0OoiVEI8YENqBjW3KsBSXn"
@@ -1900,7 +1900,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 211480,
       "name": "Haryana Hood",
       "url": "https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl"
@@ -1988,7 +1988,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 206937,
       "name": "Hisaab",
       "url": "https://open.spotify.com/track/1yRBYvgibg7JVS6uGvbDGU"
@@ -2274,7 +2274,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-17",
+      "date_removed": null,
       "duration_ms": 155076,
       "name": "Joota Japani",
       "url": "https://open.spotify.com/track/3G0gdqt4LTreFwBYaymUhp"
@@ -2736,7 +2736,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 148615,
       "name": "Laado",
       "url": "https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n"
@@ -3808,7 +3808,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 243870,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/1kwDiS9TToZtBG6nwNOZwD"
@@ -4030,7 +4030,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-17",
+      "date_removed": null,
       "duration_ms": 166285,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/3XMZT9cUc54MnyKdDYNiqA"
@@ -4592,6 +4592,32 @@
       "duration_ms": 167500,
       "name": "We Are The Ones (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/47AEUwR1rppGeruasDVgBC"
+    },
+    {
+      "album": {
+        "name": "For The Day One$",
+        "url": "https://open.spotify.com/album/1OLxqHVU7CIkB90Y13yCzT"
+      },
+      "artists": [
+        {
+          "name": "KR$NA",
+          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+        },
+        {
+          "name": "Lisa Mishra",
+          "url": "https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs"
+        },
+        {
+          "name": "Rizzy Rico",
+          "url": "https://open.spotify.com/artist/6JVX80nScDU70ZWnlZ48Aa"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189001,
+      "name": "What's Up",
+      "url": "https://open.spotify.com/track/6OmQ0LT5nx5qrxoPljf8lv"
     },
     {
       "album": {

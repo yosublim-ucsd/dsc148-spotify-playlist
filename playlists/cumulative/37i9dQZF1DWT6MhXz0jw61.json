@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "You Only Die 1nce",
+        "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179890,
+      "name": "30 Girlfriends (Yeah Yeah)",
+      "url": "https://open.spotify.com/track/2c5Ye9y9p2yMRGhgVjS2Qb"
+    },
+    {
+      "album": {
         "name": "3333",
         "url": "https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D"
       },
@@ -22270,24 +22288,6 @@
       "duration_ms": 117600,
       "name": "YAMI YUGI MOTO",
       "url": "https://open.spotify.com/track/1ASAX1Yk2LGl2Jt1GNS4ft"
-    },
-    {
-      "album": {
-        "name": "You Only Die 1nce",
-        "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "date_added": "2024-11-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179890,
-      "name": "Yeah Yeah",
-      "url": "https://open.spotify.com/track/2c5Ye9y9p2yMRGhgVjS2Qb"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Wilfy D",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Cameo Blush",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 142120,
       "name": "22",
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
+    },
+    {
+      "album": {
+        "name": "Just Concentrate",
+        "url": "https://open.spotify.com/album/4A5WChT0xhc7UMpzM6v7TN"
+      },
+      "artists": [
+        {
+          "name": "Cameo Blush",
+          "url": "https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235836,
+      "name": "4 Me",
+      "url": "https://open.spotify.com/track/2sM7DGrqesJOBZVm8MZqWR"
     },
     {
       "album": {

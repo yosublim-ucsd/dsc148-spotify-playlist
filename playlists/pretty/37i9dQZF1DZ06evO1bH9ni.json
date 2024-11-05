@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 329560,
+  "num_followers": 329592,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAABbhcvnNAsAAHEykje717zW",
+  "snapshot_id": "Zya9AAAAAAAZ0cAGlUvW4WKDtBXuoDzP",
   "tracks": [
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Estar\u00e9 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b"
+        "name": "El Bendecido",
+        "url": "https://open.spotify.com/album/4OQ8xCHU77JxF2A6hMvXzk"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 146233,
-      "name": "No Estar\u00e9 Aqu\u00ed",
-      "url": "https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l"
+      "duration_ms": 158022,
+      "name": "El Bendecido",
+      "url": "https://open.spotify.com/track/5a6YycqQLwAUBGQCX5re6o"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Bendecido",
-        "url": "https://open.spotify.com/album/4OQ8xCHU77JxF2A6hMvXzk"
+        "name": "No Estar\u00e9 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 158022,
-      "name": "El Bendecido",
-      "url": "https://open.spotify.com/track/5a6YycqQLwAUBGQCX5re6o"
+      "duration_ms": 146233,
+      "name": "No Estar\u00e9 Aqu\u00ed",
+      "url": "https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e9cimo Aniversario (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1FlTGY7gHcjTtBbhCDY3hj"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 159390,
-      "name": "El Ranchero",
-      "url": "https://open.spotify.com/track/6XZtHcPKpn2pGVCLEBzwxj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 137560,
       "name": "El Que Quiere Puede",
       "url": "https://open.spotify.com/track/4MGkZ1KQBirBI04UAo76pn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00e9cimo Aniversario (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1FlTGY7gHcjTtBbhCDY3hj"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 159390,
+      "name": "El Ranchero",
+      "url": "https://open.spotify.com/track/6XZtHcPKpn2pGVCLEBzwxj"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gallo Jugado",
-        "url": "https://open.spotify.com/album/0fKc963dUVq6ZGdvIuQUxY"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 173172,
-      "name": "Gallo Jugado",
-      "url": "https://open.spotify.com/track/2Gsf7CIYK2NlGxuI4oFuuK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Termino Con Lo Nuestro",
         "url": "https://open.spotify.com/album/7eGdxYcXh1DlmUV2hsDCk6"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 217409,
       "name": "Termino Con Lo Nuestro",
       "url": "https://open.spotify.com/track/5bT0SVMNlrqJmG9QlBjxOw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gallo Jugado",
+        "url": "https://open.spotify.com/album/0fKc963dUVq6ZGdvIuQUxY"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 173172,
+      "name": "Gallo Jugado",
+      "url": "https://open.spotify.com/track/2Gsf7CIYK2NlGxuI4oFuuK"
     },
     {
       "added_at": null,

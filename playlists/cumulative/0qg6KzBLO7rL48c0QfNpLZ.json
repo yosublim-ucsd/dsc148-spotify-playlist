@@ -6983,6 +6983,28 @@
     },
     {
       "album": {
+        "name": "I Should Let You Go",
+        "url": "https://open.spotify.com/album/1OTu9IZzW6ly1CFPrTL6dP"
+      },
+      "artists": [
+        {
+          "name": "Heard Right",
+          "url": "https://open.spotify.com/artist/3KdFNDrWsHS0EePg8svgRl"
+        },
+        {
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232118,
+      "name": "I Should Let You Go",
+      "url": "https://open.spotify.com/track/0c4qq1mWCx1jzrWGO4GwDA"
+    },
+    {
+      "album": {
         "name": "i think you can save me",
         "url": "https://open.spotify.com/album/1ulBFo81789hv5mwzhHI7j"
       },
@@ -12368,6 +12390,32 @@
       "duration_ms": 170322,
       "name": "Sexual Healing",
       "url": "https://open.spotify.com/track/3RkNuyK96gKNvDIguhxOZ0"
+    },
+    {
+      "album": {
+        "name": "Shallow Walls",
+        "url": "https://open.spotify.com/album/2yyyOLSDdivqeF1HsmUSP6"
+      },
+      "artists": [
+        {
+          "name": "LJ MASE",
+          "url": "https://open.spotify.com/artist/3agWAq6ZjoWlv5Igeya98N"
+        },
+        {
+          "name": "Skyknock",
+          "url": "https://open.spotify.com/artist/1xX451Pg0jqIXu8I6FM5N8"
+        },
+        {
+          "name": "Jessie Lee Thetford",
+          "url": "https://open.spotify.com/artist/2bLOeO0xeK04raTh2PaBTZ"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241951,
+      "name": "Shallow Walls",
+      "url": "https://open.spotify.com/track/0pQ2qWfc6iGbdTUvEieR3u"
     },
     {
       "album": {

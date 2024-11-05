@@ -2,9 +2,9 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Sofian Medjmedj
+> 50 nejžhavějších hitů v České republice\. Cover: Ektor
 
-73 songs - 3 hr 28 min
+74 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Jazda](https://open.spotify.com/track/6k0dWRI6L1sUxPwIcZH01F) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton), [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [SWAG SIDE STORY](https://open.spotify.com/album/5u0q9Bie9brMl3dCdehhnt) | 2:35 | 2024-10-28 |  |
 | [KARTÁČEK](https://open.spotify.com/track/2ybp61FAvNxmAe8XvmYWqW) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [SPEKTRUM](https://open.spotify.com/album/7aCWUL2zlwAftKiOE93Khv) | 2:15 | 2024-10-14 |  |
 | [KICKIN’ DOORS](https://open.spotify.com/track/0Fdlt45ZC5yioKm90ERE86) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [KICKIN’ DOORS](https://open.spotify.com/album/4DGtuOnJ6ghDx0hKHIAxOb) | 2:57 | 2024-07-01 |  |
-| [Království](https://open.spotify.com/track/1BE9PBZnXNbc6xh8jdbC7i) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Planeta opic](https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl) | 3:10 | 2024-07-01 |  |
+| [Království](https://open.spotify.com/track/1BE9PBZnXNbc6xh8jdbC7i) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Planeta opic](https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl) | 3:10 | 2024-07-01 | 2024-11-05 |
 | [Kung\-fu](https://open.spotify.com/track/0odvlXjOnmtZ6sZ9CIIvbt) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [v gastru nejsou lidi](https://open.spotify.com/album/7rPuZ6URXNF2GVh8NS2ulS) | 2:21 | 2024-09-16 |  |
 | [Letná](https://open.spotify.com/track/7JLiGPvaKNNrYJHfzfANe5) | [Rohony](https://open.spotify.com/artist/3FgZ0agsmQ50Y9VflHdcio), [Manene](https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu) | [Letná](https://open.spotify.com/album/71pgnbzr7VB04NEUGQsU6F) | 2:16 | 2024-07-01 |  |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-07-01 |  |
@@ -62,6 +62,7 @@
 | [Pondělí až neděle \- Sped Up](https://open.spotify.com/track/3lcCxnxPqh0Rp7vsrD7KD6) | [Totally Nothin](https://open.spotify.com/artist/4esOzxPLunJ597xOtRt0A1), [DJ Kadr](https://open.spotify.com/artist/1GFQTS0zSjX2tLhV37rFkU) | [Waves](https://open.spotify.com/album/7aGS901TtaEwj4PzRQxeGy) | 3:27 | 2024-07-01 |  |
 | [poslední song](https://open.spotify.com/track/074oGai805UftJ82oxSycM) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [poslední song](https://open.spotify.com/album/5HUS08gldCe19URgNHwlEF) | 3:24 | 2024-10-28 |  |
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2024-07-01 |  |
+| [Pro štěstí](https://open.spotify.com/track/6KrZjI3fqzqctnmO0MjC4d) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Pro štěstí](https://open.spotify.com/album/0PjQfJtve9FGWFyVwaGKL2) | 2:47 | 2024-11-04 |  |
 | [Pussy Power \(feat\. Porsche Boy\)](https://open.spotify.com/track/7vdva8hlSprUQjNNuw0PJC) | [SIMILIVINLIFE](https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x), [Porsche Boy](https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH) | [DVOJBODKAHVIEZDIČKA](https://open.spotify.com/album/5ZO9skyaJfbTUwr6M0Fwt4) | 2:59 | 2024-07-01 |  |
 | [Rest In Piss](https://open.spotify.com/track/237OELq03CgubC3t7LwvUq) | [Dollar Prync](https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux), [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Rest In Piss](https://open.spotify.com/album/24nAN0gQnSpP1nLz0mfH5I) | 2:31 | 2024-09-16 |  |
 | [Safír](https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [ROADTRIP](https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc) | 2:29 | 2024-07-01 | 2024-08-07 |

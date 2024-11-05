@@ -387,6 +387,28 @@
     },
     {
       "album": {
+        "name": "DOUBLEZUKSH",
+        "url": "https://open.spotify.com/album/1iMdjemLV030iRZY08YnuE"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        },
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249183,
+      "name": "DOUBLEZUKSH",
+      "url": "https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir"
+    },
+    {
+      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5"
       },

@@ -1,6 +1,6 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 182852,
+  "num_followers": 182922,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Age Ain't Nothing But A Number",
+        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 291400,
+      "name": "At Your Best (You Are Love)",
+      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Good & Plenty",
         "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 204705,
       "name": "Good & Plenty",
       "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Age Ain't Nothing But A Number",
-        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 291400,
-      "name": "At Your Best (You Are Love)",
-      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Even Closer",
-        "url": "https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw"
-      },
-      "artists": [
-        {
-          "name": "Goapele",
-          "url": "https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq"
-        }
-      ],
-      "duration_ms": 229693,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Don't Throw Rocks At The Moon",
         "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 104827,
       "name": "LIMB",
       "url": "https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Even Closer",
+        "url": "https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw"
+      },
+      "artists": [
+        {
+          "name": "Goapele",
+          "url": "https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq"
+        }
+      ],
+      "duration_ms": 229693,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "guidance",
-        "url": "https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 215198,
-      "name": "guidance",
-      "url": "https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "I Want You (Deluxe Edition)",
         "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 274400,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/2gmWJA9oF4GD2Vw5QoRqu1"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "guidance",
+        "url": "https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 215198,
+      "name": "guidance",
+      "url": "https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 393733,
-      "name": "Other Side Of The Game",
-      "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Please Do Not Lean",
         "url": "https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 240937,
       "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 393733,
+      "name": "Other Side Of The Game",
+      "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 430000,
-      "name": "Orange Moon",
-      "url": "https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Comin\u2019 Around Again",
         "url": "https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 186900,
       "name": "Comin\u2019 Around Again",
       "url": "https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 430000,
+      "name": "Orange Moon",
+      "url": "https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 306306,
-      "name": "Dangerously In Love",
-      "url": "https://open.spotify.com/track/5KlcGBXtj2TptXLe83OXcP"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "1st Born Second",
         "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 318666,
       "name": "Soul Sista",
       "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 306306,
+      "name": "Dangerously In Love",
+      "url": "https://open.spotify.com/track/5KlcGBXtj2TptXLe83OXcP"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/0NIqLdZS16xSe11Tk1gabP"
-      },
-      "artists": [
-        {
-          "name": "Vaughn",
-          "url": "https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259"
-        }
-      ],
-      "duration_ms": 241985,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/5uwlYbJ8xovXnbTL0TaItp"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "something will happen",
         "url": "https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 179864,
       "name": "something will happen",
       "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/0NIqLdZS16xSe11Tk1gabP"
+      },
+      "artists": [
+        {
+          "name": "Vaughn",
+          "url": "https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259"
+        }
+      ],
+      "duration_ms": 241985,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/5uwlYbJ8xovXnbTL0TaItp"
     },
     {
       "added_at": "2024-10-25 04:00:00",

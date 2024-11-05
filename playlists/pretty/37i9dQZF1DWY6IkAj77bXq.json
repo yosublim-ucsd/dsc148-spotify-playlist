@@ -1,6 +1,6 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 76285,
+  "num_followers": 76319,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "When The Day Fades",
-        "url": "https://open.spotify.com/album/7eqQS1uXmbwUk9weF1Cps4"
-      },
-      "artists": [
-        {
-          "name": "Salomon Isle",
-          "url": "https://open.spotify.com/artist/48J1kuqZgr2pNtsN8BxhZu"
-        }
-      ],
-      "duration_ms": 151367,
-      "name": "When The Day Fades",
-      "url": "https://open.spotify.com/track/2zmweAUpApR2KRZV9Xca8v"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Earth Emerald",
         "url": "https://open.spotify.com/album/3FhnkpDjdDzEvUBSDUE7XR"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 157241,
       "name": "Earth Emerald",
       "url": "https://open.spotify.com/track/3lcBjQ6LKDYTZ4AOjk7tu2"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "When The Day Fades",
+        "url": "https://open.spotify.com/album/7eqQS1uXmbwUk9weF1Cps4"
+      },
+      "artists": [
+        {
+          "name": "Salomon Isle",
+          "url": "https://open.spotify.com/artist/48J1kuqZgr2pNtsN8BxhZu"
+        }
+      ],
+      "duration_ms": 151367,
+      "name": "When The Day Fades",
+      "url": "https://open.spotify.com/track/2zmweAUpApR2KRZV9Xca8v"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Hills Of Clarity",
-        "url": "https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA"
-      },
-      "artists": [
-        {
-          "name": "Elevated Minds",
-          "url": "https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6"
-        }
-      ],
-      "duration_ms": 255792,
-      "name": "Hills Of Clarity",
-      "url": "https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Cosmic Vibe",
         "url": "https://open.spotify.com/album/4Iaf26Hy7tPOA8lop1mSHY"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 184000,
       "name": "Cosmic Vibe",
       "url": "https://open.spotify.com/track/16YWHIxMQbvfShxpS1eKiR"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Hills Of Clarity",
+        "url": "https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA"
+      },
+      "artists": [
+        {
+          "name": "Elevated Minds",
+          "url": "https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6"
+        }
+      ],
+      "duration_ms": 255792,
+      "name": "Hills Of Clarity",
+      "url": "https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Bortgjemt",
-        "url": "https://open.spotify.com/album/4j6C8rGpkGhSeAekuBdHiM"
+        "name": "Transform",
+        "url": "https://open.spotify.com/album/2fv3MlIygs4mGaBqfp0PAM"
       },
       "artists": [
         {
-          "name": "Gjenklang",
-          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
+          "name": "Ceny Noes",
+          "url": "https://open.spotify.com/artist/6TQdtIGUfXg24EXnIgndKS"
         }
       ],
-      "duration_ms": 147750,
-      "name": "Bortgjemt",
-      "url": "https://open.spotify.com/track/3cEeIEPEocUTo3U4gD7MDG"
+      "duration_ms": 162627,
+      "name": "Transform",
+      "url": "https://open.spotify.com/track/6LGdqj1nnjVA3gegINxdLb"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Transform",
-        "url": "https://open.spotify.com/album/2fv3MlIygs4mGaBqfp0PAM"
+        "name": "Bortgjemt",
+        "url": "https://open.spotify.com/album/4j6C8rGpkGhSeAekuBdHiM"
       },
       "artists": [
         {
-          "name": "Ceny Noes",
-          "url": "https://open.spotify.com/artist/6TQdtIGUfXg24EXnIgndKS"
+          "name": "Gjenklang",
+          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
         }
       ],
-      "duration_ms": 162627,
-      "name": "Transform",
-      "url": "https://open.spotify.com/track/6LGdqj1nnjVA3gegINxdLb"
+      "duration_ms": 147750,
+      "name": "Bortgjemt",
+      "url": "https://open.spotify.com/track/3cEeIEPEocUTo3U4gD7MDG"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Vishram - Yoga Version",
-        "url": "https://open.spotify.com/album/29y0ZUjgcZys8kA2re5tEi"
-      },
-      "artists": [
-        {
-          "name": "Gamini Khatri",
-          "url": "https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Vishram - Yoga Version",
-      "url": "https://open.spotify.com/track/0DaciHRxFKnzjtekbJEW7F"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Dream Catcher",
         "url": "https://open.spotify.com/album/2Wnl7gJAZvkaKVDTT75xQI"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 133731,
       "name": "Dream Catcher",
       "url": "https://open.spotify.com/track/5PYsxNZChhUsvG5xUR33jK"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Vishram - Yoga Version",
+        "url": "https://open.spotify.com/album/29y0ZUjgcZys8kA2re5tEi"
+      },
+      "artists": [
+        {
+          "name": "Gamini Khatri",
+          "url": "https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Vishram - Yoga Version",
+      "url": "https://open.spotify.com/track/0DaciHRxFKnzjtekbJEW7F"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Defining Rest",
-        "url": "https://open.spotify.com/album/474ZgkfmyuzXVtMANPchsc"
-      },
-      "artists": [
-        {
-          "name": "Soundtopia",
-          "url": "https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "Defining Rest",
-      "url": "https://open.spotify.com/track/3yIimdbe1kmqOpyZbTHyDY"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Theta Sleep",
         "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 166000,
       "name": "Clear-Headed",
       "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Defining Rest",
+        "url": "https://open.spotify.com/album/474ZgkfmyuzXVtMANPchsc"
+      },
+      "artists": [
+        {
+          "name": "Soundtopia",
+          "url": "https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Defining Rest",
+      "url": "https://open.spotify.com/track/3yIimdbe1kmqOpyZbTHyDY"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Insights",
-        "url": "https://open.spotify.com/album/5yB1iHwxoDqs4UqPtQravz"
-      },
-      "artists": [
-        {
-          "name": "Theia Kenor",
-          "url": "https://open.spotify.com/artist/1ZyOejwpAb6jzeoLSrPc3l"
-        }
-      ],
-      "duration_ms": 165325,
-      "name": "Forgettable",
-      "url": "https://open.spotify.com/track/6O6QxgjfXLyHH4C6aa8jbO"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Unawareness",
         "url": "https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 162028,
       "name": "Unawareness",
       "url": "https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Insights",
+        "url": "https://open.spotify.com/album/5yB1iHwxoDqs4UqPtQravz"
+      },
+      "artists": [
+        {
+          "name": "Theia Kenor",
+          "url": "https://open.spotify.com/artist/1ZyOejwpAb6jzeoLSrPc3l"
+        }
+      ],
+      "duration_ms": 165325,
+      "name": "Forgettable",
+      "url": "https://open.spotify.com/track/6O6QxgjfXLyHH4C6aa8jbO"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "The Sun Will Rise Again",
-        "url": "https://open.spotify.com/album/1T0OyHWTbIbPSqXkLZsqfn"
-      },
-      "artists": [
-        {
-          "name": "Remi Asana",
-          "url": "https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc"
-        }
-      ],
-      "duration_ms": 142595,
-      "name": "The Sun Will Rise Again",
-      "url": "https://open.spotify.com/track/4MxfZWFxWBBWcdQtYUhWli"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Sammram",
         "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 206624,
       "name": "Sammram",
       "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "The Sun Will Rise Again",
+        "url": "https://open.spotify.com/album/1T0OyHWTbIbPSqXkLZsqfn"
+      },
+      "artists": [
+        {
+          "name": "Remi Asana",
+          "url": "https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc"
+        }
+      ],
+      "duration_ms": 142595,
+      "name": "The Sun Will Rise Again",
+      "url": "https://open.spotify.com/track/4MxfZWFxWBBWcdQtYUhWli"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "A Silent Moon",
-        "url": "https://open.spotify.com/album/614CGNxEe7t1cwpRQjit8H"
-      },
-      "artists": [
-        {
-          "name": "Atmosferion",
-          "url": "https://open.spotify.com/artist/0iwtwRDn1bcb5lbOsFfoFc"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "A Silent Moon",
-      "url": "https://open.spotify.com/track/4j4ZWRfaWnFou23po51hpn"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Hush",
         "url": "https://open.spotify.com/album/2BElhJUiYFx4bLB0D8BYTt"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 141724,
       "name": "Hush",
       "url": "https://open.spotify.com/track/1MfkuRzoYgwSNFntMCDvYd"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "A Silent Moon",
+        "url": "https://open.spotify.com/album/614CGNxEe7t1cwpRQjit8H"
+      },
+      "artists": [
+        {
+          "name": "Atmosferion",
+          "url": "https://open.spotify.com/artist/0iwtwRDn1bcb5lbOsFfoFc"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "A Silent Moon",
+      "url": "https://open.spotify.com/track/4j4ZWRfaWnFou23po51hpn"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Moonchild's First Flight",
-        "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
-      },
-      "artists": [
-        {
-          "name": "Amos Stremann",
-          "url": "https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV"
-        }
-      ],
-      "duration_ms": 172372,
-      "name": "Moonchild's First Flight",
-      "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Incorniciato",
         "url": "https://open.spotify.com/album/1ZWLzTAIhCe71mmmy8DbWq"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 164571,
       "name": "Incorniciato",
       "url": "https://open.spotify.com/track/4hIl75AXfZMQfyTFa5geXQ"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Moonchild's First Flight",
+        "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
+      },
+      "artists": [
+        {
+          "name": "Amos Stremann",
+          "url": "https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV"
+        }
+      ],
+      "duration_ms": 172372,
+      "name": "Moonchild's First Flight",
+      "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Cosmos",
-        "url": "https://open.spotify.com/album/3N1aInFPkG6qobY6L6osk6"
-      },
-      "artists": [
-        {
-          "name": "Moments of Clarity",
-          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
-        }
-      ],
-      "duration_ms": 238192,
-      "name": "Monument",
-      "url": "https://open.spotify.com/track/4Uah7cyX4bQKjb3eo0tDLp"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Nebulae",
         "url": "https://open.spotify.com/album/6L1zv90N3x8xOzXASWr8jj"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 189272,
       "name": "Niobe",
       "url": "https://open.spotify.com/track/0OEUIVHPNUXHoIgt4qxZW3"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Cosmos",
+        "url": "https://open.spotify.com/album/3N1aInFPkG6qobY6L6osk6"
+      },
+      "artists": [
+        {
+          "name": "Moments of Clarity",
+          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
+        }
+      ],
+      "duration_ms": 238192,
+      "name": "Monument",
+      "url": "https://open.spotify.com/track/4Uah7cyX4bQKjb3eo0tDLp"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Psybient (Psychedelic Ambient Music)",
-        "url": "https://open.spotify.com/album/0hXQHpXhx1EupvlaZC7tvM"
-      },
-      "artists": [
-        {
-          "name": "Heaven on Earth Instrumental Universe",
-          "url": "https://open.spotify.com/artist/7aLueB60C95UX3TOvWgbAt"
-        }
-      ],
-      "duration_ms": 196777,
-      "name": "Vivid Imagination",
-      "url": "https://open.spotify.com/track/4wV6irpJa9f21iaadadfrG"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "A New Day",
         "url": "https://open.spotify.com/album/1iW2YQx2uFHUVVPwBCVBpW"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 156000,
       "name": "A New Day",
       "url": "https://open.spotify.com/track/4hI39WJTJdxfLZIxw1P4xZ"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Psybient (Psychedelic Ambient Music)",
+        "url": "https://open.spotify.com/album/0hXQHpXhx1EupvlaZC7tvM"
+      },
+      "artists": [
+        {
+          "name": "Heaven on Earth Instrumental Universe",
+          "url": "https://open.spotify.com/artist/7aLueB60C95UX3TOvWgbAt"
+        }
+      ],
+      "duration_ms": 196777,
+      "name": "Vivid Imagination",
+      "url": "https://open.spotify.com/track/4wV6irpJa9f21iaadadfrG"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Bare dreams",
-        "url": "https://open.spotify.com/album/4C9LrzhzKueTHmUHCQENJS"
-      },
-      "artists": [
-        {
-          "name": "Sayulita",
-          "url": "https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM"
-        }
-      ],
-      "duration_ms": 159950,
-      "name": "Bare dreams",
-      "url": "https://open.spotify.com/track/26yNNpbZfLEYigyJdVKeyd"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Liberation",
         "url": "https://open.spotify.com/album/2isUstKIlkgHwH2O1gwW2E"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 196748,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/4HyKtaIP1Lozq8Bs8JKQKa"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Bare dreams",
+        "url": "https://open.spotify.com/album/4C9LrzhzKueTHmUHCQENJS"
+      },
+      "artists": [
+        {
+          "name": "Sayulita",
+          "url": "https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM"
+        }
+      ],
+      "duration_ms": 159950,
+      "name": "Bare dreams",
+      "url": "https://open.spotify.com/track/26yNNpbZfLEYigyJdVKeyd"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

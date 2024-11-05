@@ -1,13 +1,45 @@
 {
   "description": "Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent. Cover: Brandy in Best. Christmas. Ever. ",
-  "num_followers": 10434,
+  "num_followers": 10440,
   "original_name": "Netflix Holidays Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZYw+GgAAAAC83Xaf1E8Vf89g/SfKqowf",
+  "snapshot_id": "ZylnwgAAAABhfCoVtpgTNBdcovThDfJh",
   "tracks": [
+    {
+      "added_at": "2024-11-05 00:33:06",
+      "album": {
+        "name": "Meet Me Next Christmas",
+        "url": "https://open.spotify.com/album/2VVfxBR6rxdMOyBPQZAyPx"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 163922,
+      "name": "Meet Me Next Christmas",
+      "url": "https://open.spotify.com/track/71c1qn8GR6xhx7pFjWWcks"
+    },
+    {
+      "added_at": "2024-11-05 00:33:06",
+      "album": {
+        "name": "The Greatest Christmas Hits",
+        "url": "https://open.spotify.com/album/4tRcSRjaE98LsBVOm6cSJT"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Please Santa Please",
+      "url": "https://open.spotify.com/track/398egUWDwedHWTPQmlel9E"
+    },
     {
       "added_at": "2023-12-27 15:09:14",
       "album": {

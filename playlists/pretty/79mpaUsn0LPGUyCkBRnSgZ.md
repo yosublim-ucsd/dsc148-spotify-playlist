@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 535 songs - 1 day 12 hr 8 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 534 songs - 1 day 11 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -539,9 +539,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 529 | [Hours Were the Birds](https://open.spotify.com/track/4IRrvuLi0cGNg3XED8H98j) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 3:11 |
 | 530 | [Play Your Part \(Pt\. 1\)](https://open.spotify.com/track/5udnrY00yVUOAzupil2H56) | [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Feed the Animals](https://open.spotify.com/album/1B5Lwt0D1ZetRreaCBYobP) | 4:44 |
 | 531 | [Secret History](https://open.spotify.com/track/3JXmhHzljGagSdPuCmqBpp) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Foxing](https://open.spotify.com/album/7wtRnGjfT3JMeseYGVzDy3) | 4:01 |
-| 532 | [Minim: Part I](https://open.spotify.com/track/2eUc6nuQT2m0wJX8GjbzPL) | [Yasunao Tone](https://open.spotify.com/artist/452pwHumVmgYOV4tLv1F7N) | [Solo For Wounded](https://open.spotify.com/album/6UvuhanBfE1cn4vxMyqaIJ) | 14:17 |
-| 533 | [Laughing Hieroglyphic](https://open.spotify.com/track/0YVDEtkT2SjdR5w7uIFcrj) | [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu) | [Down There](https://open.spotify.com/album/6ttLfw2Z9Wbxu3paarz6h0) | 6:49 |
-| 534 | [STANKA POOH](https://open.spotify.com/track/1mMVC8AsuUUelwopm51Jht) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:01 |
-| 535 | [Lost](https://open.spotify.com/track/494Mu6x7PKSjuuh975jcI3) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Evergreen](https://open.spotify.com/album/1IN1QBfV9tNR6fFgR7PsUl) | 3:20 |
+| 532 | [Laughing Hieroglyphic](https://open.spotify.com/track/0YVDEtkT2SjdR5w7uIFcrj) | [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu) | [Down There](https://open.spotify.com/album/6ttLfw2Z9Wbxu3paarz6h0) | 6:49 |
+| 533 | [STANKA POOH](https://open.spotify.com/track/1mMVC8AsuUUelwopm51Jht) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:01 |
+| 534 | [Lost](https://open.spotify.com/track/494Mu6x7PKSjuuh975jcI3) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Evergreen](https://open.spotify.com/album/1IN1QBfV9tNR6fFgR7PsUl) | 3:20 |
 
-Snapshot ID: `AAAGr7O21fxjJmK/NOiWdkJ/06U6Mfk6`
+Snapshot ID: `AAAGsNFCPS1f7Pcq0k+8ZyDTIjJL0bSb`

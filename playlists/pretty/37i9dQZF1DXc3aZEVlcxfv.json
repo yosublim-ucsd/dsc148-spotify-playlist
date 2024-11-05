@@ -1,6 +1,6 @@
 {
   "description": "I am blessed!",
-  "num_followers": 1747,
+  "num_followers": 1752,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "heaven on earth",
-        "url": "https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA"
-      },
-      "artists": [
-        {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
-        }
-      ],
-      "duration_ms": 203235,
-      "name": "heaven on earth",
-      "url": "https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck"
-    },
-    {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
         "name": "Dependable God (Medley)",
         "url": "https://open.spotify.com/album/7CzRW6l3bcarSQ8w1wAoKj"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 232071,
       "name": "Dependable God (Medley)",
       "url": "https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN"
+    },
+    {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
+        "name": "heaven on earth",
+        "url": "https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "duration_ms": 203235,
+      "name": "heaven on earth",
+      "url": "https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -523,26 +523,18 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "Joy in Chaos (Extended)",
-        "url": "https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv"
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
       },
       "artists": [
         {
-          "name": "Holy drill",
-          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
-        },
-        {
-          "name": "D6",
-          "url": "https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj"
-        },
-        {
-          "name": "Stanley Ifenna",
-          "url": "https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 126923,
-      "name": "Joy in Chaos (Extended)",
-      "url": "https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5"
+      "duration_ms": 234667,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -571,18 +563,26 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+        "name": "Joy in Chaos (Extended)",
+        "url": "https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+        },
+        {
+          "name": "D6",
+          "url": "https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj"
+        },
+        {
+          "name": "Stanley Ifenna",
+          "url": "https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA"
         }
       ],
-      "duration_ms": 234667,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
+      "duration_ms": 126923,
+      "name": "Joy in Chaos (Extended)",
+      "url": "https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
+    },
+    {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
         "name": "Our God Reigns",
         "url": "https://open.spotify.com/album/2goNu8zaAUIhrKnhMmLpya"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 267572,
-      "name": "Na You Dey Reign",
-      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
-    },
-    {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
         "name": "Umusirikare",
         "url": "https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh"
       },
@@ -785,26 +785,6 @@
       "url": "https://open.spotify.com/track/6veNqszPsxhmzKdjyeOyw8"
     },
     {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
-        "name": "Put It On God",
-        "url": "https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Annatoria",
-          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
-        }
-      ],
-      "duration_ms": 157189,
-      "name": "Put it On God",
-      "url": "https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV"
-    },
-    {
       "added_at": "2024-10-25 00:01:00",
       "album": {
         "name": "Shekinah",
@@ -823,6 +803,26 @@
       "duration_ms": 420025,
       "name": "Shekinah",
       "url": "https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO"
+    },
+    {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
+        "name": "Put It On God",
+        "url": "https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+        }
+      ],
+      "duration_ms": 157189,
+      "name": "Put it On God",
+      "url": "https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV"
     },
     {
       "added_at": "2024-10-11 00:01:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-10-18 00:01:00",
       "album": {
-        "name": "tethered",
-        "url": "https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA"
-      },
-      "artists": [
-        {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
-        }
-      ],
-      "duration_ms": 225009,
-      "name": "tethered",
-      "url": "https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu"
-    },
-    {
-      "added_at": "2024-10-18 00:01:00",
-      "album": {
         "name": "REDEEMED",
         "url": "https://open.spotify.com/album/6cOAKz1VOn9cFMuCTiNW8S"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 197938,
       "name": "Never Go Back",
       "url": "https://open.spotify.com/track/6p2JFd5je1ulXf2xE9Zmft"
+    },
+    {
+      "added_at": "2024-10-18 00:01:00",
+      "album": {
+        "name": "tethered",
+        "url": "https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "duration_ms": 225009,
+      "name": "tethered",
+      "url": "https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu"
     },
     {
       "added_at": "2024-10-25 00:01:00",
@@ -947,18 +947,22 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "Under The Canopy",
-        "url": "https://open.spotify.com/album/0m4KXfassO1hsCsQBnQBkb"
+        "name": "Consecrated",
+        "url": "https://open.spotify.com/album/43dgcmNuJia1zc64HRWlLE"
       },
       "artists": [
         {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        },
+        {
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
         }
       ],
-      "duration_ms": 313175,
-      "name": "Under The Canopy",
-      "url": "https://open.spotify.com/track/59SR0FpZzENp1Xa5yXExzW"
+      "duration_ms": 282000,
+      "name": "Game Changer",
+      "url": "https://open.spotify.com/track/6x13BD1Qx46yEPcwu31QtS"
     }
   ],
   "unique_name": "Blessed",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 
 > This is Crazy Town\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,841 likes - 39 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,844 likes - 39 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 | 35 | [Hellscape](https://open.spotify.com/track/3fhf6IxqOAa1olqs1zfY0B) | [HECC](https://open.spotify.com/artist/4XkFTNRZjPoBdPKNapLNrF), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Roland Banks](https://open.spotify.com/artist/5dRKhmZxN3V6voKOoOEHeK) | [Hellscape](https://open.spotify.com/album/0XKNwYFsecpZ2c9aydBYrq) | 3:39 |
 | 36 | [Decorated](https://open.spotify.com/track/04jBnYdyN86CGnQjh9OJ8t) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:06 |
 | 37 | [Candy Coated](https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 4:22 |
-| 38 | [Take It To The Bridge](https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:16 |
-| 39 | [Beautiful](https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:16 |
+| 38 | [Beautiful](https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:16 |
+| 39 | [Take It To The Bridge](https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:16 |
 
-Snapshot ID: `ZyVrgAAAAADxmEtiku58sz+FqIgYHiI8`
+Snapshot ID: `Zya9AAAAAABnakQnBYHS1GNFkuu9ewHE`

@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6515,
+  "num_followers": 6524,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "monde autour",
+        "url": "https://open.spotify.com/album/77Isp6SAhHX3vRplCtfKQv"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "duration_ms": 264891,
+      "name": "blood pareil",
+      "url": "https://open.spotify.com/track/5gZY6ZOPf2C70N7DBAH91O"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "J'aime quand on danse (tes mains sur mes hanches)",
         "url": "https://open.spotify.com/album/5CN5KW3obIjkuigvnQ8SfV"
       },
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "monde autour",
-        "url": "https://open.spotify.com/album/77Isp6SAhHX3vRplCtfKQv"
-      },
-      "artists": [
-        {
-          "name": "comment debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
-        }
-      ],
-      "duration_ms": 264891,
-      "name": "blood pareil",
-      "url": "https://open.spotify.com/track/5gZY6ZOPf2C70N7DBAH91O"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "\u00c9chapper \u00e0 la nuit",
         "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
       },
@@ -1047,22 +1047,6 @@
       "duration_ms": 191360,
       "name": "Je vais te faire danser",
       "url": "https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "P\u00eale-m\u00eale",
-        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
-      },
-      "artists": [
-        {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
-        }
-      ],
-      "duration_ms": 149882,
-      "name": "America",
-      "url": "https://open.spotify.com/track/33rT04o70vs8yAv2OBvchQ"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1083,6 +1067,22 @@
       "duration_ms": 210286,
       "name": "Les Heures",
       "url": "https://open.spotify.com/track/0NooWH9hVyWAZXK0RDjRNr"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "P\u00eale-m\u00eale",
+        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "duration_ms": 149882,
+      "name": "America",
+      "url": "https://open.spotify.com/track/33rT04o70vs8yAv2OBvchQ"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "La nuit s'ach\u00e8ve",
-        "url": "https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS"
-      },
-      "artists": [
-        {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
-        }
-      ],
-      "duration_ms": 190506,
-      "name": "Onze",
-      "url": "https://open.spotify.com/track/34X5qDkzSrzpKhKjHb5RCk"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Les gens qu'on aime",
         "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
       },
@@ -1235,22 +1219,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Suite pour personne",
-        "url": "https://open.spotify.com/album/3s0746U6SBRp6vcisxxtcV"
-      },
-      "artists": [
-        {
-          "name": "Jeanne C\u00f4t\u00e9",
-          "url": "https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7"
-        }
-      ],
-      "duration_ms": 276662,
-      "name": "Y peut mouiller",
-      "url": "https://open.spotify.com/track/7oQdX58s6Hec7jH3CDEfge"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Du feu dans les lilas",
         "url": "https://open.spotify.com/album/2gpYjjb2JFM6B6VwHQNE5V"
       },
@@ -1267,6 +1235,38 @@
       "duration_ms": 211600,
       "name": "Derri\u00e8re le jour",
       "url": "https://open.spotify.com/track/24Wd3taBrCp1XibT2sr6Kp"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Suite pour personne",
+        "url": "https://open.spotify.com/album/3s0746U6SBRp6vcisxxtcV"
+      },
+      "artists": [
+        {
+          "name": "Jeanne C\u00f4t\u00e9",
+          "url": "https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7"
+        }
+      ],
+      "duration_ms": 276662,
+      "name": "Y peut mouiller",
+      "url": "https://open.spotify.com/track/7oQdX58s6Hec7jH3CDEfge"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "La nuit s'ach\u00e8ve",
+        "url": "https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "duration_ms": 190506,
+      "name": "Onze",
+      "url": "https://open.spotify.com/track/34X5qDkzSrzpKhKjHb5RCk"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Holla",
-        "url": "https://open.spotify.com/album/3QQQGEyXrL2ZSyce01FuDo"
-      },
-      "artists": [
-        {
-          "name": "Heskis",
-          "url": "https://open.spotify.com/artist/1l4zmi29P6ZWSehP5qOL7U"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "Quelqu'un quand-m\u00eame",
-      "url": "https://open.spotify.com/track/44qZlOo2ivJ5Cn6bHGsJfi"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "\u00c0 demain peut-\u00eatre",
         "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 179706,
       "name": "Anomie",
       "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Holla",
+        "url": "https://open.spotify.com/album/3QQQGEyXrL2ZSyce01FuDo"
+      },
+      "artists": [
+        {
+          "name": "Heskis",
+          "url": "https://open.spotify.com/artist/1l4zmi29P6ZWSehP5qOL7U"
+        }
+      ],
+      "duration_ms": 168888,
+      "name": "Quelqu'un quand-m\u00eame",
+      "url": "https://open.spotify.com/track/44qZlOo2ivJ5Cn6bHGsJfi"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Tralala",
+        "url": "https://open.spotify.com/album/4XXJC6DVgxRnbdcTfJTQXV"
+      },
+      "artists": [
+        {
+          "name": "La Bottine Souriante",
+          "url": "https://open.spotify.com/artist/7ba7eFah7fB6SbgnSufYBJ"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "Tralala",
+      "url": "https://open.spotify.com/track/0iLVqqB6eQGyvQnQ1QcLGx"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "DVTR",
         "url": "https://open.spotify.com/album/0FQ99J1DvLNYP6x1uwHPYW"
       },
@@ -1975,22 +1991,6 @@
       "duration_ms": 171428,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/6c6DYfUdwCPciEPPsxJN2P"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Tralala",
-        "url": "https://open.spotify.com/album/4XXJC6DVgxRnbdcTfJTQXV"
-      },
-      "artists": [
-        {
-          "name": "La Bottine Souriante",
-          "url": "https://open.spotify.com/artist/7ba7eFah7fB6SbgnSufYBJ"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "Tralala",
-      "url": "https://open.spotify.com/track/0iLVqqB6eQGyvQnQ1QcLGx"
     },
     {
       "added_at": "2024-06-19 20:38:05",

@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Dancing Mood en portada.",
-  "num_followers": 468772,
+  "num_followers": 468825,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-10-29 18:10:22",
       "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
-    },
-    {
-      "added_at": "2024-10-29 18:10:22",
-      "album": {
         "name": "Sonora Skandalera",
         "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 254589,
       "name": "Algo De Suerte",
       "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
+    },
+    {
+      "added_at": "2024-10-29 18:10:22",
+      "album": {
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
       "added_at": "2024-10-29 18:10:22",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-10-29 18:10:22",
       "album": {
+        "name": "Revolusound Contra Sistema",
+        "url": "https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Corrupci\u00f3n Ska",
+      "url": "https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX"
+    },
+    {
+      "added_at": "2024-10-29 18:10:22",
+      "album": {
         "name": "Mucho Mejor",
         "url": "https://open.spotify.com/album/53KzF0G9feWSiJ76Psj3LE"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 175942,
       "name": "Mucho Mejor",
       "url": "https://open.spotify.com/track/74hKdpN6CifwRlsg5VItCX"
-    },
-    {
-      "added_at": "2024-10-29 18:10:22",
-      "album": {
-        "name": "Revolusound Contra Sistema",
-        "url": "https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Corrupci\u00f3n Ska",
-      "url": "https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX"
     },
     {
       "added_at": "2024-10-29 18:10:22",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-10-29 18:10:22",
       "album": {
-        "name": "Que Se Joda el Amor",
-        "url": "https://open.spotify.com/album/0zOcy4urH5uwcHuvpGhDSt"
-      },
-      "artists": [
-        {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Que Se Joda el Amor",
-      "url": "https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO"
-    },
-    {
-      "added_at": "2024-10-29 18:10:22",
-      "album": {
         "name": "Mugre",
         "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 222373,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca"
+    },
+    {
+      "added_at": "2024-10-29 18:10:22",
+      "album": {
+        "name": "Que Se Joda el Amor",
+        "url": "https://open.spotify.com/album/0zOcy4urH5uwcHuvpGhDSt"
+      },
+      "artists": [
+        {
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Que Se Joda el Amor",
+      "url": "https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO"
     },
     {
       "added_at": "2024-10-29 18:10:22",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-10-29 18:10:22",
       "album": {
-        "name": "Chamuyo",
-        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 190580,
-      "name": "Caras y Caretas",
-      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
-    },
-    {
-      "added_at": "2024-10-29 18:10:22",
-      "album": {
         "name": "Este Ritmo",
         "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
       },
@@ -1483,22 +1467,34 @@
     {
       "added_at": "2024-10-29 18:10:22",
       "album": {
-        "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
-        "url": "https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO"
+        "name": "Chamuyo",
+        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
       },
       "artists": [
         {
-          "name": "Raztlan",
-          "url": "https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE"
-        },
-        {
-          "name": "Melodycans",
-          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
         }
       ],
-      "duration_ms": 213602,
-      "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
-      "url": "https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF"
+      "duration_ms": 190580,
+      "name": "Caras y Caretas",
+      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
+    },
+    {
+      "added_at": "2024-10-29 18:10:22",
+      "album": {
+        "name": "5 A\u00f1os Con Sabor a 20",
+        "url": "https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY"
+      },
+      "artists": [
+        {
+          "name": "Los Victorios",
+          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "La Ca\u00edda y la Gloria",
+      "url": "https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe"
     },
     {
       "added_at": "2024-10-29 18:10:22",
@@ -1519,18 +1515,22 @@
     {
       "added_at": "2024-10-29 18:10:22",
       "album": {
-        "name": "5 A\u00f1os Con Sabor a 20",
-        "url": "https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY"
+        "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
+        "url": "https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO"
       },
       "artists": [
         {
-          "name": "Los Victorios",
-          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
+          "name": "Raztlan",
+          "url": "https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE"
+        },
+        {
+          "name": "Melodycans",
+          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
         }
       ],
-      "duration_ms": 137000,
-      "name": "La Ca\u00edda y la Gloria",
-      "url": "https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe"
+      "duration_ms": 213602,
+      "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
+      "url": "https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF"
     },
     {
       "added_at": "2024-10-29 18:10:22",

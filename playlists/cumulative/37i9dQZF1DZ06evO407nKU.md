@@ -4,7 +4,7 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-121 songs - 6 hr 50 min
+122 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Amor Distante](https://open.spotify.com/track/4O9jkAZbeMxYQMORIcjbtC) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Ya Duele Menos](https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW) | 3:23 | 2022-06-01 | 2022-10-13 |
 | [Así Es La Vida](https://open.spotify.com/track/5SLb3jDGQLp7lZ9ZZ82azI) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Grupo La Marcha](https://open.spotify.com/artist/3bNKT7a1hETHCKqKviwsmK) | [Así Es La Vida](https://open.spotify.com/album/78JNnp2Sd9uTkJBOkezx7u) | 3:53 | 2023-04-22 | 2023-05-06 |
 | [Ayer Pedí](https://open.spotify.com/track/1gwUbm3lF2PLacBv4OoXgs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Ayer Pedí](https://open.spotify.com/album/16wXgjMSLDvU6xgfq68QMR) | 3:02 | 2024-03-26 |  |
+| [Buenas Vibras](https://open.spotify.com/track/6NitwyL3pVexKaktxYneNf) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Buenas Vibras](https://open.spotify.com/album/5lgKDYGS1i8aA4EKutIWjs) | 2:12 | 2024-11-05 |  |
 | [Cada Día Más \(En Vivo\)](https://open.spotify.com/track/5OcOGi0n1ViUacMgX5ekVi) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Perdidos en el Alcohol \(En Vivo\)](https://open.spotify.com/album/61fghf49dcy5C3Bi6BO5Qu) | 3:13 | 2024-06-22 | 2024-07-19 |
 | [Callando Bocas](https://open.spotify.com/track/6Vxa29uUkgRWmZEj8PyJnz) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ), [Carlitos Vazquez](https://open.spotify.com/artist/422pahsi4ueAte8FSyZ3FB) | [Callando Bocas](https://open.spotify.com/album/0S3nvq7AR2ioU0taCOrr7z) | 2:40 | 2024-04-20 | 2024-08-31 |
 | [Carta Abierta \- En Vivo](https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 2:28 | 2022-06-02 |  |
@@ -30,7 +31,7 @@
 | [Debajo De Los Laureles](https://open.spotify.com/track/1nE96xj1A3TE8ZUnDb9snp) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Los Contacto](https://open.spotify.com/artist/1T746ELZF5gDelGXV5W5KE) | [Debajo De Los Laureles](https://open.spotify.com/album/1VV6E6BA1ZaSGzJMzOBNQO) | 2:41 | 2022-06-01 | 2022-10-13 |
 | [Deja De Chingar](https://open.spotify.com/track/72qLlWqf657e3hEkP7LkHx) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Deja De Chingar](https://open.spotify.com/album/0orJw54cnLfLmYPSVpkj64) | 3:19 | 2022-11-29 | 2023-08-20 |
 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 | 2022-09-10 |  |
-| [Diganle](https://open.spotify.com/track/0p4jQi8PPHpdtq43nrsNqs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Díganle](https://open.spotify.com/album/5koK3UlXNmcyqYkrBLeM5b) | 2:55 | 2024-07-21 |  |
+| [Diganle](https://open.spotify.com/track/0p4jQi8PPHpdtq43nrsNqs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Díganle](https://open.spotify.com/album/5koK3UlXNmcyqYkrBLeM5b) | 2:55 | 2024-07-21 | 2024-11-05 |
 | [Díganle](https://open.spotify.com/track/5QnDgXOeUQtDac2uqWecK9) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Díganle](https://open.spotify.com/album/0KvyHutI4hdGctz0SnhT9z) | 3:00 | 2023-09-15 | 2024-07-21 |
 | [El Amigazo \(En Vivo\)](https://open.spotify.com/track/5UIA7eyt28flCy6kwIiuZ1) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [El Amigazo \(En Vivo\)](https://open.spotify.com/album/6B0HeqQznYY6f7WEfQUjOJ) | 3:13 | 2022-09-03 | 2022-12-27 |
 | [El De La Mochila](https://open.spotify.com/track/5jEtP3pBbWthzCzhO0kCyC) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El De La Mochila](https://open.spotify.com/album/6aZFylXVOis3BvUbUAoHum) | 3:56 | 2023-11-10 | 2023-12-16 |

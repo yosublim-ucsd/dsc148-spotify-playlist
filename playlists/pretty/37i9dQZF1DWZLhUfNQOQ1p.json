@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 250277,
+  "num_followers": 250275,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,18 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Baddy On The Floor",
-        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
+        "name": "Born a Loser",
+        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
         }
       ],
-      "duration_ms": 222315,
-      "name": "Baddy On The Floor",
-      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
+      "duration_ms": 207373,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -331,18 +327,22 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Born a Loser",
-        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
+        "name": "Baddy On The Floor",
+        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
       },
       "artists": [
         {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
         }
       ],
-      "duration_ms": 207373,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y"
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
+        "name": "Goodbye Country (Hello Nightclub)",
+        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 300266,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
         "name": "Feel",
         "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 219208,
       "name": "Feel",
       "url": "https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
-        "name": "Goodbye Country (Hello Nightclub)",
-        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 300266,
-      "name": "My Friend",
-      "url": "https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Pressure Makes Diamonds",
-        "url": "https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 344593,
-      "name": "Pressure Makes Diamonds",
-      "url": "https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "Ithaque",
         "url": "https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 189026,
       "name": "Ithaque",
       "url": "https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "Pressure Makes Diamonds",
+        "url": "https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 344593,
+      "name": "Pressure Makes Diamonds",
+      "url": "https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Dusty Sundays",
-        "url": "https://open.spotify.com/album/4ILZJaCxMm9B3SSAZreYod"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        }
-      ],
-      "duration_ms": 358000,
-      "name": "Dusty Sundays",
-      "url": "https://open.spotify.com/track/2ywnAokQls8TzKYCa7jNyu"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "Fell In Luv",
         "url": "https://open.spotify.com/album/16BgVS1U2T7UvDmewU2t5m"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 238000,
       "name": "Fell In Luv",
       "url": "https://open.spotify.com/track/5G7DvsOLvNE5HTVmJJyo6K"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "Dusty Sundays",
+        "url": "https://open.spotify.com/album/4ILZJaCxMm9B3SSAZreYod"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "duration_ms": 358000,
+      "name": "Dusty Sundays",
+      "url": "https://open.spotify.com/track/2ywnAokQls8TzKYCa7jNyu"
     }
   ],
   "unique_name": "Aperitivo Time",

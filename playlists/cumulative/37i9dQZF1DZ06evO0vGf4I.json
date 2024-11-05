@@ -323,6 +323,28 @@
     },
     {
       "album": {
+        "name": "ALL TIME HIGH",
+        "url": "https://open.spotify.com/album/1eqb4sPiZO1oLXs0ADlcW2"
+      },
+      "artists": [
+        {
+          "name": "Strick",
+          "url": "https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136506,
+      "name": "CR@SH (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/1KmmViIziBGJQa728cXkzh"
+    },
+    {
+      "album": {
         "name": "LIFE'S A TRIP",
         "url": "https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL"
       },
@@ -1784,7 +1806,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 250141,
       "name": "WHAT TO DO? (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/4AO1XhrgJczQ9bNVxdfKQe"

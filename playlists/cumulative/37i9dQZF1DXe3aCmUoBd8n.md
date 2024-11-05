@@ -4,14 +4,14 @@
 
 > Top Sharqi hits right now\. Cover: AL SHAMI
 
-176 songs - 10 hr 19 min
+177 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3al Helwe Wel Murra](https://open.spotify.com/track/5RVYZDWbdfdg4Pw9ZOSPLh) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [3al Helwe Wel Murra](https://open.spotify.com/album/1X1WKzOAOjLunu3MwoVHAl) | 3:34 | 2022-05-04 | 2022-07-17 |
 | [Aal Morra](https://open.spotify.com/track/6DbC4WjeVh5SHo2l86eyis) | [Fares Karam](https://open.spotify.com/artist/06LBSAoRYVLCzBU0HtlPW3) | [Aal Morra](https://open.spotify.com/album/2hfjuBJXE3NJgiHBKdXYiz) | 3:05 | 2023-06-13 |  |
 | [Aal Sarii](https://open.spotify.com/track/5zzxjuMJkqSFlBCAeIEE6Y) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Aal Sarii](https://open.spotify.com/album/60TwM5Q2pT4ZQTn4SXrM1a) | 3:10 | 2022-05-04 | 2023-03-14 |
-| [Aam Faker Fiya](https://open.spotify.com/track/03QwVOvP2mrb870634I6yi) | [Eyad Tannous](https://open.spotify.com/artist/2TcwAXvlfUoL1QPBC2qmIR) | [Aam Faker Fiya](https://open.spotify.com/album/4F3ad3v2zB6nNri9P0rpke) | 2:48 | 2023-05-19 |  |
+| [Aam Faker Fiya](https://open.spotify.com/track/03QwVOvP2mrb870634I6yi) | [Eyad Tannous](https://open.spotify.com/artist/2TcwAXvlfUoL1QPBC2qmIR) | [Aam Faker Fiya](https://open.spotify.com/album/4F3ad3v2zB6nNri9P0rpke) | 2:48 | 2023-05-19 | 2024-11-05 |
 | [Aam Ontofi](https://open.spotify.com/track/3p2PyYFJ84nakiP2ZjnATM) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Aam Ontofi](https://open.spotify.com/album/52f8giij6iu8vMFnhMaZWZ) | 2:59 | 2023-01-05 | 2024-10-13 |
 | [Admantak](https://open.spotify.com/track/0tPxzBIbh3cPuwP56D2aiF) | [Pascale Machaalani](https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9) | [Admantak](https://open.spotify.com/album/590ZPmndijZDDjeC4DiAkC) | 4:28 | 2023-06-28 | 2024-05-22 |
 | [Ahebany Kama Ana](https://open.spotify.com/track/2ASQ29GUeL8DpRXPcZLJsK) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [Ahebany Kama Ana](https://open.spotify.com/album/7dDnnhow00piLLNEDchlQY) | 6:34 | 2024-02-09 | 2024-04-24 |
@@ -151,6 +151,7 @@
 | [أنا وبس](https://open.spotify.com/track/1mkqWVlcMGpjUw2dEcbwdo) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [أنا وبس](https://open.spotify.com/album/2IVwPX6szdHO0UCBsMYGDQ) | 4:08 | 2022-08-19 |  |
 | [إنتي السبب](https://open.spotify.com/track/1ruuItwvqs8isoAZAs0a68) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [إنتي السبب](https://open.spotify.com/album/6HTCKfpaBWe5aJfFMFSrno) | 3:37 | 2022-08-28 | 2023-03-14 |
 | [إنتي السبب](https://open.spotify.com/track/3OSoXw4H5CRGMtmDKDQvz4) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [إنتي السبب](https://open.spotify.com/album/6XM5tebpzVaTj6ZaqvWmYA) | 3:37 | 2022-05-04 | 2022-11-02 |
+| [اتنسينا](https://open.spotify.com/track/0kZtRxxBDbMO4vZApAiNOZ) | [Youssif Elashry](https://open.spotify.com/artist/4IMgqWorWJUqUlbULGdoBa) | [اخر ما تبقي من احزاني](https://open.spotify.com/album/5TkHU9o2cEXhuC9yG1uDlh) | 2:31 | 2024-11-04 |  |
 | [ارجعلا بدا](https://open.spotify.com/track/0PsJP3Igq0uUSwKNu5tN6q) | [Wael Idrees](https://open.spotify.com/artist/00MQ5607RYLIP2OH8jSWOA) | [ارجعلا بدا](https://open.spotify.com/album/2bixbH22rOVxfiR1kk3xne) | 3:01 | 2024-10-23 |  |
 | [الدنيا بعينيا](https://open.spotify.com/track/5HsOqrwWovST07mWul6LfD) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [الدنيا بعينيا](https://open.spotify.com/album/19l3MlaXMntBa9xOoB79ZJ) | 2:25 | 2022-06-20 | 2024-02-24 |
 | [انت وحدي](https://open.spotify.com/track/1ZNjO544sLEqARY6mGVp85) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [انت وحدي](https://open.spotify.com/album/3HNeYYsoZQilBCQsjzYQKY) | 3:24 | 2022-12-01 | 2024-04-24 |

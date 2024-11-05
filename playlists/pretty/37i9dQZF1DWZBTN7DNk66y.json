@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Feli Colina y Vera Frod.",
-  "num_followers": 26102,
+  "num_followers": 26110,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -123,26 +123,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "LLORAR",
-        "url": "https://open.spotify.com/album/6TO1yAkdzT3CRVhJ32BZ3M"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Matthey",
-          "url": "https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "LLORAR",
-      "url": "https://open.spotify.com/track/3CHdlTAY8Lf7ldc0pJeIEf"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Candombe",
         "url": "https://open.spotify.com/album/02tFQcbgaxEs6RRiGs6qCl"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 183165,
       "name": "Quiero Mejor",
       "url": "https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "LLORAR",
+        "url": "https://open.spotify.com/album/6TO1yAkdzT3CRVhJ32BZ3M"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Matthey",
+          "url": "https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 238266,
+      "name": "LLORAR",
+      "url": "https://open.spotify.com/track/3CHdlTAY8Lf7ldc0pJeIEf"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -307,6 +307,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "LXS INFERNALES (Del Valle Encantado)",
+        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 182256,
+      "name": "TRIGAL",
+      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Puntos Equidistantes (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 227375,
       "name": "Puntos Equidistantes (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "LXS INFERNALES (Del Valle Encantado)",
-        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 182256,
-      "name": "TRIGAL",
-      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "10 minutos",
-        "url": "https://open.spotify.com/album/4sjiAFdAtZTBKbYvDr7ypI"
-      },
-      "artists": [
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 202074,
-      "name": "10 minutos",
-      "url": "https://open.spotify.com/track/04KXaLTpgFVDwn0wYcicYL"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Cu\u00e1ndo y D\u00f3nde",
         "url": "https://open.spotify.com/album/3ABUQjkrlpiczuZwbmO4Qf"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 194956,
       "name": "Cu\u00e1ndo y D\u00f3nde",
       "url": "https://open.spotify.com/track/0Uwd8OYQ22JboX3phAychX"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "10 minutos",
+        "url": "https://open.spotify.com/album/4sjiAFdAtZTBKbYvDr7ypI"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 202074,
+      "name": "10 minutos",
+      "url": "https://open.spotify.com/track/04KXaLTpgFVDwn0wYcicYL"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -603,6 +603,26 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "A Ver",
+        "url": "https://open.spotify.com/album/6Mh5NSHDVnQlos2BEoORxq"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Prada",
+          "url": "https://open.spotify.com/artist/3sKZkGBDzeqXtOzKGzMaS6"
+        },
+        {
+          "name": "Hugo Fattoruso",
+          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
+        }
+      ],
+      "duration_ms": 176185,
+      "name": "A Ver",
+      "url": "https://open.spotify.com/track/7dFHHUywOkiDTAIGovm60v"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Falso de amor",
         "url": "https://open.spotify.com/album/7CWGDvXea9XZhgWon8uLEc"
       },
@@ -623,18 +643,18 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Hablando a tu coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh"
+        "name": "Lo cant\u00e9",
+        "url": "https://open.spotify.com/album/4b18Wx3C2GUF9LFlfIUo0e"
       },
       "artists": [
         {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+          "name": "Florencia N\u00fa\u00f1ez",
+          "url": "https://open.spotify.com/artist/539mt6QBUNk7fHF65p8ydy"
         }
       ],
-      "duration_ms": 239500,
-      "name": "Hablando a tu coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay"
+      "duration_ms": 246812,
+      "name": "Lo cant\u00e9",
+      "url": "https://open.spotify.com/track/7csoR2DnYrK6Ye2plb4XPN"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -655,22 +675,6 @@
       "duration_ms": 237078,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/1zL89efsx8wRCIja5CB9tr"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Lo cant\u00e9",
-        "url": "https://open.spotify.com/album/4b18Wx3C2GUF9LFlfIUo0e"
-      },
-      "artists": [
-        {
-          "name": "Florencia N\u00fa\u00f1ez",
-          "url": "https://open.spotify.com/artist/539mt6QBUNk7fHF65p8ydy"
-        }
-      ],
-      "duration_ms": 246812,
-      "name": "Lo cant\u00e9",
-      "url": "https://open.spotify.com/track/7csoR2DnYrK6Ye2plb4XPN"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -711,6 +715,22 @@
       "duration_ms": 212203,
       "name": "Nadie me lo ense\u00f1\u00f3",
       "url": "https://open.spotify.com/track/63bPI8iRqgeljqnydlAoUl"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Hablando a tu coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 239500,
+      "name": "Hablando a tu coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -775,6 +795,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/0pA9AZv8Looc0TBrAc6tox"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 180316,
+      "name": "Tu bebotear",
+      "url": "https://open.spotify.com/track/3jEDXtkqlgEUAW7V0Nsilp"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Entrada Liberada",
         "url": "https://open.spotify.com/album/4xweB2KJ83gx2p2qkBeIRE"
       },
@@ -811,42 +847,6 @@
       "duration_ms": 209917,
       "name": "Cenital",
       "url": "https://open.spotify.com/track/60yhtT4KG6a07BMov9LZKr"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "A Ver",
-        "url": "https://open.spotify.com/album/6Mh5NSHDVnQlos2BEoORxq"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Prada",
-          "url": "https://open.spotify.com/artist/3sKZkGBDzeqXtOzKGzMaS6"
-        },
-        {
-          "name": "Hugo Fattoruso",
-          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
-        }
-      ],
-      "duration_ms": 176185,
-      "name": "A Ver",
-      "url": "https://open.spotify.com/track/7dFHHUywOkiDTAIGovm60v"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/0pA9AZv8Looc0TBrAc6tox"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 180316,
-      "name": "Tu bebotear",
-      "url": "https://open.spotify.com/track/3jEDXtkqlgEUAW7V0Nsilp"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -903,26 +903,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Llamando",
-        "url": "https://open.spotify.com/album/1gS7zOKufSC1rj29Q9eBPD"
-      },
-      "artists": [
-        {
-          "name": "Julieta Rada",
-          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 343498,
-      "name": "Llamando",
-      "url": "https://open.spotify.com/track/5qnfj8NLkjVaNO2eDWqt4C"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Comida China",
         "url": "https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5"
       },
@@ -943,18 +923,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Nace una Madre",
-        "url": "https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7"
+        "name": "Llamando",
+        "url": "https://open.spotify.com/album/1gS7zOKufSC1rj29Q9eBPD"
       },
       "artists": [
         {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Julieta Rada",
+          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 144545,
-      "name": "Nace una Madre",
-      "url": "https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb"
+      "duration_ms": 343498,
+      "name": "Llamando",
+      "url": "https://open.spotify.com/track/5qnfj8NLkjVaNO2eDWqt4C"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -983,6 +967,22 @@
       "duration_ms": 161875,
       "name": "Luna Llena de Fuego",
       "url": "https://open.spotify.com/track/22AoaRhyEfGwxGYc951ZLM"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Nace una Madre",
+        "url": "https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "Nace una Madre",
+      "url": "https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "Cari\u00f1o",
+        "url": "https://open.spotify.com/album/7bxZFtN1I1Ajq9jJ50VME5"
+      },
+      "artists": [
+        {
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+        }
+      ],
+      "duration_ms": 217169,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/7d2zo3SEliRTknVoqhUROQ"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "PATA DE PERRA",
         "url": "https://open.spotify.com/album/6hUqvWg7adYcRcWLJhJZJO"
       },
@@ -1139,18 +1155,26 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Cari\u00f1o",
-        "url": "https://open.spotify.com/album/7bxZFtN1I1Ajq9jJ50VME5"
+        "name": "Si Me Voy Antes Que Vos",
+        "url": "https://open.spotify.com/album/6oQhH2tBt62FLkyJDuhD1e"
       },
       "artists": [
         {
-          "name": "Juanaf\u00e9",
-          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+          "name": "El Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/7mEsL5ToO5xme77cco1zlg"
+        },
+        {
+          "name": "Emiliano Y El Zurdo",
+          "url": "https://open.spotify.com/artist/3wbAELhgQMUAyKKG8nfxey"
+        },
+        {
+          "name": "Lu Ferreira",
+          "url": "https://open.spotify.com/artist/74TtgycmTAnjCSQeUA6oLQ"
         }
       ],
-      "duration_ms": 217169,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/7d2zo3SEliRTknVoqhUROQ"
+      "duration_ms": 151564,
+      "name": "Si Me Voy Antes Que Vos",
+      "url": "https://open.spotify.com/track/34WS1tHEGx7W3fZDHtPmp8"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1191,30 +1215,6 @@
       "duration_ms": 194085,
       "name": "Agua",
       "url": "https://open.spotify.com/track/1hcO5FZQQYkTOnh03labQA"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Si Me Voy Antes Que Vos",
-        "url": "https://open.spotify.com/album/6oQhH2tBt62FLkyJDuhD1e"
-      },
-      "artists": [
-        {
-          "name": "El Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/7mEsL5ToO5xme77cco1zlg"
-        },
-        {
-          "name": "Emiliano Y El Zurdo",
-          "url": "https://open.spotify.com/artist/3wbAELhgQMUAyKKG8nfxey"
-        },
-        {
-          "name": "Lu Ferreira",
-          "url": "https://open.spotify.com/artist/74TtgycmTAnjCSQeUA6oLQ"
-        }
-      ],
-      "duration_ms": 151564,
-      "name": "Si Me Voy Antes Que Vos",
-      "url": "https://open.spotify.com/track/34WS1tHEGx7W3fZDHtPmp8"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Esperanza",
-        "url": "https://open.spotify.com/album/0SRelqWjmVPD1Y4nslmyB6"
-      },
-      "artists": [
-        {
-          "name": "bambu",
-          "url": "https://open.spotify.com/artist/33gHNq944vAjJT986rp1TZ"
-        },
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        }
-      ],
-      "duration_ms": 231127,
-      "name": "Esperanza",
-      "url": "https://open.spotify.com/track/3udpGRMgZkvml2wsDUoSNL"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Pecho Jard\u00edn",
         "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
       },
@@ -1347,18 +1327,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Esperanza/ Nunca te vayas",
-        "url": "https://open.spotify.com/album/0RN51pSdZYAHMKCxmNnUao"
+        "name": "Esperanza",
+        "url": "https://open.spotify.com/album/0SRelqWjmVPD1Y4nslmyB6"
       },
       "artists": [
         {
-          "name": "Chechi de Marcos",
-          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+          "name": "bambu",
+          "url": "https://open.spotify.com/artist/33gHNq944vAjJT986rp1TZ"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
         }
       ],
-      "duration_ms": 150200,
+      "duration_ms": 231127,
       "name": "Esperanza",
-      "url": "https://open.spotify.com/track/6VD8rUInU3YGMlpeTosHUV"
+      "url": "https://open.spotify.com/track/3udpGRMgZkvml2wsDUoSNL"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "Esperarte",
+        "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
+      },
+      "artists": [
+        {
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "Esperarte",
+      "url": "https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "S\u00e1banas Azules",
         "url": "https://open.spotify.com/album/2VR2qofaUSX0gWdZS436e6"
       },
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Esperarte",
-        "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
+        "name": "Esperanza/ Nunca te vayas",
+        "url": "https://open.spotify.com/album/0RN51pSdZYAHMKCxmNnUao"
       },
       "artists": [
         {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
         }
       ],
-      "duration_ms": 205266,
-      "name": "Esperarte",
-      "url": "https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ"
+      "duration_ms": 150200,
+      "name": "Esperanza",
+      "url": "https://open.spotify.com/track/6VD8rUInU3YGMlpeTosHUV"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd"
-      },
-      "artists": [
-        {
-          "name": "Santiago Alonso",
-          "url": "https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 202655,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd"
+      },
+      "artists": [
+        {
+          "name": "Santiago Alonso",
+          "url": "https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "Odio despertar",
+        "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 267941,
+      "name": "Odio despertar",
+      "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Hunde",
         "url": "https://open.spotify.com/album/2wzVHWdzz15E9nuZ63ZtKJ"
       },
@@ -1631,38 +1647,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Odio despertar",
-        "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 267941,
-      "name": "Odio despertar",
-      "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Casa",
-        "url": "https://open.spotify.com/album/6JHAJRcwOirp02xAbzk0am"
-      },
-      "artists": [
-        {
-          "name": "Popa",
-          "url": "https://open.spotify.com/artist/2r1qR6ITngbNWCgZJCH9pl"
-        }
-      ],
-      "duration_ms": 142364,
-      "name": "Casa",
-      "url": "https://open.spotify.com/track/4D0I37iNpL5AeqWEu8mnYU"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Yo te nombro libertad (Banda Sonora Original de \"El don absoluto\")",
         "url": "https://open.spotify.com/album/2wFi5fSoYU4R7Nj15jwa33"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 231786,
       "name": "Yo te nombro libertad - Banda Sonora Original de \"El don absoluto\"",
       "url": "https://open.spotify.com/track/36EM8dPAucgz0PsA4wHgin"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Casa",
+        "url": "https://open.spotify.com/album/6JHAJRcwOirp02xAbzk0am"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/2r1qR6ITngbNWCgZJCH9pl"
+        }
+      ],
+      "duration_ms": 142364,
+      "name": "Casa",
+      "url": "https://open.spotify.com/track/4D0I37iNpL5AeqWEu8mnYU"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Color De Flor",
-        "url": "https://open.spotify.com/album/1dwjMu59OWGbhF4UNfBKnF"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Castro",
-          "url": "https://open.spotify.com/artist/1uBdSvIwuEaiGnwhmqp9An"
-        },
-        {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
-        }
-      ],
-      "duration_ms": 273219,
-      "name": "Color De Flor",
-      "url": "https://open.spotify.com/track/3SWsYftDA7zerCj6MXgN1f"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "\u00bfQU\u00c9 VES?",
         "url": "https://open.spotify.com/album/4q51LFiTNCS7zV1FMSSQVF"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 306776,
       "name": "\u00bfQU\u00c9 VES?",
       "url": "https://open.spotify.com/track/7s47ONrsw6af0bSgjgNzB1"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Color De Flor",
+        "url": "https://open.spotify.com/album/1dwjMu59OWGbhF4UNfBKnF"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Castro",
+          "url": "https://open.spotify.com/artist/1uBdSvIwuEaiGnwhmqp9An"
+        },
+        {
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+        }
+      ],
+      "duration_ms": 273219,
+      "name": "Color De Flor",
+      "url": "https://open.spotify.com/track/3SWsYftDA7zerCj6MXgN1f"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
-        "url": "https://open.spotify.com/album/3uH2ROBFtaK4OtCeGnN8ve"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
-        }
-      ],
-      "duration_ms": 185853,
-      "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
-      "url": "https://open.spotify.com/track/4eHeoo5GeKXidSyxflaTjY"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Las palabras que no sientes",
         "url": "https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 148339,
       "name": "Las palabras que no sientes",
       "url": "https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
+        "url": "https://open.spotify.com/album/3uH2ROBFtaK4OtCeGnN8ve"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+        }
+      ],
+      "duration_ms": 185853,
+      "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
+      "url": "https://open.spotify.com/track/4eHeoo5GeKXidSyxflaTjY"
     }
   ],
   "unique_name": "Voces del Sur",

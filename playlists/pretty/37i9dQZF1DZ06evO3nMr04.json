@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1348743,
+  "num_followers": 1349194,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAACQbGfeu+ze67Y1eZrGQEdi",
+  "snapshot_id": "Zya9AAAAAAC9cwkg0XrLM3qVgUju+dIW",
   "tracks": [
     {
       "added_at": null,
@@ -967,22 +967,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Love It",
-        "url": "https://open.spotify.com/album/185Tm1g5U7eMOrm3m9SQUh"
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
       "artists": [
         {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lil Pump",
-          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
         }
       ],
-      "duration_ms": 127946,
-      "name": "I Love It (& Lil Pump)",
-      "url": "https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ"
+      "duration_ms": 278893,
+      "name": "Family Business",
+      "url": "https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116"
     }
   ],
   "unique_name": "This Is Kanye West",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. קאבר: גבריאל גיא
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,630 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,634 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,18 +55,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 45 | [אני רוצה את החיים שלי בחזרה](https://open.spotify.com/track/6XXmUYotqTIbx9xOd9lQqW) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אני רוצה את החיים שלי בחזרה](https://open.spotify.com/album/6LJUzUbBtkwmgpCosXc0jh) | 2:48 |
 | 46 | [משהו בי חי](https://open.spotify.com/track/2rZH5yjqm3F4QkJEUJ29qX) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [משהו בי חי](https://open.spotify.com/album/1nLbe6nNP4Su8AFaH3GWjH) | 2:57 |
 | 47 | [הלוך ושוב](https://open.spotify.com/track/1LWXYCFfhJBeeNhQw6io2j) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W), [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [לחיות](https://open.spotify.com/album/6uPKNwK4o6QokRH0I7z7cL) | 4:16 |
-| 48 | [Green](https://open.spotify.com/track/7kPHa9XgJ7AR8zD4bloBQU) | [RGB](https://open.spotify.com/artist/02l0Ie5bgIdWZ4fjaEWCv0) | [A Place for Lovers](https://open.spotify.com/album/3JN9hDwOAxjplHEwaQ09Jl) | 3:08 |
-| 49 | [ומה נשאר](https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa) | [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [ומה נשאר](https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy) | 3:55 |
+| 48 | [ומה נשאר](https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa) | [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [ומה נשאר](https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy) | 3:55 |
+| 49 | [Green](https://open.spotify.com/track/7kPHa9XgJ7AR8zD4bloBQU) | [RGB](https://open.spotify.com/artist/02l0Ie5bgIdWZ4fjaEWCv0) | [A Place for Lovers](https://open.spotify.com/album/3JN9hDwOAxjplHEwaQ09Jl) | 3:08 |
 | 50 | [Until The Morning](https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Until The Morning](https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq) | 2:31 |
 | 51 | [זה הסוף](https://open.spotify.com/track/6byQRm6aWdMwcacX1MIxz5) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [זה הסוף](https://open.spotify.com/album/71pTFfLhPQ6uEjx1uOmHr4) | 2:55 |
 | 52 | [להיות לבד \- בארבי Live](https://open.spotify.com/track/4IUuctG736RauTKMbWCP3T) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [שירים מדלת אל דלת \(בארבי Live\)](https://open.spotify.com/album/3nYrAdAwkgMH3GVLuksRCp) | 3:40 |
 | 53 | [ילדים של אלוהים](https://open.spotify.com/track/6mIHCPHmVVRqc7CHcTvZew) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [VuVuVu](https://open.spotify.com/artist/72m7rhXzVCeMEPdSSoERwP) | [ילדים של אלוהים](https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz) | 3:49 |
 | 54 | [Goodbye Mary](https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Goodbye Mary](https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a) | 3:03 |
 | 55 | [אהבה עצמית](https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [אהבה עצמית](https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW) | 4:05 |
-| 56 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 |
-| 57 | [Smile Again](https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER) | [Aviram](https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8) | [You Are What You Do](https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx) | 3:20 |
-| 58 | [Write About You](https://open.spotify.com/track/7wsZdddR3L6NSK0hectauk) | [RGB](https://open.spotify.com/artist/02l0Ie5bgIdWZ4fjaEWCv0) | [Write About You](https://open.spotify.com/album/5RZDCHgKSOP9McLs6fxKwM) | 2:54 |
-| 59 | [החומר הכחול](https://open.spotify.com/track/7dMyM3DhvQwrRnZ48C9iQF) | [Kochevet Al](https://open.spotify.com/artist/0EoyHTFM5aZdVoeP0O4PjC) | [החומר הכחול](https://open.spotify.com/album/3EmbyxWkGuC9tcTRTGGJzL) | 3:23 |
+| 56 | [Write About You](https://open.spotify.com/track/7wsZdddR3L6NSK0hectauk) | [RGB](https://open.spotify.com/artist/02l0Ie5bgIdWZ4fjaEWCv0) | [Write About You](https://open.spotify.com/album/5RZDCHgKSOP9McLs6fxKwM) | 2:54 |
+| 57 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 |
+| 58 | [החומר הכחול](https://open.spotify.com/track/7dMyM3DhvQwrRnZ48C9iQF) | [Kochevet Al](https://open.spotify.com/artist/0EoyHTFM5aZdVoeP0O4PjC) | [החומר הכחול](https://open.spotify.com/album/3EmbyxWkGuC9tcTRTGGJzL) | 3:23 |
+| 59 | [Smile Again](https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER) | [Aviram](https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8) | [You Are What You Do](https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx) | 3:20 |
 | 60 | [עת לאהוב](https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [עת לאהוב](https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO) | 3:08 |
 
 Snapshot ID: `ZxF60AAAAAA+aQuLXet75j6CJb4TK7c/`

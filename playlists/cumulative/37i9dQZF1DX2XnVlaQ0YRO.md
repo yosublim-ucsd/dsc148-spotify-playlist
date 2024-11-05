@@ -4,7 +4,7 @@
 
 > shop, wrap, bake, study or just chill to these cozy christmas beats.
 
-156 songs - 6 hr 1 min
+157 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Holy Jolly Christmas](https://open.spotify.com/track/66TPQ0Cw4SvXbCPJGdfwM6) | [Estelas](https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6) | [A Holy Jolly Christmas](https://open.spotify.com/album/4zgAtGu8evTT3OU541WbcK) | 3:01 | 2024-10-17 |  |
 | [all i want for christmas is you](https://open.spotify.com/track/4P9eg12prbMxyI1OsU8hyD) | [slace n' cal](https://open.spotify.com/artist/5oa9uIjqOngcHDuOFdWwzv) | [all i want for christmas is you](https://open.spotify.com/album/5aOjU3qM5OTjAdYHSemefq) | 2:32 | 2024-10-17 |  |
 | [All I Want For Xmas](https://open.spotify.com/track/3VZQzdqncXBLpMNDyLSI5o) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [All I Want For Xmas](https://open.spotify.com/album/3xfPG2t5bJciY2ypx2NbzE) | 2:18 | 2024-10-17 |  |
-| [All I Wish for Christmas](https://open.spotify.com/track/3TmxaVbyvTP8EOq8mQGp2H) | [Tony Thriller](https://open.spotify.com/artist/77eYPd2PnhvGKJHFFMmbR7) | [Lofi Christmas Dream](https://open.spotify.com/album/3OnJJlpCQHvees2JzvmnoS) | 2:02 | 2024-10-17 |  |
+| [All I Wish for Christmas](https://open.spotify.com/track/3TmxaVbyvTP8EOq8mQGp2H) | [Tony Thriller](https://open.spotify.com/artist/77eYPd2PnhvGKJHFFMmbR7) | [Lofi Christmas Dream](https://open.spotify.com/album/3OnJJlpCQHvees2JzvmnoS) | 2:02 | 2024-10-17 | 2024-11-05 |
 | [All the Jingle Ladies](https://open.spotify.com/track/1ShWwWzEOlcIRVO9sGMDQy) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [A Jobii Christmas](https://open.spotify.com/album/1JukKeeVpYUuj8HCD1kGMS) | 2:33 | 2024-10-17 |  |
 | [Angels We Have Heard on High](https://open.spotify.com/track/1fIoIfXOHKdfiyJAnv54NM) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [The First Noel](https://open.spotify.com/album/4VDcIWYBeiyr8yKB1MCNX2) | 3:07 | 2024-10-17 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/57J4SCSsiHBsWifOeUSVsq) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Jingle Bells](https://open.spotify.com/album/1nb65nP4yprMjJPSUEjxK0) | 2:30 | 2024-10-17 |  |
@@ -158,6 +158,7 @@
 | [White Winter Hymnal](https://open.spotify.com/track/7rT9HRjKHAc2RwaSjOvCYV) | [AmbieNeon](https://open.spotify.com/artist/5yoZBQ9Q1iokNQDr2dwShe) | [White Winter Hymnal](https://open.spotify.com/album/07ITGwL40r7XBRuMOotZNH) | 2:37 | 2024-10-17 |  |
 | [WINTER](https://open.spotify.com/track/0RUtIX5IX91i5lHWC9agsr) | [ddrreeaamm](https://open.spotify.com/artist/36nRPSyGHHo4hT0wpvxTBr) | [WINTER](https://open.spotify.com/album/4lWv5w3qgxaw1eV7bP2EYg) | 1:55 | 2024-10-17 |  |
 | [Winter Vibin'](https://open.spotify.com/track/3iYC7w2rOQav3BQlibwJqp) | [Little Squares](https://open.spotify.com/artist/4OnLBUEcEzKVUJP3hsP3Tk) | [A Christmas Present For You](https://open.spotify.com/album/43APl6GrPHaOG3zxXHhJ41) | 2:11 | 2024-10-17 |  |
+| [Winter Wonderland](https://open.spotify.com/track/2m0mke4rDttth2TLDNsa24) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [Winter Wonderland](https://open.spotify.com/album/3XTrkZArR9Qmg8RWTlAcOe) | 2:25 | 2024-10-17 |  |
 | [winter wonderland](https://open.spotify.com/track/3Xo8cKrayKwxlJ1F1hRvOQ) | [le gronk](https://open.spotify.com/artist/1HHbmSXj8pZ2oTGOXa3I0y) | [winter wonderland](https://open.spotify.com/album/63nmxHaeTmjlL2zNYBThJd) | 1:56 | 2024-10-17 |  |
 | [wrap up warm](https://open.spotify.com/track/3rn8vRL6eEmVPPJLrXzvFy) | [inthedark](https://open.spotify.com/artist/3VODOokOAtBPtnB1aAWtf6) | [wrap up warm](https://open.spotify.com/album/5sllAS7PUnlz3UR5bzxccb) | 2:09 | 2024-10-17 |  |
 | [Xmas Bells](https://open.spotify.com/track/0nwZ6TwyMCjPfFm9KLvsD5) | [New Morning](https://open.spotify.com/artist/1LCzf2HbU3AjBuVZDj1xdb) | [Xmas Bells](https://open.spotify.com/album/4Khbpau26opiPjdN3EhUpA) | 2:02 | 2024-10-17 |  |

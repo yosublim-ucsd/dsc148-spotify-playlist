@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 44405,
+  "num_followers": 44412,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAADTgZbwaxMz7qBfhCktH78n",
+  "snapshot_id": "Zya9AAAAAAA29I6tVr5sO9nG3tHSrlUS",
   "tracks": [
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Necesito Olvidarte",
-        "url": "https://open.spotify.com/album/55XhUs9Cx4KtWxIRjLxOPr"
+        "name": "Rompiendo Cadenas",
+        "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 184426,
-      "name": "Todo Lo Aprend\u00ed De Ti",
-      "url": "https://open.spotify.com/track/7coeVuxvfdL9xM1gy2PfqT"
+      "duration_ms": 208431,
+      "name": "Que Ironia - Original Mix",
+      "url": "https://open.spotify.com/track/2JWxpraTEhfOA3cBxgUTRi"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rompiendo Cadenas",
-        "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
+        "name": "Necesito Olvidarte",
+        "url": "https://open.spotify.com/album/55XhUs9Cx4KtWxIRjLxOPr"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 208431,
-      "name": "Que Ironia - Original Mix",
-      "url": "https://open.spotify.com/track/2JWxpraTEhfOA3cBxgUTRi"
+      "duration_ms": 184426,
+      "name": "Todo Lo Aprend\u00ed De Ti",
+      "url": "https://open.spotify.com/track/7coeVuxvfdL9xM1gy2PfqT"
     },
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Besos No Se Dan En La Camisa",
+        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Los Besos No Se Dan En La Camisa",
+      "url": "https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quise Olvidar",
         "url": "https://open.spotify.com/album/3IKzgoIkPXQm7GOzOKSPfX"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 181986,
       "name": "Quise Olvidar",
       "url": "https://open.spotify.com/track/4SYoxA8J9FXJfnYqDngVUP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Besos No Se Dan En La Camisa",
-        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Los Besos No Se Dan En La Camisa",
-      "url": "https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc"
     },
     {
       "added_at": null,

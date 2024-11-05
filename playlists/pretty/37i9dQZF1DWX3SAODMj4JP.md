@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,881 likes - 69 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,925 likes - 69 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 23 | [Meu Repouso](https://open.spotify.com/track/6cgavHjYBa1QWCTTC6d1Sn) | [Fabio Sampaio](https://open.spotify.com/artist/32grGWeFFc1cgsrGIV5j7N), [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Meu Repouso](https://open.spotify.com/album/7qpFHHhj9wl7nscVenR1dx) | 4:18 |
 | 24 | [Olhar de Longe](https://open.spotify.com/track/38Ehecm8meAMYbcYjnaVbI) | [Paulo Nazareth](https://open.spotify.com/artist/7n7vXH3wFK9kCqV0m5KA40), [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Olhar de Longe](https://open.spotify.com/album/703VJ4yLS4vu7Yv7d4hhIJ) | 3:32 |
 | 25 | [Aonde Está Deus?](https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 4:10 |
-| 26 | [Claro e Certo](https://open.spotify.com/track/2C4bL85AHMERutNrejvo0B) | [Rafa Blauth](https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU), [Estevão Queiroga](https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK) | [Claro e Certo](https://open.spotify.com/album/47ggi22ENuvh5a7AXHbDbI) | 4:01 |
-| 27 | [Tua Presença Vale Mais](https://open.spotify.com/track/4ghsOtdYykkVMzKgD2Z07g) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Tua Presença Vale Mais](https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq) | 6:00 |
+| 26 | [Tua Presença Vale Mais](https://open.spotify.com/track/4ghsOtdYykkVMzKgD2Z07g) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Tua Presença Vale Mais](https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq) | 6:00 |
+| 27 | [Claro e Certo](https://open.spotify.com/track/2C4bL85AHMERutNrejvo0B) | [Rafa Blauth](https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU), [Estevão Queiroga](https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK) | [Claro e Certo](https://open.spotify.com/album/47ggi22ENuvh5a7AXHbDbI) | 4:01 |
 | 28 | [O Tempo Não Para](https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC) | [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9), [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [O Tempo Não Para](https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi) | 3:22 |
 | 29 | [Agora, Aqui](https://open.spotify.com/track/5x5YBX9Pfi5WodeaGYGHdO) | [Ana Heloysa](https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Filipe da Guia](https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a) | [Agora, Aqui](https://open.spotify.com/album/7JVb4GTGgF942VVH0IJ6BR) | 3:25 |
 | 30 | [Cuide](https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Cuide](https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt) | 3:05 |

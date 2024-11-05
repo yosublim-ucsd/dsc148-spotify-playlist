@@ -1,6 +1,6 @@
 {
   "description": "Songs about the iconic city. Welcome to the Big Apple! \ud83d\udcf8 Chappell Roan is Lady Liberty",
-  "num_followers": 146844,
+  "num_followers": 146862,
   "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-06-11 17:08:30",
       "album": {
-        "name": "Nightlife: Further Listening 1996 - 2000 (2017 Remaster)",
-        "url": "https://open.spotify.com/album/4XyL4Vum37Wh3vKu4DhRek"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 315280,
-      "name": "New York City Boy - 2017 Remaster",
-      "url": "https://open.spotify.com/track/7KeoeLwqtTIIgeHkvgxkeT"
-    },
-    {
-      "added_at": "2024-06-11 17:08:30",
-      "album": {
         "name": "Revelator",
         "url": "https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 352666,
       "name": "Midnight in Harlem",
       "url": "https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd"
+    },
+    {
+      "added_at": "2024-06-11 17:08:30",
+      "album": {
+        "name": "Nightlife: Further Listening 1996 - 2000 (2017 Remaster)",
+        "url": "https://open.spotify.com/album/4XyL4Vum37Wh3vKu4DhRek"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 315280,
+      "name": "New York City Boy - 2017 Remaster",
+      "url": "https://open.spotify.com/track/7KeoeLwqtTIIgeHkvgxkeT"
     },
     {
       "added_at": "2024-06-11 17:08:30",
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-06-11 17:08:30",
       "album": {
-        "name": "Brooklyn In The Summer",
-        "url": "https://open.spotify.com/album/2e2K7qbaFSqnBQWvYmgS4L"
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
       },
       "artists": [
         {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
         }
       ],
-      "duration_ms": 208214,
-      "name": "Brooklyn In The Summer",
-      "url": "https://open.spotify.com/track/5bTysxqGHXdSGiZVgljzCY"
+      "duration_ms": 259706,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS"
     },
     {
       "added_at": "2024-06-11 17:08:30",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-06-11 17:08:30",
       "album": {
-        "name": "Once Upon A Summertime",
-        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+        "name": "Brooklyn In The Summer",
+        "url": "https://open.spotify.com/album/2e2K7qbaFSqnBQWvYmgS4L"
       },
       "artists": [
         {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
         }
       ],
-      "duration_ms": 259706,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS"
+      "duration_ms": 208214,
+      "name": "Brooklyn In The Summer",
+      "url": "https://open.spotify.com/track/5bTysxqGHXdSGiZVgljzCY"
     },
     {
       "added_at": "2024-06-11 17:08:30",

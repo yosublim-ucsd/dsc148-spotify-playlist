@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! RENEE en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,680 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,699 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 34 | [Hablar de Flores](https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Hablar de Flores](https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7) | 3:09 |
 | 35 | [Lo Que No Quieres Saber](https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Lo Que No Quieres Saber](https://open.spotify.com/album/0ZFq3hHFrz74Tc7V26IOIJ) | 2:33 |
 | 36 | [Te Desenamoraste](https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM) | [Drake Bell](https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne) | [Te Desenamoraste](https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D) | 2:42 |
-| 37 | [Amanecidos](https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tormentas Inesperadas](https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl) | 4:24 |
+| 37 | [Pienso En Vos](https://open.spotify.com/track/16oWKtRubxV7MFaSCG5zgQ) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Pienso En Vos](https://open.spotify.com/album/0KanSt4pJ5LqTVjBHpsTSX) | 2:26 |
 | 38 | [¿Qué vas a saber?](https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [¿Qué vas a saber?](https://open.spotify.com/album/33IFiDbkayObVb36TdCV6l) | 4:11 |
-| 39 | [Pienso En Vos](https://open.spotify.com/track/16oWKtRubxV7MFaSCG5zgQ) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Pienso En Vos](https://open.spotify.com/album/0KanSt4pJ5LqTVjBHpsTSX) | 2:26 |
+| 39 | [Amanecidos](https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tormentas Inesperadas](https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl) | 4:24 |
 | 40 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 |
 | 41 | [Bilingües](https://open.spotify.com/track/6euS235KVmpywN68iAVM9j) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Bilingües](https://open.spotify.com/album/2oP9WaSwMpMHagFAtwQkJq) | 2:54 |
 | 42 | [Brujería](https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Brujería](https://open.spotify.com/album/604LGUysYpwc6RakYXcwj0) | 2:53 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 67 | [Si Quieres Honestidad \(Ni En Visto Me Dejaste...\)](https://open.spotify.com/track/6aDqixiGaqoxD4XibLphOQ) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL), [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [Si Quieres Honestidad \(Ni En Visto Me Dejaste...\)](https://open.spotify.com/album/3NTWEeCqT99b9vsHsKPj5f) | 3:20 |
 | 68 | [Rey Ahogado](https://open.spotify.com/track/5WQIiQ0Nitqwdh9i7gIIOB) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Rey Ahogado](https://open.spotify.com/album/5KHUN8igWIO1NCCJug8gNJ) | 4:05 |
 | 69 | [Te Vas](https://open.spotify.com/track/12JDYfAl2i81q7wefJrQRO) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Rompecabezas](https://open.spotify.com/album/3KNvp3z1tf0eL7xZ5NzAQD) | 4:32 |
-| 70 | [Cristal](https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Cristal](https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd) | 3:22 |
-| 71 | [B2B](https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [B2B](https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT) | 3:02 |
-| 72 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 |
+| 70 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 |
+| 71 | [Cristal](https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Cristal](https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd) | 3:22 |
+| 72 | [B2B](https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [B2B](https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT) | 3:02 |
 | 73 | [El paraíso \#2](https://open.spotify.com/track/0Sk0gQDXrdlrCFk8xFYOrx) | [Mikel Izal](https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8), [María de Juan](https://open.spotify.com/artist/3JOaesg3hFdm9PjUAlAevb), [Liam Garner](https://open.spotify.com/artist/01Ct72ERdVHRVlFDdl3cAF) | [El paraíso \#2](https://open.spotify.com/album/64GURwXiHXbcjdCIxk6Bpu) | 2:54 |
 | 74 | [Érase Una Vez \(Pero Ya No\)](https://open.spotify.com/track/2CLcqg6PEB76Qkxh6R4MSC) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Érase Una Vez \(Pero Ya No\) \[De "EQSB" Soundtrack\]](https://open.spotify.com/album/6yrAgrYatN30AWcHIsWNOM) | 3:09 |
 | 75 | [Te Amé Temprano](https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [IRENE ALEJANDRA](https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb) | 3:37 |

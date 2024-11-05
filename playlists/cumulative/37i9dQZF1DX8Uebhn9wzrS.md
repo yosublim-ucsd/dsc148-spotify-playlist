@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,131 songs - 3 day 9 hr 15 min
+2,132 songs - 3 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [A Little Bird Told Me](https://open.spotify.com/track/0ZXi3n1FhNbusnpDcnxLmA) | [Etchen](https://open.spotify.com/artist/3n5F1rL9ZHZIsYfX9DsT8R) | [WAVES](https://open.spotify.com/album/6AOwfXtb6LPoNa1fKcMunQ) | 1:17 | 2022-04-15 | 2022-07-01 |
 | [a little star strut](https://open.spotify.com/track/6o19S7pXUbxEz4PIdOr2LP) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [a little star strut](https://open.spotify.com/album/4jhB8uPd1UzqYCGeRVZIOJ) | 2:14 | 2023-04-20 | 2024-08-21 |
 | [a little sun nap](https://open.spotify.com/track/7AoV9qLAx0n2B6IOqUDXFh) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [a little sun nap](https://open.spotify.com/album/33ynMqo3XgRrfktrbuCrWy) | 2:28 | 2024-10-08 |  |
-| [A look inside](https://open.spotify.com/track/4eSOA9lMe36cIcq28nAFEh) | [You're Good](https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR) | [A look inside](https://open.spotify.com/album/3JvBrdG7boz0zL3yTPrhaW) | 2:43 | 2024-10-18 | 2024-11-03 |
+| [A look inside](https://open.spotify.com/track/4eSOA9lMe36cIcq28nAFEh) | [You're Good](https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR) | [A look inside](https://open.spotify.com/album/3JvBrdG7boz0zL3yTPrhaW) | 2:43 | 2024-10-18 |  |
 | [A Midsummer Dream](https://open.spotify.com/track/4we32LDFb3MRyVAOiIseqS) | [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt), [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [A Midsummer Dream](https://open.spotify.com/album/5HibmlP5d4rM5rRRHwqA2C) | 2:38 | 2022-10-28 | 2023-01-20 |
 | [A Night Out](https://open.spotify.com/track/24HOrMOXoDhw0s4uJVTmij) | [Tiger Movie](https://open.spotify.com/artist/1XDpB5sGAzaiBV1qFYs84m) | [A Night Out](https://open.spotify.com/album/0dM0kJYP8ayl3bNnfEc8jA) | 2:17 | 2022-04-15 | 2022-07-01 |
 | [A Part of Everything](https://open.spotify.com/track/3sEQ7CcBmtQ2AgWBS33rld) | [Lucavietski](https://open.spotify.com/artist/27PTN8da910Uo2RPCfpFKR) | [Idu](https://open.spotify.com/album/05A38ZREjoph5D68GHuPZp) | 1:51 | 2023-01-06 | 2023-04-04 |
@@ -1194,7 +1194,7 @@
 | [Mistletoe](https://open.spotify.com/track/6QA4PFuLTaHGlcakQuEQ1h) | [wake deprived](https://open.spotify.com/artist/7GjL7O7YHh0GpFqxacW7xP) | [Mistletoe](https://open.spotify.com/album/5oOCRsrE5ws6J1cLCLDUSP) | 2:01 | 2023-04-20 | 2023-10-06 |
 | [Misty Woods](https://open.spotify.com/track/0pPlRossaqIMFOkLtwg5XI) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Misty Woods](https://open.spotify.com/album/0vDPVK064wZnWv3nMToFf2) | 2:02 | 2023-08-31 |  |
 | [miyu](https://open.spotify.com/track/5Manub8VP5SyKpJ9kcKSTD) | [yudaii](https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv) | [ambassing](https://open.spotify.com/album/7dTO5q5UVSUOZh7YKwCWvC) | 2:14 | 2022-04-15 | 2022-09-17 |
-| [Modulus Operandi](https://open.spotify.com/track/2bvz2s3PR1vMm0hdBqGA8D) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [Modulus Operandi](https://open.spotify.com/album/24oZ0Rbq781YkSaqaLVxiL) | 1:36 | 2022-09-02 |  |
+| [Modulus Operandi](https://open.spotify.com/track/2bvz2s3PR1vMm0hdBqGA8D) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [Modulus Operandi](https://open.spotify.com/album/24oZ0Rbq781YkSaqaLVxiL) | 1:36 | 2022-09-02 | 2024-11-05 |
 | [Mombasa Night](https://open.spotify.com/track/2lGx79WyAqEyJcxtqqOaEb) | [Idris Jem](https://open.spotify.com/artist/0TsDkwnB2mr1kbQKAU4XcY) | [Mombasa Night](https://open.spotify.com/album/2fk273nfng9SzpuYWygQRo) | 2:09 | 2022-04-15 | 2022-07-22 |
 | [Monday](https://open.spotify.com/track/4DBUv3NPLsSBSsD4bw6Svb) | [beatthump](https://open.spotify.com/artist/21LyMe2qaxBJYvdcOLyCBb) | [Monday](https://open.spotify.com/album/3fO79St3Wd1NtduoK9Tlno) | 2:37 | 2022-04-15 | 2022-05-13 |
 | [Monday Blues](https://open.spotify.com/track/02DElgHIrCuu73gu6sSBfI) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Monday Blues](https://open.spotify.com/album/5Tx1ZfiUfJ0HXj9xP1XYgN) | 1:34 | 2022-05-27 | 2022-11-12 |
@@ -1358,7 +1358,7 @@
 | [Open Mind](https://open.spotify.com/track/1kt6a5QnMUlFekTV8AHxRy) | [Dustin Pierce](https://open.spotify.com/artist/5sTFuoodmdQo8VONj2XL4z) | [Open Mind](https://open.spotify.com/album/21uLlTDKl4plmnUwvuYozh) | 2:32 | 2022-04-15 | 2022-05-27 |
 | [Opulence](https://open.spotify.com/track/5Lau1jCQPlGK5lS2gSW0cu) | [Leonard Hudgens](https://open.spotify.com/artist/6WpmWIpXTW0N63IGUFqIlT) | [Opulence](https://open.spotify.com/album/6aDX3sTyPUTeECzsKDbgt3) | 2:15 | 2024-03-22 | 2024-04-30 |
 | [Opus II](https://open.spotify.com/track/47U6UBCMwwXkf7saw2VAW3) | [Terrence Woods](https://open.spotify.com/artist/68OTfPEEVauMj9rWCFSz1k) | [Opus II](https://open.spotify.com/album/11uGd9Tqjc2tfZJXY8UCx1) | 2:15 | 2022-04-15 | 2022-09-09 |
-| [Orb](https://open.spotify.com/track/0uGPVmkDuOnxFrclKurZi1) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Orb](https://open.spotify.com/album/0YfkN8XLus9Sj1PKnRvIq6) | 2:15 | 2022-09-02 |  |
+| [Orb](https://open.spotify.com/track/0uGPVmkDuOnxFrclKurZi1) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Orb](https://open.spotify.com/album/0YfkN8XLus9Sj1PKnRvIq6) | 2:15 | 2022-09-02 | 2024-11-05 |
 | [Orbit](https://open.spotify.com/track/1B2KxrWP52AdVVqbPqr8Za) | [ATD Beats](https://open.spotify.com/artist/2HjWgx3XLvAeEBEP8fN2uy) | [Orbit](https://open.spotify.com/album/1p7sm4gf3BkyQklULsQsel) | 2:28 | 2023-04-03 |  |
 | [orchid](https://open.spotify.com/track/6bUKrVPt01nwmIC543H6fx) | [veryolddog](https://open.spotify.com/artist/5LopculXVSHwOYUcpk3oWl) | [orchid](https://open.spotify.com/album/4u3FvZ6P4kbgR1tFPeFyeP) | 1:25 | 2023-08-03 | 2023-09-09 |
 | [Orchids](https://open.spotify.com/track/1VCvqlbVdacKqen5LH8vu7) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Orchids](https://open.spotify.com/album/4soSzFXAu8rstK2p9bLy1D) | 2:06 | 2024-10-04 |  |
@@ -1626,6 +1626,7 @@
 | [shanghai tower](https://open.spotify.com/track/0BBtNOB7ofrOJ9PLM74EQn) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [shanghai tower](https://open.spotify.com/album/4ds0B84aCLuJkq15R8iT3O) | 2:17 | 2024-02-23 |  |
 | [Shanghai, 4AM](https://open.spotify.com/track/7GWNhXxBhU5zXifNuLA9Vp) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [Shanghai, 4AM](https://open.spotify.com/album/33a3a2DxYBxPv5RYa18pxe) | 1:47 | 2022-04-15 | 2022-10-29 |
 | [Shapes](https://open.spotify.com/track/4BiiiOiilAEgCkeynf3hlC) | [K9 Division](https://open.spotify.com/artist/14mNenIi1W5u68fvDTd7ES) | [Shapes](https://open.spotify.com/album/2Gk8tUVQ8KTbTJCd2hnvZZ) | 1:54 | 2022-10-07 |  |
+| [She gone](https://open.spotify.com/track/0NJbkY3L3NKwLbZNPa2pmN) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk), [bob le head](https://open.spotify.com/artist/0SIYafMj51r4fsiYAQLFCx) | [Yesterday](https://open.spotify.com/album/5PznWlI5Jepp1MD0EAfCxO) | 1:57 | 2024-10-25 |  |
 | [She Knows](https://open.spotify.com/track/4yjPdsGELPqYmcqFTMtc79) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [She Knows](https://open.spotify.com/album/1v4b3UJUEJBbSu3XBDUZYX) | 2:27 | 2022-09-23 | 2023-01-07 |
 | [She Said](https://open.spotify.com/track/5BtBdCsbhh5QxIbhjNmNnx) | [Elven Chlls](https://open.spotify.com/artist/2KleiaytQePm3q471pOHdJ) | [Bumps!](https://open.spotify.com/album/2rk2IGhAithv0Sjxj9d1a6) | 1:24 | 2022-04-15 | 2022-07-01 |
 | [She Ski Lifts My Spirits](https://open.spotify.com/track/329HZF8ohmz9GYbFchV8wa) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [She Ski Lifts My Spirits](https://open.spotify.com/album/7gdWhNl9Nm20pp8QGaZTcz) | 3:15 | 2023-02-06 |  |

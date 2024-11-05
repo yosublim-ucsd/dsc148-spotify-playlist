@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Amor de Madrugada",
+        "url": "https://open.spotify.com/album/65jP2QhvAUT6JRlQxgH5GW"
+      },
+      "artists": [
+        {
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131764,
+      "name": "Amor de Madrugada",
+      "url": "https://open.spotify.com/track/1VeQNKf4gVjSDwACQnIqhD"
+    },
+    {
+      "album": {
         "name": "Milonguero",
         "url": "https://open.spotify.com/album/3k4njpRBXJDfFvZljMXK7g"
       },
@@ -157,6 +175,24 @@
     },
     {
       "album": {
+        "name": "De F\u00e1brica (Versi\u00f3n Extendida)",
+        "url": "https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215760,
+      "name": "Cantor (TANGO)",
+      "url": "https://open.spotify.com/track/6nmNrbsJcqw2AErzjOwqKy"
+    },
+    {
+      "album": {
         "name": "Carabelas Nada",
         "url": "https://open.spotify.com/album/6i37stRS1hsLchPh8qpBtz"
       },
@@ -244,10 +280,28 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 177609,
       "name": "Cuando nos reencontremos",
       "url": "https://open.spotify.com/track/0OeIFndbhNNJEVLsYzC7YR"
+    },
+    {
+      "album": {
+        "name": "De F\u00e1brica (Versi\u00f3n Extendida)",
+        "url": "https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203550,
+      "name": "Curarme (TANGO)",
+      "url": "https://open.spotify.com/track/3ORq0D5qOwljp6UKq9Xdic"
     },
     {
       "album": {
@@ -898,7 +952,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 231538,
       "name": "Milonga de la Anunciaci\u00f3n",
       "url": "https://open.spotify.com/track/36h5l8FAbtSkVodxPOA8Qt"
@@ -1054,6 +1108,24 @@
       "duration_ms": 197000,
       "name": "Naranjo en Flor",
       "url": "https://open.spotify.com/track/11Wr4jrWK0DzEM03s28OOC"
+    },
+    {
+      "album": {
+        "name": "De F\u00e1brica (Versi\u00f3n Extendida)",
+        "url": "https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231397,
+      "name": "Naufragio (TANGO)",
+      "url": "https://open.spotify.com/track/2AuZEVc5E1EC7tq7dwseYd"
     },
     {
       "album": {
@@ -1344,7 +1416,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 252750,
       "name": "Ran Tan Plan",
       "url": "https://open.spotify.com/track/6eqLo7qLqWFVGHsglx50ng"
@@ -1754,7 +1826,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 241280,
       "name": "Uprising Of Kindness",
       "url": "https://open.spotify.com/track/6y5RI29ZM1MmFg3yzD48v2"

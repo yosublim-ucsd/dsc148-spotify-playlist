@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Flaket kommer studsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,352 likes - 73 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,322 likes - 73 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 30 | [Hit The Road Jack](https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV) | [Bisken](https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf), [Millows](https://open.spotify.com/artist/5GQeYhFPfFWauYWJXMJ1BG) | [Hit The Road Jack](https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu) | 2:06 |
 | 31 | [We No Speak Americano](https://open.spotify.com/track/0CJ1quCQhVX9Ax2jYwwovA) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [We No Speak Americano](https://open.spotify.com/album/57qvObQidfcN8quFMvQOXm) | 4:29 |
 | 32 | [Gimme Gimme Gimme](https://open.spotify.com/track/1Uin0T7NJQiHA9VspYiMi8) | [FÄT TONY](https://open.spotify.com/artist/0GB4bpkY7X1MUCCD98huVK), [MEDUN](https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM) | [Gimme Gimme Gimme](https://open.spotify.com/album/0bQjEOaYhyJe2LZT3uU0b3) | 2:38 |
-| 33 | [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 |
-| 34 | [Shots & Squats](https://open.spotify.com/track/5nIrdpo8eXQU3YgZelEXkd) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds), [Tham Sway](https://open.spotify.com/artist/3sEqETeMb1urfCoVUhdjUv) | [Shots & Squats](https://open.spotify.com/album/2oww4CllHtrPPeMId1UUjA) | 2:51 |
-| 35 | [Bailar \(feat\. Elvis Crespo\) \- Radio Edit](https://open.spotify.com/track/45sGyAtAxD6efaN0bJAFgh) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Bailar \(feat\. Elvis Crespo\) \[Radio Edit\]](https://open.spotify.com/album/1tAISk8OvvhU8V5QGuXyJS) | 2:17 |
+| 33 | [Shots & Squats](https://open.spotify.com/track/5nIrdpo8eXQU3YgZelEXkd) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds), [Tham Sway](https://open.spotify.com/artist/3sEqETeMb1urfCoVUhdjUv) | [Shots & Squats](https://open.spotify.com/album/2oww4CllHtrPPeMId1UUjA) | 2:51 |
+| 34 | [Bailar \(feat\. Elvis Crespo\) \- Radio Edit](https://open.spotify.com/track/45sGyAtAxD6efaN0bJAFgh) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Bailar \(feat\. Elvis Crespo\) \[Radio Edit\]](https://open.spotify.com/album/1tAISk8OvvhU8V5QGuXyJS) | 2:17 |
+| 35 | [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 |
 | 36 | [T.N.T\. \- Techno Remix](https://open.spotify.com/track/6l514NhnJZJgHgYFeimsWs) | [Nic Johnston](https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat) | [T.N.T\. \(Techno Remix\)](https://open.spotify.com/album/4NydermwrtbQyYQfsawidt) | 2:17 |
 | 37 | [UNGA & FRIA](https://open.spotify.com/track/2ArX0SzCSHXytmAg36BIev) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [UNGA & FRIA](https://open.spotify.com/album/07w87eimESXFgxpCI191vp) | 3:02 |
 | 38 | [FULLA](https://open.spotify.com/track/2elQQCpDbMJZyFntQB8jFM) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c), [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [FULLA](https://open.spotify.com/album/2yxZKoAqVmePN35Txs3L0n) | 2:21 |

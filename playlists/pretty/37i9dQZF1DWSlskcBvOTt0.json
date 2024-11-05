@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 508667,
+  "num_followers": 508862,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1059,30 +1059,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Hey Hey (Jack Back Remix)",
-        "url": "https://open.spotify.com/album/28B0sfg0u9x74Z7gT6CLJD"
-      },
-      "artists": [
-        {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        },
-        {
-          "name": "Jack Back",
-          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 149528,
-      "name": "Hey Hey - Jack Back Remix",
-      "url": "https://open.spotify.com/track/1MLxfMNuBOYnCbZDMhb1Zl"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Perreo",
         "url": "https://open.spotify.com/album/6sx32X0E7IXfWLH3ldmNd4"
       },
@@ -1103,6 +1079,30 @@
       "duration_ms": 252000,
       "name": "Perreo",
       "url": "https://open.spotify.com/track/2FXVpbS6z7ctOV55h9ozCZ"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Hey Hey (Jack Back Remix)",
+        "url": "https://open.spotify.com/album/28B0sfg0u9x74Z7gT6CLJD"
+      },
+      "artists": [
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        },
+        {
+          "name": "Jack Back",
+          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 149528,
+      "name": "Hey Hey - Jack Back Remix",
+      "url": "https://open.spotify.com/track/1MLxfMNuBOYnCbZDMhb1Zl"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/4w5yEqweK9vCLC6tBQ5Npk"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 223774,
+      "name": "SIGN",
+      "url": "https://open.spotify.com/track/1zg0rYI4vsiJPXeRZ3esIo"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Yara",
         "url": "https://open.spotify.com/album/4iipxXHRMIQbDZj2RBPRaF"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 212231,
       "name": "Yara",
       "url": "https://open.spotify.com/track/0ahreZE7HlAcG4UguRmjnV"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "SIGN",
-        "url": "https://open.spotify.com/album/4w5yEqweK9vCLC6tBQ5Npk"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 223774,
-      "name": "SIGN",
-      "url": "https://open.spotify.com/track/1zg0rYI4vsiJPXeRZ3esIo"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1971,6 +1971,30 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Barcelonia",
+        "url": "https://open.spotify.com/album/04XXrFIk5e84EOX3GTr4RH"
+      },
+      "artists": [
+        {
+          "name": "Nathan Rux",
+          "url": "https://open.spotify.com/artist/6otY3GdTYnxB2hH7nFhwfQ"
+        },
+        {
+          "name": "LuxNite",
+          "url": "https://open.spotify.com/artist/20mcVTvGJs84aubOp0rTzV"
+        },
+        {
+          "name": "feva.",
+          "url": "https://open.spotify.com/artist/17jt0BZZK9k3gonW1osVSH"
+        }
+      ],
+      "duration_ms": 173609,
+      "name": "Barcelonia",
+      "url": "https://open.spotify.com/track/4Pyng2GRqbQe4ElWkcendQ"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Why",
         "url": "https://open.spotify.com/album/1hodyiHqPeGoLf9w0tHWyb"
       },
@@ -1983,26 +2007,6 @@
       "duration_ms": 199687,
       "name": "Why",
       "url": "https://open.spotify.com/track/4O2uAxD8LKMptOW7sQQOKL"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Light Down",
-        "url": "https://open.spotify.com/album/59t9U3I17pMqt5ixq3ELpb"
-      },
-      "artists": [
-        {
-          "name": "Meloko",
-          "url": "https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg"
-        },
-        {
-          "name": "Garla",
-          "url": "https://open.spotify.com/artist/7rWJlrAgnfBKkExJOPqpiQ"
-        }
-      ],
-      "duration_ms": 274576,
-      "name": "Light Down",
-      "url": "https://open.spotify.com/track/0wlYNRYVtGYJsJcd2xe31k"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -2031,26 +2035,38 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Barcelonia",
-        "url": "https://open.spotify.com/album/04XXrFIk5e84EOX3GTr4RH"
+        "name": "Light Down",
+        "url": "https://open.spotify.com/album/59t9U3I17pMqt5ixq3ELpb"
       },
       "artists": [
         {
-          "name": "Nathan Rux",
-          "url": "https://open.spotify.com/artist/6otY3GdTYnxB2hH7nFhwfQ"
+          "name": "Meloko",
+          "url": "https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg"
         },
         {
-          "name": "LuxNite",
-          "url": "https://open.spotify.com/artist/20mcVTvGJs84aubOp0rTzV"
-        },
-        {
-          "name": "feva.",
-          "url": "https://open.spotify.com/artist/17jt0BZZK9k3gonW1osVSH"
+          "name": "Garla",
+          "url": "https://open.spotify.com/artist/7rWJlrAgnfBKkExJOPqpiQ"
         }
       ],
-      "duration_ms": 173609,
-      "name": "Barcelonia",
-      "url": "https://open.spotify.com/track/4Pyng2GRqbQe4ElWkcendQ"
+      "duration_ms": 274576,
+      "name": "Light Down",
+      "url": "https://open.spotify.com/track/0wlYNRYVtGYJsJcd2xe31k"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2707md8oZNvicxsOq7m6nU"
+      },
+      "artists": [
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        }
+      ],
+      "duration_ms": 279344,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/22FYG28v2UKUhnTO7ecOcn"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -2091,22 +2107,6 @@
       "duration_ms": 207141,
       "name": "Boy You Got Me",
       "url": "https://open.spotify.com/track/5x7uCstXGVFFgEokfdIRFG"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2707md8oZNvicxsOq7m6nU"
-      },
-      "artists": [
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
-        }
-      ],
-      "duration_ms": 279344,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/22FYG28v2UKUhnTO7ecOcn"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Love You Got",
-        "url": "https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 273600,
-      "name": "Love You Got",
-      "url": "https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Seve 2.0 (Luch Rework)",
         "url": "https://open.spotify.com/album/46AW75spYWrIPCA2KiK82s"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 396833,
       "name": "Seve 2.0 - Luch Rework",
       "url": "https://open.spotify.com/track/0Z2DaVumQ6gfmFngXl7XUb"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Love You Got",
+        "url": "https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 273600,
+      "name": "Love You Got",
+      "url": "https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -2315,26 +2315,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Mogolu (Major Lazer Remix)",
-        "url": "https://open.spotify.com/album/2m6JmTaWW6qYJbStQtIBPK"
-      },
-      "artists": [
-        {
-          "name": "Amadou & Mariam",
-          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        }
-      ],
-      "duration_ms": 283278,
-      "name": "Mogolu - Major Lazer Remix",
-      "url": "https://open.spotify.com/track/2cOC8gWaJmFb6z1uo8OyfX"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Citadelle",
         "url": "https://open.spotify.com/album/0DizSiMxcUKUPaZ09BmAXi"
       },
@@ -2351,6 +2331,26 @@
       "duration_ms": 236065,
       "name": "Citadelle",
       "url": "https://open.spotify.com/track/4rcj9dtT3uK0XEYWYI74dU"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Mogolu (Major Lazer Remix)",
+        "url": "https://open.spotify.com/album/2m6JmTaWW6qYJbStQtIBPK"
+      },
+      "artists": [
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        }
+      ],
+      "duration_ms": 283278,
+      "name": "Mogolu - Major Lazer Remix",
+      "url": "https://open.spotify.com/track/2cOC8gWaJmFb6z1uo8OyfX"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "O Superman",
-        "url": "https://open.spotify.com/album/0jMCx6S66Rwbi0n3yvzdRw"
-      },
-      "artists": [
-        {
-          "name": "Chemical Surf",
-          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
-        }
-      ],
-      "duration_ms": 259680,
-      "name": "O Superman",
-      "url": "https://open.spotify.com/track/7HNSmEyUHRY5ssO5VnYQHA"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Promised Land (Solomun Remix)",
         "url": "https://open.spotify.com/album/5M06GH1qZPiVoOdfO3D19v"
       },
@@ -2411,6 +2395,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "O Superman",
+        "url": "https://open.spotify.com/album/0jMCx6S66Rwbi0n3yvzdRw"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        }
+      ],
+      "duration_ms": 259680,
+      "name": "O Superman",
+      "url": "https://open.spotify.com/track/7HNSmEyUHRY5ssO5VnYQHA"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Sun Is Shining",
         "url": "https://open.spotify.com/album/0WTrD8rtdbNV2mC94B9kdX"
       },
@@ -2423,6 +2423,22 @@
       "duration_ms": 183439,
       "name": "Sun Is Shining",
       "url": "https://open.spotify.com/track/3Vv7Zeqig8hfejz3oJ3l09"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Kidz",
+        "url": "https://open.spotify.com/album/6ktZsr7T8Fk219WDv7dmfQ"
+      },
+      "artists": [
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        }
+      ],
+      "duration_ms": 168780,
+      "name": "Kidz",
+      "url": "https://open.spotify.com/track/3FMrfozd7RBxApXp4unYL8"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -2451,46 +2467,6 @@
       "duration_ms": 284461,
       "name": "Like Forever - Hernan Cattaneo and Kevin Di Serna Remix",
       "url": "https://open.spotify.com/track/2KXLXUoc4IvnF53qDJH3L7"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Kidz",
-        "url": "https://open.spotify.com/album/6ktZsr7T8Fk219WDv7dmfQ"
-      },
-      "artists": [
-        {
-          "name": "Arodes",
-          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
-        }
-      ],
-      "duration_ms": 168780,
-      "name": "Kidz",
-      "url": "https://open.spotify.com/track/3FMrfozd7RBxApXp4unYL8"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/78DAt8TfxZFuA9bszrMu30"
-      },
-      "artists": [
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        },
-        {
-          "name": "DJ VITOTO",
-          "url": "https://open.spotify.com/artist/6Yr8wYy6BC4h2BbVLAL5aF"
-        },
-        {
-          "name": "Zano",
-          "url": "https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq"
-        }
-      ],
-      "duration_ms": 251093,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/48ZWrSQx1KWJlpSf7xVERc"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -2535,6 +2511,30 @@
       "duration_ms": 320975,
       "name": "Kiss Me Hard - Adam Ten Remix",
       "url": "https://open.spotify.com/track/4eAz4xHo6HbSwvwmG99zvF"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/78DAt8TfxZFuA9bszrMu30"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "DJ VITOTO",
+          "url": "https://open.spotify.com/artist/6Yr8wYy6BC4h2BbVLAL5aF"
+        },
+        {
+          "name": "Zano",
+          "url": "https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq"
+        }
+      ],
+      "duration_ms": 251093,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/48ZWrSQx1KWJlpSf7xVERc"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -2607,22 +2607,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Alchemy",
-        "url": "https://open.spotify.com/album/5tAPqDBxLQywIHebYNHJQ1"
-      },
-      "artists": [
-        {
-          "name": "Philipp Wolf",
-          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Alchemy",
-      "url": "https://open.spotify.com/track/4HOUhsdFkkqomvPgAmN0ip"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "It\u2019s You (Alex Wann Remix)",
         "url": "https://open.spotify.com/album/4RVlszrpBpxLlzdu29sWiN"
       },
@@ -2643,22 +2627,18 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "I Forgive You (Remixes)",
-        "url": "https://open.spotify.com/album/57aBdbmYeOzOdKpVM1FihB"
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/5tAPqDBxLQywIHebYNHJQ1"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Luzi Tudor",
-          "url": "https://open.spotify.com/artist/0P4MdjIcZqLtx676443ZGd"
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
         }
       ],
-      "duration_ms": 280125,
-      "name": "I Forgive You - Luzi Tudor Remix",
-      "url": "https://open.spotify.com/track/2aTCaOzrqND5VM5V0EnI2d"
+      "duration_ms": 185440,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/4HOUhsdFkkqomvPgAmN0ip"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -2691,22 +2671,42 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Lose Your Love",
-        "url": "https://open.spotify.com/album/1Wq6wYd5isQ2EchLxPUxPi"
+        "name": "I Forgive You (Remixes)",
+        "url": "https://open.spotify.com/album/57aBdbmYeOzOdKpVM1FihB"
       },
       "artists": [
         {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         },
         {
-          "name": "Rony Seikaly",
-          "url": "https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB"
+          "name": "Luzi Tudor",
+          "url": "https://open.spotify.com/artist/0P4MdjIcZqLtx676443ZGd"
         }
       ],
-      "duration_ms": 192018,
-      "name": "Lose Your Love",
-      "url": "https://open.spotify.com/track/0MbWTn0MTwqvW3OItPMaOX"
+      "duration_ms": 280125,
+      "name": "I Forgive You - Luzi Tudor Remix",
+      "url": "https://open.spotify.com/track/2aTCaOzrqND5VM5V0EnI2d"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Distant Memories",
+        "url": "https://open.spotify.com/album/196al4c2iW2Jl9fqC9WX76"
+      },
+      "artists": [
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Hicky & Kalo",
+          "url": "https://open.spotify.com/artist/6yI7QGvmk87s42R0UyhWRT"
+        }
+      ],
+      "duration_ms": 298168,
+      "name": "Distant Memories",
+      "url": "https://open.spotify.com/track/2N8ZFBdIBvoCkQCWbc09I8"
     }
   ],
   "unique_name": "Tantra",

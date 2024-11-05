@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 112316,
+  "num_followers": 112322,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Morra di",
-        "url": "https://open.spotify.com/album/4JFvXLSRF8rRgjVIOHR5nR"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        }
-      ],
-      "duration_ms": 162093,
-      "name": "Morra di",
-      "url": "https://open.spotify.com/track/6Rf746IPHZ1Uoy5xLlpQAV"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Ungkar med dobbelseng",
         "url": "https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 190466,
       "name": "Granada",
       "url": "https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Morra di",
+        "url": "https://open.spotify.com/album/4JFvXLSRF8rRgjVIOHR5nR"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "Morra di",
+      "url": "https://open.spotify.com/track/6Rf746IPHZ1Uoy5xLlpQAV"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -199,30 +199,6 @@
       "duration_ms": 235853,
       "name": "Rundt neste sving",
       "url": "https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Gamleveien",
-        "url": "https://open.spotify.com/album/3ZvbYMfxz7TFXp9Zqv4uZf"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Sputnik",
-          "url": "https://open.spotify.com/artist/6Wp8wbTITUALiaIWUbfiob"
-        }
-      ],
-      "duration_ms": 137816,
-      "name": "Gamleveien",
-      "url": "https://open.spotify.com/track/5qS9HY1sq4Zuyzm7Mpgjir"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -287,8 +263,32 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Ligga low",
-        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
+        "name": "Gamleveien",
+        "url": "https://open.spotify.com/album/3ZvbYMfxz7TFXp9Zqv4uZf"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Sputnik",
+          "url": "https://open.spotify.com/artist/6Wp8wbTITUALiaIWUbfiob"
+        }
+      ],
+      "duration_ms": 137816,
+      "name": "Gamleveien",
+      "url": "https://open.spotify.com/track/5qS9HY1sq4Zuyzm7Mpgjir"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Flaska",
+        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
         }
       ],
-      "duration_ms": 151411,
-      "name": "Ligga low",
-      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
+      "duration_ms": 151304,
+      "name": "Flaska",
+      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "S\u00e5nn So Det Va F\u00f8r",
+        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
+      },
+      "artists": [
+        {
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
+        }
+      ],
+      "duration_ms": 278457,
+      "name": "S\u00e5nn So Det Va F\u00f8r",
+      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Mekke bil (feat. Tor-Anders Ringnes)",
         "url": "https://open.spotify.com/album/5KudautWOwAQOyFVWhrGRt"
       },
@@ -375,24 +391,8 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "S\u00e5nn So Det Va F\u00f8r",
-        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
-      },
-      "artists": [
-        {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
-        }
-      ],
-      "duration_ms": 278457,
-      "name": "S\u00e5nn So Det Va F\u00f8r",
-      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Flaska",
-        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
+        "name": "Ligga low",
+        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
       },
       "artists": [
         {
@@ -400,9 +400,25 @@
           "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
         }
       ],
-      "duration_ms": 151304,
-      "name": "Flaska",
-      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
+      "duration_ms": 151411,
+      "name": "Ligga low",
+      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Konge p\u00e5 b\u00f8gda",
+        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 180393,
+      "name": "Konge p\u00e5 b\u00f8gda",
+      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -427,22 +443,6 @@
       "duration_ms": 168398,
       "name": "FREDAG",
       "url": "https://open.spotify.com/track/7CrzOLGSbr4PFi9F9PNcJ4"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Konge p\u00e5 b\u00f8gda",
-        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 180393,
-      "name": "Konge p\u00e5 b\u00f8gda",
-      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Hej, hall\u00e5 (Fylla banker p\u00e5)",
+        "url": "https://open.spotify.com/album/7IQDes4hzYHoIR9c4FV6gi"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 137493,
+      "name": "Hej, hall\u00e5 (Fylla banker p\u00e5)",
+      "url": "https://open.spotify.com/track/77njX2H1TKxfuQEUpvC8Aa"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Hej sk\u00e5l!",
         "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Hej, hall\u00e5 (Fylla banker p\u00e5)",
-        "url": "https://open.spotify.com/album/7IQDes4hzYHoIR9c4FV6gi"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 137493,
-      "name": "Hej, hall\u00e5 (Fylla banker p\u00e5)",
-      "url": "https://open.spotify.com/track/77njX2H1TKxfuQEUpvC8Aa"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Hald deg fast",
         "url": "https://open.spotify.com/album/1g3bKt16foB6q1quIvBawh"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 201178,
       "name": "Hald deg fast",
       "url": "https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Gamlehjem",
+        "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 181648,
+      "name": "Gamlehjem",
+      "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -675,6 +691,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Besseggen",
+        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 165612,
+      "name": "Besseggen",
+      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "29 tonn",
         "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
       },
@@ -723,22 +755,6 @@
       "duration_ms": 167543,
       "name": "Jag Vill Vara Din Margareta",
       "url": "https://open.spotify.com/track/35oDGwwEB9Xnz5tmr1tjVN"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Gamlehjem",
-        "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 181648,
-      "name": "Gamlehjem",
-      "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -831,6 +847,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Min psykolog",
+        "url": "https://open.spotify.com/album/5BjfK5TCoxyFrR8aQh94Gf"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 150878,
+      "name": "Min psykolog",
+      "url": "https://open.spotify.com/track/4K93BTFaJE4QFqxdeNoC1C"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Best p\u00e5 fest",
         "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
       },
@@ -863,22 +895,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Besseggen",
-        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 165612,
-      "name": "Besseggen",
-      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Bara vara med dig",
         "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
       },
@@ -891,6 +907,26 @@
       "duration_ms": 161267,
       "name": "Bara vara med dig",
       "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Siste Kveld",
+        "url": "https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my"
+      },
+      "artists": [
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 159380,
+      "name": "Siste Kveld",
+      "url": "https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -911,6 +947,22 @@
       "duration_ms": 124661,
       "name": "Svensk i kv\u00e4ll",
       "url": "https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Best p\u00e5 fest",
+        "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 167980,
+      "name": "Zetor\u2019n",
+      "url": "https://open.spotify.com/track/2eknHfWE6fkw1fxcjEMD5t"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -951,54 +1003,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Min psykolog",
-        "url": "https://open.spotify.com/album/5BjfK5TCoxyFrR8aQh94Gf"
+        "name": "Der Jeg H\u00f8rer Te (Bygda)",
+        "url": "https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3"
       },
       "artists": [
         {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+          "name": "Ole Hartz",
+          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
         }
       ],
-      "duration_ms": 150878,
-      "name": "Min psykolog",
-      "url": "https://open.spotify.com/track/4K93BTFaJE4QFqxdeNoC1C"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Siste Kveld",
-        "url": "https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my"
-      },
-      "artists": [
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 159380,
-      "name": "Siste Kveld",
-      "url": "https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Best p\u00e5 fest",
-        "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 167980,
-      "name": "Zetor\u2019n",
-      "url": "https://open.spotify.com/track/2eknHfWE6fkw1fxcjEMD5t"
+      "duration_ms": 137106,
+      "name": "Der Jeg H\u00f8rer Te (Bygda)",
+      "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1015,22 +1031,6 @@
       "duration_ms": 212360,
       "name": "Flammer og Bensin",
       "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Der Jeg H\u00f8rer Te (Bygda)",
-        "url": "https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3"
-      },
-      "artists": [
-        {
-          "name": "Ole Hartz",
-          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
-        }
-      ],
-      "duration_ms": 137106,
-      "name": "Der Jeg H\u00f8rer Te (Bygda)",
-      "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1107,22 +1107,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "GUTTA (feat. Plumbo)",
-        "url": "https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x"
+        "name": "Gamle helter",
+        "url": "https://open.spotify.com/album/0XaNCDVHK9Ug1SKKu2ZBPl"
       },
       "artists": [
-        {
-          "name": "Ole Hartz",
-          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
-        },
         {
           "name": "Plumbo",
           "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
         }
       ],
-      "duration_ms": 158866,
-      "name": "GUTTA (feat. Plumbo)",
-      "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
+      "duration_ms": 208615,
+      "name": "Gamle helter",
+      "url": "https://open.spotify.com/track/5UStrdTMXC3qwEQSEv1HWo"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1179,18 +1175,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Gamle helter",
-        "url": "https://open.spotify.com/album/0XaNCDVHK9Ug1SKKu2ZBPl"
+        "name": "GUTTA (feat. Plumbo)",
+        "url": "https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x"
       },
       "artists": [
+        {
+          "name": "Ole Hartz",
+          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
+        },
         {
           "name": "Plumbo",
           "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
         }
       ],
-      "duration_ms": 208615,
-      "name": "Gamle helter",
-      "url": "https://open.spotify.com/track/5UStrdTMXC3qwEQSEv1HWo"
+      "duration_ms": 158866,
+      "name": "GUTTA (feat. Plumbo)",
+      "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
     },
     {
       "added_at": "2024-10-31 23:00:00",

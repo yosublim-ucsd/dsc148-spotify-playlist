@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "'Tis the season! All new holiday releases. Cover: Kesha",
+  "description": "'Tis the season! All new holiday releases. Cover: Laufey",
   "name": "New Music Holiday",
   "tracks": [
+    {
+      "album": {
+        "name": "'Tis The Season",
+        "url": "https://open.spotify.com/album/0kkFJA74Vi5srbSQS6zUhe"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190766,
+      "name": "'Tis The Season",
+      "url": "https://open.spotify.com/track/2GYGyoycqE3cvyYep05SLn"
+    },
     {
       "album": {
         "name": "(Christmas) Stay With Me",
@@ -42,6 +60,24 @@
       "duration_ms": 171386,
       "name": "(Everybody\u2019s Waitin\u2019 For) The Man With The Bag",
       "url": "https://open.spotify.com/track/4erjTiN8cQOBt7vSk7xP1k"
+    },
+    {
+      "album": {
+        "name": "1 Wish",
+        "url": "https://open.spotify.com/album/7KlrorqixG3qKh4nHmfoJt"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167105,
+      "name": "1 Wish",
+      "url": "https://open.spotify.com/track/1knrvScmRb6ZCPPsBzDHcy"
     },
     {
       "album": {
@@ -241,6 +277,24 @@
     },
     {
       "album": {
+        "name": "Blue Christmas ...duh",
+        "url": "https://open.spotify.com/album/2jAxdB4oHVxoEnqoEYbcOl"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197319,
+      "name": "All I Want for Christmas is a Cowboy",
+      "url": "https://open.spotify.com/track/3LelA67J3InQRCvUnyHomd"
+    },
+    {
+      "album": {
         "name": "All I Want for Christmas Is You",
         "url": "https://open.spotify.com/album/2VgvY0VEDjuCKhI9yE4P0e"
       },
@@ -358,6 +412,24 @@
       "duration_ms": 181760,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/2nuskenF2KBxUb9xWaqJI5"
+    },
+    {
+      "album": {
+        "name": "Sounding Joy - The Holiday Album",
+        "url": "https://open.spotify.com/album/2vYBHby5RY09iXl19GybkT"
+      },
+      "artists": [
+        {
+          "name": "Lea Salonga",
+          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265409,
+      "name": "All I Want for Christmas is You",
+      "url": "https://open.spotify.com/track/3wYEx4RW5wwLCDPJqV8UI6"
     },
     {
       "album": {
@@ -2289,6 +2361,24 @@
     },
     {
       "album": {
+        "name": "Christmas Magic",
+        "url": "https://open.spotify.com/album/0JgaSGWQ2nEeotsJ7JnUqT"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Love Hewitt",
+          "url": "https://open.spotify.com/artist/2BZDbnjUHnL2XAPgkdqTpb"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166101,
+      "name": "Christmas Magic",
+      "url": "https://open.spotify.com/track/2MyyvE6KmHXHpB13FnvCO4"
+    },
+    {
+      "album": {
         "name": "Christmas Miracle / White Christmas",
         "url": "https://open.spotify.com/album/0o21KLFLF2kXPdcXzbjEQl"
       },
@@ -2354,7 +2444,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 219120,
       "name": "Christmas Night With You",
       "url": "https://open.spotify.com/track/6lx1UIYeVhlLr40MA5Yjgl"
@@ -2528,6 +2618,24 @@
       "duration_ms": 356853,
       "name": "Christmas Time Is Here - Christmas Cards from David Hazeltine",
       "url": "https://open.spotify.com/track/2iquYk6RNrlZU4GiSLeA3G"
+    },
+    {
+      "album": {
+        "name": "Sleigher",
+        "url": "https://open.spotify.com/album/38FRSwRvIG2yLXZmOHdhGd"
+      },
+      "artists": [
+        {
+          "name": "Ben Folds",
+          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273671,
+      "name": "Christmas Time Rhyme",
+      "url": "https://open.spotify.com/track/1phqdqfHet6eOPUJUsgDth"
     },
     {
       "album": {
@@ -3040,7 +3148,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 189642,
       "name": "Do You Hear What I Hear? (LIVE)",
       "url": "https://open.spotify.com/track/0D8DGPrN1qRvlepl1Xwthn"
@@ -3286,6 +3394,24 @@
       "duration_ms": 182000,
       "name": "este diciembre.",
       "url": "https://open.spotify.com/track/1QWNbaeJ7tjSCfF0OQ1852"
+    },
+    {
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/4uMpjZ3LcrGuAB8RuB0eFf"
+      },
+      "artists": [
+        {
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141225,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/1lQSetX6AhrCJD2sU7Jfph"
     },
     {
       "album": {
@@ -3802,6 +3928,24 @@
       "duration_ms": 215306,
       "name": "God Rest Ye Merry Gentlemen (Spotify Singles Holiday)",
       "url": "https://open.spotify.com/track/5U1edKpf8zZ04KtkvBOvbu"
+    },
+    {
+      "album": {
+        "name": "God With All of Us",
+        "url": "https://open.spotify.com/album/1Kimm0xh5NaItC2lOI41eu"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229400,
+      "name": "God With All of Us",
+      "url": "https://open.spotify.com/track/4CygBXqu2kqJIjZ2buDTma"
     },
     {
       "album": {
@@ -4835,6 +4979,28 @@
     },
     {
       "album": {
+        "name": "Holiday Seasoning",
+        "url": "https://open.spotify.com/album/0bQD8TSiMKDz4F2osO4zPy"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Fallon",
+          "url": "https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183695,
+      "name": "Holiday (with Jonas Brothers)",
+      "url": "https://open.spotify.com/track/5tsAOJprlHSVMhuw2bCnqS"
+    },
+    {
+      "album": {
         "name": "The Molly Burch Christmas Album - Expanded",
         "url": "https://open.spotify.com/album/2pNWoLyf7n4o5MHZPXMMeZ"
       },
@@ -5190,7 +5356,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 185557,
       "name": "I Don't Need It To Be Christmas At All",
       "url": "https://open.spotify.com/track/1wmPiEINk0ig3Q0Cit7Anh"
@@ -5331,6 +5497,24 @@
     },
     {
       "album": {
+        "name": "Dear Big Santa",
+        "url": "https://open.spotify.com/album/2HaS5g0VjsXf93yy7TNf6c"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175951,
+      "name": "I Want You This Christmas",
+      "url": "https://open.spotify.com/track/1JHsB2E0FWEEBVdFV2W6w8"
+    },
+    {
+      "album": {
         "name": "A Cody Johnson Christmas",
         "url": "https://open.spotify.com/album/0cLuZfaaFMtFmMIadVO0z8"
       },
@@ -5364,6 +5548,24 @@
       "duration_ms": 148532,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/7zNeDg8NYqlYTZZIvQN4SA"
+    },
+    {
+      "album": {
+        "name": "I'll Be Home For Christmas",
+        "url": "https://open.spotify.com/album/3obmcueQA0HPnQcUmYykic"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200989,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/1GjuT0FXHHve3t5CzqU9Wd"
     },
     {
       "album": {
@@ -5888,7 +6090,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 165376,
       "name": "It's Tonight",
       "url": "https://open.spotify.com/track/3PRAHq4iWrBA51Se3EkcR8"
@@ -5910,6 +6112,32 @@
       "duration_ms": 141586,
       "name": "It\u2019s Beginning To Look A Lot Like Christmas",
       "url": "https://open.spotify.com/track/6kfDpP0HWb9Q67iaPs5HZw"
+    },
+    {
+      "album": {
+        "name": "It\u2019s Christmas Time (In Cleveland Heights)",
+        "url": "https://open.spotify.com/album/0PSRCff1pEu5n5M6ILsRMn"
+      },
+      "artists": [
+        {
+          "name": "The Philly Specials",
+          "url": "https://open.spotify.com/artist/4JPJvxDtfBlQAiNm8dd7vX"
+        },
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        },
+        {
+          "name": "Travis Kelce",
+          "url": "https://open.spotify.com/artist/3dPspueAfd9ghLDZ9RzMqf"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "It\u2019s Christmas Time (In Cleveland Heights)",
+      "url": "https://open.spotify.com/track/18spw1Rit0X3bv8AoQ9iR2"
     },
     {
       "album": {
@@ -6283,6 +6511,24 @@
     },
     {
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/2D14Hp7cLBDoYoVaKkbok5"
+      },
+      "artists": [
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222951,
+      "name": "Joy to the World",
+      "url": "https://open.spotify.com/track/1SoTtSvbmRlfV6zCXKe9Wq"
+    },
+    {
+      "album": {
         "name": "Snow Waltz",
         "url": "https://open.spotify.com/album/1VggmVcQEgVtLmNYWCrdGI"
       },
@@ -6319,6 +6565,28 @@
     },
     {
       "album": {
+        "name": "In December",
+        "url": "https://open.spotify.com/album/2ae65TpzMw6I9b8gJQG6Op"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327906,
+      "name": "Joy To The World (feat. Alex Isley)",
+      "url": "https://open.spotify.com/track/59MIBKUD1FSQvettQGHpSz"
+    },
+    {
+      "album": {
         "name": "Joy To The World - Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/7gHKfU5w1qlLNoOp9DNnyv"
       },
@@ -6334,6 +6602,24 @@
       "duration_ms": 237366,
       "name": "Joy To The World - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/7eY3FLrGc3cdEj3xbMOfHl"
+    },
+    {
+      "album": {
+        "name": "Just For Christmas",
+        "url": "https://open.spotify.com/album/2YdhWedROvAPrpXCtcu9hR"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191096,
+      "name": "Just For Christmas",
+      "url": "https://open.spotify.com/track/7IUlxfabTQQpp0VsRIU8sa"
     },
     {
       "album": {
@@ -7079,6 +7365,24 @@
     },
     {
       "album": {
+        "name": "Lost In New York",
+        "url": "https://open.spotify.com/album/6F27hw2kCHPlS2mmjrV3zt"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142245,
+      "name": "Lost In New York",
+      "url": "https://open.spotify.com/track/0f0CiWj56hGp15U4oAK96C"
+    },
+    {
+      "album": {
         "name": "Love Is Christmas",
         "url": "https://open.spotify.com/album/6N3EV1cYMQvUZXQjzsB4al"
       },
@@ -7148,6 +7452,24 @@
       "duration_ms": 179309,
       "name": "Make It Home",
       "url": "https://open.spotify.com/track/3xLDkntD4YvBcVwX6EK7SU"
+    },
+    {
+      "album": {
+        "name": "Hallelujah! It's Christmas!",
+        "url": "https://open.spotify.com/album/3MaCYkBn53nBUutcE18cCI"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260665,
+      "name": "Manger Throne",
+      "url": "https://open.spotify.com/track/5mNCEaVEU2pA1ux6IZ8S5e"
     },
     {
       "album": {
@@ -7223,6 +7545,24 @@
     },
     {
       "album": {
+        "name": "Meet Me Next Christmas",
+        "url": "https://open.spotify.com/album/2VVfxBR6rxdMOyBPQZAyPx"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163922,
+      "name": "Meet Me Next Christmas",
+      "url": "https://open.spotify.com/track/71c1qn8GR6xhx7pFjWWcks"
+    },
+    {
+      "album": {
         "name": "Meet Me Under the Mistletoe",
         "url": "https://open.spotify.com/album/2EGPFLNRc3M1IJX1q2sqdE"
       },
@@ -7238,6 +7578,24 @@
       "duration_ms": 173293,
       "name": "Meet Me Under the Mistletoe",
       "url": "https://open.spotify.com/track/2P5G4Z0LEaZeuKyAIdoab0"
+    },
+    {
+      "album": {
+        "name": "Mele Kalikimaka",
+        "url": "https://open.spotify.com/album/56uk9UNvOo4u345ARGona0"
+      },
+      "artists": [
+        {
+          "name": "Ax and the Hatchetmen",
+          "url": "https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141383,
+      "name": "Mele Kalikimaka",
+      "url": "https://open.spotify.com/track/52dVLvpHm87AYtUoABEZbl"
     },
     {
       "album": {
@@ -7853,6 +8211,24 @@
     },
     {
       "album": {
+        "name": "Navidad Melanc\u00f3lica",
+        "url": "https://open.spotify.com/album/6hLO1ANHWXJJq7mdSH8CLV"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215717,
+      "name": "Nueva Navidad",
+      "url": "https://open.spotify.com/track/6i8IOIXq4lW180I3lm7wXd"
+    },
+    {
+      "album": {
         "name": "O Come All Ye Faithful",
         "url": "https://open.spotify.com/album/6TdRrPQiLtwEokNNHxiviI"
       },
@@ -7868,6 +8244,28 @@
       "duration_ms": 270531,
       "name": "O Come All Ye Faithful",
       "url": "https://open.spotify.com/track/0Qg6c3We3Ol8zMi7k1E0dD"
+    },
+    {
+      "album": {
+        "name": "O Come, O Come, Emmanuel",
+        "url": "https://open.spotify.com/album/2s8owMRViyWBnztyAUNG2i"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        },
+        {
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315528,
+      "name": "O Come, O Come, Emmanuel",
+      "url": "https://open.spotify.com/track/02EqC5FYolOzRXb3mUiPlM"
     },
     {
       "album": {
@@ -8637,6 +9035,24 @@
     },
     {
       "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/2zPZAQ0uXCGLODxYGQyFqZ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182040,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/45fY77CtQcaLXPSzuDgIV0"
+    },
+    {
+      "album": {
         "name": "Santa Baby",
         "url": "https://open.spotify.com/album/3ZyfuZTFiASHBZG6HTSffI"
       },
@@ -8987,6 +9403,24 @@
     },
     {
       "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/4jpOHryCaRS1N3cyDvmV0e"
+      },
+      "artists": [
+        {
+          "name": "Jessica Vosk",
+          "url": "https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195598,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/6DEK5az4ryRqR4kXCLNwPv"
+    },
+    {
+      "album": {
         "name": "Everyday Is Christmas (Snowman Deluxe Edition)",
         "url": "https://open.spotify.com/album/2gfErXBICi3AIaEPBrideo"
       },
@@ -9237,6 +9671,24 @@
     },
     {
       "album": {
+        "name": "Single Bells",
+        "url": "https://open.spotify.com/album/0VP7tSAR1OMjggz22o75gu"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207798,
+      "name": "Single Bells",
+      "url": "https://open.spotify.com/track/06CjrlHkZsur79YA4yLauG"
+    },
+    {
+      "album": {
         "name": "Single On The 25th",
         "url": "https://open.spotify.com/album/3dQ9PkqMkvgcjvEnKWEL3n"
       },
@@ -9328,6 +9780,24 @@
       "duration_ms": 229950,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/2IwNukSM5QpvnzmLuyKExn"
+    },
+    {
+      "album": {
+        "name": "When Christmas Comes Around\u2026 Again",
+        "url": "https://open.spotify.com/album/2T8kFylYJCnieWBMqZx6jq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130557,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/69k7hEpxYF96lUmkDethQ2"
     },
     {
       "album": {
@@ -9527,6 +9997,36 @@
     },
     {
       "album": {
+        "name": "Snow Is Falling in Manhattan",
+        "url": "https://open.spotify.com/album/5ibu0qbv9nV87yn8Np9qoS"
+      },
+      "artists": [
+        {
+          "name": "Dean & Britta",
+          "url": "https://open.spotify.com/artist/1i8jM74ElAevHmCU1sbNJM"
+        },
+        {
+          "name": "Sonic Boom",
+          "url": "https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI"
+        },
+        {
+          "name": "Dean Wareham",
+          "url": "https://open.spotify.com/artist/7hR1nc352bF29oLx9nAMuj"
+        },
+        {
+          "name": "Britta Phillips",
+          "url": "https://open.spotify.com/artist/0IA38jACu3c1SNAJ7Aeu4t"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337503,
+      "name": "Snow Is Falling in Manhattan",
+      "url": "https://open.spotify.com/track/5nAvTQNqBnpE0NBir3Q0Q5"
+    },
+    {
+      "album": {
         "name": "Snowglobe",
         "url": "https://open.spotify.com/album/6gIKX3AkOW6v7wP9BqmI7s"
       },
@@ -9708,7 +10208,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 200880,
       "name": "Sweet December (feat. Kelly Clarkson)",
       "url": "https://open.spotify.com/track/3WjuBnuW3JHSHtxet4V38x"
@@ -9766,6 +10266,24 @@
       "duration_ms": 156265,
       "name": "Thank You Note",
       "url": "https://open.spotify.com/track/5EHoaIl9RURnb8nhyf26ug"
+    },
+    {
+      "album": {
+        "name": "Snow!",
+        "url": "https://open.spotify.com/album/0a805poEESIyC6G5KjrFDK"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249520,
+      "name": "That's What I Want for Christmas",
+      "url": "https://open.spotify.com/track/1FrlqxhKnDs0zj8IIdWqmx"
     },
     {
       "album": {
@@ -10781,6 +11299,24 @@
     },
     {
       "album": {
+        "name": "Turn Your Light On",
+        "url": "https://open.spotify.com/album/5zGoKC7alFgaanNdx3XF2w"
+      },
+      "artists": [
+        {
+          "name": "The Overtones",
+          "url": "https://open.spotify.com/artist/6dXTZkBBwA1WOLD6OSuA0x"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214803,
+      "name": "Turn Your Light On",
+      "url": "https://open.spotify.com/track/6tDHayK5yVr52PfoLgjTYE"
+    },
+    {
+      "album": {
         "name": "two christmases",
         "url": "https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM"
       },
@@ -11234,7 +11770,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 205560,
       "name": "When I Think Of Christmas",
       "url": "https://open.spotify.com/track/6o2GLLmYIkzbtqxotheeKe"
@@ -11349,6 +11885,28 @@
     },
     {
       "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/639swiJ9q9k6wwqOSgi2w8"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        },
+        {
+          "name": "Liz Gillies",
+          "url": "https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270837,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/7EVeLwnM6KTokvCHEmAQPR"
+    },
+    {
+      "album": {
         "name": "Who's Gonna Hear Their Wish?",
         "url": "https://open.spotify.com/album/0NzKtF2UU3ZKSKVjo2BBIN"
       },
@@ -11385,6 +11943,24 @@
     },
     {
       "album": {
+        "name": "Winter Dream",
+        "url": "https://open.spotify.com/album/6X9LXmmicLDCTWLkZfMJnA"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179386,
+      "name": "Winter Dream",
+      "url": "https://open.spotify.com/track/2b974EnbtM8L5L9cR4daoA"
+    },
+    {
+      "album": {
         "name": "Winter Song",
         "url": "https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE"
       },
@@ -11418,7 +11994,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 243520,
       "name": "WINTER WITHOUT YOU",
       "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
@@ -11954,6 +12530,46 @@
       "duration_ms": 177013,
       "name": "You're a Mean One, Mr. Grinch",
       "url": "https://open.spotify.com/track/6tKBvRO0Whyj5HJGKSbnvU"
+    },
+    {
+      "album": {
+        "name": "Your Angel",
+        "url": "https://open.spotify.com/album/6WJc7BvF7RDjLPWETP1c2V"
+      },
+      "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214445,
+      "name": "Your Angel",
+      "url": "https://open.spotify.com/track/2xsvVZh9rVMVZgHWbtU9On"
+    },
+    {
+      "album": {
+        "name": "Holiday Seasoning",
+        "url": "https://open.spotify.com/album/0bQD8TSiMKDz4F2osO4zPy"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Fallon",
+          "url": "https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201053,
+      "name": "You\u2019ll Be There (with Justin Timberlake)",
+      "url": "https://open.spotify.com/track/2GwlfJ7w8UeicKIxTClmyW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5vMTfJy5XKE"

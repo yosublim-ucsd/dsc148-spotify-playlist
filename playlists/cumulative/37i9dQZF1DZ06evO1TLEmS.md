@@ -4,7 +4,7 @@
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-88 songs - 5 hr 40 min
+89 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Collider Particles](https://open.spotify.com/track/4Rz3t2NUCWEJ5sDnxIx8k6) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:10 | 2024-06-07 | 2024-07-16 |
 | [Coming Back](https://open.spotify.com/track/2B6uTBqOlMpfaa5icFCs6x) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Coming Back](https://open.spotify.com/album/5wsEdLwlrgniybkBkYZqBN) | 2:23 | 2022-09-16 | 2024-01-30 |
 | [Common Language](https://open.spotify.com/track/3rEwolA0qEDonOpKkws7V7) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:26 | 2022-09-16 |  |
-| [Crying In The Night](https://open.spotify.com/track/5fwHOt6PwHtdMIaN318984) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Crying In The Night](https://open.spotify.com/album/3sRsWL6atcSfJ9tWlPsCKt) | 2:35 | 2024-09-20 |  |
-| [Crystal](https://open.spotify.com/track/2H3gBsloNdjGWlnct8GR1d) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Cunningham Bird](https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB) | 4:43 | 2024-10-25 |  |
+| [Crying In The Night](https://open.spotify.com/track/5fwHOt6PwHtdMIaN318984) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Crying In The Night](https://open.spotify.com/album/3sRsWL6atcSfJ9tWlPsCKt) | 2:35 | 2024-09-20 | 2024-11-05 |
+| [Crying In The Night](https://open.spotify.com/track/5wyr3mSfFAzLOZF50jEcqt) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Cunningham Bird](https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB) | 2:36 | 2024-11-05 |  |
+| [Crystal](https://open.spotify.com/track/2H3gBsloNdjGWlnct8GR1d) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Cunningham Bird](https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB) | 4:43 | 2024-10-25 | 2024-11-05 |
 | [Crystal](https://open.spotify.com/track/3lnNfFzSFZc9FR3J4nRAVo) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Crying In The Night](https://open.spotify.com/album/3sRsWL6atcSfJ9tWlPsCKt) | 4:43 | 2024-09-20 | 2024-10-25 |
 | [Death By Suspicion](https://open.spotify.com/track/53yh4A2jqHZBA3QOB4TJyY) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer \(Deluxe Edition\)](https://open.spotify.com/album/3nGF3nGNbvyqlwPHbpGof1) | 4:43 | 2023-05-06 | 2024-10-28 |
 | [Django](https://open.spotify.com/track/7osq2LlUdidMNF7FXDXV8W) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Cunningham Bird](https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB) | 1:12 | 2024-10-20 |  |
@@ -89,7 +90,7 @@
 | [The Gotholympians Featuring Madison Cunningham](https://open.spotify.com/track/4qoZQTcijnMaIbFlIs2YaN) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [We Are Olympians](https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf) | 3:23 | 2022-09-16 |  |
 | [The Moment \- Acoustic](https://open.spotify.com/track/5TL9oxmDIsT0KIFEvAZo5n) | [Eric Slick](https://open.spotify.com/artist/5odtYnxUvkfTC6wmwR53aI), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Rage Unplugged](https://open.spotify.com/album/0uw8iYxkyP0pZJRkwvrr6i) | 3:36 | 2024-10-28 |  |
 | [The Secret Place \- Acoustic](https://open.spotify.com/track/1ZwyRRW5zGjt9gGOwSO5YM) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 4:43 | 2022-09-16 |  |
-| [To Another Land](https://open.spotify.com/track/3uWPZMVDc4uJ7kS6y4PNEr) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Love, Lose, Remember](https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL) | 3:21 | 2022-09-16 | 2024-10-20 |
+| [To Another Land](https://open.spotify.com/track/3uWPZMVDc4uJ7kS6y4PNEr) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Love, Lose, Remember](https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL) | 3:21 | 2022-09-16 |  |
 | [Trouble Found Me](https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:14 | 2022-09-16 |  |
 | [When Love Loves Alone](https://open.spotify.com/track/0123Q9pS0KtXal4ejQd0ju) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Love, Lose, Remember](https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL) | 4:30 | 2022-09-16 | 2024-10-20 |
 | [Who Are You Now](https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:17 | 2022-09-16 |  |

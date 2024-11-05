@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 163846,
+  "num_followers": 163936,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAABeGD4pRUdecRYyXvz/PXLR",
+  "snapshot_id": "Zya9AAAAAADDnsG0HFc+srtEFbEJ/rIm",
   "tracks": [
     {
       "added_at": null,
@@ -631,22 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuerpo y Alma",
-        "url": "https://open.spotify.com/album/3Y5VB4scWDZAqa0CxD3uP9"
+        "name": "PERFECTO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
       },
       "artists": [
-        {
-          "name": "Beatriz Luengo",
-          "url": "https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF"
-        },
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 207733,
-      "name": "Cadillac (feat. Manuel Medrano)",
-      "url": "https://open.spotify.com/track/7oAdQEMMDrPusH5vhoL2fI"
+      "duration_ms": 158980,
+      "name": "Aun Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/7EbcbArbBQD2AhmFBm0XCO"
     },
     {
       "added_at": null,
@@ -667,18 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECTO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
+        "name": "Cuerpo y Alma",
+        "url": "https://open.spotify.com/album/3Y5VB4scWDZAqa0CxD3uP9"
       },
       "artists": [
+        {
+          "name": "Beatriz Luengo",
+          "url": "https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF"
+        },
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 158980,
-      "name": "Aun Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/7EbcbArbBQD2AhmFBm0XCO"
+      "duration_ms": 207733,
+      "name": "Cadillac (feat. Manuel Medrano)",
+      "url": "https://open.spotify.com/track/7oAdQEMMDrPusH5vhoL2fI"
     },
     {
       "added_at": null,

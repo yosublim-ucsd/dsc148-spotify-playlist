@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 127219,
+  "num_followers": 127234,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-10-31 16:00:00",
       "album": {
+        "name": "\u53bb\u5317\u6975\u5fd8\u8a18\u4f60",
+        "url": "https://open.spotify.com/album/14eqbT2btTxs7iSKz4FhYK"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "duration_ms": 251175,
+      "name": "\u53bb\u5317\u6975\u5fd8\u8a18\u4f60",
+      "url": "https://open.spotify.com/track/0qBH1UQxdvqYyZrFQUBFno"
+    },
+    {
+      "added_at": "2024-10-31 16:00:00",
+      "album": {
         "name": "Say You\u2019re Sorry",
         "url": "https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH"
       },
@@ -291,18 +307,18 @@
     {
       "added_at": "2024-10-31 16:00:00",
       "album": {
-        "name": "\u53bb\u5317\u6975\u5fd8\u8a18\u4f60",
-        "url": "https://open.spotify.com/album/14eqbT2btTxs7iSKz4FhYK"
+        "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
+        "url": "https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs"
       },
       "artists": [
         {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
         }
       ],
-      "duration_ms": 251175,
-      "name": "\u53bb\u5317\u6975\u5fd8\u8a18\u4f60",
-      "url": "https://open.spotify.com/track/0qBH1UQxdvqYyZrFQUBFno"
+      "duration_ms": 236020,
+      "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
+      "url": "https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise"
     },
     {
       "added_at": "2024-10-31 16:00:00",
@@ -323,22 +339,6 @@
       "duration_ms": 216450,
       "name": "\u592a\u967d\u96e8",
       "url": "https://open.spotify.com/track/2A0vCSTeOryiLsbuWDwX7G"
-    },
-    {
-      "added_at": "2024-10-31 16:00:00",
-      "album": {
-        "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
-        "url": "https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs"
-      },
-      "artists": [
-        {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
-        }
-      ],
-      "duration_ms": 236020,
-      "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
-      "url": "https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise"
     },
     {
       "added_at": "2024-10-31 16:00:00",
@@ -567,22 +567,18 @@
     {
       "added_at": "2024-10-31 16:00:00",
       "album": {
-        "name": "TIME",
-        "url": "https://open.spotify.com/album/3TSA3QsxyYhFJWx09a3brQ"
+        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
+        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
       },
       "artists": [
         {
-          "name": "DEREK DALI",
-          "url": "https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6"
-        },
-        {
-          "name": "Julia Wu",
-          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
         }
       ],
-      "duration_ms": 203853,
-      "name": "TIME",
-      "url": "https://open.spotify.com/track/03WkNEYCdNfhtU93wocU9g"
+      "duration_ms": 222266,
+      "name": "\u7aca\u7b11",
+      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
     },
     {
       "added_at": "2024-10-31 16:00:00",
@@ -603,18 +599,22 @@
     {
       "added_at": "2024-10-31 16:00:00",
       "album": {
-        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
-        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/3TSA3QsxyYhFJWx09a3brQ"
       },
       "artists": [
         {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+          "name": "DEREK DALI",
+          "url": "https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6"
+        },
+        {
+          "name": "Julia Wu",
+          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
         }
       ],
-      "duration_ms": 222266,
-      "name": "\u7aca\u7b11",
-      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
+      "duration_ms": 203853,
+      "name": "TIME",
+      "url": "https://open.spotify.com/track/03WkNEYCdNfhtU93wocU9g"
     },
     {
       "added_at": "2024-10-31 16:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-10-31 16:00:00",
       "album": {
+        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
+        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
+      },
+      "artists": [
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "duration_ms": 310933,
+      "name": "\u966a\u8457\u4f60",
+      "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
+    },
+    {
+      "added_at": "2024-10-31 16:00:00",
+      "album": {
         "name": "\u539f\u4f86\u6211\u5f88\u611b\u4f60 (\u96fb\u8996\u5287\u300a\u539f\u4f86\u6211\u5f88\u611b\u4f60\u300b\u540c\u540d\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/7jpgg7xGcOBE9bYJBw8CGq"
       },
@@ -731,6 +747,22 @@
     {
       "added_at": "2024-10-31 16:00:00",
       "album": {
+        "name": "\u5225\u96e2\u958b\u597d\u55ce (\u300a\u7b2c9\u7bc0\u8ab2\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/2BIxoEhZZJ5TN0BqRpIKfe"
+      },
+      "artists": [
+        {
+          "name": "HAOR",
+          "url": "https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx"
+        }
+      ],
+      "duration_ms": 247124,
+      "name": "\u5225\u96e2\u958b\u597d\u55ce (\u300a\u7b2c9\u7bc0\u8ab2\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/3gsBzDDsdCEGSGNjbs5NL8"
+    },
+    {
+      "added_at": "2024-10-31 16:00:00",
+      "album": {
         "name": "CHIN UP!",
         "url": "https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3"
       },
@@ -743,22 +775,6 @@
       "duration_ms": 189500,
       "name": "\u7a7a\u57ce\u8a18",
       "url": "https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F"
-    },
-    {
-      "added_at": "2024-10-31 16:00:00",
-      "album": {
-        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
-        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
-      },
-      "artists": [
-        {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
-        }
-      ],
-      "duration_ms": 310933,
-      "name": "\u966a\u8457\u4f60",
-      "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
     },
     {
       "added_at": "2024-10-31 16:00:00",
@@ -795,22 +811,6 @@
       "duration_ms": 192463,
       "name": "\u9670\u6697\u9762",
       "url": "https://open.spotify.com/track/1Vys2tZ88SvPb3dQoBPDz7"
-    },
-    {
-      "added_at": "2024-10-31 16:00:00",
-      "album": {
-        "name": "\u5225\u96e2\u958b\u597d\u55ce (\u300a\u7b2c9\u7bc0\u8ab2\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/2BIxoEhZZJ5TN0BqRpIKfe"
-      },
-      "artists": [
-        {
-          "name": "HAOR",
-          "url": "https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx"
-        }
-      ],
-      "duration_ms": 247124,
-      "name": "\u5225\u96e2\u958b\u597d\u55ce (\u300a\u7b2c9\u7bc0\u8ab2\u300b\u63d2\u66f2)",
-      "url": "https://open.spotify.com/track/3gsBzDDsdCEGSGNjbs5NL8"
     },
     {
       "added_at": "2024-10-31 16:00:00",

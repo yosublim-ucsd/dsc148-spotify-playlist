@@ -4,7 +4,7 @@
 
 > Temas inolvidables del baúl de los recuerdos.
 
-389 songs - 1 day 0 hr 34 min
+390 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [La Ladrona](https://open.spotify.com/track/2t8DM8Gdp9z50upcaY2IXl) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Estoy Vivo \(Remasterizado\)](https://open.spotify.com/album/04Wj2hxRNKcYSLodz3HwOS) | 3:04 | 2022-01-01 | 2022-07-29 |
 | [La Ladrona \- Remasterizado 2009](https://open.spotify.com/track/2OY00BdjZx4wVLoAsFaked) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Estoy Vivo \(Remasterizado 2009\)](https://open.spotify.com/album/63jSs8SeOPVqC2264XaCbm) | 3:04 | 2022-06-02 | 2024-04-19 |
 | [La Loca](https://open.spotify.com/track/6vYv81m3L5GZZrC5ZVJiMR) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [La Más Completa Colección](https://open.spotify.com/album/1MOIyZUD4Tm5YaYZxuPz8a) | 3:57 | 2022-01-01 | 2024-09-23 |
-| [La Malagueña](https://open.spotify.com/track/5QXVH3XAyJnfVu6CxTFqvj) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Serie De Oro](https://open.spotify.com/album/5NvUMQzUcZi9DIBSvgWkDG) | 3:59 | 2022-01-01 |  |
+| [La Malagueña](https://open.spotify.com/track/5QXVH3XAyJnfVu6CxTFqvj) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Serie De Oro](https://open.spotify.com/album/5NvUMQzUcZi9DIBSvgWkDG) | 3:59 | 2022-01-01 | 2024-11-05 |
 | [La Maza](https://open.spotify.com/track/2a1x7Ln27cNtsgtL26mdwi) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Cuba Classics 1: Silvio Rodriguez](https://open.spotify.com/album/1sAt8XDVQbndid4MxNgTJD) | 5:51 | 2022-08-31 |  |
 | [La Media Vuelta](https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 2:41 | 2022-01-01 |  |
 | [La Nave del Olvido](https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [La Nave del Olvido](https://open.spotify.com/album/1BDHXHGmDMUVEWeqZlBLfQ) | 3:35 | 2024-05-06 |  |
@@ -276,6 +276,7 @@
 | [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 | 2024-05-06 |  |
 | [Palabra De Honor](https://open.spotify.com/track/3WY8ecMJJjdepU2k2NoFv1) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 3:38 | 2023-01-12 | 2024-04-19 |
 | [Palabra De Honor](https://open.spotify.com/track/4TQ90ljASOU0gnF8T3QKIb) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [La Miel De Mis Primeros Éxitos](https://open.spotify.com/album/2oHF59HQoCwm67wXS4OzPK) | 3:38 | 2022-01-01 | 2022-07-29 |
+| [Paloma negra](https://open.spotify.com/track/2ib9PWWqtNyw9rff0qcm5G) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2eoBGUFrJZobGxGpwZ7dAp) | 3:15 | 2024-06-04 |  |
 | [Para Amarnos Más](https://open.spotify.com/track/55JKv6bv8vFE1X1rG4f0g9) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Antología](https://open.spotify.com/album/5t6y82L4VR3GpAqPV6HWWx) | 3:28 | 2022-01-01 |  |
 | [Payaso \- Versión Trío](https://open.spotify.com/track/3WWz7mnDeGi1J71Cgml7qU) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Exitos Con Trio](https://open.spotify.com/album/1BiLtcjrB3K5nJOaJ8gmaD) | 3:15 | 2022-08-31 | 2022-11-13 |
 | [Perdóname](https://open.spotify.com/track/3gO8mvkxIcyF9N7Vd1WM2i) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo Superstar](https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS) | 3:52 | 2022-01-01 |  |

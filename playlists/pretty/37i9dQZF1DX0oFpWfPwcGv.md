@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,594 likes - 75 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,627 likes - 75 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 32 | [Dance \(Disco Heat\)](https://open.spotify.com/track/0z7k9lTYzdTjuT7KmtOr2q) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Step II](https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo) | 5:55 |
 | 33 | [Instant Replay](https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Instant Replay \(Expanded Edition\)](https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa) | 5:20 |
 | 34 | [Saturday Night, Sunday Morning](https://open.spotify.com/track/5cJcdWSynjh80IAEiiYd6j) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Ready To Roll](https://open.spotify.com/album/6dPoNt2149PjWJxQBssKr9) | 3:55 |
-| 35 | [Keep On Jumpin'](https://open.spotify.com/track/6J9rBgsm9USju9PkLf2exF) | [Musique](https://open.spotify.com/artist/5JO0fCMUiEJtUQjyOXyaCl) | [Keep On Jumpin'](https://open.spotify.com/album/5gQh0forPeR556hKjhEdXW) | 5:39 |
-| 36 | [Stand on the Word \- Studio Version](https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR) | [The Joubert Singers](https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9) | [Stand on the Word](https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M) | 5:03 |
+| 35 | [Stand on the Word \- Studio Version](https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR) | [The Joubert Singers](https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9) | [Stand on the Word](https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M) | 5:03 |
+| 36 | [Keep On Jumpin'](https://open.spotify.com/track/6J9rBgsm9USju9PkLf2exF) | [Musique](https://open.spotify.com/artist/5JO0fCMUiEJtUQjyOXyaCl) | [Keep On Jumpin'](https://open.spotify.com/album/5gQh0forPeR556hKjhEdXW) | 5:39 |
 | 37 | [Love Is the Message \(feat\. The Three Degrees\) \- Love Groove Bonus](https://open.spotify.com/track/3rwrt4Ks6N6EWIfjfIfLAP) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Deep Grooves](https://open.spotify.com/album/4YmLFWoRJ18TSlw7ROIPIf) | 5:13 |
 | 38 | [I'm Caught up \(In a One Night Love Affair\) \- 12” Edit](https://open.spotify.com/track/5XaBOlOPKJGnq3XFiS5ZHH) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [I'm Caught Up \(In a One Night Love Affair\)](https://open.spotify.com/album/60o5ZuM7b03ENGBfED56RG) | 7:26 |
 | 39 | [Saturday](https://open.spotify.com/track/59n20ABic3nU1hqy2tDauE) | [Norma Jean Wright](https://open.spotify.com/artist/2Tq4xKjGkoZyAzdklz74oM) | [Norma Jean](https://open.spotify.com/album/7Bo2lPXUL79QoKPzbFT1TZ) | 6:06 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 49 | [In The Navy \- Single Version](https://open.spotify.com/track/3qUfFs8rW6FukRFnfRctTq) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Go West](https://open.spotify.com/album/0nEUsJwm1yIl9IyC5z8oJb) | 5:40 |
 | 50 | [Love Is in Control \(Finger on the Trigger\) \[2014 Remaster\]](https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Donna Summer \(Re\-Mastered & Expanded\)](https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z) | 4:22 |
 | 51 | [Found a Cure \- 12" Disco Mix](https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi) | [Hits, Remixes and Rarities: The Warner Brothers Years](https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY) | 7:03 |
-| 52 | [Shame \- 12" Disco Mix](https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [The Essential Evelyn "Champagne" King](https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI) | 6:31 |
-| 53 | [Was That All It Was \- 12" Version](https://open.spotify.com/track/1WHY9kgaOaJdv0hjiiw4pk) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [The Essential Jean Carn \- The PIR Years](https://open.spotify.com/album/0yVvx6X4drgYTeWfAK8xdN) | 6:29 |
+| 52 | [Was That All It Was \- 12" Version](https://open.spotify.com/track/1WHY9kgaOaJdv0hjiiw4pk) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [The Essential Jean Carn \- The PIR Years](https://open.spotify.com/album/0yVvx6X4drgYTeWfAK8xdN) | 6:29 |
+| 53 | [Shame \- 12" Disco Mix](https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [The Essential Evelyn "Champagne" King](https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI) | 6:31 |
 | 54 | [This Time Baby \- Special 12" Version](https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI) | [Jackie Moore](https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w) | [Club Columbia](https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI) | 7:13 |
 | 55 | [Put Your Body In It](https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Gold](https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5) | 4:04 |
 | 56 | [Lady America](https://open.spotify.com/track/5kEbQwj3CHP9Bqn5gejdmd) | [Voyage](https://open.spotify.com/artist/0LmhgMzqvIdR5ZPF1imPL6) | [Twelve Inch Classics from the 70s, Vol\. 2](https://open.spotify.com/album/0G6pHS6CdJEUAPzE4RmkMa) | 6:47 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 72 | [It's a Better Than Good Time](https://open.spotify.com/track/0htlkpMiT2nAUwpBxo64LL) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0) | [The Way We Were: The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE) | 5:46 |
 | 73 | [He's My Man \- Extended Version](https://open.spotify.com/track/5niTFUJECbNZ0I2iLpot75) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Let Yourself Go: The ’70s Albums, Vol\. 2: 1974\-1977 \(The Final Sessions\)](https://open.spotify.com/album/7dY1xL0GNNxj2Qu6mePWvG) | 4:57 |
 | 74 | [Possessed \(Extended Verison\)](https://open.spotify.com/track/5giBASxVW4R1BFzGtWNEun) | [Doris Jones](https://open.spotify.com/artist/1YzlD6Cogo9fLRtzyMIdRc) | [The Best of Doris Jones "No Way Out"](https://open.spotify.com/album/1zEOxgQDjnzXNVuXO2IlXh) | 6:59 |
-| 75 | [Only You](https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K) | 6:21 |
+| 75 | [I'm So Glad That I'm a Woman](https://open.spotify.com/track/3GUvckJgUl90ATgDkfbJn7) | [Love Unlimited](https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa) | [Love is Back](https://open.spotify.com/album/7cfrgUXpftlEhRNukBA3iR) | 4:01 |
 
 Snapshot ID: `Ztx5GQAAAACU2PY/cJXuRTSL5yP4gyu7`

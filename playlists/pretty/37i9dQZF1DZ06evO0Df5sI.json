@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 21022,
+  "num_followers": 21030,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAABPvJbVLSztcDPHbaQUAF1F",
+  "snapshot_id": "Zya9AAAAAAAHB2lhysN/RLJHVLbW2/o0",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sacrifice / At Sickness",
-        "url": "https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL"
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 208400,
-      "name": "The Sacrifice",
-      "url": "https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut"
+      "duration_ms": 229666,
+      "name": "Hell Yes",
+      "url": "https://open.spotify.com/track/16dxfNNlbUJnKQdt6uRt8l"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remains",
-        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
+        "name": "The Sacrifice / At Sickness",
+        "url": "https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL"
       },
       "artists": [
         {
@@ -276,25 +276,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 229666,
-      "name": "Hell Yes",
-      "url": "https://open.spotify.com/track/16dxfNNlbUJnKQdt6uRt8l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From Here to Infirmary",
-        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "Take Lots with Alcohol",
-      "url": "https://open.spotify.com/track/415ZhkOYcKRuV6SbRmGTnS"
+      "duration_ms": 208400,
+      "name": "The Sacrifice",
+      "url": "https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut"
     },
     {
       "added_at": null,
@@ -311,6 +295,22 @@
       "duration_ms": 168773,
       "name": "She Lied To The FBI",
       "url": "https://open.spotify.com/track/3rQWKxOJtn2EXr6j3KfHdO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 193826,
+      "name": "Take Lots with Alcohol",
+      "url": "https://open.spotify.com/track/415ZhkOYcKRuV6SbRmGTnS"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sacrifice / At Sickness",
-        "url": "https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL"
+        "name": "The Alkaline Trio",
+        "url": "https://open.spotify.com/album/0H1aJgfXxsVNzfpAlKGhtH"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 233680,
-      "name": "At Sickness",
-      "url": "https://open.spotify.com/track/2i5EFz6afRqGBDNtQOolEH"
+      "duration_ms": 134880,
+      "name": "My Friend Peter",
+      "url": "https://open.spotify.com/track/7s5Q2uZ3NcolrQnyCZx0zX"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Alkaline Trio",
-        "url": "https://open.spotify.com/album/0H1aJgfXxsVNzfpAlKGhtH"
+        "name": "The Sacrifice / At Sickness",
+        "url": "https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 134880,
-      "name": "My Friend Peter",
-      "url": "https://open.spotify.com/track/7s5Q2uZ3NcolrQnyCZx0zX"
+      "duration_ms": 233680,
+      "name": "At Sickness",
+      "url": "https://open.spotify.com/track/2i5EFz6afRqGBDNtQOolEH"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goddamnit!",
-        "url": "https://open.spotify.com/album/6600hazblXXS27uIdcPLBs"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 143893,
-      "name": "Cringe",
-      "url": "https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 237813,
       "name": "Queen Of Pain",
       "url": "https://open.spotify.com/track/38F8SEbblEVwEm8HByJ0yE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goddamnit!",
+        "url": "https://open.spotify.com/album/6600hazblXXS27uIdcPLBs"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 143893,
+      "name": "Cringe",
+      "url": "https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ"
     },
     {
       "added_at": null,

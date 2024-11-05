@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Sailing",
+        "url": "https://open.spotify.com/album/1hzne4NVJBLxSD78Flnzww"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186586,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/0Tjfd3zPoTpPo7FwR21DC2"
+    },
+    {
+      "album": {
         "name": "Set Sail",
         "url": "https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4"
       },

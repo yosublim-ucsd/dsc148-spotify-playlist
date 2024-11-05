@@ -552,7 +552,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 142600,
       "name": "Elini Ver",
       "url": "https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR"
@@ -650,6 +650,24 @@
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "album": {
+        "name": "GELME \u0130STEMEM",
+        "url": "https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186562,
+      "name": "GELME \u0130STEMEM",
+      "url": "https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X"
     },
     {
       "album": {
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 95540,
       "name": "SAGOLUYORUM (BIG TERORISTA)",
       "url": "https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw"
@@ -1206,6 +1224,28 @@
       "duration_ms": 211682,
       "name": "Sana El Pen\u00e7e Durmam",
       "url": "https://open.spotify.com/track/1cnx5g8kHElNAf28sV3mRJ"
+    },
+    {
+      "album": {
+        "name": "Sana G\u00fcvenmiyorum (Dedub Sessions)",
+        "url": "https://open.spotify.com/album/5ZcHiC8fUSjtOSDw0JaJGv"
+      },
+      "artists": [
+        {
+          "name": "Dedubl\u00fcman",
+          "url": "https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT"
+        },
+        {
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204833,
+      "name": "Sana G\u00fcvenmiyorum - Dedub Sessions",
+      "url": "https://open.spotify.com/track/1lNcnIU4jtqD69Qtfjh8EJ"
     },
     {
       "album": {

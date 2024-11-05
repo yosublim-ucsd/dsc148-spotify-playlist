@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Estevie.",
-  "num_followers": 752184,
+  "num_followers": 752175,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "God Said No",
+        "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 158093,
+      "name": "Done With You",
+      "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Amor \u2260 Cristal",
         "url": "https://open.spotify.com/album/7lajp8RcKFyjmTnXfZAROL"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 172888,
       "name": "Amor \u2260 Cristal",
       "url": "https://open.spotify.com/track/4BXJuBVdD6xoX9oD2hrUuU"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "God Said No",
-        "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 158093,
-      "name": "Done With You",
-      "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -727,26 +727,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "LA CLASSE",
-        "url": "https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT"
+        "name": "OBSSD",
+        "url": "https://open.spotify.com/album/7ETC5oDSRHVCv2A0RgYxqy"
       },
       "artists": [
         {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
-        },
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        },
-        {
-          "name": "TRUFFY",
-          "url": "https://open.spotify.com/artist/3LUAXWV3NdHriaR1yDwRsc"
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
         }
       ],
-      "duration_ms": 182400,
-      "name": "TU FAN",
-      "url": "https://open.spotify.com/track/1jHC95Vb9VOV1BwrwSC6Fc"
+      "duration_ms": 160398,
+      "name": "OBSSD",
+      "url": "https://open.spotify.com/track/0n8WzMs4jHCsy9HliyePmg"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -771,18 +763,26 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "OBSSD",
-        "url": "https://open.spotify.com/album/7ETC5oDSRHVCv2A0RgYxqy"
+        "name": "LA CLASSE",
+        "url": "https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT"
       },
       "artists": [
         {
-          "name": "day2k",
-          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "TRUFFY",
+          "url": "https://open.spotify.com/artist/3LUAXWV3NdHriaR1yDwRsc"
         }
       ],
-      "duration_ms": 160398,
-      "name": "OBSSD",
-      "url": "https://open.spotify.com/track/0n8WzMs4jHCsy9HliyePmg"
+      "duration_ms": 182400,
+      "name": "TU FAN",
+      "url": "https://open.spotify.com/track/1jHC95Vb9VOV1BwrwSC6Fc"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Fue un adi\u00f3s",
-        "url": "https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Fue un adi\u00f3s",
-      "url": "https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Tambi\u00e9n de dolor se canta",
         "url": "https://open.spotify.com/album/3Sdg3x71MeUlOVRbBz4Hdl"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 208057,
       "name": "Tambi\u00e9n de dolor se canta",
       "url": "https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Fue un adi\u00f3s",
+        "url": "https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Fue un adi\u00f3s",
+      "url": "https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "la emoci\u00f3n",
-        "url": "https://open.spotify.com/album/3w7IrS4d416CR2xUw2WB5N"
-      },
-      "artists": [
-        {
-          "name": "riela",
-          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
-        }
-      ],
-      "duration_ms": 193097,
-      "name": "la emoci\u00f3n",
-      "url": "https://open.spotify.com/track/12bAZeBar4BQC2FNL9H9XA"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "cielo dorado",
         "url": "https://open.spotify.com/album/2gBXxUuHufZAhud4hD4wnX"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 177386,
       "name": "cielo dorado",
       "url": "https://open.spotify.com/track/0ZkB37rQ8hYoSnDobrVyGo"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "la emoci\u00f3n",
+        "url": "https://open.spotify.com/album/3w7IrS4d416CR2xUw2WB5N"
+      },
+      "artists": [
+        {
+          "name": "riela",
+          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
+        }
+      ],
+      "duration_ms": 193097,
+      "name": "la emoci\u00f3n",
+      "url": "https://open.spotify.com/track/12bAZeBar4BQC2FNL9H9XA"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Nadie Sabe",
-        "url": "https://open.spotify.com/album/3IoYLb8LhxNQj5fczxJx1w"
-      },
-      "artists": [
-        {
-          "name": "Ciutat",
-          "url": "https://open.spotify.com/artist/6mopaAcodk04EGM8lJ2AnW"
-        },
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Nadie Sabe",
-      "url": "https://open.spotify.com/track/07Zg8kkvdzJDhWZYpqgZAE"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "La Piscina",
         "url": "https://open.spotify.com/album/5ZBRBlDRRBY29BDtP6pzuD"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 203389,
       "name": "La Piscina",
       "url": "https://open.spotify.com/track/62T4aq95ad7tN8iKe2gyE6"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Nadie Sabe",
+        "url": "https://open.spotify.com/album/3IoYLb8LhxNQj5fczxJx1w"
+      },
+      "artists": [
+        {
+          "name": "Ciutat",
+          "url": "https://open.spotify.com/artist/6mopaAcodk04EGM8lJ2AnW"
+        },
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "Nadie Sabe",
+      "url": "https://open.spotify.com/track/07Zg8kkvdzJDhWZYpqgZAE"
     },
     {
       "added_at": "2024-10-25 04:00:00",

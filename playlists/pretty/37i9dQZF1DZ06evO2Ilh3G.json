@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 115978,
+  "num_followers": 115981,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAADEKtQHJLxOl446zef5pmF2",
+  "snapshot_id": "Zya9AAAAAABBEhtTUhxA3VvDsUkYPpWf",
   "tracks": [
     {
       "added_at": null,
@@ -779,22 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOOD POET",
-        "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
+        "name": "Baby On Baby",
+        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
       },
       "artists": [
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         },
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 166057,
-      "name": "G63 (feat. Offset)",
-      "url": "https://open.spotify.com/track/1UKHUCM5fo8nUCWGZ5Cb7F"
+      "duration_ms": 157693,
+      "name": "Baby Sitter (feat. Offset)",
+      "url": "https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk"
     },
     {
       "added_at": null,
@@ -819,42 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby On Baby",
-        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
+        "name": "HOOD POET",
+        "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         },
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 157693,
-      "name": "Baby Sitter (feat. Offset)",
-      "url": "https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Droptopwop",
-        "url": "https://open.spotify.com/album/0smWYh2nQsaZNonBGZpZMn"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Met Gala (feat. Offset)",
-      "url": "https://open.spotify.com/track/2XaInsPPUkZRkY4uFJ3AHK"
+      "duration_ms": 166057,
+      "name": "G63 (feat. Offset)",
+      "url": "https://open.spotify.com/track/1UKHUCM5fo8nUCWGZ5Cb7F"
     },
     {
       "added_at": null,
@@ -883,6 +863,26 @@
       "duration_ms": 315973,
       "name": "Guwop (feat. Quavo, Offset and Young Scooter)",
       "url": "https://open.spotify.com/track/1BSA5I386L2IAmFQURYjIz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Droptopwop",
+        "url": "https://open.spotify.com/album/0smWYh2nQsaZNonBGZpZMn"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Met Gala (feat. Offset)",
+      "url": "https://open.spotify.com/track/2XaInsPPUkZRkY4uFJ3AHK"
     },
     {
       "added_at": null,
@@ -999,26 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Risk Taker",
-        "url": "https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 223189,
-      "name": "Risk Taker",
-      "url": "https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EXIT 9 (with Blxst and Offset)",
         "url": "https://open.spotify.com/album/3DAkWjDTQOieiModXxLIUl"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 210229,
       "name": "EXIT 9 - with Blxst and Offset",
       "url": "https://open.spotify.com/track/542Yp18797lywr3zZTG2sC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Risk Taker",
+        "url": "https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 223189,
+      "name": "Risk Taker",
+      "url": "https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u"
     },
     {
       "added_at": null,

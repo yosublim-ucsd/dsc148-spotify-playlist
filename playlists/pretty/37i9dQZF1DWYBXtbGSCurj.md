@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Niink
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,849 likes - 85 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,827 likes - 85 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

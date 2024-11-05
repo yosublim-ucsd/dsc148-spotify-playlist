@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 91788,
+  "num_followers": 91818,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAACjTk2MG2YQwUjbz4b85ePT",
+  "snapshot_id": "Zya9AAAAAACCdy0lmouPyDbP5CWFr9j2",
   "tracks": [
     {
       "added_at": null,
@@ -571,18 +571,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPEAK NOW OR...",
-        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
       },
       "artists": [
         {
           "name": "Moneybagg Yo",
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
         }
       ],
-      "duration_ms": 158482,
-      "name": "SUM TO HATE ON",
-      "url": "https://open.spotify.com/track/01kWYHc8Y9Aw3byAlTjunA"
+      "duration_ms": 157480,
+      "name": "SRT (feat. BIG30 & Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/0VohK45FIUHEMBbfUw8iBM"
     },
     {
       "added_at": null,
@@ -607,26 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Code Red",
-        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
+        "name": "SPEAK NOW OR...",
+        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
       },
       "artists": [
         {
           "name": "Moneybagg Yo",
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "BIG30",
-          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
         }
       ],
-      "duration_ms": 157480,
-      "name": "SRT (feat. BIG30 & Pooh Shiesty)",
-      "url": "https://open.spotify.com/track/0VohK45FIUHEMBbfUw8iBM"
+      "duration_ms": 158482,
+      "name": "SUM TO HATE ON",
+      "url": "https://open.spotify.com/track/01kWYHc8Y9Aw3byAlTjunA"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 220884,
+  "num_followers": 220940,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Siempre Estoy Pensando En Ti",
-      "url": "https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 196973,
       "name": "Eso Duele",
       "url": "https://open.spotify.com/track/4r1UX2U2tHi639B4TwE5Vb"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Siempre Estoy Pensando En Ti",
+      "url": "https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 195293,
-      "name": "Soy Un Novato",
-      "url": "https://open.spotify.com/track/5akdgRJMR9kwrrpOY2KUHg"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "Mis Mejores Canciones: 17 Super Exitos",
         "url": "https://open.spotify.com/album/6GW6cczPmDKNBf7zE9vu95"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 184066,
       "name": "Como La Flor",
       "url": "https://open.spotify.com/track/1W35GFblfAKr7TpHPXfSjk"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 195293,
+      "name": "Soy Un Novato",
+      "url": "https://open.spotify.com/track/5akdgRJMR9kwrrpOY2KUHg"
     },
     {
       "added_at": "2024-05-02 04:14:20",

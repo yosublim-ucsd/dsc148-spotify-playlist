@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-09-07",
-  "description": "<JORJA SMITH LIVE IN SEOUL - FALLING OR FLYING TOUR> 2024\ub144 10\uc6d4 25\uc77c(\uae08) \uc624\ud6c4 8\uc2dc @YES 24 \ub77c\uc774\ube0c \ud640(\uc11c\uc6b8)",
-  "name": "On Tour Korea: Jorja Smith",
+  "description": "<d4vd - My House Is Not A Home Tour> 2024\ub144 11\uc6d4 7\uc77c(\ubaa9) \uc624\ud6c4 8\uc2dc @YES 24 \ub77c\uc774\ube0c \ud640(\uc11c\uc6b8)",
+  "name": "On Tour Korea: d4vd",
   "tracks": [
+    {
+      "album": {
+        "name": "Withering",
+        "url": "https://open.spotify.com/album/1EX0HxNyID0uOOiKeYF9wG"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138029,
+      "name": "2016",
+      "url": "https://open.spotify.com/track/2T9G81i8JSiPUyP8H4ZVqn"
+    },
     {
       "album": {
         "name": "Hybrid Theory (Bonus Edition)",
@@ -34,10 +52,28 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 204174,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/778x5bolqJeICcrtSBNrko"
+    },
+    {
+      "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250492,
+      "name": "Backstreet Girl",
+      "url": "https://open.spotify.com/track/5XztHXAVuubYi0GgqGGgF5"
     },
     {
       "album": {
@@ -56,7 +92,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 207030,
       "name": "Be Honest (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd"
@@ -110,7 +146,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 250454,
       "name": "Blue Lights",
       "url": "https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn"
@@ -146,7 +182,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 214047,
       "name": "Burn",
       "url": "https://open.spotify.com/track/099qKQ9zvTWcMDsNsasKpI"
@@ -186,7 +222,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 282329,
       "name": "Carry Me Home",
       "url": "https://open.spotify.com/track/6fracv4du3sDwo1XKcPrkw"
@@ -226,7 +262,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 145652,
       "name": "Come Over (Remix)",
       "url": "https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj"
@@ -269,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149324,
+      "name": "Don't Forget About Me",
+      "url": "https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS"
+    },
+    {
+      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
       },
@@ -280,7 +334,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 190429,
       "name": "Don't Watch Me Cry",
       "url": "https://open.spotify.com/track/202lm9YX5WmAac83tOGlVn"
@@ -354,10 +408,28 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 204920,
       "name": "Falling or flying",
       "url": "https://open.spotify.com/track/4CNZbr3dSioXNk5bJE46XQ"
+    },
+    {
+      "album": {
+        "name": "Feel It (From The Original Series \u201cInvincible\u201d)",
+        "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157974,
+      "name": "Feel It - From The Original Series \u201cInvincible\u201d",
+      "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
     },
     {
       "album": {
@@ -376,7 +448,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 237852,
       "name": "Feelings (feat. J Hus)",
       "url": "https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW"
@@ -438,7 +510,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 250337,
       "name": "Get It Together",
       "url": "https://open.spotify.com/track/7y6c07pgjZvtHI9kuMVqk1"
@@ -478,7 +550,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 192800,
       "name": "Greatest Gift (feat. Lila Ik\u00e9)",
       "url": "https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex"
@@ -518,10 +590,28 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 195073,
       "name": "Gum Body (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/6RvYoPlvBr8aevCvzjRpoa"
+    },
+    {
+      "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
     },
     {
       "album": {
@@ -554,10 +644,28 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 196975,
       "name": "High",
       "url": "https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut"
+    },
+    {
+      "album": {
+        "name": "The Lost Petals",
+        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166631,
+      "name": "Hollow Prayers",
+      "url": "https://open.spotify.com/track/08uumZhgj0kq2AbQUoONHm"
     },
     {
       "album": {
@@ -572,7 +680,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 166424,
       "name": "Home",
       "url": "https://open.spotify.com/track/0F2sfIqC4Csaiow6WBbAbC"
@@ -590,7 +698,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 208760,
       "name": "I Am",
       "url": "https://open.spotify.com/track/0DJBgBiYeSn6n1AXAkFVE8"
@@ -620,6 +728,28 @@
       "duration_ms": 175639,
       "name": "I Won",
       "url": "https://open.spotify.com/track/1viUV5EGlKGCiSveBfFeQg"
+    },
+    {
+      "album": {
+        "name": "I'd Rather Pretend (with d4vd)",
+        "url": "https://open.spotify.com/album/4CDZFVWG65WF44WIMNFw2g"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        },
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184560,
+      "name": "I'd Rather Pretend (with d4vd)",
+      "url": "https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9"
     },
     {
       "album": {
@@ -660,7 +790,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 229999,
       "name": "In The Night (feat. Jorja Smith & Amaarae)",
       "url": "https://open.spotify.com/track/11bJ1ws3dathgY9uzADUhL"
@@ -778,10 +908,28 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 126009,
       "name": "Lately Remix (feat. Craig David)",
       "url": "https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3"
+    },
+    {
+      "album": {
+        "name": "Withering",
+        "url": "https://open.spotify.com/album/1EX0HxNyID0uOOiKeYF9wG"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164483,
+      "name": "Leave Her",
+      "url": "https://open.spotify.com/track/4AbYZMzeVqGE8Ys4wbI0PT"
     },
     {
       "album": {
@@ -832,7 +980,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 204600,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
@@ -850,7 +998,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 131000,
       "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
       "url": "https://open.spotify.com/track/0tzf4GIxIsaup7mu98VRXb"
@@ -868,7 +1016,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 131000,
       "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
       "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
@@ -890,7 +1038,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 256198,
       "name": "Loose Ends",
       "url": "https://open.spotify.com/track/6dEe0H4vjEyy2ukczkB25o"
@@ -1009,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "My House Is Not A Home",
+        "url": "https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239181,
+      "name": "My House Is Not A Home",
+      "url": "https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q"
+    },
+    {
+      "album": {
         "name": "NEW DNA",
         "url": "https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj"
       },
@@ -1060,7 +1226,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 213214,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
@@ -1100,10 +1266,28 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 181509,
       "name": "On My Mind (Jorja Smith X Preditah)",
       "url": "https://open.spotify.com/track/1OxL1FWSEd7QmJoWLRP2NO"
+    },
+    {
+      "album": {
+        "name": "The Lost Petals",
+        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121695,
+      "name": "Once More",
+      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
     },
     {
       "album": {
@@ -1158,10 +1342,46 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 206075,
       "name": "Peng Black Girls Remix - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7L15RIYFpoiHKJQNHsYhWM"
+    },
+    {
+      "album": {
+        "name": "Placebo Effect",
+        "url": "https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191493,
+      "name": "Placebo Effect",
+      "url": "https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y"
+    },
+    {
+      "album": {
+        "name": "The Lost Petals",
+        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240841,
+      "name": "Poetic Vulgarity",
+      "url": "https://open.spotify.com/track/0cVCSfdI0gl2jJopZPKCaO"
     },
     {
       "album": {
@@ -1201,6 +1421,42 @@
     },
     {
       "album": {
+        "name": "The Lost Petals",
+        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251941,
+      "name": "Rehab",
+      "url": "https://open.spotify.com/track/3b1WgrrZodxXASonmXLqTS"
+    },
+    {
+      "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/0SCLsDJtC7DmOwks1tsszt"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -1237,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175875,
+      "name": "Sleep Well",
+      "url": "https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE"
+    },
+    {
+      "album": {
         "name": "Slow Down (feat. Jorja Smith) [Vintage Culture & Slow Motion Remix]",
         "url": "https://open.spotify.com/album/3AvjrWwSEgfZs0Ic7Srt8b"
       },
@@ -1260,7 +1534,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 181306,
       "name": "Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix",
       "url": "https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX"
@@ -1362,7 +1636,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 226906,
       "name": "Teenage Fantasy",
       "url": "https://open.spotify.com/track/0fIFjeeLJjIBliWUCsxyMF"
@@ -1384,6 +1658,24 @@
       "duration_ms": 171240,
       "name": "TGIF",
       "url": "https://open.spotify.com/track/1yA3dhcyPsVY5rDJ9V8cOD"
+    },
+    {
+      "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181938,
+      "name": "The Bridge",
+      "url": "https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD"
     },
     {
       "album": {
@@ -1434,10 +1726,50 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 197574,
       "name": "The One",
       "url": "https://open.spotify.com/track/1Ahp4PZ1vzdbzBCedUrsqI"
+    },
+    {
+      "album": {
+        "name": "There Goes My Baby",
+        "url": "https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "There Goes My Baby",
+      "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"
+    },
+    {
+      "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284305,
+      "name": "This Is How It Feels (with Laufey)",
+      "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"
     },
     {
       "album": {
@@ -1504,7 +1836,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 213933,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/0pvp14nDtb1DnEgRrmcBpY"
@@ -1526,7 +1858,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 204289,
       "name": "Tyrant (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/4FZOSDwALdWxcGcRbwXWJ8"
@@ -1598,7 +1930,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 191992,
       "name": "Where Did I Go?",
       "url": "https://open.spotify.com/track/79OKfIXCPbNhZa3h1ZREag"
@@ -1641,6 +1973,24 @@
     },
     {
       "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163049,
+      "name": "WORTHLESS",
+      "url": "https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ"
+    },
+    {
+      "album": {
         "name": "NEW DNA",
         "url": "https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj"
       },
@@ -1656,6 +2006,24 @@
       "duration_ms": 85640,
       "name": "X-GENE",
       "url": "https://open.spotify.com/track/4JDJdj7QuqHEqDuOeQzboZ"
+    },
+    {
+      "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152551,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/1tuSpba0RXUMubHpAOWlMN"
     },
     {
       "album": {

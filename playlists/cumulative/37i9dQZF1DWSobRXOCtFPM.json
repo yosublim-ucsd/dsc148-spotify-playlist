@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "The Eclipse - EP",
+        "url": "https://open.spotify.com/album/2hUr7jeAIE8tmDXCf7JoDB"
+      },
+      "artists": [
+        {
+          "name": "Redraft Memories",
+          "url": "https://open.spotify.com/artist/7GLVeELhVwtSmorIEutDAB"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389534,
+      "name": "305 Night",
+      "url": "https://open.spotify.com/track/0tvGS7LwyumR3P09K5TDaE"
+    },
+    {
+      "album": {
         "name": "Rekindled - EP",
         "url": "https://open.spotify.com/album/6vAzCXYz4s2xU5EfefPlRo"
       },
@@ -1491,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "The Eclipse - EP",
+        "url": "https://open.spotify.com/album/2hUr7jeAIE8tmDXCf7JoDB"
+      },
+      "artists": [
+        {
+          "name": "Redraft Memories",
+          "url": "https://open.spotify.com/artist/7GLVeELhVwtSmorIEutDAB"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414545,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/0CZgpiHWXdluuer1EYYiNq"
+    },
+    {
+      "album": {
         "name": "Electronic Generations",
         "url": "https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z"
       },
@@ -1818,6 +1854,28 @@
       "duration_ms": 412450,
       "name": "Field Day",
       "url": "https://open.spotify.com/track/708V4prVtBnVqfpG3tJnxd"
+    },
+    {
+      "album": {
+        "name": "Finding Myself",
+        "url": "https://open.spotify.com/album/27c8BfoHDXb7PyrIslozs1"
+      },
+      "artists": [
+        {
+          "name": "Davide Carbone",
+          "url": "https://open.spotify.com/artist/02lkYJwxBmJOYUhVbCrqmx"
+        },
+        {
+          "name": "Kate Watts",
+          "url": "https://open.spotify.com/artist/5ginknh8yIghmhoHh49pkg"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177993,
+      "name": "Finding Myself",
+      "url": "https://open.spotify.com/track/3WH2RjftNgim0bRR1nMHYE"
     },
     {
       "album": {
@@ -2656,10 +2714,28 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 390559,
       "name": "HX1",
       "url": "https://open.spotify.com/track/00BFzHxQ8SP9f2JAXBMMiC"
+    },
+    {
+      "album": {
+        "name": "The Voyagers",
+        "url": "https://open.spotify.com/album/7CSwSA9Hy2irhuYrIJfHOp"
+      },
+      "artists": [
+        {
+          "name": "Hybrasil",
+          "url": "https://open.spotify.com/artist/5CA28dVSclgwdKigfNDWtI"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390559,
+      "name": "HX1",
+      "url": "https://open.spotify.com/track/3rpE8k26wHL07tYMq1oBWa"
     },
     {
       "album": {
@@ -5702,6 +5778,24 @@
       "duration_ms": 258459,
       "name": "The Dust Arrival - Rebuke Edit",
       "url": "https://open.spotify.com/track/5xN35R4QaEIFKQkJNT6Rv1"
+    },
+    {
+      "album": {
+        "name": "The Voyagers",
+        "url": "https://open.spotify.com/album/7CSwSA9Hy2irhuYrIJfHOp"
+      },
+      "artists": [
+        {
+          "name": "Hybrasil",
+          "url": "https://open.spotify.com/artist/5CA28dVSclgwdKigfNDWtI"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435114,
+      "name": "The Great Migration",
+      "url": "https://open.spotify.com/track/3WZPH0alJvYymqoeIKDtJy"
     },
     {
       "album": {

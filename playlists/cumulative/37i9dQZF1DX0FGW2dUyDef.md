@@ -4,7 +4,7 @@
 
 > Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Dedublüman x Can Kazaz
 
-78 songs - 3 hr 53 min
+80 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,12 +36,13 @@
 | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/album/46Lu9sb5R04T208BLZ5kRm) | 2:13 | 2024-07-02 | 2024-07-10 |
 | [Durma Yürüsene](https://open.spotify.com/track/7DVu7wGni4DHx9P8L1zbIO) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Durma Yürüsene](https://open.spotify.com/album/08x2uyRPSt4x3UYwKUuKJc) | 3:41 | 2024-09-12 |  |
 | [Düşer O](https://open.spotify.com/track/7cCreOFQhqqhCm82twJg0u) | [İzel](https://open.spotify.com/artist/0QSrUuv6y5Woazd3LAjbSH) | [Aşk En Büyüktür Her Zaman](https://open.spotify.com/album/0eRqafbQDWjvYjcmOykgrd) | 4:59 | 2024-07-02 | 2024-08-28 |
-| [Elini Ver](https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Elini Ver](https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN) | 2:22 | 2024-07-02 |  |
+| [Elini Ver](https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Elini Ver](https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN) | 2:22 | 2024-07-02 | 2024-11-05 |
 | [ESC\*BAR](https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [ESC\*BAR](https://open.spotify.com/album/2tTgc2Nt5VOExrRYybuZuI) | 2:16 | 2024-07-08 |  |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-02 | 2024-07-09 |
 | [Fark Ettim](https://open.spotify.com/track/4rbXJipz3CaSQwtG3xXzzT) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Fark Ettim](https://open.spotify.com/album/4hnVK5UgO5xWJdwxBwmsFv) | 2:35 | 2024-07-02 | 2024-07-27 |
 | [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-07-02 | 2024-07-30 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-07-18 | 2024-08-15 |
+| [GELME İSTEMEM](https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GELME İSTEMEM](https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF) | 3:06 | 2024-11-04 |  |
 | [Geçiyor Zaman](https://open.spotify.com/track/3ma4Ef3Bnl3UBOV4ShiMLX) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:38 | 2024-08-14 |  |
 | [Habibi](https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Habibi](https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ) | 2:40 | 2024-07-02 | 2024-09-25 |
 | [Hayırlı Günler](https://open.spotify.com/track/3ExN5IQsWu2otaXOI3EJGt) | [Aydın Kurtoğlu](https://open.spotify.com/artist/7ymCV8co6nSwmYFEyGmVvJ) | [Pişman](https://open.spotify.com/album/2d36jqTxkiuvdoHCBefUNg) | 3:16 | 2024-07-02 |  |
@@ -68,8 +69,9 @@
 | [Onlar Anlamaz Halden](https://open.spotify.com/track/38d47UiHhyu4wdbPYz0ZUB) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:54 | 2024-09-03 |  |
 | [Ortak](https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Ortak](https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI) | 3:25 | 2024-09-04 |  |
 | [Renklensin](https://open.spotify.com/track/1d02igesB9DREknAVXRiBd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Renklensin](https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL) | 3:10 | 2024-07-02 | 2024-10-03 |
-| [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9) | 1:35 | 2024-07-02 |  |
+| [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9) | 1:35 | 2024-07-02 | 2024-11-05 |
 | [Sana El Pençe Durmam](https://open.spotify.com/track/1cnx5g8kHElNAf28sV3mRJ) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Sana El Pençe Durmam](https://open.spotify.com/album/7cstnexGC8wmiP8eQJpm3j) | 3:31 | 2024-07-02 |  |
+| [Sana Güvenmiyorum \- Dedub Sessions](https://open.spotify.com/track/1lNcnIU4jtqD69Qtfjh8EJ) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Sana Güvenmiyorum \(Dedub Sessions\)](https://open.spotify.com/album/5ZcHiC8fUSjtOSDw0JaJGv) | 3:24 | 2024-11-04 |  |
 | [Sana Yıldızları Ödediğimden](https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Sana Yıldızları Ödediğimden](https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU) | 4:18 | 2024-07-02 | 2024-09-03 |
 | [Sen Bilmezsin](https://open.spotify.com/track/5VykLQtjCYF6qFq59HbUg9) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Sen Bilmezsin](https://open.spotify.com/album/5a3y1scYJAt1OALSshX5kp) | 2:53 | 2024-07-02 |  |
 | [Sessizim](https://open.spotify.com/track/3sHbx4dQJkdUTAxKkHMxTr) | [Mustafa Mert Koç](https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi) | [Sessizim](https://open.spotify.com/album/2ma8ecolQnN4TFK9Gsu1JG) | 3:01 | 2024-07-02 | 2024-07-30 |

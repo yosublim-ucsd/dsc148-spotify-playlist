@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,752 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,854 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,17 +83,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 73 | [Short Stories With Tragic Endings](https://open.spotify.com/track/4eRtGBzP92gjIMOtal2kNB) | [From Autumn To Ashes](https://open.spotify.com/artist/1t0af5EH36iQVJ06XnLDOt) | [Too Bad You're Beautiful](https://open.spotify.com/album/5gZbzZKm0cBUfJwlUErOLm) | 9:25 |
 | 74 | [Deep Down](https://open.spotify.com/track/1gqbyEsTzB5kjodXDGDbYX) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:25 |
 | 75 | [Remember To Feel Real](https://open.spotify.com/track/249LfLwS8qVzqu61TvBVs0) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:21 |
-| 76 | [Here I Stand](https://open.spotify.com/track/2hSpvEjeA8y2yGcFBCgwHd) | [Madina Lake](https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA) | [From Them, Through Us, To You](https://open.spotify.com/album/6yLkk9pNOfvAZ2EoUZlj7o) | 3:23 |
-| 77 | [Wake Up](https://open.spotify.com/track/6mKvriTiArIIJWa2IEQ3dN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:31 |
+| 76 | [Wake Up](https://open.spotify.com/track/6mKvriTiArIIJWa2IEQ3dN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:31 |
+| 77 | [Here I Stand](https://open.spotify.com/track/2hSpvEjeA8y2yGcFBCgwHd) | [Madina Lake](https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA) | [From Them, Through Us, To You](https://open.spotify.com/album/6yLkk9pNOfvAZ2EoUZlj7o) | 3:23 |
 | 78 | [We'rewolf](https://open.spotify.com/track/5Bfy6Wfj4G1GBYWlMfQ1by) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [The Big Dirty](https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN) | 3:24 |
 | 79 | [Goodbye My Love](https://open.spotify.com/track/51VhgCrpMdrGysx0CMgyIM) | [Lovehatehero](https://open.spotify.com/artist/7x0UWXyNsNRQJtScbBnrBq) | [White Lies](https://open.spotify.com/album/2MPznUFDORXqL2lpA2IbPs) | 3:33 |
 | 80 | [The Crimson](https://open.spotify.com/track/062gY8uXDt5kjtAOcSmL4z) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse](https://open.spotify.com/album/0Re8J0tmk2LNlRl4GxUowc) | 4:01 |
 | 81 | [In the Belly of a Shark](https://open.spotify.com/track/0khj70h8pejNRukEhOn86O) | [Gallows](https://open.spotify.com/artist/0LpwbxbT8dPiqUnul4ngzu) | [Orchestra Of Wolves \(new version\)](https://open.spotify.com/album/6iKEpmbrs3YpXiEo68HHnx) | 2:41 |
 | 82 | [Dressed For Friend Requests](https://open.spotify.com/track/3E52b2s2M0tOtBKkXsNFrq) | [Drop Dead, Gorgeous](https://open.spotify.com/artist/7ib9jRPvGJ6VPCTg35G2L9) | [In Vogue](https://open.spotify.com/album/0roAVG8TO9V8GEFmXJa4Lv) | 2:36 |
 | 83 | [Ink](https://open.spotify.com/track/2SJoURQgsD1BtdEjlAVeNE) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:35 |
-| 84 | [Surrender Your Sons](https://open.spotify.com/track/2fwjdgBSOCVt3QDpxU3G31) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [The Anti Mother](https://open.spotify.com/album/0GZJgWLGPiJi8TTp5hDnY4) | 4:40 |
-| 85 | [House of Cards](https://open.spotify.com/track/4orQFDcvhvyaPx8PPf35iI) | [Madina Lake](https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA) | [From Them, Through Us, To You](https://open.spotify.com/album/1Uw8vdLEIUxvQLYTd0Dk1f) | 3:36 |
-| 86 | [Dream to Make Believe](https://open.spotify.com/track/33kiSXAy1GBwqOh4O7v9Lv) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [Dream to Make Believe](https://open.spotify.com/album/2BpTMalKI3yhZ2tVATUPXk) | 3:01 |
+| 84 | [House of Cards](https://open.spotify.com/track/4orQFDcvhvyaPx8PPf35iI) | [Madina Lake](https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA) | [From Them, Through Us, To You](https://open.spotify.com/album/1Uw8vdLEIUxvQLYTd0Dk1f) | 3:36 |
+| 85 | [Dream to Make Believe](https://open.spotify.com/track/33kiSXAy1GBwqOh4O7v9Lv) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [Dream to Make Believe](https://open.spotify.com/album/2BpTMalKI3yhZ2tVATUPXk) | 3:01 |
+| 86 | [Surrender Your Sons](https://open.spotify.com/track/2fwjdgBSOCVt3QDpxU3G31) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [The Anti Mother](https://open.spotify.com/album/0GZJgWLGPiJi8TTp5hDnY4) | 4:40 |
 | 87 | [The Party Song](https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [I'm Only A Man](https://open.spotify.com/album/15Ws2c78QkSmzZ9HNr5PCq) | 3:31 |
 | 88 | [Pages](https://open.spotify.com/track/1xJULOj0c01wovNn42lOsC) | [There For Tomorrow](https://open.spotify.com/artist/0lYXa6aa87Tz8Jzv1nW4HM) | [There For Tomorrow \(Deluxe Edition\)](https://open.spotify.com/album/0ZRygrECnzHvuOjRXnQtkd) | 3:31 |
 | 89 | [Hang 'Em High](https://open.spotify.com/track/5nDtweR08DoAARclRxt9Gp) | [A Static Lullaby](https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb) | [A Static Lullaby](https://open.spotify.com/album/3H3bVSRPq92GpMDVzPMxyJ) | 3:59 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 97 | [Counting 5\-4\-3\-2\-1](https://open.spotify.com/track/33xbEG22XelcyasHEq6mfw) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 3:19 |
 | 98 | [Escape Artists Never Die](https://open.spotify.com/track/34RIandjffS6fEMitjZnvF) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 5:17 |
 | 99 | [Planning a Prison Break](https://open.spotify.com/track/02bp2Aq5cFTUfDnOYJxuuL) | [The Receiving End Of Sirens](https://open.spotify.com/artist/57fbnHozNJMl16yNzt4agV) | [Between the Heart and the Synapse](https://open.spotify.com/album/1M5DYiubn2ko8OpUs0lhEt) | 5:18 |
-| 100 | [No Son Of Mine](https://open.spotify.com/track/6vQ4wyy3AKpajRqqZxyJaW) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [The Big Dirty](https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN) | 3:23 |
+| 100 | [Apathy Is a Cold Body](https://open.spotify.com/track/3nZI9YTYInLiCdjGx7v9tK) | [Poison The Well](https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx) | [You Come Before You \(U.S\. Version\)](https://open.spotify.com/album/1jWoSWzUjyq2v2jnmRv3p8) | 5:00 |
 
 Snapshot ID: `Zv8MEwAAAACF14+0upPPzwW5sYG7Q/My`

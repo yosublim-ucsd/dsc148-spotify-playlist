@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Cover: \uc815\uc608\uc778(Yein)) (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 56110,
+  "num_followers": 56117,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/7vZ0v0ZUX9KSCdZgCrtovy"
-      },
-      "artists": [
-        {
-          "name": "EXID",
-          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
-        }
-      ],
-      "duration_ms": 198414,
-      "name": "Night Rather Than Day",
-      "url": "https://open.spotify.com/track/3ekdsWPG0ZtVrvEUPe2Djv"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Red Light - The 3rd Album",
         "url": "https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 210042,
       "name": "All Night",
       "url": "https://open.spotify.com/track/2YtNFUkfxnYtg6ts8zfq93"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/7vZ0v0ZUX9KSCdZgCrtovy"
+      },
+      "artists": [
+        {
+          "name": "EXID",
+          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
+        }
+      ],
+      "duration_ms": 198414,
+      "name": "Night Rather Than Day",
+      "url": "https://open.spotify.com/track/3ekdsWPG0ZtVrvEUPe2Djv"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
+        "name": "Pink Tape - The 2nd Album",
+        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 200863,
+      "name": "\uc2dc\uadf8\ub110 (Signal)",
+      "url": "https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
         "name": "HAPPEN",
         "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 236746,
       "name": "Ladies Night",
       "url": "https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
-        "name": "Pink Tape - The 2nd Album",
-        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 200863,
-      "name": "\uc2dc\uadf8\ub110 (Signal)",
-      "url": "https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -967,18 +967,18 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Shining Love Song",
-        "url": "https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0"
+        "name": "Pier",
+        "url": "https://open.spotify.com/album/12A6nMaKXm2zLGxzLA6UDd"
       },
       "artists": [
         {
-          "name": "SURAN",
-          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
         }
       ],
-      "duration_ms": 191706,
-      "name": "Shining Love Song",
-      "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
+      "duration_ms": 174624,
+      "name": "Pier",
+      "url": "https://open.spotify.com/track/1X2LxOHifIksEnDHUTlXCo"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
+        "name": "Shining Love Song",
+        "url": "https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0"
+      },
+      "artists": [
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "Shining Love Song",
+      "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
         "name": "\uc5b4\ub9b0\uc655\uc790 The Little Prince - The 1st Mini Album",
         "url": "https://open.spotify.com/album/6I6CK3eLNgufEnfz7Se93z"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 201223,
       "name": "\uadf8\ub300 Hello",
       "url": "https://open.spotify.com/track/4XFCMuCMB62vIRPRbHEEiX"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
-        "name": "Pier",
-        "url": "https://open.spotify.com/album/12A6nMaKXm2zLGxzLA6UDd"
-      },
-      "artists": [
-        {
-          "name": "Llwyd",
-          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
-        }
-      ],
-      "duration_ms": 174624,
-      "name": "Pier",
-      "url": "https://open.spotify.com/track/1X2LxOHifIksEnDHUTlXCo"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/1CODuNXGPQKbT82dQtOKGw"
-      },
-      "artists": [
-        {
-          "name": "Nahee Kim",
-          "url": "https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl"
-        }
-      ],
-      "duration_ms": 194331,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/6wZSjTWqs8E6EZylSqemLc"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "City",
         "url": "https://open.spotify.com/album/5tIUoIBCtGC1TYpuoZ2xIF"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 162709,
       "name": "City",
       "url": "https://open.spotify.com/track/38qecpqjU5yzD7bFwU6GKL"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/1CODuNXGPQKbT82dQtOKGw"
+      },
+      "artists": [
+        {
+          "name": "Nahee Kim",
+          "url": "https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl"
+        }
+      ],
+      "duration_ms": 194331,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/6wZSjTWqs8E6EZylSqemLc"
     },
     {
       "added_at": "2024-09-30 08:00:00",

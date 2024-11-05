@@ -861,6 +861,24 @@
     },
     {
       "album": {
+        "name": "Meet Me Next Christmas",
+        "url": "https://open.spotify.com/album/2VVfxBR6rxdMOyBPQZAyPx"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163922,
+      "name": "Meet Me Next Christmas",
+      "url": "https://open.spotify.com/track/71c1qn8GR6xhx7pFjWWcks"
+    },
+    {
+      "album": {
         "name": "A Boy Called Christmas (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ"
       },
@@ -984,6 +1002,24 @@
       "duration_ms": 253529,
       "name": "O Holy Night (From the Netflix Original \"A California Christmas\")",
       "url": "https://open.spotify.com/track/3pnmwhfvDzJtCVVpGug5Wo"
+    },
+    {
+      "album": {
+        "name": "The Greatest Christmas Hits",
+        "url": "https://open.spotify.com/album/4tRcSRjaE98LsBVOm6cSJT"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197346,
+      "name": "Please Santa Please",
+      "url": "https://open.spotify.com/track/398egUWDwedHWTPQmlel9E"
     },
     {
       "album": {

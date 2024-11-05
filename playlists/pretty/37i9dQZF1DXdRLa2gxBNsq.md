@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: La Polla Records.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,168 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,194 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,21 +81,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 71 | [All Cayetanos Are Bastards](https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj) | [Lo Blanco Del Jamón](https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR) | [All Cayetanos Are Bastards](https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t) | 2:40 |
 | 72 | [El Mundo Arder \- Versión 2024](https://open.spotify.com/track/2xLzcyPj970wUwExqxu4c2) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX), [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [El Mundo Arder \(Versión 2024\)](https://open.spotify.com/album/3ESvrH1oACPDwKuTXMPXgH) | 2:42 |
 | 73 | [Pudredumbre](https://open.spotify.com/track/37jtZC34k0gkAaoI5g7a5v) | [Opus Pain](https://open.spotify.com/artist/011c1z4h5qXlPlhpQ6NKj8) | [Pudredumbre](https://open.spotify.com/album/5mdIYVaHslsllN0EcvmxLr) | 2:05 |
-| 74 | [Love the Antros](https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi) | [Karne Cruda](https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf) | [Love the Antros](https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv) | 2:35 |
+| 74 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
 | 75 | [Ser Libre](https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Ser Libre](https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH) | 3:36 |
-| 76 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
+| 76 | [Love the Antros](https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi) | [Karne Cruda](https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf) | [Love the Antros](https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv) | 2:35 |
 | 77 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 |
 | 78 | [Arderán](https://open.spotify.com/track/1osGlQ2CrQeIvlEaIUOjzO) | [Último Rekurso](https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9) | [Arderán](https://open.spotify.com/album/2pxQN0Uj57ZfwsqIB02okC) | 3:02 |
 | 79 | [Ansiedad](https://open.spotify.com/track/4AjArGDik0KI3XaLG1Z8Xt) | [En Vano](https://open.spotify.com/artist/6D7YCAhBO7dD77ld8CkbDc) | [Ansiedad](https://open.spotify.com/album/36ftqyQD5p80hNZz2fBcB4) | 3:12 |
 | 80 | [Sálvate Si Puedes \- Remasterizado 2024](https://open.spotify.com/track/7a7Cno4XnbKNUuIw2SCmv9) | [Salvate Si Puedes](https://open.spotify.com/artist/67ewRE9t9RsKG7pOWZtaac) | [A Quien Pueda Interesar \(Remasterizado 2024\)](https://open.spotify.com/album/0jk5qU3Z9l4EASdK6Avc8Q) | 2:45 |
 | 81 | [Cien Colores](https://open.spotify.com/track/6pEb4CdkThMdqD0g0MXSik) | [La Inquisición](https://open.spotify.com/artist/4aDrkFWtl83fnLRJ0SWXtJ) | [Cien Colores](https://open.spotify.com/album/6PgFqXwfJPQcJ5gQlK2V4L) | 2:50 |
 | 82 | [Basura](https://open.spotify.com/track/2Lwyx3R8KUFq2bHuiwccty) | [Pota en la Sopa](https://open.spotify.com/artist/4fOyA8pQ1Td1iE1kCPKCOO) | [Basura](https://open.spotify.com/album/1hSJoS6GhfnxqtJabaTXhg) | 2:50 |
-| 83 | [Mundo Muerto](https://open.spotify.com/track/1QiX7ZF1DC00p3443jzII1) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX), [EtsaiakEroak](https://open.spotify.com/artist/0xmpnK00j3aUbhdXqkX7j6) | [Mundo Muerto](https://open.spotify.com/album/6zyik6tAV3g4jMLeJU8Tei) | 2:37 |
-| 84 | [Una Noche Más](https://open.spotify.com/track/4nUVcqvsg0jq4Z0KEfttXw) | [Debruces](https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S) | [Una Noche Más](https://open.spotify.com/album/4ejbet0sT4xw2xs4IAmxE7) | 3:32 |
+| 83 | [Humanos](https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [Humanos](https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy) | 2:31 |
+| 84 | [Levántate](https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [Levántate](https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5) | 3:52 |
 | 85 | [Influencers](https://open.spotify.com/track/3QeyHS6OYXDuoNXeePq2TG) | [Último Rekurso](https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9) | [Influencers](https://open.spotify.com/album/0aLb1OseJN1zVxtXTS84r2) | 4:06 |
-| 86 | [Levántate](https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [Levántate](https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5) | 3:52 |
-| 87 | [Sabor a Plomo](https://open.spotify.com/track/4hc7wJtn6lWgD6eAmcfjq0) | [Belial](https://open.spotify.com/artist/2SDf1CeFMHEop1lzdpvS28) | [Sabor a Plomo](https://open.spotify.com/album/4CR0loWGYTsMyIgY8kybeh) | 3:19 |
-| 88 | [Humanos](https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [Humanos](https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy) | 2:31 |
+| 86 | [Sabor a Plomo](https://open.spotify.com/track/4hc7wJtn6lWgD6eAmcfjq0) | [Belial](https://open.spotify.com/artist/2SDf1CeFMHEop1lzdpvS28) | [Sabor a Plomo](https://open.spotify.com/album/4CR0loWGYTsMyIgY8kybeh) | 3:19 |
+| 87 | [Una Noche Más](https://open.spotify.com/track/4nUVcqvsg0jq4Z0KEfttXw) | [Debruces](https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S) | [Una Noche Más](https://open.spotify.com/album/4ejbet0sT4xw2xs4IAmxE7) | 3:32 |
+| 88 | [Mundo Muerto](https://open.spotify.com/track/1QiX7ZF1DC00p3443jzII1) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX), [EtsaiakEroak](https://open.spotify.com/artist/0xmpnK00j3aUbhdXqkX7j6) | [Mundo Muerto](https://open.spotify.com/album/6zyik6tAV3g4jMLeJU8Tei) | 2:37 |
 | 89 | [No tengo solucion para ese problema](https://open.spotify.com/track/42ySJfPHlWx0jKRDyttptR) | [A Cuchillo](https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ) | [No tengo solucion para ese problema](https://open.spotify.com/album/4vddeU0f9ZtVa9S5oD11aa) | 2:55 |
 | 90 | [Vpo](https://open.spotify.com/track/3Eo8g7AdbPGmODRv3yZidD) | [Bellotaris Fallecidos](https://open.spotify.com/artist/7witIEaYssgO9srRY85ZLl) | [Y el Que Sea Feo Que Haga los Recaos de Noche](https://open.spotify.com/album/5I2wNu3nGj7oHCIFtH1Yne) | 1:36 |
 | 91 | [Sombra y Luz \- Sombra y Luz](https://open.spotify.com/track/4tBjhicwmWAxDDblcDHbN0) | [La Inquisición](https://open.spotify.com/artist/4aDrkFWtl83fnLRJ0SWXtJ) | [Sombra y Luz](https://open.spotify.com/album/0sTzX1wBi75FyQhzYmLAZm) | 2:37 |

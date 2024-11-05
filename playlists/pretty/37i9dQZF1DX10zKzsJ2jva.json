@@ -1,33 +1,13 @@
 {
   "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Duki",
-  "num_followers": 15319468,
+  "num_followers": 15320315,
   "original_name": "Viva Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyRgUAAAAAA3UPOsCgeYwVNQiTNP7R1F",
+  "snapshot_id": "Zyj7kQAAAAC00fvkLKtSJJXq0fdkYtd5",
   "tracks": [
-    {
-      "added_at": "2024-11-01 05:00:00",
-      "album": {
-        "name": "Constelaci\u00f3n",
-        "url": "https://open.spotify.com/album/2UCtRZWKRk0Uwhi5FWdPcV"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Lia Kali",
-          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
-        }
-      ],
-      "duration_ms": 200631,
-      "name": "Constelaci\u00f3n",
-      "url": "https://open.spotify.com/track/4hphx3cA8mjPJR99B6XtBD"
-    },
     {
       "added_at": "2024-11-01 05:00:00",
       "album": {
@@ -47,26 +27,6 @@
       "duration_ms": 225880,
       "name": "Tu Boda",
       "url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"
-    },
-    {
-      "added_at": "2024-11-01 05:00:00",
-      "album": {
-        "name": "Ferxxoko",
-        "url": "https://open.spotify.com/album/5uRpRstxMvxTSbAXZmaBnh"
-      },
-      "artists": [
-        {
-          "name": "Joyce Santana",
-          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 177209,
-      "name": "Ferxxoko",
-      "url": "https://open.spotify.com/track/12VjaTNEaCfDlvW1XPZTQ9"
     },
     {
       "added_at": "2024-11-01 05:00:00",
@@ -155,6 +115,26 @@
     {
       "added_at": "2024-11-01 05:00:00",
       "album": {
+        "name": "Ferxxoko",
+        "url": "https://open.spotify.com/album/5uRpRstxMvxTSbAXZmaBnh"
+      },
+      "artists": [
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 177209,
+      "name": "Ferxxoko",
+      "url": "https://open.spotify.com/track/12VjaTNEaCfDlvW1XPZTQ9"
+    },
+    {
+      "added_at": "2024-11-01 05:00:00",
+      "album": {
         "name": "PELIGROSA",
         "url": "https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 162204,
       "name": "DURO",
       "url": "https://open.spotify.com/track/1kyLInQ2qgYbK4wZxllfV2"
+    },
+    {
+      "added_at": "2024-11-01 05:00:00",
+      "album": {
+        "name": "Constelaci\u00f3n",
+        "url": "https://open.spotify.com/album/2UCtRZWKRk0Uwhi5FWdPcV"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        }
+      ],
+      "duration_ms": 200631,
+      "name": "Constelaci\u00f3n",
+      "url": "https://open.spotify.com/track/4hphx3cA8mjPJR99B6XtBD"
     },
     {
       "added_at": "2024-11-01 05:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-11-01 05:00:00",
       "album": {
-        "name": "TODOS LOS D\u00cdAS TODO EL D\u00cdA",
-        "url": "https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "pero me estoy acabando.",
-      "url": "https://open.spotify.com/track/4UcnP64mbjBbjSDgSv5YYT"
-    },
-    {
-      "added_at": "2024-11-01 05:00:00",
-      "album": {
         "name": "SI NO ES CONTIGO",
         "url": "https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL"
       },
@@ -343,26 +327,6 @@
       "duration_ms": 156000,
       "name": "SI NO ES CONTIGO",
       "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
-    },
-    {
-      "added_at": "2024-11-01 05:00:00",
-      "album": {
-        "name": "No Me Cansare",
-        "url": "https://open.spotify.com/album/2hAx6Exxe0kAI7aNmD7wSJ"
-      },
-      "artists": [
-        {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "No Me Cansare",
-      "url": "https://open.spotify.com/track/6eDU6kAtlOLVEkVu4st1Bt"
     },
     {
       "added_at": "2024-11-01 05:00:00",
@@ -403,6 +367,22 @@
     {
       "added_at": "2024-11-01 05:00:00",
       "album": {
+        "name": "TODOS LOS D\u00cdAS TODO EL D\u00cdA",
+        "url": "https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "pero me estoy acabando.",
+      "url": "https://open.spotify.com/track/4UcnP64mbjBbjSDgSv5YYT"
+    },
+    {
+      "added_at": "2024-11-01 05:00:00",
+      "album": {
         "name": "Pasaporte",
         "url": "https://open.spotify.com/album/6jGjJCN5uEufVPfbbdjVbf"
       },
@@ -423,22 +403,6 @@
     {
       "added_at": "2024-11-01 05:00:00",
       "album": {
-        "name": "noviogangsta <3",
-        "url": "https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 157209,
-      "name": "noviogangsta <3",
-      "url": "https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj"
-    },
-    {
-      "added_at": "2024-11-01 05:00:00",
-      "album": {
         "name": "Ese Vato No Te Queda",
         "url": "https://open.spotify.com/album/4Z9Ib007Z7ZFmYLfyp2qH9"
       },
@@ -455,6 +419,26 @@
       "duration_ms": 198607,
       "name": "Ese Vato No Te Queda",
       "url": "https://open.spotify.com/track/4Ndjd6DhKIC5IPoBIrMQuX"
+    },
+    {
+      "added_at": "2024-11-01 05:00:00",
+      "album": {
+        "name": "No Me Cansare",
+        "url": "https://open.spotify.com/album/2hAx6Exxe0kAI7aNmD7wSJ"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "No Me Cansare",
+      "url": "https://open.spotify.com/track/6eDU6kAtlOLVEkVu4st1Bt"
     },
     {
       "added_at": "2024-11-01 05:00:00",
@@ -495,22 +479,18 @@
     {
       "added_at": "2024-11-01 05:00:00",
       "album": {
-        "name": "Duro De Verdad pt.2",
-        "url": "https://open.spotify.com/album/3c8T88YKC08bsaZiuY2KoA"
+        "name": "noviogangsta <3",
+        "url": "https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ"
       },
       "artists": [
         {
-          "name": "Los Sufridos",
-          "url": "https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 204303,
-      "name": "Duro De Verdad pt.2",
-      "url": "https://open.spotify.com/track/0glj70T9fN3kyJzYmTKzy1"
+      "duration_ms": 157209,
+      "name": "noviogangsta <3",
+      "url": "https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj"
     },
     {
       "added_at": "2024-11-01 05:00:00",
@@ -611,18 +591,22 @@
     {
       "added_at": "2024-11-01 05:00:00",
       "album": {
-        "name": "ENCUENTROS",
-        "url": "https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw"
+        "name": "Duro De Verdad pt.2",
+        "url": "https://open.spotify.com/album/3c8T88YKC08bsaZiuY2KoA"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Los Sufridos",
+          "url": "https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
         }
       ],
-      "duration_ms": 180786,
-      "name": "OTRO CAP\u00cdTULO",
-      "url": "https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK"
+      "duration_ms": 204303,
+      "name": "Duro De Verdad pt.2",
+      "url": "https://open.spotify.com/track/0glj70T9fN3kyJzYmTKzy1"
     },
     {
       "added_at": "2024-11-01 05:00:00",
@@ -743,6 +727,22 @@
     {
       "added_at": "2024-11-01 05:00:00",
       "album": {
+        "name": "ENCUENTROS",
+        "url": "https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 180786,
+      "name": "OTRO CAP\u00cdTULO",
+      "url": "https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK"
+    },
+    {
+      "added_at": "2024-11-01 05:00:00",
+      "album": {
         "name": "INC\u00d3MODO",
         "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-11-01 05:00:00",
       "album": {
-        "name": "JACKPOT",
-        "url": "https://open.spotify.com/album/2jwthspFSdYQk8m64Qmk4N"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 193360,
-      "name": "JACKPOT",
-      "url": "https://open.spotify.com/track/23W44WWCP8SibyP292TWo5"
-    },
-    {
-      "added_at": "2024-11-01 05:00:00",
-      "album": {
         "name": "WYA REMIX RED",
         "url": "https://open.spotify.com/album/4KparoC39Qn5NatBrMA7nN"
       },
@@ -835,22 +815,6 @@
     {
       "added_at": "2024-11-01 05:00:00",
       "album": {
-        "name": "Next",
-        "url": "https://open.spotify.com/album/2lOFcUTSeuQ0l7GOpZAKmW"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Next",
-      "url": "https://open.spotify.com/track/2QpmB0XYs7ndRfCC2Setb7"
-    },
-    {
-      "added_at": "2024-11-01 05:00:00",
-      "album": {
         "name": "Atento Aviso ... Rey Sin Reina",
         "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
       },
@@ -863,6 +827,26 @@
       "duration_ms": 150523,
       "name": "Rey Sin Reina",
       "url": "https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3"
+    },
+    {
+      "added_at": "2024-11-01 05:00:00",
+      "album": {
+        "name": "JACKPOT",
+        "url": "https://open.spotify.com/album/2jwthspFSdYQk8m64Qmk4N"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 193360,
+      "name": "JACKPOT",
+      "url": "https://open.spotify.com/track/23W44WWCP8SibyP292TWo5"
     },
     {
       "added_at": "2024-11-01 05:00:00",
@@ -935,6 +919,22 @@
       "duration_ms": 186000,
       "name": "CINTURITA",
       "url": "https://open.spotify.com/track/4vXvk2iDdn26POy12Uj5F7"
+    },
+    {
+      "added_at": "2024-11-01 05:00:00",
+      "album": {
+        "name": "Next",
+        "url": "https://open.spotify.com/album/2lOFcUTSeuQ0l7GOpZAKmW"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Next",
+      "url": "https://open.spotify.com/track/2QpmB0XYs7ndRfCC2Setb7"
     },
     {
       "added_at": "2024-11-01 05:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1117836,
+  "num_followers": 1118097,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
+        "name": "The Best Of The Decca Years Volume One: The Singer",
+        "url": "https://open.spotify.com/album/1Xa31VhfS5VtLsQ1LLa39k"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 182240,
+      "name": "A Kiss To Build A Dream On",
+      "url": "https://open.spotify.com/track/5PLUw46m8RDInYpxf3ddID"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
         "name": "Things Are Swingin'/Jump For Joy",
         "url": "https://open.spotify.com/album/3TgP9cFfg93qoCR7BO9ZXU"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 309693,
       "name": "What A Difference A Day Made",
       "url": "https://open.spotify.com/track/0ZwLGauFqFpbj4P3apDM3r"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
-        "name": "The Best Of The Decca Years Volume One: The Singer",
-        "url": "https://open.spotify.com/album/1Xa31VhfS5VtLsQ1LLa39k"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 182240,
-      "name": "A Kiss To Build A Dream On",
-      "url": "https://open.spotify.com/track/5PLUw46m8RDInYpxf3ddID"
     },
     {
       "added_at": "2024-06-03 14:41:08",

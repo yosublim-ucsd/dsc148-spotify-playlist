@@ -1141,6 +1141,24 @@
     },
     {
       "album": {
+        "name": "Miedo",
+        "url": "https://open.spotify.com/album/3gUSgjv0rTLWa8N8CAYsF5"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189374,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/77CHXmQPAjOWXuaUod5pKH"
+    },
+    {
+      "album": {
         "name": "Mil Gracias Por Existir",
         "url": "https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6"
       },
@@ -1684,7 +1702,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 208653,
       "name": "Sobrino Del Chavalon - En Vivo",
       "url": "https://open.spotify.com/track/4IZvy2zGSrlUkGCRZ02pVN"

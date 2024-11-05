@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > Spotify 台灣上線十年精采呈獻！最高人氣歌手的最熱門華語歌曲大全輯！歌手精選請聽 <a href="spotify:genre:0JQ5IMCbQBLtYOSc3HviWJ">Spotify 台灣上線 10 年全精選</a> ! Cover: 周杰倫
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,356 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,446 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 71 | [愛愛愛](https://open.spotify.com/track/59lBAMCis4C6NsPdUV35Vz) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [愛愛愛](https://open.spotify.com/album/75QhyYrpr4b3sJUvmYAU3v) | 3:35 |
 | 72 | [街角的祝福](https://open.spotify.com/track/1M5MN2PnMtf7YhnqukD4xa) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [Just Sing It](https://open.spotify.com/album/7Jx7AkjH18dy4gnaqCMNNz) | 4:08 |
 | 73 | [有些](https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN) | 3:49 |
-| 74 | [愛你](https://open.spotify.com/track/0n7Ij8XEDfYYFRgBQjNjnf) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [Kimberley首张同名专辑](https://open.spotify.com/album/4SAbPUrnyw72WivjOA3n8i) | 3:27 |
+| 74 | [愛你](https://open.spotify.com/track/0n7Ij8XEDfYYFRgBQjNjnf) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [Kimberley首張同名專輯](https://open.spotify.com/album/4SAbPUrnyw72WivjOA3n8i) | 3:27 |
 | 75 | [體面](https://open.spotify.com/track/7oOfvZDUqhiJd9OC2Tq8Nh) | [Kelly Yu](https://open.spotify.com/artist/5R56NYbLCC2HpOwlYBnmeN) | [尚未界定](https://open.spotify.com/album/3Izw8Ec6jQUYjSDUifh7XO) | 4:42 |
 | 76 | [錯的人](https://open.spotify.com/track/0fQla3BOmDbwE7e6I78LbZ) | [Elva Hsiao](https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH) | [蕭灑小姐](https://open.spotify.com/album/5SnQewcltHfTimyxWQ4DPr) | 5:11 |
 | 77 | [我不是饒舌歌手](https://open.spotify.com/track/4M8aT4P3AlJUGQ4DqaXJpV) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [23](https://open.spotify.com/album/1i9NZgKrjl9gQVIczUEJYh) | 3:32 |

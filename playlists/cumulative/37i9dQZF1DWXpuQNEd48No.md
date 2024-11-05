@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Yo Hai Haryanvi Hip\-Hop! Cover: FEROZI
+> Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala
 
 301 songs - 15 hr 39 min
 
@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/7deZn0z8YjbIrLlMXpHOQ9) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2GxxViTpqwz7L3a5jY59DH) | 0:00 | 2024-03-01 | 2024-03-07 |
 | [12 Bore](https://open.spotify.com/track/45BRHFObplu7mg7PAOUB0M) | [Rahul Kadyan](https://open.spotify.com/artist/4Clvkor0pUXm35Gdz0fbJt) | [12 Bore](https://open.spotify.com/album/04nAiiHzOLmmCG6zT12e7g) | 3:21 | 2023-09-27 |  |
-| [140](https://open.spotify.com/track/6YS34eGqpfABBaYIjnLFv5) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [140](https://open.spotify.com/album/7Boz1nhfbNB8wrnrZqBcDQ) | 2:53 | 2024-07-08 |  |
+| [140](https://open.spotify.com/track/6YS34eGqpfABBaYIjnLFv5) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [140](https://open.spotify.com/album/7Boz1nhfbNB8wrnrZqBcDQ) | 2:53 | 2024-07-08 | 2024-11-05 |
 | [21.22](https://open.spotify.com/track/7wY9804Aaik9Nv1BuOzap9) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [21.22](https://open.spotify.com/album/35h1PeLLCEpMfZ0O7qFTvM) | 3:40 | 2023-03-28 | 2024-05-11 |
 | [24 Carat](https://open.spotify.com/track/6i7wtqo9gPCc0XMs6j1PF8) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [24 Carat](https://open.spotify.com/album/0ZNoe4fHoGA5OMVQXoLYbk) | 3:17 | 2024-02-06 | 2024-04-10 |
 | [24 Parche](https://open.spotify.com/track/0AZJ1kTo2H9IbvBS3wNrRF) | [Jaggi](https://open.spotify.com/artist/3xKm7gBOnRxMwTHucbePnJ) | [ON TOP](https://open.spotify.com/album/6t6C4S2tWC8icUdNYIYHaC) | 1:55 | 2024-04-30 | 2024-05-28 |
@@ -172,7 +172,7 @@
 | [Kaley Sheshe](https://open.spotify.com/track/0ZcMt3GYvVkBjdomag59NP) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [Aniket Jain](https://open.spotify.com/artist/3CenMXEd3ei2rZZ3k9bWQH) | [Kaley Sheshe](https://open.spotify.com/album/4gFSkO9sJOpWHwW8MPtyIp) | 3:31 | 2023-12-18 |  |
 | [Kali Gadiyan](https://open.spotify.com/track/4tQCcLqpUjymKyF40Mea7S) | [Rohit Yadav](https://open.spotify.com/artist/4zRoK0hPfzE4hULJ0z1BpI) | [Kali Gadiyan](https://open.spotify.com/album/3cz4elhHTo85owGPi7ly0M) | 2:32 | 2023-03-28 | 2023-04-04 |
 | [Kalyug](https://open.spotify.com/track/1PpD1pRsC67ir1qT7fvz5R) | [Shayam Sharma](https://open.spotify.com/artist/61lpcC14tsSoXZyrjGXVEo), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Kalyug](https://open.spotify.com/album/3RSgIg2SuGhUVe3TMi0I6o) | 3:38 | 2024-04-18 | 2024-09-19 |
-| [Kede Kede Yaar](https://open.spotify.com/track/1aeIfm41wcpQiNSN9tjs6B) | [Daulatpuria](https://open.spotify.com/artist/0c8dHxShstYZeEkR4SIrBI), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Kede Kede Yaar](https://open.spotify.com/album/2wrCS3CHyPOACbcDEc3ULP) | 2:47 | 2023-07-11 | 2024-10-24 |
+| [Kede Kede Yaar](https://open.spotify.com/track/1aeIfm41wcpQiNSN9tjs6B) | [Daulatpuria](https://open.spotify.com/artist/0c8dHxShstYZeEkR4SIrBI), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Kede Kede Yaar](https://open.spotify.com/album/2wrCS3CHyPOACbcDEc3ULP) | 2:47 | 2023-07-11 |  |
 | [Khot](https://open.spotify.com/track/2w5m9SgekwHPwZRHRBakfr) | [Sapna Choudhary](https://open.spotify.com/artist/5WYVZzKOZMUn4pNY9gy2BM), [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs) | [Khot](https://open.spotify.com/album/71M8S6DWOZQswhiF6eUC06) | 3:24 | 2023-03-28 | 2023-08-15 |
 | [Kill EM \- Mafioso Chapter 1](https://open.spotify.com/track/4KNLzEVSubSB7I9d86ZVYo) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Kill EM \(Mafioso Chapter 1\)](https://open.spotify.com/album/1vFbokZeCyfA010NKbO88U) | 2:52 | 2023-03-28 | 2023-06-17 |
 | [Kill Love](https://open.spotify.com/track/5AZptd2m2uVIGILEtFTfJu) | [Saaaj Tomar](https://open.spotify.com/artist/3Y7nPioCRQYii5bAFVbOMl) | [Kill Love](https://open.spotify.com/album/0cKcmHsfxybfDu7MFmg8h2) | 2:44 | 2024-09-30 | 2024-10-22 |

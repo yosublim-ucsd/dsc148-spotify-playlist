@@ -2,9 +2,9 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: T\. Danny
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: DESH, Young Fly, Azahriah
 
-76 songs - 3 hr 41 min
+78 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,11 +38,11 @@
 | [GÁZ](https://open.spotify.com/track/07L9KepMsQ4mG9BLE04mXc) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Jaber](https://open.spotify.com/artist/6T2yephqss2R5uK7CmfLgo) | [GÁZ](https://open.spotify.com/album/3AChlpJwQJBBiGrL1wsizp) | 3:05 | 2024-07-01 | 2024-10-29 |
 | [HENN \(SANDELA\)](https://open.spotify.com/track/70EqnZ68XyFO16FkSEidUJ) | [Bazsi](https://open.spotify.com/artist/7IvNSZxcwOVm9Sn8z4y1k4) | [HENN \(SANDELA\)](https://open.spotify.com/album/4AKT0vHVHrEJwLizOVJkps) | 2:57 | 2024-07-01 |  |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-07-01 | 2024-09-10 |
-| [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-07-15 |  |
+| [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-07-15 | 2024-11-05 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-07-01 |  |
 | [introvertált dal](https://open.spotify.com/track/2SoIhnJXdHp8oo0w9pktub) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [introvertált dal](https://open.spotify.com/album/6ZRIaIZEYI7HBPNPKmeAXw) | 2:49 | 2024-07-01 |  |
 | [Jézus kérlek hívjál fel](https://open.spotify.com/track/5iAfEsRxQ6LjMZ7p2cWeOJ) | [Zakeus](https://open.spotify.com/artist/50lp8qhb7cVGIj7YpCQ16B) | [Jézus kérlek hívjál fel](https://open.spotify.com/album/0FUvBz087oUFhM6EslUWBI) | 2:40 | 2024-10-07 |  |
-| [kapu](https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [skatulya I](https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw) | 2:46 | 2024-07-01 |  |
+| [kapu](https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [skatulya I](https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw) | 2:46 | 2024-07-01 | 2024-11-05 |
 | [kelet](https://open.spotify.com/track/50oIkRQqZvOUIyW2x88FlD) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Signo](https://open.spotify.com/artist/7p7yZa25So6b8lbCijHW4s) | [kelet](https://open.spotify.com/album/4DfgMtt4dICgV02uUxLyW3) | 3:27 | 2024-07-01 | 2024-09-10 |
 | [Lidokain](https://open.spotify.com/track/2lQkm39mnvJWhEABSRduHx) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [Lidokain](https://open.spotify.com/album/0epDJ4zO5ZSQtLYcqJ8Z2b) | 2:57 | 2024-08-19 |  |
 | [Loca](https://open.spotify.com/track/4VXiDjCRkKHvXFhSX7OEri) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [KÚTVÖLGYI SÁRA](https://open.spotify.com/artist/2HFVT3TbcVZW8lWVE4eIka) | [Loca](https://open.spotify.com/album/2nKNusskARBW5lMEt3996z) | 1:54 | 2024-07-01 |  |
@@ -65,6 +65,7 @@
 | [PROSECCO](https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:10 | 2024-08-27 |  |
 | [RÓLAD SZÓL](https://open.spotify.com/track/5doAzQzWfbAWMvh2eXxvdf) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [RÓLAD SZÓL](https://open.spotify.com/album/6cadt4eRkdA10HpjTJbcG3) | 2:39 | 2024-07-01 | 2024-08-28 |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-10-07 |  |
+| [SANDELA](https://open.spotify.com/track/28VVWdNsM6l05eOiJfth5X) | [HENN](https://open.spotify.com/artist/7MiVTMPyOXp6jr9H3mFHBb) | [SANDELA](https://open.spotify.com/album/1cTrT1grHhUdGnZOMYg1TR) | 2:57 | 2024-11-04 |  |
 | [SE VELED SE NÉLKÜLED](https://open.spotify.com/track/2hIPLce6sektBjU3YsePqQ) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [SE VELED SE NÉLKÜLED](https://open.spotify.com/album/6TgqXMKR7FmgeOaiWQJVOp) | 2:22 | 2024-07-01 |  |
 | [seholse](https://open.spotify.com/track/3NSBh6qLvHPHMVoj4ET5Rc) | [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee), [Apu](https://open.spotify.com/artist/5KQXF7taFJ2PZntyJuiydN) | [seholse](https://open.spotify.com/album/4Tn7GiPLNrlrbadZRiZiKI) | 2:19 | 2024-07-01 |  |
 | [SENKI NEM SZÓL RÁNK](https://open.spotify.com/track/2vE3ycwf1fDcPt5v8RykaT) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw) | [BANNANI](https://open.spotify.com/album/1tHyKcCUoVbv045LQBFKHO) | 2:50 | 2024-10-28 |  |
@@ -76,6 +77,7 @@
 | [Százszorszép](https://open.spotify.com/track/2KQoXxQzVL7h4rMsmP8t5L) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 2:26 | 2024-07-01 | 2024-08-07 |
 | [Székelykapu](https://open.spotify.com/track/13EtEH0X61xnyEChVmeb2Q) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 2:50 | 2024-07-01 |  |
 | [SZÍVTIPRÓ](https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ](https://open.spotify.com/album/3drLrYFMCLk7wsa5Uk6b6k) | 3:15 | 2024-07-01 |  |
+| [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-11-04 |  |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-09 |  |
 | [Tiara](https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Tiara](https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn) | 3:23 | 2024-07-01 |  |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-07-01 | 2024-09-17 |

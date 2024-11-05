@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 
 > pop woke up and chose chaos\. cover: LISA, ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,750 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,747 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,12 +77,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 67 | [please put me in a medically induced coma](https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL) | 3:06 |
 | 68 | [wannabe](https://open.spotify.com/track/5PXdLJJWQJTOpfHdPkMsOw) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:32 |
 | 69 | [ugly](https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [ugly](https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4) | 3:00 |
-| 70 | [internet baby](https://open.spotify.com/track/0NRjLNZq8PXjoIDW21wT4N) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [internet baby](https://open.spotify.com/album/1Ai0NAOW6lgh5iUBzO7Vlc) | 2:37 |
-| 71 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 |
+| 70 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 |
+| 71 | [internet baby](https://open.spotify.com/track/0NRjLNZq8PXjoIDW21wT4N) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [internet baby](https://open.spotify.com/album/1Ai0NAOW6lgh5iUBzO7Vlc) | 2:37 |
 | 72 | [The Saint And The Sinner](https://open.spotify.com/track/0NglzykMdrtMzNzA6HuDyN) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [The Saint And The Sinner](https://open.spotify.com/album/1mYlxJmW2sSZdSuZFWeaKg) | 3:12 |
 | 73 | [Mailly](https://open.spotify.com/track/74WFvGuPTMONmrGGa3Ab04) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [Mailly](https://open.spotify.com/album/6VZFN9g6d1XbLS7KwXJ9GE) | 4:17 |
-| 74 | [Lunatic](https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lunatic](https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR) | 2:21 |
-| 75 | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz) | 3:42 |
+| 74 | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz) | 3:42 |
+| 75 | [Lunatic](https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lunatic](https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR) | 2:21 |
 | 76 | [THANK YOU FOR RUINING MY LIFE](https://open.spotify.com/track/7ywySoHRFB5U0FbJXYLdiF) | [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [THANK YOU FOR RUINING MY LIFE](https://open.spotify.com/album/1cREwIhq0OuhuSY7W7o5Di) | 2:51 |
 | 77 | [In Hell](https://open.spotify.com/track/5WCi2int1WNpd2pRXZfdoM) | [So Below](https://open.spotify.com/artist/2j551jqYq2HQH3R63vtSQi) | [In Hell](https://open.spotify.com/album/2ubxkET6GOdWdVzabt0s5a) | 3:06 |
 | 78 | [People disappear here](https://open.spotify.com/track/76gkzHEZKCrHwXqv4JsE1o) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power \(Extended\)](https://open.spotify.com/album/1p2rkkve941Ic11dfzfrJD) | 4:07 |

@@ -1,6 +1,6 @@
 {
   "description": "Escute Mc Luanna e mais mulheres no volume m\u00e1ximo! Co-curadoria com <a href=\"spotify:playlist:37i9dQZF1DZ06evO45TXx1\">Mc Luanna</a>.",
-  "num_followers": 187058,
+  "num_followers": 187057,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -983,22 +983,26 @@
     {
       "added_at": "2024-10-11 14:42:33",
       "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/60JfiI4rqmujf7EmoDrCTQ"
+        "name": "Grande",
+        "url": "https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW"
       },
       "artists": [
         {
-          "name": "ONNiKA",
-          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
         },
         {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
         }
       ],
-      "duration_ms": 161486,
-      "name": "Alvo",
-      "url": "https://open.spotify.com/track/4PUSJf1ZCuLiiE8xyEE7Qd"
+      "duration_ms": 157586,
+      "name": "As Preta Primeiro",
+      "url": "https://open.spotify.com/track/5FX48eJV08XJkCjKv1idQF"
     },
     {
       "added_at": "2024-10-11 14:42:33",
@@ -1027,26 +1031,22 @@
     {
       "added_at": "2024-10-11 14:42:33",
       "album": {
-        "name": "Grande",
-        "url": "https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW"
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/60JfiI4rqmujf7EmoDrCTQ"
       },
       "artists": [
         {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
         },
         {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
         }
       ],
-      "duration_ms": 157586,
-      "name": "As Preta Primeiro",
-      "url": "https://open.spotify.com/track/5FX48eJV08XJkCjKv1idQF"
+      "duration_ms": 161486,
+      "name": "Alvo",
+      "url": "https://open.spotify.com/track/4PUSJf1ZCuLiiE8xyEE7Qd"
     },
     {
       "added_at": "2024-10-11 14:42:33",

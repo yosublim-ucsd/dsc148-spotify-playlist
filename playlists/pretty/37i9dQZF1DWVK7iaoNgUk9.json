@@ -1,6 +1,6 @@
 {
   "description": "se for pra sofrer, que seja com trilha sonora",
-  "num_followers": 527629,
+  "num_followers": 527665,
   "original_name": "Cora\u00e7\u00e3o Partido",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "No Escuro,",
-        "url": "https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 169845,
-      "name": "(N\u00e3o) Quero Me Apaixonar",
-      "url": "https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
         "name": "I Won't Give Up",
         "url": "https://open.spotify.com/album/3WeU5jvi9QBSbwV0hYG66P"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 240165,
       "name": "I Won't Give Up",
       "url": "https://open.spotify.com/track/05pKAafT85jeeNhZ6kq7HT"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
+        "name": "No Escuro,",
+        "url": "https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 169845,
+      "name": "(N\u00e3o) Quero Me Apaixonar",
+      "url": "https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "Broken By Desire To Be Heavenly Sent",
-        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Haven't You Ever Been In Love Before?",
-      "url": "https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
         "name": "Swan Upon Leda",
         "url": "https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 222026,
       "name": "Swan Upon Leda",
       "url": "https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Haven't You Ever Been In Love Before?",
+      "url": "https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg"
     },
     {
       "added_at": "2024-10-04 03:00:00",

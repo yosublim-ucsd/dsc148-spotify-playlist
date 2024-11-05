@@ -4,7 +4,7 @@
 
 > 
 
-2,013 songs - 4 day 12 hr 11 min
+2,015 songs - 4 day 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -992,6 +992,7 @@
 | [Killer Queen \- Remastered 2011](https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Remastered Version\)](https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj) | 2:59 | 2021-08-05 |  |
 | [Killin' On Demand](https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Killin' On Demand](https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD) | 2:09 | 2021-08-05 |  |
 | [Killshot \- Slowed + Reverb](https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Killshot \(Slowed + Reverb\)](https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA) | 4:38 | 2021-08-05 |  |
+| [Kinda Like It That Way](https://open.spotify.com/track/3sJZX0uLZkJYXOsULRJAq7) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 2:51 | 2024-11-04 |  |
 | [King For A Day](https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:56 | 2021-08-05 |  |
 | [Kingslayer \(feat\. BABYMETAL\)](https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:40 | 2021-08-05 |  |
 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 | 2023-03-05 |  |
@@ -1023,6 +1024,7 @@
 | [Leave It All To Me \(Theme from iCarly\) \(feat\. Drake Bell\)](https://open.spotify.com/track/7CMIy0uwXyeBv2MvaEUJM1) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp), [Drake Bell](https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne) | [Leave It All To Me \(Theme from iCarly\) \(feat\. Drake Bell\)](https://open.spotify.com/album/5sqQDRCog2FN2BOjCfcO4O) | 2:38 | 2021-08-05 |  |
 | [Leave Me Alone](https://open.spotify.com/track/7HpGa6LsvKZnJsfCZk0Oy4) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XIX: The Deep End Saga](https://open.spotify.com/album/6zFDOD1SXs27ERSlm1q7kY) | 1:50 | 2023-04-22 |  |
 | [Lemon \- Edit](https://open.spotify.com/track/2LKlHBPHxLG5ArAXfF148n) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lemon \(Edit\)](https://open.spotify.com/album/2xGzVkqqc7CFi74fAoIbAa) | 2:26 | 2021-08-05 |  |
+| [Leni \(Crystal Castles vs GoodBooks\)](https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH) | [GoodBooks](https://open.spotify.com/artist/0pwItbAKmeSTovWzxzkkbg), [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Control Freaks \(The Remixes\)](https://open.spotify.com/album/4lPBSP3DIiXn2ktREAsoHw) | 4:16 | 2024-11-04 |  |
 | [Les](https://open.spotify.com/track/0mCVNGC4Vvb6gDDQrDpaRh) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/32KdoFFhgjCLdU0DWL71tx) | 5:17 | 2022-02-04 |  |
 | [Let's Cook Some Hypno!](https://open.spotify.com/track/5b2nNvsJdSdhtLOu5bufkf) | [Govlink](https://open.spotify.com/artist/6vowek15NXZURpBsBnUatz) | [10 Chambers](https://open.spotify.com/album/2rGHkcB0or0EwkpwnOMfew) | 4:46 | 2022-02-18 |  |
 | [Lets Link](https://open.spotify.com/track/6fMzgFFGzWCwiHMzDzNpp5) | [WhoHeem](https://open.spotify.com/artist/5KYEMMz9O9iLIESifKAEOp) | [Lets Link](https://open.spotify.com/album/6M562iDRj7JIB2nvrahv0O) | 2:39 | 2021-08-05 |  |

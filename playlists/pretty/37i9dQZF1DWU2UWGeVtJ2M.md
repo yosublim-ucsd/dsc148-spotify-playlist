@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,521 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,540 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,11 +65,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 55 | [Firebabe](https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Firebabe](https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz) | 3:40 |
 | 56 | [Gone 2 Long](https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Gone 2 Long](https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ) | 3:15 |
 | 57 | [Forever](https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Forever](https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S) | 4:13 |
-| 58 | [Superheroes](https://open.spotify.com/track/2akoq472I49TzrFSJjjf47) | [Esthero](https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH) | [Breath From Another](https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S) | 3:58 |
-| 59 | [Something to Feel](https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 3:33 |
+| 58 | [Something to Feel](https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 3:33 |
+| 59 | [Superheroes](https://open.spotify.com/track/2akoq472I49TzrFSJjjf47) | [Esthero](https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH) | [Breath From Another](https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S) | 3:58 |
 | 60 | [Free Form](https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave002](https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU) | 2:47 |
-| 61 | [Be On My Way \(Full\)](https://open.spotify.com/track/6kLEV4RF4HySkPmGeNOFT8) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 2:37 |
-| 62 | [Cheap Vacations \(feat\. Glassface\)](https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Glassface](https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 3:35 |
+| 61 | [Cheap Vacations \(feat\. Glassface\)](https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Glassface](https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 3:35 |
+| 62 | [Be On My Way \(Full\)](https://open.spotify.com/track/6kLEV4RF4HySkPmGeNOFT8) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 2:37 |
 | 63 | [Distractions](https://open.spotify.com/track/4DGPON9kch3YXAzVsozF8R) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:16 |
 | 64 | [Remember](https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Remember](https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL) | 3:19 |
 | 65 | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv) | 2:22 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 93 | [Temporary](https://open.spotify.com/track/2cRahCZ2Zg5J8AM49CsEv6) | [Tim Schaufert](https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC) | [Temporary](https://open.spotify.com/album/7yrx1Kt6FdZXw7CBuj24TF) | 2:04 |
 | 94 | [Headspace](https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Headspace](https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv) | 3:07 |
 | 95 | [Drive](https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Drive](https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19) | 3:10 |
-| 96 | [Leave You Alone](https://open.spotify.com/track/63QC7HvgJXgH8udcfPqW7q) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Leave You Alone](https://open.spotify.com/album/2kiSvbyjIZCsoSYw40josY) | 3:29 |
-| 97 | [I WILL BE THE CAUSE OF OUR DEATH](https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC) | [takeshi iwamoto](https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9) | [I WILL BE THE CAUSE OF OUR DEATH](https://open.spotify.com/album/2Es4yinpnkszumajLeesGb) | 3:42 |
-| 98 | [Hello, I said](https://open.spotify.com/track/59lb6OBjbZx9Tam2scSnbx) | [Diana Wang](https://open.spotify.com/artist/6qMCbcnBinopCiiCrKQlF3) | [Hello, I said](https://open.spotify.com/album/4bNKNSX4l2cIRlxp0l12fH) | 2:36 |
-| 99 | [seek](https://open.spotify.com/track/493vav5k6NZa9Alre82l7z) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [seek](https://open.spotify.com/album/64qXCWlGOwWxciqEPr3M2a) | 2:50 |
-| 100 | [Whatever This Is](https://open.spotify.com/track/0fSBuNmLlfkzulls16EA6T) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Whatever This Is](https://open.spotify.com/album/7dRN2VuLb4m1CDTHDHwz7h) | 3:07 |
+| 96 | [Whatever This Is](https://open.spotify.com/track/0fSBuNmLlfkzulls16EA6T) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Whatever This Is](https://open.spotify.com/album/7dRN2VuLb4m1CDTHDHwz7h) | 3:07 |
+| 97 | [Leave You Alone](https://open.spotify.com/track/63QC7HvgJXgH8udcfPqW7q) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Leave You Alone](https://open.spotify.com/album/2kiSvbyjIZCsoSYw40josY) | 3:29 |
+| 98 | [I WILL BE THE CAUSE OF OUR DEATH](https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC) | [takeshi iwamoto](https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9) | [I WILL BE THE CAUSE OF OUR DEATH](https://open.spotify.com/album/2Es4yinpnkszumajLeesGb) | 3:42 |
+| 99 | [Hello, I said](https://open.spotify.com/track/59lb6OBjbZx9Tam2scSnbx) | [Diana Wang](https://open.spotify.com/artist/6qMCbcnBinopCiiCrKQlF3) | [Hello, I said](https://open.spotify.com/album/4bNKNSX4l2cIRlxp0l12fH) | 2:36 |
+| 100 | [seek](https://open.spotify.com/track/493vav5k6NZa9Alre82l7z) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [seek](https://open.spotify.com/album/64qXCWlGOwWxciqEPr3M2a) | 2:50 |
 
-Snapshot ID: `ZwNJxgAAAAB8gMV1deGEPJcpLHHhNZsO`
+Snapshot ID: `Zyg10wAAAADvMHtxYlqFbkTr+A/x1rW9`

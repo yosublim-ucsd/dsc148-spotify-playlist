@@ -1,6 +1,6 @@
 {
   "description": "Those quintessential sad songs that everyone knows. ",
-  "num_followers": 196494,
+  "num_followers": 196580,
   "original_name": "Classics For Crying",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-07-12 21:28:34",
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 153466,
-      "name": "Good Riddance (Time of Your Life)",
-      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
-    },
-    {
-      "added_at": "2024-07-12 21:28:34",
-      "album": {
         "name": "In The Lonely Hour",
         "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 172723,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+    },
+    {
+      "added_at": "2024-07-12 21:28:34",
+      "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 153466,
+      "name": "Good Riddance (Time of Your Life)",
+      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
     },
     {
       "added_at": "2024-07-12 21:28:34",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-07-12 21:28:34",
       "album": {
-        "name": "The Script",
-        "url": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 261426,
-      "name": "Breakeven",
-      "url": "https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk"
-    },
-    {
-      "added_at": "2024-07-12 21:28:34",
-      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 199493,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+    },
+    {
+      "added_at": "2024-07-12 21:28:34",
+      "album": {
+        "name": "The Script",
+        "url": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 261426,
+      "name": "Breakeven",
+      "url": "https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk"
     },
     {
       "added_at": "2024-07-12 21:28:34",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-07-12 21:28:34",
       "album": {
-        "name": "Cooleyhighharmony (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 351466,
-      "name": "End Of The Road",
-      "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
-    },
-    {
-      "added_at": "2024-07-12 21:28:34",
-      "album": {
         "name": "The Visitors (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5GByGaws7Cw0t28kjvAOzV"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2024-07-12 21:28:34",
       "album": {
-        "name": "The Queen Is Dead",
-        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+        "name": "Cooleyhighharmony (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
       },
       "artists": [
         {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
         }
       ],
-      "duration_ms": 349186,
-      "name": "I Know It's Over - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3"
+      "duration_ms": 351466,
+      "name": "End Of The Road",
+      "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
     },
     {
       "added_at": "2024-07-12 21:28:34",
@@ -987,6 +971,22 @@
       "duration_ms": 246587,
       "name": "jar of hearts",
       "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
+    },
+    {
+      "added_at": "2024-07-12 21:28:34",
+      "album": {
+        "name": "The Queen Is Dead",
+        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 349186,
+      "name": "I Know It's Over - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3"
     },
     {
       "added_at": "2024-07-12 21:28:34",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-07-12 21:28:34",
       "album": {
-        "name": "The Band Perry",
-        "url": "https://open.spotify.com/album/3dASAcs9QOsmoSLhHjEhCu"
-      },
-      "artists": [
-        {
-          "name": "The Band Perry",
-          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
-        }
-      ],
-      "duration_ms": 222773,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/4u26EevCNXMhlvE1xFBJwX"
-    },
-    {
-      "added_at": "2024-07-12 21:28:34",
-      "album": {
         "name": "Heavier Things",
         "url": "https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 237906,
       "name": "Daughters",
       "url": "https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ"
+    },
+    {
+      "added_at": "2024-07-12 21:28:34",
+      "album": {
+        "name": "Lost Boy",
+        "url": "https://open.spotify.com/album/7drYNu2imHk188vP81icR3"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 275280,
+      "name": "Lost Boy",
+      "url": "https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU"
     }
   ],
   "unique_name": "Classics For Crying",

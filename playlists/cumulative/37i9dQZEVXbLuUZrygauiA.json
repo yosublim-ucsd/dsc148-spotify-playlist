@@ -6663,6 +6663,28 @@
     },
     {
       "album": {
+        "name": "Eureka",
+        "url": "https://open.spotify.com/album/2LA3Z2VlhMWBAIpaAnJFmf"
+      },
+      "artists": [
+        {
+          "name": "Clemente Castillo",
+          "url": "https://open.spotify.com/artist/6xq8uO5PE2Vs9G6OsIicin"
+        },
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "Calaveras y Diablitos",
+      "url": "https://open.spotify.com/track/3hEMRRpy1AiRma7mlsVqY7"
+    },
+    {
+      "album": {
         "name": "Canciones de D\u00eda de Muertos",
         "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
       },
@@ -46234,7 +46256,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 212720,
       "name": "XQ ERES AS\u00cd",
       "url": "https://open.spotify.com/track/5V3CFqzpQSp3frtlVp4T3D"

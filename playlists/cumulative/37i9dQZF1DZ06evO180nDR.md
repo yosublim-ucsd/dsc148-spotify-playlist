@@ -4,7 +4,7 @@
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-115 songs - 6 hr 5 min
+116 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [El Coyote](https://open.spotify.com/track/6bkpFoadpQOmcFE2xC5Rfs) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Con Banda](https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ) | 2:50 | 2022-06-01 | 2023-07-12 |
 | [El David \(En Vivo\)](https://open.spotify.com/track/34RmQsftI2NLUmuxU0shvV) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [70 Calaveras En Vivo, Vol\. 1](https://open.spotify.com/album/3n3dkovrP35FKb2rh61qBN) | 4:23 | 2022-07-23 | 2022-08-25 |
 | [El Elotero](https://open.spotify.com/track/09BwZJMN17PDjpxBnijjyt) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Sera El Sereno](https://open.spotify.com/album/0eDXG5ZGSYinyo2f91s48L) | 2:23 | 2022-06-02 | 2023-10-11 |
-| [El Equipo del Terror](https://open.spotify.com/track/1z6hz6gXLoipHB3R52FkBe) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Equipo del Terror](https://open.spotify.com/album/4mEOGnlCRNiXndnBapMCgI) | 3:24 | 2023-07-03 |  |
+| [El Equipo del Terror](https://open.spotify.com/track/1z6hz6gXLoipHB3R52FkBe) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Equipo del Terror](https://open.spotify.com/album/4mEOGnlCRNiXndnBapMCgI) | 3:24 | 2023-07-03 | 2024-11-05 |
 | [El Fin De Nuestro Amor](https://open.spotify.com/track/5IsKvVrgXiO6QEbETwik9X) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Cigarro De Hoja](https://open.spotify.com/album/6OewxwFeK5w70J6oFhi0no) | 2:41 | 2022-06-01 | 2024-02-06 |
 | [El Jabali \- Huapango Version](https://open.spotify.com/track/3HztqhFkIjy8Jf48FOKDJJ) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 2:55 | 2022-06-01 |  |
 | [El jefe Daniel](https://open.spotify.com/track/4zaS7fP43vAvNBxSIw18N6) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 2:54 | 2023-07-11 | 2024-03-17 |
@@ -73,6 +73,7 @@
 | [La Plebada \(En Vivo\)](https://open.spotify.com/track/0AdIPj093vFCO7t95TWak4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Plebada \(En Vivo\)](https://open.spotify.com/album/4XXYvofbCf6KV5ZkHGw7fq) | 3:38 | 2022-12-25 |  |
 | [La Pobreza Buena](https://open.spotify.com/track/6znmbSFyJDp4diXQWO5QW8) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Pobreza Buena](https://open.spotify.com/album/5pvt7RiMn0dNrzHbxg2NAI) | 3:29 | 2023-09-12 |  |
 | [La Recia](https://open.spotify.com/track/5PGbQgXt8bgXceoK3yZvYo) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 2:30 | 2022-06-01 |  |
+| [La Vida En La Sierra](https://open.spotify.com/track/3hWyiUE4DZLnX5cREZbjh7) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [XV Recargado](https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd) | 2:41 | 2024-11-05 |  |
 | [La Voladora](https://open.spotify.com/track/7FRGDHMVFd3r8dxFzu2xed) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [La Voladora](https://open.spotify.com/album/4SnkVoszi7UkF2KhTG6aLM) | 2:33 | 2023-04-23 |  |
 | [Las 745](https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Las 745](https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg) | 2:43 | 2023-03-11 |  |
 | [Las Dos R](https://open.spotify.com/track/1rlxNbQXvB9mRBB0kszHXq) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:30 | 2024-01-05 |  |

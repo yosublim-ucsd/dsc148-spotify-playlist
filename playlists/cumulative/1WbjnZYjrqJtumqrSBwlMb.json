@@ -8695,6 +8695,24 @@
     },
     {
       "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269622,
+      "name": "Judge Judy",
+      "url": "https://open.spotify.com/track/6ie0uyyvOKTTuIFBMPiNIl"
+    },
+    {
+      "album": {
         "name": "Trench",
         "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
       },

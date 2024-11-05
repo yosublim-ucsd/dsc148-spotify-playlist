@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 313385,
+  "num_followers": 313452,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAABKsYiXKQpb5BLnUPUK30o9",
+  "snapshot_id": "Zya9AAAAAAAgZs+ZrQBwRVIi/Q2GY1lI",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El 21 Black Jack",
+        "url": "https://open.spotify.com/album/1q7gvn0iLFjNP1liFvZtcC"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 146386,
+      "name": "Pilares de Cristal",
+      "url": "https://open.spotify.com/track/5MCLSA55onhNKIOd0R4hzT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adi\u00f3s A Chalino",
         "url": "https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 190450,
       "name": "Carta De Luto",
       "url": "https://open.spotify.com/track/1Z3kGH4Gr3QHeEjloB4GHQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El 21 Black Jack",
-        "url": "https://open.spotify.com/album/1q7gvn0iLFjNP1liFvZtcC"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 146386,
-      "name": "Pilares de Cristal",
-      "url": "https://open.spotify.com/track/5MCLSA55onhNKIOd0R4hzT"
     },
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adi\u00f3s A Chalino",
-        "url": "https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
-        }
-      ],
-      "duration_ms": 186850,
-      "name": "Jorge Cazares",
-      "url": "https://open.spotify.com/track/7uyg1D20KT3R5tRlLSkkqJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya Despu\u00e9s De Muerto",
         "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 199045,
       "name": "Corazoncito Tirano",
       "url": "https://open.spotify.com/track/1lRVQ0anNC6adfOLfsHjG7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adi\u00f3s A Chalino",
+        "url": "https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+        }
+      ],
+      "duration_ms": 186850,
+      "name": "Jorge Cazares",
+      "url": "https://open.spotify.com/track/7uyg1D20KT3R5tRlLSkkqJ"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Mejores Duetos del A\u00f1o",
-        "url": "https://open.spotify.com/album/7terMn7qIuU20lfQidPPQY"
-      },
-      "artists": [
-        {
-          "name": "Saul Viera El Gavilancillo",
-          "url": "https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69"
-        },
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 156709,
-      "name": "La Ametralladora",
-      "url": "https://open.spotify.com/track/6HU6CPW530Rx4mQJShfviL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chalino S\u00e1nchez con Banda Brava",
         "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 207866,
       "name": "El Gallo de Sinaloa",
       "url": "https://open.spotify.com/track/3wlJqg5mnZCGxRdR65W7jb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/0nJ38JGt1eAIQx6PZ3wDk2"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+        }
+      ],
+      "duration_ms": 181655,
+      "name": "Reto a la Muerte",
+      "url": "https://open.spotify.com/track/1U7RVWs5oFa3e3eHN06W5F"
     }
   ],
   "unique_name": "This Is Chalino Sanchez",

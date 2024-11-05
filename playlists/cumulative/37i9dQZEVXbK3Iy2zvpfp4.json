@@ -2214,7 +2214,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 290063,
       "name": "Alternative Outro",
       "url": "https://open.spotify.com/track/0ZFQxmNIOj03o7OMaiPcVX"
@@ -15122,7 +15122,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 95806,
       "name": "FUNK DO BOUNCE",
       "url": "https://open.spotify.com/track/7etchTu0yJDGvk55gIQADV"
@@ -21326,7 +21326,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 186093,
       "name": "It's Going Down Now",
       "url": "https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28"
@@ -31008,7 +31008,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 217333,
       "name": "NEW DROP",
       "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
@@ -33100,7 +33100,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 228000,
       "name": "Ot\u010dina",
       "url": "https://open.spotify.com/track/1DaPZv9UsI21qktLuN7h0U"
@@ -33350,7 +33350,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 150000,
       "name": "Oy Lele",
       "url": "https://open.spotify.com/track/7nnTebRqWMU92pbdF1hpk5"
@@ -34410,7 +34410,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 181100,
       "name": "PepaPig",
       "url": "https://open.spotify.com/track/7G91sPiaaGqstwOShNYCYw"
@@ -38332,7 +38332,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 203621,
       "name": "Safety Net",
       "url": "https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp"
@@ -43997,6 +43997,36 @@
     },
     {
       "album": {
+        "name": "Slime Language 2",
+        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
+      },
+      "artists": [
+        {
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "T-Shyne",
+          "url": "https://open.spotify.com/artist/14qypx78D3Jd1mm7c2BqQb"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226400,
+      "name": "That Go! (feat. T-Shyne)",
+      "url": "https://open.spotify.com/track/6rUmUJ2drFemHTH73bFAKQ"
+    },
+    {
+      "album": {
         "name": "The Astronaut",
         "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
       },
@@ -44064,7 +44094,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 197692,
       "name": "The Ballad of the Witches' Road (Sacred Chant Version)",
       "url": "https://open.spotify.com/track/59h6Uw3m5ClwHnEcKXh8hg"
@@ -44454,7 +44484,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 112171,
       "name": "The Love I Lost",
       "url": "https://open.spotify.com/track/5v2wBVnZ8Wdj1qwIqhcVw2"
@@ -46930,7 +46960,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-01",
+      "date_removed": null,
       "duration_ms": 67596,
       "name": "VAPO NO SETOR",
       "url": "https://open.spotify.com/track/25MzUGleMnmyoeTNRZ8QF1"

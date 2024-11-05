@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,736 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,738 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 | 45 | [Nada Nos Detendrá](https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA) | [Grupo Ciruela](https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S) | [Regreso al Origen](https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn) | 3:12 |
 | 46 | [Mi Mami Dijo](https://open.spotify.com/track/6SqepgrJ8ThiNLmZZW0IcT) | [Los Monjes](https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO) | [Pebbles Vol\. 12, Mexico Pt\. 1, Originals Artifacts From The Psychedelic Era](https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy) | 2:05 |
 | 47 | [Cambia, Cambia](https://open.spotify.com/track/5naHaIvjo1Cw1O4ASdktgG) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [15 Éxitos de los Dug Dug's Rock and Roll](https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC) | 3:18 |
-| 48 | [Nati Bati Yi](https://open.spotify.com/track/0696PYVWQH7HZdTGeY33ZK) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Monster A Go\-Go: Teen Trash From Psychedelic Tokyo '66 \- '69 \(Volume 1\)](https://open.spotify.com/album/0d3ymarURd8tsiawQJJxl7) | 2:29 |
+| 48 | [Boom! Boom! Boom!](https://open.spotify.com/track/4BuMxDprV7PhLj5ykVwA9I) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Slitherama: Teen Trash From Psychedelic Tokyo '66 \- '69 \(Volume 3\)](https://open.spotify.com/album/3sV1mS552317G9XyVhkQOb) | 2:34 |
 | 49 | [Flores en Tu Pelo \(Sn\. Francisco "Flowers In Your Hair"\)](https://open.spotify.com/track/6V9FnhQ6JwhFabU2CHNbcN) | [La Fresa Ácida](https://open.spotify.com/artist/7CmYoo2ydmPuGMVTIX4eUp) | [El Rollo de la Fresa Ácida](https://open.spotify.com/album/10An8pPDBqBxhAu1g0KzKG) | 2:59 |
 | 50 | [No Quiero Ya Volver](https://open.spotify.com/track/6Pv5pNSFNIO9FvOm1qGQ5F) | [La Máquina Del Sonido](https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg) | [Fuego](https://open.spotify.com/album/5XtOkFfnOOIvhK1skQsKdN) | 3:24 |
 

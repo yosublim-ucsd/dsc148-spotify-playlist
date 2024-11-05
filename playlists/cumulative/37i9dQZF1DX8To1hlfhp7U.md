@@ -4,7 +4,7 @@
 
 > Get ready for a full\-body workout
 
-60 songs - 3 hr 11 min
+61 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Light Weight](https://open.spotify.com/track/7FeLqPl1Ds0QR8UOxyKLhp) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Light Weight \- Single](https://open.spotify.com/album/3XwTloJnC6Feq5pdfmhiQ6) | 3:36 | 2023-06-22 |  |
 | [Luna](https://open.spotify.com/track/1Hy2ZRkFGC3P47r6lDX2sy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:06 | 2023-06-22 |  |
 | [Moorni](https://open.spotify.com/track/0HMqknanFIn0efQ5U4nUHT) | [Panjabi MC](https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR) | [The Raj](https://open.spotify.com/album/3mrDe7cZuguaXCWDt0Gwtx) | 4:22 | 2023-06-22 | 2024-04-19 |
-| [Moorni](https://open.spotify.com/track/6AGXnSDmGrJ78K9NHN8AT1) | [Panjabi MC](https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR) | [The Raj](https://open.spotify.com/album/28HBnGZa19Ybqe6R1uCsZH) | 4:24 | 2024-04-05 |  |
+| [Moorni](https://open.spotify.com/track/6AGXnSDmGrJ78K9NHN8AT1) | [Panjabi MC](https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR) | [The Raj](https://open.spotify.com/album/28HBnGZa19Ybqe6R1uCsZH) | 4:24 | 2024-04-05 | 2024-11-05 |
 | [Muchh](https://open.spotify.com/track/3m3uKnTWKAPlnfggqVsIOq) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Muchh](https://open.spotify.com/album/6Tu3rISlgcL1tjBLb3jmuS) | 3:25 | 2023-06-22 |  |
 | [Nachan Nu Jee Karda \(From "Angrezi Medium"\)](https://open.spotify.com/track/2zQeAeH3q0K7U2AWEcVOsF) | [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Tigerstyle](https://open.spotify.com/artist/5DPXmKUA7F5ZKDNww9jWIS) | [Nachan Nu Jee Karda \(From "Angrezi Medium"\)](https://open.spotify.com/album/0GrVV09R7votIjQBpBLwLC) | 2:47 | 2023-06-22 |  |
 | [Nakhreya Mari](https://open.spotify.com/track/5ysIp2rJDfWkXVsYAMisa9) | [DJ Sanj](https://open.spotify.com/artist/1kfqHPfj8yygKGMD3NrDE5), [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [American Desi 2](https://open.spotify.com/album/3B8IuIAIkLnBxvtmqC0yXO) | 2:59 | 2023-06-22 |  |
@@ -59,6 +59,7 @@
 | [Sahnewal](https://open.spotify.com/track/5mis73YN8K7yqFLZrJandE) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:41 | 2023-06-22 |  |
 | [Sang Maar Gayi](https://open.spotify.com/track/4kKwMfSZyjiJyAPNWCDJed) | [Geeta Zaildar](https://open.spotify.com/artist/78rdC4FvVaOJmEgfjlUi4a), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Sang Maar Gayi](https://open.spotify.com/album/6GXO46JpbsnaAAqw1VFmBo) | 2:58 | 2023-06-22 |  |
 | [Sip Sip](https://open.spotify.com/track/3PKEWXIkFwSJnlGdhjivCP) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Intense](https://open.spotify.com/artist/1fiV2IiPFeUHHg6LGKHF9R) | [Sip Sip](https://open.spotify.com/album/5VZK2hiVQ86cVglMLXsIga) | 3:36 | 2023-06-22 |  |
+| [Sohna Munda](https://open.spotify.com/track/6aVPnC26Jr2MwzlSNd7lQv) | [Bukka Jatt](https://open.spotify.com/artist/4EKIG5bG1BlL7NHvzDw4XV), [Vicky Dhaliwal](https://open.spotify.com/artist/5Gf8EL6dRLNm7EJNnLQ4vf), [Master Mind](https://open.spotify.com/artist/2YeNjkqQUEPNtoEryZYbdz) | [Sohna Munda](https://open.spotify.com/album/79DQmQ2NHrvhOuE5WYKh7R) | 2:14 | 2024-11-04 |  |
 | [Take It Easy](https://open.spotify.com/track/5si4xdFplkXAydKfFe1xXa) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:30 | 2023-06-22 |  |
 | [Tankha](https://open.spotify.com/track/0L4uTenn6ln6mVxz1hr2co) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Tankha \- Single](https://open.spotify.com/album/6646YdKCiWNHAtqBvccQGW) | 2:58 | 2023-06-22 |  |
 | [Teeje Week](https://open.spotify.com/track/000RDCYioLteXcutOjeweY) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Teeje Week](https://open.spotify.com/album/6LxCxBowIfX7JAfmafOIaM) | 3:10 | 2023-06-22 |  |

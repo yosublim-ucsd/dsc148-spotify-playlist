@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: 奇妙礼太郎
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,920 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,925 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 78 | [Fallin](https://open.spotify.com/track/1tpk0IGfeMshahOQgQQWb5) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [Insomnia](https://open.spotify.com/album/3OWVzVs8Kkngnks5Or0WFZ) | 3:53 |
 | 79 | [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:14 |
 | 80 | [ハミング](https://open.spotify.com/track/17f50sZb2FwIeyh89It1qX) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [ハミング](https://open.spotify.com/album/17eurvWkXobPOJpJZsrbLw) | 3:39 |
-| 81 | [traveling \- Re\-Recording](https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [SCIENCE FICTION](https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW) | 5:08 |
-| 82 | [少しだけ](https://open.spotify.com/track/0WLDdeAg7wipOvlNByiMhD) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [少しだけ](https://open.spotify.com/album/2AR2Ep7BpnwSEtbGoC5pmc) | 3:35 |
-| 83 | [BANDAGE](https://open.spotify.com/track/14A4jC5UJzjqr8nWW5jFqe) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [BANDAGE](https://open.spotify.com/album/6n2pGYbSxV3RtXgJHcqMxz) | 3:08 |
+| 81 | [少しだけ](https://open.spotify.com/track/0WLDdeAg7wipOvlNByiMhD) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [少しだけ](https://open.spotify.com/album/2AR2Ep7BpnwSEtbGoC5pmc) | 3:35 |
+| 82 | [BANDAGE](https://open.spotify.com/track/14A4jC5UJzjqr8nWW5jFqe) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [BANDAGE](https://open.spotify.com/album/6n2pGYbSxV3RtXgJHcqMxz) | 3:08 |
+| 83 | [traveling \- Re\-Recording](https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [SCIENCE FICTION](https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW) | 5:08 |
 | 84 | [嘘つきの君が好き](https://open.spotify.com/track/4f38Jn95Ls3TEpqeeTdJjT) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [嘘つきの君が好き](https://open.spotify.com/album/4aSOGfFjJiJpqsP5HwHYhs) | 3:14 |
 | 85 | [Super Ball](https://open.spotify.com/track/6eh0kyNpZlmJbtMb1mLHTo) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [TWO MOON](https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa) | 3:23 |
 | 86 | [Véranda](https://open.spotify.com/track/6h5ndow0y3PdcW6nFsxLFz) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [Véranda](https://open.spotify.com/album/0BuqNtULCov27tKzycHoWT) | 3:23 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 92 | [ロックスター](https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ロックスター](https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w) | 3:59 |
 | 93 | [スイートメモリー](https://open.spotify.com/track/1ogO3SlbAhuba46ecZ05v8) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [スイートメモリー](https://open.spotify.com/album/5Zxr5RKkTWrkrMmSULCNQD) | 3:19 |
 | 94 | [夜空](https://open.spotify.com/track/1rWp9c9Po0i4lAfCJYOoBh) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [夜空](https://open.spotify.com/album/0jUNTykn9v1VLuJGkE42d7) | 4:09 |
-| 95 | [happy ever after](https://open.spotify.com/track/4bi2VYzw1Q4SWOWdte0BQr) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [happy ever after](https://open.spotify.com/album/4sdCOEFUUmOg5K2egwc4W9) | 3:46 |
-| 96 | [キミとボクの最幸な生活。](https://open.spotify.com/track/1QRy1W0m4UWGHvjrZBj1AX) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [キミとボクの最幸な生活。](https://open.spotify.com/album/0WssnNIUvw3DtiQC8NjBBp) | 3:03 |
+| 95 | [キミとボクの最幸な生活。](https://open.spotify.com/track/1QRy1W0m4UWGHvjrZBj1AX) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [キミとボクの最幸な生活。](https://open.spotify.com/album/0WssnNIUvw3DtiQC8NjBBp) | 3:03 |
+| 96 | [happy ever after](https://open.spotify.com/track/4bi2VYzw1Q4SWOWdte0BQr) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [happy ever after](https://open.spotify.com/album/4sdCOEFUUmOg5K2egwc4W9) | 3:46 |
 | 97 | [青春謳歌 \(feat.ano\)](https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [青春謳歌 \(feat.ano\)](https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG) | 3:47 |
 | 98 | [常緑](https://open.spotify.com/track/42dM8WcW6SUxueqABK1LmQ) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [常緑](https://open.spotify.com/album/36Wwao113URCTIu6PoR9sH) | 2:51 |
 | 99 | [光の跡](https://open.spotify.com/track/4QOTrPksb0oe1d7iJ8VZ89) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 4:10 |

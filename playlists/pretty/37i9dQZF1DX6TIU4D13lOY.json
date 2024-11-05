@@ -1,6 +1,6 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 264943,
+  "num_followers": 264986,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZowqsgAAAAB38pMhSYuYnSshQ61X2mVK",
   "tracks": [
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
-      },
-      "artists": [
-        {
-          "name": "Looking Glass",
-          "url": "https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Brandy (You're a Fine Girl)",
-      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
-    },
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 201373,
       "name": "She's Always a Woman",
       "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
+      },
+      "artists": [
+        {
+          "name": "Looking Glass",
+          "url": "https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Brandy (You're a Fine Girl)",
+      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -555,6 +555,22 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
+        "name": "Backless",
+        "url": "https://open.spotify.com/album/3Xgt0D7DlSQ5HluyECu33i"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 181226,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/1oar8gdDX5yHWzVstAHDav"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
         "name": "Something / Anything?",
         "url": "https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 165400,
       "name": "Your Smiling Face",
       "url": "https://open.spotify.com/track/1Q34tAtTWI6RdW1qzFQiPb"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
-        "name": "Backless",
-        "url": "https://open.spotify.com/album/3Xgt0D7DlSQ5HluyECu33i"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 181226,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/1oar8gdDX5yHWzVstAHDav"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -875,22 +875,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Time Passages",
-        "url": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0"
-      },
-      "artists": [
-        {
-          "name": "Al Stewart",
-          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
-        }
-      ],
-      "duration_ms": 403040,
-      "name": "Time Passages",
-      "url": "https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Chicago IX: Chicago's Greatest Hits",
         "url": "https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 235800,
       "name": "Saturday in the Park",
       "url": "https://open.spotify.com/track/6suCI1pLqqvVVLLvLzjoKc"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Time Passages",
+        "url": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0"
+      },
+      "artists": [
+        {
+          "name": "Al Stewart",
+          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
+        }
+      ],
+      "duration_ms": 403040,
+      "name": "Time Passages",
+      "url": "https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq"
     },
     {
       "added_at": "2020-01-07 15:31:11",

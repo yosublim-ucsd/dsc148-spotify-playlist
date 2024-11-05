@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 69781,
+  "num_followers": 69785,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
+        "name": "Ella, La Que No Quiso",
+        "url": "https://open.spotify.com/album/1aGRZjZVmiEktlVsCx5lJj"
+      },
+      "artists": [
+        {
+          "name": "RIVALES DE CHILE",
+          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
+        }
+      ],
+      "duration_ms": 275676,
+      "name": "Ya Sup\u00e9rame",
+      "url": "https://open.spotify.com/track/4iDTrmoyem5De8YZkTGIag"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
         "name": "Nacieron para Triunfar, Vol. 1",
         "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
       },
@@ -507,34 +523,18 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "Ella, La Que No Quiso",
-        "url": "https://open.spotify.com/album/1aGRZjZVmiEktlVsCx5lJj"
+        "name": "Una D\u00e9cada de \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JnWNO7tFztY1PMVHtnFZl"
       },
       "artists": [
         {
-          "name": "RIVALES DE CHILE",
-          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
+          "name": "Los Prisioneros del Sur",
+          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
         }
       ],
-      "duration_ms": 275676,
-      "name": "Ya Sup\u00e9rame",
-      "url": "https://open.spotify.com/track/4iDTrmoyem5De8YZkTGIag"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
-        "name": "Descaderando Viejos por Todo Chile",
-        "url": "https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q"
-      },
-      "artists": [
-        {
-          "name": "Banda Salvaje",
-          "url": "https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg"
-        }
-      ],
-      "duration_ms": 287040,
-      "name": "Me Vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW"
+      "duration_ms": 264672,
+      "name": "Como Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/3wUzYtWsQCFhsMAyVFOhrY"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "Una D\u00e9cada de \u00c9xitos",
-        "url": "https://open.spotify.com/album/0JnWNO7tFztY1PMVHtnFZl"
+        "name": "Descaderando Viejos por Todo Chile",
+        "url": "https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q"
       },
       "artists": [
         {
-          "name": "Los Prisioneros del Sur",
-          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
+          "name": "Banda Salvaje",
+          "url": "https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg"
         }
       ],
-      "duration_ms": 264672,
-      "name": "Como Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/3wUzYtWsQCFhsMAyVFOhrY"
+      "duration_ms": 287040,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "Para Nuestra Gente",
-        "url": "https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK"
-      },
-      "artists": [
-        {
-          "name": "Los tremendos laureles",
-          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
-        }
-      ],
-      "duration_ms": 200100,
-      "name": "Sin Coronas Ni Reinas",
-      "url": "https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
         "name": "Entre el Amor y el Odio",
         "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 188577,
       "name": "Mi Complice",
       "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
+        "name": "Para Nuestra Gente",
+        "url": "https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK"
+      },
+      "artists": [
+        {
+          "name": "Los tremendos laureles",
+          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
+        }
+      ],
+      "duration_ms": 200100,
+      "name": "Sin Coronas Ni Reinas",
+      "url": "https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -1167,22 +1167,6 @@
       "duration_ms": 192776,
       "name": "Vivo la Vida",
       "url": "https://open.spotify.com/track/5dSElsITPbdki1S7PuWtjV"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
-        "name": "El Corrido Del R-15",
-        "url": "https://open.spotify.com/album/71AvOjT5t3bLf0GuLZBTYA"
-      },
-      "artists": [
-        {
-          "name": "La Descendencia Chilena",
-          "url": "https://open.spotify.com/artist/1K32xjhUxJktdl9aaCwK4n"
-        }
-      ],
-      "duration_ms": 204970,
-      "name": "El Corrido Del R-15",
-      "url": "https://open.spotify.com/track/7rjQhl7r3019yShjY02VdO"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -1231,6 +1215,22 @@
       "duration_ms": 232190,
       "name": "La Pagar\u00e1s",
       "url": "https://open.spotify.com/track/6e3m4DljhPz53HKhaFqsky"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
+        "name": "El Corrido Del R-15",
+        "url": "https://open.spotify.com/album/71AvOjT5t3bLf0GuLZBTYA"
+      },
+      "artists": [
+        {
+          "name": "La Descendencia Chilena",
+          "url": "https://open.spotify.com/artist/1K32xjhUxJktdl9aaCwK4n"
+        }
+      ],
+      "duration_ms": 204970,
+      "name": "El Corrido Del R-15",
+      "url": "https://open.spotify.com/track/7rjQhl7r3019yShjY02VdO"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "Por Andar de Patas Negras",
-        "url": "https://open.spotify.com/album/58WLAwlsDcs6vKSNBkIzP7"
-      },
-      "artists": [
-        {
-          "name": "Los tremendos laureles",
-          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Por Andar de Patas Negras",
-      "url": "https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
         "name": "12 A\u00f1os de Historia",
         "url": "https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 178586,
       "name": "La Rumbera",
       "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
+        "name": "Por Andar de Patas Negras",
+        "url": "https://open.spotify.com/album/58WLAwlsDcs6vKSNBkIzP7"
+      },
+      "artists": [
+        {
+          "name": "Los tremendos laureles",
+          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "Por Andar de Patas Negras",
+      "url": "https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "Estoy Con Otro en la Cama",
-        "url": "https://open.spotify.com/album/7xECaOAPUu81Mz8AQCgwY1"
-      },
-      "artists": [
-        {
-          "name": "Las Patronas de Chile",
-          "url": "https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk"
-        }
-      ],
-      "duration_ms": 199140,
-      "name": "Estoy Con Otro en la Cama",
-      "url": "https://open.spotify.com/track/5LOhedbcSswrPBsfMpRGnN"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1qE854buRuUPuvoHNkgb7I"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "Fiesta Ranchera",
-        "url": "https://open.spotify.com/album/7nmI2Gqq4GPBWtfEw2vS0W"
+        "name": "Estoy Con Otro en la Cama",
+        "url": "https://open.spotify.com/album/7xECaOAPUu81Mz8AQCgwY1"
       },
       "artists": [
         {
-          "name": "Los Ruise\u00f1ores de la Frontera",
-          "url": "https://open.spotify.com/artist/0CYa9QRhZqJguCRwAybSj4"
+          "name": "Las Patronas de Chile",
+          "url": "https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk"
         }
       ],
-      "duration_ms": 186786,
-      "name": "Abrazado a Mi Botella",
-      "url": "https://open.spotify.com/track/6dHkcQJpnz0QXVg7hX5m5X"
+      "duration_ms": 199140,
+      "name": "Estoy Con Otro en la Cama",
+      "url": "https://open.spotify.com/track/5LOhedbcSswrPBsfMpRGnN"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -1539,6 +1523,22 @@
       "duration_ms": 275249,
       "name": "Burbujas de Amor",
       "url": "https://open.spotify.com/track/2x5COOGasiDIfK7oHgpeJl"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
+        "name": "Fiesta Ranchera",
+        "url": "https://open.spotify.com/album/7nmI2Gqq4GPBWtfEw2vS0W"
+      },
+      "artists": [
+        {
+          "name": "Los Ruise\u00f1ores de la Frontera",
+          "url": "https://open.spotify.com/artist/0CYa9QRhZqJguCRwAybSj4"
+        }
+      ],
+      "duration_ms": 186786,
+      "name": "Abrazado a Mi Botella",
+      "url": "https://open.spotify.com/track/6dHkcQJpnz0QXVg7hX5m5X"
     },
     {
       "added_at": "2024-10-14 19:21:32",

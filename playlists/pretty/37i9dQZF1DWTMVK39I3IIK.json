@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8 <a href=\"spotify:artist:0dMc2FDDeU7OzAn5EsYKuU\">\u00d8sten</a> har nyt album ude\u2764\ufe0f\u200d\ud83d\udd25",
-  "num_followers": 45506,
+  "num_followers": 45504,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Undskyld",
+        "url": "https://open.spotify.com/album/4NXmhhae3kO8EJBrTVmmoQ"
+      },
+      "artists": [
+        {
+          "name": "Pauline",
+          "url": "https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl"
+        }
+      ],
+      "duration_ms": 154585,
+      "name": "Undskyld",
+      "url": "https://open.spotify.com/track/1ug3sLJmoOfkAePLrwLaTE"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "I Know All The Words But I Can't Say Goodbye",
         "url": "https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 207558,
       "name": "We Grow",
       "url": "https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "I storsl\u00e5et kinddans, med livet som indsats",
-        "url": "https://open.spotify.com/album/4kCIEEooRWkYSiZhn7EECg"
-      },
-      "artists": [
-        {
-          "name": "URO",
-          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
-        }
-      ],
-      "duration_ms": 171384,
-      "name": "Mand P\u00e5 En Nat",
-      "url": "https://open.spotify.com/track/003Ljf2u0rLc63T1jSTa0L"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -375,22 +375,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "DR\u00d8MMEHUG",
-        "url": "https://open.spotify.com/album/7wPXbzrGAJodvAM3MIEQuV"
+        "name": "I storsl\u00e5et kinddans, med livet som indsats",
+        "url": "https://open.spotify.com/album/4kCIEEooRWkYSiZhn7EECg"
       },
       "artists": [
         {
-          "name": "HUGORM",
-          "url": "https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2"
-        },
-        {
-          "name": "PRISMA",
-          "url": "https://open.spotify.com/artist/5b02TpKt4S8eb9f7Smg8Au"
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
         }
       ],
-      "duration_ms": 168090,
-      "name": "HJEM FRA M\u00c5NEN (feat. PRISMA)",
-      "url": "https://open.spotify.com/track/1lqB3EKI6LpbVDPWS87URu"
+      "duration_ms": 171384,
+      "name": "Mand P\u00e5 En Nat",
+      "url": "https://open.spotify.com/track/003Ljf2u0rLc63T1jSTa0L"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -411,18 +407,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Undskyld",
-        "url": "https://open.spotify.com/album/4NXmhhae3kO8EJBrTVmmoQ"
+        "name": "DR\u00d8MMEHUG",
+        "url": "https://open.spotify.com/album/7wPXbzrGAJodvAM3MIEQuV"
       },
       "artists": [
         {
-          "name": "Pauline",
-          "url": "https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl"
+          "name": "HUGORM",
+          "url": "https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2"
+        },
+        {
+          "name": "PRISMA",
+          "url": "https://open.spotify.com/artist/5b02TpKt4S8eb9f7Smg8Au"
         }
       ],
-      "duration_ms": 154585,
-      "name": "Undskyld",
-      "url": "https://open.spotify.com/track/1ug3sLJmoOfkAePLrwLaTE"
+      "duration_ms": 168090,
+      "name": "HJEM FRA M\u00c5NEN (feat. PRISMA)",
+      "url": "https://open.spotify.com/track/1lqB3EKI6LpbVDPWS87URu"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "V\u00e5gen igen",
+        "url": "https://open.spotify.com/album/2XjznrGCaPqfMTvdadWfzb"
+      },
+      "artists": [
+        {
+          "name": "Mona Moroni",
+          "url": "https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS"
+        }
+      ],
+      "duration_ms": 250500,
+      "name": "V\u00e5gen igen",
+      "url": "https://open.spotify.com/track/4ZA8fLnOlO8u0OOT4QrMD5"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Elendig Software",
         "url": "https://open.spotify.com/album/63y6pPYBqIlVWzA0xj796o"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 243312,
       "name": "T\u00e6t P\u00e5 Paradis",
       "url": "https://open.spotify.com/track/7dUd1GZ3DEbL2wyhzjpvoM"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "N\u00e5r Du R\u00f8rer Ved Mig",
-        "url": "https://open.spotify.com/album/4QF32PL3bB5cAzY6RFzeLg"
-      },
-      "artists": [
-        {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
-        }
-      ],
-      "duration_ms": 217242,
-      "name": "N\u00e5r Du R\u00f8rer Ved Mig",
-      "url": "https://open.spotify.com/track/1KaWWvD6AcG3Hyyr9jyLhf"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -571,34 +571,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "V\u00e5gen igen",
-        "url": "https://open.spotify.com/album/2XjznrGCaPqfMTvdadWfzb"
+        "name": "N\u00e5r Du R\u00f8rer Ved Mig",
+        "url": "https://open.spotify.com/album/4QF32PL3bB5cAzY6RFzeLg"
       },
       "artists": [
         {
-          "name": "Mona Moroni",
-          "url": "https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS"
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
         }
       ],
-      "duration_ms": 250500,
-      "name": "V\u00e5gen igen",
-      "url": "https://open.spotify.com/track/4ZA8fLnOlO8u0OOT4QrMD5"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "When you wake up",
-        "url": "https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY"
-      },
-      "artists": [
-        {
-          "name": "Molina",
-          "url": "https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF"
-        }
-      ],
-      "duration_ms": 266236,
-      "name": "I am your house",
-      "url": "https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5"
+      "duration_ms": 217242,
+      "name": "N\u00e5r Du R\u00f8rer Ved Mig",
+      "url": "https://open.spotify.com/track/1KaWWvD6AcG3Hyyr9jyLhf"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -615,6 +599,22 @@
       "duration_ms": 180664,
       "name": "Marianne og Henrik",
       "url": "https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "When you wake up",
+        "url": "https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY"
+      },
+      "artists": [
+        {
+          "name": "Molina",
+          "url": "https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF"
+        }
+      ],
+      "duration_ms": 266236,
+      "name": "I am your house",
+      "url": "https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "ENGLE & BLAA MAERKER",
-        "url": "https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x"
-      },
-      "artists": [
-        {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
-        }
-      ],
-      "duration_ms": 174017,
-      "name": "oslo til k\u00f8benhavn",
-      "url": "https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "SHE-REX",
         "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 232465,
       "name": "promise to pick up the phone",
       "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "ENGLE & BLAA MAERKER",
+        "url": "https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x"
+      },
+      "artists": [
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        }
+      ],
+      "duration_ms": 174017,
+      "name": "oslo til k\u00f8benhavn",
+      "url": "https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "D\u00e5rligste Bedste Id\u00e9",
+        "url": "https://open.spotify.com/album/0fsi7iQLNKjjs2zsWjNzyl"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw"
+        }
+      ],
+      "duration_ms": 196510,
+      "name": "D\u00e5rligste Bedste Id\u00e9",
+      "url": "https://open.spotify.com/track/3MMQxJeAw1A9jjqyGHz8DF"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Great Doubt EDITS",
         "url": "https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4"
       },
@@ -931,24 +947,8 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "D\u00e5rligste Bedste Id\u00e9",
-        "url": "https://open.spotify.com/album/0fsi7iQLNKjjs2zsWjNzyl"
-      },
-      "artists": [
-        {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw"
-        }
-      ],
-      "duration_ms": 196510,
-      "name": "D\u00e5rligste Bedste Id\u00e9",
-      "url": "https://open.spotify.com/track/3MMQxJeAw1A9jjqyGHz8DF"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Caravan",
-        "url": "https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi"
+        "name": "Keep Forgetting",
+        "url": "https://open.spotify.com/album/5HBhsnBwHddgj9ookdBhDj"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
         }
       ],
-      "duration_ms": 314708,
-      "name": "Cursing and Lying!",
-      "url": "https://open.spotify.com/track/5dslPul1UbjAHzUcFZZoUw"
+      "duration_ms": 173028,
+      "name": "Keep Forgetting",
+      "url": "https://open.spotify.com/track/1rc1butXPjPJnAR2LVJWvv"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Dopa min",
-        "url": "https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b"
-      },
-      "artists": [
-        {
-          "name": "Bette",
-          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
-        }
-      ],
-      "duration_ms": 161911,
-      "name": "Dopa min",
-      "url": "https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Sunshine In Atalaya",
         "url": "https://open.spotify.com/album/7i2joJdXELNzwEi1dNmkC9"
       },
@@ -1119,8 +1103,24 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Keep Forgetting",
-        "url": "https://open.spotify.com/album/5HBhsnBwHddgj9ookdBhDj"
+        "name": "Dopa min",
+        "url": "https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b"
+      },
+      "artists": [
+        {
+          "name": "Bette",
+          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
+        }
+      ],
+      "duration_ms": 161911,
+      "name": "Dopa min",
+      "url": "https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Caravan",
+        "url": "https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi"
       },
       "artists": [
         {
@@ -1128,9 +1128,9 @@
           "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
         }
       ],
-      "duration_ms": 173028,
-      "name": "Keep Forgetting",
-      "url": "https://open.spotify.com/track/1rc1butXPjPJnAR2LVJWvv"
+      "duration_ms": 314708,
+      "name": "Cursing and Lying!",
+      "url": "https://open.spotify.com/track/5dslPul1UbjAHzUcFZZoUw"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/32mo9QQbaLGnv7C8kXMNxx"
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
       },
       "artists": [
         {
-          "name": "School of X",
-          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
         }
       ],
-      "duration_ms": 190200,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/49LGe1i7eznRGUyOHD4tVM"
+      "duration_ms": 241716,
+      "name": "Se Mig F\u00f8r Jeg Glemmer Hvem Jeg Er",
+      "url": "https://open.spotify.com/track/6eKpCSesviVv5WEtuU8fMJ"
     }
   ],
   "unique_name": "ung kniv ",

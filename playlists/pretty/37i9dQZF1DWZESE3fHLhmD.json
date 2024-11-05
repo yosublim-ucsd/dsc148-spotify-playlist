@@ -1,6 +1,6 @@
 {
   "description": "Endlich Zeit f\u00fcr Herbstspazierg\u00e4nge, Gem\u00fctlichkeit & hei\u00dfe Schokolade!",
-  "num_followers": 1319984,
+  "num_followers": 1320440,
   "original_name": "Herbstgef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-10-18 13:56:04",
       "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
-    },
-    {
-      "added_at": "2024-10-18 13:56:04",
-      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    {
+      "added_at": "2024-10-18 13:56:04",
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
       "added_at": "2024-10-18 13:56:04",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-10-18 13:56:04",
       "album": {
-        "name": "Before You Leave Me",
-        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 176178,
-      "name": "Before You Leave Me",
-      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
-    },
-    {
-      "added_at": "2024-10-18 13:56:04",
-      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
+    },
+    {
+      "added_at": "2024-10-18 13:56:04",
+      "album": {
+        "name": "Before You Leave Me",
+        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 176178,
+      "name": "Before You Leave Me",
+      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
     },
     {
       "added_at": "2024-10-18 13:56:04",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-10-18 13:56:04",
       "album": {
+        "name": "Sing Like Madonna",
+        "url": "https://open.spotify.com/album/4iDYXsSzgSmXRzzyBfR6yT"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Schub",
+          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+        }
+      ],
+      "duration_ms": 213678,
+      "name": "Sing Like Madonna",
+      "url": "https://open.spotify.com/track/6R81LNxCNqY9c1TXCuyvXq"
+    },
+    {
+      "added_at": "2024-10-18 13:56:04",
+      "album": {
         "name": "K.I.D.S.",
         "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 195873,
       "name": "The Spins",
       "url": "https://open.spotify.com/track/7BcOUi4FQ3wBLmNTW0yfCR"
-    },
-    {
-      "added_at": "2024-10-18 13:56:04",
-      "album": {
-        "name": "Sing Like Madonna",
-        "url": "https://open.spotify.com/album/4iDYXsSzgSmXRzzyBfR6yT"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Schub",
-          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
-        }
-      ],
-      "duration_ms": 213678,
-      "name": "Sing Like Madonna",
-      "url": "https://open.spotify.com/track/6R81LNxCNqY9c1TXCuyvXq"
     },
     {
       "added_at": "2024-10-18 13:56:04",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-10-18 13:56:04",
       "album": {
-        "name": "people pleaser / sleep at night",
-        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 146654,
-      "name": "people pleaser",
-      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
-    },
-    {
-      "added_at": "2024-10-18 13:56:04",
-      "album": {
         "name": "Zu sp\u00e4t um umzudrehen - EP",
         "url": "https://open.spotify.com/album/4ZlWpPndD8wgBG0XZmwDaP"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 177818,
       "name": "Zimmer",
       "url": "https://open.spotify.com/track/05jxlV1d75GkrMEZCP9qHQ"
+    },
+    {
+      "added_at": "2024-10-18 13:56:04",
+      "album": {
+        "name": "people pleaser / sleep at night",
+        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 146654,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
     },
     {
       "added_at": "2024-10-18 13:56:04",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-10-18 13:56:04",
       "album": {
-        "name": "Miss Me Too",
-        "url": "https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 182064,
-      "name": "Miss Me Too",
-      "url": "https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo"
-    },
-    {
-      "added_at": "2024-10-18 13:56:04",
-      "album": {
         "name": "rimini tape",
         "url": "https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2024-10-18 13:56:04",
       "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+        "name": "Miss Me Too",
+        "url": "https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
+      "duration_ms": 182064,
+      "name": "Miss Me Too",
+      "url": "https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo"
     },
     {
       "added_at": "2024-10-18 13:56:04",
@@ -1587,6 +1571,22 @@
       "duration_ms": 141600,
       "name": "Liebesbriefe",
       "url": "https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1"
+    },
+    {
+      "added_at": "2024-10-18 13:56:04",
+      "album": {
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-10-18 13:56:04",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-10-18 13:56:04",
       "album": {
-        "name": "Spite",
-        "url": "https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 159213,
-      "name": "Spite",
-      "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
-    },
-    {
-      "added_at": "2024-10-18 13:56:04",
-      "album": {
         "name": "Du Warst Immer Dabei",
         "url": "https://open.spotify.com/album/3sB2oXeboxrGxxPoCUoK5f"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 175823,
       "name": "Du Warst Immer Dabei",
       "url": "https://open.spotify.com/track/6y4nvDn87SH0mLln0jEFmk"
+    },
+    {
+      "added_at": "2024-10-18 13:56:04",
+      "album": {
+        "name": "Spite",
+        "url": "https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 159213,
+      "name": "Spite",
+      "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
     }
   ],
   "unique_name": "Herbstgef\u00fchle",

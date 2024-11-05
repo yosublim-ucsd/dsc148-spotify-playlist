@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover: Tanishka Bahl
 
-318 songs - 18 hr 16 min
+319 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aao Na](https://open.spotify.com/track/7jHxMddr8mtxqdlyw1cN7l) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Aao Na](https://open.spotify.com/album/1QdtXX9vMP2P7PldhkMboq) | 3:19 | 2023-01-10 | 2024-03-13 |
 | [Aapki Yaad](https://open.spotify.com/track/5Bi49mDJQ6IjDbxnlpxxrZ) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Aapki Yaad](https://open.spotify.com/album/6ETtqi3HL36TiXpO0U2U4E) | 3:06 | 2022-03-25 | 2023-02-23 |
 | [Aarzoo](https://open.spotify.com/track/26buvjxi64EHjKs2vfdZkf) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Aarzoo](https://open.spotify.com/album/4fpwyrMEdb0e9EDoSvSgqW) | 3:25 | 2021-12-06 | 2022-03-22 |
+| [Aas Paas](https://open.spotify.com/track/4Y0CVAMUQgpe1I0yV23JmI) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Shams](https://open.spotify.com/artist/3ySN8uxbVT9g3J1YLUUwoc) | [Aas Paas](https://open.spotify.com/album/3vnMBe9KG2cQr4eZMXzwGc) | 2:47 | 2024-11-04 |  |
 | [Aasaan Nahin Hota](https://open.spotify.com/track/4AQWEhpvoDFYJDUEMJXNG2) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Qurbat](https://open.spotify.com/album/1pwQRDtIQYcSreN5EBI8xU) | 4:25 | 2022-11-30 | 2023-01-11 |
 | [Aasaan Nahin Hota](https://open.spotify.com/track/6JSJnZpxa9Dw2vTovINcIA) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Aasaan Nahin Hota](https://open.spotify.com/album/2cId8C1yfFRtJAshO6IqgS) | 4:25 | 2022-04-07 | 2022-04-22 |
 | [Aasmaan Jaley](https://open.spotify.com/track/2dEvh4AAZvD8qwq0VGTAe6) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Aasmaan Jaley](https://open.spotify.com/album/5XydWzMA9SpDyHVi7Z2H6u) | 2:46 | 2024-01-10 |  |
@@ -156,7 +157,7 @@
 | [Khaali Khaali](https://open.spotify.com/track/3zwsBUs35djOOrXrOsgVoS) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Khaali Khaali](https://open.spotify.com/album/32RNCaT9ixK8yoFvTT7Mgb) | 2:57 | 2024-06-10 |  |
 | [Khaare Raste](https://open.spotify.com/track/54jXWKDWh2IAFnuYcYEwb3) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Khaare Raste](https://open.spotify.com/album/0UbMs14msg4N7BBzwWh1il) | 4:06 | 2022-01-10 | 2023-01-11 |
 | [Khabar](https://open.spotify.com/track/56dhkwFTzbq3AS54dguEEH) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Khabar](https://open.spotify.com/album/4nPqoBnVFAWcjDcWGpijBq) | 3:38 | 2022-07-01 |  |
-| [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 | 2023-08-10 |  |
+| [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 | 2023-08-10 | 2024-11-05 |
 | [Khayaal](https://open.spotify.com/track/7fY8qVujvm5lZBrt5Y1sIJ) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK), [Ankita Barwad](https://open.spotify.com/artist/5TFZxLxVzFec55swRGsGdO) | [Khayaal](https://open.spotify.com/album/0T74gRslxMbXuKxPicbV65) | 2:29 | 2024-04-26 |  |
 | [Kho Gaya Kyun](https://open.spotify.com/track/0IOasZouiW0Zr9osyXhFT0) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Kho Gaya Kyun](https://open.spotify.com/album/4TTaId3wunhM5YlrXLcu55) | 2:40 | 2023-02-22 |  |
 | [Kho Ja](https://open.spotify.com/track/3FASTk6GGeW0PtQ0oVLp9h) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Kho Ja](https://open.spotify.com/album/7whhl16hNq2Pyh65Dh3Zvp) | 3:04 | 2023-05-18 | 2023-11-11 |

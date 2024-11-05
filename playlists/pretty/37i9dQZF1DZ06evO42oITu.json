@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 358514,
+  "num_followers": 358541,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAAB9M7y2CugsRRS6+smQMkeE",
+  "snapshot_id": "Zya9AAAAAABuhzUnJTP7DvV7078Nrfo8",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meanwhile",
-        "url": "https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ"
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
         }
       ],
-      "duration_ms": 306000,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/5oq29tJEj14LjLjXyaXCEF"
+      "duration_ms": 218373,
+      "name": "Alberta - Acoustic Live",
+      "url": "https://open.spotify.com/track/713D0u0XMewrhWIQwjrlrd"
     },
     {
       "added_at": null,
@@ -479,18 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+        "name": "Meanwhile",
+        "url": "https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
         }
       ],
-      "duration_ms": 218373,
-      "name": "Alberta - Acoustic Live",
-      "url": "https://open.spotify.com/track/713D0u0XMewrhWIQwjrlrd"
+      "duration_ms": 306000,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/5oq29tJEj14LjLjXyaXCEF"
     },
     {
       "added_at": null,
@@ -507,42 +507,6 @@
       "duration_ms": 191560,
       "name": "Forever Man - 1999 Remaster",
       "url": "https://open.spotify.com/track/6x7jcl21wMqyt5R2bAxPyP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meanwhile",
-        "url": "https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 424000,
-      "name": "Heart of a Child",
-      "url": "https://open.spotify.com/track/46lCvAJ3oFvkd8mKMsjJio"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Riding With The King",
-        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "Key to the Highway",
-      "url": "https://open.spotify.com/track/1a0CDu5jpwW2arT34HbwUP"
     },
     {
       "added_at": null,
@@ -567,6 +531,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Riding With The King",
+        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "Key to the Highway",
+      "url": "https://open.spotify.com/track/1a0CDu5jpwW2arT34HbwUP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meanwhile",
+        "url": "https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 424000,
+      "name": "Heart of a Child",
+      "url": "https://open.spotify.com/track/46lCvAJ3oFvkd8mKMsjJio"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eric Clapton",
         "url": "https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh"
       },
@@ -579,26 +579,6 @@
       "duration_ms": 301266,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meanwhile",
-        "url": "https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "The Rebels",
-      "url": "https://open.spotify.com/track/0oRc8P9uLo5Ycu4s531c6V"
     },
     {
       "added_at": null,
@@ -639,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Meanwhile",
+        "url": "https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "The Rebels",
+      "url": "https://open.spotify.com/track/0oRc8P9uLo5Ycu4s531c6V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eric Clapton",
         "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 171013,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/27mdmXNcO0gNpXlrWi9DPZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meanwhile",
-        "url": "https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/6w4jdJ64RE8wDEGtZYAeiS"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Meanwhile",
+        "url": "https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/6w4jdJ64RE8wDEGtZYAeiS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 390893,
       "name": "Running on Faith - Acoustic Live",
       "url": "https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meanwhile",
-        "url": "https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 307000,
-      "name": "The Call",
-      "url": "https://open.spotify.com/track/5Ya1SKVBBaRDiXD6Sy5LBR"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Meanwhile",
+        "url": "https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "The Call",
+      "url": "https://open.spotify.com/track/5Ya1SKVBBaRDiXD6Sy5LBR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
@@ -791,26 +791,6 @@
       "duration_ms": 226373,
       "name": "Hey Hey - Acoustic Live",
       "url": "https://open.spotify.com/track/0qxtcJppuSsxsKmOIGbmpN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Concert For George (Live)",
-        "url": "https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 357104,
-      "name": "While My Guitar Gently Weeps - Live",
-      "url": "https://open.spotify.com/track/6ZHCQehGCpGWTi6wEzs8vf"
     },
     {
       "added_at": null,
@@ -855,6 +835,26 @@
       "duration_ms": 381066,
       "name": "Six Strings Down",
       "url": "https://open.spotify.com/track/0C7mriFxQZ24xpDXgSfIc8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Concert For George (Live)",
+        "url": "https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 357104,
+      "name": "While My Guitar Gently Weeps - Live",
+      "url": "https://open.spotify.com/track/6ZHCQehGCpGWTi6wEzs8vf"
     },
     {
       "added_at": null,

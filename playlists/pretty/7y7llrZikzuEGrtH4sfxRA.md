@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 
 > 
 
-[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,639 likes - 20 songs - 59 min 59 sec
+[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,641 likes - 20 songs - 59 min 59 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 | 6 | [Lose My Number](https://open.spotify.com/track/4kWh63xFgWo4cO00TG9cYR) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Lose My Number](https://open.spotify.com/album/2WmgxXjKbVoClEPibQ8nC6) | 3:04 |
 | 7 | [My Type](https://open.spotify.com/track/3DqiRunPZPotBVfLYUsNfT) | [Amal Nemer](https://open.spotify.com/artist/4dJbkK58s6mj9RGElqCNhm) | [My Type](https://open.spotify.com/album/73CFCmzyQEVRGIMk2nJOjw) | 3:30 |
 | 8 | [It Feels So Good](https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [It Feels So Good](https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO) | 2:40 |
-| 9 | [Self Love \- feat\. Kid Enigma](https://open.spotify.com/track/1W2dU4oGGpTYctvjdFrUfh) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL), [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE) | [Self Love \(feat\. Kid Enigma\)](https://open.spotify.com/album/3gQ5wX6XQNawlYf3arpmWy) | 2:44 |
+| 9 | [Self Love \(feat\. Kid Enigma\)](https://open.spotify.com/track/1W2dU4oGGpTYctvjdFrUfh) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL), [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE) | [Self Love \(feat\. Kid Enigma\)](https://open.spotify.com/album/3gQ5wX6XQNawlYf3arpmWy) | 2:44 |
 | 10 | [Pretending \(feat\. rhys from the sticks\)](https://open.spotify.com/track/2xx4B1nvaWXFG4fawBkyAg) | [Sarah Story](https://open.spotify.com/artist/6yyACKZEH3neKNMrBW7zbt), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [Pretending \(feat\. rhys from the sticks\)](https://open.spotify.com/album/5VybUU1ybb6PhAcjuei1J9) | 2:50 |
 | 11 | [Shake For Me](https://open.spotify.com/track/5jvDIJbGwaeVZHp4toTr97) | [Helvig](https://open.spotify.com/artist/7EUlVK6q2GzNPHzqmnmDOS), [Costa UK](https://open.spotify.com/artist/6l9N9msYoAl9NrJTHog0hK) | [Shake For Me](https://open.spotify.com/album/0aZUxPGCWrbIrv6CrtHgC6) | 2:50 |
 | 12 | [Papi](https://open.spotify.com/track/6O46uzTkaWBMpwXDLl2tUb) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Papi](https://open.spotify.com/album/2IqATfxNZzJCxTK00AKtr8) | 2:15 |

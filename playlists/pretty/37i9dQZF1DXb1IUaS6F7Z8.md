@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,499 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,590 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I'm Shipping Up To Boston](https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:33 |
 | 2 | [Sally MacLennane](https://open.spotify.com/track/2779hybiMKwid1gcrFVMzH) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 2:45 |
 | 3 | [An Irish Pub Song](https://open.spotify.com/track/5UGJICh0UfvXTansc82A1k) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Gangs of New Holland](https://open.spotify.com/album/0oiIhaKjX4opdyHTEEM8dm) | 3:22 |
-| 4 | [Salty Dog](https://open.spotify.com/track/5cttYnhe480emw7rofGZQ6) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 2:21 |
+| 4 | [What's Left of the Flag](https://open.spotify.com/track/5dDDlK2uYeRo0DmvJGfIDW) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Drunken Lullabies](https://open.spotify.com/album/7EtBU4Uen8tfOq0Ah9tqz3) | 3:38 |
 | 5 | [My Son John](https://open.spotify.com/track/6PxC0ilHOSZGO6ASrktNv4) | [Smokey Bastard](https://open.spotify.com/artist/1hMdCc6Bzz9cB05C7UTEY8) | [Tales from the Wasteland](https://open.spotify.com/album/0gWD1s9jyyDQjLi50IoUrl) | 1:40 |
 | 6 | [The Cruel Wars](https://open.spotify.com/track/6BadR8UdEijDv01ZafyO62) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Uncle Touchy Goes to College](https://open.spotify.com/album/3AtaamrqosM5VdORJN2WR9) | 3:07 |
 | 7 | [Arrive On St\. Patrick's Day](https://open.spotify.com/track/0E4tTwpmHQTXQbI9Ov7V2S) | [Sir Reg](https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63) | [SIR REG](https://open.spotify.com/album/5WCydhGEqbdCoZBgaVGvfE) | 3:16 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 10 | [If I Should Fall from Grace with God](https://open.spotify.com/track/1Z5rTFsClLFgsIGuZ7Ymt2) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 2:20 |
 | 11 | [Rose Tattoo](https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 5:06 |
 | 12 | [Fight Song](https://open.spotify.com/track/35DtVain6n4J5hAb0wDNZz) | [The Stanfields](https://open.spotify.com/artist/0w8r7Pn1wm1SCegYhVIQtJ) | [Modem Operandi](https://open.spotify.com/album/0xdrPhrZW6zE7miVUMG9Qg) | 2:47 |
-| 13 | [What's Left of the Flag](https://open.spotify.com/track/5dDDlK2uYeRo0DmvJGfIDW) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Drunken Lullabies](https://open.spotify.com/album/7EtBU4Uen8tfOq0Ah9tqz3) | 3:38 |
+| 13 | [Salty Dog](https://open.spotify.com/track/5cttYnhe480emw7rofGZQ6) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 2:21 |
 | 14 | [Cheer Up Love \(Worse Things Happen at Sea\), Pt\. 3](https://open.spotify.com/track/1geM10YkSCzsCIFen0LQvW) | [Smokey Bastard](https://open.spotify.com/artist/1hMdCc6Bzz9cB05C7UTEY8) | [Tales from the Wasteland](https://open.spotify.com/album/0gWD1s9jyyDQjLi50IoUrl) | 2:31 |
 | 15 | [I'll Tell Me Ma!](https://open.spotify.com/track/072N99XFVMb4e1iaYe63Tq) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hung, Drawn & Portered](https://open.spotify.com/album/5tRQ2XHBad9UiESyXihm3v) | 1:57 |
 | 16 | [Tura Lu](https://open.spotify.com/track/2ftkqHtPfuYkyy0oy76qBq) | [The Bollox](https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip) | [The Bollox](https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP) | 3:44 |
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 29 | [Whiskey Makes Me Crazy](https://open.spotify.com/track/7gLbLGteklzcPSd53ojUDg) | [The Tossers](https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2) | [On A Fine Spring Evening](https://open.spotify.com/album/5KSnHmtTDuFsNNapMDrRnW) | 1:21 |
 | 30 | [Orange and the Green](https://open.spotify.com/track/3Czlbc2EbEiaIjSrWY5zKA) | [The Kreellers](https://open.spotify.com/artist/39ljFcdvjH7BB9OsVJwnBn) | [Sixth and Porter](https://open.spotify.com/album/7tn0ug4ECBWSrNSBxGVVo8) | 2:53 |
 | 31 | [Worker's Song](https://open.spotify.com/track/6GHfiU4OrRvOVuC9yn8Txl) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 3:32 |
-| 32 | [Farewell to Nova Scotia](https://open.spotify.com/track/4RQkO78A3ZowkGTGGpxf98) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [10,000 Shots](https://open.spotify.com/album/65PMNI831NSdZ6SoW30sAv) | 2:09 |
-| 33 | [Drunken Lazy Bastard](https://open.spotify.com/track/4FapNfUUsJMjiVQ30dhOH9) | [The Mahones](https://open.spotify.com/artist/1aTLhV7R5gUjrR60ubjz6V) | [Draggin' the Days](https://open.spotify.com/album/7jbaaaxYdLPSPjqYSCnAk7) | 3:27 |
+| 32 | [Drunken Lazy Bastard](https://open.spotify.com/track/4FapNfUUsJMjiVQ30dhOH9) | [The Mahones](https://open.spotify.com/artist/1aTLhV7R5gUjrR60ubjz6V) | [Draggin' the Days](https://open.spotify.com/album/7jbaaaxYdLPSPjqYSCnAk7) | 3:27 |
+| 33 | [Farewell to Nova Scotia](https://open.spotify.com/track/4RQkO78A3ZowkGTGGpxf98) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [10,000 Shots](https://open.spotify.com/album/65PMNI831NSdZ6SoW30sAv) | 2:09 |
 | 34 | [The Beer Song](https://open.spotify.com/track/6ei9tbLjSdYpZatWSQfzQd) | [Seamus Kennedy](https://open.spotify.com/artist/0mOdLsbUeEcEy7ADN3Hhuf) | [On the Rocks](https://open.spotify.com/album/2aIBq4cJweU84E0PZuXa05) | 1:54 |
 | 35 | [Tobacco Island](https://open.spotify.com/track/7cv7U6KO9uSCCw5JE7GEMS) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Within a Mile of Home](https://open.spotify.com/album/0qVJEliXJswOdaabP9hGmJ) | 5:17 |
 | 36 | [Uncle Tommy](https://open.spotify.com/track/5UqIk0AUqq3AMrdk2cYiCJ) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Gangs of New Holland](https://open.spotify.com/album/0oiIhaKjX4opdyHTEEM8dm) | 2:34 |
 | 37 | [Waxies Dargle](https://open.spotify.com/track/1lrnJ87mFAVF6jkUJu4YKA) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [Real World](https://open.spotify.com/album/2K0fjyPXmaZV7i51AAmbB7) | 1:58 |
-| 38 | [Arsehole](https://open.spotify.com/track/2201cH5trK1nfpLgY0FfFG) | [The Gobshites](https://open.spotify.com/artist/0JwbhBhNG5Sdm3Gbm0y3hF) | [When the Shite Hits the Fans](https://open.spotify.com/album/2Cw2JK22aGlznfDEdibeBK) | 2:40 |
-| 39 | [Danny Boy](https://open.spotify.com/track/57y4irrYnvb4ctHiP45ncX) | [Happy Ol'McWeasel](https://open.spotify.com/artist/5BLgMlT6LTidk2KkfheS4p) | [No Offence](https://open.spotify.com/album/1J6eEhYrbJeH4zqQ3AsJBD) | 3:46 |
+| 38 | [Danny Boy](https://open.spotify.com/track/57y4irrYnvb4ctHiP45ncX) | [Happy Ol'McWeasel](https://open.spotify.com/artist/5BLgMlT6LTidk2KkfheS4p) | [No Offence](https://open.spotify.com/album/1J6eEhYrbJeH4zqQ3AsJBD) | 3:46 |
+| 39 | [Arsehole](https://open.spotify.com/track/2201cH5trK1nfpLgY0FfFG) | [The Gobshites](https://open.spotify.com/artist/0JwbhBhNG5Sdm3Gbm0y3hF) | [When the Shite Hits the Fans](https://open.spotify.com/album/2Cw2JK22aGlznfDEdibeBK) | 2:40 |
 | 40 | [Sobriety](https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj) | [Jolly Jackers](https://open.spotify.com/artist/3YroMUvRA81dwHWEU0bbDy) | [Sobriety](https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs) | 2:31 |
 | 41 | [The Streets of London](https://open.spotify.com/track/3EkzGqK2uJrgiZDLXBMWUo) | [Liam Clancy](https://open.spotify.com/artist/1XjkajTCuInbWYxcxPvFtP) | [The Parting Glass \(The Very Best of Liam Clancy\)](https://open.spotify.com/album/5LL2dL3dChEHrcGLBYnqtn) | 4:01 |
 | 42 | [The Cabin](https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT) | [Irish Moutarde](https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P) | [Raise 'em All](https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I) | 2:37 |

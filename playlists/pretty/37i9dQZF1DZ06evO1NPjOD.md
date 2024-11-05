@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,290 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,287 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 27 | [Peach \(feat\. City Girls\)](https://open.spotify.com/track/1lgQjuwCLFdDIE6yKz0c5R) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [UNDER8ED](https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD) | 2:50 |
 | 28 | [Where The Bag At](https://open.spotify.com/track/7GlZhPkCA259c3ICFU0eaG) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 3:20 |
 | 29 | [Act Bad](https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Act Bad](https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ) | 3:12 |
-| 30 | [Flashy \(feat\. Kim Petras\)](https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:45 |
-| 31 | [Caramel \(feat\. City Girls\)](https://open.spotify.com/track/0ZuMuZVtjK9vK5qSWC4bmu) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Caramel \(feat\. City Girls\)](https://open.spotify.com/album/1XT5Wz52niQDuTeYQeTlOM) | 3:52 |
+| 30 | [Caramel \(feat\. City Girls\)](https://open.spotify.com/track/0ZuMuZVtjK9vK5qSWC4bmu) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Caramel \(feat\. City Girls\)](https://open.spotify.com/album/1XT5Wz52niQDuTeYQeTlOM) | 3:52 |
+| 31 | [Flashy \(feat\. Kim Petras\)](https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:45 |
 | 32 | [Double CC's](https://open.spotify.com/track/72SrBwk95IXQlnXjf0hoyw) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:11 |
 | 33 | [Throw Fits \(feat\. City Girls & Juvenile\)](https://open.spotify.com/track/5jCa1A0ZfkaWcKGsJZQ0kz) | [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI) | [Throw Fits \(feat\. City Girls & Juvenile\)](https://open.spotify.com/album/5gyk9wb9zJCNvBzmH06HUB) | 3:23 |
 | 34 | [Yung and Bhad \(feat\. City Girls\)](https://open.spotify.com/track/4vHf3mf0iZgEmkdHyLTSE9) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [15](https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 49 | [Money Fight](https://open.spotify.com/track/0eEEM1NNccG8BJpCC80Mlu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Bad Boys For Life Soundtrack](https://open.spotify.com/album/1WbcLdDqpfZza3TlvzFJJj) | 2:38 |
 | 50 | [She A Winner](https://open.spotify.com/track/11eC6flJ9bu9paEa88ti62) | [Trouble](https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Thug Luv](https://open.spotify.com/album/3JgQJpOk0rmxql353Y3j2G) | 3:02 |
 
-Snapshot ID: `ZyVrgAAAAACr2hA2A60JTa6pAJaSBnI5`
+Snapshot ID: `Zya9AAAAAAAYsOpHW9OfM5pxLjpTIFdF`

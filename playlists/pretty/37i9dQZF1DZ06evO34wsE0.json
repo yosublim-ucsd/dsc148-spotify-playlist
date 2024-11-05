@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 245686,
+  "num_followers": 245703,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAABq2oljoJ8xMLF9gfCJvjWq",
+  "snapshot_id": "Zya9AAAAAACCo3rX1E69hyoJvQAytszC",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waking Up Dreaming",
-        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 198802,
-      "name": "Waking Up Dreaming",
-      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duets: Friends & Legends",
         "url": "https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 222413,
       "name": "You Needed Me",
       "url": "https://open.spotify.com/track/5wiVesLugAu5CL46hMwFEd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waking Up Dreaming",
+        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 198802,
+      "name": "Waking Up Dreaming",
+      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't!",
-        "url": "https://open.spotify.com/album/79a6iHklq4kX2PKvxKPri3"
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 238560,
-      "name": "Don't! - Greatest Hits Version",
-      "url": "https://open.spotify.com/track/6dPa3p9WGzvxDLOovJf8pH"
+      "duration_ms": 228826,
+      "name": "Whatever You Do! Don't!",
+      "url": "https://open.spotify.com/track/1oDey7MWmrKRCSM0tgEoU8"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+        "name": "Up! (Red and Blue Versions)",
+        "url": "https://open.spotify.com/album/0VB5ymCq0odyXi4YWuoNB0"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 228826,
-      "name": "Whatever You Do! Don't!",
-      "url": "https://open.spotify.com/track/1oDey7MWmrKRCSM0tgEoU8"
+      "duration_ms": 199466,
+      "name": "It Only Hurts When I'm Breathing - Red Version",
+      "url": "https://open.spotify.com/track/4vumsuBIb2nEFKLuNaOeGO"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up! (Red and Blue Versions)",
-        "url": "https://open.spotify.com/album/0VB5ymCq0odyXi4YWuoNB0"
+        "name": "Don't!",
+        "url": "https://open.spotify.com/album/79a6iHklq4kX2PKvxKPri3"
       },
       "artists": [
         {
@@ -748,25 +748,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 199466,
-      "name": "It Only Hurts When I'm Breathing - Red Version",
-      "url": "https://open.spotify.com/track/4vumsuBIb2nEFKLuNaOeGO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Up!",
-        "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 229026,
-      "name": "She's Not Just A Pretty Face - Red Version",
-      "url": "https://open.spotify.com/track/5xh0pLWWOuHiHsqvIX8JpH"
+      "duration_ms": 238560,
+      "name": "Don't! - Greatest Hits Version",
+      "url": "https://open.spotify.com/track/6dPa3p9WGzvxDLOovJf8pH"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
       "duration_ms": 219693,
       "name": "Black Eyes, Blue Tears",
       "url": "https://open.spotify.com/track/43c6l8nrX8hHkwf1yuUKki"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up!",
+        "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 229026,
+      "name": "She's Not Just A Pretty Face - Red Version",
+      "url": "https://open.spotify.com/track/5xh0pLWWOuHiHsqvIX8JpH"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up!",
-        "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 196720,
-      "name": "In My Car (I'll Be The Driver) - Red Version",
-      "url": "https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen Of Me",
         "url": "https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 159256,
       "name": "Pretty Liar",
       "url": "https://open.spotify.com/track/1mm9WqeXWMnP6mIc0uYqS4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up!",
+        "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 196720,
+      "name": "In My Car (I'll Be The Driver) - Red Version",
+      "url": "https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru"
     },
     {
       "added_at": null,

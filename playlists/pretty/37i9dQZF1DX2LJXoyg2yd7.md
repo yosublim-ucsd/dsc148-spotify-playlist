@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 
 > The sweet sounds of Yemen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,179 likes - 40 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,203 likes - 40 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 4 | [Ya Saher Aleainain](https://open.spotify.com/track/569GHmdXGxgsAgvqZFx4jF) | [Abu Baker Salim](https://open.spotify.com/artist/4vbzGXyNwi5mMWvPqHDHib) | [Sirr Hobbi](https://open.spotify.com/album/3VntSLELrNgNlPiJbTnB0W) | 6:46 |
 | 5 | [Eineik](https://open.spotify.com/track/2fIk79ZPj7BB8GCP3m1zl5) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [Eineik](https://open.spotify.com/album/2osFjuJ98QiX6TaJQKEQjs) | 6:06 |
 | 6 | [يا بنات اليمن](https://open.spotify.com/track/0RGaeMrWP2ounpiQwEMXdf) | [Khaled Al Dhabry](https://open.spotify.com/artist/3KuRxM5CLQd8eX6YAJhSwM) | [زفة 2002](https://open.spotify.com/album/3l80ii05quIHR1eINTKMZu) | 4:05 |
-| 7 | [Allah Jabak](https://open.spotify.com/track/0FaifCfCBMpumWUWF0jwSi) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Allah Jabak](https://open.spotify.com/album/6ykPwvsdl7Yzrzq2HFt0ur) | 4:08 |
-| 8 | [عاده صغير](https://open.spotify.com/track/6QJLJ7LhunlxbwkobbjJBx) | [Faysal Alawi](https://open.spotify.com/artist/4PRa5qwOK0FRxd0JnutD8x) | [يا بدر يا غصن](https://open.spotify.com/album/63qgOooIYqQ8bLuK4Xw4td) | 9:00 |
+| 7 | [عاده صغير](https://open.spotify.com/track/6QJLJ7LhunlxbwkobbjJBx) | [Faysal Alawi](https://open.spotify.com/artist/4PRa5qwOK0FRxd0JnutD8x) | [يا بدر يا غصن](https://open.spotify.com/album/63qgOooIYqQ8bLuK4Xw4td) | 9:00 |
+| 8 | [Allah Jabak](https://open.spotify.com/track/0FaifCfCBMpumWUWF0jwSi) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Allah Jabak](https://open.spotify.com/album/6ykPwvsdl7Yzrzq2HFt0ur) | 4:08 |
 | 9 | [Sirr Hobbi](https://open.spotify.com/track/1wwznXiE8586TWHuSFk3GO) | [Abu Baker Salim](https://open.spotify.com/artist/4vbzGXyNwi5mMWvPqHDHib) | [Sirr Hobbi](https://open.spotify.com/album/3VntSLELrNgNlPiJbTnB0W) | 13:54 |
 | 10 | [ياورد ياكاذي](https://open.spotify.com/track/2Q7LfXzspve6Iza70Itbak) | [Fouad Al Kabsy](https://open.spotify.com/artist/6FSA4cbJcVlF2rDwEdNmYJ) | [حفلة نجران](https://open.spotify.com/album/0Q6xLBvxom21S1iQ44yWD7) | 9:42 |
 | 11 | [Ana Malathak](https://open.spotify.com/track/7DgjgPW8yxcqJ9YXNP5VxR) | [Aiman Qusailah](https://open.spotify.com/artist/5rhRBRSACiwECuHLhk5b8D) | [Ana Malathak](https://open.spotify.com/album/25fV87SYlAReis51OpLnXB) | 3:52 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 16 | [أنا اليماني](https://open.spotify.com/track/2crXyiPYfYTJrgU4i7a0FJ) | [Ammar Alazaki](https://open.spotify.com/artist/6TLBFfFm6S2e9lAL8eDkkR) | [أنا اليماني](https://open.spotify.com/album/4N6IOBbQyfPVD9sOC2s2TN) | 4:08 |
 | 17 | [ماأجملك](https://open.spotify.com/track/2DTzFjkDOAt8E8qUEpLb0b) | [Hussain Moheb](https://open.spotify.com/artist/2LUDyDgFsYu4AlnUkBVRMk) | [حبيب ولا غريب](https://open.spotify.com/album/0aUs2ZwUVpT1xr8KIhwF3V) | 5:05 |
 | 18 | [Ya Mesafer](https://open.spotify.com/track/19ZBKdZNlOBL2QsbCoNgqD) | [Abu Baker Salim](https://open.spotify.com/artist/4vbzGXyNwi5mMWvPqHDHib) | [Dhae Alwafa](https://open.spotify.com/album/3n6bh1EdzOnqGL3hdF2HX8) | 5:02 |
-| 19 | [يا مهاجر](https://open.spotify.com/track/3bBj0z4e5PSRKq9uIB8LGD) | [احمد العطاس](https://open.spotify.com/artist/6l0FoPSmxMITuwCK5GEQo1) | [يا مهاجر](https://open.spotify.com/album/1AhnOD0kXo4Nc3B0oMl7eJ) | 7:07 |
-| 20 | [أغلى عشق](https://open.spotify.com/track/1fSeLSobV3N2IxcgHRvv2L) | [Jassem Mohammed](https://open.spotify.com/artist/7v8Zo7SvfmVoSMdOHQd6r3), [Mohamed Jaze](https://open.spotify.com/artist/5umOqMimCLr7y4IJfWY4hz), [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg), [Salem Hamad Bin Kardoos](https://open.spotify.com/artist/1mG2nUnWhHR5SbMVGE5MAF) | [أغلى عشق](https://open.spotify.com/album/3CwRYViwKjNwi3CurcfQX0) | 6:24 |
+| 19 | [أغلى عشق](https://open.spotify.com/track/1fSeLSobV3N2IxcgHRvv2L) | [Jassem Mohammed](https://open.spotify.com/artist/7v8Zo7SvfmVoSMdOHQd6r3), [Mohamed Jaze](https://open.spotify.com/artist/5umOqMimCLr7y4IJfWY4hz), [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg), [Salem Hamad Bin Kardoos](https://open.spotify.com/artist/1mG2nUnWhHR5SbMVGE5MAF) | [أغلى عشق](https://open.spotify.com/album/3CwRYViwKjNwi3CurcfQX0) | 6:24 |
+| 20 | [يا مهاجر](https://open.spotify.com/track/3bBj0z4e5PSRKq9uIB8LGD) | [احمد العطاس](https://open.spotify.com/artist/6l0FoPSmxMITuwCK5GEQo1) | [يا مهاجر](https://open.spotify.com/album/1AhnOD0kXo4Nc3B0oMl7eJ) | 7:07 |
 | 21 | [الغربة](https://open.spotify.com/track/7HLtsXWAIbj4bvSzCh22Z2) | [جميلة سعد](https://open.spotify.com/artist/31zyGXZDfPNOIQks6nG7Ac) | [الغربة](https://open.spotify.com/album/1VsOrYmrP0gy0Qh9KZJNze) | 3:47 |
 | 22 | [غني غني](https://open.spotify.com/track/5470jMcakM58nZJGutrw81) | [عمار العزكي](https://open.spotify.com/artist/76ajZfqRS0o5xHT9L0Wz65) | [كلام أبيض](https://open.spotify.com/album/5BRl9OXmQmSj2R4FZE8qIE) | 4:25 |
 | 23 | [يا مهاجر](https://open.spotify.com/track/7lCGZKNM9OzhPtRTyamcbN) | [Mohamed Moshajeal](https://open.spotify.com/artist/5SgPuHDX7bw9Ffdqqz2Wvd) | [ريم البوادي](https://open.spotify.com/album/0gB9Upr1MXZgfkdg534ny1) | 8:32 |

@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222647,
+      "name": "ALL MY LOVE",
+      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
+    },
+    {
+      "album": {
         "name": "All the Lies About Me",
         "url": "https://open.spotify.com/album/0JQFRlBw5UdjbVcwgm9SCu"
       },
@@ -720,6 +738,24 @@
       "duration_ms": 196660,
       "name": "Bad People",
       "url": "https://open.spotify.com/track/3p36MxKwwOyRyldSMejrSi"
+    },
+    {
+      "album": {
+        "name": "Halfway to Paradise",
+        "url": "https://open.spotify.com/album/0OQBLaenHVf9O9KpY1NNtI"
+      },
+      "artists": [
+        {
+          "name": "Oliver Cronin",
+          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213955,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/21ZErdd3e2W8EunBqaQ9PY"
     },
     {
       "album": {
@@ -3436,7 +3472,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 195781,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/0lLBVkeTuZVfZRUC6MFfRf"
@@ -3533,6 +3569,24 @@
     },
     {
       "album": {
+        "name": "Changes All The Time",
+        "url": "https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279429,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
+    },
+    {
+      "album": {
         "name": "Hopeless Romantics",
         "url": "https://open.spotify.com/album/4caqBOEvibGE77J3LaRrzK"
       },
@@ -3580,7 +3634,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 250473,
       "name": "Hospital Bed",
       "url": "https://open.spotify.com/track/0BZwSLuRna3yZuQz3GO9gW"
@@ -3670,7 +3724,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 180274,
       "name": "Hurtless",
       "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
@@ -3710,6 +3764,24 @@
       "duration_ms": 217533,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5"
+    },
+    {
+      "album": {
+        "name": "I Can't Wait Anymore",
+        "url": "https://open.spotify.com/album/3yAvj1ZvpxqkqeoFfvMDE9"
+      },
+      "artists": [
+        {
+          "name": "Sarah Blasko",
+          "url": "https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249436,
+      "name": "I Can't Wait Anymore",
+      "url": "https://open.spotify.com/track/2mhZCXKVCX39DAoRsAiSTn"
     },
     {
       "album": {
@@ -6147,6 +6219,24 @@
     },
     {
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203650,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF"
+    },
+    {
+      "album": {
         "name": "I met you when I was 18. (the playlist)",
         "url": "https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS"
       },
@@ -8292,7 +8382,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 158274,
       "name": "Sooner",
       "url": "https://open.spotify.com/track/45z1TVyovToPnkuEKSgTPx"
@@ -9242,7 +9332,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 220388,
       "name": "Tunnel Vision",
       "url": "https://open.spotify.com/track/3RhZ2Yp8usBRc1FtN55Xcx"

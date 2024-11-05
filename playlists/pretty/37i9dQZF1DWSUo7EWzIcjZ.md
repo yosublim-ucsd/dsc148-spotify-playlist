@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Wilfrido Vargas
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,992 likes - 150 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,997 likes - 150 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 9 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 |
 | 10 | [Otra Como Tu](https://open.spotify.com/track/4Vn7MXHMq3qXY3kAfUttc8) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De Toño Rosario](https://open.spotify.com/album/6M9B9lMQrR8e6RKBARRAEp) | 4:32 |
 | 11 | [Que Cara Más Linda](https://open.spotify.com/track/3k3W4peEkOXvjyWtR6IFHp) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues](https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp) | 4:10 |
-| 12 | [Salvaje](https://open.spotify.com/track/1DDMz6LDut4RhwtY9tHFY2) | [Cesar Flores](https://open.spotify.com/artist/5cKG9P519zYp1riJ68Fnd8) | [Merenlove](https://open.spotify.com/album/7m7GtQ1hV4nnQQL34jaa2y) | 4:36 |
-| 13 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 |
+| 12 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 |
+| 13 | [Salvaje](https://open.spotify.com/track/1DDMz6LDut4RhwtY9tHFY2) | [Cesar Flores](https://open.spotify.com/artist/5cKG9P519zYp1riJ68Fnd8) | [Merenlove](https://open.spotify.com/album/7m7GtQ1hV4nnQQL34jaa2y) | 4:36 |
 | 14 | [Devorame Otra Vez](https://open.spotify.com/track/1gLzHAYHH02lOTmkCmQaIy) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Atrevido](https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt) | 4:56 |
 | 15 | [Esa Muchacha](https://open.spotify.com/track/21vHk583nlNXmTU8B6UGj0) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Esa Muchacha](https://open.spotify.com/album/03Hk5GKWdG18zLLtvZrx9T) | 3:57 |
 | 16 | [Nadie Se Muere](https://open.spotify.com/track/4U8hIlxenPSa9Z2yL1ng7t) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [20 Exitos](https://open.spotify.com/album/1alYgeDVoeCIvmA7OtI8FA) | 3:51 |

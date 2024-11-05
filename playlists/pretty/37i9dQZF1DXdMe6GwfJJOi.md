@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMe6GwfJJOi.md) - [plain]
 
 > Protect the one you love\. Listen to the music from Supacell, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,574 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,582 likes - 40 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

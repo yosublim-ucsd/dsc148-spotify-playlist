@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-387 songs - 19 hr 43 min
+389 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Hurt Me Like You Do](https://open.spotify.com/track/1yjVWsuNgxGUB5LfNzmIJ7) | [Jacqline](https://open.spotify.com/artist/5ZIzGM3sXUiF8EI6K18XQC) | [Hurt Me Like You Do](https://open.spotify.com/album/4gWqOjkTUhvKKzvuMfRpe8) | 2:40 | 2024-06-27 | 2024-08-23 |
 | [HURT PEOPLE](https://open.spotify.com/track/2cr6TL0vLgqJCcgD0hWIbl) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [HURT PEOPLE](https://open.spotify.com/album/5Ui2vqU9Ta35ZeiM8kjoNY) | 2:43 | 2024-10-17 |  |
 | [Hus utan speglar](https://open.spotify.com/track/5HlqlmK2aXj8yGuzqxlYxE) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Hus utan speglar](https://open.spotify.com/album/5Df3GkRmprbUE1c4SDVmVe) | 2:44 | 2024-06-27 | 2024-08-16 |
+| [Hösten](https://open.spotify.com/track/65Am6nqheamqdvPcpyz47o) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC), [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Hösten](https://open.spotify.com/album/2JCUV7tSFVGrHoddIqL9Hm) | 4:44 | 2024-11-04 |  |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-06-27 | 2024-07-27 |
 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 | 2024-08-09 | 2024-09-27 |
 | [I Like It \(with Nate Smith\)](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Like It \(with Nate Smith\)](https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC) | 2:32 | 2024-07-11 | 2024-09-13 |
@@ -285,6 +286,7 @@
 | [Safety Net](https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Safety Net](https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8) | 3:23 | 2024-09-18 |  |
 | [Salut](https://open.spotify.com/track/3kUWzhuTmwA5Y8vzFDLyEy) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Salut](https://open.spotify.com/album/2A1SFlRSsKp9JVzt8J2oci) | 2:57 | 2024-06-27 | 2024-10-04 |
 | [Samma Sak](https://open.spotify.com/track/0HVjpl9YfZd5z0KoqJAo6C) | [Rasmus Hultgren](https://open.spotify.com/artist/1iFzVD485mt0a8lp41XqkW), [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Samma Sak](https://open.spotify.com/album/7d3OXIO5dQABLh3r0UAudW) | 2:29 | 2024-10-24 |  |
+| [SAMMEN](https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:58 | 2024-11-04 |  |
 | [Senaste tiden](https://open.spotify.com/track/7mRVtj0WZj9zn3AKi1pIjh) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [… men det gör jag egentligen](https://open.spotify.com/album/5DUG2p0EimhnktehrSfZZR) | 3:57 | 2024-08-29 | 2024-10-11 |
 | [Sexy Goodbye](https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Sexy Goodbye](https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK) | 3:26 | 2024-10-10 |  |
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-06-27 | 2024-07-27 |

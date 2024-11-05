@@ -1955,6 +1955,28 @@
     },
     {
       "album": {
+        "name": "Kakinada Kaja",
+        "url": "https://open.spotify.com/album/1ArG0dGBVn5cO475ftFkzz"
+      },
+      "artists": [
+        {
+          "name": "Roll Rida",
+          "url": "https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj"
+        },
+        {
+          "name": "Sameera Bharadwaj",
+          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196812,
+      "name": "Kakinada Kaja",
+      "url": "https://open.spotify.com/track/3u2YOf3NE8kV8IZgieH8IS"
+    },
+    {
+      "album": {
         "name": "Liger (Telugu) [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/0bI7C4I6FzlNlZZDqJOfDJ"
       },
@@ -3022,7 +3044,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 356009,
       "name": "Padaharella Vayasu",
       "url": "https://open.spotify.com/track/7wltO5dmURDawoJonX4msC"

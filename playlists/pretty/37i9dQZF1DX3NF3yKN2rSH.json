@@ -1,6 +1,6 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53576,
+  "num_followers": 53591,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
+        "name": "Live in London and More ..",
+        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 318666,
+      "name": "Just For Me",
+      "url": "https://open.spotify.com/track/1vXiQHSqnhnPCZrSmvkPqG"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
         "name": "Rock Of Ages (Live)",
         "url": "https://open.spotify.com/album/2ZVALp4oOugoRpRjLLAV7S"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 113013,
       "name": "The Blood Will Never Lose Its Power - Live",
       "url": "https://open.spotify.com/track/3Mzi4unhw86nn0zKPJe3Dl"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
-        "name": "Live in London and More ..",
-        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 318666,
-      "name": "Just For Me",
-      "url": "https://open.spotify.com/track/1vXiQHSqnhnPCZrSmvkPqG"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
+        "name": "Easter Project",
+        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        }
+      ],
+      "duration_ms": 273963,
+      "name": "The Resurrection",
+      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
         "name": "Revival Is In The Air (RIITA)",
         "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
       },
@@ -827,18 +843,18 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Easter Project",
-        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+        "name": "Psalms, Hymns & Spiritual Songs",
+        "url": "https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On"
       },
       "artists": [
         {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
         }
       ],
-      "duration_ms": 273963,
-      "name": "The Resurrection",
-      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
+      "duration_ms": 341120,
+      "name": "Blood Medley (Part 3) - I Know It Was The Blood",
+      "url": "https://open.spotify.com/track/6qCSt56HhlnfPfIHIDYEOR"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -855,22 +871,6 @@
       "duration_ms": 277533,
       "name": "Blood Medley",
       "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
-        "name": "Psalms, Hymns & Spiritual Songs",
-        "url": "https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 341120,
-      "name": "Blood Medley (Part 3) - I Know It Was The Blood",
-      "url": "https://open.spotify.com/track/6qCSt56HhlnfPfIHIDYEOR"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1223,18 +1223,22 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Mnini Mandla Onke",
-        "url": "https://open.spotify.com/album/2xiGM8C7m3AAqUTfyBIT5Z"
+        "name": "Live At Azusa 3",
+        "url": "https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj"
       },
       "artists": [
         {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+          "name": "Carlton Pearson",
+          "url": "https://open.spotify.com/artist/34lEZF8ruBmrfX93YZCE9P"
+        },
+        {
+          "name": "Beverly Crawford",
+          "url": "https://open.spotify.com/artist/68qvLA55vYTJrGUvVHOb4M"
         }
       ],
-      "duration_ms": 303050,
-      "name": "Mnini Mandla Onke",
-      "url": "https://open.spotify.com/track/3iUoxbl0P0vhtzQwvYzpVb"
+      "duration_ms": 436960,
+      "name": "He Lives - Live",
+      "url": "https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1259,22 +1263,18 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Live At Azusa 3",
-        "url": "https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj"
+        "name": "Mnini Mandla Onke",
+        "url": "https://open.spotify.com/album/2xiGM8C7m3AAqUTfyBIT5Z"
       },
       "artists": [
         {
-          "name": "Carlton Pearson",
-          "url": "https://open.spotify.com/artist/34lEZF8ruBmrfX93YZCE9P"
-        },
-        {
-          "name": "Beverly Crawford",
-          "url": "https://open.spotify.com/artist/68qvLA55vYTJrGUvVHOb4M"
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
         }
       ],
-      "duration_ms": 436960,
-      "name": "He Lives - Live",
-      "url": "https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA"
+      "duration_ms": 303050,
+      "name": "Mnini Mandla Onke",
+      "url": "https://open.spotify.com/track/3iUoxbl0P0vhtzQwvYzpVb"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
+        "name": "Way Maker (Live)",
+        "url": "https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 500500,
+      "name": "Waymaker (Live)",
+      "url": "https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
         "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
         "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
       },
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Way Maker (Live)",
-        "url": "https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 500500,
-      "name": "Waymaker (Live)",
-      "url": "https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "A Worshipper's Heart",
         "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
       },
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
-        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
+        "name": "Hold Up The Light",
+        "url": "https://open.spotify.com/album/2dVkAZ7KTYEevQNW9HGZ78"
       },
       "artists": [
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "New Jersey Mass Choir",
+          "url": "https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH"
         }
       ],
-      "duration_ms": 307733,
-      "name": "Hosanna - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/2TkXzFSgJrQAo6kREm9z8f"
+      "duration_ms": 286040,
+      "name": "O the Blood",
+      "url": "https://open.spotify.com/track/0aqTVmskHk09WdNrzSJYV3"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Hold Up The Light",
-        "url": "https://open.spotify.com/album/2dVkAZ7KTYEevQNW9HGZ78"
-      },
-      "artists": [
-        {
-          "name": "New Jersey Mass Choir",
-          "url": "https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH"
-        }
-      ],
-      "duration_ms": 286040,
-      "name": "O the Blood",
-      "url": "https://open.spotify.com/track/0aqTVmskHk09WdNrzSJYV3"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "The Life Project",
         "url": "https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 446666,
       "name": "You're Bigger",
       "url": "https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
+        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 307733,
+      "name": "Hosanna - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/2TkXzFSgJrQAo6kREm9z8f"
     },
     {
       "added_at": "2024-07-02 01:22:00",

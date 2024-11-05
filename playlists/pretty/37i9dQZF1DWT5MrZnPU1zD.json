@@ -1,6 +1,6 @@
 {
   "description": "Pass the sticks & press play. ",
-  "num_followers": 1677623,
+  "num_followers": 1677634,
   "original_name": "Hip-Hop Controller",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-08-07 22:41:32",
       "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 147746,
+      "name": "BANDIT",
+      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
+    },
+    {
+      "added_at": "2024-08-07 22:41:32",
+      "album": {
         "name": "Parking Lot",
         "url": "https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 172794,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju"
-    },
-    {
-      "added_at": "2024-08-07 22:41:32",
-      "album": {
-        "name": "Bandit",
-        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 147746,
-      "name": "BANDIT",
-      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
     },
     {
       "added_at": "2024-08-07 22:41:32",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-08-07 22:41:32",
       "album": {
+        "name": "NISSAN ALTIMA",
+        "url": "https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 128132,
+      "name": "NISSAN ALTIMA",
+      "url": "https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD"
+    },
+    {
+      "added_at": "2024-08-07 22:41:32",
+      "album": {
         "name": "Boy Meets World",
         "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 148928,
       "name": "A N X I E T Y (feat. Doechii)",
       "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
-    },
-    {
-      "added_at": "2024-08-07 22:41:32",
-      "album": {
-        "name": "NISSAN ALTIMA",
-        "url": "https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 128132,
-      "name": "NISSAN ALTIMA",
-      "url": "https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD"
     },
     {
       "added_at": "2024-08-07 22:41:32",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2024-08-07 22:41:32",
       "album": {
-        "name": "We Uh Shoot (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/3rtExYEkOktf9WQfCDhODh"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 153842,
-      "name": "We Uh Shoot (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/6UTLdGOkbRPJzlU2nPvZlH"
-    },
-    {
-      "added_at": "2024-08-07 22:41:32",
-      "album": {
         "name": "I LAY DOWN MY LIFE FOR YOU",
         "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 136666,
       "name": "New Black History (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/4HzV6IvuKEuKdh5O60v52u"
+    },
+    {
+      "added_at": "2024-08-07 22:41:32",
+      "album": {
+        "name": "We Uh Shoot (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/3rtExYEkOktf9WQfCDhODh"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 153842,
+      "name": "We Uh Shoot (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/6UTLdGOkbRPJzlU2nPvZlH"
     },
     {
       "added_at": "2024-08-07 22:41:32",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-08-07 22:41:32",
       "album": {
-        "name": "Change My Wayz",
-        "url": "https://open.spotify.com/album/0TwgVRH8pQ5tN2j7b8M0eB"
-      },
-      "artists": [
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 115013,
-      "name": "Change My Wayz",
-      "url": "https://open.spotify.com/track/0x8vQaiUn7BZ37Wpxd4Mms"
-    },
-    {
-      "added_at": "2024-08-07 22:41:32",
-      "album": {
         "name": "All Is Yellow",
         "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 169014,
       "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
       "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
+    },
+    {
+      "added_at": "2024-08-07 22:41:32",
+      "album": {
+        "name": "Change My Wayz",
+        "url": "https://open.spotify.com/album/0TwgVRH8pQ5tN2j7b8M0eB"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 115013,
+      "name": "Change My Wayz",
+      "url": "https://open.spotify.com/track/0x8vQaiUn7BZ37Wpxd4Mms"
     },
     {
       "added_at": "2024-08-07 22:41:32",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-08-07 22:41:32",
       "album": {
+        "name": "Act A Donkey",
+        "url": "https://open.spotify.com/album/4LX6VTXQ2g8zGB230yAnPg"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 203300,
+      "name": "Act A Donkey",
+      "url": "https://open.spotify.com/track/25BaRS4eM52MTpYrrtROCz"
+    },
+    {
+      "added_at": "2024-08-07 22:41:32",
+      "album": {
         "name": "Off The Court (with Polo G & Einer Bankz)",
         "url": "https://open.spotify.com/album/6yfMPQTVVXzc2Q5h0gCFiL"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 193937,
       "name": "Off The Court (with Polo G & Einer Bankz)",
       "url": "https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ"
-    },
-    {
-      "added_at": "2024-08-07 22:41:32",
-      "album": {
-        "name": "Act A Donkey",
-        "url": "https://open.spotify.com/album/4LX6VTXQ2g8zGB230yAnPg"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 203300,
-      "name": "Act A Donkey",
-      "url": "https://open.spotify.com/track/25BaRS4eM52MTpYrrtROCz"
     },
     {
       "added_at": "2024-08-07 22:41:32",

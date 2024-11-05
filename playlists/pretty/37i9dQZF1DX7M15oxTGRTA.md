@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,693 likes - 100 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,806 likes - 100 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 81 | [I Can Do Bad By Myself](https://open.spotify.com/track/34nUuoStWnKLFqFH0LNzQA) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 5:07 |
 | 82 | [Amor Natural](https://open.spotify.com/track/3zI1MxYwvge3bTxdB3LOri) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Saci Pererê](https://open.spotify.com/album/3GcvpFejoLlbT2YsYHuyxF) | 4:05 |
 | 83 | [Girassol](https://open.spotify.com/track/6qrwtFwKy3brvOIuDhDfQ1) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Girassol](https://open.spotify.com/album/2z2VudqDCv38Pp6VuQvQmw) | 1:41 |
-| 84 | [\(Our Love\) Don't Throw It All Away](https://open.spotify.com/track/1Rj2vKjzAVzsnmofZzYFWh) | [Andy Gibb](https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK) | [Shadow Dancing](https://open.spotify.com/album/1A8ZxoWwWbn9Ak2k8p3DTn) | 4:10 |
-| 85 | [Hero](https://open.spotify.com/track/4FCb4CUbFCMNRkI6lYc1zI) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl) | 4:17 |
+| 84 | [Hero](https://open.spotify.com/track/4FCb4CUbFCMNRkI6lYc1zI) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl) | 4:17 |
+| 85 | [\(Our Love\) Don't Throw It All Away](https://open.spotify.com/track/1Rj2vKjzAVzsnmofZzYFWh) | [Andy Gibb](https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK) | [Shadow Dancing](https://open.spotify.com/album/1A8ZxoWwWbn9Ak2k8p3DTn) | 4:10 |
 | 86 | [Sweet Thing](https://open.spotify.com/track/69eoS6bEWWfMac4TL36UiM) | [Rufus & Chaka Khan](https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Very Best Of](https://open.spotify.com/album/7LzHNQgKpTd9tkiKNcWyLK) | 3:20 |
 | 87 | [Num Paraíso](https://open.spotify.com/track/70EBZBh1LIwvYuzdvtvPCI) | [Don Beto](https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa) | [Nossa Imaginação](https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9) | 3:35 |
 | 88 | [Um dia de domingo](https://open.spotify.com/track/41UtrfZQMk8598NmRIbZlt) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [iCollection](https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn) | 5:00 |

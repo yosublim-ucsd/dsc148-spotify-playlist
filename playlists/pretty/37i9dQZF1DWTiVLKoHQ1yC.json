@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 222645,
+  "num_followers": 222751,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -631,30 +631,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Resonate (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/7r9LSib4rKpvAS9hTRt1QJ"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 241846,
-      "name": "Resonate (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X"
       },
@@ -675,6 +651,30 @@
       "duration_ms": 219768,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/6nuqo0u5Ex03YMRL0SdyLs"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "Resonate (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/7r9LSib4rKpvAS9hTRt1QJ"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 241846,
+      "name": "Resonate (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -791,6 +791,26 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
+        "name": "Endlessly",
+        "url": "https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+        }
+      ],
+      "duration_ms": 217377,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
         "name": "Kendall Park",
         "url": "https://open.spotify.com/album/6wp9Rv4sM3NOfTaEzxY1pf"
       },
@@ -831,42 +851,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Endlessly",
-        "url": "https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Nadia Ali",
-          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
-        }
-      ],
-      "duration_ms": 217377,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "Es Vedr\u00e0",
-        "url": "https://open.spotify.com/album/0MB3CQJilu7NFipHOBevET"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 197593,
-      "name": "Es Vedr\u00e0",
-      "url": "https://open.spotify.com/track/4Z6W8iMLWY5uuMsAheztBm"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/11MWTmeKNRaPCGR9wcFsGp"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 227117,
       "name": "Healing",
       "url": "https://open.spotify.com/track/1tRD1LXAAy2VPKwdVoHIMI"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "Es Vedr\u00e0",
+        "url": "https://open.spotify.com/album/0MB3CQJilu7NFipHOBevET"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 197593,
+      "name": "Es Vedr\u00e0",
+      "url": "https://open.spotify.com/track/4Z6W8iMLWY5uuMsAheztBm"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
+        "name": "Only I",
+        "url": "https://open.spotify.com/album/6GfqIy3LzvsBQ5fkrGAp5d"
+      },
+      "artists": [
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 228028,
+      "name": "Only I",
+      "url": "https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
         "name": "Move On",
         "url": "https://open.spotify.com/album/5SqJpjqYemto4l2ETxIHzA"
       },
@@ -1167,26 +1183,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Love Come Through",
-        "url": "https://open.spotify.com/album/5aOmshhkUIF5SdGB8xgVGI"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 199458,
-      "name": "Love Come Through",
-      "url": "https://open.spotify.com/track/4ly7j7VqnX4RpnXUBBalFz"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "Strange Feelings (Solomun Remix)",
         "url": "https://open.spotify.com/album/5Ltey6d0mxTU1gKfD8Js51"
       },
@@ -1207,22 +1203,22 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz"
+        "name": "Love Come Through",
+        "url": "https://open.spotify.com/album/5aOmshhkUIF5SdGB8xgVGI"
       },
       "artists": [
         {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
         },
         {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
         }
       ],
-      "duration_ms": 234448,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N"
+      "duration_ms": 199458,
+      "name": "Love Come Through",
+      "url": "https://open.spotify.com/track/4ly7j7VqnX4RpnXUBBalFz"
     }
   ],
   "unique_name": "Melodic & Euphoric",

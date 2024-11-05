@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 35600,
+  "num_followers": 35611,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAAAwN7SQ7u0oZGPgR4d+yht/",
+  "snapshot_id": "Zya9AAAAAAALDGkwS4vp7GcLSWrBz7Vo",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "The Whole Town's Laughing at Me",
+      "url": "https://open.spotify.com/track/2LXiYNPKSYtppqaH1JBob3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TP (Expanded Edition)",
         "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 332866,
       "name": "Feel the Fire",
       "url": "https://open.spotify.com/track/2Dlo3MHqNxgRKOX6KAmWWO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "The Whole Town's Laughing at Me",
-      "url": "https://open.spotify.com/track/2LXiYNPKSYtppqaH1JBob3"
     },
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It's Time For Love",
+        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 321093,
+      "name": "You're My Latest, My Greatest Inspiration",
+      "url": "https://open.spotify.com/track/3KvnF95wCJkQlCxUumLEDe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 518000,
       "name": "I Miss You (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Time For Love",
-        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 321093,
-      "name": "You're My Latest, My Greatest Inspiration",
-      "url": "https://open.spotify.com/track/3KvnF95wCJkQlCxUumLEDe"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You And I",
+        "url": "https://open.spotify.com/album/7EcI2O6Idj1LP3czKldkVC"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 250333,
+      "name": "Don't Keep Wastin' My Time",
+      "url": "https://open.spotify.com/track/20ZbW7KvaWKCmRhbM8rTFl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 210186,
       "name": "Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You And I",
-        "url": "https://open.spotify.com/album/7EcI2O6Idj1LP3czKldkVC"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 250333,
-      "name": "Don't Keep Wastin' My Time",
-      "url": "https://open.spotify.com/track/20ZbW7KvaWKCmRhbM8rTFl"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 323546,
-      "name": "Get Up, Get Down, Get Funky, Get Loose",
-      "url": "https://open.spotify.com/track/53i3FnA4AZEZ8xfC4Rw6bB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 326853,
       "name": "It's All Because of a Woman (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/0xhrVgS6P9jXvi38FiTWFq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 323546,
+      "name": "Get Up, Get Down, Get Funky, Get Loose",
+      "url": "https://open.spotify.com/track/53i3FnA4AZEZ8xfC4Rw6bB"
     },
     {
       "added_at": null,
@@ -887,22 +887,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+        "name": "Teddy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
       },
       "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
         {
           "name": "Teddy Pendergrass",
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 352666,
-      "name": "Tell the World How I Feel About 'Cha Baby (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/0aQbcs7XdGCDfTbe5So9a8"
+      "duration_ms": 273000,
+      "name": "All I Need Is You",
+      "url": "https://open.spotify.com/track/6uViXuBpQbfDFXke9mUQ2S"
     }
   ],
   "unique_name": "This Is Teddy Pendergrass",

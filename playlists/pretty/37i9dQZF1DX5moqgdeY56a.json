@@ -1,6 +1,6 @@
 {
   "description": "Antonio, Pepe, \u00c1ngela, Majo & Leonardo... Los Aguilar a trav\u00e9s de las generaciones.",
-  "num_followers": 49201,
+  "num_followers": 49225,
   "original_name": "La Dinast\u00eda de... Los Aguilar",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,26 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
+        "name": "Nada de Ti",
+        "url": "https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 223578,
+      "name": "Nada de Ti",
+      "url": "https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi"
+    },
+    {
+      "added_at": "2024-04-09 17:24:23",
+      "album": {
         "name": "Homenaje a Los Grandes Compositores",
         "url": "https://open.spotify.com/album/1JdG9NiSeff8ZcFt5iG3fB"
       },
@@ -291,26 +311,6 @@
       "duration_ms": 261133,
       "name": "Medley Ranchero: El Cantador / Tristes Recuerdos (feat. Pepe Aguilar, Angela Aguilar & Leonardo Aguilar)",
       "url": "https://open.spotify.com/track/5ply4jARRCAQ6UtGij6efs"
-    },
-    {
-      "added_at": "2024-04-09 17:24:23",
-      "album": {
-        "name": "Nada de Ti",
-        "url": "https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 223578,
-      "name": "Nada de Ti",
-      "url": "https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi"
     },
     {
       "added_at": "2024-04-09 17:24:23",

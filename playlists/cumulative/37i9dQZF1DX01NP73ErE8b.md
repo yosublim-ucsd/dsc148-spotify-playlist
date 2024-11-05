@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat! 🔁 Cover: Alfa
 
-109 songs - 5 hr 30 min
+110 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Ghiaccio \(feat\. chiello\)](https://open.spotify.com/track/73L86FIIQk4iQBARHArhaA) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [B\-CROMA](https://open.spotify.com/artist/34woewpITSXZtVzNi9tAPS) | [Ghiaccio \(feat\. chiello\)](https://open.spotify.com/album/0D6bgRc96ZW45n5qTmZjZq) | 3:35 | 2024-09-26 |  |
 | [HANGOVER \(feat\. Baby Gang\)](https://open.spotify.com/track/0VHXkwgvHRKOc7OF2l8mLo) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [HANGOVER \(feat\. Baby Gang\)](https://open.spotify.com/album/3LKO4DYCqGjhVcrhH6949F) | 2:51 | 2024-09-19 |  |
 | [Ho paura di tutto](https://open.spotify.com/track/2tEbPcXP2cKE4txG35XeYo) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [Ho paura di tutto](https://open.spotify.com/album/7JYkJb450rOu3HA4BJm0f8) | 3:18 | 2024-10-17 | 2024-11-01 |
-| [HO VOGLIA DI TE](https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp) | [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [HO VOGLIA DI TE](https://open.spotify.com/album/46WmEktGt3rjxtsOqXIWXj) | 3:08 | 2024-07-01 |  |
+| [HO VOGLIA DI TE](https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp) | [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [HO VOGLIA DI TE](https://open.spotify.com/album/46WmEktGt3rjxtsOqXIWXj) | 3:08 | 2024-07-01 | 2024-11-05 |
 | [il filo rosso](https://open.spotify.com/track/2403gCM2RluhMgBc9TSwp7) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [il filo rosso](https://open.spotify.com/album/745x0ghuwicXeSTvOM4RX2) | 3:07 | 2024-10-17 |  |
 | [Il Linguaggio Del Corpo \(feat\. BigMama\)](https://open.spotify.com/track/57bACDRjkVmyFVjYPGRkY3) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Il Linguaggio Del Corpo \(feat\. BigMama\)](https://open.spotify.com/album/6sJp75vw3Cp5p2GX5t6VQr) | 2:32 | 2024-09-19 |  |
 | [ILY](https://open.spotify.com/track/4Q9iyOwqC84ubSLLLU5iNh) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [ILY](https://open.spotify.com/album/1162FKlfeImaKaOiQVgvMs) | 2:50 | 2024-09-05 | 2024-09-27 |
@@ -99,6 +99,7 @@
 | [Rossetto e caffè](https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Rossetto e caffè](https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM) | 3:12 | 2024-07-25 |  |
 | [Sant'allegria \- Jack Sani Remix](https://open.spotify.com/track/2wpSLqGcN5KXVeAGdAnQd0) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv), [Jack Sani](https://open.spotify.com/artist/7CRwZOgk6IQ8Y6ABhwrpDN) | [Sant'allegria \(Jack Sani Remix\)](https://open.spotify.com/album/6FLmdAJsf6g2jKL44jhS4w) | 2:27 | 2024-09-02 |  |
 | [Sbagli e te ne vai \(feat\. LIBERATO\)](https://open.spotify.com/track/2IWIpzS9zuNIA29nwUE8jK) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 3:54 | 2024-09-02 | 2024-10-25 |
+| [Scarabocchi](https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 | 2024-11-04 |  |
 | [SESSO E SAMBA \(feat\. Gaia\)](https://open.spotify.com/track/2Q4Z2js0C6DDUVc7GuLGdF) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [ICON](https://open.spotify.com/album/7wd0zT4UYy8sJwPt9lMqyJ) | 2:47 | 2024-07-01 |  |
 | [SEXY MAGICA](https://open.spotify.com/track/7CLlCROEnQiqEDTt2zjn2t) | [Sarah](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [SEXY MAGICA](https://open.spotify.com/album/30Z0j6LCXcVKPtKtMb44RM) | 2:39 | 2024-07-01 | 2024-08-30 |
 | [SEXY SHOP](https://open.spotify.com/track/0GgIXlhkacCRh30t2Se92q) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [SEXY SHOP](https://open.spotify.com/album/3Lf8T7QRFq98I0OELNBh4y) | 3:08 | 2024-07-01 | 2024-10-11 |

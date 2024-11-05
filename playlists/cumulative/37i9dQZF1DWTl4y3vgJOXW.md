@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Mookie Betts and the Los Angeles Dodgers
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Saquon Barkley
 
 750 songs - 1 day 14 hr 50 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Saripodhaa Sanivaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,290 likes - 52 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,331 likes - 52 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

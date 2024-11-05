@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠 Arsenal Efectivo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,250 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,282 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 39 | [NO SON KLLE](https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [NO SON KLLE](https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y) | 3:43 |
 | 40 | [Si Me Ven](https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Si Me Ven](https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r) | 2:54 |
 | 41 | [Como Pancho Villa](https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Como Pancho Villa](https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob) | 2:23 |
-| 42 | [Lo Intenté](https://open.spotify.com/track/5sQRpQSm2yo2pyE6rGsoIB) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Lo Intenté](https://open.spotify.com/album/2tGIwxt06WELGAEFAI8sKW) | 3:19 |
-| 43 | [Lunetas](https://open.spotify.com/track/5stvPTThbnckmxWgW8Nswj) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Lunetas](https://open.spotify.com/album/77PjwDAfnqkqKWm4yGlV93) | 2:56 |
+| 42 | [Lunetas](https://open.spotify.com/track/5stvPTThbnckmxWgW8Nswj) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Lunetas](https://open.spotify.com/album/77PjwDAfnqkqKWm4yGlV93) | 2:56 |
+| 43 | [Lo Intenté](https://open.spotify.com/track/5sQRpQSm2yo2pyE6rGsoIB) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Lo Intenté](https://open.spotify.com/album/2tGIwxt06WELGAEFAI8sKW) | 3:19 |
 | 44 | [Adrenalina](https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Adrenalina](https://open.spotify.com/album/2BvDucJawFOjYW93odCdow) | 2:30 |
 | 45 | [JESUS](https://open.spotify.com/track/6OwjpJLqayrcTuzBvxoGMd) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:56 |
 | 46 | [Ducati](https://open.spotify.com/track/0tmP3JTNIPazZFYbznBwm7) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Ducati](https://open.spotify.com/album/2QmFMHMxWElDAfhdXjM7OM) | 2:28 |

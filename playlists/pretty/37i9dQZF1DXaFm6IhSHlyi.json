@@ -1,6 +1,6 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 145460,
+  "num_followers": 145470,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Make Out",
+        "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 244820,
+      "name": "ILYSB - STRIPPED",
+      "url": "https://open.spotify.com/track/3Dkvp3L4w0uJFYfIPa8E9H"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "FANTAS\u00cdA",
         "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 221386,
       "name": "En Guerra",
       "url": "https://open.spotify.com/track/6dJPqP0gHP6iAZuIk1njBs"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Make Out",
-        "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 244820,
-      "name": "ILYSB - STRIPPED",
-      "url": "https://open.spotify.com/track/3Dkvp3L4w0uJFYfIPa8E9H"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Bad Dreams (Stripped)",
-        "url": "https://open.spotify.com/album/6KyX7ORexJ6oabGpNVEM9P"
-      },
-      "artists": [
-        {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
-        }
-      ],
-      "duration_ms": 171351,
-      "name": "Bad Dreams - Stripped",
-      "url": "https://open.spotify.com/track/4II6CiYRsyuERn0KvUJoTG"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "THE SNAKE",
         "url": "https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 176953,
       "name": "THE SNAKE",
       "url": "https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Bad Dreams (Stripped)",
+        "url": "https://open.spotify.com/album/6KyX7ORexJ6oabGpNVEM9P"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "duration_ms": 171351,
+      "name": "Bad Dreams - Stripped",
+      "url": "https://open.spotify.com/track/4II6CiYRsyuERn0KvUJoTG"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Sei L\u00e1",
+        "url": "https://open.spotify.com/album/67qnQQfaph7WX9OsW0KMQj"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Tinoco",
+          "url": "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "Sei L\u00e1",
+      "url": "https://open.spotify.com/track/1Zta013L8lvFsTjmnF34B6"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Can We Kiss Forever?",
         "url": "https://open.spotify.com/album/1B4ZnEKDAstlatD3ySlsBS"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 187898,
       "name": "Can We Kiss Forever?",
       "url": "https://open.spotify.com/track/1Av69kr9JitqPWo7WJLS5q"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Sei L\u00e1",
-        "url": "https://open.spotify.com/album/67qnQQfaph7WX9OsW0KMQj"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1rbara Tinoco",
-          "url": "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
-        }
-      ],
-      "duration_ms": 202386,
-      "name": "Sei L\u00e1",
-      "url": "https://open.spotify.com/track/1Zta013L8lvFsTjmnF34B6"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "\u041f\u0440\u044f\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0432\u0430\u043d\u043d\u043e\u0439",
-        "url": "https://open.spotify.com/album/63cnNV9pKhPOtIgBURZlgX"
-      },
-      "artists": [
-        {
-          "name": "Mari Kraimbrery",
-          "url": "https://open.spotify.com/artist/52OqFsDacV87Zx7BfXuw2i"
-        }
-      ],
-      "duration_ms": 190285,
-      "name": "\u041f\u0440\u044f\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0432\u0430\u043d\u043d\u043e\u0439",
-      "url": "https://open.spotify.com/track/3vvmbAAGAbNhLTM5h6vPvN"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Sushi Season (The First)",
         "url": "https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 243504,
       "name": "Pindirai",
       "url": "https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "\u041f\u0440\u044f\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0432\u0430\u043d\u043d\u043e\u0439",
+        "url": "https://open.spotify.com/album/63cnNV9pKhPOtIgBURZlgX"
+      },
+      "artists": [
+        {
+          "name": "Mari Kraimbrery",
+          "url": "https://open.spotify.com/artist/52OqFsDacV87Zx7BfXuw2i"
+        }
+      ],
+      "duration_ms": 190285,
+      "name": "\u041f\u0440\u044f\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0432\u0430\u043d\u043d\u043e\u0439",
+      "url": "https://open.spotify.com/track/3vvmbAAGAbNhLTM5h6vPvN"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "drivers license",
-        "url": "https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "I See The Dream (Badna Salam) [feat. Ali Gatie] [Acoustic]",
         "url": "https://open.spotify.com/album/0vVz5TFO0EWv7fvdSTK2T5"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 163366,
       "name": "I See The Dream (Badna Salam) (feat. Ali Gatie) - Acoustic",
       "url": "https://open.spotify.com/track/00Uz6dZGLeIJxWV1FnsqgM"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "drivers license",
+        "url": "https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Maghihintay",
+        "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
+      },
+      "artists": [
+        {
+          "name": "Ruru Madrid",
+          "url": "https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf"
+        }
+      ],
+      "duration_ms": 275913,
+      "name": "Maghihintay",
+      "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Simula",
         "url": "https://open.spotify.com/album/1wv3X0NaZqiI4LgMyxgAnn"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 265377,
       "name": "Simula",
       "url": "https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Maghihintay",
-        "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
-      },
-      "artists": [
-        {
-          "name": "Ruru Madrid",
-          "url": "https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf"
-        }
-      ],
-      "duration_ms": 275913,
-      "name": "Maghihintay",
-      "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Lost Without You",
-        "url": "https://open.spotify.com/album/0GNvEDf1HoEeYk6RBXxpn7"
-      },
-      "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        }
-      ],
-      "duration_ms": 225076,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3QlF2ExmrRP0RM7ffv7y0Q"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "PINK PLANET",
         "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 169127,
       "name": "At My Worst (feat. Kehlani)",
       "url": "https://open.spotify.com/track/5OdNjYTpLjuDDPCBNWonRX"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Lost Without You",
+        "url": "https://open.spotify.com/album/0GNvEDf1HoEeYk6RBXxpn7"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 225076,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3QlF2ExmrRP0RM7ffv7y0Q"
     },
     {
       "added_at": "2022-10-17 15:00:00",

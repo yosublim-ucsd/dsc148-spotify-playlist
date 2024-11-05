@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 173893,
+  "num_followers": 173961,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "The Sorry Sweater",
+        "url": "https://open.spotify.com/album/63uqMPsXQz1BXFi2vHCpiC"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 206850,
+      "name": "The Sorry Sweater",
+      "url": "https://open.spotify.com/track/06gBjl6WD3l4ExKfelGkW5"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "Just Like Me",
         "url": "https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 212725,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "The Sorry Sweater",
-        "url": "https://open.spotify.com/album/63uqMPsXQz1BXFi2vHCpiC"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 206850,
-      "name": "The Sorry Sweater",
-      "url": "https://open.spotify.com/track/06gBjl6WD3l4ExKfelGkW5"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Caught It from the Rye",
-        "url": "https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e9 Burt",
-          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "Real You",
-      "url": "https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Access",
         "url": "https://open.spotify.com/album/5N8N92LZ5MwYBAxlaXFHnA"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 177326,
       "name": "Attention",
       "url": "https://open.spotify.com/track/0q3jG8hRgWj9AR2OOJUOYe"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Caught It from the Rye",
+        "url": "https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "Real You",
+      "url": "https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN"
     },
     {
       "added_at": "2024-07-05 19:49:15",

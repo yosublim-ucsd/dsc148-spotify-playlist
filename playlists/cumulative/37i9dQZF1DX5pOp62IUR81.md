@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love!
 
-196 songs - 8 hr 20 min
+197 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Marvel Studios Fanfare \- From "Thor: The Dark World"/Score](https://open.spotify.com/track/0vPZjeaM0cfbxZJntcD4iy) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Thor: The Dark World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2dTEXpN7fg9cJPKCCyDJ1y) | 0:30 | 2024-01-05 |  |
 | [Maya's Theme](https://open.spotify.com/track/6jqliDGEulKN5RvAIsg5mM) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Michael Paraskevas](https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84) | [Hawkeye: Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/6kEKPX5fzADIWcFc33qawM) | 4:10 | 2024-01-05 |  |
 | [Merrily On](https://open.spotify.com/track/7KFvL8WkzjO9f7OceZy2BZ) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Nora Kroll\-Rosenbaum](https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm) | [What If..\. Happy Hogan Saved Christmas? \(Season 2/Episode 3\) \[Original Soundtrack\]](https://open.spotify.com/album/3cDdNPdIPTjcvXyuRtd293) | 0:49 | 2024-05-22 |  |
+| [Mighty Thor \(1966 Theme\) \- 2024 Remaster](https://open.spotify.com/track/2g0Odq2yA3M6G8o141RK6E) | [Marvel Chorus](https://open.spotify.com/artist/63KXngPaFXJtGolZzKpRln) | [Mighty Thor \(1966 Theme\) \[2024 Remaster\]](https://open.spotify.com/album/1mr9Bzszua1SdABhSH5dTV) | 1:27 | 2024-11-04 |  |
 | [Mo Ergaste Forn \(Full Version\)](https://open.spotify.com/track/2s8a9lpM83HBmcBS6Skorn) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 3:23 | 2024-01-05 |  |
 | [Moon Knight](https://open.spotify.com/track/65ICJM6KqFWou1ntTAv0Qk) | [Hesham Nazih](https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT) | [Moon Knight \(Original Soundtrack\)](https://open.spotify.com/album/3z9OjeKSTG1OtElUq3OGv8) | 2:10 | 2024-01-05 |  |
 | [Moscow Madness](https://open.spotify.com/track/7cRmW97CFuBmhRCVv14TSM) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Secret Invasion: Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/0G0Inyu1vRCbhi8qb1BrWH) | 4:40 | 2024-01-05 |  |

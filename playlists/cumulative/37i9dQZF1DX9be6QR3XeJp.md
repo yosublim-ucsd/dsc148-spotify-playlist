@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Wilfy D
+> Discover your new favourite artists from UK&IE\. Cover: Cameo Blush
 
-285 songs - 15 hr 18 min
+286 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [18 & Over](https://open.spotify.com/track/62UTBl5LVd6HOCFvT57Axt) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [18 & Over](https://open.spotify.com/album/1sd55O8hXHGhK2qH2WvsLn) | 3:38 | 2022-02-18 |  |
 | [2030 Revolution](https://open.spotify.com/track/0Ik7qkvgSz25oZgZ6T0pIs) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [2030 Revolution](https://open.spotify.com/album/5MVQziYxk5ejRzKcLveWpa) | 3:48 | 2022-08-25 |  |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-02-24 |  |
+| [4 Me](https://open.spotify.com/track/2sM7DGrqesJOBZVm8MZqWR) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Just Concentrate](https://open.spotify.com/album/4A5WChT0xhc7UMpzM6v7TN) | 3:55 | 2024-11-04 |  |
 | [A Good Time](https://open.spotify.com/track/45TT90guElVnPKJrDkxYS3) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [A Good Time](https://open.spotify.com/album/3mFAqz77A9Db3tHfJSljGm) | 2:29 | 2023-11-10 |  |
 | [Alien](https://open.spotify.com/track/5o0INADFgCAXCu7v7F6XbP) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Alien](https://open.spotify.com/album/31UtLq65wdYZIowQoTTydD) | 3:06 | 2022-02-18 |  |
 | [Alien](https://open.spotify.com/track/7Cb3Gf8kAX6nvXi3vNwt9z) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Alien](https://open.spotify.com/album/7tPGLotaxutfrmlxKy6Qkd) | 3:06 | 2022-10-06 | 2024-04-19 |

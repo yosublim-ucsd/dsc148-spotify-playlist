@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: King Gizzard & The Lizard Wizard
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,328 likes - 85 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,345 likes - 85 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

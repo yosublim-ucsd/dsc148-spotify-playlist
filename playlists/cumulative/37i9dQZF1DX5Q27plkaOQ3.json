@@ -1331,6 +1331,28 @@
     },
     {
       "album": {
+        "name": "LEAVING THE WORLD BEHIND",
+        "url": "https://open.spotify.com/album/7tJEB5mI2gBZXQ44w3TbYY"
+      },
+      "artists": [
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        },
+        {
+          "name": "Roniit",
+          "url": "https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "BE YOUR GHOST (feat. Roniit)",
+      "url": "https://open.spotify.com/track/0YPy0ANcvTy5TrlWb6gJzJ"
+    },
+    {
+      "album": {
         "name": "BEAMS",
         "url": "https://open.spotify.com/album/5AYrW1k2Y0f3gpN3BlWmQS"
       },
@@ -2378,7 +2400,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 136000,
       "name": "Canal Street Crook",
       "url": "https://open.spotify.com/track/4uNO3gJ1u3PYuaZjYbqU7P"
@@ -3235,6 +3257,28 @@
     },
     {
       "album": {
+        "name": "DABADABADABADABA",
+        "url": "https://open.spotify.com/album/4JGsUCVSHp0G9UESD2eH8g"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144535,
+      "name": "DABADABADABADABA",
+      "url": "https://open.spotify.com/track/3VxkYtmVCInFfhkbsaMg0B"
+    },
+    {
+      "album": {
         "name": "Daisy Dukes and Cowboy Boots",
         "url": "https://open.spotify.com/album/6C56niFWWLOFPzU56g7C3n"
       },
@@ -3600,6 +3644,28 @@
       "duration_ms": 182857,
       "name": "Degrader",
       "url": "https://open.spotify.com/track/2y0sRxtiJblGeiLopVbYlU"
+    },
+    {
+      "album": {
+        "name": "Dead Man Walking Pt. 2",
+        "url": "https://open.spotify.com/album/3qMvqbU8YpFQkRit1vWatZ"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264827,
+      "name": "Delete Me",
+      "url": "https://open.spotify.com/track/64qzMqWdnPXObrRhC2XP4d"
     },
     {
       "album": {
@@ -4603,6 +4669,28 @@
     },
     {
       "album": {
+        "name": "Ear Candy",
+        "url": "https://open.spotify.com/album/1yhUxyUJ6YV6etU9UfFow1"
+      },
+      "artists": [
+        {
+          "name": "Sully",
+          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
+        },
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220036,
+      "name": "Ear Candy",
+      "url": "https://open.spotify.com/track/7mnbw6GQSg7I8IZgqKeBnu"
+    },
+    {
+      "album": {
         "name": "In the Realm of Hungry Ghosts",
         "url": "https://open.spotify.com/album/0FMV2qVrjMoGFMFKSYmU9v"
       },
@@ -5102,7 +5190,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 274285,
       "name": "Face Myself",
       "url": "https://open.spotify.com/track/78IOX6MF4vbG5DuGusxxvA"
@@ -5596,7 +5684,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 166400,
       "name": "FLAMES",
       "url": "https://open.spotify.com/track/0LEIDdz54zBe9QoyZKaF9q"
@@ -5618,7 +5706,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 154400,
       "name": "Flat Earth",
       "url": "https://open.spotify.com/track/5dBEyWsW202P6gnrGZzd6Z"
@@ -5974,6 +6062,24 @@
       "duration_ms": 210666,
       "name": "FUNKONAUT",
       "url": "https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec"
+    },
+    {
+      "album": {
+        "name": "FUNKSTEP!",
+        "url": "https://open.spotify.com/album/4ilXMoQuSn7VnwcmxyveSv"
+      },
+      "artists": [
+        {
+          "name": "Steller",
+          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "FUNKSTEP!",
+      "url": "https://open.spotify.com/track/78Jvedja5DpdRsQ2THf356"
     },
     {
       "album": {
@@ -6546,7 +6652,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 185600,
       "name": "Gutter",
       "url": "https://open.spotify.com/track/0MwLwN2dFTMOZUZ0msjXOv"
@@ -6666,7 +6772,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 193718,
       "name": "Hammer Time",
       "url": "https://open.spotify.com/track/1N94c7T72slyq4tl2DjDqE"
@@ -8007,6 +8113,32 @@
     },
     {
       "album": {
+        "name": "Jackpot",
+        "url": "https://open.spotify.com/album/0eKVnySU0ZD377SyQrRbA9"
+      },
+      "artists": [
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        },
+        {
+          "name": "Raxdflipnote",
+          "url": "https://open.spotify.com/artist/5srXVgnIoKZgFeNFXwNObg"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "Jackpot",
+      "url": "https://open.spotify.com/track/2wVGikrHyivMCxdXTc5fsx"
+    },
+    {
+      "album": {
         "name": "Joker (Gawm Remix)",
         "url": "https://open.spotify.com/album/6rA8lYRLd9b0i4CSlhsoBR"
       },
@@ -8725,6 +8857,24 @@
     },
     {
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/7kHo68bHhe3tP4gf2DRIZN"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170560,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/1E6meFZ4yDVstks1aK5SUa"
+    },
+    {
+      "album": {
         "name": "Lose Your Shit",
         "url": "https://open.spotify.com/album/71sB5UqHjvyV1oXNYObWxW"
       },
@@ -9222,7 +9372,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 198000,
       "name": "Mind Control",
       "url": "https://open.spotify.com/track/28vsBdSYrVngw6b7hA6bos"
@@ -9836,7 +9986,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 155586,
       "name": "NEXT LVL",
       "url": "https://open.spotify.com/track/6uaKtnOTKImR5B6cU8FXjo"
@@ -10535,6 +10685,28 @@
     },
     {
       "album": {
+        "name": "Open The Pit",
+        "url": "https://open.spotify.com/album/5wiAY7ul5fy4xdzfKq9BV6"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226069,
+      "name": "Open The Pit",
+      "url": "https://open.spotify.com/track/1HComaUOXdl7jRuGB3KsVB"
+    },
+    {
+      "album": {
         "name": "Open Up The Pit",
         "url": "https://open.spotify.com/album/1spoWWUkfqNTdZwiVwvV0a"
       },
@@ -11022,6 +11194,28 @@
       "duration_ms": 280123,
       "name": "POETIC PIT",
       "url": "https://open.spotify.com/track/2vvpJ7CJ80THGG8gLDGxug"
+    },
+    {
+      "album": {
+        "name": "Fluxiverse Vol. 2",
+        "url": "https://open.spotify.com/album/389v3vG9Dwn7RFJwsRUUB7"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "GLNNA",
+          "url": "https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199800,
+      "name": "Point Of No Return",
+      "url": "https://open.spotify.com/track/20LiZB9uHLbrs54tpad3qO"
     },
     {
       "album": {
@@ -12034,6 +12228,28 @@
     {
       "album": {
         "name": "Revival",
+        "url": "https://open.spotify.com/album/7BpL0bDWem3UNj1J5kASmL"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/34fP85Y5eJYIGMjjb7V8t9"
+    },
+    {
+      "album": {
+        "name": "Revival",
         "url": "https://open.spotify.com/album/2u2FGyZJpDWfubdPB8l2qB"
       },
       "artists": [
@@ -12250,7 +12466,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 160271,
       "name": "ROBOTS",
       "url": "https://open.spotify.com/track/4vlTbBs0C5Q0oqRMz2UZqa"
@@ -13064,7 +13280,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 158896,
       "name": "Shibuya",
       "url": "https://open.spotify.com/track/0COch7JwRyW0c7N8eZTC5w"
@@ -13344,7 +13560,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 148965,
       "name": "Sky High",
       "url": "https://open.spotify.com/track/4nQk7L78PXHHgrUxUqr5WA"
@@ -13966,7 +14182,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 230800,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/0Rpd7XAebkkRwPk7USlpuI"
@@ -14192,6 +14408,28 @@
       "duration_ms": 342857,
       "name": "Stompi Boi",
       "url": "https://open.spotify.com/track/3uaRj0qQtOL6PauksKWhkD"
+    },
+    {
+      "album": {
+        "name": "STONED TO DEATH",
+        "url": "https://open.spotify.com/album/5PHJVpeoYbuDXQTmPiKtd5"
+      },
+      "artists": [
+        {
+          "name": "Stoned Level",
+          "url": "https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd"
+        },
+        {
+          "name": "MUERTE",
+          "url": "https://open.spotify.com/artist/6TWscSE05GH5UvJpVq8y7y"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "STONED TO DEATH",
+      "url": "https://open.spotify.com/track/63y1kLGmzb1mxHAZLc8AsJ"
     },
     {
       "album": {
@@ -15400,7 +15638,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 296571,
       "name": "Third Eye Vision",
       "url": "https://open.spotify.com/track/1waLYktQF1ByPCP3PjTTfb"
@@ -15930,7 +16168,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 192000,
       "name": "Trust No One",
       "url": "https://open.spotify.com/track/3Y9DYNp4ysUdcbpQHaA4Tt"
@@ -16280,6 +16518,24 @@
       "duration_ms": 195428,
       "name": "Voices",
       "url": "https://open.spotify.com/track/74xGI2SshPv14Rg0kOiyRv"
+    },
+    {
+      "album": {
+        "name": "W.Y.G.D",
+        "url": "https://open.spotify.com/album/2cjDJfHQyg7JmVHDCW5nxu"
+      },
+      "artists": [
+        {
+          "name": "OG Nixin",
+          "url": "https://open.spotify.com/artist/6AzehpPyhn3Qrwg6pQfPXz"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211862,
+      "name": "W.Y.G.D",
+      "url": "https://open.spotify.com/track/2DKuxCOVu1qG7LCwYONoxu"
     },
     {
       "album": {
@@ -16704,10 +16960,28 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 188689,
       "name": "Whoa Fire!",
       "url": "https://open.spotify.com/track/1m3PihD00HUc3eNeabNCEg"
+    },
+    {
+      "album": {
+        "name": "WICKED",
+        "url": "https://open.spotify.com/album/1UOyEy0y2GW3oUL9ax3eMD"
+      },
+      "artists": [
+        {
+          "name": "RB Killa",
+          "url": "https://open.spotify.com/artist/5YLBppgLlgdCEW3SfRofcZ"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "WICKED",
+      "url": "https://open.spotify.com/track/4O0B6KhWiA3ZeZyq14gn57"
     },
     {
       "album": {

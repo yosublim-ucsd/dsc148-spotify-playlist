@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a>  \ud83d\ude80\ud83d\ude80 with Marshmello & Hamdi",
-  "num_followers": 979673,
+  "num_followers": 979703,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1785,34 +1785,6 @@
       "url": "https://open.spotify.com/track/78gdoEw0f0uIaOsS2F51lP"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Find My Way",
-        "url": "https://open.spotify.com/album/1ldY76Rx5BjH8cCYHSX7cB"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        },
-        {
-          "name": "JIM",
-          "url": "https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr"
-        }
-      ],
-      "duration_ms": 259862,
-      "name": "Light In The Dark",
-      "url": "https://open.spotify.com/track/1yh9noITAWOzxCtJdkD40W"
-    },
-    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Never Come Back",
@@ -1839,6 +1811,34 @@
       "duration_ms": 142714,
       "name": "Never Come Back",
       "url": "https://open.spotify.com/track/26rKyTQhCCBojRnx8znqFr"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Find My Way",
+        "url": "https://open.spotify.com/album/1ldY76Rx5BjH8cCYHSX7cB"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "JIM",
+          "url": "https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr"
+        }
+      ],
+      "duration_ms": 259862,
+      "name": "Light In The Dark",
+      "url": "https://open.spotify.com/track/1yh9noITAWOzxCtJdkD40W"
     },
     {
       "added_at": "2024-04-12 04:00:00",

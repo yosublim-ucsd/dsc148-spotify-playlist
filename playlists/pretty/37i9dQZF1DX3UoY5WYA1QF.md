@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,124 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,266 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 42 | [Un Carino Como Tu](https://open.spotify.com/track/3Jgpbe7rXleRDdOJzsWCzJ) | [Los Herederos Del Norte](https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc) | [Homenaje a Joan Sebastian](https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr) | 2:18 |
 | 43 | [Mil Navajas](https://open.spotify.com/track/5U2E78WymdPCGIrSHimXZZ) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mil Navajas](https://open.spotify.com/album/57ezZj651lNS1sRU84RxXs) | 2:58 |
 | 44 | [En Un Jaripeo](https://open.spotify.com/track/368PvQ3FRthUJLTHp11JP2) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 2:41 |
-| 45 | [Prisionero De La Ciudad](https://open.spotify.com/track/65nHDfhLe607gawYa1m1Dx) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Alberto Vázquez Interpreta A Joan Sebastian](https://open.spotify.com/album/0Zyjce2YUDw3TG9ex2EblK) | 3:22 |
-| 46 | [Manuel Juarez](https://open.spotify.com/track/3u0O5ZhOuTYzFzRPRpyYsF) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 3](https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL) | 5:30 |
+| 45 | [Manuel Juarez](https://open.spotify.com/track/3u0O5ZhOuTYzFzRPRpyYsF) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 3](https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL) | 5:30 |
+| 46 | [Prisionero De La Ciudad](https://open.spotify.com/track/65nHDfhLe607gawYa1m1Dx) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Alberto Vázquez Interpreta A Joan Sebastian](https://open.spotify.com/album/0Zyjce2YUDw3TG9ex2EblK) | 3:22 |
 | 47 | [Aunque Ya Tengas Marido](https://open.spotify.com/track/4EwfGjLIQELHipH2w9jx8d) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Homenaje al Poeta Gracias Joan Sebastian](https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f) | 2:31 |
 | 48 | [Soy Como Quiero Ser](https://open.spotify.com/track/2tOuiMcYx7f4dH2odXuArQ) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 2:35 |
 | 49 | [Corrido de Manuel Juárez](https://open.spotify.com/track/0OrSSO2y8XouFaL66KZGxD) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 4:49 |

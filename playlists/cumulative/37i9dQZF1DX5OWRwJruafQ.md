@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-506 songs - 1 day 0 hr 9 min
+507 songs - 1 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Jail](https://open.spotify.com/track/4vq09IiRwg2EdJtovCl5H2) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Naveezy](https://open.spotify.com/album/197b84cjuJyHeDzGwzjXVn) | 3:27 | 2023-08-29 | 2023-09-22 |
 | [Jalwa](https://open.spotify.com/track/40F1lbxeOINcF2VOC7yt3S) | [Jot Ladhar](https://open.spotify.com/artist/6uB5Rk4rcsvBH3XFjeoBDR), [Kash Ladhar](https://open.spotify.com/artist/5aX4K8tN6Ii8JIGFRcs3uR), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Jalwa](https://open.spotify.com/album/2Lwf3gqTD5n18onGycB4gg) | 3:06 | 2024-01-19 | 2024-04-19 |
 | [Jamanta](https://open.spotify.com/track/6MDnTLjLmWzlav88TLyA1v) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Jamanta](https://open.spotify.com/album/1vgvePwrcyUGI8iczJp3WZ) | 2:31 | 2024-01-05 | 2024-01-19 |
+| [Janu Janu](https://open.spotify.com/track/32qm4nI8Y3dOc8pFGsOAXc) | [Jaskaran Riarr](https://open.spotify.com/artist/3Vlyw5c4xPbJz6NlccNBJe) | [Sobar](https://open.spotify.com/album/2i6zbTxqSYaNICcdmhmcgx) | 3:24 | 2024-11-04 |  |
 | [Jatt Bande](https://open.spotify.com/track/13h6cUhOMSOrZsxjboUCqC) | [Deep Dosanjh](https://open.spotify.com/artist/2wfWZhs4Vfsaebzcqg6QSR), [J Chahal](https://open.spotify.com/artist/4jGSwWsGAs9KOrd6LPxg2E), [Money On The Beat](https://open.spotify.com/artist/5bx5ppUrhA6GF5l2swMOk9) | [Jatt Bande](https://open.spotify.com/album/1h9UkIIWgLsV6r5o1r2yj7) | 3:19 | 2023-10-06 | 2023-10-24 |
 | [Jatt Da Nishana](https://open.spotify.com/track/6N9A8SUlqnGQghsclChU5x) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Jatt Da Nishana](https://open.spotify.com/album/63SkBlsiJBtXn24OefwFLT) | 2:29 | 2023-03-29 | 2023-04-21 |
 | [Jatt Jachde](https://open.spotify.com/track/5611tkUl2ph030QPhMo3gT) | [Rajbirr](https://open.spotify.com/artist/6CUpozXwwPoXmBBrw2tCKj) | [Jatt Jachde](https://open.spotify.com/album/7iHySMbSiHT5U0xnGjsXIX) | 3:01 | 2024-08-13 | 2024-08-20 |
@@ -405,7 +406,7 @@
 | [Sanjay Dutt](https://open.spotify.com/track/6IN08l8EkriTzXQ1KFCb9Y) | [Vadda Grewal](https://open.spotify.com/artist/0l25Af4xjrqTYCHUxkrs0c), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Sanjay Dutt](https://open.spotify.com/album/6UHTNreKfTn9Mr7Wyh3Ptv) | 2:37 | 2024-10-22 |  |
 | [Sardaar Munde](https://open.spotify.com/track/3TK4iqlePK0Vqo5gV0EEQy) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Sardaar Munde](https://open.spotify.com/album/46CooAUUsJw8f0Ydg61zJV) | 3:17 | 2023-10-25 | 2023-11-16 |
 | [Sarpanchi](https://open.spotify.com/track/4jKe37WndXadVXHBMjQghS) | [Baaz Sran](https://open.spotify.com/artist/2Q9RUV7iOfgaXqXOMkPxcb), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Beatcop](https://open.spotify.com/artist/2sGUVwZqJzeySVgEw7KTaV) | [Sarpanchi](https://open.spotify.com/album/0cb6j91VFRE3pbTa259qZa) | 2:22 | 2024-09-28 | 2024-10-08 |
-| [Sarpanchi](https://open.spotify.com/track/30CMziHsZI5HmEJaJNkAq3) | [Guri Sandhu](https://open.spotify.com/artist/2iAqRnqDryFoVQyWzmpCSL) | [Sarpanchi](https://open.spotify.com/album/4g7EWxNOuojE9b0iymAfEx) | 2:19 | 2024-10-04 |  |
+| [Sarpanchi](https://open.spotify.com/track/30CMziHsZI5HmEJaJNkAq3) | [Guri Sandhu](https://open.spotify.com/artist/2iAqRnqDryFoVQyWzmpCSL) | [Sarpanchi](https://open.spotify.com/album/4g7EWxNOuojE9b0iymAfEx) | 2:19 | 2024-10-04 | 2024-11-05 |
 | [Sau Khake](https://open.spotify.com/track/0OCzZFjrgk9TYbWpGfllvC) | [Harf Cheema](https://open.spotify.com/artist/5LCotODBhURh2HRrDINp3A), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Sau Khake](https://open.spotify.com/album/64AYljsLZ2J8o9LTsVpTzT) | 2:52 | 2024-08-12 | 2024-08-21 |
 | [SAY MY NAME](https://open.spotify.com/track/6d6lFgeH3QFgH2r7rOL1Ug) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:14 | 2024-06-11 | 2024-07-04 |
 | [Semi \- Auto](https://open.spotify.com/track/4nRfFpzbqjGvxe9CrrbJ4O) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Bhindder Burj](https://open.spotify.com/artist/4j4SDkxwy0Z68dIh5Vr7fh) | [Semi \- Auto](https://open.spotify.com/album/40lMqYNL5NFoFg4X6gCvsS) | 2:24 | 2023-11-07 |  |

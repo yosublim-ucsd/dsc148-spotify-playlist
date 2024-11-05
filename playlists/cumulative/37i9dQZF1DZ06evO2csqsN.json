@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 113237,
       "name": "On God",
       "url": "https://open.spotify.com/track/7ySc8EB354qhPQKmOw4td0"
@@ -2238,6 +2238,28 @@
       "duration_ms": 137615,
       "name": "Touch Your Toes (feat. Latto)",
       "url": "https://open.spotify.com/track/6ihOIyQU6nvqHG5wJtofEM"
+    },
+    {
+      "album": {
+        "name": "Nasa 2",
+        "url": "https://open.spotify.com/album/3oYRwdyQKn5nTccm3LODnF"
+      },
+      "artists": [
+        {
+          "name": "Outta Space",
+          "url": "https://open.spotify.com/artist/21j9HxFstMjB7DzXWujBnB"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178956,
+      "name": "TouchDown",
+      "url": "https://open.spotify.com/track/7oqhhfWAQiUUUijb9FSsVG"
     },
     {
       "album": {

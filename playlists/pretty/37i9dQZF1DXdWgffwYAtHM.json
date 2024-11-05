@@ -1,13 +1,29 @@
 {
-  "description": "Podcasts que voc\u00ea precisa ter no RADAR. Capa: <a href=\"spotify:show:4b5P4Tq5loWnl139Uw853q\">POGRAMA</a>",
-  "num_followers": 4753,
-  "original_name": "RADAR Podcasters Brasil",
+  "description": "Creators que voc\u00ea precisa ter no RADAR. Capa: <a href=\"spotify:show:0jChaPqRQFGVIjnwTqeZiD\">T\u00e1 com Tempo?</a>",
+  "num_followers": 4754,
+  "original_name": "RADAR Creators Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvvZ8QAAAACVg7UokEi0gyH08hDm1de+",
+  "snapshot_id": "ZyixRQAAAACa+UxUe114pJdFoK4ENKqB",
   "tracks": [
+    {
+      "added_at": "2024-11-04 11:34:28",
+      "album": {
+        "name": "\"T\u00e1 com Tempo?\" - Elisama Santos",
+        "url": "https://open.spotify.com/album/0jChaPqRQFGVIjnwTqeZiD"
+      },
+      "artists": [
+        {
+          "name": "\"T\u00e1 com Tempo?\" - Elisama Santos",
+          "url": "https://open.spotify.com/show/0jChaPqRQFGVIjnwTqeZiD"
+        }
+      ],
+      "duration_ms": 3098154,
+      "name": "#05 - Como lidar com as expectativas dos nossos pais? - Elisama responde e-mails de ouvintes.",
+      "url": "https://open.spotify.com/episode/6jTSyQDFj0utu82inF7YFy"
+    },
     {
       "added_at": "2024-10-01 11:16:01",
       "album": {
@@ -169,6 +185,6 @@
       "url": "https://open.spotify.com/episode/35kfoVykhStq4eFGLUwS4n"
     }
   ],
-  "unique_name": "RADAR Podcasters Brasil",
+  "unique_name": "RADAR Creators Brasil",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdWgffwYAtHM"
 }

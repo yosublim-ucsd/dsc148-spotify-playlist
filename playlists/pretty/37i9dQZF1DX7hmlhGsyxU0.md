@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,247 likes - 63 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,349 likes - 63 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 30 | [Joshua Tree](https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Joshua Tree](https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw) | 2:37 |
 | 31 | [Swan Lake Story, Op\. 1](https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU) | [W CELLO](https://open.spotify.com/artist/3qEFluoXwyiaw2Du5gUrpd), [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Swan Lake Story](https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU) | 2:50 |
 | 32 | [Everything Is Everything Else](https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20) | [Luke Duffy](https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2) | [Everything Is Everything Else](https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH) | 4:41 |
-| 33 | [New Dawn](https://open.spotify.com/track/7CGrQSHf6dqeTX1VhC0xU4) | [David Fedele](https://open.spotify.com/artist/0ALRbdawPvvBA3OSnXhMsk), [Antonina Car](https://open.spotify.com/artist/2ms1p6jgg7xaVg9s33a8nJ) | [New Dawn](https://open.spotify.com/album/3N7B5fFi6cEpFcBwF7IF5P) | 4:11 |
-| 34 | [Sóliton](https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Sóliton](https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE) | 2:02 |
+| 33 | [Sóliton](https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Sóliton](https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE) | 2:02 |
+| 34 | [Melody of Hope \- 2021 Version](https://open.spotify.com/track/7JoliVgzCfJa1EENp5ScpO) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Melody of Hope \(2021 Version\)](https://open.spotify.com/album/4hGBSFBJxqDFSLVhrsbZQS) | 1:51 |
 | 35 | [A Winter's Tale](https://open.spotify.com/track/40Vn1ZHFzVdtTYLJ4huCfa) | [Malin Eriksson](https://open.spotify.com/artist/43yDuFWdDwDW8hDwjfAxUU) | [Words Left Unspoken](https://open.spotify.com/album/4P09SKvRAbJhBrNwDv7ABc) | 2:45 |
-| 36 | [Melody of Hope \- 2021 Version](https://open.spotify.com/track/7JoliVgzCfJa1EENp5ScpO) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Melody of Hope \(2021 Version\)](https://open.spotify.com/album/4hGBSFBJxqDFSLVhrsbZQS) | 1:51 |
-| 37 | [Fade Far Away](https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am) | [Nicholas & Sebastian](https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV) | [Reveries](https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7) | 3:31 |
-| 38 | [Inside Me](https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 6:48 |
+| 36 | [Fade Far Away](https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am) | [Nicholas & Sebastian](https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV) | [Reveries](https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7) | 3:31 |
+| 37 | [Inside Me](https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 6:48 |
+| 38 | [New Dawn](https://open.spotify.com/track/7CGrQSHf6dqeTX1VhC0xU4) | [David Fedele](https://open.spotify.com/artist/0ALRbdawPvvBA3OSnXhMsk), [Antonina Car](https://open.spotify.com/artist/2ms1p6jgg7xaVg9s33a8nJ) | [New Dawn](https://open.spotify.com/album/3N7B5fFi6cEpFcBwF7IF5P) | 4:11 |
 | 39 | [You Will Never Walk Alone \- Glowworm Rework](https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG) | [Maciej Sadowski](https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J), [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [You Will Never Walk Alone \(Glowworm Rework\)](https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM) | 3:53 |
 | 40 | [Rêverie](https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy) | [Jack Hopkins](https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV) | [Rêverie](https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK) | 3:52 |
 | 41 | [First Time Of Heaven \- Piano and Strings](https://open.spotify.com/track/28xXlF8sz0TgNL52WI7VkT) | [Charlie Ward](https://open.spotify.com/artist/2DAW0Yp7gDtFqrJk4v3zt2), [Kelly Lerner](https://open.spotify.com/artist/1qEe8TfUNdAIGm9ZBe23hO) | [First Time Of Heaven \(Piano and Strings\)](https://open.spotify.com/album/5J4JVqt7PgLD5RzwYt5FjG) | 2:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Gigi Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,299 likes - 143 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,305 likes - 143 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > Ethel Cain returns
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,171,352 likes - 140 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,171,324 likes - 140 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

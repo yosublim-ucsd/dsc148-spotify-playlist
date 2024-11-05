@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 
 > 蘑菇濃湯來了！快點快點快點呦！和寶貝一起快樂唱唱跳跳吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,126 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,128 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 | 14 | [王老先生有塊地](https://open.spotify.com/track/0C6UmNhZdzXQRIhVG8JPZg) | [MIKA STUDIO](https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2) | [樂唱童學會 世界經典童謠 中文演唱版](https://open.spotify.com/album/2pfQFJ5G0GjZaNiLqxzL5R) | 0:51 |
 | 15 | [小花貓](https://open.spotify.com/track/43zEabzh5HVXa0xfiHUo9S) | [MOMO家族](https://open.spotify.com/artist/2HpPjKN0EHmtUCE3Hv8xgt) | [MOMO玩玩樂 5\-精選兒歌](https://open.spotify.com/album/75hOKCJR2HfJRAzg4iNb5o) | 3:08 |
 | 16 | [快乐起床歌](https://open.spotify.com/track/7hpxOLxRObL1GdlOrEONTG) | [张晶晶](https://open.spotify.com/artist/6uGRh9i4m8kSWZ6kus65B2) | [快乐起床歌](https://open.spotify.com/album/2a1jzAssMtAQtCAqkS1kae) | 3:30 |
-| 17 | [當你的小孩真好](https://open.spotify.com/track/6a4aDZvBYXCpMAETRrHW52) | [愛好好聽](https://open.spotify.com/artist/0mNR0QVE8U7DI4pZsEGlhC) | [當你的小孩真好](https://open.spotify.com/album/1tjOPWcpAljQeKh8kiMN7N) | 3:12 |
-| 18 | [開場歌1大聲說哈囉](https://open.spotify.com/track/3AWQihVPxAqCSefg6D2tGt) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's LOVE](https://open.spotify.com/album/7hruXsIAMq5VG5hh0hwyU3) | 0:49 |
+| 17 | [開場歌1大聲說哈囉](https://open.spotify.com/track/3AWQihVPxAqCSefg6D2tGt) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's LOVE](https://open.spotify.com/album/7hruXsIAMq5VG5hh0hwyU3) | 0:49 |
+| 18 | [當你的小孩真好](https://open.spotify.com/track/6a4aDZvBYXCpMAETRrHW52) | [愛好好聽](https://open.spotify.com/artist/0mNR0QVE8U7DI4pZsEGlhC) | [當你的小孩真好](https://open.spotify.com/album/1tjOPWcpAljQeKh8kiMN7N) | 3:12 |
 | 19 | [快樂小寶貝](https://open.spotify.com/track/2KqKLiNTI9FCn5xtNHYYf7) | [貝樂虎](https://open.spotify.com/artist/5ZdmFRkxym0oPSDwIBoYoQ) | [貝樂虎兒歌精選系列6](https://open.spotify.com/album/4Qsa9jWt70Li6Jqm0qQzr8) | 1:10 |
 | 20 | [麻糬打滾](https://open.spotify.com/track/0hSS3coomlHAtaA8MXDU7B) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [麻糬﻿打滾](https://open.spotify.com/album/3fdMF56vM4l51GsBViI8Xe) | 2:07 |
 | 21 | [火車嘟嘟嘟](https://open.spotify.com/track/2hPwHQKDQ6BOhS9mLMl003) | [YOYO家族藝人](https://open.spotify.com/artist/6s8WAcX7G8VMpOH1926RMi) | [YoYo點點名4 快樂木屐鞋](https://open.spotify.com/album/0uQcFq0X9lLU3Rx1nqy5nP) | 2:49 |

@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 216000,
       "name": "Asiwaju",
       "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
@@ -1732,7 +1732,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 193666,
       "name": "Beta",
       "url": "https://open.spotify.com/track/7xO9Xzb6UqP2bFmCUYTAI2"
@@ -6083,6 +6083,24 @@
     },
     {
       "album": {
+        "name": "Ifineme X Upstandin",
+        "url": "https://open.spotify.com/album/1lyDMxu8Hr76pVQveFi3Yk"
+      },
+      "artists": [
+        {
+          "name": "Morravey",
+          "url": "https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179070,
+      "name": "Ifineme",
+      "url": "https://open.spotify.com/track/6U6usyI67RBLnGxL2MWGKC"
+    },
+    {
+      "album": {
         "name": "Khanyi Mbau",
         "url": "https://open.spotify.com/album/6VK8hsfcAA2qjs7jWzO9Gf"
       },
@@ -8367,6 +8385,24 @@
     },
     {
       "album": {
+        "name": "May 10th",
+        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00f8tonin",
+          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166530,
+      "name": "May 10th",
+      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
+    },
+    {
+      "album": {
         "name": "Me & U",
         "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
       },
@@ -9476,7 +9512,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 221217,
       "name": "Ngozi",
       "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
@@ -11433,6 +11469,24 @@
     },
     {
       "album": {
+        "name": "Rock",
+        "url": "https://open.spotify.com/album/4teIzIcBlCmrMrJ0asA1iq"
+      },
+      "artists": [
+        {
+          "name": "Stepz",
+          "url": "https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144113,
+      "name": "Rock",
+      "url": "https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"
+    },
+    {
+      "album": {
         "name": "Rocketship",
         "url": "https://open.spotify.com/album/4za3vqGRKS1vFTQAhYnLwQ"
       },
@@ -12012,7 +12066,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 354220,
       "name": "Skuta Baba",
       "url": "https://open.spotify.com/track/6ZAmpvC2OTFy6j4EkD2jml"
@@ -13774,7 +13828,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 341128,
       "name": "Ungangilimazi (feat. Frank Mabeat)",
       "url": "https://open.spotify.com/track/0SWRckW8kXfGzBW72pduvZ"
@@ -14460,6 +14514,28 @@
       "duration_ms": 286493,
       "name": "What You Won't Do for Love",
       "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
+    },
+    {
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ft2KOkJpRg.md) - [plain]
 
 > ¿qué se siente ser feliz? :\(
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,583 likes - 78 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,310 likes - 78 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

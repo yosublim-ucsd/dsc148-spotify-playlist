@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 33800,
+  "num_followers": 33801,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAABTGAoljNnE7QkUyx5xWFE1",
+  "snapshot_id": "Zya9AAAAAADS0Vu/1W97b28gmVJdTxg5",
   "tracks": [
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si T\u00fa No Est\u00e1s",
-        "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 225093,
-      "name": "Si T\u00fa No Est\u00e1s",
-      "url": "https://open.spotify.com/track/4RKmEnXCIZ1Mr6Gg5a2Nhe"
+      "duration_ms": 667266,
+      "name": "Arauco Tiene una Pena",
+      "url": "https://open.spotify.com/track/1YyXDlQOYt0JNyxEapmv0U"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obras de Violeta Parra",
-        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 667266,
-      "name": "Arauco Tiene una Pena",
-      "url": "https://open.spotify.com/track/1YyXDlQOYt0JNyxEapmv0U"
+      "duration_ms": 225093,
+      "name": "Si T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/4RKmEnXCIZ1Mr6Gg5a2Nhe"
     },
     {
       "added_at": null,

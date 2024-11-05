@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-292 songs - 17 hr 2 min
+293 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Crystal Clear](https://open.spotify.com/track/66GTXFs0Q12Z2xsk4Uvc8e) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Marimba Morning](https://open.spotify.com/album/7tFKm8g3vPBaV5GBPu3Had) | 2:15 | 2022-04-21 | 2024-10-23 |
 | [Dalam Masa Ini](https://open.spotify.com/track/3MsXF2oAtKZnb859w0OjRs) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Dalam Masa Ini](https://open.spotify.com/album/0AMQ4QUXFOThLoI76UxKVA) | 2:14 | 2023-06-23 | 2024-07-25 |
 | [Dancing In](https://open.spotify.com/track/72yToKzlUefPZOmYFd18Ai) | [La Dormilona](https://open.spotify.com/artist/4T6ME5iuu0IEJYNUldQ1u1) | [Dancing In My Dreams](https://open.spotify.com/album/29qcsRC2UteeNJ6qFWvmIK) | 3:08 | 2022-02-04 |  |
-| [Daphine](https://open.spotify.com/track/0XwJ2kXGE6glUGOg7BrCPB) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Daphine](https://open.spotify.com/album/75JLBXA0qS480JSDRo10ey) | 3:33 | 2021-10-09 |  |
+| [Daphine](https://open.spotify.com/track/0XwJ2kXGE6glUGOg7BrCPB) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Daphine](https://open.spotify.com/album/75JLBXA0qS480JSDRo10ey) | 3:33 | 2021-10-09 | 2024-11-05 |
 | [Darashinai Beach](https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW) | [Kenichiban](https://open.spotify.com/artist/1itUqhqM3DvzOekyR0MFva) | [Darashinai Beach](https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc) | 3:39 | 2020-12-08\* | 2021-09-17 |
 | [Depth of Mind](https://open.spotify.com/track/50AtDtIeRZV9MTXahpjGoD) | [Pásztor Bernadett](https://open.spotify.com/artist/6TrFNdRCffYoRu4FE7CEqX) | [Pásztor Bernadett](https://open.spotify.com/album/5uUY70msqiTGQNOm6hQEVk) | 3:38 | 2020-12-08\* | 2021-03-18 |
 | [Depths of Eternity](https://open.spotify.com/track/1Ujn2n8YOeyXbUM4fAlN0A) | [William Roud](https://open.spotify.com/artist/0KhhuDNDaeL6SOVM6K6Lt1) | [Depths of Eternity](https://open.spotify.com/album/0Xau7RoFSvHQSlqSQoqCDQ) | 2:58 | 2020-12-08\* |  |
@@ -185,6 +185,7 @@
 | [Neume](https://open.spotify.com/track/2S0irMcT7nWLMn0DZpxcZX) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Cloud.Not Mountain](https://open.spotify.com/album/6OFgF0S3CCyfTgZw4U0vrd) | 5:17 | 2022-07-22 | 2023-01-17 |
 | [Neume](https://open.spotify.com/track/6fOfjh3At26n5ouoYP6z8X) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Cloud.Not Mountain](https://open.spotify.com/album/3zClJLuzmzdBzc2XhaJJE5) | 5:17 | 2020-12-08\* | 2022-07-29 |
 | [Nevergreen](https://open.spotify.com/track/6DsGpDGIDRv8EFGgW10T1p) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe In the Steep Cliffs](https://open.spotify.com/album/1KHKPYKo4h8btHa8u3wjEB) | 3:35 | 2020-12-08\* | 2021-03-06 |
+| [Nightshade](https://open.spotify.com/track/3kkzW8DJLHsUndIu2cYhq6) | [Ruud Vanderwege](https://open.spotify.com/artist/4NuHYRjb3dq4fdAel5W46H) | [Nightshade](https://open.spotify.com/album/3O0XR6clzXksizQC0M0lC0) | 2:31 | 2024-09-19 |  |
 | [Not Going Back to the Harbour \(Dauwd Remix\)](https://open.spotify.com/track/5fd2HLarNa3tqHEZK4uyCB) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [Low Tide](https://open.spotify.com/album/5gowhGeWFaDsMxfWiT9O8e) | 4:13 | 2022-07-22 | 2022-09-16 |
 | [Not Going Back To The Harbour \- Dauwd Remix](https://open.spotify.com/track/3KYH5A1SQg6poc9cTr5TjR) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng), [Dauwd Muhammad](https://open.spotify.com/artist/6T1WoscBXu9YjFzN8uvTTG) | [Low Tide](https://open.spotify.com/album/5fgdzuVFij8Qw6xa7aeJSY) | 4:13 | 2020-12-08\* | 2022-07-29 |
 | [Nothing It Can](https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO) | 4:47 | 2020-12-08\* | 2024-08-22 |

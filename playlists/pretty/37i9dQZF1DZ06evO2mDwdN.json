@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Melvin & The Blue Notes. The essential tracks, all in one playlist.",
-  "num_followers": 12985,
+  "num_followers": 12987,
   "original_name": "This Is Harold Melvin & The Blue Notes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAADOUAsMOKsGNuDxmlwY2gxg",
+  "snapshot_id": "Zya9AAAAAACjvxvY4oAewMUHG2sOOkPz",
   "tracks": [
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blue Album",
-        "url": "https://open.spotify.com/album/5DHS3gYrSZEj1RpWYlj1cY"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Sharon Paige",
-          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
-        }
-      ],
-      "duration_ms": 353402,
-      "name": "I Should Be Your Lover",
-      "url": "https://open.spotify.com/track/0LeAHCP4hmqkHvHDuiaea9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 212240,
       "name": "Let It Be You (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/1H90T1SzYHLRqNZZ0y7dhC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blue Album",
+        "url": "https://open.spotify.com/album/5DHS3gYrSZEj1RpWYlj1cY"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Sharon Paige",
+          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
+        }
+      ],
+      "duration_ms": 353402,
+      "name": "I Should Be Your Lover",
+      "url": "https://open.spotify.com/track/0LeAHCP4hmqkHvHDuiaea9"
     },
     {
       "added_at": null,
@@ -687,6 +687,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
+        "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Sharon Paige",
+          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
+        }
+      ],
+      "duration_ms": 340859,
+      "name": "I Wanna Know Your Name - Live",
+      "url": "https://open.spotify.com/track/0vhOnAYQ0fLXqKpCtDFDDo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golden Disco Days: 25 Dancefloor Hits from the 70s, Vol. 2",
+        "url": "https://open.spotify.com/album/4vkZVNXRRoJeOtpePA1Bep"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Ain't No Stoppin' Us Now - Rerecorded",
+      "url": "https://open.spotify.com/track/4bPsYicJ4OoYjPGvuvfyLW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
       },
@@ -711,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Disco Days: 25 Dancefloor Hits from the 70s, Vol. 2",
-        "url": "https://open.spotify.com/album/4vkZVNXRRoJeOtpePA1Bep"
+        "name": "Philadelphia Soul",
+        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
       },
       "artists": [
         {
@@ -720,9 +760,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 225666,
-      "name": "Ain't No Stoppin' Us Now - Rerecorded",
-      "url": "https://open.spotify.com/track/4bPsYicJ4OoYjPGvuvfyLW"
+      "duration_ms": 286093,
+      "name": "If You're Looking For Somebody To Love",
+      "url": "https://open.spotify.com/track/1FgKj0vqkBPNn51KkGjbHc"
     },
     {
       "added_at": null,
@@ -744,9 +784,9 @@
           "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 340859,
-      "name": "I Wanna Know Your Name - Live",
-      "url": "https://open.spotify.com/track/0vhOnAYQ0fLXqKpCtDFDDo"
+      "duration_ms": 89091,
+      "name": "The Intruders Medley Introduction - Live",
+      "url": "https://open.spotify.com/track/1fmmjBUc9UHPl5x0YrtLBZ"
     },
     {
       "added_at": null,
@@ -816,9 +856,9 @@
           "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 89091,
-      "name": "The Intruders Medley Introduction - Live",
-      "url": "https://open.spotify.com/track/1fmmjBUc9UHPl5x0YrtLBZ"
+      "duration_ms": 498064,
+      "name": "A House Is Not A Home - Live",
+      "url": "https://open.spotify.com/track/1RSo4zPAo4BlHaZwldlzRp"
     },
     {
       "added_at": null,
@@ -843,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Hot to Handle",
-        "url": "https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz"
+        "name": "Cooler Than Ice: Arctic Records and the Rise of Philly Soul",
+        "url": "https://open.spotify.com/album/5A6zOGYJ1Ja1SAZAGJfdWv"
       },
       "artists": [
         {
@@ -852,9 +892,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 144586,
-      "name": "Hey Doc",
-      "url": "https://open.spotify.com/track/1SmaTS6pNebJa3Tf6e3gM9"
+      "duration_ms": 182693,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1Q64Qh16VXUDPOyMNVFb71"
     },
     {
       "added_at": null,
@@ -875,32 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
-        "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        },
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Sharon Paige",
-          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
-        }
-      ],
-      "duration_ms": 498064,
-      "name": "A House Is Not A Home - Live",
-      "url": "https://open.spotify.com/track/1RSo4zPAo4BlHaZwldlzRp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cooler Than Ice: Arctic Records and the Rise of Philly Soul",
-        "url": "https://open.spotify.com/album/5A6zOGYJ1Ja1SAZAGJfdWv"
+        "name": "Too Hot to Handle",
+        "url": "https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz"
       },
       "artists": [
         {
@@ -908,9 +924,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 182693,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/1Q64Qh16VXUDPOyMNVFb71"
+      "duration_ms": 144586,
+      "name": "Hey Doc",
+      "url": "https://open.spotify.com/track/1SmaTS6pNebJa3Tf6e3gM9"
     },
     {
       "added_at": null,
@@ -931,22 +947,6 @@
       "duration_ms": 147800,
       "name": "Pray Before You Start Your Day - Inspirational Mix 1",
       "url": "https://open.spotify.com/track/5ZOsNAgB6aY2b3Wj1QMNuB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Philadelphia Soul",
-        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 286093,
-      "name": "If You're Looking For Somebody To Love",
-      "url": "https://open.spotify.com/track/1FgKj0vqkBPNn51KkGjbHc"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [adrenaline](https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej)
 
-> The shape of noise to come with Superbloom \(pictured\), Quicksand, OVERSIZE, Gleemer and more.
+> The shape of noise to come with Late 90s \(pictured\), trauma ray, Day Saints, Flycatcher and more.
 
-714 songs - 1 day 16 hr 43 min
+716 songs - 1 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Babysitter](https://open.spotify.com/track/37UXxmaBPQWSPZ13Pe8cXa) | [Hallie](https://open.spotify.com/artist/0I0VahDFplPkGInkRvoXPW) | [Babysitter](https://open.spotify.com/album/7qBHkSXqErEPGGzKsz5k6N) | 3:20 | 2021-12-16 | 2022-01-14 |
 | [Back For You](https://open.spotify.com/track/24vB9KU0Js72mkIUehOLLy) | [Finding Aurora](https://open.spotify.com/artist/5cg6ycryqQJewFOqeffsC0) | [Back For You](https://open.spotify.com/album/6BegE1id4r7qCygofzNGTb) | 4:06 | 2022-04-07 | 2022-09-07 |
 | [Backbone](https://open.spotify.com/track/7cl08gllA42WPESPRGUlqQ) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [Backbone](https://open.spotify.com/album/6xX5k5pieb7GtDHdNv1lRv) | 3:13 | 2023-10-13 | 2023-12-15 |
-| [bad habit](https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [bad habit](https://open.spotify.com/album/17nQCSv01Ka3wpBxp0tsUe) | 2:51 | 2024-07-15 |  |
+| [bad habit](https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [bad habit](https://open.spotify.com/album/17nQCSv01Ka3wpBxp0tsUe) | 2:51 | 2024-07-15 | 2024-11-05 |
 | [Bad Influence](https://open.spotify.com/track/3rpGgPToTtMU6q8kDLJ4Q8) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Bad Influence](https://open.spotify.com/album/3sKp3BIvmMDE5LmKTWqDQ8) | 3:02 | 2022-03-29 | 2022-06-17 |
 | [Bad Intentions](https://open.spotify.com/track/6qpLrHNWL51KQCytTh5Zfq) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [The Blue EP](https://open.spotify.com/album/3plAf4w7eRDvDqY2qxFouS) | 3:35 | 2023-03-17 | 2023-10-14 |
 | [Bae](https://open.spotify.com/track/4ipVKbNInIxdSy7q7IzJsb) | [Elm Tree Circle](https://open.spotify.com/artist/0exWPi1dCLZq8QlHCLTZh4) | [Bae](https://open.spotify.com/album/7nklb4pTharrigbkpKw6Td) | 2:28 | 2023-06-16 | 2023-07-21 |
@@ -142,6 +142,7 @@
 | [Cherry Thrill](https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Cherry Thrill](https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p) | 3:19 | 2022-09-06 | 2022-11-05 |
 | [Chloë](https://open.spotify.com/track/3cRITSR5BxSq3UPGES4v7e) | [Heart to Gold](https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez) | [Chloë](https://open.spotify.com/album/5P5FUOElHJe4ek3tiv67Os) | 2:45 | 2023-09-08 | 2023-11-11 |
 | [Choke](https://open.spotify.com/track/5kmn8hISjWoJPx17HqWSOj) | [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Choke](https://open.spotify.com/album/1CUYUgptRIWm0wUsgwpTQp) | 3:10 | 2023-05-12 | 2023-06-03 |
+| [Choke](https://open.spotify.com/track/1h0YsYLA7gMlfnR51VDYg3) | [Leaving Time](https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y) | [Angel In The Sand](https://open.spotify.com/album/6W5o0RyfAcFruntLVD3KVC) | 2:28 | 2024-11-04 |  |
 | [Chow](https://open.spotify.com/track/17bP2StnSZYGTmkFbKiytm) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Chow](https://open.spotify.com/album/1WJBLXYjqnWTlHO5auebXh) | 2:49 | 2024-08-16 | 2024-08-24 |
 | [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 | 2022-04-14 | 2023-01-21 |
 | [Clean Hands](https://open.spotify.com/track/5u4RZp5KS6Kbl70xPtJYCv) | [The Darling Fire](https://open.spotify.com/artist/280ynciDmBOnHdsAwrewis) | [Clean Hands](https://open.spotify.com/album/05UaLB7zgQ8lcjLlnVIXcz) | 4:14 | 2022-06-30 | 2022-10-01 |
@@ -216,7 +217,7 @@
 | [Down4ever](https://open.spotify.com/track/6wTgRF97V3ewzivhYSVBGL) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Down4ever](https://open.spotify.com/album/3L6Nyy6vDuIuUxZ75BI6f0) | 3:27 | 2021-12-16 | 2022-01-07 |
 | [Drain](https://open.spotify.com/track/3k8ptnrHJn8LzQnvh413c5) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Drain](https://open.spotify.com/album/4td2lzPI1u95ohvolQfTkZ) | 3:22 | 2022-11-04 | 2023-06-17 |
 | [Drip From The Fountain](https://open.spotify.com/track/7IoSvKuWY2AYDLbfBl3S3d) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Drip From The Fountain](https://open.spotify.com/album/3GvYuzktA2Uoc3kT9cRabX) | 3:30 | 2024-04-02 | 2024-05-18 |
-| [Drop Me Out](https://open.spotify.com/track/64C9Mimhyd333spyj1P8c0) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Drop Me Out](https://open.spotify.com/album/1WqBdPB6qkcWD8HbNWdMTo) | 3:57 | 2024-09-20 |  |
+| [Drop Me Out](https://open.spotify.com/track/64C9Mimhyd333spyj1P8c0) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Drop Me Out](https://open.spotify.com/album/1WqBdPB6qkcWD8HbNWdMTo) | 3:57 | 2024-09-20 | 2024-11-05 |
 | [Earth Is A Black Hole](https://open.spotify.com/track/13a2v5JNOROuvh2MBMWxqb) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 2:55 | 2021-12-16 | 2022-05-27 |
 | [Easy](https://open.spotify.com/track/1nRztuOlFPcKwnzwcjWTo2) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Easy](https://open.spotify.com/album/1lZmoIW2IkCBG1WySoiSCE) | 3:20 | 2023-12-14 | 2024-06-29 |
 | [Easy Living](https://open.spotify.com/track/4GW71Fj6Br2rH6ev9T8f1k) | [PARK](https://open.spotify.com/artist/5pMItVznpNhxltDYviTMsu), [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Park](https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621) | 6:06 | 2022-03-24 | 2022-05-13 |
@@ -226,7 +227,7 @@
 | [Emteevee](https://open.spotify.com/track/7nkkaFxgDNEWYwDVm8A42L) | [Indigo Blaze](https://open.spotify.com/artist/0hCmNM3Zwz6gYb8fdaxIcf) | [Emteevee](https://open.spotify.com/album/4HvMajvIdrVQJGWpxKRJFD) | 2:49 | 2022-11-11 | 2022-12-16 |
 | [Engage](https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr) | [Rain Check](https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj) | [Engage](https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f) | 3:06 | 2024-01-19 | 2024-07-27 |
 | [Enjoy](https://open.spotify.com/track/12sB4k4JIOvvlKqJzEHt3U) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Enjoy](https://open.spotify.com/album/7pKWkydV4yy6huq1W4EGKf) | 4:03 | 2024-09-13 |  |
-| [Esruc](https://open.spotify.com/track/6vH3omqh1aRKVGtpbD4PT0) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [All You Embrace](https://open.spotify.com/album/5fXeDBzHjkgwYod1kt4EUL) | 2:16 | 2024-05-17 | 2024-08-17 |
+| [Esruc](https://open.spotify.com/track/6vH3omqh1aRKVGtpbD4PT0) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [All You Embrace](https://open.spotify.com/album/5fXeDBzHjkgwYod1kt4EUL) | 2:16 | 2024-05-17 |  |
 | [Evergreen](https://open.spotify.com/track/0B2x5WZe10wZwQymjH4cKL) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Evergreen](https://open.spotify.com/album/6Vn4TX8VdT2zXsMPGj2LrX) | 3:07 | 2024-10-04 |  |
 | [Everything Blu](https://open.spotify.com/track/6VHRK7snwupgniSGeORQCt) | [Day Aches](https://open.spotify.com/artist/6fKJtGQ4ACpLgs1cqOMx3H) | [Everything Blu](https://open.spotify.com/album/0CWPNy15VAmkYMX8BpnR1R) | 3:05 | 2023-08-31 | 2024-03-28 |
 | [Everything's Glitter](https://open.spotify.com/track/7s0kMwS5d9IFYBW1fFAaY2) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Everything's Glitter](https://open.spotify.com/album/7jfIaXbIaockYgpQKKubts) | 3:50 | 2023-07-20 | 2023-10-14 |
@@ -418,7 +419,7 @@
 | [Me and My Brain](https://open.spotify.com/track/1DDStYLixIqRISehWb3fci) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Terrible Town](https://open.spotify.com/album/1L2S1fC7KdAlQCgDH7Jx7J) | 2:48 | 2021-12-16 | 2022-04-08 |
 | [Medication](https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Right After I Smoke This...](https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB) | 2:22 | 2023-03-02 | 2024-03-28 |
 | [medicine](https://open.spotify.com/track/0VplI6SpGj9EDZgI0ms9M4) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [health](https://open.spotify.com/album/6RlfHyeW7fWanwGNIIKbuU) | 2:50 | 2023-06-16 | 2023-10-21 |
-| [Melatonin \(10mg\)](https://open.spotify.com/track/3i9jPeo5xnb1dvcPFcSteS) | [Kids Don't Float](https://open.spotify.com/artist/7zkrumFBhmI2INqMP5tjNF) | [Melatonin \(10mg\)](https://open.spotify.com/album/6YhWzBCmPGwn9Wg9yyJS2y) | 1:59 | 2024-07-08 |  |
+| [Melatonin \(10mg\)](https://open.spotify.com/track/3i9jPeo5xnb1dvcPFcSteS) | [Kids Don't Float](https://open.spotify.com/artist/7zkrumFBhmI2INqMP5tjNF) | [Melatonin \(10mg\)](https://open.spotify.com/album/6YhWzBCmPGwn9Wg9yyJS2y) | 1:59 | 2024-07-08 | 2024-11-05 |
 | [Merchant](https://open.spotify.com/track/4X8LIhjfLIG4t0GjKqJseo) | [Gloam](https://open.spotify.com/artist/2zwYNju2bf13ZXGJRjOMah) | [Gloam](https://open.spotify.com/album/05Zv2lf7NeOMVVM2GKzkQn) | 4:57 | 2023-07-06 | 2024-03-16 |
 | [Message Like a Bomb](https://open.spotify.com/track/02Om4tDIjg1RjkcwVwM870) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9), [Daryl Palumbo](https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX) | [Message Like a Bomb](https://open.spotify.com/album/0mRYDMAOJtEGtAkeU7ScNb) | 3:15 | 2023-07-28 | 2023-10-14 |
 | [Messy Star](https://open.spotify.com/track/66fOyR2G0kf8hH9NMTbIBQ) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Messy Star](https://open.spotify.com/album/5Nvg3nWTsNopeBLNSI2t6m) | 3:21 | 2024-09-13 |  |
@@ -452,6 +453,7 @@
 | [New Low](https://open.spotify.com/track/0YsGHQXC0LCALA4b36QYA5) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [New Low](https://open.spotify.com/album/65DikJ1UN8aSiP6JL4leWT) | 4:23 | 2022-06-23 | 2022-09-23 |
 | [No Future? No Thanks!](https://open.spotify.com/track/5wljLwi5DUKFyY2ASdvi8A) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [No Future? No Thanks!](https://open.spotify.com/album/0p0ZCH8pVZBM0BlcgHJRpv) | 2:40 | 2022-06-09 | 2022-08-13 |
 | [no one is truly cool](https://open.spotify.com/track/3Wuvh6YDTQE1vsOCiHOkxQ) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [no one is truly cool](https://open.spotify.com/album/1kor0saoI4U16mP7LDzdan) | 2:16 | 2023-03-02 | 2023-06-03 |
+| [Nobody’s](https://open.spotify.com/track/3WBFG43oD1qU3yJSDjQJ2O) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 2:15 | 2024-11-04 |  |
 | [Nobody’s](https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Nobody’s](https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT) | 2:15 | 2024-07-26 | 2024-10-15 |
 | [Normal People](https://open.spotify.com/track/5fHTf9ZTdBkN3HTT3qLr4c) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal People](https://open.spotify.com/album/6HEPp8hIR1ax1cLTMDBLbL) | 2:58 | 2021-12-16 | 2022-01-21 |
 | [Not a Friend](https://open.spotify.com/track/13iuIktdvv32Xz9P8GO5Mq) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Not A Friend](https://open.spotify.com/album/4lu2cHvOHdrtlTH0RSOS8f) | 3:19 | 2023-06-02 | 2023-07-04 |

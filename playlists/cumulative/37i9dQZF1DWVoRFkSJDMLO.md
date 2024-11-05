@@ -2,7 +2,7 @@
 
 ### [Crxss Current](https://open.spotify.com/playlist/37i9dQZF1DWVoRFkSJDMLO)
 
-> Crxss Current got a makeover! ✨ Sounds from the continent to the islands, with our guest curator  🇯🇲 <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a> 🇨🇦
+> Sounds from the continent to the islands, with our guest curator  🇯🇲 <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a> 🇨🇦
 
 1,145 songs - 2 day 9 hr 27 min
 

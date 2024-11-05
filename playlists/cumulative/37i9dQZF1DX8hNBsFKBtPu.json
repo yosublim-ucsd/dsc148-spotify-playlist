@@ -3659,6 +3659,28 @@
     },
     {
       "album": {
+        "name": "FRIHET I LENKER",
+        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        },
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178280,
+      "name": "SAMMEN",
+      "url": "https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ"
+    },
+    {
+      "album": {
         "name": "Sang Til Min Mor",
         "url": "https://open.spotify.com/album/4Kg7MU9ZbNhCD0MfGx4Tll"
       },

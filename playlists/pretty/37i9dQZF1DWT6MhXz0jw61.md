@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Joey Bada$$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,333,388 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,333,602 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 5 | [Passenger Princess \(feat\. Smino\)](https://open.spotify.com/track/4XXARhW0U9SKGQJcnYIDAC) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Passenger Princess / Adam](https://open.spotify.com/album/6eszObM49D1h61rbPxS7po) | 2:27 |
 | 6 | [RED FLAG](https://open.spotify.com/track/4Ye2nug3j43IYIorNCQ0JY) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [PERFECT FANTASY](https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND) | 4:46 |
 | 7 | [Suicide Doors \(feat\. Cordae\)](https://open.spotify.com/track/07ABUEnAPy0Hhc1XUMNMru) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Ravenite Social Club](https://open.spotify.com/album/39Ai9aMpw7oJ2pJLYgRQ7g) | 2:41 |
-| 8 | [Yeah Yeah](https://open.spotify.com/track/2c5Ye9y9p2yMRGhgVjS2Qb) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Die 1nce](https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h) | 2:59 |
+| 8 | [30 Girlfriends \(Yeah Yeah\)](https://open.spotify.com/track/2c5Ye9y9p2yMRGhgVjS2Qb) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Die 1nce](https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h) | 2:59 |
 | 9 | [TELL ME \(feat\. Chlöe\)](https://open.spotify.com/track/5SUYx8DCjFhdU9d9Qu4Vnf) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [TELL ME \(feat\. Chlöe\)](https://open.spotify.com/album/7LS6PqmpJP8HTXgBFHTKYz) | 2:36 |
 | 10 | [Take Your Mask Off \(feat\. Daniel Caesar & LaToiya Williams\)](https://open.spotify.com/track/4BSR9I4ExlCJdXJo2GpBD5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [LaToiya Williams](https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 |
 | 11 | [Legend Freestyle](https://open.spotify.com/track/2WmNuJNylypvWXbO6vEkUq) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Legend Freestyle](https://open.spotify.com/album/20CLrzjMW8RxPjp7n0sqf0) | 2:10 |

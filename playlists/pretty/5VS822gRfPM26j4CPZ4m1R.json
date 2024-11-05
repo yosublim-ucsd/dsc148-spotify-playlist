@@ -6,8 +6,40 @@
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAALhmShrjK4Chcsl6VKtOWUrxe7DwhZ",
+  "snapshot_id": "AAALiUMPBAs257/rqwKSZA1jdRt2aiqU",
   "tracks": [
+    {
+      "added_at": "2024-11-02 09:39:57",
+      "album": {
+        "name": "So Blue",
+        "url": "https://open.spotify.com/album/6C1eTB3Tc19mkHlISe1QHo"
+      },
+      "artists": [
+        {
+          "name": "Blacktop",
+          "url": "https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "So Blue",
+      "url": "https://open.spotify.com/track/6iA7KvLZqd5O3SqqzTTlH4"
+    },
+    {
+      "added_at": "2024-10-24 08:56:35",
+      "album": {
+        "name": "Elevator Pitch",
+        "url": "https://open.spotify.com/album/6dDTt0rf4kqLRZtKNordYT"
+      },
+      "artists": [
+        {
+          "name": "Cole Anyway",
+          "url": "https://open.spotify.com/artist/6ctBrunhwPNeeuqu8KG7Bd"
+        }
+      ],
+      "duration_ms": 142302,
+      "name": "Elevator Pitch",
+      "url": "https://open.spotify.com/track/4x3kyg5Sz92GndMR10bZnA"
+    },
     {
       "added_at": "2024-09-27 11:04:50",
       "album": {
@@ -45,22 +77,6 @@
       "url": "https://open.spotify.com/track/6x6N8bAelrCSRqxtZNDBru"
     },
     {
-      "added_at": "2024-09-20 08:56:37",
-      "album": {
-        "name": "Homage to Delusion",
-        "url": "https://open.spotify.com/album/1s0Yfn4xl4SWjPcVQBWg76"
-      },
-      "artists": [
-        {
-          "name": "Marcoca",
-          "url": "https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4"
-        }
-      ],
-      "duration_ms": 222648,
-      "name": "All this Time",
-      "url": "https://open.spotify.com/track/28hyoNNWSj0FXp4De6wRu7"
-    },
-    {
       "added_at": "2024-06-11 08:52:02",
       "album": {
         "name": "Over When The Night Is Gone",
@@ -75,6 +91,22 @@
       "duration_ms": 176926,
       "name": "Over When The Night Is Gone",
       "url": "https://open.spotify.com/track/4aJlY9Zlb7QpPL3uFFhpxP"
+    },
+    {
+      "added_at": "2024-09-20 08:56:37",
+      "album": {
+        "name": "Homage to Delusion",
+        "url": "https://open.spotify.com/album/1s0Yfn4xl4SWjPcVQBWg76"
+      },
+      "artists": [
+        {
+          "name": "Marcoca",
+          "url": "https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4"
+        }
+      ],
+      "duration_ms": 222648,
+      "name": "All this Time",
+      "url": "https://open.spotify.com/track/28hyoNNWSj0FXp4De6wRu7"
     },
     {
       "added_at": "2024-09-27 15:05:55",
@@ -8923,38 +8955,6 @@
       "duration_ms": 141000,
       "name": "Fore to the Come",
       "url": "https://open.spotify.com/track/1M2M9XKJqLBh53vFNZaTJ3"
-    },
-    {
-      "added_at": "2024-10-24 08:56:35",
-      "album": {
-        "name": "Elevator Pitch",
-        "url": "https://open.spotify.com/album/6dDTt0rf4kqLRZtKNordYT"
-      },
-      "artists": [
-        {
-          "name": "Cole Anyway",
-          "url": "https://open.spotify.com/artist/6ctBrunhwPNeeuqu8KG7Bd"
-        }
-      ],
-      "duration_ms": 142302,
-      "name": "Elevator Pitch",
-      "url": "https://open.spotify.com/track/4x3kyg5Sz92GndMR10bZnA"
-    },
-    {
-      "added_at": "2024-11-02 09:39:57",
-      "album": {
-        "name": "So Blue",
-        "url": "https://open.spotify.com/album/6C1eTB3Tc19mkHlISe1QHo"
-      },
-      "artists": [
-        {
-          "name": "Blacktop",
-          "url": "https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "So Blue",
-      "url": "https://open.spotify.com/track/6iA7KvLZqd5O3SqqzTTlH4"
     }
   ],
   "unique_name": "Nice Guys | 24/7 Radio",

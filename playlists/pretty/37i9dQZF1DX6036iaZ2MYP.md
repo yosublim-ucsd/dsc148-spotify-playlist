@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Qing Madi
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,578 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,657 likes - 49 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 48 | [LONDON 2 PANAME \(feat\. Liim's\)](https://open.spotify.com/track/27R8gQAfvh2fpd5Tx9HND9) | [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z), [Liim’s](https://open.spotify.com/artist/2XpsF0ZQfBV08auUoRnNJE) | [LONDON 2 PANAME \(feat\. Liim's\)](https://open.spotify.com/album/5LJlUJ9qkeidqP8aCSqxKW) | 3:46 |
 | 49 | [Ready](https://open.spotify.com/track/1US0oKwSXE69V7eX5221DE) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Ready](https://open.spotify.com/album/0TlDonsXoYzoCo5k9Pbmqb) | 2:48 |
 
-Snapshot ID: `ZxrDYAAAAACek905OxPptfqEG4d6IuF4`
+Snapshot ID: `ZykqMAAAAAB7okj+1c0gByUiThRPM0Ke`

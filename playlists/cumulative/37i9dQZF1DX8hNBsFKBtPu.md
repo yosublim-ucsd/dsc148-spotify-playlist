@@ -4,7 +4,7 @@
 
 > Det bedste nye pop 💜 Addison Rae
 
-258 songs - 13 hr 11 min
+259 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-06-27 | 2024-08-30 |
 | [Rush](https://open.spotify.com/track/0ppdjEVfuHUZQYK8t9uJ9Q) | [Saveus](https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt) | [Rush](https://open.spotify.com/album/643BzXAzVnCV2YBxSCJfpe) | 2:32 | 2024-09-05 |  |
 | [Sad Boiii](https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Sad Boiii](https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR) | 2:46 | 2024-09-05 |  |
+| [SAMMEN](https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:58 | 2024-11-04 |  |
 | [Sang Til Min Mor](https://open.spotify.com/track/3FjUj0VQl2vu0Ru4MJvhN8) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Sang Til Min Mor](https://open.spotify.com/album/4Kg7MU9ZbNhCD0MfGx4Tll) | 2:52 | 2024-09-26 |  |
 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 | 2024-06-27 | 2024-07-30 |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-06-27 | 2024-07-30 |

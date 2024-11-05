@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 147456,
       "name": "A Tran\u00e7a",
       "url": "https://open.spotify.com/track/0qyvAoh5RL05BlUbGTnYBm"
@@ -1076,6 +1076,28 @@
       "duration_ms": 118153,
       "name": "Dama da Noite",
       "url": "https://open.spotify.com/track/0wOYCvsXQvHXYghnIzXiP4"
+    },
+    {
+      "album": {
+        "name": "Date",
+        "url": "https://open.spotify.com/album/3WAICN4NCMJpkY7uG1DcIK"
+      },
+      "artists": [
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "UM ENT",
+          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Date",
+      "url": "https://open.spotify.com/track/51TPPeZpsia4O6EGhFXrYP"
     },
     {
       "album": {

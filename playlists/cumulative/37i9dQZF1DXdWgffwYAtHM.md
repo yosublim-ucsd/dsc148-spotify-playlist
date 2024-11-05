@@ -1,13 +1,14 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdWgffwYAtHM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdWgffwYAtHM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdWgffwYAtHM)
 
-### [RADAR Podcasters Brasil](https://open.spotify.com/playlist/37i9dQZF1DXdWgffwYAtHM)
+### [RADAR Creators Brasil](https://open.spotify.com/playlist/37i9dQZF1DXdWgffwYAtHM)
 
-> Podcasts que você precisa ter no RADAR\. Capa: <a href="spotify:show:4b5P4Tq5loWnl139Uw853q">POGRAMA</a>
+> Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:0jChaPqRQFGVIjnwTqeZiD">Tá com Tempo?</a>
 
-56 songs - 1 day 9 hr 13 min
+57 songs - 1 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#05 \- Como lidar com as expectativas dos nossos pais? \- Elisama responde e\-mails de ouvintes.](https://open.spotify.com/episode/6jTSyQDFj0utu82inF7YFy) | ["Tá com Tempo?" \- Elisama Santos](https://open.spotify.com/show/0jChaPqRQFGVIjnwTqeZiD) | ["Tá com Tempo?" \- Elisama Santos](https://open.spotify.com/album/0jChaPqRQFGVIjnwTqeZiD) | 51:38 | 2024-11-04 |  |
 | [\#13 \- Como retomar o rumo da vida?](https://open.spotify.com/episode/4KWMUxP2txLiEgpxxl4Bcq) | [Muito além da Checklist](https://open.spotify.com/show/6NPToOoX61E0p0YPb6KEQ1) | [Muito além da Checklist](https://open.spotify.com/album/6NPToOoX61E0p0YPb6KEQ1) | 9:47 | 2024-05-02 | 2024-06-04 |
 | [\#27 O problema sou eu](https://open.spotify.com/episode/0CVDNEZZnT1v5GbItGyc9U) | [Depois Dos Quinze](https://open.spotify.com/show/2EFPzk0g09dpP8IV8Z9BoJ) | [Depois Dos Quinze](https://open.spotify.com/album/2EFPzk0g09dpP8IV8Z9BoJ) | 34:59 | 2024-05-02 | 2024-06-04 |
 | [\#40 – Você não pode salvar seus pais](https://open.spotify.com/episode/3BVE7edLhXGJW2bnOWO3yi) | [Legalmente surtada, cansada e gostosa](https://open.spotify.com/show/7bsWtI0EjjaNrExFGvVV6w) | [Legalmente surtada, cansada e gostosa](https://open.spotify.com/album/7bsWtI0EjjaNrExFGvVV6w) | 24:41 | 2024-04-01 | 2024-05-03 |

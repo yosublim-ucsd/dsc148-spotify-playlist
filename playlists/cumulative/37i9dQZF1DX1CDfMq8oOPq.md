@@ -4,7 +4,7 @@
 
 > a verdadeira bandida seu fechamento, já pensou 🤯
 
-264 songs - 12 hr 33 min
+265 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Copy](https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Kaylan Mary](https://open.spotify.com/artist/3ARExS7RN7MsIONPRMk9uD), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Copy](https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX) | 3:01 | 2023-10-27 | 2023-12-02 |
 | [Corpo Suado](https://open.spotify.com/track/5K8azpRkjYY9p2OQhpU0dk) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq), [O DOBRO](https://open.spotify.com/artist/1tCDW5YntrQPoGAKo52edW) | [Lado B](https://open.spotify.com/album/6Wrug9lSTcq08LQBrFCa7E) | 2:48 | 2022-03-11 | 2022-11-19 |
 | [CUSSY](https://open.spotify.com/track/7m11QHa9VLJ4aY019j1yAc) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [CUSSY](https://open.spotify.com/album/5KHCRhhOSUUNGsdBfJTfZo) | 3:00 | 2023-08-25 | 2024-02-24 |
+| [Date](https://open.spotify.com/track/51TPPeZpsia4O6EGhFXrYP) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Date](https://open.spotify.com/album/3WAICN4NCMJpkY7uG1DcIK) | 2:40 | 2024-11-04 |  |
 | [DE CRIA PRA CRIA / MC Marcelly](https://open.spotify.com/track/6ytgQdqiWF2QDH9lA24knH) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD) | [DE CRIA PRA CRIA](https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad) | 2:20 | 2022-11-11 | 2023-09-23 |
 | [De Fé](https://open.spotify.com/track/73LpUA3H3L6kZuUzWE4j72) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ikinya](https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU) | [De Fé](https://open.spotify.com/album/7yvEzXsMNAIGBQtd0luLDZ) | 2:24 | 2022-03-11 | 2023-06-03 |
 | [Deixar na B](https://open.spotify.com/track/3KYHgasdHqKROkh17t1LT9) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Deixar na B](https://open.spotify.com/album/4INsklfCI6hFcmWBc2MkF3) | 2:09 | 2022-04-29 | 2022-11-22 |
@@ -155,7 +156,7 @@
 | [Morango no Gin](https://open.spotify.com/track/64AaCofmb0AqrN7vWuXO5c) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Morango no Gin](https://open.spotify.com/album/6nkJrMukU7V3XXfVKLujjA) | 2:29 | 2022-06-17 | 2023-08-26 |
 | [Motor](https://open.spotify.com/track/5pTCmZ2wPwSzf8hKWAgrzU) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa), [Victor Henry](https://open.spotify.com/artist/2BlDMHgN6HfWB0wvGa8DPu) | [Motor](https://open.spotify.com/album/4GGV97yfdIlywfBxdSIO0v) | 3:14 | 2024-10-07 |  |
 | [Muito Calma](https://open.spotify.com/track/484fU778Jn6fDeULn8idei) | [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1) | [Muito Calma](https://open.spotify.com/album/4VJMzjxx8vs1mJTbpJazrN) | 3:02 | 2022-03-11 | 2022-09-18 |
-| [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 | 2022-03-11 |  |
+| [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 | 2022-03-11 | 2024-11-05 |
 | [Mute](https://open.spotify.com/track/0so4HfRx4F1Ffs1PXl04Hk) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [DJ Alex BNH](https://open.spotify.com/artist/6Je1GWROutRKp3J1Kxi0Gl) | [Mute](https://open.spotify.com/album/7DWW9bwIeodx2l7VVGXq2R) | 2:33 | 2022-11-25 | 2023-01-14 |
 | [N.I.N.A](https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 3:44 | 2022-04-29 | 2024-04-06 |
 | [Na Rua](https://open.spotify.com/track/6TwXnsObSHGAOKUbhxGmfC) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Versos e Voos](https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ) | 3:07 | 2024-08-16 | 2024-10-12 |

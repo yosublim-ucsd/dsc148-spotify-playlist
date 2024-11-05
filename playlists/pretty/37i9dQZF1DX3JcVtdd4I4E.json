@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom of pop.",
-  "num_followers": 6976,
+  "num_followers": 6978,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Hungover (Head In A Can)",
-        "url": "https://open.spotify.com/album/5QwgmdXMl8OHc4S7CwzWRB"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 224077,
-      "name": "Hungover (Head In A Can)",
-      "url": "https://open.spotify.com/track/6cOisxrHjB34qn81ZOfwhQ"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Rhythm Of My Show",
         "url": "https://open.spotify.com/album/0kZuNbILNMuGH45keYqiYE"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 143480,
       "name": "I\u2019ll Think of You",
       "url": "https://open.spotify.com/track/11SNn6ED0KKZR4HTe0WFkN"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Hungover (Head In A Can)",
+        "url": "https://open.spotify.com/album/5QwgmdXMl8OHc4S7CwzWRB"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 224077,
+      "name": "Hungover (Head In A Can)",
+      "url": "https://open.spotify.com/track/6cOisxrHjB34qn81ZOfwhQ"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Mercedes",
-        "url": "https://open.spotify.com/album/7KNuwMOtD6dFvliy5Ctv4m"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 176426,
-      "name": "Mercedes",
-      "url": "https://open.spotify.com/track/6A8ZgOPEkhlGkyldDJGXtZ"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Shit We Do For Love",
         "url": "https://open.spotify.com/album/1B9tQW1mpmwtahZ9EYrin7"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Mercedes",
+        "url": "https://open.spotify.com/album/7KNuwMOtD6dFvliy5Ctv4m"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 176426,
+      "name": "Mercedes",
+      "url": "https://open.spotify.com/track/6A8ZgOPEkhlGkyldDJGXtZ"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/17TD5aiZAItTy2ToJofnDp"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Rear View",
-        "url": "https://open.spotify.com/album/5PFq6xr6uyeNqwOoimJm02"
-      },
-      "artists": [
-        {
-          "name": "Moyka",
-          "url": "https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ"
-        }
-      ],
-      "duration_ms": 194594,
-      "name": "Rear View",
-      "url": "https://open.spotify.com/track/03BphqIUSACDtLxYwTx88P"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "For The Show",
         "url": "https://open.spotify.com/album/4GDuQ03hhnpE0JeQyVkXf3"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 170240,
       "name": "For The Show",
       "url": "https://open.spotify.com/track/5wc1w2XdoMEUz9IxEalzO7"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Rear View",
+        "url": "https://open.spotify.com/album/5PFq6xr6uyeNqwOoimJm02"
+      },
+      "artists": [
+        {
+          "name": "Moyka",
+          "url": "https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Rear View",
+      "url": "https://open.spotify.com/track/03BphqIUSACDtLxYwTx88P"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -907,6 +907,22 @@
       "duration_ms": 204222,
       "name": "SMOKE",
       "url": "https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/13yQEoJ6hDD560qMei009H"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 168411,
+      "name": "Where Do We Go From Here",
+      "url": "https://open.spotify.com/track/4lBzqpBdqz0woQOnWHUzjw"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -975,22 +991,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Where Do We Go From Here",
-        "url": "https://open.spotify.com/album/13yQEoJ6hDD560qMei009H"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 168411,
-      "name": "Where Do We Go From Here",
-      "url": "https://open.spotify.com/track/4lBzqpBdqz0woQOnWHUzjw"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Partner In Crime",
         "url": "https://open.spotify.com/album/6bt48pYHOYZUDHQLYZx01F"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 173097,
       "name": "WEIGHTLESS",
       "url": "https://open.spotify.com/track/6U4BhYoFspk242X3dicNcj"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 143081,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1087,6 +1103,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Club Romantech",
+        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 167362,
+      "name": "Stick Your Tongue Out",
+      "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Sweet Night",
         "url": "https://open.spotify.com/album/6QLBGQ4KS63WbtUbeNive8"
       },
@@ -1099,22 +1131,6 @@
       "duration_ms": 238506,
       "name": "Sweet Night",
       "url": "https://open.spotify.com/track/7tyrBwLtspTksCyt8SDaXe"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Backa",
-        "url": "https://open.spotify.com/album/7GknWHYTyKssnetGlRgyvb"
-      },
-      "artists": [
-        {
-          "name": "Zoe Lobos",
-          "url": "https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA"
-        }
-      ],
-      "duration_ms": 158388,
-      "name": "Backa",
-      "url": "https://open.spotify.com/track/7xreYVzBMqvwSwuRENp2ba"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1135,34 +1151,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Fall In Love",
-        "url": "https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET"
+        "name": "Backa",
+        "url": "https://open.spotify.com/album/7GknWHYTyKssnetGlRgyvb"
       },
       "artists": [
         {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+          "name": "Zoe Lobos",
+          "url": "https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA"
         }
       ],
-      "duration_ms": 143081,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Effort",
-        "url": "https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl"
-      },
-      "artists": [
-        {
-          "name": "SVEA",
-          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
-        }
-      ],
-      "duration_ms": 151947,
-      "name": "Effort",
-      "url": "https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o"
+      "duration_ms": 158388,
+      "name": "Backa",
+      "url": "https://open.spotify.com/track/7xreYVzBMqvwSwuRENp2ba"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Effort",
+        "url": "https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl"
+      },
+      "artists": [
+        {
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+        }
+      ],
+      "duration_ms": 151947,
+      "name": "Effort",
+      "url": "https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Let's Get It",
         "url": "https://open.spotify.com/album/4Zt6JAobDaBHR2hxGauHpp"
       },
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 172526,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ"
       },
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Club Romantech",
-        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf"
       },
       "artists": [
         {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
         }
       ],
-      "duration_ms": 167362,
-      "name": "Stick Your Tongue Out",
-      "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
+      "duration_ms": 172526,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj"
     },
     {
       "added_at": "2024-02-08 23:00:00",

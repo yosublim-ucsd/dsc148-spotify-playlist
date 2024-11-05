@@ -1,12 +1,12 @@
 {
   "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 388470,
+  "num_followers": 388693,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAAArs8FsTNtTedFaU7N7qaJc",
+  "snapshot_id": "Zya9AAAAAACJkQFJJ+Oi/MNZq9DeWlgm",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 413346,
-      "name": "Rosemary",
-      "url": "https://open.spotify.com/track/4FEr6dIdH6EqLKR0jB560J"
+      "duration_ms": 299240,
+      "name": "Entombed",
+      "url": "https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 299240,
-      "name": "Entombed",
-      "url": "https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5"
+      "duration_ms": 413346,
+      "name": "Rosemary",
+      "url": "https://open.spotify.com/track/4FEr6dIdH6EqLKR0jB560J"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Pony",
-        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 268026,
-      "name": "Rx Queen",
-      "url": "https://open.spotify.com/track/6HgrJfzfj9WRBABdussy8z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gore",
         "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 293053,
       "name": "Phantom Bride",
       "url": "https://open.spotify.com/track/33qrQEXQJg4uk6k8fZgoOa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Pony",
+        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 268026,
+      "name": "Rx Queen",
+      "url": "https://open.spotify.com/track/6HgrJfzfj9WRBABdussy8z"
     },
     {
       "added_at": null,

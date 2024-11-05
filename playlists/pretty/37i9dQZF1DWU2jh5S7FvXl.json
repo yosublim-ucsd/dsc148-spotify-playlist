@@ -1,6 +1,6 @@
 {
   "description": "Move to this mix of recent dance hits! Cover: BLOND:ISH",
-  "num_followers": 89594,
+  "num_followers": 89596,
   "original_name": "Dance Favourites",
   "owner": {
     "name": "Spotify",
@@ -707,26 +707,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Never Going Home Tonight (feat. Madison Love)",
         "url": "https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 164285,
       "name": "Never Going Home Tonight (feat. Madison Love)",
       "url": "https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Last Night",
-        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
-      },
-      "artists": [
-        {
-          "name": "Loofy",
-          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
-        }
-      ],
-      "duration_ms": 169302,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Drums (Feat. Kim Petras)",
         "url": "https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 152400,
       "name": "Drums (Feat. Kim Petras)",
       "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
+      },
+      "artists": [
+        {
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        }
+      ],
+      "duration_ms": 169302,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Lollipop",
+        "url": "https://open.spotify.com/album/6togBx1gcPloLfNd1U7CSq"
+      },
+      "artists": [
+        {
+          "name": "FOVOS",
+          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/2AeZKalqK8SYHE3AE3KOKP"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Wasted Youth",
         "url": "https://open.spotify.com/album/7BXCwPeAm4m1KFabsvCTuy"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 147581,
       "name": "Wasted Youth",
       "url": "https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Lollipop",
-        "url": "https://open.spotify.com/album/6togBx1gcPloLfNd1U7CSq"
-      },
-      "artists": [
-        {
-          "name": "FOVOS",
-          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/2AeZKalqK8SYHE3AE3KOKP"
     },
     {
       "added_at": "2024-10-04 04:00:00",

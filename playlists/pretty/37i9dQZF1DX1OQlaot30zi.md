@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di  Kid Yugi, Tredici Pietro, Don Joe e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,697 likes - 98 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,705 likes - 98 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [S.X.S.I.C.](https://open.spotify.com/track/3PDMXI7XWkuPOxZ1uNB5O7) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Tutti i Nomi del Diavolo](https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ) | 3:20 |
 | 2 | [Hikikomori \(feat\. Niky Savage, Emis Killa\)](https://open.spotify.com/track/6C1baGjhZLyY0r051Dahi3) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Hikikomori \(feat\. Niky Savage, Emis Killa\)](https://open.spotify.com/album/6fBsitoRTEdq9ihMn8Jyr6) | 1:57 |
 | 3 | [Danse \(feat\. Noizy\)](https://open.spotify.com/track/5bAqF7SDFUy0u4SbSRwy1i) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [Danse \(feat\. Noizy\)](https://open.spotify.com/album/1KUsgiwK1KpWRPuvVJi85R) | 3:26 |
-| 4 | [Serve amore](https://open.spotify.com/track/5t86bO0cNDDwv6YfZOerVJ) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [IRBIS](https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL) | [Serve amore](https://open.spotify.com/album/1ZW7D2JshhEjpwvxrku5tF) | 3:05 |
+| 4 | [Serve Amore](https://open.spotify.com/track/5t86bO0cNDDwv6YfZOerVJ) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [IRBIS](https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL) | [Serve Amore](https://open.spotify.com/album/1ZW7D2JshhEjpwvxrku5tF) | 3:05 |
 | 5 | [Kiss \(feat\. Luchè\)](https://open.spotify.com/track/3ldGtUBuposTxAzaSFM0FI) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Kiss \(feat\. Luchè\)](https://open.spotify.com/album/12378C6fIxDBRaMJcaJptW) | 2:59 |
 | 6 | [PARLO 'E TE \(Luna Rossa\)](https://open.spotify.com/track/3J7FSF1rkuahz1VU0FiCcw) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [LDO](https://open.spotify.com/artist/4HT7gWYrsavCY0rq0pyL3Z) | [PARLO 'E TE \(Luna Rossa\)](https://open.spotify.com/album/00ImJ9FVvYw5JzQd50MHSC) | 3:00 |
 | 7 | [6SEI6 \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/4cgWgEjmaMICqGyt8Tc6JU) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Tutti i Nomi del Diavolo](https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ) | 3:15 |

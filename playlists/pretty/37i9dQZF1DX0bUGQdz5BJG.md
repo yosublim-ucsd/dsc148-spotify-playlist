@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Jenna Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,213 likes - 210 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,261 likes - 210 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -3107,6 +3107,24 @@
     },
     {
       "album": {
+        "name": "Leaving",
+        "url": "https://open.spotify.com/album/5UoCdteWN3bZreMu1JEYQZ"
+      },
+      "artists": [
+        {
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129767,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/6MO5Vy9rYdsfPCgHCkm2RP"
+    },
+    {
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/34kmPC3t0B5zHY4WZhEZ2p"
       },
@@ -3318,7 +3336,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 386885,
       "name": "Love of Mine",
       "url": "https://open.spotify.com/track/5hXhBMfTEPyswGhah0z3Lb"
@@ -5677,6 +5695,24 @@
     },
     {
       "album": {
+        "name": "The Sunrise Fool",
+        "url": "https://open.spotify.com/album/3aF7jsWfr5K70XL0tV0ca6"
+      },
+      "artists": [
+        {
+          "name": "SHOLTO",
+          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174689,
+      "name": "The Sunrise Fool",
+      "url": "https://open.spotify.com/track/24s4OlQJtHIy36eYrSss9s"
+    },
+    {
+      "album": {
         "name": "This Was Once Out of Shape",
         "url": "https://open.spotify.com/album/2vC0VZmlbWEEC46w06CWvp"
       },
@@ -5944,7 +5980,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 139625,
       "name": "Viaggio",
       "url": "https://open.spotify.com/track/2CbRmg4lse3yTJOLm6AK9q"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 > Noise distortion amongst the hazy clouds ☁️  \(Cover: Milledenials\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,110 likes - 104 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,123 likes - 104 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

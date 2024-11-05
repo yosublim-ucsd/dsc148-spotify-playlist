@@ -4410,7 +4410,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 294624,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/3m65dYYsiYw3rZRrivyBhq"
@@ -12101,6 +12101,24 @@
     },
     {
       "album": {
+        "name": "Hypercycle",
+        "url": "https://open.spotify.com/album/4IRPWekl0EQsvqIZjWugfw"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346611,
+      "name": "Hypercycle",
+      "url": "https://open.spotify.com/track/7poR9gH3B2NzE38yeMZ1Nl"
+    },
+    {
+      "album": {
         "name": "Hyperdream",
         "url": "https://open.spotify.com/album/54yMMbi29Ta7xnouSuEs6J"
       },
@@ -14210,7 +14228,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 260997,
       "name": "just stand there",
       "url": "https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a"
@@ -18884,7 +18902,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 352500,
       "name": "No Boys Allowed - OG House Mix",
       "url": "https://open.spotify.com/track/5ECEMutDIhmSKM6MkJuVc3"
@@ -20152,6 +20170,24 @@
       "duration_ms": 180437,
       "name": "One Touch",
       "url": "https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq"
+    },
+    {
+      "album": {
+        "name": "DUSK",
+        "url": "https://open.spotify.com/album/3dadJfTggSUAG4G7ilODYk"
+      },
+      "artists": [
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228028,
+      "name": "Only I",
+      "url": "https://open.spotify.com/track/1cH1TPIkt16pgC2xOdyplf"
     },
     {
       "album": {
@@ -22042,7 +22078,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 145588,
       "name": "real 4 me",
       "url": "https://open.spotify.com/track/5QdLZAyqp0OEMI06xGQKF4"
@@ -24226,6 +24262,32 @@
       "duration_ms": 226773,
       "name": "She\u2019s Gone, Dance On",
       "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
+    },
+    {
+      "album": {
+        "name": "Shine On",
+        "url": "https://open.spotify.com/album/0ImmtD5MLhEp3ezeakxw6B"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Shine On",
+      "url": "https://open.spotify.com/track/1dzT7QlKDdGiF4PMreS2Yc"
     },
     {
       "album": {
@@ -26532,6 +26594,36 @@
       "duration_ms": 192928,
       "name": "Talk (with Royal & The Serpent)",
       "url": "https://open.spotify.com/track/2OclKk08GDRSZbPF6M41XF"
+    },
+    {
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Naisha",
+          "url": "https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232984,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
     },
     {
       "album": {

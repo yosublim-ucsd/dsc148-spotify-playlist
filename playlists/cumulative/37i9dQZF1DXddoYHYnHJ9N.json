@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: T. Danny",
+  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: DESH, Young Fly, Azahriah",
   "name": "Hot Hits Magyarorsz\u00e1g",
   "tracks": [
     {
@@ -640,7 +640,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 166736,
       "name": "kapu",
       "url": "https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu"
@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "SANDELA",
+        "url": "https://open.spotify.com/album/1cTrT1grHhUdGnZOMYg1TR"
+      },
+      "artists": [
+        {
+          "name": "HENN",
+          "url": "https://open.spotify.com/artist/7MiVTMPyOXp6jr9H3mFHBb"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177526,
+      "name": "SANDELA",
+      "url": "https://open.spotify.com/track/28VVWdNsM6l05eOiJfth5X"
+    },
+    {
+      "album": {
         "name": "SE VELED SE N\u00c9LK\u00dcLED",
         "url": "https://open.spotify.com/album/6TgqXMKR7FmgeOaiWQJVOp"
       },
@@ -1394,6 +1412,28 @@
       "duration_ms": 195789,
       "name": "SZ\u00cdVTIPR\u00d3",
       "url": "https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi"
+    },
+    {
+      "album": {
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301623,
+      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
     },
     {
       "album": {

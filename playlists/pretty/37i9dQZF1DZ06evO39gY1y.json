@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 232664,
+  "num_followers": 232707,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAADYkxrGkUEqJ5Yee39jZ8EJ",
+  "snapshot_id": "Zya9AAAAAAAr8E4v+DLmq0b3uw/Polbw",
   "tracks": [
     {
       "added_at": null,
@@ -847,42 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Olvidemos el Reloj",
-        "url": "https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "M2H",
-          "url": "https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi"
-        }
-      ],
-      "duration_ms": 232947,
-      "name": "Olvidemos el Reloj",
-      "url": "https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ataraxia: A Plena Luz del Dia",
-        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Aunque la Vida Duele",
-      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde Que Te Bese",
         "url": "https://open.spotify.com/album/6i99cmjUxFnjKtgiHjEI4t"
       },
@@ -903,6 +867,42 @@
       "duration_ms": 182127,
       "name": "Desde Que Te Bese",
       "url": "https://open.spotify.com/track/765PfjgbFSAXBAAYmhoQwC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ataraxia: A Plena Luz del Dia",
+        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Aunque la Vida Duele",
+      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Olvidemos el Reloj",
+        "url": "https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "M2H",
+          "url": "https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi"
+        }
+      ],
+      "duration_ms": 232947,
+      "name": "Olvidemos el Reloj",
+      "url": "https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9"
     },
     {
       "added_at": null,

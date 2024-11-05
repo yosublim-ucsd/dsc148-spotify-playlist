@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 76680,
+  "num_followers": 76702,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -127,18 +127,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Kamilla Og Tyven",
-        "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
+        "name": "Mosaikk (16 Biter)",
+        "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
       },
       "artists": [
         {
-          "name": "Morten Harket",
-          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
+          "name": "Anne Grete Preus",
+          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
         }
       ],
-      "duration_ms": 214186,
-      "name": "Kamilla Og Tyven",
-      "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
+      "duration_ms": 233291,
+      "name": "N\u00e5r himmelen faller ned",
+      "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Mosaikk (16 Biter)",
-        "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
+        "name": "Kamilla Og Tyven",
+        "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
       },
       "artists": [
         {
-          "name": "Anne Grete Preus",
-          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
+          "name": "Morten Harket",
+          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
         }
       ],
-      "duration_ms": 233291,
-      "name": "N\u00e5r himmelen faller ned",
-      "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
+      "duration_ms": 214186,
+      "name": "Kamilla Og Tyven",
+      "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Ringdans",
-        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        }
-      ],
-      "duration_ms": 212258,
-      "name": "Ringdans",
-      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "V\u00e5r beste dag",
         "url": "https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 202588,
       "name": "V\u00e5r beste dag",
       "url": "https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Ringdans",
+        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        }
+      ],
+      "duration_ms": 212258,
+      "name": "Ringdans",
+      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -607,26 +607,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "De Beste",
-        "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        },
-        {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
-        }
-      ],
-      "duration_ms": 239586,
-      "name": "Mysteriet deg",
-      "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Kom ut kom fram",
         "url": "https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF"
       },
@@ -639,26 +619,6 @@
       "duration_ms": 226760,
       "name": "Lilla vackra Anna",
       "url": "https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Peiling feat. \u00d8ystein Greni",
-        "url": "https://open.spotify.com/album/29D39IIN621Usm8AB3mv3l"
-      },
-      "artists": [
-        {
-          "name": "Klossmajor",
-          "url": "https://open.spotify.com/artist/1XgbkJNbyHcYaa4WAjGlCc"
-        },
-        {
-          "name": "Greni",
-          "url": "https://open.spotify.com/artist/7GgksazCOqOwZE9IoCpDLg"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Peiling feat. \u00d8ystein Greni",
-      "url": "https://open.spotify.com/track/7ezryXKj7BMWtsfdp5o8kX"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -679,6 +639,46 @@
       "duration_ms": 189239,
       "name": "Evig kvile",
       "url": "https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "De Beste",
+        "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+        }
+      ],
+      "duration_ms": 239586,
+      "name": "Mysteriet deg",
+      "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Peiling feat. \u00d8ystein Greni",
+        "url": "https://open.spotify.com/album/29D39IIN621Usm8AB3mv3l"
+      },
+      "artists": [
+        {
+          "name": "Klossmajor",
+          "url": "https://open.spotify.com/artist/1XgbkJNbyHcYaa4WAjGlCc"
+        },
+        {
+          "name": "Greni",
+          "url": "https://open.spotify.com/artist/7GgksazCOqOwZE9IoCpDLg"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Peiling feat. \u00d8ystein Greni",
+      "url": "https://open.spotify.com/track/7ezryXKj7BMWtsfdp5o8kX"
     },
     {
       "added_at": "2024-10-24 22:00:00",

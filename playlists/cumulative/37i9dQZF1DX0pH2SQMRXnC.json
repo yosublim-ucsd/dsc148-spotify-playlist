@@ -1001,6 +1001,28 @@
     },
     {
       "album": {
+        "name": "Behind Enemy Lines",
+        "url": "https://open.spotify.com/album/3nYoZaPC9rUpuagx0JqSXz"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222580,
+      "name": "Behind Enemy Lines",
+      "url": "https://open.spotify.com/track/0r3hUPdNI7fhxCyFpJbsYX"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0j99F2VgHy8u0cWXnqrlsO"
       },
@@ -3347,6 +3369,28 @@
     },
     {
       "album": {
+        "name": "Defiance",
+        "url": "https://open.spotify.com/album/0QnuiUgPMOGPtJ3AYvPMvG"
+      },
+      "artists": [
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204774,
+      "name": "Defiance",
+      "url": "https://open.spotify.com/track/05uemG3jbWdpnyPKuqyL2p"
+    },
+    {
+      "album": {
         "name": "Demons (Restrained Remix)",
         "url": "https://open.spotify.com/album/7FHacZmnEKvYtAybE9S7CU"
       },
@@ -3996,6 +4040,24 @@
       "duration_ms": 171000,
       "name": "Drilla Killa",
       "url": "https://open.spotify.com/track/5c5q9FQNfTJiuS3EuVG5xu"
+    },
+    {
+      "album": {
+        "name": "Drop That",
+        "url": "https://open.spotify.com/album/7vkG29ElFoSpj42jjfZnFO"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124540,
+      "name": "Drop That",
+      "url": "https://open.spotify.com/track/08XCFa4gCODqSy6FDv2Uhs"
     },
     {
       "album": {
@@ -12293,6 +12355,32 @@
     },
     {
       "album": {
+        "name": "Redemption & Rage",
+        "url": "https://open.spotify.com/album/6BLiwYm4QL6Ke6s4y3S15T"
+      },
+      "artists": [
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        },
+        {
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+        },
+        {
+          "name": "GLDY LX",
+          "url": "https://open.spotify.com/artist/5W8ur0q0526Cj59h4qbmjl"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140506,
+      "name": "Redemption & Rage",
+      "url": "https://open.spotify.com/track/3sIUP0aAQNHectEBIPG7LW"
+    },
+    {
+      "album": {
         "name": "Reflected Reality (Official Shockerz 2023 Anthem)",
         "url": "https://open.spotify.com/album/42mQWU7bnIF2p26Mw2mJlx"
       },
@@ -12906,7 +12994,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 188774,
       "name": "Sandstorm",
       "url": "https://open.spotify.com/track/2yyaTlex3YaCat520CSzti"
@@ -14178,7 +14266,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 243003,
       "name": "Supercharged (Official Gearbox Supercharged 2024 Anthem)",
       "url": "https://open.spotify.com/track/0ZJW8n6SckfqvyqSZDczIH"
@@ -16540,7 +16628,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 239034,
       "name": "Vois Sur Ton Chemin - Hardstyle",
       "url": "https://open.spotify.com/track/2mVgDjPX3OzJ0EP1Y5cSWa"
@@ -17118,7 +17206,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 210750,
       "name": "Welcome To The Underground",
       "url": "https://open.spotify.com/track/5opy1J4SMBUFrwQ03weuZ4"

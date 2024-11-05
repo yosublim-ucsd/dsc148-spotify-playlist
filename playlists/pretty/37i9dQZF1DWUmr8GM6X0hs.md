@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,200 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,238 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Historia de un Amor](https://open.spotify.com/track/47haQcqBOue2RAsVXER52f) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:30 |
 | 2 | [Te Mata](https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Te Mata](https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z) | 3:52 |
-| 3 | [Quizas Quizas Quizas](https://open.spotify.com/track/2RB9jaGMu5IXhZeAAXrbNG) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz), [Gigliola Cinquetti](https://open.spotify.com/artist/6QxfNzuPwvVnH5n1U24Cmh) | [Historia De Un Amor](https://open.spotify.com/album/6ZqE68apCVUrnZh0nRe5x5) | 2:52 |
-| 4 | [Si Nos Dejan](https://open.spotify.com/track/4FRFwdjDKCD0of1vLLeCoE) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Fiesta Mexicana en las Voces de los Tres Ases](https://open.spotify.com/album/2RP4ihLMXbkJJWqVLmnKvC) | 3:02 |
+| 3 | [Si Nos Dejan](https://open.spotify.com/track/4FRFwdjDKCD0of1vLLeCoE) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Fiesta Mexicana en las Voces de los Tres Ases](https://open.spotify.com/album/2RP4ihLMXbkJJWqVLmnKvC) | 3:02 |
+| 4 | [Quizas Quizas Quizas](https://open.spotify.com/track/2RB9jaGMu5IXhZeAAXrbNG) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz), [Gigliola Cinquetti](https://open.spotify.com/artist/6QxfNzuPwvVnH5n1U24Cmh) | [Historia De Un Amor](https://open.spotify.com/album/6ZqE68apCVUrnZh0nRe5x5) | 2:52 |
 | 5 | [Cien años](https://open.spotify.com/track/2p5oPFJh3hQTmm0S9QVuTK) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Colección Mitos Pedro Infante](https://open.spotify.com/album/5wB5GW76Pxi04k2twIkWD5) | 3:22 |
 | 6 | [Perfidia](https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 2:20 |
 | 7 | [Amor Perdido](https://open.spotify.com/track/2KwLC9vs5lZa8NDZUkMlem) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Orquideas Vocales](https://open.spotify.com/album/6D7ViPhYqbcigiIgF3c5fK) | 3:15 |

@@ -4,7 +4,7 @@
 
 > De beste Alternative, Indie en Rock van nu! Cover: Franz Ferdinand
 
-87 songs - 5 hr 6 min
+88 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Just Another Rainbow](https://open.spotify.com/track/2xE7912IhBp4poxLjOS6WJ) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Just Another Rainbow](https://open.spotify.com/album/5LLmGei4KIOkZaO3FI2KzX) | 5:36 | 2024-06-26 | 2024-10-19 |
 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 | 2024-06-26 |  |
 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Linger / Heading For The Door \(Sirius XM Session\)](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 | 2024-07-11 |  |
-| [Little Love](https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw) | [Marta Arpini](https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8) | [Little Love](https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj) | 3:08 | 2024-10-03 |  |
+| [Little Love](https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw) | [Marta Arpini](https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8) | [Little Love](https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj) | 3:08 | 2024-10-03 | 2024-11-05 |
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2024-06-26 | 2024-07-12 |
 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 | 2024-08-01 |  |
 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-09-24 |  |
@@ -77,6 +77,7 @@
 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 | 2024-07-11 | 2024-08-29 |
 | [Strawberry](https://open.spotify.com/track/6556dVFzfiI5MK1lb2PH5t) | [Equal Idiots](https://open.spotify.com/artist/4nljEo4gnUFgczxjNt5KOR) | [Strawberry](https://open.spotify.com/album/3SbYi9fNBxoTSpaVrz4jFO) | 4:13 | 2024-10-18 |  |
 | [talk shit](https://open.spotify.com/track/6IEtI05pJzht8zp6u5P9kv) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 3:13 | 2024-08-01 |  |
+| [TELL THE KIDS IT'S ALRIGHT](https://open.spotify.com/track/6rpNv2vLGet7q5p0Ct0imO) | [Mustii](https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1) | [TELL THE KIDS IT'S ALRIGHT](https://open.spotify.com/album/1OHKmjvGBdmlj6hZDiYCON) | 3:14 | 2024-11-04 |  |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-26 |  |
 | [The Sadness In You, The Sadness In Me](https://open.spotify.com/track/1cMwY32ezvo0JNXEOLKEVg) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [The Sadness In You, The Sadness In Me](https://open.spotify.com/album/7xzJjmtUWwWubWB4DX5sLy) | 4:30 | 2024-06-26 | 2024-10-19 |
 | [Things I've Been Telling Myself for Years](https://open.spotify.com/track/0ZmtGhT8Iyih7dlscccung) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [AUDIO VERTIGO](https://open.spotify.com/album/7EpaPuPMFIwVLkEWz3gvSK) | 3:33 | 2024-08-01 |  |

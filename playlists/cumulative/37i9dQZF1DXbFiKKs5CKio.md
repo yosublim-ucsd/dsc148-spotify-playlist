@@ -4,12 +4,12 @@
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-121 songs - 6 hr 50 min
+122 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Minutos](https://open.spotify.com/track/7exzjXAlIdaZN72iALsc5W) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Amaríssima](https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN) | 3:36 | 2024-05-28 |  |
-| [Aeroporto](https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aeroporto](https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq) | 3:29 | 2023-09-15 |  |
+| [Aeroporto](https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aeroporto](https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq) | 3:29 | 2023-09-15 | 2024-11-05 |
 | [Afrodite](https://open.spotify.com/track/5WyATZ79ZuG8IS4Sfqf8K7) | [Murilo França](https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn) | [Chama](https://open.spotify.com/album/7uKJgLIQpEnzBW0wL2qUgj) | 3:25 | 2023-09-15 | 2024-01-20 |
 | [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 | 2023-09-15 | 2023-10-16 |
 | [Amizade](https://open.spotify.com/track/6ArT0mH44u8iuZDDzt8PJF) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Um Pouco de Mim](https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv) | 3:51 | 2024-03-08 | 2024-05-25 |
@@ -56,6 +56,7 @@
 | [Idas e Vindas](https://open.spotify.com/track/15xUgFBITJ10UTCQQ05xXp) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Idas e Vindas](https://open.spotify.com/album/55kj3mqFgYxwqNC2I69tJ0) | 3:36 | 2024-02-23 | 2024-03-02 |
 | [Implorar Amor \- Ao Vivo](https://open.spotify.com/track/2WHe2JzwVCeYXgarB6r9hk) | [Mr\. Dan](https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52), [TALI](https://open.spotify.com/artist/2lI73BmF57aKMznK2wcy50) | [No Ar em Sampa \- Ao Vivo](https://open.spotify.com/album/6xAg9AbgRUfmaboaJrQP6i) | 4:05 | 2024-09-13 | 2024-10-08 |
 | [Jam \#01 \- Fim de Semana](https://open.spotify.com/track/5F58WyW1eT00i22beFEsZ3) | [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q) | [Jam \#1](https://open.spotify.com/album/04DORdVCPAw3R24dYhO9jR) | 1:22 | 2024-10-07 |  |
+| [Lendas](https://open.spotify.com/track/6rJLsNAal1Pg6T5N7icanj) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Dudah](https://open.spotify.com/artist/5ltQoJgmfXPVL8dUkgTViq) | [Selene](https://open.spotify.com/album/71izF9Onm4qAlIhoekpKTX) | 3:25 | 2024-11-04 |  |
 | [Leve](https://open.spotify.com/track/5FPEUByLcA5J6bXqAW25ja) | [Wesley Camilo](https://open.spotify.com/artist/7zMhTkT27OwM0G9qkZPbZT), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Leve](https://open.spotify.com/album/1PkBieopr9ZNx0LCVCFH4h) | 2:53 | 2023-09-15 | 2024-01-27 |
 | [Licor](https://open.spotify.com/track/62LSep7P2d7uPyDdMMuemr) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Hip Hop Machine \#13](https://open.spotify.com/album/6NHVEU2tX4VYNs6t9aFBkP) | 5:30 | 2023-09-15 |  |
 | [Lud Session \#4: Morrer de Viver / Saudade Daquilo / Tô Querendo Mais / Sem Filtro / Embrasa](https://open.spotify.com/track/3PXJxUzZ6dn9ykFBFMmOnL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Lud Session \#4: Morrer de Viver / Saudade Daquilo / Tô Querendo Mais / Sem Filtro / Embrasa](https://open.spotify.com/album/7dJmTgUEMUj4yUGT0Rv6Wi) | 11:07 | 2024-06-28 | 2024-08-17 |

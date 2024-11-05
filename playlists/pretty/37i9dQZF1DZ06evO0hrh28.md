@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 
 > This is Emilia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,406 likes - 48 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,651 likes - 48 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 47 | [BB \- Emilia en Vivo](https://open.spotify.com/track/2EaqSjTQuzsQ3F8ncmsFKW) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Emilia en Vivo](https://open.spotify.com/album/3jxfIy0En401wjrtIZcBXh) | 2:45 |
 | 48 | [Pal Perreo](https://open.spotify.com/track/607uAAsoV2mkEZuZR5J59s) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Pal Perreo](https://open.spotify.com/album/7GRrr1fX97vePkRz5ATbi6) | 2:42 |
 
-Snapshot ID: `ZyVrgAAAAABHuZF+HtnIA9XSPISAN7bN`
+Snapshot ID: `Zya9AAAAAABcecPOqhPGpXjq/1hodlc5`

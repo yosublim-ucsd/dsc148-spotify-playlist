@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,634 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,649 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 9 | [Sanjay Dutt](https://open.spotify.com/track/6IN08l8EkriTzXQ1KFCb9Y) | [Vadda Grewal](https://open.spotify.com/artist/0l25Af4xjrqTYCHUxkrs0c), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Sanjay Dutt](https://open.spotify.com/album/6UHTNreKfTn9Mr7Wyh3Ptv) | 2:37 |
 | 10 | [Love Hurts](https://open.spotify.com/track/3iyxOE7ZrxMCVMNzFkWtZY) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Love Hurts](https://open.spotify.com/album/5Tmdgf9queNWN4lqQnvqr7) | 3:24 |
 | 11 | [Cat Walk](https://open.spotify.com/track/50OhDMBICJCPOkzPHqwIzI) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Savraj](https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9) | [Three Plays](https://open.spotify.com/album/7cg3ggWMPZjfQOUYCiSWmE) | 2:51 |
-| 12 | [Don't Look 2](https://open.spotify.com/track/4ZQAFya68eENRy7VGVXSUe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [G\-Funk](https://open.spotify.com/artist/5fYzmklFOBvIXZef0iVmEH) | [Don't Look 2](https://open.spotify.com/album/5RCnxjGciArcGJScujPXyU) | 3:18 |
-| 13 | [Mangni](https://open.spotify.com/track/3bKVJpK65oFqGPTosuD9uu) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G), [Youngstarr Pop Boy](https://open.spotify.com/artist/3qQfU4XvZCmz8Hwwu5pSr9), [Mahi Sharma](https://open.spotify.com/artist/27Lb22VTgDXhcTAH30SsIJ) | [Munda Maanaa Da](https://open.spotify.com/album/2vwTvTLFhgDEy3reXBEAj8) | 2:45 |
-| 14 | [Hath Mittran Nu](https://open.spotify.com/track/3akvPGRrZVPaE2GSoqJIvf) | [Khadak Singh](https://open.spotify.com/artist/6u8dtdN8dK5hjTkkfw4ysc) | [Hath Mittran Nu](https://open.spotify.com/album/7J4wVMxhnPfzr3Vj9dzjSA) | 2:30 |
-| 15 | [Vibe](https://open.spotify.com/track/50i8NXAygiZBfZb92m8ssD) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX) | [Vibe](https://open.spotify.com/album/0iFzZFYfOGwar3n7MRvDEn) | 2:20 |
-| 16 | [Putt Sardara De](https://open.spotify.com/track/7JPcZDsguZkm5OpofJ5pZl) | [Bhinda Aujla](https://open.spotify.com/artist/4452AKcmQh6NC4yNlTrR3D) | [Putt Sardara De](https://open.spotify.com/album/3ZG8s2MIYNXSImWF3ANpsK) | 2:04 |
-| 17 | [Sarpanchi](https://open.spotify.com/track/30CMziHsZI5HmEJaJNkAq3) | [Guri Sandhu](https://open.spotify.com/artist/2iAqRnqDryFoVQyWzmpCSL) | [Sarpanchi](https://open.spotify.com/album/4g7EWxNOuojE9b0iymAfEx) | 2:19 |
+| 12 | [Janu Janu](https://open.spotify.com/track/32qm4nI8Y3dOc8pFGsOAXc) | [Jaskaran Riarr](https://open.spotify.com/artist/3Vlyw5c4xPbJz6NlccNBJe) | [Sobar](https://open.spotify.com/album/2i6zbTxqSYaNICcdmhmcgx) | 3:24 |
+| 13 | [Don't Look 2](https://open.spotify.com/track/4ZQAFya68eENRy7VGVXSUe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [G\-Funk](https://open.spotify.com/artist/5fYzmklFOBvIXZef0iVmEH) | [Don't Look 2](https://open.spotify.com/album/5RCnxjGciArcGJScujPXyU) | 3:18 |
+| 14 | [Mangni](https://open.spotify.com/track/3bKVJpK65oFqGPTosuD9uu) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G), [Youngstarr Pop Boy](https://open.spotify.com/artist/3qQfU4XvZCmz8Hwwu5pSr9), [Mahi Sharma](https://open.spotify.com/artist/27Lb22VTgDXhcTAH30SsIJ) | [Munda Maanaa Da](https://open.spotify.com/album/2vwTvTLFhgDEy3reXBEAj8) | 2:45 |
+| 15 | [Hath Mittran Nu](https://open.spotify.com/track/3akvPGRrZVPaE2GSoqJIvf) | [Khadak Singh](https://open.spotify.com/artist/6u8dtdN8dK5hjTkkfw4ysc) | [Hath Mittran Nu](https://open.spotify.com/album/7J4wVMxhnPfzr3Vj9dzjSA) | 2:30 |
+| 16 | [Vibe](https://open.spotify.com/track/50i8NXAygiZBfZb92m8ssD) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX) | [Vibe](https://open.spotify.com/album/0iFzZFYfOGwar3n7MRvDEn) | 2:20 |
+| 17 | [Putt Sardara De](https://open.spotify.com/track/7JPcZDsguZkm5OpofJ5pZl) | [Bhinda Aujla](https://open.spotify.com/artist/4452AKcmQh6NC4yNlTrR3D) | [Putt Sardara De](https://open.spotify.com/album/3ZG8s2MIYNXSImWF3ANpsK) | 2:04 |
 | 18 | [Parlour Te \(From "Mittran Da Challeya Truck Ni"\)](https://open.spotify.com/track/5duOS2aldMXIdxxPF660KF) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Parlour Te \(From "Mittran Da Challeya Truck Ni"\)](https://open.spotify.com/album/56cYJVho9lTXVjgrXOlEWh) | 3:11 |
 | 19 | [Baby](https://open.spotify.com/track/2hZkyRqr9NO7OjJxHuVf2v) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Magical](https://open.spotify.com/album/0Lp0XnJLL5z4Q51J1tXIKb) | 2:25 |
 | 20 | [Ambarsaria](https://open.spotify.com/track/6eCA1w1FBvYeMcFTD6BWzl) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [The Finest](https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Naam Sunuga](https://open.spotify.com/track/2DnRbGR0JIKLERKI8IGcoL) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Naam Sunuga](https://open.spotify.com/album/290dKL08Ilt2QtRIeb4q6e) | 3:27 |
 | 100 | [Stick Talk](https://open.spotify.com/track/61sbacNWadHqNi8U0ew7rt) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Stick Talk](https://open.spotify.com/album/776yBgdEdhEUPmyErZuIu0) | 2:39 |
 
-Snapshot ID: `Zxc1wgAAAABMNq/wCjg3KBYXm1VJC/91`
+Snapshot ID: `ZyioYAAAAADPh7l0EWrXvoLOgg4Urcy+`

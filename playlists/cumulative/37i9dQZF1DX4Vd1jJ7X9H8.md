@@ -4,7 +4,7 @@
 
 > Groovy, dancy, funky stuff\. When in doubt, turn this on at the party.
 
-493 songs - 1 day 5 hr 11 min
+494 songs - 1 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Dopamine](https://open.spotify.com/track/4sFyLyuJOUVMDcaSg1oHEa) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dance Moves](https://open.spotify.com/album/5478vb7E5nJWOXs9JcAxRt) | 4:03 | 2022-05-31 | 2022-07-29 |
 | [Doses & Mimosas](https://open.spotify.com/track/152ANCuCtaK7mkhyFubrRG) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Year of the Caprese](https://open.spotify.com/album/36ypuZEeHzKt3jm4gh6J4Q) | 5:23 | 2020-12-31 | 2022-07-29 |
 | [Doses & Mimosas](https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Year of the Caprese](https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas) | 5:23 | 2021-06-17 | 2022-08-12 |
-| [Down The Road](https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T) | [C2C](https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2) | [Tetra](https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt) | 3:27 | 2023-04-19 |  |
+| [Down The Road](https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T) | [C2C](https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2) | [Tetra](https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt) | 3:27 | 2023-04-19 | 2024-11-05 |
 | [Dragonball Durag](https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:01 | 2020-12-31 | 2023-06-24 |
 | [Drive and Disconnect](https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Saturn](https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld) | 3:30 | 2022-05-31 |  |
 | [Driving On The Wrong Side Of The Road](https://open.spotify.com/track/4FIlqMK5BlM1srbvDdOdXk) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Driving On The Wrong Side Of The Road](https://open.spotify.com/album/2sgGbhWdRKjFzSGmvhRBVG) | 3:11 | 2024-10-25 |  |
@@ -198,7 +198,7 @@
 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-09-26 | 2023-08-21 |
 | [Harvest Moon](https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 6:08 | 2022-07-22 |  |
 | [Heartbreaker](https://open.spotify.com/track/4vcPegtrtRJPUXrnfxqvg9) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [When We On](https://open.spotify.com/album/7GhRdXt7AoyDIo9i9laYzM) | 5:26 | 2021-11-12 | 2022-04-19 |
-| [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 | 2023-07-28 |  |
+| [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 | 2023-07-28 | 2024-11-05 |
 | [HEAVY METAL](https://open.spotify.com/track/1j6zEnDOTIRJhBhknrd86m) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BOY ANONYMOUS](https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w) | 2:39 | 2021-07-01 | 2022-04-21 |
 | [Helen](https://open.spotify.com/track/5cVHcVHyFPQkG0BpJfx7Yx) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Are You Living In The Real World? \- EP](https://open.spotify.com/album/6Uutk4ONNcluULLclNZEgB) | 2:37 | 2021-11-12 | 2022-07-26 |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2020-12-31 | 2022-08-12 |
@@ -380,6 +380,7 @@
 | [Save Your Tears](https://open.spotify.com/track/2ExKb6Ag2WXob6FpkSeXhE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours \(Deluxe\)](https://open.spotify.com/album/6YlDIxqEjvY63ffH6AwCjd) | 3:35 | 2020-12-31 | 2022-04-17 |
 | [Scatterbrain](https://open.spotify.com/track/6iP5RyT5UYri2lBXF5HXPv) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [Scatterbrain](https://open.spotify.com/album/64c2dTgv8xt5r7gESPYyql) | 3:48 | 2023-05-26 | 2023-08-19 |
 | [Sea Sick](https://open.spotify.com/track/3jLHo30ucbkYY9P7v8leKh) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Sea Sick](https://open.spotify.com/album/2rW8WOaJP6R7rIFFaJEhoZ) | 2:10 | 2020-12-31 | 2022-07-29 |
+| [Seasons](https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Seasons](https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ) | 2:37 | 2024-10-25 |  |
 | [SELFISH](https://open.spotify.com/track/5eK3fdNouqjL8YpX2tCWHB) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [SELFISH](https://open.spotify.com/album/6pMYtOdrMJqGhVdat8yLV3) | 3:12 | 2024-04-19 | 2024-07-18 |
 | [Selfish Soul \- ODESZA Remix](https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Selfish Soul \(ODESZA Remix\)](https://open.spotify.com/album/4aJcCRF4B3Tjefsu0aZKu2) | 3:26 | 2023-04-28 | 2023-05-05 |
 | [Sensitive](https://open.spotify.com/track/0oHEteATZnAZuA9dl1dXF3) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sensitive](https://open.spotify.com/album/2HDvWBKuYKKxgWz3LjzMte) | 2:54 | 2020-12-31 | 2022-03-22 |
@@ -390,7 +391,7 @@
 | [Sex n' Drugs](https://open.spotify.com/track/0MwMwvl0IVPgLAeXyeVBi1) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [Copper King](https://open.spotify.com/artist/0UcRuQorbZibK50cFtsJh3), [Harrison Sands](https://open.spotify.com/artist/5lwE4ASworJdeRDXu5g9en) | [Marbled](https://open.spotify.com/album/0IdngECK2Q2rGsFVb62Mxi) | 3:37 | 2023-01-24 | 2023-05-05 |
 | [Sex n' Drugs](https://open.spotify.com/track/0G2wimhVoDYXbQ6csDxtSf) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [Harrison Sands](https://open.spotify.com/artist/5lwE4ASworJdeRDXu5g9en), [Copper King](https://open.spotify.com/artist/0UcRuQorbZibK50cFtsJh3) | [Marbled](https://open.spotify.com/album/4UdZHRBCIoe7XCPr8KdVg7) | 3:37 | 2022-08-11 | 2023-02-23 |
 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 | 2022-01-28 | 2022-08-12 |
-| [Shotput](https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Shotput](https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir) | 2:50 | 2024-03-22 | 2024-11-04 |
+| [Shotput](https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Shotput](https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir) | 2:50 | 2024-03-22 |  |
 | [Silk Chiffon](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 | 2021-10-19 | 2022-07-30 |
 | [Simmer](https://open.spotify.com/track/2RqdwP5GhU18FTHbL1Bxfe) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Hablot Brown](https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM) | [Someone's EP II](https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ) | 3:55 | 2023-03-17 | 2023-08-19 |
 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 | 2020-12-31 | 2022-07-29 |

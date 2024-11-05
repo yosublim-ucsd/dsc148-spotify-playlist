@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Bagheera",
-  "num_followers": 59928,
+  "num_followers": 59968,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyB39AAAAADVYQ5Cjel0+kHet39beCBY",
+  "snapshot_id": "ZyiuCgAAAAB6//c+PXo/NqaodCVdVIg5",
   "tracks": [
     {
       "added_at": "2024-10-25 07:40:09",
@@ -109,6 +109,30 @@
       "url": "https://open.spotify.com/track/4afXxPuT4KFDtDrEIPncyL"
     },
     {
+      "added_at": "2024-11-04 11:20:42",
+      "album": {
+        "name": "Ee Mana Preeti Naa (From \"Trendu Frendu\")(Kannada)",
+        "url": "https://open.spotify.com/album/5BvTasfLPgXUjDSqsO9fi7"
+      },
+      "artists": [
+        {
+          "name": "Shravan Bharadwaj",
+          "url": "https://open.spotify.com/artist/3T0lUjLJ29ApjVCaVxdLfx"
+        },
+        {
+          "name": "Anuradha Bhat",
+          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
+        },
+        {
+          "name": "Bhaskar Raj",
+          "url": "https://open.spotify.com/artist/4fYJyIGuRITP9kUBdMH3kO"
+        }
+      ],
+      "duration_ms": 207926,
+      "name": "Ee Mana Preeti Naa (From \"Trendu Frendu\")(Kannada)",
+      "url": "https://open.spotify.com/track/3b9wsETiM84ldLm8ubNv67"
+    },
+    {
       "added_at": "2024-09-30 06:43:35",
       "album": {
         "name": "Mogachi (From \"Murphy\")",
@@ -131,6 +155,94 @@
       "duration_ms": 238200,
       "name": "Mogachi (From \"Murphy\")",
       "url": "https://open.spotify.com/track/6PD9exSQzp6pz2qPwF8uol"
+    },
+    {
+      "added_at": "2024-11-04 11:19:15",
+      "album": {
+        "name": "Naayaka (From \"Kanguva\") (Kannada)",
+        "url": "https://open.spotify.com/album/33U6TDpMi12xFv4P55V0xX"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Aravind Srinivas",
+          "url": "https://open.spotify.com/artist/4D3Rik34ofGp07ieu9zENY"
+        },
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+        },
+        {
+          "name": "Shenbagaraj",
+          "url": "https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI"
+        },
+        {
+          "name": "Narayanan Ravishankar",
+          "url": "https://open.spotify.com/artist/2eJunkotmRUe8mLJmqW8HD"
+        },
+        {
+          "name": "Govind Prasad",
+          "url": "https://open.spotify.com/artist/2XzJ8aeBoI3YXBnaYVgDUh"
+        },
+        {
+          "name": "Shibi Srinivasan",
+          "url": "https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5"
+        },
+        {
+          "name": "Prasanna Adhisesha",
+          "url": "https://open.spotify.com/artist/2RI0JvkmtOl5Se3SVrWYfn"
+        },
+        {
+          "name": "Saisharan",
+          "url": "https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3"
+        },
+        {
+          "name": "Vikram Pitty",
+          "url": "https://open.spotify.com/artist/6AHUrY1pX6lWfnO4Jhlcor"
+        },
+        {
+          "name": "Abhijith Rao",
+          "url": "https://open.spotify.com/artist/34uPPT8En9O7fAEPO8S3Fp"
+        },
+        {
+          "name": "Aparna Harikumar",
+          "url": "https://open.spotify.com/artist/7LNUzNqFRlLgmF05m4yyXK"
+        },
+        {
+          "name": "Sushmita Narasimhan",
+          "url": "https://open.spotify.com/artist/48bN9ZvsrftmrBmBqGftS8"
+        },
+        {
+          "name": "Pavithra Chari",
+          "url": "https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG"
+        },
+        {
+          "name": "Lavita Lobo",
+          "url": "https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv"
+        },
+        {
+          "name": "Deepthi Suresh",
+          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
+        },
+        {
+          "name": "Latha Krishna",
+          "url": "https://open.spotify.com/artist/60VMWWmZZKAVkA0ttoLxB1"
+        },
+        {
+          "name": "Padmaja Sreenivasan",
+          "url": "https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Naayaka (From \"Kanguva\") (Kannada)",
+      "url": "https://open.spotify.com/track/3MJ7TA46ChyAMUNTuiX95R"
     },
     {
       "added_at": "2024-10-17 10:59:41",
@@ -331,6 +443,26 @@
       "duration_ms": 300003,
       "name": "Kaavaliga (From \"Bhairathi Ranagal\")",
       "url": "https://open.spotify.com/track/3DlaCpCBStOojTwaHEyKuW"
+    },
+    {
+      "added_at": "2024-11-04 11:19:52",
+      "album": {
+        "name": "Love Reddy (Kannada) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/6Xl8ElNtjwYoUGcf9xLyox"
+      },
+      "artists": [
+        {
+          "name": "Prince Henry",
+          "url": "https://open.spotify.com/artist/3vJDvKa5cfjEH2vFEhj4EY"
+        },
+        {
+          "name": "Sandilya Pisapati",
+          "url": "https://open.spotify.com/artist/6Dvs7Ln15awHQFR3W6Rrh8"
+        }
+      ],
+      "duration_ms": 262674,
+      "name": "Jeevakkintha",
+      "url": "https://open.spotify.com/track/6gnmSnNX4ycJbqy39wC52F"
     },
     {
       "added_at": "2024-10-11 11:06:29",
@@ -1703,30 +1835,6 @@
       "duration_ms": 236400,
       "name": "Helu Gelathi (From \"Ibbani Tabbida Ileyali\")",
       "url": "https://open.spotify.com/track/20TE5yIQQXnxp3qxTh1SwM"
-    },
-    {
-      "added_at": "2024-07-12 10:14:02",
-      "album": {
-        "name": "Sadaa Neene (From \"Ibbani Tabbida Ileyali\")",
-        "url": "https://open.spotify.com/album/41RkrCKuHU0uO2O58mLMq2"
-      },
-      "artists": [
-        {
-          "name": "Gagan Baderiya",
-          "url": "https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq"
-        },
-        {
-          "name": "Nagarjun Sharma",
-          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
-        },
-        {
-          "name": "Arun Kamath",
-          "url": "https://open.spotify.com/artist/1LhVMgynbTBbaAAExyqjFa"
-        }
-      ],
-      "duration_ms": 226975,
-      "name": "Sadaa Neene (From \"Ibbani Tabbida Ileyali\")",
-      "url": "https://open.spotify.com/track/0LNLgN8Prqzm7OsMO88e3L"
     }
   ],
   "unique_name": "Latest Kannada",

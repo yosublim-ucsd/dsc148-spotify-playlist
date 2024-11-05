@@ -1,6 +1,6 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 10156,
+  "num_followers": 10155,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Cherry Lady",
-        "url": "https://open.spotify.com/album/73AskkkPaeQsljbltdSTur"
-      },
-      "artists": [
-        {
-          "name": "Louis Villain",
-          "url": "https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Cherry Lady",
-      "url": "https://open.spotify.com/track/4ZmWYEsdiGRPN9oMJgi96r"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "WWA NA KXKSIE",
         "url": "https://open.spotify.com/album/6R3IJyx9vPOZFk4ARB7N2H"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 205925,
       "name": "WWA NA KXKSIE",
       "url": "https://open.spotify.com/track/0oyR4Ql18Y1GNwS3arouvb"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Cherry Lady",
+        "url": "https://open.spotify.com/album/73AskkkPaeQsljbltdSTur"
+      },
+      "artists": [
+        {
+          "name": "Louis Villain",
+          "url": "https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Cherry Lady",
+      "url": "https://open.spotify.com/track/4ZmWYEsdiGRPN9oMJgi96r"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -799,6 +799,26 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "Czarne czy Czerwone",
+        "url": "https://open.spotify.com/album/0FKv1ADVk4Ny68dnk8CweL"
+      },
+      "artists": [
+        {
+          "name": "VHS",
+          "url": "https://open.spotify.com/artist/7ho5bL4sZl37F4xc9lr36q"
+        },
+        {
+          "name": "E V",
+          "url": "https://open.spotify.com/artist/5siFxISlT9JdSaadvmFoBX"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Czarne czy Czerwone",
+      "url": "https://open.spotify.com/track/7x5xSPtTM2bbbdL6OFfDoU"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "Inny \u015awiat",
         "url": "https://open.spotify.com/album/3NAOi7pSOXdX6mGS0GptTt"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 145401,
       "name": "Inny \u015awiat",
       "url": "https://open.spotify.com/track/3f0nuItdnejs29CxqAABFG"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "Czarne czy Czerwone",
-        "url": "https://open.spotify.com/album/0FKv1ADVk4Ny68dnk8CweL"
-      },
-      "artists": [
-        {
-          "name": "VHS",
-          "url": "https://open.spotify.com/artist/7ho5bL4sZl37F4xc9lr36q"
-        },
-        {
-          "name": "E V",
-          "url": "https://open.spotify.com/artist/5siFxISlT9JdSaadvmFoBX"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Czarne czy Czerwone",
-      "url": "https://open.spotify.com/track/7x5xSPtTM2bbbdL6OFfDoU"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1103,30 +1103,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "NIE MA CI\u0118",
-        "url": "https://open.spotify.com/album/5YgEYtpToICxfF8duu9b00"
-      },
-      "artists": [
-        {
-          "name": "Fukaj",
-          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
-        },
-        {
-          "name": "charlie moncler",
-          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
-        },
-        {
-          "name": "bambi",
-          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
-        }
-      ],
-      "duration_ms": 171932,
-      "name": "NIE MA CI\u0118",
-      "url": "https://open.spotify.com/track/5AzCwwnB7XHoZZIusuHeXJ"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Nie ma sprawy",
         "url": "https://open.spotify.com/album/3fsTzJ4ZEujyQuBd649DE0"
       },
@@ -1147,6 +1123,30 @@
       "duration_ms": 132750,
       "name": "Nie ma sprawy",
       "url": "https://open.spotify.com/track/7dNLbmYbfHAQxIIcnD6Fri"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "NIE MA CI\u0118",
+        "url": "https://open.spotify.com/album/5YgEYtpToICxfF8duu9b00"
+      },
+      "artists": [
+        {
+          "name": "Fukaj",
+          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
+        },
+        {
+          "name": "charlie moncler",
+          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
+        },
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        }
+      ],
+      "duration_ms": 171932,
+      "name": "NIE MA CI\u0118",
+      "url": "https://open.spotify.com/track/5AzCwwnB7XHoZZIusuHeXJ"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1371,30 +1371,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "HIP_HOP_50 Digital Deluxe",
-        "url": "https://open.spotify.com/album/0iG3AtjeGqpMvazujqKG2v"
-      },
-      "artists": [
-        {
-          "name": "Peja",
-          "url": "https://open.spotify.com/artist/5IQZA1dxUd3Qv73mHNln59"
-        },
-        {
-          "name": "Slums Attack",
-          "url": "https://open.spotify.com/artist/5G2bin17kewcOvJbA5MHWx"
-        },
-        {
-          "name": "Magiera",
-          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "Lot skaza\u0144ca",
-      "url": "https://open.spotify.com/track/7s7H4KQyAtsOihaRmUS4uA"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Uwolni\u0107 Bonusa",
         "url": "https://open.spotify.com/album/2WEpLdZw9WxNLF3rzGRrkK"
       },
@@ -1415,6 +1391,30 @@
       "duration_ms": 191433,
       "name": "Uwolni\u0107 Bonusa",
       "url": "https://open.spotify.com/track/1YcaiLGCs9KWxu63JMOwcN"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "HIP_HOP_50 Digital Deluxe",
+        "url": "https://open.spotify.com/album/0iG3AtjeGqpMvazujqKG2v"
+      },
+      "artists": [
+        {
+          "name": "Peja",
+          "url": "https://open.spotify.com/artist/5IQZA1dxUd3Qv73mHNln59"
+        },
+        {
+          "name": "Slums Attack",
+          "url": "https://open.spotify.com/artist/5G2bin17kewcOvJbA5MHWx"
+        },
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+        }
+      ],
+      "duration_ms": 225013,
+      "name": "Lot skaza\u0144ca",
+      "url": "https://open.spotify.com/track/7s7H4KQyAtsOihaRmUS4uA"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "TipiKnapa",
-        "url": "https://open.spotify.com/album/7J60viX5whIH74wxAEd8rX"
-      },
-      "artists": [
-        {
-          "name": "Kuba Knap",
-          "url": "https://open.spotify.com/artist/5Ucwb48hBmaTemwO30vVXa"
-        }
-      ],
-      "duration_ms": 333276,
-      "name": "MA\u0141Y \u015aWIAT",
-      "url": "https://open.spotify.com/track/2X4tIXZ7vYiuExKdKyQ52w"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "ostatnie s\u0142owo",
         "url": "https://open.spotify.com/album/3fx0KMUXyPOQfQjWw1sWMt"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 269617,
       "name": "polonez dla pocz\u0105tkuj\u0105cych",
       "url": "https://open.spotify.com/track/6rsBxeaMPY1C9dJZ3mxtZW"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "TipiKnapa",
+        "url": "https://open.spotify.com/album/7J60viX5whIH74wxAEd8rX"
+      },
+      "artists": [
+        {
+          "name": "Kuba Knap",
+          "url": "https://open.spotify.com/artist/5Ucwb48hBmaTemwO30vVXa"
+        }
+      ],
+      "duration_ms": 333276,
+      "name": "MA\u0141Y \u015aWIAT",
+      "url": "https://open.spotify.com/track/2X4tIXZ7vYiuExKdKyQ52w"
     },
     {
       "added_at": "2024-02-27 08:21:33",

@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Cloudy June
 
-498 songs - 1 day 1 hr 12 min
+500 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,6 +389,7 @@
 | [Sing Like Madonna](https://open.spotify.com/track/6R81LNxCNqY9c1TXCuyvXq) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Sing Like Madonna](https://open.spotify.com/album/4iDYXsSzgSmXRzzyBfR6yT) | 3:33 | 2024-10-10 |  |
 | [Sink Or Swim](https://open.spotify.com/track/4FDDExmv76Da7aaFqxbxVp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:34 | 2024-07-11 | 2024-08-09 |
 | [Sinners](https://open.spotify.com/track/6nExxTqLbu86aatoDqCafi) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love \(Deluxe\)](https://open.spotify.com/album/77RV71qonUUyGIJdmHyl4N) | 3:24 | 2024-06-28 | 2024-07-27 |
+| [Sip](https://open.spotify.com/track/1CMQQtOD2tAwCp0vtuOxIX) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sip](https://open.spotify.com/album/3rdm30kSOOJm3SDxcoVAs0) | 2:52 | 2024-11-04 |  |
 | [Sleep Alone](https://open.spotify.com/track/27YJuELVY3sguJMXcRGd4z) | [Iggi Kelly](https://open.spotify.com/artist/4SrQdK7LahnrRiz1g10kNN) | [Sleep Alone](https://open.spotify.com/album/4TYw0zXoPTmdAxlVEA4RuB) | 2:45 | 2024-06-28 | 2024-07-12 |
 | [Sleeping Beauty](https://open.spotify.com/track/79an4G4vt5HGGajCOOlsZ7) | [Vic Lawrence](https://open.spotify.com/artist/6wVQG36cXMLmutWIOtFicH) | [Sleeping Beauty](https://open.spotify.com/album/0vCkCfiXkdDZgrtSQ9Cksz) | 2:28 | 2024-06-28 | 2024-07-19 |
 | [Slippin' \(feat\. Meghan Trainor\)](https://open.spotify.com/track/6CnRXn7fv8wLXmzsmsAIzm) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Slippin' \(feat\. Meghan Trainor\)](https://open.spotify.com/album/3u37eIuYSP4w1CgP80vsl8) | 2:48 | 2024-07-11 | 2024-08-09 |
@@ -414,6 +415,7 @@
 | [Still Alive](https://open.spotify.com/track/6qHpOFvi7fxmz6ZsnGAHec) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Still Alive](https://open.spotify.com/album/695Glguk9UBEmdqBAr2zw0) | 2:41 | 2024-09-27 | 2024-10-25 |
 | [Still Into You](https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Still Into You](https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5) | 2:31 | 2024-10-24 |  |
 | [Stockholm](https://open.spotify.com/track/198asGCZWwoQVdLxYSlPTx) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Stockholm](https://open.spotify.com/album/30xua6nr058rwmldrH7Kqy) | 2:20 | 2024-10-31 |  |
+| [Stop Calling](https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Stop Calling](https://open.spotify.com/album/0uvwr9erzNBwxjzqBSUz5Q) | 2:58 | 2024-11-04 |  |
 | [story i tell myself](https://open.spotify.com/track/5wAOwTaOQ8dHZgR13d5S7S) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [story i tell myself](https://open.spotify.com/album/6SN574dbaX96k0sDGgdlDq) | 3:31 | 2024-10-03 | 2024-10-25 |
 | [Stranger](https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Stranger](https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL) | 2:42 | 2024-10-31 |  |
 | [Stupid Dumb](https://open.spotify.com/track/6RFvRQfwSV5kvF9NodnZnb) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Stupid Dumb](https://open.spotify.com/album/0fJZgO2wJlvVXalnpdoc9i) | 2:44 | 2024-10-10 |  |

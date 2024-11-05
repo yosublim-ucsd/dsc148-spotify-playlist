@@ -1,6 +1,6 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring Benito Cerati.",
-  "num_followers": 19346,
+  "num_followers": 19354,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,18 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Fingir Normalidad",
-        "url": "https://open.spotify.com/album/1uwQugKLt3slzgrimYG8sl"
+        "name": "Canciones que te hice para el fin del mundo",
+        "url": "https://open.spotify.com/album/0AqCiN2Pya57InqnCTbTBj"
       },
       "artists": [
         {
-          "name": "Proyecto Gomez Casa",
-          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
-        },
-        {
-          "name": "Dillom",
-          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Fingir Normalidad",
-      "url": "https://open.spotify.com/track/4nWPaY8XaG4YvccW8iAvn9"
+      "duration_ms": 235328,
+      "name": "Tuuu",
+      "url": "https://open.spotify.com/track/7LuHyWjXwdmxxmFl9g3H68"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -283,18 +279,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Canciones que te hice para el fin del mundo",
-        "url": "https://open.spotify.com/album/0AqCiN2Pya57InqnCTbTBj"
+        "name": "Fingir Normalidad",
+        "url": "https://open.spotify.com/album/1uwQugKLt3slzgrimYG8sl"
       },
       "artists": [
         {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+          "name": "Proyecto Gomez Casa",
+          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
+        },
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
         }
       ],
-      "duration_ms": 235328,
-      "name": "Tuuu",
-      "url": "https://open.spotify.com/track/7LuHyWjXwdmxxmFl9g3H68"
+      "duration_ms": 256000,
+      "name": "Fingir Normalidad",
+      "url": "https://open.spotify.com/track/4nWPaY8XaG4YvccW8iAvn9"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "Nuestros Besos",
+        "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
+      },
+      "artists": [
+        {
+          "name": "LUPE",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Nuestros Besos",
+      "url": "https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Xtasis",
         "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
       },
@@ -479,34 +495,6 @@
       "duration_ms": 203125,
       "name": "Xtasis",
       "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Peligrosa (Version Aerobica)",
-        "url": "https://open.spotify.com/album/2tPMHTtb0ycCVaAY5aQxRb"
-      },
-      "artists": [
-        {
-          "name": "Aerobica",
-          "url": "https://open.spotify.com/artist/0Vdpq1MzMW6xiHjnrRb0bl"
-        },
-        {
-          "name": "Nico Castro",
-          "url": "https://open.spotify.com/artist/3BPUQKAxccyClPyj2A4vv9"
-        },
-        {
-          "name": "Pepo Fernandez",
-          "url": "https://open.spotify.com/artist/0DR47gYDjSGYu5euwMRCmP"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 243470,
-      "name": "Peligrosa (Version Aerobica)",
-      "url": "https://open.spotify.com/track/6SG64UrZqNk7aXx8p4jj8p"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -543,18 +531,30 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Nuestros Besos",
-        "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
+        "name": "Peligrosa (Version Aerobica)",
+        "url": "https://open.spotify.com/album/2tPMHTtb0ycCVaAY5aQxRb"
       },
       "artists": [
         {
-          "name": "LUPE",
-          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+          "name": "Aerobica",
+          "url": "https://open.spotify.com/artist/0Vdpq1MzMW6xiHjnrRb0bl"
+        },
+        {
+          "name": "Nico Castro",
+          "url": "https://open.spotify.com/artist/3BPUQKAxccyClPyj2A4vv9"
+        },
+        {
+          "name": "Pepo Fernandez",
+          "url": "https://open.spotify.com/artist/0DR47gYDjSGYu5euwMRCmP"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
         }
       ],
-      "duration_ms": 247500,
-      "name": "Nuestros Besos",
-      "url": "https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ"
+      "duration_ms": 243470,
+      "name": "Peligrosa (Version Aerobica)",
+      "url": "https://open.spotify.com/track/6SG64UrZqNk7aXx8p4jj8p"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "La virgen de los vientos",
+        "url": "https://open.spotify.com/album/2qQH4ZWuweoGsUbT2C4VH3"
+      },
+      "artists": [
+        {
+          "name": "Mariana P\u00e4raway",
+          "url": "https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja"
+        }
+      ],
+      "duration_ms": 162232,
+      "name": "La virgen de los vientos",
+      "url": "https://open.spotify.com/track/451rzzYSclxKztbHJT1C5B"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Ac\u00e9rcate",
         "url": "https://open.spotify.com/album/2Z7yV50aIX5Le0GkIIgG1p"
       },
@@ -639,18 +655,18 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "La virgen de los vientos",
-        "url": "https://open.spotify.com/album/2qQH4ZWuweoGsUbT2C4VH3"
+        "name": "Que Nunca Pare",
+        "url": "https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v"
       },
       "artists": [
         {
-          "name": "Mariana P\u00e4raway",
-          "url": "https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja"
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
         }
       ],
-      "duration_ms": 162232,
-      "name": "La virgen de los vientos",
-      "url": "https://open.spotify.com/track/451rzzYSclxKztbHJT1C5B"
+      "duration_ms": 204133,
+      "name": "Que Nunca Pare",
+      "url": "https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -667,22 +683,6 @@
       "duration_ms": 178091,
       "name": "No Llores",
       "url": "https://open.spotify.com/track/4mH56106svjYOZy6aZvsGC"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Que Nunca Pare",
-        "url": "https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "Que Nunca Pare",
-      "url": "https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "fotos\u00edntesis",
-        "url": "https://open.spotify.com/album/4hLgPK4dCOyUaE8z6Q9AZB"
-      },
-      "artists": [
-        {
-          "name": "los romances",
-          "url": "https://open.spotify.com/artist/7srAOn17fO00nYRZiJkH0J"
-        },
-        {
-          "name": "El Chacal & Los Alpes Floreados",
-          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "fotos\u00edntesis",
-      "url": "https://open.spotify.com/track/6Z161cZhRgJLlmdyLoWyBd"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Arde",
         "url": "https://open.spotify.com/album/5me5lcvtqBcly58BKl6LCX"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 179612,
       "name": "Arde",
       "url": "https://open.spotify.com/track/2t59QBQmAiGuXNjb4jc7Qh"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "fotos\u00edntesis",
+        "url": "https://open.spotify.com/album/4hLgPK4dCOyUaE8z6Q9AZB"
+      },
+      "artists": [
+        {
+          "name": "los romances",
+          "url": "https://open.spotify.com/artist/7srAOn17fO00nYRZiJkH0J"
+        },
+        {
+          "name": "El Chacal & Los Alpes Floreados",
+          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "fotos\u00edntesis",
+      "url": "https://open.spotify.com/track/6Z161cZhRgJLlmdyLoWyBd"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Carmes\u00ed",
-        "url": "https://open.spotify.com/album/79Lk7RVCEpU0PJXzp5A0Iz"
-      },
-      "artists": [
-        {
-          "name": "MARTE",
-          "url": "https://open.spotify.com/artist/18ZiM1zKj24fJxeFM4UDlg"
-        }
-      ],
-      "duration_ms": 254583,
-      "name": "Carmes\u00ed",
-      "url": "https://open.spotify.com/track/1LdKISORlAZuiuoMxW91FL"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Modernos",
         "url": "https://open.spotify.com/album/3fWV46dBC3QBaVNa241fO0"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 253500,
       "name": "Modernos",
       "url": "https://open.spotify.com/track/0fXdGk5hDi1uvtFFq3QjFp"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Carmes\u00ed",
+        "url": "https://open.spotify.com/album/79Lk7RVCEpU0PJXzp5A0Iz"
+      },
+      "artists": [
+        {
+          "name": "MARTE",
+          "url": "https://open.spotify.com/artist/18ZiM1zKj24fJxeFM4UDlg"
+        }
+      ],
+      "duration_ms": 254583,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/1LdKISORlAZuiuoMxW91FL"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "El Estado de las Cosas Como Son",
-        "url": "https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE"
-      },
-      "artists": [
-        {
-          "name": "Se\u00f1orita Novio",
-          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
-        },
-        {
-          "name": "Desaria",
-          "url": "https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8"
-        }
-      ],
-      "duration_ms": 182312,
-      "name": "El Estado de las Cosas Como Son",
-      "url": "https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "No Necesito",
         "url": "https://open.spotify.com/album/2pPKMucF7pMaqa8N1teTrD"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 194324,
       "name": "No Necesito",
       "url": "https://open.spotify.com/track/6eLr3TwOOa3VYkfJmjKLGl"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "El Estado de las Cosas Como Son",
+        "url": "https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1orita Novio",
+          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
+        },
+        {
+          "name": "Desaria",
+          "url": "https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8"
+        }
+      ],
+      "duration_ms": 182312,
+      "name": "El Estado de las Cosas Como Son",
+      "url": "https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Isla Queer",
-        "url": "https://open.spotify.com/album/7iolsNkag4a3VAbmZTRSh8"
-      },
-      "artists": [
-        {
-          "name": "Se\u00f1orita Novio",
-          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
-        }
-      ],
-      "duration_ms": 238675,
-      "name": "C\u00f3mo puedes vivir contigo mismo?",
-      "url": "https://open.spotify.com/track/4J1flvoVx0WRyPmy7d7y6W"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "fribRitni",
         "url": "https://open.spotify.com/album/6luUb5rdY8eNPkK6XEYXTN"
       },
@@ -1819,6 +1803,26 @@
       "duration_ms": 196556,
       "name": "fribRitni",
       "url": "https://open.spotify.com/track/1A6xpBr2L2MTtj0SKrtJhW"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Desconfiguraci\u00f3n, Vol. 3",
+        "url": "https://open.spotify.com/album/307avuBaLJKPWBNRRROE0k"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        },
+        {
+          "name": "Brigado Crew",
+          "url": "https://open.spotify.com/artist/4Oh4pMKSHRFuE8FbZdeh4j"
+        }
+      ],
+      "duration_ms": 432000,
+      "name": "Infieles - Remix",
+      "url": "https://open.spotify.com/track/15N4zZBT2Fv3Z1zuGrdnFO"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1847,22 +1851,18 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Desconfiguraci\u00f3n, Vol. 3",
-        "url": "https://open.spotify.com/album/307avuBaLJKPWBNRRROE0k"
+        "name": "Affaire",
+        "url": "https://open.spotify.com/album/5kJLEhtHf7rL7Di1KGwYGz"
       },
       "artists": [
         {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
-        },
-        {
-          "name": "Brigado Crew",
-          "url": "https://open.spotify.com/artist/4Oh4pMKSHRFuE8FbZdeh4j"
+          "name": "Mailen Pankonin",
+          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
         }
       ],
-      "duration_ms": 432000,
-      "name": "Infieles - Remix",
-      "url": "https://open.spotify.com/track/15N4zZBT2Fv3Z1zuGrdnFO"
+      "duration_ms": 202625,
+      "name": "Hoy me di cuenta",
+      "url": "https://open.spotify.com/track/2sfineBUQzNV5ocjBVv3Es"
     }
   ],
   "unique_name": "NE\u00d3N",

@@ -1,6 +1,6 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: Mica Sotera.",
-  "num_followers": 142668,
+  "num_followers": 142678,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "M\u00e1s Que Amigas",
-        "url": "https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 161571,
-      "name": "M\u00e1s Que Amigas",
-      "url": "https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
         "name": "Me mudo de casa",
         "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 244636,
       "name": "Me mudo de casa",
       "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
+        "name": "M\u00e1s Que Amigas",
+        "url": "https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 161571,
+      "name": "M\u00e1s Que Amigas",
+      "url": "https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
+        "name": "No s\u00e9 qu\u00e9 tienes",
+        "url": "https://open.spotify.com/album/11yf5SY78sbU0KlhflFv50"
+      },
+      "artists": [
+        {
+          "name": "Ire",
+          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
+        }
+      ],
+      "duration_ms": 174975,
+      "name": "No s\u00e9 qu\u00e9 tienes",
+      "url": "https://open.spotify.com/track/1s8QRwM3pW5ekIUKwlHsxo"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
         "name": "no llamaste (Remix)",
         "url": "https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 246233,
       "name": "no llamaste - Remix",
       "url": "https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
-        "name": "No s\u00e9 qu\u00e9 tienes",
-        "url": "https://open.spotify.com/album/11yf5SY78sbU0KlhflFv50"
-      },
-      "artists": [
-        {
-          "name": "Ire",
-          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
-        }
-      ],
-      "duration_ms": 174975,
-      "name": "No s\u00e9 qu\u00e9 tienes",
-      "url": "https://open.spotify.com/track/1s8QRwM3pW5ekIUKwlHsxo"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "Cursi",
-        "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
-      },
-      "artists": [
-        {
-          "name": "Yamila Ruiz",
-          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
-        }
-      ],
-      "duration_ms": 193517,
-      "name": "Cursi",
-      "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
         "name": "sin dormir",
         "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 180750,
       "name": "sin dormir",
       "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
+        "name": "Cursi",
+        "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
+      },
+      "artists": [
+        {
+          "name": "Yamila Ruiz",
+          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
+        }
+      ],
+      "duration_ms": 193517,
+      "name": "Cursi",
+      "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "tir\u00e9",
-        "url": "https://open.spotify.com/album/43HRzAOVSUL0HnpXBBdhyx"
-      },
-      "artists": [
-        {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
-        }
-      ],
-      "duration_ms": 150037,
-      "name": "tir\u00e9",
-      "url": "https://open.spotify.com/track/61d5KCdm4c7Y7MMNbH0jnl"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
         "name": "La Loba",
         "url": "https://open.spotify.com/album/4WVN96JCMtso3Ov1yeOhpR"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "This is un volc\u00e1n",
-        "url": "https://open.spotify.com/album/0XXAchuaAzOTRIDA4usuif"
+        "name": "tir\u00e9",
+        "url": "https://open.spotify.com/album/43HRzAOVSUL0HnpXBBdhyx"
       },
       "artists": [
         {
-          "name": "Russian Red",
-          "url": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
         }
       ],
-      "duration_ms": 206808,
-      "name": "This is un volc\u00e1n",
-      "url": "https://open.spotify.com/track/2Ey1hs6xJOar2ki7G7dPbO"
+      "duration_ms": 150037,
+      "name": "tir\u00e9",
+      "url": "https://open.spotify.com/track/61d5KCdm4c7Y7MMNbH0jnl"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -987,6 +971,22 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
+        "name": "This is un volc\u00e1n",
+        "url": "https://open.spotify.com/album/0XXAchuaAzOTRIDA4usuif"
+      },
+      "artists": [
+        {
+          "name": "Russian Red",
+          "url": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "This is un volc\u00e1n",
+      "url": "https://open.spotify.com/track/2Ey1hs6xJOar2ki7G7dPbO"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
         "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
         "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 326961,
       "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
       "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
-        "name": "Muy tarde",
-        "url": "https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X"
-      },
-      "artists": [
-        {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
-        }
-      ],
-      "duration_ms": 195157,
-      "name": "Muy tarde",
-      "url": "https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -1079,22 +1063,6 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "PARAISO",
-        "url": "https://open.spotify.com/album/4ICOWYS8pohhyp1T725LIr"
-      },
-      "artists": [
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        }
-      ],
-      "duration_ms": 136864,
-      "name": "PARAISO",
-      "url": "https://open.spotify.com/track/2W5fiXSkXIvmbvHsNjqJTD"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
         "name": "Male",
         "url": "https://open.spotify.com/album/1JHlDmbAr9GM2BoZh9yLCA"
       },
@@ -1111,6 +1079,38 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
+        "name": "Muy tarde",
+        "url": "https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X"
+      },
+      "artists": [
+        {
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+        }
+      ],
+      "duration_ms": 195157,
+      "name": "Muy tarde",
+      "url": "https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
+        "name": "PARAISO",
+        "url": "https://open.spotify.com/album/4ICOWYS8pohhyp1T725LIr"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 136864,
+      "name": "PARAISO",
+      "url": "https://open.spotify.com/track/2W5fiXSkXIvmbvHsNjqJTD"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
         "name": "Suspiros",
         "url": "https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg"
       },
@@ -1123,26 +1123,6 @@
       "duration_ms": 155744,
       "name": "Suspiros",
       "url": "https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
-        "name": "Ba\u00f1era",
-        "url": "https://open.spotify.com/album/7tK5mH40gwjJqbFbR6tqFX"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
-        },
-        {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
-        }
-      ],
-      "duration_ms": 152381,
-      "name": "Ba\u00f1era",
-      "url": "https://open.spotify.com/track/2QRFcKwr8CZTWScbAGNm2q"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -1179,6 +1159,26 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
+        "name": "Ba\u00f1era",
+        "url": "https://open.spotify.com/album/7tK5mH40gwjJqbFbR6tqFX"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+        },
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+        }
+      ],
+      "duration_ms": 152381,
+      "name": "Ba\u00f1era",
+      "url": "https://open.spotify.com/track/2QRFcKwr8CZTWScbAGNm2q"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
         "name": "Como Bailan los Dem\u00e1s",
         "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
       },
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
+        "name": "San Juan",
+        "url": "https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 225587,
+      "name": "San Juan",
+      "url": "https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
         "name": "Running Up That Hill - Spotify Singles",
         "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
       },
@@ -1227,18 +1243,18 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "San Juan",
-        "url": "https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl"
+        "name": "Mi Coraz\u00f3n y Yo",
+        "url": "https://open.spotify.com/album/5oHGX0k38tSv22GZRqV4w5"
       },
       "artists": [
         {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+          "name": "Maria Campos",
+          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
         }
       ],
-      "duration_ms": 225587,
-      "name": "San Juan",
-      "url": "https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd"
+      "duration_ms": 178665,
+      "name": "Mi Coraz\u00f3n y Yo",
+      "url": "https://open.spotify.com/track/1RoqUzkSySLPVZfGiTipMV"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -1275,22 +1291,6 @@
       "duration_ms": 260000,
       "name": "La Torpeza",
       "url": "https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
-        "name": "Mi Coraz\u00f3n y Yo",
-        "url": "https://open.spotify.com/album/5oHGX0k38tSv22GZRqV4w5"
-      },
-      "artists": [
-        {
-          "name": "Maria Campos",
-          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
-        }
-      ],
-      "duration_ms": 178665,
-      "name": "Mi Coraz\u00f3n y Yo",
-      "url": "https://open.spotify.com/track/1RoqUzkSySLPVZfGiTipMV"
     },
     {
       "added_at": "2024-09-12 21:12:12",

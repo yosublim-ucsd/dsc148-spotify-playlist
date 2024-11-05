@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: Devara
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,734 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,478 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 8 | [Oh My Baby \(From "Guntur Kaaram"\)\(Telugu\)](https://open.spotify.com/track/0yR49HoYJsJ27ey9rrtKql) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Oh My Baby \(From "Guntur Kaaram"\)\(Telugu\)](https://open.spotify.com/album/3dzlHbXUELpZY6I6pCYnar) | 2:36 |
 | 9 | [Pranam Kanna \(From "Love Reddy"\)](https://open.spotify.com/track/0Uclctufownqgjwo1IRLFc) | [Prince Henry](https://open.spotify.com/artist/3vJDvKa5cfjEH2vFEhj4EY), [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Pranam Kanna \(From "Love Reddy"\)](https://open.spotify.com/album/3nH8d80gGkk4zzuSJuH7jb) | 4:25 |
 | 10 | [Apudo Ipudo](https://open.spotify.com/track/4KDq9bn0wdEbIFQDi1CGgj) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P) | [Bommarillu](https://open.spotify.com/album/2394D0vwxXW80JtLlYSuWj) | 4:03 |
-| 11 | [Padaharella Vayasu](https://open.spotify.com/track/7wltO5dmURDawoJonX4msC) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Lankeswarudu](https://open.spotify.com/album/04HjCi0b4iquPCXhNAb117) | 5:56 |
+| 11 | [Kakinada Kaja](https://open.spotify.com/track/3u2YOf3NE8kV8IZgieH8IS) | [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Kakinada Kaja](https://open.spotify.com/album/1ArG0dGBVn5cO475ftFkzz) | 3:16 |
 | 12 | [Bhairava Anthem \(From "Kalki 2898 Ad"\) \(Telugu\)](https://open.spotify.com/track/5kNydYWkUyXh4zVoy8QDmC) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Bhairava Anthem \(From "Kalki 2898 Ad"\) \(Telugu\)](https://open.spotify.com/album/1NhxK8JrKi6H4jjTEZgheV) | 2:43 |
 | 13 | [Aa Rojulu Malli Raavu \(From "Committee Kurrollu"\)](https://open.spotify.com/track/4WLb2gV1NHlCC6KMjsWVp6) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Aa Rojulu Malli Raavu \(From "Committee Kurrollu"\)](https://open.spotify.com/album/5GYpy0N0p9KjSy4VRenZeO) | 4:13 |
 | 14 | [Reppal Dappul \(From "Mr\. Bachchan"\)](https://open.spotify.com/track/2WtOJI2Pwk88RAZPeTgMp0) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Reppal Dappul \(From "Mr\. Bachchan"\)](https://open.spotify.com/album/40jsLT8ISl1SKoLbb0b6Hm) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Neeve](https://open.spotify.com/track/4QMZ6gwFTLk9qOhaQsGIxf) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Darling \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13J2XQOZo0I8ZAufTXFvyd) | 4:41 |
 | 50 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 |
 
-Snapshot ID: `ZxdMRQAAAAB4jh3y8y21kmC3faZ8SEb0`
+Snapshot ID: `ZyiizgAAAACahUV183PwAqK0J5AQmWi1`

@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Simone Mendes, Henrique & Juliano, Turma do Pagode e muito mais!
 
-12,456 songs - 26 day 9 hr 22 min
+12,457 songs - 26 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10421,6 +10421,7 @@
 | [Step On Flowers](https://open.spotify.com/track/7156NTCsRSyw7A2si4sm5e) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 3: The Burning](https://open.spotify.com/album/4mqEv4XT01WQm45HTqgOEK) | 3:33 | 2022-07-15 | 2022-07-23 |
 | [Stephanie](https://open.spotify.com/track/5zHgKTl9uTZqUfdbszAU3W) | [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Vilãodubeat](https://open.spotify.com/artist/3Q5Ocm4scE3vMhG877jVew) | [Stephanie](https://open.spotify.com/album/1iEsoM4frhvSXBSz6XlZUR) | 3:08 | 2023-05-26 | 2023-06-03 |
 | [Sticky \(feat\. Childish Gambino & KIRBY\)](https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs) | [Ni'jah](https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Swarm](https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX) | 2:51 | 2023-03-17 | 2023-03-25 |
+| [Sticky \(feat\. GloRilla, Sexyy Red & Lil Wayne\)](https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:15 | 2024-11-04 |  |
 | [Still Alive \- From the Original Motion Picture Scream VI](https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Still Alive \(From the Original Motion Picture Scream VI\)](https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q) | 3:05 | 2023-03-03 | 2023-03-11 |
 | [Still Believe In Love](https://open.spotify.com/track/4GrOIIi1EJqOmISTAlfFve) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8) | [Still Believe In Love](https://open.spotify.com/album/0N3WiYZJtpKqmIQzIeEI7E) | 4:06 | 2023-10-27 | 2023-11-04 |
 | [Still Yours \(From The Doc\)](https://open.spotify.com/track/7gJr3ockQ0fezUXuUXvaSq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Still Yours \(From The Doc\)](https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz) | 2:38 | 2024-03-01 | 2024-03-09 |

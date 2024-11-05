@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 54990,
+  "num_followers": 54995,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAACFC7+WtVyBw+GaHts/IAbT",
+  "snapshot_id": "Zya9AAAAAACeSL938blAN06OFnTpi5yz",
   "tracks": [
     {
       "added_at": null,
@@ -907,22 +907,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "could've been you",
-        "url": "https://open.spotify.com/album/2zz2EbtweE5Msv4Af94UQA"
+        "name": "Astronomical",
+        "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
       },
       "artists": [
         {
-          "name": "Sam Nelson Harris",
-          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
         },
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 187826,
-      "name": "could've been you",
-      "url": "https://open.spotify.com/track/5yPf9XMC1O1VG7IQ6O6jhf"
+      "duration_ms": 153957,
+      "name": "Razor's Edge (feat. X Ambassadors)",
+      "url": "https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l"
     },
     {
       "added_at": null,
@@ -947,22 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Astronomical",
-        "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
+        "name": "could've been you",
+        "url": "https://open.spotify.com/album/2zz2EbtweE5Msv4Af94UQA"
       },
       "artists": [
         {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+          "name": "Sam Nelson Harris",
+          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
         },
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 153957,
-      "name": "Razor's Edge (feat. X Ambassadors)",
-      "url": "https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l"
+      "duration_ms": 187826,
+      "name": "could've been you",
+      "url": "https://open.spotify.com/track/5yPf9XMC1O1VG7IQ6O6jhf"
     },
     {
       "added_at": null,

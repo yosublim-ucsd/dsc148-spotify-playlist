@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7\u3092\u7279\u96c6\u3002cover: THE JET BOY BANGERZ from EXILE TRIBE",
-  "num_followers": 49207,
+  "num_followers": 49203,
   "original_name": "Boys Group Japan",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-10-29 15:00:00",
       "album": {
+        "name": "Mainstream",
+        "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "Mainstream",
+      "url": "https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA"
+    },
+    {
+      "added_at": "2024-10-29 15:00:00",
+      "album": {
         "name": "Glitch",
         "url": "https://open.spotify.com/album/45VIk0wV21bdGXqc2PpAVV"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 179840,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/4fo8TtOwSvjs2obPzIDxt4"
-    },
-    {
-      "added_at": "2024-10-29 15:00:00",
-      "album": {
-        "name": "Mainstream",
-        "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
-      },
-      "artists": [
-        {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "Mainstream",
-      "url": "https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA"
     },
     {
       "added_at": "2024-10-29 15:00:00",

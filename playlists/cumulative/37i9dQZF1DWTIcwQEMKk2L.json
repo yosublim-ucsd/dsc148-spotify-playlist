@@ -439,6 +439,42 @@
     },
     {
       "album": {
+        "name": "Cheek to Cheek",
+        "url": "https://open.spotify.com/album/7ex7nfyDTp2UDpYxKWKsPh"
+      },
+      "artists": [
+        {
+          "name": "Penford Giles",
+          "url": "https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182398,
+      "name": "Cheek to Cheek",
+      "url": "https://open.spotify.com/track/4Fsl78MLuUrqJMnFXBctW8"
+    },
+    {
+      "album": {
+        "name": "Chemin de la lune",
+        "url": "https://open.spotify.com/album/12bQXgWbTWoYbUsLr9rxIP"
+      },
+      "artists": [
+        {
+          "name": "Neil Chapman Green",
+          "url": "https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129205,
+      "name": "Chemin de la lune",
+      "url": "https://open.spotify.com/track/20uoDnTsBOXkPJd1TmjpqZ"
+    },
+    {
+      "album": {
         "name": "Defying Gravity",
         "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
       },
@@ -2208,7 +2244,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 204000,
       "name": "Sleeping like the Birchwood",
       "url": "https://open.spotify.com/track/2FCFesDX0QOFkKIzpoqWD6"
@@ -2316,7 +2352,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 284000,
       "name": "Storytelling",
       "url": "https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW"

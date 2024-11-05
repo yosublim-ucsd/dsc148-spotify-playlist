@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
-  "num_followers": 783960,
+  "num_followers": 784018,
   "original_name": "Mates y M\u00fasica",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-09-26 19:05:29",
       "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Te Para 3 - MTV Unplugged",
-      "url": "https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m"
-    },
-    {
-      "added_at": "2024-09-26 19:05:29",
-      "album": {
         "name": "Con la Misma Moneda",
         "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 202440,
       "name": "D\u00edganle",
       "url": "https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz"
+    },
+    {
+      "added_at": "2024-09-26 19:05:29",
+      "album": {
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Te Para 3 - MTV Unplugged",
+      "url": "https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m"
     },
     {
       "added_at": "2024-09-26 19:05:29",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-09-26 19:05:29",
       "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
-      },
-      "artists": [
-        {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
-    },
-    {
-      "added_at": "2024-09-26 19:05:29",
-      "album": {
         "name": "La Era De La Boludez",
         "url": "https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 313733,
       "name": "\u00bfQu\u00e9 Ves?",
       "url": "https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC"
+    },
+    {
+      "added_at": "2024-09-26 19:05:29",
+      "album": {
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+      },
+      "artists": [
+        {
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
     },
     {
       "added_at": "2024-09-26 19:05:29",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-09-26 19:05:29",
       "album": {
-        "name": "Al Parecer Todo Ha Sido una Trampa",
-        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 233839,
-      "name": "Pensamientos",
-      "url": "https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs"
-    },
-    {
-      "added_at": "2024-09-26 19:05:29",
-      "album": {
         "name": "Sistema Nervioso Central",
         "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 242932,
       "name": "Un Dia Perfecto",
       "url": "https://open.spotify.com/track/5w3GTe4W2fHBC3tLnqCr1B"
+    },
+    {
+      "added_at": "2024-09-26 19:05:29",
+      "album": {
+        "name": "Al Parecer Todo Ha Sido una Trampa",
+        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 233839,
+      "name": "Pensamientos",
+      "url": "https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs"
     },
     {
       "added_at": "2024-09-26 19:05:29",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-09-26 19:05:29",
       "album": {
-        "name": "Barrilete",
-        "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 279920,
-      "name": "Bastar\u00e1",
-      "url": "https://open.spotify.com/track/5fRgvfgF4TM947Gi6qOlcF"
-    },
-    {
-      "added_at": "2024-09-26 19:05:29",
-      "album": {
         "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 312442,
       "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
       "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
+    },
+    {
+      "added_at": "2024-09-26 19:05:29",
+      "album": {
+        "name": "Barrilete",
+        "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 279920,
+      "name": "Bastar\u00e1",
+      "url": "https://open.spotify.com/track/5fRgvfgF4TM947Gi6qOlcF"
     },
     {
       "added_at": "2024-09-26 19:05:29",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-09-26 19:05:29",
       "album": {
-        "name": "Toro Rojo",
-        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 250173,
-      "name": "Reyes de la Noche",
-      "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
-    },
-    {
-      "added_at": "2024-09-26 19:05:29",
-      "album": {
         "name": "Con la Misma Moneda",
         "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 266760,
       "name": "Con la Misma Moneda",
       "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
+    },
+    {
+      "added_at": "2024-09-26 19:05:29",
+      "album": {
+        "name": "Toro Rojo",
+        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 250173,
+      "name": "Reyes de la Noche",
+      "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
     },
     {
       "added_at": "2024-09-26 19:05:29",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-09-26 19:05:29",
       "album": {
+        "name": "La Voz Del Viento",
+        "url": "https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a"
+      },
+      "artists": [
+        {
+          "name": "Los Huayra",
+          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "La Noche Sin T\u00ed",
+      "url": "https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5"
+    },
+    {
+      "added_at": "2024-09-26 19:05:29",
+      "album": {
         "name": "Jessico",
         "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 237426,
       "name": "Deseos de Cosas Imposibles (with Abel Pintos) - Directo Primera Fila",
       "url": "https://open.spotify.com/track/42rtLutZjrQGmzxZhN5YFA"
-    },
-    {
-      "added_at": "2024-09-26 19:05:29",
-      "album": {
-        "name": "La Voz Del Viento",
-        "url": "https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a"
-      },
-      "artists": [
-        {
-          "name": "Los Huayra",
-          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "La Noche Sin T\u00ed",
-      "url": "https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5"
     },
     {
       "added_at": "2024-09-26 19:05:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,947 likes - 75 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,944 likes - 75 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 31 | [Bodega](https://open.spotify.com/track/0QROEXzx4Rkk5vupV1cCg0) | [Guidolain beats](https://open.spotify.com/artist/5ORspEJvAWz3OgMR8gOqcP), [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [Bodega](https://open.spotify.com/album/45vk5hApZ4h6nATFQvfoSI) | 1:45 |
 | 32 | [Waffle Date](https://open.spotify.com/track/2iM6bo1Mb6rdw7N3FNMcWE) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Waffle Date](https://open.spotify.com/album/4wMHT93kypp3DEwsNHQ7Yr) | 2:31 |
 | 33 | [chemistry](https://open.spotify.com/track/1MjmayyHSczxHONWSE2WMs) | [BTZ cult](https://open.spotify.com/artist/5tiJzztsDP2iMsotmtModp) | [chemistry](https://open.spotify.com/album/1zOHpqsSHargJchc6TJORp) | 2:00 |
-| 34 | [End Of Day Bop](https://open.spotify.com/track/2vVKIEmcqzNt3ZqBPP5EGV) | [Noah Park](https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0) | [End Of Day Bop](https://open.spotify.com/album/4qP5YOgZ9UMfjhoow8a9s2) | 2:40 |
-| 35 | [4AM](https://open.spotify.com/track/7H2dYM4aXTgYUv7xUMk2aN) | [Zesik](https://open.spotify.com/artist/1xNBQYNORzAxrGs8bQEX4I) | [4AM](https://open.spotify.com/album/2KS9ys7fkmoJBfnt3BNhTa) | 1:51 |
+| 34 | [4AM](https://open.spotify.com/track/7H2dYM4aXTgYUv7xUMk2aN) | [Zesik](https://open.spotify.com/artist/1xNBQYNORzAxrGs8bQEX4I) | [4AM](https://open.spotify.com/album/2KS9ys7fkmoJBfnt3BNhTa) | 1:51 |
+| 35 | [End Of Day Bop](https://open.spotify.com/track/2vVKIEmcqzNt3ZqBPP5EGV) | [Noah Park](https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0) | [End Of Day Bop](https://open.spotify.com/album/4qP5YOgZ9UMfjhoow8a9s2) | 2:40 |
 | 36 | [スモーク](https://open.spotify.com/track/2g6WTGWNYGnRCBaWEzFE00) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [スモーク](https://open.spotify.com/album/5W8Y8PmcfrlkuYHdtV3OtP) | 2:31 |
 | 37 | [Green Cats Cave](https://open.spotify.com/track/1tHjVZCBWEERhd2IIa1m5J) | [Aöm](https://open.spotify.com/artist/3lQeibogltk6xDaXJKCMjf) | [Green Cats Cave](https://open.spotify.com/album/0LIEVUcK68HEtUvfbY4E2o) | 2:42 |
 | 38 | [Hope](https://open.spotify.com/track/798xA6Nh36kCeElGeuTHtq) | [Josa](https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp) | [Hope](https://open.spotify.com/album/2N5gf9IqhA8Wq7LpgsbShl) | 2:21 |
 | 39 | [Stay and Wander](https://open.spotify.com/track/0Hm8vke3rwzGKm5sBpY762) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Field Notes](https://open.spotify.com/album/2JPUrDwBhVpbskpK0pPQX1) | 1:52 |
 | 40 | [Shanghai Nights](https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Around the World](https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy) | 4:24 |
-| 41 | [Curtis](https://open.spotify.com/track/1UAjBK0H7OFZy1dxxnW95B) | [Hike Willis](https://open.spotify.com/artist/1PWLabHIW3qul5FYx9TG9I) | [Curtis](https://open.spotify.com/album/0VbZxSS8ieynrZiXMPLUme) | 1:07 |
-| 42 | [some guitar thoughts](https://open.spotify.com/track/0EREZUfhKF4lZuLHa1IaaL) | [Home Cook](https://open.spotify.com/artist/5ywJbIqM6CaNHrhfRLKe8O), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [some guitar thoughts](https://open.spotify.com/album/7tBcuAvUiPEHtoCDfzuM9a) | 2:14 |
+| 41 | [some guitar thoughts](https://open.spotify.com/track/0EREZUfhKF4lZuLHa1IaaL) | [Home Cook](https://open.spotify.com/artist/5ywJbIqM6CaNHrhfRLKe8O), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [some guitar thoughts](https://open.spotify.com/album/7tBcuAvUiPEHtoCDfzuM9a) | 2:14 |
+| 42 | [Curtis](https://open.spotify.com/track/1UAjBK0H7OFZy1dxxnW95B) | [Hike Willis](https://open.spotify.com/artist/1PWLabHIW3qul5FYx9TG9I) | [Curtis](https://open.spotify.com/album/0VbZxSS8ieynrZiXMPLUme) | 1:07 |
 | 43 | [Senescence](https://open.spotify.com/track/45GPbu3j0omH3ApKauF26L) | [Czapter](https://open.spotify.com/artist/26uxSNbgGIV8gFNvPNhZge) | [The Secret Life Of Octopodes](https://open.spotify.com/album/14PqfZoMyhJBYLTLRGlfZ5) | 2:36 |
 | 44 | [Cloudy](https://open.spotify.com/track/6QvqzWJY96PZXEOdDpGdP7) | [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Cloudy](https://open.spotify.com/album/4fabio6xe0XUscomxRu8rl) | 2:32 |
 | 45 | [Clockers](https://open.spotify.com/track/0Sd3s9p1TQUYuitVOpXlh4) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Colorwave Seasons](https://open.spotify.com/album/1pGm9P5nsLlDBe4E6RvDtD) | 1:57 |

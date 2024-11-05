@@ -107,6 +107,24 @@
     },
     {
       "album": {
+        "name": "4 by 4",
+        "url": "https://open.spotify.com/album/3bINOuo8ng7o7rzlv1yCex"
+      },
+      "artists": [
+        {
+          "name": "Love X",
+          "url": "https://open.spotify.com/artist/1GrU0L7dVIxd3X7wQxhTUb"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209500,
+      "name": "4 by 4",
+      "url": "https://open.spotify.com/track/4tMcxhn8EBjDTzHJjUomhG"
+    },
+    {
+      "album": {
         "name": "45",
         "url": "https://open.spotify.com/album/1GA6BkfiK0RKKdjgNFPPIt"
       },
@@ -1165,6 +1183,28 @@
     },
     {
       "album": {
+        "name": "Cult Figure",
+        "url": "https://open.spotify.com/album/3zMpDOg0q593e5fsm3r1u4"
+      },
+      "artists": [
+        {
+          "name": "Akbar Brar",
+          "url": "https://open.spotify.com/artist/4VQq85qGslnhmrR1sIVjd1"
+        },
+        {
+          "name": "IRIS Music",
+          "url": "https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167302,
+      "name": "Cult Figure",
+      "url": "https://open.spotify.com/track/7dfQ2RX5Pri7lBKMNzMhrG"
+    },
+    {
+      "album": {
         "name": "DSP",
         "url": "https://open.spotify.com/album/1K7j7CMe82qIGH1OfxuGel"
       },
@@ -1566,7 +1606,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 125223,
       "name": "Ethics",
       "url": "https://open.spotify.com/track/12E4jsyDeC5PcEumWw1JIc"
@@ -2052,6 +2092,24 @@
       "duration_ms": 130343,
       "name": "Hail",
       "url": "https://open.spotify.com/track/1UG1pIgd5f1NU0byyGfm6w"
+    },
+    {
+      "album": {
+        "name": "Hassde Reho",
+        "url": "https://open.spotify.com/album/4RuK5blWv0Ujrr0beqxVA9"
+      },
+      "artists": [
+        {
+          "name": "Guri Ambarsaria",
+          "url": "https://open.spotify.com/artist/2ZOQVvugf47U3aJV4OpXE5"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159586,
+      "name": "Hassde Reho",
+      "url": "https://open.spotify.com/track/2Z9SC02MBAAX1SfkcRsvWN"
     },
     {
       "album": {
@@ -3182,7 +3240,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 146666,
       "name": "My Aura",
       "url": "https://open.spotify.com/track/5Mx6BZltl9Xk7QZqtd4BKX"
@@ -3448,7 +3506,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 164210,
       "name": "No Parking",
       "url": "https://open.spotify.com/track/3rm07jfce5fWa1iaV4Z5qz"
@@ -3716,6 +3774,24 @@
       "duration_ms": 184303,
       "name": "Paagal",
       "url": "https://open.spotify.com/track/5zzjRxWVspz0DdpKcbDtWK"
+    },
+    {
+      "album": {
+        "name": "Pariyan Di Rani",
+        "url": "https://open.spotify.com/album/35qtP5Lz0fGjFumPhGVg26"
+      },
+      "artists": [
+        {
+          "name": "Preet Sandhu",
+          "url": "https://open.spotify.com/artist/65vX07QbbDkq0m0WSJvSmq"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145025,
+      "name": "Pariyan Di Rani",
+      "url": "https://open.spotify.com/track/0tYEJq5faTClQ1fyFma5zg"
     },
     {
       "album": {
@@ -4978,7 +5054,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 155586,
       "name": "Yes/No",
       "url": "https://open.spotify.com/track/3zTsQC9xZzTSrNXRW8ij1b"

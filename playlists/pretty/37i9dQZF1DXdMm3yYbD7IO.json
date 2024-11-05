@@ -1,6 +1,6 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 393076,
+  "num_followers": 393355,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "Unleash The Dragon",
-        "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
-      },
-      "artists": [
-        {
-          "name": "Sisqo",
-          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Thong Song",
-      "url": "https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 252106,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
+        "name": "Unleash The Dragon",
+        "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
+      },
+      "artists": [
+        {
+          "name": "Sisqo",
+          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Thong Song",
+      "url": "https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "Mr. Vain Recall",
-        "url": "https://open.spotify.com/album/2MbfEf37mAAu6LM5emtIIO"
-      },
-      "artists": [
-        {
-          "name": "Culture Beat",
-          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
-        }
-      ],
-      "duration_ms": 213413,
-      "name": "Mr. Vain Recall - Radio Edit",
-      "url": "https://open.spotify.com/track/2JjDgorBAd8Er6IS5Weyok"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "My Boo (Hitman's Club Mix)",
         "url": "https://open.spotify.com/album/5EvpbZ6QczJlnMX3kbxKYi"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 346840,
       "name": "My Boo - Hitman's Club Mix",
       "url": "https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
+        "name": "Mr. Vain Recall",
+        "url": "https://open.spotify.com/album/2MbfEf37mAAu6LM5emtIIO"
+      },
+      "artists": [
+        {
+          "name": "Culture Beat",
+          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
+        }
+      ],
+      "duration_ms": 213413,
+      "name": "Mr. Vain Recall - Radio Edit",
+      "url": "https://open.spotify.com/track/2JjDgorBAd8Er6IS5Weyok"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "Ladies And Gentlemen... The Best Of George Michael",
-        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 388400,
-      "name": "Freedom! '90",
-      "url": "https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/4043DNu4jVlMNetxtdh68B"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 198573,
       "name": "Crush (Dance Mix)",
       "url": "https://open.spotify.com/track/39D7jfatdB8iX42ZCJmILT"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 388400,
+      "name": "Freedom! '90",
+      "url": "https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "Horny (Radio Edit's)",
-        "url": "https://open.spotify.com/album/3WQ59lVT7UR1WvU0Of3W4D"
-      },
-      "artists": [
-        {
-          "name": "Mousse T.",
-          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
-        },
-        {
-          "name": "Hot 'N' Juicy",
-          "url": "https://open.spotify.com/artist/7c40GtC37kwpGDm8kbYcHr"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Horny - '98 Radio Edit",
-      "url": "https://open.spotify.com/track/79qPDRmHmJ5xcU7oyS8CQ1"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "Uh La La La (Original Remixes)",
         "url": "https://open.spotify.com/album/7lkd0IRqHwAc8V2xmiHQVn"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 221333,
       "name": "Uh La La La - Almighty's Radio Edit",
       "url": "https://open.spotify.com/track/3JNUWpyJj2rgw25W11J08V"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
+        "name": "Horny (Radio Edit's)",
+        "url": "https://open.spotify.com/album/3WQ59lVT7UR1WvU0Of3W4D"
+      },
+      "artists": [
+        {
+          "name": "Mousse T.",
+          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
+        },
+        {
+          "name": "Hot 'N' Juicy",
+          "url": "https://open.spotify.com/artist/7c40GtC37kwpGDm8kbYcHr"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Horny - '98 Radio Edit",
+      "url": "https://open.spotify.com/track/79qPDRmHmJ5xcU7oyS8CQ1"
     }
   ],
   "unique_name": "90's Workout",

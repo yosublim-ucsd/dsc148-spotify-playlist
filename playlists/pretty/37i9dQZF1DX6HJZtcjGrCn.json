@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: MARO, NASAYA",
-  "num_followers": 33545,
+  "num_followers": 33550,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Ever Seen",
+        "url": "https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Ever Seen",
+      "url": "https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Mi Tormenta (feat. DannyLux)",
         "url": "https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 202479,
       "name": "Mi Tormenta (feat. DannyLux)",
       "url": "https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Ever Seen",
-        "url": "https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "Ever Seen",
-      "url": "https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/5xJOewC53fRL37VrHco2de"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 136362,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Bestie, Move On",
         "url": "https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 160000,
       "name": "Run Your Mouth",
       "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/5xJOewC53fRL37VrHco2de"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 136362,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa"
     },
     {
       "added_at": "2024-10-24 23:00:00",

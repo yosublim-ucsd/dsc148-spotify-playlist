@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > laufey with olivia and chappell?! this is my world series
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,148,330 likes - 109 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,148,106 likes - 109 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

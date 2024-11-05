@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Naomi Lareine
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,091 likes - 105 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,096 likes - 105 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 56 | [Allei](https://open.spotify.com/track/0jN8S8X29EIMsyUUDJVo0J) | [Tommy Vercetti](https://open.spotify.com/artist/26ZoEX0BLjUNba2ED2JyP3), [Dezmond Dez](https://open.spotify.com/artist/24NMjXIq47JuymBZ5AVlLD), [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul) | [Allei](https://open.spotify.com/album/6qzYs8lM78Le9sk7Jg6G2O) | 3:24 |
 | 57 | [One By One](https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [One By One](https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K) | 2:59 |
 | 58 | [Playing Games](https://open.spotify.com/track/67253yLADMwQMXyzUV4aOj) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Third Place](https://open.spotify.com/album/393Rpf1n6DxTvlmNF3h2b9) | 3:33 |
-| 59 | [Serve amore](https://open.spotify.com/track/5t86bO0cNDDwv6YfZOerVJ) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [IRBIS](https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL) | [Serve amore](https://open.spotify.com/album/1ZW7D2JshhEjpwvxrku5tF) | 3:05 |
+| 59 | [Serve Amore](https://open.spotify.com/track/5t86bO0cNDDwv6YfZOerVJ) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [IRBIS](https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL) | [Serve Amore](https://open.spotify.com/album/1ZW7D2JshhEjpwvxrku5tF) | 3:05 |
 | 60 | [passenger side](https://open.spotify.com/track/2jpXlj0HRdK31Jm0ZjGLKU) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [liminal space](https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h) | 2:47 |
 | 61 | [kaputt](https://open.spotify.com/track/0dqyu1uge0tfnblPH9gFKp) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [bulletholes](https://open.spotify.com/album/3tOztFpIobGXqNv2a8J0DV) | 2:10 |
 | 62 | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0) | 2:56 |

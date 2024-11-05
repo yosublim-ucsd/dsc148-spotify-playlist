@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The shape of noise to come with Superbloom (pictured), Quicksand, OVERSIZE, Gleemer and more.",
+  "description": "The shape of noise to come with Late 90s (pictured), trauma ray, Day Saints, Flycatcher and more.",
   "name": "adrenaline",
   "tracks": [
     {
@@ -802,7 +802,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 171120,
       "name": "bad habit",
       "url": "https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7"
@@ -2433,6 +2433,24 @@
     },
     {
       "album": {
+        "name": "Angel In The Sand",
+        "url": "https://open.spotify.com/album/6W5o0RyfAcFruntLVD3KVC"
+      },
+      "artists": [
+        {
+          "name": "Leaving Time",
+          "url": "https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148810,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/1h0YsYLA7gMlfnR51VDYg3"
+    },
+    {
+      "album": {
         "name": "Chow",
         "url": "https://open.spotify.com/album/1WJBLXYjqnWTlHO5auebXh"
       },
@@ -3800,7 +3818,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 237122,
       "name": "Drop Me Out",
       "url": "https://open.spotify.com/track/64C9Mimhyd333spyj1P8c0"
@@ -3996,7 +4014,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 136840,
       "name": "Esruc",
       "url": "https://open.spotify.com/track/6vH3omqh1aRKVGtpbD4PT0"
@@ -7472,7 +7490,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 119482,
       "name": "Melatonin (10mg)",
       "url": "https://open.spotify.com/track/3i9jPeo5xnb1dvcPFcSteS"
@@ -8078,6 +8096,24 @@
       "duration_ms": 136288,
       "name": "no one is truly cool",
       "url": "https://open.spotify.com/track/3Wuvh6YDTQE1vsOCiHOkxQ"
+    },
+    {
+      "album": {
+        "name": "Spiral In A Straight Line",
+        "url": "https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135897,
+      "name": "Nobody\u2019s",
+      "url": "https://open.spotify.com/track/3WBFG43oD1qU3yJSDjQJ2O"
     },
     {
       "album": {

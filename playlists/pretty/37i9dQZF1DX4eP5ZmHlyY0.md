@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: THE JET BOY BANGERZ from EXILE TRIBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,207 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,203 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 45 | [MAZQUERADE](https://open.spotify.com/track/5NiAImG5YlGEbMcNffJo94) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [MAZQUERADE](https://open.spotify.com/album/1rwSEeDbyudoygEKXojajs) | 3:22 |
 | 46 | [LOUD](https://open.spotify.com/track/312amIo1Pj8FH0vYMy5yOu) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [LOUD](https://open.spotify.com/album/6GXhrItMV3o5txOWLETTBA) | 3:12 |
 | 47 | [君にカエル \(Maybe\)](https://open.spotify.com/track/1z4Ruz3ecnINTOQJpi8qMk) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [君にカエル \(Maybe\)](https://open.spotify.com/album/4Pd1n23po7hNDDpYpco5gr) | 3:10 |
-| 48 | [Glitch](https://open.spotify.com/track/4fo8TtOwSvjs2obPzIDxt4) | [BMSG GAIA](https://open.spotify.com/artist/6IKNKSAoepNHWOukpypcGI), [BMSG ALLSTARS](https://open.spotify.com/artist/39qDfqWfhU23Jbclt2ltYe), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42), [TAIKI](https://open.spotify.com/artist/6PU4CQ9JbpTW3ZPat0vyAP) | [Glitch](https://open.spotify.com/album/45VIk0wV21bdGXqc2PpAVV) | 2:59 |
-| 49 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 |
+| 48 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 |
+| 49 | [Glitch](https://open.spotify.com/track/4fo8TtOwSvjs2obPzIDxt4) | [BMSG GAIA](https://open.spotify.com/artist/6IKNKSAoepNHWOukpypcGI), [BMSG ALLSTARS](https://open.spotify.com/artist/39qDfqWfhU23Jbclt2ltYe), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42), [TAIKI](https://open.spotify.com/artist/6PU4CQ9JbpTW3ZPat0vyAP) | [Glitch](https://open.spotify.com/album/45VIk0wV21bdGXqc2PpAVV) | 2:59 |
 | 50 | [WE ARE](https://open.spotify.com/track/6s9tyJZi9bzB2mlClX0wq7) | [STARTO for you](https://open.spotify.com/artist/2zaYhpTOgIi02oNR6mxbiz) | [WE ARE](https://open.spotify.com/album/0uBmPpcPFPBIRbuny5xELa) | 5:21 |
 
 Snapshot ID: `ZyD4cAAAAADvSoyyoisQlOV3MSIJSaW4`

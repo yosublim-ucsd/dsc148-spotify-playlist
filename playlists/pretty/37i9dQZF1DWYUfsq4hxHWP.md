@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: SirLockeHolmes, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,901 likes - 180 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,954 likes - 180 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

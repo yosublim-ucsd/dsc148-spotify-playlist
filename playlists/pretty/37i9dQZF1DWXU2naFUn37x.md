@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Il top dello street rap italiano 🔥 Cover: Night Skinny
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,069 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 905,129 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MI PIACCIONO LE ARMI](https://open.spotify.com/track/3yFgWoossjlaJ919XDCG4C) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [ESCI DAL TUNNEL](https://open.spotify.com/album/5fPfDmHygWKgDwknMkKoVo) | 2:09 |
 | 2 | [Borse Hermès](https://open.spotify.com/track/1MRDqKrcGYLw883LuVmDjy) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Borse Hermès](https://open.spotify.com/album/4K4WFgRUEfOrPD4ioCBppM) | 2:39 |
 | 3 | [Tessera sanitaria \(feat\. Nerissima Serpe & Papa V\)](https://open.spotify.com/track/5JgTIfS7FfSE9tuebzX8HC) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU) | [Containers](https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc) | 3:24 |
-| 4 | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv) | 2:38 |
-| 5 | [Diablo \(feat\. Glocky\)](https://open.spotify.com/track/2zASmTrt3BKblrAwVfcqfZ) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [Tutti i Nomi del Diavolo](https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ) | 2:24 |
+| 4 | [Diablo \(feat\. Glocky\)](https://open.spotify.com/track/2zASmTrt3BKblrAwVfcqfZ) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [Tutti i Nomi del Diavolo](https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ) | 2:24 |
+| 5 | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv) | 2:38 |
 | 6 | [SPENDERE \(feat\. Simba La Rue\)](https://open.spotify.com/track/1CJNj8Qnpoz6lyil9EgqfE) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [ASTRO](https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG) | 2:04 |
 | 7 | [MARTELLARE \(feat\. Bello Figo\)](https://open.spotify.com/track/3KE84PzTzBKPeb32j7XtMH) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Bello Figo](https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh) | [NO REGULAR MUSIC \(Deluxe\)](https://open.spotify.com/album/7MyXBQdWCOgTzq4eORz0fe) | 2:37 |
 | 8 | [MILANO TESTAROSSA \(feat\. Guè\)](https://open.spotify.com/track/5zVQoMHyELfcHYviXDao3I) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [MILANO TESTAROSSA \(feat\. Guè\)](https://open.spotify.com/album/74vaTiWmSxllb0p5J1UyMB) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [6 AM](https://open.spotify.com/track/42F6iAgPGmDRgPcCIdEghu) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 3:20 |
 | 50 | [CAFFÈ AMARO](https://open.spotify.com/track/5EPfp1edrw1vgxriqxLTlD) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [CAFFÈ AMARO](https://open.spotify.com/album/0Mdda3X8mF2lghQGmEZCvV) | 1:59 |
 
-Snapshot ID: `ZyQMLAAAAAB/8UZx/wepka/z5saSm0kP`
+Snapshot ID: `ZyjUbwAAAADj6OexLwgNaOZ2d5jtfUiH`

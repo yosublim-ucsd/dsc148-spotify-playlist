@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,147 likes - 44 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,152 likes - 44 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 30 | [If U Like Me \- Edit](https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [If U Like Me](https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm) | 2:32 |
 | 31 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 |
 | 32 | [Gem Lingo \(ovr now\)](https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Gem Lingo \(ovr now\)](https://open.spotify.com/album/3r4QpzGNuewu0vLvapRZS7) | 3:50 |
-| 33 | [How Do You Love? \(feat\. Mougleta\)](https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Reverie](https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6) | 3:30 |
-| 34 | [Mercy](https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Mercy](https://open.spotify.com/album/3oM67ehG9IkPgF8JqQVPLl) | 2:30 |
+| 33 | [Mercy](https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Mercy](https://open.spotify.com/album/3oM67ehG9IkPgF8JqQVPLl) | 2:30 |
+| 34 | [How Do You Love? \(feat\. Mougleta\)](https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Reverie](https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6) | 3:30 |
 | 35 | [In The Streets](https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [In The Streets](https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE) | 2:07 |
 | 36 | [shine](https://open.spotify.com/track/002mQ6kXOWDP2i5IZcwDVc) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [shine](https://open.spotify.com/album/1oblVh0UrovPi0BT5Mje3E) | 2:24 |
 | 37 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 40 | [ENERGY](https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [ENERGY](https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8) | 2:20 |
 | 41 | [Bass Up To The Top](https://open.spotify.com/track/0Z5iboHxPmyilWJQFnHZaY) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Bass Up To The Top](https://open.spotify.com/album/0dPApl3iIct0S2T9lEtxSV) | 3:16 |
 | 42 | [Pressure Makes Diamonds](https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Pressure Makes Diamonds](https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh) | 5:44 |
-| 43 | [Rainbow](https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Rainbow](https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1) | 2:56 |
-| 44 | [No Time \(feat\. SadBoi\)](https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [No Time \(feat\. SadBoi\)](https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe) | 2:51 |
+| 43 | [No Time \(feat\. SadBoi\)](https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [No Time \(feat\. SadBoi\)](https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe) | 2:51 |
+| 44 | [Rainbow](https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Rainbow](https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1) | 2:56 |
 
 Snapshot ID: `ZxrfgAAAAACEjXns+ADDhW+74NShhTQl`

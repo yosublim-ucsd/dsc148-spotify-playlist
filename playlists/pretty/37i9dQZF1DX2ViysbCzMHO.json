@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 161373,
+  "num_followers": 161416,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -955,6 +955,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Honestly (Deluxe)",
+        "url": "https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY"
+      },
+      "artists": [
+        {
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        },
+        {
+          "name": "Charlie Worsham",
+          "url": "https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq"
+        }
+      ],
+      "duration_ms": 212932,
+      "name": "The Ocean - Acoustic Live In Studio (feat. Charlie Worsham)",
+      "url": "https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Breakups (Acoustic)",
         "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
       },
@@ -967,22 +987,6 @@
       "duration_ms": 227693,
       "name": "Breakups - Acoustic",
       "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Another (Wedding Version)",
-        "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
-      },
-      "artists": [
-        {
-          "name": "Adam Doleac",
-          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
-        }
-      ],
-      "duration_ms": 171188,
-      "name": "Another - Wedding Version",
-      "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1019,22 +1023,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Honestly (Deluxe)",
-        "url": "https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY"
+        "name": "Another (Wedding Version)",
+        "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
       },
       "artists": [
         {
-          "name": "Jillian Jacqueline",
-          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
-        },
-        {
-          "name": "Charlie Worsham",
-          "url": "https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq"
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
         }
       ],
-      "duration_ms": 212932,
-      "name": "The Ocean - Acoustic Live In Studio (feat. Charlie Worsham)",
-      "url": "https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR"
+      "duration_ms": 171188,
+      "name": "Another - Wedding Version",
+      "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Live from Layman",
+        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
+      },
+      "artists": [
+        {
+          "name": "Sarah Darling",
+          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Waves (Live)",
+      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "TWENTY SOMETHING (DELUXE)",
         "url": "https://open.spotify.com/album/5MoyIbsjnEHO2o6BNKjCpd"
       },
@@ -1103,38 +1119,6 @@
       "duration_ms": 167469,
       "name": "Gone Too Soon - Acoustic",
       "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Live from Layman",
-        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
-      },
-      "artists": [
-        {
-          "name": "Sarah Darling",
-          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Waves (Live)",
-      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Barstool Whiskey Wonderland (Wonderland Sides)",
-        "url": "https://open.spotify.com/album/1VpOY5cZtzPWFnv4W7UBeq"
-      },
-      "artists": [
-        {
-          "name": "Adam Doleac",
-          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
-        }
-      ],
-      "duration_ms": 185815,
-      "name": "Coulda Loved You Longer - Acoustic",
-      "url": "https://open.spotify.com/track/6igwsNMONs9uIqrLUCYWhj"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Barstool Whiskey Wonderland (Wonderland Sides)",
+        "url": "https://open.spotify.com/album/1VpOY5cZtzPWFnv4W7UBeq"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        }
+      ],
+      "duration_ms": 185815,
+      "name": "Coulda Loved You Longer - Acoustic",
+      "url": "https://open.spotify.com/track/6igwsNMONs9uIqrLUCYWhj"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "End of the Rain",
         "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
       },
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Neon Moon",
-        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "While You're Gone (Acoustic)",
         "url": "https://open.spotify.com/album/5gkHRgbzLkc4rdrtq0QG4k"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 219385,
       "name": "While You're Gone - Acoustic",
       "url": "https://open.spotify.com/track/5a43dOHSt1H6RMqxU9Q5Up"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Neon Moon",
+        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Some Girls (Acoustic)",
+        "url": "https://open.spotify.com/album/6EMXqG3KdHuNWfC3qwr1uz"
+      },
+      "artists": [
+        {
+          "name": "Jameson Rodgers",
+          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
+        }
+      ],
+      "duration_ms": 191400,
+      "name": "Some Girls - Acoustic",
+      "url": "https://open.spotify.com/track/6C2d77cnFFiVPUTsjbJ5t2"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Never Wanted To Be That Girl (Acoustic Version)",
         "url": "https://open.spotify.com/album/5MNdQpKMxTRTjQbJ14qtQC"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 211848,
       "name": "Never Wanted To Be That Girl - Acoustic Version",
       "url": "https://open.spotify.com/track/0CbnbBGQGXK3tXieapv9sk"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Some Girls (Acoustic)",
-        "url": "https://open.spotify.com/album/6EMXqG3KdHuNWfC3qwr1uz"
-      },
-      "artists": [
-        {
-          "name": "Jameson Rodgers",
-          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
-        }
-      ],
-      "duration_ms": 191400,
-      "name": "Some Girls - Acoustic",
-      "url": "https://open.spotify.com/track/6C2d77cnFFiVPUTsjbJ5t2"
     },
     {
       "added_at": "2024-10-04 04:00:00",

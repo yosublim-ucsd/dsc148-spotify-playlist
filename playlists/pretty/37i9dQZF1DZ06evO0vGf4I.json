@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1562179,
+  "num_followers": 1562531,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAAAx/DdfVWNgzFykGZDU1YsN",
+  "snapshot_id": "Zya9AAAAAAATP8/9Eu6gTuTV7s4HpGkv",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAYS BEFORE RODEO",
-        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 208487,
-      "name": "Drugs You Should Try It",
-      "url": "https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 353754,
       "name": "TELEKINESIS (feat. SZA & Future)",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAYS BEFORE RODEO",
+        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 208487,
+      "name": "Drugs You Should Try It",
+      "url": "https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r"
     },
     {
       "added_at": null,
@@ -947,18 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ESCAPE PLAN / MAFIA",
-        "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
+        "name": "ALL TIME HIGH",
+        "url": "https://open.spotify.com/album/1eqb4sPiZO1oLXs0ADlcW2"
       },
       "artists": [
+        {
+          "name": "Strick",
+          "url": "https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH"
+        },
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 149610,
-      "name": "ESCAPE PLAN",
-      "url": "https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez"
+      "duration_ms": 136506,
+      "name": "CR@SH (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/1KmmViIziBGJQa728cXkzh"
     },
     {
       "added_at": null,
@@ -983,6 +987,22 @@
       "duration_ms": 181144,
       "name": "GATTI",
       "url": "https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ESCAPE PLAN / MAFIA",
+        "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 149610,
+      "name": "ESCAPE PLAN",
+      "url": "https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez"
     },
     {
       "added_at": null,
@@ -1051,30 +1071,6 @@
       "duration_ms": 272772,
       "name": "Mamacita (feat. Rich Homie Quan & Young Thug)",
       "url": "https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JACKBOYS",
-        "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
-      },
-      "artists": [
-        {
-          "name": "JACKBOYS",
-          "url": "https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 250141,
-      "name": "WHAT TO DO? (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/4AO1XhrgJczQ9bNVxdfKQe"
     }
   ],
   "unique_name": "This Is Travis Scott",

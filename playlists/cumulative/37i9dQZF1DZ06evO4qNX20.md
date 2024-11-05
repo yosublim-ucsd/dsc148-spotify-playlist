@@ -4,7 +4,7 @@
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-52 songs - 2 hr 50 min
+53 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Juan Machado](https://open.spotify.com/track/2XqIjncebcypXl3RdDUjy9) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Nieves de Enero](https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV) | 3:48 | 2024-06-01 | 2024-07-17 |
 | [Julián Del Real](https://open.spotify.com/track/2DLUM884fJVwsb5uaZ4QBe) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas](https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw) | 2:40 | 2024-01-29 |  |
 | [La Ametralladora](https://open.spotify.com/track/27YCBynZy6VINFpa09QlCi) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Mano A Mano Norteno](https://open.spotify.com/album/16MrsMDG0RKyQIeFJ1H6WM) | 2:34 | 2024-01-29 | 2024-04-06 |
-| [La Ametralladora](https://open.spotify.com/track/6HU6CPW530Rx4mQJShfviL) | [Saul Viera El Gavilancillo](https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69), [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Los Mejores Duetos del Año](https://open.spotify.com/album/7terMn7qIuU20lfQidPPQY) | 2:36 | 2024-04-08 |  |
+| [La Ametralladora](https://open.spotify.com/track/6HU6CPW530Rx4mQJShfviL) | [Saul Viera El Gavilancillo](https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69), [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Los Mejores Duetos del Año](https://open.spotify.com/album/7terMn7qIuU20lfQidPPQY) | 2:36 | 2024-04-08 | 2024-11-05 |
 | [La Loba Del Mal](https://open.spotify.com/track/6chFGW4L9I0YQX6Es2Jkd9) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [La Flor Del Campo: El Pávido Návido](https://open.spotify.com/album/26jewTq5DzesUy9vfG83nw) | 2:36 | 2024-01-29 |  |
 | [La Muerte Del Pela Vacas](https://open.spotify.com/track/3hPONUfgInu27vGEezmcWR) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas](https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw) | 3:11 | 2024-01-29 |  |
 | [Las Uvas](https://open.spotify.com/track/2iss2LKKaEfoolz2PuTUda) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Éxitos de Colección](https://open.spotify.com/album/6UQUW0B830vE7IcZ5M92Rb) | 3:07 | 2024-01-29 | 2024-03-23 |
@@ -56,6 +56,7 @@
 | [Prenda Del Alma](https://open.spotify.com/track/5LdAZLnzlLjL11FWLUBdMe) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Chalino Sánchez Con Mariachi](https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e) | 3:16 | 2024-01-29 |  |
 | [Que Me Entierren Cantando](https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Los Inmortales](https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5) | 2:43 | 2024-01-29 |  |
 | [Ramiro Sierra](https://open.spotify.com/track/7bQWdJkRRX3FIflOR5B2tg) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Hermosísimo Lucero](https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT) | 3:11 | 2024-01-29 |  |
+| [Reto a la Muerte](https://open.spotify.com/track/1U7RVWs5oFa3e3eHN06W5F) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [20 Exitos](https://open.spotify.com/album/0nJ38JGt1eAIQx6PZ3wDk2) | 3:01 | 2024-11-05 |  |
 | [Rigo Campos](https://open.spotify.com/track/4ZHSKkW8RYp9UzVziPTMsg) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Hermosísimo Lucero](https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT) | 3:40 | 2024-01-29 |  |
 | [Tino Quintero](https://open.spotify.com/track/1dS1VAMF11UphldAujqNDK) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Corridos De Los Félix Y Los Quintero](https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc) | 3:46 | 2024-01-29 |  |
 | [Una Tarde](https://open.spotify.com/track/2I7dNLPnIshiEaGllzNRvP) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Adiós A Chalino](https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF) | 3:08 | 2024-01-29 |  |

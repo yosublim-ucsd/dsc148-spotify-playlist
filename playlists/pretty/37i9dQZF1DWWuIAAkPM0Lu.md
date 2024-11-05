@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > ..\. nu ligger albummet her: <a href="spotify:album:6IihVWau3jW3N1ho4ySKDk">Fri</a> ✨ <a href="spotify:artist:0YF2oUwHHPo0VTGuqgYG0X">Thor Farlov</a> ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,458 likes - 97 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,462 likes - 97 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,374 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,388 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 37 | [La culebra](https://open.spotify.com/track/335MnaMIi8Gz61nxR9nWMW) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 2:48 |
 | 38 | [Juan Charrasqueado \- Remastered](https://open.spotify.com/track/4i0xJYVDfQ1dUXMOzO3s15) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Viva México \(Remastered\)](https://open.spotify.com/album/5Vvkijcd0ytPuVRv6CMjJz) | 3:28 |
 | 39 | [Los Machetes](https://open.spotify.com/track/1XO99D36hFTXxGQsRt606o) | [Mariachi De Zapopan De Armando López](https://open.spotify.com/artist/4tychdbMKCQHGKPZ9EC9n3) | [Los Mejores 20 Sones Jaliciences](https://open.spotify.com/album/2DXxRwnJVAO3gBzcqRPHNE) | 2:40 |
-| 40 | [Huapangos: La Noche y Tú / Tres Consejos / La del Rebozo Blanco / La Verdolaga](https://open.spotify.com/track/7yntezTde0vZ1ZWjUnCp4R) | [Fernando De La Mora](https://open.spotify.com/artist/7n0DgT7oELfGWb30YlRatt), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Rancheras](https://open.spotify.com/album/66CJEl4OlSPTwff6xnx8s0) | 7:05 |
-| 41 | [Las Abajenas](https://open.spotify.com/track/2lUFQMUDXVtga7AeuSagzK) | [Mariachi Cobre](https://open.spotify.com/artist/0BlBCNf7s8Ua8CeX1VKXZQ) | [Mariachi Cobre: Este Es Mi Mariachi](https://open.spotify.com/album/3nvfqq53rJB9lzBKVQQC2z) | 2:24 |
+| 40 | [Las Abajenas](https://open.spotify.com/track/2lUFQMUDXVtga7AeuSagzK) | [Mariachi Cobre](https://open.spotify.com/artist/0BlBCNf7s8Ua8CeX1VKXZQ) | [Mariachi Cobre: Este Es Mi Mariachi](https://open.spotify.com/album/3nvfqq53rJB9lzBKVQQC2z) | 2:24 |
+| 41 | [Huapangos: La Noche y Tú / Tres Consejos / La del Rebozo Blanco / La Verdolaga](https://open.spotify.com/track/7yntezTde0vZ1ZWjUnCp4R) | [Fernando De La Mora](https://open.spotify.com/artist/7n0DgT7oELfGWb30YlRatt), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Rancheras](https://open.spotify.com/album/66CJEl4OlSPTwff6xnx8s0) | 7:05 |
 | 42 | [El Zacatecano](https://open.spotify.com/track/5m3TBrw10tXhHvIdS2r3mR) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Te Ha Dado Esa Mujer](https://open.spotify.com/album/4b5U1WWD6h0kJtr2Npv5HR) | 2:26 |
 | 43 | [La Ventana](https://open.spotify.com/track/1js1ErXLdhEICtjWGG7Q6i) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colección De Oro: Tres Grandes Con Mariachi, Vol\. 1 – Joan Sebastian](https://open.spotify.com/album/4nT0tuBlMgoUMIHnAMI43G) | 2:25 |
 | 44 | [Esos Altos de Jalisco \- Remastered](https://open.spotify.com/track/6n0nFNFmYsPV277I0D4z2F) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Viva México \(Remastered\)](https://open.spotify.com/album/5Vvkijcd0ytPuVRv6CMjJz) | 2:39 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 37550,
+  "num_followers": 37567,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAACfO3e6Q+DdB7EWnKhiibak",
+  "snapshot_id": "Zya9AAAAAAA51OdwixmItRBUcoJlpfGQ",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Regeneration, Vol. 2",
-        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 191470,
-      "name": "Z0mbie",
-      "url": "https://open.spotify.com/track/3gjxkZ22HCvjdhV06wh4PK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Project Regeneration, Vol. 1",
         "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 161893,
       "name": "Hollow (Project Regeneration)",
       "url": "https://open.spotify.com/track/3O4xkk0dkAuq21uZHiXhcK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Project Regeneration, Vol. 2",
+        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 191470,
+      "name": "Z0mbie",
+      "url": "https://open.spotify.com/track/3gjxkZ22HCvjdhV06wh4PK"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cult of Static",
-        "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
+        "name": "Project Regeneration, Vol. 1",
+        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 255333,
-      "name": "Hypure",
-      "url": "https://open.spotify.com/track/5ipoeQyIEEevjA2tvcFY9E"
+      "duration_ms": 236066,
+      "name": "All These Years",
+      "url": "https://open.spotify.com/track/2pk8DnOTpSmFw0DBSBHSjh"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Regeneration, Vol. 1",
-        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
+        "name": "Cult of Static",
+        "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 236066,
-      "name": "All These Years",
-      "url": "https://open.spotify.com/track/2pk8DnOTpSmFw0DBSBHSjh"
+      "duration_ms": 255333,
+      "name": "Hypure",
+      "url": "https://open.spotify.com/track/5ipoeQyIEEevjA2tvcFY9E"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cult of Static",
-        "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "Terminal",
-      "url": "https://open.spotify.com/track/080foaXWDJpI51Mg8FZkfn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Project Regeneration, Vol. 1",
         "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 206506,
       "name": "Worth Dyin For",
       "url": "https://open.spotify.com/track/7n84Px9d3eBa7G5W6YoHip"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cult of Static",
+        "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "Terminal",
+      "url": "https://open.spotify.com/track/080foaXWDJpI51Mg8FZkfn"
     },
     {
       "added_at": null,

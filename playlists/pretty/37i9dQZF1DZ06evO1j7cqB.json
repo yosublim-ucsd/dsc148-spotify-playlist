@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 10168,
+  "num_followers": 10167,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAABcaQ08JiWliHrouDx+LNQ2",
+  "snapshot_id": "Zya9AAAAAADxdrCcEBuzlbWN0axFjCT+",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 200293,
-      "name": "Khazad-d\u00fbm",
-      "url": "https://open.spotify.com/track/5gai8pjmX0756SfAOPnEZE"
+      "duration_ms": 169697,
+      "name": "Nori Brandyfoot",
+      "url": "https://open.spotify.com/track/0yQAqMvw9tFOEli7EpFBLT"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 169697,
-      "name": "Nori Brandyfoot",
-      "url": "https://open.spotify.com/track/0yQAqMvw9tFOEli7EpFBLT"
+      "duration_ms": 200293,
+      "name": "Khazad-d\u00fbm",
+      "url": "https://open.spotify.com/track/5gai8pjmX0756SfAOPnEZE"
     },
     {
       "added_at": null,
@@ -295,38 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 274481,
-      "name": "The Sun Yet Shines",
-      "url": "https://open.spotify.com/track/5hcRWT88VLlbhEMh4efCMy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 159946,
-      "name": "Valinor",
-      "url": "https://open.spotify.com/track/0u5Z2JqBdzHoXKcFgq0KK6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unrest (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6aJWaGzLDm7ksyczc3B7Gr"
       },
@@ -347,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 1, Vol. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3"
+        "name": "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2"
       },
       "artists": [
         {
@@ -356,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 105760,
-      "name": "Comin' Thro' The Rye",
-      "url": "https://open.spotify.com/track/0L2v0KjmMxTMDFbtfLsZZi"
+      "duration_ms": 159946,
+      "name": "Valinor",
+      "url": "https://open.spotify.com/track/0u5Z2JqBdzHoXKcFgq0KK6"
     },
     {
       "added_at": null,
@@ -372,9 +340,25 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 160069,
-      "name": "Forgiveness Takes an Age",
-      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
+      "duration_ms": 274481,
+      "name": "The Sun Yet Shines",
+      "url": "https://open.spotify.com/track/5hcRWT88VLlbhEMh4efCMy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 1, Vol. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 338280,
+      "name": "Fallen Through Time",
+      "url": "https://open.spotify.com/track/77vdkjZCPZRECcDfZsdPmy"
     },
     {
       "added_at": null,
@@ -411,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 160069,
+      "name": "Forgiveness Takes an Age",
+      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outlander: Season 1, Vol. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3"
       },
@@ -420,25 +420,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 338280,
-      "name": "Fallen Through Time",
-      "url": "https://open.spotify.com/track/77vdkjZCPZRECcDfZsdPmy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Walking Dead (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 49321,
-      "name": "Theme from the Walking Dead",
-      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
+      "duration_ms": 105760,
+      "name": "Comin' Thro' The Rye",
+      "url": "https://open.spotify.com/track/0L2v0KjmMxTMDFbtfLsZZi"
     },
     {
       "added_at": null,
@@ -459,6 +443,22 @@
       "duration_ms": 219266,
       "name": "Memories of Mother (feat. Eiv\u00f8r)",
       "url": "https://open.spotify.com/track/7nEZnpwjdAw2vCRJg2Q2xG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Walking Dead (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 49321,
+      "name": "Theme from the Walking Dead",
+      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Godzilla Main Title",
+      "url": "https://open.spotify.com/track/6EscmbDWTIP17ZgNWOqPlf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Four: The Great Wave - Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 227386,
       "name": "A Plea to the Rocks",
       "url": "https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Godzilla Main Title",
-      "url": "https://open.spotify.com/track/6EscmbDWTIP17ZgNWOqPlf"
     },
     {
       "added_at": null,

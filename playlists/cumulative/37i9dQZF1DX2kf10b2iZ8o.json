@@ -1161,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SideM ST@RTING LINE -BEST (VOCAL Edition)",
+        "url": "https://open.spotify.com/album/5W4q9TO7CUxRQ7QeqMqlXU"
+      },
+      "artists": [
+        {
+          "name": "High\u00d7Joker",
+          "url": "https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281280,
+      "name": "HIGH JUMP NO LIMIT",
+      "url": "https://open.spotify.com/track/6hkyB3p0xzIrDcekRTPMSb"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SideM NEW STAGE EPISODE\uff1a15 F-LAGS",
         "url": "https://open.spotify.com/album/49HahmeA7j5mL7rGb2V4dV"
       },
@@ -1500,7 +1518,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 305186,
       "name": "Never end \"Opus\"",
       "url": "https://open.spotify.com/track/69YcmR3rldSdriAJMghwPj"
@@ -2534,7 +2552,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 343040,
       "name": "Waving FLAGS",
       "url": "https://open.spotify.com/track/7GS772jWbDDxeUCKagYVT8"
@@ -2832,7 +2850,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 346160,
       "name": "\u30a2\u30c8\u30e2\u30b9\u30d5\u30a3\u30a2",
       "url": "https://open.spotify.com/track/0CIGzJylktOmnjCKmua9cD"

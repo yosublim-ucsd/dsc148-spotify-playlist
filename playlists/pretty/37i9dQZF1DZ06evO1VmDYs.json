@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 187340,
+  "num_followers": 187367,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAABTR5XwzZEvHJjpp8qYVhSk",
+  "snapshot_id": "Zya9AAAAAAB3FLNtUIpjY2/fJw0iulMB",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maladroit",
-        "url": "https://open.spotify.com/album/274YHaMmctXWht39Olh8ub"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 137400,
-      "name": "Dope Nose",
-      "url": "https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },
@@ -467,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maladroit",
+        "url": "https://open.spotify.com/album/274YHaMmctXWht39Olh8ub"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 137400,
+      "name": "Dope Nose",
+      "url": "https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pinkerton",
         "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
       },
@@ -479,6 +479,22 @@
       "duration_ms": 181706,
       "name": "Tired Of Sex",
       "url": "https://open.spotify.com/track/42hDrA9GTkuvpxjLtAshct"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 224353,
+      "name": "Island in the Sun - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
     },
     {
       "added_at": null,
@@ -515,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 224353,
-      "name": "Island in the Sun - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pacific Daydream",
         "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
       },
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer (Teal Album)",
-        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Everybody Wants to Rule the World",
-      "url": "https://open.spotify.com/track/3gEoKDn0uhb9qqLwC16tly"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raditude (Deluxe)",
         "url": "https://open.spotify.com/album/6J2BJd3FQDDlh2ZjL6QIpF"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 208773,
       "name": "(If You're Wondering If I Want You To) I Want You To",
       "url": "https://open.spotify.com/track/09aDV0TC2RfWFU5IwZfIdG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weezer (Teal Album)",
+        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Everybody Wants to Rule the World",
+      "url": "https://open.spotify.com/track/3gEoKDn0uhb9qqLwC16tly"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SZNZ: Summer",
-        "url": "https://open.spotify.com/album/1DvBf2E2OgU8HAjgInLT6H"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 208920,
-      "name": "Records",
-      "url": "https://open.spotify.com/track/23ZmKlucJRQrdR0QItAafL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Muppets: The Green Album",
         "url": "https://open.spotify.com/album/77klgRm6FxdgXYArYvXGYj"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 240506,
       "name": "Rainbow Connection",
       "url": "https://open.spotify.com/track/2i17YXd93A17BSsut23gEa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SZNZ: Summer",
+        "url": "https://open.spotify.com/album/1DvBf2E2OgU8HAjgInLT6H"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 208920,
+      "name": "Records",
+      "url": "https://open.spotify.com/track/23ZmKlucJRQrdR0QItAafL"
     }
   ],
   "unique_name": "This Is Weezer",

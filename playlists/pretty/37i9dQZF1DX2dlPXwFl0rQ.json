@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Chiquis en portada.",
-  "num_followers": 110865,
+  "num_followers": 110891,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
+        "name": "Bola de traviezos",
+        "url": "https://open.spotify.com/album/4iybnYN9TsaEJOTYRZnMYN"
+      },
+      "artists": [
+        {
+          "name": "Karly B",
+          "url": "https://open.spotify.com/artist/3PCKO6TlXIxF0T7l9NcsYr"
+        }
+      ],
+      "duration_ms": 132645,
+      "name": "Bola de traviezos",
+      "url": "https://open.spotify.com/track/6Jrx0ateAS43r7f9ugzxr0"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
         "name": "Llorar Por Ella",
         "url": "https://open.spotify.com/album/5jNPRmMkTcajQi97ZmGWeV"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 168203,
       "name": "Llorar Por Ella",
       "url": "https://open.spotify.com/track/4Z5CT2uGwEffzdjbxp7pGC"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
-        "name": "Bola de traviezos",
-        "url": "https://open.spotify.com/album/4iybnYN9TsaEJOTYRZnMYN"
-      },
-      "artists": [
-        {
-          "name": "Karly B",
-          "url": "https://open.spotify.com/artist/3PCKO6TlXIxF0T7l9NcsYr"
-        }
-      ],
-      "duration_ms": 132645,
-      "name": "Bola de traviezos",
-      "url": "https://open.spotify.com/track/6Jrx0ateAS43r7f9ugzxr0"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Ayer Ped\u00ed",
-        "url": "https://open.spotify.com/album/5DbBtgQ0oZ5odiNf1QZM7m"
-      },
-      "artists": [
-        {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Ayer Ped\u00ed",
-      "url": "https://open.spotify.com/track/6Pyh7P7RYN7Cu21jjwXsTu"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/4ftGvsn2yNHdvBKhSTKuSq"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 171785,
       "name": "Pedazo De Carne",
       "url": "https://open.spotify.com/track/4hdRY3ZWM8EjRfPhT3qaS0"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "Ayer Ped\u00ed",
+        "url": "https://open.spotify.com/album/5DbBtgQ0oZ5odiNf1QZM7m"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Ayer Ped\u00ed",
+      "url": "https://open.spotify.com/track/6Pyh7P7RYN7Cu21jjwXsTu"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
+        "name": "Quien Te Dijo Que Eres Tu",
+        "url": "https://open.spotify.com/album/49IlkNej2Mu2zZ1q3NuXRg"
+      },
+      "artists": [
+        {
+          "name": "Graciela Beltran",
+          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
+        }
+      ],
+      "duration_ms": 183243,
+      "name": "Quien Te Dijo Que Eres Tu",
+      "url": "https://open.spotify.com/track/6RHGmpDfPLP2qEuf6hIMSR"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
         "name": "Si Dej\u00f3 de Quererte",
         "url": "https://open.spotify.com/album/1BqYngNeUJFTQU4uypeg7g"
       },
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Quien Te Dijo Que Eres Tu",
-        "url": "https://open.spotify.com/album/49IlkNej2Mu2zZ1q3NuXRg"
-      },
-      "artists": [
-        {
-          "name": "Graciela Beltran",
-          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
-        }
-      ],
-      "duration_ms": 183243,
-      "name": "Quien Te Dijo Que Eres Tu",
-      "url": "https://open.spotify.com/track/6RHGmpDfPLP2qEuf6hIMSR"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "M\u00e1s Que Un Rolex",
         "url": "https://open.spotify.com/album/15Zw9lOyNpsVMAuujnLKRh"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "No que no",
-        "url": "https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF"
-      },
-      "artists": [
-        {
-          "name": "Griss Romero",
-          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
-        }
-      ],
-      "duration_ms": 189964,
-      "name": "No que no",
-      "url": "https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "Graciela Beltran 14 Super Exitos",
         "url": "https://open.spotify.com/album/2Yftqok3ZWYM1wu3ESWvaS"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 186245,
       "name": "Estan Lloviendo Lagrimas",
       "url": "https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "No que no",
+        "url": "https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF"
+      },
+      "artists": [
+        {
+          "name": "Griss Romero",
+          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
+        }
+      ],
+      "duration_ms": 189964,
+      "name": "No que no",
+      "url": "https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
-        "url": "https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge"
+        "name": "Volver\u00e9 A Amar",
+        "url": "https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o"
       },
       "artists": [
         {
-          "name": "Priscila y Sus Balas De Plata",
-          "url": "https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO"
+          "name": "Valentina Elizalde",
+          "url": "https://open.spotify.com/artist/3mrPm4M2JDsWBSrB0deiT1"
         }
       ],
-      "duration_ms": 529000,
-      "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
-      "url": "https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA"
+      "duration_ms": 240680,
+      "name": "Volver\u00e9 A Amar",
+      "url": "https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Volver\u00e9 A Amar",
-        "url": "https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o"
+        "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
+        "url": "https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge"
       },
       "artists": [
         {
-          "name": "Valentina Elizalde",
-          "url": "https://open.spotify.com/artist/3mrPm4M2JDsWBSrB0deiT1"
+          "name": "Priscila y Sus Balas De Plata",
+          "url": "https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO"
         }
       ],
-      "duration_ms": 240680,
-      "name": "Volver\u00e9 A Amar",
-      "url": "https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN"
+      "duration_ms": 529000,
+      "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
+      "url": "https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "La L\u00e1mpara",
-        "url": "https://open.spotify.com/album/7a58EnNl6f0AgPPApX8KgK"
+        "name": "Yo No Creo En Los Hombres",
+        "url": "https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9"
       },
       "artists": [
         {
-          "name": "Evelyn Ozuna",
-          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
         }
       ],
-      "duration_ms": 220243,
-      "name": "La L\u00e1mpara",
-      "url": "https://open.spotify.com/track/467gjKqJjBGHSiKquWQr9c"
+      "duration_ms": 215893,
+      "name": "Yo No Creo En Los Hombres",
+      "url": "https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Yo No Creo En Los Hombres",
-        "url": "https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9"
+        "name": "La L\u00e1mpara",
+        "url": "https://open.spotify.com/album/7a58EnNl6f0AgPPApX8KgK"
       },
       "artists": [
         {
-          "name": "Sherlyn S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+          "name": "Evelyn Ozuna",
+          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
         }
       ],
-      "duration_ms": 215893,
-      "name": "Yo No Creo En Los Hombres",
-      "url": "https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J"
+      "duration_ms": 220243,
+      "name": "La L\u00e1mpara",
+      "url": "https://open.spotify.com/track/467gjKqJjBGHSiKquWQr9c"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Aquel Amor",
-        "url": "https://open.spotify.com/album/6TN76rkvZf5WtlcmTT50U4"
-      },
-      "artists": [
-        {
-          "name": "Evelyn Ozuna",
-          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
-        }
-      ],
-      "duration_ms": 157399,
-      "name": "Aquel Amor",
-      "url": "https://open.spotify.com/track/0Kj1mVW9Go2S7P1StdoP03"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "No Te Fui Suficiente",
         "url": "https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 278666,
       "name": "No Te Fui Suficiente",
       "url": "https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "El Bato Gacho",
+        "url": "https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Ozuna",
+          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
+        }
+      ],
+      "duration_ms": 145518,
+      "name": "El Bato Gacho",
+      "url": "https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq"
     },
     {
       "added_at": "2024-10-25 06:00:00",

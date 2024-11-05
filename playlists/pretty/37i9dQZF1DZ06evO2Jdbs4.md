@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,865 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,867 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 49 | [La Rosa / Flecha Envenenada \(feat\. Bobby Pulido\)](https://open.spotify.com/track/1CnGSMYKYFMmZGJU4mqtYq) | [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Pa' La Pista y Pa'l Pisto, Vol\. 2](https://open.spotify.com/album/5TEuiPGD4Gpmy7mE3nfHPI) | 6:00 |
 | 50 | [Las Movidas](https://open.spotify.com/track/6wOz26q5SbBru05Ur5hEr7) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Sólo Hits \(20 Éxitos\)](https://open.spotify.com/album/4QJdlvI2J7NwkoDPzidFbp) | 3:04 |
 
-Snapshot ID: `ZyVrgAAAAAAPkmq4DeqLbfsqQCcOC8DK`
+Snapshot ID: `Zya9AAAAAABD75xqWf0sk1HREKMsK6uL`

@@ -4,7 +4,7 @@
 
 > O grime e o drill feitos no Brasil, naquele pique: tracksuit, camisa de time e flow embaçado\. Foto: Kyan, Mu540
 
-339 songs - 15 hr 41 min
+340 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,7 @@
 | [Tuned Air](https://open.spotify.com/track/1B6wycPGhMvdwAcElMx8rr) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [Tuned Air](https://open.spotify.com/album/5kGv8GPUiYaEKO1MA8zxVf) | 3:22 | 2024-02-16 | 2024-04-17 |
 | [Tô Tranquila](https://open.spotify.com/track/46lAZ1uZ0YkIsjJGb7gBDR) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 3:01 | 2023-09-30 | 2024-01-13 |
 | [UEFA Champions](https://open.spotify.com/track/5uhgXGTa6D9owwMl6nHFW7) | [Flamel mc](https://open.spotify.com/artist/51HQXSdO4FVHgAK7SoEL4A) | [UEFA Champions](https://open.spotify.com/album/3Hvq9u2ood36nltFeyIj2P) | 2:42 | 2023-01-06 | 2023-01-28 |
-| [UK](https://open.spotify.com/track/07g47iG0fOsbvJqNn3LXak) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [UK](https://open.spotify.com/album/6VxGLLws63r7eVxzi56jIs) | 3:28 | 2023-07-28 |  |
+| [UK](https://open.spotify.com/track/07g47iG0fOsbvJqNn3LXak) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [UK](https://open.spotify.com/album/6VxGLLws63r7eVxzi56jIs) | 3:28 | 2023-07-28 | 2024-11-05 |
 | [um quebrada inteligente!](https://open.spotify.com/track/6uBfSJZQ27gCDVne6xhDmO) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [UM Quebrada Inteligente](https://open.spotify.com/album/3LLqFXeZt4AdVe9GdBes9y) | 1:56 | 2023-07-14 |  |
 | [Underground](https://open.spotify.com/track/2n5g9O2QtsxaiePpJML2hb) | [Parazin.50](https://open.spotify.com/artist/0DJht4z4mSjRXxXUiRGzzg), [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew) | [Underground](https://open.spotify.com/album/315T250DjzgKmjhmkEOlEO) | 2:19 | 2024-03-01 | 2024-07-19 |
 | [Urubu](https://open.spotify.com/track/4CjbU2FFWlsZSWYaM4Tcdr) | [Trevisan Mc](https://open.spotify.com/artist/177KYY4zDoBqtSscP1UcbM), [Guztaman](https://open.spotify.com/artist/0igWtHKoFnk6QRfkJ3hgvI), [Dropallien](https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD) | [Urubu](https://open.spotify.com/album/0NfyJhQLbmETOvLeUrI1ZC) | 2:34 | 2022-12-02 | 2023-04-09 |
@@ -340,6 +340,7 @@
 | [Vida Bandida](https://open.spotify.com/track/7D6AtgWoXk6jfIruYHBmK7) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Da Lama ao Topo](https://open.spotify.com/album/7IGtw0TWJc1PnSeGf2jp5m) | 2:32 | 2022-10-28 | 2024-01-27 |
 | [Vila Tolstoi II](https://open.spotify.com/track/0Sl5JHRCF4mmJZjkBELSkC) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [Vila Tolstoi II](https://open.spotify.com/album/2QxUMlsHyE8nie7xGVlttp) | 3:02 | 2024-06-28 | 2024-09-28 |
 | [Vilão da Mídia!](https://open.spotify.com/track/1QruZLnz4JAyCf06OjxHvK) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Vilão da Mídia!](https://open.spotify.com/album/4Rzf5vUSLRMgsR6z0jew6Z) | 4:02 | 2024-10-04 |  |
+| [Vim do Bristol](https://open.spotify.com/track/5q21frmkShlupe2Pv2Jcu7) | [Paue](https://open.spotify.com/artist/7iRtbzFCl97vhYCuUCSlTo), [DJ Nilo](https://open.spotify.com/artist/0h6N5w7maojpPOSG7VZOGf) | [Vim do Bristol](https://open.spotify.com/album/3rGmcduiy6P087QLKhtT8G) | 2:27 | 2024-11-04 |  |
 | [Vitória](https://open.spotify.com/track/3EkbbOZjhnXlL9hc26GmPc) | [Faixa de Gaza](https://open.spotify.com/artist/5FshOFDv0YN2UovdMmNl1n), [Vitin](https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS), [GEBE](https://open.spotify.com/artist/1PHKKhYrxhcDLlQaByPYr6) | [Vitória](https://open.spotify.com/album/6CaPkbr1mHc86pgvcdJjQj) | 3:39 | 2022-03-18 | 2022-11-26 |
 | [Voz da Rua \#13: Flow Hannah Montana](https://open.spotify.com/track/1xsg3IoN5ifO5Nrv6PdpXk) | [Bradrill](https://open.spotify.com/artist/1UsZT3fIytr5GVGPwKcSUs), [Brisa Mc](https://open.spotify.com/artist/4xMVJWmvzB3bCB3X1jORtp), [Cres Rap](https://open.spotify.com/artist/1GZVK0u5R8xG1X4ZjYnFPk) | [Voz da Rua \#13: Flow Hannah Montana](https://open.spotify.com/album/4IMSw7kHFu4WKtemhsN2pK) | 1:52 | 2022-03-18 | 2022-04-23 |
 | [XXX](https://open.spotify.com/track/5S5DLXSjrCKC7LCJ9qsdx8) | [Malik](https://open.spotify.com/artist/0ifpZXmFP8xcOmukbS5udK) | [XXX](https://open.spotify.com/album/14KtJPzElJmnHK4Yy8pRa6) | 1:28 | 2022-12-02 | 2023-01-28 |

@@ -4,7 +4,7 @@
 
 > All your favorite Disney songs wrapped up with love!
 
-114 songs - 5 hr 49 min
+115 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Can You Feel the Love Tonight \- From "The Lion King" / Soundtrack Version](https://open.spotify.com/track/1CQWhOlFQFn3je1Q05SDAm) | [Joseph Williams](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui), [Sally Dworsky](https://open.spotify.com/artist/7vK6xoR5zT4DypEu0blUku), [Nathan Lane](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv), [Ernie Sabella](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr), [Kristle Edwards](https://open.spotify.com/artist/4y5d67UxD0QON2vRZOjXZ6) | [Disney's Greatest Vol\. 3](https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh) | 2:57 | 2022-09-15 | 2022-11-13 |
 | [Carried Me With You](https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Onward \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst) | 3:33 | 2024-02-12 |  |
 | [Colors of the Wind](https://open.spotify.com/track/1OYOLWqKmhkFIx2KC9ek1a) | [Judy Kuhn](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) | [Pocahontas](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) | 3:34 | 2022-03-16 |  |
+| [Did I Mention](https://open.spotify.com/track/1YekSxsAlGlYvm9zjLsKdh) | [Jeff Lewis](https://open.spotify.com/artist/4JDI31jWR7BBBBzw9kmu7Z), [Mitchell Hope](https://open.spotify.com/artist/2uTXJwJ1Q9PA2ji51RWeQm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh) | 2:33 | 2024-11-04 |  |
 | [Don't Go Breaking My Heart \- From "Chicken Little"/Soundtrack Version](https://open.spotify.com/track/52nSf9QgQrQphbJv1ssF2Z) | [Runt of the Litter](https://open.spotify.com/artist/0d1adB2baUQbq6D9xlQZ16), [Foxy Loxy](https://open.spotify.com/artist/6pZE2bLEfbqNJBoob82x4K), [Chicken Little](https://open.spotify.com/artist/2G0KshUNR4nyMJrre61dIa), [Buck Cluck](https://open.spotify.com/artist/2QLIFqNZ6ik7xoyPgrkcDr), [Abby Mallard](https://open.spotify.com/artist/6aSf2DXkTRBCDPrVT5j3Xe), [Fish Out of Water](https://open.spotify.com/artist/3d4OixBeZFNIPyRX2M3VMJ), [Mayor Turkey Lurkey](https://open.spotify.com/artist/71JJNrmX5y3tfgPH29Fuhq), [Mr\. Woolensworth](https://open.spotify.com/artist/4ta66UrsS071lVaTuorgHY) | [Chicken Little](https://open.spotify.com/album/3Z93u37mCvyowExFmHR6Bc) | 1:53 | 2022-03-16 |  |
 | [Dos Oruguitas](https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:34 | 2022-03-16 |  |
 | [Footloose & Collar\-Free/Bella Notte \- From "Lady and the Tramp"/Soundtrack Version](https://open.spotify.com/track/1Gx8ozbDJZjzWUp5eRr6Hh) | [Oliver Wallace](https://open.spotify.com/artist/497FibW7265st1H0UfpGb2), [George Givot](https://open.spotify.com/artist/0amtHf5yFCceg0y8YUBd1z), [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Lady and the Tramp](https://open.spotify.com/album/5lUCB0rKp3TTIongCN7gvk) | 4:22 | 2022-03-16 |  |

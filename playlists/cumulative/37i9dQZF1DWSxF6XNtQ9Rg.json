@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/3IGuXyMxlXEZJOvBwMu13c"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144920,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/1ig4ybhT5YVsAUhg7OCEHv"
+    },
+    {
+      "album": {
         "name": "BOSS",
         "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
       },
@@ -666,7 +684,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 144930,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
@@ -1174,7 +1192,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 184304,
       "name": "Centro (feat. Coez)",
       "url": "https://open.spotify.com/track/6DGl9TtxYTpMFrmZa1mwEz"
@@ -1642,6 +1660,32 @@
       "duration_ms": 209386,
       "name": "Dolce Paranoia",
       "url": "https://open.spotify.com/track/4EYps3R4AQBJH7FYnNrRCl"
+    },
+    {
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/3IGuXyMxlXEZJOvBwMu13c"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182906,
+      "name": "DOPO LE 4 (feat. Bresh & Tedua)",
+      "url": "https://open.spotify.com/track/5OQo1GGSUcOSRKX9eSqdGU"
     },
     {
       "album": {
@@ -2858,6 +2902,24 @@
       "duration_ms": 209080,
       "name": "Minchia Boh!",
       "url": "https://open.spotify.com/track/01tlLbZ6izg3BVoA8SykPi"
+    },
+    {
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/3IGuXyMxlXEZJOvBwMu13c"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147498,
+      "name": "MIU MIU",
+      "url": "https://open.spotify.com/track/6EhJVd1934ZIdg1gLEp6sF"
     },
     {
       "album": {
@@ -5062,7 +5124,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 309306,
       "name": "Wild Bandana (feat. Tedua & Vaz T\u00e8)",
       "url": "https://open.spotify.com/track/4I0zrlR1lT6aHYiu79MzWy"

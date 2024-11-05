@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 394049,
+  "num_followers": 394088,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -211,26 +211,6 @@
     {
       "added_at": "2024-10-10 13:01:00",
       "album": {
-        "name": "DO 4 LOVE (Black Coffee Remix)",
-        "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        },
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        }
-      ],
-      "duration_ms": 224281,
-      "name": "DO 4 LOVE - Black Coffee Remix",
-      "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
-    },
-    {
-      "added_at": "2024-10-10 13:01:00",
-      "album": {
         "name": "Random Access Memories (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 239213,
       "name": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]",
       "url": "https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l"
+    },
+    {
+      "added_at": "2024-10-10 13:01:00",
+      "album": {
+        "name": "DO 4 LOVE (Black Coffee Remix)",
+        "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "duration_ms": 224281,
+      "name": "DO 4 LOVE - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
     },
     {
       "added_at": "2024-10-10 13:01:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-10-10 13:01:00",
       "album": {
+        "name": "MACHINE",
+        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 197018,
+      "name": "MACHINE",
+      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
+    },
+    {
+      "added_at": "2024-10-10 13:01:00",
+      "album": {
         "name": "Kahan (last year)",
         "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 216000,
       "name": "Kahan (last year)",
       "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
-    },
-    {
-      "added_at": "2024-10-10 13:01:00",
-      "album": {
-        "name": "MACHINE",
-        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 197018,
-      "name": "MACHINE",
-      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
     },
     {
       "added_at": "2024-10-10 13:01:00",
@@ -1327,18 +1327,22 @@
     {
       "added_at": "2024-10-10 13:01:00",
       "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF"
+        "name": "Above the Salt",
+        "url": "https://open.spotify.com/album/7tHZf9HwjVlQjQ7JkAXWNE"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Portair",
+          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
+        },
+        {
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
         }
       ],
-      "duration_ms": 352472,
-      "name": "31 Bloom",
-      "url": "https://open.spotify.com/track/6oTshmafPagXMEZeLBzc6Y"
+      "duration_ms": 226690,
+      "name": "Above the Salt",
+      "url": "https://open.spotify.com/track/6UuUbGvNaGsNjCYOuyw18Y"
     }
   ],
   "unique_name": "Just Chill",

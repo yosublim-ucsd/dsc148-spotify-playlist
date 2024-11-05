@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,000 songs - 4 day 11 hr 24 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,002 songs - 4 day 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2008,5 +2008,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1998 | [Tuwi Tuwi](https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Tuwi Tuwi](https://open.spotify.com/album/2TLl92KX0u6TNGtcMGD4EY) | 2:15 |
 | 1999 | [HAY ANABEL](https://open.spotify.com/track/0vV04Rids5cIbton3RAi2n) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY ANABEL](https://open.spotify.com/album/0XMyL1XVeP3Zjd3mwHoRqY) | 1:42 |
 | 2000 | [Sientate en Ese Deo](https://open.spotify.com/track/4o9DRmcnHX2V4aPHinhfrP) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [El Hombre](https://open.spotify.com/album/5hzbgBTxfikktf9cOvggGF) | 3:41 |
+| 2001 | [Kinda Like It That Way](https://open.spotify.com/track/3sJZX0uLZkJYXOsULRJAq7) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 2:51 |
+| 2002 | [Leni \(Crystal Castles vs GoodBooks\)](https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH) | [GoodBooks](https://open.spotify.com/artist/0pwItbAKmeSTovWzxzkkbg), [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Control Freaks \(The Remixes\)](https://open.spotify.com/album/4lPBSP3DIiXn2ktREAsoHw) | 4:16 |
 
-Snapshot ID: `AAADg+y+/kj18JmUUXhyKYBWQtdhIkwq`
+Snapshot ID: `AAADhVDW8z3L6HFn4EhXnEvd1NHN0w3X`

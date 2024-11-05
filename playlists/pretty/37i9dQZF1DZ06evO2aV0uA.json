@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 131565,
+  "num_followers": 131592,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAADaeQ4TEZeQaKpFw17UxVuX",
+  "snapshot_id": "Zya9AAAAAADqBi8D6SboYzRb8g/0AGOH",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omens",
-        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 217606,
-      "name": "Ditch",
-      "url": "https://open.spotify.com/track/6V4k01Xr3HsVrfqUyQSIqt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Floods of Triton",
         "url": "https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 269583,
       "name": "Floods of Triton",
       "url": "https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 217606,
+      "name": "Ditch",
+      "url": "https://open.spotify.com/track/6V4k01Xr3HsVrfqUyQSIqt"
     },
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omens",
-        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 227899,
-      "name": "Omens",
-      "url": "https://open.spotify.com/track/2calJdlU1JseiOf7c5jXwP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "As The Palaces Burn",
         "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 224093,
       "name": "11th Hour",
       "url": "https://open.spotify.com/track/6WDJv2slxzc6Xu7CVonDBM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 227899,
+      "name": "Omens",
+      "url": "https://open.spotify.com/track/2calJdlU1JseiOf7c5jXwP"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "VII: Sturm und Drang",
-        "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
+        "name": "As The Palaces Burn",
+        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 296453,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/5EP6OcWKPVTFgKH0cFFtys"
+      "duration_ms": 144933,
+      "name": "As The Palaces Burn",
+      "url": "https://open.spotify.com/track/2KjmnyVafBbq4VEnrJ5rra"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VII: Sturm und Drang",
+        "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 296453,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/5EP6OcWKPVTFgKH0cFFtys"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "As The Palaces Burn",
         "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
       },
@@ -684,25 +700,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 144933,
-      "name": "As The Palaces Burn",
-      "url": "https://open.spotify.com/track/2KjmnyVafBbq4VEnrJ5rra"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lamb of God (Deluxe Version)",
-        "url": "https://open.spotify.com/album/13oFnEbK6yXLZBLm1rMqzE"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 245948,
-      "name": "Ghost Shaped People",
-      "url": "https://open.spotify.com/track/6gq5YInoFxEUT13bzu9DyC"
+      "duration_ms": 223466,
+      "name": "For Your Malice",
+      "url": "https://open.spotify.com/track/3jH1c9em3bdzwkc2JjYJwY"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lamb of God (Deluxe Version)",
+        "url": "https://open.spotify.com/album/13oFnEbK6yXLZBLm1rMqzE"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 245948,
+      "name": "Ghost Shaped People",
+      "url": "https://open.spotify.com/track/6gq5YInoFxEUT13bzu9DyC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VII: Sturm und Drang",
         "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 262333,
       "name": "Still Echoes",
       "url": "https://open.spotify.com/track/2MgcmZ2DnI6ZTUSf5ytjo9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "As The Palaces Burn",
-        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "For Your Malice",
-      "url": "https://open.spotify.com/track/3jH1c9em3bdzwkc2JjYJwY"
     },
     {
       "added_at": null,

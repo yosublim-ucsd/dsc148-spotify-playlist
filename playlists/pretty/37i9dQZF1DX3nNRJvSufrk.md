@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,738 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,745 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 9 | [Pass That](https://open.spotify.com/track/4YKjrt7cGTQnu97OgKaFgC) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Tripletrain](https://open.spotify.com/artist/47UATnEOiiEMa2OFvZjv6i), [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9), [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg) | [Afterlife](https://open.spotify.com/album/0lFoUvjrmqtll233XwCyko) | 3:13 |
 | 10 | [Skkrtt](https://open.spotify.com/track/0zEgbC1lVNEYUJCv0jbUfc) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 4:49 |
 | 11 | [Way You Move](https://open.spotify.com/track/4HJADIxeKfoDyE3HVLzxif) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7), [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Chap](https://open.spotify.com/artist/09SMSRxhT4hiqiEAtIv69G) | [Greenlight](https://open.spotify.com/album/39Ir1QmErVs5OlVthfAoFq) | 3:13 |
-| 12 | [1luv](https://open.spotify.com/track/2VpNyk111vQhDyHlDwv6qM) | [DJ Chap](https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA) | [Footwork Frenzy Ep](https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI) | 4:43 |
-| 13 | [Tear It Up](https://open.spotify.com/track/44UIC6KMStyShoIvRyNSHP) | [Turk Turkelton](https://open.spotify.com/artist/1RJ1QHgaJoiAd1czuhS00d) | [Worldwidejuke Vol.2](https://open.spotify.com/album/5bsOhjBEJ7O3rQGzlmyWPs) | 4:39 |
+| 12 | [Tear It Up](https://open.spotify.com/track/44UIC6KMStyShoIvRyNSHP) | [Turk Turkelton](https://open.spotify.com/artist/1RJ1QHgaJoiAd1czuhS00d) | [Worldwidejuke Vol.2](https://open.spotify.com/album/5bsOhjBEJ7O3rQGzlmyWPs) | 4:39 |
+| 13 | [1luv](https://open.spotify.com/track/2VpNyk111vQhDyHlDwv6qM) | [DJ Chap](https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA) | [Footwork Frenzy Ep](https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI) | 4:43 |
 | 14 | [Forgotten](https://open.spotify.com/track/69L3zcmAXAW09qTz7HoQlX) | [DJ FLP](https://open.spotify.com/artist/7mcrgPUbytCnGDjt7PYXCA) | [Intuition](https://open.spotify.com/album/7rgcAQIrNsHCPRp8p7CWpM) | 6:03 |
 | 15 | [Samba Focused](https://open.spotify.com/track/2AusXnxTndZvmYz5ygFXo8) | [Kush Jones](https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm) | [Strictly 4 My Cdjz 7](https://open.spotify.com/album/2rYIMDR48AbLrkbZ78ly6M) | 3:15 |
 | 16 | [Footworkin On Air](https://open.spotify.com/track/5YyTiraUCPWYDke6iwkMaz) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Da Mind Of Traxman](https://open.spotify.com/album/20gJfqZovoaiO5AmN1hoSV) | 4:01 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 30 | [Bounce That Booty \- Jackmaster Werks Remix](https://open.spotify.com/track/6Ta2yIK2q5GAs2tqTLRLX5) | [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH), [Jackmaster Werks](https://open.spotify.com/artist/2eRGQtdPsIbK1HwWdWMPJN) | [Bounce That Booty \(Jackmaster Werks Remix\)](https://open.spotify.com/album/77SNTASc4iAYl3y5WfAZOS) | 2:44 |
 | 31 | [8 Bit Shit](https://open.spotify.com/track/1Fugmy42LXbsW0IsJJcr0m) | [Heavee](https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw) | [Next Life](https://open.spotify.com/album/2OVxb7gOjFHj7vN7oAt7qC) | 4:37 |
 | 32 | [fucK iT uP](https://open.spotify.com/track/5mZa0ucjIfMPpa2XFhdF16) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [ON LIFE, Vol\. 2](https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu) | 2:42 |
-| 33 | [Below Zero](https://open.spotify.com/track/3I4bWAn64bYRlNankRD511) | [DJ Nate](https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM) | [Da Trak Genious](https://open.spotify.com/album/08fSEliSx03pGtS0C9RMkl) | 2:49 |
-| 34 | [Wouldn't Get Far](https://open.spotify.com/track/24GUxWledUuwzCm4XEUatd) | [Young Smoke](https://open.spotify.com/artist/0ehqzJzgBzhTRcOd0BqgCs) | [Bangs & Works Vol\. 2 \(The Best Of Chicago Footwork\)](https://open.spotify.com/album/6EShA1FkOyix9LWx3Qnupt) | 3:00 |
+| 33 | [Wouldn't Get Far](https://open.spotify.com/track/24GUxWledUuwzCm4XEUatd) | [Young Smoke](https://open.spotify.com/artist/0ehqzJzgBzhTRcOd0BqgCs) | [Bangs & Works Vol\. 2 \(The Best Of Chicago Footwork\)](https://open.spotify.com/album/6EShA1FkOyix9LWx3Qnupt) | 3:00 |
+| 34 | [Below Zero](https://open.spotify.com/track/3I4bWAn64bYRlNankRD511) | [DJ Nate](https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM) | [Da Trak Genious](https://open.spotify.com/album/08fSEliSx03pGtS0C9RMkl) | 2:49 |
 | 35 | [Juice](https://open.spotify.com/track/4p8e7TRZUOu1sy2LGnaMiN) | [DJ T\-Why](https://open.spotify.com/artist/52nwgb3EZSQrv9Q6MltYye) | [Bangs & Works Vol\. 2 \(The Best Of Chicago Footwork\)](https://open.spotify.com/album/6EShA1FkOyix9LWx3Qnupt) | 2:37 |
 | 36 | [Tango](https://open.spotify.com/track/7DXBzXF73JbzvQTyygWIpw) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Tango](https://open.spotify.com/album/0zx0BWbByt2zQsH4Mcdu7v) | 3:59 |
 | 37 | [Another Chance \- SBF17](https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [Another Chance \(SBF17\)](https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9) | 3:03 |

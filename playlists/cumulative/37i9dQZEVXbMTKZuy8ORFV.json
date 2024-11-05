@@ -912,7 +912,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 171816,
       "name": "Alokate Remake",
       "url": "https://open.spotify.com/track/5ScZd7kKU8abQLwxvxOdGP"
@@ -3066,6 +3066,24 @@
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH"
+    },
+    {
+      "album": {
+        "name": "El Sonido",
+        "url": "https://open.spotify.com/album/5UKWW8fo5JwmhJczeGMjAl"
+      },
+      "artists": [
+        {
+          "name": "Ilegales",
+          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206959,
+      "name": "Chucuch\u00e1",
+      "url": "https://open.spotify.com/track/6eFrdLR3Np9mtHxKpmipWE"
     },
     {
       "album": {
@@ -6988,7 +7006,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 238866,
       "name": "I'm Gonna Miss You",
       "url": "https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj"
@@ -7228,7 +7246,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 186093,
       "name": "It's Going Down Now",
       "url": "https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28"
@@ -7619,32 +7637,6 @@
     },
     {
       "album": {
-        "name": "LA MAYOR\u00cdA DE LAS NENAS LINDAS",
-        "url": "https://open.spotify.com/album/3t17jnHFwz8hLaEXaM0Bfw"
-      },
-      "artists": [
-        {
-          "name": "Piromano El Del Flow Gitano",
-          "url": "https://open.spotify.com/artist/2tXI6NDbDCXr0mlN1kJIl0"
-        },
-        {
-          "name": "Napo99",
-          "url": "https://open.spotify.com/artist/0TQwhbavW288eFTFenPeRa"
-        },
-        {
-          "name": "teekyy",
-          "url": "https://open.spotify.com/artist/6RqfZDh96RLufabBRbE2Js"
-        }
-      ],
-      "date_added": "2024-10-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 215257,
-      "name": "LA MAYOR\u00cdA DE LAS NENAS LINDAS",
-      "url": "https://open.spotify.com/track/0IVaOnXV1QqPwhbW2PpMoM"
-    },
-    {
-      "album": {
         "name": "QUE NOS FALTE TODO",
         "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
       },
@@ -7950,6 +7942,24 @@
       "duration_ms": 260534,
       "name": "LATTE (feat. Maria Becerra)",
       "url": "https://open.spotify.com/track/7irTyPzSyqSbeUXbYsTR5j"
+    },
+    {
+      "album": {
+        "name": "Lejos De La Ciudad",
+        "url": "https://open.spotify.com/album/4JAk0mbWKQjrUATbfDjpRf"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188680,
+      "name": "Lejos De La Ciudad",
+      "url": "https://open.spotify.com/track/6ZPx4OfYVHv7FkPAF2Khbm"
     },
     {
       "album": {
@@ -9455,6 +9465,32 @@
     },
     {
       "album": {
+        "name": "MIENTES TAN BIEN",
+        "url": "https://open.spotify.com/album/3t17jnHFwz8hLaEXaM0Bfw"
+      },
+      "artists": [
+        {
+          "name": "Piromano El Del Flow Gitano",
+          "url": "https://open.spotify.com/artist/2tXI6NDbDCXr0mlN1kJIl0"
+        },
+        {
+          "name": "Napo99",
+          "url": "https://open.spotify.com/artist/0TQwhbavW288eFTFenPeRa"
+        },
+        {
+          "name": "teekyy",
+          "url": "https://open.spotify.com/artist/6RqfZDh96RLufabBRbE2Js"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215257,
+      "name": "MIENTES TAN BIEN",
+      "url": "https://open.spotify.com/track/0IVaOnXV1QqPwhbW2PpMoM"
+    },
+    {
+      "album": {
         "name": "Mil A\u00f1os",
         "url": "https://open.spotify.com/album/4H3xCVFy5lHZp9OsplPPnt"
       },
@@ -10768,6 +10804,28 @@
       "duration_ms": 88629,
       "name": "Not My Problem Funk",
       "url": "https://open.spotify.com/track/3Vn1b7EolQzTqoJCCEnS3Q"
+    },
+    {
+      "album": {
+        "name": "Not My Problem Funk (Sayfalse Remix)",
+        "url": "https://open.spotify.com/album/0n8F4viYY5YdW4CQY2XKbs"
+      },
+      "artists": [
+        {
+          "name": "DJZRX",
+          "url": "https://open.spotify.com/artist/5XwtmTsYaeISuSubhSceo2"
+        },
+        {
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73821,
+      "name": "Not My Problem Funk - Sayfalse Remix",
+      "url": "https://open.spotify.com/track/54a8aoGhcbywpE1wyHABmc"
     },
     {
       "album": {
@@ -12260,7 +12318,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 166880,
       "name": "RD",
       "url": "https://open.spotify.com/track/5MVCWWnNKaWnVMaCvj6TKU"
@@ -14258,7 +14316,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 114693,
       "name": "Super Tuna",
       "url": "https://open.spotify.com/track/4pygz13A6EcLL6ti7kqGaf"

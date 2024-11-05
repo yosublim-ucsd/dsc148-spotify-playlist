@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto:  Ivandro, LUDMILLA",
-  "num_followers": 48080,
+  "num_followers": 48096,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -1075,7 +1075,7 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Priceless (feat. Kibow, Julinho KSD & Yuran)",
+        "name": "Priceless",
         "url": "https://open.spotify.com/album/2amag4wp9qpVP8RXKLBCfb"
       },
       "artists": [
@@ -1105,7 +1105,7 @@
         }
       ],
       "duration_ms": 212727,
-      "name": "Priceless (feat. Kibow, Julinho KSD & Yuran)",
+      "name": "Priceless",
       "url": "https://open.spotify.com/track/0IsDXIzleU032NLdaKG0o2"
     },
     {
@@ -1207,6 +1207,38 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Priceless",
+        "url": "https://open.spotify.com/album/7yYTfAq087THV6jKKbUSvf"
+      },
+      "artists": [
+        {
+          "name": "Instinto 26",
+          "url": "https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV"
+        },
+        {
+          "name": "Yuran",
+          "url": "https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0"
+        },
+        {
+          "name": "Trista",
+          "url": "https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw"
+        },
+        {
+          "name": "Kibow",
+          "url": "https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 209708,
+      "name": "Loko Loko",
+      "url": "https://open.spotify.com/track/5H3HOVGluYwAntdrrHJrc0"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Versos & Poesias #6: Tempestade",
         "url": "https://open.spotify.com/album/0td3CflgP5l4MWeQqNYGvv"
       },
@@ -1259,38 +1291,6 @@
       "duration_ms": 472421,
       "name": "Versos & Poesias #6: Tempestade",
       "url": "https://open.spotify.com/track/5Khii1zkAIH9VwMOc4tfHW"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Priceless",
-        "url": "https://open.spotify.com/album/7yYTfAq087THV6jKKbUSvf"
-      },
-      "artists": [
-        {
-          "name": "Instinto 26",
-          "url": "https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV"
-        },
-        {
-          "name": "Yuran",
-          "url": "https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0"
-        },
-        {
-          "name": "Trista",
-          "url": "https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw"
-        },
-        {
-          "name": "Kibow",
-          "url": "https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M"
-        },
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 209708,
-      "name": "Loko Loko (feat. Kibow & Julinho KSD)",
-      "url": "https://open.spotify.com/track/5H3HOVGluYwAntdrrHJrc0"
     },
     {
       "added_at": "2024-10-24 23:00:00",

@@ -446,7 +446,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 167000,
       "name": "Another day in America (with Ozuna)",
       "url": "https://open.spotify.com/track/0SRBovIdW5xMxuw7ZR9pHz"
@@ -2185,6 +2185,24 @@
     },
     {
       "album": {
+        "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223666,
+      "name": "Mi Camino",
+      "url": "https://open.spotify.com/track/2NPzPNhkwSTBMLfTxcaoPZ"
+    },
+    {
+      "album": {
         "name": "Mon Soleil (from \"Emily in Paris\" Soundtrack)",
         "url": "https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu"
       },
@@ -3086,7 +3104,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 235053,
       "name": "Somebody Desperate - From ''Cyrano'' Soundtrack",
       "url": "https://open.spotify.com/track/7HYgIW2TK4hPfcC6XaqF2W"
@@ -4058,7 +4076,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 191076,
       "name": "Wicked Medley",
       "url": "https://open.spotify.com/track/2HKBDRRBt8NPX5wjrV5q64"

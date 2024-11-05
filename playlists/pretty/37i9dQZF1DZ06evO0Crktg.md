@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,231 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,420 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 40 | [Comfort Zone](https://open.spotify.com/track/7vO6yVflgdpdAxArZV6URT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Addiction Kills](https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP) | 2:33 |
 | 41 | [Dead Man Walking](https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 3:21 |
 | 42 | [Church](https://open.spotify.com/track/3XDm5Xh1chJePrcqNB2dwa) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:40 |
-| 43 | [The Bottom](https://open.spotify.com/track/3HTlU2dr9WtOXTe4ktQcc0) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 2:36 |
-| 44 | [Devil Down \(with ERNEST\)](https://open.spotify.com/track/5wWznrmpO49fbxobsr9Es0) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Beautifully Broken \(Pickin’ Up The Pieces\)](https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9) | 2:16 |
+| 43 | [Devil Down \(with ERNEST\)](https://open.spotify.com/track/5wWznrmpO49fbxobsr9Es0) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Beautifully Broken \(Pickin’ Up The Pieces\)](https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9) | 2:16 |
+| 44 | [The Bottom](https://open.spotify.com/track/3HTlU2dr9WtOXTe4ktQcc0) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 2:36 |
 | 45 | [Over You](https://open.spotify.com/track/45C1q1zsHmxsRfCi9V9nVF) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 2:16 |
 | 46 | [My Only Enemy](https://open.spotify.com/track/2CQrxIeKSvLkJOYOi6d593) | [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Waylon & Willie IV](https://open.spotify.com/album/4RjBKqrFun5Q72gIsSkN7R) | 3:17 |
-| 47 | [Nothing Left At All](https://open.spotify.com/track/3WhglCUuc5HGhvtzfjc8YY) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 3:23 |
-| 48 | [Cowboys](https://open.spotify.com/track/3scAjDdskrwS9KoTQrvvs9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Waylon & Willie](https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1) | 3:12 |
+| 47 | [Cowboys](https://open.spotify.com/track/3scAjDdskrwS9KoTQrvvs9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Waylon & Willie](https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1) | 3:12 |
+| 48 | [Nothing Left At All](https://open.spotify.com/track/3WhglCUuc5HGhvtzfjc8YY) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 3:23 |
 | 49 | [Leave The Light On \(feat\. Alexandra Kay\) \[From Twisters: The Album\]](https://open.spotify.com/track/08iAR28HjxTqITee6Gq5vT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Leave The Light On \(feat\. Alexandra Kay\) \[From Twisters: The Album\]](https://open.spotify.com/album/2dt9s6lrC6C6m7omR6ElIi) | 3:20 |
 | 50 | [Johnny and June](https://open.spotify.com/track/5CViEqt2O688DBBlr4dBNJ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Self Medicated](https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw) | 2:47 |
 
-Snapshot ID: `ZyVrgAAAAACeXyzyQiu1mYI6AJQ8o3f8`
+Snapshot ID: `Zya9AAAAAACB2FcS4na+tydcGm3dAsdy`

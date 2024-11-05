@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sandhya Chari
 
-390 songs - 22 hr 26 min
+391 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Paavai](https://open.spotify.com/track/0Dy51XHPjIcOuVsCgFbtNF) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj), [Priyanka NK](https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K) | [Paavai](https://open.spotify.com/album/730TPIYVhOi5veCbw3yxc3) | 3:35 | 2024-03-16 | 2024-06-02 |
 | [Pachai Theeyee](https://open.spotify.com/track/6Fk5Qx8BEqWXQscWFwO1ws) | [Joshua Surya](https://open.spotify.com/artist/23A4fV8TTszu4fVRgMkO9s), [Siva Suriya Prakash](https://open.spotify.com/artist/1KfAw91V43kU6vHZBPGaHJ), [Darloo](https://open.spotify.com/artist/5Ouj8oMhaXmvLHJvP4PhZ7), [Stan & Sam](https://open.spotify.com/artist/2zeEeBkAKWjSVenQDBHsGM) | [Pachai Theeyee](https://open.spotify.com/album/2OdFUCAvA9dVqO40q9VvFJ) | 3:32 | 2023-07-19 | 2023-09-05 |
 | [Pakano](https://open.spotify.com/track/2Ds1XVxXyWhON2d4omAIrL) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Pakano](https://open.spotify.com/album/09HtMIXB3LCP8HqW9ign12) | 2:21 | 2024-06-04 | 2024-10-19 |
+| [Pasumayile](https://open.spotify.com/track/6Udk6PfmbOo2s4rwgM9bvF) | [V\. Kiran Varsith](https://open.spotify.com/artist/0UOZzdUG9XB5NIhkxSzJrP), [jhon victor](https://open.spotify.com/artist/0Xf0UjqV9arPtYk0iFxFpN) | [Pasumayile](https://open.spotify.com/album/2txonFEwdelXgauqdMreAd) | 3:27 | 2024-11-04 |  |
 | [Peela Peter](https://open.spotify.com/track/5wDRGaS2eaKGdgECfGkmJy) | [Krish Manoj](https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT) | [Peela Peter](https://open.spotify.com/album/44ALmEIFiFmhyP0w9l50mP) | 1:34 | 2024-01-31 | 2024-05-01 |
 | [Pen Nilave](https://open.spotify.com/track/3AruoZeeOUr0cdtDz2pwuq) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Pen Nilave](https://open.spotify.com/album/1RtPUHI8LICX4dPGnuYG9l) | 3:18 | 2024-02-09 | 2024-08-24 |
 | [Penne Vaadi](https://open.spotify.com/track/15Fh1t5w0HSuzGZcLntCXu) | [Octave Rockers](https://open.spotify.com/artist/2vPzWyj6wCxhzVH91XAMc6) | [Penne Vaadi](https://open.spotify.com/album/1xindoyPyheCMn1s8ZGQhw) | 3:36 | 2024-09-02 | 2024-09-19 |
@@ -306,7 +307,7 @@
 | [Sugasagiye](https://open.spotify.com/track/7tTujQNOJgxYFIoLGH66c0) | [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [MWS](https://open.spotify.com/artist/2kAssRlZmg5vrIiUiZVInp) | [Mudivili](https://open.spotify.com/album/7txRaw6gINccGbvTdAj6I1) | 3:53 | 2024-07-27 | 2024-09-21 |
 | [Suger Bomb](https://open.spotify.com/track/4nzsbSuEAIDGtVLN3asIWM) | [Rama Priya Yegasivanathan](https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Sugar Bomb](https://open.spotify.com/album/41X3mkUaXfgeWoF5kKrrnP) | 3:13 | 2024-02-14 | 2024-03-09 |
 | [Sundarakalebara](https://open.spotify.com/track/1AFbhDQlIishYtar4eQYyh) | [Bineetha Ranjith](https://open.spotify.com/artist/0hYeiOpfSvwJ6IvJPy9aHD), [Sadanam Jyothish Babu](https://open.spotify.com/artist/2NiiDg21L5izki1THUgdeu) | [Sundarakalebara](https://open.spotify.com/album/3r3LGPEkgMnwotv42jiCb4) | 5:38 | 2024-08-09 | 2024-08-24 |
-| [Suzhal](https://open.spotify.com/track/4iSofwCbRsGuZtIu0gXG4I) | [Hari](https://open.spotify.com/artist/2mZB29tnf9O6e16nZ2FlMX) | [Suzhal](https://open.spotify.com/album/3Q3B9SVmJeVTJc7cL9PAwI) | 4:17 | 2024-05-03 |  |
+| [Suzhal](https://open.spotify.com/track/4iSofwCbRsGuZtIu0gXG4I) | [Hari](https://open.spotify.com/artist/2mZB29tnf9O6e16nZ2FlMX) | [Suzhal](https://open.spotify.com/album/3Q3B9SVmJeVTJc7cL9PAwI) | 4:17 | 2024-05-03 | 2024-11-05 |
 | [Swipe Swipe](https://open.spotify.com/track/1bxaX79dpWrR7heY2en9SR) | [Harsha Vardhan](https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1) | [Swipe Swipe](https://open.spotify.com/album/64CwTALMK8Hv2fjvnEt6YO) | 3:00 | 2024-09-18 |  |
 | [Teddy Bear](https://open.spotify.com/track/1qmoyvEpWxEzwu7qMdMZ1U) | [Raksheet Ramesh](https://open.spotify.com/artist/1SQEW8b7rB9GPsCBg27YsI), [AVR](https://open.spotify.com/artist/4SmaQj7noSrsSEXIqovJUe), [Kiruthika Aravindan](https://open.spotify.com/artist/3KxMBuBqGhj267r0q7L1H8), [LRC](https://open.spotify.com/artist/3AKzFn3aIfeUwbuVPZKrHa) | [Teddy Bear](https://open.spotify.com/album/4gW8stxvBopqm09xFm2v8k) | 3:15 | 2024-02-09 | 2024-03-09 |
 | [Tha Pop \- Deaffrogs Records](https://open.spotify.com/track/1U0idFt6d537Z3OFC0gdk8) | [TNC](https://open.spotify.com/artist/5q79L7eL1FmDlIMsBF2u12) | [Tha Pop \(Deaffrogs Records\)](https://open.spotify.com/album/3ycrzrsKtsXmmkS91fUTND) | 3:22 | 2024-03-08 | 2024-09-10 |

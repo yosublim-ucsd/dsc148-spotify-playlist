@@ -1,6 +1,6 @@
 {
   "description": "Soft and smooth vocal Jazz to help you relax and unwind.",
-  "num_followers": 56744,
+  "num_followers": 56811,
   "original_name": "Relaxing Vocal Jazz",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,38 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
+        "name": "Do You Know What It Means to Miss New Orleans",
+        "url": "https://open.spotify.com/album/0Qco1GecYXsJKqhXXaaGkx"
+      },
+      "artists": [
+        {
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+        }
+      ],
+      "duration_ms": 253386,
+      "name": "Do You Know What It Means to Miss New Orleans",
+      "url": "https://open.spotify.com/track/5DTWu4zFlUZnOD9StTy164"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
+        "name": "Lonely House",
+        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
+      },
+      "artists": [
+        {
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+        }
+      ],
+      "duration_ms": 211664,
+      "name": "There's a Lull in My Life",
+      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -531,38 +563,6 @@
       "duration_ms": 376085,
       "name": "You Go to My Head",
       "url": "https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
-        "name": "Lonely House",
-        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
-      },
-      "artists": [
-        {
-          "name": "Lucy Yeghiazaryan",
-          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
-        }
-      ],
-      "duration_ms": 211664,
-      "name": "There's a Lull in My Life",
-      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
-        "name": "Do You Know What It Means to Miss New Orleans",
-        "url": "https://open.spotify.com/album/0Qco1GecYXsJKqhXXaaGkx"
-      },
-      "artists": [
-        {
-          "name": "Bria Skonberg",
-          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
-        }
-      ],
-      "duration_ms": 253386,
-      "name": "Do You Know What It Means to Miss New Orleans",
-      "url": "https://open.spotify.com/track/5DTWu4zFlUZnOD9StTy164"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
+        "name": "Blues in the City",
+        "url": "https://open.spotify.com/album/67s8dczNzhEOzVYKM23LNw"
+      },
+      "artists": [
+        {
+          "name": "Laverne Butler",
+          "url": "https://open.spotify.com/artist/2iE4tV40WH7VZKH9pfdnMi"
+        }
+      ],
+      "duration_ms": 303973,
+      "name": "I'm a Fool to Want You",
+      "url": "https://open.spotify.com/track/7LVIhJkFdSrhFbD7qo0OOq"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
         "name": "Cherokee",
         "url": "https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 326019,
       "name": "Spring Can Really Hang You up the Most",
       "url": "https://open.spotify.com/track/3GFBG0crgjK3sjivJtMwLe"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
-        "name": "Blues in the City",
-        "url": "https://open.spotify.com/album/67s8dczNzhEOzVYKM23LNw"
-      },
-      "artists": [
-        {
-          "name": "Laverne Butler",
-          "url": "https://open.spotify.com/artist/2iE4tV40WH7VZKH9pfdnMi"
-        }
-      ],
-      "duration_ms": 303973,
-      "name": "I'm a Fool to Want You",
-      "url": "https://open.spotify.com/track/7LVIhJkFdSrhFbD7qo0OOq"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
+      },
+      "artists": [
+        {
+          "name": "Staci Griesbach",
+          "url": "https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO"
+        }
+      ],
+      "duration_ms": 309810,
+      "name": "Here You Come Again",
+      "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
         "name": "The Show Must Go On",
         "url": "https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 309426,
       "name": "Too Late Now",
       "url": "https://open.spotify.com/track/6iYaFLnX3epoWlQhGdbTRy"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
-      },
-      "artists": [
-        {
-          "name": "Staci Griesbach",
-          "url": "https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO"
-        }
-      ],
-      "duration_ms": 309810,
-      "name": "Here You Come Again",
-      "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
-        "name": "London/Paris",
-        "url": "https://open.spotify.com/album/6rKUMTAyDdl3ynkCm29BwW"
-      },
-      "artists": [
-        {
-          "name": "C\u00e6cilie Norby",
-          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
-        }
-      ],
-      "duration_ms": 410773,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/0goyk1vNnbD2GKXG96Fz0N"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
         "name": "Loads Of Love",
         "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 161333,
       "name": "My Future Just Passed - From \"Safety In Numbers\"",
       "url": "https://open.spotify.com/track/0cSlVyagvzpWEFmhOqJS2P"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
+        "name": "London/Paris",
+        "url": "https://open.spotify.com/album/6rKUMTAyDdl3ynkCm29BwW"
+      },
+      "artists": [
+        {
+          "name": "C\u00e6cilie Norby",
+          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
+        }
+      ],
+      "duration_ms": 410773,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/0goyk1vNnbD2GKXG96Fz0N"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
+        "name": "Two Tenors",
+        "url": "https://open.spotify.com/album/2FwsXdfYSYQIwAOTBtYbRx"
+      },
+      "artists": [
+        {
+          "name": "Jan Smigmator",
+          "url": "https://open.spotify.com/artist/6iZZuD8jZoqc1vZ1M0CWBo"
+        },
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/2BmSDptUfW7WVbasPnBqhZ"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
         "name": "Neon Blue",
         "url": "https://open.spotify.com/album/6HB4riiVFAoYGkeDPwmdeh"
       },
@@ -1767,26 +1787,6 @@
       "duration_ms": 258186,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/5mhtfZqUn7gzKUKE8oOWNB"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
-        "name": "Two Tenors",
-        "url": "https://open.spotify.com/album/2FwsXdfYSYQIwAOTBtYbRx"
-      },
-      "artists": [
-        {
-          "name": "Jan Smigmator",
-          "url": "https://open.spotify.com/artist/6iZZuD8jZoqc1vZ1M0CWBo"
-        },
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "Love Letters",
-      "url": "https://open.spotify.com/track/2BmSDptUfW7WVbasPnBqhZ"
     },
     {
       "added_at": "2024-10-25 08:57:10",

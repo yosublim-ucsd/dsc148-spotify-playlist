@@ -1,12 +1,12 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 663508,
+  "num_followers": 663554,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAABLGUuqvzkPPADPaKAl15/t",
+  "snapshot_id": "Zya9AAAAAADWlpFuEV/b30YHV2VZV93X",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 434720,
-      "name": "Riders on the Storm",
-      "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
+      "duration_ms": 198466,
+      "name": "Love Her Madly",
+      "url": "https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 198466,
-      "name": "Love Her Madly",
-      "url": "https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN"
+      "duration_ms": 434720,
+      "name": "Riders on the Storm",
+      "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
     },
     {
       "added_at": null,
@@ -251,26 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "An American Prayer",
-        "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
-      },
-      "artists": [
-        {
-          "name": "Jim Morrison",
-          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
-        },
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Ghost Song",
-      "url": "https://open.spotify.com/track/5XTdMVT5i5qcfyTXWxhxVZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Riders On The Storm (Fredwreck Remix)",
         "url": "https://open.spotify.com/album/4Amv0hrD1UuVHSnexg1iqP"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 382240,
       "name": "Riders On The Storm - Fredwreck Remix",
       "url": "https://open.spotify.com/track/0RcYEWXtbu4ehdv1tiBOi0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "An American Prayer",
+        "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
+      },
+      "artists": [
+        {
+          "name": "Jim Morrison",
+          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
+        },
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Ghost Song",
+      "url": "https://open.spotify.com/track/5XTdMVT5i5qcfyTXWxhxVZ"
     },
     {
       "added_at": null,

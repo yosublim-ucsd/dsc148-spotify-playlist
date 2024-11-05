@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 31229,
+  "num_followers": 31241,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAAAgk4lPgVrKzlx44dNlfRWi",
+  "snapshot_id": "Zya9AAAAAACRrGlwvsTpN19PEDB4+kT1",
   "tracks": [
     {
       "added_at": null,
@@ -336,17 +336,21 @@
       "added_at": null,
       "album": {
         "name": "Sugar Honey Iced Tea",
-        "url": "https://open.spotify.com/album/78bwcxLYi7vPZ2eCL9Vtvp"
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
       },
       "artists": [
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 161666,
-      "name": "Chicken Grease",
-      "url": "https://open.spotify.com/track/5BsGbw1doMaFghuOMkkiJB"
+      "duration_ms": 178160,
+      "name": "Look What You Did (feat. Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/0oVazidxG4n1IZXv1Mizux"
     },
     {
       "added_at": null,
@@ -408,21 +412,17 @@
       "added_at": null,
       "album": {
         "name": "Sugar Honey Iced Tea",
-        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+        "url": "https://open.spotify.com/album/78bwcxLYi7vPZ2eCL9Vtvp"
       },
       "artists": [
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 178160,
-      "name": "Look What You Did (feat. Mariah the Scientist)",
-      "url": "https://open.spotify.com/track/0oVazidxG4n1IZXv1Mizux"
+      "duration_ms": 161666,
+      "name": "Chicken Grease",
+      "url": "https://open.spotify.com/track/5BsGbw1doMaFghuOMkkiJB"
     },
     {
       "added_at": null,
@@ -919,22 +919,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freaky As Me",
-        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
+        "name": "Nasa 2",
+        "url": "https://open.spotify.com/album/3oYRwdyQKn5nTccm3LODnF"
       },
       "artists": [
         {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+          "name": "Outta Space",
+          "url": "https://open.spotify.com/artist/21j9HxFstMjB7DzXWujBnB"
         },
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 129662,
-      "name": "Freaky As Me (feat. latto)",
-      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
+      "duration_ms": 178956,
+      "name": "TouchDown",
+      "url": "https://open.spotify.com/track/7oqhhfWAQiUUUijb9FSsVG"
     },
     {
       "added_at": null,
@@ -959,22 +959,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen of Da Souf (Extended Version) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv"
+        "name": "Freaky As Me",
+        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
         },
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 161538,
-      "name": "Sex Lies (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p"
+      "duration_ms": 129662,
+      "name": "Freaky As Me (feat. latto)",
+      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
     },
     {
       "added_at": null,
@@ -999,6 +999,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Queen of Da Souf (Extended Version) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "Sex Lies (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "missunderstood",
         "url": "https://open.spotify.com/album/4vIKuMcGxldTXjswEuNs7u"
       },
@@ -1015,22 +1035,6 @@
       "duration_ms": 184871,
       "name": "Bitter (feat. Mulatto)",
       "url": "https://open.spotify.com/track/5ZEY1dCAOxo8sG7TxuOetA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Queen of Da Souf",
-        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 113237,
-      "name": "On God",
-      "url": "https://open.spotify.com/track/7ySc8EB354qhPQKmOw4td0"
     }
   ],
   "unique_name": "This Is Latto",

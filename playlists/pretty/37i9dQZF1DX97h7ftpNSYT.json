@@ -1,6 +1,6 @@
 {
   "description": "Taking it back to the 2010s. Cover: Chief Keef",
-  "num_followers": 339543,
+  "num_followers": 339607,
   "original_name": "2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Yeezus",
-        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 188013,
-      "name": "Black Skinhead",
-      "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
+      "duration_ms": 159714,
+      "name": "BOP",
+      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+        "name": "Yeezus",
+        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 159714,
-      "name": "BOP",
-      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
+      "duration_ms": 188013,
+      "name": "Black Skinhead",
+      "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Dreams and Nightmares (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Dreams and Nightmares",
-      "url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Death Race For Love (Bonus Track Version)",
         "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 189322,
       "name": "Bandit (with YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/1oWM79mUVdZGCGYjSirHZR"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Dreams and Nightmares (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Dreams and Nightmares",
+      "url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        }
+      ],
+      "duration_ms": 220486,
+      "name": "High Fashion (feat. Mustard)",
+      "url": "https://open.spotify.com/track/07KXEDMj78x68D884wgVEm"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -1499,38 +1519,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Please Excuse Me for Being Antisocial",
-        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+        "name": "Mr. Davis",
+        "url": "https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ"
       },
       "artists": [
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         },
         {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 220486,
-      "name": "High Fashion (feat. Mustard)",
-      "url": "https://open.spotify.com/track/07KXEDMj78x68D884wgVEm"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Flex (Ooh, Ooh, Ooh) - Single",
-        "url": "https://open.spotify.com/album/4DGTGynJ1c17ElQpAbDAqV"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 176744,
-      "name": "Flex (Ooh, Ooh, Ooh)",
-      "url": "https://open.spotify.com/track/4T0ScSPdQKmGvruK7pavNP"
+      "duration_ms": 233087,
+      "name": "I Get the Bag (feat. Migos)",
+      "url": "https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1587,22 +1591,34 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Mr. Davis",
-        "url": "https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ"
+        "name": "Flex (Ooh, Ooh, Ooh) - Single",
+        "url": "https://open.spotify.com/album/4DGTGynJ1c17ElQpAbDAqV"
       },
       "artists": [
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 233087,
-      "name": "I Get the Bag (feat. Migos)",
-      "url": "https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0"
+      "duration_ms": 176744,
+      "name": "Flex (Ooh, Ooh, Ooh)",
+      "url": "https://open.spotify.com/track/4T0ScSPdQKmGvruK7pavNP"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Slime Season 3",
+        "url": "https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 176386,
+      "name": "Digits",
+      "url": "https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1639,22 +1655,6 @@
       "duration_ms": 156780,
       "name": "151 Rum",
       "url": "https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Slime Season 3",
-        "url": "https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 176386,
-      "name": "Digits",
-      "url": "https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1711,6 +1711,26 @@
       "duration_ms": 216013,
       "name": "Man Of The Year",
       "url": "https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 252256,
+      "name": "pick up the phone",
+      "url": "https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1791,26 +1811,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 252256,
-      "name": "pick up the phone",
-      "url": "https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "My Krazy Life",
         "url": "https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n"
       },
@@ -1847,26 +1847,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "The Sun's Tirade",
-        "url": "https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1"
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
       "artists": [
         {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         },
         {
-          "name": "Zacari",
-          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 330783,
-      "name": "Wat's Wrong (feat. Zacari & Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/2RPbEp0DyBVlkRvvYKopO7"
+      "duration_ms": 205093,
+      "name": "Who Dat Boy (feat. A$AP Rocky)",
+      "url": "https://open.spotify.com/track/21yRtB6B8EMounImAfHRCP"
     }
   ],
   "unique_name": "2010s Hip-Hop",

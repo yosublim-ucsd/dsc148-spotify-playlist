@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 212 songs - 11 hr 7 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 214 songs - 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -220,5 +220,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 210 | [Cosmo Freestyle](https://open.spotify.com/track/29hATL1N9JGEtS8HpxRjcN) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Die 1nce](https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h) | 3:04 |
 | 211 | [Wolverine](https://open.spotify.com/track/22JoVWZlY49vSLzssk8RL7) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Die 1nce](https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h) | 2:47 |
 | 212 | [Marble Floors](https://open.spotify.com/track/30S82dxldXsPbuj4ShyVBK) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Marble Floors](https://open.spotify.com/album/4XkbqXgTN2KeJRixyLKm4o) | 3:28 |
+| 213 | [Self](https://open.spotify.com/track/6NVoUHjFFQmW8fYA8eaJcQ) | [bentley](https://open.spotify.com/artist/0tGHZpweTz8PClcc6rK4sy) | [Self](https://open.spotify.com/album/0f6zfh28vIM6IFtjImHggN) | 2:16 |
+| 214 | [Self](https://open.spotify.com/track/6NVoUHjFFQmW8fYA8eaJcQ) | [bentley](https://open.spotify.com/artist/0tGHZpweTz8PClcc6rK4sy) | [Self](https://open.spotify.com/album/0f6zfh28vIM6IFtjImHggN) | 2:16 |
 
-Snapshot ID: `AAAdBEpdEaPtsCmnwwSO9Etz97Ajf3Ds`
+Snapshot ID: `AAAdBm78Dyg1jFPZlF9FuXZLzO0wv4ev`

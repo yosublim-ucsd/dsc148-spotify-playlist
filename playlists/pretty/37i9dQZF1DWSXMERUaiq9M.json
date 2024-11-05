@@ -1,6 +1,6 @@
 {
   "description": "the sound of a new generation ",
-  "num_followers": 275603,
+  "num_followers": 275742,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
@@ -563,18 +563,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
+        "name": "S&M (With Chacel) [HYPERTECHNO Edit]",
+        "url": "https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK"
       },
       "artists": [
         {
-          "name": "Nicolas Binder",
-          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        },
+        {
+          "name": "Chacel",
+          "url": "https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
+      "duration_ms": 178614,
+      "name": "S&M (With Chacel) - HYPERTECHNO Edit",
+      "url": "https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -635,22 +639,18 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "S&M (With Chacel) [HYPERTECHNO Edit]",
-        "url": "https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK"
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
       },
       "artists": [
         {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
-        },
-        {
-          "name": "Chacel",
-          "url": "https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep"
+          "name": "Nicolas Binder",
+          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
         }
       ],
-      "duration_ms": 178614,
-      "name": "S&M (With Chacel) - HYPERTECHNO Edit",
-      "url": "https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM"
+      "duration_ms": 204000,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "Sturm und Drang",
+        "url": "https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK"
+      },
+      "artists": [
+        {
+          "name": "Schrotthagen",
+          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
+        }
+      ],
+      "duration_ms": 224698,
+      "name": "Pain in my Heart",
+      "url": "https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Eternal Rave",
         "url": "https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 121908,
       "name": "Eternal Rave",
       "url": "https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Sturm und Drang",
-        "url": "https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK"
-      },
-      "artists": [
-        {
-          "name": "Schrotthagen",
-          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
-        }
-      ],
-      "duration_ms": 224698,
-      "name": "Pain in my Heart",
-      "url": "https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "All I Wanna",
+        "url": "https://open.spotify.com/album/6QPTz9BSRPmmztADxFINCu"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        },
+        {
+          "name": "Lex Ledu",
+          "url": "https://open.spotify.com/artist/4F0a2Vk6M0lPjpzxWl2POl"
+        }
+      ],
+      "duration_ms": 130063,
+      "name": "All I Wanna",
+      "url": "https://open.spotify.com/track/7BenhguFkOw1irlhoOkvoq"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Berghain In Berlin (with SMACK)",
         "url": "https://open.spotify.com/album/5wXSYWE44yMtGpsmsMlW9F"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 108006,
       "name": "Berghain In Berlin (with SMACK)",
       "url": "https://open.spotify.com/track/1O7pI4ybNEMxp4LlHvs3Wt"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "All I Wanna",
-        "url": "https://open.spotify.com/album/6QPTz9BSRPmmztADxFINCu"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        },
-        {
-          "name": "Lex Ledu",
-          "url": "https://open.spotify.com/artist/4F0a2Vk6M0lPjpzxWl2POl"
-        }
-      ],
-      "duration_ms": 130063,
-      "name": "All I Wanna",
-      "url": "https://open.spotify.com/track/7BenhguFkOw1irlhoOkvoq"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1367,8 +1367,8 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "We Want More",
-        "url": "https://open.spotify.com/album/7nKp2UoahBhOLo5KiYHqpd"
+        "name": "Move Your Feet",
+        "url": "https://open.spotify.com/album/7gmF0w2kmwBfUJUFxUkeiM"
       },
       "artists": [
         {
@@ -1378,15 +1378,11 @@
         {
           "name": "DJ Daddy Trance",
           "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
-        },
-        {
-          "name": "Luciana",
-          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
         }
       ],
-      "duration_ms": 173083,
-      "name": "We Want More",
-      "url": "https://open.spotify.com/track/7nfCb5stHePZ6OoE7HDTe2"
+      "duration_ms": 172506,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/7tIa5zvbBjTKNqa3T99Ki5"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1407,22 +1403,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "La Batteria",
-        "url": "https://open.spotify.com/album/5fWRKpCVzmZ0a7hDdBB4ru"
-      },
-      "artists": [
-        {
-          "name": "DJ Gigola",
-          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "La Batteria",
-      "url": "https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "The Captain",
         "url": "https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j"
       },
@@ -1435,6 +1415,22 @@
       "duration_ms": 192000,
       "name": "The Captain",
       "url": "https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "La Batteria",
+        "url": "https://open.spotify.com/album/5fWRKpCVzmZ0a7hDdBB4ru"
+      },
+      "artists": [
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "La Batteria",
+      "url": "https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0"
     },
     {
       "added_at": "2024-10-25 03:00:00",

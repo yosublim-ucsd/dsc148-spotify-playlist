@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Linkin Park
 
-1,457 songs - 3 day 11 hr 48 min
+1,458 songs - 3 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-09 |  |
 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 | 2024-01-11 | 2024-04-20 |
 | [Beautiful Sky \(feat\. Jim James\)](https://open.spotify.com/track/7zlU2NsGW5lILMxjTwJrpm) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Little Bit of Sun](https://open.spotify.com/album/2IIZUA4Ey5voQpvhhrOw71) | 4:57 | 2023-11-02 | 2023-11-10 |
-| [Been Here Before](https://open.spotify.com/track/2KlAdT5Y6515sZdOPka8sA) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Been Here Before](https://open.spotify.com/album/71S6zEj9bB6MAYURARKQ4g) | 4:27 | 2024-08-01 |  |
+| [Been Here Before](https://open.spotify.com/track/2KlAdT5Y6515sZdOPka8sA) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Been Here Before](https://open.spotify.com/album/71S6zEj9bB6MAYURARKQ4g) | 4:27 | 2024-08-01 | 2024-11-05 |
 | [Believe Me \(Even If I'm Lying\)](https://open.spotify.com/track/5D4mRZsNbuJHUD4IyPWiTs) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Believe Me \(Even If I'm Lying\)](https://open.spotify.com/album/2J6zYvoCvBeZzBrA1WGybw) | 2:45 | 2024-01-11 | 2024-01-19 |
 | [bella](https://open.spotify.com/track/2i5q9JRYHVkPNegErZ2WvA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [bella / i can't find anyone](https://open.spotify.com/album/3AJEvGdq17HHvF20ITVbD7) | 3:19 | 2023-10-19 | 2023-11-03 |
 | [Below The Belt](https://open.spotify.com/track/7jZYdgfv4tn2oRkzuCBTZ5) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Prepare For Despair](https://open.spotify.com/album/0ykmroLBGEswLI1xjg2tqv) | 3:12 | 2023-08-17 | 2023-08-25 |
@@ -639,6 +639,7 @@
 | [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 | 2023-03-16 | 2023-06-02 |
 | [I'm ready to die for my friends](https://open.spotify.com/track/2CQVZQ31zugcnfaxCkuR2N) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [I'm ready to die for my friends](https://open.spotify.com/album/3iy3EnIGs1JF8diFJrBJCF) | 3:50 | 2023-04-13 | 2023-04-21 |
 | [I'm The Man](https://open.spotify.com/track/1PAg9GImCAvBOEDfwJ5q6S) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [I'm The Man](https://open.spotify.com/album/2X5cSIk8D9n7iwKcRVQ61e) | 4:01 | 2023-07-06 | 2023-07-14 |
+| [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/track/23T2c9QnEWy9PvkeDLhHRS) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/album/2ZwtjZD39nAQ9yXMi4ZA9G) | 2:55 | 2024-10-31 |  |
 | [icantbelieveiletyougetaway](https://open.spotify.com/track/0QbNbtwJvvqxRxNUYUoMRM) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [icantbelieveiletyougetaway](https://open.spotify.com/album/4gHGMtnZCgVrTX8j7ccWOM) | 2:15 | 2024-06-20 | 2024-08-21 |
 | [IDGAF](https://open.spotify.com/track/3OcUXeWXI3dStj4EQotJoB) | [Short Stack](https://open.spotify.com/artist/0EdNPfEHC714LHuN0NPIyU) | [IDGAF](https://open.spotify.com/album/78BenUPiBj9XK93B1PO7pt) | 2:22 | 2023-11-23 | 2023-12-01 |
 | [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-16 | 2023-04-07 |

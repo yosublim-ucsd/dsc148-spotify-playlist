@@ -4,7 +4,7 @@
 
 > This is Sia\. The essential tracks, all in one playlist.
 
-91 songs - 5 hr 31 min
+92 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,10 +52,11 @@
 | [I Had A Heart](https://open.spotify.com/track/2uJZ32A1LXktrJvREA21uf) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:48 | 2024-05-07 | 2024-07-11 |
 | [I Love It](https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Drinking From The Sun](https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK) | 3:46 | 2023-07-28 |  |
 | [I'm Still Here](https://open.spotify.com/track/5KGTKwOePys7aH4o6EzXEP) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [I'm Still Here](https://open.spotify.com/album/61rbnX1w8qupnV0CyNH1Or) | 4:01 | 2023-07-28 |  |
-| [If the Earth is Spinning \(feat\. Sia\)](https://open.spotify.com/track/24SJ5ugsrMU20yLjZIsxlI) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 3:13 | 2024-09-15 |  |
+| [If the Earth is Spinning \(feat\. Sia\)](https://open.spotify.com/track/24SJ5ugsrMU20yLjZIsxlI) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 3:13 | 2024-09-15 | 2024-11-05 |
 | [Immortal Queen \(feat\. Chaka Khan & Debbie Harry\)](https://open.spotify.com/track/6V6IYLLAvBplqfo4dvRFWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Debbie Harry](https://open.spotify.com/artist/7FxMjqH6DH056sdsstGeVl), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Immortal Queen \(feat\. Chaka Khan & Debbie Harry\)](https://open.spotify.com/album/6DTDpU2pW8MJgUHLPvNoNi) | 3:34 | 2024-09-01 | 2024-10-28 |
 | [Immortal Queen \(feat\. Chaka Khan & Eve\)](https://open.spotify.com/track/4Dr0ZwcgQbj9Sqna43GBes) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Immortal Queen \(feat\. Chaka Khan & Eve\)](https://open.spotify.com/album/3bIMMjzboZD5thhPhRZ8Sn) | 3:32 | 2024-08-06 |  |
 | [Immortal Queen \(feat\. Chaka Khan\)](https://open.spotify.com/track/3L5AK36OlaswwPI0WduBJg) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:19 | 2024-05-05 | 2024-08-06 |
+| [Incredible \(AWEN Remix\)](https://open.spotify.com/track/2AY4ZQ8Uzz0nbwJr0dLUsU) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl) | [Reasonable Remixes 1](https://open.spotify.com/album/67wMwSJ4tkhJtb8qAetnTO) | 5:43 | 2024-11-05 |  |
 | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV) | 3:33 | 2024-04-07 | 2024-11-03 |
 | [Je te pardonne \(feat\. Sia\) \- Pilule bleue](https://open.spotify.com/track/6ftEA8CwMP4vtlL7F6VKsj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:33 | 2023-07-28 |  |
 | [Let's Love](https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Let's Love](https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr) | 3:20 | 2023-07-28 |  |

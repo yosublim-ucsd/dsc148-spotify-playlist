@@ -4,14 +4,14 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-357 songs - 22 hr 3 min
+359 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['98 Toyota](https://open.spotify.com/track/50svvnTxXeRamm7f0vNk1B) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | ['98 Toyota](https://open.spotify.com/album/6BiO7eBumr6ArsMksMneJW) | 3:10 | 2024-05-16 |  |
 | [5432](https://open.spotify.com/track/3gXaiPXUZZFg2HTAV7eCEO) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Sabotage](https://open.spotify.com/album/2N0VTYHZoIoSf3UEEuap2O) | 3:41 | 2024-06-18 |  |
 | [a bad dream from an old life](https://open.spotify.com/track/1XgTha61JE1qk9J2wmsoNm) | [Driftwood Choir](https://open.spotify.com/artist/7igkSEzzo4gyA5Bsah0ZdF), [Ed Prosek](https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW), [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG) | [a bad dream from an old life](https://open.spotify.com/album/1b9QIgbrTT1QzVfURsTkwZ) | 3:28 | 2024-03-14 | 2024-07-02 |
-| [A Complicated Truth](https://open.spotify.com/track/3geEHzsLiZmZov9CrCNaC9) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [A Complicated Truth](https://open.spotify.com/album/6gyGYKNbwVvvQR8catUo07) | 5:05 | 2024-07-21 |  |
+| [A Complicated Truth](https://open.spotify.com/track/3geEHzsLiZmZov9CrCNaC9) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [A Complicated Truth](https://open.spotify.com/album/6gyGYKNbwVvvQR8catUo07) | 5:05 | 2024-07-21 | 2024-11-05 |
 | [A Dangerous Thing](https://open.spotify.com/track/7xDDRoOWJ5sOsp2SDXdTrE) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP) | [A Dangerous Thing](https://open.spotify.com/album/1L1XG9oKtjHkCB2LY6e1xX) | 3:03 | 2023-06-08 | 2024-06-19 |
 | [A Precious Thing](https://open.spotify.com/track/0hsKYfiYOyb0kOMh67SZ3W) | [Grace Cummings](https://open.spotify.com/artist/3uAWPonHw80gRQRUjhdW5a) | [A Precious Thing](https://open.spotify.com/album/0att3h3a9gsUKbcwEjyZdB) | 4:18 | 2024-04-04 | 2024-04-08 |
 | [A Precious Thing](https://open.spotify.com/track/3No4zg6Qm632PLxLqPCFel) | [Grace Cummings](https://open.spotify.com/artist/3uAWPonHw80gRQRUjhdW5a) | [Ramona](https://open.spotify.com/album/6mVqIVJe5FOyVA6oriGwuw) | 4:18 | 2024-04-04 | 2024-04-19 |
@@ -135,6 +135,7 @@
 | [Garden Song](https://open.spotify.com/track/6WrzIVwfETihmZ91wwt5cq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Garden Song](https://open.spotify.com/album/5RSEIqWnZsBKKYngHOkpuU) | 3:40 | 2022-10-10 | 2022-11-13 |
 | [Get On With It](https://open.spotify.com/track/0ZjWDVrucWrPu84pHiSqfh) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [End of the Day \(music from the film Anonymous Club\)](https://open.spotify.com/album/4zE13ajNwCofhqYSD0Obvj) | 5:44 | 2024-04-02 | 2024-05-24 |
 | [Get On With It](https://open.spotify.com/track/7kkHmLA9r54mm2N35wMyvS) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [End Of The Day \(music from the film Anonymous Club\)](https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5) | 5:44 | 2024-02-16 | 2024-04-19 |
+| [Get Through](https://open.spotify.com/track/1Rl4NwdkaQ8nd6vEJftDDw) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Get Through](https://open.spotify.com/album/2nBMZEgu0BDkpUyCkvNw0V) | 2:56 | 2024-11-04 |  |
 | [Give Me That Feeling](https://open.spotify.com/track/5nqcyjp4fFX7MTsxzXlMdm) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/671hZnMHapwrrMIjousq6l) | 4:14 | 2024-02-22 | 2024-04-19 |
 | [Give Me That Feeling](https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE) | 4:14 | 2024-02-22 | 2024-10-07 |
 | [Good Enough](https://open.spotify.com/track/064jdewcvmHluciPQ0QsvO) | [Tori Forsyth](https://open.spotify.com/artist/0UVISIZtASrGYL3975rp6w) | [Good Enough](https://open.spotify.com/album/1ThEPBGdF3IYzkZwnTlBW4) | 4:30 | 2024-02-16 | 2024-06-19 |
@@ -149,6 +150,7 @@
 | [Hold Your Hair](https://open.spotify.com/track/3JPvjupgTUmtJiNL5WJrQw) | [Timothy Nelson](https://open.spotify.com/artist/4TpiiLJXJUpNjdBYvZB3vq) | [Hold Your Hair](https://open.spotify.com/album/1VcTJTrnbPrDnEFQfqOoer) | 3:02 | 2024-08-26 |  |
 | [Holding on to You](https://open.spotify.com/track/05hZle1qjV2Hu10Y85fhbv) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Holding on to You](https://open.spotify.com/album/2aog2gZCOAc2tZGFtrVSAE) | 3:33 | 2022-03-25 | 2022-07-29 |
 | [Holding on to You](https://open.spotify.com/track/2XbGCUjNjQgJPMO1QbMp5a) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:33 | 2022-06-17 | 2022-10-11 |
+| [Home In Sight](https://open.spotify.com/track/6HLCqZoCfqwsRHF3oyFiKr) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Home In Sight](https://open.spotify.com/album/0HP1O8L1X6qfbqmyypB7hE) | 3:17 | 2024-11-04 |  |
 | [Homecoming Queen](https://open.spotify.com/track/28grzRrS5csyaI4uK98IX0) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:51 | 2022-03-25 | 2024-04-03 |
 | [honeymoon \(feat\. Lawson Hull\)](https://open.spotify.com/track/7KD4gsj5Qkv60yDtA4TMXc) | [LOVELOVELOVE](https://open.spotify.com/artist/71AkKjNLAa2eGpswzxbdM6), [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [honeymoon \(feat\. Lawson Hull\)](https://open.spotify.com/album/7yvalAYL0RK3gOVz4Phml9) | 3:24 | 2024-03-07 | 2024-04-19 |
 | [How to Forget](https://open.spotify.com/track/5E7ShoQeHx2WoEa5uFwRWW) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [How to Forget](https://open.spotify.com/album/3MYJWD831kp1HuvlBCE61X) | 3:54 | 2024-02-22 | 2024-10-07 |
@@ -348,7 +350,7 @@
 | [Wicked Game](https://open.spotify.com/track/28sO7MOtRFfrUHrvdBeyfE) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Boy & Bear at Golden Retriever Studio](https://open.spotify.com/album/6RrsqCPJLgyTX5LG8UBbgr) | 4:12 | 2022-06-17 | 2024-04-19 |
 | [Wicked Game](https://open.spotify.com/track/4NYYyLYdfvk4bT5KszQbz9) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Bad People \(Acoustic\)](https://open.spotify.com/album/1M1O2AaMBAbWuUtsGNnU91) | 4:12 | 2022-10-10 | 2022-11-14 |
 | [Wicked Game \- Acoustic](https://open.spotify.com/track/3Gb3RPg5FT3cCn0q1oizZp) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Wicked Game \(Acoustic\)](https://open.spotify.com/album/4zx6qXyr23BJ4yA603Dh8q) | 4:12 | 2022-03-25 | 2024-06-19 |
-| [Wishes](https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Wishes](https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1) | 4:09 | 2024-04-25 |  |
+| [Wishes](https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Wishes](https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1) | 4:09 | 2024-04-25 | 2024-11-05 |
 | [With Small We Start](https://open.spotify.com/track/4iQGuE9dpdo69dij5Qy6DA) | [Emily Barker](https://open.spotify.com/artist/25uHIpsCWoj8wEHFOEhbuV) | [With Small We Start](https://open.spotify.com/album/1e3PPw7d76uh9dJq86FRUl) | 4:03 | 2024-04-18 | 2024-07-13 |
 | [With You](https://open.spotify.com/track/3s9hD6HdtpeaIbr2gxgGJr) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Small Town Rituals](https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh) | 2:51 | 2022-06-17 | 2023-05-10 |
 | [With You](https://open.spotify.com/track/0Bq1REhXXSEvKwH91K3nWc) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/2Q3BIgHqKOmCz0gSeaLnr6) | 3:36 | 2022-03-25 | 2022-07-29 |

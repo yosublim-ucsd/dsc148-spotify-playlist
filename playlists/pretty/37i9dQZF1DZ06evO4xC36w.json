@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 893015,
+  "num_followers": 893217,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAAADg8c7QIlTNb2WazrwKztI",
+  "snapshot_id": "Zya9AAAAAAByt8KvlzmqBKLYn33EHuvO",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/02GT5XJ8SONxqFAY9xW0aI"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 226906,
-      "name": "El Primer Tonto - En Vivo",
-      "url": "https://open.spotify.com/track/0JE86Ioa8unmDIhS8bQvIu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joan Sebastian Con Tambora",
         "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 154749,
       "name": "En Un Jaripeo",
       "url": "https://open.spotify.com/track/3gshXrjB7upvVYgyQo5R4l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/02GT5XJ8SONxqFAY9xW0aI"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 226906,
+      "name": "El Primer Tonto - En Vivo",
+      "url": "https://open.spotify.com/track/0JE86Ioa8unmDIhS8bQvIu"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joan Sebastian Con Tambora",
+        "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 176976,
+      "name": "El Gallo Celoso",
+      "url": "https://open.spotify.com/track/0W4xWWd28GhyzXOsXHV5b5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joan Sebastian Con Mariachi",
         "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 221379,
       "name": "Qu\u00e9 No Te Asombre",
       "url": "https://open.spotify.com/track/0efW8EeMZJJePa39Xt8g23"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joan Sebastian Con Tambora",
-        "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 176976,
-      "name": "El Gallo Celoso",
-      "url": "https://open.spotify.com/track/0W4xWWd28GhyzXOsXHV5b5"
     },
     {
       "added_at": null,

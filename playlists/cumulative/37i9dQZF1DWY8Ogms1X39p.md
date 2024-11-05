@@ -4,7 +4,7 @@
 
 > Feel good songs yang bikin kamu happy
 
-182 songs - 10 hr 20 min
+184 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-04-03 |  |
 | [MAMONEY](https://open.spotify.com/track/6wWzU1FELh7ioiuQtMZ7NA) | [Natasha Udu](https://open.spotify.com/artist/5788KAWYDqWlejC63W92S7) | [MAMONEY](https://open.spotify.com/album/5j8kr0to3ALKqG9K8knJZD) | 3:04 | 2022-12-13 | 2023-06-26 |
 | [Manusia Paling Menyebalkan](https://open.spotify.com/track/3xqrjVYB6lRmewHX9ePnIr) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Manusia Paling Menyebalkan](https://open.spotify.com/album/4HwBlvQNOVmYPontLGdwCz) | 3:09 | 2024-09-02 | 2024-09-10 |
+| [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 | 2024-11-04 |  |
 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-06-20 | 2023-10-12 |
 | [Monokrom](https://open.spotify.com/track/4GfK1qOF3uBWidbPlTCQRL) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:34 | 2022-12-23 | 2023-01-10 |
 | [Mood \(feat\. iann dior\)](https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:20 | 2022-12-13 | 2023-06-21 |
@@ -127,6 +128,7 @@
 | [Over You \(feat\. aespa & Chris Martin\)](https://open.spotify.com/track/7MSZg4Km8CM7NRXTeJoANZ) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 2:53 | 2024-03-26 | 2024-04-19 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-30 | 2024-08-30 |
 | [Party In Bali \(PIB\)](https://open.spotify.com/track/0spo1IvT6CrCLDTVT7ue0O) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z) | [Party In Bali \(PIB\)](https://open.spotify.com/album/1H5xLltL7JBn10Ce9XZfTk) | 2:52 | 2024-08-29 |  |
+| [Pemain Lama](https://open.spotify.com/track/5WUBGlM2gm5U605bYF1i0o) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Pemain Lama](https://open.spotify.com/album/7mXzpe8MN8J61H9fLb7gOQ) | 4:50 | 2024-11-04 |  |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-07-04 |  |
 | [Popular \(with Playboi Carti & Madonna\) \- From The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i) | 3:35 | 2023-09-13 |  |
 | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc) | 3:34 | 2022-12-13 | 2023-06-26 |

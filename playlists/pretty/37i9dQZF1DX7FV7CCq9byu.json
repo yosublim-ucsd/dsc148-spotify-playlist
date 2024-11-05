@@ -1,13 +1,29 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n svensk & internationell pop.",
-  "num_followers": 174430,
+  "num_followers": 174454,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQL8AAAAADXtg/k5BvhTaAzVmB2qerR",
+  "snapshot_id": "ZyikuwAAAADNRrEEPceoPUXEZ+OQ8hsr",
   "tracks": [
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Pink Velvet Theatre",
+        "url": "https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 252093,
+      "name": "Angela",
+      "url": "https://open.spotify.com/track/0ltWabjFKp4e1qqS93DI2n"
+    },
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
@@ -31,18 +47,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Pink Velvet Theatre",
-        "url": "https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC"
+        "name": "Stannar vi kvar h\u00e4r s\u00e5 d\u00f6r vi",
+        "url": "https://open.spotify.com/album/1kyZ7ToGWJiXmJX3MjUdDT"
       },
       "artists": [
         {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
         }
       ],
-      "duration_ms": 252093,
-      "name": "Angela",
-      "url": "https://open.spotify.com/track/0ltWabjFKp4e1qqS93DI2n"
+      "duration_ms": 180133,
+      "name": "Stannar vi kvar h\u00e4r s\u00e5 d\u00f6r vi",
+      "url": "https://open.spotify.com/track/1zHIvkE5jniT18H9IyHQzn"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -77,36 +93,24 @@
       "url": "https://open.spotify.com/track/198asGCZWwoQVdLxYSlPTx"
     },
     {
-      "added_at": "2024-10-31 23:00:00",
+      "added_at": "2024-11-04 08:49:31",
       "album": {
-        "name": "Stannar vi kvar h\u00e4r s\u00e5 d\u00f6r vi",
-        "url": "https://open.spotify.com/album/1kyZ7ToGWJiXmJX3MjUdDT"
+        "name": "H\u00f6sten",
+        "url": "https://open.spotify.com/album/2JCUV7tSFVGrHoddIqL9Hm"
       },
       "artists": [
         {
-          "name": "Klaudy",
-          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
-        }
-      ],
-      "duration_ms": 180133,
-      "name": "Stannar vi kvar h\u00e4r s\u00e5 d\u00f6r vi",
-      "url": "https://open.spotify.com/track/1zHIvkE5jniT18H9IyHQzn"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "10/10",
-        "url": "https://open.spotify.com/album/6XR7x0yo8BgOU5CdIUJPVX"
-      },
-      "artists": [
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        },
         {
-          "name": "joel",
-          "url": "https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR"
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
         }
       ],
-      "duration_ms": 172653,
-      "name": "10/10",
-      "url": "https://open.spotify.com/track/0A19MZxroYjdFfwF3xvShG"
+      "duration_ms": 284360,
+      "name": "H\u00f6sten",
+      "url": "https://open.spotify.com/track/65Am6nqheamqdvPcpyz47o"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -127,6 +131,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "10/10",
+        "url": "https://open.spotify.com/album/6XR7x0yo8BgOU5CdIUJPVX"
+      },
+      "artists": [
+        {
+          "name": "joel",
+          "url": "https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/0A19MZxroYjdFfwF3xvShG"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Heart of Gold",
         "url": "https://open.spotify.com/album/1cMeCtprtHWW2XytkPUthL"
       },
@@ -139,6 +159,26 @@
       "duration_ms": 171607,
       "name": "Heart of Gold",
       "url": "https://open.spotify.com/track/1VQfrKbnGSZnEFoGpfVnS8"
+    },
+    {
+      "added_at": "2024-11-04 10:40:59",
+      "album": {
+        "name": "FRIHET I LENKER",
+        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        },
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "SAMMEN",
+      "url": "https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ"
     },
     {
       "added_at": "2024-10-31 23:00:00",

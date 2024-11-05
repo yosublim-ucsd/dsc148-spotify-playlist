@@ -1,12 +1,12 @@
 {
   "description": "Soft and warm Christmas songs from recent years. Cover: Kelly Clarkson",
-  "num_followers": 101819,
+  "num_followers": 101951,
   "original_name": "Cozy Christmas Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZXnQBQAAAAC4q8GSkMf3GY7dpMSeJq49",
+  "snapshot_id": "ZyjsNQAAAAC8o3F2O8mehvx5O9DsugIC",
   "tracks": [
     {
       "added_at": "2023-12-13 15:38:45",
@@ -29,6 +29,54 @@
       "url": "https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt"
     },
     {
+      "added_at": "2024-11-04 15:45:57",
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/7qZx1FWE5Li3mAPmUlyCHx"
+      },
+      "artists": [
+        {
+          "name": "Kate Hudson",
+          "url": "https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME"
+        }
+      ],
+      "duration_ms": 235271,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/0jPnNZS9IJ0awbpFLZr3EY"
+    },
+    {
+      "added_at": "2024-11-04 15:45:57",
+      "album": {
+        "name": "Driving Home for Christmas - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 166551,
+      "name": "Driving Home for Christmas - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl"
+    },
+    {
+      "added_at": "2023-12-13 15:38:45",
+      "album": {
+        "name": "Snowman (Slowed Down & Snowed In Remix)",
+        "url": "https://open.spotify.com/album/7Ktba0IWwrAyFpoUNc0bL8"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 180275,
+      "name": "Snowman - Slowed Down",
+      "url": "https://open.spotify.com/track/6Ob0vkoBVpja3yLQkjCdpK"
+    },
+    {
       "added_at": "2023-12-13 15:38:45",
       "album": {
         "name": "Spotify Singles Holiday",
@@ -43,6 +91,22 @@
       "duration_ms": 132800,
       "name": "Winter Wonderland - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
+    },
+    {
+      "added_at": "2024-11-04 15:45:57",
+      "album": {
+        "name": "Meet Me Next Christmas",
+        "url": "https://open.spotify.com/album/2VVfxBR6rxdMOyBPQZAyPx"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 163922,
+      "name": "Meet Me Next Christmas",
+      "url": "https://open.spotify.com/track/71c1qn8GR6xhx7pFjWWcks"
     },
     {
       "added_at": "2023-12-13 15:38:45",
@@ -83,6 +147,46 @@
       "duration_ms": 146191,
       "name": "We Wish You The Merriest",
       "url": "https://open.spotify.com/track/5kPu4qgd0a1e5e6kveFnNr"
+    },
+    {
+      "added_at": "2024-11-04 15:45:57",
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/639swiJ9q9k6wwqOSgi2w8"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        },
+        {
+          "name": "Liz Gillies",
+          "url": "https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB"
+        }
+      ],
+      "duration_ms": 270837,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/7EVeLwnM6KTokvCHEmAQPR"
+    },
+    {
+      "added_at": "2024-11-04 15:45:57",
+      "album": {
+        "name": "Sweet December (feat. Kelly Clarkson)",
+        "url": "https://open.spotify.com/album/6cqilu8CWH4qW1xfU499OL"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 200880,
+      "name": "Sweet December (feat. Kelly Clarkson)",
+      "url": "https://open.spotify.com/track/3WjuBnuW3JHSHtxet4V38x"
     },
     {
       "added_at": "2023-12-13 15:38:45",
@@ -137,52 +241,20 @@
       "url": "https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow"
     },
     {
-      "added_at": "2023-12-13 15:38:45",
+      "added_at": "2024-11-04 15:45:57",
       "album": {
-        "name": "Snowman (Slowed Down & Snowed In Remix)",
-        "url": "https://open.spotify.com/album/7Ktba0IWwrAyFpoUNc0bL8"
+        "name": "Sounding Joy - The Holiday Album",
+        "url": "https://open.spotify.com/album/2vYBHby5RY09iXl19GybkT"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Lea Salonga",
+          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
         }
       ],
-      "duration_ms": 180275,
-      "name": "Snowman - Slowed Down",
-      "url": "https://open.spotify.com/track/6Ob0vkoBVpja3yLQkjCdpK"
-    },
-    {
-      "added_at": "2023-12-13 15:38:45",
-      "album": {
-        "name": "A Classic Christmas",
-        "url": "https://open.spotify.com/album/5zPiyi6NAqHkuETPjhBHW1"
-      },
-      "artists": [
-        {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
-        }
-      ],
-      "duration_ms": 153200,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/1C85AHCMc9BjX5SWeUEsHo"
-    },
-    {
-      "added_at": "2023-12-13 15:38:45",
-      "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 170964,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K"
+      "duration_ms": 265409,
+      "name": "All I Want for Christmas is You",
+      "url": "https://open.spotify.com/track/3wYEx4RW5wwLCDPJqV8UI6"
     },
     {
       "added_at": "2023-12-13 15:38:45",
@@ -203,6 +275,26 @@
     {
       "added_at": "2023-12-13 15:38:45",
       "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 224586,
+      "name": "Home (with Michael Bubl\u00e9)",
+      "url": "https://open.spotify.com/track/4nX0jG14mSIi0LcmK3sq0b"
+    },
+    {
+      "added_at": "2023-12-13 15:38:45",
+      "album": {
         "name": "We Need Christmas (Extended Version)",
         "url": "https://open.spotify.com/album/4BG1fw7D43HDyTfvabUGGO"
       },
@@ -215,6 +307,22 @@
       "duration_ms": 139405,
       "name": "It's Beginning To Look A Lot Like Christmas",
       "url": "https://open.spotify.com/track/1WFjVtWkQhMnaaKgg3sDb3"
+    },
+    {
+      "added_at": "2024-11-04 15:45:57",
+      "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/2zPZAQ0uXCGLODxYGQyFqZ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/45fY77CtQcaLXPSzuDgIV0"
     },
     {
       "added_at": "2023-12-13 15:38:45",
@@ -251,42 +359,6 @@
     {
       "added_at": "2023-12-13 15:38:45",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        },
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 224586,
-      "name": "Home (with Michael Bubl\u00e9)",
-      "url": "https://open.spotify.com/track/4nX0jG14mSIi0LcmK3sq0b"
-    },
-    {
-      "added_at": "2023-12-13 15:38:45",
-      "album": {
-        "name": "White Christmas (Spotify Singles - Christmas, Recorded at Sound Stage Studios Nashville)",
-        "url": "https://open.spotify.com/album/4khvhw7hfvRpSU1EokuED4"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 194311,
-      "name": "White Christmas - Spotify Singles - Christmas, Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/71azyw4EJDlGru5Uw6DGzT"
-    },
-    {
-      "added_at": "2023-12-13 15:38:45",
-      "album": {
         "name": "Christmas Lights",
         "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
       },
@@ -299,6 +371,22 @@
       "duration_ms": 242495,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
+    },
+    {
+      "added_at": "2024-11-04 15:45:57",
+      "album": {
+        "name": "Just For Christmas",
+        "url": "https://open.spotify.com/album/2YdhWedROvAPrpXCtcu9hR"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 191096,
+      "name": "Just For Christmas",
+      "url": "https://open.spotify.com/track/7IUlxfabTQQpp0VsRIU8sa"
     },
     {
       "added_at": "2023-12-13 15:38:45",
@@ -379,6 +467,22 @@
     {
       "added_at": "2023-12-13 15:38:45",
       "album": {
+        "name": "A Classic Christmas",
+        "url": "https://open.spotify.com/album/5zPiyi6NAqHkuETPjhBHW1"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "duration_ms": 153200,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/1C85AHCMc9BjX5SWeUEsHo"
+    },
+    {
+      "added_at": "2023-12-13 15:38:45",
+      "album": {
         "name": "Christmas with The Tenors",
         "url": "https://open.spotify.com/album/3KPvwbNGc4WL7IzvD0fP2V"
       },
@@ -447,26 +551,6 @@
       "duration_ms": 218920,
       "name": "Baby, It's Cold Outside (feat. Kelly Clarkson)",
       "url": "https://open.spotify.com/track/54q6WgqyTXjwOSrevVR8z9"
-    },
-    {
-      "added_at": "2023-12-13 15:38:45",
-      "album": {
-        "name": "Christmas With You",
-        "url": "https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 166594,
-      "name": "Better Than Snow",
-      "url": "https://open.spotify.com/track/74H6uHl17HLeYWshgDfMrX"
     },
     {
       "added_at": "2023-12-13 15:38:45",
@@ -623,26 +707,6 @@
     {
       "added_at": "2023-12-13 15:38:45",
       "album": {
-        "name": "All I Want for Christmas Is You",
-        "url": "https://open.spotify.com/album/7M8mmTP5ev3BSi6w1WwKYG"
-      },
-      "artists": [
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
-        },
-        {
-          "name": "Brigetta",
-          "url": "https://open.spotify.com/artist/6dAOkHEQVpVD8mFj7OQv8M"
-        }
-      ],
-      "duration_ms": 221006,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/12nlKk8JT0ppyGVY9bYKv8"
-    },
-    {
-      "added_at": "2023-12-13 15:38:45",
-      "album": {
         "name": "Kissin' In The Cold",
         "url": "https://open.spotify.com/album/1HsifiywuteSStUutGfkpO"
       },
@@ -691,26 +755,6 @@
       "duration_ms": 213754,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/7DdZ71jA1MP44CSfQPl0qE"
-    },
-    {
-      "added_at": "2023-12-13 15:38:45",
-      "album": {
-        "name": "Ain't Christmas (with Laufey)",
-        "url": "https://open.spotify.com/album/4O0enrkdTf0pNzVAx6QeEL"
-      },
-      "artists": [
-        {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
-        },
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 189088,
-      "name": "Ain't Christmas (with Laufey)",
-      "url": "https://open.spotify.com/track/1ishMaKoZFGrxFdGLa2qZN"
     },
     {
       "added_at": "2023-12-13 15:38:45",
@@ -827,22 +871,6 @@
       "duration_ms": 216220,
       "name": "Night Before Christmas",
       "url": "https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x"
-    },
-    {
-      "added_at": "2023-12-13 15:38:45",
-      "album": {
-        "name": "A Very Cozy Christmas",
-        "url": "https://open.spotify.com/album/6C4mRN0DaAqdrrZDktAfxJ"
-      },
-      "artists": [
-        {
-          "name": "Laura Elliott",
-          "url": "https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox"
-        }
-      ],
-      "duration_ms": 105100,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/3YUCVlhL7UFiWTh6i8b4ve"
     },
     {
       "added_at": "2023-12-13 15:38:45",
@@ -975,22 +1003,6 @@
     {
       "added_at": "2023-12-13 15:38:45",
       "album": {
-        "name": "A Very Laufey Holiday!",
-        "url": "https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 153226,
-      "name": "Christmas Dreaming",
-      "url": "https://open.spotify.com/track/2UOmGbjOCNrnpnujfgjGKS"
-    },
-    {
-      "added_at": "2023-12-13 15:38:45",
-      "album": {
         "name": "Christmas Time",
         "url": "https://open.spotify.com/album/2jURLzMPgGdJYJh0WZqGT8"
       },
@@ -1119,22 +1131,6 @@
       "duration_ms": 150698,
       "name": "December, Darling",
       "url": "https://open.spotify.com/track/2SS9WRFDOkgiRlqt6AL85f"
-    },
-    {
-      "added_at": "2023-12-13 15:38:45",
-      "album": {
-        "name": "dear santa",
-        "url": "https://open.spotify.com/album/5895JDGi3kkWEvkBf8LE7z"
-      },
-      "artists": [
-        {
-          "name": "emlyn",
-          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
-        }
-      ],
-      "duration_ms": 197778,
-      "name": "dear santa",
-      "url": "https://open.spotify.com/track/0kAllljYVZIuntRxyw9KOF"
     },
     {
       "added_at": "2023-12-13 15:38:45",
@@ -1663,26 +1659,6 @@
       "duration_ms": 202613,
       "name": "Loneliest Time Of Year",
       "url": "https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh"
-    },
-    {
-      "added_at": "2023-12-13 15:38:45",
-      "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/7bzooZ5hpkaLmxvp4NKsnV"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        },
-        {
-          "name": "Hannah Grace",
-          "url": "https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB"
-        }
-      ],
-      "duration_ms": 279186,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/7Aino8hE1To2Sz4sKSUvcx"
     },
     {
       "added_at": "2023-12-13 15:38:45",

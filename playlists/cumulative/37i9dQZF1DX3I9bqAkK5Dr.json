@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 177000,
       "name": "Adugu Adugu",
       "url": "https://open.spotify.com/track/09LRs4WvTtYN4GHlpIqX6z"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 204827,
       "name": "AMMA - Janmaala Runamu Kanipinchava",
       "url": "https://open.spotify.com/track/14VaG9fGETELHF1EkbWO5N"
@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 186775,
       "name": "Gangulu",
       "url": "https://open.spotify.com/track/7w8FMDcDJcDWAw5UKXc2j7"
@@ -2126,6 +2126,32 @@
       "duration_ms": 209996,
       "name": "Kalavarama",
       "url": "https://open.spotify.com/track/5sJUHIyPP0IBDoasbFKt31"
+    },
+    {
+      "album": {
+        "name": "Kale Theera",
+        "url": "https://open.spotify.com/album/2kpqsxK48MoF2OF29DZBcZ"
+      },
+      "artists": [
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Usha Prasanna",
+          "url": "https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS"
+        },
+        {
+          "name": "Akshay Yesodharan",
+          "url": "https://open.spotify.com/artist/0v3tdZjCZmBF6L7H05dbwN"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209333,
+      "name": "Kale Theera",
+      "url": "https://open.spotify.com/track/7FH3bPecMXGlkwHXuDZDW7"
     },
     {
       "album": {
@@ -3384,7 +3410,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 260812,
       "name": "Nee Mayalle",
       "url": "https://open.spotify.com/track/5TSYat36WSJnohMX2Vh9w4"
@@ -4104,6 +4130,24 @@
       "duration_ms": 171428,
       "name": "Oohale Oosule",
       "url": "https://open.spotify.com/track/4lyl9K1D7syj1d0LL8nNGA"
+    },
+    {
+      "album": {
+        "name": "Oopiri",
+        "url": "https://open.spotify.com/album/47VDvKGwLPielokigmZ8yK"
+      },
+      "artists": [
+        {
+          "name": "Vamsi Kalakuntla",
+          "url": "https://open.spotify.com/artist/2cp7HPGk7Nd28mDkwJQgkk"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239547,
+      "name": "Oopiri",
+      "url": "https://open.spotify.com/track/3pJEDr2NKBJJR4ykXWSjjZ"
     },
     {
       "album": {
@@ -6248,6 +6292,24 @@
       "duration_ms": 324000,
       "name": "Vennela",
       "url": "https://open.spotify.com/track/0sDIs50Evxlou7oIfo9i2J"
+    },
+    {
+      "album": {
+        "name": "Vidipothe",
+        "url": "https://open.spotify.com/album/2f7j5zS8Nz26KCUAW5iuUt"
+      },
+      "artists": [
+        {
+          "name": "Rohith Samuel Ganta",
+          "url": "https://open.spotify.com/artist/1FbFPqgM6s7d9kWriJcgHC"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244660,
+      "name": "Vidipothe",
+      "url": "https://open.spotify.com/track/6lxj734hdJUn9bNyH9g3gr"
     },
     {
       "album": {

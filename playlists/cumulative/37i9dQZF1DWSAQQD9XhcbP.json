@@ -294,7 +294,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 195973,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/4lRJn8pMjprzSBf7IhWL7D"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 189813,
       "name": "It Came Upon The Midnight Clear",
       "url": "https://open.spotify.com/track/4zjQjevGJIUCjAJB2qbThT"
@@ -1631,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "Meet Me Next Christmas",
+        "url": "https://open.spotify.com/album/2VVfxBR6rxdMOyBPQZAyPx"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163922,
+      "name": "Meet Me Next Christmas",
+      "url": "https://open.spotify.com/track/71c1qn8GR6xhx7pFjWWcks"
+    },
+    {
+      "album": {
         "name": "HAPPINESS is\u2026Christmas!",
         "url": "https://open.spotify.com/album/6CMgL701fxsN5Qb6pZN49j"
       },
@@ -2032,6 +2050,28 @@
       "duration_ms": 242866,
       "name": "Snowflake",
       "url": "https://open.spotify.com/track/3ozttElSI0x31gVQYnRPLs"
+    },
+    {
+      "album": {
+        "name": "Sweet December (feat. Kelly Clarkson)",
+        "url": "https://open.spotify.com/album/6cqilu8CWH4qW1xfU499OL"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200880,
+      "name": "Sweet December (feat. Kelly Clarkson)",
+      "url": "https://open.spotify.com/track/3WjuBnuW3JHSHtxet4V38x"
     },
     {
       "album": {

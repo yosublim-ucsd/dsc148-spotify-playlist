@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with TheHonestGuy from Toronto, ON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,929 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,986 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Say Yes](https://open.spotify.com/track/24elH6i4AZUcsPQrsQgSUA) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Say Yes](https://open.spotify.com/album/2KjvoZQwm2PoYkTGyJNeP7) | 3:45 |
 | 2 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Mojam](https://open.spotify.com/artist/5Ow1i0OsFyhm7yXFnHGfPu) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
 | 3 | [Take Your Mask Off \(feat\. Daniel Caesar & LaToiya Williams\)](https://open.spotify.com/track/4BSR9I4ExlCJdXJo2GpBD5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [LaToiya Williams](https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 |
-| 4 | [Sublimation](https://open.spotify.com/track/3ovzms5fWVT3cayO5fGZN4) | [Legendes Industries](https://open.spotify.com/artist/0DJutzzjro4AISmIYnzQKZ), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Sublimation](https://open.spotify.com/album/6dA3Y7WIjixKFCqflFgkFk) | 2:54 |
-| 5 | [Outside The Gate](https://open.spotify.com/track/3fBZXCguP12EXiR2BPcBww) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Outside The Gate](https://open.spotify.com/album/3cy7SvZTKU3a0LDKjaQMxz) | 3:26 |
-| 6 | [OMG](https://open.spotify.com/track/4qowXkItbd8sIw2t3PfdRO) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL](https://open.spotify.com/album/64XKBCW9qJgHqZDuiCg6Qn) | 3:14 |
+| 4 | [OMG](https://open.spotify.com/track/4qowXkItbd8sIw2t3PfdRO) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL](https://open.spotify.com/album/64XKBCW9qJgHqZDuiCg6Qn) | 3:14 |
+| 5 | [Sublimation](https://open.spotify.com/track/3ovzms5fWVT3cayO5fGZN4) | [Legendes Industries](https://open.spotify.com/artist/0DJutzzjro4AISmIYnzQKZ), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Sublimation](https://open.spotify.com/album/6dA3Y7WIjixKFCqflFgkFk) | 2:54 |
+| 6 | [Outside The Gate](https://open.spotify.com/track/3fBZXCguP12EXiR2BPcBww) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Outside The Gate](https://open.spotify.com/album/3cy7SvZTKU3a0LDKjaQMxz) | 3:26 |
 | 7 | [Favour](https://open.spotify.com/track/7lTUaX0Bs1uE9ALFsmLF8G) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Favour](https://open.spotify.com/album/1t3qbk6POPJIh0DnEDW2rF) | 2:36 |
 | 8 | [Life 2](https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Life 2](https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e) | 3:23 |
 | 9 | [Limbo](https://open.spotify.com/track/0S9JTiTJwZwkHI0VyoDeGn) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Limbo](https://open.spotify.com/album/3MQzzTzLhhGqPRJTyMCgqj) | 3:03 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 74 | [My Way](https://open.spotify.com/track/5PFNNFzXDmLBPrcmpO5EYW) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Cyan Blue](https://open.spotify.com/album/3LbVUrbAn8r1EWvqmJAmy4) | 3:29 |
 | 75 | [Afro Blue](https://open.spotify.com/track/74URiG6anoH3ahw3SeDrZ4) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Circles](https://open.spotify.com/album/4qnV1lETL7Q41TaqiKqSiN) | 3:51 |
 
-Snapshot ID: `ZyRSQAAAAACqfLIqVf9tKgz8fqacWtda`
+Snapshot ID: `Zyj7WwAAAAAfMyiTlnSan8hSP4GnbbG2`

@@ -4,7 +4,7 @@
 
 > Discover the bangers of the Middle East and North Africa.<br/>Cover : Disco Misr, TUL8TE
 
-79 songs - 4 hr 5 min
+80 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7) | 3:02 | 2024-03-08 | 2024-09-09 |
 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/2oMCQhVDHhzKEHk5rN6T1E) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:02 | 2024-09-08 |  |
 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 | 2024-03-08 | 2024-09-09 |
+| [DOUBLEZUKSH](https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DOUBLEZUKSH](https://open.spotify.com/album/1iMdjemLV030iRZY08YnuE) | 4:09 | 2024-11-04 |  |
 | [Douwi Douwi](https://open.spotify.com/track/2SQF7fpgxcJEFucbJQJxPz) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Champion](https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5) | 3:02 | 2024-09-08 |  |
 | [DRILL MENA](https://open.spotify.com/track/2BVVXtq5DYowMXCumxB85B) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [DRILL MENA](https://open.spotify.com/album/1NhhAIb1qud4wh9Ih8xkTm) | 2:54 | 2024-03-08 | 2024-09-09 |
 | [DÉJÀ VU](https://open.spotify.com/track/0merm849HwHiuIIAU0Nb9T) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [PRJKTBLUBEAM](https://open.spotify.com/album/0rJxCuUYsfbFQZomCBLWtc) | 2:39 | 2024-09-08 |  |

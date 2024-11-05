@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 
 > This is Kittie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,194 likes - 48 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,204 likes - 48 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 | 26 | [Are You Entertained?](https://open.spotify.com/track/2viJ1AhXAYhetDvauy3dml) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 3:15 |
 | 27 | [Career Suicide](https://open.spotify.com/track/3M9cWjh494fgexcM1cDWh0) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Until the End](https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ) | 3:55 |
 | 28 | [Die My Darling](https://open.spotify.com/track/5uk5KmlJbMMiCK5DNKHSaM) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 2:46 |
-| 29 | [Breathe](https://open.spotify.com/track/1iZRyN9aA1pYdD3hqYxNec) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Funeral For Yesterday](https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj) | 3:11 |
-| 30 | [We Are The Lamb](https://open.spotify.com/track/1p14HQkkE9KFyzAvLMT8IH) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 2:51 |
+| 29 | [We Are The Lamb](https://open.spotify.com/track/1p14HQkkE9KFyzAvLMT8IH) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 2:51 |
+| 30 | [Breathe](https://open.spotify.com/track/1iZRyN9aA1pYdD3hqYxNec) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Funeral For Yesterday](https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj) | 3:11 |
 | 31 | [Look So Pretty](https://open.spotify.com/track/3mJKYpyiqfftfLmAE5PBIU) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Until the End](https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ) | 5:29 |
 | 32 | [My Plague](https://open.spotify.com/track/3Riuyxso4Zj3w1IVUw3waL) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 3:05 |
 | 33 | [Live At The Tweeter Center Boston / 2000 \- Single Edit \- Live](https://open.spotify.com/track/6GftFf7iY3hxND9omCxZSf) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Brackish \(Live\)](https://open.spotify.com/album/3I6DAJjRgLnhgyKStxUnvg) | 2:52 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 | 47 | [What Have I Done?](https://open.spotify.com/track/3emGJN0Mc6vibbn50avynV) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 5:25 |
 | 48 | [Around Your Heart](https://open.spotify.com/track/2LMK7i9K7mvr3T7M0TlIb7) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Funeral For Yesterday](https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj) | 2:56 |
 
-Snapshot ID: `ZyVrgAAAAADxNmO8GK0KDFksupysNc47`
+Snapshot ID: `Zya9AAAAAAALnGGZg3YJuSbYooZlm2aE`

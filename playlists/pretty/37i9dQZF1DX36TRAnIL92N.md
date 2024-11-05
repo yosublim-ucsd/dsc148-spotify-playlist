@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,627 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,860 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 33 | [Universal Nation \- Charlotte de Witte Rework](https://open.spotify.com/track/4OrY514bfwTTtykP7s049a) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Nation \(Charlotte de Witte Rework\)](https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq) | 7:32 |
 | 34 | [PARADISE](https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [PARADISE](https://open.spotify.com/album/6lumo11dn8gPbLLdmpe1PZ) | 2:43 |
 | 35 | [Remedy](https://open.spotify.com/track/1j611ghQfHnBMnqSZCoxc8) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Remedy](https://open.spotify.com/album/0q5uRkPKHeKcNoco1IuZ8R) | 2:43 |
-| 36 | [When I Rock \- A.D.H.S\. Remix](https://open.spotify.com/track/2RZUzI8KssitQ4SYPr1xUd) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [When I Rock \(A.D.H.S\. Remix\)](https://open.spotify.com/album/3AUUUXLVRCj3nHbGHPT0ic) | 4:19 |
+| 36 | [Latin Lovers \- Joyhauser Remix](https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Latin Lovers \(Joyhauser Remix & Original\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 4:35 |
 | 37 | [Feeling](https://open.spotify.com/track/1KMru1wRFP6Qhi2jjjQfSb) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ), [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Feeling](https://open.spotify.com/album/2hYXwW0l3RjqMZSwtm0qcy) | 3:15 |
-| 38 | [Latin Lovers \- Joyhauser Remix](https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Latin Lovers \(Joyhauser Remix & Original\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 4:35 |
+| 38 | [When I Rock \- A.D.H.S\. Remix](https://open.spotify.com/track/2RZUzI8KssitQ4SYPr1xUd) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [When I Rock \(A.D.H.S\. Remix\)](https://open.spotify.com/album/3AUUUXLVRCj3nHbGHPT0ic) | 4:19 |
 | 39 | [Minimal](https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [MNML](https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8) | 6:30 |
 | 40 | [ORION](https://open.spotify.com/track/5EhsdUx1N4JTcokotQT71c) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [ORION](https://open.spotify.com/album/2PYilagLkHCFnVRKgXs39A) | 3:21 |
 | 41 | [Better Than U Thought](https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Better Than U Thought](https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG) | 3:09 |

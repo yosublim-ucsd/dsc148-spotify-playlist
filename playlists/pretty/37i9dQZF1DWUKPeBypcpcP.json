@@ -1,6 +1,6 @@
 {
   "description": "Where nature and white noise meet.",
-  "num_followers": 908493,
+  "num_followers": 908560,
   "original_name": "Nature Noise",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Mossy Meditation Green Noise Soundscapes",
-        "url": "https://open.spotify.com/album/2EWdGfEhmnO4uiG2zhz56k"
-      },
-      "artists": [
-        {
-          "name": "The Nature Soundscapes",
-          "url": "https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Mossy Meditation - Green Noise",
-      "url": "https://open.spotify.com/track/34SUEroznWC8R56VYSGKx1"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Peaceful Rain Recordings",
         "url": "https://open.spotify.com/album/4DlF8SX13AdB37uKVgMziM"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 170000,
       "name": "Forest Rain",
       "url": "https://open.spotify.com/track/6ADPydLM8fmi6fjO9ZXAb8"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Mossy Meditation Green Noise Soundscapes",
+        "url": "https://open.spotify.com/album/2EWdGfEhmnO4uiG2zhz56k"
+      },
+      "artists": [
+        {
+          "name": "The Nature Soundscapes",
+          "url": "https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Mossy Meditation - Green Noise",
+      "url": "https://open.spotify.com/track/34SUEroznWC8R56VYSGKx1"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Weather and Nature Sounds",
-        "url": "https://open.spotify.com/album/3wWgSu413Q50AqwXnc6Ui7"
-      },
-      "artists": [
-        {
-          "name": "Earthlite",
-          "url": "https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p"
-        }
-      ],
-      "duration_ms": 182358,
-      "name": "River Roots",
-      "url": "https://open.spotify.com/track/2g8lc5nr98KWHdQHh0FdNP"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Sunday Night Waves",
         "url": "https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 174345,
       "name": "Misty Waves",
       "url": "https://open.spotify.com/track/0NMm7e8hghkc45813KsWOn"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Weather and Nature Sounds",
+        "url": "https://open.spotify.com/album/3wWgSu413Q50AqwXnc6Ui7"
+      },
+      "artists": [
+        {
+          "name": "Earthlite",
+          "url": "https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p"
+        }
+      ],
+      "duration_ms": 182358,
+      "name": "River Roots",
+      "url": "https://open.spotify.com/track/2g8lc5nr98KWHdQHh0FdNP"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Summer Rain",
-        "url": "https://open.spotify.com/album/089nbe8JjcObU0nej5hJKb"
-      },
-      "artists": [
-        {
-          "name": "Rain Sounds FX",
-          "url": "https://open.spotify.com/artist/3oA1rlM2x6SYsgVwc9kikK"
-        }
-      ],
-      "duration_ms": 152883,
-      "name": "Summer Rain",
-      "url": "https://open.spotify.com/track/7a3eLJPSgAk3PQbpYjrYdM"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Peaceful Rain Sleep",
         "url": "https://open.spotify.com/album/3HIatTLC5cX3O0EGOFsPDQ"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Sunday Night Waves",
-        "url": "https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs"
+        "name": "Summer Rain",
+        "url": "https://open.spotify.com/album/089nbe8JjcObU0nej5hJKb"
       },
       "artists": [
         {
-          "name": "Microdynamic Recordings",
-          "url": "https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9"
+          "name": "Rain Sounds FX",
+          "url": "https://open.spotify.com/artist/3oA1rlM2x6SYsgVwc9kikK"
         }
       ],
-      "duration_ms": 180777,
-      "name": "Calm Pouring Ocean",
-      "url": "https://open.spotify.com/track/6AiW2dz9mOgsZjsEKwAhIv"
+      "duration_ms": 152883,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/7a3eLJPSgAk3PQbpYjrYdM"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -791,6 +775,22 @@
       "duration_ms": 208619,
       "name": "Forest Rain",
       "url": "https://open.spotify.com/track/1gDhRTrbT942IknQqleVqB"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Sunday Night Waves",
+        "url": "https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs"
+      },
+      "artists": [
+        {
+          "name": "Microdynamic Recordings",
+          "url": "https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9"
+        }
+      ],
+      "duration_ms": 180777,
+      "name": "Calm Pouring Ocean",
+      "url": "https://open.spotify.com/track/6AiW2dz9mOgsZjsEKwAhIv"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Ocean Noises",
-        "url": "https://open.spotify.com/album/0szLMw3GmyGkoN7KVS39Mk"
-      },
-      "artists": [
-        {
-          "name": "Ocean Bank",
-          "url": "https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr"
-        }
-      ],
-      "duration_ms": 247471,
-      "name": "By The Docks",
-      "url": "https://open.spotify.com/track/1nVn1Mf8bUbANYgozOoCuq"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Stereo Waves",
         "url": "https://open.spotify.com/album/0jsBg94hPzWjFfGYUFwdJJ"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 154284,
       "name": "Stereo Waves",
       "url": "https://open.spotify.com/track/29DeShLV9kzW2RXeTpo8bX"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Ocean Noises",
+        "url": "https://open.spotify.com/album/0szLMw3GmyGkoN7KVS39Mk"
+      },
+      "artists": [
+        {
+          "name": "Ocean Bank",
+          "url": "https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr"
+        }
+      ],
+      "duration_ms": 247471,
+      "name": "By The Docks",
+      "url": "https://open.spotify.com/track/1nVn1Mf8bUbANYgozOoCuq"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
+        "name": "Rain Healing",
+        "url": "https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX"
+      },
+      "artists": [
+        {
+          "name": "Heal Your Soul",
+          "url": "https://open.spotify.com/artist/67Ids2ljNbqqydXuFkpamw"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Eternal Rain",
+      "url": "https://open.spotify.com/track/2fWQD5MZ0TxrgNDqcBZkCB"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
         "name": "Gentle Waters",
         "url": "https://open.spotify.com/album/2JDyyTD89nIEtUddaUuawD"
       },
@@ -1019,18 +1035,18 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Rain Healing",
-        "url": "https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX"
+        "name": "Rainfall Place",
+        "url": "https://open.spotify.com/album/0XYQjSIyavsYfrPr7XiUsN"
       },
       "artists": [
         {
-          "name": "Heal Your Soul",
-          "url": "https://open.spotify.com/artist/67Ids2ljNbqqydXuFkpamw"
+          "name": "Rainfall Place",
+          "url": "https://open.spotify.com/artist/12VKP0dcM6h7NRx0UPgqXX"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Eternal Rain",
-      "url": "https://open.spotify.com/track/2fWQD5MZ0TxrgNDqcBZkCB"
+      "duration_ms": 142663,
+      "name": "Sleep Well Rain",
+      "url": "https://open.spotify.com/track/1uf2Q4KhwuhWJ7DFBDrGvZ"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1047,22 +1063,6 @@
       "duration_ms": 208000,
       "name": "Rain Days On End",
       "url": "https://open.spotify.com/track/3Jn8zSkXJjUgYY6BMt63HY"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
-        "name": "Rainfall Place",
-        "url": "https://open.spotify.com/album/0XYQjSIyavsYfrPr7XiUsN"
-      },
-      "artists": [
-        {
-          "name": "Rainfall Place",
-          "url": "https://open.spotify.com/artist/12VKP0dcM6h7NRx0UPgqXX"
-        }
-      ],
-      "duration_ms": 142663,
-      "name": "Sleep Well Rain",
-      "url": "https://open.spotify.com/track/1uf2Q4KhwuhWJ7DFBDrGvZ"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Nighttime Waves",
-        "url": "https://open.spotify.com/album/6Ya4idfkceVw1AmzjXeqeW"
-      },
-      "artists": [
-        {
-          "name": "Aurise",
-          "url": "https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "Soothing Lake Waves",
-      "url": "https://open.spotify.com/track/2FFkQBFoPY14EbwDijOOnG"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Suburban Rain Sounds",
         "url": "https://open.spotify.com/album/0TgW0ohXTbUPnZBvkUVih2"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 211019,
       "name": "Steady Rainfall",
       "url": "https://open.spotify.com/track/39BW5mOBurJlUpeIJhzrys"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Nighttime Waves",
+        "url": "https://open.spotify.com/album/6Ya4idfkceVw1AmzjXeqeW"
+      },
+      "artists": [
+        {
+          "name": "Aurise",
+          "url": "https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "Soothing Lake Waves",
+      "url": "https://open.spotify.com/track/2FFkQBFoPY14EbwDijOOnG"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Noises Of Ambience",
-        "url": "https://open.spotify.com/album/14CPqVzJefFRKUBZjZKUfK"
+        "name": "Rain Temperature",
+        "url": "https://open.spotify.com/album/1u5TyUwxUZCDh7ioaiLFzS"
       },
       "artists": [
         {
-          "name": "Noises Of Ambience",
-          "url": "https://open.spotify.com/artist/1G3MR4Gr6zFvXxm275w316"
+          "name": "Coalezense",
+          "url": "https://open.spotify.com/artist/2ScfEr3NwHu6Lkzlp6h7v8"
         }
       ],
-      "duration_ms": 145635,
-      "name": "Natures White Noise",
-      "url": "https://open.spotify.com/track/5BznY5rMMB2BIrRu2LBGQd"
+      "duration_ms": 150836,
+      "name": "Why Not Rain",
+      "url": "https://open.spotify.com/track/0qWVYFo7HO1cUDXDgnGSE5"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Rain Temperature",
-        "url": "https://open.spotify.com/album/1u5TyUwxUZCDh7ioaiLFzS"
+        "name": "Noises Of Ambience",
+        "url": "https://open.spotify.com/album/14CPqVzJefFRKUBZjZKUfK"
       },
       "artists": [
         {
-          "name": "Coalezense",
-          "url": "https://open.spotify.com/artist/2ScfEr3NwHu6Lkzlp6h7v8"
+          "name": "Noises Of Ambience",
+          "url": "https://open.spotify.com/artist/1G3MR4Gr6zFvXxm275w316"
         }
       ],
-      "duration_ms": 150836,
-      "name": "Why Not Rain",
-      "url": "https://open.spotify.com/track/0qWVYFo7HO1cUDXDgnGSE5"
+      "duration_ms": 145635,
+      "name": "Natures White Noise",
+      "url": "https://open.spotify.com/track/5BznY5rMMB2BIrRu2LBGQd"
     },
     {
       "added_at": "2023-06-20 09:13:06",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > The joy of Global and SA Pop\. Cover: <a href="https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ?si=vjWW04piRXa5FJ9uoYV2iA">SaxbyTwins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,384 likes - 52 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,383 likes - 52 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

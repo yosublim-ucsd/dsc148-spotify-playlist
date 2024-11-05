@@ -1,6 +1,6 @@
 {
   "description": "you up?",
-  "num_followers": 1914309,
+  "num_followers": 1915118,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
@@ -299,8 +299,8 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Hard To Imagine The Neighbourhood Ever Changing",
-        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
+        "name": "Wiped Out!",
+        "url": "https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 206280,
-      "name": "Softcore",
-      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
+      "duration_ms": 260173,
+      "name": "Daddy Issues",
+      "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -479,8 +479,8 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Wiped Out!",
-        "url": "https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF"
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 260173,
-      "name": "Daddy Issues",
-      "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
+      "duration_ms": 206280,
+      "name": "Softcore",
+      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "0.1 flaws and all.",
-        "url": "https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 263250,
-      "name": "bad",
-      "url": "https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "xx",
         "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 127920,
       "name": "Intro",
       "url": "https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "0.1 flaws and all.",
+        "url": "https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 263250,
+      "name": "bad",
+      "url": "https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1479,6 +1479,38 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Pistol",
+        "url": "https://open.spotify.com/album/3pvGm1n0cKAfHpGKbZhKi5"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 234174,
+      "name": "Pistol",
+      "url": "https://open.spotify.com/track/2nD9CUfMMUVxL0UyFs8fGG"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Not Around",
+        "url": "https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P"
+      },
+      "artists": [
+        {
+          "name": "Nova",
+          "url": "https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "Not Around",
+      "url": "https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "East Atlanta Love Letter",
         "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
       },
@@ -1499,22 +1531,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Pistol",
-        "url": "https://open.spotify.com/album/3pvGm1n0cKAfHpGKbZhKi5"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 234174,
-      "name": "Pistol",
-      "url": "https://open.spotify.com/track/2nD9CUfMMUVxL0UyFs8fGG"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Champagne & Sunshine",
         "url": "https://open.spotify.com/album/0ypRXml4YrjqnfL4D4S7qg"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 196363,
       "name": "Champagne & Sunshine",
       "url": "https://open.spotify.com/track/77U6kcldLRFl9vCfaw11Sr"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Not Around",
-        "url": "https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P"
-      },
-      "artists": [
-        {
-          "name": "Nova",
-          "url": "https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "Not Around",
-      "url": "https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1649,22 +1649,6 @@
       "url": "https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "DOUBT IT",
-        "url": "https://open.spotify.com/album/4bahK8kuVwjBkqFUgmLmVD"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "DOUBT IT",
-      "url": "https://open.spotify.com/track/7kud2YsUIgEO6L41B98Cih"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "FREE 6LACK",
@@ -1679,6 +1663,22 @@
       "duration_ms": 246773,
       "name": "PRBLMS",
       "url": "https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "DOUBT IT",
+        "url": "https://open.spotify.com/album/4bahK8kuVwjBkqFUgmLmVD"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "DOUBT IT",
+      "url": "https://open.spotify.com/track/7kud2YsUIgEO6L41B98Cih"
     },
     {
       "added_at": "2024-08-02 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 156590,
+  "num_followers": 156609,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAADWcVwxrLsvzhzLc3AWjpZS",
+  "snapshot_id": "Zya9AAAAAABZEIeaYRp3GOPHNfafY/Ja",
   "tracks": [
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+        "name": "The Sky Is Crying",
+        "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 294373,
-      "name": "The Things (That) I Used to Do",
-      "url": "https://open.spotify.com/track/4YAtqSH9gdzlNhVMUVmZMy"
+      "duration_ms": 144600,
+      "name": "Wham",
+      "url": "https://open.spotify.com/track/42DFAOfH92om07FwNqX2Ye"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sky Is Crying",
-        "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 144600,
-      "name": "Wham",
-      "url": "https://open.spotify.com/track/42DFAOfH92om07FwNqX2Ye"
+      "duration_ms": 294373,
+      "name": "The Things (That) I Used to Do",
+      "url": "https://open.spotify.com/track/4YAtqSH9gdzlNhVMUVmZMy"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Beginning",
-        "url": "https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Live Another Day - Live at Steamboat 1874, Austin, TX - April 1980",
-      "url": "https://open.spotify.com/track/4dtr7tpZYeYgst9ZP1Z5r0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Session (Deluxe Edition / Remastered 2024)",
         "url": "https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 75711,
       "name": "Old Times - Remastered 2024",
       "url": "https://open.spotify.com/track/10jdo4Vs80PeuDHzWQUirD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Beginning",
+        "url": "https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Live Another Day - Live at Steamboat 1874, Austin, TX - April 1980",
+      "url": "https://open.spotify.com/track/4dtr7tpZYeYgst9ZP1Z5r0"
     },
     {
       "added_at": null,
@@ -847,18 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Beginning",
-        "url": "https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R"
+        "name": "In Session (Deluxe Edition / Remastered 2024)",
+        "url": "https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2"
       },
       "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
         {
           "name": "Stevie Ray Vaughan",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Slide Thing - Live at Steamboat 1874, Austin, TX - April 1980",
-      "url": "https://open.spotify.com/track/78x9FWB5S033aa4E67D9Wg"
+      "duration_ms": 58716,
+      "name": "Pep Talk - Remastered 2024",
+      "url": "https://open.spotify.com/track/2wdvPx55QXWSr3wHkT8r1Q"
     }
   ],
   "unique_name": "This Is Stevie Ray Vaughan",

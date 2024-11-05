@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVbqQrqciCF.md) - [plain]
 
 > コンポーザーのAyase、ボーカルのikuraからなる「小説を音楽にするユニット」、YOASOBIの楽曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,169 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,217 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

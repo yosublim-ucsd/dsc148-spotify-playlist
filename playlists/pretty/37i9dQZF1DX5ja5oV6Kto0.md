@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: DEELA
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,657 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,668 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Final Boss](https://open.spotify.com/track/3Mr14q2s9iTtgg2h7qiXQn) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [Final Boss](https://open.spotify.com/album/3Lw8q30CGNUizoa05LGvY0) | 1:24 |
+| 1 | [Final Boss](https://open.spotify.com/track/3Mr14q2s9iTtgg2h7qiXQn) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [Final Boss](https://open.spotify.com/album/3Lw8q30CGNUizoa05LGvY0) | 1:24 |
 | 2 | [Faaji Jackson](https://open.spotify.com/track/2Y37tCzJtqZfQ6kikUwOHY) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Wahala In Paradise](https://open.spotify.com/album/5t6q1yQ545Ir5XBik4MnlG) | 3:29 |
 | 3 | [CRAZY SEXY PERFECT GIRLS](https://open.spotify.com/track/2yK4TLFFCgLUmTWyQoY8qj) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN) | 1:56 |
 | 4 | [f.u.](https://open.spotify.com/track/7cTUvwei61Gfa6PKPczdfu) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [By Any Minz](https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP) | 3:12 |

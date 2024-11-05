@@ -5636,7 +5636,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 243999,
       "name": "Desnudate - Remix",
       "url": "https://open.spotify.com/track/1kQhwc7ZTVJ9fKk1ECl4dL"
@@ -10864,7 +10864,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 171428,
       "name": "IA",
       "url": "https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo"
@@ -15834,7 +15834,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 234057,
       "name": "Mojaita",
       "url": "https://open.spotify.com/track/7JHUlJCUhUvMLNGsrDf4K1"
@@ -21069,6 +21069,24 @@
     },
     {
       "album": {
+        "name": "Rayito de Sol",
+        "url": "https://open.spotify.com/album/4TWdudiLF0Idxns9eATxYM"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229200,
+      "name": "Rayito de Sol",
+      "url": "https://open.spotify.com/track/64TFVyPOGaCWHOZyTEIqJv"
+    },
+    {
+      "album": {
         "name": "Razones",
         "url": "https://open.spotify.com/album/4WfHOJYS5nbp2bY4crOJUY"
       },
@@ -25615,6 +25633,28 @@
     },
     {
       "album": {
+        "name": "Tu Man",
+        "url": "https://open.spotify.com/album/4XuOjGyUerxGIRnGai6ZmS"
+      },
+      "artists": [
+        {
+          "name": "Josuan",
+          "url": "https://open.spotify.com/artist/4I8dxVJ518Fc8xqfIilTeU"
+        },
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239634,
+      "name": "Tu Man",
+      "url": "https://open.spotify.com/track/3wMxU6KYZ89HhYSBoJe78M"
+    },
+    {
+      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -28300,7 +28340,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 195535,
       "name": "Yo Te Quiero (feat. Chris Jonex)",
       "url": "https://open.spotify.com/track/5rRYtMoEDY3HrvV13jcsom"

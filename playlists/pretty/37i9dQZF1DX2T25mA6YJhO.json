@@ -1,18 +1,18 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: LA MILAGROSA.",
-  "num_followers": 21355,
+  "num_followers": 21367,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQL8AAAAACXlJzG67LItmnRSuH3F5u5",
+  "snapshot_id": "ZyiPuAAAAAATM/wla5iBSYXJ1+aCWKiK",
   "tracks": [
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Elige Tu Propia Aventura",
-        "url": "https://open.spotify.com/album/1sa5uIkm6strFBumSGcV1X"
+        "name": "Joderse La Vida",
+        "url": "https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
         }
       ],
-      "duration_ms": 150170,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/3oag6xsH3APi2oHU8hVp8E"
+      "duration_ms": 165838,
+      "name": "Joderse La Vida",
+      "url": "https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "D\u00edas de Mierda",
-        "url": "https://open.spotify.com/album/3jIgaXquTKKxqakXLhubAO"
-      },
-      "artists": [
-        {
-          "name": "Sexy Zebras",
-          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
-        }
-      ],
-      "duration_ms": 181508,
-      "name": "D\u00edas de Mierda",
-      "url": "https://open.spotify.com/track/2Stwhp9r7OnAQeNOx5Hfej"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Yo pensaba que me hab\u00eda tocado Dios",
         "url": "https://open.spotify.com/album/6oWod7EJVMaMOg6G0d0rsj"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 206099,
       "name": "Yo pensaba que me hab\u00eda tocado Dios",
       "url": "https://open.spotify.com/track/0vF9TaEJHO0Zm1ejF7AGC0"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "D\u00edas de Mierda",
+        "url": "https://open.spotify.com/album/3jIgaXquTKKxqakXLhubAO"
+      },
+      "artists": [
+        {
+          "name": "Sexy Zebras",
+          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
+        }
+      ],
+      "duration_ms": 181508,
+      "name": "D\u00edas de Mierda",
+      "url": "https://open.spotify.com/track/2Stwhp9r7OnAQeNOx5Hfej"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -183,22 +183,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "\u00a1Viva!",
-        "url": "https://open.spotify.com/album/0dV4jCRJfsqoB8f2FcGqti"
+        "name": "Elige Tu Propia Aventura",
+        "url": "https://open.spotify.com/album/1sa5uIkm6strFBumSGcV1X"
       },
       "artists": [
         {
-          "name": "Los Punsetes",
-          "url": "https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF"
-        },
-        {
-          "name": "shego",
-          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+          "name": "Carolina Durante",
+          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
         }
       ],
-      "duration_ms": 154773,
-      "name": "\u00a1Viva!",
-      "url": "https://open.spotify.com/track/0EdGdYvp8HaQOVoacOQnMS"
+      "duration_ms": 150170,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/3oag6xsH3APi2oHU8hVp8E"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -267,34 +263,38 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Joderse La Vida",
-        "url": "https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7"
+        "name": "\u00a1Viva!",
+        "url": "https://open.spotify.com/album/0dV4jCRJfsqoB8f2FcGqti"
       },
       "artists": [
         {
-          "name": "Carolina Durante",
-          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
+          "name": "Los Punsetes",
+          "url": "https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF"
+        },
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
         }
       ],
-      "duration_ms": 165838,
-      "name": "Joderse La Vida",
-      "url": "https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm"
+      "duration_ms": 154773,
+      "name": "\u00a1Viva!",
+      "url": "https://open.spotify.com/track/0EdGdYvp8HaQOVoacOQnMS"
     },
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Entre Amores y Errores",
-        "url": "https://open.spotify.com/album/071E2UPxi3oZfLm9vHTxpc"
+        "name": "\u00a1AHORA!",
+        "url": "https://open.spotify.com/album/7qTh2Y4oDIPp3tG5GZubUj"
       },
       "artists": [
         {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+          "name": "Biznaga",
+          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
         }
       ],
-      "duration_ms": 165197,
-      "name": "Amores y Errores",
-      "url": "https://open.spotify.com/track/0m9HSvl7fLvBxNPDSFTW2D"
+      "duration_ms": 193534,
+      "name": "El futuro sobre plano",
+      "url": "https://open.spotify.com/track/5Tw395NgXE6T0F7SyevHQz"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "\u00a1AHORA!",
-        "url": "https://open.spotify.com/album/7qTh2Y4oDIPp3tG5GZubUj"
+        "name": "Entre Amores y Errores",
+        "url": "https://open.spotify.com/album/071E2UPxi3oZfLm9vHTxpc"
       },
       "artists": [
         {
-          "name": "Biznaga",
-          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
         }
       ],
-      "duration_ms": 193534,
-      "name": "El futuro sobre plano",
-      "url": "https://open.spotify.com/track/5Tw395NgXE6T0F7SyevHQz"
+      "duration_ms": 165197,
+      "name": "Amores y Errores",
+      "url": "https://open.spotify.com/track/0m9HSvl7fLvBxNPDSFTW2D"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -575,22 +575,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Himno de las flores",
-        "url": "https://open.spotify.com/album/1CuoTbdRdHm9e3yOl0mt0T"
+        "name": "Gran Hostal",
+        "url": "https://open.spotify.com/album/00u4GydZUNmtNRgO1gMDj9"
       },
       "artists": [
         {
-          "name": "Vicente Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
+          "name": "Camellos",
+          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
         },
         {
-          "name": "Ni\u00f1a Polaca",
-          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
+          "name": "Biznaga",
+          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
         }
       ],
-      "duration_ms": 228995,
-      "name": "Himno de las flores",
-      "url": "https://open.spotify.com/track/5gKX2PDvk4682feasZf58s"
+      "duration_ms": 238964,
+      "name": "Combusti\u00f3n",
+      "url": "https://open.spotify.com/track/2uSOabS5RKgWjFFLiZz94x"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -615,22 +615,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Gran Hostal",
-        "url": "https://open.spotify.com/album/00u4GydZUNmtNRgO1gMDj9"
+        "name": "Himno de las flores",
+        "url": "https://open.spotify.com/album/1CuoTbdRdHm9e3yOl0mt0T"
       },
       "artists": [
         {
-          "name": "Camellos",
-          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
+          "name": "Vicente Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
         },
         {
-          "name": "Biznaga",
-          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
+          "name": "Ni\u00f1a Polaca",
+          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
         }
       ],
-      "duration_ms": 238964,
-      "name": "Combusti\u00f3n",
-      "url": "https://open.spotify.com/track/2uSOabS5RKgWjFFLiZz94x"
+      "duration_ms": 228995,
+      "name": "Himno de las flores",
+      "url": "https://open.spotify.com/track/5gKX2PDvk4682feasZf58s"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -687,6 +687,26 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Gran Hostal",
+        "url": "https://open.spotify.com/album/00u4GydZUNmtNRgO1gMDj9"
+      },
+      "artists": [
+        {
+          "name": "Camellos",
+          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
+        },
+        {
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+        }
+      ],
+      "duration_ms": 167354,
+      "name": "1900",
+      "url": "https://open.spotify.com/track/3ipA6qIgx7ycMxj8EI2grU"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Echo de menos a los Arctic Monkeys",
         "url": "https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG"
       },
@@ -735,22 +755,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Ponzano",
-        "url": "https://open.spotify.com/album/2D8aKvsIkr6fUI6mws07Mu"
-      },
-      "artists": [
-        {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
-        }
-      ],
-      "duration_ms": 144308,
-      "name": "Ponzano",
-      "url": "https://open.spotify.com/track/1p0XAa0dykeG6vnbIhAzs5"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Azul Oscuro Casi Negro",
         "url": "https://open.spotify.com/album/6wRuSSafJuAgVM61XEStGj"
       },
@@ -771,22 +775,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Gran Hostal",
-        "url": "https://open.spotify.com/album/00u4GydZUNmtNRgO1gMDj9"
+        "name": "Ponzano",
+        "url": "https://open.spotify.com/album/2D8aKvsIkr6fUI6mws07Mu"
       },
       "artists": [
         {
-          "name": "Camellos",
-          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
-        },
-        {
-          "name": "Repion",
-          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
         }
       ],
-      "duration_ms": 167354,
-      "name": "1900",
-      "url": "https://open.spotify.com/track/3ipA6qIgx7ycMxj8EI2grU"
+      "duration_ms": 144308,
+      "name": "Ponzano",
+      "url": "https://open.spotify.com/track/1p0XAa0dykeG6vnbIhAzs5"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -843,6 +843,42 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "En Forma",
+        "url": "https://open.spotify.com/album/0fzciua8WczmJgoztuyqjq"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "duration_ms": 228251,
+      "name": "En Forma",
+      "url": "https://open.spotify.com/track/0XYCice34pKdrfOPSByAaw"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Candorro",
+        "url": "https://open.spotify.com/album/6t8TBzomcZmEWqh80nLiA3"
+      },
+      "artists": [
+        {
+          "name": "Camellos",
+          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
+        },
+        {
+          "name": "Perro",
+          "url": "https://open.spotify.com/artist/5yWlPxhxS9fO1KAjQZUIT7"
+        }
+      ],
+      "duration_ms": 210700,
+      "name": "Candorro",
+      "url": "https://open.spotify.com/track/63JIRwhrwP2a4glqAbrH2b"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "DIRECTOS AL INFIERNO",
         "url": "https://open.spotify.com/album/5UX28qeYNKDt1xk2LzZspP"
       },
@@ -875,18 +911,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "En Forma",
-        "url": "https://open.spotify.com/album/0fzciua8WczmJgoztuyqjq"
+        "name": "Mata mi amor",
+        "url": "https://open.spotify.com/album/1hKS7G2Fry8qDVB5y5nKpT"
       },
       "artists": [
         {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+          "name": "Barder",
+          "url": "https://open.spotify.com/artist/5qUVWZrViriqK73n0ZLWTY"
+        },
+        {
+          "name": "Jaro Cristo",
+          "url": "https://open.spotify.com/artist/5FobI8tX7XLuLImE2C3FJV"
         }
       ],
-      "duration_ms": 228251,
-      "name": "En Forma",
-      "url": "https://open.spotify.com/track/0XYCice34pKdrfOPSByAaw"
+      "duration_ms": 188307,
+      "name": "Mata mi amor",
+      "url": "https://open.spotify.com/track/6mAJvyu5wT53O6dZNh8h29"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -907,42 +947,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Candorro",
-        "url": "https://open.spotify.com/album/6t8TBzomcZmEWqh80nLiA3"
+        "name": "Loros",
+        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
       },
       "artists": [
         {
           "name": "Camellos",
           "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
-        },
-        {
-          "name": "Perro",
-          "url": "https://open.spotify.com/artist/5yWlPxhxS9fO1KAjQZUIT7"
         }
       ],
-      "duration_ms": 210700,
-      "name": "Candorro",
-      "url": "https://open.spotify.com/track/63JIRwhrwP2a4glqAbrH2b"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Mata mi amor",
-        "url": "https://open.spotify.com/album/1hKS7G2Fry8qDVB5y5nKpT"
-      },
-      "artists": [
-        {
-          "name": "Barder",
-          "url": "https://open.spotify.com/artist/5qUVWZrViriqK73n0ZLWTY"
-        },
-        {
-          "name": "Jaro Cristo",
-          "url": "https://open.spotify.com/artist/5FobI8tX7XLuLImE2C3FJV"
-        }
-      ],
-      "duration_ms": 188307,
-      "name": "Mata mi amor",
-      "url": "https://open.spotify.com/track/6mAJvyu5wT53O6dZNh8h29"
+      "duration_ms": 146853,
+      "name": "Loros",
+      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1043,38 +1059,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Loros",
-        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
-      },
-      "artists": [
-        {
-          "name": "Camellos",
-          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "Loros",
-      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Tu nombre es una puerta por cerrar",
-        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
-      },
-      "artists": [
-        {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
-        }
-      ],
-      "duration_ms": 244164,
-      "name": "Tu nombre es una puerta por cerrar",
-      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "El Final",
         "url": "https://open.spotify.com/album/09Ea8QMbl8c88ddxsaN0dd"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Perdiendo el tiempo",
-        "url": "https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c"
+        "name": "Tu nombre es una puerta por cerrar",
+        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
       },
       "artists": [
         {
-          "name": "Las Dianas",
-          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
         }
       ],
-      "duration_ms": 166528,
-      "name": "Perdiendo el tiempo",
-      "url": "https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt"
+      "duration_ms": 244164,
+      "name": "Tu nombre es una puerta por cerrar",
+      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Me paso por tu zona",
+        "url": "https://open.spotify.com/album/3IdxqT0QLo5cBiSZOMOcUO"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 131272,
+      "name": "Me paso por tu zona",
+      "url": "https://open.spotify.com/track/6X4cGXgpvfDPiOV4Z1NCVV"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Plan de Mierda",
         "url": "https://open.spotify.com/album/2ExZDAeYu4RF6tgYGigJl4"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 202348,
       "name": "Plan de Mierda",
       "url": "https://open.spotify.com/track/1QdV4SR8PhomxtxKcwJ57P"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Me paso por tu zona",
-        "url": "https://open.spotify.com/album/3IdxqT0QLo5cBiSZOMOcUO"
-      },
-      "artists": [
-        {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
-        }
-      ],
-      "duration_ms": 131272,
-      "name": "Me paso por tu zona",
-      "url": "https://open.spotify.com/track/6X4cGXgpvfDPiOV4Z1NCVV"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1207,6 +1191,22 @@
       "duration_ms": 207181,
       "name": "Medalla De Oro A La Mejor Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/5sRbPtGGRrkrtJdRU1p6G3"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Perdiendo el tiempo",
+        "url": "https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c"
+      },
+      "artists": [
+        {
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
+        }
+      ],
+      "duration_ms": 166528,
+      "name": "Perdiendo el tiempo",
+      "url": "https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Todo Ir\u00e1 Bien",
+        "url": "https://open.spotify.com/album/63trf8Z60h09bjYiYOMesB"
+      },
+      "artists": [
+        {
+          "name": "Victorias",
+          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+        }
+      ],
+      "duration_ms": 198851,
+      "name": "Todo Ir\u00e1 Bien",
+      "url": "https://open.spotify.com/track/2spHoHAGAQlOI3twB5QRVl"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Intemperie",
         "url": "https://open.spotify.com/album/3QOjC4R4QSRi9bEOmRflxM"
       },
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Todo Ir\u00e1 Bien",
-        "url": "https://open.spotify.com/album/63trf8Z60h09bjYiYOMesB"
-      },
-      "artists": [
-        {
-          "name": "Victorias",
-          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
-        }
-      ],
-      "duration_ms": 198851,
-      "name": "Todo Ir\u00e1 Bien",
-      "url": "https://open.spotify.com/track/2spHoHAGAQlOI3twB5QRVl"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Amanecer Gal\u00e1ctico",
         "url": "https://open.spotify.com/album/0gPfFGANWqyNiBiKqbyip2"
       },
@@ -1419,6 +1419,22 @@
       "duration_ms": 222040,
       "name": "Amanecer Gal\u00e1ctico",
       "url": "https://open.spotify.com/track/2K2nuQlPhZOwRkkoz6Vbqc"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "No Puedo M\u00e1s",
+        "url": "https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj"
+      },
+      "artists": [
+        {
+          "name": "Mujeres",
+          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
+        }
+      ],
+      "duration_ms": 184984,
+      "name": "No Puedo M\u00e1s",
+      "url": "https://open.spotify.com/track/7fdUvlp2k3PFxu9FwxxH9q"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1439,18 +1455,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "No Puedo M\u00e1s",
-        "url": "https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj"
+        "name": "Sin M\u00e1s",
+        "url": "https://open.spotify.com/album/04ShDzsnkGsUKq76JSCSpQ"
       },
       "artists": [
         {
-          "name": "Mujeres",
-          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
+          "name": "Joven Dolores",
+          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
         }
       ],
-      "duration_ms": 184984,
-      "name": "No Puedo M\u00e1s",
-      "url": "https://open.spotify.com/track/7fdUvlp2k3PFxu9FwxxH9q"
+      "duration_ms": 198958,
+      "name": "Sin M\u00e1s",
+      "url": "https://open.spotify.com/track/1ScPq9lDin5UfkJnbOd0M4"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Sin M\u00e1s",
-        "url": "https://open.spotify.com/album/04ShDzsnkGsUKq76JSCSpQ"
+        "name": "Madrid Nos Pertenece",
+        "url": "https://open.spotify.com/album/0kc3AM6xjhP4sgo0dzIFK6"
       },
       "artists": [
         {
-          "name": "Joven Dolores",
-          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
+          "name": "Biznaga",
+          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
         }
       ],
-      "duration_ms": 198958,
-      "name": "Sin M\u00e1s",
-      "url": "https://open.spotify.com/track/1ScPq9lDin5UfkJnbOd0M4"
+      "duration_ms": 221532,
+      "name": "Madrid Nos Pertenece",
+      "url": "https://open.spotify.com/track/0wxl1J7P9LqVDsNJKjFMvv"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Madrid Nos Pertenece",
-        "url": "https://open.spotify.com/album/0kc3AM6xjhP4sgo0dzIFK6"
-      },
-      "artists": [
-        {
-          "name": "Biznaga",
-          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
-        }
-      ],
-      "duration_ms": 221532,
-      "name": "Madrid Nos Pertenece",
-      "url": "https://open.spotify.com/track/0wxl1J7P9LqVDsNJKjFMvv"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "O Todos o Ninguno",
         "url": "https://open.spotify.com/album/5Lequ6yHwYYoT6SNS2wTuB"
       },
@@ -1535,6 +1535,26 @@
       "duration_ms": 229313,
       "name": "O Todos o Ninguno",
       "url": "https://open.spotify.com/track/1yXB3vkiBKhOMYIIbStiP8"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "S\u00e9 que no",
+        "url": "https://open.spotify.com/album/2IEcBXMQw4Zyrv77VoiPRH"
+      },
+      "artists": [
+        {
+          "name": "Junio",
+          "url": "https://open.spotify.com/artist/0dDocNwgvOhqIGYYO50Ew8"
+        },
+        {
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+        }
+      ],
+      "duration_ms": 156187,
+      "name": "S\u00e9 que no",
+      "url": "https://open.spotify.com/track/3jT4rZmbAUDRH2sd9508Px"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1571,22 +1591,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Paga y Se\u00f1al",
-        "url": "https://open.spotify.com/album/1qorXCYFm9ZHWC4LmJUkTY"
-      },
-      "artists": [
-        {
-          "name": "Vecinos",
-          "url": "https://open.spotify.com/artist/42g6k1iU30Z2lDl0E2oKZR"
-        }
-      ],
-      "duration_ms": 182012,
-      "name": "Paga y Se\u00f1al",
-      "url": "https://open.spotify.com/track/1v9VKI3Xikbei4lyaqzSGA"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Adelante",
         "url": "https://open.spotify.com/album/4TGfWV8k3nPN3DFbjNplCJ"
       },
@@ -1599,6 +1603,22 @@
       "duration_ms": 240031,
       "name": "Adelante",
       "url": "https://open.spotify.com/track/5NvqDMHAL38UTfNQFizEWm"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Paga y Se\u00f1al",
+        "url": "https://open.spotify.com/album/1qorXCYFm9ZHWC4LmJUkTY"
+      },
+      "artists": [
+        {
+          "name": "Vecinos",
+          "url": "https://open.spotify.com/artist/42g6k1iU30Z2lDl0E2oKZR"
+        }
+      ],
+      "duration_ms": 182012,
+      "name": "Paga y Se\u00f1al",
+      "url": "https://open.spotify.com/track/1v9VKI3Xikbei4lyaqzSGA"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1663,26 +1683,6 @@
       "duration_ms": 184201,
       "name": "Al Final",
       "url": "https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "S\u00e9 que no",
-        "url": "https://open.spotify.com/album/2IEcBXMQw4Zyrv77VoiPRH"
-      },
-      "artists": [
-        {
-          "name": "Junio",
-          "url": "https://open.spotify.com/artist/0dDocNwgvOhqIGYYO50Ew8"
-        },
-        {
-          "name": "Repion",
-          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
-        }
-      ],
-      "duration_ms": 156187,
-      "name": "S\u00e9 que no",
-      "url": "https://open.spotify.com/track/3jT4rZmbAUDRH2sd9508Px"
     },
     {
       "added_at": "2024-10-31 23:00:00",

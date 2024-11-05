@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las ac\u00fasticas. Cover: ELENA ROSE",
-  "num_followers": 1896570,
+  "num_followers": 1896533,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "De Adentro Pa Afuera (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/33CW5fr7A0nTN5prOTyScI"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 193632,
-      "name": "De Adentro Pa Afuera - En Vivo Desde La Puerta de Alcal\u00e1",
-      "url": "https://open.spotify.com/track/6Br10W2EX7UkOxAWWAAZm5"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Acoustic Sessions #1",
         "url": "https://open.spotify.com/album/3bMXpSzCe91KawJRt1kiCR"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 184000,
       "name": "Maquillaje (Acoustic)",
       "url": "https://open.spotify.com/track/7qDIPO5RwLqLv3kVqhgeLH"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "De Adentro Pa Afuera (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/33CW5fr7A0nTN5prOTyScI"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 193632,
+      "name": "De Adentro Pa Afuera - En Vivo Desde La Puerta de Alcal\u00e1",
+      "url": "https://open.spotify.com/track/6Br10W2EX7UkOxAWWAAZm5"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Solo M\u00eda",
         "url": "https://open.spotify.com/album/6BLn7cwwQkJbvjWFxLNmzc"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 255669,
       "name": "Solo M\u00eda",
       "url": "https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Me Haces Falta",
-        "url": "https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 215332,
-      "name": "Me Haces Falta",
-      "url": "https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "SUBEME LA RADIO",
         "url": "https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 209826,
       "name": "SUBEME LA RADIO",
       "url": "https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Me Haces Falta",
+        "url": "https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 215332,
+      "name": "Me Haces Falta",
+      "url": "https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 195917,
-      "name": "Si hubieras querido - Versi\u00f3n ac\u00fastica",
-      "url": "https://open.spotify.com/track/4yskXqxwdX1zcFb7AvRUB0"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
       },
@@ -1251,6 +1235,38 @@
       "duration_ms": 264106,
       "name": "Es Por T\u00ed - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5AWXkO3VM6LjcRuWNMw8WA"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Despacito (Acoustic)",
+        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+        }
+      ],
+      "duration_ms": 218108,
+      "name": "Despacito - Acoustic",
+      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 195917,
+      "name": "Si hubieras querido - Versi\u00f3n ac\u00fastica",
+      "url": "https://open.spotify.com/track/4yskXqxwdX1zcFb7AvRUB0"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1307,22 +1323,6 @@
       "duration_ms": 175000,
       "name": "Preso (Grabado en ONErpm Studios)",
       "url": "https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Despacito (Acoustic)",
-        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        }
-      ],
-      "duration_ms": 218108,
-      "name": "Despacito - Acoustic",
-      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Brutalmente Honesta",
-        "url": "https://open.spotify.com/album/0NBV1w1mgOqHifIMKil9Zy"
-      },
-      "artists": [
-        {
-          "name": "Michi Sanz",
-          "url": "https://open.spotify.com/artist/3upPawRH8B04mVJR5p0ZVx"
-        }
-      ],
-      "duration_ms": 153157,
-      "name": "Brutalmente Honesta",
-      "url": "https://open.spotify.com/track/6KYyzQaFSu6Y3Cdp8di2xl"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Me Haces Muy Bien (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP"
       },
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Brutalmente Honesta",
+        "url": "https://open.spotify.com/album/0NBV1w1mgOqHifIMKil9Zy"
+      },
+      "artists": [
+        {
+          "name": "Michi Sanz",
+          "url": "https://open.spotify.com/artist/3upPawRH8B04mVJR5p0ZVx"
+        }
+      ],
+      "duration_ms": 153157,
+      "name": "Brutalmente Honesta",
+      "url": "https://open.spotify.com/track/6KYyzQaFSu6Y3Cdp8di2xl"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "BIG BANG",
         "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
       },
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Flotando (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 256708,
+      "name": "Flotando (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Los Cuatro Actos Ac\u00fasticos",
         "url": "https://open.spotify.com/album/0vblYQ4Zj7ct5R4Yh6cmpH"
       },
@@ -1619,38 +1635,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "el jardinero",
-        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "el jardinero",
-      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Flotando (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 256708,
-      "name": "Flotando (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Cenizas y Miel",
         "url": "https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 191474,
       "name": "Cenizas y Miel",
       "url": "https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "el jardinero",
+        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "el jardinero",
+      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
     },
     {
       "added_at": "2024-10-18 04:00:00",

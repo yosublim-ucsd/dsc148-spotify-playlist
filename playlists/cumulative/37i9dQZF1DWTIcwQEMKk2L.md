@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-157 songs - 7 hr 10 min
+159 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,8 @@
 | [Bergamo](https://open.spotify.com/track/1bHXbuM7CqRCSn5Zg1knnZ) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Bergamo](https://open.spotify.com/album/6jSSjJeFpsaMNP2uVrsgBC) | 2:06 | 2023-12-25 | 2024-01-25 |
 | [Box Of Photos](https://open.spotify.com/track/1du3L7rqD0PrJSrNE0ye0q) | [Alfie Walker](https://open.spotify.com/artist/4ftOemOz9fYLTulZP8ZKol) | [Box Of Photos](https://open.spotify.com/album/7hwYTjbYMoS8QwGVPzesOZ) | 2:29 | 2023-12-04 |  |
 | [Cassiopeia](https://open.spotify.com/track/3MsVmtQmjTnEtOzr2w8tLY) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Cassiopeia](https://open.spotify.com/album/0gubGxfpz8pDbvZZdtlX18) | 2:48 | 2024-04-08 | 2024-05-22 |
+| [Cheek to Cheek](https://open.spotify.com/track/4Fsl78MLuUrqJMnFXBctW8) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Cheek to Cheek](https://open.spotify.com/album/7ex7nfyDTp2UDpYxKWKsPh) | 3:02 | 2024-11-04 |  |
+| [Chemin de la lune](https://open.spotify.com/track/20uoDnTsBOXkPJd1TmjpqZ) | [Neil Chapman Green](https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ) | [Chemin de la lune](https://open.spotify.com/album/12bQXgWbTWoYbUsLr9rxIP) | 2:09 | 2024-11-04 |  |
 | [Children Will Listen](https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT) | [Belinda Myers](https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8) | [Defying Gravity](https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb) | 2:23 | 2023-11-20 |  |
 | [Clear Day](https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Clear Day](https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH) | 2:45 | 2023-11-20 |  |
 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 | 2023-11-20 |  |
@@ -128,13 +130,13 @@
 | [Schutter](https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Schutter](https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW) | 2:30 | 2024-09-02 |  |
 | [See you in the morning](https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j) | [Wendy Salisbury](https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek) | [See you in the morning](https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T) | 2:40 | 2024-04-08 |  |
 | [Silhouette](https://open.spotify.com/track/4Eq7aF59snLVoxPKUAHhUz) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Oddities](https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW) | 3:32 | 2023-11-20 | 2024-10-06 |
-| [Sleeping like the Birchwood](https://open.spotify.com/track/2FCFesDX0QOFkKIzpoqWD6) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Sleeping Like the Birchwood](https://open.spotify.com/album/0uf3tqNtWuAyznHWI6foBg) | 3:24 | 2024-10-14 |  |
+| [Sleeping like the Birchwood](https://open.spotify.com/track/2FCFesDX0QOFkKIzpoqWD6) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Sleeping Like the Birchwood](https://open.spotify.com/album/0uf3tqNtWuAyznHWI6foBg) | 3:24 | 2024-10-14 | 2024-11-05 |
 | [Slowing Down](https://open.spotify.com/track/1aItJE8RukUc0lnMdj45FJ) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Slowing Down](https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt) | 3:28 | 2024-04-22 |  |
 | [Softly Spoken](https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken](https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw) | 2:16 | 2023-11-20 |  |
 | [Star Eyes](https://open.spotify.com/track/0uY4n9q4ViY6ijBNvzVx1Z) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Star Eyes](https://open.spotify.com/album/3jGRLCp4Ix9ZCICt5Aey6I) | 3:40 | 2024-03-04 |  |
 | [Stella's lullaby](https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4) | [Wendy Salisbury](https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek) | [Stella's lullaby](https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1) | 2:25 | 2023-11-20 |  |
 | [Still in Love With You](https://open.spotify.com/track/0ih8Jf1BQ3TpVHiPKW9WTZ) | [Angelina Winter](https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl) | [Still in Love With You](https://open.spotify.com/album/7a5LKBZ7B5093OFghLDbic) | 2:36 | 2024-03-04 |  |
-| [Storytelling](https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Storytelling](https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM) | 4:44 | 2024-04-08 |  |
+| [Storytelling](https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Storytelling](https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM) | 4:44 | 2024-04-08 | 2024-11-05 |
 | [Ständchen in D Minor \(After Schubert\), S\. 560](https://open.spotify.com/track/3GecLjGMqzjmgkvy2v41Wf) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lise de la Salle](https://open.spotify.com/artist/1Z6QKxH36L3ff4yhBD3r1W) | [Liszt](https://open.spotify.com/album/12TLeKJv0q5fnF2obaf6Is) | 5:57 | 2023-11-20 | 2024-04-19 |
 | [Summer Waltz / The Drive](https://open.spotify.com/track/3Og6m4ltVGu3OteMm1Qw5F) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Breathe In \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5cvhwLaFo0osyZmxdTvis2) | 1:29 | 2023-11-20 | 2024-04-19 |
 | [Sunlight](https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU) | [Alec Windt](https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW) | [In Love](https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm) | 2:15 | 2023-11-20 | 2024-10-21 |

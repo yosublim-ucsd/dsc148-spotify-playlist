@@ -4,7 +4,7 @@
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-80 songs - 4 hr 53 min
+81 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,9 +73,10 @@
 | [Que Te Vaya Bien](https://open.spotify.com/track/1EKGXIvGSPOHRt2wJdMzVN) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Que Te Vaya Bien](https://open.spotify.com/album/7pjWprusHoAZTaeVORXMS1) | 3:58 | 2024-01-29 | 2024-08-22 |
 | [Quédate Conmigo](https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:13 | 2024-01-29 |  |
 | [Recuerdos Del 1](https://open.spotify.com/track/0YHRIpM2f1sxJEihzeLQeL) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 3:23 | 2024-04-27 | 2024-09-13 |
+| [Recuerdos Del 1](https://open.spotify.com/track/3W79DIintC1GZeDs010tLa) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN) | 3:23 | 2024-11-05 |  |
 | [Serafín](https://open.spotify.com/track/0iZyo2AttarFOrslWbJTiU) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Serafín](https://open.spotify.com/album/6d6lprZdfdYRoyy1aOtNLU) | 4:00 | 2024-01-29 | 2024-08-21 |
 | [Serafín](https://open.spotify.com/track/7DKx7f5mwJIcDb62NG0PfV) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Serafín](https://open.spotify.com/album/4QMWgjMVSP4cvmZIhv1u1X) | 4:00 | 2024-08-21 |  |
-| [Serafín \- En Vivo](https://open.spotify.com/track/6aFS8Lvqlbtgt0EchjOsd2) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Pa Que Amarre \(En Vivo\)](https://open.spotify.com/album/1gLP7AqIXc00rEWnAKE066) | 4:16 | 2024-01-29 |  |
+| [Serafín \- En Vivo](https://open.spotify.com/track/6aFS8Lvqlbtgt0EchjOsd2) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Pa Que Amarre \(En Vivo\)](https://open.spotify.com/album/1gLP7AqIXc00rEWnAKE066) | 4:16 | 2024-01-29 | 2024-11-05 |
 | [Si Es Posible](https://open.spotify.com/track/1uQhUupvikvunqykML6NPd) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Si Es Posible](https://open.spotify.com/album/1PogP2XZKpfOBGgIuGk9Iu) | 4:15 | 2024-01-29 | 2024-09-20 |
 | [Si Es Posible](https://open.spotify.com/track/1zQhxXlnXqWk3KpUBhPpQC) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Si Es Posible](https://open.spotify.com/album/1QlZL4Vc5MozT8GdlE6h8j) | 4:15 | 2024-09-20 |  |
 | [Sin Pagar Renta](https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Sin Pagar Renta](https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9) | 3:22 | 2024-09-01 |  |

@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 102479,
+  "num_followers": 102498,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,62 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner, R.: Tristan Und Isolde",
+        "url": "https://open.spotify.com/album/1E9KVyQsAw574XVQ4rWwQ4"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Millgramm",
+          "url": "https://open.spotify.com/artist/3D8YGPKZmzaYG8IaIpO48x"
+        },
+        {
+          "name": "Royal Swedish Opera Orchestra",
+          "url": "https://open.spotify.com/artist/2ie9VrHtKOtHL6eZzUYRqT"
+        },
+        {
+          "name": "Leif Segerstam",
+          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
+        },
+        {
+          "name": "Lennart Forsen",
+          "url": "https://open.spotify.com/artist/4MLvx3XdOAClnB10RCkbal"
+        },
+        {
+          "name": "Hedwig Fassbender",
+          "url": "https://open.spotify.com/artist/0ng7ys4mdfdcKsHBqbO0In"
+        },
+        {
+          "name": "Gunnar Lundberg",
+          "url": "https://open.spotify.com/artist/2K01ZeD55zK3TgTzo7eCir"
+        },
+        {
+          "name": "Magnus Kyhle",
+          "url": "https://open.spotify.com/artist/7ffZZHzSgHlwqeZGB3k1pv"
+        },
+        {
+          "name": "Martina Dike",
+          "url": "https://open.spotify.com/artist/5ReOYmLweLVb0mwBjfxyWm"
+        },
+        {
+          "name": "John Erik Eleby",
+          "url": "https://open.spotify.com/artist/62mIkPoDm4QBEMTwUr6ZS1"
+        },
+        {
+          "name": "Ulrik Qvale",
+          "url": "https://open.spotify.com/artist/50XY8gQ8eWSiKvGGdT16J4"
+        },
+        {
+          "name": "Royal Swedish Opera Chorus",
+          "url": "https://open.spotify.com/artist/3bqjTvyPZcMSuXkdzBghDU"
+        }
+      ],
+      "duration_ms": 329146,
+      "name": "Tristan und Isolde, WWV 90, Act I Scene 3: O Wunder! Wo hatt' ich die Augen? (Brangane, Tristan)",
+      "url": "https://open.spotify.com/track/4cgx0zIWlLYXCXphMlFEzG"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner, R.: Fliegende Holl\u00e4nder (Der)",
         "url": "https://open.spotify.com/album/2EM1YObHesxbUuZpBTqVgJ"
       },
@@ -267,62 +323,6 @@
       "duration_ms": 1022960,
       "name": "Die Meistersinger von N\u00fcrnberg (the Mastersingers of Nuremberg), the Mastersingers of Nuremberg, Act III: Finale [excerpts]",
       "url": "https://open.spotify.com/track/0QDND4ABikAWZFfiepCYrP"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner, R.: Tristan Und Isolde",
-        "url": "https://open.spotify.com/album/1E9KVyQsAw574XVQ4rWwQ4"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Millgramm",
-          "url": "https://open.spotify.com/artist/3D8YGPKZmzaYG8IaIpO48x"
-        },
-        {
-          "name": "Royal Swedish Opera Orchestra",
-          "url": "https://open.spotify.com/artist/2ie9VrHtKOtHL6eZzUYRqT"
-        },
-        {
-          "name": "Leif Segerstam",
-          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
-        },
-        {
-          "name": "Lennart Forsen",
-          "url": "https://open.spotify.com/artist/4MLvx3XdOAClnB10RCkbal"
-        },
-        {
-          "name": "Hedwig Fassbender",
-          "url": "https://open.spotify.com/artist/0ng7ys4mdfdcKsHBqbO0In"
-        },
-        {
-          "name": "Gunnar Lundberg",
-          "url": "https://open.spotify.com/artist/2K01ZeD55zK3TgTzo7eCir"
-        },
-        {
-          "name": "Magnus Kyhle",
-          "url": "https://open.spotify.com/artist/7ffZZHzSgHlwqeZGB3k1pv"
-        },
-        {
-          "name": "Martina Dike",
-          "url": "https://open.spotify.com/artist/5ReOYmLweLVb0mwBjfxyWm"
-        },
-        {
-          "name": "John Erik Eleby",
-          "url": "https://open.spotify.com/artist/62mIkPoDm4QBEMTwUr6ZS1"
-        },
-        {
-          "name": "Ulrik Qvale",
-          "url": "https://open.spotify.com/artist/50XY8gQ8eWSiKvGGdT16J4"
-        },
-        {
-          "name": "Royal Swedish Opera Chorus",
-          "url": "https://open.spotify.com/artist/3bqjTvyPZcMSuXkdzBghDU"
-        }
-      ],
-      "duration_ms": 329146,
-      "name": "Tristan und Isolde, WWV 90, Act I Scene 3: O Wunder! Wo hatt' ich die Augen? (Brangane, Tristan)",
-      "url": "https://open.spotify.com/track/4cgx0zIWlLYXCXphMlFEzG"
     },
     {
       "added_at": "2022-06-28 08:58:25",

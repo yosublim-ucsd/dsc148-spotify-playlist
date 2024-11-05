@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 82210,
+  "num_followers": 82241,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Si Me Tocan Esta Play, Si Bailo (Guaracha)",
-        "url": "https://open.spotify.com/album/0jK7zKpYPn2TcudoAvylOd"
+        "name": "Pasito Chacalon",
+        "url": "https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW"
       },
       "artists": [
         {
-          "name": "J-Alex Stylee",
-          "url": "https://open.spotify.com/artist/2LAyRJWNuuNRbok5t3K70i"
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
         }
       ],
-      "duration_ms": 194977,
-      "name": "Si Me Tocan Esta Play, Si Bailo - Guaracha, Aleteo, Zapateo, Tribal, House",
-      "url": "https://open.spotify.com/track/1em725YNxISJ79QoT5ruUE"
+      "duration_ms": 192000,
+      "name": "Pasito Chacalon",
+      "url": "https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -347,18 +347,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Pasito Chacalon",
-        "url": "https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW"
+        "name": "Si Me Tocan Esta Play, Si Bailo (Guaracha)",
+        "url": "https://open.spotify.com/album/0jK7zKpYPn2TcudoAvylOd"
       },
       "artists": [
         {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+          "name": "J-Alex Stylee",
+          "url": "https://open.spotify.com/artist/2LAyRJWNuuNRbok5t3K70i"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Pasito Chacalon",
-      "url": "https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW"
+      "duration_ms": 194977,
+      "name": "Si Me Tocan Esta Play, Si Bailo - Guaracha, Aleteo, Zapateo, Tribal, House",
+      "url": "https://open.spotify.com/track/1em725YNxISJ79QoT5ruUE"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -463,30 +463,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Imag\u00ednate",
-        "url": "https://open.spotify.com/album/1DPWhGySSW1Jgf2AbaQOrx"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "CID MX",
-          "url": "https://open.spotify.com/artist/7l5dXp0vXYWwkOiLVJ06qx"
-        },
-        {
-          "name": "TBX",
-          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
-        }
-      ],
-      "duration_ms": 157142,
-      "name": "Imag\u00ednate",
-      "url": "https://open.spotify.com/track/6dc7BsgtDwxlq4z7WyGE6Z"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Bao Bao",
         "url": "https://open.spotify.com/album/1FuElQORi4fKKJdzRESi9n"
       },
@@ -507,6 +483,30 @@
       "duration_ms": 203076,
       "name": "Bao Bao",
       "url": "https://open.spotify.com/track/1PzVGPTfbvlcFcHf8HDlGh"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Imag\u00ednate",
+        "url": "https://open.spotify.com/album/1DPWhGySSW1Jgf2AbaQOrx"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "CID MX",
+          "url": "https://open.spotify.com/artist/7l5dXp0vXYWwkOiLVJ06qx"
+        },
+        {
+          "name": "TBX",
+          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
+        }
+      ],
+      "duration_ms": 157142,
+      "name": "Imag\u00ednate",
+      "url": "https://open.spotify.com/track/6dc7BsgtDwxlq4z7WyGE6Z"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "Desma",
+        "url": "https://open.spotify.com/album/3TNn2Pfo5RmV4hdw1ZSuUf"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        }
+      ],
+      "duration_ms": 158798,
+      "name": "Desma",
+      "url": "https://open.spotify.com/track/5eLrkX0RPJSlQT5H5U0o43"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "Afroguaracha",
         "url": "https://open.spotify.com/album/1OMT3htpBd2nNCHufrTLCi"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Desma",
-        "url": "https://open.spotify.com/album/3TNn2Pfo5RmV4hdw1ZSuUf"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        }
-      ],
-      "duration_ms": 158798,
-      "name": "Desma",
-      "url": "https://open.spotify.com/track/5eLrkX0RPJSlQT5H5U0o43"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Cumbia Tribal",
         "url": "https://open.spotify.com/album/1RcKsmXVkFk6GV6a7ViVyK"
       },
@@ -703,26 +703,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Dame",
-        "url": "https://open.spotify.com/album/0GaNnazTQVyVWnFvcXktgJ"
-      },
-      "artists": [
-        {
-          "name": "Freebot",
-          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
-        },
-        {
-          "name": "Aneth",
-          "url": "https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7"
-        }
-      ],
-      "duration_ms": 156401,
-      "name": "Dame",
-      "url": "https://open.spotify.com/track/05Wv728G7m1xkaOZKMPs0N"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Brindemos Por Ellas",
         "url": "https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 208146,
       "name": "Brindemos Por Ellas",
       "url": "https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Dame",
+        "url": "https://open.spotify.com/album/0GaNnazTQVyVWnFvcXktgJ"
+      },
+      "artists": [
+        {
+          "name": "Freebot",
+          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
+        },
+        {
+          "name": "Aneth",
+          "url": "https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7"
+        }
+      ],
+      "duration_ms": 156401,
+      "name": "Dame",
+      "url": "https://open.spotify.com/track/05Wv728G7m1xkaOZKMPs0N"
     },
     {
       "added_at": "2024-07-05 22:41:57",

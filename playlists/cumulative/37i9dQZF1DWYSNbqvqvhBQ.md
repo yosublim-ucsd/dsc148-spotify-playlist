@@ -4,7 +4,7 @@
 
 > De mooiste liedjes van het moment\. Cover: Dotan
 
-525 songs - 1 day 6 hr 23 min
+526 songs - 1 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 | 2023-03-02 | 2023-08-04 |
 | [If You Would Prove Me Wrong Now](https://open.spotify.com/track/1Z1Z33mYJe4z2XT9FFYB76) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [If You Would Prove Me Wrong Now](https://open.spotify.com/album/2O9T2PFFsswlLkoe9dkh0q) | 3:37 | 2024-10-14 |  |
 | [If You’re Gonna Break My Heart](https://open.spotify.com/track/2UdLLIJygjz2yiOa3GVMV0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 4:27 | 2023-02-23 | 2023-08-25 |
+| [Il Mare Calmo della Sera \(feat\. Chris Stapleton\)](https://open.spotify.com/track/6hIPQdA0r7ulZQFnMakEdh) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Duets \(30th Anniversary\)](https://open.spotify.com/album/0Iv3XfTgPnPqxPyCf9yt2C) | 4:35 | 2024-11-04 |  |
 | [In Love](https://open.spotify.com/track/0tiG850FhkXJrM0F1dN1vx) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [In Love](https://open.spotify.com/album/1eBSt3H2N9n44CDgT1h2Ns) | 3:12 | 2024-09-19 |  |
 | [In The Modern World](https://open.spotify.com/track/3kQmcD1XU29nSMrS7kgsWm) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 4:26 | 2024-10-14 |  |
 | [In The Water](https://open.spotify.com/track/4gmT46chkdugzbucgiHQbb) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [In The Water](https://open.spotify.com/album/2khuB7jsFLFzJWPRwjjMA7) | 3:36 | 2023-02-23 | 2023-08-01 |
@@ -261,7 +262,7 @@
 | [Let Me Go Home](https://open.spotify.com/track/2ys5m1ZI9QkhFJlTjMc9Nw) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Let Me Go Home](https://open.spotify.com/album/5f9iou0KDX2cX3CzLzBwbl) | 2:56 | 2023-02-23 | 2023-04-14 |
 | [Let U Go](https://open.spotify.com/track/0wbmr3CTPwoh8LPm9c7lhM) | [Mitch Rivers](https://open.spotify.com/artist/60MGr6u8AF2SYwh7zRBV3K) | [Let U Go](https://open.spotify.com/album/6IG6Mr0iTUnnYxnQx3PALc) | 2:55 | 2023-05-25 | 2023-09-22 |
 | [Let's Take A Shower](https://open.spotify.com/track/6H6XCGMF9e4IDOfG582u4f) | [Norah Hendriks](https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT) | [Every Single Thing](https://open.spotify.com/album/38DNTfhFTj6PYFzLrZiRX5) | 3:50 | 2024-10-22 |  |
-| [Levenslang](https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Levenslang](https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s) | 3:44 | 2024-09-19 |  |
+| [Levenslang](https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Levenslang](https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s) | 3:44 | 2024-09-19 | 2024-11-05 |
 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 | 2024-07-11 | 2024-10-04 |
 | [Lifeline \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/66Z7xWbRpjO7mZJ8U8scrw) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Lifeline \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/2ShbtQZa3nadKapi4DCIkV) | 3:47 | 2023-12-08 | 2024-05-03 |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2023-02-23 | 2023-03-25 |

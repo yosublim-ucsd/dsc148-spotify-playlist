@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 139487,
+  "num_followers": 139488,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -669,6 +669,42 @@
       "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
     },
     {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Chase the Sun (Odd Mob Remix)",
+        "url": "https://open.spotify.com/album/5v87Q53Us8RfXe26HNjIG4"
+      },
+      "artists": [
+        {
+          "name": "Planet Funk",
+          "url": "https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "Chase the Sun (Odd Mob Remix)",
+      "url": "https://open.spotify.com/track/6CrakXqqM1VgkCOmo7OU6i"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
+    },
+    {
       "added_at": "2024-08-22 23:00:00",
       "album": {
         "name": "Drift / Long Story Short",
@@ -691,42 +727,6 @@
       "duration_ms": 246956,
       "name": "Drift",
       "url": "https://open.spotify.com/track/75psyfokDgEGACe1wurFPa"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "Chase the Sun (Odd Mob Remix)",
-        "url": "https://open.spotify.com/album/5v87Q53Us8RfXe26HNjIG4"
-      },
-      "artists": [
-        {
-          "name": "Planet Funk",
-          "url": "https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4"
-        },
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "Chase the Sun (Odd Mob Remix)",
-      "url": "https://open.spotify.com/track/6CrakXqqM1VgkCOmo7OU6i"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -989,22 +989,6 @@
       "url": "https://open.spotify.com/track/1mQCMnCLJyKUvseZajs5DB"
     },
     {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
-        "name": "Oh No",
-        "url": "https://open.spotify.com/album/28fJN4ijKdA0em3kiLaLCt"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 169668,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/4UOtElYfnpY2CxsTnWhrOA"
-    },
-    {
       "added_at": "2024-02-01 13:01:25",
       "album": {
         "name": "Alone Again (feat. PEPTALK)",
@@ -1025,6 +1009,22 @@
       "url": "https://open.spotify.com/track/5dc3M8IGZLZX6nk8AjtO7k"
     },
     {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/28fJN4ijKdA0em3kiLaLCt"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 169668,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/4UOtElYfnpY2CxsTnWhrOA"
+    },
+    {
       "added_at": "2024-02-01 13:01:25",
       "album": {
         "name": "Miles Away",
@@ -1043,18 +1043,22 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Suzuka",
-        "url": "https://open.spotify.com/album/6QkC4UxbD1OqEpWcqzqR98"
+        "name": "Spend It (feat. Circa Waves)",
+        "url": "https://open.spotify.com/album/0tfrIsINRigH8WRsi4WJHJ"
       },
       "artists": [
         {
-          "name": "Sam Alfred",
-          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        },
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
         }
       ],
-      "duration_ms": 236919,
-      "name": "Suzuka",
-      "url": "https://open.spotify.com/track/4F6v6KqM19TVQFBm1V0Pz1"
+      "duration_ms": 202858,
+      "name": "Spend It (feat. Circa Waves)",
+      "url": "https://open.spotify.com/track/0Fa39rh1TcvQlt3pLlxn7e"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -1079,22 +1083,18 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Spend It (feat. Circa Waves)",
-        "url": "https://open.spotify.com/album/0tfrIsINRigH8WRsi4WJHJ"
+        "name": "Suzuka",
+        "url": "https://open.spotify.com/album/6QkC4UxbD1OqEpWcqzqR98"
       },
       "artists": [
         {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
-        },
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
         }
       ],
-      "duration_ms": 202858,
-      "name": "Spend It (feat. Circa Waves)",
-      "url": "https://open.spotify.com/track/0Fa39rh1TcvQlt3pLlxn7e"
+      "duration_ms": 236919,
+      "name": "Suzuka",
+      "url": "https://open.spotify.com/track/4F6v6KqM19TVQFBm1V0Pz1"
     },
     {
       "added_at": "2024-02-01 13:01:25",

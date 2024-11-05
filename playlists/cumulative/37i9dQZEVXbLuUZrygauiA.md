@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-2,353 songs - 5 day 6 hr 15 min
+2,354 songs - 5 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Caile](https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 2:21 | 2022-08-08 | 2022-09-21 |
 | [CAIRO](https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [CAIRO](https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA) | 3:21 | 2022-12-07 | 2022-12-28 |
 | [Cala En El Alma](https://open.spotify.com/track/4BNkSJRQqvD7TsTkyufMvD) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Cala En El Alma](https://open.spotify.com/album/2DEkSigFOQ5qfwPiFKTG47) | 3:01 | 2024-10-09 | 2024-10-19 |
+| [Calaveras y Diablitos](https://open.spotify.com/track/3hEMRRpy1AiRma7mlsVqY7) | [Clemente Castillo](https://open.spotify.com/artist/6xq8uO5PE2Vs9G6OsIicin), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Eureka](https://open.spotify.com/album/2LA3Z2VlhMWBAIpaAnJFmf) | 3:55 | 2024-11-04 |  |
 | [Calaverita de Azúcar](https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun) | [CARLOS AZCUAGA](https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g) | [Canciones de Día de Muertos](https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ) | 3:13 | 2022-11-02 |  |
 | [Calaveritas](https://open.spotify.com/track/1BmNqkmLmBqIU5ToPdbnnw) | [Ana Tijoux](https://open.spotify.com/artist/75myVgZbKQkWpyHAlLUCmG), [Celso Piña](https://open.spotify.com/artist/6w2g4b1Tn0ltVEiO0D3PEM) | [Calaveritas](https://open.spotify.com/album/5fpncon9GYSQJ9EdaoQXQN) | 4:20 | 2023-11-03 | 2023-11-09 |
 | [Calaveritas](https://open.spotify.com/track/1rfOVVrDPHouBZhiTL3kzs) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Celso Piña Arvizu](https://open.spotify.com/artist/4UKzuqzO8CEbT4LueIsdIF) | [Calaveritas](https://open.spotify.com/album/5RL8kn7xV8ivinDYDra4Uh) | 4:20 | 2022-11-03 |  |
@@ -2277,7 +2278,7 @@
 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 | 2022-04-19 | 2022-05-14 |
 | [X'CLUSIVO \- REMIX](https://open.spotify.com/track/62k8iliO7KTiYp7LWGPa5p) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [X'CLUSIVO \(REMIX\)](https://open.spotify.com/album/3FUYttT6kvaVvhiUBr6Oyh) | 3:28 | 2024-03-19 | 2024-03-26 |
 | [XO \(Only If You Say Yes\)](https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 3:08 | 2024-07-30 | 2024-08-07 |
-| [XQ ERES ASÍ](https://open.spotify.com/track/5V3CFqzpQSp3frtlVp4T3D) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [SAYONARA: FINALES ALTERNOS](https://open.spotify.com/album/33vdYyXRkC7kkenWARFMHu) | 3:32 | 2024-10-29 |  |
+| [XQ ERES ASÍ](https://open.spotify.com/track/5V3CFqzpQSp3frtlVp4T3D) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [SAYONARA: FINALES ALTERNOS](https://open.spotify.com/album/33vdYyXRkC7kkenWARFMHu) | 3:32 | 2024-10-29 | 2024-11-05 |
 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 | 2022-09-08 | 2022-09-29 |
 | [Y Así Fue](https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 2:46 | 2022-06-22 | 2022-07-23 |
 | [Y LLORO](https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:59 | 2023-10-24 | 2024-01-21 |

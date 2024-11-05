@@ -1,6 +1,6 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 107009,
+  "num_followers": 107106,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "Moon Beams",
+        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 343826,
+      "name": "Re: Person I Knew",
+      "url": "https://open.spotify.com/track/3V33ldRN2gRQyzojTwjlWP"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "Red Garland's Piano",
         "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 588840,
       "name": "Please Send Me Someone To Love",
       "url": "https://open.spotify.com/track/6j0mXItB7viXXjB98l3Kwy"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Moon Beams",
-        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 343826,
-      "name": "Re: Person I Knew",
-      "url": "https://open.spotify.com/track/3V33ldRN2gRQyzojTwjlWP"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "Breakin' It Up",
+        "url": "https://open.spotify.com/album/5xIu1QvYdJg4xZLw7J8n1S"
+      },
+      "artists": [
+        {
+          "name": "Barry Harris Trio",
+          "url": "https://open.spotify.com/artist/7Bpj43yWq3DUaMlNmTWYXH"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/5oEyPyit0Qov2p1E6GLtnJ"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "Master Trio",
         "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Breakin' It Up",
-        "url": "https://open.spotify.com/album/5xIu1QvYdJg4xZLw7J8n1S"
-      },
-      "artists": [
-        {
-          "name": "Barry Harris Trio",
-          "url": "https://open.spotify.com/artist/7Bpj43yWq3DUaMlNmTWYXH"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/5oEyPyit0Qov2p1E6GLtnJ"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Everybody Digs Bill Evans",
         "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Solo Monk (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 148933,
-      "name": "Dinah (Take 2)",
-      "url": "https://open.spotify.com/track/1XS5vGKquDNjxU6gLQcKd2"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Dave Brubeck's Greatest Hits",
         "url": "https://open.spotify.com/album/425dVE44lkA2a0FBI7MGLE"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 179333,
       "name": "I'm in a Dancing Mood",
       "url": "https://open.spotify.com/track/3DkdldkTR0pbVYKMg5eXJO"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Solo Monk (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 148933,
+      "name": "Dinah (Take 2)",
+      "url": "https://open.spotify.com/track/1XS5vGKquDNjxU6gLQcKd2"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 284400,
-      "name": "On Green Dolphin Street",
-      "url": "https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "The Best Of Art Tatum",
         "url": "https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms"
       },
@@ -939,26 +923,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Red Garland's Piano",
-        "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
       },
       "artists": [
         {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Art Taylor",
-          "url": "https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX"
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
         }
       ],
-      "duration_ms": 301773,
-      "name": "I Can't Give You Anything But Love",
-      "url": "https://open.spotify.com/track/04md2B5nmsojIkTSUWff2C"
+      "duration_ms": 284400,
+      "name": "On Green Dolphin Street",
+      "url": "https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -979,6 +955,30 @@
       "duration_ms": 440133,
       "name": "I Got It Bad",
       "url": "https://open.spotify.com/track/5Lu9OYEHAFP6KRls828iNn"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Red Garland's Piano",
+        "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Art Taylor",
+          "url": "https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX"
+        }
+      ],
+      "duration_ms": 301773,
+      "name": "I Can't Give You Anything But Love",
+      "url": "https://open.spotify.com/track/04md2B5nmsojIkTSUWff2C"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+        "name": "Great Britain's",
+        "url": "https://open.spotify.com/album/5YbS3aAsBc6DcNPLbSbSWR"
       },
       "artists": [
         {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+          "name": "Marian McPartland",
+          "url": "https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma"
         }
       ],
-      "duration_ms": 372266,
-      "name": "Empty Pockets - Remastered 2007",
-      "url": "https://open.spotify.com/track/4Cq9NtjeUASIkunQeXajCX"
+      "duration_ms": 170306,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/1VNPjGAzBm9BYAiOmHYtv0"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1259,34 +1259,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Great Britain's",
-        "url": "https://open.spotify.com/album/5YbS3aAsBc6DcNPLbSbSWR"
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
       },
       "artists": [
         {
-          "name": "Marian McPartland",
-          "url": "https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma"
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 170306,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/1VNPjGAzBm9BYAiOmHYtv0"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Eclypso",
-        "url": "https://open.spotify.com/album/6kMgJ6Q7IPOVq7juX2uEfT"
-      },
-      "artists": [
-        {
-          "name": "Tommy Flanagan",
-          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
-        }
-      ],
-      "duration_ms": 374093,
-      "name": "A Blue Time",
-      "url": "https://open.spotify.com/track/17LII4B6V1AhONoueVwoJU"
+      "duration_ms": 372266,
+      "name": "Empty Pockets - Remastered 2007",
+      "url": "https://open.spotify.com/track/4Cq9NtjeUASIkunQeXajCX"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1319,6 +1303,22 @@
       "duration_ms": 391426,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/7CYu93j5AsYDEhY7apdKvw"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Eclypso",
+        "url": "https://open.spotify.com/album/6kMgJ6Q7IPOVq7juX2uEfT"
+      },
+      "artists": [
+        {
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
+        }
+      ],
+      "duration_ms": 374093,
+      "name": "A Blue Time",
+      "url": "https://open.spotify.com/track/17LII4B6V1AhONoueVwoJU"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "My Point Of View (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 499253,
-      "name": "Blind Man, Blind Man",
-      "url": "https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Profile",
         "url": "https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 292333,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/0JCipYWmZT7sYHkunRqoRi"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "My Point Of View (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 499253,
+      "name": "Blind Man, Blind Man",
+      "url": "https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Blackbird",
-        "url": "https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio"
-      },
-      "artists": [
-        {
-          "name": "Shelly Berg Trio",
-          "url": "https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3"
-        }
-      ],
-      "duration_ms": 494213,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/3uVWwYNJMuhQ464tfH0a7f"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Fatha",
         "url": "https://open.spotify.com/album/44GmAp9XFBoimjYya5tJzw"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 248600,
       "name": "St. James Infirmary Blues",
       "url": "https://open.spotify.com/track/50q2XoQmoHNt6imrugVV90"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio"
+      },
+      "artists": [
+        {
+          "name": "Shelly Berg Trio",
+          "url": "https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3"
+        }
+      ],
+      "duration_ms": 494213,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/3uVWwYNJMuhQ464tfH0a7f"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Fatha",
-        "url": "https://open.spotify.com/album/44GmAp9XFBoimjYya5tJzw"
+        "name": "Sonny Clark Trio (Remastered 2001/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH"
       },
       "artists": [
         {
-          "name": "Earl Hines",
-          "url": "https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr"
+          "name": "Sonny Clark Trio",
+          "url": "https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw"
         }
       ],
-      "duration_ms": 151946,
-      "name": "Frankie and Johnnie",
-      "url": "https://open.spotify.com/track/10ugsW7VNz3ePFqX4nsLHP"
+      "duration_ms": 225186,
+      "name": "Two Bass Hit - Remastered 2001/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5d0hDDVxMASjFroKwSsOZe"
     }
   ],
   "unique_name": "Jazz Piano Classics",

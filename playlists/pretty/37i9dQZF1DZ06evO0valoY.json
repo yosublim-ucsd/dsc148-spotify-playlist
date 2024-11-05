@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 202922,
+  "num_followers": 202943,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAABQ40aaOmwYbPvMZ903fjPO",
+  "snapshot_id": "Zya9AAAAAAAxc8RoLOA5E57OjBdYu/Cw",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Perdido",
-        "url": "https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL"
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
       },
       "artists": [
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
         }
       ],
-      "duration_ms": 227796,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/23yj2bGQbyXWUIME0fO3oL"
+      "duration_ms": 270668,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ"
     },
     {
       "added_at": null,
@@ -547,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vibras de Noche",
-        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 270668,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Perdido",
         "url": "https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL"
       },
@@ -572,13 +552,13 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         },
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
         }
       ],
-      "duration_ms": 174923,
-      "name": "La Fresa",
-      "url": "https://open.spotify.com/track/0MDIsFaykSb6hYx8UkzkTS"
+      "duration_ms": 227796,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/23yj2bGQbyXWUIME0fO3oL"
     },
     {
       "added_at": null,
@@ -642,11 +622,15 @@
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 194400,
-      "name": "Loco Loco",
-      "url": "https://open.spotify.com/track/4Hem18w7fhHBBLvBAruP0l"
+      "duration_ms": 174923,
+      "name": "La Fresa",
+      "url": "https://open.spotify.com/track/0MDIsFaykSb6hYx8UkzkTS"
     },
     {
       "added_at": null,
@@ -712,9 +696,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 226250,
-      "name": "El Mundo es Tuyo",
-      "url": "https://open.spotify.com/track/1ReTfp9nMGVHZruQ5XnkxA"
+      "duration_ms": 194400,
+      "name": "Loco Loco",
+      "url": "https://open.spotify.com/track/4Hem18w7fhHBBLvBAruP0l"
     },
     {
       "added_at": null,
@@ -767,6 +751,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Perdido",
+        "url": "https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "El Mundo es Tuyo",
+      "url": "https://open.spotify.com/track/1ReTfp9nMGVHZruQ5XnkxA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 245911,
+      "name": "Dame Tu Calor",
+      "url": "https://open.spotify.com/track/4tKEWCeBSeiSJVB9ZURgUz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -787,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vibras de Noche",
-        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },
       "artists": [
         {
@@ -796,9 +812,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 245911,
-      "name": "Dame Tu Calor",
-      "url": "https://open.spotify.com/track/4tKEWCeBSeiSJVB9ZURgUz"
+      "duration_ms": 216685,
+      "name": "Tres de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2KZVUNMAbJ30Tvy9PkY7dB"
     },
     {
       "added_at": null,
@@ -823,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
       },
       "artists": [
         {
@@ -832,9 +848,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 216685,
-      "name": "Tres de la Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2KZVUNMAbJ30Tvy9PkY7dB"
+      "duration_ms": 239874,
+      "name": "Ganas Que Te Tengo",
+      "url": "https://open.spotify.com/track/1sS5aMT5JWYSHwrTbxGGsn"
     },
     {
       "added_at": null,
@@ -855,22 +871,6 @@
       "duration_ms": 224378,
       "name": "Hermosura de Mujer",
       "url": "https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vibras de Noche",
-        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 239874,
-      "name": "Ganas Que Te Tengo",
-      "url": "https://open.spotify.com/track/1sS5aMT5JWYSHwrTbxGGsn"
     },
     {
       "added_at": null,

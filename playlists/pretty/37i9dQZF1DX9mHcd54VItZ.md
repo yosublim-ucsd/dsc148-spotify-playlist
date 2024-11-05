@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I">wiesner</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,669 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,677 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 15 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
 | 16 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
 | 17 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
-| 18 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
-| 19 | [People Change](https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [People Change](https://open.spotify.com/album/0HujnlCsE3A24hpcwjkYJ6) | 3:26 |
+| 18 | [People Change](https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [People Change](https://open.spotify.com/album/0HujnlCsE3A24hpcwjkYJ6) | 3:26 |
+| 19 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
 | 20 | [My Lover's on the Run](https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [My Lover's on the Run](https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ) | 3:37 |
 | 21 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
-| 22 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
+| 22 | [Kopskudkinders](https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa) | [Die Tuindwergies](https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN) | [Die Tuindwergies](https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl) | 4:21 |
 | 23 | [Kyk Op](https://open.spotify.com/track/24bJuGTgDMck1hxZHg7xFM) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Kyk Op](https://open.spotify.com/album/7uHHOYE8LQgHZZfCLGECeT) | 3:26 |
-| 24 | [Kopskudkinders](https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa) | [Die Tuindwergies](https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN) | [Die Tuindwergies](https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl) | 4:21 |
+| 24 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
 | 25 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |
 | 26 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
 | 27 | [Genie](https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [AfterlifeSatisfaction](https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw) | 4:42 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 39 | [Kondisie](https://open.spotify.com/track/36SjYjhcFhamW4QESWInBa) | [Rudi Kleingeld](https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg) | [Kondisie](https://open.spotify.com/album/6Hy8tu66nDSlrKAq2hFxNq) | 3:26 |
 | 40 | [Even If](https://open.spotify.com/track/3hafu7svrimt7vpensLKie) | [Zondagkraal](https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7) | [Even If](https://open.spotify.com/album/1aEDybLnWMu8VrRIr8op62) | 2:18 |
 | 41 | [My Ek\(skuus\)](https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D) | [Dans Dans Lisa](https://open.spotify.com/artist/6Kasz09T76a1IAveNC2xZH) | [Die gids vir grootword](https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU) | 3:37 |
-| 42 | [Pandemonium](https://open.spotify.com/track/6yQsiNWGoYcNrhqsEtSC4S) | [Loveth Besamoh](https://open.spotify.com/artist/1VFftaa0TUrjjQ1bhpBCvX) | [WEATHER REPORT](https://open.spotify.com/album/2KDF4mRNVa5KfE70Rhv4sT) | 3:58 |
-| 43 | [Los My](https://open.spotify.com/track/3kUB0uomWGCHUtGDi7TEzp) | [Winterstasie](https://open.spotify.com/artist/2OJzbtCzhkYel0Nfv8lx3P) | [Klanke Van Die Antieke](https://open.spotify.com/album/7KDyQTLYSUY4cb4ynkbhPZ) | 3:04 |
+| 42 | [Los My](https://open.spotify.com/track/3kUB0uomWGCHUtGDi7TEzp) | [Winterstasie](https://open.spotify.com/artist/2OJzbtCzhkYel0Nfv8lx3P) | [Klanke Van Die Antieke](https://open.spotify.com/album/7KDyQTLYSUY4cb4ynkbhPZ) | 3:04 |
+| 43 | [Pandemonium](https://open.spotify.com/track/6yQsiNWGoYcNrhqsEtSC4S) | [Loveth Besamoh](https://open.spotify.com/artist/1VFftaa0TUrjjQ1bhpBCvX) | [WEATHER REPORT](https://open.spotify.com/album/2KDF4mRNVa5KfE70Rhv4sT) | 3:58 |
 | 44 | [Birthday Card](https://open.spotify.com/track/1owGgt0obwlyfCXHreFTFc) | [Tweak](https://open.spotify.com/artist/5a111cSPcXfRJAbY2MdtLS) | [The Romantic Lure of Possum Worship](https://open.spotify.com/album/2mY84YNvTOpVFtFJ3pJZTm) | 3:09 |
 | 45 | [Sindikaat](https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs) | [éF\-éL](https://open.spotify.com/artist/0I1HsrpXxDkMUiOYp3Mmka) | [Net Om Die Geraas In Te Asem](https://open.spotify.com/album/24XNRA90YKU8MOiI1Yaz65) | 2:21 |
 | 46 | [Dans Deur Die Donker](https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Dans Deur Die Donker](https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE) | 3:02 |
 | 47 | [Alleen \- Remastered 2024](https://open.spotify.com/track/5US58PJyctlJoImyWqsyvZ) | [Millennium](https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw) | [Ewigheid \(Remastered 2024\)](https://open.spotify.com/album/2U8RKMXqNsceEJCC1XGaTa) | 4:00 |
-| 48 | [ZAR](https://open.spotify.com/track/3tPhyCjhQLvEBbUbOPHHmv) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [ZAR](https://open.spotify.com/album/6sMKmYRslizAqXFgKmK6VX) | 3:27 |
-| 49 | [Android](https://open.spotify.com/track/5UtLO5eNEB3MsrQNm77ZW2) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k) | [Android](https://open.spotify.com/album/0g6q1QEe0BlQfUBQ2ubdct) | 3:32 |
-| 50 | [Never Enough](https://open.spotify.com/track/7IdzKD9PrLnU7H8WOjgp0U) | [Rewind](https://open.spotify.com/artist/1ZLUXsroXgx9oOq1cnTXgt) | [Never Enough](https://open.spotify.com/album/7lU2Xu7bZ8IGgCuEhz5TUN) | 3:48 |
+| 48 | [Never Enough](https://open.spotify.com/track/7IdzKD9PrLnU7H8WOjgp0U) | [Rewind](https://open.spotify.com/artist/1ZLUXsroXgx9oOq1cnTXgt) | [Never Enough](https://open.spotify.com/album/7lU2Xu7bZ8IGgCuEhz5TUN) | 3:48 |
+| 49 | [Picture Perfect](https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP) | [Perez](https://open.spotify.com/artist/4G30SsYmThGzZPCCyDN1bH) | [Picture Perfect](https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb) | 4:05 |
+| 50 | [ZAR](https://open.spotify.com/track/3tPhyCjhQLvEBbUbOPHHmv) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [ZAR](https://open.spotify.com/album/6sMKmYRslizAqXFgKmK6VX) | 3:27 |
 
 Snapshot ID: `ZyP94AAAAADBWLIZMtUIX6rZcW9JLuZE`

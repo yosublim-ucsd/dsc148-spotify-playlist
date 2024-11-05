@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in modern punk rock music\. Cover: Drug Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,746 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,755 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 11 | [End Eric Sparrow and the Life of Him](https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [End Eric Sparrow and the Life of Him](https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi) | 2:49 |
 | 12 | [Beg For More](https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Beg For More](https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I) | 2:54 |
 | 13 | [Dumbstruck Dumbf\*\*k](https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 2:58 |
-| 14 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 |
-| 15 | [Watch You Go](https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [I Want To Disappear](https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo) | 2:10 |
+| 14 | [Watch You Go](https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [I Want To Disappear](https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo) | 2:10 |
+| 15 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 |
 | 16 | [Afraid To Die](https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Afraid To Die](https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ) | 3:02 |
 | 17 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 |
 | 18 | [Blow It](https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Blow It](https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk) | 2:44 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 30 | [A White Horse Covered In Blood](https://open.spotify.com/track/3xeSkrhiTFfQv47lyUPe3W) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [A White Horse Covered In Blood](https://open.spotify.com/album/02Pd6DWZUq8pUETRO8NleY) | 3:18 |
 | 31 | [Hypocrite](https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Hypocrite](https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N) | 1:48 |
 | 32 | [Enmore](https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Enmore](https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw) | 2:42 |
-| 33 | [Yankee Trails](https://open.spotify.com/track/560Grf0kkkBF0v0unWmOIC) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [PRUDE](https://open.spotify.com/album/4SiGEjeock157xR33nCQdb) | 2:47 |
-| 34 | [You've Got The Nerve](https://open.spotify.com/track/4D27D0dO71irY4ngdUvsjJ) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Still Nervous](https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh) | 2:28 |
-| 35 | [Body of Mine](https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country / Body of Mine](https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql) | 2:11 |
+| 33 | [Body of Mine](https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country / Body of Mine](https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql) | 2:11 |
+| 34 | [Yankee Trails](https://open.spotify.com/track/560Grf0kkkBF0v0unWmOIC) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [PRUDE](https://open.spotify.com/album/4SiGEjeock157xR33nCQdb) | 2:47 |
+| 35 | [You've Got The Nerve](https://open.spotify.com/track/4D27D0dO71irY4ngdUvsjJ) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Still Nervous](https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh) | 2:28 |
 | 36 | [All This Time](https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [All This Time](https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30) | 2:48 |
 | 37 | [GROWING UP ON THE INTERNET](https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8) | 3:19 |
 | 38 | [Nobody’s](https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Nobody’s](https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT) | 2:15 |
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 41 | [People Watching](https://open.spotify.com/track/6WKc3CetpaIRyDmukASzYi) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [People Watching](https://open.spotify.com/album/3DS7XjGjZHW6aL8BSJogSE) | 3:01 |
 | 42 | [Mirror Muscles](https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Mirror Muscles](https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG) | 2:43 |
 | 43 | [Mirage](https://open.spotify.com/track/486JaB4ZK017faPW9kNpje) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Mirage](https://open.spotify.com/album/42D3FszT9XdwpK9zICUBsa) | 2:52 |
-| 44 | [Nothing Would Change](https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Nothing Would Change](https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH) | 3:23 |
-| 45 | [Dirty Mirror Selfie](https://open.spotify.com/track/0k51vsfx9ard3xN3dXyzQI) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Dirty Mirror Selfie / Where Blue Light Blooms](https://open.spotify.com/album/2l8tR5Q0mToBh2I2U6D0w4) | 3:37 |
-| 46 | [DOWN N OUT](https://open.spotify.com/track/3I7bQjEBfbyo7wI3AeF0eg) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [DOWN N OUT](https://open.spotify.com/album/6wkmm5YeCDnfIZoKXhLU98) | 2:23 |
-| 47 | [Boyfeel](https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Boyfeel](https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp) | 2:29 |
+| 44 | [Dirty Mirror Selfie](https://open.spotify.com/track/0k51vsfx9ard3xN3dXyzQI) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Dirty Mirror Selfie / Where Blue Light Blooms](https://open.spotify.com/album/2l8tR5Q0mToBh2I2U6D0w4) | 3:37 |
+| 45 | [Nothing Would Change](https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Nothing Would Change](https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH) | 3:23 |
+| 46 | [Boyfeel](https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Boyfeel](https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp) | 2:29 |
+| 47 | [DOWN N OUT](https://open.spotify.com/track/3I7bQjEBfbyo7wI3AeF0eg) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [DOWN N OUT](https://open.spotify.com/album/6wkmm5YeCDnfIZoKXhLU98) | 2:23 |
 | 48 | [Everything and Nothing](https://open.spotify.com/track/7j0ERJhSb6kFFeAiDl1QBf) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Everything and Nothing](https://open.spotify.com/album/3hRhx7uDN7bnQSPB769JZ9) | 3:57 |
 | 49 | [1800\-PAINLESS](https://open.spotify.com/track/7yregBQ1r9Nr17IDWOIizd) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE), [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [1800\-PAINLESS](https://open.spotify.com/album/2LO9zLVebJsy82VgafSc0o) | 3:23 |
 | 50 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 77 | [Self\-determined](https://open.spotify.com/track/7c1bKD3B87FJZNUXGIDH8s) | [Face To Face](https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd) | [Self\-determined](https://open.spotify.com/album/6KGuKs29bBrtAipiL8uxXF) | 3:17 |
 | 78 | [Final Words](https://open.spotify.com/track/1CZpEkQIsrMTBoEfJZsCU8) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [The Mosaic](https://open.spotify.com/album/4VDyL1ptJ0KhgiaLvMjmtW) | 3:33 |
 | 79 | [Cortana](https://open.spotify.com/track/5S8uaR4agezNu546qCj9oq) | [Enola Gay](https://open.spotify.com/artist/1CT7BjCVYK5vr9SNr7WlEP) | [Cortana](https://open.spotify.com/album/0KEX1AH5HtdSdVfTGyLrKh) | 3:41 |
-| 80 | [Git Some Balls](https://open.spotify.com/track/2537WG5KdqGVGeDgU7aTvi) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Git Some Balls / Air Con](https://open.spotify.com/album/7EGNNZlyXVERZ3DG2dObR1) | 2:26 |
+| 80 | [Walk Alone](https://open.spotify.com/track/6hpIW8zOcktH6AbRuDWwjr) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp), [Matty Mullins](https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot) | [Walk Alone](https://open.spotify.com/album/0Cpkr1J8G7a1ntNd1ZLdyg) | 3:15 |
 
 Snapshot ID: `ZwgJngAAAACINTfsyTaysW09O2yZEnk/`

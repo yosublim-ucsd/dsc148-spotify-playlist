@@ -4,7 +4,7 @@
 
 > Les meilleurs airs d'autoroute.
 
-122 songs - 7 hr 6 min
+123 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Monde Nouveau](https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Palais d'argile](https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi) | 3:34 | 2022-12-07 |  |
 | [Mourir demain](https://open.spotify.com/track/0bdhH65xZdscxkATgDQlSS) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch), [Pascal Obispo](https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS) | [L'instant d'après](https://open.spotify.com/album/3teDBI5npi3hDWJ8zyFdv9) | 3:37 | 2022-12-07 |  |
 | [Mourir vieux \(avec toi\)](https://open.spotify.com/track/7EwK4HWRAunokum0nNo7il) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE) | [Mélancolie heureuse \- Nouvelle impression](https://open.spotify.com/album/1qXI0l7V93M0KCinTOZwcW) | 3:19 | 2023-03-20 | 2023-05-13 |
+| [Musique](https://open.spotify.com/track/3J7V8Wg2wqqCM3tfpBoSne) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Evidemment \(Version Deluxe\)](https://open.spotify.com/album/2Y5UOICIPPl6AmKbZ4ZWhj) | 4:13 | 2024-05-23 |  |
 | [Ne partons pas fâchés](https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 3:13 | 2023-01-12 |  |
 | [Non non non \(Ecouter Barbara\)](https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Camelia Jordana](https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT) | 2:46 | 2022-12-07 |  |
 | [Non non rien n'a changé](https://open.spotify.com/track/1fxoAloBlcKe3t49QwIL4m) | [Les Poppys](https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC) | [Les Annees Barclay](https://open.spotify.com/album/7q3tFk1RQC7dNCPTi9mRnm) | 3:09 | 2022-12-07 | 2024-04-19 |
@@ -96,7 +97,7 @@
 | [Nue](https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire \(Réédition\)](https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd) | 3:04 | 2022-12-07 |  |
 | [On](https://open.spotify.com/track/1irx7iNjFWPDo5qqO5wdAu) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE) | [On](https://open.spotify.com/album/4DDG0gVgUTgGRZBxQ6zscl) | 3:42 | 2023-01-12 | 2023-09-26 |
 | [On était beau](https://open.spotify.com/track/10ZrEcxWcD9vOSUVhUH33O) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8) | 3:25 | 2022-12-07 |  |
-| [Osez Joséphine](https://open.spotify.com/track/3XJG4svqKswsr2ixWNgjg1) | [Alain Bashung](https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b) | [Osez Josephine](https://open.spotify.com/album/0653WmIcH7ZSTas8txIZgM) | 2:58 | 2022-12-07 |  |
+| [Osez Joséphine](https://open.spotify.com/track/3XJG4svqKswsr2ixWNgjg1) | [Alain Bashung](https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b) | [Osez Josephine](https://open.spotify.com/album/0653WmIcH7ZSTas8txIZgM) | 2:58 | 2022-12-07 | 2024-11-05 |
 | [Pardonne\-moi](https://open.spotify.com/track/7jDmxUkdq4n3CHL6aLNJla) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 3:07 | 2024-03-11 |  |
 | [Partons vite](https://open.spotify.com/track/4bsSygJynZCIoU5xje0KQA) | [Kaolin](https://open.spotify.com/artist/3avnNpfPFjWpj84R8Jaqbr) | [Mélanger les couleurs](https://open.spotify.com/album/6isztb4hV9Ad2u6NUhK5l0) | 4:01 | 2024-03-11 | 2024-05-23 |
 | [Pays des merveilles](https://open.spotify.com/track/5lph5Ohom4uGk7pQDyLPJB) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z), [CEUZANY](https://open.spotify.com/artist/5AYXYNFAvk8uUmCa5FDe7L) | [Pays des merveilles](https://open.spotify.com/album/43YnMTktKT5nEJoC5W5XXC) | 3:26 | 2023-11-16 | 2023-11-24 |

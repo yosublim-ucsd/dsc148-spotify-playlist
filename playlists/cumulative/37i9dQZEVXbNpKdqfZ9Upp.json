@@ -598,7 +598,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 174500,
       "name": "5-7",
       "url": "https://open.spotify.com/track/3IEvQ1CzszUJtTRLmmMJ2X"
@@ -3668,7 +3668,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 163031,
       "name": "AY MAM\u00c1",
       "url": "https://open.spotify.com/track/2lAUq68F2bt7Kc218n9FPp"
@@ -16708,7 +16708,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 151689,
       "name": "GGUM",
       "url": "https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8"
@@ -19468,7 +19468,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 238866,
       "name": "I'm Gonna Miss You",
       "url": "https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj"
@@ -19664,7 +19664,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 163106,
       "name": "Igual No Debo",
       "url": "https://open.spotify.com/track/1xgEvJ6oPN3mTd99tY6RQ5"
@@ -20518,7 +20518,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 223192,
       "name": "Juno",
       "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
@@ -30320,7 +30320,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 157209,
       "name": "noviogangsta <3",
       "url": "https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj"
@@ -30864,6 +30864,36 @@
       "duration_ms": 212253,
       "name": "OMG",
       "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
+    },
+    {
+      "album": {
+        "name": "OMG (Remix)",
+        "url": "https://open.spotify.com/album/0EXfIJ4nlIWMfgMpSt8Xxe"
+      },
+      "artists": [
+        {
+          "name": "Candelita",
+          "url": "https://open.spotify.com/artist/4WzBqbc7fxl2y8XrznMSqf"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Jose iglesia",
+          "url": "https://open.spotify.com/artist/6NVVcu2j3GlTJwVUnNh27B"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131144,
+      "name": "OMG - Remix",
+      "url": "https://open.spotify.com/track/46y7qVfQdcDCeo2pA868Ra"
     },
     {
       "album": {
@@ -33104,6 +33134,28 @@
       "duration_ms": 184601,
       "name": "Polaroid Love",
       "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
+    },
+    {
+      "album": {
+        "name": "POLOS OPUESTOS REMIX (BLESSD VERSION)",
+        "url": "https://open.spotify.com/album/2o89OBJVbw4BdBeyVOGanN"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "POLOS OPUESTOS REMIX - BLESSD VERSION",
+      "url": "https://open.spotify.com/track/2ALQyXMC26Vew7JX7ert9M"
     },
     {
       "album": {
@@ -36786,7 +36838,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 225373,
       "name": "SE ME OLVIDA",
       "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
@@ -38342,6 +38394,24 @@
       "duration_ms": 115165,
       "name": "Sin Condon (TikTok) - Remix",
       "url": "https://open.spotify.com/track/4i57FtSgN0a7UlcECOX4ws"
+    },
+    {
+      "album": {
+        "name": "CORAZ\u00d3N ERRANTE",
+        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149546,
+      "name": "Sin Equipaje",
+      "url": "https://open.spotify.com/track/0bVtKbzLzlwV1IPPFqIWWy"
     },
     {
       "album": {
@@ -41260,7 +41330,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 174723,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ"

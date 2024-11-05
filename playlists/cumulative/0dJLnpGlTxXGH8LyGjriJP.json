@@ -5839,6 +5839,24 @@
     },
     {
       "album": {
+        "name": "Mixed Bag",
+        "url": "https://open.spotify.com/album/1Ucn2V3MRzIvZDxVH64PXW"
+      },
+      "artists": [
+        {
+          "name": "Zarech",
+          "url": "https://open.spotify.com/artist/7DHVVPqZYKCrro216FSMzq"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211399,
+      "name": "Go Shit",
+      "url": "https://open.spotify.com/track/1Koeu2dRr4mqtmhlxLaRHP"
+    },
+    {
+      "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
       },

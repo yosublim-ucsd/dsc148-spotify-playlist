@@ -4,7 +4,7 @@
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: Charlotte de Witte
 
-459 songs - 1 day 5 hr 16 min
+460 songs - 1 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [free](https://open.spotify.com/track/3TyQK5VFsgW1oFsFilQpwJ) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [free](https://open.spotify.com/album/7vwmPbiCeBhHkZA5RGjSNY) | 3:12 | 2024-03-29 | 2024-06-18 |
 | [Free](https://open.spotify.com/track/0w78hawHvWANKTeFe8Vouv) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Free](https://open.spotify.com/album/7o6p1Siw6MlP1lsPS6uucX) | 3:11 | 2024-07-12 |  |
 | [Freedom](https://open.spotify.com/track/1rb0BqRRlfNTcjFwwSzaA6) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq) | [Freedom](https://open.spotify.com/album/17pBr3QTacCV1uCo7xWXI5) | 4:13 | 2024-09-06 |  |
-| [Freefall](https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Freefall](https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883) | 3:39 | 2024-07-26 |  |
+| [Freefall](https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Freefall](https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883) | 3:39 | 2024-07-26 | 2024-11-05 |
 | [Freya](https://open.spotify.com/track/42p1yoKQ9c1ER69lveeHG3) | [ZOYA](https://open.spotify.com/artist/5eqThkuR9VjiLuYfzESTp7), [Nourey](https://open.spotify.com/artist/29eCbkd3VZXMgG5Ggyuaog) | [Freya](https://open.spotify.com/album/0RkiCQjhWKo1FOhAuNIcDs) | 3:49 | 2024-03-22 | 2024-06-25 |
 | [Full Speed \(feat\. Aviella\)](https://open.spotify.com/track/0UcgETwF7Rj8ssMJaqEKvS) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Full Speed \(feat\. Aviella\)](https://open.spotify.com/album/1go08O7spIyibPNIb3lGF4) | 3:30 | 2024-03-15 | 2024-06-01 |
 | [Funky Organ](https://open.spotify.com/track/6l4YPbIXPfVJeEeZloRMCY) | [Lisbona Sisters](https://open.spotify.com/artist/7rJhuuUaqnZRPLaiGrAgxA) | [Funky Organ](https://open.spotify.com/album/7kWjvPUDiI4boW0z9QBf0w) | 2:09 | 2024-03-01 | 2024-04-19 |
@@ -309,6 +309,7 @@
 | [Ocean](https://open.spotify.com/track/284f8fL3XQ71bGIZvNTpId) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Darkroom](https://open.spotify.com/album/0EL6B1uF8KkXOh99PnR5ME) | 3:34 | 2024-05-17 | 2024-08-03 |
 | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay) | 2:22 | 2024-08-09 |  |
 | [On The List](https://open.spotify.com/track/6S4JRqrrBl0yMGHjN3DFc6) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [On The List](https://open.spotify.com/album/6yvwMxx3HNzEua962yBxpU) | 3:00 | 2024-03-01 | 2024-05-03 |
+| [Only I](https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Only I](https://open.spotify.com/album/6GfqIy3LzvsBQ5fkrGAp5d) | 3:48 | 2024-11-04 |  |
 | [Other Side](https://open.spotify.com/track/7cF2hKTFZ1JgoyEObsx2K4) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Other Side](https://open.spotify.com/album/2PqqKi9JNeXzT9zqFHwFEP) | 6:09 | 2021-03-01 | 2023-03-08 |
 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-29 | 2024-06-25 |
 | [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 | 2024-03-29 | 2024-04-19 |

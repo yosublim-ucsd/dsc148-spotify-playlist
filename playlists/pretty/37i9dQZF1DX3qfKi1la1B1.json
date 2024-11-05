@@ -1,6 +1,6 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 122922,
+  "num_followers": 122931,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,26 @@
     {
       "added_at": "2024-10-26 04:36:03",
       "album": {
+        "name": "Two Tens (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 152371,
+      "name": "Two Tens (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
+    },
+    {
+      "added_at": "2024-10-26 04:36:03",
+      "album": {
         "name": "Waited All Night",
         "url": "https://open.spotify.com/album/0pCKkt2fkUpUNuDuV45ei8"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 208334,
       "name": "Waited All Night",
       "url": "https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb"
-    },
-    {
-      "added_at": "2024-10-26 04:36:03",
-      "album": {
-        "name": "Two Tens (feat. Anderson .Paak)",
-        "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 152371,
-      "name": "Two Tens (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
     },
     {
       "added_at": "2024-10-26 04:36:03",
@@ -735,6 +735,26 @@
     {
       "added_at": "2024-10-26 04:36:03",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/5ZNkTEY37Og8IqVZGYZCjD"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "duration_ms": 217392,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4BzaG97pk6iZ5Wev2tKKgD"
+    },
+    {
+      "added_at": "2024-10-26 04:36:03",
+      "album": {
         "name": "Hiding",
         "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 222092,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
-    },
-    {
-      "added_at": "2024-10-26 04:36:03",
-      "album": {
-        "name": "Chama",
-        "url": "https://open.spotify.com/album/43c9YAds3Zha8eldLhHK2A"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 196021,
-      "name": "Chama",
-      "url": "https://open.spotify.com/track/57T2OCgiu5OEP2RUHRBZuY"
     },
     {
       "added_at": "2024-10-26 04:36:03",
@@ -807,22 +807,22 @@
     {
       "added_at": "2024-10-26 04:36:03",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/5ZNkTEY37Og8IqVZGYZCjD"
+        "name": "Chama",
+        "url": "https://open.spotify.com/album/43c9YAds3Zha8eldLhHK2A"
       },
       "artists": [
         {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
         },
         {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
         }
       ],
-      "duration_ms": 217392,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/4BzaG97pk6iZ5Wev2tKKgD"
+      "duration_ms": 196021,
+      "name": "Chama",
+      "url": "https://open.spotify.com/track/57T2OCgiu5OEP2RUHRBZuY"
     },
     {
       "added_at": "2024-10-26 04:36:03",
@@ -891,26 +891,6 @@
     {
       "added_at": "2024-10-26 04:36:03",
       "album": {
-        "name": "Beautiful And Brutal Yard",
-        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Militerian (feat. Naira Marley)",
-      "url": "https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0"
-    },
-    {
-      "added_at": "2024-10-26 04:36:03",
-      "album": {
         "name": "The Sun",
         "url": "https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 184280,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d"
+    },
+    {
+      "added_at": "2024-10-26 04:36:03",
+      "album": {
+        "name": "Beautiful And Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Militerian (feat. Naira Marley)",
+      "url": "https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0"
     },
     {
       "added_at": "2024-10-26 04:36:03",

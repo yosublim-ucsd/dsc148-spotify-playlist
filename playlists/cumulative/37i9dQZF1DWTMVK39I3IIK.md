@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸 <a href="spotify:artist:0dMc2FDDeU7OzAn5EsYKuU">Østen</a> har nyt album ude❤️‍🔥
 
-119 songs - 6 hr 23 min
+120 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Brænder Stadig](https://open.spotify.com/track/1jTAvx5ch0MmX8QT75uyXf) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Dem, Vi Plejede At Være](https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm) | 3:08 | 2024-06-27 |  |
 | [Butterfly Street](https://open.spotify.com/track/5G86JqNPfvJ3Fm2z2OltUZ) | [LILLI](https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous) | [Butterfly Street](https://open.spotify.com/album/16wE26QmYI0HVpOfqjxJR0) | 2:46 | 2024-08-15 | 2024-09-20 |
 | [Bænkevarmer](https://open.spotify.com/track/5rfWrweJSSVvC4Mg7opz8I) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Bænkevarmer](https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd) | 3:25 | 2024-06-27 | 2024-09-07 |
-| [Caroline](https://open.spotify.com/track/49LGe1i7eznRGUyOHD4tVM) | [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Caroline](https://open.spotify.com/album/32mo9QQbaLGnv7C8kXMNxx) | 3:10 | 2024-08-29 |  |
+| [Caroline](https://open.spotify.com/track/49LGe1i7eznRGUyOHD4tVM) | [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Caroline](https://open.spotify.com/album/32mo9QQbaLGnv7C8kXMNxx) | 3:10 | 2024-08-29 | 2024-11-05 |
 | [Coast II Coast \(feat\. USSEL\)](https://open.spotify.com/track/0HKBq5BnA2JOiLy85H0JxL) | [Rune Rask](https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0), [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [Coast II Coast \(feat\. USSEL\)](https://open.spotify.com/album/1tLKNTlOQhdGg9CnzznpwE) | 2:08 | 2024-09-05 |  |
 | [Cursing and Lying!](https://open.spotify.com/track/5dslPul1UbjAHzUcFZZoUw) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Caravan](https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi) | 5:14 | 2024-10-03 |  |
 | [dagdrømmer](https://open.spotify.com/track/5esSVR7UK3Nc7ymSOWJIc5) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [dagdrømmer](https://open.spotify.com/album/5LmtvUZQ9bkItt9x1E2tA6) | 2:50 | 2024-06-27 |  |
@@ -102,6 +102,7 @@
 | [Sang Til Min Far](https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 3:02 | 2024-10-24 |  |
 | [Sang Til Min Mor](https://open.spotify.com/track/3FjUj0VQl2vu0Ru4MJvhN8) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Sang Til Min Mor](https://open.spotify.com/album/4Kg7MU9ZbNhCD0MfGx4Tll) | 2:52 | 2024-09-26 | 2024-11-02 |
 | [Se Mig](https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Elsk Mig](https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU) | 3:56 | 2024-06-27 |  |
+| [Se Mig Før Jeg Glemmer Hvem Jeg Er](https://open.spotify.com/track/6eKpCSesviVv5WEtuU8fMJ) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 4:01 | 2024-10-24 |  |
 | [Siger Det Ik'](https://open.spotify.com/track/0A4EXxKqR3WSfft3rwFeHU) | [UNG\-SKAB](https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8) | [Siger Det Ik'](https://open.spotify.com/album/1hdjh1iAjtRzAwKfy8LMO8) | 2:48 | 2024-06-27 | 2024-08-30 |
 | [Smelter Under Månen](https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Smelter Under Månen](https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE) | 3:18 | 2024-06-27 |  |
 | [Sol Gennem Regn](https://open.spotify.com/track/17n1KmOAVGpXe8BnWKrAD4) | [UNG\-SKAB](https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8) | [Sol Gennem Regn](https://open.spotify.com/album/1wnPzqdbhmYpeuZ5TZe385) | 2:53 | 2024-06-27 |  |

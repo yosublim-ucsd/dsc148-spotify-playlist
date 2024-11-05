@@ -1,6 +1,6 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 661546,
+  "num_followers": 661528,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "KIWANUKA",
-        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 171746,
-      "name": "Rolling",
-      "url": "https://open.spotify.com/track/3CQBal6JaIQziWGgX7FUqB"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "I Need to Start a Garden",
         "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 177339,
       "name": "Oom Sha La La",
       "url": "https://open.spotify.com/track/28kOpVf1aCgL0LSFfuKV4w"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "KIWANUKA",
+        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 171746,
+      "name": "Rolling",
+      "url": "https://open.spotify.com/track/3CQBal6JaIQziWGgX7FUqB"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Every Time I Hear That Song",
-      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 255533,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Every Time I Hear That Song",
+      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1279,38 +1279,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Feet On The Dashboard",
-        "url": "https://open.spotify.com/album/28vqhb1JY28NWLWEVyfRxw"
-      },
-      "artists": [
-        {
-          "name": "Anthony da Costa",
-          "url": "https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj"
-        }
-      ],
-      "duration_ms": 284880,
-      "name": "Feet On The Dashboard",
-      "url": "https://open.spotify.com/track/0YbAkvT3mvybfRUpqGv6R5"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "Mt. Joy",
-        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "See Here, I Have Built You a Mansion (Rare and Unreleased)",
         "url": "https://open.spotify.com/album/252NtCT6AXklf3RywgcDTB"
       },
@@ -1327,6 +1295,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "Feet On The Dashboard",
+        "url": "https://open.spotify.com/album/28vqhb1JY28NWLWEVyfRxw"
+      },
+      "artists": [
+        {
+          "name": "Anthony da Costa",
+          "url": "https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj"
+        }
+      ],
+      "duration_ms": 284880,
+      "name": "Feet On The Dashboard",
+      "url": "https://open.spotify.com/track/0YbAkvT3mvybfRUpqGv6R5"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "The Order Of Time",
         "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 166440,
       "name": "Shakedown",
       "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 211851,
-      "name": "Sleep On The Floor",
-      "url": "https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Sometimes I Wish We Were An Eagle",
         "url": "https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 342746,
       "name": "Rococo Zephyr",
       "url": "https://open.spotify.com/track/4pptcDdsgxN4qsjOOzotI6"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 211851,
+      "name": "Sleep On The Floor",
+      "url": "https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Belong",
-        "url": "https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV"
-      },
-      "artists": [
-        {
-          "name": "San Fermin",
-          "url": "https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "Bride",
-      "url": "https://open.spotify.com/track/258ONJcunOE7KA225pLP2x"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Speed, Sound, Lonely KV (ep)",
         "url": "https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 315080,
       "name": "Speed of the Sound of Loneliness",
       "url": "https://open.spotify.com/track/3NhJyuxuWg9dEX0A88HkiS"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV"
+      },
+      "artists": [
+        {
+          "name": "San Fermin",
+          "url": "https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "Bride",
+      "url": "https://open.spotify.com/track/258ONJcunOE7KA225pLP2x"
     },
     {
       "added_at": "2024-07-05 20:58:56",

@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1640484,
+  "num_followers": 1640471,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAAD1tkP8Da8wxamDQCFEzo1L",
+  "snapshot_id": "Zya9AAAAAACYxNoPBUTwy7ciXdTBAyll",
   "tracks": [
     {
       "added_at": null,
@@ -71,26 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        }
-      ],
-      "duration_ms": 205086,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
@@ -107,6 +87,26 @@
       "duration_ms": 179052,
       "name": "Alone, Pt. II",
       "url": "https://open.spotify.com/track/28VbwtsYnj85UEODGpQRem"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "duration_ms": 205086,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
     },
     {
       "added_at": null,
@@ -151,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Spectre",
-        "url": "https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 193787,
-      "name": "The Spectre",
-      "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 153718,
       "name": "Not You",
       "url": "https://open.spotify.com/track/5BKJAuVMDyrFvUTo4dIaiK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Spectre",
+        "url": "https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 193787,
+      "name": "The Spectre",
+      "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unsure",
-        "url": "https://open.spotify.com/album/6ll7yKhF7Iq3c04eLbwC3P"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Kylie Cantrall",
-          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
-        }
-      ],
-      "duration_ms": 168999,
-      "name": "Unsure",
-      "url": "https://open.spotify.com/track/0QUavh8qOxWeGutYZHgymz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "sickly sweet (Alan Walker Remix)",
         "url": "https://open.spotify.com/album/1tmHPiGes5UOMRpToZEGDM"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 142909,
       "name": "sickly sweet - Alan Walker Remix",
       "url": "https://open.spotify.com/track/7xK4iii6HEQfcdJXOt8B5j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unsure",
+        "url": "https://open.spotify.com/album/6ll7yKhF7Iq3c04eLbwC3P"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        }
+      ],
+      "duration_ms": 168999,
+      "name": "Unsure",
+      "url": "https://open.spotify.com/track/0QUavh8qOxWeGutYZHgymz"
     },
     {
       "added_at": null,

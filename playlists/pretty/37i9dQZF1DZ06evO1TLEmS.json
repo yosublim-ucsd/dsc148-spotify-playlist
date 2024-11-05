@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAAAJmNjejYHCndpJke8eQ9TB",
+  "snapshot_id": "Zya9AAAAAAA3qddw/pQVG7+bKgUvWVmZ",
   "tracks": [
     {
       "added_at": null,
@@ -87,26 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crying In The Night",
-        "url": "https://open.spotify.com/album/3sRsWL6atcSfJ9tWlPsCKt"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 155200,
-      "name": "Crying In The Night",
-      "url": "https://open.spotify.com/track/5fwHOt6PwHtdMIaN318984"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Without A Leg To Stand On",
         "url": "https://open.spotify.com/album/4hJ5xoH77zEDmqJONIxSGp"
       },
@@ -127,26 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cunningham Bird",
-        "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 214946,
-      "name": "Long Distance Winner",
-      "url": "https://open.spotify.com/track/0gpNdUkaWwi7SySXljnjd5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Age of Apathy",
         "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
       },
@@ -163,6 +123,26 @@
       "duration_ms": 212255,
       "name": "Passengers",
       "url": "https://open.spotify.com/track/4DQFYIY3Dg3LwpSAEFWoi2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cunningham Bird",
+        "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 156040,
+      "name": "Crying In The Night",
+      "url": "https://open.spotify.com/track/5wyr3mSfFAzLOZF50jEcqt"
     },
     {
       "added_at": null,
@@ -207,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 280293,
+      "name": "Song In My Head",
+      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cunningham Bird",
         "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
@@ -220,9 +216,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 72706,
-      "name": "Django",
-      "url": "https://open.spotify.com/track/7osq2LlUdidMNF7FXDXV8W"
+      "duration_ms": 214946,
+      "name": "Long Distance Winner",
+      "url": "https://open.spotify.com/track/0gpNdUkaWwi7SySXljnjd5"
     },
     {
       "added_at": null,
@@ -247,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 280293,
-      "name": "Song In My Head",
-      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Departures",
         "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
       },
@@ -283,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cunningham Bird",
-        "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 151213,
-      "name": "Lola (My Love)",
-      "url": "https://open.spotify.com/track/6xfbp79nVK2quJDtoZyUPe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neighbor Song (ft. Madison Cunningham)",
         "url": "https://open.spotify.com/album/1gWFh2G3METlCAbzhfaIzs"
       },
@@ -319,6 +279,26 @@
       "duration_ms": 220230,
       "name": "Neighbor Song [Feat. Madison Cunningham]",
       "url": "https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cunningham Bird",
+        "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 72706,
+      "name": "Django",
+      "url": "https://open.spotify.com/track/7osq2LlUdidMNF7FXDXV8W"
     },
     {
       "added_at": null,
@@ -359,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cunningham Bird",
-        "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 215773,
-      "name": "Races Are Run",
-      "url": "https://open.spotify.com/track/1Of90R6Q9TtVVx2EPnZCwF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live To Tape: Volume II",
         "url": "https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU"
       },
@@ -395,6 +355,26 @@
       "duration_ms": 202319,
       "name": "Be My Witness (feat. Madison Cunningham)",
       "url": "https://open.spotify.com/track/4uPV46l0LEqx6VivcqHCIc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cunningham Bird",
+        "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 151213,
+      "name": "Lola (My Love)",
+      "url": "https://open.spotify.com/track/6xfbp79nVK2quJDtoZyUPe"
     },
     {
       "added_at": null,
@@ -435,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Plain Letters (Reimagined)",
+        "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 273150,
+      "name": "Plain Letters - Reimagined",
+      "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cunningham Bird",
         "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
@@ -448,25 +444,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 283106,
-      "name": "Crystal",
-      "url": "https://open.spotify.com/track/2H3gBsloNdjGWlnct8GR1d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Plain Letters (Reimagined)",
-        "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 273150,
-      "name": "Plain Letters - Reimagined",
-      "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
+      "duration_ms": 215773,
+      "name": "Races Are Run",
+      "url": "https://open.spotify.com/track/1Of90R6Q9TtVVx2EPnZCwF"
     },
     {
       "added_at": null,
@@ -787,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Folkocracy",
         "url": "https://open.spotify.com/album/4FYVErCjwVvkO3XpDFtOQ2"
       },
@@ -819,6 +783,22 @@
       "duration_ms": 194493,
       "name": "Alone (feat. Madison Cunningham)",
       "url": "https://open.spotify.com/track/66DbVShEj5r1ozytczOmjn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
     },
     {
       "added_at": null,
@@ -855,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No One Else To Blame",
-        "url": "https://open.spotify.com/album/4RrYiD9kEUbyPYaWBmgVy8"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 182480,
-      "name": "No One Else To Blame",
-      "url": "https://open.spotify.com/track/3tICJ9T0zJHV9NRakK8PHw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
       },
@@ -883,6 +847,22 @@
       "duration_ms": 289461,
       "name": "Army Of Me - Spotify Single",
       "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No One Else To Blame",
+        "url": "https://open.spotify.com/album/4RrYiD9kEUbyPYaWBmgVy8"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 182480,
+      "name": "No One Else To Blame",
+      "url": "https://open.spotify.com/track/3tICJ9T0zJHV9NRakK8PHw"
     },
     {
       "added_at": null,
@@ -919,6 +899,22 @@
       "duration_ms": 241973,
       "name": "Beauty Into Clich\u00e9s",
       "url": "https://open.spotify.com/track/0kUnazSkIJAOJl3GiWEC94"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love, Lose, Remember",
+        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "To Another Land",
+      "url": "https://open.spotify.com/track/3uWPZMVDc4uJ7kS6y4PNEr"
     },
     {
       "added_at": null,

@@ -4168,7 +4168,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 149000,
       "name": "Doubts",
       "url": "https://open.spotify.com/track/4UX3EfWupj4gu9dGd3Yt0a"
@@ -4450,6 +4450,32 @@
       "duration_ms": 252000,
       "name": "Empty",
       "url": "https://open.spotify.com/track/4UhouRuvJ0FeITfLT3GkxQ"
+    },
+    {
+      "album": {
+        "name": "Enna Pyar",
+        "url": "https://open.spotify.com/album/44TS5qbkpc16y4GoCcGoBq"
+      },
+      "artists": [
+        {
+          "name": "Aparshakti Khurana",
+          "url": "https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT"
+        },
+        {
+          "name": "Sakshi Ratti",
+          "url": "https://open.spotify.com/artist/0hiYQJ7bFeqV3IJuF6fG7Y"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Enna Pyar",
+      "url": "https://open.spotify.com/track/3GuwccOIttcbeNNfflmDz6"
     },
     {
       "album": {
@@ -13131,6 +13157,24 @@
     },
     {
       "album": {
+        "name": "Goreyan Naal Lagdi Zameen Jatt Di",
+        "url": "https://open.spotify.com/album/767hmpll8oTyXk0ElCmdmD"
+      },
+      "artists": [
+        {
+          "name": "Armaan Bedil",
+          "url": "https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235793,
+      "name": "Pippal Da Patta",
+      "url": "https://open.spotify.com/track/4cQDm8B7JxO0HDkhjSRCFC"
+    },
+    {
+      "album": {
         "name": "Poora Chann",
         "url": "https://open.spotify.com/album/1JqXcDVTpMFrxw05z2hHi4"
       },
@@ -18078,7 +18122,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 234230,
       "name": "Tu Hi Tu",
       "url": "https://open.spotify.com/track/6FJgSrM8PmiqJtLriJuAkV"

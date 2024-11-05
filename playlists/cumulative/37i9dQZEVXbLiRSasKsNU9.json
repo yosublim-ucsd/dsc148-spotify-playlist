@@ -1753,6 +1753,28 @@
     },
     {
       "album": {
+        "name": "A Work of Art (feat. Shavo of System of a Down)",
+        "url": "https://open.spotify.com/album/4iCfWNu1o6eNEadgJQa4hp"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "SHAVO",
+          "url": "https://open.spotify.com/artist/3db7IWyJRHjZEViTutNdUR"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238143,
+      "name": "A Work of Art",
+      "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc"
+    },
+    {
+      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -6710,7 +6732,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -14374,7 +14396,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
@@ -24602,7 +24624,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 144866,
       "name": "I Put a Spell On You",
       "url": "https://open.spotify.com/track/3sLhMSePzxSrmxluIqeoAZ"

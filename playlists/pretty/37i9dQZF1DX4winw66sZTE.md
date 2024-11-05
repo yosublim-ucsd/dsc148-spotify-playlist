@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 
 > 2010년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,653 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,673 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 92 | [Shampoo](https://open.spotify.com/track/50JMmvCIMZCniuFeCOsRc4) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [VIRGIN](https://open.spotify.com/album/1fgyOFuEGFnWRTT1SwWH0V) | 4:34 |
 | 93 | [Rain Drop](https://open.spotify.com/track/6tlMVCqZlmxfnjZt3OiHjE) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Nitpicking](https://open.spotify.com/album/5bB2nClfkdlG1ekRQGw8zT) | 3:47 |
 | 94 | [I'll be yours](https://open.spotify.com/track/4dOOKtG5p4HXhWOBNAAMwS) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [GIRL'S DAY EVERYDAY no\. 5](https://open.spotify.com/album/6qRWeHnQGsaOw8bdOGnUud) | 3:10 |
-| 95 | [FOLLOW ME](https://open.spotify.com/track/5au4sqlDJhQQmzFIgJ12tu) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [COLLECTION](https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade) | 3:07 |
-| 96 | [A](https://open.spotify.com/track/3LII8A23VIs7pzudea2VSo) | [RAINBOW](https://open.spotify.com/artist/7xDyxRXgFgOZhdtLtkYR1y) | [A \(Digital Single\)](https://open.spotify.com/album/5NPfKzoi5vz4Z2gz3mS76B) | 3:21 |
+| 95 | [A](https://open.spotify.com/track/3LII8A23VIs7pzudea2VSo) | [RAINBOW](https://open.spotify.com/artist/7xDyxRXgFgOZhdtLtkYR1y) | [A \(Digital Single\)](https://open.spotify.com/album/5NPfKzoi5vz4Z2gz3mS76B) | 3:21 |
+| 96 | [FOLLOW ME](https://open.spotify.com/track/5au4sqlDJhQQmzFIgJ12tu) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [COLLECTION](https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade) | 3:07 |
 | 97 | [SOBER \- KR Ver.](https://open.spotify.com/track/6cMpMygFRbnQsI1m5oq8dp) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE SERIES](https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE) | 3:58 |
 | 98 | [JANUS](https://open.spotify.com/track/2TnisrTHhBfZTlfPQa2M6v) | [BOYFRIEND](https://open.spotify.com/artist/2Pw8E6zZoeuksVWtyZPnzd) | [JANUS \(1\)](https://open.spotify.com/album/452jBX9RIZQXPZoljxU2fP) | 3:28 |
 | 99 | [Machine](https://open.spotify.com/track/4w65wiJvFz8ea3bbeFl7kI) | [EXO\-K](https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I) | [Mama \- The 1st Mini Album](https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc) | 3:24 |

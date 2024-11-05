@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 190598,
       "name": "Azhuvurene (Story of a Bleeding Heart)",
       "url": "https://open.spotify.com/track/2zLqnD7Cj6BCjIfsZDyXqV"
@@ -2560,7 +2560,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 126476,
       "name": "Ezhundu Po",
       "url": "https://open.spotify.com/track/5eWnc4VwFsZV7ITr1d86yz"
@@ -2828,7 +2828,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 252900,
       "name": "Gundu Kuzhi",
       "url": "https://open.spotify.com/track/607puj8ynHdgBVtbrv8I3N"
@@ -7285,6 +7285,28 @@
     },
     {
       "album": {
+        "name": "Need Ya",
+        "url": "https://open.spotify.com/album/2asFfvtLu5njY0l8nbPTLe"
+      },
+      "artists": [
+        {
+          "name": "Dhruv Vikram",
+          "url": "https://open.spotify.com/artist/6ivte6aFersdzMprXpVDiO"
+        },
+        {
+          "name": "Ujwal Gupta",
+          "url": "https://open.spotify.com/artist/3YJUwreoTZwxYUi472ECtS"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163371,
+      "name": "Need Ya",
+      "url": "https://open.spotify.com/track/6JXqDg0Whw7DljE5ZEoojC"
+    },
+    {
+      "album": {
         "name": "Neethan En Rani",
         "url": "https://open.spotify.com/album/3d7lSBg1sEen0tT236axZ0"
       },
@@ -9511,6 +9533,32 @@
     },
     {
       "album": {
+        "name": "Rakkayi",
+        "url": "https://open.spotify.com/album/2D1tC3vqiG9dDdaCxeiDkm"
+      },
+      "artists": [
+        {
+          "name": "Karthik Srinivas",
+          "url": "https://open.spotify.com/artist/2K1khAOvY0oyvdGpC25uXn"
+        },
+        {
+          "name": "Vrusha Balu",
+          "url": "https://open.spotify.com/artist/5jhSfBeqM0W5nyTHA3EUjT"
+        },
+        {
+          "name": "A K PRRIYAN",
+          "url": "https://open.spotify.com/artist/0awt0os7KJ5wBgHD5RV58o"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204774,
+      "name": "Rakkayi",
+      "url": "https://open.spotify.com/track/2T1jVCp6093Hb72UZwBgjH"
+    },
+    {
+      "album": {
         "name": "Rasathi",
         "url": "https://open.spotify.com/album/6KMJDalW6JJfQjLTUbRbQT"
       },
@@ -11278,7 +11326,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 265250,
       "name": "Ulaa",
       "url": "https://open.spotify.com/track/1xmwh2Q8tPaj7qWCRwP0ej"

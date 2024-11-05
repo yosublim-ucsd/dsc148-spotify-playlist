@@ -4,7 +4,7 @@
 
 > From joyful jubillance to hushed harmonies\. Cover: Pentatonix
 
-82 songs - 4 hr 3 min
+83 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Jingle Bells](https://open.spotify.com/track/0NgU0FRX592LEHGds21pfD) | [VOCA PEOPLE](https://open.spotify.com/artist/0lJU6XXo5bSHEoDV2m4iqQ) | [Life Is Music \(Deluxe Version\)](https://open.spotify.com/album/7spOTs7ChtP9bOU3rlkT5a) | 0:47 | 2017-11-08 | 2022-11-16 |
 | [Jingle Bells \- Acapella](https://open.spotify.com/track/2mi1zKy5IOCa0UChNuFJiK) | [Cimorelli](https://open.spotify.com/artist/4988ULVP4X7nco6pLh1PA2) | [Jingle Bells \(Acapella\)](https://open.spotify.com/album/4fHC3WxhHhBdh8Upzuhot7) | 3:12 | 2022-11-15 |  |
 | [Joy to the World](https://open.spotify.com/track/21RoMQv86rgHUQLdVy07xn) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [I'll Have Another...Christmas Album](https://open.spotify.com/album/5fAtug9KJE3XhEf010Gkoj) | 3:08 | 2017-11-08 |  |
-| [Kid On Christmas \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5glU2EWqa5hpYqGPboSNjV) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Holidays Around the World](https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X) | 3:22 | 2022-11-15 |  |
+| [Kid On Christmas \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5glU2EWqa5hpYqGPboSNjV) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Holidays Around the World](https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X) | 3:22 | 2022-11-15 | 2024-11-05 |
 | [Let It Go](https://open.spotify.com/track/2G7K3Op9y3HhqrF2TdHP95) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:26 | 2017-11-08 | 2023-10-21 |
 | [Like It's Christmas](https://open.spotify.com/track/0olvHpyM6ObSE3kgFaN5zQ) | [The Trills](https://open.spotify.com/artist/1ndCTkNbTXQmLkuRZsh5qI), [Charlie Curtis\-Beard](https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb) | [Like It's Christmas](https://open.spotify.com/album/14aO4xYovAlvSSmMrFxY7F) | 3:39 | 2023-12-15 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/2sjIc08kf7ycfKHxUwB0Ez) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ), [Mike Tompkins](https://open.spotify.com/artist/3h3F1qpVfzQDCODlvMCQZm) | [A Hollens Family Christmas Deluxe](https://open.spotify.com/album/2goJmaqsfCG5qgDQMVMM5N) | 3:54 | 2022-01-14 | 2022-11-13 |
@@ -56,6 +56,7 @@
 | [Mary Did You Know?](https://open.spotify.com/track/4SkkJpvjaWfIFoC3HIRxbI) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [A Hollens Family Christmas](https://open.spotify.com/album/1wYsMV0rRpFmSzAc9hJ77X) | 2:42 | 2017-11-08 | 2022-07-29 |
 | [Mary, Did You Know?](https://open.spotify.com/track/1UQMKneHEnyNxHs7eEKSGp) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [A Hollens Family Christmas Deluxe](https://open.spotify.com/album/2goJmaqsfCG5qgDQMVMM5N) | 2:42 | 2022-01-14 | 2022-11-13 |
 | [Mary, Did You Know?](https://open.spotify.com/track/45HOyUDpvVRNbC4iGj2tw5) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [A Hollens Family Christmas](https://open.spotify.com/album/0OsTiVipKPPNi3b2EHwZ8L) | 2:42 | 2022-01-14 | 2023-10-21 |
+| [Meet Me Next Christmas](https://open.spotify.com/track/71c1qn8GR6xhx7pFjWWcks) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Meet Me Next Christmas](https://open.spotify.com/album/2VVfxBR6rxdMOyBPQZAyPx) | 2:43 | 2024-11-04 |  |
 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/6crJeVAyChFwjdI6oo0lwm) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 3:56 | 2022-01-14 | 2023-12-16 |
 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/0uG7N4hCYktGJrWIp9cfYz) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas](https://open.spotify.com/album/3oXvzShPN8iY2P1UYl3WVJ) | 3:57 | 2017-11-08 | 2022-07-29 |
 | [Nativity Medley](https://open.spotify.com/track/2M4c6MUNPK2ZVun9zfQAVm) | [Committed](https://open.spotify.com/artist/0zXJ4RC28rSgZ7tR5XgXdH) | [Home For Christmas](https://open.spotify.com/album/3hFiwCSomMbEvXLuXtEYDC) | 3:25 | 2017-11-08 |  |

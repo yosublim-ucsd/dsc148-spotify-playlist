@@ -1,6 +1,6 @@
 {
   "description": "The t-shirt weather essentials.",
-  "num_followers": 562717,
+  "num_followers": 562641,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
-        "name": "Nothing Happens",
-        "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 155146,
-      "name": "Remember When",
-      "url": "https://open.spotify.com/track/5naar7XewEOAjOywIp6Jjq"
-    },
-    {
-      "added_at": "2024-08-26 23:13:11",
-      "album": {
         "name": "When We Were Friends",
         "url": "https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 282205,
       "name": "Kilby Girl",
       "url": "https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH"
+    },
+    {
+      "added_at": "2024-08-26 23:13:11",
+      "album": {
+        "name": "Nothing Happens",
+        "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 155146,
+      "name": "Remember When",
+      "url": "https://open.spotify.com/track/5naar7XewEOAjOywIp6Jjq"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
-        "name": "Nack Nostalgia",
-        "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 187433,
-      "name": "Nack Nostalgia",
-      "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
-    },
-    {
-      "added_at": "2024-08-26 23:13:11",
-      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 206586,
       "name": "Silk Chiffon",
       "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
+    },
+    {
+      "added_at": "2024-08-26 23:13:11",
+      "album": {
+        "name": "Nack Nostalgia",
+        "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 187433,
+      "name": "Nack Nostalgia",
+      "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
-        "name": "Summer Song",
-        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 245504,
-      "name": "Summer Song",
-      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
-    },
-    {
-      "added_at": "2024-08-26 23:13:11",
-      "album": {
         "name": "I'm Allergic To Dogs!",
         "url": "https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 192000,
       "name": "Disco Man",
       "url": "https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV"
+    },
+    {
+      "added_at": "2024-08-26 23:13:11",
+      "album": {
+        "name": "Summer Song",
+        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 245504,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
-        "name": "Gone Now",
-        "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 215546,
-      "name": "Don't Take The Money",
-      "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
-    },
-    {
-      "added_at": "2024-08-26 23:13:11",
-      "album": {
         "name": "This Is What It Feels Like",
         "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 180488,
       "name": "The Bottom",
       "url": "https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y"
+    },
+    {
+      "added_at": "2024-08-26 23:13:11",
+      "album": {
+        "name": "Gone Now",
+        "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 215546,
+      "name": "Don't Take The Money",
+      "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
-        "name": ":)",
-        "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 180568,
-      "name": ":)",
-      "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
-    },
-    {
-      "added_at": "2024-08-26 23:13:11",
-      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 202653,
       "name": "Purple",
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+    },
+    {
+      "added_at": "2024-08-26 23:13:11",
+      "album": {
+        "name": ":)",
+        "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 180568,
+      "name": ":)",
+      "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
     },
     {
       "added_at": "2024-08-26 23:13:11",

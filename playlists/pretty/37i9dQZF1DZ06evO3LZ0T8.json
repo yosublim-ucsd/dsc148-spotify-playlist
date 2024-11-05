@@ -1,12 +1,12 @@
 {
   "description": "This is SUBSHIFT. The essential tracks, all in one playlist.",
-  "num_followers": 4510,
+  "num_followers": 4514,
   "original_name": "This Is SUBSHIFT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAADdCMk+E/141l6Q+GYiqxCw",
+  "snapshot_id": "Zya9AAAAAACKgntRaVVqIqNexC/XmsUK",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Club 95",
-        "url": "https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 189375,
-      "name": "Club 95",
-      "url": "https://open.spotify.com/track/2mJPisJh3QMDKFNjPsYR3G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 176648,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Club 95",
+        "url": "https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 189375,
+      "name": "Club 95",
+      "url": "https://open.spotify.com/track/2mJPisJh3QMDKFNjPsYR3G"
     },
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shake The Dice (Remixes)",
-        "url": "https://open.spotify.com/album/34wzQzTQ7XvmxQO7BSKYLH"
-      },
-      "artists": [
-        {
-          "name": "Cave Studio",
-          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
-        },
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 196455,
-      "name": "Shake The Dice (SUBSHIFT Remix)",
-      "url": "https://open.spotify.com/track/3BqjW0Fn2qpvAn5bf4Hdeq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Furious!",
         "url": "https://open.spotify.com/album/7aQPZJolEV6D1oikzZyW49"
       },
@@ -411,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ"
+        "name": "Shake The Dice (Remixes)",
+        "url": "https://open.spotify.com/album/34wzQzTQ7XvmxQO7BSKYLH"
       },
       "artists": [
+        {
+          "name": "Cave Studio",
+          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
+        },
         {
           "name": "SUBSHIFT",
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 215708,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr"
+      "duration_ms": 196455,
+      "name": "Shake The Dice (SUBSHIFT Remix)",
+      "url": "https://open.spotify.com/track/3BqjW0Fn2qpvAn5bf4Hdeq"
     },
     {
       "added_at": null,
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 215708,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/3ZLBV0Pq2nEEN1XvCr6BGB"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Want",
-        "url": "https://open.spotify.com/album/3gLaucz6aCw44XgbEKfNrl"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 174260,
-      "name": "I Want",
-      "url": "https://open.spotify.com/track/2bPZ3ZODl6ri3OJm9d1kvd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Money Zone",
         "url": "https://open.spotify.com/album/2QMsIeLfwPPKpAMsTuKTwP"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 171502,
       "name": "Money Zone",
       "url": "https://open.spotify.com/track/74Bc5e2EtbMTyBiJiFNN3P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Want",
+        "url": "https://open.spotify.com/album/3gLaucz6aCw44XgbEKfNrl"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 174260,
+      "name": "I Want",
+      "url": "https://open.spotify.com/track/2bPZ3ZODl6ri3OJm9d1kvd"
     },
     {
       "added_at": null,
@@ -543,6 +543,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "In My Bag",
+        "url": "https://open.spotify.com/album/1Y1ebICoBtXERdylqumYf9"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "owie",
+          "url": "https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai"
+        }
+      ],
+      "duration_ms": 184567,
+      "name": "In My Bag",
+      "url": "https://open.spotify.com/track/2TYOcnd7nZcaoyx5CWFuc9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "After Party",
         "url": "https://open.spotify.com/album/5VSbPVUxGg4iT0mIm4UV5b"
       },
@@ -595,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In My Bag",
-        "url": "https://open.spotify.com/album/1Y1ebICoBtXERdylqumYf9"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "owie",
-          "url": "https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai"
-        }
-      ],
-      "duration_ms": 184567,
-      "name": "In My Bag",
-      "url": "https://open.spotify.com/track/2TYOcnd7nZcaoyx5CWFuc9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Decisions",
         "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
       },
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rhythm",
-        "url": "https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6"
+        "name": "The Streets",
+        "url": "https://open.spotify.com/album/6GeDEhukBDiDhVAcsAY36I"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 189697,
-      "name": "The Rhythm",
-      "url": "https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5"
+      "duration_ms": 181383,
+      "name": "Amped",
+      "url": "https://open.spotify.com/track/2TXlFaOrA286GiRSJPEvmg"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/1jPkspAoB7SIEPvoH8hS6b"
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 187263,
-      "name": "Resonate",
-      "url": "https://open.spotify.com/track/7w9NUVZgPliQv7BKjaGFoU"
+      "duration_ms": 189697,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ride or Die",
-        "url": "https://open.spotify.com/album/3OWhCtgffNKn97Zw6KKNSO"
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/1jPkspAoB7SIEPvoH8hS6b"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 188857,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/62qtbxjKbsVHUWkM9HQeyQ"
+      "duration_ms": 187263,
+      "name": "Resonate",
+      "url": "https://open.spotify.com/track/7w9NUVZgPliQv7BKjaGFoU"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stereohype Rising, Vol. 1",
-        "url": "https://open.spotify.com/album/2Sed8MSB9soQRUhIcLWhk2"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 238084,
-      "name": "DNA - Extended Mix",
-      "url": "https://open.spotify.com/track/4dDnCAPIY5SAgecGhm7yIO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shake the Bass 4",
         "url": "https://open.spotify.com/album/7oVAZpsn4Bz3wxC41zmRPJ"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ride or Die",
+        "url": "https://open.spotify.com/album/3OWhCtgffNKn97Zw6KKNSO"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 188857,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/62qtbxjKbsVHUWkM9HQeyQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Streets",
         "url": "https://open.spotify.com/album/6GeDEhukBDiDhVAcsAY36I"
       },
@@ -796,9 +796,25 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 181383,
-      "name": "Amped",
-      "url": "https://open.spotify.com/track/2TXlFaOrA286GiRSJPEvmg"
+      "duration_ms": 158427,
+      "name": "The Streets",
+      "url": "https://open.spotify.com/track/6YQJlkvGbbxejDvtHL6W0y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stereohype Rising, Vol. 1",
+        "url": "https://open.spotify.com/album/2Sed8MSB9soQRUhIcLWhk2"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 238084,
+      "name": "DNA - Extended Mix",
+      "url": "https://open.spotify.com/track/4dDnCAPIY5SAgecGhm7yIO"
     },
     {
       "added_at": null,
@@ -835,22 +851,6 @@
       "duration_ms": 156624,
       "name": "2 LA",
       "url": "https://open.spotify.com/track/0Nwr2tgFoTgnKwG1sc8n8N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Streets",
-        "url": "https://open.spotify.com/album/6GeDEhukBDiDhVAcsAY36I"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 158427,
-      "name": "The Streets",
-      "url": "https://open.spotify.com/track/6YQJlkvGbbxejDvtHL6W0y"
     }
   ],
   "unique_name": "This Is SUBSHIFT",

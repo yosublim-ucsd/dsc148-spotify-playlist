@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: SOTA at Drumsheds ",
-  "num_followers": 64457,
+  "num_followers": 64484,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -711,34 +711,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Sientelo (Sota & Circadian Remix)",
-        "url": "https://open.spotify.com/album/6ANG5taElvY28rBOx4GaQx"
-      },
-      "artists": [
-        {
-          "name": "Mefjus",
-          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
-        },
-        {
-          "name": "Camo & Krooked",
-          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
-        },
-        {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        },
-        {
-          "name": "Circadian",
-          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
-        }
-      ],
-      "duration_ms": 237257,
-      "name": "Sientelo - Sota & Circadian Remix",
-      "url": "https://open.spotify.com/track/25Ct5BPQbhZiNEBe8cmXcm"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Spartanz (Bou Remix)",
         "url": "https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI"
       },
@@ -763,6 +735,26 @@
       "duration_ms": 222068,
       "name": "Spartanz - Bou Remix",
       "url": "https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Dopamine Hits",
+        "url": "https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST"
+      },
+      "artists": [
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "Maksim MC",
+          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
+        }
+      ],
+      "duration_ms": 189767,
+      "name": "Dopamine Hits",
+      "url": "https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -851,8 +843,8 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Hazmat / Deserted",
-        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
+        "name": "Ghosting Your Love",
+        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
       },
       "artists": [
         {
@@ -860,9 +852,9 @@
           "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
         }
       ],
-      "duration_ms": 201517,
-      "name": "Deserted",
-      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
+      "duration_ms": 199728,
+      "name": "Ghosting Your Love",
+      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -919,8 +911,24 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Dopamine Hits",
-        "url": "https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST"
+        "name": "Bass",
+        "url": "https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu"
+      },
+      "artists": [
+        {
+          "name": "CJDJ",
+          "url": "https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS"
+        }
+      ],
+      "duration_ms": 125567,
+      "name": "Bass",
+      "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Sientelo (Sota & Circadian Remix)",
+        "url": "https://open.spotify.com/album/6ANG5taElvY28rBOx4GaQx"
       },
       "artists": [
         {
@@ -928,13 +936,21 @@
           "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
         },
         {
-          "name": "Maksim MC",
-          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        },
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        },
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
         }
       ],
-      "duration_ms": 189767,
-      "name": "Dopamine Hits",
-      "url": "https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ"
+      "duration_ms": 237257,
+      "name": "Sientelo - Sota & Circadian Remix",
+      "url": "https://open.spotify.com/track/25Ct5BPQbhZiNEBe8cmXcm"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -963,24 +979,8 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Bass",
-        "url": "https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu"
-      },
-      "artists": [
-        {
-          "name": "CJDJ",
-          "url": "https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS"
-        }
-      ],
-      "duration_ms": 125567,
-      "name": "Bass",
-      "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Ghosting Your Love",
-        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
+        "name": "Hazmat / Deserted",
+        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
       },
       "artists": [
         {
@@ -988,9 +988,9 @@
           "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
         }
       ],
-      "duration_ms": 199728,
-      "name": "Ghosting Your Love",
-      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
+      "duration_ms": 201517,
+      "name": "Deserted",
+      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
     },
     {
       "added_at": "2024-10-24 23:00:00",

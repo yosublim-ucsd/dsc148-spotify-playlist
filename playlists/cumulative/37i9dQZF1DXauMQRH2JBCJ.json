@@ -699,6 +699,32 @@
     },
     {
       "album": {
+        "name": "Descendants (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh"
+      },
+      "artists": [
+        {
+          "name": "Jeff Lewis",
+          "url": "https://open.spotify.com/artist/4JDI31jWR7BBBBzw9kmu7Z"
+        },
+        {
+          "name": "Mitchell Hope",
+          "url": "https://open.spotify.com/artist/2uTXJwJ1Q9PA2ji51RWeQm"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153786,
+      "name": "Did I Mention",
+      "url": "https://open.spotify.com/track/1YekSxsAlGlYvm9zjLsKdh"
+    },
+    {
+      "album": {
         "name": "Chicken Little",
         "url": "https://open.spotify.com/album/3Z93u37mCvyowExFmHR6Bc"
       },

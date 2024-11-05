@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VpujL.md) - [plain]
 
 > This is Skindred\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,458 likes - 48 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,475 likes - 48 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VpujL.md) - [plain]
 | 47 | [No Justice](https://open.spotify.com/track/4gSdCdpx48dPqmUbWyR9TP) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Volume](https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv) | 2:44 |
 | 48 | [Corrupted](https://open.spotify.com/track/6HZVxvuufNgDpqkWLjZ2RH) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId) | 3:36 |
 
-Snapshot ID: `ZyVrgAAAAAD1FKO8E26+VqN97qyA6tdM`
+Snapshot ID: `Zya9AAAAAAB0RTjZh6RoHW5RdIkEGCim`

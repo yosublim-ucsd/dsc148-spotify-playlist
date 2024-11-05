@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 
 > 時には、思いっきりラウドな音に感情を乗せてシャウト。 Shout your heart out with these loud tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,282 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,284 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 | 42 | [AREA PD](https://open.spotify.com/track/6yoLqyDA2xd8IjdLYptr5s) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [AREA PD](https://open.spotify.com/album/4IBemHQEcUICSBPgo9vBMZ) | 2:57 |
 | 43 | [笑殺](https://open.spotify.com/track/1m0xkoJwMv93YhM03xuQba) | [TYOSiN](https://open.spotify.com/artist/61GEYBaST9W8FSoigPRYs7) | [笑殺](https://open.spotify.com/album/2epmN0o2ZV0j3GJGEksYp5) | 3:05 |
 | 44 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 |
-| 45 | [DICE](https://open.spotify.com/track/6LTdHM863k5AiwRCMzOSLN) | [hide](https://open.spotify.com/artist/0FN9uqveLW33mz8hlDLiFU) | [HIDE YOUR FACE](https://open.spotify.com/album/3KHW7BoWav0uQ51ryewFFz) | 3:02 |
-| 46 | [error](https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr) | [FACT](https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73) | [FACT 2009 \- 2012](https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2) | 3:32 |
+| 45 | [error](https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr) | [FACT](https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73) | [FACT 2009 \- 2012](https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2) | 3:32 |
+| 46 | [DICE](https://open.spotify.com/track/6LTdHM863k5AiwRCMzOSLN) | [hide](https://open.spotify.com/artist/0FN9uqveLW33mz8hlDLiFU) | [HIDE YOUR FACE](https://open.spotify.com/album/3KHW7BoWav0uQ51ryewFFz) | 3:02 |
 | 47 | [Morgue](https://open.spotify.com/track/2oE2vbP3PrfI9mAACMIvF5) | [Otus](https://open.spotify.com/artist/5NgVz693TXUKsh7wFGPEPe) | [Morgue](https://open.spotify.com/album/6knrLrwN4MgolmNvr80gBT) | 2:33 |
 | 48 | [LIGHTS](https://open.spotify.com/track/0ZxRJBw6mE4b1S3o919Nfl) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [HAPPY TALK](https://open.spotify.com/album/2Li1mXDcT5wKDLi4xkmptr) | 4:44 |
 | 49 | [KING & ASHLEY](https://open.spotify.com/track/46J5qTlMBFAaZCIvXk3loa) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [KING & ASHLEY](https://open.spotify.com/album/5ddFAELd3H8dmTnGfeA6nT) | 3:23 |

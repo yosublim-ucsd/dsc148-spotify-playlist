@@ -1,12 +1,12 @@
 {
   "description": "This is Bailey Zimmerman. The essential tracks, all in one playlist.",
-  "num_followers": 34795,
+  "num_followers": 34807,
   "original_name": "This Is Bailey Zimmerman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAAAjPjTUzLREzt+3W2LdGQhA",
+  "snapshot_id": "Zya9AAAAAACuuTTIMPCyPp/ii8FHhDDJ",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "That Ain't No Man That's The Devil",
-        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/5PUFR2sBnMOdRAoM5jDQN0"
       },
       "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
         {
           "name": "Bailey Zimmerman",
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 200966,
-      "name": "Someone In This Room (feat. Bailey Zimmerman)",
-      "url": "https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG"
+      "duration_ms": 230913,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/2j8pCpVtMjKchtmuu64BnY"
     },
     {
       "added_at": null,
@@ -95,18 +91,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/5PUFR2sBnMOdRAoM5jDQN0"
+        "name": "That Ain't No Man That's The Devil",
+        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
       },
       "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
         {
           "name": "Bailey Zimmerman",
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 230913,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/2j8pCpVtMjKchtmuu64BnY"
+      "duration_ms": 200966,
+      "name": "Someone In This Room (feat. Bailey Zimmerman)",
+      "url": "https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Luis Miguel. The essential tracks, all in one playlist.",
-  "num_followers": 2386311,
+  "num_followers": 2386751,
   "original_name": "This Is Luis Miguel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAADyUfWcOUlg1R1EtwyH5j8s",
+  "snapshot_id": "Zya9AAAAAAD8AmROhZM9VIl3ZO+88Wd8",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 189800,
-      "name": "\u00c9chame a Mi La Culpa",
-      "url": "https://open.spotify.com/track/2TOBMDqbtPP6sAQtWc2Br9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Romances",
         "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 184080,
       "name": "Por Debajo De La Mesa",
       "url": "https://open.spotify.com/track/4FqfHVML025cwjfhAOFbfa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "\u00c9chame a Mi La Culpa",
+      "url": "https://open.spotify.com/track/2TOBMDqbtPP6sAQtWc2Br9"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 200386,
-      "name": "Sabes Una Cosa",
-      "url": "https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 223200,
       "name": "Usted",
       "url": "https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "Sabes Una Cosa",
+      "url": "https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 212440,
-      "name": "Motivos",
-      "url": "https://open.spotify.com/track/4yEJ1SNpgfK5GPx3Y0YhIU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amarte Es Un Placer",
         "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 196333,
       "name": "O Tu O Ninguna",
       "url": "https://open.spotify.com/track/7u5wdRqlAC4qeRp47e7hce"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 212440,
+      "name": "Motivos",
+      "url": "https://open.spotify.com/track/4yEJ1SNpgfK5GPx3Y0YhIU"
     },
     {
       "added_at": null,

@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 195422,
       "name": "315",
       "url": "https://open.spotify.com/track/3RRA9krpuvRVMQVPObOkhH"
@@ -1377,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "Laagdaat",
+        "url": "https://open.spotify.com/album/6i93yHBtrvxyxU6pzCZie8"
+      },
+      "artists": [
+        {
+          "name": "Sheera Jasvir",
+          "url": "https://open.spotify.com/artist/7kcl4Cs88q6BfB0Qx5Vkil"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228571,
+      "name": "Laagdaat",
+      "url": "https://open.spotify.com/track/0xuOmIFVzGGNBl4VoAphrC"
+    },
+    {
+      "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
       },
@@ -1713,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "Platina",
+        "url": "https://open.spotify.com/album/4Y8kz2KzV6OgVvxauec61t"
+      },
+      "artists": [
+        {
+          "name": "Nav Dolorain",
+          "url": "https://open.spotify.com/artist/6hOa4wyENmUQBjd1q9F42w"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176580,
+      "name": "Platina",
+      "url": "https://open.spotify.com/track/36F8nXmfbGeEbyNZvfhgQB"
+    },
+    {
+      "album": {
         "name": "Plug Talk",
         "url": "https://open.spotify.com/album/3U8R6hOmgBXVxoxii9NBt7"
       },
@@ -1934,7 +1970,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 175093,
       "name": "Rounds N Ring",
       "url": "https://open.spotify.com/track/3qp2R5QFdCNypAuHiG0KqK"
@@ -2052,7 +2088,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 136421,
       "name": "Scenario",
       "url": "https://open.spotify.com/track/4A7TPu84Nvaz9RwcHYG2Ol"
@@ -2268,6 +2304,28 @@
       "duration_ms": 262247,
       "name": "The Last Ride",
       "url": "https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann"
+    },
+    {
+      "album": {
+        "name": "Thumke 100",
+        "url": "https://open.spotify.com/album/3MrfPOu6hAgFp0m0yvG1Y2"
+      },
+      "artists": [
+        {
+          "name": "Vilen",
+          "url": "https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk"
+        },
+        {
+          "name": "Burrah",
+          "url": "https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127286,
+      "name": "Thumke 100",
+      "url": "https://open.spotify.com/track/6DC287c6vu72O9PeHSxqek"
     },
     {
       "album": {

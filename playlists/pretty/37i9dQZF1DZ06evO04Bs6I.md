@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 
 > This is Isadora Pompeo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,367 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,392 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/album/5W5SfUqsLvMtbdncu1fGah) | 3:29 |
-| 2 | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 4:36 |
+| 1 | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 4:36 |
+| 2 | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/album/5W5SfUqsLvMtbdncu1fGah) | 3:29 |
 | 3 | [Cuido dos Detalhes](https://open.spotify.com/track/1otGRpxjSNjSg5lmjaviNB) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Cuido dos Detalhes](https://open.spotify.com/album/4bxXWOi7jCnUEbeZ5SVUPp) | 3:33 |
 | 4 | [Eu Tenho Você](https://open.spotify.com/track/0oMn4ekYhRgtFMbAAzR0r9) | [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Eu Tenho Você](https://open.spotify.com/album/3aQavEzfViHr3Qi6xaRNB9) | 6:34 |
 | 5 | [Aliança \(Ao Vivo\)](https://open.spotify.com/track/4cRSit9wzI1XfV0PB7GVSQ) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \(Ao Vivo\)](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 5:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 | 49 | [Dono dos Meus Dias](https://open.spotify.com/track/4DqMjreua66sH84GbccttX) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Dono dos Meus Dias](https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU) | 3:59 |
 | 50 | [Espero Por Ti](https://open.spotify.com/track/00L5VK0Etex3Kolo7iglIV) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Espero Por Ti](https://open.spotify.com/album/6HPsW00Ig5tKjcU5jywqVb) | 5:48 |
 
-Snapshot ID: `ZyVrgAAAAAAe04O848SgNB1OcptXgKN5`
+Snapshot ID: `Zya9AAAAAABUWkLjGALPvv8SM3YxhcID`

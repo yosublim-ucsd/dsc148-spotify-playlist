@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-761 songs - 1 day 9 hr 51 min
+763 songs - 1 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [I like me better](https://open.spotify.com/track/7A9ZQjsSb4GkdwepqnTFgZ) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [I like me better](https://open.spotify.com/album/0QY2Y1rFqtLuIfCU6VkRlS) | 2:51 | 2024-04-19 |  |
 | [I Love You](https://open.spotify.com/track/0O4fJqz7sptID3Q3p4yaeL) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W) | [I Love You](https://open.spotify.com/album/3WJvjcVRXWWoY5a1ZZ9k14) | 2:18 | 2024-07-03 | 2024-09-15 |
 | [I Miss You](https://open.spotify.com/track/4Rmfzs3p7oTszNHLwaDec7) | [SAINT.](https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK) | [I Miss You](https://open.spotify.com/album/6BWaWNgLEGTo5URJB4bzO8) | 2:53 | 2024-06-14 | 2024-07-20 |
+| [I Should Let You Go](https://open.spotify.com/track/0c4qq1mWCx1jzrWGO4GwDA) | [Heard Right](https://open.spotify.com/artist/3KdFNDrWsHS0EePg8svgRl), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [I Should Let You Go](https://open.spotify.com/album/1OTu9IZzW6ly1CFPrTL6dP) | 3:52 | 2024-11-04 |  |
 | [i think you can save me](https://open.spotify.com/track/1BUIzWWmPJSE75lrHbaGlP) | [Dimside](https://open.spotify.com/artist/20CQ7P9w4tJT7zpUI1TAXX) | [i think you can save me](https://open.spotify.com/album/1ulBFo81789hv5mwzhHI7j) | 2:05 | 2024-07-26 | 2024-08-31 |
 | [I Took A Pill In Ibiza \- Seeb Remix](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [At Night, Alone.](https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO) | 3:17 | 2022-09-02 | 2024-09-11 |
 | [I Wanna Fall For You \(With No Parachute\)](https://open.spotify.com/track/7GyDDKXVkvd1VJGNR9V897) | [Theodor Rosenberg](https://open.spotify.com/artist/1iwpozrddUbEbAXwVRYuof) | [I Wanna Fall For You \(With No Parachute\)](https://open.spotify.com/album/74u6ly4nUgDd1iNURruzsT) | 2:27 | 2024-05-10 | 2024-08-19 |
@@ -581,6 +582,7 @@
 | [Seve \- Radio Edit](https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb) | [Seve \(Radio Edit\)](https://open.spotify.com/album/40d8W7uNHGeih483QVvLu4) | 3:30 | 2024-01-10 | 2024-03-16 |
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2024-03-26 | 2024-09-10 |
 | [Sexual Healing](https://open.spotify.com/track/3RkNuyK96gKNvDIguhxOZ0) | [Amaranth Skies](https://open.spotify.com/artist/6v1yanGkwUBUbk6G3dgNOq), [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Sexual Healing](https://open.spotify.com/album/4ulLlEhk6401ke3RZ9ZhmH) | 2:50 | 2024-04-12 |  |
+| [Shallow Walls](https://open.spotify.com/track/0pQ2qWfc6iGbdTUvEieR3u) | [LJ MASE](https://open.spotify.com/artist/3agWAq6ZjoWlv5Igeya98N), [Skyknock](https://open.spotify.com/artist/1xX451Pg0jqIXu8I6FM5N8), [Jessie Lee Thetford](https://open.spotify.com/artist/2bLOeO0xeK04raTh2PaBTZ) | [Shallow Walls](https://open.spotify.com/album/2yyyOLSDdivqeF1HsmUSP6) | 4:01 | 2024-11-04 |  |
 | [She Doesn't Mind](https://open.spotify.com/track/67eHU6air6I6jNPR1Tooxr) | [Chilled Virus](https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM) | [She Doesn't Mind](https://open.spotify.com/album/2ncNCW3oKPqwRjMMjQZN8A) | 2:50 | 2023-01-27 | 2024-09-15 |
 | [Shining Stars](https://open.spotify.com/track/4Ik6SHpNHDJFPT4z2QTuqJ) | [Midnight Run](https://open.spotify.com/artist/5mITWbhWk5w7FPzymBNQsF) | [Shining Stars](https://open.spotify.com/album/3UTUHNV2Xr3h3PJcUtr9nM) | 2:30 | 2024-06-14 | 2024-07-20 |
 | [Show Me Love](https://open.spotify.com/track/0aHOXu219Z4MqEKwiKsddl) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 4:15 | 2023-12-22 | 2024-09-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,244 likes - 52 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,248 likes - 52 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 37 | [Money Mouf](https://open.spotify.com/track/2ab4xGVMBb14NpPrj4xDq5) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Money Mouf](https://open.spotify.com/album/6dn11fbycq7fhBCfS8GBRG) | 3:31 |
 | 38 | [SHE PRETTY \- WITH SAWEETIE](https://open.spotify.com/track/2F6VX9GusVq0sAI03qq29S) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [JUST RE'D UP 3](https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69) | 2:36 |
 | 39 | [Talkin' Bout \(feat\. Saweetie\)](https://open.spotify.com/track/66vs64VphiHrtFcLR6Qeav) | [Loui](https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Pretty Summer Playlist: Season 1](https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth) | 2:06 |
-| 40 | [Pretty Bitch Freestyle](https://open.spotify.com/track/7Hhtz9zeiTz03DSIcXjV4V) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Pretty Bitch Freestyle](https://open.spotify.com/album/4AFMc41peNA5Pf2JbXEpdK) | 2:09 |
-| 41 | [SHOT O' CLOCK](https://open.spotify.com/track/1c99LA5Cf1agM5NMMAzVwc) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [SHOT O' CLOCK](https://open.spotify.com/album/0FGFaLjqjVkavZbKtFTWXJ) | 2:30 |
+| 40 | [SHOT O' CLOCK](https://open.spotify.com/track/1c99LA5Cf1agM5NMMAzVwc) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [SHOT O' CLOCK](https://open.spotify.com/album/0FGFaLjqjVkavZbKtFTWXJ) | 2:30 |
+| 41 | [Pretty Bitch Freestyle](https://open.spotify.com/track/7Hhtz9zeiTz03DSIcXjV4V) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Pretty Bitch Freestyle](https://open.spotify.com/album/4AFMc41peNA5Pf2JbXEpdK) | 2:09 |
 | 42 | [High Maintenance](https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [High Maintenance](https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW) | 0:49 |
 | 43 | [Addiction \(feat\. Lil Wayne & Saweetie\)](https://open.spotify.com/track/62TseHr3oK08tbDG5LgdUv) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [K.R.I.T\. IZ HERE](https://open.spotify.com/album/0d8sN1OuLU70PyYVBJzBmG) | 2:49 |
 | 44 | [Tip Toes \(feat\. Quavo\)](https://open.spotify.com/track/6001xXfECxjyKrrbbRF0Vl) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:51 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 51 | [Up Now \(feat\. G\-Eazy and Rich The Kid\)](https://open.spotify.com/track/01TreyTchXP0J1Mn6wcVHt) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Up Now \(feat\. G\-Eazy and Rich The Kid\)](https://open.spotify.com/album/3joOEhJbsckuCFIF5G8veI) | 3:18 |
 | 52 | [GIVE IT TO EM \(feat\. Saweetie\)](https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 3:02 |
 
-Snapshot ID: `ZyVrgAAAAACQ3VoSJ4DFl+5Oy4i2FWbt`
+Snapshot ID: `Zya9AAAAAABoRYM631MkU7afyxGFjSEb`

@@ -4,7 +4,7 @@
 
 > ElGrandeToto en tête de la plus grande playlist au Maroc.
 
-333 songs - 17 hr 51 min
+334 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 | 2022-07-26 | 2022-09-01 |
 | [Calm Down](https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/6uKDUDB0xUmI7hOJHMHULk) | 3:39 | 2022-05-12 | 2022-07-29 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-08-31 | 2023-06-03 |
-| [CARTIER SANTOS](https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 3:03 | 2024-10-11 |  |
+| [CARTIER SANTOS](https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 3:03 | 2024-10-11 | 2024-11-05 |
 | [Casa \- Arabic Version](https://open.spotify.com/track/076HUj0TPUnBidZdy9PEyx) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [Casa \(Arabic version\)](https://open.spotify.com/album/3EBcgCMoKf3HzudclcHx8I) | 2:25 | 2024-05-02 | 2024-07-19 |
 | [Casablanca](https://open.spotify.com/track/1ThaPy4W188i5SFdjXl64J) | [Demi Portion](https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Mots croisés](https://open.spotify.com/album/7MKGYeEG0mGVL39JcNywKK) | 3:13 | 2022-05-24 | 2023-02-17 |
 | [Casablanca \(feat\. Morad\)](https://open.spotify.com/track/3n348I4uE5GZ3tprVdqzPO) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 4:34 | 2023-08-01 | 2024-03-08 |
@@ -249,6 +249,7 @@
 | [People \(feat\. Cian Ducrot\)](https://open.spotify.com/track/3y13pwXvqWmAXKdt4zgI2Q) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [People \(feat\. Cian Ducrot\) \[Remix\]](https://open.spotify.com/album/2iBbNFC5oZdKfqQyiSEfXx) | 3:04 | 2023-03-16 | 2023-03-19 |
 | [Petit génie](https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE) | 3:37 | 2024-07-18 |  |
 | [POPO](https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [POPO](https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo) | 3:11 | 2024-02-03 |  |
+| [POUR ELLE](https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 2:59 | 2024-11-04 |  |
 | [prayer1](https://open.spotify.com/track/2R4sIoCrJb4OV5qcsNDIQ6) | [april27](https://open.spotify.com/artist/058SQVFoFi7A55lusoKyzi) | [prayer1](https://open.spotify.com/album/7byVxlCnqyq58cDcMj3bls) | 2:22 | 2023-10-29 | 2023-12-13 |
 | [prayer1](https://open.spotify.com/track/4GCI038c3eATmIc1NwNIzs) | [april27](https://open.spotify.com/artist/058SQVFoFi7A55lusoKyzi) | [prayer1](https://open.spotify.com/album/0fODpsuQX4BZSnYoEnRHCf) | 2:22 | 2023-12-08 | 2023-12-14 |
 | [Pyramide](https://open.spotify.com/track/0y79GClHejq2TTQLaYFLUT) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 3:28 | 2024-03-08 | 2024-04-22 |

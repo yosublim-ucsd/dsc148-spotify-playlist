@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Motive
 
-463 songs - 20 hr 29 min
+464 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [GAZ PEDAL](https://open.spotify.com/track/0TbeXCwQz1oSK5eZVLnEIn) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [GAZ PEDAL](https://open.spotify.com/album/71HKIz40EJPU0BKrCtO0rg) | 2:25 | 2023-03-16 | 2023-06-23 |
 | [Geceler](https://open.spotify.com/track/4H2KhOR9QOHHv4ttjV5Lhz) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD), [Mine Koşan](https://open.spotify.com/artist/2ditOd9fNYAscQhUmYhfXh) | [Geceler](https://open.spotify.com/album/3FDarLcv4ob7ETiDyH58za) | 4:36 | 2023-09-21 | 2023-11-11 |
 | [Geceler Harab](https://open.spotify.com/track/7GvX3cVI6gLWyCMUiqP7LG) | [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5), [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Geceler Harab](https://open.spotify.com/album/5TDI5qtz6JFZFJqCUPfOI3) | 2:34 | 2024-03-28 | 2024-04-19 |
+| [GELME İSTEMEM](https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GELME İSTEMEM](https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF) | 3:06 | 2024-11-04 |  |
 | [Gelmelisin](https://open.spotify.com/track/5E8dUYbcE3sAfwKcVOyp0h) | [Bedo](https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si) | [Gelmelisin](https://open.spotify.com/album/27PlkPSPZMyWRCs4hdt0Qc) | 3:08 | 2023-01-10 | 2023-05-05 |
 | [GELMEZSEN GELME](https://open.spotify.com/track/4qcngMZ8yF98sAnFKlvXPN) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 1:33 | 2023-01-10 | 2023-08-25 |
 | [Geriye Dönemem](https://open.spotify.com/track/33rOlLnsXLBumU1hnNi65f) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Kalite](https://open.spotify.com/album/3OYu2np3Hm0zpkcNBFV0V9) | 2:05 | 2023-01-10 | 2023-04-04 |
@@ -170,7 +171,7 @@
 | [Güvercin](https://open.spotify.com/track/7ExpqdHuGuH2esOuX2LPZC) | [Stabil](https://open.spotify.com/artist/3XjAYzwW3zGIi0OetnEIvU), [İmpala](https://open.spotify.com/artist/2s26tvcj8lfuOFfrIl8APF) | [Güvercin](https://open.spotify.com/album/0xzKxahkbCgwYYeqSwk4r9) | 3:09 | 2024-09-26 | 2024-10-15 |
 | [GÜZEL VE İDDİALI](https://open.spotify.com/track/3LUFeTIPLxgZYdBxG0eV5k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GÜZEL VE İDDİALI](https://open.spotify.com/album/4KiKXZthJfVz0mKIkv7E2G) | 2:55 | 2024-02-08 | 2024-05-10 |
 | [HAA‼️](https://open.spotify.com/track/2XxcYFvfP2XoLmB7nNULSw) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [HAA‼️](https://open.spotify.com/album/0s2NnsBKbMJIZ3CtJKc2uH) | 1:48 | 2024-02-01 | 2024-03-04 |
-| [Habibi](https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Habibi](https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ) | 2:40 | 2024-05-09 |  |
+| [Habibi](https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Habibi](https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ) | 2:40 | 2024-05-09 | 2024-11-05 |
 | [HAKO ARTIK BUSINESS](https://open.spotify.com/track/0G9SQNvU2s3g2o4jatFx8X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 1:35 | 2024-09-12 | 2024-09-26 |
 | [HAM](https://open.spotify.com/track/7duMMtfNk8IgHDLBh1eMhG) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [HAM](https://open.spotify.com/album/3POP3LZl3qug1RG0mcBHKF) | 2:12 | 2023-10-12 | 2023-11-11 |
 | [HANIMEFENDİ](https://open.spotify.com/track/7Ikg74SQrxu5DMpEEbestg) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:15 | 2023-06-15 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Big rap for big reps. You got this.",
-  "num_followers": 2349141,
+  "num_followers": 2349926,
   "original_name": "Rap Workout",
   "owner": {
     "name": "Spotify",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-10-22 16:05:29",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 135053,
-      "name": "Dua Lipa",
-      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
-    },
-    {
-      "added_at": "2024-10-22 16:05:29",
-      "album": {
         "name": "Life of a DON",
         "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 183513,
       "name": "Flocky Flocky (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/25r6MZ4Gtd76l43qnZI1DG"
+    },
+    {
+      "added_at": "2024-10-22 16:05:29",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 135053,
+      "name": "Dua Lipa",
+      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
     },
     {
       "added_at": "2024-10-22 16:05:29",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2024-10-22 16:05:29",
       "album": {
-        "name": "JEALOUSY (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "JEALOUSY (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
-    },
-    {
-      "added_at": "2024-10-22 16:05:29",
-      "album": {
         "name": "FRANCHISE (feat. Future, Young Thug & M.I.A.) [REMIX]",
         "url": "https://open.spotify.com/album/6k3hqPsGKPCSyBmmvCXd7B"
       },
@@ -1899,6 +1879,26 @@
       "duration_ms": 207394,
       "name": "FRANCHISE (feat. Future, Young Thug & M.I.A.) - REMIX",
       "url": "https://open.spotify.com/track/6qUabsNxudatEFedWGHoDh"
+    },
+    {
+      "added_at": "2024-10-22 16:05:29",
+      "album": {
+        "name": "JEALOUSY (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "JEALOUSY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
     },
     {
       "added_at": "2024-10-22 16:05:29",

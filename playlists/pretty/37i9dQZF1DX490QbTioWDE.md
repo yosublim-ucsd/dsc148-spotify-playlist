@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Ulises Bueno & La K´onga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 720,970 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,043 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 53 | [Se Me Olvida](https://open.spotify.com/track/6Tuk30Qc50wUGzNM1MZ3On) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Se Me Olvida](https://open.spotify.com/album/5nxLHZbdaftLro9GzNpwTm) | 2:47 |
 | 54 | [Aguardiente](https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT) | 2:32 |
 | 55 | [Fina](https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Revolución](https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg) | 2:42 |
-| 56 | [Tus Botellas](https://open.spotify.com/track/1k8BmoheA7yzC6MpyEqlKt) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Tus Botellas](https://open.spotify.com/album/72tcmJLIc4I1AX2DC23G04) | 3:22 |
+| 56 | [La Carta](https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Fiesta Inolvidable Con La Barra](https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW) | 4:05 |
 | 57 | [Soy Cordobes](https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:02 |
 | 58 | [Tu Vas a Volar](https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [A Lo Largo Y A Lo Ancho](https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55) | 3:50 |
-| 59 | [La Carta](https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Fiesta Inolvidable Con La Barra](https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW) | 4:05 |
+| 59 | [Tus Botellas](https://open.spotify.com/track/1k8BmoheA7yzC6MpyEqlKt) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Tus Botellas](https://open.spotify.com/album/72tcmJLIc4I1AX2DC23G04) | 3:22 |
 | 60 | [El Federal](https://open.spotify.com/track/3xnEHlraXNEZ3Wu7T3voxR) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [Trilogía: 1er acto](https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ) | 6:13 |
 | 61 | [Una Foto](https://open.spotify.com/track/0OJS0FnYU9rjzZ1Y5H76PK) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Una Foto](https://open.spotify.com/album/0xnnOveVwG3zP8NyojTvsS) | 2:23 |
 | 62 | [Ocho Cuarenta \- En Vivo en el Foro Sol \- 17.11.17](https://open.spotify.com/track/2PEn0KfNdrSq82CKlYvRrZ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Ocho Cuarenta \(feat\. Los Caligaris \- en Vivo en el Foro Sol \- 17.11.17\)](https://open.spotify.com/album/6kWVXBEREXCmCYteDfFFQO) | 4:08 |
@@ -89,11 +89,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 79 | [Atrévete](https://open.spotify.com/track/0g9ThXviJTdKDhj8StP5EE) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Atrévete](https://open.spotify.com/album/56CyDTKDVVyUgrKmXqAbq9) | 3:17 |
 | 80 | [No me restes \- En Vivo](https://open.spotify.com/track/2IahAkegVhDZOc2agK8cGj) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [No me restes \(En Vivo\)](https://open.spotify.com/album/72JhIBL4vCHIPJTyJq0mFW) | 3:08 |
 | 81 | [Por Qué Será](https://open.spotify.com/track/56s6HH4zgao2iu9QduHd0p) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Por Qué Será](https://open.spotify.com/album/3giuLFpvYRGQdoxaLTMbXn) | 2:48 |
-| 82 | [Chachachá](https://open.spotify.com/track/5eO1kn8BVM6YFiXdMHDxsE) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Chachachá](https://open.spotify.com/album/2V0O7HPYdlxCdEr4m7AZ3e) | 3:52 |
-| 83 | [La Pupera](https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5) | [La Mona Jimenez / los caligaris](https://open.spotify.com/artist/7HEznwudX95hTcdrRYizZf) | [La Pupera](https://open.spotify.com/album/4mzV7a4BD2u2ektjbPkG7U) | 2:28 |
+| 82 | [La Pupera](https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5) | [La Mona Jimenez / los caligaris](https://open.spotify.com/artist/7HEznwudX95hTcdrRYizZf) | [La Pupera](https://open.spotify.com/album/4mzV7a4BD2u2ektjbPkG7U) | 2:28 |
+| 83 | [De Nada](https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [De Nada](https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3) | 3:17 |
 | 84 | [Paloma loca](https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Sergio Oliva and Freddy Zavaley](https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC) | [Bien Ahí !](https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B) | 3:13 |
 | 85 | [¿Cómo haré?](https://open.spotify.com/track/2IpQHErYoWeDEzOvvlYJ1l) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [¿Cómo haré?](https://open.spotify.com/album/39fVOE1zBxuX6JkOVEndGu) | 2:17 |
-| 86 | [De Nada](https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [De Nada](https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3) | 3:17 |
+| 86 | [Chachachá](https://open.spotify.com/track/5eO1kn8BVM6YFiXdMHDxsE) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Chachachá](https://open.spotify.com/album/2V0O7HPYdlxCdEr4m7AZ3e) | 3:52 |
 | 87 | [Dejame Intentar](https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Dejame Intentar](https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC) | 2:01 |
 | 88 | [Como La Primera Vez](https://open.spotify.com/track/04yNy2x0uJKE3iWHlmNTX0) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Como La Primera Vez](https://open.spotify.com/album/25bmi5QxyxzTbweYEeTtUd) | 3:53 |
 | 89 | [Provenza / Te Felicito / Despechao](https://open.spotify.com/track/6fRxpmgnQVpIlqQ7qxjy7M) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Provenza / Te Felicito / Despechao](https://open.spotify.com/album/1hCM28lo42mccoq9t3H9Dc) | 6:02 |

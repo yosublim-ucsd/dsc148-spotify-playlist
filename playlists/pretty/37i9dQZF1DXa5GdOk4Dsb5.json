@@ -1,6 +1,6 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 139216,
+  "num_followers": 139250,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-07-11 01:48:38",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 217213,
-      "name": "200 COPAS",
-      "url": "https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG"
-    },
-    {
-      "added_at": "2024-07-11 01:48:38",
-      "album": {
         "name": "Simplemente Gracias",
         "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 255640,
       "name": "Si Te Pudiera Mentir",
       "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
+    },
+    {
+      "added_at": "2024-07-11 01:48:38",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 217213,
+      "name": "200 COPAS",
+      "url": "https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG"
     },
     {
       "added_at": "2024-07-11 01:48:38",
@@ -647,22 +647,18 @@
     {
       "added_at": "2024-07-11 01:48:38",
       "album": {
-        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
         }
       ],
-      "duration_ms": 185038,
-      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
+      "duration_ms": 144706,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
     },
     {
       "added_at": "2024-07-11 01:48:38",
@@ -683,18 +679,22 @@
     {
       "added_at": "2024-07-11 01:48:38",
       "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 144706,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
+      "duration_ms": 185038,
+      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
     },
     {
       "added_at": "2024-07-11 01:48:38",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-07-11 01:48:38",
       "album": {
-        "name": "Ya No Somos Ni Seremos",
-        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 185722,
-      "name": "Ya No Somos Ni Seremos",
-      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
-    },
-    {
-      "added_at": "2024-07-11 01:48:38",
-      "album": {
         "name": "Por Siempre (Deluxe)",
         "url": "https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 249375,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH"
+    },
+    {
+      "added_at": "2024-07-11 01:48:38",
+      "album": {
+        "name": "Ya No Somos Ni Seremos",
+        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 185722,
+      "name": "Ya No Somos Ni Seremos",
+      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
     },
     {
       "added_at": "2024-07-11 01:48:38",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-07-11 01:48:38",
       "album": {
+        "name": "El Rey del Despecho - Internacional",
+        "url": "https://open.spotify.com/album/6MbEqKty9qMnsBtiklzbtR"
+      },
+      "artists": [
+        {
+          "name": "Dar\u00edo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "Entre Comillas",
+      "url": "https://open.spotify.com/track/6HhOgGZWmN5DqqsdJGfhUK"
+    },
+    {
+      "added_at": "2024-07-11 01:48:38",
+      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/2PfUQSQlXgkhCkEdCfBNmL"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 231916,
       "name": "Soltero Feliz",
       "url": "https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW"
-    },
-    {
-      "added_at": "2024-07-11 01:48:38",
-      "album": {
-        "name": "El Rey del Despecho - Internacional",
-        "url": "https://open.spotify.com/album/6MbEqKty9qMnsBtiklzbtR"
-      },
-      "artists": [
-        {
-          "name": "Dar\u00edo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "Entre Comillas",
-      "url": "https://open.spotify.com/track/6HhOgGZWmN5DqqsdJGfhUK"
     },
     {
       "added_at": "2024-07-11 01:48:38",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-07-11 01:48:38",
       "album": {
+        "name": "No Pongan Esas Canciones",
+        "url": "https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 197819,
+      "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
+      "url": "https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4"
+    },
+    {
+      "added_at": "2024-07-11 01:48:38",
+      "album": {
         "name": "En Tus Manos",
         "url": "https://open.spotify.com/album/0gkKTHSGp4ckN2XPVi4GUL"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 180165,
       "name": "Muri\u00f3 El Amor",
       "url": "https://open.spotify.com/track/09H7KZfOO0PMNLwsUDG2BI"
-    },
-    {
-      "added_at": "2024-07-11 01:48:38",
-      "album": {
-        "name": "Pa' las Que Sea",
-        "url": "https://open.spotify.com/album/2hqhyjxyk4pg98zs5jclim"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Gutierrez",
-          "url": "https://open.spotify.com/artist/7syZwIuF9tAkKQxNQLCosV"
-        }
-      ],
-      "duration_ms": 261013,
-      "name": "Pa' las Que Sea",
-      "url": "https://open.spotify.com/track/5Py9vTPJgz4qBAZGUd8ecq"
     }
   ],
   "unique_name": "Rancheras, Despecho & Licor",

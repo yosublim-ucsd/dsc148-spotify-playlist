@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Darko US.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,756 likes - 254 songs - 15 hr 20 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,754 likes - 254 songs - 15 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

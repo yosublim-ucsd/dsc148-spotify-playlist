@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 
 > This is thủy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,781 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,790 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 32 | [dumb luck](https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 2:46 |
 | 33 | [x's & o's \(feat\. DCMBR\)](https://open.spotify.com/track/7bhTH2uW2wSAl4xDEXFjCA) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [i hope u see this \(deluxe\)](https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y) | 2:48 |
 | 34 | [Slide](https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Slide](https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc) | 3:41 |
-| 35 | [mood ring](https://open.spotify.com/track/6K2XtWOGBJJLttE8NFNw0o) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [mood ring](https://open.spotify.com/album/6hon78tr9upFF2OvLelBNq) | 2:56 |
-| 36 | [fresh white tee](https://open.spotify.com/track/3xBBEYCKA3OzCvr7UphG32) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(deluxe\)](https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu) | 2:47 |
+| 35 | [fresh white tee](https://open.spotify.com/track/3xBBEYCKA3OzCvr7UphG32) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(deluxe\)](https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu) | 2:47 |
+| 36 | [mood ring](https://open.spotify.com/track/6K2XtWOGBJJLttE8NFNw0o) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [mood ring](https://open.spotify.com/album/6hon78tr9upFF2OvLelBNq) | 2:56 |
 | 37 | [attention](https://open.spotify.com/track/5HU3xRxRyKLW2Fs5nJdN4e) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [don't miss me too much](https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1) | 2:57 |
 | 38 | [day dream](https://open.spotify.com/track/08JJQk3E3UAEqhRByXJKW8) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [day dream](https://open.spotify.com/album/3i8F0QlXAq0j2EWdRLGz3d) | 3:30 |
 | 39 | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [i hope u see this \(deluxe\)](https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 49 | [Next to You](https://open.spotify.com/track/1GVe6q4SdRvrQ8zN9nC0LE) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Next to You](https://open.spotify.com/album/0m6yQDokL3mfrVXsObA8Sw) | 3:24 |
 | 50 | [The Way](https://open.spotify.com/track/1YQJzh01rPQ4fiAuEtxXuW) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [The Way](https://open.spotify.com/album/2t1eIuTTN8mxkOXxjRBasL) | 2:54 |
 
-Snapshot ID: `ZyVrgAAAAAB4pPVta9Q4egCWYMkWsuPg`
+Snapshot ID: `Zya9AAAAAACJwopDFkuX6URoRcOj+Co4`

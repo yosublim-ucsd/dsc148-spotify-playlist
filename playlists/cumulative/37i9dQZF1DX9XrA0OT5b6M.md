@@ -4,7 +4,7 @@
 
 > Music from TV Anime "ONE PIECE" /TVアニメ「ONE PIECE」の楽曲を1つのプレイリストで。©️尾田栄一郎／集英社・フジテレビ・東映アニメーション
 
-63 songs - 4 hr 18 min
+64 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [PAINT](https://open.spotify.com/track/0n099xB2P5c2ZLDazd3dgr) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [PAINT](https://open.spotify.com/album/3nLZFXpFIcKU6BxGqPit3Y) | 3:28 | 2023-08-23 |  |
 | [Raise](https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:34 | 2023-08-23 |  |
 | [RUN! RUN! RUN!](https://open.spotify.com/track/0T4JQ3TIptM9GEotNGlMxg) | [MORI JUNTA](https://open.spotify.com/artist/3brl5UMCC0mmdVaSJDFvfg), [Maki Otsuki](https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u) | [情熱の2000'sベストヒッツ35曲！〜Epic35〜](https://open.spotify.com/album/4UfSDQKcZuql45DhlBFgNY) | 3:59 | 2023-08-23 |  |
+| [Sailing](https://open.spotify.com/track/0Tjfd3zPoTpPo7FwR21DC2) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sailing](https://open.spotify.com/album/1hzne4NVJBLxSD78Flnzww) | 3:06 | 2024-11-04 |  |
 | [Set Sail](https://open.spotify.com/track/3r4kSAvYtaJVwOMZlRbz9r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Set Sail](https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4) | 3:13 | 2024-02-28 |  |
 | [Shining ray](https://open.spotify.com/track/2jxiuMVIyPeDeHP9qne6BJ) | [Janne Da Arc](https://open.spotify.com/artist/17OoiwOfChkOVxbqaLzB1W) | [ANOTHER STORY](https://open.spotify.com/album/7HCy1UvD6nkIMorKPYC1Nc) | 3:58 | 2023-08-23 |  |
 | [TVアニメ『ONE PIECE』25周年！ 【きただにひろし×田中公平】あーーっす！スペシャル対談](https://open.spotify.com/episode/4YdvgzkkZPAnA0ntN176Bm) | [Spotify ANIZONE \- アニゾーン 【凍牌〜裏レート麻雀闘牌録〜】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【凍牌〜裏レート麻雀闘牌録〜】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 41:44 | 2024-03-29 |  |

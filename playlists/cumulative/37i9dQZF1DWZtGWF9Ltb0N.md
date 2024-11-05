@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-688 songs - 1 day 22 hr 59 min
+689 songs - 1 day 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Boks](https://open.spotify.com/track/6AhoZHpoeXmIyH37QrIDYN) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Unreleased Classics\. Vol.2 2004\-2006](https://open.spotify.com/album/4t4cgkh5JyDnl3lyD8RliW) | 5:36 | 2022-02-17 | 2022-04-08 |
 | [Boondow Bai](https://open.spotify.com/track/7cLgBeRNgizZbKr9CPeBOU) | [Dalek One](https://open.spotify.com/artist/3c3aIUcvGaeRYmqRm9rXqb) | [Boondow Bai](https://open.spotify.com/album/1bgC0CA9FzaT2NRKJ5GOCj) | 4:07 | 2022-02-17 | 2022-07-29 |
 | [Break Slow Fast](https://open.spotify.com/track/5hmGd8oiC1B8wNoT9sIEU2) | [Dirty Freud](https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S) | [The Villain in Someone's Story](https://open.spotify.com/album/2Tz9zXcUdWO1p0Hhi2tPte) | 3:16 | 2023-03-10 |  |
-| [Bright Shadows](https://open.spotify.com/track/3QJEatxNmx1QvARdoqvEzx) | [OkayJake](https://open.spotify.com/artist/1inEarlQOFZ2KWNnQDHqo3), [Gunpoint](https://open.spotify.com/artist/6OabPCZQ3SpVBtpqiK2lyu) | [Bright Shadows](https://open.spotify.com/album/0QuoHVee3ijR2C4186aoP3) | 2:36 | 2024-09-13 |  |
+| [Bright Shadows](https://open.spotify.com/track/3QJEatxNmx1QvARdoqvEzx) | [OkayJake](https://open.spotify.com/artist/1inEarlQOFZ2KWNnQDHqo3), [Gunpoint](https://open.spotify.com/artist/6OabPCZQ3SpVBtpqiK2lyu) | [Bright Shadows](https://open.spotify.com/album/0QuoHVee3ijR2C4186aoP3) | 2:36 | 2024-09-13 | 2024-11-05 |
 | [Broken Chime](https://open.spotify.com/track/45W7PhgdmaZE3xJl0Athmz) | [DMVU](https://open.spotify.com/artist/59DcOmdlmKUgsUrb2S7Nb6) | [ENC006](https://open.spotify.com/album/0yhKhrIr1Be7WVjeAYyxIO) | 5:56 | 2022-07-08 | 2022-07-30 |
 | [Broken Chime](https://open.spotify.com/track/5NlGgnEhGpYorTmLOVvPu4) | [DMVU](https://open.spotify.com/artist/59DcOmdlmKUgsUrb2S7Nb6) | [ENC006](https://open.spotify.com/album/3ClKaZIqHTYaDK4ce0zlYw) | 5:56 | 2022-02-17 | 2022-07-29 |
 | [Brownsville \- Pillow VIP](https://open.spotify.com/track/50zEWBkv3X1iMFju3G4pI6) | [Ramsez](https://open.spotify.com/artist/6u8RwyERnGpgixqrLjyVGL), [Pillow](https://open.spotify.com/artist/3zkWQwDuWaGendMUpjnRq7) | [Lost Signals](https://open.spotify.com/album/1D6SAMAseEVl5wqe0X69Sy) | 3:19 | 2022-02-17 | 2022-07-29 |
@@ -310,6 +310,7 @@
 | [Juce](https://open.spotify.com/track/1YLCRZDFbNNdBJc53jUfF9) | [Causa](https://open.spotify.com/artist/2oC5VotUk44u8BVhD2H0hB) | [Juce](https://open.spotify.com/album/6Quzmmpf3RmbIWPzRIYXsd) | 5:12 | 2022-02-17 | 2022-07-27 |
 | [JUDGMENT](https://open.spotify.com/track/5onP6GliL0YHed3aFXpcou) | [REMNANT.exe](https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3) | [JUDGMENT/FREEFALL](https://open.spotify.com/album/2FoG5IIVpcjhJI0f7YkMiY) | 3:49 | 2024-04-19 |  |
 | [Juggernaut](https://open.spotify.com/track/264EGoBnQlgF4mZb2yMztM) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Kyral X Banko](https://open.spotify.com/artist/2PLa4ADUFioknBIegBIZiY) | [Juggernaut](https://open.spotify.com/album/5OHMbs84fjN7Et1KU4Gr11) | 3:06 | 2022-12-02 |  |
+| [JUMP!!](https://open.spotify.com/track/6DXnIycKlFuuJ1lLR94OFI) | [Golden Child](https://open.spotify.com/artist/2LXnlHvRvGIIR8wegJfTVR), [asáu](https://open.spotify.com/artist/4lNObJySHIKhPZdfGtZgE0) | [JUMP!!](https://open.spotify.com/album/1fBr8LZ22eSGhjHYhWrGDG) | 2:14 | 2024-11-04 |  |
 | [Jupiter](https://open.spotify.com/track/7oMYFJMFqNi0ibkkvPsj0X) | [Khiva](https://open.spotify.com/artist/3cH0fKXiWesYFzqJwiWlAD), [JLEON](https://open.spotify.com/artist/2p2IYURbU7AcYh4R0l44E6) | [Jupiter](https://open.spotify.com/album/0NAa97MkEXhRuHBaZQO6AN) | 4:41 | 2022-11-11 |  |
 | [Just 9](https://open.spotify.com/track/6UnDwA5llAiBExm9nlqato) | [Content](https://open.spotify.com/artist/14PVoXMAznefQRGFVrBRAA), [Krudkutter](https://open.spotify.com/artist/4uacqKlQmCHQz7VWgt0qKQ) | [ENC018](https://open.spotify.com/album/6hhZw4V8DX3FRilPlX92IX) | 4:06 | 2022-02-17 | 2022-07-28 |
 | [Justice](https://open.spotify.com/track/3CFoYq5cPKpGyIralOL9Hv) | [Kaiju](https://open.spotify.com/artist/4mbZ3bklPWXRNZs35sYdcR) | [Justice](https://open.spotify.com/album/3hleBq4VrHXrh1sosMD3qR) | 5:07 | 2022-02-17 | 2022-06-11 |

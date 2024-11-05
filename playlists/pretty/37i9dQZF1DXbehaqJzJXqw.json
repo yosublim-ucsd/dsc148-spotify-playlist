@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 489192,
+  "num_followers": 489660,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Hoping for Love",
-        "url": "https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e"
-      },
-      "artists": [
-        {
-          "name": "Isabelle Antena",
-          "url": "https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Le Poisson Des Mers Du Sud",
-      "url": "https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Miss Kitt To You",
         "url": "https://open.spotify.com/album/2iWbUYKAbWPRV0XWL3W5IO"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 172333,
       "name": "Je Cherche Un Homme",
       "url": "https://open.spotify.com/track/3dlZQnkxnxZjTV860ixUHx"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Hoping for Love",
+        "url": "https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Antena",
+          "url": "https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Le Poisson Des Mers Du Sud",
+      "url": "https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Little French Songs (Deluxe Version Without Videos)",
-        "url": "https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 216282,
-      "name": "Libert\u00e9",
-      "url": "https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Um Rio",
         "url": "https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 254693,
       "name": "\u00c0 quoi \u00e7a sert l'amour",
       "url": "https://open.spotify.com/track/5oMQIQXbz5dnxU6BTUewlY"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Little French Songs (Deluxe Version Without Videos)",
+        "url": "https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 216282,
+      "name": "Libert\u00e9",
+      "url": "https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Paris - I Love You",
-        "url": "https://open.spotify.com/album/6X29j29MSmUWNFv3D4zKUN"
-      },
-      "artists": [
-        {
-          "name": "Nathalie Et Guillaume",
-          "url": "https://open.spotify.com/artist/2sP7NffeSH1e8N5J3N9f6i"
-        }
-      ],
-      "duration_ms": 165466,
-      "name": "Un Homme Et Une Femme",
-      "url": "https://open.spotify.com/track/1pZcUuU8LiSkWy5JB9HESO"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux (International Edition)",
         "url": "https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 176506,
       "name": "J'ai Deux Amours",
       "url": "https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Paris - I Love You",
+        "url": "https://open.spotify.com/album/6X29j29MSmUWNFv3D4zKUN"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Et Guillaume",
+          "url": "https://open.spotify.com/artist/2sP7NffeSH1e8N5J3N9f6i"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "Un Homme Et Une Femme",
+      "url": "https://open.spotify.com/track/1pZcUuU8LiSkWy5JB9HESO"
     },
     {
       "added_at": "2024-06-03 11:39:48",

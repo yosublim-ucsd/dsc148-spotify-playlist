@@ -4,7 +4,7 @@
 
 > yiheeeeeeee
 
-177 songs - 10 hr 27 min
+178 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Mirasol](https://open.spotify.com/track/7zLBGK5lDf5cnAA3ea4xR9) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Mirasol](https://open.spotify.com/album/4K1X6LZLGRSOXBBaGAqvft) | 3:27 | 2024-10-24 |  |
 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 | 2024-01-10 |  |
 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 | 2024-06-05 |  |
+| [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-11-04 |  |
 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 | 2024-06-11 | 2024-07-03 |
 | [My Favorite Movie](https://open.spotify.com/track/4rogQcTh9fZvqH6aCUGxuB) | [Gilyan Saludes](https://open.spotify.com/artist/0O9bX2IzP7MxBcpAel5twJ) | [My Favorite Movie](https://open.spotify.com/album/12FgPn7XtNi0REhdTw4DMG) | 3:50 | 2022-04-04 | 2022-07-28 |
 | [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 | 2023-09-13 | 2024-04-19 |
@@ -137,7 +138,7 @@
 | [OYAYI](https://open.spotify.com/track/5iXSkIei0VoKtw8tpsupg3) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Keene Leonor](https://open.spotify.com/artist/71B2UzHJV0hBcWOMY5kUOb) | [OYAYI](https://open.spotify.com/album/6Ds1JbP4vYQ69HmRYPvyBA) | 5:24 | 2024-10-24 |  |
 | [Pagtingin](https://open.spotify.com/track/7178ubXeY1sFOqdNkKrUwb) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Pagtingin](https://open.spotify.com/album/4a0SAaOEW4bxKEvSqSDoQz) | 3:47 | 2022-04-04 | 2022-07-29 |
 | [Palagi \- TJxKZ Version](https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Palagi \(TJxKZ Version\)](https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0) | 4:01 | 2024-09-04 |  |
-| [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 | 2023-07-26 |  |
+| [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 | 2023-07-26 | 2024-11-05 |
 | [Perfectly Imperfect](https://open.spotify.com/track/6UrfCXDyGaLbDVkAvuOTFS) | [Jayda](https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER), [Jeremy G](https://open.spotify.com/artist/5BukDmriB1WrLFDavZzHdJ) | [Perfectly Imperfect](https://open.spotify.com/album/2iDrdt40iEFpT2BsjlyRSh) | 4:19 | 2022-04-04 | 2022-07-28 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-08 |  |
 | [Plot Twist](https://open.spotify.com/track/5wDbCy1UXyCV79jpTm4xyF) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [MOONCHILD](https://open.spotify.com/album/2JYYakgDf5R0Ych28NvYkS) | 3:27 | 2022-04-04 | 2022-06-21 |

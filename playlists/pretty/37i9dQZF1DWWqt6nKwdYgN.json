@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Delfina Dib en portada. ",
-  "num_followers": 15178,
+  "num_followers": 15181,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -595,30 +595,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Tatequieto",
-        "url": "https://open.spotify.com/album/5LjOnnWR9iD8wyWwZSZJI0"
-      },
-      "artists": [
-        {
-          "name": "Juan Sinatra",
-          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
-        },
-        {
-          "name": "Ma\u00f1as Ru-Fino",
-          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
-        },
-        {
-          "name": "Ily Wonder",
-          "url": "https://open.spotify.com/artist/25DD0Rmi6vCjhnuWL3C0FI"
-        }
-      ],
-      "duration_ms": 152210,
-      "name": "Tatequieto",
-      "url": "https://open.spotify.com/track/5ZOqDC4hB0Ce1WGbuqmoiA"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "La Cuadra",
         "url": "https://open.spotify.com/album/1hD8pS5opSkvrEpXar8sbT"
       },
@@ -647,6 +623,30 @@
       "duration_ms": 207000,
       "name": "La Cuadra",
       "url": "https://open.spotify.com/track/2rC7SeiSdTXyOEjireVlnf"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Tatequieto",
+        "url": "https://open.spotify.com/album/5LjOnnWR9iD8wyWwZSZJI0"
+      },
+      "artists": [
+        {
+          "name": "Juan Sinatra",
+          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
+        },
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "Ily Wonder",
+          "url": "https://open.spotify.com/artist/25DD0Rmi6vCjhnuWL3C0FI"
+        }
+      ],
+      "duration_ms": 152210,
+      "name": "Tatequieto",
+      "url": "https://open.spotify.com/track/5ZOqDC4hB0Ce1WGbuqmoiA"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Micelio",
-        "url": "https://open.spotify.com/album/3LXq0ObksIFa9YV6QkvzCV"
-      },
-      "artists": [
-        {
-          "name": "Frank Takuma",
-          "url": "https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF"
-        }
-      ],
-      "duration_ms": 169756,
-      "name": "Iluminado",
-      "url": "https://open.spotify.com/track/6H5ZBKu4vPBdnW9JFkncMQ"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/6sf5q6R1EKNqouE4jBPDFw"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 157037,
       "name": "V",
       "url": "https://open.spotify.com/track/56qrjAwn0wgEyEiznXlqGN"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Micelio",
+        "url": "https://open.spotify.com/album/3LXq0ObksIFa9YV6QkvzCV"
+      },
+      "artists": [
+        {
+          "name": "Frank Takuma",
+          "url": "https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF"
+        }
+      ],
+      "duration_ms": 169756,
+      "name": "Iluminado",
+      "url": "https://open.spotify.com/track/6H5ZBKu4vPBdnW9JFkncMQ"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "MC Davo En Vivo: Parte 1",
+        "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 194383,
+      "name": "Adi\u00f3s - En Vivo",
+      "url": "https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "FAMOSA",
         "url": "https://open.spotify.com/album/3vcZDhuDxPGtUNIutctO9Q"
       },
@@ -1383,38 +1399,6 @@
       "duration_ms": 200000,
       "name": "FAMOSA",
       "url": "https://open.spotify.com/track/0OPNy6nWFwiMN9Sm4gsQTe"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "MC Davo En Vivo: Parte 1",
-        "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 194383,
-      "name": "Adi\u00f3s - En Vivo",
-      "url": "https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "25 Horas",
-        "url": "https://open.spotify.com/album/7IPkZfiNCCBWYj8InLxr0x"
-      },
-      "artists": [
-        {
-          "name": "Little el Crack",
-          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "25 Horas",
-      "url": "https://open.spotify.com/track/0oHynHWTNut3T6Fmt2aVZg"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "25 Horas",
+        "url": "https://open.spotify.com/album/7IPkZfiNCCBWYj8InLxr0x"
+      },
+      "artists": [
+        {
+          "name": "Little el Crack",
+          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "25 Horas",
+      "url": "https://open.spotify.com/track/0oHynHWTNut3T6Fmt2aVZg"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Flow Leyenda",
         "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
       },
@@ -1455,26 +1455,6 @@
       "duration_ms": 194042,
       "name": "Flow Leyenda",
       "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/1FVr96cP2ZQb58T8XDxh0E"
-      },
-      "artists": [
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        },
-        {
-          "name": "Afaz Natural",
-          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
-        }
-      ],
-      "duration_ms": 186197,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/3BFMCd9jnedms4JQMOtvVp"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1507,6 +1487,26 @@
       "duration_ms": 223512,
       "name": "Aire para Vivir",
       "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/1FVr96cP2ZQb58T8XDxh0E"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        }
+      ],
+      "duration_ms": 186197,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/3BFMCd9jnedms4JQMOtvVp"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "DIME",
-        "url": "https://open.spotify.com/album/2GTFVJSYMyQKK5NfzsBCdE"
-      },
-      "artists": [
-        {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        },
-        {
-          "name": "Niko RST",
-          "url": "https://open.spotify.com/artist/51Kf7rHbmDtPij3BOcjhJd"
-        }
-      ],
-      "duration_ms": 223820,
-      "name": "DIME",
-      "url": "https://open.spotify.com/track/48QeXQXJUfRf3WNkqAf3o9"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "SORRY (REMIX)",
         "url": "https://open.spotify.com/album/3NHd7mQIBLGcOFwx1xSV9C"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 227200,
       "name": "SORRY (REMIX)",
       "url": "https://open.spotify.com/track/6MSXHicqOs2kGtYbledHgw"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "DIME",
+        "url": "https://open.spotify.com/album/2GTFVJSYMyQKK5NfzsBCdE"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        },
+        {
+          "name": "Niko RST",
+          "url": "https://open.spotify.com/artist/51Kf7rHbmDtPij3BOcjhJd"
+        }
+      ],
+      "duration_ms": 223820,
+      "name": "DIME",
+      "url": "https://open.spotify.com/track/48QeXQXJUfRf3WNkqAf3o9"
     },
     {
       "added_at": "2024-10-11 06:00:00",

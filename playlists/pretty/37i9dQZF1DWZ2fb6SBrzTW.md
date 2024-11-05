@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,546 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,606 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 55 | [2:30](https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [2:30](https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L) | 2:18 |
 | 56 | [Otilo \(Izz Gone\)](https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Otilo \(Izz Gone\)](https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5) | 2:42 |
 | 57 | [JOY](https://open.spotify.com/track/7FHUtQbPkCzWMwGltW8q4K) | [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [JOY](https://open.spotify.com/album/0VtCiQ5GuMqVw37EGKQkiq) | 2:49 |
-| 58 | [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 |
+| 58 | [1 WORK](https://open.spotify.com/track/53GfbGxZHusSTZhiyC9QYY) | [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv) | [DUMP ON DEM](https://open.spotify.com/album/1B3wcDQgN2pYHW7CvAAxGb) | 2:54 |
 | 59 | [Shagara](https://open.spotify.com/track/0yxmn9m8srZL6Ood6LVXfl) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Shagara](https://open.spotify.com/album/40blKlB4Hlfh19dHcoSoai) | 3:21 |
-| 60 | [1 WORK](https://open.spotify.com/track/53GfbGxZHusSTZhiyC9QYY) | [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv) | [DUMP ON DEM](https://open.spotify.com/album/1B3wcDQgN2pYHW7CvAAxGb) | 2:54 |
+| 60 | [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 |
 
 Snapshot ID: `ZxuXJQAAAADz4GA36TLu8ITuAnXHije5`

@@ -4,7 +4,7 @@
 
 > \#fyp
 
-530 songs - 1 day 3 hr 58 min
+532 songs - 1 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [1er Gaou](https://open.spotify.com/track/6eqqWm2LkDweTHhz1u5KKo) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [1er Gaou](https://open.spotify.com/album/4WxLFmBpRfwn2Xa38W6Juj) | 4:55 | 2023-06-16 | 2023-11-11 |
 | [1ère Sommation](https://open.spotify.com/track/2imMAGzWXw57YyYWOwi8DF) | [Liim’s](https://open.spotify.com/artist/2XpsF0ZQfBV08auUoRnNJE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [1ère Sommation](https://open.spotify.com/album/3hjxmJ1HRBsqgWuDaCiMh8) | 3:55 | 2023-08-25 | 2023-11-11 |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-03-24 | 2023-09-10 |
+| [4 Kampé](https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [4 Kampé](https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88) | 3:34 | 2024-11-04 |  |
 | [4 Étoiles](https://open.spotify.com/track/47CDhaY1rg0DS1d0MZXfRZ) | [pkc](https://open.spotify.com/artist/0giIPo49HnTdeIT6cMPB8W) | [4 Étoiles](https://open.spotify.com/album/1FiqmjXMWU1ArwwzlGhtcR) | 2:30 | 2024-03-29 | 2024-06-01 |
 | [91's](https://open.spotify.com/track/4tol1MDcpILru9sy04rkel) | [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [91's](https://open.spotify.com/album/177KayhbNQPuetAAJUPUmV) | 3:57 | 2024-07-19 | 2024-10-12 |
 | [A fleur de toi](https://open.spotify.com/track/2mT0YKSgM8ie4Irf0gkuPA) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [A Fleur De Toi](https://open.spotify.com/album/6dTWgsiYPk2goK88co2CGf) | 4:21 | 2023-12-01 | 2024-02-10 |
@@ -134,7 +135,7 @@
 | [Dale x Love Therapy \(feat\. Aya Nakamura\)](https://open.spotify.com/track/0sMcHdKAjVSNuNnPchQu4S) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Paradise](https://open.spotify.com/album/20T2S3PLZZ7EMMh8AuBCO0) | 5:26 | 2024-05-31 | 2024-10-05 |
 | [Dana dana](https://open.spotify.com/track/6rCqxeSD0lvxyTHiO8nqI8) | [Cheb Rayan](https://open.spotify.com/artist/2vHzXwfwVDsP4iKN8SezRR) | [La fête maghrebine \(40 titres pour mariage, henné et cérémonies\)](https://open.spotify.com/album/3gDIZqKTceWoGAn70TT4SH) | 3:52 | 2023-06-30 | 2023-11-18 |
 | [Dans les yeux d'Émilie](https://open.spotify.com/track/2kkuEKckbZRRZDbpFR5OuN) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Les Femmes De Ma Vie](https://open.spotify.com/album/2OrOS9RMxBYiMSQqGy3wWJ) | 3:44 | 2023-09-15 | 2023-11-18 |
-| [Dans ma cabane](https://open.spotify.com/track/1EjS6Mj5FxYPUhBgCKlpRc) | [Andrick Airways](https://open.spotify.com/artist/29ojgdyB6YjLCB8KuLTXrR) | [Dans ma cabane](https://open.spotify.com/album/4tNVxM1aFRqOEACcJgB34v) | 2:53 | 2024-08-30 |  |
+| [Dans ma cabane](https://open.spotify.com/track/1EjS6Mj5FxYPUhBgCKlpRc) | [Andrick Airways](https://open.spotify.com/artist/29ojgdyB6YjLCB8KuLTXrR) | [Dans ma cabane](https://open.spotify.com/album/4tNVxM1aFRqOEACcJgB34v) | 2:53 | 2024-08-30 | 2024-11-05 |
 | [DANS MON MONDE](https://open.spotify.com/track/0R3uBKGyMHv8loHPX1X4hz) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [DANS MON MONDE](https://open.spotify.com/album/0ZF0smxfOf7iK27jC7SEyk) | 2:52 | 2024-06-14 | 2024-09-28 |
 | [Dans Tes Bras](https://open.spotify.com/track/3fnYdXsfIeTVijs8qPXt6O) | [A2sia](https://open.spotify.com/artist/0itGKobK447hHXkglMyy57) | [Dans Tes Bras](https://open.spotify.com/album/1NBS1bUa2UPZpfyBg7oQpK) | 1:58 | 2024-04-19 | 2024-07-13 |
 | [DARBA 9ADIYA](https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [DARBA 9ADIYA](https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW) | 2:29 | 2023-05-05 | 2023-11-11 |
@@ -179,7 +180,7 @@
 | [Fatigué \(Speed Up\)](https://open.spotify.com/track/0LzDghbtu9fGZwIuTi1YjG) | [Louzio](https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU) | [Fatigué](https://open.spotify.com/album/2FB1K8aX5aMJulT3PIn5eC) | 2:24 | 2024-04-05 | 2024-04-19 |
 | [Fatigué \- Speed Up](https://open.spotify.com/track/1DDo206GWOkANENV5gjZdX) | [Louzio](https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU) | [Fatigué](https://open.spotify.com/album/6ua3siioK5BmuAFMvuUdDp) | 2:24 | 2024-04-05 | 2024-06-29 |
 | [Faut des millions \- Bizon blanc](https://open.spotify.com/track/3eRRKua3z77NMMS4swGDbt) | [TobiHood](https://open.spotify.com/artist/4z2eCmlekWnUrHY0esLGXw) | [Faut des millions \(Bizon blanc\)](https://open.spotify.com/album/4z70FnNfQjMWskBec4v5yM) | 3:06 | 2023-09-15 | 2023-09-22 |
-| [Faut que je me tire de là](https://open.spotify.com/track/6ScF8Xaxrk3TNyJxPPlUj2) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est pas des LOL](https://open.spotify.com/album/6x61ccU1M5NlkpWRJAS2xT) | 4:05 | 2024-10-04 |  |
+| [Faut que je me tire de là](https://open.spotify.com/track/6ScF8Xaxrk3TNyJxPPlUj2) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est pas des LOL](https://open.spotify.com/album/6x61ccU1M5NlkpWRJAS2xT) | 4:05 | 2024-10-04 | 2024-11-05 |
 | [Figa De Guiné](https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Sabiá Marrom \- O Samba Raro De Alcione](https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H) | 2:19 | 2024-04-19 | 2024-05-27 |
 | [Fimbu](https://open.spotify.com/track/12rxH5rW5Do2hFcxSDpgyV) | [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Tam Sir](https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X), [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Fimbu](https://open.spotify.com/album/2jyl8R6S0zxmO240mNhG4R) | 2:57 | 2024-04-19 | 2024-08-17 |
 | [Finale \- Nouvelle École](https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM) | [Dau](https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L) | [Finale \- Nouvelle École](https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS) | 3:00 | 2023-06-02 | 2023-11-11 |
@@ -473,6 +474,7 @@
 | [Somethin' Here \- Original Mix](https://open.spotify.com/track/6dQdvxqOiLemHzrEUXQ4zz) | [Terrence Parker](https://open.spotify.com/artist/4hXZQPceQIf654OSomVXOs) | [Tribute](https://open.spotify.com/album/7CSU7E3rayRXcS2DJExj79) | 5:11 | 2024-03-15 | 2024-06-01 |
 | [Sonner](https://open.spotify.com/track/0OoMMMYlXD9kQIAeB8h7Ti) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF), [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [Sonner](https://open.spotify.com/album/0MPp8KxL9KpCYuXSFxF1s2) | 2:55 | 2023-06-28 | 2023-09-16 |
 | [Sourire](https://open.spotify.com/track/3DkF5PzztACcDGdLWVFiyJ) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S](https://open.spotify.com/album/2KvyDaE0buWzzR8S4gCSsz) | 5:07 | 2024-02-02 | 2024-06-22 |
+| [Sous la lune](https://open.spotify.com/track/6hKkzk8UlVUj9ioPCyeH1O) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Rien 100 Rien](https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p) | 2:51 | 2024-11-04 |  |
 | [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 | 2024-05-17 | 2024-09-14 |
 | [Stars](https://open.spotify.com/track/4prkPuGjkzgYvdREsNw27F) | [Doums](https://open.spotify.com/artist/4yLgYK2B5nZjZMBiaLyLyK), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Stars](https://open.spotify.com/album/4vtDzCPmcZMDJ1VgkUzzcx) | 3:09 | 2023-10-13 | 2024-04-20 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-08 | 2023-12-31 |

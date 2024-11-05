@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Tom\u00e1s Ballardo en portada.",
-  "num_followers": 235065,
+  "num_followers": 235173,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "El Plumas",
-        "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
+        "name": "INC\u00d3MODO",
+        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
       "artists": [
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 150528,
-      "name": "El Plumas",
-      "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
+      "duration_ms": 174760,
+      "name": "CHINO",
+      "url": "https://open.spotify.com/track/6b6qi0ObycTK8hdrkgU21Y"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -199,22 +199,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "INC\u00d3MODO",
-        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
+        "name": "El Plumas",
+        "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
       },
       "artists": [
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
           "name": "Neton Vega",
           "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 174760,
-      "name": "CHINO",
-      "url": "https://open.spotify.com/track/6b6qi0ObycTK8hdrkgU21Y"
+      "duration_ms": 150528,
+      "name": "El Plumas",
+      "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -335,26 +335,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "El Mayor de los Ranas",
-        "url": "https://open.spotify.com/album/6Q3K1pFpo5jX2AYrWs9q4h"
-      },
-      "artists": [
-        {
-          "name": "Victor Valverde",
-          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
-        },
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 172059,
-      "name": "El Mayor de los Ranas",
-      "url": "https://open.spotify.com/track/5E3T0hZ77NXXUtXJocRIOc"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "INC\u00d3MODO",
         "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 191320,
       "name": "PAJUELAZO",
       "url": "https://open.spotify.com/track/708Xn7MHNQZo3nMErlgXKI"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "El Mayor de los Ranas",
+        "url": "https://open.spotify.com/album/6Q3K1pFpo5jX2AYrWs9q4h"
+      },
+      "artists": [
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        },
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 172059,
+      "name": "El Mayor de los Ranas",
+      "url": "https://open.spotify.com/track/5E3T0hZ77NXXUtXJocRIOc"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
+        "name": "Jalense la Gre\u00f1a",
+        "url": "https://open.spotify.com/album/5ggVBjuzCMZUt6E3ObWkqc"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 195775,
+      "name": "El Erick",
+      "url": "https://open.spotify.com/track/5KuE0I4dhhBEMapolRc6Ef"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
         "name": "Mente Activa",
         "url": "https://open.spotify.com/album/02XqYA9O2fk2qnXdnWP1mo"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 169216,
       "name": "Mente Activa",
       "url": "https://open.spotify.com/track/0csZ1ZrXQvC71Ocmblrmlp"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "Jalense la Gre\u00f1a",
-        "url": "https://open.spotify.com/album/5ggVBjuzCMZUt6E3ObWkqc"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 195775,
-      "name": "El Erick",
-      "url": "https://open.spotify.com/track/5KuE0I4dhhBEMapolRc6Ef"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "La Tropa Del Infierno",
-        "url": "https://open.spotify.com/album/6w2ZltCLxUaTF6OyQo46kx"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 162641,
-      "name": "La Tropa Del Infierno",
-      "url": "https://open.spotify.com/track/4FLBugx2vcm6hLKdOjlZU7"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "El Viejo Fino",
         "url": "https://open.spotify.com/album/01EPmgyUtq7RRLPFbwpwtG"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 177000,
       "name": "El Sera y El Chavo (En Vivo)",
       "url": "https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "La Tropa Del Infierno",
+        "url": "https://open.spotify.com/album/6w2ZltCLxUaTF6OyQo46kx"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 162641,
+      "name": "La Tropa Del Infierno",
+      "url": "https://open.spotify.com/track/4FLBugx2vcm6hLKdOjlZU7"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
+        "name": "EVO LUXURY 2",
+        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Los Nuevos Ilegales",
+          "url": "https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac"
+        }
+      ],
+      "duration_ms": 189754,
+      "name": "El N\u00famero",
+      "url": "https://open.spotify.com/track/2S1L7g0N4ZH4DEzKoetT5N"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
         "name": "El 602",
         "url": "https://open.spotify.com/album/2bsJcfaIJcA7DemqKPQttl"
       },
@@ -1571,26 +1591,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "EVO LUXURY 2",
-        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Los Nuevos Ilegales",
-          "url": "https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac"
-        }
-      ],
-      "duration_ms": 189754,
-      "name": "El N\u00famero",
-      "url": "https://open.spotify.com/track/2S1L7g0N4ZH4DEzKoetT5N"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Porto un Mini Draco",
         "url": "https://open.spotify.com/album/6muXGSXytNzN9m3ppsAu0E"
       },
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "El Cabez\u00f3n (El Papas Fritas)",
-        "url": "https://open.spotify.com/album/480oASOS6npWutZkW7zeNf"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 153653,
-      "name": "El Cabez\u00f3n (El Papas Fritas)",
-      "url": "https://open.spotify.com/track/0dXQHB8h7HEGD95YYcj7HJ"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Soy Me\u00f1o",
         "url": "https://open.spotify.com/album/0RyCLJnMB5AcZnr7JLJ9no"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 182045,
       "name": "Los Cuartitos (En Vivo)",
       "url": "https://open.spotify.com/track/73XOOI8jTRXGLlLzequy3M"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "El Cabez\u00f3n (El Papas Fritas)",
+        "url": "https://open.spotify.com/album/480oASOS6npWutZkW7zeNf"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 153653,
+      "name": "El Cabez\u00f3n (El Papas Fritas)",
+      "url": "https://open.spotify.com/track/0dXQHB8h7HEGD95YYcj7HJ"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1807,6 +1807,22 @@
       "duration_ms": 174804,
       "name": "El Guero Reyna",
       "url": "https://open.spotify.com/track/0QpkBadc9WblLVSAOK1PQP"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "XV Recargado",
+        "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 219116,
+      "name": "15 Millones por el M (En Vivo)",
+      "url": "https://open.spotify.com/track/28WrLmRF0Q89fv4SpZZigT"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1883,22 +1899,6 @@
       "duration_ms": 158938,
       "name": "Don Ismael",
       "url": "https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "XV Recargado",
-        "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 219116,
-      "name": "15 Millones por el M (En Vivo)",
-      "url": "https://open.spotify.com/track/28WrLmRF0Q89fv4SpZZigT"
     }
   ],
   "unique_name": "Corridos Chakalosos",

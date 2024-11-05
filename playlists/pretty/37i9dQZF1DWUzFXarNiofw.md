@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Kiana Ledé
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,051,036 likes - 215 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,051,144 likes - 215 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

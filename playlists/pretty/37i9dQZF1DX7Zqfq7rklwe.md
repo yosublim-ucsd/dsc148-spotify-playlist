@@ -9,9 +9,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Devilry of Ecstasy](https://open.spotify.com/track/719WQ11ocVYYq2Hd2FKcgJ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Devilry of Ecstasy](https://open.spotify.com/album/0I8tTyfyVf3DHw9xHu5zym) | 3:26 |
-| 2 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 |
-| 3 | [Dangerous Ground](https://open.spotify.com/track/5nBqdZlIRLfgUIACfFVHlj) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [H.e.a.t II](https://open.spotify.com/album/0NEPDWFsJHcRIF6fKEiSHZ) | 4:06 |
-| 4 | [Fading Like A Flower](https://open.spotify.com/track/4xK9z7D3vuGsnywy7vqUvL) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Fading Like A Flower](https://open.spotify.com/album/6DLoD9w8S2Wn0PO3vhGCvY) | 2:54 |
+| 2 | [Fading Like A Flower](https://open.spotify.com/track/4xK9z7D3vuGsnywy7vqUvL) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Fading Like A Flower](https://open.spotify.com/album/6DLoD9w8S2Wn0PO3vhGCvY) | 2:54 |
+| 3 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 |
+| 4 | [Dangerous Ground](https://open.spotify.com/track/5nBqdZlIRLfgUIACfFVHlj) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [H.e.a.t II](https://open.spotify.com/album/0NEPDWFsJHcRIF6fKEiSHZ) | 4:06 |
 | 5 | [Rest In Pieces](https://open.spotify.com/track/5r0b7F3MGee7IMeJxP1TKP) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Rest In Pieces](https://open.spotify.com/album/3RSwZfjCaUFDkA66KJptiq) | 2:56 |
 | 6 | [Alone](https://open.spotify.com/track/0BlV2ff2JmDf0fj3t8v9VV) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Alone](https://open.spotify.com/album/5RBq6t8pSxpgqwAH2PKRJl) | 3:03 |
 | 7 | [Sinä 2.0](https://open.spotify.com/track/5D3lENK3mXnB9vkXgVGFYS) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Reset](https://open.spotify.com/album/4jI2TKGEjUjjnLjlpGYie6) | 3:09 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | 80 | [We Got the Moves](https://open.spotify.com/track/4EFb9FhLyFiDbYKwBwDZre) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [We Got the Moves](https://open.spotify.com/album/3DlJt0IZ2E2YHTdyP9napb) | 3:26 |
 | 81 | [Taivas](https://open.spotify.com/track/4zBuget6g86I99WgsuFYwe) | [Stam1na](https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG) | [X](https://open.spotify.com/album/3PXcjRSf1M1xyf2410HJn8) | 4:38 |
 
-Snapshot ID: `ZySDLQAAAABybnbveP5UBxYhL4ufITSo`
+Snapshot ID: `ZyiUtwAAAACBmKVu/iXk0wud0gwL8jDT`

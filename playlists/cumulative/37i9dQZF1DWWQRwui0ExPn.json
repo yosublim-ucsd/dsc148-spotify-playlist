@@ -38348,7 +38348,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 145923,
       "name": "Fancy Backpack",
       "url": "https://open.spotify.com/track/3Nt1MkCi2M8vP0kadJKGK2"
@@ -52037,6 +52037,24 @@
     },
     {
       "album": {
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/1bWwHRKj5oBimY54dvqD2p"
+      },
+      "artists": [
+        {
+          "name": "Belinellie",
+          "url": "https://open.spotify.com/artist/5pQN7M94XWHOoRTYWHUBX5"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "Highlight",
+      "url": "https://open.spotify.com/track/4uYTOiPscwAPkYOZyiOVuU"
+    },
+    {
+      "album": {
         "name": "highlights",
         "url": "https://open.spotify.com/album/31dAQyUHoJbPPVOX59S7sm"
       },
@@ -53178,7 +53196,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 172000,
       "name": "Hoodie",
       "url": "https://open.spotify.com/track/0NTBnLfZwVYDBFKUCYWAuT"
@@ -73906,7 +73924,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-18",
+      "date_removed": null,
       "duration_ms": 153623,
       "name": "Melter",
       "url": "https://open.spotify.com/track/5HoXyhnvk6Y0kXCXVDbMKQ"
@@ -101550,7 +101568,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 101544,
       "name": "Say It",
       "url": "https://open.spotify.com/track/05ungBOkFVFKAq4G54bbcm"
@@ -112588,6 +112606,28 @@
       "duration_ms": 116470,
       "name": "streets",
       "url": "https://open.spotify.com/track/1qdfzxtmZYZ4pmpvmJGD4Z"
+    },
+    {
+      "album": {
+        "name": "Streets Of Rio",
+        "url": "https://open.spotify.com/album/4tIMrN38VbtyL42qFURzy7"
+      },
+      "artists": [
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "Lenny B",
+          "url": "https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157600,
+      "name": "Streets Of Rio",
+      "url": "https://open.spotify.com/track/3D7tHItozfNTG5jJGxkMCV"
     },
     {
       "album": {

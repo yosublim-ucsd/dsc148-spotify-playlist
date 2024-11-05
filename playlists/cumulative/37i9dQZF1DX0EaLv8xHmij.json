@@ -8100,7 +8100,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-05",
       "duration_ms": 208764,
       "name": "UK",
       "url": "https://open.spotify.com/track/07g47iG0fOsbvJqNn3LXak"
@@ -8302,6 +8302,28 @@
       "duration_ms": 242007,
       "name": "Vil\u00e3o da M\u00eddia!",
       "url": "https://open.spotify.com/track/1QruZLnz4JAyCf06OjxHvK"
+    },
+    {
+      "album": {
+        "name": "Vim do Bristol",
+        "url": "https://open.spotify.com/album/3rGmcduiy6P087QLKhtT8G"
+      },
+      "artists": [
+        {
+          "name": "Paue",
+          "url": "https://open.spotify.com/artist/7iRtbzFCl97vhYCuUCSlTo"
+        },
+        {
+          "name": "DJ Nilo",
+          "url": "https://open.spotify.com/artist/0h6N5w7maojpPOSG7VZOGf"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147650,
+      "name": "Vim do Bristol",
+      "url": "https://open.spotify.com/track/5q21frmkShlupe2Pv2Jcu7"
     },
     {
       "album": {

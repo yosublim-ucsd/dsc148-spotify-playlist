@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Daniel, Me Est\u00e1s Matando",
-  "num_followers": 89956,
+  "num_followers": 90009,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Hace Tiempo",
+      "url": "https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR"
       },
@@ -323,18 +339,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+        "name": "Camas Separadas",
+        "url": "https://open.spotify.com/album/7n2Jn4FFREegsVpFlVpbp3"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 252413,
-      "name": "Hace Tiempo",
-      "url": "https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw"
+      "duration_ms": 218506,
+      "name": "Costa Rica",
+      "url": "https://open.spotify.com/track/6fodcUvAswFV8Az3Imd5F5"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -351,22 +367,6 @@
       "duration_ms": 219941,
       "name": "Borracha De Amor",
       "url": "https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Camas Separadas",
-        "url": "https://open.spotify.com/album/7n2Jn4FFREegsVpFlVpbp3"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 218506,
-      "name": "Costa Rica",
-      "url": "https://open.spotify.com/track/6fodcUvAswFV8Az3Imd5F5"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -407,22 +407,6 @@
       "duration_ms": 156056,
       "name": "Un Amor Que Se Termina",
       "url": "https://open.spotify.com/track/6XHYHcPiGFicC1zpTUscVm"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "S\u00f3lo T\u00fa",
-        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 187754,
-      "name": "S\u00f3lo T\u00fa",
-      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -479,6 +463,26 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Ojitos de Aceituna",
+        "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        },
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 167221,
+      "name": "Ojitos de Aceituna",
+      "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Grecia",
         "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
       },
@@ -503,8 +507,8 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Somos Algo",
-        "url": "https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k"
+        "name": "S\u00f3lo T\u00fa",
+        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
       },
       "artists": [
         {
@@ -512,29 +516,9 @@
           "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 234128,
-      "name": "Somos Algo",
-      "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Ojitos de Aceituna",
-        "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        },
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 167221,
-      "name": "Ojitos de Aceituna",
-      "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
+      "duration_ms": 187754,
+      "name": "S\u00f3lo T\u00fa",
+      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -575,26 +559,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Por el Resto de Tu Vida",
-        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 197476,
-      "name": "Por el Resto de Tu Vida",
-      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Mar",
         "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
       },
@@ -611,6 +575,26 @@
       "duration_ms": 238253,
       "name": "Mar",
       "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Por el Resto de Tu Vida",
+        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 197476,
+      "name": "Por el Resto de Tu Vida",
+      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -667,6 +651,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Encanto Tropical",
+        "url": "https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "Me Vas a Hacer Falta",
+      "url": "https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Si T\u00fa Me Quisieras",
         "url": "https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE"
       },
@@ -687,18 +687,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Encanto Tropical",
-        "url": "https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma"
+        "name": "Somos Algo",
+        "url": "https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k"
       },
       "artists": [
         {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 240973,
-      "name": "Me Vas a Hacer Falta",
-      "url": "https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o"
+      "duration_ms": 234128,
+      "name": "Somos Algo",
+      "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Amor En Cuarentena",
-        "url": "https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW"
-      },
-      "artists": [
-        {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "Amor En Cuarentena",
-      "url": "https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "\u00bfPara qu\u00e9?",
         "url": "https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 220000,
       "name": "\u00bfPara qu\u00e9?",
       "url": "https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Amor En Cuarentena",
+        "url": "https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW"
+      },
+      "artists": [
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "Amor En Cuarentena",
+      "url": "https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "C\u00f3mplices",
-        "url": "https://open.spotify.com/album/7tZbJdirOvGF5BwjrcD4BQ"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        }
-      ],
-      "duration_ms": 183042,
-      "name": "C\u00f3mplices",
-      "url": "https://open.spotify.com/track/0ja9BfD4zrXznqkTKfz0Te"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Bolero Apocal\u00edptico",
         "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 189077,
       "name": "Prom\u00e9teme",
       "url": "https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "C\u00f3mplices",
+        "url": "https://open.spotify.com/album/7tZbJdirOvGF5BwjrcD4BQ"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "duration_ms": 183042,
+      "name": "C\u00f3mplices",
+      "url": "https://open.spotify.com/track/0ja9BfD4zrXznqkTKfz0Te"
     },
     {
       "added_at": "2024-10-11 04:00:00",

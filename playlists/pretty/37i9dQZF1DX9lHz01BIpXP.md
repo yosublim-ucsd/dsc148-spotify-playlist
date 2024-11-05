@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0?si=wopZ37XnR3\-KJ75hjpI0\_Q">21 Promo & Pengii</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,028 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,030 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 40 | [Ek Sal Nie Lieg Nie](https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [M.Jay](https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl) | [Ek Sal Nie Lieg Nie](https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ) | 2:31 |
 | 41 | [DIE LANIE](https://open.spotify.com/track/7DGKnYj1l9tUChMBAqpXh1) | [Madgas](https://open.spotify.com/artist/6SxrHxCHpyEIfdtUOQrkMH) | [DIE LANIE](https://open.spotify.com/album/6CqQqWzEOHGTYkZjrjGqAe) | 2:43 |
 | 42 | [Laaste Hond](https://open.spotify.com/track/6m54uxr3viaN4w6NfSj3YR) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P) | [Laaste Hond](https://open.spotify.com/album/1wbXY8vdl8zqVPqyr4L4RK) | 3:01 |
-| 43 | [Hopeless](https://open.spotify.com/track/4pmnGONjm31Llig19zwpde) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr) | [Hopeless](https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD) | 3:03 |
-| 44 | [Nigel Hulle](https://open.spotify.com/track/3NmojQTDVqNO0oboZ0gQ1z) | [Boss Niggas Only](https://open.spotify.com/artist/2XAQ82g5yBNXxe7fPk8Nfq), [Jy Checkie](https://open.spotify.com/artist/0NPQslNjzLvoZR8MJzZfst), [Cee Jay Zondagh](https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a), [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [BOSS NIGGAS ONLY V2](https://open.spotify.com/album/4N4GAxHD9McOIKA1BcXyWd) | 3:16 |
-| 45 | [OGlizzy](https://open.spotify.com/track/1NlWi9AEB4vB9z7MxoalXS) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [OGlizzy](https://open.spotify.com/album/58cgGZyo8nD6zMFjdMfQFH) | 3:16 |
-| 46 | [Sal Alright is](https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ) | [Shameel Afrikaans Music](https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl), [BIGDMUZIC](https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur) | [Sal Alright is](https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL) | 4:12 |
+| 43 | [Sal Alright is](https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ) | [Shameel Afrikaans Music](https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl), [BIGDMUZIC](https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur) | [Sal Alright is](https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL) | 4:12 |
+| 44 | [Hopeless](https://open.spotify.com/track/4pmnGONjm31Llig19zwpde) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr) | [Hopeless](https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD) | 3:03 |
+| 45 | [Nigel Hulle](https://open.spotify.com/track/3NmojQTDVqNO0oboZ0gQ1z) | [Boss Niggas Only](https://open.spotify.com/artist/2XAQ82g5yBNXxe7fPk8Nfq), [Jy Checkie](https://open.spotify.com/artist/0NPQslNjzLvoZR8MJzZfst), [Cee Jay Zondagh](https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a), [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [BOSS NIGGAS ONLY V2](https://open.spotify.com/album/4N4GAxHD9McOIKA1BcXyWd) | 3:16 |
+| 46 | [OGlizzy](https://open.spotify.com/track/1NlWi9AEB4vB9z7MxoalXS) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [OGlizzy](https://open.spotify.com/album/58cgGZyo8nD6zMFjdMfQFH) | 3:16 |
 | 47 | [Van Kleins Af](https://open.spotify.com/track/3nPatpKAyn8jWQmt00ohV7) | [Street Soundz](https://open.spotify.com/artist/6uSf6xubzAuNLdTiyjQHSR) | [Straat System](https://open.spotify.com/album/0xB0veEYROMdVtZdlrazlL) | 2:55 |
 | 48 | [Broke](https://open.spotify.com/track/4DaJv3w5BZrsj5eLgDWsEK) | [Demo Ricch](https://open.spotify.com/artist/48pSu0n4jTo1FRkZXZNBcY) | [Broke](https://open.spotify.com/album/39JjyQmeNvnbFwNkOHIBQw) | 3:08 |
 | 49 | [Nasie](https://open.spotify.com/track/3xwZX48uHcjYbN3Xl2ShpH) | [Reggie Peace](https://open.spotify.com/artist/1U2c2BI4Lt5LEwT3OyxW5T) | [Nasie](https://open.spotify.com/album/11sttlSfehXY1IOFV4xKJr) | 2:35 |

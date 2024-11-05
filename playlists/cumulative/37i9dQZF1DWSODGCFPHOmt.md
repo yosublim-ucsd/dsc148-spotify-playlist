@@ -4,7 +4,7 @@
 
 > Música navideña para las fiestas decembrinas\. Cover: Panter Belico
 
-119 songs - 6 hr 23 min
+120 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Navidad Sin Ti \- En Vivo](https://open.spotify.com/track/0oIgtBMz4hFHBROA619JdS) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Por Amor a Morelia Michoacán \(En Vivo\)](https://open.spotify.com/album/0lcKOe1eGODSaaxZVtDOOj) | 4:16 | 2022-11-25 |  |
 | [Navidad Sin Ti \- Live](https://open.spotify.com/track/0IowQHym495GsLIVyuScWH) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Diva en Vivo](https://open.spotify.com/album/6nZlQ5J8lFrZ0Db4KZuFce) | 4:13 | 2022-11-25 |  |
 | [Navidad Sin tí](https://open.spotify.com/track/1UHmIm6jj1EncEXcNfPSv1) | [Claudio Alcaraz](https://open.spotify.com/artist/0lf6aJ031s7V2V7eKB1mhz) | [Navidad Sin tí](https://open.spotify.com/album/445k2DkZWd5Fv24xPPMjq0) | 3:23 | 2022-11-25 |  |
-| [Navidad, Feel The Magic](https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Navidad, Feel The Magic](https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO) | 2:45 | 2022-11-25 |  |
+| [Navidad, Feel The Magic](https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Navidad, Feel The Magic](https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO) | 2:45 | 2022-11-25 | 2024-11-05 |
 | [Navidad, Navidad](https://open.spotify.com/track/2sWzSeji9T7goNXHMJMywW) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [Navidad, Navidad](https://open.spotify.com/album/5aUUivtYfER9Cqpb1FT7es) | 2:28 | 2023-11-30 |  |
 | [Navidad, Navidad](https://open.spotify.com/track/3Pe6VYWJNGGsyRCNqoTjCb) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Reunion Nortena](https://open.spotify.com/artist/554Ew2NdutSKKljCiK3s3n), [Conjunto Arroyero](https://open.spotify.com/artist/3t57wx00MMpK19IW7R3TUU), [Los Cazadores Del Cerro](https://open.spotify.com/artist/49hvO5gCq6aWo8a4x147iQ) | [Navidad, Navidad](https://open.spotify.com/album/6tx4tFu6cQDIk5pZVwLLxI) | 2:13 | 2023-11-21 |  |
 | [No rompas mi corazón \- Achy Breaky Heart](https://open.spotify.com/track/01sw4YF783cqydsJQbJCwT) | [Caballo Dorado](https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm) | [Trayectoria](https://open.spotify.com/album/4yr1klPd996H8VREqxZw7D) | 3:40 | 2022-11-25 |  |
@@ -97,6 +97,7 @@
 | [Por Ti \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Por Ti \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt) | 3:26 | 2022-11-25 |  |
 | [Posadas Mexicanas](https://open.spotify.com/track/15Q9CzBrm9jHismYFjuVKk) | [Chava Flores](https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2) | [Una Colección Inolvidable: Todo en Vivo](https://open.spotify.com/album/0N0wpn2LvFq06i3JJdKN9p) | 2:34 | 2022-12-22 |  |
 | [Regalo De Navidad](https://open.spotify.com/track/1E5oEmlbeddoiDxp3Z8eHI) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Navidad En Mi Pueblo](https://open.spotify.com/album/6O3hBHlY9oheHqeGXZ8lUX) | 3:33 | 2023-11-02 |  |
+| [Regalo De Reyes](https://open.spotify.com/track/022Sf3ByfqLjciFtLZxERa) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Posada Navideña](https://open.spotify.com/album/7bBqs8oFWQQ6BVNYNucv0e) | 2:34 | 2024-11-01 |  |
 | [Regalo Equivocado](https://open.spotify.com/track/5ZvxPq0T3oAJ379BwLAh3g) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [50 Mentadas](https://open.spotify.com/album/7xFuSIZCtlLXW5YWlLHlF9) | 3:37 | 2022-11-25 |  |
 | [Ritmo Navideño](https://open.spotify.com/track/1N0gf2WAk4DGC4zdl2rQ1E) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amante De Lo Bueno](https://open.spotify.com/album/2nCYuZBs86B7wJJjzRScAo) | 3:04 | 2022-11-25 |  |
 | [Rodolfo El Reno](https://open.spotify.com/track/37Q1Wd3pwUf5XyhDNqO70W) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Rodolfo El Reno](https://open.spotify.com/album/3TlEv9eHOPhTJqoh3Xn9aQ) | 3:27 | 2022-11-25 |  |

@@ -8071,6 +8071,32 @@
     },
     {
       "album": {
+        "name": "The Confluence LP",
+        "url": "https://open.spotify.com/album/0sh9681b3gMdINw6OCnWzq"
+      },
+      "artists": [
+        {
+          "name": "Dele Sosimi",
+          "url": "https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc"
+        },
+        {
+          "name": "The Estuary 21",
+          "url": "https://open.spotify.com/artist/3AvaTJVo7L7mvvw7JpFAjo"
+        },
+        {
+          "name": "Get Cape. Wear Cape. Fly",
+          "url": "https://open.spotify.com/artist/2p55ldnwVuB7xKXBLHDB2y"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209626,
+      "name": "Mo Se B'\u00f3l\u00e1 t\u00e1n",
+      "url": "https://open.spotify.com/track/3FOchc8aXJPCYc1ybT2EK2"
+    },
+    {
+      "album": {
         "name": "Duo Ouro Negro",
         "url": "https://open.spotify.com/album/1zzTvwUVpLkgeFRQIF7uQa"
       },

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Argentina.",
-  "num_followers": 126061,
+  "num_followers": 126058,
   "original_name": "Viral 50 - Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LrrkyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lrw2SAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "En Otra Vida",
         "url": "https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "Quer os Amigos Que Ta de Pt",
         "url": "https://open.spotify.com/album/35ul72zaNjpPnfy52H6z7R"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/5chdCXDH13v15dwJ8pVc2h"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "Tattoo (Spanish Version)",
         "url": "https://open.spotify.com/album/5Sxoet3bM8FJeRK2J1us86"
@@ -69,7 +69,27 @@
       "url": "https://open.spotify.com/track/6gP0cvDaIOwiCdaOd1bmcW"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
+      "album": {
+        "name": "Amor de Vago",
+        "url": "https://open.spotify.com/album/7dIwIFhUC8xNF0bICvgMX2"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Malandro",
+          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
+        }
+      ],
+      "duration_ms": 188423,
+      "name": "Amor de Vago",
+      "url": "https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1"
+    },
+    {
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "Hollow (feat. Bonn)",
         "url": "https://open.spotify.com/album/62cNVQX5G5tM6n302goHbL"
@@ -93,43 +113,7 @@
       "url": "https://open.spotify.com/track/7EdPWyTm6EtO5httz2Dcoa"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
-      "album": {
-        "name": "Amor de Vago",
-        "url": "https://open.spotify.com/album/7dIwIFhUC8xNF0bICvgMX2"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        },
-        {
-          "name": "Malandro",
-          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
-        }
-      ],
-      "duration_ms": 188423,
-      "name": "Amor de Vago",
-      "url": "https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1"
-    },
-    {
-      "added_at": "2024-11-03 15:29:04",
-      "album": {
-        "name": "Cuidado Que Te Supero",
-        "url": "https://open.spotify.com/album/09u9HmOtRrrBHFhEaXzsZY"
-      },
-      "artists": [
-        {
-          "name": "Sharon y los Camperos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP"
-        }
-      ],
-      "duration_ms": 225881,
-      "name": "Cuidado Que Te Supero",
-      "url": "https://open.spotify.com/track/6qGmdKRvLumRqcjq5vKAOi"
-    },
-    {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "noviogangsta <3",
         "url": "https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ"
@@ -145,7 +129,39 @@
       "url": "https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
+      "album": {
+        "name": "Cuidado Que Te Supero",
+        "url": "https://open.spotify.com/album/09u9HmOtRrrBHFhEaXzsZY"
+      },
+      "artists": [
+        {
+          "name": "Sharon y los Camperos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP"
+        }
+      ],
+      "duration_ms": 225881,
+      "name": "Cuidado Que Te Supero",
+      "url": "https://open.spotify.com/track/6qGmdKRvLumRqcjq5vKAOi"
+    },
+    {
+      "added_at": "2024-11-04 13:54:28",
+      "album": {
+        "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
+        "url": "https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
+      "url": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
+    },
+    {
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "PRIMERA MUSA",
         "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
@@ -165,23 +181,7 @@
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
-      "album": {
-        "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
-        "url": "https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H"
-      },
-      "artists": [
-        {
-          "name": "Creepy Nuts",
-          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
-      "url": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
-    },
-    {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "Desp\u00f3jate Vol.2",
         "url": "https://open.spotify.com/album/2rIGm59XDgX2eYwiOWtFgV"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/6ViJgiKfyqfs52x2pGhuPF"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "The Original Monster Mash",
         "url": "https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "Cursi",
         "url": "https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "Margarita, que tu cuento valga la pena",
         "url": "https://open.spotify.com/album/6hMariaWwzwxApp7afAca5"
@@ -273,7 +273,23 @@
       "url": "https://open.spotify.com/track/3Zy6MIuQmAYEhROyNICx5Y"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
+      "album": {
+        "name": "Margarita, que tu cuento valga la pena",
+        "url": "https://open.spotify.com/album/6hMariaWwzwxApp7afAca5"
+      },
+      "artists": [
+        {
+          "name": "Margarita",
+          "url": "https://open.spotify.com/artist/0VX5Df1JG4Y84sGvKjkcrG"
+        }
+      ],
+      "duration_ms": 172751,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/3PtMYYDnXPbJAli2Oo4hYs"
+    },
+    {
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -293,23 +309,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
-      "album": {
-        "name": "Margarita, que tu cuento valga la pena",
-        "url": "https://open.spotify.com/album/6hMariaWwzwxApp7afAca5"
-      },
-      "artists": [
-        {
-          "name": "Margarita",
-          "url": "https://open.spotify.com/artist/0VX5Df1JG4Y84sGvKjkcrG"
-        }
-      ],
-      "duration_ms": 172751,
-      "name": "Princesa",
-      "url": "https://open.spotify.com/track/3PtMYYDnXPbJAli2Oo4hYs"
-    },
-    {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "AUTOMOTIVO DA TURBULENCIA",
         "url": "https://open.spotify.com/album/1mEN4vjqXeZN9FmNzFLCBf"
@@ -337,23 +337,7 @@
       "url": "https://open.spotify.com/track/1D9xlpo9gGhLWrHz0APRlJ"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
-      "album": {
-        "name": "Teardrops",
-        "url": "https://open.spotify.com/album/110skZzsCFyckMdjupeIBX"
-      },
-      "artists": [
-        {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        }
-      ],
-      "duration_ms": 174723,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ"
-    },
-    {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "Pa\u00b4 Que Te Acuerdes | CROSSOVER #8",
         "url": "https://open.spotify.com/album/6Es6kN0L82XnLAaKV02ZoC"
@@ -377,7 +361,7 @@
       "url": "https://open.spotify.com/track/5aZ8rf2aPfZrnRWLA7bByo"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "Tu Boda",
         "url": "https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA"
@@ -397,23 +381,7 @@
       "url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
-      "album": {
-        "name": "Margarita, que tu cuento valga la pena",
-        "url": "https://open.spotify.com/album/6hMariaWwzwxApp7afAca5"
-      },
-      "artists": [
-        {
-          "name": "Margarita",
-          "url": "https://open.spotify.com/artist/0VX5Df1JG4Y84sGvKjkcrG"
-        }
-      ],
-      "duration_ms": 154990,
-      "name": "Mucho, poquito o nada",
-      "url": "https://open.spotify.com/track/4T6SpksOqLQhHinENQXd3N"
-    },
-    {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "Destinologia",
         "url": "https://open.spotify.com/album/64R3tRaDrsBL3DvBrHSx8C"
@@ -429,9 +397,25 @@
       "url": "https://open.spotify.com/track/3gpgMfFAQDkVgcY1u76Ccx"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
-        "name": "LA MAYOR\u00cdA DE LAS NENAS LINDAS",
+        "name": "Margarita, que tu cuento valga la pena",
+        "url": "https://open.spotify.com/album/6hMariaWwzwxApp7afAca5"
+      },
+      "artists": [
+        {
+          "name": "Margarita",
+          "url": "https://open.spotify.com/artist/0VX5Df1JG4Y84sGvKjkcrG"
+        }
+      ],
+      "duration_ms": 154990,
+      "name": "Mucho, poquito o nada",
+      "url": "https://open.spotify.com/track/4T6SpksOqLQhHinENQXd3N"
+    },
+    {
+      "added_at": "2024-11-04 13:54:28",
+      "album": {
+        "name": "MIENTES TAN BIEN",
         "url": "https://open.spotify.com/album/3t17jnHFwz8hLaEXaM0Bfw"
       },
       "artists": [
@@ -449,11 +433,27 @@
         }
       ],
       "duration_ms": 215257,
-      "name": "LA MAYOR\u00cdA DE LAS NENAS LINDAS",
+      "name": "MIENTES TAN BIEN",
       "url": "https://open.spotify.com/track/0IVaOnXV1QqPwhbW2PpMoM"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
+      "album": {
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/110skZzsCFyckMdjupeIBX"
+      },
+      "artists": [
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        }
+      ],
+      "duration_ms": 174723,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ"
+    },
+    {
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "Me Lo Merezco",
         "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "Soltera",
         "url": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ"
@@ -485,23 +485,7 @@
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
-      "album": {
-        "name": "Diet Pepsi",
-        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "Diet Pepsi",
-      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
-    },
-    {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "FAN\u00c1TICO",
         "url": "https://open.spotify.com/album/5S6TLyMgO3WBE3v8FISDOw"
@@ -517,7 +501,23 @@
       "url": "https://open.spotify.com/track/32fRErxI6gKskZXSbEAAAn"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
+      "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "SOBRE UNA NUBE DE ALGOD\u00d3N",
         "url": "https://open.spotify.com/album/1VNSqvOeEGB0QKNoI3PNBb"
@@ -541,23 +541,7 @@
       "url": "https://open.spotify.com/track/60d2c47Oz2Wf2h0GnU2m9d"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
-      "album": {
-        "name": "El Mixetape",
-        "url": "https://open.spotify.com/album/4bnbvbzrk4at0ePHHuZO3P"
-      },
-      "artists": [
-        {
-          "name": "Tussiwarriors",
-          "url": "https://open.spotify.com/artist/4iVXdkoTNazv6MQh1wojj0"
-        }
-      ],
-      "duration_ms": 142565,
-      "name": "Memas en el Parking",
-      "url": "https://open.spotify.com/track/13jFVlbPGmPrq5o4RYEigY"
-    },
-    {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "444",
         "url": "https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16"
@@ -577,7 +561,7 @@
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "Antes de Noviembre",
         "url": "https://open.spotify.com/album/253XbefR2k5K8z8W3YUiXN"
@@ -593,7 +577,23 @@
       "url": "https://open.spotify.com/track/4VPRZa1iFBKaN6v9v9vKcs"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
+      "album": {
+        "name": "FUNK DO BOUNCE (Slowed)",
+        "url": "https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "duration_ms": 107539,
+      "name": "FUNK DO BOUNCE (Slowed)",
+      "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
+    },
+    {
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "El Mixetape",
         "url": "https://open.spotify.com/album/4bnbvbzrk4at0ePHHuZO3P"
@@ -604,12 +604,12 @@
           "url": "https://open.spotify.com/artist/4iVXdkoTNazv6MQh1wojj0"
         }
       ],
-      "duration_ms": 186763,
-      "name": "Todo Maldito",
-      "url": "https://open.spotify.com/track/77vyZOh3tYMHzGG2UfTMvb"
+      "duration_ms": 142565,
+      "name": "Memas en el Parking",
+      "url": "https://open.spotify.com/track/13jFVlbPGmPrq5o4RYEigY"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "LOS DUE\u00d1OS DEL NUEVO PERREO",
         "url": "https://open.spotify.com/album/2uqEgdNAnhgXmLdxsQ7aR2"
@@ -633,39 +633,39 @@
       "url": "https://open.spotify.com/track/0nOWvZDmm7iAGxIP5BQYWi"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
-        "name": "FUNK DO BOUNCE (Slowed)",
-        "url": "https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1"
+        "name": "El Mixetape",
+        "url": "https://open.spotify.com/album/4bnbvbzrk4at0ePHHuZO3P"
       },
       "artists": [
         {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+          "name": "Tussiwarriors",
+          "url": "https://open.spotify.com/artist/4iVXdkoTNazv6MQh1wojj0"
         }
       ],
-      "duration_ms": 107539,
-      "name": "FUNK DO BOUNCE (Slowed)",
-      "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
+      "duration_ms": 186763,
+      "name": "Todo Maldito",
+      "url": "https://open.spotify.com/track/77vyZOh3tYMHzGG2UfTMvb"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+        "name": "El Pecado (Guaracha)",
+        "url": "https://open.spotify.com/album/7ukshtuGYGqXSFRQ6FHKDi"
       },
       "artists": [
         {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+          "name": "Chichee",
+          "url": "https://open.spotify.com/artist/2ErncbMR6asOMKhjrUdmT3"
         }
       ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+      "duration_ms": 145511,
+      "name": "El Pecado (Guaracha)",
+      "url": "https://open.spotify.com/track/1c4kyXba3dIm0eOMi4yYtJ"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "Si Antes Te Hubiera Conocido",
         "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "Margarita, que tu cuento valga la pena",
         "url": "https://open.spotify.com/album/6hMariaWwzwxApp7afAca5"
@@ -697,47 +697,7 @@
       "url": "https://open.spotify.com/track/6gRdRdptsWtj1p3r6Ds26a"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
-      "album": {
-        "name": "Si Un D\u00eda Est\u00e1s Sola | CROSSOVER #7",
-        "url": "https://open.spotify.com/album/2nEAqrVGMybdrkN3gP9NGF"
-      },
-      "artists": [
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        },
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        },
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        }
-      ],
-      "duration_ms": 164021,
-      "name": "Si Un D\u00eda Est\u00e1s Sola | CROSSOVER #7",
-      "url": "https://open.spotify.com/track/5AkLEnorFvb7WIJOGqKYVT"
-    },
-    {
-      "added_at": "2024-11-03 15:29:04",
-      "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 237908,
-      "name": "KINTSUGI",
-      "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
-    },
-    {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "Persona 3 Reload Original Soundtrack",
         "url": "https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv"
@@ -765,23 +725,95 @@
       "url": "https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
-        "name": "Amigos Y Enemigos Almighty",
-        "url": "https://open.spotify.com/album/6hIwKyH17huDs7cJZ0rhrC"
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
       "artists": [
         {
-          "name": "Membrillito",
-          "url": "https://open.spotify.com/artist/1Wkq8mUYQv7GfWVYkq5Nu9"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 150024,
-      "name": "Amigos Y Enemigos Almighty",
-      "url": "https://open.spotify.com/track/3RpbyzSdjlKeEEnVbzhCRE"
+      "duration_ms": 536066,
+      "name": "November Rain",
+      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
+      "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 237908,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
+    },
+    {
+      "added_at": "2024-11-04 13:54:28",
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    {
+      "added_at": "2024-11-04 13:54:28",
+      "album": {
+        "name": "UWAIE (versi\u00f3n cumbia)",
+        "url": "https://open.spotify.com/album/5OvHusjeeqeowoBzHgXok7"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "duration_ms": 162947,
+      "name": "UWAIE - versi\u00f3n cumbia",
+      "url": "https://open.spotify.com/track/5IgmWwbNUeZzvYrODLletR"
+    },
+    {
+      "added_at": "2024-11-04 13:54:28",
+      "album": {
+        "name": "Si Un D\u00eda Est\u00e1s Sola | CROSSOVER #7",
+        "url": "https://open.spotify.com/album/2nEAqrVGMybdrkN3gP9NGF"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        }
+      ],
+      "duration_ms": 164021,
+      "name": "Si Un D\u00eda Est\u00e1s Sola | CROSSOVER #7",
+      "url": "https://open.spotify.com/track/5AkLEnorFvb7WIJOGqKYVT"
+    },
+    {
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "Abr\u00e1zame",
         "url": "https://open.spotify.com/album/2YZnqChmcKcsTS6tTg0fuL"
@@ -801,7 +833,55 @@
       "url": "https://open.spotify.com/track/5RvmmRCoZY1Yupl3PXgZm4"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
+      "album": {
+        "name": "Brasileiro",
+        "url": "https://open.spotify.com/album/09HBh8LHnAjxwMPWmIWgDb"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9rgio Mendes",
+          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Magalenha",
+      "url": "https://open.spotify.com/track/36SJ7ZFx8J1f1RsewmUwMX"
+    },
+    {
+      "added_at": "2024-11-04 13:54:28",
+      "album": {
+        "name": "UWAIE",
+        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 172427,
+      "name": "UWAIE",
+      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
+    },
+    {
+      "added_at": "2024-11-04 13:54:28",
+      "album": {
+        "name": "Samba de Raiz - Ao Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/025CDSYsJnhxdS5o3BDvk9"
+      },
+      "artists": [
+        {
+          "name": "Samba De Raiz",
+          "url": "https://open.spotify.com/artist/0EtwDFzbxPxghUdhwfo9R4"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Conselho - Ao Vivo",
+      "url": "https://open.spotify.com/track/1IXlKFVhuqqz4JACzcxNBm"
+    },
+    {
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "Margarita, que tu cuento valga la pena",
         "url": "https://open.spotify.com/album/6hMariaWwzwxApp7afAca5"
@@ -817,7 +897,7 @@
       "url": "https://open.spotify.com/track/0liX2sN3OJBAuy4pVaeEZw"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
         "name": "Pasos Al Costado",
         "url": "https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG"
@@ -837,100 +917,28 @@
       "url": "https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww"
     },
     {
-      "added_at": "2024-11-03 15:29:04",
+      "added_at": "2024-11-04 13:54:28",
       "album": {
-        "name": "Samba de Raiz - Ao Vivo, Vol. 2",
-        "url": "https://open.spotify.com/album/025CDSYsJnhxdS5o3BDvk9"
+        "name": "URIEL LOZANO / Zapada EN VIVO en UN POCO DE RUIDO!",
+        "url": "https://open.spotify.com/album/5UecDIxoca5aq0Xko7VcuE"
       },
       "artists": [
         {
-          "name": "Samba De Raiz",
-          "url": "https://open.spotify.com/artist/0EtwDFzbxPxghUdhwfo9R4"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Conselho - Ao Vivo",
-      "url": "https://open.spotify.com/track/1IXlKFVhuqqz4JACzcxNBm"
-    },
-    {
-      "added_at": "2024-11-03 15:29:04",
-      "album": {
-        "name": "Brasileiro",
-        "url": "https://open.spotify.com/album/09HBh8LHnAjxwMPWmIWgDb"
-      },
-      "artists": [
+          "name": "Pinky SD",
+          "url": "https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri"
+        },
         {
-          "name": "S\u00e9rgio Mendes",
-          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Magalenha",
-      "url": "https://open.spotify.com/track/36SJ7ZFx8J1f1RsewmUwMX"
-    },
-    {
-      "added_at": "2024-11-03 15:29:04",
-      "album": {
-        "name": "UWAIE",
-        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
-      },
-      "artists": [
+          "name": "Un Poco de Ruido",
+          "url": "https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0"
+        },
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
         }
       ],
-      "duration_ms": 172427,
-      "name": "UWAIE",
-      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
-    },
-    {
-      "added_at": "2024-11-03 15:29:04",
-      "album": {
-        "name": "UWAIE (versi\u00f3n cumbia)",
-        "url": "https://open.spotify.com/album/5OvHusjeeqeowoBzHgXok7"
-      },
-      "artists": [
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        }
-      ],
-      "duration_ms": 162947,
-      "name": "UWAIE - versi\u00f3n cumbia",
-      "url": "https://open.spotify.com/track/5IgmWwbNUeZzvYrODLletR"
-    },
-    {
-      "added_at": "2024-11-03 15:29:04",
-      "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 536066,
-      "name": "November Rain",
-      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
-    },
-    {
-      "added_at": "2024-11-03 15:29:04",
-      "album": {
-        "name": "Moonlit Floor (Kiss Me)",
-        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 155757,
-      "name": "Moonlit Floor (Kiss Me)",
-      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
+      "duration_ms": 72937,
+      "name": "Conmigo Te Gust\u00f3",
+      "url": "https://open.spotify.com/track/4eqXTlaHeK6xkM1fRx9wR5"
     }
   ],
   "unique_name": "Viral 50 - Argentina",

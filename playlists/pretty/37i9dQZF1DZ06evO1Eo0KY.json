@@ -1,12 +1,12 @@
 {
   "description": "This is Nicholas Craven. The essential tracks, all in one playlist.",
-  "num_followers": 492,
+  "num_followers": 495,
   "original_name": "This Is Nicholas Craven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAACdjNcKTKLJo3841oMmwWmn",
+  "snapshot_id": "Zya9AAAAAADkxXrC8FH3desb+bgYahMI",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Craven N",
+        "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 137525,
+      "name": "Razors",
+      "url": "https://open.spotify.com/track/2p6pbRVWgZscjKcRcKnLg4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Craven N 3",
         "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
       },
@@ -535,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Craven N",
-        "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 137525,
-      "name": "Razors",
-      "url": "https://open.spotify.com/track/2p6pbRVWgZscjKcRcKnLg4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dump Gawd: Shot Clock King",
         "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
       },
@@ -571,26 +571,6 @@
       "duration_ms": 134269,
       "name": "Look What You Done",
       "url": "https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Craven N 3",
-        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Stove God Cooks",
-          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
-        }
-      ],
-      "duration_ms": 222040,
-      "name": "Opulence",
-      "url": "https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A"
     },
     {
       "added_at": null,
@@ -615,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Craven N 3",
+        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        }
+      ],
+      "duration_ms": 222040,
+      "name": "Opulence",
+      "url": "https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deleted Scenes 2",
         "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
       },
@@ -631,26 +631,6 @@
       "duration_ms": 175507,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/1ufe5VjaPm5lQwrJY9rQMy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Directors Cut 4",
-        "url": "https://open.spotify.com/album/0dp06Yn0DusNEeKYNX3zuv"
-      },
-      "artists": [
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 157383,
-      "name": "Manchurian Candidate",
-      "url": "https://open.spotify.com/track/4OBm2wJ1DNBkVldLxV99Ak"
     },
     {
       "added_at": null,
@@ -675,22 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "1000 Mile Stare",
-        "url": "https://open.spotify.com/album/22IbC2lqB6l7aqDXvro9Xz"
+        "name": "Directors Cut 4",
+        "url": "https://open.spotify.com/album/0dp06Yn0DusNEeKYNX3zuv"
       },
       "artists": [
         {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
         },
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 198191,
-      "name": "1000 Mile Stare",
-      "url": "https://open.spotify.com/track/2M2bmKIGUboIJk3bDYgIz3"
+      "duration_ms": 157383,
+      "name": "Manchurian Candidate",
+      "url": "https://open.spotify.com/track/4OBm2wJ1DNBkVldLxV99Ak"
     },
     {
       "added_at": null,
@@ -707,6 +687,26 @@
       "duration_ms": 170286,
       "name": "212",
       "url": "https://open.spotify.com/track/3007ULz7n9JVrJqNITsIXg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1000 Mile Stare",
+        "url": "https://open.spotify.com/album/22IbC2lqB6l7aqDXvro9Xz"
+      },
+      "artists": [
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 198191,
+      "name": "1000 Mile Stare",
+      "url": "https://open.spotify.com/track/2M2bmKIGUboIJk3bDYgIz3"
     },
     {
       "added_at": null,

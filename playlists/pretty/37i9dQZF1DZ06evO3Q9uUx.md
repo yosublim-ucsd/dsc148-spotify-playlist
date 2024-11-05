@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,953 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,957 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 36 | [back it up](https://open.spotify.com/track/3I23NiySJ2e5j7T1s3Q6XL) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [nights and weekends](https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ) | 2:17 |
 | 37 | [Vamos](https://open.spotify.com/track/4gbRykMoB7dM0okw4DHj5J) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Distrito Federal](https://open.spotify.com/album/6ojf6Hfhj5NtQLRMiCRaFt) | 2:52 |
 | 38 | [Likka Sto 2 \(feat\. Travis Scott, G Herbo & BIA\)](https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0) | [Lil Blessin](https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Likka Sto 2 \(feat\. Travis Scott, G Herbo & BIA\)](https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt) | 3:48 |
-| 39 | [Eat It Up \(feat\. BIA\)](https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:01 |
-| 40 | [CHATTY](https://open.spotify.com/track/6u2LaYlmDbDLsEtCFMHcIO) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:41 |
+| 39 | [CHATTY](https://open.spotify.com/track/6u2LaYlmDbDLsEtCFMHcIO) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:41 |
+| 40 | [Eat It Up \(feat\. BIA\)](https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:01 |
 | 41 | [BEACH BALL \(feat\. BIA\)](https://open.spotify.com/track/3wSf7ZuqT38jZyJ92hNUiE) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BEACH BALL \(feat\. BIA\)](https://open.spotify.com/album/2lUZ8Vde6vLKqg4kdaAuXZ) | 2:24 |
 | 42 | [Solitude \(with BIA & Lucky Daye\)](https://open.spotify.com/track/2cjhbrRCiUwRWL2PDPpDAu) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Solitude \(with BIA & Lucky Daye\)](https://open.spotify.com/album/5R0IoGOOlP8dbynqmABnYA) | 2:54 |
 | 43 | [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [Nasty Girl](https://open.spotify.com/track/2JqW1Pne5WQWiKongjX8kA) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/4tRvTQdQzkBDlyBm7OhNXt) | 2:48 |
 | 50 | [RAISE THE STAKES](https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:23 |
 
-Snapshot ID: `ZyVrgAAAAABY5ng7RjEGMLYclOooDsEL`
+Snapshot ID: `Zya9AAAAAAC8LfFlSugqHh/AAwXXxCW5`

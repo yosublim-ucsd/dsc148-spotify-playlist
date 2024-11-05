@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa SHRTY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,725 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,733 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 3 | [Taikuri](https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ROADMAN](https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m) | 2:56 |
 | 4 | [BOSSMAN](https://open.spotify.com/track/5ZdTneUDYgjrg4ZoYb3loz) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [BOSSMAN](https://open.spotify.com/album/32ogCbvq2ZnLv3FPBEbF8T) | 2:35 |
 | 5 | [Emojisydän](https://open.spotify.com/track/7rf5PlPnAowf0ZEIBbtP5Z) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Pieni Prinssi](https://open.spotify.com/album/2xKngIuCsxZOr8TpIE2Pz5) | 3:02 |
-| 6 | [Kyl Sä Tiiät](https://open.spotify.com/track/2mvxdfJD9tqz4nxF3jMTbi) | [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4) | [Kyl Sä Tiiät](https://open.spotify.com/album/20OcRKV8CQyRGj7uA1uyh0) | 2:49 |
-| 7 | [Sun luokse](https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [AHTI](https://open.spotify.com/album/3mGX81bLEfQDOMh8G296RO) | 2:54 |
+| 6 | [Sun luokse](https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [AHTI](https://open.spotify.com/album/3mGX81bLEfQDOMh8G296RO) | 2:54 |
+| 7 | [Kyl Sä Tiiät](https://open.spotify.com/track/2mvxdfJD9tqz4nxF3jMTbi) | [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4) | [Kyl Sä Tiiät](https://open.spotify.com/album/20OcRKV8CQyRGj7uA1uyh0) | 2:49 |
 | 8 | [Dead Presidents](https://open.spotify.com/track/3OkipxzNcMVBDdtp0193hA) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Dead Presidents](https://open.spotify.com/album/74a1gYWV7lqRTBCvBZod5m) | 3:01 |
 | 9 | [Kyyneliä kaulaliinaan](https://open.spotify.com/track/0DBzoxR8kYMKnEHXoRFrQZ) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM) | [Kyyneliä kaulaliinaan](https://open.spotify.com/album/4bt6rY5ycgP8rj3PVngHPh) | 2:55 |
 | 10 | [jeesus](https://open.spotify.com/track/5BqTedQR0QEN7UkyvEKNeS) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [thank you for all the support](https://open.spotify.com/album/0Lul2mtI4sUKfAEFXWJMSd) | 2:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Mit vit sit?](https://open.spotify.com/track/1HOmwRS2Ew0BVwp91R2Aef) | [Vinttikoira](https://open.spotify.com/artist/5BYjPxHBd5aCz5Pt8igAXl), [NickyDiesel](https://open.spotify.com/artist/2Wo5oaP19W1SpOtkY8Rxof), [FORRESTER](https://open.spotify.com/artist/4A3v0ZA50EKyGNBtEJLZA8) | [Mit vit sit?](https://open.spotify.com/album/3y2n3anuLGpHB43xyWGZnL) | 3:25 |
 | 50 | [SELKEE](https://open.spotify.com/track/08CGtOPPlteUVTynBU7Lfx) | [Bojos](https://open.spotify.com/artist/3HRZJD5TbCbhSPRVlhvFtM) | [SELKEE](https://open.spotify.com/album/3Jk7ZQtHg72U9ii2PzOhAf) | 3:35 |
 
-Snapshot ID: `ZyP+HAAAAACY+3b7r54StnuWz/oqwt1m`
+Snapshot ID: `ZyiE7AAAAAC+4StC+IZJoavQOVZpT/D+`

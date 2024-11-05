@@ -1,6 +1,6 @@
 {
   "description": "Deja que tu coraz\u00f3n se rinda ante la m\u00fasica rom\u00e1ntica de anta\u00f1o.",
-  "num_followers": 583327,
+  "num_followers": 583416,
   "original_name": "Boleros",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "15 Exitos De Alvaro Carillo Con Sus Mejors",
-        "url": "https://open.spotify.com/album/5vJB4gDDskT2hKKfsKbcNr"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Carrillo",
-          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
-        }
-      ],
-      "duration_ms": 126413,
-      "name": "Cancionero",
-      "url": "https://open.spotify.com/track/3HRqqfLJXMvEcqflLpy5Os"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Lo Mejor De Mike Laure",
         "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 144242,
       "name": "Cuando Vuelva A Tu Lado",
       "url": "https://open.spotify.com/track/7KBPInlv2i4fjoLZ8vvLeG"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "15 Exitos De Alvaro Carillo Con Sus Mejors",
+        "url": "https://open.spotify.com/album/5vJB4gDDskT2hKKfsKbcNr"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Carrillo",
+          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
+        }
+      ],
+      "duration_ms": 126413,
+      "name": "Cancionero",
+      "url": "https://open.spotify.com/track/3HRqqfLJXMvEcqflLpy5Os"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
+        "name": "El Bolerista De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pirela",
+          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Entre Tu Amor Y Mi Amor",
+      "url": "https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
         "name": "Aunque Me Cueste la Vida",
         "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 180840,
       "name": "Cha Cha Linda",
       "url": "https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
-        "name": "El Bolerista De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pirela",
-          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Entre Tu Amor Y Mi Amor",
-      "url": "https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/4mv1g3vawUWCavTnRXf3Mf"
-      },
-      "artists": [
-        {
-          "name": "Las Perlas Negras",
-          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/57QF4UIb5JicadAG6WZRKI"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Somos Novios",
         "url": "https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 166413,
       "name": "Somos Novios",
       "url": "https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/4mv1g3vawUWCavTnRXf3Mf"
+      },
+      "artists": [
+        {
+          "name": "Las Perlas Negras",
+          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/57QF4UIb5JicadAG6WZRKI"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
+        "name": "Nos Hizo Falta Tiempo",
+        "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
+      },
+      "artists": [
+        {
+          "name": "Las Perlas Negras",
+          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Nos Hizo Falta Tiempo",
+      "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 201021,
       "name": "Luna Orgullosa",
       "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
-        "name": "Nos Hizo Falta Tiempo",
-        "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
-      },
-      "artists": [
-        {
-          "name": "Las Perlas Negras",
-          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Nos Hizo Falta Tiempo",
-      "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
-      },
-      "artists": [
-        {
-          "name": "Las Perlas Negras",
-          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
-        }
-      ],
-      "duration_ms": 162944,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Peerless 80 Aniversario - 24 Inolvidables",
         "url": "https://open.spotify.com/album/6NQaVDESoAu9IPRD8z9SPO"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 165320,
       "name": "A La Orilla Del Mar",
       "url": "https://open.spotify.com/track/50wL5KcfCauBnlOJ4z4hlL"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
+      },
+      "artists": [
+        {
+          "name": "Las Perlas Negras",
+          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
+        }
+      ],
+      "duration_ms": 162944,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 Inolvidables",
-        "url": "https://open.spotify.com/album/6NQaVDESoAu9IPRD8z9SPO"
-      },
-      "artists": [
-        {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
-        }
-      ],
-      "duration_ms": 176906,
-      "name": "Sortilegio",
-      "url": "https://open.spotify.com/track/0MV5NacynjQkSro73OCLx8"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Noche criolla",
         "url": "https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 180035,
       "name": "Ven aca (Bolero)",
       "url": "https://open.spotify.com/track/4yG6U4LH22eozbfVkD5x5r"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Peerless 80 Aniversario - 24 Inolvidables",
+        "url": "https://open.spotify.com/album/6NQaVDESoAu9IPRD8z9SPO"
+      },
+      "artists": [
+        {
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+        }
+      ],
+      "duration_ms": 176906,
+      "name": "Sortilegio",
+      "url": "https://open.spotify.com/track/0MV5NacynjQkSro73OCLx8"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1439,6 +1439,38 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
+        "name": "Antonio Badu/Claudio Estrada - Dos Bohemios Romanticos",
+        "url": "https://open.spotify.com/album/0asR4PcGxIQOxjnq5aaekQ"
+      },
+      "artists": [
+        {
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Estoy Enamorado",
+      "url": "https://open.spotify.com/track/3Wu69KbLFXHK2g0fiA0MZR"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
         "name": "Esperare",
         "url": "https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX"
       },
@@ -1471,22 +1503,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Antonio Badu/Claudio Estrada - Dos Bohemios Romanticos",
-        "url": "https://open.spotify.com/album/0asR4PcGxIQOxjnq5aaekQ"
-      },
-      "artists": [
-        {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Estoy Enamorado",
-      "url": "https://open.spotify.com/track/3Wu69KbLFXHK2g0fiA0MZR"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Trios",
         "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 175000,
       "name": "Cuando Me Lo Pidas",
       "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "El preso n\u00famero 9 (Remastered)",
-        "url": "https://open.spotify.com/album/7jIILQY6IYM13XKSU7h4lE"
-      },
-      "artists": [
-        {
-          "name": "Trio Calaveras",
-          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
-        }
-      ],
-      "duration_ms": 218432,
-      "name": "La malague\u00f1a - Remastered",
-      "url": "https://open.spotify.com/track/1Ks8E9aDioQVYXXcOcOm2N"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Noche Negra",
         "url": "https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 119739,
       "name": "Noche Negra",
       "url": "https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "El preso n\u00famero 9 (Remastered)",
+        "url": "https://open.spotify.com/album/7jIILQY6IYM13XKSU7h4lE"
+      },
+      "artists": [
+        {
+          "name": "Trio Calaveras",
+          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
+        }
+      ],
+      "duration_ms": 218432,
+      "name": "La malague\u00f1a - Remastered",
+      "url": "https://open.spotify.com/track/1Ks8E9aDioQVYXXcOcOm2N"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Llorando Estoy Por Ti",
-        "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Abejas",
-          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Llorando Estoy Por Ti",
-      "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Amor Que Malo Eres",
         "url": "https://open.spotify.com/album/1OKUKlhIVJwedZcUkrBcBB"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 156000,
       "name": "Amor Que Malo Eres",
       "url": "https://open.spotify.com/track/4Xwg1xbEg5Dx4N3PMEisKQ"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Llorando Estoy Por Ti",
+        "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Abejas",
+          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Llorando Estoy Por Ti",
+      "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Se Que No Vendras",
-        "url": "https://open.spotify.com/album/1dFqAFCScCb2I5Ycee0z1G"
-      },
-      "artists": [
-        {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
-        }
-      ],
-      "duration_ms": 137250,
-      "name": "Se Que No Vendras",
-      "url": "https://open.spotify.com/track/5OonKRrr7zPJ2giLp2onc4"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/3P8U9V1pkElU1K7uNgi9aG"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 164960,
       "name": "Se Me Olvid\u00f3 Tu Nombre",
       "url": "https://open.spotify.com/track/0CQemGuwQ6oLzaEbIEP8zl"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Se Que No Vendras",
+        "url": "https://open.spotify.com/album/1dFqAFCScCb2I5Ycee0z1G"
+      },
+      "artists": [
+        {
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+        }
+      ],
+      "duration_ms": 137250,
+      "name": "Se Que No Vendras",
+      "url": "https://open.spotify.com/track/5OonKRrr7zPJ2giLp2onc4"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1863,8 +1863,8 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "15 \u00c9xitos de los Hermanos Mart\u00ednez Gil",
-        "url": "https://open.spotify.com/album/2AGN6O1CWUqpbYaxKSDjHf"
+        "name": "Perfume de Gardenia",
+        "url": "https://open.spotify.com/album/3UbEJpnqeJAzKDyEm9rDgc"
       },
       "artists": [
         {
@@ -1872,9 +1872,9 @@
           "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
         }
       ],
-      "duration_ms": 153666,
-      "name": "Est\u00fapido Cupido",
-      "url": "https://open.spotify.com/track/1KKhaB1D7IvsEq4VZoLauf"
+      "duration_ms": 154866,
+      "name": "Una Tacita de Caf\u00e9",
+      "url": "https://open.spotify.com/track/2eCFUhsUHTy6i1Em7Ok08w"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1999,8 +1999,8 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Perfume de Gardenia",
-        "url": "https://open.spotify.com/album/3UbEJpnqeJAzKDyEm9rDgc"
+        "name": "15 \u00c9xitos de los Hermanos Mart\u00ednez Gil",
+        "url": "https://open.spotify.com/album/2AGN6O1CWUqpbYaxKSDjHf"
       },
       "artists": [
         {
@@ -2008,9 +2008,9 @@
           "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
         }
       ],
-      "duration_ms": 154866,
-      "name": "Una Tacita de Caf\u00e9",
-      "url": "https://open.spotify.com/track/2eCFUhsUHTy6i1Em7Ok08w"
+      "duration_ms": 153666,
+      "name": "Est\u00fapido Cupido",
+      "url": "https://open.spotify.com/track/1KKhaB1D7IvsEq4VZoLauf"
     },
     {
       "added_at": "2024-07-11 00:56:29",

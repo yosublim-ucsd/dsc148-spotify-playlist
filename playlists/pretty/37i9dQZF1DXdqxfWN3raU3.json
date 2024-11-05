@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Alvaro Diaz y NATHY PELUSO en portada.",
-  "num_followers": 255874,
+  "num_followers": 255912,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2024-10-29 18:58:38",
       "album": {
+        "name": "Rinc\u00f3n",
+        "url": "https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 164810,
+      "name": "Rinc\u00f3n",
+      "url": "https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb"
+    },
+    {
+      "added_at": "2024-10-29 18:58:38",
+      "album": {
         "name": "Carta de Despedida",
         "url": "https://open.spotify.com/album/1BQAi9dnZNj2102wIIcDzd"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 184800,
       "name": "Carta de Despedida",
       "url": "https://open.spotify.com/track/7In4Lnz4mpkFkG5zOAzLuE"
-    },
-    {
-      "added_at": "2024-10-29 18:58:38",
-      "album": {
-        "name": "Rinc\u00f3n",
-        "url": "https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 164810,
-      "name": "Rinc\u00f3n",
-      "url": "https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb"
     },
     {
       "added_at": "2024-10-29 18:58:38",
@@ -275,22 +275,18 @@
     {
       "added_at": "2024-10-29 18:58:38",
       "album": {
-        "name": "Somos 3",
-        "url": "https://open.spotify.com/album/3qJoZo7FtGMg9cdTVvrQLX"
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
       },
       "artists": [
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
         }
       ],
-      "duration_ms": 165545,
-      "name": "Somos 3",
-      "url": "https://open.spotify.com/track/7csEjU6jEvfK606QrqoM0i"
+      "duration_ms": 188742,
+      "name": "DOM1NGO",
+      "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
     },
     {
       "added_at": "2024-10-29 18:58:38",
@@ -391,38 +387,6 @@
     {
       "added_at": "2024-10-29 18:58:38",
       "album": {
-        "name": "Portales (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 184511,
-      "name": "Que Se Parezca A Ti",
-      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
-    },
-    {
-      "added_at": "2024-10-29 18:58:38",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 188742,
-      "name": "DOM1NGO",
-      "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
-    },
-    {
-      "added_at": "2024-10-29 18:58:38",
-      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -435,6 +399,42 @@
       "duration_ms": 193480,
       "name": "CANDY",
       "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
+    },
+    {
+      "added_at": "2024-10-29 18:58:38",
+      "album": {
+        "name": "Somos 3",
+        "url": "https://open.spotify.com/album/3qJoZo7FtGMg9cdTVvrQLX"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 165545,
+      "name": "Somos 3",
+      "url": "https://open.spotify.com/track/7csEjU6jEvfK606QrqoM0i"
+    },
+    {
+      "added_at": "2024-10-29 18:58:38",
+      "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 184511,
+      "name": "Que Se Parezca A Ti",
+      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
     },
     {
       "added_at": "2024-10-29 18:58:38",
@@ -1059,30 +1059,6 @@
     {
       "added_at": "2024-10-29 18:58:38",
       "album": {
-        "name": "Dime Si Tu",
-        "url": "https://open.spotify.com/album/2LkuDGwEPEfOlrU5cmBt43"
-      },
-      "artists": [
-        {
-          "name": "Jey F",
-          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "Fullbrand Music",
-          "url": "https://open.spotify.com/artist/3MIE1H4JzyKU3QHvpAHbfe"
-        }
-      ],
-      "duration_ms": 196823,
-      "name": "Dime Si Tu",
-      "url": "https://open.spotify.com/track/2hiEWGnFqLCJoZvXU9Ozmr"
-    },
-    {
-      "added_at": "2024-10-29 18:58:38",
-      "album": {
         "name": "La Ducha Remix (con Becky G, Tini)",
         "url": "https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI"
       },
@@ -1111,6 +1087,30 @@
       "duration_ms": 274437,
       "name": "La Ducha Remix (con Becky G, Tini)",
       "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
+    },
+    {
+      "added_at": "2024-10-29 18:58:38",
+      "album": {
+        "name": "Dime Si Tu",
+        "url": "https://open.spotify.com/album/2LkuDGwEPEfOlrU5cmBt43"
+      },
+      "artists": [
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Fullbrand Music",
+          "url": "https://open.spotify.com/artist/3MIE1H4JzyKU3QHvpAHbfe"
+        }
+      ],
+      "duration_ms": 196823,
+      "name": "Dime Si Tu",
+      "url": "https://open.spotify.com/track/2hiEWGnFqLCJoZvXU9Ozmr"
     },
     {
       "added_at": "2024-10-29 18:58:38",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-10-29 18:58:38",
       "album": {
-        "name": "No digas nada",
-        "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 222545,
-      "name": "No digas nada",
-      "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
-    },
-    {
-      "added_at": "2024-10-29 18:58:38",
-      "album": {
         "name": "LA CLASSE",
         "url": "https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 202146,
       "name": "FYAH",
       "url": "https://open.spotify.com/track/35CFwzAjjOyY1teh0NUwF5"
+    },
+    {
+      "added_at": "2024-10-29 18:58:38",
+      "album": {
+        "name": "No digas nada",
+        "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 222545,
+      "name": "No digas nada",
+      "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
     },
     {
       "added_at": "2024-10-29 18:58:38",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2024-10-29 18:58:38",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/4xxtiFnG5k9Tr92mdUGTaW"
-      },
-      "artists": [
-        {
-          "name": "Kidd Manny",
-          "url": "https://open.spotify.com/artist/6ckHURH4vaNUiIsoFanfX8"
-        },
-        {
-          "name": "Birat Bitz",
-          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
-        }
-      ],
-      "duration_ms": 156060,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/02nqZpvFs0QLGbn8lItNWW"
-    },
-    {
-      "added_at": "2024-10-29 18:58:38",
-      "album": {
         "name": "Honest (feat. C. Tangana)",
         "url": "https://open.spotify.com/album/3QFSisENbuki9rhPLgpbic"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 215348,
       "name": "Honest (feat. C. Tangana)",
       "url": "https://open.spotify.com/track/3FiX402udtjX777EHZUAbU"
+    },
+    {
+      "added_at": "2024-10-29 18:58:38",
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/4xxtiFnG5k9Tr92mdUGTaW"
+      },
+      "artists": [
+        {
+          "name": "Kidd Manny",
+          "url": "https://open.spotify.com/artist/6ckHURH4vaNUiIsoFanfX8"
+        },
+        {
+          "name": "Birat Bitz",
+          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
+        }
+      ],
+      "duration_ms": 156060,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/02nqZpvFs0QLGbn8lItNWW"
     }
   ],
   "unique_name": "R&B Latino",

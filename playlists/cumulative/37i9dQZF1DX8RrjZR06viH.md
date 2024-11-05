@@ -4,7 +4,7 @@
 
 > 🍂
 
-133 songs - 6 hr 46 min
+134 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,8 +74,9 @@
 | [Lykke te](https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Lykke te](https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS) | 2:44 | 2024-06-27 |  |
 | [Lyst på dæ](https://open.spotify.com/track/0pAaQWTrmbKEVPL0mlB9Sx) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Lyst på dæ](https://open.spotify.com/album/04zK7xAmi8Mx3A2OVUtT3i) | 2:41 | 2024-06-27 | 2024-10-11 |
 | [Mamma sa det ordne se for snille piker](https://open.spotify.com/track/347ClSRvnHma5rSqUSL9R8) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Mamma sa det ordne se for snille piker](https://open.spotify.com/album/280RBk4Y0wc3fxu0wrBbpF) | 3:25 | 2024-08-29 |  |
-| [Marilyn Monroe](https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Marilyn Monroe](https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw) | 2:54 | 2024-06-27 |  |
+| [Marilyn Monroe](https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Marilyn Monroe](https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw) | 2:54 | 2024-06-27 | 2024-11-05 |
 | [Meri Jaan \- LePark Studio, Milan](https://open.spotify.com/track/1nkfNJaIe6XlSQwT1OS7pe) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN), [Omar Sheriff](https://open.spotify.com/artist/7bD3cjwHYADj9rsonLyx7U), [The Quick Style](https://open.spotify.com/artist/6vLa9prTXyHYhTSC8z7IKC), [Mo Ayn](https://open.spotify.com/artist/0WDI0f4hXiPrIrS4TUJDX7) | [DIASPORA DREAMS \(THE QUICK STYLE SELECTION\)](https://open.spotify.com/album/4CwJ4eyjJVNfoOT6dcs9pV) | 3:49 | 2024-06-27 |  |
+| [Milk and honey](https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Milk and honey](https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf) | 3:30 | 2024-10-31 |  |
 | [Min for en kveld](https://open.spotify.com/track/7aI28hcZEtBkP0IsX8uE3e) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Min for en kveld](https://open.spotify.com/album/3wMlCNk871zgqen0FTWD2g) | 2:33 | 2024-09-05 |  |
 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 | 2024-06-27 |  |
 | [Movie Star](https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Movie Star](https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR) | 3:56 | 2024-09-26 |  |

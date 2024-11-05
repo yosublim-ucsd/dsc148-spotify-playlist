@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66913,
+  "num_followers": 66911,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAADX4lNWH2OcQ+Qi2gW3k320",
+  "snapshot_id": "Zya9AAAAAACrzwIPvtqviVzv0eJdTiXQ",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 283422,
+      "name": "Deus dos Vales, Deus dos Montes",
+      "url": "https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quero Aprender a Orar (Ao Vivo)",
         "url": "https://open.spotify.com/album/4hNeG3to2b8C3lazxnHYUc"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 326264,
       "name": "Existe Um Nome - Ao Vivo",
       "url": "https://open.spotify.com/track/1s98FijqLTd89U6pXGS8SF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Pode Calar Um Adorador",
-        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 283422,
-      "name": "Deus dos Vales, Deus dos Montes",
-      "url": "https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Na Casa de Deus",
+        "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 254862,
+      "name": "Na Casa de Deus",
+      "url": "https://open.spotify.com/track/1TIbjRcaiVbpvriftlC8V4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nada Pode Calar Um Adorador",
         "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 376720,
       "name": "Pastor",
       "url": "https://open.spotify.com/track/6U0GQYI8fxh5T6dgKnx5hv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Na Casa de Deus",
-        "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 254862,
-      "name": "Na Casa de Deus",
-      "url": "https://open.spotify.com/track/1TIbjRcaiVbpvriftlC8V4"
     },
     {
       "added_at": null,

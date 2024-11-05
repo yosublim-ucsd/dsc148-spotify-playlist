@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 312031,
+  "num_followers": 312062,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyVrgAAAAACJ/7+01Z7zEfzuMMf/c05J",
+  "snapshot_id": "Zya9AAAAAABtHh56XW+Em+HSYJxSiyN2",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cry of Love",
-        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 206133,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/7emVwhF4OMemAT65nbpuZO"
+      "duration_ms": 341800,
+      "name": "Hear My Train a Comin'",
+      "url": "https://open.spotify.com/track/4DmBVImaIhE3RyNvbtZTTz"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "People, Hell & Angels",
-        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 341800,
-      "name": "Hear My Train a Comin'",
-      "url": "https://open.spotify.com/track/4DmBVImaIhE3RyNvbtZTTz"
+      "duration_ms": 206133,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/7emVwhF4OMemAT65nbpuZO"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Earth Blues (Alternate Mix)",
-        "url": "https://open.spotify.com/album/6hJdSF1sZ0hsTm6PE1HFgL"
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 262186,
-      "name": "Earth Blues - Alternate Mix",
-      "url": "https://open.spotify.com/track/1IoxyyTW5BMW2g9G3XnJLd"
+      "duration_ms": 249373,
+      "name": "Come On (Let the Good Times Roll)",
+      "url": "https://open.spotify.com/track/0KqHJXm4Z42fELkW83ZW0r"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
       "duration_ms": 163800,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5LI7PoHEolR8plrf3I16sq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 249373,
-      "name": "Come On (Let the Good Times Roll)",
-      "url": "https://open.spotify.com/track/0KqHJXm4Z42fELkW83ZW0r"
     },
     {
       "added_at": null,
@@ -639,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 528133,
-      "name": "Voodoo Chile Blues",
-      "url": "https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Both Sides of the Sky",
         "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
@@ -667,6 +635,22 @@
       "duration_ms": 234866,
       "name": "Sweet Angel",
       "url": "https://open.spotify.com/track/3t3CO2eP3gLbiFFN5Z4gmB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 528133,
+      "name": "Voodoo Chile Blues",
+      "url": "https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 229120,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/4xmlBI4xprNK78GSoTtkxp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967",
+        "url": "https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 58253,
+      "name": "Introduction - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
+      "url": "https://open.spotify.com/track/0bHFzlbjS7LHT1tV2fn6nJ"
     }
   ],
   "unique_name": "This Is Jimi Hendrix",

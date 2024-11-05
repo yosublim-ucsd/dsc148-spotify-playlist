@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > 🔊canzoni rap da pomparti fino all'alba! 🔊Cover: Capo Plaza
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,680 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,701 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 79 | [Michelle Pfeiffer \(feat\. Tony Effe\)](https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Michelle Pfeiffer \(feat\. Tony Effe\)](https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5) | 3:00 |
 | 80 | [Louboutin](https://open.spotify.com/track/7fzaDe7qR6IX2w275uX4Th) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Louboutin](https://open.spotify.com/album/1L10rKUr6ll3JmEj94BXoU) | 4:00 |
 | 81 | [YOSHI \(feat\. thasup, Fabri Fibra & Capo Plaza\) \- prod\. Strage \[Remix\]](https://open.spotify.com/track/0VU34EBWTAlHVIZE3aWlZA) | [MACHETE](https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD), [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [YOSHI \(feat\. thasup, Fabri Fibra & Capo Plaza\) \[prod\. Strage \[Remix\]\]](https://open.spotify.com/album/1oLdPWpMNNqxsyyIuy3hBx) | 4:53 |
-| 82 | [100% \(feat\. Salmo\)](https://open.spotify.com/track/4Bsfr9fyqjgThu4In7RkE7) | [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [100% \(feat\. Salmo\)](https://open.spotify.com/album/3Uw4hrJI3XRv2HvChEZuTH) | 2:40 |
-| 83 | [Porto Cervo](https://open.spotify.com/track/0TAt3c8KXb1D3sWT8ENar8) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Porto Cervo](https://open.spotify.com/album/1pNAKQCX4G0ckRX1uetoJZ) | 3:55 |
+| 82 | [Porto Cervo](https://open.spotify.com/track/0TAt3c8KXb1D3sWT8ENar8) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Porto Cervo](https://open.spotify.com/album/1pNAKQCX4G0ckRX1uetoJZ) | 3:55 |
+| 83 | [100% \(feat\. Salmo\)](https://open.spotify.com/track/4Bsfr9fyqjgThu4In7RkE7) | [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [100% \(feat\. Salmo\)](https://open.spotify.com/album/3Uw4hrJI3XRv2HvChEZuTH) | 2:40 |
 | 84 | [Frero](https://open.spotify.com/track/1cop1UjwA7BxeyQOhEHect) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Frero](https://open.spotify.com/album/0cwLY77URLPGihFgE9sox2) | 3:00 |
 | 85 | [In Piazza](https://open.spotify.com/track/3N0cYpWubd9hAUApJDcLRw) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Kermit](https://open.spotify.com/artist/0jT2eOThoVRjBt35kG86jK) | [In Piazza](https://open.spotify.com/album/4yVlp28f83eK8Sg2T2Lqw6) | 3:03 |
 | 86 | [No JoJo](https://open.spotify.com/track/0OelH7xDuz74pBuypCpOpS) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 3:17 |
