@@ -103,6 +103,32 @@
     },
     {
       "album": {
+        "name": "Dancing on the edge",
+        "url": "https://open.spotify.com/album/3LFMTZdWJoESC9ruWc5evs"
+      },
+      "artists": [
+        {
+          "name": "okameP",
+          "url": "https://open.spotify.com/artist/1KC8BTeLDKxPr4Z19HJ6mp"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "MAI",
+          "url": "https://open.spotify.com/artist/0HlTcy9czaATTBerfsVICJ"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200204,
+      "name": "Dancing on the edge (feat. \u521d\u97f3\u30df\u30af&Mai)",
+      "url": "https://open.spotify.com/track/1QONtjRwTlUODLpIggX5tU"
+    },
+    {
+      "album": {
         "name": "Don't need cure?",
         "url": "https://open.spotify.com/album/0sXrmpRxUj5p8BkZ5U5cwn"
       },
@@ -410,7 +436,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 183121,
       "name": "Leisure",
       "url": "https://open.spotify.com/track/22YKFyLRVLsCYNviE5kSyt"
@@ -574,7 +600,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 189000,
       "name": "Nemesis (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/3t8Cbbn1Kqtqm3Wh3UCQxM"
@@ -694,7 +720,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 249600,
       "name": "purpurite (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/1ThUUXPQUJ4FDKxDYzAmf9"
@@ -1584,7 +1610,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 149562,
       "name": "\u30a2\u30a6\u30d5\u30d8\u30fc\u30d9\u30f3 (feat. \u521d\u97f3\u30df\u30af&\u53ef\u4e0d)",
       "url": "https://open.spotify.com/track/2Rj7zS8uGPnauECSPyIJdT"
@@ -1654,6 +1680,28 @@
       "duration_ms": 204500,
       "name": "\u30a2\u30d5\u30bf\u30fc\u30a8\u30dd\u30c3\u30af\u30b9 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/3bhvdTNbtl7NmdCaudhXwR"
+    },
+    {
+      "album": {
+        "name": "next",
+        "url": "https://open.spotify.com/album/1xeKlSKdSgX2Blcs6rrecP"
+      },
+      "artists": [
+        {
+          "name": "Yoshihi",
+          "url": "https://open.spotify.com/artist/41FN2VKfQzEI9LOX4LFeaI"
+        },
+        {
+          "name": "\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9",
+          "url": "https://open.spotify.com/artist/36JmKF8ae9cmpYmbL5fZXD"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197763,
+      "name": "\u30a4\u30ca\u30ba\u30de (feat. \u30e1\u30b0\u30c3\u30dd\u30a4\u30c9)",
+      "url": "https://open.spotify.com/track/6y59soOzuUqo1gmLoYFvp0"
     },
     {
       "album": {
@@ -3043,6 +3091,48 @@
     },
     {
       "album": {
+        "name": "\u516d\u82b1\u8b83\u6b4c",
+        "url": "https://open.spotify.com/album/2IDAlpFY78fr4QIONXQ9qv"
+      },
+      "artists": [
+        {
+          "name": "rukaku",
+          "url": "https://open.spotify.com/artist/2lAoVkxFoDf5o1PGtX0iAG"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218901,
+      "name": "\u516d\u82b1\u8b83\u6b4c",
+      "url": "https://open.spotify.com/track/5PpDUdkNlAQIrSQLg7Gcmr"
+    },
+    {
+      "album": {
         "name": "\u5341\u516d\u6b73\u306e\u5fc3\u81d3",
         "url": "https://open.spotify.com/album/6LKVQmE0JoExxyNOzntVR8"
       },
@@ -3367,6 +3457,28 @@
     },
     {
       "album": {
+        "name": "EX10SION",
+        "url": "https://open.spotify.com/album/61j3EOlWjZm5fC1SUrYCO6"
+      },
+      "artists": [
+        {
+          "name": "TOKOTOKO",
+          "url": "https://open.spotify.com/artist/4D6R9IkfxEFHtLrm7D2LUH"
+        },
+        {
+          "name": "GUMI SV",
+          "url": "https://open.spotify.com/artist/0AGJkrs5uRJ9uFDHaqbVZB"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239560,
+      "name": "\u591c\u3082\u3059\u304c\u3089\u541b\u60f3\u3075 (10th Anniv.) feat.GUMI SV",
+      "url": "https://open.spotify.com/track/02j3ouldOLVDdLO3cE4Tw6"
+    },
+    {
+      "album": {
         "name": "\u591c\u660e\u3051\u306e\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
         "url": "https://open.spotify.com/album/3kYcunPD0qus0R4iXyg25k"
       },
@@ -3656,6 +3768,28 @@
       "duration_ms": 202952,
       "name": "\u65b0\u3057\u3044\u9752\u6625\u69d8\u5f0f",
       "url": "https://open.spotify.com/track/6pyWpR4Wpd2rmst1EkBsXI"
+    },
+    {
+      "album": {
+        "name": "\u65c5\u306e\u9014\u4e2d",
+        "url": "https://open.spotify.com/album/01OoFMOC5ZLJ5xSgZDnwWp"
+      },
+      "artists": [
+        {
+          "name": "dezzy",
+          "url": "https://open.spotify.com/artist/6rdw0kbG9ame8zcTPuyM9Q"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199578,
+      "name": "\u65c5\u306e\u9014\u4e2d (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6JcaY9hBH9x6GtqhHJ1Jc0"
     },
     {
       "album": {
@@ -4216,7 +4350,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 200666,
       "name": "\u904a\u8272\u306e\u30d0\u30c8\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5IhvWAZO2DMfkEVlN0DTwE"

@@ -1,6 +1,6 @@
 {
   "description": "Necessities from LGBTQIA+ artists. Cover: George Michael ",
-  "num_followers": 32135,
+  "num_followers": 32136,
   "original_name": "GLOW UK & Ireland ",
   "owner": {
     "name": "Spotify",
@@ -87,26 +87,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Favourite Girl",
-        "url": "https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Dess Dior",
-          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Favourite Girl",
-      "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "Paint The Town Blue (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 115533,
       "name": "Paint The Town Blue (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "Favourite Girl",
+        "url": "https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Dess Dior",
+          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Favourite Girl",
+      "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Hex So Heavy",
-        "url": "https://open.spotify.com/album/4lMUdnfOb3Aq0wIHoxhHy4"
-      },
-      "artists": [
-        {
-          "name": "Bambie Thug",
-          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Hex So Heavy",
-      "url": "https://open.spotify.com/track/7mH4bjq5xH7V154h2wOwwb"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "let them know they're on your mind",
         "url": "https://open.spotify.com/album/7zqhZ5kzXNdsMCATAn99zp"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 223653,
       "name": "let them know they're on your mind",
       "url": "https://open.spotify.com/track/5lhBGOeNrfMPDpPFDJcvSl"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "Hex So Heavy",
+        "url": "https://open.spotify.com/album/4lMUdnfOb3Aq0wIHoxhHy4"
+      },
+      "artists": [
+        {
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Hex So Heavy",
+      "url": "https://open.spotify.com/track/7mH4bjq5xH7V154h2wOwwb"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Glasgow",
-        "url": "https://open.spotify.com/album/5luIDZpDnPFdiTpMLLhRYK"
-      },
-      "artists": [
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 214245,
-      "name": "Glasgow",
-      "url": "https://open.spotify.com/track/6bu97rYhlHjuEAq3KbmtR9"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "Permanent Damage",
         "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 187660,
       "name": "Joe",
       "url": "https://open.spotify.com/track/4ebg7FQu7KfiVcXhi5bj0o"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "Glasgow",
+        "url": "https://open.spotify.com/album/5luIDZpDnPFdiTpMLLhRYK"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 214245,
+      "name": "Glasgow",
+      "url": "https://open.spotify.com/track/6bu97rYhlHjuEAq3KbmtR9"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "softscars",
-        "url": "https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 186987,
-      "name": "cyber meat",
-      "url": "https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "God's Country / Body of Mine",
         "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 131161,
       "name": "Body of Mine",
       "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "softscars",
+        "url": "https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 186987,
+      "name": "cyber meat",
+      "url": "https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Head Start",
-        "url": "https://open.spotify.com/album/1S16BibIWs8D4nhJUV8Mj8"
-      },
-      "artists": [
-        {
-          "name": "Cowboy Malfoy",
-          "url": "https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH"
-        }
-      ],
-      "duration_ms": 184717,
-      "name": "Head Start",
-      "url": "https://open.spotify.com/track/6RhqGeeaTAFs5zUSNm5jr9"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "Crumbling",
         "url": "https://open.spotify.com/album/3PuO7se0rm53jYP88EQD5o"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 200699,
       "name": "Crumbling",
       "url": "https://open.spotify.com/track/0dQ99wa8QqUE5I2hjBrV8M"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "Head Start",
+        "url": "https://open.spotify.com/album/1S16BibIWs8D4nhJUV8Mj8"
+      },
+      "artists": [
+        {
+          "name": "Cowboy Malfoy",
+          "url": "https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH"
+        }
+      ],
+      "duration_ms": 184717,
+      "name": "Head Start",
+      "url": "https://open.spotify.com/track/6RhqGeeaTAFs5zUSNm5jr9"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Believe Me Now?",
-        "url": "https://open.spotify.com/album/6YpuiWNRGcMEumvRbEuOvP"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 148135,
-      "name": "Multiply",
-      "url": "https://open.spotify.com/track/2MLkPm2w8hHjJbg4jpb5e4"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "Favourite",
         "url": "https://open.spotify.com/album/1kbef2cypHylGieQcwSInH"
       },
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
+        "name": "Believe Me Now?",
+        "url": "https://open.spotify.com/album/6YpuiWNRGcMEumvRbEuOvP"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 148135,
+      "name": "Multiply",
+      "url": "https://open.spotify.com/track/2MLkPm2w8hHjJbg4jpb5e4"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
         "name": "Friends In Low Places",
         "url": "https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP"
       },
@@ -1139,6 +1139,26 @@
       "duration_ms": 183826,
       "name": "Friends In Low Places",
       "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "No Point Pretending (Song For Tour)",
+        "url": "https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        },
+        {
+          "name": "Bears In Trees",
+          "url": "https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "No Point Pretending (Song For Tour)",
+      "url": "https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1171,26 +1191,6 @@
       "duration_ms": 158167,
       "name": "PROCESS",
       "url": "https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
-        "name": "No Point Pretending (Song For Tour)",
-        "url": "https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        },
-        {
-          "name": "Bears In Trees",
-          "url": "https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "No Point Pretending (Song For Tour)",
-      "url": "https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Light It Up",
-        "url": "https://open.spotify.com/album/3vJdmKWko9TEePbLIJLQjn"
+        "name": "SEWERSTAR",
+        "url": "https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp"
       },
       "artists": [
         {
-          "name": "Will Young",
-          "url": "https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7"
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
         }
       ],
-      "duration_ms": 178364,
-      "name": "The Worst",
-      "url": "https://open.spotify.com/track/7uRuhSjbA0McvqXUAOQWYn"
+      "duration_ms": 244000,
+      "name": "L.E.E.C.H.E.S",
+      "url": "https://open.spotify.com/track/30sAUjr9XR0cp9MuILHNsL"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "SEWERSTAR",
-        "url": "https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp"
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/3vJdmKWko9TEePbLIJLQjn"
       },
       "artists": [
         {
-          "name": "ZAND",
-          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+          "name": "Will Young",
+          "url": "https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7"
         }
       ],
-      "duration_ms": 244000,
-      "name": "L.E.E.C.H.E.S",
-      "url": "https://open.spotify.com/track/30sAUjr9XR0cp9MuILHNsL"
+      "duration_ms": 178364,
+      "name": "The Worst",
+      "url": "https://open.spotify.com/track/7uRuhSjbA0McvqXUAOQWYn"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Why Am I Like This? / Ipecac",
-        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
+        "name": "I Know It Happened But I Can't Explain",
+        "url": "https://open.spotify.com/album/0Qxnmt9laQJu48svYZQ6Xt"
       },
       "artists": [
         {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+          "name": "Zoe Konez",
+          "url": "https://open.spotify.com/artist/56zdMqayB3Ja8iwUmdKumu"
         }
       ],
-      "duration_ms": 146080,
-      "name": "Why Am I Like This?",
-      "url": "https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc"
+      "duration_ms": 188624,
+      "name": "I Know It Happened But I Can't Explain",
+      "url": "https://open.spotify.com/track/1PRY3whxLdyRwOWROuakG8"
     }
   ],
   "unique_name": "GLOW UK & Ireland ",

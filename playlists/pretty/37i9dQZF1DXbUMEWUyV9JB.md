@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: DeMasters, Pedro Capó, LiL CaKe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,650 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,644 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 60 | [Cumbia Azteca](https://open.spotify.com/track/7laTY4Np3kLbXck6YdqZVR) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Recuerdos Andinos](https://open.spotify.com/album/0pxcLdh1Pe1VBuRvdWCFPQ) | 3:56 |
 | 61 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
 | 62 | [Otra Vez](https://open.spotify.com/track/5Ebpu6uUHX2yANHzgefOmt) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Otra Vez](https://open.spotify.com/album/6Vwvxf9LwtMKAZjNIGpiKr) | 3:35 |
-| 63 | [Las Palmitas del Ecuador](https://open.spotify.com/track/6xUqaIld9T5BlqkhVD6C3C) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 5:16 |
-| 64 | [Eras Tu](https://open.spotify.com/track/4e0VWtGHbwVRC33HL35pRD) | [Predilecto](https://open.spotify.com/artist/28Mr2I45NyUzzMI2SRs3OR) | [Eras Tu](https://open.spotify.com/album/7r8FGGeBs2UtyDkdfUkN9n) | 3:37 |
+| 63 | [Eras Tu](https://open.spotify.com/track/4e0VWtGHbwVRC33HL35pRD) | [Predilecto](https://open.spotify.com/artist/28Mr2I45NyUzzMI2SRs3OR) | [Eras Tu](https://open.spotify.com/album/7r8FGGeBs2UtyDkdfUkN9n) | 3:37 |
+| 64 | [Las Palmitas del Ecuador](https://open.spotify.com/track/6xUqaIld9T5BlqkhVD6C3C) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 5:16 |
 | 65 | [El Fantasma del Amor](https://open.spotify.com/track/2P0CVPl7JUmoKOXSFoL2wH) | [Grupo Ternura Dinastia Toxqui](https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ) | [El Fantasma del Amor](https://open.spotify.com/album/10uRdZo4A5BxPHERGzd2jZ) | 4:13 |
 | 66 | [Por las Mañanas \- En Vivo](https://open.spotify.com/track/1mC0IjF8C77C819QVzPNQf) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 3:08 |
 | 67 | [Princesa Talibana](https://open.spotify.com/track/0f0czUFLxXOPGj91ib5L2X) | [Super Grupo G](https://open.spotify.com/artist/40vlmUq8Zn9LIYysuGL8Z7) | [Gran Encuentro](https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L) | 3:16 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 72 | [Cuéntale](https://open.spotify.com/track/6K7r6PQYIfGgLZRWnJjVOL) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Cuéntale](https://open.spotify.com/album/2l4FrrkppHP9XPwZRAs63K) | 2:41 |
 | 73 | [Se Me Hizo Tarde](https://open.spotify.com/track/6rLeVBydUihQklKCUqSiou) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Se Me Hizo Tarde](https://open.spotify.com/album/60dJ1cBhvkW8BEoDcliPE8) | 2:47 |
 | 74 | [Ángel de Amor](https://open.spotify.com/track/17Z5fFzgyie0uGJd7DNaT5) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Ángel de Amor](https://open.spotify.com/album/0g4FobPrEueLnugnpSy03q) | 2:37 |
-| 75 | [El Mariachi Lloró](https://open.spotify.com/track/5ertVAOnOCegOvxGm7NYkc) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Mariachi Lloró](https://open.spotify.com/album/26l59cDC5dNqIVxTgRDPuM) | 2:57 |
-| 76 | [Chimenea \- En Vivo](https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Chimenea \(En Vivo\)](https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1) | 3:00 |
+| 75 | [Chimenea \- En Vivo](https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Chimenea \(En Vivo\)](https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1) | 3:00 |
+| 76 | [El Mariachi Lloró](https://open.spotify.com/track/5ertVAOnOCegOvxGm7NYkc) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Mariachi Lloró](https://open.spotify.com/album/26l59cDC5dNqIVxTgRDPuM) | 2:57 |
 | 77 | [La Negra](https://open.spotify.com/track/5CjsiSWhEvSK433qJAZ8EI) | [Estibaliz Badiola](https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [La Negra](https://open.spotify.com/album/1YaB98YlipNhjR5WYDOE7V) | 3:04 |
 | 78 | [Iguales](https://open.spotify.com/track/4CxNBZdTMXYpSRXVAPSkuq) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Iguales](https://open.spotify.com/album/6ubQKMBtEDxSwknbijo3Sw) | 2:19 |
 | 79 | [Quiere Volver](https://open.spotify.com/track/44fA5XdSQrJa9ah8YI6a57) | [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA), [Jorgito Barrionuevo](https://open.spotify.com/artist/192E8ptSuYPT0rgJRyImNH) | [Quiere Volver](https://open.spotify.com/album/03bIhPXPEvVlGgOfDY4EZ2) | 2:19 |

@@ -196,10 +196,28 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 157179,
       "name": "BILLIONAIRE",
       "url": "https://open.spotify.com/track/0QICKhP44TRnb4EurQ3tN9"
+    },
+    {
+      "album": {
+        "name": "DRIP",
+        "url": "https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157179,
+      "name": "BILLIONAIRE",
+      "url": "https://open.spotify.com/track/2eEBg0fpGBwXOGyN6k1m44"
     },
     {
       "album": {
@@ -874,7 +892,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 166556,
       "name": "Kiss Ur Face Forever",
       "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
@@ -887,12 +905,12 @@
       "artists": [
         {
           "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/0MosRqpk3OZXYV91A1vSEn"
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 167746,
       "name": "Kiss Ur Face Forever",
       "url": "https://open.spotify.com/track/7B4KpsPtxx6SK7rX1k650O"
@@ -1588,7 +1606,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 210826,
       "name": "The Hit",
       "url": "https://open.spotify.com/track/0NZtY6Lv5kSCSvifCNNVcz"
@@ -1606,7 +1624,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 210826,
       "name": "The Hit",
       "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"

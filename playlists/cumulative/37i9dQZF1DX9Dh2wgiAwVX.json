@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 166592,
       "name": "Enamorado de ti",
       "url": "https://open.spotify.com/track/3kP3mDGylkffquaVJqSZwZ"
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 131332,
       "name": "LA MARINA STA MORENA",
       "url": "https://open.spotify.com/track/0HIbm4W6C8Ar2Cnen0tE44"
@@ -2403,6 +2403,24 @@
     },
     {
       "album": {
+        "name": "Reci\u00e9n Soltera",
+        "url": "https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183856,
+      "name": "Reci\u00e9n Soltera",
+      "url": "https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV"
+    },
+    {
+      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -2538,7 +2556,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 211651,
       "name": "Si Me Dices Que S\u00ed",
       "url": "https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo"
@@ -2582,6 +2600,24 @@
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
+    },
+    {
+      "album": {
+        "name": "Soltera",
+        "url": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214642,
+      "name": "Soltera",
+      "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
     },
     {
       "album": {
@@ -3288,7 +3324,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 213699,
       "name": "YOTULOKO",
       "url": "https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW"

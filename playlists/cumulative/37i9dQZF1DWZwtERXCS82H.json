@@ -11871,6 +11871,24 @@
     },
     {
       "album": {
+        "name": "The Melting Sun",
+        "url": "https://open.spotify.com/album/4YqdTFxhcRMEWdYoNPjCcO"
+      },
+      "artists": [
+        {
+          "name": "Eva Starr",
+          "url": "https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "The Melting Sun",
+      "url": "https://open.spotify.com/track/1fFEpC7OcocrA4zqrWMSlP"
+    },
+    {
+      "album": {
         "name": "The Owl",
         "url": "https://open.spotify.com/album/4D5mDIlOrgRAXMO4hOhYXo"
       },

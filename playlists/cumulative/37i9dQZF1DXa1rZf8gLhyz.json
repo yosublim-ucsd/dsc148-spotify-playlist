@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Different Kind of Love",
+        "url": "https://open.spotify.com/album/29eceIh6ynBzGcLUPVtgFV"
+      },
+      "artists": [
+        {
+          "name": "Morgan Meir",
+          "url": "https://open.spotify.com/artist/7HdYC7Q87kENtjqLlTf6x9"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159614,
+      "name": "A Different Kind of Love",
+      "url": "https://open.spotify.com/track/5010T6TCmYfu1si8YdSSZu"
+    },
+    {
+      "album": {
         "name": "A Flower Is A Lovesome Thing",
         "url": "https://open.spotify.com/album/5x49ipf24HQSNzSoGQnGH6"
       },
@@ -362,6 +380,24 @@
       "duration_ms": 364000,
       "name": "A Time For Love",
       "url": "https://open.spotify.com/track/13UkFrEMKkCKkUsjIZbq8p"
+    },
+    {
+      "album": {
+        "name": "A Winter Morning",
+        "url": "https://open.spotify.com/album/0J6fpEUs10073cNLFieYgH"
+      },
+      "artists": [
+        {
+          "name": "Trey Patton",
+          "url": "https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176358,
+      "name": "A Winter Morning",
+      "url": "https://open.spotify.com/track/0jLc0WZ60qoN4Zt2XDJBt1"
     },
     {
       "album": {
@@ -1942,7 +1978,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 285374,
       "name": "Dedicated To You",
       "url": "https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt"
@@ -4768,7 +4804,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 286750,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/0t4r5IuT6FzrNGEEpCJmf9"
@@ -5398,7 +5434,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 169500,
       "name": "Lets Get Married",
       "url": "https://open.spotify.com/track/3E2srpzDuulZsmX7Xz73Rp"
@@ -6827,6 +6863,24 @@
     },
     {
       "album": {
+        "name": "One More Night With You",
+        "url": "https://open.spotify.com/album/6pgjZMSWDCeiODdmyt3vBg"
+      },
+      "artists": [
+        {
+          "name": "Natalie Meir",
+          "url": "https://open.spotify.com/artist/3olbeTBaHv78vZXeoDPq4B"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194857,
+      "name": "One More Night With You",
+      "url": "https://open.spotify.com/track/71up1fA5uQyNaCt7SOqXYB"
+    },
+    {
+      "album": {
         "name": "Only A Few Will Know",
         "url": "https://open.spotify.com/album/7o7Vhmq9212zMiNymtnPCi"
       },
@@ -6928,7 +6982,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 211000,
       "name": "Out of place",
       "url": "https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3"
@@ -7656,6 +7710,24 @@
       "duration_ms": 177528,
       "name": "Sangfroid",
       "url": "https://open.spotify.com/track/68fAT62Ccoh6KdjV3gnM8z"
+    },
+    {
+      "album": {
+        "name": "Santa Monica",
+        "url": "https://open.spotify.com/album/7oKInKReI4TxlT0fKeCEIR"
+      },
+      "artists": [
+        {
+          "name": "Degli Scalzi",
+          "url": "https://open.spotify.com/artist/00SKXIqWJekH9XzXkpyAZp"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170066,
+      "name": "Santa Monica",
+      "url": "https://open.spotify.com/track/3tumn8k9GktHcuSvk4omgf"
     },
     {
       "album": {
@@ -9060,6 +9132,24 @@
       "duration_ms": 168359,
       "name": "The Hills",
       "url": "https://open.spotify.com/track/6R1p1fumkttTWuMZqMLojv"
+    },
+    {
+      "album": {
+        "name": "The Isle of Aye",
+        "url": "https://open.spotify.com/album/5qIgH2QDeeN1nCJL3PF4XG"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Sapphire",
+          "url": "https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151463,
+      "name": "The Isle of Aye",
+      "url": "https://open.spotify.com/track/0wfCH7YhtRZl0EAfo63y74"
     },
     {
       "album": {
@@ -10514,7 +10604,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 190006,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/6sTFLrB048mB8tWwC2xs20"

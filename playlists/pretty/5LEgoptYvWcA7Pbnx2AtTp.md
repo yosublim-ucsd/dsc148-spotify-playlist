@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 139 songs - 8 hr 2 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 140 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,5 +147,6 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 137 | [Giorno's Theme \(Jay D Remix by JoRoYT\)](https://open.spotify.com/episode/2RwtULDIIem7Q7ENpMaKxo) | [AniCast](https://open.spotify.com/show/59PNAB2nCZNVzvE793UE1I) | [AniCast](https://open.spotify.com/album/59PNAB2nCZNVzvE793UE1I) | 2:30 |
 | 138 | [Giorno's Theme](https://open.spotify.com/track/0oFPCGIO4t2cmOkksXknoD) | [Friedrich Habetler](https://open.spotify.com/artist/3VudC1DraV4LjIdLzpqQ80) | [Giorno's Theme](https://open.spotify.com/album/6UDDr9aZsmprJXfgU48Lqa) | 5:06 |
 | 139 | [Dance, Dance](https://open.spotify.com/track/5Xbx9mAWoTiLbMOMQofoE6) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree Limited Tour Edition](https://open.spotify.com/album/2AX9B6Af32in4KbKtX1r4q) | 3:00 |
+| 140 | [Doctor Worm](https://open.spotify.com/track/6OmApaLQPqHZL3iI78FOUR) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Severe Tire Damage](https://open.spotify.com/album/3Ww5ZsMGQH4F1Sf16ZztOh) | 3:01 |
 
-Snapshot ID: `AAAAtVR8Pl8vCFhOFNPrr+IFXbS/gNiS`
+Snapshot ID: `AAAAtq2GxEG8XEVaEbtmQ25kqoXbVmCl`

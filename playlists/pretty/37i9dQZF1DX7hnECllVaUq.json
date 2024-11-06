@@ -1,6 +1,6 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: Shaboozey",
-  "num_followers": 265070,
+  "num_followers": 265243,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+        "name": "Tailgates & Tanlines",
+        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
       },
       "artists": [
         {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 183533,
-      "name": "Lady May",
-      "url": "https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv"
+      "duration_ms": 225560,
+      "name": "Country Girl (Shake It For Me)",
+      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Tailgates & Tanlines",
-        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 225560,
-      "name": "Country Girl (Shake It For Me)",
-      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
+      "duration_ms": 183533,
+      "name": "Lady May",
+      "url": "https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Out of Oklahoma (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ"
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
         }
       ],
-      "duration_ms": 208266,
-      "name": "Out of Oklahoma (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q"
+      "duration_ms": 206106,
+      "name": "She Had Me At Heads Carolina",
+      "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1379,18 +1379,34 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Stereotype",
-        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
+        "name": "Out of Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ"
       },
       "artists": [
         {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 206106,
-      "name": "She Had Me At Heads Carolina",
-      "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
+      "duration_ms": 208266,
+      "name": "Out of Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Crash My Party",
+        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Play It Again",
+      "url": "https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1411,22 +1427,6 @@
       "duration_ms": 174560,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Crash My Party",
-        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Play It Again",
-      "url": "https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT"
     },
     {
       "added_at": "2024-10-25 04:00:00",

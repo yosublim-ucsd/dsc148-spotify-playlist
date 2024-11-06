@@ -1649,6 +1649,24 @@
     },
     {
       "album": {
+        "name": "Disco Addiction",
+        "url": "https://open.spotify.com/album/4WYBOZHVZ96XsBMzCfDSo2"
+      },
+      "artists": [
+        {
+          "name": "We Rose",
+          "url": "https://open.spotify.com/artist/3JAYBjWnOGr7B9JYXHQjmv"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136888,
+      "name": "Disco Addiction",
+      "url": "https://open.spotify.com/track/0ugzxiofEEtpkXUq12ZJgf"
+    },
+    {
+      "album": {
         "name": "DiscoTech",
         "url": "https://open.spotify.com/album/698cfH6j3yX8vBqWSAg5lt"
       },

@@ -2288,6 +2288,24 @@
     {
       "album": {
         "name": "I'm Not Always Sad, Sometimes I'm Angry",
+        "url": "https://open.spotify.com/album/4QYNec3HTSxq2ghYSrEBv2"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200993,
+      "name": "Sweet Nothing",
+      "url": "https://open.spotify.com/track/1Sh5Sch6XuUojE5eH0innu"
+    },
+    {
+      "album": {
+        "name": "I'm Not Always Sad, Sometimes I'm Angry",
         "url": "https://open.spotify.com/album/4tFDkjZhcwOAiZAsGBcTtO"
       },
       "artists": [
@@ -2298,7 +2316,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 200993,
       "name": "Sweet Nothing",
       "url": "https://open.spotify.com/track/1uAZhciIvjilQJWg4e30w4"

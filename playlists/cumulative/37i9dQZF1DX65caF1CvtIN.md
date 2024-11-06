@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-213 songs - 9 hr 33 min
+214 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Maurice](https://open.spotify.com/track/7l92bhAAWWCnRrbmekFSor) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Maurice](https://open.spotify.com/album/6bSnjwj5vMGVwxfjOJkBt3) | 2:47 | 2022-08-03 | 2023-06-21 |
 | [Memoir](https://open.spotify.com/track/5lQ5HyMQO3JAj1wF23Glor) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q) | [Memoir](https://open.spotify.com/album/5BI6hZqeNKCnubq2sepHpP) | 1:44 | 2022-08-03 | 2022-12-07 |
 | [Michelle](https://open.spotify.com/track/426m22xIyYxlPJJdWUJVLG) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Michelle](https://open.spotify.com/album/6q7FMxN2FpBotFqLnioQck) | 3:32 | 2022-12-06 |  |
+| [Midnight Horizon](https://open.spotify.com/track/3ZdCCny1fap4DkOIGiqRI0) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Midnight Horizon](https://open.spotify.com/album/4YyJ9wC29wBGhfGOSNNrsP) | 2:11 | 2024-11-05 |  |
 | [Mimetismo](https://open.spotify.com/track/1iGMUpV6h0zA6pUSXfQJVr) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Mimetismo](https://open.spotify.com/album/1I1H1XcRBbl0KfUeVFSSA3) | 2:22 | 2022-08-03 |  |
 | [Mirror Lake](https://open.spotify.com/track/4Mwv1IAyhdh9oWMcUHB0Vc) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Mirror Lake](https://open.spotify.com/album/5tTymJqGUyFkmklHSyRRRU) | 4:31 | 2022-10-04 | 2024-04-19 |
 | [Mirror Lake](https://open.spotify.com/track/1eVJInWM1ElhWTAFbCAQS9) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Mirror Lake](https://open.spotify.com/album/6nLZCWMmgvuvIL54FspRll) | 4:31 | 2022-08-03 |  |
@@ -161,7 +162,7 @@
 | [Resilience](https://open.spotify.com/track/3c6YU0kPmybqj9aajX86t8) | [Piano Melancolía](https://open.spotify.com/artist/6CPafn3p493y60X7Vjs410) | [Resilience](https://open.spotify.com/album/63B1nohymPQhWxL7FBBhq8) | 2:42 | 2022-08-03 |  |
 | [Respirator \(Double Pianos\)](https://open.spotify.com/track/7wZZFd0sLWp3eNG6EFmscu) | [Cascadeur](https://open.spotify.com/artist/5yUtzFVpUdN8UtyZzDD9o9) | [Revenant \(Piano Day Version\)](https://open.spotify.com/album/3iSHTWkT5mLqDz6Jm7yYcu) | 2:58 | 2022-08-03 | 2022-12-07 |
 | [Resta Con Me](https://open.spotify.com/track/11kyoJkQePM8zW2kEozhFu) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Resta Con Me](https://open.spotify.com/album/2BHogXZFHfpMP5qpGYwdqg) | 2:09 | 2024-04-03 |  |
-| [Retreat](https://open.spotify.com/track/2FXitAjMmxdA1bvdUiuq5y) | [Eric Wilhelm](https://open.spotify.com/artist/7pMZdUh8fBuVoUpARYPuoQ) | [Retreat](https://open.spotify.com/album/22yD4WvTz00AYshsHQU5vs) | 1:56 | 2022-08-03 |  |
+| [Retreat](https://open.spotify.com/track/2FXitAjMmxdA1bvdUiuq5y) | [Eric Wilhelm](https://open.spotify.com/artist/7pMZdUh8fBuVoUpARYPuoQ) | [Retreat](https://open.spotify.com/album/22yD4WvTz00AYshsHQU5vs) | 1:56 | 2022-08-03 | 2024-11-06 |
 | [Route To Ukraine](https://open.spotify.com/track/42sVqeLhT6bb01PbkSh1gi) | [Enrico Giaretta](https://open.spotify.com/artist/4sUR1rcNQemMzHyAtW1lyS) | [Route To Ukraine](https://open.spotify.com/album/4hmnvOQGYQGDH4g7OM6UXN) | 4:15 | 2022-08-03 |  |
 | [Rós](https://open.spotify.com/track/1HVMOiJZzq3F8o8VEQsh77) | [Jonny Colgan](https://open.spotify.com/artist/6LfM1oqPkRMSylbEKjmOvA) | [Rós](https://open.spotify.com/album/6PIDeurwsuW0AEex2B59Rn) | 2:28 | 2022-08-03 | 2023-06-21 |
 | [San Siro](https://open.spotify.com/track/2XXnGBKuvfcpfVvRgBEdvP) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [San Remo](https://open.spotify.com/album/7n4ZFIcNUM7GjyLd9FWNnA) | 2:50 | 2022-08-03 |  |

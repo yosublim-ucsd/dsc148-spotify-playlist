@@ -2,7 +2,7 @@
 
 ### [Suomi\-indie tänään](https://open.spotify.com/playlist/37i9dQZF1DWWHpR486dzm3)
 
-> Suomi\-indien tuoreimpia helmiä\. Kannessa Goldielocks.
+> Suomi\-indien tuoreimpia helmiä\. Kannessa Vesta.
 
 370 songs - 22 hr 17 min
 

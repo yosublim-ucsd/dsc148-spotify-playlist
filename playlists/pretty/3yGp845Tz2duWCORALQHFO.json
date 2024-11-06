@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25785,
+  "num_followers": 25784,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABhWrCiEyYN7aHX/ZF6DoHYmx65y/2g",
+  "snapshot_id": "AABhXCcNJUlbASs7/OU1/eFgDATS2byA",
   "tracks": [
     {
       "added_at": "2024-10-31 16:18:28",
@@ -87,6 +87,22 @@
       "duration_ms": 157207,
       "name": "Forever Young (feat. Alphaville) - Hypaton Remix",
       "url": "https://open.spotify.com/track/2FI0dWAzVHaZtaZv8pWS8s"
+    },
+    {
+      "added_at": "2024-11-05 19:22:51",
+      "album": {
+        "name": "3RD EYE PORTAL",
+        "url": "https://open.spotify.com/album/7rE3YiL6olNUVCl9aIndpA"
+      },
+      "artists": [
+        {
+          "name": "shaggyshwag",
+          "url": "https://open.spotify.com/artist/7KQFFBiQ3evE9ZFodKDBfY"
+        }
+      ],
+      "duration_ms": 223876,
+      "name": "3RD EYE PORTAL",
+      "url": "https://open.spotify.com/track/1GJbFqJ3aq6sLg1cuw053C"
     },
     {
       "added_at": "2024-11-04 13:17:50",
@@ -227,6 +243,22 @@
       "duration_ms": 153043,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/17OtcJhypRbDfjEViGAbP6"
+    },
+    {
+      "added_at": "2024-11-05 19:21:50",
+      "album": {
+        "name": "Somebody's Watching Me",
+        "url": "https://open.spotify.com/album/7ehR853zGsCH6wlJC6zIHe"
+      },
+      "artists": [
+        {
+          "name": "Of Love and Lust - OLAL",
+          "url": "https://open.spotify.com/artist/2ixhhj6kXIFLj6BOGpdrt0"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Somebody's Watching Me",
+      "url": "https://open.spotify.com/track/4lZ2z5NLpRSK6Mz27OStPK"
     },
     {
       "added_at": "2024-10-31 16:18:28",

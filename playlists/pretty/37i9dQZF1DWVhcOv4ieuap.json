@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1027058,
+  "num_followers": 1027096,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "KESI (Remix)",
-        "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 176575,
-      "name": "KESI - Remix",
-      "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "CARACAS EN EL 2000",
         "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 227784,
       "name": "CARACAS EN EL 2000",
       "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "KESI (Remix)",
+        "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 176575,
+      "name": "KESI - Remix",
+      "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "cuatro",
-        "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 249884,
-      "name": "La Boda",
-      "url": "https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Insomnio",
         "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 185546,
       "name": "Bailarina",
       "url": "https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Touching The Sky",
+        "url": "https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 187517,
+      "name": "Touching The Sky",
+      "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Touching The Sky",
-        "url": "https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa"
+        "name": "cuatro",
+        "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 187517,
-      "name": "Touching The Sky",
-      "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
+      "duration_ms": 249884,
+      "name": "La Boda",
+      "url": "https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "REFLEXA",
-        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 149255,
-      "name": "Si no no",
-      "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "\u00c9xtasis",
         "url": "https://open.spotify.com/album/3pfyjuT8pPM0i9K3i7n451"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 130220,
       "name": "Tortura",
       "url": "https://open.spotify.com/track/675DR08jG1zTyPjNoSUTY7"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "REFLEXA",
+        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 149255,
+      "name": "Si no no",
+      "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Espejo",
+        "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Espejo",
+      "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 212914,
       "name": "SI ES AMOR",
       "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Espejo",
-        "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "Espejo",
-      "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1499,18 +1499,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+        "name": "un",
+        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
         }
       ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+      "duration_ms": 222800,
+      "name": "PLIS",
+      "url": "https://open.spotify.com/track/1regh1ryWna3MRTKu401uD"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1531,26 +1535,6 @@
       "duration_ms": 142962,
       "name": "BOOM BOOM",
       "url": "https://open.spotify.com/track/2I9eR0VGMWyqadUK3HD7KE"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "un",
-        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "PLIS",
-      "url": "https://open.spotify.com/track/1regh1ryWna3MRTKu401uD"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1595,6 +1579,22 @@
       "duration_ms": 215709,
       "name": "Te So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Baja California",
-        "url": "https://open.spotify.com/album/3qbsCGFjewj30dvxqRJiJf"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 187315,
-      "name": "Baja California",
-      "url": "https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Francotirador",
         "url": "https://open.spotify.com/album/1Pen9l4kglBO8TIn1kwarb"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 143840,
       "name": "Francotirador",
       "url": "https://open.spotify.com/track/6HB9W0nlPELfOC6212oOhN"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Baja California",
+        "url": "https://open.spotify.com/album/3qbsCGFjewj30dvxqRJiJf"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 187315,
+      "name": "Baja California",
+      "url": "https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0"
     },
     {
       "added_at": "2024-10-11 04:00:00",

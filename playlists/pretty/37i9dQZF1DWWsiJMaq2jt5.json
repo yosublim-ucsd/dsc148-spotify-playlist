@@ -1,167 +1,15 @@
 {
-  "description": "Wyj\u0105tkowe polskie artystki na jednej playli\u015bcie. S\u0142uchaj kobiet na ca\u0142y g\u0142os! Cover: <a href=\"spotify:artist:4E8L0A5xtDhcMaeBO7p0eg\">Bovska</a>",
-  "num_followers": 23068,
+  "description": "Wyj\u0105tkowe polskie artystki na jednej playli\u015bcie. S\u0142uchaj kobiet na ca\u0142y g\u0142os! Cover: <a href=\"spotify:artist:2t3aJxThQrMWaNJgqjMcU8\">Lanberry</a>",
+  "num_followers": 23071,
   "original_name": "EQUAL Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvxw4AAAAAAqwn+kq0imKtrBzfOEbKbN",
+  "snapshot_id": "ZyqjcAAAAAB8h4wD/Fceb63RMN4j22XE",
   "tracks": [
     {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "Nikt nie p\u0142acze wiecznie",
-        "url": "https://open.spotify.com/album/5eLbMIH3MFO7HJqRZg9XXr"
-      },
-      "artists": [
-        {
-          "name": "Bovska",
-          "url": "https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg"
-        }
-      ],
-      "duration_ms": 163538,
-      "name": "Nikt nie p\u0142acze wiecznie",
-      "url": "https://open.spotify.com/track/5SrRtY9fw22UrKHZ0hTSgz"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "MADONNA",
-        "url": "https://open.spotify.com/album/371FdSJnSsvH685Gc8lfUt"
-      },
-      "artists": [
-        {
-          "name": "bambi",
-          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
-        },
-        {
-          "name": "francis",
-          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
-        }
-      ],
-      "duration_ms": 159463,
-      "name": "MADONNA",
-      "url": "https://open.spotify.com/track/38GSwzJGcEnENqcrZ8dADJ"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "Dam\u0105 by\u0107",
-        "url": "https://open.spotify.com/album/0LOR9EqAPP89PbN6PeeeSC"
-      },
-      "artists": [
-        {
-          "name": "Maryla Rodowicz",
-          "url": "https://open.spotify.com/artist/1IYFJPQcbXYjgkyebYs1w6"
-        },
-        {
-          "name": "Roxie W\u0119giel",
-          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
-        }
-      ],
-      "duration_ms": 136170,
-      "name": "Dam\u0105 by\u0107",
-      "url": "https://open.spotify.com/track/23zuQy8kOY4rfnMKDor5GA"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "Zwierz\u0119ta nocy",
-        "url": "https://open.spotify.com/album/1xegt40rCILT80WwVFDBcg"
-      },
-      "artists": [
-        {
-          "name": "Natalia Szroeder",
-          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
-        },
-        {
-          "name": "Mela Koteluk",
-          "url": "https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq"
-        }
-      ],
-      "duration_ms": 235194,
-      "name": "Zwierz\u0119ta nocy",
-      "url": "https://open.spotify.com/track/4sm9aqtnU1HiTghXMt860R"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "Lights Go Out",
-        "url": "https://open.spotify.com/album/6auqE0rVoBL1Of4y32sDoe"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Lights Go Out",
-      "url": "https://open.spotify.com/track/2hEUhgghU4iVZRmJ6jtzyI"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "Neonova",
-        "url": "https://open.spotify.com/album/2HdSNW4w2d5ZiC3ucoaYPl"
-      },
-      "artists": [
-        {
-          "name": "PIETRUCHA/ZALEWSKA",
-          "url": "https://open.spotify.com/artist/3KfoH0jfxIYelqFb5CfaE9"
-        },
-        {
-          "name": "Julia Pietrucha",
-          "url": "https://open.spotify.com/artist/5gSWboNBgJZ060m1r30Xmg"
-        },
-        {
-          "name": "Marta Zalewska",
-          "url": "https://open.spotify.com/artist/3EEWtBUzHJePfpex8kQYHY"
-        }
-      ],
-      "duration_ms": 117469,
-      "name": "Ta\u0144czmy",
-      "url": "https://open.spotify.com/track/0um79l26cIVggLXyvPOjzj"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/0tGlLrFgTKh7foE3Zp9dVI"
-      },
-      "artists": [
-        {
-          "name": "Zamilska",
-          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
-        },
-        {
-          "name": "huskie",
-          "url": "https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS"
-        }
-      ],
-      "duration_ms": 213351,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/25YnWoOmRGDR2ozZtkTjJ2"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "Trucizna",
-        "url": "https://open.spotify.com/album/2enTHSbeI3bG1hvvOIoXeU"
-      },
-      "artists": [
-        {
-          "name": "Kasia Lins",
-          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
-        }
-      ],
-      "duration_ms": 158195,
-      "name": "Trucizna",
-      "url": "https://open.spotify.com/track/3wuZirKsS6ZXKDIUSV7jN4"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
         "name": "Cyrk",
         "url": "https://open.spotify.com/album/3LnfdUm50X2HVIUadHJ6Nf"
@@ -177,110 +25,10 @@
       "url": "https://open.spotify.com/track/1e8Lx51hxlh88uaA3IumUR"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "origami",
-        "url": "https://open.spotify.com/album/2pVvZ1AwfGj9c0gJT7FD8u"
-      },
-      "artists": [
-        {
-          "name": "Livka",
-          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
-        }
-      ],
-      "duration_ms": 157698,
-      "name": "origami",
-      "url": "https://open.spotify.com/track/0pVZChscauW6UcGyGPotBR"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "Mi\u00f3d (rework 10 lat albumu Pr\u0105d)",
-        "url": "https://open.spotify.com/album/0Bicjsp8Cq6P4FwGVDgVfz"
-      },
-      "artists": [
-        {
-          "name": "Natalia Przybysz",
-          "url": "https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x"
-        }
-      ],
-      "duration_ms": 230343,
-      "name": "Mi\u00f3d (rework 10 lat albumu Pr\u0105d)",
-      "url": "https://open.spotify.com/track/5MHtB0PaoVkbmx3zkh49mY"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "Wild West",
-        "url": "https://open.spotify.com/album/5W88mMdU5Ax1fdDjxTsDfu"
-      },
-      "artists": [
-        {
-          "name": "LUNA",
-          "url": "https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA"
-        }
-      ],
-      "duration_ms": 144868,
-      "name": "Wild West",
-      "url": "https://open.spotify.com/track/4JwdQMcWW4bA95521mXLYM"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "Noc Anio\u0142\u00f3w",
-        "url": "https://open.spotify.com/album/7ClftPSzzotBXbkm0qdzka"
-      },
-      "artists": [
-        {
-          "name": "Young Leosia",
-          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
-        },
-        {
-          "name": "Jonatan",
-          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "Noc Anio\u0142\u00f3w",
-      "url": "https://open.spotify.com/track/4N9IE3251WOeuVkL9gYg3y"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "Listopad",
-        "url": "https://open.spotify.com/album/1nLWz8HpZNpfmqzLwYSeJF"
-      },
-      "artists": [
-        {
-          "name": "Kathia",
-          "url": "https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4"
-        }
-      ],
-      "duration_ms": 202942,
-      "name": "Listopad",
-      "url": "https://open.spotify.com/track/2WhpBpERJZv3384qNExPZP"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "drugi taniec - z filmu \u201eDru\u017cyna A(A)\u201d",
-        "url": "https://open.spotify.com/album/3BHMi7fHjXFmQsTFx6DviT"
-      },
-      "artists": [
-        {
-          "name": "Lor",
-          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
-        }
-      ],
-      "duration_ms": 153586,
-      "name": "drugi taniec - z filmu \u201eDru\u017cyna A(A)\u201d",
-      "url": "https://open.spotify.com/track/1AYzYoqkHWJKWkrhD9lH56"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "SUNSHINE STATE OF MIND",
-        "url": "https://open.spotify.com/album/18KQkCCOj6mxSWlmgPNerN"
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL"
       },
       "artists": [
         {
@@ -288,155 +36,263 @@
           "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
         }
       ],
-      "duration_ms": 173276,
-      "name": "SUNSHINE STATE OF MIND",
-      "url": "https://open.spotify.com/track/58HfnqKt4J6Xi358dYy09D"
+      "duration_ms": 186591,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Czas si\u0119 ba\u0107! (Akt II)",
-        "url": "https://open.spotify.com/album/1UUVdPE6Puv3oC6KwERvRU"
+        "name": "Atmosfera",
+        "url": "https://open.spotify.com/album/1Yd6DzgcvcArPaLN9R0Zlb"
       },
       "artists": [
         {
-          "name": "Ania Leon",
-          "url": "https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu"
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
         },
         {
-          "name": "Arek Kopera",
-          "url": "https://open.spotify.com/artist/70wQF5hZS0M1Rp6TpaXhVt"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "Na no\u017ce",
-      "url": "https://open.spotify.com/track/2Ug5alwLaG2oDaUa7D4mtg"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "paj\u0119cze lilie",
-        "url": "https://open.spotify.com/album/5wEivRW2GnR1Hl7IHCXxZ1"
-      },
-      "artists": [
-        {
-          "name": "irys",
-          "url": "https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U"
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
         },
         {
-          "name": "Marcin Przyby\u0142owicz",
-          "url": "https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw"
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
         }
       ],
-      "duration_ms": 232960,
-      "name": "paj\u0119cze lilie",
-      "url": "https://open.spotify.com/track/6Y6f7kQa1kj0tvY2rVN5hu"
+      "duration_ms": 171428,
+      "name": "Papier",
+      "url": "https://open.spotify.com/track/22lktt8sfUnZUdH80afFZT"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Dziewczyny",
-        "url": "https://open.spotify.com/album/3GjljfkYbvQvItuPYrDf85"
+        "name": "HAPI",
+        "url": "https://open.spotify.com/album/4QiBRzQmuzi1fSl9QeMMRQ"
       },
       "artists": [
         {
-          "name": "Sujka",
-          "url": "https://open.spotify.com/artist/7choVylUIeNr4nUVApiUEC"
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        },
+        {
+          "name": "Kathia",
+          "url": "https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4"
         }
       ],
-      "duration_ms": 206222,
-      "name": "Dziewczyny",
-      "url": "https://open.spotify.com/track/2qXsqVjkvNCHVylWgEJZn8"
+      "duration_ms": 178539,
+      "name": "HAPI",
+      "url": "https://open.spotify.com/track/4DTYjZ5dWFa39MKY4dv7k8"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "hyperstar",
-        "url": "https://open.spotify.com/album/2pYRk38exvUrXSmBnLafsl"
+        "name": "REM",
+        "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
       },
       "artists": [
         {
-          "name": "Lotta",
-          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+          "name": "Natalia Szroeder",
+          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
         }
       ],
-      "duration_ms": 153750,
-      "name": "hyperstar",
-      "url": "https://open.spotify.com/track/4sUmke1MALyUgdRDseLga1"
+      "duration_ms": 271294,
+      "name": "\u015aciany",
+      "url": "https://open.spotify.com/track/4oThaUYLnKs3ikaDpMUMt1"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Niebezpieczni",
-        "url": "https://open.spotify.com/album/0el7LOLE5aIVqdSGmg9s7h"
+        "name": "z papieru",
+        "url": "https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx"
       },
       "artists": [
         {
-          "name": "Ewelina Lisowska",
-          "url": "https://open.spotify.com/artist/30HgsjsOObH4cjFMuQgqkw"
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
         }
       ],
-      "duration_ms": 143428,
-      "name": "Niebezpieczni",
-      "url": "https://open.spotify.com/track/51asGNbLAImt58HLJJZBVg"
+      "duration_ms": 194799,
+      "name": "Kalka",
+      "url": "https://open.spotify.com/track/5W9zXFO1vrVkfZ4wRwznM2"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Zadzwo\u0144 do mnie",
-        "url": "https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE"
+        "name": "Korea\u0144skie seriale",
+        "url": "https://open.spotify.com/album/0EQeVPu67fi6uSXuuuoVmw"
       },
       "artists": [
         {
-          "name": "MAJA",
-          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
+          "name": "Natalia Grosiak",
+          "url": "https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg"
         }
       ],
-      "duration_ms": 136595,
-      "name": "Zadzwo\u0144 do mnie",
-      "url": "https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE"
+      "duration_ms": 292000,
+      "name": "Korea\u0144skie seriale",
+      "url": "https://open.spotify.com/track/6kmcbItvQKL0My8VegebsY"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Danse Macabre",
-        "url": "https://open.spotify.com/album/01Ud1JJmY6UbrqjMOQa8rt"
+        "name": "My\u015bl\u0119 o Tobie przed snem",
+        "url": "https://open.spotify.com/album/6Hkegvu8DbNmV8KfVkZsbd"
       },
       "artists": [
         {
-          "name": "nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
         }
       ],
-      "duration_ms": 167581,
-      "name": "Danse Macabre",
-      "url": "https://open.spotify.com/track/6q3mJXFVhnRuECh5qyM0wM"
+      "duration_ms": 172258,
+      "name": "My\u015bl\u0119 o Tobie przed snem",
+      "url": "https://open.spotify.com/track/3rOeJECNSOOU8LZCXhyu0X"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "spok\u00f3j w ciele",
-        "url": "https://open.spotify.com/album/2kwYX1EuiZXzFEImvpX2H3"
+        "name": "DOMINIKA DANIELA",
+        "url": "https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK"
+      },
+      "artists": [
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        },
+        {
+          "name": "Kacha",
+          "url": "https://open.spotify.com/artist/1MXcqijfBhhY1WznU6X2er"
+        }
+      ],
+      "duration_ms": 171776,
+      "name": "ksi\u0119\u017cniczka type beat",
+      "url": "https://open.spotify.com/track/7zJuTk0G6CYUIAK7UIgJtj"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "diament",
+        "url": "https://open.spotify.com/album/3Fms2vMgiBYcKFA9O4DE8W"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "duration_ms": 203434,
+      "name": "diament",
+      "url": "https://open.spotify.com/track/4KfljmtnpDmiZNpSRqKx5b"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "Nie znam tego miejsca",
+        "url": "https://open.spotify.com/album/58Ojt6TaIAYhQlUVL9DWGj"
+      },
+      "artists": [
+        {
+          "name": "Ewa Farna",
+          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "Nie znam tego miejsca",
+      "url": "https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "Pierwsza P\u0142yta",
+        "url": "https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ"
       },
       "artists": [
         {
           "name": "Ania Szlagowska",
           "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
-        },
-        {
-          "name": "ciiicho",
-          "url": "https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z"
         }
       ],
-      "duration_ms": 195789,
-      "name": "spok\u00f3j w ciele",
-      "url": "https://open.spotify.com/track/1g1KaSYXkfQ8hhZYDsLTK0"
+      "duration_ms": 154493,
+      "name": "przytulam siebie",
+      "url": "https://open.spotify.com/track/71IyzTE5RHeahNODdRcXGp"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Pianinkowe Kaprysy",
-        "url": "https://open.spotify.com/album/2w3g6S6aYCpDWbn9YJytgM"
+        "name": "Sukcesy i B\u0142\u0119dy",
+        "url": "https://open.spotify.com/album/4E5zL8GUzNkVfoRv2oCBO7"
+      },
+      "artists": [
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        }
+      ],
+      "duration_ms": 139701,
+      "name": "Zdzieram G\u0142os",
+      "url": "https://open.spotify.com/track/27M13ZyPMJ0cRXrI4O7OWK"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "Spr\u00f3buj\u0119, pota\u0144cz\u0119, nie wiem",
+        "url": "https://open.spotify.com/album/31xDfRgJPxY0DWJSeVJhRo"
+      },
+      "artists": [
+        {
+          "name": "Marcelina",
+          "url": "https://open.spotify.com/artist/4kKbItPBdKcK8wQ8A9LXMt"
+        }
+      ],
+      "duration_ms": 145640,
+      "name": "Ciao Amore",
+      "url": "https://open.spotify.com/track/52qyUYT5WCo1ENskgZnTww"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "\u017bony Hollywood",
+        "url": "https://open.spotify.com/album/3qR6yvACFqUEMJu3OKbJOW"
+      },
+      "artists": [
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
+        }
+      ],
+      "duration_ms": 146636,
+      "name": "uciekaj!",
+      "url": "https://open.spotify.com/track/1cMJPa55C62HlcQRFw0Hjj"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "Nazywam si\u0119 niebo (rework 10 lat albumu Pr\u0105d)",
+        "url": "https://open.spotify.com/album/2cVyYHf1J6dx5cQTYZhF5c"
+      },
+      "artists": [
+        {
+          "name": "Natalia Przybysz",
+          "url": "https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x"
+        },
+        {
+          "name": "Dagadana",
+          "url": "https://open.spotify.com/artist/7JVB1NU2XgRA0lViT3HPrt"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Nazywam si\u0119 niebo (rework 10 lat albumu Pr\u0105d)",
+      "url": "https://open.spotify.com/track/08yRQudHsDYsTdG3GsBccP"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "Can you love me for who I am?",
+        "url": "https://open.spotify.com/album/79RTvN0uKSz0RuLHPH6h76"
       },
       "artists": [
         {
@@ -444,99 +300,83 @@
           "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
         }
       ],
-      "duration_ms": 248207,
-      "name": "hip hip hura! (pianinkowe)",
-      "url": "https://open.spotify.com/track/2lu4xkpDDEDoQSGd35aiB4"
+      "duration_ms": 199082,
+      "name": "Love is blind",
+      "url": "https://open.spotify.com/track/3Xb6nd8WLl9V0tFdWTd84w"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Take me back",
-        "url": "https://open.spotify.com/album/3b5QBtvTPQxEDfLCRvKU6e"
+        "name": "Naiwna Dziewucha",
+        "url": "https://open.spotify.com/album/2UzNFBcrhMDDGnkPNCZ3kL"
       },
       "artists": [
         {
-          "name": "Novika",
-          "url": "https://open.spotify.com/artist/64javKUlz2LAoOMtQfUFj9"
+          "name": "Diiya",
+          "url": "https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "Naiwna Dziewucha",
+      "url": "https://open.spotify.com/track/2N3ZrP2F4q6PHx8Ei1aepT"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "ch*jowy film",
+        "url": "https://open.spotify.com/album/1ogsDLvNbvWEbyRYaCo1Yg"
+      },
+      "artists": [
+        {
+          "name": "Ofelia",
+          "url": "https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX"
+        }
+      ],
+      "duration_ms": 201553,
+      "name": "ch*jowy film",
+      "url": "https://open.spotify.com/track/4qytdAT11E25cYbAU4tFHg"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "Agnieszka",
+        "url": "https://open.spotify.com/album/5DySP1rWDqg6FWQ20taY9N"
+      },
+      "artists": [
+        {
+          "name": "Basia Ma\u0142ecka",
+          "url": "https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY"
+        }
+      ],
+      "duration_ms": 310102,
+      "name": "M\u00f3j pierwszy bal",
+      "url": "https://open.spotify.com/track/6lbP9hfpioqhu5B8uiU2du"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "Tak czy siak",
+        "url": "https://open.spotify.com/album/4qk8WffGXUhMLh9xnawJuh"
+      },
+      "artists": [
+        {
+          "name": "WOLSKA",
+          "url": "https://open.spotify.com/artist/6W535X9Sk4zYwdMeXQ8LwM"
         },
         {
-          "name": "Sambor",
-          "url": "https://open.spotify.com/artist/0t2g6VrgzKwnvJUpGT3Vtf"
+          "name": "Piotrek Lewandowski",
+          "url": "https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg"
         }
       ],
-      "duration_ms": 198500,
-      "name": "Take me back",
-      "url": "https://open.spotify.com/track/1ecblv1lDpsJCZnSyu5GNn"
+      "duration_ms": 157333,
+      "name": "Tak czy siak",
+      "url": "https://open.spotify.com/track/5AqhFeOXihghh39Vil9snn"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "w\u0142asnym",
-        "url": "https://open.spotify.com/album/7le6hp3cumK0u20VUTZlnQ"
-      },
-      "artists": [
-        {
-          "name": "Dominika P\u0142onka",
-          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
-        }
-      ],
-      "duration_ms": 153461,
-      "name": "w\u0142asnym",
-      "url": "https://open.spotify.com/track/2qarKmvoSpSaODKhaE24xh"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "Wi\u0119cej",
-        "url": "https://open.spotify.com/album/2wLGQoYi4SsbyGmjEbQiNE"
-      },
-      "artists": [
-        {
-          "name": "Carla Fernandes",
-          "url": "https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF"
-        }
-      ],
-      "duration_ms": 153024,
-      "name": "Wi\u0119cej",
-      "url": "https://open.spotify.com/track/73l4adiuFKirZH4umyzEog"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "Noc",
-        "url": "https://open.spotify.com/album/4jD8WuSgVdsaL3WHqCMWcq"
-      },
-      "artists": [
-        {
-          "name": "Julia \u017bugaj",
-          "url": "https://open.spotify.com/artist/77ie7EUxZYh8rjBIUC76S1"
-        }
-      ],
-      "duration_ms": 132283,
-      "name": "Noc",
-      "url": "https://open.spotify.com/track/4FNJYW8wIORv52KjOKhfQg"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "Wracam do siebie",
-        "url": "https://open.spotify.com/album/2CJQYiGHnWGY4C3ceu4z6a"
-      },
-      "artists": [
-        {
-          "name": "Natalia Zast\u0119pa",
-          "url": "https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno"
-        }
-      ],
-      "duration_ms": 178947,
-      "name": "Tak jak ja",
-      "url": "https://open.spotify.com/track/06nFUiyRnJxVd8bpNzhjjg"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
-        "name": "przypadkiem",
-        "url": "https://open.spotify.com/album/7cPkz7ex0tIwfxls5NaPK0"
+        "name": "kropelki",
+        "url": "https://open.spotify.com/album/3bXw2kVCTMr5lnRUIFQKnI"
       },
       "artists": [
         {
@@ -544,95 +384,107 @@
           "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
         }
       ],
-      "duration_ms": 183881,
-      "name": "przypadkiem",
-      "url": "https://open.spotify.com/track/4qnzc5iJp1NI23WG0iroCQ"
+      "duration_ms": 150943,
+      "name": "kropelki",
+      "url": "https://open.spotify.com/track/6OWGy59gDRgAZWTkXS7Q6Z"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "apetyt na niepewno\u015b\u0107",
-        "url": "https://open.spotify.com/album/1QKexfVYKrTwJmSu85XR2O"
+        "name": "Bez kontaktu",
+        "url": "https://open.spotify.com/album/5QzaoHFlQIY0lmIMytCdBR"
       },
       "artists": [
         {
-          "name": "Magdalena Fidecka",
-          "url": "https://open.spotify.com/artist/58DE6xR8NPumBbjyzcipJL"
+          "name": "Natalia Kukulska",
+          "url": "https://open.spotify.com/artist/71ADVpJx1rN662ENAJIcUZ"
         }
       ],
-      "duration_ms": 215069,
-      "name": "apetyt na niepewno\u015b\u0107",
-      "url": "https://open.spotify.com/track/3z0cF0eSum8zZbcQRuNbFb"
+      "duration_ms": 270329,
+      "name": "Bez kontaktu",
+      "url": "https://open.spotify.com/track/0cXARNiffujbAjlJ6K2zER"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Kurtyny \u2013 projekt Ogrody \u015ar\u00f3dmie\u015bcie (Borys Sawaszkiewicz Remix)",
-        "url": "https://open.spotify.com/album/7e7UhNxFsvLcZHVdcY0ZOY"
+        "name": "Dior Savage",
+        "url": "https://open.spotify.com/album/19biEuOwuHQBI6byk3uGLZ"
       },
       "artists": [
         {
-          "name": "Marika",
-          "url": "https://open.spotify.com/artist/35vsCsMdgbOroCgADBadfR"
+          "name": "Oliwka Brazil",
+          "url": "https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs"
         },
         {
-          "name": "Borys Sawaszkiewicz",
-          "url": "https://open.spotify.com/artist/3MMSIxBkJDsk9d8Wdy4n6e"
-        },
-        {
-          "name": "DJ Eprom",
-          "url": "https://open.spotify.com/artist/3Hmg6jjXn5TzGRwrsjGn80"
+          "name": "WIKTOR",
+          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
         }
       ],
-      "duration_ms": 200624,
-      "name": "Kurtyny \u2013 projekt Ogrody \u015ar\u00f3dmie\u015bcie - Borys Sawaszkiewicz Remix",
-      "url": "https://open.spotify.com/track/7t2KUfnjInubq1Lbi6Zl1Q"
+      "duration_ms": 132571,
+      "name": "Dior Savage",
+      "url": "https://open.spotify.com/track/1R4QeLVVnsoZf9lu5J5cSE"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Melodie",
-        "url": "https://open.spotify.com/album/13aOlXTI39OKlpVZdtJuuO"
+        "name": "United Kingdom Of Anxiety",
+        "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
       },
       "artists": [
         {
-          "name": "afekty",
-          "url": "https://open.spotify.com/artist/3SpESiiNwNfFPpEmsTiXoH"
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
         },
         {
-          "name": "Helena Py\u0142ka",
-          "url": "https://open.spotify.com/artist/1jimlac7RknSbFMRoxUw9e"
-        },
-        {
-          "name": "Basia Siciarek",
-          "url": "https://open.spotify.com/artist/6WcYkSf44ojtwFJ4jENIOh"
+          "name": "Natalia Przybysz",
+          "url": "https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x"
         }
       ],
-      "duration_ms": 141531,
-      "name": "Melodie",
-      "url": "https://open.spotify.com/track/3hKm4KQaWvnjysnPNSerxD"
+      "duration_ms": 210497,
+      "name": "Persist",
+      "url": "https://open.spotify.com/track/1DNBSVULquOqLok2p6z0wK"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Deszczowy lipiec",
-        "url": "https://open.spotify.com/album/5VgL0uIeNvxt9BY33a0vsu"
+        "name": "Nic Nie Zmieni?",
+        "url": "https://open.spotify.com/album/3R6aVkISx6oCKqqKWsEvlP"
       },
       "artists": [
         {
-          "name": "Zuzanna Malisz",
-          "url": "https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A"
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
         }
       ],
-      "duration_ms": 179328,
-      "name": "Deszczowy lipiec",
-      "url": "https://open.spotify.com/track/6xpMN7YjQ5I53StXJJK7PI"
+      "duration_ms": 210109,
+      "name": "Nic Nie Zmieni?",
+      "url": "https://open.spotify.com/track/4JA0zkwnS5WYHdp8VbvAlD"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Tylko Lepiej EP",
-        "url": "https://open.spotify.com/album/40hXd3kTwv8wF9iVxQLKHC"
+        "name": "HANNYA",
+        "url": "https://open.spotify.com/album/6T2ZOpnZxvCPrr7WpMpovK"
+      },
+      "artists": [
+        {
+          "name": "Hania",
+          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
+        },
+        {
+          "name": "samunowak",
+          "url": "https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "HANNYA",
+      "url": "https://open.spotify.com/track/2mm0xC9EwVCc79NUQKXFvV"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "Unikaj\u0105c Odpowiedzi EP",
+        "url": "https://open.spotify.com/album/4V2NgXMJDzdEGQdELPMJoJ"
       },
       "artists": [
         {
@@ -640,15 +492,31 @@
           "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
         }
       ],
-      "duration_ms": 147804,
-      "name": "A\u017c B\u0119dziesz Wiedzie\u0107",
-      "url": "https://open.spotify.com/track/4AvHEHhWzVYtda38KLWEkM"
+      "duration_ms": 162000,
+      "name": "K\u0142ama\u0142am",
+      "url": "https://open.spotify.com/track/4pnc3PgYxln13xG0AvAPqS"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Wszystko na sprzeda\u017c",
-        "url": "https://open.spotify.com/album/4UzzYhTKnJ08CR28GxKreM"
+        "name": "Modlitwa",
+        "url": "https://open.spotify.com/album/0jQiwbOM3gmjjezncpAwgG"
+      },
+      "artists": [
+        {
+          "name": "jucho",
+          "url": "https://open.spotify.com/artist/77vikLG5M479F4GJeXPmjJ"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Modlitwa",
+      "url": "https://open.spotify.com/track/0mqKZ3Yfs92pXrVjxyynFt"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "W kwietniu si\u0119 nie umiera",
+        "url": "https://open.spotify.com/album/5HsOaA8jlC6RgtFAwkJO7b"
       },
       "artists": [
         {
@@ -656,67 +524,279 @@
           "url": "https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Wszystko na sprzeda\u017c",
-      "url": "https://open.spotify.com/track/1wLyfNLQ5rRc71mgINPpQ7"
+      "duration_ms": 186268,
+      "name": "W kwietniu si\u0119 nie umiera",
+      "url": "https://open.spotify.com/track/7uOYx1FNQQao9iwYTRxuOn"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Ob\u0142\u0119d",
-        "url": "https://open.spotify.com/album/4o7NvRbUBTmOGqROmAjCmh"
+        "name": "Idiotka",
+        "url": "https://open.spotify.com/album/6gRgR7nnetcWZ3ggipOguH"
       },
       "artists": [
         {
-          "name": "Briela",
-          "url": "https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf"
+          "name": "Anka",
+          "url": "https://open.spotify.com/artist/0F9Klcgxyze6XioVBZtX9G"
         }
       ],
-      "duration_ms": 155604,
-      "name": "Ob\u0142\u0119d",
-      "url": "https://open.spotify.com/track/7F6KbagQKfMi9JfLkVrwhj"
+      "duration_ms": 184058,
+      "name": "Idiotka",
+      "url": "https://open.spotify.com/track/4xQ2tNtiQ8aT9OznQvSVKp"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Precelki",
-        "url": "https://open.spotify.com/album/72mPsyuqayyme9X6u1ZKkB"
+        "name": "K\u0142ama\u0142am",
+        "url": "https://open.spotify.com/album/5wGjiv4zcXDpacwexBdRZX"
       },
       "artists": [
         {
-          "name": "Magda Bereda",
-          "url": "https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d"
+          "name": "Inee",
+          "url": "https://open.spotify.com/artist/30UBxEPvKc0CPtKeRfp6Ih"
         },
         {
-          "name": "Agnieszka Musia\u0142",
-          "url": "https://open.spotify.com/artist/4uOBCZk1MpMzmpOnAtN8qc"
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "2check",
+          "url": "https://open.spotify.com/artist/0QG6AhOd5otKsN1s2jsnzt"
         }
       ],
-      "duration_ms": 154891,
-      "name": "Precelki",
-      "url": "https://open.spotify.com/track/10NwTj43TYxEhJDnAvmDiO"
+      "duration_ms": 237757,
+      "name": "K\u0142ama\u0142am",
+      "url": "https://open.spotify.com/track/3jF86jyTfui4DoHk977drZ"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "DZIECI DOKER\u00d3W",
-        "url": "https://open.spotify.com/album/0i80twWE7I7Fr3soLxfqzd"
+        "name": "Bajka",
+        "url": "https://open.spotify.com/album/0sXdmDSA4cP8PsiFeBvpLF"
       },
       "artists": [
         {
-          "name": "Sara Kordowska",
-          "url": "https://open.spotify.com/artist/0tEwXd8Y8XF92pbRVVGq9P"
+          "name": "SaMa",
+          "url": "https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt"
         }
       ],
-      "duration_ms": 233081,
-      "name": "DZIECI DOKER\u00d3W",
-      "url": "https://open.spotify.com/track/7fPU5yQSmAP5O0YTyuuCgA"
+      "duration_ms": 149161,
+      "name": "Bajka",
+      "url": "https://open.spotify.com/track/1t4ZzlgGghetwNEjAhRVK1"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Trucizna",
-        "url": "https://open.spotify.com/album/1IWDqWH1axvJycpL7CWIfi"
+        "name": "Kadr",
+        "url": "https://open.spotify.com/album/2d2oNQGsGKgSj1Pl6qGGEe"
+      },
+      "artists": [
+        {
+          "name": "Klaudia Sobotka",
+          "url": "https://open.spotify.com/artist/4izxlflj4RQhhmWAGhyGFJ"
+        }
+      ],
+      "duration_ms": 154488,
+      "name": "Kadr",
+      "url": "https://open.spotify.com/track/4ZO1OxzqSIPlJCkrLCln7U"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "Ca\u0142y dzie\u0144",
+        "url": "https://open.spotify.com/album/6QN6r4beVCZqplDO2Yd0ME"
+      },
+      "artists": [
+        {
+          "name": "Gree",
+          "url": "https://open.spotify.com/artist/4EncTzF0jeAysdTGFpXSCN"
+        },
+        {
+          "name": "Jakub Laszuk",
+          "url": "https://open.spotify.com/artist/6UATsPpXnCc5h12How5xvQ"
+        }
+      ],
+      "duration_ms": 135819,
+      "name": "Ca\u0142y dzie\u0144",
+      "url": "https://open.spotify.com/track/73AEudiGFTOGtOR6Al2e3w"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "Od niekochania",
+        "url": "https://open.spotify.com/album/7AebrNlbvF2POuZk75P9rJ"
+      },
+      "artists": [
+        {
+          "name": "Kasia Klich",
+          "url": "https://open.spotify.com/artist/5uBOKfCCQlO6qrNLauUSOH"
+        }
+      ],
+      "duration_ms": 176840,
+      "name": "Od niekochania",
+      "url": "https://open.spotify.com/track/4zsgyylzVzMQ0QYLFVnR3b"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "KONSEKWENCJE",
+        "url": "https://open.spotify.com/album/6yxancfs9vsfRjZxNUR17z"
+      },
+      "artists": [
+        {
+          "name": "LIJA",
+          "url": "https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5"
+        }
+      ],
+      "duration_ms": 134579,
+      "name": "KRYMINA\u0141",
+      "url": "https://open.spotify.com/track/4CupO50phnd0GQWq7yP6qq"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "Biczess",
+        "url": "https://open.spotify.com/album/0fAeYPuCQZEg17kJQ8GsmT"
+      },
+      "artists": [
+        {
+          "name": "Sara",
+          "url": "https://open.spotify.com/artist/7A2cSsMN0zdjRoyNtf9S5s"
+        },
+        {
+          "name": "AWGS",
+          "url": "https://open.spotify.com/artist/1Hhs7ou81Z5dksVIGnofWt"
+        }
+      ],
+      "duration_ms": 144671,
+      "name": "Biczess",
+      "url": "https://open.spotify.com/track/1qfzaLpA48vA6av6tT9vT1"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "Bar",
+        "url": "https://open.spotify.com/album/2YDTKA6uIOwMc4Wpq8cBll"
+      },
+      "artists": [
+        {
+          "name": "TVB",
+          "url": "https://open.spotify.com/artist/194gAIlqoRQtBnToq45byL"
+        },
+        {
+          "name": "Guest Julka",
+          "url": "https://open.spotify.com/artist/7nmNPZucUmo9x6Mh5llOoZ"
+        },
+        {
+          "name": "Dj Kr\u00f3tki",
+          "url": "https://open.spotify.com/artist/19XQrb7SzbWzj7rWvYtiM9"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Deep Wro",
+      "url": "https://open.spotify.com/track/2nGBShY9xdGvwhiC17XieR"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "DZIEWCZYNA Z PLAKATU",
+        "url": "https://open.spotify.com/album/6fdEQop9ZUjRZNNLI2Cchv"
+      },
+      "artists": [
+        {
+          "name": "Cyrko",
+          "url": "https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL"
+        }
+      ],
+      "duration_ms": 159789,
+      "name": "DZIEWCZYNA Z PLAKATU",
+      "url": "https://open.spotify.com/track/76oBCUbZ0Pi2Zie2HzJzYM"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "Tutaj si\u0119 nie ta\u0144czy",
+        "url": "https://open.spotify.com/album/40HaGjml5r2emyUvYDHMen"
+      },
+      "artists": [
+        {
+          "name": "Ranko Ukulele",
+          "url": "https://open.spotify.com/artist/0tfJBHQtndZAeilrnJfJSC"
+        }
+      ],
+      "duration_ms": 172195,
+      "name": "Tutaj si\u0119 nie ta\u0144czy",
+      "url": "https://open.spotify.com/track/1V13KaaaMyPg8YjQLgf2qj"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "Po Tobie zapach",
+        "url": "https://open.spotify.com/album/4bGO5sQ4cnQmz4iIczJZq0"
+      },
+      "artists": [
+        {
+          "name": "LINA",
+          "url": "https://open.spotify.com/artist/6lBBKOkpTnfVKIP0e0CrOQ"
+        }
+      ],
+      "duration_ms": 214755,
+      "name": "Ping Pong",
+      "url": "https://open.spotify.com/track/1kXUh353AjOd1VjTbMjBCM"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "a mo\u017ce nie?",
+        "url": "https://open.spotify.com/album/1ETEZPz5LDI15kDa3Q6crm"
+      },
+      "artists": [
+        {
+          "name": "Julia Mre\u0144ca",
+          "url": "https://open.spotify.com/artist/0o67bNa457im54EQIpinH2"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "a mo\u017ce nie?",
+      "url": "https://open.spotify.com/track/5uqA8dbykXOfO0mMqSqYF7"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "Isimo",
+        "url": "https://open.spotify.com/album/0KFCl3muplmbYhJO98Mfg3"
+      },
+      "artists": [
+        {
+          "name": "Yana Couto",
+          "url": "https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt"
+        }
+      ],
+      "duration_ms": 182181,
+      "name": "Isimo",
+      "url": "https://open.spotify.com/track/3kj5xhEIGQSVu3lQDY9MRi"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "Piosenka o mijaniu si\u0119",
+        "url": "https://open.spotify.com/album/3yADJ7XnSX833XBur5HuPI"
+      },
+      "artists": [
+        {
+          "name": "evelina ross",
+          "url": "https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "Piosenka o mijaniu si\u0119",
+      "url": "https://open.spotify.com/track/5jT0tedkoZcQ6cUZIeuruy"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "Bli\u017cej",
+        "url": "https://open.spotify.com/album/52K4C2vg9KVoixgkQrDKcL"
       },
       "artists": [
         {
@@ -724,153 +804,245 @@
           "url": "https://open.spotify.com/artist/0caffJ4V83KuZaLoO4dpnp"
         }
       ],
-      "duration_ms": 259047,
-      "name": "Trucizna",
-      "url": "https://open.spotify.com/track/3nX5Ay9wZYZpjN13bqaGWd"
+      "duration_ms": 233114,
+      "name": "Bli\u017cej",
+      "url": "https://open.spotify.com/track/0c7YiDDrLyL5TrZJLGxd5A"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Listek",
-        "url": "https://open.spotify.com/album/1TtFi4I3XHQ4eHYEOdGXyy"
+        "name": "Kontakt",
+        "url": "https://open.spotify.com/album/3jjq1nlzmTjWOOu6CIp2zA"
       },
       "artists": [
         {
-          "name": "Kasia Mo\u015b",
-          "url": "https://open.spotify.com/artist/6o7RJSQNRyx5ChgbgoTx22"
+          "name": "NOSTALG1A",
+          "url": "https://open.spotify.com/artist/6MviuPgk8R2ZJBwY9yHxOS"
         }
       ],
-      "duration_ms": 159213,
-      "name": "Listek",
-      "url": "https://open.spotify.com/track/1S3dnRrDzPKAELLfI3JWQI"
+      "duration_ms": 162935,
+      "name": "Kontakt",
+      "url": "https://open.spotify.com/track/0GOJoLNxIXfHmAjj3Bxpmk"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "G\u0142ow\u0105 w d\u00f3\u0142",
-        "url": "https://open.spotify.com/album/6mz6oFjQoLu6vCfpm91B03"
+        "name": "Musz\u0119 da\u0107 ci odej\u015b\u0107",
+        "url": "https://open.spotify.com/album/5406E4SYO3qo4gx7YS714W"
       },
       "artists": [
         {
-          "name": "Ma\u0142gorzata Ostrowska",
-          "url": "https://open.spotify.com/artist/2dsPS2b35AIzajDCQWJrYA"
+          "name": "Zuzanna Malisz",
+          "url": "https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A"
         }
       ],
-      "duration_ms": 218165,
-      "name": "G\u0142ow\u0105 w d\u00f3\u0142",
-      "url": "https://open.spotify.com/track/4fmJAeeRTFD6zBW1aQEf6e"
+      "duration_ms": 256000,
+      "name": "Musz\u0119 da\u0107 ci odej\u015b\u0107",
+      "url": "https://open.spotify.com/track/06nFgKdL7ddzp2PSdqIp4D"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "FWB",
-        "url": "https://open.spotify.com/album/3f1ATBbsu516OSQLWLkwjj"
+        "name": "SLAVIC GIRLZ",
+        "url": "https://open.spotify.com/album/50GUn4ZpPown7EkJjq1bgO"
       },
       "artists": [
         {
-          "name": "Zaza",
-          "url": "https://open.spotify.com/artist/74nAcfgqMxyP7Unp52q3aU"
+          "name": "martirenti",
+          "url": "https://open.spotify.com/artist/7egWEngvdrYcTAJ6OTurlj"
+        },
+        {
+          "name": "Margarita",
+          "url": "https://open.spotify.com/artist/3bh1Y1rhfNYQp5yTmJkjTp"
+        },
+        {
+          "name": "CrackHouse",
+          "url": "https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr"
         }
       ],
-      "duration_ms": 175199,
-      "name": "FWB",
-      "url": "https://open.spotify.com/track/6aIlSymO6cocNrEjCohUNT"
+      "duration_ms": 170999,
+      "name": "SLAVIC GIRLZ",
+      "url": "https://open.spotify.com/track/7qq1j34v2i2JB7Hxv5XdBy"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Zrobi\u0142am bardzo",
-        "url": "https://open.spotify.com/album/5Aaf3cDS2I74Vaccn8I1A0"
+        "name": "Za Szk\u0142em",
+        "url": "https://open.spotify.com/album/15wkwWddVXqmmT9ASQoM9F"
       },
       "artists": [
         {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+          "name": "XANSANA",
+          "url": "https://open.spotify.com/artist/2NJc2bjgqogL4XktoMqrlX"
         }
       ],
-      "duration_ms": 182068,
-      "name": "Zrobi\u0142am bardzo",
-      "url": "https://open.spotify.com/track/4Z3x2f3nKE26ol24cIM7Uv"
+      "duration_ms": 131470,
+      "name": "Za Szk\u0142em",
+      "url": "https://open.spotify.com/track/3otwxojfxaBfa2zWcsnrzd"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/4yF8NpjrJD2ObQsGvXm1m7"
+        "name": "20 000 krok\u00f3w",
+        "url": "https://open.spotify.com/album/6GVWKWmJAnxjTPMkwZ0qqs"
       },
       "artists": [
         {
-          "name": "Agata \u015awiderska",
-          "url": "https://open.spotify.com/artist/414dGfJGuwiD326ebm9dfC"
+          "name": "Wera",
+          "url": "https://open.spotify.com/artist/33skV5hZtvqkuJFLAg0cRE"
+        },
+        {
+          "name": "demod",
+          "url": "https://open.spotify.com/artist/623nC81OobwoPmOa8ZXA5q"
         }
       ],
-      "duration_ms": 126835,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/0I2Ma5SzwI4MXxvCoVL6lx"
+      "duration_ms": 175522,
+      "name": "20 000 krok\u00f3w",
+      "url": "https://open.spotify.com/track/47GAy7EKB6agDBTzJq2rDk"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Za daleko",
-        "url": "https://open.spotify.com/album/4anrcjnwoyQWD8zh6Lhh1x"
+        "name": "Od po\u0142udnia",
+        "url": "https://open.spotify.com/album/41cUUCetsJvlw6z8PwzHHY"
       },
       "artists": [
         {
-          "name": "Klaudia Kowalik",
-          "url": "https://open.spotify.com/artist/48xj6VTZJbWGgs2Pt1Slkj"
+          "name": "Agnieszka Musia\u0142",
+          "url": "https://open.spotify.com/artist/4uOBCZk1MpMzmpOnAtN8qc"
         }
       ],
-      "duration_ms": 201739,
-      "name": "Za daleko",
-      "url": "https://open.spotify.com/track/09y1MRKKZngQBDAwL7oOSJ"
+      "duration_ms": 233777,
+      "name": "Od po\u0142udnia",
+      "url": "https://open.spotify.com/track/3gwD499DheSadk0in3BGOI"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Zamykam oczy",
-        "url": "https://open.spotify.com/album/0wx4ndR8o7M32tse1KTSfD"
+        "name": "To ju\u017c nie ja",
+        "url": "https://open.spotify.com/album/5koUXxuJMvkgbQupDt0uNH"
       },
       "artists": [
         {
-          "name": "DIULI",
-          "url": "https://open.spotify.com/artist/7FJHNPbtNrbBZZwGe707Pq"
+          "name": "Monika Lewczuk",
+          "url": "https://open.spotify.com/artist/2VF2TyrEMWX4IajxwKNPkX"
         }
       ],
-      "duration_ms": 215021,
-      "name": "Zamykam oczy",
-      "url": "https://open.spotify.com/track/4Q7LWrCClLuxtxtlrgS4h8"
+      "duration_ms": 183545,
+      "name": "To ju\u017c nie ja",
+      "url": "https://open.spotify.com/track/3Bf88fEKVfQtf5HwgpaS8w"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Lato nie wakacje",
-        "url": "https://open.spotify.com/album/7q0AMRroEUkZwfsFwoIhQi"
+        "name": "Powr\u00f3cisz tu",
+        "url": "https://open.spotify.com/album/7H4XlKMDnwlrFLDTSHA2YO"
       },
       "artists": [
         {
-          "name": "\u017baneta Che\u0142miniak",
-          "url": "https://open.spotify.com/artist/4Lpo3zMUTdH69eWhxN3sfr"
+          "name": "Olga Bo\u0144czyk",
+          "url": "https://open.spotify.com/artist/5WS3maUUPaPuXJlu467MFO"
         }
       ],
-      "duration_ms": 136909,
-      "name": "Lato nie wakacje",
-      "url": "https://open.spotify.com/track/6SvatD0574vnEPAYM0SFMR"
+      "duration_ms": 254676,
+      "name": "Powr\u00f3cisz tu",
+      "url": "https://open.spotify.com/track/0NaS8s2JiYj6znRvoXFtix"
     },
     {
-      "added_at": "2024-10-01 22:00:00",
+      "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "4:27",
-        "url": "https://open.spotify.com/album/0nYGder2OiClwyt6y6sxmB"
+        "name": "B\u0119dziesz tu",
+        "url": "https://open.spotify.com/album/6ALAcb18NmzTOQTozs0kEH"
       },
       "artists": [
         {
-          "name": "Ola Budzy\u0144ska",
-          "url": "https://open.spotify.com/artist/1Qc8DxCV91HhFNnoQbS5m6"
+          "name": "Magdalena Wasylik",
+          "url": "https://open.spotify.com/artist/6fILDWKAqGGe3m6rvotbku"
         }
       ],
-      "duration_ms": 252666,
-      "name": "4:27",
-      "url": "https://open.spotify.com/track/7iZVC0q8ZjrE04HIw9qhfj"
+      "duration_ms": 194700,
+      "name": "B\u0119dziesz tu",
+      "url": "https://open.spotify.com/track/6QV5LZ3m1bKH9rxFcvJxBx"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "until seven",
+        "url": "https://open.spotify.com/album/1Q5HUUqJzuQAY7wqFNKbgj"
+      },
+      "artists": [
+        {
+          "name": "Maura Margol",
+          "url": "https://open.spotify.com/artist/0LP7cT2bJGCveprlbSA48j"
+        }
+      ],
+      "duration_ms": 219692,
+      "name": "until seven",
+      "url": "https://open.spotify.com/track/39MNGWEr0QsO1UQtAiCv2t"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "VI",
+        "url": "https://open.spotify.com/album/4BaYEQ1yaUBsLfsidmw4NK"
+      },
+      "artists": [
+        {
+          "name": "Jeza",
+          "url": "https://open.spotify.com/artist/6iZcRHZJJlionCEqm1KvWk"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "VI",
+      "url": "https://open.spotify.com/track/2VFrwAqvxf4bQ0YdN3Fm7H"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "JAK TO JEST",
+        "url": "https://open.spotify.com/album/3Cjy7OAwtSRTpuMPsLLrsa"
+      },
+      "artists": [
+        {
+          "name": "ROZIE",
+          "url": "https://open.spotify.com/artist/59iWoTgpD2176IjqGmNZSo"
+        }
+      ],
+      "duration_ms": 189974,
+      "name": "JAK TO JEST",
+      "url": "https://open.spotify.com/track/2nNsUTpiJNZxUdxE5hquQq"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "O co chodzi z ni\u0105",
+        "url": "https://open.spotify.com/album/59UdZ4ua3JLgEkOUaq8kKK"
+      },
+      "artists": [
+        {
+          "name": "Asia Nawojska",
+          "url": "https://open.spotify.com/artist/5GymgO2A0NDEhmRk5RwCi3"
+        }
+      ],
+      "duration_ms": 220301,
+      "name": "O co chodzi z ni\u0105",
+      "url": "https://open.spotify.com/track/0dzbHMKNajQHkORS4OoSzu"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "Czu\u0142e S\u0142\u00f3wka",
+        "url": "https://open.spotify.com/album/4ktTIMgoFlnsqzuawumCgu"
+      },
+      "artists": [
+        {
+          "name": "Karolina B\u0142o\u0144ska",
+          "url": "https://open.spotify.com/artist/4GgX4COV1BbwlWIE8kdtlW"
+        }
+      ],
+      "duration_ms": 201141,
+      "name": "Czu\u0142e S\u0142\u00f3wka",
+      "url": "https://open.spotify.com/track/1tS7Lrzv09BhDshHTi4ZiO"
     }
   ],
   "unique_name": "EQUAL Polska",

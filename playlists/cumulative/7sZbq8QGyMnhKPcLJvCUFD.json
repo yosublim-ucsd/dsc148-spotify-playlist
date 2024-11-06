@@ -5761,6 +5761,24 @@
     },
     {
       "album": {
+        "name": "i want u",
+        "url": "https://open.spotify.com/album/1UFdwl1RfQ0pVHbzFV1YLL"
+      },
+      "artists": [
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "i want u",
+      "url": "https://open.spotify.com/track/1KUwEwWCtkY1wvLI7whez0"
+    },
+    {
+      "album": {
         "name": "I'll Be There",
         "url": "https://open.spotify.com/album/6duTRqw2Ld0WnsqABtRCBr"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 
 > Uplifting anthems to power you through 'til the weekend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,223 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,196 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 51 | [Sweet Lovin' \- Radio Edit](https://open.spotify.com/track/1qp0ptMXNg9hqLH8sk7cc2) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:22 |
 | 52 | [Super Duper Love](https://open.spotify.com/track/30yn7KuCLbXGCXxjsB0C8K) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [The Soul Sessions](https://open.spotify.com/album/188TILSlxecPremJwHDkk7) | 4:20 |
 | 53 | [California \- Tchad Blake Mix](https://open.spotify.com/track/497Fkp3gRiGrRMoqBTDudr) | [Phantom Planet](https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY) | [The Guest \(Expanded Edition\)](https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD) | 3:13 |
-| 54 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 |
-| 55 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/4wosxLl0mAqhneDzya2MfY) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/4w554Y1ts3lmzhn7hpfLBJ) | 2:46 |
+| 54 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/4wosxLl0mAqhneDzya2MfY) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/4w554Y1ts3lmzhn7hpfLBJ) | 2:46 |
+| 55 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 |
 | 56 | [Keep On Movin'](https://open.spotify.com/track/0MjMqYIYzcCteAs4c0BZGy) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Steve Mac](https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD) | [Invincible](https://open.spotify.com/album/6rwT7u32X6CdrOCClbowiW) | 3:18 |
 | 57 | [Sunchyme](https://open.spotify.com/track/2YOuBWIyHgyvHnLMpjzBf2) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sunchyme](https://open.spotify.com/album/6TtZuP1WRvIScmqLlUwet2) | 3:55 |
 | 58 | [Movin' on Up](https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc) | 3:48 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 69 | [Boom Clap](https://open.spotify.com/track/3x2YIvkLcxvZQsA5x6xyIR) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 2:49 |
 | 70 | [Like Sugar](https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Hello Happiness](https://open.spotify.com/album/1QRhPsupQCDlD9EwTWumSA) | 3:59 |
 | 71 | [Sax](https://open.spotify.com/track/2IFl6p0LoIfIZOn5IaxZOO) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Love, Sax & Flashbacks \(Track by Track\)](https://open.spotify.com/album/1nFgJpjh2doGfve56uADlm) | 3:56 |
-| 72 | [Moving Too Fast \- Radio Edit](https://open.spotify.com/track/4FLFm76nwepkcxzqS8PzH4) | [Artful Dodger](https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT), [Romina Johnson](https://open.spotify.com/artist/1NmCD7ZZqEs7Dfp6fSZkZ0) | [Movin' Too Fast \(Ultimate Collection\)](https://open.spotify.com/album/0kIgzYlCvb6kifRgHl1scM) | 3:58 |
-| 73 | [Shine](https://open.spotify.com/track/4Qrxdjj3nFhjrqcnUU5r6a) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/50jDQcZjE2kdx5rn3AL0c8) | 4:15 |
+| 72 | [Shine](https://open.spotify.com/track/4Qrxdjj3nFhjrqcnUU5r6a) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/50jDQcZjE2kdx5rn3AL0c8) | 4:15 |
+| 73 | [Moving Too Fast \- Radio Edit](https://open.spotify.com/track/4FLFm76nwepkcxzqS8PzH4) | [Artful Dodger](https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT), [Romina Johnson](https://open.spotify.com/artist/1NmCD7ZZqEs7Dfp6fSZkZ0) | [Movin' Too Fast \(Ultimate Collection\)](https://open.spotify.com/album/0kIgzYlCvb6kifRgHl1scM) | 3:58 |
 | 74 | [Flowers \(feat\. Jaykae and MALIKA\)](https://open.spotify.com/track/5aYWnrsYvJk8NT7PmUcxVN) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Malika](https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb) | [Flowers \(feat\. Jaykae and MALIKA\)](https://open.spotify.com/album/6HlRVGjN1psbbNjpfToGio) | 3:17 |
 | 75 | [So Good to Me \- Radio Edit](https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good To Me \(Remixes\)](https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV) | 2:38 |
 | 76 | [No Worries](https://open.spotify.com/track/1T6928Jai5vaFUIP7XhXhS) | [Simon Webbe](https://open.spotify.com/artist/3P6nMEGXn0hzBlMndKfLQH) | [Sanctuary](https://open.spotify.com/album/3721OxBl0D7wkRrKhfJl03) | 3:29 |

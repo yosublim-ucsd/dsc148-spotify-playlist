@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-208 songs - 9 hr 8 min
+209 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Flat Out](https://open.spotify.com/track/055fovAr3EQTHeSIgre4ZE) | [Peter Olyni Jr.](https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO) | [Flat Out](https://open.spotify.com/album/1obXVW12h6lb33uWGKUksN) | 2:19 | 2024-03-25 |  |
 | [For the Homies](https://open.spotify.com/track/5uSJS1Oy5XSAAX7kP3LH3s) | [BrandonLee Cierley](https://open.spotify.com/artist/6TCS4quLkqSnAMbwfkKzAt), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [yuckgod](https://open.spotify.com/artist/53FJ7kvKR7Nk7nOo5yGRK7), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Thank You for Waiting](https://open.spotify.com/album/73j9ThF4ukgyeFQq4IGsCe) | 2:03 | 2023-01-12 |  |
 | [Form Style](https://open.spotify.com/track/56tkSdGCIk4V99j5juZaRj) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Form Style](https://open.spotify.com/album/6TB09Usz0qwlaVmuqp7Bvc) | 2:15 | 2024-06-14 | 2024-08-24 |
-| [Free for All](https://open.spotify.com/track/5b4huQ1YuF8GiJXWlBGpjz) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Free for All](https://open.spotify.com/album/4pdkFcVxWjzUkh7VPYS03k) | 2:43 | 2023-01-12 |  |
+| [Free for All](https://open.spotify.com/track/5b4huQ1YuF8GiJXWlBGpjz) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Free for All](https://open.spotify.com/album/4pdkFcVxWjzUkh7VPYS03k) | 2:43 | 2023-01-12 | 2024-11-06 |
 | [Freeway](https://open.spotify.com/track/4ZyRWLgtHGZAOSeH5W4mes) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Freeway](https://open.spotify.com/album/35H7Dzbib14P3ZarPwh0E0) | 2:30 | 2023-01-12 |  |
 | [Friends](https://open.spotify.com/track/62ETSS8iVAoE47L0nNinTK) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Friends](https://open.spotify.com/album/19hBcwOsKTRuOclZ5bDoXP) | 1:44 | 2023-01-12 | 2023-04-14 |
 | [Frontside](https://open.spotify.com/track/28W5X9itWJYO5XzJDRzzYO) | [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2) | [Frontside](https://open.spotify.com/album/6IzKnfHfRAABTOc81vFydK) | 2:40 | 2024-06-14 |  |
@@ -204,6 +204,7 @@
 | [Turnarounds](https://open.spotify.com/track/4d2UJiZtKRJMc4DZMqo9m9) | [HLY WUD](https://open.spotify.com/artist/51htK4Ln3sMNbTBcs7Ft8S) | [Turnarounds](https://open.spotify.com/album/59pR0anVAX7bEA1nlDnGdA) | 1:56 | 2023-10-27 | 2024-03-26 |
 | [Up the Block \(Live\)](https://open.spotify.com/track/3PVuA7US6N5rOmTpy0tjyv) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Undertones \(Live\)](https://open.spotify.com/album/5te7urDPMWPADOtb7lnPKw) | 2:48 | 2023-01-12 |  |
 | [VA Noir](https://open.spotify.com/track/3qa5y1yALHkSU3i698pici) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [ENCORE](https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9) | 1:45 | 2023-01-12 | 2023-04-14 |
+| [Velvet Keys](https://open.spotify.com/track/2lLWYl54En7wmYWO5FVhOf) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Velvet Keys](https://open.spotify.com/album/7wHdZd8aY5ivOMG7phgPTD) | 2:22 | 2024-09-13 |  |
 | [Voices in my Head](https://open.spotify.com/track/1tYkD1SYRtTGjOhczQ7IuW) | [Jerk](https://open.spotify.com/artist/47fuoUqgL8n7eSQsSdaCQf) | [Mood Swings](https://open.spotify.com/album/5mNPsQ3gt6FRqENKabPJgF) | 2:30 | 2024-06-14 |  |
 | [Volpaia](https://open.spotify.com/track/4Xp91oprIAo7n9tMYvK1f4) | [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Volpaia](https://open.spotify.com/album/0mR6D7VJMDdUNL7LPo4DEw) | 2:13 | 2023-01-12 |  |
 | [Warm Light](https://open.spotify.com/track/4t983wHwJcdqPGjCq6SA3V) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0), [another silent weekend](https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA) | [Lost Travelers](https://open.spotify.com/album/6SdTEzCdDtiWCSSnwzE2jb) | 2:36 | 2023-01-12 |  |

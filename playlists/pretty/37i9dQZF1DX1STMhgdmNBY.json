@@ -1,6 +1,6 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 90670,
+  "num_followers": 90752,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-05-28 18:44:23",
       "album": {
-        "name": "Big Walter Horton w/ Carey Bell",
-        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
-      },
-      "artists": [
-        {
-          "name": "Big Walter Horton",
-          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
-        }
-      ],
-      "duration_ms": 278266,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/3ZD1wkVJDQDBwbPcp198Bk"
-    },
-    {
-      "added_at": "2024-05-28 18:44:23",
-      "album": {
         "name": "The Best Of Muddy Waters",
         "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
       },
@@ -527,6 +511,26 @@
       "duration_ms": 170800,
       "name": "I Just Want To Make Love To You - Single Version",
       "url": "https://open.spotify.com/track/1OhUmE8Wkw1KBXx2gQcOo9"
+    },
+    {
+      "added_at": "2024-05-28 18:44:23",
+      "album": {
+        "name": "Big Walter Horton With Carey Bell",
+        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
+      },
+      "artists": [
+        {
+          "name": "Big Walter Horton",
+          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
+        },
+        {
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+        }
+      ],
+      "duration_ms": 278266,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/3ZD1wkVJDQDBwbPcp198Bk"
     },
     {
       "added_at": "2024-05-28 18:44:23",

@@ -4085,6 +4085,24 @@
     },
     {
       "album": {
+        "name": "Morning to Remember",
+        "url": "https://open.spotify.com/album/7DCgDoEleuIOAe2aD61wZO"
+      },
+      "artists": [
+        {
+          "name": "Evan Lang",
+          "url": "https://open.spotify.com/artist/7yXix98cpwE1vLZu0A59Nn"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155435,
+      "name": "Morning to Remember",
+      "url": "https://open.spotify.com/track/32YytCYUwBOKAISIRDKbkc"
+    },
+    {
+      "album": {
         "name": "Morpho",
         "url": "https://open.spotify.com/album/73BOlPGDgMu2sw8XvmiO9V"
       },
@@ -7570,6 +7588,24 @@
       "duration_ms": 148843,
       "name": "Whispered Winds",
       "url": "https://open.spotify.com/track/3Ts6C6TMvIzPIvdudMX7bH"
+    },
+    {
+      "album": {
+        "name": "White wings",
+        "url": "https://open.spotify.com/album/3RvRZdW1r1HjySuqAoDLX3"
+      },
+      "artists": [
+        {
+          "name": "Lester Dann",
+          "url": "https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158360,
+      "name": "White wings",
+      "url": "https://open.spotify.com/track/3s886lrKl2lG3g0BF7lXCE"
     },
     {
       "album": {

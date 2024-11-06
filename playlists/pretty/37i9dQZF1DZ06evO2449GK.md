@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,514 likes - 47 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,541 likes - 47 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 46 | [Aero\-Soul](https://open.spotify.com/track/6AUY2FyNLl59BcZtynaXsu) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Viejas Recetas Remixes y Otras Rarezas](https://open.spotify.com/album/4BimoPAeNYP0dH8h34N1b6) | 3:33 |
 | 47 | [El Show Debe Continuar](https://open.spotify.com/track/7vSGZ1wHnamSQsLaZN1eGF) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 4:04 |
 
-Snapshot ID: `Zya9AAAAAABGHjH00oZQOzJ4+xifB690`
+Snapshot ID: `ZygOgAAAAABAV2Djr+qzPEQF71UMwqHt`

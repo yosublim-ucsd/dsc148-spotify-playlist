@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr?si=snNWeXWATZuP\_5dhnsEmwA">Emtee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,346 likes - 59 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,436 likes - 59 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

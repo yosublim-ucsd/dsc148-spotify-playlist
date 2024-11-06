@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/3JySXkeZCG1WiMNlBB3n9p"
+      },
+      "artists": [
+        {
+          "name": "SUNGJIN",
+          "url": "https://open.spotify.com/artist/5ZQ96t8nPfBXYdZaXZwDHC"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197160,
+      "name": "Check Pattern",
+      "url": "https://open.spotify.com/track/3bbuy0sL7miaccIfh6s86b"
+    },
+    {
+      "album": {
         "name": "Want More 19 Part.1",
         "url": "https://open.spotify.com/album/1DDc6qbKF8Utom7maoljP5"
       },

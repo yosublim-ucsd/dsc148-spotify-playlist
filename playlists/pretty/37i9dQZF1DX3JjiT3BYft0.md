@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,867 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,877 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 66 | [栞](https://open.spotify.com/track/0aJS4BLpbxcylFr1IK2DSR) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [栞](https://open.spotify.com/album/5nH0B2HxbulmQt1gpT5ji4) | 4:26 |
 | 67 | [無路矢](https://open.spotify.com/track/5BtZ5g4LAJPEMx7fVaPN9f) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [無路矢](https://open.spotify.com/album/2rSKZFZzDIcooeTCPKBLOt) | 3:42 |
 | 68 | [迷路日々](https://open.spotify.com/track/5Zpt3HBbdLjdcy4GoLDrEk) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷路日々](https://open.spotify.com/album/3uBopzA0VxW4Widg7Ymeg0) | 3:35 |
-| 69 | [碧天伴走](https://open.spotify.com/track/44idxB7ld38cXQjRYjorXv) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [碧天伴走](https://open.spotify.com/album/7vwdWEULxaBGcAv4BgsKaP) | 3:38 |
-| 70 | [Dear Gleam](https://open.spotify.com/track/0HROV3Xfypq6qYCOzTVNCj) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 4:13 |
+| 69 | [Dear Gleam](https://open.spotify.com/track/0HROV3Xfypq6qYCOzTVNCj) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 4:13 |
+| 70 | [碧天伴走](https://open.spotify.com/track/44idxB7ld38cXQjRYjorXv) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [碧天伴走](https://open.spotify.com/album/7vwdWEULxaBGcAv4BgsKaP) | 3:38 |
 | 71 | [乙女解剖 \- Cover](https://open.spotify.com/track/1SakT3NRW0kb03W7v4hXBV) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [乙女解剖 \(Cover\)](https://open.spotify.com/album/0wNBh9mdnn8mm4xIWEHnDi) | 3:44 |
 | 72 | [名無声](https://open.spotify.com/track/5Sy6e7DWNRJ8CH2UiY9p4Q) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷星叫](https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG) | 4:31 |
 | 73 | [Swear \~Night & Day\~](https://open.spotify.com/track/4DWAPMAyDsOVTttHt5wh4k) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Swear \~Night & Day\~](https://open.spotify.com/album/2ZKJKwZrZ4Co8Da8fXl8ZW) | 4:13 |

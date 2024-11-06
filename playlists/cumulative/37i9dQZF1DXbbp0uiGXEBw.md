@@ -2,9 +2,9 @@
 
 ### [EQUAL Vietnam](https://open.spotify.com/playlist/37i9dQZF1DXbbp0uiGXEBw)
 
-> Tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Đinh Hương
+> Tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: 52Hz
 
-279 songs - 17 hr 56 min
+280 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Bài Ca Khởi Hành](https://open.spotify.com/track/0VZpQ2QGfzN9AlF62B2DrA) | [Hà Trần](https://open.spotify.com/artist/37cUqDVdpydDd8VtNlCLuk) | [Bài Ca Khởi Hành](https://open.spotify.com/album/33QwWYrON5FegB2hb6rUgT) | 4:54 | 2024-06-03 | 2024-07-31 |
 | [Bóng Hồng Lẻ Loi](https://open.spotify.com/track/2EvthuGElCn25rjzMGapNh) | [Han Sara](https://open.spotify.com/artist/7sI2avJ3MyFstC9oKNM7py) | [Bóng Hồng Lẻ Loi](https://open.spotify.com/album/2Qql9UdZUywVavkVfQUaEI) | 2:54 | 2024-09-06 |  |
 | [Bóng Phù Hoa](https://open.spotify.com/track/3fw9v7CztM2mqu1jCtbg9f) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG) | [Vũ Trụ Cò Bay](https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH) | 4:34 | 2023-10-02 |  |
-| [Bạn Chờ](https://open.spotify.com/track/32FuaOZbaeYQSSE10wdC7q) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Guess I Should've Known](https://open.spotify.com/album/6p4L9Cwn8ZrMJM4G2aCUNU) | 3:15 | 2024-05-21 |  |
+| [Bạn Chờ](https://open.spotify.com/track/32FuaOZbaeYQSSE10wdC7q) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Guess I Should've Known](https://open.spotify.com/album/6p4L9Cwn8ZrMJM4G2aCUNU) | 3:15 | 2024-05-21 | 2024-11-06 |
 | [Bởi Vì Là Khi Yêu](https://open.spotify.com/track/57idtlQlKCv3toIDtx5LaX) | [Lyly](https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx) | [Bởi Vì Là Khi Yêu](https://open.spotify.com/album/3pAb4r4EzKQNUqjrt8HCoe) | 4:12 | 2021-12-07 | 2024-04-03 |
 | [Bởi Vì Yêu](https://open.spotify.com/track/74C7vazAOSPwpVGxx21n5l) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Bởi Vì Yêu](https://open.spotify.com/album/7wgd9XeERTsnRGmBi1hIzU) | 3:26 | 2021-12-07 | 2022-02-02 |
 | [Cho Em Một Lần Yêu](https://open.spotify.com/track/5oQwxJJBwKPGkZliiyv3jQ) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [The Singer](https://open.spotify.com/album/6mqV4lo8LrZhDS3NzjVLP5) | 3:45 | 2022-04-06 | 2022-05-27 |
@@ -155,6 +155,7 @@
 | [MOONLIGHT](https://open.spotify.com/track/6BUoPkRrqMIKBqFNbSFpFM) | [LUNAS](https://open.spotify.com/artist/3nrWlcpQsthFyjL3X9iJvz) | [MOONLIGHT](https://open.spotify.com/album/5h9yK7t12CJ3gfmdkuBvL3) | 3:12 | 2024-05-20 | 2024-07-04 |
 | [Muộn Màng Là Từ Lúc](https://open.spotify.com/track/5UeD0rVFJXXl3HGjKiZbrt) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Tâm 9](https://open.spotify.com/album/3A9rCX2VkZWP6NGnLUnjQq) | 3:55 | 2024-08-01 |  |
 | [Mân Côi](https://open.spotify.com/track/0p2mf4CTUyzvBuzLrIgrvh) | [Linh Cáo](https://open.spotify.com/artist/0vTUa2hbNHke3omoGxuKFm) | [Mân Côi](https://open.spotify.com/album/5uHS6eI46RbGKPkzSR0tZY) | 4:13 | 2021-12-07 | 2022-04-07 |
+| [Mê Cung Tình Yêu \(prod\. RIO\)](https://open.spotify.com/track/57NB3UNDK1VPTRH0N1pqe7) | [52Hz](https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh) | [Mê Cung Tình Yêu \(prod\. RIO\)](https://open.spotify.com/album/45bGCkUeHNspinhIXAm5Oh) | 3:39 | 2024-11-05 |  |
 | [Mình Yêu Đến Đây Thôi](https://open.spotify.com/track/5P5lTAd4r6ro0rMpjwg34u) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC) | [Yêu Rồi Yêu Rồi Yêu](https://open.spotify.com/album/4ajoBTSkKcfjsWoHr99drC) | 4:45 | 2022-01-04 | 2023-02-07 |
 | [Mùa Hoa Năm Ấy](https://open.spotify.com/track/3HtfZZpvU3J0jGjf4QaDzw) | [Hồ Quỳnh Hương](https://open.spotify.com/artist/3EP4RX5LSuwDVy4mDeF1rl) | [Mùa Hoa Năm Ấy](https://open.spotify.com/album/7JOQ0K06NcM5RJGlCUHK1d) | 4:36 | 2024-04-02 | 2024-05-21 |
 | [Mơ Trên Môi Anh](https://open.spotify.com/track/1ohim4RJHeyDU9QmwymiTu) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [LALALA](https://open.spotify.com/album/2nP6ViYg4ZULw3dP8jcesq) | 3:29 | 2023-08-10 | 2023-09-06 |
@@ -267,7 +268,7 @@
 | [Yêu Để Chia Tay](https://open.spotify.com/track/3bTzNieil0tDqayUed0C0F) | [TIA](https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt) | [Circle Of Love](https://open.spotify.com/album/5sRBJrXrFrpVn1EfbM3EZd) | 2:53 | 2022-08-26 | 2022-12-01 |
 | [Yêu Để Chia Tay](https://open.spotify.com/track/6ko2FVllkcW64O5Lcu0HJu) | [TIA](https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt) | [Yêu Để Chia Tay](https://open.spotify.com/album/0kjhcrrX87h8W70R4Clqjh) | 2:53 | 2022-08-26 | 2022-08-31 |
 | [đen đá không đường](https://open.spotify.com/track/3clfEGdaeSmWM6pDekmZ2G) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 3:00 | 2024-03-07 |  |
-| [Đi Giữa Trời Rực Rỡ \(Original Soundtrack from “Đi Giữa Trời Rực Rỡ”\)](https://open.spotify.com/track/4HgTGTXHt1zie3upsI50zm) | [Ngô Lan Hương](https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC) | [Đi Giữa Trời Rực Rỡ \(Original Soundtrack from “Đi Giữa Trời Rực Rỡ”\)](https://open.spotify.com/album/6RMQBZcAJOtp9d6ZYeizly) | 3:40 | 2024-10-14 |  |
+| [Đi Giữa Trời Rực Rỡ \(Original Soundtrack from “Đi Giữa Trời Rực Rỡ”\)](https://open.spotify.com/track/4HgTGTXHt1zie3upsI50zm) | [Ngô Lan Hương](https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC) | [Đi Giữa Trời Rực Rỡ \(Original Soundtrack from “Đi Giữa Trời Rực Rỡ”\)](https://open.spotify.com/album/6RMQBZcAJOtp9d6ZYeizly) | 3:40 | 2024-10-14 | 2024-11-06 |
 | [Điều Ngọt Ngào Khi Chờ Đợi Anh](https://open.spotify.com/track/4g05dGhnA69TG6AJljEcL6) | [Nguyên Hà](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Điều Ngọt Ngào Khi Chờ Đợi Anh](https://open.spotify.com/album/4O5Y2CJavAsV8AkPZQqXrt) | 5:22 | 2021-12-07 | 2023-05-03 |
 | [Đào Đâu Ra Người Như Anh](https://open.spotify.com/track/5pNE3mSRGTVHg73f8cRAXO) | [Hoàng Yến Chibi](https://open.spotify.com/artist/1Dd0DajYMxzu1Q6kuXLyJ3) | [Đào Đâu Ra Người Như Anh](https://open.spotify.com/album/2uwQowCZqzDhjJ8DUiHWYe) | 3:11 | 2022-12-29 | 2023-01-04 |
 | [Đánh Rơi Bên Hồ](https://open.spotify.com/track/29BPzLawgvp0jL9W9xJU10) | [Thu Phương](https://open.spotify.com/artist/3LsIDqxwDjcEKbK3D1IrDk) | [Điều Cuối Cùng Đợi Chờ \- Tình Khúc Việt Anh](https://open.spotify.com/album/3jbf7ZuqY8FWCCAAVXAmXK) | 3:53 | 2024-08-01 | 2024-09-06 |
@@ -281,7 +282,7 @@
 | [Đại Minh Tinh](https://open.spotify.com/track/48D6GbuJqsGLTkNm6QvYwl) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Minh Tinh](https://open.spotify.com/album/2jNxIyiGLvQz7UPCRUuU76) | 4:07 | 2023-11-29 | 2024-08-02 |
 | [Đẩy Xe Bò](https://open.spotify.com/track/513yY4zlOPYCAnqH614sl1) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG) | [Vũ Trụ Cò Bay](https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH) | 2:45 | 2024-08-01 | 2024-08-02 |
 | [Đến Đón Em Đi Chơi Đi Anh](https://open.spotify.com/track/489cWPdS6lbpdBHmd9duxp) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj), [Duy Manh](https://open.spotify.com/artist/0MDeZ8vIkpFX3QkvY0el6B) | [Đến Đón Em Đi Chơi Đi Anh](https://open.spotify.com/album/0bRkXFokx3dtwJst6rcLCN) | 3:02 | 2023-03-08 | 2023-05-03 |
-| [ĐỢI \(Prod\. RIO\)](https://open.spotify.com/track/5C1O3fpMsiisJpHiB1uuDf) | [52Hz](https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh) | [ĐỢI \(Prod\. RIO\)](https://open.spotify.com/album/1lUZ3071nJ3asd2DBQy6dm) | 3:17 | 2024-01-09 | 2024-05-01 |
+| [ĐỢI \(Prod\. RIO\)](https://open.spotify.com/track/5C1O3fpMsiisJpHiB1uuDf) | [52Hz](https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh), [RIO](https://open.spotify.com/artist/4dH6uW4FU977FDuTcCHGUf) | [ĐỢI \(Prod\. RIO\)](https://open.spotify.com/album/1lUZ3071nJ3asd2DBQy6dm) | 3:17 | 2024-01-09 |  |
 | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s) | 3:25 | 2023-11-29 | 2024-03-08 |
 | [Đừng kết thúc hôm nay](https://open.spotify.com/track/1U4zQAW8s2kAMftN3avXL0) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [CAM'ON](https://open.spotify.com/album/5tZXLMvuV0A4HYbU9tcQrg) | 3:32 | 2024-02-06 | 2024-07-04 |
 | [Đừng kết thúc hôm nay](https://open.spotify.com/track/3VkPKSc5HU1WPahoLOCRnj) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Đừng kết thúc hôm nay](https://open.spotify.com/album/4h0hGD95lTVKwSjNZAvfp3) | 3:32 | 2023-12-09 | 2024-01-10 |

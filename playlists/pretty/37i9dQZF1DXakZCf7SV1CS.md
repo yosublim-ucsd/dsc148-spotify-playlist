@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,484 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,513 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 60 | [clueless](https://open.spotify.com/track/2PlrJupGTWvgVlGXSK95Me) | [kuru](https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu), [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [clueless](https://open.spotify.com/album/6gtMMyI4wfLnfEDvtYNQpg) | 2:07 |
 | 61 | [Friday Night](https://open.spotify.com/track/1lgIlt243DVXg597hMx3Uf) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [GFOTYBUCKS](https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH) | 3:25 |
 | 62 | [Butterfly Bankai](https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [Visored Vitality](https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN) | 2:32 |
-| 63 | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX) | 2:39 |
-| 64 | [Beautiful](https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 3:47 |
+| 63 | [Beautiful](https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 3:47 |
+| 64 | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX) | 2:39 |
 | 65 | [Rich Bitch Juice](https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Rich Bitch Juice](https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq) | 2:00 |
 | 66 | [Broken Flowers](https://open.spotify.com/track/7Km0ioOI11nh7xGatqrpDj) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Broken Flowers \- EP](https://open.spotify.com/album/6jpADwNRHSXDsvPSzARq00) | 3:23 |
 | 67 | [Donuts](https://open.spotify.com/track/6r7sY8M1bMW0kZm9s3LPMs) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [hot\_babe\_93](https://open.spotify.com/album/4ojbW4wXZ432UqQLymu0IJ) | 3:26 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 70 | [Drown U](https://open.spotify.com/track/5Qorbb9mOtPHu0adPY2Znz) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [XYZ](https://open.spotify.com/album/5BefoLRwqaVBuQpQkNKiyO) | 2:37 |
 | 71 | [babyur2nice](https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk) | [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [Avian](https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY) | 2:00 |
 | 72 | [MY WORLD](https://open.spotify.com/track/1yCD7yJFRBy7EIAd5N9xha) | [Kid Trash](https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh) | [HIGHSCHOOLUNDEAD](https://open.spotify.com/album/1PfcUcqehTpxk8EplvJQMc) | 2:49 |
-| 73 | [Drop FM](https://open.spotify.com/track/1HRvDMrEj64C6yoJeoH7uu) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Drop FM](https://open.spotify.com/album/3At8XHXUbY0BFdl1WJuteP) | 2:50 |
-| 74 | [Toy Car](https://open.spotify.com/track/2l46WbxHBP34NUbmHDFFyZ) | [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [WFLYTD](https://open.spotify.com/album/383qcrfxKodAdnhXGXbdRX) | 3:35 |
+| 73 | [Toy Car](https://open.spotify.com/track/2l46WbxHBP34NUbmHDFFyZ) | [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [WFLYTD](https://open.spotify.com/album/383qcrfxKodAdnhXGXbdRX) | 3:35 |
+| 74 | [Drop FM](https://open.spotify.com/track/1HRvDMrEj64C6yoJeoH7uu) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Drop FM](https://open.spotify.com/album/3At8XHXUbY0BFdl1WJuteP) | 2:50 |
 | 75 | [127 Hrs in Bed](https://open.spotify.com/track/2yJzPbpErIh83LB99C3XPo) | [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Dog Show](https://open.spotify.com/album/5mc2TzMXFMy2pTSBDGB2C0) | 1:57 |
 | 76 | [1UL](https://open.spotify.com/track/4sPCKi7i8DAdWc1WpQrmOG) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [1UL](https://open.spotify.com/album/1oNKlvMadv8K1wTBd5MwfC) | 3:25 |
 | 77 | [Koi](https://open.spotify.com/track/3Lf4PS3RzFb8VpMyJtkOl4) | [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Riot Boi](https://open.spotify.com/album/5SofOXwfXjZD3PyQZeED8W) | 3:48 |

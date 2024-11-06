@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Switzerland's biggest hits right now. Cover: HUGEL, Topic, Arash, Daecolm",
+  "description": "Switzerland's biggest hits right now. Cover: Alex Warren",
   "name": "Hot Hits Switzerland",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 142615,
       "name": "30\u00baC",
       "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
+    },
+    {
+      "album": {
+        "name": "4 Kamp\u00e9",
+        "url": "https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214971,
+      "name": "4 Kamp\u00e9",
+      "url": "https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ"
     },
     {
       "album": {
@@ -318,7 +336,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
@@ -522,6 +540,24 @@
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
     },
     {
       "album": {
@@ -1160,7 +1196,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 176470,
       "name": "MAVRO",
       "url": "https://open.spotify.com/track/0bDpPAx40pcMO45AplmV3b"
@@ -1849,6 +1885,28 @@
     },
     {
       "album": {
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301623,
+      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
+    },
+    {
+      "album": {
         "name": "Ta Dish",
         "url": "https://open.spotify.com/album/1gytUcD72JIBO4iL1EDiPv"
       },
@@ -1974,7 +2032,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"

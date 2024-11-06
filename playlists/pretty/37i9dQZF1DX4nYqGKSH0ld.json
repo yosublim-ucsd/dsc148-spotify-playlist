@@ -1,6 +1,6 @@
 {
   "description": "Get ready for good feels and fireworks!",
-  "num_followers": 226186,
+  "num_followers": 226167,
   "original_name": "4th of July Party",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-07-01 19:51:19",
       "album": {
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Uptown Girl",
+      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+    },
+    {
+      "added_at": "2024-07-01 19:51:19",
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 175426,
       "name": "Classic",
       "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
-    },
-    {
-      "added_at": "2024-07-01 19:51:19",
-      "album": {
-        "name": "An Innocent Man",
-        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "Uptown Girl",
-      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
     },
     {
       "added_at": "2024-07-01 19:51:19",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-07-01 19:51:19",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
-    },
-    {
-      "added_at": "2024-07-01 19:51:19",
-      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 163253,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+    },
+    {
+      "added_at": "2024-07-01 19:51:19",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
     },
     {
       "added_at": "2024-07-01 19:51:19",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-07-01 19:51:19",
       "album": {
+        "name": "Sweet Caroline",
+        "url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Sweet Caroline",
+      "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"
+    },
+    {
+      "added_at": "2024-07-01 19:51:19",
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 288293,
       "name": "Boogie Wonderland",
       "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
-    },
-    {
-      "added_at": "2024-07-01 19:51:19",
-      "album": {
-        "name": "Sweet Caroline",
-        "url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Sweet Caroline",
-      "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"
     },
     {
       "added_at": "2024-07-01 19:51:19",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-07-01 19:51:19",
       "album": {
-        "name": "Double Wide",
-        "url": "https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ"
-      },
-      "artists": [
-        {
-          "name": "Uncle Kracker",
-          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
-        }
-      ],
-      "duration_ms": 218439,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc"
-    },
-    {
-      "added_at": "2024-07-01 19:51:19",
-      "album": {
         "name": "City to City",
         "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 267773,
       "name": "Right Down the Line",
       "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
+    },
+    {
+      "added_at": "2024-07-01 19:51:19",
+      "album": {
+        "name": "Double Wide",
+        "url": "https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ"
+      },
+      "artists": [
+        {
+          "name": "Uncle Kracker",
+          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
+        }
+      ],
+      "duration_ms": 218439,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc"
     },
     {
       "added_at": "2024-07-01 19:51:19",

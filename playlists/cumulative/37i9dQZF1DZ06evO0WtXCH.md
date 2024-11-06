@@ -4,7 +4,7 @@
 
 > This is Quicksand\. The essential tracks, all in one playlist.
 
-45 songs - 2 hr 13 min
+46 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Feels Like A Weight Has Been Lifted](https://open.spotify.com/track/6CoD3wMYARMmkjaaxiWJmZ) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 3:35 | 2023-04-25 | 2023-04-29 |
 | [Felíz](https://open.spotify.com/track/0FuxK5rKSaHq58svnOaO73) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Felíz](https://open.spotify.com/album/1AuXDucHakfrZb2EqrdfeL) | 2:47 | 2022-11-17 | 2024-07-20 |
 | [Fire This Time](https://open.spotify.com/track/69shxYcOeyQiMJDIVlHZGE) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 3:22 | 2023-02-06 |  |
-| [Free Radio Gainesville](https://open.spotify.com/track/5bH0k3C0INLYZhs8Mb2xBM) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Split](https://open.spotify.com/album/00K0NjjQMnHH0pbNB6a31a) | 2:34 | 2024-10-31 |  |
+| [Free Radio Gainesville](https://open.spotify.com/track/5bH0k3C0INLYZhs8Mb2xBM) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Split](https://open.spotify.com/album/00K0NjjQMnHH0pbNB6a31a) | 2:34 | 2024-10-31 | 2024-11-06 |
+| [Free Radio Gainesville](https://open.spotify.com/track/619tfzPgzkD5aGUFF30PkV) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Split](https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb) | 2:34 | 2024-11-06 |  |
 | [Freezing Process](https://open.spotify.com/track/5VBol3e1pnxK1yjsl0jppx) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:19 | 2022-11-17 |  |
 | [Giving The Past Away](https://open.spotify.com/track/3RfK7XioFJ4ZDZSIb4cQzm) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Giving The Past Away](https://open.spotify.com/album/7qBUAfoQWv76k8I1Gi7pBc) | 3:31 | 2022-11-17 |  |
 | [Head To Wall](https://open.spotify.com/track/75EwFbw7cPAoTFDAxtFfzm) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:07 | 2022-11-17 |  |

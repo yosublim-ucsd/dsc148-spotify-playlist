@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-314 songs - 19 hr 4 min
+315 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Our Friends Don't Think I Deserve You](https://open.spotify.com/track/62fSokXCylmrzxySNTPjrq) | [Nora Legrand](https://open.spotify.com/artist/7G7qvIAfp8DKYAlQH8XH3N) | [Our Friends Don't Think I Deserve You](https://open.spotify.com/album/2LkbmuEzm415toSaCaBzmC) | 2:18 | 2024-05-16 | 2024-06-05 |
 | [Out in the Backyard](https://open.spotify.com/track/5SEdPtbU8mBVtLYbTFjbJ3) | [Konradsen](https://open.spotify.com/artist/59CWeBMEzwj6U2HhTVLJ3O) | [Out in the Backyard](https://open.spotify.com/album/5agiqfFKIiceHwD2E44Zdr) | 3:40 | 2023-11-23 | 2023-12-23 |
 | [Part Of The Story](https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Part Of The Story](https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG) | 3:07 | 2024-09-05 |  |
+| [Peace Song](https://open.spotify.com/track/2RTGWy7mMTKcLeQiHapuTv) | [Moreau](https://open.spotify.com/artist/6wydoYiLiAUaJVxQc0iKpK) | [Peace Song](https://open.spotify.com/album/1bEBNy9nUcZhTCMwc6GDD1) | 2:50 | 2024-10-17 |  |
 | [Peaceful Easy Feeling](https://open.spotify.com/track/2G48AXcYCzTPM7WMCoAKJy) | [Birds are better](https://open.spotify.com/artist/0ZYJwHf0cMQ2FTg9IMlpIZ) | [Peaceful Easy Feeling](https://open.spotify.com/album/2uxvMTMKp8jS3icJPSqIhL) | 2:51 | 2024-09-05 | 2024-10-13 |
 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 | 2021-12-02 |  |
 | [Poor Symmetry](https://open.spotify.com/track/4FAiqzB4VQSckzurMJ5wSX) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Poor Symmetry / Cities](https://open.spotify.com/album/624PNGP795hhIwigo5ixXg) | 2:01 | 2024-04-11 | 2024-07-19 |
@@ -260,7 +261,7 @@
 | [The Sky Is Painted Gray Today](https://open.spotify.com/track/6IMK8QiJ4ehdOGNGmIXUgA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky Is Painted Gray Today](https://open.spotify.com/album/5F89kdB5vCOgwLRydYFnIE) | 3:41 | 2021-12-02 | 2022-07-29 |
 | [The Speed of Life](https://open.spotify.com/track/42opmht9GJpxaxwMh79oQD) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [The Speed of Life](https://open.spotify.com/album/67RgoyC2ZlmnPUUHVzMFly) | 3:21 | 2024-05-02 |  |
 | [The State of the World](https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [The State of the World](https://open.spotify.com/album/3ljKtIU7yeXyzKehTUsL39) | 4:18 | 2024-03-21 |  |
-| [The Sun of the Island](https://open.spotify.com/track/2FniJxOBwfJdOiTRaW9icP) | [Peter von Poehl](https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W), [Marie Modiano](https://open.spotify.com/artist/2znK4wNHFUwPKYyTJFOj2R) | [The Sun of the Island](https://open.spotify.com/album/7m7G39PZmDAeTAUPXffCdl) | 4:18 | 2024-04-18 |  |
+| [The Sun of the Island](https://open.spotify.com/track/2FniJxOBwfJdOiTRaW9icP) | [Peter von Poehl](https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W), [Marie Modiano](https://open.spotify.com/artist/2znK4wNHFUwPKYyTJFOj2R) | [The Sun of the Island](https://open.spotify.com/album/7m7G39PZmDAeTAUPXffCdl) | 4:18 | 2024-04-18 | 2024-11-06 |
 | [The Sweetest Tune](https://open.spotify.com/track/4vDxQKlCJVfsTdK4g9eA5x) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Vinyl and a Heartache](https://open.spotify.com/album/3ggLoeg7Vv2fx1OoR1Egte) | 3:39 | 2022-08-18 | 2023-05-20 |
 | [The Sweetest Tune](https://open.spotify.com/track/5XzOc450ipHJN7R5Xaxwyg) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Vinyl and a Heartache](https://open.spotify.com/album/2xvl46LPQ9xmyj6Z2M9FB9) | 3:39 | 2021-12-02 | 2022-07-29 |
 | [This Year's Love](https://open.spotify.com/track/1kK9VfP8KJcfDH5j3wahvd) | [Alejandro Fuentes](https://open.spotify.com/artist/43uURL7UXIZoVIsTTrLe7d) | [This Year's Love](https://open.spotify.com/album/4ITEQe7tM7OAYqICzWepTC) | 3:57 | 2024-06-06 | 2024-08-23 |

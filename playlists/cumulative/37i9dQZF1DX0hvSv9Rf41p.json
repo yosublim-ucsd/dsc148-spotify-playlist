@@ -2398,7 +2398,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 211343,
       "name": "Body Heat",
       "url": "https://open.spotify.com/track/7LAbPwr8looSaWBL26pxLV"
@@ -3874,6 +3874,24 @@
       "duration_ms": 181621,
       "name": "Conquer",
       "url": "https://open.spotify.com/track/38xfZGIHjdZnSfMuJu7R1Z"
+    },
+    {
+      "album": {
+        "name": "CONTROL",
+        "url": "https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145600,
+      "name": "CONTROL",
+      "url": "https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK"
     },
     {
       "album": {
@@ -14668,7 +14686,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 189376,
       "name": "OneHundred",
       "url": "https://open.spotify.com/track/5SNvyCJJ5OLKDLQza2EPLP"
@@ -20904,7 +20922,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 186461,
       "name": "Trippy Land",
       "url": "https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz"

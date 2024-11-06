@@ -3019,6 +3019,28 @@
     },
     {
       "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
@@ -3712,7 +3734,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 163031,
       "name": "AY MAM\u00c1",
       "url": "https://open.spotify.com/track/2lAUq68F2bt7Kc218n9FPp"
@@ -4512,6 +4534,24 @@
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
+    },
+    {
+      "album": {
+        "name": "AMERI",
+        "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201052,
+      "name": "Barro",
+      "url": "https://open.spotify.com/track/131d6Ui0C7bsQPeprvawCy"
     },
     {
       "album": {
@@ -6678,7 +6718,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 235200,
       "name": "Calaveras y Diablitos",
       "url": "https://open.spotify.com/track/3hEMRRpy1AiRma7mlsVqY7"
@@ -6709,7 +6749,7 @@
       "artists": [
         {
           "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/75myVgZbKQkWpyHAlLUCmG"
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
         },
         {
           "name": "Celso Pi\u00f1a",
@@ -6718,7 +6758,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 260974,
       "name": "Calaveritas",
       "url": "https://open.spotify.com/track/1BmNqkmLmBqIU5ToPdbnnw"
@@ -6740,7 +6780,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 260974,
       "name": "Calaveritas",
       "url": "https://open.spotify.com/track/1rfOVVrDPHouBZhiTL3kzs"
@@ -17214,10 +17254,28 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 239133,
       "name": "Ghostbusters",
       "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2bzvRIU2dVDWb3J9khpkxo"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239133,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/6thXB4RmajS4oZPNiBAKy0"
     },
     {
       "album": {
@@ -21544,7 +21602,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 165533,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/5HIXwsSwowXq6zerUeqD7l"
@@ -24312,7 +24370,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 233546,
       "name": "Lunes 28",
       "url": "https://open.spotify.com/track/1p2JJQEphrJIvt5YcQ2NCI"
@@ -26676,7 +26734,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 192941,
       "name": "Mil\u00e1n",
       "url": "https://open.spotify.com/track/7GkmRNPwOee8SWhLkhcz54"
@@ -27440,7 +27498,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
@@ -27516,6 +27574,24 @@
       "duration_ms": 220273,
       "name": "Morena",
       "url": "https://open.spotify.com/track/03NjizgksFxcj3JpxLh3vn"
+    },
+    {
+      "album": {
+        "name": "Que Sigan Llegando Las Pacas (Extended)",
+        "url": "https://open.spotify.com/album/0IeCqguWKSslODbwnrelhq"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178336,
+      "name": "Morena Canela",
+      "url": "https://open.spotify.com/track/0NsGFMIo2aNbAkJu48ndaf"
     },
     {
       "album": {
@@ -29618,6 +29694,24 @@
       "duration_ms": 160946,
       "name": "Nobody Like U",
       "url": "https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB"
+    },
+    {
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284363,
+      "name": "Noid",
+      "url": "https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41"
     },
     {
       "album": {
@@ -35540,7 +35634,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 150523,
       "name": "Rey Sin Reina",
       "url": "https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3"
@@ -37760,6 +37854,32 @@
       "duration_ms": 156000,
       "name": "SI NO ES CONTIGO",
       "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
+    },
+    {
+      "album": {
+        "name": "SI NO ES CONTIGO (REMIX)",
+        "url": "https://open.spotify.com/album/6ilRhpB01gqO1lI9OtGmGj"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254500,
+      "name": "SI NO ES CONTIGO - REMIX",
+      "url": "https://open.spotify.com/track/4MAv7MqIlcaTBHGiUXIWiw"
     },
     {
       "album": {
@@ -41207,6 +41327,24 @@
     },
     {
       "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "album": {
         "name": "The Astronaut",
         "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
       },
@@ -41767,12 +41905,12 @@
       "artists": [
         {
           "name": "The Citizens of Halloween",
-          "url": "https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r"
+          "url": "https://open.spotify.com/artist/4LazDzEGshEUn9D2zbm6w2"
         }
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
@@ -42992,6 +43130,24 @@
       "duration_ms": 151152,
       "name": "Tumbas por Aqu\u00ed",
       "url": "https://open.spotify.com/track/0MXtV4T61W9ljR0Kw4fIbZ"
+    },
+    {
+      "album": {
+        "name": "Tumbayork",
+        "url": "https://open.spotify.com/album/3Yvc0qZdCKDR3GIxXPLRSY"
+      },
+      "artists": [
+        {
+          "name": "Emipaiy",
+          "url": "https://open.spotify.com/artist/1aBZltZh7kyl4rUGSYRXLx"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127824,
+      "name": "Tumbayork",
+      "url": "https://open.spotify.com/track/3Fxc8r8XAhIBNhXvPy2Ylj"
     },
     {
       "album": {
@@ -44230,7 +44386,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 300000,
       "name": "Vaquero - Remix",
       "url": "https://open.spotify.com/track/7l3UuUZEqvxjhKYD2QBxOU"

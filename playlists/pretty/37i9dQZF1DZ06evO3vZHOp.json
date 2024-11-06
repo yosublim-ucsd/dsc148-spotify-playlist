@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 347675,
+  "num_followers": 347737,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAABAqWXMuuYeXkDGw1OtKEwy",
+  "snapshot_id": "ZygOgAAAAAC/7zIavxfiH4qsCKL20/Tm",
   "tracks": [
     {
       "added_at": null,
@@ -71,42 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 216338,
-      "name": "Hey Lil Mama",
-      "url": "https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sauce Boyz 2",
-        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 198739,
-      "name": "Hola Como Vas",
-      "url": "https://open.spotify.com/track/0MEZYGMSPxNwUO4nAdQRBW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMERI",
         "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
       },
@@ -127,6 +91,42 @@
       "duration_ms": 216432,
       "name": "Hardaway",
       "url": "https://open.spotify.com/track/0ySEghkXDk4L50ZnnlPcB8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sauce Boyz 2",
+        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 198739,
+      "name": "Hola Como Vas",
+      "url": "https://open.spotify.com/track/0MEZYGMSPxNwUO4nAdQRBW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 216338,
+      "name": "Hey Lil Mama",
+      "url": "https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG"
     },
     {
       "added_at": null,
@@ -907,22 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "RKO",
-      "url": "https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sauce Boyz",
         "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 191164,
       "name": "Hielo",
       "url": "https://open.spotify.com/track/24UGLsGfKHgQhGviBrbDdl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "RKO",
+      "url": "https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ"
     },
     {
       "added_at": null,
@@ -975,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sauce Boyz",
         "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 184405,
       "name": "Hennessy",
       "url": "https://open.spotify.com/track/3A4mcukwxLsaD5Q4J5Iixr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
     },
     {
       "added_at": null,

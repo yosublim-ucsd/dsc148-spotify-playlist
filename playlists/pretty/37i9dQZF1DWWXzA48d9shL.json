@@ -1,13 +1,37 @@
 {
   "description": "Rap from hell. Cover: $uicideboy$",
-  "num_followers": 593159,
+  "num_followers": 593179,
   "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxHrUAAAAABD+dzZutgprd/AAZfHqCQG",
+  "snapshot_id": "Zyo7wAAAAABupcLnfTy2jMwrm5OgBn2/",
   "tracks": [
+    {
+      "added_at": "2024-11-05 15:37:36",
+      "album": {
+        "name": "HAND OF GOD",
+        "url": "https://open.spotify.com/album/3iiaoDbegf42GdVGpl7HXc"
+      },
+      "artists": [
+        {
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
+        },
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        },
+        {
+          "name": "GODHANDUSA",
+          "url": "https://open.spotify.com/artist/52XZBIfTRn9iyM7QLf6DmX"
+        }
+      ],
+      "duration_ms": 230117,
+      "name": "HAND OF GOD",
+      "url": "https://open.spotify.com/track/5uU3WcUlNxcbP2nGiTihW8"
+    },
     {
       "added_at": "2024-06-14 05:00:00",
       "album": {
@@ -23,26 +47,6 @@
       "duration_ms": 130500,
       "name": "Thorns",
       "url": "https://open.spotify.com/track/1zUqoSVqUE2O5x3MJ0mHz9"
-    },
-    {
-      "added_at": "2024-06-14 05:00:00",
-      "album": {
-        "name": "the ghost and the spider",
-        "url": "https://open.spotify.com/album/18k2UoIPpnKIf4sr5PWeG5"
-      },
-      "artists": [
-        {
-          "name": "Lil Darkie",
-          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
-        },
-        {
-          "name": "Savage Ga$p",
-          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
-        }
-      ],
-      "duration_ms": 181090,
-      "name": "the ghost and the spider",
-      "url": "https://open.spotify.com/track/5OMPhfn3sfkowTaluYOPxs"
     },
     {
       "added_at": "2024-08-23 05:00:00",
@@ -75,6 +79,26 @@
       "duration_ms": 67395,
       "name": "Shinjuku Station",
       "url": "https://open.spotify.com/track/64M6KHUZMPQ9e8Bg9IsqWL"
+    },
+    {
+      "added_at": "2024-06-14 05:00:00",
+      "album": {
+        "name": "the ghost and the spider",
+        "url": "https://open.spotify.com/album/18k2UoIPpnKIf4sr5PWeG5"
+      },
+      "artists": [
+        {
+          "name": "Lil Darkie",
+          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
+        },
+        {
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "the ghost and the spider",
+      "url": "https://open.spotify.com/track/5OMPhfn3sfkowTaluYOPxs"
     },
     {
       "added_at": "2024-06-07 05:00:00",
@@ -1531,22 +1555,6 @@
       "duration_ms": 142047,
       "name": "BANDS!",
       "url": "https://open.spotify.com/track/00DcGQYevuWmUzqXetdczu"
-    },
-    {
-      "added_at": "2024-08-23 05:00:00",
-      "album": {
-        "name": "Atxmic-Bxmb.",
-        "url": "https://open.spotify.com/album/5m31ElwTduQrxwXOkAaIPc"
-      },
-      "artists": [
-        {
-          "name": "Scarlxrd",
-          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
-        }
-      ],
-      "duration_ms": 157563,
-      "name": "Atxmic-Bxmb.",
-      "url": "https://open.spotify.com/track/14anA5oIZszxWvvOAfoE8y"
     },
     {
       "added_at": "2024-03-08 05:00:00",

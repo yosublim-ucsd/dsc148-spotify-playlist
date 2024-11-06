@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-581 songs - 1 day 11 hr 54 min
+582 songs - 1 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 | 2024-01-04 | 2024-01-28 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-24 | 2022-10-09 |
 | [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 | 2021-03-27\* | 2021-08-19 |
-| [Akhir Tak Bahagia](https://open.spotify.com/track/304FEq5eVvrxur9KdHhC5I) | [Misellia](https://open.spotify.com/artist/5IjwAAk3njAeiFY1InInsn) | [Penyendiri](https://open.spotify.com/album/70JRb7Z5FHl8lcyUXmNFHc) | 3:03 | 2024-03-18 |  |
+| [Akhir Tak Bahagia](https://open.spotify.com/track/304FEq5eVvrxur9KdHhC5I) | [Misellia](https://open.spotify.com/artist/5IjwAAk3njAeiFY1InInsn) | [Penyendiri](https://open.spotify.com/album/70JRb7Z5FHl8lcyUXmNFHc) | 3:03 | 2024-03-18 | 2024-11-06 |
 | [Akhir Tak Bahagia](https://open.spotify.com/track/0BYoWATcndOBcsCfKdTKRx) | [Misellia](https://open.spotify.com/artist/5IjwAAk3njAeiFY1InInsn) | [Akhir Tak Bahagia](https://open.spotify.com/album/7zv0LcKjGlAUiTXQJzqhSY) | 3:05 | 2021-05-15 | 2022-01-12 |
 | [Aku Bukan Jodohnya](https://open.spotify.com/track/4YuzrUzwpTR8aRqLqepiFo) | [Tri Suaka](https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC) | [Aku Bukan Jodohnya](https://open.spotify.com/album/4QOfOq221iUZ9m9q24zuY5) | 4:04 | 2021-11-21 | 2022-03-06 |
 | [AKU MASIH MEMIKIRKANMU](https://open.spotify.com/track/2KCikMsmJSBEgfOOskQ87P) | [Kezia](https://open.spotify.com/artist/2CcuEDxpgMLXTjNf1sci2b) | [AKU MASIH MEMIKIRKANMU](https://open.spotify.com/album/7L4EwSoKKigcjc4I4xDn6d) | 4:07 | 2022-05-07 | 2022-08-14 |
@@ -449,6 +449,7 @@
 | [Seluruh Nafas Ini](https://open.spotify.com/track/2vzpoecVhBE1pKtHzKONaN) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288), [Gisel](https://open.spotify.com/artist/4L0t6db3fWWG07bh14TxUw) | [Our Biggest Thing Ever](https://open.spotify.com/album/0lmWHPA0DAJY2xKscafErm) | 4:52 | 2024-06-18 | 2024-06-20 |
 | [Semata Karenamu](https://open.spotify.com/track/1SWBzZg6n9JZq7bnXxPPai) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Semata Karenamu](https://open.spotify.com/album/00Gd00OvRY6pKawXA1iCKs) | 4:38 | 2023-05-07 | 2023-05-09 |
 | [Semata Karenamu](https://open.spotify.com/track/4z6FksNI6MLCDTHrNJXhO0) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Semata Karenamu](https://open.spotify.com/album/7Cc4mRgFWAomMajhwO0xr6) | 4:38 | 2022-11-19 | 2023-05-08 |
+| [Semenjak Ada Dirimu](https://open.spotify.com/track/5H4MSA6eIr6x1iBTn1vpMG) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Semenjak Ada Dirimu](https://open.spotify.com/album/3ofCjilmmAuyucK9AwULA8) | 3:46 | 2024-11-05 |  |
 | [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 | 2022-06-21 | 2024-05-12 |
 | [Semua Aku Dirayakan](https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Semua Aku Dirayakan](https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ) | 5:10 | 2023-08-22 | 2023-10-15 |
 | [Semua Aku Dirayakan](https://open.spotify.com/track/4rcuS31IcZynp91dqvmhmA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Untuk Dunia, Cinta, dan Kotornya](https://open.spotify.com/album/5hpq1LSLCuC7cifjXAM5bf) | 5:10 | 2023-10-14 | 2024-04-12 |

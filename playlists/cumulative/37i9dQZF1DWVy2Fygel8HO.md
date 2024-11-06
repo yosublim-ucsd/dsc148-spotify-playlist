@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-142 songs - 5 hr 53 min
+143 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Circles](https://open.spotify.com/track/3MnM36tXNPNP49cUxhHrtD) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Circles](https://open.spotify.com/album/4DZ886WDUnLriERKMmAbt8) | 2:17 | 2023-05-09 |  |
 | [Close your Eyes](https://open.spotify.com/track/6koJtjGt395U7QwSpoPZBn) | [Gil Sunniver](https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM) | [Close your Eyes](https://open.spotify.com/album/3aAxFLIoHyNo9FgAdrcGv7) | 1:46 | 2023-05-09 |  |
 | [Closing Stages](https://open.spotify.com/track/45XxWtNAwclSQIBJDUVw6N) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Closing Stages](https://open.spotify.com/album/2uAnT5ZeIyl28nA97aJ9YP) | 2:49 | 2023-06-20 |  |
+| [Clouds Coming](https://open.spotify.com/track/7bTycbdDfQELplifneZzJj) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Clouds Coming](https://open.spotify.com/album/7IAk6YxAb3zjyOaGV0nzb0) | 2:26 | 2024-11-05 |  |
 | [Com Sono](https://open.spotify.com/track/7oOdPpgbxnNVnlEQedAdg6) | [Fernando Alegre](https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn) | [Com Sono](https://open.spotify.com/album/7bhBU3UhFVcfhY5fmAnkpu) | 2:03 | 2023-09-11 |  |
 | [Continuum](https://open.spotify.com/track/6r8KQsw5w6xLPgCcz5f9gX) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Continuum](https://open.spotify.com/album/5Kwp883TNLiSnBqgvsrQfV) | 1:21 | 2023-05-09 |  |
 | [Copenhagen Lullaby](https://open.spotify.com/track/7DEtUcuVDrjKf2VaVwarV5) | [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Copenhagen Lullabies](https://open.spotify.com/album/6LjSPzTlsMM0eOwWrnAzTx) | 2:25 | 2023-05-09 |  |

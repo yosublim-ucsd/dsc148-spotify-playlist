@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of best tracks of 2023 by independent, developing artists from around the world. Cover: Searows\n",
-  "num_followers": 7590,
+  "num_followers": 7610,
   "original_name": "Fresh Finds: Class of 2023",
   "owner": {
     "name": "Spotify",
@@ -579,18 +579,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Wana",
-        "url": "https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm"
+        "name": "Springtime Red Tulips",
+        "url": "https://open.spotify.com/album/42pl1MIpxGddTozmgG0or1"
       },
       "artists": [
         {
-          "name": "nour",
-          "url": "https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo"
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
         }
       ],
-      "duration_ms": 219428,
-      "name": "Wana",
-      "url": "https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss"
+      "duration_ms": 274976,
+      "name": "Springtime Red Tulips",
+      "url": "https://open.spotify.com/track/7jrwX0azm3t7IHqR3B0jNe"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -611,18 +611,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Springtime Red Tulips",
-        "url": "https://open.spotify.com/album/42pl1MIpxGddTozmgG0or1"
+        "name": "Wana",
+        "url": "https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm"
       },
       "artists": [
         {
-          "name": "Bo Staloch",
-          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
+          "name": "nour",
+          "url": "https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo"
         }
       ],
-      "duration_ms": 274976,
-      "name": "Springtime Red Tulips",
-      "url": "https://open.spotify.com/track/7jrwX0azm3t7IHqR3B0jNe"
+      "duration_ms": 219428,
+      "name": "Wana",
+      "url": "https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Old Dirt Roads",
-        "url": "https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 227891,
-      "name": "Old Dirt Roads",
-      "url": "https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Raining Tomorrow",
         "url": "https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 228484,
       "name": "Raining Tomorrow",
       "url": "https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Old Dirt Roads",
+        "url": "https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 227891,
+      "name": "Old Dirt Roads",
+      "url": "https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Conditions",
-        "url": "https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ"
-      },
-      "artists": [
-        {
-          "name": "Giift",
-          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
-        }
-      ],
-      "duration_ms": 131541,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Criteria",
         "url": "https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 142500,
       "name": "More In Love (with Grady)",
       "url": "https://open.spotify.com/track/3gnz988nn8pcUGijzH4h9O"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Conditions",
+        "url": "https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ"
+      },
+      "artists": [
+        {
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+        }
+      ],
+      "duration_ms": 131541,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr"
     },
     {
       "added_at": "2024-01-10 16:06:35",

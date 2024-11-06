@@ -2,9 +2,9 @@
 
 ### [Hot Hits Deutschland](https://open.spotify.com/playlist/37i9dQZF1DX4jP4eebSWR9)
 
-> 50 Hits in einer Playlist! Cover: Shirin David, Sampagne
+> 50 Hits in einer Playlist! Cover: bac
 
-77 songs - 3 hr 39 min
+79 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [LIEBE \(feat\. Nina Chuba\)](https://open.spotify.com/track/4xbej5ZuyFU9OmxN8jud3r) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [LIEBE feat\. Nina Chuba](https://open.spotify.com/album/1k1mhguHDgmK4mMUcWcGlK) | 3:13 | 2024-10-29 |  |
 | [Lilien](https://open.spotify.com/track/3ovTEUMYEoiT8ikEMVXBmS) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [In Liebe](https://open.spotify.com/album/3cB6tCOD8fqXuYwbpcrcdV) | 2:40 | 2024-09-10 |  |
 | [Mama hat gesagt](https://open.spotify.com/track/086edN2nz8TjB3zddIdlPn) | [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [Mama hat gesagt](https://open.spotify.com/album/3396TEBenjqgtH7GskkRXu) | 3:16 | 2024-09-10 | 2024-10-17 |
-| [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-22 |  |
+| [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-22 | 2024-11-06 |
 | [Meer](https://open.spotify.com/track/1CfXReZpkv5l10m1Zc1mGn) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Meer](https://open.spotify.com/album/1FJOvb5Be9ntGSps0DeNBs) | 3:46 | 2024-09-10 |  |
 | [Miami](https://open.spotify.com/track/5N1C1ii0IsKp1Ux3OXUM8C) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Miami](https://open.spotify.com/album/7afOEr838kmsWI5peWbZB2) | 3:04 | 2024-09-10 |  |
 | [mit dir ist es anders](https://open.spotify.com/track/5pYwlWa3wwKlTEyt4jvWvS) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [pass auf mein herz auf](https://open.spotify.com/album/1Cyp8PDZmddPo100wHR09j) | 2:36 | 2024-10-16 |  |
@@ -74,15 +74,17 @@
 | [Si Ai](https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b) | [Tayna](https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ) | [Si Ai](https://open.spotify.com/album/7JRTgBc4mvX7CfkfDhaLMK) | 2:46 | 2024-09-10 |  |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-09-10 | 2024-10-02 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-09-10 |  |
+| [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-11-05 |  |
 | [Tanzalarm](https://open.spotify.com/track/1wtXpsjzyFyCh4mOtHbZTl) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg) | [Kinder der Nacht](https://open.spotify.com/album/03ZSs84M2XclxatHoirtDv) | 2:55 | 2024-09-17 |  |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-09-10 | 2024-10-23 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-29 |  |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-10 |  |
-| [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-10-01 |  |
+| [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-10-01 | 2024-11-06 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-09-10 | 2024-10-09 |
 | [VEMPA](https://open.spotify.com/track/3pPMgoouYtezLiBTEeL9be) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [CHEKAA](https://open.spotify.com/artist/61vhXXSO0lkbxFvnXHx8QP) | [VEMPA](https://open.spotify.com/album/0AXShQulBiviUJkpaVR4EH) | 2:14 | 2024-09-10 |  |
 | [Was wäre wenn du nicht wärst?](https://open.spotify.com/track/1wYdHjqYbGZW087h9lFHxX) | [FANJI](https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy) | [Was wäre wenn du nicht wärst?](https://open.spotify.com/album/0ANGBiq4fo4acpGYXFCGTe) | 2:47 | 2024-09-10 |  |
 | [WE PRAY \- Single Version](https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY](https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK) | 3:53 | 2024-09-10 |  |
+| [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-11-05 |  |
 | [Wunder](https://open.spotify.com/track/16f4ZN6XOfrIO8fJkm28HM) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1), [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Wunder](https://open.spotify.com/album/5O4Ps6WmC2nFKpUP5TIIMa) | 2:56 | 2024-09-10 |  |
 | [ZEIT, DASS SICH WAS DREHT](https://open.spotify.com/track/1NifMX1JqCz9caJowG8dxq) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [ZEIT, DASS SICH WAS DREHT](https://open.spotify.com/album/3kGCNaXI68tIspcsuWQ1yy) | 2:33 | 2024-09-10 | 2024-10-02 |
 

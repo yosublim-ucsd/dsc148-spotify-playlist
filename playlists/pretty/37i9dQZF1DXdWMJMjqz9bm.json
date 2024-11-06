@@ -1,12 +1,12 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: Anella Herim",
-  "num_followers": 217874,
+  "num_followers": 218054,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxfx3AAAAAC3wtkymS2a3cCQjmf6GvJj",
+  "snapshot_id": "ZyqS2QAAAAC6+AsfEsM5Ml/gFaAk+O0g",
   "tracks": [
     {
       "added_at": "2024-10-18 19:47:48",
@@ -43,6 +43,26 @@
       "duration_ms": 155513,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/2WJXlmZ5ZgFkUjcs3798sc"
+    },
+    {
+      "added_at": "2024-11-05 21:49:13",
+      "album": {
+        "name": "IOU",
+        "url": "https://open.spotify.com/album/0q3267f3x9hLlTiZ07aUMa"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        },
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        }
+      ],
+      "duration_ms": 191622,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/3akZGuqQhifRrFYB8UCell"
     },
     {
       "added_at": "2024-05-31 16:56:00",

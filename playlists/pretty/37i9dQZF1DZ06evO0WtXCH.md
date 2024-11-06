@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WtXCH.md) - [plain]
 
 > This is Quicksand\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219 likes - 30 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,220 likes - 30 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fazer](https://open.spotify.com/track/0Bv2ixOjn8jKiVTQXE9mF8) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:13 |
 | 2 | [Thorn In My Side](https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 2:36 |
-| 3 | [Free Radio Gainesville](https://open.spotify.com/track/5bH0k3C0INLYZhs8Mb2xBM) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Split](https://open.spotify.com/album/00K0NjjQMnHH0pbNB6a31a) | 2:34 |
+| 3 | [Supercollider](https://open.spotify.com/track/4HLcXpokwMFlpVpPOvX7Jz) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Split](https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb) | 2:49 |
 | 4 | [Lightning Field](https://open.spotify.com/track/76EZdckv7V2EIyvSu6hpx8) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 2:23 |
 | 5 | [Dine Alone](https://open.spotify.com/track/27X1P8USDRbZ5RNjbbQ9d1) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:27 |
 | 6 | [Backward](https://open.spotify.com/track/3OzXhpTO6Y3aDH7OzFAIbg) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 1:43 |
-| 7 | [Supercollider](https://open.spotify.com/track/4HLcXpokwMFlpVpPOvX7Jz) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Split](https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb) | 2:49 |
+| 7 | [Free Radio Gainesville](https://open.spotify.com/track/619tfzPgzkD5aGUFF30PkV) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Split](https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb) | 2:34 |
 | 8 | [Brushed](https://open.spotify.com/track/16Zjiyrktq6QBnwXF2lDTv) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:35 |
 | 9 | [Lie And Wait](https://open.spotify.com/track/6eLn8XKQQbt1GHAwZcg4Wp) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 2:32 |
 | 10 | [Cosmonauts](https://open.spotify.com/track/0IAF0KIM3Cnp7WhOVJfFuS) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 4:08 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WtXCH.md) - [plain]
 | 29 | [Spoken Through Clouds](https://open.spotify.com/track/5fmbZlkalVRdnXklTnnI3G) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Triptych Continuum](https://open.spotify.com/album/2o6B7VhjL5tgbAa4c4ukK0) | 3:07 |
 | 30 | [Fire This Time](https://open.spotify.com/track/69shxYcOeyQiMJDIVlHZGE) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 3:22 |
 
-Snapshot ID: `Zya9AAAAAAC77upMVx4SHrN9j1k6o/Ye`
+Snapshot ID: `ZygOgAAAAACyqHr98QiMei+EU6GFfo3u`

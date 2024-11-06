@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\. Cover: <a href="spotify:artist:3tVQdUvClmAT7URs9V3rsp">Wizkid</a>
 
-630 songs - 1 day 8 hr 55 min
+631 songs - 1 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [AWAY](https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [AWAY](https://open.spotify.com/album/0ARscMPXbdZCwPgjhFPTWy) | 2:44 | 2022-07-25 | 2024-01-26 |
 | [AWAY](https://open.spotify.com/track/2fu4D1jrlwF1go7S2Fr3qD) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [AWAY](https://open.spotify.com/album/1kCL1jgUjErm9xKMufJDnb) | 2:44 | 2021-09-10 | 2022-07-29 |
 | [Awolowo](https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Awolowo](https://open.spotify.com/album/5BRKHZh6Y0voiEQ4YsGdCr) | 2:15 | 2024-09-20 |  |
+| [Awuke](https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Awuke](https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL) | 2:52 | 2024-11-05 |  |
 | [Azonto Fiesta \(feat\. Amaarae & Mugeez\)](https://open.spotify.com/track/3Da3TZJ0EhJIAPJC5rxwZw) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0) | [Road To Fuego](https://open.spotify.com/album/3lMjAgltdk3MBExAXTw7Ux) | 2:51 | 2024-10-18 | 2024-10-26 |
 | [Ba Straata \(feat\. 2woshort, Stompiiey, ShaunMusiQ, Ftears & Madumane\)](https://open.spotify.com/track/3DssiWp4pAGNvPrvHVi94f) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Visca](https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO), [2woshort](https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825), [Stompiiey](https://open.spotify.com/artist/16IdDbuertDHTGF9Si2eCN), [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85), [Ftears](https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd) | [Ba Straata \(feat\. 2woshort, Stompiiey, ShaunMusiQ, Ftears & Madumane\)](https://open.spotify.com/album/25plKOfn0KCUMmzBztMMu6) | 6:42 | 2023-01-26 | 2023-06-08 |
 | [Ba$tard, Don't Be Silly](https://open.spotify.com/track/0u9khlv9uOvSEUOTFZtMNs) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 2:51 | 2024-06-21 | 2024-06-29 |
@@ -191,7 +192,7 @@
 | [Ex Convict](https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh) | 3:22 | 2024-01-26 | 2024-06-22 |
 | [Excited](https://open.spotify.com/track/4bRmk5LSrDbeJZOa6NDV8b) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Excited](https://open.spotify.com/album/4JSZI9W4FtOBaOgd4TJWMY) | 2:03 | 2023-07-21 | 2023-08-19 |
 | [Fakosi](https://open.spotify.com/track/3yFntP1ZfDbHkNWWOCZt7O) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t) | [Fakosi \(Remix\)](https://open.spotify.com/album/3YPNvgCesJrEaLZgZLXzdt) | 3:02 | 2024-02-16 | 2024-04-06 |
-| [Falling](https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Falling/Unleash](https://open.spotify.com/album/3sUz5UDkvIdDfc75pzf0Kz) | 2:09 | 2024-10-18 |  |
+| [Falling](https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Falling/Unleash](https://open.spotify.com/album/3sUz5UDkvIdDfc75pzf0Kz) | 2:09 | 2024-10-18 | 2024-11-06 |
 | [Fantasy](https://open.spotify.com/track/7CT50AAAJs2s9HZ7UR5vGe) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Fantasy](https://open.spotify.com/album/21ueS98Z9fgjdnTgHVRASb) | 2:56 | 2021-09-10 | 2022-04-20 |
 | [Fashion Killer](https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 2:57 | 2021-09-10 | 2024-01-26 |
 | [Favourite Girl \(with Rema\)](https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Favourite Girl \(with Rema\)](https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU) | 3:04 | 2024-08-09 | 2024-08-17 |

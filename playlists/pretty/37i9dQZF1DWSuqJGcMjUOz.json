@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6524,
+  "num_followers": 6525,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Jaune (Version originale remasteris\u00e9e)",
-        "url": "https://open.spotify.com/album/69OtZSaKCtNJawhqenAJ0U"
-      },
-      "artists": [
-        {
-          "name": "Jean-Pierre Ferland",
-          "url": "https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3"
-        }
-      ],
-      "duration_ms": 253720,
-      "name": "Le petit roi",
-      "url": "https://open.spotify.com/track/322V7y7CTFE5JPxjtHr4I0"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Aliocha Schneider",
         "url": "https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 200360,
       "name": "Avant Elle",
       "url": "https://open.spotify.com/track/313L5l9abg2UJMq0FRccMD"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Jaune (Version originale remasteris\u00e9e)",
+        "url": "https://open.spotify.com/album/69OtZSaKCtNJawhqenAJ0U"
+      },
+      "artists": [
+        {
+          "name": "Jean-Pierre Ferland",
+          "url": "https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3"
+        }
+      ],
+      "duration_ms": 253720,
+      "name": "Le petit roi",
+      "url": "https://open.spotify.com/track/322V7y7CTFE5JPxjtHr4I0"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Suite pour personne",
+        "url": "https://open.spotify.com/album/3s0746U6SBRp6vcisxxtcV"
+      },
+      "artists": [
+        {
+          "name": "Jeanne C\u00f4t\u00e9",
+          "url": "https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7"
+        }
+      ],
+      "duration_ms": 276662,
+      "name": "Y peut mouiller",
+      "url": "https://open.spotify.com/track/7oQdX58s6Hec7jH3CDEfge"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Du feu dans les lilas",
         "url": "https://open.spotify.com/album/2gpYjjb2JFM6B6VwHQNE5V"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 211600,
       "name": "Derri\u00e8re le jour",
       "url": "https://open.spotify.com/track/24Wd3taBrCp1XibT2sr6Kp"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Suite pour personne",
-        "url": "https://open.spotify.com/album/3s0746U6SBRp6vcisxxtcV"
-      },
-      "artists": [
-        {
-          "name": "Jeanne C\u00f4t\u00e9",
-          "url": "https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7"
-        }
-      ],
-      "duration_ms": 276662,
-      "name": "Y peut mouiller",
-      "url": "https://open.spotify.com/track/7oQdX58s6Hec7jH3CDEfge"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Il n'y a rien que je ne suis pas",
+        "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
+      },
+      "artists": [
+        {
+          "name": "Arielle Soucy",
+          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Promenade",
+      "url": "https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Surhomme",
         "url": "https://open.spotify.com/album/6ogbVluVJc23tLVlAViiEo"
       },
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Il n'y a rien que je ne suis pas",
-        "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
-      },
-      "artists": [
-        {
-          "name": "Arielle Soucy",
-          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Promenade",
-      "url": "https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "\u00c7a s'invente pas",
         "url": "https://open.spotify.com/album/1QPEBa411xm2gFUwXiGeRg"
       },
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
-        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
-      },
-      "artists": [
-        {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
-        }
-      ],
-      "duration_ms": 108066,
-      "name": "J'esp\u00e8re encore que quelque part l'attente s'arr\u00eate",
-      "url": "https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "\u00c0 demain peut-\u00eatre",
         "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 179706,
       "name": "Anomie",
       "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
+        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
+      },
+      "artists": [
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "duration_ms": 108066,
+      "name": "J'esp\u00e8re encore que quelque part l'attente s'arr\u00eate",
+      "url": "https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Salut Cowboy",
+        "url": "https://open.spotify.com/album/01ziKcrlE2Wnv6N6VYZ77a"
+      },
+      "artists": [
+        {
+          "name": "Guylaine Tanguay",
+          "url": "https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD"
+        }
+      ],
+      "duration_ms": 216209,
+      "name": "Salut Cowboy",
+      "url": "https://open.spotify.com/track/0iURJWrm3Os8V0tsn0Kcwy"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Sauvage",
         "url": "https://open.spotify.com/album/4MJxVWiDg1K9hs7QLeORHt"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 331746,
       "name": "Sauvage",
       "url": "https://open.spotify.com/track/3ZUyQN89uCsjlLKIOvfYxb"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Salut Cowboy",
-        "url": "https://open.spotify.com/album/01ziKcrlE2Wnv6N6VYZ77a"
-      },
-      "artists": [
-        {
-          "name": "Guylaine Tanguay",
-          "url": "https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD"
-        }
-      ],
-      "duration_ms": 216209,
-      "name": "Salut Cowboy",
-      "url": "https://open.spotify.com/track/0iURJWrm3Os8V0tsn0Kcwy"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "DVTR",
-        "url": "https://open.spotify.com/album/0FQ99J1DvLNYP6x1uwHPYW"
-      },
-      "artists": [
-        {
-          "name": "DVTR",
-          "url": "https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF"
-        }
-      ],
-      "duration_ms": 136973,
-      "name": "DVTR",
-      "url": "https://open.spotify.com/track/6kyU5s2JQj3kqjZ225Hwjv"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Elle \u00e9tait une fois",
         "url": "https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 171428,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/6c6DYfUdwCPciEPPsxJN2P"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "DVTR",
+        "url": "https://open.spotify.com/album/0FQ99J1DvLNYP6x1uwHPYW"
+      },
+      "artists": [
+        {
+          "name": "DVTR",
+          "url": "https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF"
+        }
+      ],
+      "duration_ms": 136973,
+      "name": "DVTR",
+      "url": "https://open.spotify.com/track/6kyU5s2JQj3kqjZ225Hwjv"
     },
     {
       "added_at": "2024-06-19 20:38:05",

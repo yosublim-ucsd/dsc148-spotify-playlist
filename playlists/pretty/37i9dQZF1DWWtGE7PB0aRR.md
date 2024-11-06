@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,411 likes - 65 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,498 likes - 65 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 29 | [Evil Woman](https://open.spotify.com/track/6WaPZ4qGseF8TS9jTvKHsr) | [Spooky Tooth](https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u) | [Spooky Two](https://open.spotify.com/album/21cn3spYbbQ1aAuzNoeRRp) | 9:08 |
 | 30 | [It Hurts Me Too](https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0) | [Jeremy Spencer](https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk) | [Precious Little](https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN) | 4:49 |
 | 31 | [In the Mood](https://open.spotify.com/track/0itImJ5657GoBZwFY6KcmI) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 3:45 |
-| 32 | [3 O'Clock Blues \- 1999 RemasterStereo](https://open.spotify.com/track/41849X1PrqMv0elH2prPWp) | [Love Sculpture](https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq) | [Blues Helping](https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB) | 5:10 |
-| 33 | [Harmonica](https://open.spotify.com/track/1RzvCKDGLcPaz9jEpsADWZ) | [The Graham Bond Organisation](https://open.spotify.com/artist/2YHcSCb5tMbCoovS962pff), [Jack Bruce](https://open.spotify.com/artist/73ndLgs6jSrpZzjyzU9TJV), [Ginger Baker](https://open.spotify.com/artist/5xTbqEbkihxdjj2jyYSthw) | [Gonks Go Beat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6F7KmbT7Do6tetnKzE5C3i) | 2:49 |
+| 32 | [Harmonica](https://open.spotify.com/track/1RzvCKDGLcPaz9jEpsADWZ) | [The Graham Bond Organisation](https://open.spotify.com/artist/2YHcSCb5tMbCoovS962pff), [Jack Bruce](https://open.spotify.com/artist/73ndLgs6jSrpZzjyzU9TJV), [Ginger Baker](https://open.spotify.com/artist/5xTbqEbkihxdjj2jyYSthw) | [Gonks Go Beat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6F7KmbT7Do6tetnKzE5C3i) | 2:49 |
+| 33 | [3 O'Clock Blues \- 1999 RemasterStereo](https://open.spotify.com/track/41849X1PrqMv0elH2prPWp) | [Love Sculpture](https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq) | [Blues Helping](https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB) | 5:10 |
 | 34 | [Won't Be Taken Down](https://open.spotify.com/track/5s5hWAZii6ahuLEyVXG2L9) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Eyes Wide Open](https://open.spotify.com/album/64VYTykrTBKltig6Li2JLF) | 5:57 |
 | 35 | [Goin' Down Slow](https://open.spotify.com/track/4JkNSMKERJEZiIcNzsqqmQ) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 8:20 |
 | 36 | [My Heart Beat Like a Hammer \- Take 2](https://open.spotify.com/track/6miLmB0XTcmTqGFoz3gWAA) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 3:32 |

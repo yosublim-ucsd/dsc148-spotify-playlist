@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 
 > This is Los Rieleros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,843 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,858 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 49 | [Tu y las Nubes](https://open.spotify.com/track/2QlvSbUggsc1f6eyta9vnD) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Clásicos](https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y) | 3:29 |
 | 50 | [Señorita Cantinera \- Ft\. Polo Urias](https://open.spotify.com/track/3mGgITcQH3mFDEaiILoF44) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv), [Polo Urias Y Su Maquina Norteña](https://open.spotify.com/artist/0zM1RE17huCYfueF8Iut1Z) | [Señorita Cantinera \(Ft\. Polo Urias\)](https://open.spotify.com/album/4ZxwyGJIOlWK2Lat34y0w5) | 4:10 |
 
-Snapshot ID: `Zya9AAAAAAAdjm80o0HwKnwYF9gaXVvw`
+Snapshot ID: `ZygOgAAAAABJiVVFQU6860O0ZhYG4AAe`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Sued Silva, Dalete hungria
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,924 likes - 80 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,054 likes - 80 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 44 | [Plano Melhor](https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Plano Melhor](https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY) | 4:48 |
 | 45 | [Tá Chorando Por Quê?](https://open.spotify.com/track/2jHJlzo6TYxqmMufgMDWBl) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Tá Chorando Por Quê?](https://open.spotify.com/album/6skA7SfyH0VWa78KOFwNGU) | 4:08 |
 | 46 | [Romanos 8:26 \(Ao Vivo\)](https://open.spotify.com/track/4eEB1CdGj3I7kv3QNykRnG) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Romanos 8:26 \(Ao Vivo\)](https://open.spotify.com/album/4la129Bk0w8ubbxMwwHzkC) | 4:29 |
-| 47 | [Vem Fluir \(Fall Like Rain\)](https://open.spotify.com/track/6vRgQZAlojDVRcSs7EODCW) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Vem Fluir \(Fall Like Rain\)](https://open.spotify.com/album/2ZUum9B6fcMzr49ZL5rxvK) | 6:27 |
-| 48 | [Tão Bom Pra Mim \- Ao Vivo](https://open.spotify.com/track/2hleq4c5eQhYAZVicg6NT8) | [Nathalia Valencia](https://open.spotify.com/artist/09joQAVJ6oGbQdpTVjM2DK) | [Tão Bom Pra Mim \(Ao Vivo\)](https://open.spotify.com/album/4XbTXkGhSs2ojN7exXEAtV) | 8:16 |
+| 47 | [Tão Bom Pra Mim \- Ao Vivo](https://open.spotify.com/track/2hleq4c5eQhYAZVicg6NT8) | [Nathalia Valencia](https://open.spotify.com/artist/09joQAVJ6oGbQdpTVjM2DK) | [Tão Bom Pra Mim \(Ao Vivo\)](https://open.spotify.com/album/4XbTXkGhSs2ojN7exXEAtV) | 8:16 |
+| 48 | [Vem Fluir \(Fall Like Rain\)](https://open.spotify.com/track/6vRgQZAlojDVRcSs7EODCW) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Vem Fluir \(Fall Like Rain\)](https://open.spotify.com/album/2ZUum9B6fcMzr49ZL5rxvK) | 6:27 |
 | 49 | [Deus Proverá \- Ao Vivo](https://open.spotify.com/track/2fWLl3Iq7sv9LdA3C3KUuP) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Deus Proverá \(Ao Vivo\)](https://open.spotify.com/album/2HqzEm9b9PnjVjnbDUhyh6) | 5:32 |
 | 50 | [Vai Ter Vida Aí](https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vai Ter Vida Aí](https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX) | 4:30 |
 | 51 | [O Tanque de Betesda \(Ao Vivo\)](https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [O Tanque de Betesda \(Ao Vivo\)](https://open.spotify.com/album/6FkkGzO3T0ZcBAPKSQN9AG) | 5:04 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 53 | [O Amor Que Cura \- Ao Vivo](https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB) | 4:21 |
 | 54 | [Minha Bênção \(Ao Vivo\)](https://open.spotify.com/track/5b75WAmLLdqIiVWyMTMctF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Minha Bênção \(Ao Vivo\)](https://open.spotify.com/album/6WKir025Bp9KQGjKAodPSi) | 5:12 |
 | 55 | [Tudo Que Eu Mais Quero \- Ao Vivo](https://open.spotify.com/track/5VB7JfCSoz3RMa8GEEvHci) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Tudo Que Eu Mais Quero \(Ao Vivo\)](https://open.spotify.com/album/6W8Ch6uLZ9ockPgmPJpBlu) | 4:15 |
-| 56 | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA) | 3:54 |
-| 57 | [Sensibilidade \- Ao Vivo](https://open.spotify.com/track/13YVbmpDXM1dr1uvrzPssX) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Sensibilidade \(Ao Vivo\)](https://open.spotify.com/album/0rc4ybX88jh6WuX1KxwXJT) | 6:31 |
+| 56 | [Sensibilidade \- Ao Vivo](https://open.spotify.com/track/13YVbmpDXM1dr1uvrzPssX) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Sensibilidade \(Ao Vivo\)](https://open.spotify.com/album/0rc4ybX88jh6WuX1KxwXJT) | 6:31 |
+| 57 | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA) | 3:54 |
 | 58 | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt) | 6:59 |
 | 59 | [Oh Quão Lindo Esse Nome É \- Ao Vivo](https://open.spotify.com/track/3FvKZvKIvjicD6K9CUpawq) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Oh Quão Lindo Esse Nome É \(Ao Vivo\)](https://open.spotify.com/album/1Qc5BQBQYbmBNUDX8tWNgt) | 7:39 |
 | 60 | [Vem, Espírito de Deus \- Ao Vivo](https://open.spotify.com/track/7w9Pi6SUHwlx5fbfBaT4d3) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Vem, Espírito de Deus \(Ao Vivo\)](https://open.spotify.com/album/5xEoXWBbk44CK84qGvK7kV) | 4:24 |

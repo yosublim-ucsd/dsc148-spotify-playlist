@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 
 > This is Cardi B\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,052 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,058 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 49 | [Thotiana \(Remix\)](https://open.spotify.com/track/6JhP3KShSV3PlniSWYHYAl) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Famous Cryp \(Reloaded\)](https://open.spotify.com/album/1bLGOKqe1vcQtUv6q5Mz0h) | 4:57 |
 | 50 | [Wish Wish \(feat\. Cardi B & 21 Savage\)](https://open.spotify.com/track/1Hd2XLitkt1PYCWSbfF5qV) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:22 |
 
-Snapshot ID: `Zya9AAAAAAAK7amyvljLkywKpIPAFlqc`
+Snapshot ID: `ZygOgAAAAACKPzNx3d82jdz+UvkRZATg`

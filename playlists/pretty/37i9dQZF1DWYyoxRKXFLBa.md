@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 
 > pura morra rifada\. RPLK en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,421 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,430 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 40 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 |
 | 41 | [Diosa](https://open.spotify.com/track/3RleMgz4iO0BNezGdSxDnY) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:36 |
 | 42 | [Bailar Contigo](https://open.spotify.com/track/4hi9OTFKomNUlAIhp1fmap) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:38 |
-| 43 | [Chicle de Menta](https://open.spotify.com/track/73VqJSXXWF3pV5uqnuO92N) | [Maria Daniela Y Su Sonido Lasser](https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4) | [Mdyssl](https://open.spotify.com/album/3FechyjHr69GRejwbQY6AK) | 3:05 |
-| 44 | [Lejos De La Ciudad](https://open.spotify.com/track/6ZPx4OfYVHv7FkPAF2Khbm) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Lejos De La Ciudad](https://open.spotify.com/album/4JAk0mbWKQjrUATbfDjpRf) | 3:08 |
+| 43 | [Lejos De La Ciudad](https://open.spotify.com/track/6ZPx4OfYVHv7FkPAF2Khbm) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Lejos De La Ciudad](https://open.spotify.com/album/4JAk0mbWKQjrUATbfDjpRf) | 3:08 |
+| 44 | [Chicle de Menta](https://open.spotify.com/track/73VqJSXXWF3pV5uqnuO92N) | [Maria Daniela Y Su Sonido Lasser](https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4) | [Mdyssl](https://open.spotify.com/album/3FechyjHr69GRejwbQY6AK) | 3:05 |
 | 45 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 |
 | 46 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 |
 | 47 | [Amor Prohibido](https://open.spotify.com/track/1eKvXRg5ntWvQoHZnGCKh3) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 2:55 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 75 | [Paralizado](https://open.spotify.com/track/3hLwTsuqKBakewprxOK1b4) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [me da miedo que escuches esto](https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw) | 3:07 |
 | 76 | [Órdenes para Mí](https://open.spotify.com/track/7qeEHOZM2fVxT0UugDPAiW) | [Marcela Viejo](https://open.spotify.com/artist/1j2sGZWC8B3TvIxsK7mVpx), [Manuel Mendoza Coe](https://open.spotify.com/artist/0D4Y2sisCzcc4cAwf0dApi) | [Pequeñas Profecías](https://open.spotify.com/album/0effiGLvyrWGhDdLGMXptt) | 3:57 |
 | 77 | [Agujas](https://open.spotify.com/track/3eMnL4Yec1hCJzs8G6sXET) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Agujas](https://open.spotify.com/album/4anUE93QCEG04QAiWDzz8m) | 1:31 |
-| 78 | [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 |
-| 79 | [niño azul](https://open.spotify.com/track/6qV11bT43TNvpV9WdXN29O) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [niño azul](https://open.spotify.com/album/7uSH6G3Z9z5yGBk9LIH2Zk) | 2:25 |
+| 78 | [niño azul](https://open.spotify.com/track/6qV11bT43TNvpV9WdXN29O) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [niño azul](https://open.spotify.com/album/7uSH6G3Z9z5yGBk9LIH2Zk) | 2:25 |
+| 79 | [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 |
 | 80 | [Un día nos vamos a morir](https://open.spotify.com/track/5X5Xsye9sVzAR41FAF0IUi) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Un día nos vamos a morir](https://open.spotify.com/album/6P91XazaPjqZRpRBldlNRy) | 4:02 |
 
 Snapshot ID: `Zq0PZgAAAAAYOWu7IncMg1vfdxzrypkj`

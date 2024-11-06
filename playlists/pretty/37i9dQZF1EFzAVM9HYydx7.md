@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,774 likes - 292 songs - 17 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,775 likes - 292 songs - 17 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 42 | [Summer Sixteen](https://open.spotify.com/track/2ZRJRe82aZaVhOKKlbJr4v) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Summer Sixteen](https://open.spotify.com/album/0UWfsn9kLlH565DoEuvdtA) | 3:22 |
 | 43 | [High School](https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Pink Friday: Roman Reloaded The Re\-Up \(Explicit Version\)](https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1) | 3:38 |
 | 44 | [Lemon Pepper Freestyle \(feat\. Rick Ross\)](https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 6:23 |
-| 45 | [Back To Sleep](https://open.spotify.com/track/6dlpABcXrQKRU9G00i6Zba) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Royalty \(Deluxe Version\)](https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa) | 3:21 |
-| 46 | [Fancy](https://open.spotify.com/track/3fpTMuD1u3gJlVI4FadVHs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:19 |
+| 45 | [Fancy](https://open.spotify.com/track/3fpTMuD1u3gJlVI4FadVHs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:19 |
+| 46 | [Back To Sleep](https://open.spotify.com/track/6dlpABcXrQKRU9G00i6Zba) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Royalty \(Deluxe Version\)](https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa) | 3:21 |
 | 47 | [6 God](https://open.spotify.com/track/3a8tAZFJxlmBwOtrf5L1oC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 3:00 |
 | 48 | [Hype](https://open.spotify.com/track/5NFYuqu8V6QXc6mzcLImd6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 3:29 |
 | 49 | [NC\-17](https://open.spotify.com/track/6BJbOXDlgVAXSaq6wYFYT2) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:36 |
@@ -301,4 +301,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 291 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
 | 292 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AbgolgAAAACkuGyHJ+5vyk6qgaavXk9X`
+Snapshot ID: `AbguSgAAAABh/Cgjs9GMGEpx/iGjf1uJ`

@@ -1,6 +1,6 @@
 {
   "description": "Tus canciones favoritas de M\u00fasica Mexicana, all in one place! Cover: Intocable",
-  "num_followers": 325281,
+  "num_followers": 325373,
   "original_name": "Las Favoritas",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,26 @@
     {
       "added_at": "2024-10-31 18:55:31",
       "album": {
+        "name": "Fin de Semana",
+        "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 224920,
+      "name": "Fin de Semana",
+      "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
+    },
+    {
+      "added_at": "2024-10-31 18:55:31",
+      "album": {
         "name": "Porque Te Vas",
         "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
-    },
-    {
-      "added_at": "2024-10-31 18:55:31",
-      "album": {
-        "name": "Fin de Semana",
-        "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 224920,
-      "name": "Fin de Semana",
-      "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
     },
     {
       "added_at": "2024-10-31 18:55:31",
@@ -763,22 +763,18 @@
     {
       "added_at": "2024-10-31 18:55:31",
       "album": {
-        "name": "Que Vuelvas",
-        "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
+        "name": "El Free",
+        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 169418,
-      "name": "Que Vuelvas",
-      "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
+      "duration_ms": 163560,
+      "name": "Mi \u00daltimo Deseo",
+      "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
     },
     {
       "added_at": "2024-10-31 18:55:31",
@@ -815,18 +811,22 @@
     {
       "added_at": "2024-10-31 18:55:31",
       "album": {
-        "name": "El Free",
-        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
+        "name": "Que Vuelvas",
+        "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
       },
       "artists": [
         {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 163560,
-      "name": "Mi \u00daltimo Deseo",
-      "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
+      "duration_ms": 169418,
+      "name": "Que Vuelvas",
+      "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
     },
     {
       "added_at": "2024-10-31 18:55:31",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-10-31 18:55:31",
       "album": {
-        "name": "Tal Vez",
-        "url": "https://open.spotify.com/album/4ynNUTFmwET6m3BQe3xDwg"
-      },
-      "artists": [
-        {
-          "name": "Los Primos MX",
-          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
-        }
-      ],
-      "duration_ms": 153253,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/7rxHR6dby35y5pjAYQP4ZW"
-    },
-    {
-      "added_at": "2024-10-31 18:55:31",
-      "album": {
         "name": "Sin Pagar Renta",
         "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 202443,
       "name": "Sin Pagar Renta",
       "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
+    },
+    {
+      "added_at": "2024-10-31 18:55:31",
+      "album": {
+        "name": "Tal Vez",
+        "url": "https://open.spotify.com/album/4ynNUTFmwET6m3BQe3xDwg"
+      },
+      "artists": [
+        {
+          "name": "Los Primos MX",
+          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
+        }
+      ],
+      "duration_ms": 153253,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/7rxHR6dby35y5pjAYQP4ZW"
     },
     {
       "added_at": "2024-10-31 18:55:31",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-10-31 18:55:31",
       "album": {
+        "name": "Si Fuera F\u00e1cil",
+        "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 170496,
+      "name": "Si Fuera F\u00e1cil",
+      "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
+    },
+    {
+      "added_at": "2024-10-31 18:55:31",
+      "album": {
         "name": "Otro D\u00eda, Otra Aventura",
         "url": "https://open.spotify.com/album/1RCvsCMqGEaXQJDfPvlk2j"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 200859,
       "name": "Otro D\u00eda, Otra Aventura",
       "url": "https://open.spotify.com/track/6PUh7Jsr6xUl2wlp7NAvv5"
-    },
-    {
-      "added_at": "2024-10-31 18:55:31",
-      "album": {
-        "name": "Si Fuera F\u00e1cil",
-        "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 170496,
-      "name": "Si Fuera F\u00e1cil",
-      "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
     },
     {
       "added_at": "2024-10-31 18:55:31",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-10-31 18:55:31",
       "album": {
-        "name": "De Lo Bueno, Lo Mejor",
-        "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "La Buena y la Mala",
-      "url": "https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg"
-    },
-    {
-      "added_at": "2024-10-31 18:55:31",
-      "album": {
         "name": "MINIMI",
         "url": "https://open.spotify.com/album/3T2NudFA3qcifGwgzWkQHY"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 150000,
       "name": "MINIMI",
       "url": "https://open.spotify.com/track/758S4LdiMkRdauciXJI1v7"
+    },
+    {
+      "added_at": "2024-10-31 18:55:31",
+      "album": {
+        "name": "De Lo Bueno, Lo Mejor",
+        "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "La Buena y la Mala",
+      "url": "https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg"
     },
     {
       "added_at": "2024-10-31 18:55:31",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2024-10-31 18:55:31",
       "album": {
+        "name": "Se\u00f1alado por Costumbre",
+        "url": "https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "La Escuela No Me Gust\u00f3",
+      "url": "https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94"
+    },
+    {
+      "added_at": "2024-10-31 18:55:31",
+      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
-    },
-    {
-      "added_at": "2024-10-31 18:55:31",
-      "album": {
-        "name": "Se\u00f1alado por Costumbre",
-        "url": "https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "La Escuela No Me Gust\u00f3",
-      "url": "https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94"
     },
     {
       "added_at": "2024-10-31 18:55:31",
@@ -1903,22 +1903,18 @@
     {
       "added_at": "2024-10-31 18:55:31",
       "album": {
-        "name": "Qu\u00e9 Onda Perdida",
-        "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
       },
       "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
         {
           "name": "Gerardo Coronel",
           "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 239637,
-      "name": "Qu\u00e9 Onda Perdida",
-      "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
+      "duration_ms": 224523,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
     },
     {
       "added_at": "2024-10-31 18:55:31",
@@ -1939,18 +1935,22 @@
     {
       "added_at": "2024-10-31 18:55:31",
       "album": {
-        "name": "Te Felicito",
-        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
+        "name": "Qu\u00e9 Onda Perdida",
+        "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
       },
       "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
         {
           "name": "Gerardo Coronel",
           "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 224523,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
+      "duration_ms": 239637,
+      "name": "Qu\u00e9 Onda Perdida",
+      "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
     },
     {
       "added_at": "2024-10-31 18:55:31",
@@ -1991,8 +1991,8 @@
     {
       "added_at": "2024-10-31 18:55:31",
       "album": {
-        "name": "El Chino (En Vivo)",
-        "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
+        "name": "El Prostipirugolfo",
+        "url": "https://open.spotify.com/album/73Pms7dFxAOsqEx8t1IxoW"
       },
       "artists": [
         {
@@ -2000,13 +2000,13 @@
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+          "name": "Los Titanes De Durango",
+          "url": "https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd"
         }
       ],
-      "duration_ms": 180047,
-      "name": "El Chino (En Vivo)",
-      "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
+      "duration_ms": 157259,
+      "name": "El Prostipirugolfo",
+      "url": "https://open.spotify.com/track/5PjCEIQEt2fwWj50xxrGTh"
     },
     {
       "added_at": "2024-10-31 18:55:31",
@@ -2079,8 +2079,8 @@
     {
       "added_at": "2024-10-31 18:55:31",
       "album": {
-        "name": "El Prostipirugolfo",
-        "url": "https://open.spotify.com/album/73Pms7dFxAOsqEx8t1IxoW"
+        "name": "El Chino (En Vivo)",
+        "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
       },
       "artists": [
         {
@@ -2088,13 +2088,13 @@
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "Los Titanes De Durango",
-          "url": "https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd"
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
         }
       ],
-      "duration_ms": 157259,
-      "name": "El Prostipirugolfo",
-      "url": "https://open.spotify.com/track/5PjCEIQEt2fwWj50xxrGTh"
+      "duration_ms": 180047,
+      "name": "El Chino (En Vivo)",
+      "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
     },
     {
       "added_at": "2024-10-31 18:55:31",
@@ -2263,18 +2263,18 @@
     {
       "added_at": "2024-10-31 18:55:31",
       "album": {
-        "name": "Chingas A Tu Madre",
-        "url": "https://open.spotify.com/album/4WPBhjPQg9haxbzJ6EF257"
+        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
         }
       ],
-      "duration_ms": 205125,
-      "name": "Chingas A Tu Madre",
-      "url": "https://open.spotify.com/track/2IN5quW5Yd0mi6PzMoaz5y"
+      "duration_ms": 182073,
+      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
     },
     {
       "added_at": "2024-10-31 18:55:31",
@@ -2295,18 +2295,34 @@
     {
       "added_at": "2024-10-31 18:55:31",
       "album": {
-        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
+        "name": "CHSM El H\u00edgado X2",
+        "url": "https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR"
       },
       "artists": [
         {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 182073,
-      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
+      "duration_ms": 185434,
+      "name": "CHSM El Higado",
+      "url": "https://open.spotify.com/track/2SIaxVDnOZGBATjFaSzm5Q"
+    },
+    {
+      "added_at": "2024-10-31 18:55:31",
+      "album": {
+        "name": "Chingas A Tu Madre",
+        "url": "https://open.spotify.com/album/4WPBhjPQg9haxbzJ6EF257"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 205125,
+      "name": "Chingas A Tu Madre",
+      "url": "https://open.spotify.com/track/2IN5quW5Yd0mi6PzMoaz5y"
     },
     {
       "added_at": "2024-10-31 18:55:31",
@@ -2327,22 +2343,6 @@
       "duration_ms": 215984,
       "name": "Solita (En Vivo)",
       "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
-    },
-    {
-      "added_at": "2024-10-31 18:55:31",
-      "album": {
-        "name": "CHSM El H\u00edgado X2",
-        "url": "https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 185434,
-      "name": "CHSM El Higado",
-      "url": "https://open.spotify.com/track/2SIaxVDnOZGBATjFaSzm5Q"
     },
     {
       "added_at": "2024-10-31 18:55:31",
@@ -2475,26 +2475,6 @@
     {
       "added_at": "2024-10-31 18:55:31",
       "album": {
-        "name": "Cuando Te Acuerdes De Mi (En Vivo)",
-        "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Juli\u00e1n Mercado",
-          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
-        }
-      ],
-      "duration_ms": 187250,
-      "name": "Cuando Te Acuerdes De Mi (En Vivo)",
-      "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
-    },
-    {
-      "added_at": "2024-10-31 18:55:31",
-      "album": {
         "name": "Se Acabo (En Vivo)",
         "url": "https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR"
       },
@@ -2515,6 +2495,26 @@
       "duration_ms": 230000,
       "name": "Se Acabo - En Vivo",
       "url": "https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd"
+    },
+    {
+      "added_at": "2024-10-31 18:55:31",
+      "album": {
+        "name": "Cuando Te Acuerdes De Mi (En Vivo)",
+        "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        }
+      ],
+      "duration_ms": 187250,
+      "name": "Cuando Te Acuerdes De Mi (En Vivo)",
+      "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
     },
     {
       "added_at": "2024-10-31 18:55:31",
@@ -2607,6 +2607,22 @@
     {
       "added_at": "2024-10-31 18:55:31",
       "album": {
+        "name": "Asignatura Pendiente",
+        "url": "https://open.spotify.com/album/3kMQSQJN1D9ABXcSsgJ2vK"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 245093,
+      "name": "Asignatura Pendiente",
+      "url": "https://open.spotify.com/track/1uvfOengybr6fzRxecMsuJ"
+    },
+    {
+      "added_at": "2024-10-31 18:55:31",
+      "album": {
         "name": "M.L.P",
         "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
       },
@@ -2623,22 +2639,6 @@
       "duration_ms": 211961,
       "name": "M.L.P",
       "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
-    },
-    {
-      "added_at": "2024-10-31 18:55:31",
-      "album": {
-        "name": "Asignatura Pendiente",
-        "url": "https://open.spotify.com/album/3kMQSQJN1D9ABXcSsgJ2vK"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 245093,
-      "name": "Asignatura Pendiente",
-      "url": "https://open.spotify.com/track/1uvfOengybr6fzRxecMsuJ"
     },
     {
       "added_at": "2024-10-31 18:55:31",
@@ -2723,22 +2723,6 @@
     {
       "added_at": "2024-10-31 18:55:31",
       "album": {
-        "name": "COMO DIABLOS",
-        "url": "https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 193446,
-      "name": "COMO DIABLOS",
-      "url": "https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA"
-    },
-    {
-      "added_at": "2024-10-31 18:55:31",
-      "album": {
         "name": "Cobijas Ajenas",
         "url": "https://open.spotify.com/album/7t5fOkOrOvWdg2DUbkyD8M"
       },
@@ -2755,6 +2739,22 @@
       "duration_ms": 160040,
       "name": "Cobijas Ajenas",
       "url": "https://open.spotify.com/track/2P06ws9H4jQNJm3Lbo3tZ4"
+    },
+    {
+      "added_at": "2024-10-31 18:55:31",
+      "album": {
+        "name": "COMO DIABLOS",
+        "url": "https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 193446,
+      "name": "COMO DIABLOS",
+      "url": "https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA"
     },
     {
       "added_at": "2024-10-31 18:55:31",
@@ -2871,22 +2871,6 @@
     {
       "added_at": "2024-10-31 18:55:31",
       "album": {
-        "name": "El Muchacho de la Barba",
-        "url": "https://open.spotify.com/album/18YC6REM3qcCvpDlFB0TgQ"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 154352,
-      "name": "El Muchacho de la Barba",
-      "url": "https://open.spotify.com/track/7fBIGbmh5x4K8tBaBCK5iD"
-    },
-    {
-      "added_at": "2024-10-31 18:55:31",
-      "album": {
         "name": "Miami Vibe",
         "url": "https://open.spotify.com/album/2yPySu8gh3DE4dTpwSvLBI"
       },
@@ -2939,6 +2923,22 @@
       "duration_ms": 169000,
       "name": "La Magia de Tus Ojos",
       "url": "https://open.spotify.com/track/16DU79T2PdFSdGf0Z59rr5"
+    },
+    {
+      "added_at": "2024-10-31 18:55:31",
+      "album": {
+        "name": "El Muchacho de la Barba",
+        "url": "https://open.spotify.com/album/18YC6REM3qcCvpDlFB0TgQ"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 154352,
+      "name": "El Muchacho de la Barba",
+      "url": "https://open.spotify.com/track/7fBIGbmh5x4K8tBaBCK5iD"
     },
     {
       "added_at": "2024-10-31 18:55:31",
@@ -3023,26 +3023,6 @@
     {
       "added_at": "2024-10-31 18:55:31",
       "album": {
-        "name": "De Ellas",
-        "url": "https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 237787,
-      "name": "De Ellas",
-      "url": "https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J"
-    },
-    {
-      "added_at": "2024-10-31 18:55:31",
-      "album": {
         "name": "Con Un Botecito A Pecho",
         "url": "https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k"
       },
@@ -3059,6 +3039,26 @@
       "duration_ms": 176133,
       "name": "Con Un Botecito A Pecho",
       "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
+    },
+    {
+      "added_at": "2024-10-31 18:55:31",
+      "album": {
+        "name": "De Ellas",
+        "url": "https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 237787,
+      "name": "De Ellas",
+      "url": "https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J"
     },
     {
       "added_at": "2024-10-31 18:55:31",
@@ -3179,6 +3179,22 @@
     {
       "added_at": "2024-10-31 18:55:31",
       "album": {
+        "name": "En Tu Mirada",
+        "url": "https://open.spotify.com/album/6YCrlldQnNnMHTHNyupIyC"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 165733,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/6nYJ0FK5jc9CDNB2CoMlBg"
+    },
+    {
+      "added_at": "2024-10-31 18:55:31",
+      "album": {
         "name": "El Mundo a Tus Pies",
         "url": "https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM"
       },
@@ -3207,22 +3223,6 @@
       "duration_ms": 157364,
       "name": "Derecho y Chueco",
       "url": "https://open.spotify.com/track/0DBs6MtftX1ywn0wYVtQ5S"
-    },
-    {
-      "added_at": "2024-10-31 18:55:31",
-      "album": {
-        "name": "En Tu Mirada",
-        "url": "https://open.spotify.com/album/6YCrlldQnNnMHTHNyupIyC"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 165733,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/6nYJ0FK5jc9CDNB2CoMlBg"
     },
     {
       "added_at": "2024-10-31 18:55:31",

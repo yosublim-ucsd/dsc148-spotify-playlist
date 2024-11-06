@@ -4928,7 +4928,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 436349,
       "name": "Garden of Remembrance",
       "url": "https://open.spotify.com/track/1z2BwXcCg7udJjekN3JuMh"
@@ -12937,6 +12937,24 @@
     },
     {
       "album": {
+        "name": "Sailing",
+        "url": "https://open.spotify.com/album/1hzne4NVJBLxSD78Flnzww"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186586,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/0Tjfd3zPoTpPo7FwR21DC2"
+    },
+    {
+      "album": {
         "name": "Salt & Sugar",
         "url": "https://open.spotify.com/album/3VFrgDd3xHNejGad8vyBh3"
       },
@@ -20249,6 +20267,28 @@
     },
     {
       "album": {
+        "name": "\u30ad\u30e9\u30ad\u30e9",
+        "url": "https://open.spotify.com/album/2xrrB3XdIZUjDrDmF2gDyJ"
+      },
+      "artists": [
+        {
+          "name": "MARUMOCHI from HoneyWorks",
+          "url": "https://open.spotify.com/artist/6SE42YkzK2iVXMph1a3Hbp"
+        },
+        {
+          "name": "\u5ea7\u6577\u308f\u3089\u3073",
+          "url": "https://open.spotify.com/artist/1gbIFxneMNlkx5K1iCALfY"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243600,
+      "name": "\u30ad\u30e9\u30ad\u30e9",
+      "url": "https://open.spotify.com/track/4WFkYAnmQo9wci6pxCKxGp"
+    },
+    {
+      "album": {
         "name": "\u30ad\u30e9\u30ad\u30e9\u306e\u7070",
         "url": "https://open.spotify.com/album/3k6e6pejyoAWZExzb2p8f2"
       },
@@ -20584,7 +20624,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 190466,
       "name": "\u30b3\u30e9\u30fc\u30b8\u30e5",
       "url": "https://open.spotify.com/track/4CRRK6aFioUrTXpB6jqEtF"
@@ -20762,7 +20802,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 201299,
       "name": "\u30b7\u30ab\u8272\u30c7\u30a4\u30ba",
       "url": "https://open.spotify.com/track/65DUeMw4riBUibAjktAnZD"
@@ -27402,6 +27442,24 @@
       "duration_ms": 238400,
       "name": "\u66d6\u6627\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/54qT1AYEyWgSlum4qbjJAE"
+    },
+    {
+      "album": {
+        "name": "\u6700\u5f37?\u6700\u9ad8!Brave My Heart",
+        "url": "https://open.spotify.com/album/1WjwsSenpMDn7avaQzrsz9"
+      },
+      "artists": [
+        {
+          "name": "\u7acb\u82b1\u65e5\u83dc",
+          "url": "https://open.spotify.com/artist/23wuLjb3fhVGMjeuWjmfrL"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212213,
+      "name": "\u6700\u5f37?\u6700\u9ad8!Brave My Heart",
+      "url": "https://open.spotify.com/track/13tHwLCD4kLI8Xd9FQ5aMu"
     },
     {
       "album": {

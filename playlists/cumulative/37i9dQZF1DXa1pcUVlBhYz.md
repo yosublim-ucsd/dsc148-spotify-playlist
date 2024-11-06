@@ -2,9 +2,9 @@
 
 ### [Electronic + Dance Frequency](https://open.spotify.com/playlist/37i9dQZF1DXa1pcUVlBhYz)
 
-> Electronic + Dance making waves, every month\. Cover: DJ E\-Clyps
+> Electronic + Dance making waves, every month\. Cover: Jazzy & KILIMANJARO
 
-410 songs - 1 day 0 hr 26 min
+411 songs - 1 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Made For Me \- HoneyLuv AfroLuv Remix](https://open.spotify.com/track/5yY3eGexmfm4rxuWXEibn6) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Made For Me \(HoneyLuv AfroLuv Remix\)](https://open.spotify.com/album/3bZFsyIthTUca3rBsVgHcy) | 3:48 | 2024-10-04 |  |
 | [Make Me Ovah](https://open.spotify.com/track/0y9Ge4SROBj66AkfRFAdbw) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Black Sheep](https://open.spotify.com/album/7dZYVVGoirZvmYZC3s5Lyz) | 2:40 | 2024-03-22 | 2024-05-03 |
 | [Manifest](https://open.spotify.com/track/1NMSZn1gconZXGv0NSRuO6) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Manifest](https://open.spotify.com/album/5ARU30fyKwQHgo21ELyPAF) | 3:02 | 2024-03-01 | 2024-08-08 |
-| [Mapanes](https://open.spotify.com/track/4NNETohGtnAT4znZqfOKfi) | [Tatyana Jane](https://open.spotify.com/artist/5K976UJ5j3DvhhBkOd7gKx) | [Elixyr](https://open.spotify.com/album/0KfiBJXwShaBDahdH0iHH0) | 4:37 | 2024-05-31 |  |
+| [Mapanes](https://open.spotify.com/track/4NNETohGtnAT4znZqfOKfi) | [Tatyana Jane](https://open.spotify.com/artist/5K976UJ5j3DvhhBkOd7gKx) | [Elixyr](https://open.spotify.com/album/0KfiBJXwShaBDahdH0iHH0) | 4:37 | 2024-05-31 | 2024-11-06 |
 | [Marine Iguana](https://open.spotify.com/track/59Xzya1RZU0vLZNwQwP2TJ) | [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz) | [Supernova](https://open.spotify.com/album/2lgPVz1NeWBl6niNKtfvTT) | 2:03 | 2022-02-01 | 2022-04-29 |
 | [ME WITHOUT U](https://open.spotify.com/track/6aEtOtuVYBDfR07qJm8wB3) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [ME WITHOUT U](https://open.spotify.com/album/1ZiNaETb1Usa0jcYEmxfob) | 2:36 | 2022-08-26 | 2023-01-28 |
 | [Meant To Be](https://open.spotify.com/track/4YRw7jcTBGAUHWktyn0msf) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Meant To Be](https://open.spotify.com/album/1Wn3OmksyMkgzvzE7dEIhc) | 3:44 | 2023-05-19 | 2023-06-17 |
@@ -239,6 +239,7 @@
 | [MYSM](https://open.spotify.com/track/6W33jxmOkSBPQYprghE5Ba) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [MYSM](https://open.spotify.com/album/0zcghV7zGl1jMa0TQhFKGz) | 3:56 | 2023-02-10 | 2023-04-22 |
 | [Natives](https://open.spotify.com/track/4MEgPSYPPBEyW10WLsHKkq) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Natives](https://open.spotify.com/album/5Z2BDycTPxBJ5tW58AzsNc) | 4:42 | 2022-04-01 | 2022-10-14 |
 | [Natives](https://open.spotify.com/track/6jtYFspv3oFdy6zwt8sKDb) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Natives](https://open.spotify.com/album/3pMT1NMsRVQYuiN9mxrMsc) | 4:42 | 2022-09-16 | 2023-06-17 |
+| [Need I Say More](https://open.spotify.com/track/2UkRAahf0a1wvwxyfqbcLl) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Need I Say More](https://open.spotify.com/album/4s5r0xB87oOlLo9jEJ57vp) | 2:58 | 2024-11-05 |  |
 | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/album/31lcP0CvJaiFST2fvuyuOH) | 3:09 | 2024-02-01 | 2024-09-21 |
 | [New Balance \- Remix](https://open.spotify.com/track/1Sd4k94hozcfCVF4rf4ALQ) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl) | [New Balance \(Remix\)](https://open.spotify.com/album/5PZ6LzdCYLNG1xJjqrPN6W) | 3:14 | 2022-02-01 | 2022-08-06 |
 | [Ngibambe \(feat\. Gaba Cannal & Russell Zuma\) \- Jayda G Remix](https://open.spotify.com/track/3Dcp6EgDwBl8Op8H1nwoxy) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx), [Gaba Cannal](https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe) | [Ngibambe \(Jayda G Remix\)](https://open.spotify.com/album/1tlAS0lyLBMa2QOkOMVpFL) | 3:34 | 2024-04-05 | 2024-09-07 |

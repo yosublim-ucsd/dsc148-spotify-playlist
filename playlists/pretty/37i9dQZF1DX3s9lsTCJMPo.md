@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean\. Cover: Alison Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,036 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,096 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 34 | [If Ah Rude Ah Rude](https://open.spotify.com/track/0SJM6td3gcXuGkdo4ZAxW1) | [Devon George](https://open.spotify.com/artist/6uw11NfwK3mkHsXWEM62sG) | [Man Ah Bad Man](https://open.spotify.com/album/53gpvRksVdGeCTEUvg8Vc3) | 5:00 |
 | 35 | [Girls Gone Wild](https://open.spotify.com/track/69eRt8YA5s0dgMWDXMy88f) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:15 |
 | 36 | [I Come Out To Play](https://open.spotify.com/track/5KE4hUCBgrfkGc8aKnG7aM) | [Shadow](https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a) | [The Best of the Shadow Vol\. 1](https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI) | 5:08 |
-| 37 | [De River](https://open.spotify.com/track/5FcWpanb1uSr5RGb0y9Pz1) | [Blue Ventures](https://open.spotify.com/artist/12gfbAibcI9iJfNAu1QnhO) | [Soca Switch Vol\. 5](https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7) | 4:32 |
-| 38 | [In The Mean Time](https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp) | [Allison Hinds](https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8) | [Soca Gold 1998](https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME) | 4:16 |
+| 37 | [In The Mean Time](https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp) | [Allison Hinds](https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8) | [Soca Gold 1998](https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME) | 4:16 |
+| 38 | [De River](https://open.spotify.com/track/5FcWpanb1uSr5RGb0y9Pz1) | [Blue Ventures](https://open.spotify.com/artist/12gfbAibcI9iJfNAu1QnhO) | [Soca Switch Vol\. 5](https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7) | 4:32 |
 | 39 | [Gyal Farm](https://open.spotify.com/track/0YKJ3Hl6QbtoQ46sQtBd7Q) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:41 |
 | 40 | [Doh Wine](https://open.spotify.com/track/4lYJVJLdK1ax0gncPz8dNW) | [Colin Lucas](https://open.spotify.com/artist/30e4w7lTeWNqIvmAOxAhig) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 7:18 |
 | 41 | [Party Start](https://open.spotify.com/track/0aL5KresMZGVevr5xnPqoZ) | [Superblue](https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M), [Bunji](https://open.spotify.com/artist/4PO2u9qHDO4ORynHyfbcD6) | [Trini Gold](https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji) | 3:11 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 45 | [Movin'](https://open.spotify.com/track/6c5fzIabjARvfleaqkz8Bb) | [Nigell & Marvinn](https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 5:19 |
 | 46 | [Theresa Rocking](https://open.spotify.com/track/3gGPrxYhowdcEEt2RkW4tA) | [Imagi Nation Brass](https://open.spotify.com/artist/2C7n4hoejvKTvmJf8w6n8e) | [Soca 101 Vol\. 4](https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H) | 6:22 |
 | 47 | [Hold Ya Foot Up & Jump](https://open.spotify.com/track/4WDWYD604qHwJl1lVIZuTc) | [Zulu Lightening](https://open.spotify.com/artist/1V5FoECHc43ZNqVryryd9F) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 4:19 |
-| 48 | [In the Party](https://open.spotify.com/track/7ipO6a68H6RCcOnWWt45CY) | [Explainer](https://open.spotify.com/artist/342c2y1LREfgGcGn5ssh4H) | [Explosion](https://open.spotify.com/album/02Zcv7IVYSodkfS3g8y22P) | 4:16 |
-| 49 | [Higher World of Music](https://open.spotify.com/track/2OeQyi8oEx2oiKNaK8zFmt) | [Lord Shorty Creator of Soca Music](https://open.spotify.com/artist/5V9Gp2KOpza5UJ4hqdo1E2) | [Soca Explosion](https://open.spotify.com/album/6eXrGVAex4Wb1TRr6DNqeM) | 5:09 |
+| 48 | [Higher World of Music](https://open.spotify.com/track/2OeQyi8oEx2oiKNaK8zFmt) | [Lord Shorty Creator of Soca Music](https://open.spotify.com/artist/5V9Gp2KOpza5UJ4hqdo1E2) | [Soca Explosion](https://open.spotify.com/album/6eXrGVAex4Wb1TRr6DNqeM) | 5:09 |
+| 49 | [In the Party](https://open.spotify.com/track/7ipO6a68H6RCcOnWWt45CY) | [Explainer](https://open.spotify.com/artist/342c2y1LREfgGcGn5ssh4H) | [Explosion](https://open.spotify.com/album/02Zcv7IVYSodkfS3g8y22P) | 4:16 |
 | 50 | [Ouch!](https://open.spotify.com/track/4L4eSiLG59FF7JqWypabPp) | [Prince Unique](https://open.spotify.com/artist/5Q15Bhx82J7gdO7W409gnp) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 6:08 |
 | 51 | [Tribute to Sundar](https://open.spotify.com/track/59Orcez9hIBe3KZ561J5f3) | [Superblue](https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M) | [Trini Gold](https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji) | 4:15 |
 | 52 | [Palms On De Ground](https://open.spotify.com/track/7gpveUm4dUjKEbh46W5KRL) | [Anslem Douglas](https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm) | [Soca Switch Vol\. 5](https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7) | 3:42 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 61 | [Savannah Grass](https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Savannah Grass](https://open.spotify.com/album/6PBFX1vkmiHtd04gcsXGVA) | 2:59 |
 | 62 | [Ragga Poom Poom](https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770) | [Anslem Douglas](https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:52 |
 | 63 | [Happiest Man Alive](https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf) | 3:38 |
-| 64 | [So Long](https://open.spotify.com/track/3VMqM5ryQlsQEH3CWSLLhQ) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [The Purple Heart Riddim](https://open.spotify.com/album/06m6nNsRzCFsb84ULwgdiZ) | 3:03 |
-| 65 | [Hookin' Meh](https://open.spotify.com/track/7a3UBZZ4md9nJUDQbxqk7W) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [Hooked on Soca](https://open.spotify.com/album/4O3wKLSGhkJojPEesmcoGu) | 3:03 |
+| 64 | [Hookin' Meh](https://open.spotify.com/track/7a3UBZZ4md9nJUDQbxqk7W) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [Hooked on Soca](https://open.spotify.com/album/4O3wKLSGhkJojPEesmcoGu) | 3:03 |
+| 65 | [So Long](https://open.spotify.com/track/3VMqM5ryQlsQEH3CWSLLhQ) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [The Purple Heart Riddim](https://open.spotify.com/album/06m6nNsRzCFsb84ULwgdiZ) | 3:03 |
 | 66 | [Full Extreme](https://open.spotify.com/track/7cRPmS5EeTdWPjgNiDep8e) | [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Full Extreme](https://open.spotify.com/album/1l18YSF3VvABWpP7A2qsUj) | 3:52 |
 | 67 | [Hello](https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob) | 3:18 |
 | 68 | [Carnival](https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Xtatik Circus](https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I) | 3:47 |

@@ -1,12 +1,12 @@
 {
   "description": "No rules. No boundaries. The best new alternative tracks. Cover: cleopatrick",
-  "num_followers": 1128741,
+  "num_followers": 1128790,
   "original_name": "The New Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyRSQAAAAABdQMxczmfQSpCT2Y/c9HrL",
+  "snapshot_id": "Zyo3AAAAAABUwpcXqkLvF+lhWUU/A9sh",
   "tracks": [
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1245,6 +1245,70 @@
       "url": "https://open.spotify.com/track/5q1Zaz0jxxPPrU67ddj0us"
     },
     {
+      "added_at": "2024-11-05 15:17:20",
+      "album": {
+        "name": "Digging Around",
+        "url": "https://open.spotify.com/album/4ZV7TClwbbUPnfCRISDBPY"
+      },
+      "artists": [
+        {
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "Digging Around",
+      "url": "https://open.spotify.com/track/0mIGu8CxAwQbbwN439W5b3"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa"
+      },
+      "artists": [
+        {
+          "name": "Junior Varsity",
+          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
+        }
+      ],
+      "duration_ms": 163264,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Waxwing",
+        "url": "https://open.spotify.com/album/49vsrHjBAKKFj6PMjwQu6h"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "duration_ms": 215369,
+      "name": "Waxwing",
+      "url": "https://open.spotify.com/track/4gGh7b3nKa4rlxyPLWcfTd"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Big Smile, Black Mire",
+        "url": "https://open.spotify.com/album/6DPefrgbEGENBJsewlf58u"
+      },
+      "artists": [
+        {
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+        }
+      ],
+      "duration_ms": 227640,
+      "name": "Metalhead",
+      "url": "https://open.spotify.com/track/6vBlEMm5JlUVZok4pfVjlu"
+    },
+    {
       "added_at": "2024-11-01 04:00:00",
       "album": {
         "name": "She Wants To Go Dancing",
@@ -1291,54 +1355,6 @@
       "duration_ms": 142826,
       "name": "If I Am",
       "url": "https://open.spotify.com/track/1MXY6H5UDzcS9N7xr57Ncn"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Big Smile, Black Mire",
-        "url": "https://open.spotify.com/album/6DPefrgbEGENBJsewlf58u"
-      },
-      "artists": [
-        {
-          "name": "urika's bedroom",
-          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
-        }
-      ],
-      "duration_ms": 227640,
-      "name": "Metalhead",
-      "url": "https://open.spotify.com/track/6vBlEMm5JlUVZok4pfVjlu"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa"
-      },
-      "artists": [
-        {
-          "name": "Junior Varsity",
-          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
-        }
-      ],
-      "duration_ms": 163264,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Waxwing",
-        "url": "https://open.spotify.com/album/49vsrHjBAKKFj6PMjwQu6h"
-      },
-      "artists": [
-        {
-          "name": "Sorry",
-          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
-        }
-      ],
-      "duration_ms": 215369,
-      "name": "Waxwing",
-      "url": "https://open.spotify.com/track/4gGh7b3nKa4rlxyPLWcfTd"
     },
     {
       "added_at": "2024-11-01 04:00:00",

@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Konomi Suzuki 鈴木このみ
 
-715 songs - 1 day 23 hr 33 min
+716 songs - 1 day 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Platina\- from CrosSing](https://open.spotify.com/track/6dNi50ClKP3kPKWKB7hbHK) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS) | [Platina\- from CrosSing](https://open.spotify.com/album/0lUgiDZkZl9gIbDpysJvr2) | 4:09 | 2022-08-23 | 2022-10-04 |
 | [Play the world](https://open.spotify.com/track/6ctN3LYzoYjyc41ptpNxcv) | [Rico Sasaki](https://open.spotify.com/artist/32vntVlDOsm1HGm9Xe0FSz) | [スタート!](https://open.spotify.com/album/3f2TjJitmfOmVAGun8f4DM) | 4:30 | 2022-06-09 | 2022-07-27 |
 | [Plunderer](https://open.spotify.com/track/02XTOEBvTvzqMGmz9apUGB) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD) | [Rhythmic Flavor](https://open.spotify.com/album/77kgZ2PjSFNmomA9N9V5pc) | 3:28 | 2022-07-07 | 2022-07-20 |
+| [POP IN 2](https://open.spotify.com/track/6WGrtUmFwTaP5G8AeegajH) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.4\)](https://open.spotify.com/album/5Uuyj9BXLVhjiz0z033fpp) | 4:27 | 2024-11-05 |  |
 | [Pretty Fever](https://open.spotify.com/track/2MkZIwCwTJR6wZH2unpwMV) | [Minako Kotobuki](https://open.spotify.com/artist/1NGAO9BGAOwKrv0dtjXRpP) | [Tick](https://open.spotify.com/album/24iNTW4PeXS3yTTftTj4yZ) | 4:22 | 2022-07-07 | 2022-07-16 |
 | [Princess' Happy Ending](https://open.spotify.com/track/24vRXvYkICy96v83qLHhMT) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Princess' Happy Ending](https://open.spotify.com/album/35HvSyER3h21DPhsyv545F) | 3:28 | 2023-10-17 | 2024-01-19 |
 | [Princess' Happy Ending](https://open.spotify.com/track/5q1Kl4azsGJXk6N8wLMQdI) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Princess' Happy Ending](https://open.spotify.com/album/3Mug6SQYCxcd0CtlLVqd4O) | 3:28 | 2023-10-17 | 2023-10-23 |
@@ -455,7 +456,7 @@
 | [エメラルド](https://open.spotify.com/track/1YVMz0iftvnc4stAEMkhJr) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [エメラルド](https://open.spotify.com/album/09mACU8bjpR5TiX37AXTEp) | 3:40 | 2023-05-09 | 2023-05-24 |
 | [オンリー](https://open.spotify.com/track/4hJmc8djXkDik2wEKrfe6R) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [オンリー](https://open.spotify.com/album/3OpRSmtFASdDxOGZyt8IN0) | 3:50 | 2022-06-12 | 2022-07-29 |
 | [カナユメ](https://open.spotify.com/track/5n63vjAwKJy4GN9B6vu4cd) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [カナユメ](https://open.spotify.com/album/3BwWZNxUTv3qJXKkrygSC3) | 5:07 | 2022-06-24 | 2022-07-29 |
-| [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1) | 4:59 | 2024-02-13 |  |
+| [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1) | 4:59 | 2024-02-13 | 2024-11-06 |
 | [キミとセミブルー](https://open.spotify.com/track/3uWSKo3aWWcC7X0uiXRmOH) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [有村麻央](https://open.spotify.com/artist/5BAKveSLkmyXPCIkpj1Fk8), [紫雲清夏](https://open.spotify.com/artist/0TuubEkxXuUbxPWhZyEsJs), [姫崎莉波](https://open.spotify.com/artist/29izEVvc7Y1YS3BZhE6OXh) | [キミとセミブルー](https://open.spotify.com/album/5PqxoESaAvcqFZK3GuwWUA) | 3:56 | 2024-07-03 | 2024-07-10 |
 | [キミトノミライ](https://open.spotify.com/track/4kWZybr12HVofExyX9zrMT) | [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK) | [キミトノミライ/Invisible stars](https://open.spotify.com/album/6ixLpTe3kb4WJ8Zp7tH9PT) | 4:05 | 2023-04-11 | 2023-05-11 |
 | [キョリ感](https://open.spotify.com/track/3Dk2LSzebLiP4Al8AKcgbo) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [キョリ感](https://open.spotify.com/album/2NfyjfSfTz6L1X16qxT0hq) | 3:51 | 2022-06-24 | 2022-07-27 |

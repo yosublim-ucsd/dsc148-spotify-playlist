@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-367 songs - 23 hr 20 min
+368 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Moonquake Lake](https://open.spotify.com/track/5k6nO1xvzgfktS4Ay9iQrC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW) | 2:53 | 2023-12-30 |  |
 | [Mountains \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/0HCDvbGNsigLpkzCDwpKVr) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:14 | 2023-12-30 |  |
 | [Move Your Body \- Alan Walker Remix](https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 | 2023-12-30 |  |
+| [MTG DA SIA \- ANGEL BY THE WINGS](https://open.spotify.com/track/0K5Wbzan94w91ImAKQcjsw) | [Lucas Hits](https://open.spotify.com/artist/6Yb29hzKvATIPHZYn4Qk5H) | [MTG DA SIA \- ANGEL BY THE WINGS](https://open.spotify.com/album/7KYLDnvpL3yGcLLxRYgFfu) | 2:03 | 2024-11-05 |  |
 | [Music](https://open.spotify.com/track/4XCQTLPs84Ct8kzOQ6Wiqs) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 4:58 | 2023-12-30 |  |
 | [My Heart Is Open](https://open.spotify.com/track/5AnZXEB5IVhU57cJdOtJeX) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:56 | 2023-12-30 |  |
 | [My Love](https://open.spotify.com/track/00vCAlmWdXvguBQvIFrvTf) | [Midnite String Quartet](https://open.spotify.com/artist/648dUUIlz7RSeg3O8CbTat) | [Heartstrings Wedding Songbook, Vol\. 5](https://open.spotify.com/album/4DJhe1G4US0hBoMB7VriBU) | 3:24 | 2023-12-30 | 2024-05-02 |

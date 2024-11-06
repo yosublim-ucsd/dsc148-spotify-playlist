@@ -1,12 +1,12 @@
 {
   "description": "This is Nothing. The essential tracks, all in one playlist.",
-  "num_followers": 2389,
+  "num_followers": 2390,
   "original_name": "This Is Nothing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAAA+taDF7+rKnBvpL73JfYTz",
+  "snapshot_id": "ZygOgAAAAAAPJaMZbM9FbJtnN4ycsG2k",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 260458,
-      "name": "April Ha Ha",
-      "url": "https://open.spotify.com/track/12XcQtzILF9FG7sMXLwcDb"
+      "duration_ms": 230437,
+      "name": "Catch a Fade",
+      "url": "https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 230437,
-      "name": "Catch a Fade",
-      "url": "https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob"
+      "duration_ms": 260458,
+      "name": "April Ha Ha",
+      "url": "https://open.spotify.com/track/12XcQtzILF9FG7sMXLwcDb"
     },
     {
       "added_at": null,

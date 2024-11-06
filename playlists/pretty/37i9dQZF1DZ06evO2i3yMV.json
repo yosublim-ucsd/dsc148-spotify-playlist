@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAAB0IY8VvPcwQcqFJoLp5o0U",
+  "snapshot_id": "ZygOgAAAAACCmaavPJ4XCD6Y5TRc557g",
   "tracks": [
     {
       "added_at": null,
@@ -91,26 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desiderium",
-        "url": "https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 210448,
-      "name": "Realla",
-      "url": "https://open.spotify.com/track/34x4a9pz1wr6kDvwNuVUoI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RINGOS DESERT",
         "url": "https://open.spotify.com/album/1Cw2ULAWbEnGz9301uL9BL"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 198567,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/1IhWgIG1eScniLWZivkPPF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desiderium",
+        "url": "https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 210448,
+      "name": "Realla",
+      "url": "https://open.spotify.com/track/34x4a9pz1wr6kDvwNuVUoI"
     },
     {
       "added_at": null,
@@ -384,13 +384,13 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         },
         {
-          "name": "Selah Sue",
-          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 266643,
-      "name": "I Wish I Could (feat. Selah Sue)",
-      "url": "https://open.spotify.com/track/4LEM9GuAIk6f78yVNI5Ngm"
+      "duration_ms": 217537,
+      "name": "Don't Call Me (feat. Yuna)",
+      "url": "https://open.spotify.com/track/56BOZ6JkLSFQxgIDXNLjul"
     },
     {
       "added_at": null,
@@ -468,13 +468,13 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         },
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
         }
       ],
-      "duration_ms": 217537,
-      "name": "Don't Call Me (feat. Yuna)",
-      "url": "https://open.spotify.com/track/56BOZ6JkLSFQxgIDXNLjul"
+      "duration_ms": 266643,
+      "name": "I Wish I Could (feat. Selah Sue)",
+      "url": "https://open.spotify.com/track/4LEM9GuAIk6f78yVNI5Ngm"
     },
     {
       "added_at": null,

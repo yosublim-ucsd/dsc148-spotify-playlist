@@ -6,26 +6,30 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lrw2SAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lr2HyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
-        "name": "Comment \u00e7a va?",
-        "url": "https://open.spotify.com/album/28T4o8sJi8ZCDnou12Nnjo"
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
       "artists": [
         {
-          "name": "Matt Maxwell",
-          "url": "https://open.spotify.com/artist/5CMQHWCHZH8L4wWRVsGIf1"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 160706,
-      "name": "C'est l'Halloween",
-      "url": "https://open.spotify.com/track/7nCBy5X4ZxSm21aBHh6ICZ"
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
         "name": "The Original Monster Mash",
         "url": "https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr"
@@ -45,7 +49,7 @@
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
         "name": "Tere Bina Na Guzara E",
         "url": "https://open.spotify.com/album/0yqDVd940RjJdyIMfAdgBH"
@@ -65,7 +69,23 @@
       "url": "https://open.spotify.com/track/4wILHvb65fCykx1BuRlvwa"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
       "album": {
         "name": "Rock",
         "url": "https://open.spotify.com/album/4teIzIcBlCmrMrJ0asA1iq"
@@ -81,7 +101,7 @@
       "url": "https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
         "name": "Harry Potter (Trap Remix)",
         "url": "https://open.spotify.com/album/4WeCuKwcEKzp0TkuEZPzGl"
@@ -90,6 +110,10 @@
         {
           "name": "Trap Remix Guys",
           "url": "https://open.spotify.com/artist/5mJT67kG5MKy7byzJWMN7c"
+        },
+        {
+          "name": "Trap Remix Guy",
+          "url": "https://open.spotify.com/artist/57hx1phIu1MxM82nOla1au"
         }
       ],
       "duration_ms": 79523,
@@ -97,7 +121,71 @@
       "url": "https://open.spotify.com/track/7FD5ZtQ7MAUE7XEbEe0p73"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gold",
+          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
+        }
+      ],
+      "duration_ms": 125624,
+      "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
+      "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/4LazDzEGshEUn9D2zbm6w2"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2bzvRIU2dVDWb3J9khpkxo"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/6thXB4RmajS4oZPNiBAKy0"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "Rollin' Stone",
+        "url": "https://open.spotify.com/album/5ENChAFhgnJ4kpnLpIt3wB"
+      },
+      "artists": [
+        {
+          "name": "Blake Whiten",
+          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
+        }
+      ],
+      "duration_ms": 151943,
+      "name": "Rollin' Stone",
+      "url": "https://open.spotify.com/track/1CxoluXWMslZp5T89ravj3"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
       "album": {
         "name": "One Take Freestyle",
         "url": "https://open.spotify.com/album/1OZvPNe13vwyc0Cj732Vt2"
@@ -113,7 +201,7 @@
       "url": "https://open.spotify.com/track/7x5CvENf43u875TNrtqT1h"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
         "name": "Thick Of It (feat. Trippie Redd) / Low",
         "url": "https://open.spotify.com/album/4o57W8cMFiKf2NVbGSE9jH"
@@ -133,39 +221,23 @@
       "url": "https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
-        "name": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4"
+        "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
+        "url": "https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H"
       },
       "artists": [
         {
-          "name": "Andrew Gold",
-          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
         }
       ],
-      "duration_ms": 125624,
-      "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
-      "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
+      "duration_ms": 185626,
+      "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
+      "url": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2bzvRIU2dVDWb3J9khpkxo"
-      },
-      "artists": [
-        {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/6thXB4RmajS4oZPNiBAKy0"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
         "name": "Songs from Agatha All Along (Episodes 1 & 2)",
         "url": "https://open.spotify.com/album/18NuXd2GdffzNAVM2xIeVG"
@@ -201,23 +273,23 @@
       "url": "https://open.spotify.com/track/59h6Uw3m5ClwHnEcKXh8hg"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
-        "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
-        "url": "https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H"
+        "name": "Love Somebody",
+        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
       },
       "artists": [
         {
-          "name": "Creepy Nuts",
-          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 185626,
-      "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
-      "url": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
+      "duration_ms": 204828,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
         "name": "Dirty Cash (Money Talks)",
         "url": "https://open.spotify.com/album/4fn4LgJYOLrRsYjRQUGmrs"
@@ -233,23 +305,7 @@
       "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "blue",
-        "url": "https://open.spotify.com/album/4dhoGa2hqBQ402BaIwBpcn"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 214357,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/2ezMnGfGww3WSOJp7TwI1N"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
         "name": "Sing Like Madonna",
         "url": "https://open.spotify.com/album/4iDYXsSzgSmXRzzyBfR6yT"
@@ -265,7 +321,23 @@
       "url": "https://open.spotify.com/track/6R81LNxCNqY9c1TXCuyvXq"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 284363,
+      "name": "Noid",
+      "url": "https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
       "album": {
         "name": "Speak for Yourself",
         "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
@@ -281,39 +353,39 @@
       "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
-        "name": "October Country (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5iKomMyesK7JZtbNIecTGX"
+        "name": "blue",
+        "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
       },
       "artists": [
         {
-          "name": "October Country",
-          "url": "https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9"
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
         }
       ],
-      "duration_ms": 126840,
-      "name": "My Girlfriend Is a Witch",
-      "url": "https://open.spotify.com/track/39PWLJrvfBCrfe4NX9aGZD"
+      "duration_ms": 214357,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
-        "name": "Goosebumps (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7vqZjtCd0D9jfk5WlZ95KD"
+        "name": "Ends of the Earth",
+        "url": "https://open.spotify.com/album/59IUArxnHB64BUCM3hKTwQ"
       },
       "artists": [
         {
-          "name": "Jack Lenz",
-          "url": "https://open.spotify.com/artist/3LzSjgXJnvwHq4w9aN2uwA"
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
         }
       ],
-      "duration_ms": 64525,
-      "name": "Goosebumps Original Theme Song",
-      "url": "https://open.spotify.com/track/0gs6G0qcP6yXVBntg8PC3L"
+      "duration_ms": 269830,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/30rU9CBF5cwiexNHJffkLS"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
@@ -329,67 +401,39 @@
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+        "name": "Goosebumps (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7vqZjtCd0D9jfk5WlZ95KD"
       },
       "artists": [
         {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+          "name": "Jack Lenz",
+          "url": "https://open.spotify.com/artist/3LzSjgXJnvwHq4w9aN2uwA"
         }
       ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+      "duration_ms": 64525,
+      "name": "Goosebumps Original Theme Song",
+      "url": "https://open.spotify.com/track/0gs6G0qcP6yXVBntg8PC3L"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
-        "name": "A Work of Art (feat. Shavo of System of a Down)",
-        "url": "https://open.spotify.com/album/4iCfWNu1o6eNEadgJQa4hp"
+        "name": "October Country (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5iKomMyesK7JZtbNIecTGX"
       },
       "artists": [
         {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        },
-        {
-          "name": "SHAVO",
-          "url": "https://open.spotify.com/artist/3db7IWyJRHjZEViTutNdUR"
+          "name": "October Country",
+          "url": "https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9"
         }
       ],
-      "duration_ms": 238143,
-      "name": "A Work of Art",
-      "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc"
+      "duration_ms": 126840,
+      "name": "My Girlfriend Is a Witch",
+      "url": "https://open.spotify.com/track/39PWLJrvfBCrfe4NX9aGZD"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "Halloween (Original 2018 Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5CKWm3CJVrTSttgNyX90LM"
-      },
-      "artists": [
-        {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
-        },
-        {
-          "name": "Cody Carpenter",
-          "url": "https://open.spotify.com/artist/5rJxl4BLLAaFRSNgAz2hSg"
-        },
-        {
-          "name": "Daniel Davies",
-          "url": "https://open.spotify.com/artist/0YaDmIGxP3HVcH7xvkpvSP"
-        }
-      ],
-      "duration_ms": 182375,
-      "name": "Halloween Theme",
-      "url": "https://open.spotify.com/track/6Z36wt7oo6xm2uGN00PnTq"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
         "name": "Raanjhan (From \"Do Patti\")",
         "url": "https://open.spotify.com/album/1poClftP5T3zRcqpsxPPfW"
@@ -413,7 +457,7 @@
       "url": "https://open.spotify.com/track/4vHRQnzGcKEtqsLH70tAms"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
@@ -433,7 +477,183 @@
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "Halloween (Original 2018 Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5CKWm3CJVrTSttgNyX90LM"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        },
+        {
+          "name": "Cody Carpenter",
+          "url": "https://open.spotify.com/artist/5rJxl4BLLAaFRSNgAz2hSg"
+        },
+        {
+          "name": "Daniel Davies",
+          "url": "https://open.spotify.com/artist/0YaDmIGxP3HVcH7xvkpvSP"
+        }
+      ],
+      "duration_ms": 182375,
+      "name": "Halloween Theme",
+      "url": "https://open.spotify.com/track/6Z36wt7oo6xm2uGN00PnTq"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "House Again",
+        "url": "https://open.spotify.com/album/6Oxk5FxwVNUMD9KxChEVrY"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "duration_ms": 202290,
+      "name": "House Again",
+      "url": "https://open.spotify.com/track/4OG8nSaGmiATo0y59bvehc"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "Somebody\u2019s Watching Me (Sped Up)",
+        "url": "https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "duration_ms": 238786,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "I Think They Call This Love",
+        "url": "https://open.spotify.com/album/5bZT73mZyTvxu3de7BBhEu"
+      },
+      "artists": [
+        {
+          "name": "Elliot James Reay",
+          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "I Think They Call This Love",
+      "url": "https://open.spotify.com/track/4oHQ8n9OKQ3599e8noCrDX"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "At Home with Screamin' Jay Hawkins",
+        "url": "https://open.spotify.com/album/2lKtE0pl4RtMD2bUwKzdcz"
+      },
+      "artists": [
+        {
+          "name": "Screamin' Jay Hawkins",
+          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
+        }
+      ],
+      "duration_ms": 144866,
+      "name": "I Put a Spell On You",
+      "url": "https://open.spotify.com/track/3sLhMSePzxSrmxluIqeoAZ"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "A Work of Art (feat. Shavo of System of a Down)",
+        "url": "https://open.spotify.com/album/4iCfWNu1o6eNEadgJQa4hp"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "SHAVO",
+          "url": "https://open.spotify.com/artist/3db7IWyJRHjZEViTutNdUR"
+        }
+      ],
+      "duration_ms": 238143,
+      "name": "A Work of Art",
+      "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "Whiplash - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "The Misfits Box Set",
+        "url": "https://open.spotify.com/album/6vZ6KNlP8hReYxJVuU7G42"
+      },
+      "artists": [
+        {
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        }
+      ],
+      "duration_ms": 112453,
+      "name": "Halloween - Mix-O-Lydian 1981",
+      "url": "https://open.spotify.com/track/5QOvYYp7yRSY6LP7Vm48br"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "Piece of My Heart (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 259354,
+      "name": "Piece of My Heart (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
       "album": {
         "name": "The Rocky Horror Picture Show - Original Soundtrack",
         "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
@@ -457,103 +677,7 @@
       "url": "https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "I Think They Call This Love",
-        "url": "https://open.spotify.com/album/5bZT73mZyTvxu3de7BBhEu"
-      },
-      "artists": [
-        {
-          "name": "Elliot James Reay",
-          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "I Think They Call This Love",
-      "url": "https://open.spotify.com/track/4oHQ8n9OKQ3599e8noCrDX"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "Somebody\u2019s Watching Me (Sped Up)",
-        "url": "https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT"
-      },
-      "artists": [
-        {
-          "name": "Rockwell",
-          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "Somebody's Watching Me - Single Version",
-      "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "At Home with Screamin' Jay Hawkins",
-        "url": "https://open.spotify.com/album/2lKtE0pl4RtMD2bUwKzdcz"
-      },
-      "artists": [
-        {
-          "name": "Screamin' Jay Hawkins",
-          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
-        }
-      ],
-      "duration_ms": 144866,
-      "name": "I Put a Spell On You",
-      "url": "https://open.spotify.com/track/3sLhMSePzxSrmxluIqeoAZ"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "Dinner in America Soundtrack",
-        "url": "https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd"
-      },
-      "artists": [
-        {
-          "name": "John + Jane Q. Public",
-          "url": "https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf"
-        }
-      ],
-      "duration_ms": 110110,
-      "name": "Watermelon",
-      "url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 136627,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "Farewell, Starlite!",
-        "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
-      },
-      "artists": [
-        {
-          "name": "Francis and the Lights",
-          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
-        }
-      ],
-      "duration_ms": 210944,
-      "name": "See Her Out (Thats Just Life)",
-      "url": "https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
         "name": "Halloween Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
@@ -569,87 +693,55 @@
       "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
-        "name": "The Misfits Box Set",
-        "url": "https://open.spotify.com/album/6vZ6KNlP8hReYxJVuU7G42"
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
       },
       "artists": [
         {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
         }
       ],
-      "duration_ms": 112453,
-      "name": "Halloween - Mix-O-Lydian 1981",
-      "url": "https://open.spotify.com/track/5QOvYYp7yRSY6LP7Vm48br"
+      "duration_ms": 131786,
+      "name": "Igloo",
+      "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
-        "name": "Disney Halloween",
-        "url": "https://open.spotify.com/album/2rTXmuNjiVhF0ig1WflV2p"
+        "name": "Dinner in America Soundtrack",
+        "url": "https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd"
       },
       "artists": [
         {
-          "name": "China Anne McClain",
-          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+          "name": "John + Jane Q. Public",
+          "url": "https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf"
         }
       ],
-      "duration_ms": 206675,
-      "name": "Calling All the Monsters",
-      "url": "https://open.spotify.com/track/3fliVLIpWogDKheZPdYqhU"
+      "duration_ms": 110110,
+      "name": "Watermelon",
+      "url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
-        "name": "Psychedelic Jungle",
-        "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
+        "name": "It's My Ego",
+        "url": "https://open.spotify.com/album/0efkEgsdM8HpQAI3qq31Gk"
       },
       "artists": [
         {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
         }
       ],
-      "duration_ms": 186038,
-      "name": "Goo Goo Muck",
-      "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
+      "duration_ms": 226105,
+      "name": "It's My Ego",
+      "url": "https://open.spotify.com/track/5DtzKlHN5Gay3JkIZKztmS"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "The Purple People Eater",
-        "url": "https://open.spotify.com/album/6aNbS6LXGqL1XVwU1bSzDu"
-      },
-      "artists": [
-        {
-          "name": "Sheb Wooley",
-          "url": "https://open.spotify.com/artist/2dOTS74R4yPISc7AVU9QzD"
-        }
-      ],
-      "duration_ms": 137960,
-      "name": "The Purple People Eater",
-      "url": "https://open.spotify.com/track/0WkZQPNC0c7yrsMX1arVAd"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 357800,
-      "name": "Thriller",
-      "url": "https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
         "name": "Last Night",
         "url": "https://open.spotify.com/album/61FSTdvDNl2fNqdGKTrXib"
@@ -665,7 +757,103 @@
       "url": "https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "The Purple People Eater",
+        "url": "https://open.spotify.com/album/6aNbS6LXGqL1XVwU1bSzDu"
+      },
+      "artists": [
+        {
+          "name": "Sheb Wooley",
+          "url": "https://open.spotify.com/artist/2dOTS74R4yPISc7AVU9QzD"
+        }
+      ],
+      "duration_ms": 137960,
+      "name": "The Purple People Eater",
+      "url": "https://open.spotify.com/track/0WkZQPNC0c7yrsMX1arVAd"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "Disney Halloween",
+        "url": "https://open.spotify.com/album/2rTXmuNjiVhF0ig1WflV2p"
+      },
+      "artists": [
+        {
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        }
+      ],
+      "duration_ms": 206675,
+      "name": "Calling All the Monsters",
+      "url": "https://open.spotify.com/track/3fliVLIpWogDKheZPdYqhU"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "Psychedelic Jungle",
+        "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 186038,
+      "name": "Goo Goo Muck",
+      "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "Farewell, Starlite!",
+        "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
+      },
+      "artists": [
+        {
+          "name": "Francis and the Lights",
+          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+        }
+      ],
+      "duration_ms": 210944,
+      "name": "See Her Out (Thats Just Life)",
+      "url": "https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 357800,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC"
+    },
+    {
+      "added_at": "2024-11-05 13:48:44",
       "album": {
         "name": "I Only Smoke When I Drink",
         "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
@@ -681,103 +869,7 @@
       "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
     },
     {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
-      },
-      "artists": [
-        {
-          "name": "The American Dawn",
-          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
-        }
-      ],
-      "duration_ms": 214086,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "Lonely Dirt Road",
-        "url": "https://open.spotify.com/album/1PYzr3qMS5lvI1MY3waU9y"
-      },
-      "artists": [
-        {
-          "name": "Dax",
-          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
-        }
-      ],
-      "duration_ms": 246857,
-      "name": "Lonely Dirt Road",
-      "url": "https://open.spotify.com/track/6uBXlvLz3g0WHI5n2qIz7u"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "Embrace It",
-        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
-      },
-      "artists": [
-        {
-          "name": "Ndotz",
-          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
-        }
-      ],
-      "duration_ms": 104418,
-      "name": "Embrace It",
-      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "The Viper",
-        "url": "https://open.spotify.com/album/3cQR7hyzZEbwAESuPEu8qR"
-      },
-      "artists": [
-        {
-          "name": "BabyChiefDoit",
-          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
-        }
-      ],
-      "duration_ms": 150997,
-      "name": "The Viper",
-      "url": "https://open.spotify.com/track/2JapCT0xikq6Fy1PQiJz1C"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "Jo Tum Mere Ho",
-        "url": "https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 251813,
-      "name": "Jo Tum Mere Ho",
-      "url": "https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
+      "added_at": "2024-11-05 13:48:44",
       "album": {
         "name": "Tu Boda",
         "url": "https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA"
@@ -795,94 +887,6 @@
       "duration_ms": 225880,
       "name": "Tu Boda",
       "url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "set me free",
-        "url": "https://open.spotify.com/album/1WNtZYYc1F8LzMRtHhr94M"
-      },
-      "artists": [
-        {
-          "name": "Aaron Hibell",
-          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
-        },
-        {
-          "name": "Alex Wann",
-          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
-        }
-      ],
-      "duration_ms": 218360,
-      "name": "set me free",
-      "url": "https://open.spotify.com/track/7Dwk4YmBNSqOfRAN7MjQZK"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "Halloween Howls: Fun & Scary Music",
-        "url": "https://open.spotify.com/album/5RoMbNYEFVEJyE1OX7VYsW"
-      },
-      "artists": [
-        {
-          "name": "Andrew Gold",
-          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
-        }
-      ],
-      "duration_ms": 127626,
-      "name": "Spooky, Scary Skeletons",
-      "url": "https://open.spotify.com/track/23V08GxMeaZNSf8Gy6KF6t"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4"
-      },
-      "artists": [
-        {
-          "name": "Andrew Gold",
-          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
-        }
-      ],
-      "duration_ms": 229199,
-      "name": "Spooky, Scary Skeletons - Undead Tombstone Remix Extended",
-      "url": "https://open.spotify.com/track/5kwuPm3p11TnirbMvcGrZZ"
-    },
-    {
-      "added_at": "2024-11-04 13:54:32",
-      "album": {
-        "name": "Stereo-Typical: A's, B's & Rarities",
-        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
     }
   ],
   "unique_name": "Viral 50 - Canada",

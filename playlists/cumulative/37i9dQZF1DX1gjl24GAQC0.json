@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? (Cover: THE BOYZ(\ub354\ubcf4\uc774\uc988)) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "description": "Is it your favorite oppa or dongsaeng? (Cover: EPEX (\uc774\ud399\uc2a4)) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "Hallyu Boy Bands (\ud55c\ub958 \ubcf4\uc774 \ubc34\ub4dc)",
   "tracks": [
     {
@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 175106,
       "name": "But Sometimes",
       "url": "https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT"
@@ -3438,7 +3438,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 172106,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK"
@@ -4606,7 +4606,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 184229,
       "name": "Home",
       "url": "https://open.spotify.com/track/7yTn8YwfpEimufBe7uDtO7"
@@ -5424,7 +5424,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 176133,
       "name": "Killin' It",
       "url": "https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06"
@@ -6416,7 +6416,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 199021,
       "name": "Make You Shine",
       "url": "https://open.spotify.com/track/3vakr4UnshUxgxlKxtxme7"
@@ -7010,7 +7010,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 174800,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/4u8tjYQmrvMRzv70oZiUSa"
@@ -7778,6 +7778,24 @@
       "duration_ms": 195989,
       "name": "Pirate King",
       "url": "https://open.spotify.com/track/5Jl2i6LR3Socm4TYqRzZw3"
+    },
+    {
+      "album": {
+        "name": "Please Stay",
+        "url": "https://open.spotify.com/album/3x7Vyuc09YxeEwQ75Kiz0c"
+      },
+      "artists": [
+        {
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201053,
+      "name": "Please Stay",
+      "url": "https://open.spotify.com/track/4NpJ91T1d41WxnWdyAcl4Q"
     },
     {
       "album": {
@@ -10285,6 +10303,24 @@
     },
     {
       "album": {
+        "name": "EPEX 2nd Album Youth Chapter 2 : YOUTH DEFICIENCY",
+        "url": "https://open.spotify.com/album/2CLS39zL1TKdUp6XS3kd7V"
+      },
+      "artists": [
+        {
+          "name": "EPEX",
+          "url": "https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179026,
+      "name": "UNIVERSE",
+      "url": "https://open.spotify.com/track/4Ev0sWpZm6mAGSed0MEgNB"
+    },
+    {
+      "album": {
         "name": "LIGHT US",
         "url": "https://open.spotify.com/album/6tSOZb6wWFG8EZdcxXDyli"
       },
@@ -10686,7 +10722,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 231800,
       "name": "What If",
       "url": "https://open.spotify.com/track/0CN7xUFQbPRzffogC4FgBR"
@@ -11208,7 +11244,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 194626,
       "name": "Zip Zip Zip",
       "url": "https://open.spotify.com/track/1WxZnMz2lcFskuyx6A7rYi"

@@ -1,6 +1,6 @@
 {
   "description": "The official playlist for the 64th GRAMMY Awards.",
-  "num_followers": 132831,
+  "num_followers": 132829,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "Endless Summer Vacation",
-        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Thousand Miles (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
         "name": "Your Power",
         "url": "https://open.spotify.com/album/5FsMkqJBLQcHPzSHa82KWh"
       },
@@ -1151,6 +1131,26 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Thousand Miles (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
         "name": "Sittin' On Top Of The World",
         "url": "https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 159372,
       "name": "Sittin' On Top Of The World",
       "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 302253,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -1191,22 +1207,6 @@
       "duration_ms": 220408,
       "name": "Another One Of Me (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 302253,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "Brothers Osborne",
-        "url": "https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "Nobody's Nobody",
-      "url": "https://open.spotify.com/track/0WT1ILuFrh8reQUmPwmhMo"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
         "name": "God Problems (feat. Chandler Moore)",
         "url": "https://open.spotify.com/album/0d3jBzKsUXdynysqmqE07E"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 590857,
       "name": "God Problems (feat. Chandler Moore)",
       "url": "https://open.spotify.com/track/2aIKL1vIMOztwdxlG9hGoD"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
+        "name": "Brothers Osborne",
+        "url": "https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "Nobody's Nobody",
+      "url": "https://open.spotify.com/track/0WT1ILuFrh8reQUmPwmhMo"
     },
     {
       "added_at": "2024-02-05 23:56:53",

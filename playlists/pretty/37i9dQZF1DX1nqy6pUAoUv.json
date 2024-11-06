@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 180908,
+  "num_followers": 180915,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Riddy Arman",
-        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
-      },
-      "artists": [
-        {
-          "name": "Riddy Arman",
-          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "Too Late to Write a Love Song",
-      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "The Perfect Plan",
         "url": "https://open.spotify.com/album/2UeJbrZMJSAJ7qadAbEOuW"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 289161,
       "name": "Too Late Babe",
       "url": "https://open.spotify.com/track/1WLsC1nDz2w78EpVRgLqWf"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Riddy Arman",
+        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
+      },
+      "artists": [
+        {
+          "name": "Riddy Arman",
+          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "Too Late to Write a Love Song",
+      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
         }
       ],
-      "duration_ms": 235146,
-      "name": "The Capitalist Blues",
-      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
+      "duration_ms": 174640,
+      "name": "Money Is King",
+      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -956,9 +956,25 @@
           "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
         }
       ],
-      "duration_ms": 174640,
-      "name": "Money Is King",
-      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
+      "duration_ms": 235146,
+      "name": "The Capitalist Blues",
+      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Dressed in Roses",
+        "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
+      },
+      "artists": [
+        {
+          "name": "Barbaro",
+          "url": "https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Barbaro",
+      "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Dressed in Roses",
-        "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
-      },
-      "artists": [
-        {
-          "name": "Barbaro",
-          "url": "https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "Barbaro",
-      "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Black Sun",
         "url": "https://open.spotify.com/album/6b7USoPQHOlfaelSrPPVo9"
       },
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Working Man",
         "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 202506,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Gold Record",
-        "url": "https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 325093,
-      "name": "Pigeons",
-      "url": "https://open.spotify.com/track/5v11vzJ8bvdCkUm6yBUKsF"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Prospect Hill: The American Songster Omnibus",
         "url": "https://open.spotify.com/album/4Pp8Sv28eS0e694u9dKTfo"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
+        "name": "Gold Record",
+        "url": "https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo"
       },
       "artists": [
         {
-          "name": "Aubrie Sellers",
-          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
         }
       ],
-      "duration_ms": 278167,
-      "name": "Green Eyes - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E"
+      "duration_ms": 325093,
+      "name": "Pigeons",
+      "url": "https://open.spotify.com/track/5v11vzJ8bvdCkUm6yBUKsF"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1379,6 +1363,22 @@
       "duration_ms": 219293,
       "name": "Hustlin' [Feat. Jerry Douglas & Chris Eldridge]",
       "url": "https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
+      },
+      "artists": [
+        {
+          "name": "Aubrie Sellers",
+          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
+        }
+      ],
+      "duration_ms": 278167,
+      "name": "Green Eyes - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Hills of Mexico",
-        "url": "https://open.spotify.com/album/6mk8W1blzNv0y8maWcwjVN"
-      },
-      "artists": [
-        {
-          "name": "Jake Xerxes Fussell",
-          "url": "https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33"
-        }
-      ],
-      "duration_ms": 351193,
-      "name": "Hills of Mexico",
-      "url": "https://open.spotify.com/track/2buCvfzLyMEUs04e8IChE2"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Pacific Northwest Bound",
         "url": "https://open.spotify.com/album/2eox9WDTU2GkXhktIrDbJQ"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 173786,
       "name": "Pacific Northwest Bound",
       "url": "https://open.spotify.com/track/1fWzprUcryTPfypChOG8eN"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Hills of Mexico",
+        "url": "https://open.spotify.com/album/6mk8W1blzNv0y8maWcwjVN"
+      },
+      "artists": [
+        {
+          "name": "Jake Xerxes Fussell",
+          "url": "https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33"
+        }
+      ],
+      "duration_ms": 351193,
+      "name": "Hills of Mexico",
+      "url": "https://open.spotify.com/track/2buCvfzLyMEUs04e8IChE2"
     },
     {
       "added_at": "2024-07-05 21:02:38",

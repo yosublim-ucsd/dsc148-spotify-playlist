@@ -2,7 +2,7 @@
 
 ### [Running Club](https://open.spotify.com/playlist/37i9dQZF1DWT6anPZiHuxz)
 
-> Chasing that runner's high this marathon season\. See you there ;\)
+> Chasing that runner's high
 
 251 songs - 13 hr 35 min
 

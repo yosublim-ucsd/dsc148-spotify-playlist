@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,335 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,395 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 77 | [The Truth](https://open.spotify.com/track/43aNLlvCErobCJHCBOz7c1) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Once Upon a Mind](https://open.spotify.com/album/4gkWfdUgz4jWrGx4sKQpb4) | 3:42 |
 | 78 | [Head Shoulders Knees & Toes \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/14ngWWxvUSnIMXgF6rzSk1) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Head Shoulders Knees & Toes \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/1h2sYjn95QeTA0rSBCoke0) | 2:36 |
 | 79 | [Don't Leave Me Alone \(feat\. Anne\-Marie\)](https://open.spotify.com/track/2lYTJK94hb0fd1LQtb6Dhk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Don't Leave Me Alone \(feat\. Anne\-Marie\)](https://open.spotify.com/album/4sqrDaJcbCIo6aeqO26maj) | 3:03 |
-| 80 | [Heaven On My Mind \(with Sigala\)](https://open.spotify.com/track/7bIq1v8svANsAys7I694Up) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Heaven On My Mind \(with Sigala\)](https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm) | 3:12 |
+| 80 | [BED](https://open.spotify.com/track/7jXQUrVhEpXdymfFWNDnQW) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/2GgDZ0wSOWSD4916BWzbNX) | 2:58 |
 
 Snapshot ID: `ZlWJKQAAAADe6oGOJEnM4o4ZtBnUN/EC`

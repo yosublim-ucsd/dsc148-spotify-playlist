@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 37567,
+  "num_followers": 37580,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAAA51OdwixmItRBUcoJlpfGQ",
+  "snapshot_id": "ZygOgAAAAAA+dFa5JCnyAeF12X51dAmO",
   "tracks": [
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cult of Static",
-        "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
+        "name": "Project Regeneration, Vol. 1",
+        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 319106,
-      "name": "Tera-Fied",
-      "url": "https://open.spotify.com/track/5n9ZFf0QDe2AXPbeO3ZHoB"
+      "duration_ms": 215280,
+      "name": "Bring You Down (Project Regeneration)",
+      "url": "https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Regeneration, Vol. 1",
-        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
+        "name": "Cult of Static",
+        "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 215280,
-      "name": "Bring You Down (Project Regeneration)",
-      "url": "https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg"
+      "duration_ms": 319106,
+      "name": "Tera-Fied",
+      "url": "https://open.spotify.com/track/5n9ZFf0QDe2AXPbeO3ZHoB"
     },
     {
       "added_at": null,

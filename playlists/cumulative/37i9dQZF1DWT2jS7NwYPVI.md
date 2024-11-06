@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Arcy Drive
 
-2,884 songs - 6 day 8 hr 56 min
+2,885 songs - 6 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,6 +368,7 @@
 | [Bring Us Down](https://open.spotify.com/track/2Vlcv2ABEQ21nTcYJWLktM) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Bring Us Down](https://open.spotify.com/album/3l7IR16zZm6pvPDPckG7Af) | 3:22 | 2022-05-20 | 2022-08-27 |
 | [Broken](https://open.spotify.com/track/3tnKdIkmqLiL9UKxxqjM8C) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Broken](https://open.spotify.com/album/1ADbmheBGdOcaAIF44h4Yu) | 3:10 | 2022-05-20 | 2022-07-16 |
 | [Broken Angels](https://open.spotify.com/track/5cxAAHZ9a0cCPtnkXPKnjw) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Broken Angels](https://open.spotify.com/album/69MrA2bfhMSPlL8jwvwfIs) | 3:46 | 2022-09-02 | 2022-09-17 |
+| [Brother](https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Brother](https://open.spotify.com/album/2u7rEzuOyVV1QOPFxxFqnA) | 2:56 | 2024-11-05 |  |
 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 | 2024-02-16 | 2024-04-06 |
 | [Bubblegum Dog](https://open.spotify.com/track/5MHNVfob6U5PBe8y15A4MG) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Bubblegum Dog](https://open.spotify.com/album/6CWVALzNFLjaPvr8HW5S9Z) | 4:21 | 2023-12-01 | 2023-12-16 |
 | [Bubblegum Infinity](https://open.spotify.com/track/7cvG50jovFCcX4FBA72hLA) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Bubblegum Infinity](https://open.spotify.com/album/2KyqyLISZ70OoVEHuswVS0) | 3:10 | 2022-02-04 | 2022-04-02 |

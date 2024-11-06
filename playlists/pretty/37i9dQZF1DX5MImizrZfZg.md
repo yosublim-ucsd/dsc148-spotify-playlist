@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 
 > The smoothest jazz of the 2000s\. Cover: Rick Braun
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,133 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,159 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 2 | [I'm Waiting For You](https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Lil' Man Soul](https://open.spotify.com/album/3GPPcFHouTopuZons7w27s) | 4:05 |
 | 3 | [18th & M](https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2) | [Marcus Johnson](https://open.spotify.com/artist/5BrGYYrfP3agYhqDUFcSSM) | [Just Doing What I do](https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn) | 3:30 |
 | 4 | [Keepin' It Cool](https://open.spotify.com/track/6rKan5MDdzwXHUy90RYn26) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Keepin' It Cool](https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7) | 3:34 |
-| 5 | [11:58](https://open.spotify.com/track/2vxubkwtKQ2Sn4FU47ygii) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Candy Store](https://open.spotify.com/album/7KJJl8pNcDjhoDkjW3CDKp) | 4:02 |
-| 6 | [On The Wes Side](https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Temptation](https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV) | 4:26 |
+| 5 | [On The Wes Side](https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Temptation](https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV) | 4:26 |
+| 6 | [11:58](https://open.spotify.com/track/2vxubkwtKQ2Sn4FU47ygii) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Candy Store](https://open.spotify.com/album/7KJJl8pNcDjhoDkjW3CDKp) | 4:02 |
 | 7 | [Suede](https://open.spotify.com/track/4F00pGa6rKvXx043AXvowT) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Player's Club](https://open.spotify.com/album/1Wpwzf5A9HPGwZx0Eolf2U) | 4:16 |
 | 8 | [Eye 2 Eye](https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Embrace](https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3) | 4:43 |
 | 9 | [Slow Jam](https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Born 2 Groove](https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l) | 5:09 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 38 | [To Be Like Him](https://open.spotify.com/track/4dZmmXWPVZBOiQ9Sszqe78) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [Lay It Back](https://open.spotify.com/album/5g00ZHexA6LNzsvtdJ7dJQ) | 5:35 |
 | 39 | [Bloom](https://open.spotify.com/track/3IpEYAQL05mZ7Wwo0wY52o) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bloom](https://open.spotify.com/album/2eR3VJ4kwIKPYXITIIusBT) | 4:46 |
 | 40 | [Dreaming Of You](https://open.spotify.com/track/5ClGoF3ctjs65gRIhqJR7Y) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [It's On Tonight](https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK) | 3:54 |
-| 41 | [La Dolce Vita](https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo) | 5:25 |
-| 42 | [City Lights](https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Soul To Souls](https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb) | 5:33 |
-| 43 | [For A Smile](https://open.spotify.com/track/4xQSw90U0tP5JE5q0CCxmn) | [Marc Antoine](https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls) | [Hi\-Lo Split](https://open.spotify.com/album/6CK24XZFvdhPJe0pBN3uVp) | 4:13 |
-| 44 | [Blue Water](https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Just Around The Corner](https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b) | 4:10 |
-| 45 | [I Still Believe](https://open.spotify.com/track/0uaGecCnDEfCxErLESir5U) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Chillin'](https://open.spotify.com/album/6UmGaBGKzyZioXZui0KabU) | 3:59 |
-| 46 | [Nightfall](https://open.spotify.com/track/1a3aN3eutz5D3IQlLCwIEY) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Love's Melody](https://open.spotify.com/album/7bLMqsTsu3yAOocXEx2LJ4) | 5:32 |
-| 47 | [Stone Groove](https://open.spotify.com/track/6hJ2hxampO4cZQN5bTO4p1) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Pure](https://open.spotify.com/album/5WBT4baeyxgu2TltzMiMZr) | 4:45 |
-| 48 | [All Jazzed Up \(And Nowhere To Go\)](https://open.spotify.com/track/05VQbLH0fV9y6XEf8fF4sp) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [My Inspiration](https://open.spotify.com/album/5aldZnsN6RAMd5YOn4bdXW) | 5:07 |
-| 49 | [Do You Wanna Dance](https://open.spotify.com/track/1uDomLpzVMPDh3yTRPHGwd) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [Midnight Love](https://open.spotify.com/album/2LMziPDUaak6ktGPokKhls) | 3:41 |
-| 50 | [Just Like The First Time](https://open.spotify.com/track/20JF2Ix0c2XwffIHQ2ROpg) | [Kevin Toney](https://open.spotify.com/artist/1tTgW7qTHbI2rpdp2MrGZ0) | [110 Degrees and Rising](https://open.spotify.com/album/1XrHlJEEAvJPwB5BNmUVtm) | 4:39 |
+| 41 | [City Lights](https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Soul To Souls](https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb) | 5:33 |
+| 42 | [La Dolce Vita](https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo) | 5:25 |
+| 43 | [Tequila Moon](https://open.spotify.com/track/6CqToVNuBYHXvlzdQmZHJA) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Tequila Moon](https://open.spotify.com/album/5m4EAIIS14jJMOQyhNo3UH) | 4:36 |
+| 44 | [For A Smile](https://open.spotify.com/track/4xQSw90U0tP5JE5q0CCxmn) | [Marc Antoine](https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls) | [Hi\-Lo Split](https://open.spotify.com/album/6CK24XZFvdhPJe0pBN3uVp) | 4:13 |
+| 45 | [Blue Water](https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Just Around The Corner](https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b) | 4:10 |
+| 46 | [I Still Believe](https://open.spotify.com/track/0uaGecCnDEfCxErLESir5U) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Chillin'](https://open.spotify.com/album/6UmGaBGKzyZioXZui0KabU) | 3:59 |
+| 47 | [Nightfall](https://open.spotify.com/track/1a3aN3eutz5D3IQlLCwIEY) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Love's Melody](https://open.spotify.com/album/7bLMqsTsu3yAOocXEx2LJ4) | 5:32 |
+| 48 | [Stone Groove](https://open.spotify.com/track/6hJ2hxampO4cZQN5bTO4p1) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Pure](https://open.spotify.com/album/5WBT4baeyxgu2TltzMiMZr) | 4:45 |
+| 49 | [All Jazzed Up \(And Nowhere To Go\)](https://open.spotify.com/track/05VQbLH0fV9y6XEf8fF4sp) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [My Inspiration](https://open.spotify.com/album/5aldZnsN6RAMd5YOn4bdXW) | 5:07 |
+| 50 | [Do You Wanna Dance](https://open.spotify.com/track/1uDomLpzVMPDh3yTRPHGwd) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [Midnight Love](https://open.spotify.com/album/2LMziPDUaak6ktGPokKhls) | 3:41 |
 
 Snapshot ID: `ZowuWAAAAACcFCJuSc9qNmbBNBhhBdtx`

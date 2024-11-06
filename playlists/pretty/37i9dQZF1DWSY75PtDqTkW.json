@@ -1,6 +1,6 @@
 {
   "description": "Extra van je vrije tijd genieten voor jong en oud.",
-  "num_followers": 102317,
+  "num_followers": 102355,
   "original_name": "Quality Time",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Faith - Remastered",
-      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
         "name": "Tell Mama",
         "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
       },
@@ -563,22 +547,6 @@
       "duration_ms": 156653,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
-        "name": "Tattoo You (2009 Re-Mastered)",
-        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Start Me Up - Remastered 2009",
-      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -599,18 +567,34 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
       "artists": [
         {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 258411,
-      "name": "You're So Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+      "duration_ms": 193200,
+      "name": "Faith - Remastered",
+      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Start Me Up - Remastered 2009",
+      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -627,6 +611,22 @@
       "duration_ms": 211577,
       "name": "Take It Easy - 2013 Remaster",
       "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 258411,
+      "name": "You're So Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
       },
       "artists": [
         {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 173866,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
+      "duration_ms": 238746,
+      "name": "Hold Back The River",
+      "url": "https://open.spotify.com/track/1KZyVnyptQcPzkx7ELCnZC"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
         }
       ],
-      "duration_ms": 238746,
-      "name": "Hold Back The River",
-      "url": "https://open.spotify.com/track/1KZyVnyptQcPzkx7ELCnZC"
+      "duration_ms": 173866,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Pain in My Heart",
-        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 172333,
-      "name": "Stand by Me",
-      "url": "https://open.spotify.com/track/1aj4GXfmEYXfdVZohCpNKu"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
         "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 243066,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
+        "name": "Pain in My Heart",
+        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 172333,
+      "name": "Stand by Me",
+      "url": "https://open.spotify.com/track/1aj4GXfmEYXfdVZohCpNKu"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
+        "name": "Harvest (2009 Remaster)",
+        "url": "https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "duration_ms": 187013,
+      "name": "Heart of Gold - 2009 Remaster",
+      "url": "https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
         "name": "Baggariddim",
         "url": "https://open.spotify.com/album/6UjYrQhvKY0dq6nos8TVc8"
       },
@@ -1987,22 +2003,6 @@
       "duration_ms": 189093,
       "name": "I Got You Babe",
       "url": "https://open.spotify.com/track/07itbZUgkAmBi4CEH5NniJ"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
-        "name": "Harvest (2009 Remaster)",
-        "url": "https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        }
-      ],
-      "duration_ms": 187013,
-      "name": "Heart of Gold - 2009 Remaster",
-      "url": "https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "The Rose",
-        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "The Rose",
-      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 308973,
       "name": "You've Got a Friend",
       "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
+        "name": "The Rose",
+        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -2555,22 +2555,6 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Someday We'll All Be Free",
-        "url": "https://open.spotify.com/album/6kWqwXiHxRwvLKFScZbbdS"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 188146,
-      "name": "Jealous Guy",
-      "url": "https://open.spotify.com/track/4ZMofBIe1948b23GZJriAd"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
         "name": "Tuesday",
         "url": "https://open.spotify.com/album/7JOqKKTUoGSJKjHWcVV7QE"
       },
@@ -2583,6 +2567,22 @@
       "duration_ms": 246066,
       "name": "Supergirl",
       "url": "https://open.spotify.com/track/3FhNJaCNypOAnZccdYGAWN"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
+        "name": "Someday We'll All Be Free",
+        "url": "https://open.spotify.com/album/6kWqwXiHxRwvLKFScZbbdS"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 188146,
+      "name": "Jealous Guy",
+      "url": "https://open.spotify.com/track/4ZMofBIe1948b23GZJriAd"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3311,22 +3311,6 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "New Light",
-        "url": "https://open.spotify.com/album/5fEgDYFPUcvQy21TYoLEZ0"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 216014,
-      "name": "New Light",
-      "url": "https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
         "name": "Can't Buy A Thrill",
         "url": "https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw"
       },
@@ -3339,6 +3323,22 @@
       "duration_ms": 356733,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
+        "name": "New Light",
+        "url": "https://open.spotify.com/album/5fEgDYFPUcvQy21TYoLEZ0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 216014,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3487,6 +3487,22 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
+        "name": "Tango In The Night",
+        "url": "https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 222733,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
         "name": "Exodus",
         "url": "https://open.spotify.com/album/5EoLQ6g8jZiZkMXvi66u9Y"
       },
@@ -3503,18 +3519,18 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Tango In The Night",
-        "url": "https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV"
+        "name": "Teaser And The Firecat",
+        "url": "https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
         }
       ],
-      "duration_ms": 222733,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG"
+      "duration_ms": 200000,
+      "name": "Morning Has Broken",
+      "url": "https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3535,18 +3551,18 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Teaser And The Firecat",
-        "url": "https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo"
+        "name": "Fickle Heart (Plus Two Bonus Cuts)",
+        "url": "https://open.spotify.com/album/0sXMbAJXXbkoJDbrbIiQgo"
       },
       "artists": [
         {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+          "name": "Sniff 'n' The Tears",
+          "url": "https://open.spotify.com/artist/3EPScT793Qw5hkf8tvVpRV"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Morning Has Broken",
-      "url": "https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh"
+      "duration_ms": 240746,
+      "name": "Driver's Seat",
+      "url": "https://open.spotify.com/track/0fJFBbpUxTwjhh1ScBQjeX"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3583,18 +3599,18 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Fickle Heart (Plus Two Bonus Cuts)",
-        "url": "https://open.spotify.com/album/0sXMbAJXXbkoJDbrbIiQgo"
+        "name": "Welcome To The Real World",
+        "url": "https://open.spotify.com/album/1vmioa1hsabaxkYnYKROT1"
       },
       "artists": [
         {
-          "name": "Sniff 'n' The Tears",
-          "url": "https://open.spotify.com/artist/3EPScT793Qw5hkf8tvVpRV"
+          "name": "Mr. Mister",
+          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
         }
       ],
-      "duration_ms": 240746,
-      "name": "Driver's Seat",
-      "url": "https://open.spotify.com/track/0fJFBbpUxTwjhh1ScBQjeX"
+      "duration_ms": 345840,
+      "name": "Broken Wings",
+      "url": "https://open.spotify.com/track/63nVsCAdxu9OdeRhe58wiE"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3611,22 +3627,6 @@
       "duration_ms": 200579,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
-        "name": "Welcome To The Real World",
-        "url": "https://open.spotify.com/album/1vmioa1hsabaxkYnYKROT1"
-      },
-      "artists": [
-        {
-          "name": "Mr. Mister",
-          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
-        }
-      ],
-      "duration_ms": 345840,
-      "name": "Broken Wings",
-      "url": "https://open.spotify.com/track/63nVsCAdxu9OdeRhe58wiE"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3667,6 +3667,26 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
+        "name": "A Love Song Collection",
+        "url": "https://open.spotify.com/album/0AtWFXOdX6hnMIXRfpYoyS"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 249880,
+      "name": "Islands In The Stream",
+      "url": "https://open.spotify.com/track/4WrwO9Un3ji5wnNySDGHwQ"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/2yPVB4tLlnfBl8SgcX8qDv"
       },
@@ -3699,26 +3719,6 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "A Love Song Collection",
-        "url": "https://open.spotify.com/album/0AtWFXOdX6hnMIXRfpYoyS"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 249880,
-      "name": "Islands In The Stream",
-      "url": "https://open.spotify.com/track/4WrwO9Un3ji5wnNySDGHwQ"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
         "name": "Ice On Fire (Remastered With Bonus Tracks)",
         "url": "https://open.spotify.com/album/77IyyuuRV7IDN1ri7mBEuI"
       },
@@ -3747,6 +3747,22 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1gGY6qfslDtJ4OoWQGKtkE"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Right As Rain",
+      "url": "https://open.spotify.com/track/1ARkKt39O6WQqE0QEpZntu"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3831,6 +3847,22 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
+        "name": "Razorlight (EU Version)",
+        "url": "https://open.spotify.com/album/3gGRZAElMWfDYpfnQry2ot"
+      },
+      "artists": [
+        {
+          "name": "Razorlight",
+          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+        }
+      ],
+      "duration_ms": 249760,
+      "name": "America",
+      "url": "https://open.spotify.com/track/18fwfypFEcZArzsRZgozs0"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
         "name": "Spirit Bird",
         "url": "https://open.spotify.com/album/0PVkmVc7ds2uXTY0FE825K"
       },
@@ -3879,38 +3911,6 @@
       "duration_ms": 189400,
       "name": "Broad Daylight",
       "url": "https://open.spotify.com/track/5KxabomHCvgNZ1jnJl06y0"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Right As Rain",
-      "url": "https://open.spotify.com/track/1ARkKt39O6WQqE0QEpZntu"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
-        "name": "Razorlight (EU Version)",
-        "url": "https://open.spotify.com/album/3gGRZAElMWfDYpfnQry2ot"
-      },
-      "artists": [
-        {
-          "name": "Razorlight",
-          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
-        }
-      ],
-      "duration_ms": 249760,
-      "name": "America",
-      "url": "https://open.spotify.com/track/18fwfypFEcZArzsRZgozs0"
     },
     {
       "added_at": "2024-04-01 12:27:42",

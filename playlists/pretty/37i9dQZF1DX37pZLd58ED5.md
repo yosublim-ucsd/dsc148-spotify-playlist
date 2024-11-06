@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Lazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,989 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,050 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 2 | [Lettera a Draco](https://open.spotify.com/track/0FXnBTA1NzYrIitGxDphkk) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 3:13 |
 | 3 | [Amore cieco \(feat\. Madame\)](https://open.spotify.com/track/3brSEPeDXaGHUnf3HZqGXJ) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Containers](https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc) | 2:40 |
 | 4 | [CERTE COSE](https://open.spotify.com/track/1Oq3J5blhz3N6IiWJVZRgm) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:38 |
-| 5 | [Il Tempo Cura](https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Il Tempo Cura](https://open.spotify.com/album/16t4humL85l0QvihcPSYRN) | 2:32 |
+| 5 | [Il tempo cura](https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Il tempo cura](https://open.spotify.com/album/16t4humL85l0QvihcPSYRN) | 2:32 |
 | 6 | [Moneylove \(feat\. Emis Killa\)](https://open.spotify.com/track/2gGq8fqoGuKpCjuV7p2dd3) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 2:52 |
 | 7 | [PER SEMPRE \(feat\. Bresh\)](https://open.spotify.com/track/2TOwRQ8fN69NDxXe3s602O) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [PER SEMPRE \(feat\. Bresh\)](https://open.spotify.com/album/3QAPKcbmBIfyQUAwWvLap4) | 3:04 |
 | 8 | [Don't Cry No More \(feat\. Geolier\)](https://open.spotify.com/track/2vxtac8KET2UTMfT0d0awA) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 3:15 |

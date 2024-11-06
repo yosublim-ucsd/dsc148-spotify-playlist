@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Anella Herim
 
-661 songs - 1 day 6 hr 12 min
+662 songs - 1 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [imu \(ft\. Travis Barker\)](https://open.spotify.com/track/0CcPL8OEi8vchvprpl6oYe) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [misery lake](https://open.spotify.com/album/6vqNFOfIgqe0l2Ui47YSyO) | 3:35 | 2022-01-05 | 2022-05-20 |
 | [Indy 500](https://open.spotify.com/track/7boOv0Ph2myAueof7CrrUt) | [Kid Quill](https://open.spotify.com/artist/5vGXVYudNgm9E7jhXMM0Ro) | [Indy 500](https://open.spotify.com/album/2VJf8cxl1siCgiQMwNAvvM) | 2:10 | 2023-09-07 | 2024-06-01 |
 | [IOD \(feat\. Lil Skies\)](https://open.spotify.com/track/16Jrm2G1k8kfmcNeN4By6B) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo), [YKD Jah](https://open.spotify.com/artist/58w9ezOadyZ9nqw4o2Rha0) | [IOD \(feat\. Lil Skies\)](https://open.spotify.com/album/0eF99wZAS87b0pfzSJOKbZ) | 2:35 | 2022-01-14 | 2022-02-26 |
+| [IOU](https://open.spotify.com/track/3akZGuqQhifRrFYB8UCell) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag), [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [IOU](https://open.spotify.com/album/0q3267f3x9hLlTiZ07aUMa) | 3:11 | 2024-11-05 |  |
 | [ISSUES](https://open.spotify.com/track/10wnomX77L0VjAl0rTZWZA) | [Baby Prince](https://open.spotify.com/artist/13bLOmOuvVF16DXkFbRC2d), [Kedus](https://open.spotify.com/artist/0WfDryAa4KJEh74yamg5Jx) | [PURPLE RAG PRINCE](https://open.spotify.com/album/1DEKTyc3STPJG5MFXUOKPR) | 2:19 | 2023-04-04 | 2023-04-09 |
 | [Issues \(feat\. G\-Eazy\)](https://open.spotify.com/track/66ULrJrVOqNULMRkMhff87) | [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Issues](https://open.spotify.com/album/3LNILOaWl8XWhrLSmYQeDI) | 3:04 | 2024-03-15 | 2024-06-01 |
 | [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 | 2024-05-31 |  |

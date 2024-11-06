@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Lil Uzi Vert, Tyler, The Creator, Future and Travis Scott.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,088,206 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,088,773 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,23 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 30 | [DO YO SHIT](https://open.spotify.com/track/1hgON5RjrZGMwcIJNkuwzj) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 2:43 |
 | 31 | [It's Your Anniversary](https://open.spotify.com/track/0oQLE7zqOp9rGfG4ZXnniH) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Die 1nce](https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h) | 2:19 |
 | 32 | [Dope Boy \(with Nigo\)](https://open.spotify.com/track/2WxUBA3L7k2Af4kTVB6QeI) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Dope Boy](https://open.spotify.com/album/2sOsaBI0pr8uu1RmZDbeMe) | 1:32 |
-| 33 | [Sorry Not Sorry](https://open.spotify.com/track/4lwfqyQXSDJ7kELpMErMih) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Sorry Not Sorry](https://open.spotify.com/album/2Wu6YPeXdwiyqV5YulLf1W) | 2:16 |
-| 34 | [The Viper](https://open.spotify.com/track/2JapCT0xikq6Fy1PQiJz1C) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [The Viper](https://open.spotify.com/album/3cQR7hyzZEbwAESuPEu8qR) | 2:30 |
-| 35 | [NISSAN ALTIMA](https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:06 |
-| 36 | [PJ \(feat\. Lil Baby\)](https://open.spotify.com/track/4xbfYPpKIKtGU4iEK3WW2C) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [PJ \(feat\. Lil Baby\)](https://open.spotify.com/album/4ulbgdzzSPhT7HEmUWfUPG) | 2:58 |
-| 37 | [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 |
-| 38 | [one of wun](https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:24 |
-| 39 | [BAD TIME](https://open.spotify.com/track/2HrgD87YHrINdWlEU7o0gn) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [BAD TIME](https://open.spotify.com/album/0j8IPQxwlRChALfwro711D) | 3:30 |
-| 40 | [The Largest](https://open.spotify.com/track/1F5Qp0SJS0QUfqIoQggrLz) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [The Largest](https://open.spotify.com/album/1pJj4lszz7C87NmizpZ144) | 2:12 |
-| 41 | [Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Tailor Swif](https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg) | 2:35 |
-| 42 | [Both Ways](https://open.spotify.com/track/2FRc9wqgIjg2E3bH13ww6U) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pre\-Party \(Extended\)](https://open.spotify.com/album/51ojViy1d9Siz28EF08d49) | 3:17 |
-| 43 | [120](https://open.spotify.com/track/5Pvpk8WHAvmmxMr7SkcZsN) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:10 |
-| 44 | [F\*cked A Fan](https://open.spotify.com/track/5VMivzA6e7YD4HrZZEpclj) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [F\*cked A Fan](https://open.spotify.com/album/0sAfbjseurhcUHr03GquMV) | 3:10 |
-| 45 | [Fuel](https://open.spotify.com/track/6Yfg3TrnzThhrZ0i6UDBSv) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Death of Slim Shady \(Coup De Grâce\): Expanded Mourner’s Edition](https://open.spotify.com/album/31hcgCSu4mlA82syOFItur) | 3:33 |
+| 33 | [delusional](https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [delusional](https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy) | 2:11 |
+| 34 | [Sorry Not Sorry](https://open.spotify.com/track/4lwfqyQXSDJ7kELpMErMih) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Sorry Not Sorry](https://open.spotify.com/album/2Wu6YPeXdwiyqV5YulLf1W) | 2:16 |
+| 35 | [The Viper](https://open.spotify.com/track/2JapCT0xikq6Fy1PQiJz1C) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [The Viper](https://open.spotify.com/album/3cQR7hyzZEbwAESuPEu8qR) | 2:30 |
+| 36 | [NISSAN ALTIMA](https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:06 |
+| 37 | [PJ \(feat\. Lil Baby\)](https://open.spotify.com/track/4xbfYPpKIKtGU4iEK3WW2C) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [PJ \(feat\. Lil Baby\)](https://open.spotify.com/album/4ulbgdzzSPhT7HEmUWfUPG) | 2:58 |
+| 38 | [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 |
+| 39 | [one of wun](https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:24 |
+| 40 | [BAD TIME](https://open.spotify.com/track/2HrgD87YHrINdWlEU7o0gn) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [BAD TIME](https://open.spotify.com/album/0j8IPQxwlRChALfwro711D) | 3:30 |
+| 41 | [The Largest](https://open.spotify.com/track/1F5Qp0SJS0QUfqIoQggrLz) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [The Largest](https://open.spotify.com/album/1pJj4lszz7C87NmizpZ144) | 2:12 |
+| 42 | [Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Tailor Swif](https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg) | 2:35 |
+| 43 | [Both Ways](https://open.spotify.com/track/2FRc9wqgIjg2E3bH13ww6U) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pre\-Party \(Extended\)](https://open.spotify.com/album/51ojViy1d9Siz28EF08d49) | 3:17 |
+| 44 | [120](https://open.spotify.com/track/5Pvpk8WHAvmmxMr7SkcZsN) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:10 |
+| 45 | [F\*cked A Fan](https://open.spotify.com/track/5VMivzA6e7YD4HrZZEpclj) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [F\*cked A Fan](https://open.spotify.com/album/0sAfbjseurhcUHr03GquMV) | 3:10 |
 | 46 | [Passport Junkie](https://open.spotify.com/track/5ahdQDl9WGN9dNDDH0RKyJ) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Passport Junkie](https://open.spotify.com/album/7dzmFK2wNTKH6BGeaL20Fv) | 2:27 |
 | 47 | [HIGHJACK](https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [HIGHJACK](https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL) | 3:10 |
 | 48 | [GEEK TIMË](https://open.spotify.com/track/32ioWMgkyA6mFcXJMggBoz) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 2:50 |
 | 49 | [25](https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:00 |
 | 50 | [Bigger In Texas](https://open.spotify.com/track/0XW9AyYhwwUyBYFvRfrfIs) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa) | 2:32 |
 
-Snapshot ID: `Zyj45wAAAAC0XvlcscRldUpKGsRM4Lvj`
+Snapshot ID: `ZypZ5AAAAACp2CFfLkcK57l415f0RZUK`

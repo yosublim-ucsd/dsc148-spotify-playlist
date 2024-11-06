@@ -4,7 +4,7 @@
 
 > This is Led Zeppelin\. The essential tracks, all in one playlist.
 
-60 songs - 5 hr 11 min
+61 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Dazed and Confused \- 1990 Remaster](https://open.spotify.com/track/6hu1f1cXSw7OAqhpSQ2zDy) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 6:26 | 2022-09-17 |  |
 | [Fool in the Rain \- Remaster](https://open.spotify.com/track/3i25w2HOWoafnTIiWJCL71) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [In Through the out Door \(Remaster\)](https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2) | 6:10 | 2022-09-17 |  |
 | [For Your Life \- Remaster](https://open.spotify.com/track/6ly5DBm7QhjU8RQWl2neJg) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Presence \(Remaster\)](https://open.spotify.com/album/3uhD8hNpb0m3iIZ18RHH5u) | 6:25 | 2022-09-17 | 2023-05-20 |
+| [Four Sticks \- Remaster](https://open.spotify.com/track/2kVhHxpxXhWr5OuuBtMLME) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Remaster\)](https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX) | 4:45 | 2024-11-06 |  |
 | [Four Sticks \- Remaster](https://open.spotify.com/track/4Sc5qEOSFI5rfS9IDyu0GO) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 4:45 | 2023-07-16 | 2024-07-20 |
 | [Friends \- Remaster](https://open.spotify.com/track/7jP44G0vKQLkfJ3x19pqPn) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 3:53 | 2022-09-17 | 2023-05-30 |
 | [Gallows Pole \- Remaster](https://open.spotify.com/track/4S2QZuPFZ9qeHW2sonMJS1) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 4:57 | 2023-05-29 |  |

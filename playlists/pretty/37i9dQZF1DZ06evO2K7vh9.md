@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 
 > This is Lil Tecca\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,185 likes - 43 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,219 likes - 43 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 42 | [Prada \(feat\. Lil Tecca\)](https://open.spotify.com/track/4wuMS7NGVbU7hdu94K5icd) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Prada \(feat\. Lil Tecca\)](https://open.spotify.com/album/2ut84dwAs20nDuTqnvKsDQ) | 2:31 |
 | 43 | [Treesha](https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Treesha](https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy) | 1:45 |
 
-Snapshot ID: `Zya9AAAAAADTG3UD/HpTUAPs63piklb4`
+Snapshot ID: `ZygOgAAAAABMLDZXzjMHeydXdwKWTkNz`

@@ -1,6 +1,6 @@
 {
   "description": "\u4eca\u65e51\u65e5\u3092\u3001\u5143\u6c17\u306b\u8fce\u3048\u308b\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01",
-  "num_followers": 145153,
+  "num_followers": 145169,
   "original_name": "\u5143\u6c17Booster",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Dancing In The Flames",
-        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 220036,
-      "name": "Dancing In The Flames",
-      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "Disease",
         "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 229997,
       "name": "Disease",
       "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "Dancing In The Flames",
+        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 220036,
+      "name": "Dancing In The Flames",
+      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -1091,22 +1091,18 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Talk talk featuring troye sivan",
-        "url": "https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj"
+        "name": "Aquamarine",
+        "url": "https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
         }
       ],
-      "duration_ms": 173076,
-      "name": "Talk talk featuring troye sivan",
-      "url": "https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW"
+      "duration_ms": 162814,
+      "name": "Aquamarine",
+      "url": "https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -1131,6 +1127,26 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
+        "name": "Talk talk featuring troye sivan",
+        "url": "https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 173076,
+      "name": "Talk talk featuring troye sivan",
+      "url": "https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
         "name": "Let's Go Back",
         "url": "https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul"
       },
@@ -1143,6 +1159,22 @@
       "duration_ms": 169651,
       "name": "Let's Go Back",
       "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "familie",
+        "url": "https://open.spotify.com/album/4jX0nfsyTW1uhGXIHQiQun"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 222714,
+      "name": "familie",
+      "url": "https://open.spotify.com/track/4PCQHOJFMV9BWq46UMVf2l"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -1163,18 +1195,18 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "familie",
-        "url": "https://open.spotify.com/album/4jX0nfsyTW1uhGXIHQiQun"
+        "name": "You're Losing Me (From The Vault)",
+        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
       },
       "artists": [
         {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 222714,
-      "name": "familie",
-      "url": "https://open.spotify.com/track/4PCQHOJFMV9BWq46UMVf2l"
+      "duration_ms": 277831,
+      "name": "You\u2019re Losing Me (From The Vault)",
+      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -1199,34 +1231,18 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Aquamarine",
-        "url": "https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS"
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
       },
       "artists": [
         {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 162814,
-      "name": "Aquamarine",
-      "url": "https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "You're Losing Me (From The Vault)",
-        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 277831,
-      "name": "You\u2019re Losing Me (From The Vault)",
-      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
         "url": "https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK"
       },
@@ -1275,6 +1275,26 @@
       "duration_ms": 243026,
       "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
       "url": "https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "3D (feat. Jack Harlow)",
+        "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -1319,26 +1339,6 @@
       "duration_ms": 219200,
       "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
       "url": "https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "3D (feat. Jack Harlow)",
-        "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 201812,
-      "name": "3D (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "LOOM",
-        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 166706,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy"
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "SPECIALZ",
         "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 238986,
       "name": "SPECIALZ",
       "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "LOOM",
+        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
+        "name": "\u5e7e\u5104\u5149\u5e74",
+        "url": "https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9"
+      },
+      "artists": [
+        {
+          "name": "Omoinotake",
+          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
+        }
+      ],
+      "duration_ms": 276918,
+      "name": "\u5e7e\u5104\u5149\u5e74",
+      "url": "https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
         "name": "FLY",
         "url": "https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 157173,
       "name": "FLY",
       "url": "https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "\u5e7e\u5104\u5149\u5e74",
-        "url": "https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9"
-      },
-      "artists": [
-        {
-          "name": "Omoinotake",
-          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
-        }
-      ],
-      "duration_ms": 276918,
-      "name": "\u5e7e\u5104\u5149\u5e74",
-      "url": "https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK"
     },
     {
       "added_at": "2024-11-01 00:00:00",

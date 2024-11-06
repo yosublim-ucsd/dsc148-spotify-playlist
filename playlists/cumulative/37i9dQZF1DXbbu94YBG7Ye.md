@@ -4,7 +4,7 @@
 
 > Si la rompe está acá\. Foto: Duki.
 
-469 songs - 1 day 0 hr 19 min
+470 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Hablando De Love](https://open.spotify.com/track/74aGIoQo8pokxzylUTw603) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Hablando De Love](https://open.spotify.com/album/45Uc1E3MBmk84QvHES0Zn5) | 2:36 | 2022-03-17 | 2022-05-20 |
 | [Hace Calor](https://open.spotify.com/track/5j3wzSS6z80VEs71O0gysC) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Hace Calor](https://open.spotify.com/album/6kfkMEQwnXozr3dnjZI9ZW) | 3:21 | 2022-01-07 | 2022-05-13 |
 | [hARAkiRi](https://open.spotify.com/track/4m0ypZ1c1l0WulMk3fkVA0) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [hARAkiRi](https://open.spotify.com/album/6jJL6sH7cT8f2kDYPI4N5D) | 2:49 | 2023-04-05 | 2023-05-05 |
-| [Hardaway](https://open.spotify.com/track/0ySEghkXDk4L50ZnnlPcB8) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:36 | 2024-11-01 |  |
+| [Hardaway](https://open.spotify.com/track/0ySEghkXDk4L50ZnnlPcB8) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:36 | 2024-11-01 | 2024-11-06 |
 | [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 | 2022-10-28 | 2023-05-19 |
 | [HOLA PERDIDA](https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA](https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl) | 2:46 | 2024-01-11 | 2024-06-28 |
 | [HOLA PERDIDA REMIX](https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA REMIX](https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2) | 3:21 | 2024-05-31 | 2024-09-13 |
@@ -287,6 +287,7 @@
 | [noviogangsta <3](https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [noviogangsta <3](https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ) | 2:37 | 2024-10-13 |  |
 | [NOW](https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [NOW](https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC) | 3:12 | 2022-02-03 | 2022-05-13 |
 | [Nublado](https://open.spotify.com/track/6UiEAP8iHNnEu7B7gAEJUy) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 3:00 | 2022-06-30 | 2022-07-29 |
+| [Nueva Era](https://open.spotify.com/track/03IpZ9yqJlo3EIgDQUgBSF) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:37 | 2024-11-05 |  |
 | [Numero 1](https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Numero 1](https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6) | 2:44 | 2022-04-07 | 2022-11-18 |
 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 | 2023-04-20 | 2023-06-24 |
 | [offline](https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:21 | 2024-04-18 | 2024-09-10 |

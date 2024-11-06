@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,175 likes - 274 songs - 17 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,174 likes - 274 songs - 17 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,8 +224,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 214 | [Another Melody \- Chelsea Recording](https://open.spotify.com/track/5AjaRRdrIlY8yrggDbxVO5) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 4:56 |
 | 215 | [Intro To The Circle Game](https://open.spotify.com/track/4Ev24mtCjqgLyNQgV23au0) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 1:00 |
 | 216 | [Winter Lady \(Live at The 2nd Fret, Philadelphia, PA, 3/17/1967\) \- 3rd Set](https://open.spotify.com/track/0LlRnLyYkBESTII2Zt6qoU) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 3:08 |
-| 217 | [Gemini Twin](https://open.spotify.com/track/3FTFtR632UsVfqZLAvxbpz) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 2:53 |
-| 218 | [Jeremy \- Song To A Seagull Session](https://open.spotify.com/track/0n8kcXmx4hD2JKzOkCQ1Qb) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 3:34 |
+| 217 | [Jeremy \- Song To A Seagull Session](https://open.spotify.com/track/0n8kcXmx4hD2JKzOkCQ1Qb) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 3:34 |
+| 218 | [Gemini Twin](https://open.spotify.com/track/3FTFtR632UsVfqZLAvxbpz) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 2:53 |
 | 219 | [A Melody In Your Name](https://open.spotify.com/track/4aKd15A5WYys9PpMUPscml) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 3:59 |
 | 220 | [Strawflower Me](https://open.spotify.com/track/0xk1uAmBToSWE6H0tPQh29) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 1:50 |
 | 221 | [Joni Improvising](https://open.spotify.com/track/5X1GnwbTtVfTgp0atE6XBV) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 1:32 |
@@ -283,4 +283,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 273 | [Intro To California \(with James Taylor\) \- Live on In Concert, BBC, Paris Theatre, London, England, 10/29/1970](https://open.spotify.com/track/4RQHJvLC2tytuuFxqPR15u) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 | 274 | [Intro To Chelsea Morning: John Peel \- Live on Top Gear, BBC Radio, London, England, 9/23/1968](https://open.spotify.com/track/5RjnysVYo2c1aDi4w2A3OC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 
-Snapshot ID: `AbgolgAAAAAtiRFjaw0aCaPsmS6A3K07`
+Snapshot ID: `AbguSgAAAADX/WMwb0Wdi7lx/tm5NZiz`

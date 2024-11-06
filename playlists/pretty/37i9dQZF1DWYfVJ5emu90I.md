@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,042 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,057 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 38 | [iina feat\. ANARCHY](https://open.spotify.com/track/1dKpLk4NuBezRALQuuhFmx) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Bankroll Got It](https://open.spotify.com/artist/42H2ObFiITAP87vskCGIh5), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [iina feat\. ANARCHY](https://open.spotify.com/album/2gmBOlwrlh72vYJVN2wU18) | 3:33 |
 | 39 | [Reach \(feat\. Candee\)](https://open.spotify.com/track/3X1fSTjP1yFkSVMCDid9CF) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR) | [FLESHNESS SZN](https://open.spotify.com/album/4n79rDs1Vg5II9XkHD3LQ7) | 2:41 |
 | 40 | [Go \(feat\. Benjazzy\)](https://open.spotify.com/track/0IWdo0wOFJ8eZkWVyvO0k2) | [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [Resurrection](https://open.spotify.com/album/4vecEKI94F7T7mldPgdq6q) | 3:25 |
-| 41 | [SUSUME \(feat\. NENE & JP THE WAVY\)](https://open.spotify.com/track/7j6oAHpOU0k0sszlMK8ioQ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [SUSUME \(feat\. NENE & JP THE WAVY\)](https://open.spotify.com/album/4zUGmG0XwbpEw67ArG1oFh) | 3:18 |
-| 42 | [Psycho](https://open.spotify.com/track/2IVuU4LByPrwUky12rk3Bw) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3) | [Psycho](https://open.spotify.com/album/5lnX2L4TLYkW4e57oGOdI1) | 2:37 |
+| 41 | [Psycho](https://open.spotify.com/track/2IVuU4LByPrwUky12rk3Bw) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3) | [Psycho](https://open.spotify.com/album/5lnX2L4TLYkW4e57oGOdI1) | 2:37 |
+| 42 | [SUSUME \(feat\. NENE & JP THE WAVY\)](https://open.spotify.com/track/7j6oAHpOU0k0sszlMK8ioQ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [SUSUME \(feat\. NENE & JP THE WAVY\)](https://open.spotify.com/album/4zUGmG0XwbpEw67ArG1oFh) | 3:18 |
 | 43 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 |
 | 44 | [FEEL THE RAIN \(feat\. Ralph\)](https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW) | 3:27 |
 | 45 | [Step Into The Arena](https://open.spotify.com/track/21BKhmiFvF3BRkx8wlcdka) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Step Into The Arena](https://open.spotify.com/album/4UMWfoCWxryks2BwW18Iec) | 3:46 |

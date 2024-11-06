@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 33172,
+  "num_followers": 33179,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAADTDar3JXLav/aH+TMyri3r",
+  "snapshot_id": "ZygOgAAAAADagGjQWI4tcFuulHrifwav",
   "tracks": [
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "bleeding heart",
-        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
+        "name": "echo",
+        "url": "https://open.spotify.com/album/2qd2ATRD78bQFtyYsSzxxg"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 150866,
-      "name": "how dare you",
-      "url": "https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI"
+      "duration_ms": 198750,
+      "name": "echo",
+      "url": "https://open.spotify.com/track/4rdIhBrlaAOPnlTlugZBgz"
     },
     {
       "added_at": null,
@@ -227,8 +227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "echo",
-        "url": "https://open.spotify.com/album/2qd2ATRD78bQFtyYsSzxxg"
+        "name": "bleeding heart",
+        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 198750,
-      "name": "echo",
-      "url": "https://open.spotify.com/track/4rdIhBrlaAOPnlTlugZBgz"
+      "duration_ms": 150866,
+      "name": "how dare you",
+      "url": "https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI"
     },
     {
       "added_at": null,

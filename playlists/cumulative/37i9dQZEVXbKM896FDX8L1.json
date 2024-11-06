@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -6462,7 +6462,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -15656,7 +15656,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 156106,
       "name": "July",
       "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
@@ -16360,7 +16360,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 265960,
       "name": "Last Christmas - Single Version",
       "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
@@ -17040,7 +17040,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-31",
+      "date_removed": null,
       "duration_ms": 278014,
       "name": "Like Him (feat. Lola Young)",
       "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
@@ -23665,6 +23665,24 @@
     },
     {
       "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191586,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos"
+    },
+    {
+      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
       },
@@ -29470,7 +29488,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -29488,7 +29506,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -30458,7 +30476,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ"
@@ -30512,7 +30530,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5"

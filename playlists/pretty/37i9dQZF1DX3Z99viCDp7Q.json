@@ -1,6 +1,6 @@
 {
   "description": "Special songs for your special day. Cover: Alex Warren and Kouvr Annon \ud83d\udc97",
-  "num_followers": 236225,
+  "num_followers": 236286,
   "original_name": "Wedding Songs",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-10-10 14:04:48",
       "album": {
-        "name": "Blue Hawaii",
-        "url": "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
-    },
-    {
-      "added_at": "2024-10-10 14:04:48",
-      "album": {
         "name": "Elton John",
         "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 241786,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+    },
+    {
+      "added_at": "2024-10-10 14:04:48",
+      "album": {
+        "name": "Blue Hawaii",
+        "url": "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
     },
     {
       "added_at": "2024-10-10 14:04:48",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
     },
     {
-      "added_at": "2024-10-10 14:04:48",
-      "album": {
-        "name": "Lovers Rock",
-        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 274933,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
-    },
-    {
       "added_at": "2024-10-25 03:54:28",
       "album": {
         "name": "Ends of the Earth",
@@ -711,6 +695,22 @@
       "duration_ms": 269830,
       "name": "Ends of the Earth",
       "url": "https://open.spotify.com/track/30rU9CBF5cwiexNHJffkLS"
+    },
+    {
+      "added_at": "2024-10-10 14:04:48",
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 274933,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
     },
     {
       "added_at": "2024-10-10 14:04:48",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-10-10 14:04:48",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "Falling Like The Stars",
-      "url": "https://open.spotify.com/track/395KzBy0bkb57dEvg6cfzJ"
-    },
-    {
-      "added_at": "2024-10-10 14:04:48",
-      "album": {
         "name": "Shawn Mendes",
         "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 235746,
       "name": "Fallin' All In You",
       "url": "https://open.spotify.com/track/5EYBryPOgIEPB7r5QIy6eG"
+    },
+    {
+      "added_at": "2024-10-10 14:04:48",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "Falling Like The Stars",
+      "url": "https://open.spotify.com/track/395KzBy0bkb57dEvg6cfzJ"
     },
     {
       "added_at": "2024-10-10 14:04:48",
@@ -1215,18 +1215,22 @@
     {
       "added_at": "2024-10-10 14:04:48",
       "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+        "name": "Music From The Motion Picture Once",
+        "url": "https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
         }
       ],
-      "duration_ms": 191280,
-      "name": "Is That Alright?",
-      "url": "https://open.spotify.com/track/172e82oK9vGoBPvc6SqMm5"
+      "duration_ms": 244133,
+      "name": "Falling Slowly",
+      "url": "https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt"
     }
   ],
   "unique_name": "Wedding Songs",

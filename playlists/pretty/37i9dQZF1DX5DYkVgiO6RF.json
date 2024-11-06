@@ -1,12 +1,12 @@
 {
   "description": "all cruise, no breaks ",
-  "num_followers": 499719,
+  "num_followers": 500443,
   "original_name": "Night Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyRSQAAAAAB1CXiobVzcOTO90Njuwm/R",
+  "snapshot_id": "ZyqTMQAAAADWVNVC29h48n9b4bUaUCbd",
   "tracks": [
     {
       "added_at": "2024-08-20 15:16:49",
@@ -145,6 +145,26 @@
       "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
     },
     {
+      "added_at": "2024-11-05 21:50:41",
+      "album": {
+        "name": "IOU",
+        "url": "https://open.spotify.com/album/0q3267f3x9hLlTiZ07aUMa"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        },
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        }
+      ],
+      "duration_ms": 191622,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/3akZGuqQhifRrFYB8UCell"
+    },
+    {
       "added_at": "2024-08-20 15:16:49",
       "album": {
         "name": "Man On The Moon II: The Legend Of Mr. Rager",
@@ -159,22 +179,6 @@
       "duration_ms": 294213,
       "name": "Mr. Rager",
       "url": "https://open.spotify.com/track/2ncLdwTd8qzkxiJjlbiOgC"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "STARPWR4HIRE",
-        "url": "https://open.spotify.com/album/2YItMk7JwaVRO6Z0L7WrEw"
-      },
-      "artists": [
-        {
-          "name": "Dava",
-          "url": "https://open.spotify.com/artist/2fyrK060Qol9hgj9vNITPu"
-        }
-      ],
-      "duration_ms": 147985,
-      "name": "LOSTFEELING",
-      "url": "https://open.spotify.com/track/5likoxFSn1O7mh7yjmmIc5"
     },
     {
       "added_at": "2024-10-15 22:22:22",
@@ -281,20 +285,20 @@
       "url": "https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+        "name": "STARPWR4HIRE",
+        "url": "https://open.spotify.com/album/2YItMk7JwaVRO6Z0L7WrEw"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+          "name": "Dava",
+          "url": "https://open.spotify.com/artist/2fyrK060Qol9hgj9vNITPu"
         }
       ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+      "duration_ms": 147985,
+      "name": "LOSTFEELING",
+      "url": "https://open.spotify.com/track/5likoxFSn1O7mh7yjmmIc5"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -363,6 +367,38 @@
     {
       "added_at": "2024-08-20 15:16:49",
       "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2024-08-20 15:16:49",
+      "album": {
+        "name": "Camp",
+        "url": "https://open.spotify.com/album/32KdoFFhgjCLdU0DWL71tx"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 317293,
+      "name": "Les",
+      "url": "https://open.spotify.com/track/0mCVNGC4Vvb6gDDQrDpaRh"
+    },
+    {
+      "added_at": "2024-08-20 15:16:49",
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -387,18 +423,18 @@
     {
       "added_at": "2024-08-20 15:16:49",
       "album": {
-        "name": "Camp",
-        "url": "https://open.spotify.com/album/32KdoFFhgjCLdU0DWL71tx"
+        "name": "Little Dark Age",
+        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
       },
       "artists": [
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         }
       ],
-      "duration_ms": 317293,
-      "name": "Les",
-      "url": "https://open.spotify.com/track/0mCVNGC4Vvb6gDDQrDpaRh"
+      "duration_ms": 299960,
+      "name": "Little Dark Age",
+      "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
     },
     {
       "added_at": "2024-08-20 15:16:49",
@@ -415,22 +451,6 @@
       "duration_ms": 215320,
       "name": "Violent Crimes",
       "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas"
-    },
-    {
-      "added_at": "2024-08-20 15:16:49",
-      "album": {
-        "name": "Little Dark Age",
-        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 299960,
-      "name": "Little Dark Age",
-      "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
     },
     {
       "added_at": "2024-08-20 15:16:49",
@@ -515,22 +535,6 @@
     {
       "added_at": "2024-08-20 15:16:49",
       "album": {
-        "name": "Yeezus",
-        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 229146,
-      "name": "Bound 2",
-      "url": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i"
-    },
-    {
-      "added_at": "2024-08-20 15:16:49",
-      "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
       },
@@ -595,6 +599,22 @@
       "duration_ms": 191622,
       "name": "sdp interlude",
       "url": "https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N"
+    },
+    {
+      "added_at": "2024-08-20 15:16:49",
+      "album": {
+        "name": "Yeezus",
+        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 229146,
+      "name": "Bound 2",
+      "url": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i"
     },
     {
       "added_at": "2024-08-20 15:16:49",
@@ -683,22 +703,6 @@
     {
       "added_at": "2024-08-20 15:16:49",
       "album": {
-        "name": "Chanel",
-        "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 210285,
-      "name": "Chanel",
-      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
-    },
-    {
-      "added_at": "2024-08-20 15:16:49",
-      "album": {
         "name": "American Teen",
         "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
       },
@@ -731,22 +735,18 @@
     {
       "added_at": "2024-08-20 15:16:49",
       "album": {
-        "name": "Dark Lane Demo Tapes",
-        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 220487,
-      "name": "Chicago Freestyle (feat. Giveon)",
-      "url": "https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B"
+      "duration_ms": 210285,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
     },
     {
       "added_at": "2024-08-20 15:16:49",
@@ -783,6 +783,26 @@
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
+    },
+    {
+      "added_at": "2024-08-20 15:16:49",
+      "album": {
+        "name": "Dark Lane Demo Tapes",
+        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 220487,
+      "name": "Chicago Freestyle (feat. Giveon)",
+      "url": "https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B"
     },
     {
       "added_at": "2024-08-20 15:16:49",
@@ -855,22 +875,6 @@
       "duration_ms": 143226,
       "name": "Playing Games (with Bryson Tiller) - Extended Version",
       "url": "https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA"
-    },
-    {
-      "added_at": "2024-08-20 15:16:49",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Need to Know",
-      "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
     }
   ],
   "unique_name": "Night Drive",

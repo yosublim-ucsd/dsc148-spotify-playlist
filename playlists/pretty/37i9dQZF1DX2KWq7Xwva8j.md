@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro está aquí\. Foto: Samuraï.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,444 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,446 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 15 | [Tirando Balas](https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tirando Balas](https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P) | 2:53 |
 | 16 | [Esa Morena](https://open.spotify.com/track/2iDhzS8tG2M5fpTmoyqWqQ) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Esa Morena](https://open.spotify.com/album/1FI37FQkUvFzEMA3u59hNc) | 2:52 |
 | 17 | [Otra Vida](https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Otra Vida](https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj) | 3:38 |
-| 18 | [Por Si Mañana No Estoy](https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Por Si Mañana No Estoy](https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5) | 2:34 |
+| 18 | [Tiro Al Aire](https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tiro Al Aire](https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk) | 3:20 |
 | 19 | [No m'estima +](https://open.spotify.com/track/78NzYFBsYY78qeazgKZCoc) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [No m'estima +](https://open.spotify.com/album/3QMWRLCENQpW7sGHhUPxy1) | 3:12 |
 | 20 | [oh boi](https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [oh boi](https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM) | 2:40 |
 | 21 | [ME DUELE QUERERTE](https://open.spotify.com/track/6x8ft5OkZJon6um838FaZA) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [ME DUELE QUERERTE](https://open.spotify.com/album/3ltONa8Qqs0FM5v2xeuhoJ) | 2:26 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 28 | [Polonia](https://open.spotify.com/track/3UNrrmmtFQlDx075B8JEBp) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Polonia](https://open.spotify.com/album/4h5qALHn8Hf6JdntCluoJJ) | 2:45 |
 | 29 | [Azul Zafiro](https://open.spotify.com/track/4BjZ8aS0Z69GQrknhlgYBO) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [pablopablo](https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp) | 1:37 |
 | 30 | [Xarnega](https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:34 |
-| 31 | [Tiro Al Aire](https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tiro Al Aire](https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk) | 3:20 |
+| 31 | [Por Si Mañana No Estoy](https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Por Si Mañana No Estoy](https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5) | 2:34 |
 | 32 | [De Charco En Charco](https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [De Charco En Charco](https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN) | 2:40 |
 | 33 | [Corazón Quemado](https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Corazón Quemado](https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev) | 3:05 |
 | 34 | [Adrenalina](https://open.spotify.com/track/6AS6lW8vAo27DGEcbRT2Oj) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Adrenalina](https://open.spotify.com/album/6MtdNWXRI8bYzFq4UX4GSg) | 3:12 |

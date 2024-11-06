@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 
 > This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,150 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,301 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 50 | [Saudade](https://open.spotify.com/track/1C1kliWhNQlUc057PGjibJ) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Saudade](https://open.spotify.com/album/5eRZ0rvliggbPqTZtYqBgC) | 2:50 |
 | 51 | [No Se Va Poder](https://open.spotify.com/track/1vt5uODSshLkJORqOluJ5m) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Torbellino](https://open.spotify.com/album/17iZYgtqUiYhuZz0FMPacF) | 3:31 |
 
-Snapshot ID: `Zya9AAAAAACrrSKZdCXCjaHPIMfArb0l`
+Snapshot ID: `ZygOgAAAAAAPPCWH2YVsGao0AiZkvs5C`

@@ -4,7 +4,7 @@
 
 > Dale play y que la música te acompañe.
 
-314 songs - 17 hr 14 min
+315 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Mariposa Traicionera](https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mariposa Traicionera](https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt) | 4:03 | 2023-08-11 |  |
 | [Mary No!](https://open.spotify.com/track/7tnRQ5qBF90oti9htPR9FM) | [Un Verano](https://open.spotify.com/artist/2vaSBYGcW5v46jnDdXhawN) | [Mary No!](https://open.spotify.com/album/1jI1VUXqOVkXQzo7PsNy4d) | 3:05 | 2024-06-18 | 2024-09-07 |
 | [me da igual](https://open.spotify.com/track/5hxMliX1rMgy631KpgRni7) | [Lu de la Tower](https://open.spotify.com/artist/52299B9p02G2fK6Tx0lDVQ) | [me da igual](https://open.spotify.com/album/08Zi1P9GpSO6iisc6gpVOZ) | 2:43 | 2023-05-12 | 2023-08-19 |
+| [Me Diste la Espalda](https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Me Diste la Espalda](https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0) | 3:22 | 2024-10-14 |  |
 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 | 2023-05-19 | 2023-08-12 |
 | [Me Lo Buscaba](https://open.spotify.com/track/62SEqaEUnga98QGneOkrTW) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [Me Lo Buscaba](https://open.spotify.com/album/2IVXBERYwbNGxZOFkcHuCg) | 2:53 | 2023-06-09 | 2023-07-15 |
 | [Mecha](https://open.spotify.com/track/346Xh2wHnDIByr5ZDeS7Cl) | [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [El Camino](https://open.spotify.com/album/77EpBCmlc6ym8lGcORQyel) | 3:09 | 2024-09-06 | 2024-11-05 |
@@ -286,7 +287,7 @@
 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2024-06-07 |  |
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2023-03-17 | 2023-08-12 |
 | [Te odio](https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Te Odio](https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw) | 3:33 | 2023-08-25 | 2023-09-23 |
-| [Te recuerdo](https://open.spotify.com/track/3jmBXzJH5X6vVv8wuXxUK4) | [CAE](https://open.spotify.com/artist/1GC9IVqOiXNuWi7UYgPLgC) | [Bravo 3.0](https://open.spotify.com/album/5MbiCyKaJUmw2sc731hgnF) | 4:26 | 2024-10-14 |  |
+| [Te recuerdo](https://open.spotify.com/track/3jmBXzJH5X6vVv8wuXxUK4) | [CAE](https://open.spotify.com/artist/1GC9IVqOiXNuWi7UYgPLgC) | [Bravo 3.0](https://open.spotify.com/album/5MbiCyKaJUmw2sc731hgnF) | 4:26 | 2024-10-14 | 2024-11-06 |
 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 | 2023-08-11 | 2023-10-05 |
 | [That's Hilarious](https://open.spotify.com/track/0wPKDeY4fZXT6k9bzV0kx0) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/2LTqBgZUH4EkDcj8hdkNjK) | 2:24 | 2023-03-17 | 2023-10-05 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2023-03-17 | 2023-08-12 |

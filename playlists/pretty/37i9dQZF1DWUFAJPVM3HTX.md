@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5?si=h0MtOsBgROqhVxfBj0OjUA">James Savage</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,725 likes - 299 songs - 14 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,780 likes - 299 songs - 14 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

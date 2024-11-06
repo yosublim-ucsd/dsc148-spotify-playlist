@@ -3226,7 +3226,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 197750,
       "name": "Balloon",
       "url": "https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm"
@@ -5268,6 +5268,24 @@
       "duration_ms": 146500,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/6WyF2Em0vKwoDUkHcbKVBA"
+    },
+    {
+      "album": {
+        "name": "Clouds Coming",
+        "url": "https://open.spotify.com/album/7IAk6YxAb3zjyOaGV0nzb0"
+      },
+      "artists": [
+        {
+          "name": "Martes Fiore",
+          "url": "https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146500,
+      "name": "Clouds Coming",
+      "url": "https://open.spotify.com/track/7bTycbdDfQELplifneZzJj"
     },
     {
       "album": {
@@ -17419,6 +17437,24 @@
     },
     {
       "album": {
+        "name": "Mystical Murmurs",
+        "url": "https://open.spotify.com/album/0Ql3uAzHXNRXCSqHaIYc8V"
+      },
+      "artists": [
+        {
+          "name": "Mijongya",
+          "url": "https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187198,
+      "name": "Mystical Murmurs",
+      "url": "https://open.spotify.com/track/4xvFnv7jOKavTDsu40BPJk"
+    },
+    {
+      "album": {
         "name": "Mystique",
         "url": "https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL"
       },
@@ -22412,7 +22448,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 179768,
       "name": "Ruise\u00f1or",
       "url": "https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1"
@@ -24556,7 +24592,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 185750,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM"
@@ -25068,6 +25104,24 @@
       "duration_ms": 191895,
       "name": "Stairs and Steps",
       "url": "https://open.spotify.com/track/3Qsv4VR1YDlLe2T597LNaJ"
+    },
+    {
+      "album": {
+        "name": "stargazing",
+        "url": "https://open.spotify.com/album/0FCL5YSgPtrC3NQYOCwxZs"
+      },
+      "artists": [
+        {
+          "name": "Esperance",
+          "url": "https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "stargazing",
+      "url": "https://open.spotify.com/track/5Tm55bnuYOavqPLbueGYS4"
     },
     {
       "album": {
@@ -26354,7 +26408,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 170000,
       "name": "Tender",
       "url": "https://open.spotify.com/track/600m7rqCDlRD80E9MQtVZB"

@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1349194,
+  "num_followers": 1349668,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAAC9cwkg0XrLM3qVgUju+dIW",
+  "snapshot_id": "ZygOgAAAAACx5x9H8caKdUKNViAzkhU+",
   "tracks": [
     {
       "added_at": null,
@@ -631,30 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VULTURES 2",
-        "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
-      },
-      "artists": [
-        {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 158980,
-      "name": "PROMOTION",
-      "url": "https://open.spotify.com/track/6bSfeCXlUaGa3eWCy5qPTb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0v9QGZDE2msGl8zAlXKP93"
       },
@@ -675,6 +651,30 @@
       "duration_ms": 209577,
       "name": "FUK SUMN",
       "url": "https://open.spotify.com/track/4eIYnlcgI2chjQBuW1VRr7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VULTURES 2",
+        "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 158980,
+      "name": "PROMOTION",
+      "url": "https://open.spotify.com/track/6bSfeCXlUaGa3eWCy5qPTb"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 259317,
+  "num_followers": 259322,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-09-27 13:29:56",
       "album": {
+        "name": "Price Tag",
+        "url": "https://open.spotify.com/album/1iNj9EcvHmhI7KMbKcTwCX"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Price Tag - Acoustic Version",
+      "url": "https://open.spotify.com/track/1RrTwfs2pFM4n8GytgmYKH"
+    },
+    {
+      "added_at": "2024-09-27 13:29:56",
+      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo (Deluxe)",
         "url": "https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 187364,
       "name": "Sagrado Profano - Ac\u00fastico",
       "url": "https://open.spotify.com/track/68NbGvxL8aBqEIfAGpH9cj"
-    },
-    {
-      "added_at": "2024-09-27 13:29:56",
-      "album": {
-        "name": "Price Tag",
-        "url": "https://open.spotify.com/album/1iNj9EcvHmhI7KMbKcTwCX"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Price Tag - Acoustic Version",
-      "url": "https://open.spotify.com/track/1RrTwfs2pFM4n8GytgmYKH"
     },
     {
       "added_at": "2024-09-27 13:29:56",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2024-09-27 13:29:56",
       "album": {
-        "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 230772,
-      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
-    },
-    {
-      "added_at": "2024-09-27 13:29:56",
-      "album": {
         "name": "Made You Look (feat. Sri, Scott Hoying, Elyse Myers & Chris Olsen) [A Cappella]",
         "url": "https://open.spotify.com/album/2TsPwV3jf75zXaP2Y1Z7Ye"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 132727,
       "name": "Made You Look (feat. Sri, Scott Hoying, Elyse Myers & Chris Olsen) - A Cappella",
       "url": "https://open.spotify.com/track/4MHrJOgMvqykhcRtYNWiZQ"
+    },
+    {
+      "added_at": "2024-09-27 13:29:56",
+      "album": {
+        "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 230772,
+      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
     },
     {
       "added_at": "2024-09-27 13:29:56",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-09-27 13:29:56",
       "album": {
+        "name": "Ozu Vivo (Live)",
+        "url": "https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 187936,
+      "name": "Del Mar - Acustico",
+      "url": "https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa"
+    },
+    {
+      "added_at": "2024-09-27 13:29:56",
+      "album": {
         "name": "GUPE - PP sessions (Ao Vivo)",
         "url": "https://open.spotify.com/album/1YAmF5rNBo5zaB0NYinl5K"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 222582,
       "name": "beira - PP sessions - Ao Vivo",
       "url": "https://open.spotify.com/track/7xu6LZ1vFB70tghBsl4zkk"
-    },
-    {
-      "added_at": "2024-09-27 13:29:56",
-      "album": {
-        "name": "Ozu Vivo (Live)",
-        "url": "https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 187936,
-      "name": "Del Mar - Acustico",
-      "url": "https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa"
     }
   ],
   "unique_name": "Pop Ac\u00fastico",

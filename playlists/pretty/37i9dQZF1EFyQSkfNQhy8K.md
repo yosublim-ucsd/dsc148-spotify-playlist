@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,629 likes - 152 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,628 likes - 152 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 96 | [NADA QUE DECIR](https://open.spotify.com/track/3s517OY43flGYhwMVRXU2F) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 1:57 |
 | 97 | [Picachu](https://open.spotify.com/track/47okf9FXUNLHknAwoMI1L4) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Picachu](https://open.spotify.com/album/40xnE58mcngMBNfqCYM99U) | 2:47 |
 | 98 | [Esta Noche \(feat\. Big One\)](https://open.spotify.com/track/39ezu6wWxEDAdboRfcjxzO) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Esta Noche \(feat\. Big One\)](https://open.spotify.com/album/2wGhjjn7Znpu8PZ22TojDk) | 3:14 |
-| 99 | [Enredaos](https://open.spotify.com/track/5jFCZboaqwjQdv21sJjJY5) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:12 |
-| 100 | [Brindo](https://open.spotify.com/track/1RbwjbhpV4YA49mBCOJ8cR) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 4:44 |
+| 99 | [Brindo](https://open.spotify.com/track/1RbwjbhpV4YA49mBCOJ8cR) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 4:44 |
+| 100 | [Enredaos](https://open.spotify.com/track/5jFCZboaqwjQdv21sJjJY5) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:12 |
 | 101 | [Disculpa Amiga](https://open.spotify.com/track/1zfJC7Zm6WpbmklOBJGZEL) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Disculpa Amiga](https://open.spotify.com/album/52D4v7ZG7eta1PSjm3zdSp) | 2:48 |
 | 102 | [No Drama \- Cumbia Version](https://open.spotify.com/track/7ebgqt3yMeBjTUVa8IYHMf) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [No Drama \(Cumbia Version\)](https://open.spotify.com/album/6O5pki5n78TGznFJxzNxpW) | 3:02 |
 | 103 | [Ya Quisieran](https://open.spotify.com/track/4xBYrZuhRp7yFvdN63wty5) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [Ya Quisieran](https://open.spotify.com/album/5jSFBxQLjGfUcBC7cGkF1h) | 2:25 |
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 131 | [Pimienta](https://open.spotify.com/track/1SyVu9E0u0FfGpuzNHtQ9a) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Pimienta](https://open.spotify.com/album/01ZZUMyrr1tCKd07boAatk) | 3:12 |
 | 132 | [Exclusivos](https://open.spotify.com/track/0mgWP7XJ4yxwZzUmRX0HGW) | [Periko & Jessi Leon](https://open.spotify.com/artist/31d96XTKL3soxtdxzUVEP6) | [Exclusivos](https://open.spotify.com/album/3H10cEHm6jQyozDBn3NiAe) | 2:50 |
 | 133 | [De Donde Vengo](https://open.spotify.com/track/1zxO2zDpTbOkzxNkxxk5S2) | [Mila](https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:34 |
-| 134 | [Para Ti No](https://open.spotify.com/track/4S6uEOfuwiz7qLBOTd58Nt) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Para Ti No](https://open.spotify.com/album/2V0pmwbM5QL3sbb0tVVDMB) | 3:19 |
-| 135 | [La Muerte \(feat\. Tokischa\) \- Remix](https://open.spotify.com/track/07OBN8oKf3AYOltVom5R7F) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Escândalo Íntimo \(Deluxe\)](https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq) | 2:33 |
+| 134 | [La Muerte \(feat\. Tokischa\) \- Remix](https://open.spotify.com/track/07OBN8oKf3AYOltVom5R7F) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Escândalo Íntimo \(Deluxe\)](https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq) | 2:33 |
+| 135 | [Para Ti No](https://open.spotify.com/track/4S6uEOfuwiz7qLBOTd58Nt) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Para Ti No](https://open.spotify.com/album/2V0pmwbM5QL3sbb0tVVDMB) | 3:19 |
 | 136 | [Vogue](https://open.spotify.com/track/7vYp30GiDVh3QQPdNsBWRo) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Vogue](https://open.spotify.com/album/0rRzrUT0vUVG9V7qyLpxPy) | 3:02 |
 | 137 | [Na De Ti](https://open.spotify.com/track/2T13YgcHIyk9SiQkafcjeV) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [SÉ TÚ MISMO](https://open.spotify.com/album/1cG6HAhEp3inaCk3c4gKT3) | 1:37 |
 | 138 | [La Partiste Con Tu Regalo](https://open.spotify.com/track/0RWEHFVi52OBbZmfGx1ANm) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Partiste Con Tu Regalo](https://open.spotify.com/album/4pzaKXE25bruaPwda3BM11) | 3:36 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 151 | [Cuidala](https://open.spotify.com/track/6tslq9YAf10OcQMKZjw9lD) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Cuidala](https://open.spotify.com/album/47Z29LuRUoOkX0Qpg4rAzP) | 3:37 |
 | 152 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `AbgooAAAAADxmJBZE/gZGQM6IocLB4qs`
+Snapshot ID: `AbguNgAAAACxuH6keq1AYhNcdaUNUQWU`

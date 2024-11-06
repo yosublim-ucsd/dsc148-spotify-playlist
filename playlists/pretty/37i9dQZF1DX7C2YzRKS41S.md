@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,364 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,428 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,14 +53,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 43 | [Certeza \- Acústico](https://open.spotify.com/track/1GK98aTl2dzvvHqpFw0euo) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Certeza](https://open.spotify.com/album/6x8Xo3rloxQEy8xIBumNvC) | 2:48 |
 | 44 | [relicário](https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [N](https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0) | 4:05 |
 | 45 | [Blindside](https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Blindside](https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ) | 3:31 |
-| 46 | [Good People](https://open.spotify.com/track/4Ybpltno0jRxFI4wH2yXOK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Good People](https://open.spotify.com/album/7D1a13Dz2xlg4LY0avlTni) | 3:06 |
-| 47 | [Laços](https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Reconstrução](https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn) | 3:24 |
+| 46 | [Laços](https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Reconstrução](https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn) | 3:24 |
+| 47 | [Good People](https://open.spotify.com/track/4Ybpltno0jRxFI4wH2yXOK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Good People](https://open.spotify.com/album/7D1a13Dz2xlg4LY0avlTni) | 3:06 |
 | 48 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 |
 | 49 | [Shot in the Dark](https://open.spotify.com/track/239yM7BAQ2CkNc61ogPGXo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:09 |
 | 50 | [Telefonía](https://open.spotify.com/track/7zSBOSD4w5LGv1bIblkVFp) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:04 |
 | 51 | [Birch](https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:30 |
-| 52 | [Riptide](https://open.spotify.com/track/1KqlVt63Q4bl1VdSlymr5C) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Riptide](https://open.spotify.com/album/2rn4ILhjtOrEnyYlHTUDVz) | 3:24 |
-| 53 | [Simples e Romântico](https://open.spotify.com/track/7dAbpCdKHAPNONpwGTmGzC) | [Nicolas Germano](https://open.spotify.com/artist/7rT9dkimFVzgMF0IyIfiYy) | [Simples e Romântico](https://open.spotify.com/album/4Dm6py1rtwMJqh75XVMfnH) | 3:27 |
+| 52 | [Simples e Romântico](https://open.spotify.com/track/7dAbpCdKHAPNONpwGTmGzC) | [Nicolas Germano](https://open.spotify.com/artist/7rT9dkimFVzgMF0IyIfiYy) | [Simples e Romântico](https://open.spotify.com/album/4Dm6py1rtwMJqh75XVMfnH) | 3:27 |
+| 53 | [Riptide](https://open.spotify.com/track/1KqlVt63Q4bl1VdSlymr5C) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Riptide](https://open.spotify.com/album/2rn4ILhjtOrEnyYlHTUDVz) | 3:24 |
 | 54 | [Still What I'm Looking For](https://open.spotify.com/track/2lb95IOpKT2LTy5SsY0Bne) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Still What I'm Looking For](https://open.spotify.com/album/62TCGy8a80AqgHT4pjXLbE) | 3:07 |
 | 55 | [Sim](https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Sim](https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g) | 3:49 |
 | 56 | [Staring at the Wall](https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Staring at the Wall](https://open.spotify.com/album/5tknEZvydcc1zkg5CWOcym) | 4:31 |

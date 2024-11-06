@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I">wiesner</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,677 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,684 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 13 | [Die Kortste Hier](https://open.spotify.com/track/5xO82P7iaRC0LoUc2pz21l) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Die Kortste Hier](https://open.spotify.com/album/7bQzKeNQdvwiiPmOh4yAo8) | 2:51 |
 | 14 | [Lego](https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Lego](https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1) | 2:31 |
 | 15 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
-| 16 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
+| 16 | [People Change](https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [People Change](https://open.spotify.com/album/0HujnlCsE3A24hpcwjkYJ6) | 3:26 |
 | 17 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
-| 18 | [People Change](https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [People Change](https://open.spotify.com/album/0HujnlCsE3A24hpcwjkYJ6) | 3:26 |
+| 18 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
 | 19 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
 | 20 | [My Lover's on the Run](https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [My Lover's on the Run](https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ) | 3:37 |
 | 21 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 31 | [Hey Mister](https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn) | [96\-03 The Singles](https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO) | 3:13 |
 | 32 | [Like You Madly](https://open.spotify.com/track/2gmnVYIuxe7mbgxjACZIp9) | [Just Jinger](https://open.spotify.com/artist/0xj7PKQWdYs0GRijWUtYTo) | [All Comes Round 20th Anniversary Edition](https://open.spotify.com/album/1R71jHIqikADJY5tAtNl4X) | 3:36 |
 | 33 | [The Knife](https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf) | [Zebra & Giraffe](https://open.spotify.com/artist/42snysjS5m2BFhECXLfBEd) | [Collected Memories](https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7) | 4:17 |
-| 34 | [Moth Eater](https://open.spotify.com/track/04M4i1FYoBEPM8GEMAercO) | [Ruff Majik](https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL) | [Moth Eater](https://open.spotify.com/album/47tMFXdmZbZY67z1mmfvR3) | 5:23 |
-| 35 | [Penny Sleeps](https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Penny Sleeps](https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU) | 2:54 |
-| 36 | [Twisted](https://open.spotify.com/track/0PZGBkKhUJfPt6kUYE9SPd) | [CrashCarBurn](https://open.spotify.com/artist/184sdcjHnD6iVWbPEhxJoC) | [Long Live Tonight](https://open.spotify.com/album/1SrN5UhQ6uqqkFhMlsQwNo) | 4:04 |
+| 34 | [Penny Sleeps](https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Penny Sleeps](https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU) | 2:54 |
+| 35 | [Twisted](https://open.spotify.com/track/0PZGBkKhUJfPt6kUYE9SPd) | [CrashCarBurn](https://open.spotify.com/artist/184sdcjHnD6iVWbPEhxJoC) | [Long Live Tonight](https://open.spotify.com/album/1SrN5UhQ6uqqkFhMlsQwNo) | 4:04 |
+| 36 | [Moth Eater](https://open.spotify.com/track/04M4i1FYoBEPM8GEMAercO) | [Ruff Majik](https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL) | [Moth Eater](https://open.spotify.com/album/47tMFXdmZbZY67z1mmfvR3) | 5:23 |
 | 37 | [Paaie X](https://open.spotify.com/track/1mBEtvBdWd7i4X3TxGJ0Ud) | [Aidan Kade](https://open.spotify.com/artist/5qkCpTcIZDqRxqoJCI0Lgr) | [Paaie X](https://open.spotify.com/album/73m7S12HvQ1IArvaYy2lbO) | 3:05 |
 | 38 | [Nagblind](https://open.spotify.com/track/2Kf0YUHmw60NJEvzJEIeum) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Nagblind](https://open.spotify.com/album/1YRRGTMMIfEySbyPWkXry7) | 3:33 |
 | 39 | [Kondisie](https://open.spotify.com/track/36SjYjhcFhamW4QESWInBa) | [Rudi Kleingeld](https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg) | [Kondisie](https://open.spotify.com/album/6Hy8tu66nDSlrKAq2hFxNq) | 3:26 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 44 | [Birthday Card](https://open.spotify.com/track/1owGgt0obwlyfCXHreFTFc) | [Tweak](https://open.spotify.com/artist/5a111cSPcXfRJAbY2MdtLS) | [The Romantic Lure of Possum Worship](https://open.spotify.com/album/2mY84YNvTOpVFtFJ3pJZTm) | 3:09 |
 | 45 | [Sindikaat](https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs) | [éF\-éL](https://open.spotify.com/artist/0I1HsrpXxDkMUiOYp3Mmka) | [Net Om Die Geraas In Te Asem](https://open.spotify.com/album/24XNRA90YKU8MOiI1Yaz65) | 2:21 |
 | 46 | [Dans Deur Die Donker](https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Dans Deur Die Donker](https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE) | 3:02 |
-| 47 | [Alleen \- Remastered 2024](https://open.spotify.com/track/5US58PJyctlJoImyWqsyvZ) | [Millennium](https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw) | [Ewigheid \(Remastered 2024\)](https://open.spotify.com/album/2U8RKMXqNsceEJCC1XGaTa) | 4:00 |
-| 48 | [Never Enough](https://open.spotify.com/track/7IdzKD9PrLnU7H8WOjgp0U) | [Rewind](https://open.spotify.com/artist/1ZLUXsroXgx9oOq1cnTXgt) | [Never Enough](https://open.spotify.com/album/7lU2Xu7bZ8IGgCuEhz5TUN) | 3:48 |
+| 47 | [Never Enough](https://open.spotify.com/track/7IdzKD9PrLnU7H8WOjgp0U) | [Rewind](https://open.spotify.com/artist/1ZLUXsroXgx9oOq1cnTXgt) | [Never Enough](https://open.spotify.com/album/7lU2Xu7bZ8IGgCuEhz5TUN) | 3:48 |
+| 48 | [Alleen \- Remastered 2024](https://open.spotify.com/track/5US58PJyctlJoImyWqsyvZ) | [Millennium](https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw) | [Ewigheid \(Remastered 2024\)](https://open.spotify.com/album/2U8RKMXqNsceEJCC1XGaTa) | 4:00 |
 | 49 | [Picture Perfect](https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP) | [Perez](https://open.spotify.com/artist/4G30SsYmThGzZPCCyDN1bH) | [Picture Perfect](https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb) | 4:05 |
 | 50 | [ZAR](https://open.spotify.com/track/3tPhyCjhQLvEBbUbOPHHmv) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [ZAR](https://open.spotify.com/album/6sMKmYRslizAqXFgKmK6VX) | 3:27 |
 

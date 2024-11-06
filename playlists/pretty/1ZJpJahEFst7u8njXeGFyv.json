@@ -1,6 +1,6 @@
 {
   "description": "Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl. Yo-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.",
-  "num_followers": 306105,
+  "num_followers": 306095,
   "original_name": "Relaxing Classical",
   "owner": {
     "name": "Filtr UK",
@@ -1428,8 +1428,20 @@
       },
       "artists": [
         {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
           "name": "HAUSER",
           "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         }
       ],
       "duration_ms": 169720,

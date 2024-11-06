@@ -873,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Approval",
+        "url": "https://open.spotify.com/album/2TduV2Na9lQiW4HmjSbc5r"
+      },
+      "artists": [
+        {
+          "name": "Fryken",
+          "url": "https://open.spotify.com/artist/5z0Fx2yg2bbV0WpHiWi4pf"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179165,
+      "name": "Approval",
+      "url": "https://open.spotify.com/track/3QzrEF8QSFkZZIJiHzhA9O"
+    },
+    {
+      "album": {
         "name": "Apricity",
         "url": "https://open.spotify.com/album/5kkoWIAMOyqK9WVJmyWtfW"
       },
@@ -8306,6 +8324,24 @@
       "duration_ms": 142706,
       "name": "My Only One",
       "url": "https://open.spotify.com/track/6weHliQCgO8eaXFpONJJ7Z"
+    },
+    {
+      "album": {
+        "name": "Mystical Murmurs",
+        "url": "https://open.spotify.com/album/0Ql3uAzHXNRXCSqHaIYc8V"
+      },
+      "artists": [
+        {
+          "name": "Mijongya",
+          "url": "https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187198,
+      "name": "Mystical Murmurs",
+      "url": "https://open.spotify.com/track/4xvFnv7jOKavTDsu40BPJk"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is LUDMILLA. The essential tracks, all in one playlist.",
-  "num_followers": 300024,
+  "num_followers": 300038,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAACIkfbtg6sY6G22yU2ln/Sd",
+  "snapshot_id": "ZygOgAAAAAA9lcjeJNN5JZvo4KMFd/W+",
   "tracks": [
     {
       "added_at": null,
@@ -35,6 +35,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maliciosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 167027,
+      "name": "Maliciosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saudade da Gente (Ao Vivo na Resenha Pagode e Chinelo)",
         "url": "https://open.spotify.com/album/39IY5gyzMAY6N8ufNZKP93"
       },
@@ -51,22 +67,6 @@
       "duration_ms": 167256,
       "name": "Saudade da Gente (Ao Vivo na Resenha Pagode e Chinelo)",
       "url": "https://open.spotify.com/track/0SzZVQw0tEazwNko6bdKwS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maliciosa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 167027,
-      "name": "Maliciosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"
     },
     {
       "added_at": null,
@@ -171,6 +171,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "duration_ms": 203223,
+      "name": "Me Espera - Ao Vivo",
+      "url": "https://open.spotify.com/track/2v9uX8MdVInhpItltNILMD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sem M\u00fasica",
         "url": "https://open.spotify.com/album/0l6zDsnSn1lM6FWZknjsAI"
       },
@@ -195,30 +219,6 @@
       "duration_ms": 130216,
       "name": "N\u00e3o Para",
       "url": "https://open.spotify.com/track/02hupCKclLtfyoQrp2xtfz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Belo",
-          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
-        }
-      ],
-      "duration_ms": 203223,
-      "name": "Me Espera - Ao Vivo",
-      "url": "https://open.spotify.com/track/2v9uX8MdVInhpItltNILMD"
     },
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice #2 (Ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Belo",
-          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
-        }
-      ],
-      "duration_ms": 121636,
-      "name": "Perfume - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Eu4upXqRZxGTJref5U5c4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 451284,
       "name": "Cora\u00e7\u00e3o Deserto / Ningu\u00e9m Merece Amar Sozinho / A Primeira Namorada - Ao Vivo",
       "url": "https://open.spotify.com/track/0oWy49SNvFELOHnu4BI5SI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Numanice #2 (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "duration_ms": 121636,
+      "name": "Perfume - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Eu4upXqRZxGTJref5U5c4"
     },
     {
       "added_at": null,

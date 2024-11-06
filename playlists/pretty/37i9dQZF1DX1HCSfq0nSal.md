@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 > Si está pegao, está aquí\. Feat\. Duki
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,135 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,200 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nueva Era](https://open.spotify.com/track/03IpZ9yqJlo3EIgDQUgBSF) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:37 |
-| 2 | [Juguete](https://open.spotify.com/track/4z46E3coZuv7TeGawEd4Ze) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Juguete](https://open.spotify.com/album/6I7lY45BATN3V19Kqlhmnv) | 3:23 |
+| 2 | [Yo sé](https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [Yo sé](https://open.spotify.com/album/4NHI7kUT9UsxlgKgDnaJdv) | 2:09 |
 | 3 | [IA](https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [IA](https://open.spotify.com/album/3DXj5cbdAXHzjG9Yy2rDn3) | 2:51 |
-| 4 | [Yo sé](https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [Yo sé](https://open.spotify.com/album/4NHI7kUT9UsxlgKgDnaJdv) | 2:09 |
+| 4 | [Juguete](https://open.spotify.com/track/4z46E3coZuv7TeGawEd4Ze) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Juguete](https://open.spotify.com/album/6I7lY45BATN3V19Kqlhmnv) | 3:23 |
 | 5 | [Trato De Estar Bien](https://open.spotify.com/track/7gxUtbjZzb6tXvs7mJfhOG) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:33 |
 | 6 | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [LA PANTERA NEGRA \(DELUXE\)](https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H) | 2:10 |
-| 7 | [DURO](https://open.spotify.com/track/1kyLInQ2qgYbK4wZxllfV2) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DURO](https://open.spotify.com/album/235ZKHV3Tg09Cj4vtYnZm8) | 2:42 |
+| 7 | [Se Pone Las Nike](https://open.spotify.com/track/6aO53Wsz32bgMBytw6pIYm) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS) | [Triana](https://open.spotify.com/album/47wk0lhqRt1MWuCxPfctcc) | 2:39 |
 | 8 | [STAR](https://open.spotify.com/track/2mnehJ4xPqFe4cNi7BG2rc) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [KM 33](https://open.spotify.com/album/2H4i0TPlQeyEU1eTNFRSI8) | 2:36 |
-| 9 | [Se Pone Las Nike](https://open.spotify.com/track/6aO53Wsz32bgMBytw6pIYm) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS) | [Triana](https://open.spotify.com/album/47wk0lhqRt1MWuCxPfctcc) | 2:39 |
+| 9 | [DURO](https://open.spotify.com/track/1kyLInQ2qgYbK4wZxllfV2) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DURO](https://open.spotify.com/album/235ZKHV3Tg09Cj4vtYnZm8) | 2:42 |
 | 10 | [Dame La Verde](https://open.spotify.com/track/6onnX1hYWcqP2dXgfvExNG) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Dame La Verde](https://open.spotify.com/album/4nEyemOG5BK5GpUknH5Zm1) | 3:35 |
-| 11 | [EROTICAAAAAAA](https://open.spotify.com/track/6x38KcIs0tsw3ZzvBfLxOa) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [THE WORLD IS YOURS](https://open.spotify.com/album/4K4avZBw8VwDiTaukQ0snS) | 2:49 |
-| 12 | [Ferxxoko](https://open.spotify.com/track/12VjaTNEaCfDlvW1XPZTQ9) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxoko](https://open.spotify.com/album/5uRpRstxMvxTSbAXZmaBnh) | 2:57 |
+| 11 | [Ferxxoko](https://open.spotify.com/track/12VjaTNEaCfDlvW1XPZTQ9) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxoko](https://open.spotify.com/album/5uRpRstxMvxTSbAXZmaBnh) | 2:57 |
+| 12 | [EROTICAAAAAAA](https://open.spotify.com/track/6x38KcIs0tsw3ZzvBfLxOa) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [THE WORLD IS YOURS](https://open.spotify.com/album/4K4avZBw8VwDiTaukQ0snS) | 2:49 |
 | 13 | [Si, Ajá](https://open.spotify.com/track/4HMQhQl6bVTyzWjjzt7wuj) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [SOLO](https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0) | 3:18 |
 | 14 | [INSTINTO ANIMAL](https://open.spotify.com/track/5dzsEEl3PO4aHxx34Le8XT) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [THE WORLD IS YOURS](https://open.spotify.com/album/4K4avZBw8VwDiTaukQ0snS) | 2:38 |
 | 15 | [2 K 1 6](https://open.spotify.com/track/6hXcH4KnoRgkFQDhvxo872) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 4:05 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 | 39 | [FRIKI](https://open.spotify.com/track/2TWX6XUqmPx44FDOmgtb0I) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [FRIKI](https://open.spotify.com/album/6hw3nNhfG3gIeNrgon7BFL) | 3:09 |
 | 40 | [APAGA EL CEL](https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [APAGA EL CEL](https://open.spotify.com/album/3tgMwB1zSEt1CqCdJ3zytF) | 3:04 |
 
-Snapshot ID: `Zyj2wgAAAADOVBfe3pB4fhf2fIKHvB1w`
+Snapshot ID: `ZyppNgAAAAAJwNrjq/ggF8yg2P+d8EgK`

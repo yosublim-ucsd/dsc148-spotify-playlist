@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1571637,
+  "num_followers": 1571790,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -1019,22 +1019,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Nothing Ever Changes",
-        "url": "https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4"
+        "name": "Caught in a Moment",
+        "url": "https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         },
         {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         }
       ],
-      "duration_ms": 226048,
-      "name": "Nothing Ever Changes",
-      "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
+      "duration_ms": 255285,
+      "name": "Caught in a Moment",
+      "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1071,6 +1071,26 @@
       "duration_ms": 178849,
       "name": "Blur",
       "url": "https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Nothing Ever Changes",
+        "url": "https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        }
+      ],
+      "duration_ms": 226048,
+      "name": "Nothing Ever Changes",
+      "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1155,26 +1175,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Caught in a Moment",
-        "url": "https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 255285,
-      "name": "Caught in a Moment",
-      "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Out Of Context",
         "url": "https://open.spotify.com/album/7cCdA85cVffXQyxpoS6VlN"
       },
@@ -1187,6 +1187,22 @@
       "duration_ms": 171006,
       "name": "Out Of Context",
       "url": "https://open.spotify.com/track/3D7gWaRnr2l7zBpimOXLam"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "I\u2019ll Be There",
+        "url": "https://open.spotify.com/album/23Dz0Ch87tRnPu8VCe8O3W"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "I\u2019ll Be There",
+      "url": "https://open.spotify.com/track/21w8Ns4eTUnr3j2f4t6ICL"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1231,22 +1247,6 @@
       "duration_ms": 237865,
       "name": "Numb - Joris Voorn Remix, Edit",
       "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "I\u2019ll Be There",
-        "url": "https://open.spotify.com/album/23Dz0Ch87tRnPu8VCe8O3W"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "I\u2019ll Be There",
-      "url": "https://open.spotify.com/track/21w8Ns4eTUnr3j2f4t6ICL"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "No Matter What",
+        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 202992,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Dance Is The Answer (feat. Raja Ram)",
         "url": "https://open.spotify.com/album/0mdXH0pJA8KKW8abGrS3o8"
       },
@@ -1431,26 +1451,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "No Matter What",
-        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 202992,
-      "name": "No Matter What",
-      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 205440,
       "name": "Easy",
       "url": "https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Hypercycle",
+        "url": "https://open.spotify.com/album/4IRPWekl0EQsvqIZjWugfw"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 346611,
+      "name": "Hypercycle",
+      "url": "https://open.spotify.com/track/7poR9gH3B2NzE38yeMZ1Nl"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Freefall",
-        "url": "https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883"
-      },
-      "artists": [
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 219250,
-      "name": "Freefall",
-      "url": "https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Remission",
         "url": "https://open.spotify.com/album/4ZqHSnu1EjWpygl20YmGm2"
       },
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Hypercycle",
-        "url": "https://open.spotify.com/album/4IRPWekl0EQsvqIZjWugfw"
+        "name": "Freefall",
+        "url": "https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883"
       },
       "artists": [
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 346611,
-      "name": "Hypercycle",
-      "url": "https://open.spotify.com/track/7poR9gH3B2NzE38yeMZ1Nl"
+      "duration_ms": 219250,
+      "name": "Freefall",
+      "url": "https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        }
+      ],
+      "duration_ms": 207638,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Never Alone",
         "url": "https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 186263,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5"
-      },
-      "artists": [
-        {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
-        }
-      ],
-      "duration_ms": 207638,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "I Need You (Adriatique Remix)",
-        "url": "https://open.spotify.com/album/5xoWT0xsoV2jQ5wFvLUEfN"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        }
-      ],
-      "duration_ms": 291304,
-      "name": "I Need You - Adriatique Remix",
-      "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Slipstream (feat. Julia Church)",
         "url": "https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o"
       },
@@ -1759,6 +1739,26 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "I Need You (Adriatique Remix)",
+        "url": "https://open.spotify.com/album/5xoWT0xsoV2jQ5wFvLUEfN"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "duration_ms": 291304,
+      "name": "I Need You - Adriatique Remix",
+      "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "One New Change",
         "url": "https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O"
       },
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "some ep",
-        "url": "https://open.spotify.com/album/5OPRF4o1pypBIdGbKtAbCN"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 427538,
-      "name": "Sever",
-      "url": "https://open.spotify.com/track/3sXl6kTbIhhPZ3mrho4woG"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 194160,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "some ep",
+        "url": "https://open.spotify.com/album/5OPRF4o1pypBIdGbKtAbCN"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 427538,
+      "name": "Sever",
+      "url": "https://open.spotify.com/track/3sXl6kTbIhhPZ3mrho4woG"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "All That I Lost",
-        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "All That I Lost",
-      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Shiver",
         "url": "https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 234330,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "All That I Lost",
+        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "All That I Lost",
+      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
     },
     {
       "added_at": "2024-11-01 04:00:00",

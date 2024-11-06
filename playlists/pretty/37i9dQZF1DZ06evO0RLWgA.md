@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,000 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,009 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 20 | [The Motor City Is Burning](https://open.spotify.com/track/3BEMA3t4qzJeV2oo3uH8pW) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Blues Legend](https://open.spotify.com/album/3gYuOHywliM9xrlMYgL94w) | 2:51 |
 | 21 | [Wednesday Evenin' Blues](https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [That's My Story](https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE) | 3:34 |
 | 22 | [I Cover the Waterfront \(feat\. Booker T\. Jones\)](https://open.spotify.com/track/050GP3PZhpslbb83CBhzIR) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Booker T\. Jones](https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U) | [Mr\. Lucky](https://open.spotify.com/album/3t99XEvm7voCGPI7Od66FZ) | 6:44 |
-| 23 | [Backbiters And Syndicaters](https://open.spotify.com/track/1Hp3DVGqIm7ydG7F5u6E0l) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:50 |
-| 24 | [I Can't Quit You Baby](https://open.spotify.com/track/1RgxsdVXU33n2po7sFdMHD) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [More Real Folk Blues: The Missing Album](https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11) | 3:28 |
+| 23 | [I Can't Quit You Baby](https://open.spotify.com/track/1RgxsdVXU33n2po7sFdMHD) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [More Real Folk Blues: The Missing Album](https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11) | 3:28 |
+| 24 | [Backbiters And Syndicaters](https://open.spotify.com/track/1Hp3DVGqIm7ydG7F5u6E0l) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:50 |
 | 25 | [It Serves Me Right](https://open.spotify.com/track/4a0RlE6Mde0N59OLuBQn42) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [In Person](https://open.spotify.com/album/6u1wI0W4YkfqmBE61nSeKz) | 3:32 |
 | 26 | [I Put My Trust In You](https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 5:19 |
 | 27 | [Money](https://open.spotify.com/track/1fStKfM74b9XmJa4YExB1a) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [It Serves You Right To Suffer](https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV) | 2:23 |
 | 28 | [Cry Before I Go](https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:38 |
-| 29 | [Annie Mae \(2007 \- Remaster\)](https://open.spotify.com/track/4L7cUoSuj5zjZ96x9YcUYI) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Chill Out](https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy) | 5:19 |
+| 29 | [Blues Before Sunrise](https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 3:49 |
 | 30 | [Stella Mae](https://open.spotify.com/track/1kUbawlVQyu6oZzKRn6RYe) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 3:04 |
-| 31 | [Blues Before Sunrise](https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 3:49 |
+| 31 | [Annie Mae \(2007 \- Remaster\)](https://open.spotify.com/track/4L7cUoSuj5zjZ96x9YcUYI) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Chill Out](https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy) | 5:19 |
 | 32 | [Mr\. Lucky](https://open.spotify.com/track/69lFRWBkVZEFxkQ79wZ9Is) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:52 |
 | 33 | [Baby Lee \(feat\. Robert Cray\)](https://open.spotify.com/track/0f9HBk7sdDtolNucZ2Scav) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 3:45 |
 | 34 | [Peace Lovin' Man](https://open.spotify.com/track/2rcqFSD81SzmYig0a06rLr) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 49 | [A New Leaf](https://open.spotify.com/track/6EdBagK4kqITdw34mBzTof) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 2:30 |
 | 50 | [The Wanderings of The Avener \- Continuous Mix](https://open.spotify.com/track/5FH2dK89RFAs293DDuV31z) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Kadebostany](https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57), [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [The Be Good Tanyas](https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2), [Adam Cohen](https://open.spotify.com/artist/1sKo8LpXbhcTHtd9moNCMk), [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [The Wanderings Of The Avener](https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP) | 54:10 |
 
-Snapshot ID: `Zya9AAAAAADqLXALtTP0DaaJDSWrHTbq`
+Snapshot ID: `ZygOgAAAAAD2cXVGyY9bHS+EzzCj9gT8`

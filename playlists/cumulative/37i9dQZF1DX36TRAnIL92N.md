@@ -177,7 +177,7 @@
 | [Remedy](https://open.spotify.com/track/1j611ghQfHnBMnqSZCoxc8) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Remedy](https://open.spotify.com/album/0q5uRkPKHeKcNoco1IuZ8R) | 2:43 | 2024-07-29 |  |
 | [Ritual](https://open.spotify.com/track/5tPC9sy0oSG2snV5L3PYB1) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Umbilicis Universalis](https://open.spotify.com/album/67vRbAKHrUlH3ejiXFDKQy) | 7:00 | 2022-07-05 | 2022-07-24 |
 | [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 | 2024-04-12 |  |
-| [Robot](https://open.spotify.com/track/1ozpkbaIyJ4lL2pUHbzTRW) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Robot](https://open.spotify.com/album/1qqb2o1QPUWO4mK2y5WV8A) | 3:25 | 2024-03-20 |  |
+| [Robot](https://open.spotify.com/track/1ozpkbaIyJ4lL2pUHbzTRW) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Robot](https://open.spotify.com/album/1qqb2o1QPUWO4mK2y5WV8A) | 3:25 | 2024-03-20 | 2024-11-06 |
 | [Rock With Me](https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Rock With Me](https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP) | 3:25 | 2022-07-05 | 2023-11-05 |
 | [Rock With Me](https://open.spotify.com/track/4JOOUSb29WBiwpH47QUmif) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Rock with Me](https://open.spotify.com/album/34gHhZJ8XW3Q9o73E7FQMP) | 3:25 | 2023-10-13 | 2024-04-19 |
 | [Roll the Dice](https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Roll the Dice](https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ) | 4:36 | 2023-04-07 |  |
@@ -245,6 +245,6 @@
 | [You Look at Me](https://open.spotify.com/track/05L5ExA33eJEEiuTwXB1up) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [You Look at Me](https://open.spotify.com/album/5o5sPwEAVLG92IQVlTRTr0) | 6:07 | 2022-07-05 | 2023-03-29 |
 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 | 2022-07-05 |  |
 | [Your Mind](https://open.spotify.com/track/5NZdurYcFYOg3s2YyzeVgE) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Your Mind](https://open.spotify.com/album/1r6UqJJNidWeu594zRPySp) | 8:22 | 2024-03-20 | 2024-07-30 |
-| [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 | 2022-07-05 | 2024-11-02 |
+| [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 | 2022-07-05 |  |
 
 \*This playlist was first scraped on 2022-07-07. Prior content cannot be recovered.

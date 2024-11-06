@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,725 likes - 132 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,724 likes - 132 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 38 | [Love Of Your Life](https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Of Your Life](https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7) | 3:16 |
 | 39 | [Breaking News \("Rattn Tattn"\)](https://open.spotify.com/track/3SpSPySCZRobjGpUsZdQq9) | [Expulze](https://open.spotify.com/artist/0hiID7lYjHkCqeTRQFhU5D), [Narfos](https://open.spotify.com/artist/7CqGN5affrTPInov9PqsCr) | [2 Loutr \- 1 Soul](https://open.spotify.com/album/1AoWfy7iH5J5Y7Exn07s2q) | 2:51 |
 | 40 | [Feel Right Now \(feat\. Nonô\)](https://open.spotify.com/track/1qX6EzEftYFq7MWL0ry3An) | [Parx](https://open.spotify.com/artist/2C45tSmv4vJEa6zD0aSwtO), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Feel Right Now \(feat\. Nonô\)](https://open.spotify.com/album/0HwFa92Rbgm9mVEMtfOV7z) | 2:30 |
-| 41 | [BIGGER](https://open.spotify.com/track/4R2KJOgEUP2qO3re9BwIhs) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:46 |
-| 42 | [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 |
+| 41 | [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 |
+| 42 | [BIGGER](https://open.spotify.com/track/4R2KJOgEUP2qO3re9BwIhs) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:46 |
 | 43 | [Just for One Night \(feat\. Astrid S\)](https://open.spotify.com/track/7AEV4oGvHPn1DtAE7pLCXR) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Just For One Night \(feat\. Astrid S\)](https://open.spotify.com/album/0RXOXEux1zPAhFcL8AkzJY) | 3:46 |
 | 44 | [Hard Out Here.](https://open.spotify.com/track/0o4HD0mOtTiHSbycbg4IpT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:11 |
 | 45 | [Hold \- Candyland Remix](https://open.spotify.com/track/1emBOdmo4Xk7o6zfUsAecT) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [Jessica Jarrell](https://open.spotify.com/artist/6sjsQahFYXgmOmocbuHou3), [Candyland](https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq) | [I Am The Elephante \(Remixes\)](https://open.spotify.com/album/0KuqJ3I3N9gkSvtG5jIOhy) | 2:16 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 74 | [Sober \- Stripped](https://open.spotify.com/track/7iHAue5izVmII1Z6Q1xy7B) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Sober \(Stripped\)](https://open.spotify.com/album/2LIGrpvdLOfLuLkObXSL6H) | 3:18 |
 | 75 | [LOL](https://open.spotify.com/track/4qsrQnTtzIdmTOXFobkkE9) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:32 |
 | 76 | [Mary Jane.](https://open.spotify.com/track/3PLTYnLCus4KHeCyW2jsee) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:52 |
-| 77 | [x2](https://open.spotify.com/track/0k79twDYBMpqqjVLuEnYkh) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:42 |
-| 78 | [Edge of Saturday Night](https://open.spotify.com/track/2Ti9DOQRFRsrD1TIA3VjKw) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 3:26 |
+| 77 | [Edge of Saturday Night](https://open.spotify.com/track/2Ti9DOQRFRsrD1TIA3VjKw) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 3:26 |
+| 78 | [x2](https://open.spotify.com/track/0k79twDYBMpqqjVLuEnYkh) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:42 |
 | 79 | [The Fruits](https://open.spotify.com/track/5VvnRNKALQhnfDcbslgk3h) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [DJDS](https://open.spotify.com/artist/0orEyXhG0KnPEDVgpctNJI), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Heroine](https://open.spotify.com/album/4E6nyzUW5sNhMwCoLNIJun) | 3:10 |
 | 80 | [Wife Me](https://open.spotify.com/track/0pqlci982oEcavayQKZDQW) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Side Tape](https://open.spotify.com/album/6VpSHPH5y0YyCajycHp6PL) | 3:08 |
 | 81 | [Body Dysmorphia.](https://open.spotify.com/track/7FYTCG4IXEtar8f2zmd3jk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 2:33 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 131 | [Sink](https://open.spotify.com/track/77JuQtsC9l7u6vZYAl5ZOX) | [White Ape](https://open.spotify.com/artist/7pFTVAwKdNGN4qvqDVBH2A) | [Kick It Down](https://open.spotify.com/album/64QgAUzZedeat6jQsjFtAU) | 3:45 |
 | 132 | [Rough \- Axel Karakasis Remix](https://open.spotify.com/track/4Zq2jl1ZxsYOqBevqghdYa) | [Sintek](https://open.spotify.com/artist/5VVTbLgVKS2B0O7BoxRGBM) | [Rough](https://open.spotify.com/album/0EbJGp1zt5mtBztbMM7eMv) | 6:36 |
 
-Snapshot ID: `AbgotAAAAACSRk4E4j7goP6CPt07s/4A`
+Snapshot ID: `AbguSgAAAAC3Xoa71G0mLeWuWzrEjeYv`

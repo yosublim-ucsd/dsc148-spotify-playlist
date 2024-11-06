@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,538 likes - 48 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,597 likes - 48 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 41 | [La Gozadera](https://open.spotify.com/track/47lSbhOlKE8fJJ2jc6HqRQ) | [Yoruba Andabo](https://open.spotify.com/artist/3oh2Q089hI70VBBGnIz76m) | [El Espíritu de la Rumba](https://open.spotify.com/album/2ZOZ2ndaVgnlu9Fh2Wjajc) | 6:47 |
 | 42 | [Puro Teatro](https://open.spotify.com/track/0DzEFFdQvaL47DD1B8bJ5C) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Laberinto de Pasiones](https://open.spotify.com/album/2A99uuzdqdWZg9wZh12Nyv) | 2:57 |
 | 43 | [La Preferencia](https://open.spotify.com/track/2qzE1R69r7RatHTEj5zRR9) | [El Noro y Primera Clase](https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf) | [Sin Escala](https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9) | 5:58 |
-| 44 | [Después de Mil Lunas](https://open.spotify.com/track/73mgh8ZBX7wyEuaqUVaSHy) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [La Vuelta al Mundo](https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG) | 3:05 |
+| 44 | [El Paso de la Bailerina](https://open.spotify.com/track/6RO3JijdGFvGbIyw1HknsK) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Pasaporte](https://open.spotify.com/album/55bxux5NGwsurOUlXfT2cv) | 5:53 |
 | 45 | [Un Poquito al Revés \- Remasterizado](https://open.spotify.com/track/1JTYxQB9J2KchmYpmaluQF) | [Pupy y Los Que Son Son](https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH) | [Tranquilo Que Yo Controlo \(Remasterizado\)](https://open.spotify.com/album/5j07wZn3eSyjnRch2zczmy) | 4:33 |
 | 46 | [Soy Cubana](https://open.spotify.com/track/7trrKd0NJ6tGeLabz3068F) | [Son Damas](https://open.spotify.com/artist/60qGA95YCJPStxDgW1PoqM) | [Bailables de Cuba, Vol\. 2](https://open.spotify.com/album/6m7duIkPgcGsHwS5ijJaXX) | 5:09 |
 | 47 | [El Dueno del Party](https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk) | [Juan Guillermo](https://open.spotify.com/artist/2a6asokZtIXtp4pxTLvTvq), [Los Extraterrestres](https://open.spotify.com/artist/3G65Io9sxcoeyBVip1ruau) | [Que No Me Controlen](https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN) | 4:39 |

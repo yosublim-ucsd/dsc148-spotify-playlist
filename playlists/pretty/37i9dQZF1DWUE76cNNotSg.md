@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,721 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,852 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 96 | [All This Love](https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [All This Love](https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb) | 3:53 |
 | 97 | [So Nice To Be In Love](https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [So Nice To Be In Love](https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW) | 2:34 |
 | 98 | [Si Te Portas Bonito \- Edit](https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 1:57 |
-| 99 | [Caroline \(Hold Tight\)](https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Come in, We're Open !](https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH) | 3:51 |
-| 100 | [PLACES](https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:34 |
+| 99 | [PLACES](https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:34 |
+| 100 | [Caroline \(Hold Tight\)](https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Come in, We're Open !](https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH) | 3:51 |
 
 Snapshot ID: `ZxsXwAAAAADdBrOkFl4SJjtGMCB5yAvf`

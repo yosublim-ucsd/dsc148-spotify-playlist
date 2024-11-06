@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og masse ny musikk! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,710 likes - 99 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,722 likes - 99 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 3 | [Back It Up](https://open.spotify.com/track/1Y23sm3HjBKm0FZ48KQAL8) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [Back It Up](https://open.spotify.com/album/1tdaOMAQN2wuvnScz3m2eK) | 2:18 |
 | 4 | [Bless Meg](https://open.spotify.com/track/0bQ6SuPWpMSFXXP3yVlexZ) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bless Meg](https://open.spotify.com/album/37LSdJ7yCR1AbnOuID6fOq) | 2:24 |
 | 5 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/4UmpZwWh99V5JMSrGsacFP) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/5dH89SWty2zwQkpLtPI2Lv) | 5:01 |
-| 6 | [F\*en Ikke Kjendis](https://open.spotify.com/track/36nFVYgHwi5J9DMkOl7dK6) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [F\*en Ikke Kjendis](https://open.spotify.com/album/0vLvHYXg5iwwHmr8nX7Dnw) | 2:51 |
+| 6 | [F\*en Ikke Kjendis](https://open.spotify.com/track/36nFVYgHwi5J9DMkOl7dK6) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [F\*en Ikke Kjendis](https://open.spotify.com/album/0vLvHYXg5iwwHmr8nX7Dnw) | 2:52 |
 | 7 | [A Little Bit Sad](https://open.spotify.com/track/4Y74xfq9w0WZsTy7GuPnLV) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [A Little Bit Sad](https://open.spotify.com/album/1bhI33k7QCalRM9uzPJ3p4) | 2:46 |
 | 8 | [Big Steppa](https://open.spotify.com/track/43MYhAw47PmHz31xY3mdrI) | [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [Big Steppa](https://open.spotify.com/album/28xty25VaSYUpXBQwFKYEf) | 2:16 |
 | 9 | [St\. Chroma \(feat\. Daniel Caesar\)](https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 3:17 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 58 | [Hacker](https://open.spotify.com/track/7yokdvwHVF5Ejp5iqP4FhY) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Hacker](https://open.spotify.com/album/0S7e6QKCfYDmvIVujOC9S8) | 2:59 |
 | 59 | [Umbrella](https://open.spotify.com/track/6NDdxXnnjH5dqYqtke97lm) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Umbrella](https://open.spotify.com/album/1QQNiWNsBo3NHjFyMM4I5c) | 2:28 |
 | 60 | [small](https://open.spotify.com/track/0zmhbBZjEEMxZLac83gLRQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [small](https://open.spotify.com/album/3h7ozNB6Vvbw2sTWTtxQCk) | 3:33 |
-| 61 | [death bed, Pt\. 2](https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Daniel Saint](https://open.spotify.com/artist/1mqfwrWO9D3IQvWkwnuCNB), [chill sebs](https://open.spotify.com/artist/6SiKEPYrOXoQT6GbreDRvF) | [tell me your feelings and i won’t tell you mine, Pt\. 3](https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW) | 3:04 |
+| 61 | [death bed, Pt\. 2](https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Daniel Saint](https://open.spotify.com/artist/1mqfwrWO9D3IQvWkwnuCNB) | [tell me your feelings and i won’t tell you mine, Pt\. 3](https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW) | 3:04 |
 | 62 | [Caught in a Moment](https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Caught in a Moment](https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0) | 4:15 |
 | 63 | [once in a while](https://open.spotify.com/track/5W3MMKpf1GYEznKR1B1BJJ) | [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G), [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Cedarcliff](https://open.spotify.com/album/5mlHMx35g52wFTpf5EpOAL) | 2:57 |
 | 64 | [Easy To Love](https://open.spotify.com/track/5Bns5x2e8ypUcDVuE1uyIm) | [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Easy To Love](https://open.spotify.com/album/708yPIVpuslXntjeYcZ2de) | 2:37 |

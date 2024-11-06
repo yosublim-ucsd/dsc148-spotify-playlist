@@ -4,7 +4,7 @@
 
 > Sleepy, cosy piano music for snoozing, power naps and relaxation.
 
-209 songs - 9 hr 11 min
+210 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Four Days With You](https://open.spotify.com/track/7dGuSEYGWw0BJpjbe9nzZL) | [Nina Fiadh](https://open.spotify.com/artist/4nN747xiBnX6REwmnzlDfJ) | [Four Days With You](https://open.spotify.com/album/2829sYIZlhdcS0VZ4oNin2) | 2:52 | 2023-10-27 | 2024-03-08 |
 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 | 2023-10-27 |  |
 | [Gleam](https://open.spotify.com/track/4ODEul9zEesE2R8wMUs8eh) | [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Gleam](https://open.spotify.com/album/1km00QBaAtmwWqsQWjrsPH) | 2:33 | 2023-10-27 | 2024-10-02 |
+| [Goodmight](https://open.spotify.com/track/7rLMGoaWru8BOjoU73vXO1) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Goodmight](https://open.spotify.com/album/7vBcf7bIKJfuYvSucoHNAE) | 2:13 | 2024-11-05 |  |
 | [Grounded in Love](https://open.spotify.com/track/6r3yNcTDGZxBsvUi5hwpOf) | [Rocco](https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH) | [Grounded in Love](https://open.spotify.com/album/7dgM19C1eRfwg33ev3jLV8) | 2:23 | 2024-10-01 |  |
 | [Growing Old](https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2) | [Ezequiel Johnson](https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC) | [Growing Old](https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS) | 2:06 | 2023-10-27 |  |
 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 | 2023-10-27 |  |

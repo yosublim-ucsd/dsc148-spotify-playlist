@@ -805,6 +805,24 @@
     },
     {
       "album": {
+        "name": "No.5",
+        "url": "https://open.spotify.com/album/7rMxnxMlaCnxSBhqYXxu3H"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185896,
+      "name": "No.5",
+      "url": "https://open.spotify.com/track/5kXmyxToZp5zMN67Pek2UV"
+    },
+    {
+      "album": {
         "name": "Hors d'oeuvre",
         "url": "https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D"
       },
@@ -834,7 +852,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 186028,
       "name": "onn",
       "url": "https://open.spotify.com/track/2hjK0RrGJHp2yXAU1vtED1"
@@ -2179,6 +2197,24 @@
     },
     {
       "album": {
+        "name": "\u610f\u5730\u3068\u5149",
+        "url": "https://open.spotify.com/album/5bGkOLzV6DxWEBYtnqAOLH"
+      },
+      "artists": [
+        {
+          "name": "PEDRO",
+          "url": "https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237973,
+      "name": "\u30e9\u30d6\u30ea\u30fc\u30d9\u30a4\u30d3\u30fc",
+      "url": "https://open.spotify.com/track/4vxdk93S9U0gfSLg1GYxQC"
+    },
+    {
+      "album": {
         "name": "\u30e9\u30f3\u30bf\u30f3",
         "url": "https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe"
       },
@@ -2230,6 +2266,24 @@
       "duration_ms": 165378,
       "name": "\u30ea\u30a4\u30f3\u30ab\u30fc\u30cd\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/6mdZ2qRHAcdqTUNqGKJ2rw"
+    },
+    {
+      "album": {
+        "name": "\u30ef\u30fc\u30af\u30bd\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/3JEKdUwAJRzQ6nOmudnvnn"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226514,
+      "name": "\u30ef\u30fc\u30af\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/2XavMBKximjgAbatCeiJQW"
     },
     {
       "album": {
@@ -2550,7 +2604,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 167973,
       "name": "\u5730\u7344\u604b\u6587",
       "url": "https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI"
@@ -2892,7 +2946,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 160000,
       "name": "\u6709\u8c61\u7121\u8c61",
       "url": "https://open.spotify.com/track/2PqafwLuRumuEedFw5en3T"

@@ -3325,6 +3325,28 @@
     },
     {
       "album": {
+        "name": "Semenjak Ada Dirimu",
+        "url": "https://open.spotify.com/album/3ofCjilmmAuyucK9AwULA8"
+      },
+      "artists": [
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        },
+        {
+          "name": "Hivi!",
+          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226956,
+      "name": "Semenjak Ada Dirimu",
+      "url": "https://open.spotify.com/track/5H4MSA6eIr6x1iBTn1vpMG"
+    },
+    {
+      "album": {
         "name": "Andra & The Backbone",
         "url": "https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD"
       },

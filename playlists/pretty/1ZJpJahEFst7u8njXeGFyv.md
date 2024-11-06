@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 306,105 likes - 284 songs - 18 hr 37 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 306,095 likes - 284 songs - 18 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 68 | [Walls](https://open.spotify.com/track/35bdYC7xm7koy0KoyKS4Bw) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l) | [Walls](https://open.spotify.com/album/23M3Rk93JM2tBofJQyybSw) | 2:56 |
 | 69 | [24 Preludes: No\. 8\. in F\-Sharp Minor \- Andante tempo di Barcarolle](https://open.spotify.com/track/5qMR3ptoEI1nRrBXb16DTO) | [Akio Yashiro](https://open.spotify.com/artist/7GCZ6IsJFw5pp4ntFeCQT2), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [24 Preludes/No\. 8\. in F\-Sharp Minor \- Andante tempo di Barcarolle](https://open.spotify.com/album/32M5CGSh5srAEqdljIeXj4) | 2:48 |
 | 70 | [Flowing Petals](https://open.spotify.com/track/1XthSKADXNnul1eOtI12lp) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Flowing Petals](https://open.spotify.com/album/4Rsamz6G1K3Xbc6MwdGQlI) | 2:53 |
-| 71 | [Rhapsody on a Theme of Paganini](https://open.spotify.com/track/7ihUaN200f5Av7pJRbRvz4) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [Classic II](https://open.spotify.com/album/1jYhZVt3I0N2M081cXrSjE) | 2:49 |
+| 71 | [Rhapsody on a Theme of Paganini](https://open.spotify.com/track/7ihUaN200f5Av7pJRbRvz4) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Classic II](https://open.spotify.com/album/1jYhZVt3I0N2M081cXrSjE) | 2:49 |
 | 72 | [Once](https://open.spotify.com/track/7gTVQWqEGrqTuZkXpe43z1) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Once](https://open.spotify.com/album/5f5y9Z2AYNtA2FfCAFZR0o) | 2:05 |
 | 73 | [Piano Concerto No.2 in B\-Flat Major, Op\. 83: Piano Concerto No.2 in B\-Flat Major, Op\. 83/III\. Andante](https://open.spotify.com/track/3hPGfk49gPsWytp8tQrNIE) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL), [Christian Thielemann](https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ) | [Piano Concerto No.2 in B\-Flat Major, Op\. 83/III\. Andante](https://open.spotify.com/album/6SHWiql0a11fLqmnMQ0JC0) | 12:42 |
 | 74 | [Song for Ainola](https://open.spotify.com/track/7CVEfeUf7Dnsks2G8JZMlq) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m) | [Song for Ainola](https://open.spotify.com/album/3I9jKLqxcayHxDS6unKm8k) | 1:16 |

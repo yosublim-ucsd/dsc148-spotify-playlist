@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,456 likes - 75 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,472 likes - 75 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 16 | [Bonkers](https://open.spotify.com/track/6ddQ5KCkvCggk3j6KdA0zL) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Tongue N' Cheek \(Dirtee Deluxe Edition\)](https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC) | 2:57 |
 | 17 | [I Think I Like It](https://open.spotify.com/track/5cPcd6pLrpDVmKnonjd3EQ) | [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Fix Your Accent](https://open.spotify.com/album/1kL1IqyXcsRJ54J5WyTjK0) | 5:35 |
 | 18 | [Baby I'm Yours](https://open.spotify.com/track/5jr6pG3khBcBXZRm8NogSe) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Baby I'm Yours](https://open.spotify.com/album/0sCktPXUOt19W503or8h9b) | 3:35 |
-| 19 | [I <3 U SO](https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ) | 3:42 |
-| 20 | [Someone Great](https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 6:30 |
+| 19 | [Someone Great](https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 6:30 |
+| 20 | [I <3 U SO](https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ) | 3:42 |
 | 21 | [Shut Up and Let Me Go](https://open.spotify.com/track/37QOvoAg1EC0PgWnfMrRmi) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [We Started Nothing](https://open.spotify.com/album/1b9KEBOO7A5awr16aCd6VP) | 2:51 |
 | 22 | [Signatune \- Thomas Bangalter Short Edit](https://open.spotify.com/track/0lbVB3ktcJkLZwX3GkiNi9) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Lucky Boy At Night](https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall) | 3:38 |
 | 23 | [Ready For The Floor](https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Made In The Dark](https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ) | 3:54 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 60 | [Meddle](https://open.spotify.com/track/5hBeax0At5KAHY2XjVRvxX) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(US\)](https://open.spotify.com/album/6hfQ4H9mS2s9h1UGtvDu5p) | 3:15 |
 | 61 | [Boy From School \- Erol Alkan's Extended Re\-Work](https://open.spotify.com/track/7m7XMDBYgLFauv82VGqM44) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Erol Alkan](https://open.spotify.com/artist/3jQ8hpdQo3TCEnb5gmOtH5) | [Boy From School \(The Mixes\)](https://open.spotify.com/album/2R9LoJZvTlVPzqK6AmcHf8) | 10:19 |
 | 62 | [Knobbers](https://open.spotify.com/track/0JEQRhFh3VzBdFAYcua4yk) | [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Knobbers EP](https://open.spotify.com/album/6EWNPR0D1aTkNdw5o86QWU) | 5:07 |
-| 63 | [Bump \- Switch Remix](https://open.spotify.com/track/6DwVAGeeP7lDQIqKbjzjxi) | [Spank Rock](https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2) | [Bump](https://open.spotify.com/album/4G2lrhI4JbpBdtYFfa1Qec) | 7:27 |
-| 64 | [Suspense Is Killing Me](https://open.spotify.com/track/3so9K62SVDzEpIw5zE9kju) | [Boy 8\-Bit](https://open.spotify.com/artist/5HfRYTHODGPIbWxYeNTsam) | [Suspense Is Killing Me EP](https://open.spotify.com/album/0NLguEzq237Uukt4kmaqZR) | 4:53 |
+| 63 | [Suspense Is Killing Me](https://open.spotify.com/track/3so9K62SVDzEpIw5zE9kju) | [Boy 8\-Bit](https://open.spotify.com/artist/5HfRYTHODGPIbWxYeNTsam) | [Suspense Is Killing Me EP](https://open.spotify.com/album/0NLguEzq237Uukt4kmaqZR) | 4:53 |
+| 64 | [Bump \- Switch Remix](https://open.spotify.com/track/6DwVAGeeP7lDQIqKbjzjxi) | [Spank Rock](https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2) | [Bump](https://open.spotify.com/album/4G2lrhI4JbpBdtYFfa1Qec) | 7:27 |
 | 65 | [Acceptable in the 80's \- Tom Neville Remix](https://open.spotify.com/track/5kPgxhET1iRXB9kvOvzEFb) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Neville](https://open.spotify.com/artist/1gbiWzSQlYGEEFeH97pGwt) | [Acceptable In The 80s](https://open.spotify.com/album/3pPwssIXWoFz7r5Wjusbme) | 7:11 |
 | 66 | [Wake Up \- Original](https://open.spotify.com/track/4nWHPMywLwn3oONWNfGJ2k) | [Les Petits Pilous](https://open.spotify.com/artist/2MS8Aeh2jTfqu1VhRZ4x1P) | [Wake Up](https://open.spotify.com/album/35grWCVaUU9bWGDYtQ1vin) | 3:58 |
 | 67 | [Beeper](https://open.spotify.com/track/0V2gjJB54qHeA3CDCMZU3N) | [The Count](https://open.spotify.com/artist/3XU5UXslhtah4HGOcZpD9O), [Sinden](https://open.spotify.com/artist/2ocxN5hH10NHQ8vNR7VkSi), [Kid Sister](https://open.spotify.com/artist/3FTzn86WmApHmwBMGVSEXE) | [Mega Mega Mega and Mega Remixes](https://open.spotify.com/album/1ntbRWmw3ELtUHcwpeU6o9) | 4:43 |

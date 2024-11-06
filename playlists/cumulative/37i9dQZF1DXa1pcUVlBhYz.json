@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Electronic + Dance making waves, every month. Cover: DJ E-Clyps",
+  "description": "Electronic + Dance making waves, every month. Cover: Jazzy & KILIMANJARO",
   "name": "Electronic + Dance Frequency",
   "tracks": [
     {
@@ -4322,7 +4322,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 277697,
       "name": "Mapanes",
       "url": "https://open.spotify.com/track/4NNETohGtnAT4znZqfOKfi"
@@ -4920,6 +4920,28 @@
       "duration_ms": 282640,
       "name": "Natives",
       "url": "https://open.spotify.com/track/6jtYFspv3oFdy6zwt8sKDb"
+    },
+    {
+      "album": {
+        "name": "Need I Say More",
+        "url": "https://open.spotify.com/album/4s5r0xB87oOlLo9jEJ57vp"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178893,
+      "name": "Need I Say More",
+      "url": "https://open.spotify.com/track/2UkRAahf0a1wvwxyfqbcLl"
     },
     {
       "album": {

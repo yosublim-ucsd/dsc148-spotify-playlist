@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 
 > ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Ramón Ayala en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,932 likes - 150 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,247 likes - 150 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 40 | [Mi Fantasía](https://open.spotify.com/track/7AXTS96xScRsYLzEQMaTNK) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Uniendo Fronteras](https://open.spotify.com/album/4dxX1ds6pw2Rqf2NIFPT4C) | 3:25 |
 | 41 | [Prenda Querida](https://open.spotify.com/track/7lCm29V5brfV81w1ytFwYZ) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Los Dos Amigos](https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc) | 3:03 |
 | 42 | [Y Por Esa Calle Vive](https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Y Por Esa Calle Vive](https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA) | 3:38 |
-| 43 | [Necesito Decirte](https://open.spotify.com/track/2b9rnsD5EzKMr6JBcNg7vE) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Las Número 1...](https://open.spotify.com/album/4L2iloO5OzK3bY8gqpnsrl) | 3:45 |
-| 44 | [La Troca Del Moño Negro](https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [El Tequilero](https://open.spotify.com/album/3I9ZxJI6RKfw6l9qq6f8DO) | 3:10 |
+| 43 | [La Troca Del Moño Negro](https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [El Tequilero](https://open.spotify.com/album/3I9ZxJI6RKfw6l9qq6f8DO) | 3:10 |
+| 44 | [Necesito Decirte](https://open.spotify.com/track/2b9rnsD5EzKMr6JBcNg7vE) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Las Número 1...](https://open.spotify.com/album/4L2iloO5OzK3bY8gqpnsrl) | 3:45 |
 | 45 | [El Rey De Mil Coronas](https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 3:10 |
 | 46 | [Carta Abierta](https://open.spotify.com/track/11gSQLPiqjikM2Dyg0EdUZ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Internacionalmente Norteños](https://open.spotify.com/album/7fhwdWmGl8rR2iVE6ivY42) | 2:52 |
 | 47 | [Mi Complemento](https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Mi Complemento](https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH) | 3:21 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 83 | [Un Rinconcito En El Cielo](https://open.spotify.com/track/3Bab8rkL9ByngZwofNYQkt) | [Eliseo Robles Y Los Barbaros Del Norte](https://open.spotify.com/artist/4NEmR7zH9rp0sqovTevYOq) | [20 Exitos Historia Musical](https://open.spotify.com/album/5PTwoe4hUdLUXKTeVTPTOv) | 3:40 |
 | 84 | [Amigos Tuve Una Novia](https://open.spotify.com/track/3Q5URFgTK8gBA7EwsSlatW) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [30 Primeros Exitos](https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf) | 3:37 |
 | 85 | [Eres Todo Todo](https://open.spotify.com/track/6xhqFPS9tznEWJa1FmXIQb) | [Fidencio Ayala y sus Satelites](https://open.spotify.com/artist/0bQFZX1WIJtzb7IIMQ8T3g) | [Eres Todo Todo](https://open.spotify.com/album/6ecfbZHxwKxhOMvFVDxosI) | 2:51 |
-| 86 | [El Perro De Tu Marido](https://open.spotify.com/track/4xv7mwcq6os6dO5l3TtRqS) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Norteño 2000](https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv) | 2:27 |
-| 87 | [Que Tristeza Me Acompaña](https://open.spotify.com/track/12lb8hUUEOihoN94n01UHw) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 2:26 |
+| 86 | [Que Tristeza Me Acompaña](https://open.spotify.com/track/12lb8hUUEOihoN94n01UHw) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 2:26 |
+| 87 | [El Perro De Tu Marido](https://open.spotify.com/track/4xv7mwcq6os6dO5l3TtRqS) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Norteño 2000](https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv) | 2:27 |
 | 88 | [Como Quisiera](https://open.spotify.com/track/2v3Ehmw1UQ3LcAWlywJNJU) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Cada Dia Mas](https://open.spotify.com/album/4ml7wBSms9VuXVR8KGKgdg) | 2:16 |
 | 89 | [Colgado De Un Árbol](https://open.spotify.com/track/2j5X89pGdAoI2OoXffzeqt) | [Los terribles Del Norte](https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT) | [Colgado De Un Árbol \(Versión Remasterizada\)](https://open.spotify.com/album/4h1FfxVfSqI7HI8ZHaoZJH) | 3:39 |
 | 90 | [Alta Y Delgadita](https://open.spotify.com/track/2oF3tfZb9B0xS9ilXzc65D) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [30 Primeros Exitos](https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf) | 3:05 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 92 | [Pero Esta Vez Lloré](https://open.spotify.com/track/1Wniq2BL6lBlmqVRtbcL2U) | [Ramon Ayala Jr.](https://open.spotify.com/artist/5Tk6wpyWDTfk9uCLJmtfZI) | [Lágrimas de Amor](https://open.spotify.com/album/5VJ36S10Y9X2saFbhDoKqZ) | 3:17 |
 | 93 | [Un Cariño Como Tú](https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño, Vol\. 2](https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R) | 2:47 |
 | 94 | [La Ley Del Desprecio](https://open.spotify.com/track/26hHEVYxsYzHT8LxQrg10f) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Solamente Tú](https://open.spotify.com/album/4AhiKYHqZBqVqoRHoBN5Ej) | 3:06 |
-| 95 | [El Chubasco](https://open.spotify.com/track/0ESzwDSlzdKpaJ6CkyAe5x) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 3:08 |
-| 96 | [Asi Fue](https://open.spotify.com/track/1CvmWRVOr6EUCDt1nmkWcN) | [Chuy Vega Y Los Nuevos Cadetes](https://open.spotify.com/artist/4z0bf5L3so06FIdkqprCnz) | [Puras de Juan Gabriel, vol\. 2](https://open.spotify.com/album/3vPgQxFr1vdoiKIdbtg911) | 4:40 |
+| 95 | [Asi Fue](https://open.spotify.com/track/1CvmWRVOr6EUCDt1nmkWcN) | [Chuy Vega Y Los Nuevos Cadetes](https://open.spotify.com/artist/4z0bf5L3so06FIdkqprCnz) | [Puras de Juan Gabriel, vol\. 2](https://open.spotify.com/album/3vPgQxFr1vdoiKIdbtg911) | 4:40 |
+| 96 | [El Chubasco](https://open.spotify.com/track/0ESzwDSlzdKpaJ6CkyAe5x) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 3:08 |
 | 97 | [Chiquilla Cariñosa \- Live At Nuevo León México / 2009](https://open.spotify.com/track/2iximC5NXwVzV9mgDQCUsk) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Catarino Leos](https://open.spotify.com/artist/6m7eLnlcA5i7bxAIsEmaxi) | [Desde La Cantina Vol\. II \(Live At Nuevo León México / 2009\)](https://open.spotify.com/album/4YdYOZk3r8RBMqCz06Xlqp) | 3:10 |
 | 98 | [Honrada](https://open.spotify.com/track/4IiuCoXvWHo8uoxvCYRJbD) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Los Canelos 17 Exitos](https://open.spotify.com/album/10NmPHQzeBxZf3ev0mNefY) | 2:36 |
 | 99 | [Ambicion](https://open.spotify.com/track/2ejgN52DP0gNCYXoGeEh6H) | [Los Humildes](https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm) | [Solo Lo Nuestro](https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM) | 3:18 |

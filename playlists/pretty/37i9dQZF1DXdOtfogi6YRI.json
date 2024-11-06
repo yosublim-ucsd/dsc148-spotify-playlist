@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Hubert.",
-  "num_followers": 18111,
+  "num_followers": 18113,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
+        "name": "Sogo",
+        "url": "https://open.spotify.com/album/0CCXO7HLWx00ZGGMtAoTDB"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "duration_ms": 150638,
+      "name": "Sogo",
+      "url": "https://open.spotify.com/track/2M8jdzfmhgvpuqryLsyTsR"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/0sozO4gKD2xTGZhuHGCF6C"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 253604,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/0OHydAhpZ3tcnvvNyG9M6C"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
-        "name": "Sogo",
-        "url": "https://open.spotify.com/album/0CCXO7HLWx00ZGGMtAoTDB"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        }
-      ],
-      "duration_ms": 150638,
-      "name": "Sogo",
-      "url": "https://open.spotify.com/track/2M8jdzfmhgvpuqryLsyTsR"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
+        "name": "Dzie\u0144",
+        "url": "https://open.spotify.com/album/2Di5GTWwlBbSCqUlrAAFKd"
+      },
+      "artists": [
+        {
+          "name": "Kamil Wrona",
+          "url": "https://open.spotify.com/artist/2ewJF8ZQ9MHv6Uljen8w8h"
+        },
+        {
+          "name": "Olga Oko\u0144",
+          "url": "https://open.spotify.com/artist/6G92WE7S7ghDg6h97hJqEn"
+        }
+      ],
+      "duration_ms": 209801,
+      "name": "Dzie\u0144",
+      "url": "https://open.spotify.com/track/7CsGNWI7nmh5uWiRuIXTdu"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
         "name": "PIEK\u0141O DLA DJ\u00d3W",
         "url": "https://open.spotify.com/album/126knzUZMhEKx6OMvPy2qP"
       },
@@ -1075,30 +1095,6 @@
       "duration_ms": 129520,
       "name": "PIEK\u0141O DLA DJ\u00d3W",
       "url": "https://open.spotify.com/track/6KIFackyhwdmyYwM4JsdT9"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
-        "name": "B\u0119dzie dobrze",
-        "url": "https://open.spotify.com/album/3XWNKLsR1FGaJaMmsAvgJ7"
-      },
-      "artists": [
-        {
-          "name": "TVB",
-          "url": "https://open.spotify.com/artist/194gAIlqoRQtBnToq45byL"
-        },
-        {
-          "name": "Guest Julka",
-          "url": "https://open.spotify.com/artist/7nmNPZucUmo9x6Mh5llOoZ"
-        },
-        {
-          "name": "Krzaquu",
-          "url": "https://open.spotify.com/artist/4nK9Szdh0NKJpySxhGEvfj"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "B\u0119dzie dobrze",
-      "url": "https://open.spotify.com/track/2mNLIVvraVC5ZOgly3IcFm"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1123,6 +1119,30 @@
       "duration_ms": 181383,
       "name": "HIP HOP",
       "url": "https://open.spotify.com/track/1Qpr06AZ9f5dBABLboy39j"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
+        "name": "B\u0119dzie dobrze",
+        "url": "https://open.spotify.com/album/3XWNKLsR1FGaJaMmsAvgJ7"
+      },
+      "artists": [
+        {
+          "name": "TVB",
+          "url": "https://open.spotify.com/artist/194gAIlqoRQtBnToq45byL"
+        },
+        {
+          "name": "Guest Julka",
+          "url": "https://open.spotify.com/artist/7nmNPZucUmo9x6Mh5llOoZ"
+        },
+        {
+          "name": "Krzaquu",
+          "url": "https://open.spotify.com/artist/4nK9Szdh0NKJpySxhGEvfj"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "B\u0119dzie dobrze",
+      "url": "https://open.spotify.com/track/2mNLIVvraVC5ZOgly3IcFm"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1167,26 +1187,6 @@
       "duration_ms": 173342,
       "name": "Off My Mind",
       "url": "https://open.spotify.com/track/1CahJRBO4FJBH902lTpXul"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
-        "name": "Dzie\u0144",
-        "url": "https://open.spotify.com/album/2Di5GTWwlBbSCqUlrAAFKd"
-      },
-      "artists": [
-        {
-          "name": "Kamil Wrona",
-          "url": "https://open.spotify.com/artist/2ewJF8ZQ9MHv6Uljen8w8h"
-        },
-        {
-          "name": "Olga Oko\u0144",
-          "url": "https://open.spotify.com/artist/6G92WE7S7ghDg6h97hJqEn"
-        }
-      ],
-      "duration_ms": 209801,
-      "name": "Dzie\u0144",
-      "url": "https://open.spotify.com/track/7CsGNWI7nmh5uWiRuIXTdu"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
+        "name": "WHOOP WHOOP",
+        "url": "https://open.spotify.com/album/19pclJrXhH67ncIWTtATPk"
+      },
+      "artists": [
+        {
+          "name": "Spectra",
+          "url": "https://open.spotify.com/artist/2JJM6C5XV1q6Pigdy5lGUp"
+        }
+      ],
+      "duration_ms": 117015,
+      "name": "WHOOP WHOOP",
+      "url": "https://open.spotify.com/track/1A4uMh4qfInD40KfFYimE7"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
         "name": "osiedle_sanpillon_mixtape_vol_I",
         "url": "https://open.spotify.com/album/1dBxrpFXL1aoF0jQXnP5PM"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 345384,
       "name": "skurwysyn_roku.mp3",
       "url": "https://open.spotify.com/track/2PPeWfSxzcW7ZQc0V6neoE"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
-        "name": "WHOOP WHOOP",
-        "url": "https://open.spotify.com/album/19pclJrXhH67ncIWTtATPk"
-      },
-      "artists": [
-        {
-          "name": "Spectra",
-          "url": "https://open.spotify.com/artist/2JJM6C5XV1q6Pigdy5lGUp"
-        }
-      ],
-      "duration_ms": 117015,
-      "name": "WHOOP WHOOP",
-      "url": "https://open.spotify.com/track/1A4uMh4qfInD40KfFYimE7"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1447,6 +1447,30 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
+        "name": "Jasny Obraz Ciemnych Czas\u00f3w",
+        "url": "https://open.spotify.com/album/4WowdtJBbEbVEJOaywqtSh"
+      },
+      "artists": [
+        {
+          "name": "Biak",
+          "url": "https://open.spotify.com/artist/6TgOhsXlg8Lnh2ZuQtSNFf"
+        },
+        {
+          "name": "Qzyn",
+          "url": "https://open.spotify.com/artist/6j7lZDN57Q5jWzKmVpL4Ob"
+        },
+        {
+          "name": "Dizkret",
+          "url": "https://open.spotify.com/artist/5r7hanNIrLe99HTjW5ksF5"
+        }
+      ],
+      "duration_ms": 185387,
+      "name": "RMLJHF",
+      "url": "https://open.spotify.com/track/3h1VqdlbgVsW7Sbcz4ll6o"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
         "name": "FALA MIXTAPE vol. 3",
         "url": "https://open.spotify.com/album/5NyVbn4kxfRLBUum2loW9h"
       },
@@ -1487,26 +1511,18 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "Jasny Obraz Ciemnych Czas\u00f3w",
-        "url": "https://open.spotify.com/album/4WowdtJBbEbVEJOaywqtSh"
+        "name": "\u015blepa kuchnia.",
+        "url": "https://open.spotify.com/album/2QNTmzl5fGcljZDfG8Dt7V"
       },
       "artists": [
         {
-          "name": "Biak",
-          "url": "https://open.spotify.com/artist/6TgOhsXlg8Lnh2ZuQtSNFf"
-        },
-        {
-          "name": "Qzyn",
-          "url": "https://open.spotify.com/artist/6j7lZDN57Q5jWzKmVpL4Ob"
-        },
-        {
-          "name": "Dizkret",
-          "url": "https://open.spotify.com/artist/5r7hanNIrLe99HTjW5ksF5"
+          "name": "\u2022 ukeboy \u2022",
+          "url": "https://open.spotify.com/artist/7wlmeZF1s7TOkDZVsLUYdR"
         }
       ],
-      "duration_ms": 185387,
-      "name": "RMLJHF",
-      "url": "https://open.spotify.com/track/3h1VqdlbgVsW7Sbcz4ll6o"
+      "duration_ms": 271445,
+      "name": "KLARA",
+      "url": "https://open.spotify.com/track/7yO5F8PJ5DeBektF5ByLl1"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1531,18 +1547,26 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "\u015blepa kuchnia.",
-        "url": "https://open.spotify.com/album/2QNTmzl5fGcljZDfG8Dt7V"
+        "name": "LE MANS",
+        "url": "https://open.spotify.com/album/5wHnAF7IR0WJG1CtnXx66D"
       },
       "artists": [
         {
-          "name": "\u2022 ukeboy \u2022",
-          "url": "https://open.spotify.com/artist/7wlmeZF1s7TOkDZVsLUYdR"
+          "name": "Barto Katt",
+          "url": "https://open.spotify.com/artist/6KIclEOBHyv3VbKqZ0P76W"
+        },
+        {
+          "name": "Soulpete",
+          "url": "https://open.spotify.com/artist/5ZdPxvZW2SJhHepZxAx7b5"
+        },
+        {
+          "name": "HVNCWOTY",
+          "url": "https://open.spotify.com/artist/2LKaqGRWCLeV1kksxNso8p"
         }
       ],
-      "duration_ms": 271445,
-      "name": "KLARA",
-      "url": "https://open.spotify.com/track/7yO5F8PJ5DeBektF5ByLl1"
+      "duration_ms": 138620,
+      "name": "LE MANS",
+      "url": "https://open.spotify.com/track/5ni0V8CSpmP8BkJvyccxj4"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1587,30 +1611,6 @@
       "duration_ms": 181160,
       "name": "Jak Wiatr",
       "url": "https://open.spotify.com/track/2OrxshZKgNCFlQkCP6sYth"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
-        "name": "LE MANS",
-        "url": "https://open.spotify.com/album/5wHnAF7IR0WJG1CtnXx66D"
-      },
-      "artists": [
-        {
-          "name": "Barto Katt",
-          "url": "https://open.spotify.com/artist/6KIclEOBHyv3VbKqZ0P76W"
-        },
-        {
-          "name": "Soulpete",
-          "url": "https://open.spotify.com/artist/5ZdPxvZW2SJhHepZxAx7b5"
-        },
-        {
-          "name": "HVNCWOTY",
-          "url": "https://open.spotify.com/artist/2LKaqGRWCLeV1kksxNso8p"
-        }
-      ],
-      "duration_ms": 138620,
-      "name": "LE MANS",
-      "url": "https://open.spotify.com/track/5ni0V8CSpmP8BkJvyccxj4"
     },
     {
       "added_at": "2024-10-25 15:02:36",

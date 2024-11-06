@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > the sweetest new indie pop, featuring Ziggy 2000 🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,363 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,371 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 35 | [Midnight Butterflies](https://open.spotify.com/track/5P59FNzxy0uvIL6ko4TL1C) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/23ruAnDa9DTJkOyHI68NPy) | 3:28 |
 | 36 | [projections](https://open.spotify.com/track/0ler9C55DJbLJsgJprlFis) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [projections](https://open.spotify.com/album/4DNu93MzQ2528TXBVJ0zEt) | 4:20 |
 | 37 | [The Hit](https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [The Hit](https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu) | 3:30 |
-| 38 | [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 |
-| 39 | [Anything](https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Anything](https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR) | 3:25 |
-| 40 | [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn) | 3:21 |
+| 38 | [Anything](https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Anything](https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR) | 3:25 |
+| 39 | [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn) | 3:21 |
+| 40 | [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 |
 | 41 | [Airplane](https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Romanticism](https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8) | 3:54 |
 | 42 | [Lungs](https://open.spotify.com/track/2GZfOep6Qzwlzdw5yOoSMA) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Lungs](https://open.spotify.com/album/3b5aMQuNlkUihH61tWfafr) | 3:40 |
 | 43 | [Boyfriend](https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Boyfriend](https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx) | 3:57 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 45 | [BIG BOYS CRY TOO](https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [BIG BOYS CRY TOO](https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo) | 3:25 |
 | 46 | [I Feel You](https://open.spotify.com/track/1FjrTr0IVabwKR93xUR6FS) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [I Feel You](https://open.spotify.com/album/5nO3sdRL4yMFlmFtl7TMJB) | 2:36 |
 | 47 | [everything about her](https://open.spotify.com/track/4cQ2xighvUJyg7DHpzySPu) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [everything about her](https://open.spotify.com/album/13rfoNMlBqL3ZTxOqiGLGk) | 2:51 |
-| 48 | [Good Riddance](https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Good Riddance](https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL) | 2:51 |
-| 49 | [Use Me](https://open.spotify.com/track/2JNyAzlRgfcxfwCCf8Ayo5) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Use Me](https://open.spotify.com/album/1Ay2dHPKk5NPtsAJwUvS2V) | 3:39 |
+| 48 | [Use Me](https://open.spotify.com/track/2JNyAzlRgfcxfwCCf8Ayo5) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Use Me](https://open.spotify.com/album/1Ay2dHPKk5NPtsAJwUvS2V) | 3:39 |
+| 49 | [Good Riddance](https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Good Riddance](https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL) | 2:51 |
 | 50 | [Don't Miss It.](https://open.spotify.com/track/0RayQ84I4gGgPtb0PmZEeY) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq) | [Don't Miss It.](https://open.spotify.com/album/5VvA1wrLCjFVCaj7jALPPQ) | 3:10 |
 | 51 | [If I Was Abducted By Aliens](https://open.spotify.com/track/7cgwbjiVtsfFSYYsrpOsPI) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [If I Was Abducted By Aliens](https://open.spotify.com/album/2P7F7SSH9F2wv70Ii7v5VE) | 2:46 |
 | 52 | [Shell \(with Jordana\)](https://open.spotify.com/track/7gqTEjr68W4i8fSX1wD0wF) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Got Him! \(Deluxe\)](https://open.spotify.com/album/2ayt7xGA3amKG61ZTNThv7) | 2:19 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 73 | [Found The 1](https://open.spotify.com/track/1VaaMp66mFlNF3vaMiZIZC) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [HOKAGE \- THE MIXTAPE](https://open.spotify.com/album/6ZpbWiHfm0u6lmCzgE82GR) | 2:27 |
 | 74 | [Brother](https://open.spotify.com/track/2OW2UL12X7vzpd2TRHw5Et) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Brother](https://open.spotify.com/album/03riWRKUyOb4WIpmMRRWnG) | 3:26 |
 | 75 | [My Head's In A Hurricane](https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Life Is A Killer](https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP) | 3:23 |
-| 76 | [Now That I Know You](https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Now That I Know You](https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7) | 3:46 |
-| 77 | [it's all good, kid](https://open.spotify.com/track/7aXRVnt0C9oRVbsUbyqpGA) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [it's all good, kid](https://open.spotify.com/album/1NUt7ECqlg5Zjmi5Unkmaq) | 2:54 |
+| 76 | [it's all good, kid](https://open.spotify.com/track/7aXRVnt0C9oRVbsUbyqpGA) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [it's all good, kid](https://open.spotify.com/album/1NUt7ECqlg5Zjmi5Unkmaq) | 2:54 |
+| 77 | [Now That I Know You](https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Now That I Know You](https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7) | 3:46 |
 | 78 | [sprinkles](https://open.spotify.com/track/1X7zU3V1TDVhqM253XcIV7) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [sprinkles](https://open.spotify.com/album/6JPFvDl16Wh4iTm69fYpNs) | 4:33 |
 | 79 | [Like Honey](https://open.spotify.com/track/2BHjccS8tjcww3NwIgbMIz) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi) | [Like Honey](https://open.spotify.com/album/0trNw0ZdkN4za0xh96II1F) | 3:28 |
 | 80 | [What Have I Become?](https://open.spotify.com/track/08MQRS8nISdiYeZq4Dq2I8) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx) | [Different This Time?](https://open.spotify.com/album/67DJaYzEwXwfJ4ofIF3QaC) | 3:09 |

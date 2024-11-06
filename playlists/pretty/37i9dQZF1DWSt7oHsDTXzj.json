@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 179890,
+  "num_followers": 179956,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Surfing in Iceland",
-        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
+        "name": "Day After Tomorrow",
+        "url": "https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7"
       },
       "artists": [
         {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 272000,
-      "name": "Surfing in Iceland",
-      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
+      "duration_ms": 365141,
+      "name": "Day After Tomorrow",
+      "url": "https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Day After Tomorrow",
-        "url": "https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7"
+        "name": "Surfing in Iceland",
+        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
         }
       ],
-      "duration_ms": 365141,
-      "name": "Day After Tomorrow",
-      "url": "https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf"
+      "duration_ms": 272000,
+      "name": "Surfing in Iceland",
+      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "A Very Lonely Solstice",
-        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "I'm Not My Season - Solstice Version",
-      "url": "https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Hours Were the Birds",
         "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 236586,
       "name": "Snow Song",
       "url": "https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "A Very Lonely Solstice",
+        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "I'm Not My Season - Solstice Version",
+      "url": "https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "When Christmas Comes Again",
+        "url": "https://open.spotify.com/album/1Vw3Muq7BgvhYF5eLL5fjD"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 197787,
+      "name": "When Christmas Comes Again",
+      "url": "https://open.spotify.com/track/19Gx7n7xkTJ29rA8990QKx"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "Edits",
         "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 213783,
       "name": "This December - slow",
       "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "When Christmas Comes Again",
-        "url": "https://open.spotify.com/album/1Vw3Muq7BgvhYF5eLL5fjD"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 197787,
-      "name": "When Christmas Comes Again",
-      "url": "https://open.spotify.com/track/19Gx7n7xkTJ29rA8990QKx"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "ugly xmas sweater party",
+        "url": "https://open.spotify.com/album/42SBvg1Vs8eMGAILnG4hSI"
+      },
+      "artists": [
+        {
+          "name": "girlhouse",
+          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "ugly xmas sweater party",
+      "url": "https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "We Should Be Together",
         "url": "https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2"
       },
@@ -899,22 +915,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "ugly xmas sweater party",
-        "url": "https://open.spotify.com/album/42SBvg1Vs8eMGAILnG4hSI"
-      },
-      "artists": [
-        {
-          "name": "girlhouse",
-          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "ugly xmas sweater party",
-      "url": "https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Carol Of The Bells",
         "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 193379,
       "name": "Carol Of The Bells",
       "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "baby jesus is nobody's baby now",
-        "url": "https://open.spotify.com/album/54ech4ihgHD7emD0ucycog"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 215065,
-      "name": "baby jesus is nobody's baby now",
-      "url": "https://open.spotify.com/track/2jIl85mZ8SfSh5INnOPXfv"
     },
     {
       "added_at": "2023-12-08 17:43:39",
@@ -1015,6 +999,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "baby jesus is nobody's baby now",
+        "url": "https://open.spotify.com/album/54ech4ihgHD7emD0ucycog"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 215065,
+      "name": "baby jesus is nobody's baby now",
+      "url": "https://open.spotify.com/track/2jIl85mZ8SfSh5INnOPXfv"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "Christmas (Baby Please Come Home) - Recorded At Electric Lady Studios NYC",
         "url": "https://open.spotify.com/album/7L7nmx23fd3TOd2DlqvZGF"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "HARK!",
-        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 211346,
-      "name": "Christmas In April",
-      "url": "https://open.spotify.com/track/0Af4dYxE130GzSUNMvkQty"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Cozy Christmas / December Baby",
         "url": "https://open.spotify.com/album/5eDRhqqR5tmiPnrUfCdLRe"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 237953,
       "name": "Cozy Christmas",
       "url": "https://open.spotify.com/track/1QnbWxNrVX5IlF7GeWqkZR"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "HARK!",
+        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 211346,
+      "name": "Christmas In April",
+      "url": "https://open.spotify.com/track/0Af4dYxE130GzSUNMvkQty"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "I Can't Handle Change",
-        "url": "https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d"
-      },
-      "artists": [
-        {
-          "name": "Roar",
-          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
-        }
-      ],
-      "duration_ms": 135693,
-      "name": "Christmas Kids",
-      "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Christmas Eve (Soul Purpose) / It\u2019s Going To Be A Cold Winter",
         "url": "https://open.spotify.com/album/59LBLGqfxMTSXuLmMmGsIT"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "I Can't Handle Change",
+        "url": "https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d"
+      },
+      "artists": [
+        {
+          "name": "Roar",
+          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
+        }
+      ],
+      "duration_ms": 135693,
+      "name": "Christmas Kids",
+      "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "Santa Baby (Recorded at Strongroom Studios London)",
         "url": "https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ"
       },
@@ -1187,6 +1187,22 @@
       "duration_ms": 163741,
       "name": "Santa Baby - Recorded at Strongroom Studios London",
       "url": "https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Marshmallow World",
+        "url": "https://open.spotify.com/album/7lrmUFv0Or4AtdysLgj7Fi"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 146491,
+      "name": "Marshmallow World",
+      "url": "https://open.spotify.com/track/4mdVkJdWmb50glN1NFbUOb"
     },
     {
       "added_at": "2024-01-03 20:06:55",
@@ -1219,22 +1235,6 @@
       "duration_ms": 272266,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "Marshmallow World",
-        "url": "https://open.spotify.com/album/7lrmUFv0Or4AtdysLgj7Fi"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 146491,
-      "name": "Marshmallow World",
-      "url": "https://open.spotify.com/track/4mdVkJdWmb50glN1NFbUOb"
     }
   ],
   "unique_name": "Indie Christmas",

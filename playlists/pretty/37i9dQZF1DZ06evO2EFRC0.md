@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 
 > This is Marcos Witt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,666 likes - 51 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,677 likes - 51 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 20 | [Sana Nuestra Tierra](https://open.spotify.com/track/6viyvAwhF791gksn4WBvcJ) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sana Nuestra Tierra](https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh) | 6:12 |
 | 21 | [Santo Río de Dios](https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Santo Río de Dios](https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM) | 5:01 |
 | 22 | [Yo te Busco](https://open.spotify.com/track/4m9mDIdKZuiV1RWKQTQe6P) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [25 Concierto Conmemorativo \(En Vivo\)](https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe) | 3:42 |
-| 23 | [Porque Tú Eres bueno](https://open.spotify.com/track/6MRlSkOGex4cx3fcusHFtU) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Proyecto AA](https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU) | 2:45 |
-| 24 | [Al que es Digno](https://open.spotify.com/track/14ZqaxUjFW2Fhq5CcJ5mhm) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Venció](https://open.spotify.com/album/4rhVnJvuqXXEnaTbH3EaWw) | 4:08 |
+| 23 | [Al que es Digno](https://open.spotify.com/track/14ZqaxUjFW2Fhq5CcJ5mhm) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Venció](https://open.spotify.com/album/4rhVnJvuqXXEnaTbH3EaWw) | 4:08 |
+| 24 | [Porque Tú Eres bueno](https://open.spotify.com/track/6MRlSkOGex4cx3fcusHFtU) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Proyecto AA](https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU) | 2:45 |
 | 25 | [Dios ha sido bueno](https://open.spotify.com/track/7dhiLa8Fvcdhzs6cpC4Osp) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [En adoración](https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD) | 7:17 |
 | 26 | [Es Posible](https://open.spotify.com/track/0uybu0niD36vI134J5nqNz) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 4:01 |
 | 27 | [Acuérdate Oh Señor](https://open.spotify.com/track/72MDIg327QKuytMEGh1nCa) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sana Nuestra Tierra](https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh) | 4:10 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 31 | [A Ti](https://open.spotify.com/track/0c6NEpsdc4nvAI93IFWTxI) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Poderoso](https://open.spotify.com/album/4buWEkWMs4uNIJpIZdQNJ9) | 4:20 |
 | 32 | [Simplemente Gracias](https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 5:25 |
 | 33 | [Lléname Señor](https://open.spotify.com/track/7qKZKJfitLRRA4O6ZBCTs7) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu y Yo](https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx) | 3:47 |
-| 34 | [Coritos \(En Vivo\)](https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Coritos \(En Vivo\)](https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k) | 11:27 |
-| 35 | [Quiero Levantar mis Manos](https://open.spotify.com/track/3F3cpazSaWY0DCb6XjSBd9) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Proyecto AA](https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU) | 4:28 |
+| 34 | [Quiero Levantar mis Manos](https://open.spotify.com/track/3F3cpazSaWY0DCb6XjSBd9) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Proyecto AA](https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU) | 4:28 |
+| 35 | [Coritos \(En Vivo\)](https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Coritos \(En Vivo\)](https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k) | 11:27 |
 | 36 | [Poderoso Dios](https://open.spotify.com/track/4eMnZja2FGmWuagYRLrQBw) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sobrenatural](https://open.spotify.com/album/1EDofreiBInsrMtMbpt7hL) | 7:54 |
 | 37 | [Renuévame](https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Lo Mejor de Instrumentales](https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q) | 3:42 |
 | 38 | [A Quien Iré](https://open.spotify.com/track/6bjDSczvenKmtEqLJAiftS) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [El Volverá](https://open.spotify.com/album/4fzp1eex4YNmJaaPJR8aiQ) | 5:29 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 50 | [Sigues Siendo Dios \- En Vivo](https://open.spotify.com/track/7ixh37GsLjSFgUuZpt77eX) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sigues Siendo Dios \(En Vivo\)](https://open.spotify.com/album/053ovbmjuMUiTEQ6QKAfm5) | 4:46 |
 | 51 | [Tu amor por Mi](https://open.spotify.com/track/2bWQuqMF3uxDIzTi1DRjXT) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Lo Mejor de Instrumentales](https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q) | 3:23 |
 
-Snapshot ID: `Zya9AAAAAAD0jEfba2h6B4sJJmd/V0P5`
+Snapshot ID: `ZygOgAAAAACwQk7YOAN2u/8ao5Q+rEkx`

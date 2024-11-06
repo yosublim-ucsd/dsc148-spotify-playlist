@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, updated monthly by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 16,191 likes - 102 songs - 5 hr 45 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 16,189 likes - 102 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 101 | [Nobody Will Love You](https://open.spotify.com/track/3XPhAWvew0t2bKo8lN2Iof) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [Nobody Will Love You](https://open.spotify.com/album/3VBIC4ZGoal7zLBcEPnDmk) | 3:50 |
 | 102 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 |
 
-Snapshot ID: `AAAYhTNyOQ3/THjYYtjyXiMnPh73CMou`
+Snapshot ID: `AAAYh7yCYJ02OJU8K9kgpLve1UazR0jF`

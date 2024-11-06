@@ -1,6 +1,6 @@
 {
   "description": "\u5973\u6027\u30dd\u30c3\u30d7\u30a2\u30a4\u30b3\u30f3\u306e\u540d\u66f2\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Halsey",
-  "num_followers": 36720,
+  "num_followers": 36723,
   "original_name": "Girl On Fire",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-10-31 15:00:00",
       "album": {
+        "name": "Aquamarine",
+        "url": "https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 162814,
+      "name": "Aquamarine",
+      "url": "https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA"
+    },
+    {
+      "added_at": "2024-10-31 15:00:00",
+      "album": {
         "name": "Talk talk featuring troye sivan",
         "url": "https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj"
       },
@@ -799,38 +815,18 @@
     {
       "added_at": "2024-10-31 15:00:00",
       "album": {
-        "name": "KEHLANI (REMIX) [feat. Kehlani]",
-        "url": "https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ"
+        "name": "You're Losing Me (From The Vault)",
+        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
       },
       "artists": [
         {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 179974,
-      "name": "KEHLANI (REMIX) [feat. Kehlani]",
-      "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
-    },
-    {
-      "added_at": "2024-10-31 15:00:00",
-      "album": {
-        "name": "Aquamarine",
-        "url": "https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 162814,
-      "name": "Aquamarine",
-      "url": "https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA"
+      "duration_ms": 277831,
+      "name": "You\u2019re Losing Me (From The Vault)",
+      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
     },
     {
       "added_at": "2024-10-31 15:00:00",
@@ -867,18 +863,22 @@
     {
       "added_at": "2024-10-31 15:00:00",
       "album": {
-        "name": "You're Losing Me (From The Vault)",
-        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
+        "name": "KEHLANI (REMIX) [feat. Kehlani]",
+        "url": "https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 277831,
-      "name": "You\u2019re Losing Me (From The Vault)",
-      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
+      "duration_ms": 179974,
+      "name": "KEHLANI (REMIX) [feat. Kehlani]",
+      "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
     },
     {
       "added_at": "2024-10-31 15:00:00",
@@ -915,6 +915,22 @@
       "duration_ms": 215583,
       "name": "Finally",
       "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
+    },
+    {
+      "added_at": "2024-10-31 15:00:00",
+      "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "We Are Never Ever Getting Back Together (Taylor's Version)",
+      "url": "https://open.spotify.com/track/5YqltLsjdqFtvqE7Nrysvs"
     },
     {
       "added_at": "2024-10-31 15:00:00",
@@ -987,18 +1003,18 @@
     {
       "added_at": "2024-10-31 15:00:00",
       "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+        "name": "\u6669\u9910\u6b4c",
+        "url": "https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
         }
       ],
-      "duration_ms": 193146,
-      "name": "We Are Never Ever Getting Back Together (Taylor's Version)",
-      "url": "https://open.spotify.com/track/5YqltLsjdqFtvqE7Nrysvs"
+      "duration_ms": 215853,
+      "name": "\u6669\u9910\u6b4c",
+      "url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu"
     },
     {
       "added_at": "2024-10-31 15:00:00",
@@ -1015,22 +1031,6 @@
       "duration_ms": 193666,
       "name": "weren't for the wind",
       "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
-    },
-    {
-      "added_at": "2024-10-31 15:00:00",
-      "album": {
-        "name": "\u6669\u9910\u6b4c",
-        "url": "https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "\u6669\u9910\u6b4c",
-      "url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu"
     },
     {
       "added_at": "2024-10-31 15:00:00",

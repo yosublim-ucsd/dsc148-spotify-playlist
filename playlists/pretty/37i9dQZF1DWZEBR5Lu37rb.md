@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,929 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,990 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 30 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 |
 | 31 | [Suited](https://open.spotify.com/track/1ANr6ZNtwd8klYxYdXLR7t) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Rose Gold](https://open.spotify.com/album/0iGhXnhrNFxaSnZN0CK6ML) | 3:53 |
 | 32 | [Ngiyaz'fela Ngawe \(feat\. Thabsie\)](https://open.spotify.com/track/1un5fgTEsqfK5VSzDlDggU) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Thabsie](https://open.spotify.com/artist/1NxUAhBblIWiJcJOKw3am3) | [DaKAR II](https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC) | 5:28 |
-| 33 | [Ngimtholile](https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt) | [Maverick Muji](https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o), [Nonny](https://open.spotify.com/artist/2E5AfaDEL93X1TicLkBO2G) | [Ngimtholile](https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP) | 4:04 |
-| 34 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 |
+| 33 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 |
+| 34 | [Ngimtholile](https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt) | [Maverick Muji](https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o), [Nonny](https://open.spotify.com/artist/2E5AfaDEL93X1TicLkBO2G) | [Ngimtholile](https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP) | 4:04 |
 | 35 | [Let Me Love You Now](https://open.spotify.com/track/6EOTIOmlG2jZDw69KMmAH1) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 3:47 |
 | 36 | [Can't Let You Go \(feat\. King Promise\)](https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:43 |
 | 37 | [Umbayimbayi](https://open.spotify.com/track/1bmZLmDu9jkzwHInzPsYLD) | [Inkabi Zezwe](https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Ukhamba](https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP) | 3:50 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 77 | [Number One](https://open.spotify.com/track/2dwGGWdVf8aeA1EPpE5qf7) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Number One](https://open.spotify.com/album/6BrOCsoGXHrKUYDcdWB7or) | 3:11 |
 | 78 | [Kookoo](https://open.spotify.com/track/5T5BqyMPNjS6t7booTFulF) | [Elani](https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26) | [Barua ya Dunia](https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z) | 4:14 |
 | 79 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 |
-| 80 | [Line Of Fire](https://open.spotify.com/track/5PNiPY563OVES8nkdKZ516) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Gbagada Express Vol 2: Moving Mad](https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p) | 4:15 |
-| 81 | [Me Ne Woa](https://open.spotify.com/track/4iKbFZqn3GWffFZGGrczpC) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Me Ne Woa](https://open.spotify.com/album/7bnH1nS04TKA0a54f7OLwi) | 3:40 |
+| 80 | [Me Ne Woa](https://open.spotify.com/track/4iKbFZqn3GWffFZGGrczpC) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Me Ne Woa](https://open.spotify.com/album/7bnH1nS04TKA0a54f7OLwi) | 3:40 |
+| 81 | [Line Of Fire](https://open.spotify.com/track/5PNiPY563OVES8nkdKZ516) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Gbagada Express Vol 2: Moving Mad](https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p) | 4:15 |
 | 82 | [Zodwa](https://open.spotify.com/track/4jsiLFfKYs4aohxVmEiv5B) | [Joe Nina](https://open.spotify.com/artist/0uKndkSvFjmZxg61p1YLEs) | [Mababaza](https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt) | 4:09 |
 | 83 | [Uliza Kiatu](https://open.spotify.com/track/2jpPjMCRGg976CM9VuhkEg) | [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1) | [Uliza Kiatu](https://open.spotify.com/album/02iYIjv0w9avU0ievBGw2p) | 4:18 |
 | 84 | [Angel Of Mine](https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 3:15 |

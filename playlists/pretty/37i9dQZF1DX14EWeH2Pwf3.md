@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Capo Plaza in cover della playlist urban più grande in Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,020 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,155 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Borse Hermès](https://open.spotify.com/track/1MRDqKrcGYLw883LuVmDjy) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Borse Hermès](https://open.spotify.com/album/4K4WFgRUEfOrPD4ioCBppM) | 2:39 |
+| 1 | [Borse Hermès](https://open.spotify.com/track/1MRDqKrcGYLw883LuVmDjy) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Borse Hermès](https://open.spotify.com/album/4K4WFgRUEfOrPD4ioCBppM) | 2:40 |
 | 2 | [MI PIACCIONO LE ARMI](https://open.spotify.com/track/3yFgWoossjlaJ919XDCG4C) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [ESCI DAL TUNNEL](https://open.spotify.com/album/5fPfDmHygWKgDwknMkKoVo) | 2:09 |
 | 3 | [S.X.S.I.C.](https://open.spotify.com/track/3PDMXI7XWkuPOxZ1uNB5O7) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Tutti i Nomi del Diavolo](https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ) | 3:20 |
 | 4 | [1 MOMENTO \(feat\. ANNA\)](https://open.spotify.com/track/6OCnAtM8oa0JymErlTYXxG) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASTRO](https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG) | 2:56 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 28 | [Pluh](https://open.spotify.com/track/326ALxsYnYfrZcIzOFvsIT) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 2:43 |
 | 29 | [CHIARA](https://open.spotify.com/track/6SVpLJB1wm9OAbAjPt48hj) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [CHIARA](https://open.spotify.com/album/1reoBnQ4RB5hBB2EVFUIzm) | 2:29 |
 | 30 | [\-3 \(PERDERE IL VOLO\) \(feat\. Marracash\)](https://open.spotify.com/track/5IiXZCAsi29TOtY3rbmKOo) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 2:59 |
-| 31 | [Il Tempo Cura](https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Il Tempo Cura](https://open.spotify.com/album/16t4humL85l0QvihcPSYRN) | 2:32 |
+| 31 | [Il tempo cura](https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Il tempo cura](https://open.spotify.com/album/16t4humL85l0QvihcPSYRN) | 2:32 |
 | 32 | [EL PIBE DE ORO](https://open.spotify.com/track/2bkz0YDgPTNOto5OhskjbS) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [EL PIBE DE ORO](https://open.spotify.com/album/78Ziu5LJzQEHNrjgW9t1D4) | 2:35 |
 | 33 | [Take 5](https://open.spotify.com/track/6H1DuBy9TBVECpECPCzm03) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 5](https://open.spotify.com/album/2phJY3CjRbyx4DUaPY7lRO) | 3:11 |
 | 34 | [64 BARRE IN FACCIA \(Red Bull 64 Bars\)](https://open.spotify.com/track/1oBM9JTuD0wqfVQ8iuLjLQ) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB) | [64 BARRE IN FACCIA \(Red Bull 64 Bars\)](https://open.spotify.com/album/1myCEAZlP8KQeTwNc3XVtb) | 2:55 |

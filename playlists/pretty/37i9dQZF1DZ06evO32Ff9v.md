@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,629 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,663 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 11 | [Dicen Que Soy Belicon](https://open.spotify.com/track/1FjWaxfDLfcvJjA5TDZTPc) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Dicen Que Soy Belicon](https://open.spotify.com/album/2Qk2i6CreCzTWRIs9B8b8a) | 3:06 |
 | 12 | [El Fulano](https://open.spotify.com/track/5WvnjvR7hKpzFbiMORlehl) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya) | [El Fulano](https://open.spotify.com/album/000CeVlRllkXCfRAt5Ivll) | 2:22 |
 | 13 | [3 Hectáreas y Media \(En Vivo\)](https://open.spotify.com/track/0Q5oW0YE1kUmfYFCetQvGz) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [3 Hectáreas y Media \(En Vivo\)](https://open.spotify.com/album/3s6AnnMfnUHUVW26oI2wOQ) | 3:25 |
-| 14 | [El Tony](https://open.spotify.com/track/2H8NfRvMm7sBJBmjSxJimb) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 1:58 |
-| 15 | [De Que Puedo Puedo](https://open.spotify.com/track/3qnCn9WImrTRRaqIxC6WIN) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [De Que Puedo Puedo](https://open.spotify.com/album/6is3m2C4CjKBQzjm36VPR0) | 2:53 |
+| 14 | [De Que Puedo Puedo](https://open.spotify.com/track/3qnCn9WImrTRRaqIxC6WIN) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [De Que Puedo Puedo](https://open.spotify.com/album/6is3m2C4CjKBQzjm36VPR0) | 2:53 |
+| 15 | [El Tony](https://open.spotify.com/track/2H8NfRvMm7sBJBmjSxJimb) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 1:58 |
 | 16 | [El Gavilan](https://open.spotify.com/track/0lEQnz93VXhVF6HbvJXz2i) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Gavilan](https://open.spotify.com/album/0Cu8nEVSknHly3symzeUzW) | 3:20 |
 | 17 | [El Ahuate](https://open.spotify.com/track/2hTWTQ3kXZVl2KTzBxqYBr) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 4:30 |
-| 18 | [Vivo Alegre](https://open.spotify.com/track/7v4DwHg2BsIFM5qoxqv2PF) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 2:16 |
-| 19 | [El Mando](https://open.spotify.com/track/6Zeams0oSJ5cxadvaXGT1O) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Mando](https://open.spotify.com/album/1JNCWDC8UEJAjXz8vZ05mQ) | 3:37 |
+| 18 | [El Mando](https://open.spotify.com/track/6Zeams0oSJ5cxadvaXGT1O) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Mando](https://open.spotify.com/album/1JNCWDC8UEJAjXz8vZ05mQ) | 3:37 |
+| 19 | [Vivo Alegre](https://open.spotify.com/track/7v4DwHg2BsIFM5qoxqv2PF) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 2:16 |
 | 20 | [Señor Miedo](https://open.spotify.com/track/3G5meYRoaJZ75cD1JUxUU6) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Señor Miedo](https://open.spotify.com/album/6erc20YBqIjgK1JaOaLnPb) | 3:52 |
 | 21 | [El Vato \(En Vivo\)](https://open.spotify.com/track/6QauXHKPLrGofZOGbRCUxj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Vato \(En Vivo\)](https://open.spotify.com/album/2wJN4x5LoCqaUh2AVAmbb6) | 3:11 |
 | 22 | [El Halcon](https://open.spotify.com/track/6XlkDOzPNCvBhrBRMEgpK9) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Halcon](https://open.spotify.com/album/1qgHPNs3Yz5aTKZXTc6Ycy) | 3:44 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 32 | [Estratega de Guerra](https://open.spotify.com/track/3npSHShqRhlhMSK1NuL3xm) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 4:07 |
 | 33 | [El Michoacano](https://open.spotify.com/track/0W3reeRq2mS49FCo8bRzGY) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [No Ando Solo](https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e) | 3:44 |
 | 34 | [Muchas Gracias Chavalones \(En Vivo\)](https://open.spotify.com/track/1BlDvvKfBQZZn2wnJdUshp) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Muchas Gracias Chavalones \(En Vivo\)](https://open.spotify.com/album/7nTD2z80D62N6JoyPtVjZA) | 3:48 |
-| 35 | [Sacandole Cuentas](https://open.spotify.com/track/2Kq027U4uFxcbMolvib7Nw) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Sacandole Cuentas](https://open.spotify.com/album/0vlcVWWLFeHE40u4oDKHdt) | 4:13 |
-| 36 | [El De Las Plumas \- En Vivo](https://open.spotify.com/track/2rhvsaKiqg0lZiLMv8h8zM) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El De Las Plumas \(En Vivo\)](https://open.spotify.com/album/6BbEuFpMlAZVTnDwzHFg7k) | 2:59 |
+| 35 | [El De Las Plumas \- En Vivo](https://open.spotify.com/track/2rhvsaKiqg0lZiLMv8h8zM) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El De Las Plumas \(En Vivo\)](https://open.spotify.com/album/6BbEuFpMlAZVTnDwzHFg7k) | 2:59 |
+| 36 | [Sacandole Cuentas](https://open.spotify.com/track/2Kq027U4uFxcbMolvib7Nw) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Sacandole Cuentas](https://open.spotify.com/album/0vlcVWWLFeHE40u4oDKHdt) | 4:13 |
 | 37 | [El Solo](https://open.spotify.com/track/4AgHqLbnX7ehrde8SmToql) | [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Solo](https://open.spotify.com/album/4Uq0cbdFneEV76KBoZI2vO) | 3:27 |
 | 38 | [Los Espino](https://open.spotify.com/track/6udYryoxHPDExdMTpdF1lE) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 2:46 |
 | 39 | [El Tinguaraque](https://open.spotify.com/track/1vElaVQ3B3USb3eWf69jrH) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 49 | [El Chepis](https://open.spotify.com/track/443kLF00XD6aHnaoHMesHm) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Chepis](https://open.spotify.com/album/6YMnVFAOkAg7dMJytIcG7v) | 3:13 |
 | 50 | [El Pata](https://open.spotify.com/track/0vZ7HkpXPwnFbyMj5CD478) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Pata](https://open.spotify.com/album/2qRxzGDSGQhV5ukZaykWvr) | 2:23 |
 
-Snapshot ID: `Zya9AAAAAADNTTIRn/kk2dUctufvsnEm`
+Snapshot ID: `ZygOgAAAAACXaR/0yrvVwAvwGCWPkG2L`

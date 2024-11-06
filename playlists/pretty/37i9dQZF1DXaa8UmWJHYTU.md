@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa8UmWJHYTU.md) - [plain]
 
 > Crackling and popping sounds of fireplaces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,184 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,334 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,25 +63,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa8UmWJHYTU.md) - [plain]
 | 53 | [Peaceful Country Fire](https://open.spotify.com/track/4y2R8OtHaRDyBLiIZ1bnin) | [Bristle Sweeps](https://open.spotify.com/artist/3jt28JqrYGXknWSnuU4Xzk) | [Peaceful Country Fire](https://open.spotify.com/album/4ra4Lh5XiGz0DxW7h395Uz) | 2:24 |
 | 54 | [Llamas Calmantes](https://open.spotify.com/track/1vjWahaOQYYNc2fjyWJLdS) | [Calor Malvado](https://open.spotify.com/artist/2KBlE7vqrHghTXzMP1jgwK) | [Ruido de Chimenea](https://open.spotify.com/album/24uCwkr3AxyqxWRJXDnWP9) | 3:05 |
 | 55 | [Slept Like A Log](https://open.spotify.com/track/3I2HKmtAHRUF0WRcxzb5SX) | [Tranquility Sound Machine](https://open.spotify.com/artist/7rdHn837SCQCIZ1HOQsJsj) | [Slept Like A Log](https://open.spotify.com/album/1qMKC9gOdCyIabDoJYMPvv) | 3:10 |
-| 56 | [Cave Campfire](https://open.spotify.com/track/1H4Cloc0B4i1VEtZ8aLvcf) | [Emberly Ash](https://open.spotify.com/artist/0Nyxj4C0GUNOf7tR7cxGRm) | [Cave Campfire](https://open.spotify.com/album/3NfPg0I2Dmp1gmGRbjIDyG) | 2:12 |
-| 57 | [Glowing Ashes](https://open.spotify.com/track/5D1BqKyvGVCQinZeC9Uq2r) | [Atmospheric Endeavors](https://open.spotify.com/artist/3TNKOriU72JCIKSKVaebNC) | [Fire Comfort](https://open.spotify.com/album/2HMdssLELi9Qmd9W5HWZyW) | 2:28 |
-| 58 | [Warm Dreams](https://open.spotify.com/track/2BrFiOzCDW5VBpd2Qok68p) | [Varuna Recordings](https://open.spotify.com/artist/14PnfeDCdj2PHrVMzTTddV) | [Warm Dreams](https://open.spotify.com/album/4RuCk0On70MP7tvXMd8GLJ) | 3:04 |
-| 59 | [Burning Flames](https://open.spotify.com/track/71clshG3c3OHNS1fJN64NB) | [Light Flame Lullaby](https://open.spotify.com/artist/5WzNgIVaWIBINc0KZNLay4) | [Burning Flames](https://open.spotify.com/album/0WBeT1ghgE3yeGUqcnu9fD) | 2:41 |
-| 60 | [Birch Wood Fireplace](https://open.spotify.com/track/1bZEpPCZ2qZZFU6yshhK4H) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Kindred Forest](https://open.spotify.com/album/5NnrbMRDK7f9altIJp0NhY) | 3:02 |
-| 61 | [Fire It Up](https://open.spotify.com/track/0QVMpB2XtxORSGeEQQ9iLS) | [My Cozy Heat](https://open.spotify.com/artist/4X6uyTlH2FvQLwY0wbnuEM) | [Fire It Up](https://open.spotify.com/album/77sDgvChjJ6Tn7NvPmZ4LG) | 2:50 |
-| 62 | [Steady Fire](https://open.spotify.com/track/7BwLybdFn9kHQTOEEggWyQ) | [Firement](https://open.spotify.com/artist/5k1ztv8OrzrXDwO7hGac31) | [Fireplace Noise](https://open.spotify.com/album/6um6zi0uEm3LzDUnA6RpfM) | 3:03 |
-| 63 | [Crackling Comfort](https://open.spotify.com/track/1RWBAvEXNyUrCq4OXoFqYr) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Fireside Serenity](https://open.spotify.com/album/4f2S2TxUBB7vAlRxC242Xm) | 3:15 |
+| 56 | [Burning Flames](https://open.spotify.com/track/71clshG3c3OHNS1fJN64NB) | [Light Flame Lullaby](https://open.spotify.com/artist/5WzNgIVaWIBINc0KZNLay4) | [Burning Flames](https://open.spotify.com/album/0WBeT1ghgE3yeGUqcnu9fD) | 2:41 |
+| 57 | [Birch Wood Fireplace](https://open.spotify.com/track/1bZEpPCZ2qZZFU6yshhK4H) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Kindred Forest](https://open.spotify.com/album/5NnrbMRDK7f9altIJp0NhY) | 3:02 |
+| 58 | [Glowing Ashes](https://open.spotify.com/track/5D1BqKyvGVCQinZeC9Uq2r) | [Atmospheric Endeavors](https://open.spotify.com/artist/3TNKOriU72JCIKSKVaebNC) | [Fire Comfort](https://open.spotify.com/album/2HMdssLELi9Qmd9W5HWZyW) | 2:28 |
+| 59 | [Fire It Up](https://open.spotify.com/track/0QVMpB2XtxORSGeEQQ9iLS) | [My Cozy Heat](https://open.spotify.com/artist/4X6uyTlH2FvQLwY0wbnuEM) | [Fire It Up](https://open.spotify.com/album/77sDgvChjJ6Tn7NvPmZ4LG) | 2:50 |
+| 60 | [Cave Campfire](https://open.spotify.com/track/1H4Cloc0B4i1VEtZ8aLvcf) | [Emberly Ash](https://open.spotify.com/artist/0Nyxj4C0GUNOf7tR7cxGRm) | [Cave Campfire](https://open.spotify.com/album/3NfPg0I2Dmp1gmGRbjIDyG) | 2:12 |
+| 61 | [Warm Dreams](https://open.spotify.com/track/2BrFiOzCDW5VBpd2Qok68p) | [Varuna Recordings](https://open.spotify.com/artist/14PnfeDCdj2PHrVMzTTddV) | [Warm Dreams](https://open.spotify.com/album/4RuCk0On70MP7tvXMd8GLJ) | 3:04 |
+| 62 | [Crackling Comfort](https://open.spotify.com/track/1RWBAvEXNyUrCq4OXoFqYr) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Fireside Serenity](https://open.spotify.com/album/4f2S2TxUBB7vAlRxC242Xm) | 3:15 |
+| 63 | [Steady Fire](https://open.spotify.com/track/7BwLybdFn9kHQTOEEggWyQ) | [Firement](https://open.spotify.com/artist/5k1ztv8OrzrXDwO7hGac31) | [Fireplace Noise](https://open.spotify.com/album/6um6zi0uEm3LzDUnA6RpfM) | 3:03 |
 | 64 | [Forest Fireplace](https://open.spotify.com/track/3Rwg4IRbHo5axXdo2e3vxj) | [Forest FX Smith](https://open.spotify.com/artist/2Ws74uPhxJrBWn95kKDqhq) | [Relaxing Fire Sounds](https://open.spotify.com/album/0VrYfRMHgVQekDurSPGbEq) | 2:05 |
-| 65 | [Heat Meditation](https://open.spotify.com/track/2aFBdbRuBZUzMMlfuo7jER) | [Flammables](https://open.spotify.com/artist/3c3y1SqD7gg7a7UWTAj1PP) | [Relaxing Flames](https://open.spotify.com/album/50j9xY9OlVnVIyyudXFt2A) | 3:03 |
-| 66 | [Campfire FX 2](https://open.spotify.com/track/71bJHyvTOhKRdft9ggF7Mo) | [Campfire FX](https://open.spotify.com/artist/4hcapURHDeQ5BjkOWH8L7Z) | [Campfire FX](https://open.spotify.com/album/7CzUi3rd2NN8Xf9gGFaSjL) | 2:40 |
-| 67 | [Holy Smoke](https://open.spotify.com/track/30p2a9fI1cHXDpNlN6rSIr) | [Audio Nomad](https://open.spotify.com/artist/1WnUXS4BhtPNBctBih7hYL) | [Holy Smoke](https://open.spotify.com/album/5CRbgrbRTcwEmnyOHs69Ud) | 2:27 |
-| 68 | [Wildfire](https://open.spotify.com/track/32CgLBFA2Bvl3O71k0aLpy) | [Bonfire Sleep Sound](https://open.spotify.com/artist/4qyBarAA064tSHmWNfEZ5y) | [Wildfire](https://open.spotify.com/album/3UlkPNErf6tKRgV63NIG0d) | 2:41 |
-| 69 | [Llamas Pacíficas](https://open.spotify.com/track/4mFhnBmB5K46q9gqU9awd4) | [Prueba De Llama](https://open.spotify.com/artist/08XuVb1JLWHD1pKyb2bx6t) | [Fuego Acogedor](https://open.spotify.com/album/34A3oaZnRr3xsiRPDm8L4G) | 3:11 |
-| 70 | [Radiant Fire](https://open.spotify.com/track/6GJ4faNYpuEMX42Mw1PsTf) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Tranquil Embers](https://open.spotify.com/album/6prHGBLNhAkSGy1O9doNLo) | 3:01 |
-| 71 | [Fireside Serenity](https://open.spotify.com/track/29yAD1XNPDgKpYwQSvgaKr) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Fireside Serenity](https://open.spotify.com/album/4f2S2TxUBB7vAlRxC242Xm) | 3:18 |
-| 72 | [Fireplace Noise](https://open.spotify.com/track/6viBvJPJF3iv8ZHvGiGIyb) | [Firement](https://open.spotify.com/artist/5k1ztv8OrzrXDwO7hGac31) | [Fireplace Noise](https://open.spotify.com/album/6um6zi0uEm3LzDUnA6RpfM) | 2:56 |
-| 73 | [Flames Against The Cold](https://open.spotify.com/track/4eRMOAXx2KR1hKnxNAO2i5) | [Blaze Nights](https://open.spotify.com/artist/5zKuHMLICKOse4JZNLsZ3n) | [Flame Noise](https://open.spotify.com/album/2Euexf7YOSXb9yGOPqvTc9) | 2:42 |
-| 74 | [Furnace Warmth](https://open.spotify.com/track/1WfjkcMD91QD93kNvja6uU) | [Krispy Fireplace](https://open.spotify.com/artist/3620DZj56oKYWgLzbljbNk) | [Furnace Warmth](https://open.spotify.com/album/3DFkThdtiv8dezNk615wr8) | 2:24 |
-| 75 | [Read By The Fire](https://open.spotify.com/track/3XjiFnQdMQk7UdMlCmpliG) | [Prime Flames](https://open.spotify.com/artist/7cO59XfIEU6ShqIrBsWXzG) | [Read By The Fire](https://open.spotify.com/album/5l3NbahKLY9EHGjJj1lBIl) | 3:06 |
+| 65 | [Holy Smoke](https://open.spotify.com/track/30p2a9fI1cHXDpNlN6rSIr) | [Audio Nomad](https://open.spotify.com/artist/1WnUXS4BhtPNBctBih7hYL) | [Holy Smoke](https://open.spotify.com/album/5CRbgrbRTcwEmnyOHs69Ud) | 2:27 |
+| 66 | [Heat Meditation](https://open.spotify.com/track/2aFBdbRuBZUzMMlfuo7jER) | [Flammables](https://open.spotify.com/artist/3c3y1SqD7gg7a7UWTAj1PP) | [Relaxing Flames](https://open.spotify.com/album/50j9xY9OlVnVIyyudXFt2A) | 3:03 |
+| 67 | [Campfire FX 2](https://open.spotify.com/track/71bJHyvTOhKRdft9ggF7Mo) | [Campfire FX](https://open.spotify.com/artist/4hcapURHDeQ5BjkOWH8L7Z) | [Campfire FX](https://open.spotify.com/album/7CzUi3rd2NN8Xf9gGFaSjL) | 2:40 |
+| 68 | [Fireplace Noise](https://open.spotify.com/track/6viBvJPJF3iv8ZHvGiGIyb) | [Firement](https://open.spotify.com/artist/5k1ztv8OrzrXDwO7hGac31) | [Fireplace Noise](https://open.spotify.com/album/6um6zi0uEm3LzDUnA6RpfM) | 2:56 |
+| 69 | [Wildfire](https://open.spotify.com/track/32CgLBFA2Bvl3O71k0aLpy) | [Bonfire Sleep Sound](https://open.spotify.com/artist/4qyBarAA064tSHmWNfEZ5y) | [Wildfire](https://open.spotify.com/album/3UlkPNErf6tKRgV63NIG0d) | 2:41 |
+| 70 | [Llamas Pacíficas](https://open.spotify.com/track/4mFhnBmB5K46q9gqU9awd4) | [Prueba De Llama](https://open.spotify.com/artist/08XuVb1JLWHD1pKyb2bx6t) | [Fuego Acogedor](https://open.spotify.com/album/34A3oaZnRr3xsiRPDm8L4G) | 3:11 |
+| 71 | [Radiant Fire](https://open.spotify.com/track/6GJ4faNYpuEMX42Mw1PsTf) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Tranquil Embers](https://open.spotify.com/album/6prHGBLNhAkSGy1O9doNLo) | 3:01 |
+| 72 | [Fireside Serenity](https://open.spotify.com/track/29yAD1XNPDgKpYwQSvgaKr) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Fireside Serenity](https://open.spotify.com/album/4f2S2TxUBB7vAlRxC242Xm) | 3:18 |
+| 73 | [Furnace Warmth](https://open.spotify.com/track/1WfjkcMD91QD93kNvja6uU) | [Krispy Fireplace](https://open.spotify.com/artist/3620DZj56oKYWgLzbljbNk) | [Furnace Warmth](https://open.spotify.com/album/3DFkThdtiv8dezNk615wr8) | 2:24 |
+| 74 | [Flames Against The Cold](https://open.spotify.com/track/4eRMOAXx2KR1hKnxNAO2i5) | [Blaze Nights](https://open.spotify.com/artist/5zKuHMLICKOse4JZNLsZ3n) | [Flame Noise](https://open.spotify.com/album/2Euexf7YOSXb9yGOPqvTc9) | 2:42 |
+| 75 | [Fireplace Sound](https://open.spotify.com/track/4D3oMWMknZ2eArJkXs8OsC) | [Habit Of Flame](https://open.spotify.com/artist/4SAp3XjIrtqbzGzsIJlrWX) | [Sound of the Heat](https://open.spotify.com/album/1VvMLyM4c7fblJiJZdnBi0) | 3:05 |
 
 Snapshot ID: `ZsiFrgAAAABB8hm3JeAEm1BaphcQqJJf`

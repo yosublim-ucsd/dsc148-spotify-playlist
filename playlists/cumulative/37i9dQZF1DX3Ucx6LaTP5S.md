@@ -4,7 +4,7 @@
 
 > It's a good day to be a My Day!
 
-150 songs - 8 hr 55 min
+151 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Beautiful Feeling](https://open.spotify.com/track/5Sl8fL5jXQiH0uwgyTIX0B) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Remember Us : Youth, Pt\. 2](https://open.spotify.com/album/5lJXj9X4Yl52xJq1sQzQB9) | 3:28 | 2020-05-12 |  |
 | [Best Part](https://open.spotify.com/track/5gBMDX31s0uvslfUtMLHKV) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/3gTiTx97I9WtlvWOLnPETW) | 3:41 | 2020-05-12 | 2024-04-19 |
 | [Best Part](https://open.spotify.com/track/7wPKlkoPDyeDcMpaGizvDk) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/6Bhc2M8Jn0CcMnzpAuKS85) | 3:41 | 2020-05-12 |  |
+| [Check Pattern](https://open.spotify.com/track/3bbuy0sL7miaccIfh6s86b) | [SUNGJIN](https://open.spotify.com/artist/5ZQ96t8nPfBXYdZaXZwDHC) | [30](https://open.spotify.com/album/3JySXkeZCG1WiMNlBB3n9p) | 3:17 | 2024-11-05 |  |
 | [Chocolate](https://open.spotify.com/track/0vt3kA21CNUpJq5RT24z9W) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Want More 19 Part.1](https://open.spotify.com/album/1DDc6qbKF8Utom7maoljP5) | 3:16 | 2020-05-12 |  |
 | [Chocolate](https://open.spotify.com/track/2rbfCOgXMPoBLBrK2wLX5K) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [하지 말라면 더 하고 19 Part.1](https://open.spotify.com/album/4cxgsDqjK7r3JB0DIgJWaj) | 3:16 | 2020-05-12 | 2024-04-19 |
 | [Colors](https://open.spotify.com/track/48y8hqLMxYtKYwroWqdkts) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Day](https://open.spotify.com/album/2lkb7TDxz1y1nAAsVkCZ4u) | 4:17 | 2020-05-12 | 2024-04-19 |

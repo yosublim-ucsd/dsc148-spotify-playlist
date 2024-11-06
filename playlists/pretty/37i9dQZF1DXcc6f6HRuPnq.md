@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,522 likes - 80 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,615 likes - 80 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 44 | [The Dream \- Remastered](https://open.spotify.com/track/0yBzzceMXi6VMMXGJDqY9A) | [Albert Collins, Robert Cray and Johnny Copeland](https://open.spotify.com/artist/6yIudV1nOQDnw69bKR0QMG) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 5:31 |
 | 45 | [I Know I've Been Changed](https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz) | [Miraculous Mule](https://open.spotify.com/artist/0gCceUhEHn81sIBxwjbGcf) | [Old Bones, New Fire](https://open.spotify.com/album/68tbX1vD7WbHabOlMQK9Fg) | 3:07 |
 | 46 | [Mama Roux](https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q) | [Matthis Pascaud](https://open.spotify.com/artist/1qn5qnZBihsurzBW3YrMTp), [Hugh Coltman](https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ) | [Mama Roux](https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5) | 4:40 |
-| 47 | [Here in the Delta](https://open.spotify.com/track/22NkmcMj57GSMBmi6eh7mi) | [Jose Ramirez](https://open.spotify.com/artist/5yuQYWL6LV6EazqVr04jIm) | [Major League Blues](https://open.spotify.com/album/4yFvyxpUgLYqCrheI0HxxN) | 5:20 |
-| 48 | [Black Night](https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF) | [Savoy Brown Blues Band](https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 4:52 |
+| 47 | [Black Night](https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF) | [Savoy Brown Blues Band](https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 4:52 |
+| 48 | [Here in the Delta](https://open.spotify.com/track/22NkmcMj57GSMBmi6eh7mi) | [Jose Ramirez](https://open.spotify.com/artist/5yuQYWL6LV6EazqVr04jIm) | [Major League Blues](https://open.spotify.com/album/4yFvyxpUgLYqCrheI0HxxN) | 5:20 |
 | 49 | [Beaumont Blues](https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s) | [Phillip Walker](https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo) | [Someday You'll Have These Blues](https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz) | 4:07 |
 | 50 | [Last Night](https://open.spotify.com/track/3hR2Azl3pBy1pSpwWrp5Tw) | [Jantso Jokelin](https://open.spotify.com/artist/1Uu3zc3BR3YLzOabYX2vQA) | [Silver Lining](https://open.spotify.com/album/5P8L4C2elkFaRUeP58tIkC) | 3:39 |
 | 51 | [Empty Bed Blues \- Mono](https://open.spotify.com/track/7DBKmXITq99xmNPr3ZX2nK) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 4:52 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 63 | [Blue Jean Blues \- 2005 Remaster](https://open.spotify.com/track/6Gyk7ZHfFWo3d8U7poUEPs) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 4:42 |
 | 64 | [Three O'Clock Blues](https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 8:36 |
 | 65 | [A Fool No More](https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ) | 7:44 |
-| 66 | [Mystery Woman](https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Come to Find](https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd) | 5:01 |
-| 67 | [That's Why I Play the Blues](https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Power of the Blues](https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv) | 4:04 |
-| 68 | [Ghetto Woman](https://open.spotify.com/track/1ol9HfVFSKwbVVnzc1vzY2) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Anthology](https://open.spotify.com/album/1LzYzoyDpRjM8o5GDha0yN) | 5:15 |
+| 66 | [Ghetto Woman](https://open.spotify.com/track/1ol9HfVFSKwbVVnzc1vzY2) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Anthology](https://open.spotify.com/album/1LzYzoyDpRjM8o5GDha0yN) | 5:15 |
+| 67 | [Mystery Woman](https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Come to Find](https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd) | 5:01 |
+| 68 | [That's Why I Play the Blues](https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Power of the Blues](https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv) | 4:04 |
 | 69 | [Becky Ann \(feat\. Mitch Kaxhmar & Ronnie Shellist\)](https://open.spotify.com/track/27wfSUGbv33dSWJ3y2tZQ2) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Porch Sessions](https://open.spotify.com/album/1HiM9YWyFh75nasggcpRoE) | 3:36 |
 | 70 | [Kind Hearted Woman Blues](https://open.spotify.com/track/4TvQu0OSTGGeXErsYCGvcb) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Me and Mr\. Johnson](https://open.spotify.com/album/19Nhw4EECcCOj2379B8idV) | 4:06 |
 | 71 | [Heartbreak Hotel](https://open.spotify.com/track/5KbTAN3GgXJCvBySnOZrih) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Bad Mouthin'](https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ) | 3:43 |

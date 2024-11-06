@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 232707,
+  "num_followers": 232742,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAAAr8E4v+DLmq0b3uw/Polbw",
+  "snapshot_id": "ZygOgAAAAADYK//XOIAOToYeRZj8Bx1e",
   "tracks": [
     {
       "added_at": null,
@@ -599,30 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Inmensidades",
-        "url": "https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY"
-      },
-      "artists": [
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        },
-        {
-          "name": "Gordo del Funk",
-          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 231416,
-      "name": "Lumbre",
-      "url": "https://open.spotify.com/track/4grtH2EEl14ZJL0fry7Zcg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buen Pez",
         "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 256799,
       "name": "Naranja a Morado",
       "url": "https://open.spotify.com/track/3CcUQabK3Vn0RUjZI7lfPz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Inmensidades",
+        "url": "https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY"
+      },
+      "artists": [
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Gordo del Funk",
+          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 231416,
+      "name": "Lumbre",
+      "url": "https://open.spotify.com/track/4grtH2EEl14ZJL0fry7Zcg"
     },
     {
       "added_at": null,
@@ -907,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Que Se Fue",
-        "url": "https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Nunca Jamas",
-          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
-        }
-      ],
-      "duration_ms": 166499,
-      "name": "La Que Se Fue",
-      "url": "https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "400 Estrellas",
         "url": "https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 223875,
       "name": "400 Estrellas",
       "url": "https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        }
+      ],
+      "duration_ms": 166499,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB"
     },
     {
       "added_at": null,

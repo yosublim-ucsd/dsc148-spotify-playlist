@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 
 > This is Paulo Londra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,946 likes - 37 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,948 likes - 38 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 6 | [Cuando Te Besé](https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 4:16 |
 | 7 | [Cámara Lenta](https://open.spotify.com/track/1OphvZqEV1jhzTGfCXSTWX) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Cámara Lenta](https://open.spotify.com/album/30baudnBrCRWSuGJRoNLNm) | 3:15 |
 | 8 | [Nena Maldición \(feat\. Lenny Tavárez\)](https://open.spotify.com/track/77dMSg2VHi2wwXjXNrmcrZ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:47 |
-| 9 | [Plan A](https://open.spotify.com/track/3DmQvbSuwGoDJkDm369GEz) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:58 |
-| 10 | [Que Hicimo'](https://open.spotify.com/track/2tklBuZxZEEJMlhrlzc2CB) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Que Hicimo'](https://open.spotify.com/album/4S2JV29tQCqFWWNTxAdNQQ) | 2:45 |
+| 9 | [Que Hicimo'](https://open.spotify.com/track/2tklBuZxZEEJMlhrlzc2CB) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Que Hicimo'](https://open.spotify.com/album/4S2JV29tQCqFWWNTxAdNQQ) | 2:45 |
+| 10 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 |
 | 11 | [Paracaídas](https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paracaídas](https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6) | 2:45 |
 | 12 | [Adan y Eva](https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:16 |
 | 13 | [Nublado](https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Nublado](https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL) | 3:00 |
@@ -45,5 +45,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 35 | [Noche de Novela \(feat\. Ed Sheeran\)](https://open.spotify.com/track/6N7LquYjc3c53qr4PSJbi5) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Noche de Novela \(feat\. Ed Sheeran\)](https://open.spotify.com/album/4OciFRoNTzmF0ORAQqCrk9) | 3:11 |
 | 36 | [Nothing On You \(feat\. Paulo Londra & Dave\)](https://open.spotify.com/track/2qRN7PWiHRLprw4FpDeI9N) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:20 |
 | 37 | [Por Lo Mio](https://open.spotify.com/track/1CEcHkjbDqRxu56FcUnJ04) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Por Lo Mio](https://open.spotify.com/album/6kBdowJIfRT9Df3x8Fi9vi) | 3:43 |
+| 38 | [Tenso](https://open.spotify.com/track/6qjVwfPtN73Rj7vSAaAuF2) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:50 |
 
-Snapshot ID: `Zya9AAAAAADPTwHOMSO3PCgKqNGwnfIi`
+Snapshot ID: `ZygOgAAAAAD4smBGxMNOa0FXviAoqn8B`

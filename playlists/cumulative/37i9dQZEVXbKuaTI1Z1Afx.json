@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 203828,
       "name": "5 to 9",
       "url": "https://open.spotify.com/track/7aGK202gwOfeCJee5qYCGy"
@@ -4145,6 +4145,28 @@
     },
     {
       "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
         "name": "Aqua Regia",
         "url": "https://open.spotify.com/album/3fXquvh8Oi42N5V932Z8Xf"
       },
@@ -4650,6 +4672,24 @@
       "duration_ms": 159338,
       "name": "AVA",
       "url": "https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT"
+    },
+    {
+      "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/1vmuokjeEWukuNChZWHC5Y"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218002,
+      "name": "Awaken",
+      "url": "https://open.spotify.com/track/7hr0WyhqQxrK3SQ9ZQxjTu"
     },
     {
       "album": {
@@ -13600,7 +13640,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -13658,7 +13698,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
@@ -16280,6 +16320,24 @@
       "duration_ms": 139148,
       "name": "End Up Gone",
       "url": "https://open.spotify.com/track/4pEfFdOlCCmRYWdt0OUTsW"
+    },
+    {
+      "album": {
+        "name": "Ends of the Earth",
+        "url": "https://open.spotify.com/album/59IUArxnHB64BUCM3hKTwQ"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269830,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/30rU9CBF5cwiexNHJffkLS"
     },
     {
       "album": {
@@ -21006,7 +21064,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 210206,
       "name": "Go Back (feat. Julia Church) - YDG Remix",
       "url": "https://open.spotify.com/track/4ASH49SxktKD1YzIbqUP0N"
@@ -22466,6 +22524,10 @@
         {
           "name": "Trap Remix Guys",
           "url": "https://open.spotify.com/artist/5mJT67kG5MKy7byzJWMN7c"
+        },
+        {
+          "name": "Trap Remix Guy",
+          "url": "https://open.spotify.com/artist/57hx1phIu1MxM82nOla1au"
         }
       ],
       "date_added": "2024-10-20",
@@ -23026,7 +23088,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 164000,
       "name": "Heaven On Earth",
       "url": "https://open.spotify.com/track/4y3Aq2Ey7TG4KsY5KZPD6m"
@@ -23102,7 +23164,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 195845,
       "name": "Hecha Pa' M\u00ed",
       "url": "https://open.spotify.com/track/1uGUbgZuO1kD1JZ0UeFupN"
@@ -24475,6 +24537,24 @@
     },
     {
       "album": {
+        "name": "House Again",
+        "url": "https://open.spotify.com/album/6Oxk5FxwVNUMD9KxChEVrY"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202290,
+      "name": "House Again",
+      "url": "https://open.spotify.com/track/4OG8nSaGmiATo0y59bvehc"
+    },
+    {
+      "album": {
         "name": "Dr. Seuss' The Lorax - Original Songs From The Motion Picture",
         "url": "https://open.spotify.com/album/598g2DLLnd5tIJyVeizTx5"
       },
@@ -25700,7 +25780,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 224906,
       "name": "I Never Lie",
       "url": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc"
@@ -27104,6 +27184,24 @@
       "duration_ms": 166035,
       "name": "IF YOU GO DOWN (I'M GOIN' DOWN TOO)",
       "url": "https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73"
+    },
+    {
+      "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131786,
+      "name": "Igloo",
+      "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
     },
     {
       "album": {
@@ -32382,7 +32480,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 246857,
       "name": "Lonely Dirt Road",
       "url": "https://open.spotify.com/track/6uBXlvLz3g0WHI5n2qIz7u"
@@ -33150,6 +33248,24 @@
       "duration_ms": 173168,
       "name": "Love Potions",
       "url": "https://open.spotify.com/track/6ZK4VMxfEYLPqpSvX2l4iY"
+    },
+    {
+      "album": {
+        "name": "Love Somebody",
+        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204828,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
     },
     {
       "album": {
@@ -38957,6 +39073,24 @@
     },
     {
       "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284363,
+      "name": "Noid",
+      "url": "https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41"
+    },
+    {
+      "album": {
         "name": "Charm",
         "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
@@ -41070,6 +41204,24 @@
       "duration_ms": 193346,
       "name": "P power (feat. Drake)",
       "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
+    },
+    {
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/7ce3IkZzM0jPo2KfB7iDVU"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164109,
+      "name": "Packing It Up",
+      "url": "https://open.spotify.com/track/11dixMCXtncnzhC4LQxdhR"
     },
     {
       "album": {
@@ -44376,7 +44528,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 224022,
       "name": "Q U E V A S H A C E R H O Y ?",
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
@@ -45733,6 +45885,24 @@
     },
     {
       "album": {
+        "name": "ROCKMAN",
+        "url": "https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179370,
+      "name": "ROCKMAN",
+      "url": "https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL"
+    },
+    {
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
       },
@@ -45964,6 +46134,24 @@
       "duration_ms": 203405,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/7zP40LKCXsiyZjMtnzo5z6"
+    },
+    {
+      "album": {
+        "name": "Rollin' Stone",
+        "url": "https://open.spotify.com/album/5ENChAFhgnJ4kpnLpIt3wB"
+      },
+      "artists": [
+        {
+          "name": "Blake Whiten",
+          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151943,
+      "name": "Rollin' Stone",
+      "url": "https://open.spotify.com/track/1CxoluXWMslZp5T89ravj3"
     },
     {
       "album": {
@@ -48942,7 +49130,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 174746,
       "name": "Skeleton Sam",
       "url": "https://open.spotify.com/track/0zD8DcXmWQwWC5Bh78dXqY"
@@ -50630,7 +50818,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 127626,
       "name": "Spooky, Scary Skeletons",
       "url": "https://open.spotify.com/track/23V08GxMeaZNSf8Gy6KF6t"
@@ -53867,6 +54055,24 @@
     },
     {
       "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "album": {
         "name": "NECROSSISM",
         "url": "https://open.spotify.com/album/6tnsPiqgWU9EG8xh8PJBLm"
       },
@@ -55294,7 +55500,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 150997,
       "name": "The Viper",
       "url": "https://open.spotify.com/track/2JapCT0xikq6Fy1PQiJz1C"
@@ -55596,7 +55802,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 204133,
       "name": "Things That Go Bump In The Night",
       "url": "https://open.spotify.com/track/4dyoQtmjsgoTuF4VIReyE1"
@@ -61429,6 +61635,24 @@
     },
     {
       "album": {
+        "name": "Whiplash - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183226,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
+    },
+    {
+      "album": {
         "name": "Whiskey For The Wine",
         "url": "https://open.spotify.com/album/5R3zlvEUcLErVMTv8pnwOC"
       },
@@ -63282,6 +63506,24 @@
       "duration_ms": 188677,
       "name": "You Didn\u2019t Know",
       "url": "https://open.spotify.com/track/1EXcVTWW9vciHp4hzQHqAG"
+    },
+    {
+      "album": {
+        "name": "You For A Reason",
+        "url": "https://open.spotify.com/album/5kIKFBdjL155Okv2nXTEWj"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183133,
+      "name": "You For A Reason",
+      "url": "https://open.spotify.com/track/10QxsSJlNl8jrylYL5XGJO"
     },
     {
       "album": {

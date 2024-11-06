@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYCFw2RcTh.md) - [plain]
 
 > Poddar att ha på din RADAR\. Omslag: Anekdoterna
 
-[Spotify](https://open.spotify.com/user/spotify) - 12 likes - 9 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 13 likes - 9 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

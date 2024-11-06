@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 89021,
+  "num_followers": 89113,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "New Faces - New Sounds",
-        "url": "https://open.spotify.com/album/1QSjIFszDmlznqk7Zs28Tw"
-      },
-      "artists": [
-        {
-          "name": "Gil Melle",
-          "url": "https://open.spotify.com/artist/7zaZzk9UMSUyFMX1zxUraX"
-        }
-      ],
-      "duration_ms": 181674,
-      "name": "Under Capricorn",
-      "url": "https://open.spotify.com/track/5Sv0wvyx7b2u7O4oj0iNJx"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 204480,
       "name": "Come Rain Or Come Shine (Take 5)",
       "url": "https://open.spotify.com/track/13KYyenapQ2RMEGBJuRkUa"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "New Faces - New Sounds",
+        "url": "https://open.spotify.com/album/1QSjIFszDmlznqk7Zs28Tw"
+      },
+      "artists": [
+        {
+          "name": "Gil Melle",
+          "url": "https://open.spotify.com/artist/7zaZzk9UMSUyFMX1zxUraX"
+        }
+      ],
+      "duration_ms": 181674,
+      "name": "Under Capricorn",
+      "url": "https://open.spotify.com/track/5Sv0wvyx7b2u7O4oj0iNJx"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "First Place Again",
-        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 331666,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "Jutta Hipp With Zoot Sims (Expanded Edition)",
         "url": "https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 412653,
       "name": "Too Close For Comfort",
       "url": "https://open.spotify.com/track/7hvZ6vMAnO0cDkkKKJok4Y"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "First Place Again",
+        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 331666,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 324133,
-      "name": "Take Five",
-      "url": "https://open.spotify.com/track/09hcbtRcZV5CeeygqQiM5f"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "My Fair Lady",
         "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 221693,
       "name": "Show Me - Instrumental",
       "url": "https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 324133,
+      "name": "Take Five",
+      "url": "https://open.spotify.com/track/09hcbtRcZV5CeeygqQiM5f"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 192992,
-      "name": "Venus De Milo",
-      "url": "https://open.spotify.com/track/5e6IB3ls75JPn0tpXggs4W"
+      "duration_ms": 193546,
+      "name": "Jeru",
+      "url": "https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -835,22 +835,18 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Jazz Alive! A Night At The Half Note (Live)",
-        "url": "https://open.spotify.com/album/7JG3HQ0se1jy6zJLQvHfrn"
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
       },
       "artists": [
         {
-          "name": "Zoot Sims",
-          "url": "https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap"
-        },
-        {
-          "name": "Al Cohn",
-          "url": "https://open.spotify.com/artist/4yPUoMbYxVJ6XNJWZVJV7Y"
+          "name": "Warne Marsh",
+          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
         }
       ],
-      "duration_ms": 614533,
-      "name": "It Had To Be You - Live At The Half Note, NYC, 1959",
-      "url": "https://open.spotify.com/track/2qSaqU4oifGvpq4bP5VOyc"
+      "duration_ms": 256133,
+      "name": "Quintessence - Remastered",
+      "url": "https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -871,18 +867,22 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
+        "name": "Jazz Alive! A Night At The Half Note (Live)",
+        "url": "https://open.spotify.com/album/7JG3HQ0se1jy6zJLQvHfrn"
       },
       "artists": [
         {
-          "name": "Warne Marsh",
-          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
+          "name": "Zoot Sims",
+          "url": "https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap"
+        },
+        {
+          "name": "Al Cohn",
+          "url": "https://open.spotify.com/artist/4yPUoMbYxVJ6XNJWZVJV7Y"
         }
       ],
-      "duration_ms": 256133,
-      "name": "Quintessence - Remastered",
-      "url": "https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE"
+      "duration_ms": 614533,
+      "name": "It Had To Be You - Live At The Half Note, NYC, 1959",
+      "url": "https://open.spotify.com/track/2qSaqU4oifGvpq4bP5VOyc"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -1272,9 +1272,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 193546,
-      "name": "Jeru",
-      "url": "https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1"
+      "duration_ms": 192992,
+      "name": "Venus De Milo",
+      "url": "https://open.spotify.com/track/5e6IB3ls75JPn0tpXggs4W"
     },
     {
       "added_at": "2024-07-08 07:01:17",

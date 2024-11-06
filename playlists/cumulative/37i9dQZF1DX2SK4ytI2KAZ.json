@@ -2507,6 +2507,24 @@
     },
     {
       "album": {
+        "name": "Digging Around",
+        "url": "https://open.spotify.com/album/4ZV7TClwbbUPnfCRISDBPY"
+      },
+      "artists": [
+        {
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180133,
+      "name": "Digging Around",
+      "url": "https://open.spotify.com/track/0mIGu8CxAwQbbwN439W5b3"
+    },
+    {
+      "album": {
         "name": "Disaster Party",
         "url": "https://open.spotify.com/album/3PUNh3goCvfGWs0ipKSUkS"
       },
@@ -7066,7 +7084,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 183360,
       "name": "Nosebleeds",
       "url": "https://open.spotify.com/track/1XNeBNXSNFeY6HcrV3IEJv"

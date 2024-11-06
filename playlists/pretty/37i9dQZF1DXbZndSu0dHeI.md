@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Have the loveliest little day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,715 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,748 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 55 | [Are You OK?](https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc) | 4:23 |
 | 56 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 |
 | 57 | [More Like You](https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:40 |
-| 58 | [Shell](https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Shell](https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL) | 2:20 |
-| 59 | [Be Your Boy](https://open.spotify.com/track/0mvbSAjTbLc6ExAaDh5vlM) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Wild](https://open.spotify.com/album/2tggKTosyVKKepsled2gaO) | 3:27 |
+| 58 | [Be Your Boy](https://open.spotify.com/track/0mvbSAjTbLc6ExAaDh5vlM) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Wild](https://open.spotify.com/album/2tggKTosyVKKepsled2gaO) | 3:27 |
+| 59 | [Shell](https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Shell](https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL) | 2:20 |
 | 60 | [So My Darling](https://open.spotify.com/track/1kEF6o2puIB1U9aYgqh4xc) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling](https://open.spotify.com/album/1U269hAxxYxkknYfpeCVku) | 4:29 |
 | 61 | [Talking Backwards](https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Atlas](https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn) | 3:07 |
 | 62 | [boys, bugs and men](https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [boys, bugs and men](https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ) | 3:06 |
@@ -77,14 +77,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 67 | [Shakes](https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Shakes](https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR) | 3:14 |
 | 68 | [Heart Is A Drum](https://open.spotify.com/track/573nT62vtbezncIwCfxIm7) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:31 |
 | 69 | [Look Out!](https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Look Out!](https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF) | 2:56 |
-| 70 | [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 |
+| 70 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
 | 71 | [Cartwheels](https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Cartwheels](https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN) | 2:04 |
-| 72 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
-| 73 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
+| 72 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
+| 73 | [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 |
 | 74 | [Like Dylan in the Movies](https://open.spotify.com/track/7iqS4pS1eVQbsJGbJKVwQb) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [If You're Feeling Sinister](https://open.spotify.com/album/4usPTyIIgnAZ9eiItfEYSK) | 4:14 |
-| 75 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 |
+| 75 | [unposted letters](https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [unposted letters](https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG) | 3:25 |
 | 76 | [The Earth is a Very Small Dot](https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [The Earth is a Very Small Dot](https://open.spotify.com/album/7IkpXmbNKP6mZteubgagqG) | 3:56 |
-| 77 | [unposted letters](https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [unposted letters](https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG) | 3:25 |
+| 77 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 |
 | 78 | [Nothing Arrived](https://open.spotify.com/track/4Qegqm597Rw1PfaV43WkLy) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [{Awayland}](https://open.spotify.com/album/4lZBE5uyS5BGnJOJc88s95) | 3:43 |
 | 79 | [Bloom](https://open.spotify.com/track/53Mq10qpih00CLPph20MVp) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Bloom](https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X) | 2:46 |
 | 80 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 89 | [All My Life](https://open.spotify.com/track/3mh7FfDdLfOIbEFThIvvCG) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [All My Life](https://open.spotify.com/album/2dQ2fB3gMPzY5abi0DwWxx) | 3:47 |
 | 90 | [Someday](https://open.spotify.com/track/1JTw3fjyjsiLXwMorP0peQ) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Someday](https://open.spotify.com/album/66xoAQqY1lhuXWsgxrOLmG) | 4:22 |
 | 91 | [The Hit](https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [The Hit](https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu) | 3:30 |
-| 92 | [supposed to](https://open.spotify.com/track/1Ya1He3XsuZVzq8tl3tdE9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [supposed to](https://open.spotify.com/album/2hoWsnm5E7jrSdq01RNoBU) | 2:54 |
-| 93 | [flame](https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [strongboi](https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A) | 4:03 |
+| 92 | [flame](https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [strongboi](https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A) | 4:03 |
+| 93 | [supposed to](https://open.spotify.com/track/1Ya1He3XsuZVzq8tl3tdE9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [supposed to](https://open.spotify.com/album/2hoWsnm5E7jrSdq01RNoBU) | 2:54 |
 | 94 | [So Unimportant](https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [So Unimportant](https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq) | 4:23 |
 | 95 | [2much2soon](https://open.spotify.com/track/6siBdjNAiPG4V4pZMFNvac) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y), [AJSF](https://open.spotify.com/artist/00WIyZKC5hWNyrW92VzAj1) | [2much2soon](https://open.spotify.com/album/6lelFbCH0ZJ80em8wganZo) | 3:01 |
 | 96 | [Backseat](https://open.spotify.com/track/5ll8LtJvNBmtrCcqlPb9jy) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [What's Dead and Gone](https://open.spotify.com/album/7tlucLp6G0DquihSIwYbai) | 3:13 |
 | 97 | [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn) | 3:21 |
-| 98 | [Arcadia](https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Arcadia](https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ) | 3:30 |
-| 99 | [leave a light on](https://open.spotify.com/track/2K7fFi3Y4zJB9XWlvBQbR8) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74), [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [leave a light on](https://open.spotify.com/album/1zQnyI5I8veaxl680WvEQU) | 3:50 |
+| 98 | [leave a light on](https://open.spotify.com/track/2K7fFi3Y4zJB9XWlvBQbR8) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74), [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [leave a light on](https://open.spotify.com/album/1zQnyI5I8veaxl680WvEQU) | 3:50 |
+| 99 | [Arcadia](https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Arcadia](https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ) | 3:30 |
 | 100 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
 
 Snapshot ID: `ZrXl3gAAAACiRSo0hW25ekwQrBFc2/LZ`

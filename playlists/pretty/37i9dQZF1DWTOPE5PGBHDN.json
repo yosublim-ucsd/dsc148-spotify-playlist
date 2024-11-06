@@ -1,6 +1,6 @@
 {
   "description": "\u00a1mueve ese booty! \ud83c\udf51\ud83e\udd75\ud83d\udd25",
-  "num_followers": 281871,
+  "num_followers": 281948,
   "original_name": "twerk",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-09-20 21:53:58",
       "album": {
+        "name": "King Of Kings",
+        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 229026,
+      "name": "Ojitos Chiquitos",
+      "url": "https://open.spotify.com/track/4f49sFQko7jHLEFd3tCf5p"
+    },
+    {
+      "added_at": "2024-09-20 21:53:58",
+      "album": {
         "name": "El Cielo",
         "url": "https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 191320,
       "name": "El Cielo",
       "url": "https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv"
-    },
-    {
-      "added_at": "2024-09-20 21:53:58",
-      "album": {
-        "name": "King Of Kings",
-        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 229026,
-      "name": "Ojitos Chiquitos",
-      "url": "https://open.spotify.com/track/4f49sFQko7jHLEFd3tCf5p"
     },
     {
       "added_at": "2024-09-20 21:53:58",
@@ -1107,34 +1107,6 @@
     {
       "added_at": "2024-09-20 21:53:58",
       "album": {
-        "name": "Maquillaje (feat. Yexel) [Remix]",
-        "url": "https://open.spotify.com/album/59Ji10hPziKlf6wB8N2KFZ"
-      },
-      "artists": [
-        {
-          "name": "Renn",
-          "url": "https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Yexel",
-          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
-        }
-      ],
-      "duration_ms": 286283,
-      "name": "Maquillaje - Remix",
-      "url": "https://open.spotify.com/track/1eMXh9WqMtnmeyZnig2NUA"
-    },
-    {
-      "added_at": "2024-09-20 21:53:58",
-      "album": {
         "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
         "url": "https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb"
       },
@@ -1163,38 +1135,30 @@
     {
       "added_at": "2024-09-20 21:53:58",
       "album": {
-        "name": "LA NENA",
-        "url": "https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw"
+        "name": "Maquillaje (feat. Yexel) [Remix]",
+        "url": "https://open.spotify.com/album/59Ji10hPziKlf6wB8N2KFZ"
       },
       "artists": [
         {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+          "name": "Renn",
+          "url": "https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "LA NENA",
-      "url": "https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld"
-    },
-    {
-      "added_at": "2024-09-20 21:53:58",
-      "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Yexel",
+          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
         }
       ],
-      "duration_ms": 205933,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
+      "duration_ms": 286283,
+      "name": "Maquillaje - Remix",
+      "url": "https://open.spotify.com/track/1eMXh9WqMtnmeyZnig2NUA"
     },
     {
       "added_at": "2024-09-20 21:53:58",
@@ -1215,6 +1179,42 @@
       "duration_ms": 225933,
       "name": "Otro Trago",
       "url": "https://open.spotify.com/track/1Ej96GIBCTvgH7tNX1r3qr"
+    },
+    {
+      "added_at": "2024-09-20 21:53:58",
+      "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
+    },
+    {
+      "added_at": "2024-09-20 21:53:58",
+      "album": {
+        "name": "LA NENA",
+        "url": "https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "LA NENA",
+      "url": "https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld"
     },
     {
       "added_at": "2024-09-20 21:53:58",
@@ -1283,6 +1283,30 @@
     {
       "added_at": "2024-09-20 21:53:58",
       "album": {
+        "name": "LOKERA",
+        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 197101,
+      "name": "LOKERA",
+      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
+    },
+    {
+      "added_at": "2024-09-20 21:53:58",
+      "album": {
         "name": "Tra Tra Tra Remix",
         "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
       },
@@ -1323,30 +1347,6 @@
       "duration_ms": 171215,
       "name": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
       "url": "https://open.spotify.com/track/78SeXVRJ7KCqVmOwTiFjnI"
-    },
-    {
-      "added_at": "2024-09-20 21:53:58",
-      "album": {
-        "name": "LOKERA",
-        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 197101,
-      "name": "LOKERA",
-      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
     },
     {
       "added_at": "2024-09-20 21:53:58",
@@ -1491,30 +1491,6 @@
     {
       "added_at": "2024-09-20 21:53:58",
       "album": {
-        "name": "Mu\u00f1ekita (with El Alfa & JT)",
-        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "Mu\u00f1ekita (with El Alfa & JT)",
-      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
-    },
-    {
-      "added_at": "2024-09-20 21:53:58",
-      "album": {
         "name": "Historias de un Capricornio",
         "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
       },
@@ -1535,6 +1511,30 @@
       "duration_ms": 226532,
       "name": "Sigues Con El",
       "url": "https://open.spotify.com/track/1XxmTx7ZzI2xLvS8SqlXs9"
+    },
+    {
+      "added_at": "2024-09-20 21:53:58",
+      "album": {
+        "name": "Mu\u00f1ekita (with El Alfa & JT)",
+        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 219642,
+      "name": "Mu\u00f1ekita (with El Alfa & JT)",
+      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
     },
     {
       "added_at": "2024-09-20 21:53:58",

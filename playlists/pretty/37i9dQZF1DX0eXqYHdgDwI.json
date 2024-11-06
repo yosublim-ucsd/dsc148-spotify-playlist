@@ -1,6 +1,6 @@
 {
   "description": "canzoni su cui piangere \ud83e\udd40",
-  "num_followers": 113109,
+  "num_followers": 113119,
   "original_name": "Canzoni Tristi",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-08-07 16:06:41",
       "album": {
-        "name": "A Little Bit Yours",
-        "url": "https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 225680,
-      "name": "A Little Bit Yours",
-      "url": "https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE"
-    },
-    {
-      "added_at": "2024-08-07 16:06:41",
-      "album": {
         "name": "Wish I Was Better",
         "url": "https://open.spotify.com/album/0dbCEm3gL91TgF2Gihuexr"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 140571,
       "name": "Wish I Was Better",
       "url": "https://open.spotify.com/track/1kAkUHFb7ryeVkVSRD6Nkj"
+    },
+    {
+      "added_at": "2024-08-07 16:06:41",
+      "album": {
+        "name": "A Little Bit Yours",
+        "url": "https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 225680,
+      "name": "A Little Bit Yours",
+      "url": "https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE"
     },
     {
       "added_at": "2024-08-07 16:06:41",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,160 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,225 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Don't Forget Your Love](https://open.spotify.com/track/2YVCAhio5l6KdLvh6jg1mP) | [Jazzmeia Horn](https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM) | [Messages](https://open.spotify.com/album/4KVABgFjy5h5u9KcCeTYD7) | 4:38 |
 | 2 | [No More Blues](https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Portrait](https://open.spotify.com/album/7sH4icMotSET9zBcbR5Gz4) | 5:46 |
-| 3 | [We Have All The Time In The World \- Cam Blackwood & Swindle Version](https://open.spotify.com/track/3MYTlTdvrrsvRdFS06spdY) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [We Have All The Time In The World \(Cam Blackwood & Swindle Version\)](https://open.spotify.com/album/6qKI6X5pITMNVyQyxrvRhp) | 3:16 |
+| 3 | [We Have All The Time In The World \- Cam Blackwood & Swindle Version](https://open.spotify.com/track/3MYTlTdvrrsvRdFS06spdY) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Swindle](https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ), [Cam Blackwood](https://open.spotify.com/artist/0mYBtMfnMNPOi1hyyzPcvb) | [We Have All The Time In The World \(Cam Blackwood & Swindle Version\)](https://open.spotify.com/album/6qKI6X5pITMNVyQyxrvRhp) | 3:16 |
 | 4 | [Old Devil Moon](https://open.spotify.com/track/5mChxjgMC9mVrrGsoPNkiE) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs), [Lou Pomanti](https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW) | [The Best Of Bennett](https://open.spotify.com/album/27UyA5jZ5KyM9aFZwgolyX) | 2:23 |
 | 5 | [I Don't Mind](https://open.spotify.com/track/0QsXt6buqw7bJHqhlEIF4h) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [I Don’t Mind](https://open.spotify.com/album/6QbmGqAoE5zgRf0SXcpu0d) | 4:12 |
 | 6 | [Stars \(Endless Stars\)](https://open.spotify.com/track/2MMhv3V5bTrhvN2S7qoEkg) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Joey Calderazzo](https://open.spotify.com/artist/7wu4u8r54ZgGyY9FOZtDq4) | [Stars \(Endless Stars\)](https://open.spotify.com/album/4wnntLk0X1xA6jKsclQsfk) | 6:01 |

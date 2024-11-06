@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: Blueburn
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,028 likes - 145 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,033 likes - 145 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 105 | [日盲症](https://open.spotify.com/track/4PVjoZMxWsaQAaD6lXliMw) | [柯朋宇](https://open.spotify.com/artist/5vWQyCpjh2KpM8DWR7OiYP) | [日盲症](https://open.spotify.com/album/4tb0SPsbz86IbVg5o8YXcV) | 3:39 |
 | 106 | [就說你想說的 \(電影《為我辦一場西式的喪禮》主題曲\)](https://open.spotify.com/track/1b5dVCDgYYrf61U1Ff0tmC) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [就說你想說的](https://open.spotify.com/album/0FqW8002vT95qoJRrxqBWT) | 5:50 |
 | 107 | [自己](https://open.spotify.com/track/6vWZE2pG3nxdi7pDc4afyd) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6) | [自己](https://open.spotify.com/album/3DVwrr9zO2NwWiH0RYycsM) | 3:02 |
-| 108 | [Da South](https://open.spotify.com/track/6OYylFytBkem1LHLyMeSJv) | [KnowKnow](https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN), [AR 刘夫阳](https://open.spotify.com/artist/6DTgJEFyihjjRBGsdCr7AX) | [Da South](https://open.spotify.com/album/44sstw01CvW1V2CTg3FKqk) | 3:16 |
+| 108 | [Da South](https://open.spotify.com/track/6OYylFytBkem1LHLyMeSJv) | [KnowKnow](https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN), [AR刘夫阳](https://open.spotify.com/artist/0Ayv7StVio9fi017JAgu45) | [Da South](https://open.spotify.com/album/44sstw01CvW1V2CTg3FKqk) | 3:16 |
 | 109 | [漂浮到](https://open.spotify.com/track/2tEat0o8grx2D736tA0nXa) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [漂浮到](https://open.spotify.com/album/3MoX2wrCJkObmCadnscuRO) | 3:50 |
 | 110 | [Love Is Trust](https://open.spotify.com/track/2IC1aC2Wg9Po0zGfPv0NfG) | [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC), [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [Love Is Trust](https://open.spotify.com/album/33gxes55WRpUCldyRyoJq0) | 3:52 |
 | 111 | [BLEU](https://open.spotify.com/track/2ejXbpySI4QktdyRmWwHWn) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [BLEU](https://open.spotify.com/album/5Po9lNxbAHpLCo9XHKfu24) | 3:08 |
@@ -144,7 +144,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 134 | [You](https://open.spotify.com/track/3ufe70dNF00MHH2AHqQb1z) | [Jeffery C](https://open.spotify.com/artist/1pu8bqVGuRDYyTOQMLqv86), [Alain Pardo](https://open.spotify.com/artist/1OFIVeEfxRAXCYAuZfQ12j) | [You](https://open.spotify.com/album/0pnhzxTitEvDO8QeJg5U6x) | 2:35 |
 | 135 | [Bamboo](https://open.spotify.com/track/3yKm2JfcfNQwfFcm7TOHr5) | [HowZ](https://open.spotify.com/artist/348ClvzEm6fr680BJOeYcE) | [Bamboo](https://open.spotify.com/album/4iV0TV7fZfwZefB8qUooQ8) | 3:29 |
 | 136 | [布袋戲的故鄉](https://open.spotify.com/track/5AzSgHsnYMbOLTtFl348qz) | [董事長樂團](https://open.spotify.com/artist/5WR2etEYdApwPH0NNv8CTz) | [布袋戲的故鄉](https://open.spotify.com/album/3HdQUzCeMjqqCfxZMdRjlS) | 4:17 |
-| 137 | [叉烧 GANG](https://open.spotify.com/track/7zOxSs1dIwwFdn7txIQWOc) | [KnowKnow](https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN), [AR 刘夫阳](https://open.spotify.com/artist/6DTgJEFyihjjRBGsdCr7AX) | [叉烧 GANG](https://open.spotify.com/album/0LOuvT5smiFVK7cUK5xPkx) | 3:17 |
+| 137 | [叉烧 GANG](https://open.spotify.com/track/7zOxSs1dIwwFdn7txIQWOc) | [KnowKnow](https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN), [AR刘夫阳](https://open.spotify.com/artist/0Ayv7StVio9fi017JAgu45) | [叉烧 GANG](https://open.spotify.com/album/0LOuvT5smiFVK7cUK5xPkx) | 3:17 |
 | 138 | [California Love \(夏日热恋\)](https://open.spotify.com/track/2O8vGHLHiOGYuCzvQafLpJ) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth) | [California Love \(夏日热恋\)](https://open.spotify.com/album/7K11nx8Dbu7ekLrxAAULkN) | 2:33 |
 | 139 | [FEEL THE FRIGHT](https://open.spotify.com/track/79n4brL0NrPTQmy4MtELBa) | [Nini Music](https://open.spotify.com/artist/4iggZUAEXfBeJH9DjKwccm), [NiNi](https://open.spotify.com/artist/1yRlzSYXePSpSnffspTXYQ) | [FEEL THE FRIGHT](https://open.spotify.com/album/5tqDpYAW88b4QBYnyHNOQA) | 2:40 |
 | 140 | [咖啡因 \(feat\. CØZY\)](https://open.spotify.com/track/2se3LeCJL2vFCcmNzvtjr5) | [GJ](https://open.spotify.com/artist/5CqbTtX7bCx1A5wn5xMWvh), [CØZY](https://open.spotify.com/artist/1WrNLZeznXRwf1cOJkN2ma) | [咖啡因 \(feat\. CØZY\)](https://open.spotify.com/album/5tnsQ0u5sbhWuWZ311E1RS) | 2:22 |

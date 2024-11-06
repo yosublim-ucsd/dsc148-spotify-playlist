@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 394088,
+  "num_followers": 394138,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-10-10 13:01:00",
       "album": {
-        "name": "SENESCENCE",
-        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
-    },
-    {
-      "added_at": "2024-10-10 13:01:00",
-      "album": {
         "name": "Touching My Body / Down Shovel",
         "url": "https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 430727,
       "name": "Touching My Body",
       "url": "https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh"
+    },
+    {
+      "added_at": "2024-10-10 13:01:00",
+      "album": {
+        "name": "SENESCENCE",
+        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
     },
     {
       "added_at": "2024-10-10 13:01:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-10-10 13:01:00",
       "album": {
+        "name": "can you see me?",
+        "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 197994,
+      "name": "can you see me?",
+      "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
+    },
+    {
+      "added_at": "2024-10-10 13:01:00",
+      "album": {
         "name": "If Love Is A Skill & Georgia",
         "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 217708,
       "name": "If Love Is A Skill",
       "url": "https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8"
-    },
-    {
-      "added_at": "2024-10-10 13:01:00",
-      "album": {
-        "name": "can you see me?",
-        "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 197994,
-      "name": "can you see me?",
-      "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
     },
     {
       "added_at": "2024-10-10 13:01:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-10-10 13:01:00",
       "album": {
-        "name": "Ask",
-        "url": "https://open.spotify.com/album/4FkzJu0EGu2Y5zz7XQpQQD"
-      },
-      "artists": [
-        {
-          "name": "Dual Sessions",
-          "url": "https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp"
-        },
-        {
-          "name": "Style Project",
-          "url": "https://open.spotify.com/artist/1vWOhY2gsar5XKVJqBfdrh"
-        }
-      ],
-      "duration_ms": 140826,
-      "name": "Ask",
-      "url": "https://open.spotify.com/track/1QDfa76GouFESAc6e9xI7l"
-    },
-    {
-      "added_at": "2024-10-10 13:01:00",
-      "album": {
         "name": "malo okoma",
         "url": "https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 245437,
       "name": "malo okoma - Radio Edit",
       "url": "https://open.spotify.com/track/7tdviypkABEstu9z7gSB27"
+    },
+    {
+      "added_at": "2024-10-10 13:01:00",
+      "album": {
+        "name": "Ask",
+        "url": "https://open.spotify.com/album/4FkzJu0EGu2Y5zz7XQpQQD"
+      },
+      "artists": [
+        {
+          "name": "Dual Sessions",
+          "url": "https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp"
+        },
+        {
+          "name": "Style Project",
+          "url": "https://open.spotify.com/artist/1vWOhY2gsar5XKVJqBfdrh"
+        }
+      ],
+      "duration_ms": 140826,
+      "name": "Ask",
+      "url": "https://open.spotify.com/track/1QDfa76GouFESAc6e9xI7l"
     },
     {
       "added_at": "2024-10-10 13:01:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2024-10-10 13:01:00",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 208375,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
-    },
-    {
-      "added_at": "2024-10-10 13:01:00",
-      "album": {
         "name": "Inhale / Exhale (with Sabrina Claudio)",
         "url": "https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c"
       },
@@ -1267,6 +1247,26 @@
     {
       "added_at": "2024-10-10 13:01:00",
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 208375,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
+    },
+    {
+      "added_at": "2024-10-10 13:01:00",
+      "album": {
         "name": "A.M",
         "url": "https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK"
       },
@@ -1279,6 +1279,26 @@
       "duration_ms": 209849,
       "name": "The World",
       "url": "https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7"
+    },
+    {
+      "added_at": "2024-10-10 13:01:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/7CGAMG5LYr2l7VrJE4WY8f"
+      },
+      "artists": [
+        {
+          "name": "Mellowdy",
+          "url": "https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc"
+        },
+        {
+          "name": "Sahara Beck",
+          "url": "https://open.spotify.com/artist/52eVN5OWWaV4fVShDeJIj3"
+        }
+      ],
+      "duration_ms": 148404,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4ATL5bJmPMHl2mv1X1EwsE"
     },
     {
       "added_at": "2024-10-10 13:01:00",
@@ -1307,42 +1327,18 @@
     {
       "added_at": "2024-10-10 13:01:00",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/7CGAMG5LYr2l7VrJE4WY8f"
+        "name": "Kerbside Poetry",
+        "url": "https://open.spotify.com/album/6xklTnSYtgOoQSnKd1IkJL"
       },
       "artists": [
         {
-          "name": "Mellowdy",
-          "url": "https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc"
-        },
-        {
-          "name": "Sahara Beck",
-          "url": "https://open.spotify.com/artist/52eVN5OWWaV4fVShDeJIj3"
+          "name": "Asha Lin",
+          "url": "https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H"
         }
       ],
-      "duration_ms": 148404,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/4ATL5bJmPMHl2mv1X1EwsE"
-    },
-    {
-      "added_at": "2024-10-10 13:01:00",
-      "album": {
-        "name": "Above the Salt",
-        "url": "https://open.spotify.com/album/7tHZf9HwjVlQjQ7JkAXWNE"
-      },
-      "artists": [
-        {
-          "name": "Portair",
-          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
-        },
-        {
-          "name": "V\u00c9RIT\u00c9",
-          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
-        }
-      ],
-      "duration_ms": 226690,
-      "name": "Above the Salt",
-      "url": "https://open.spotify.com/track/6UuUbGvNaGsNjCYOuyw18Y"
+      "duration_ms": 192035,
+      "name": "Kerbside Poetry",
+      "url": "https://open.spotify.com/track/3TZGETLafJxMADpUqVIYSv"
     }
   ],
   "unique_name": "Just Chill",

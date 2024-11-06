@@ -1,6 +1,6 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2700154,
+  "num_followers": 2700770,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Eternal Atake 2",
+        "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 150895,
+      "name": "Not An Option",
+      "url": "https://open.spotify.com/track/1197AvSs0lMg5kNIGaeENm"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "NISSAN ALTIMA",
         "url": "https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ"
       },
@@ -559,6 +575,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Push Ups",
+        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 232774,
+      "name": "Push Ups",
+      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -583,22 +615,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Push Ups",
-        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 232774,
-      "name": "Push Ups",
-      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Motley Crew",
         "url": "https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 184213,
       "name": "Motley Crew",
       "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Eternal Atake 2",
-        "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 150895,
-      "name": "Not An Option",
-      "url": "https://open.spotify.com/track/1197AvSs0lMg5kNIGaeENm"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -671,18 +671,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
       },
       "artists": [
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 155200,
-      "name": "LET HER COOK",
-      "url": "https://open.spotify.com/track/1nF1SpkNfgPPozcXh2hvGU"
+      "duration_ms": 207835,
+      "name": "Aye (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2Hc1LaV6bzFil3dE71eORA"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -699,6 +703,22 @@
       "duration_ms": 456933,
       "name": "Family Matters",
       "url": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "LET HER COOK",
+      "url": "https://open.spotify.com/track/1nF1SpkNfgPPozcXh2hvGU"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -775,26 +795,6 @@
       "duration_ms": 158727,
       "name": "Enough (Miami)",
       "url": "https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 207835,
-      "name": "Aye (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/2Hc1LaV6bzFil3dE71eORA"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -895,26 +895,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Allure (feat. Future & Mike WiLL Made-It)",
-        "url": "https://open.spotify.com/album/25gXlZRYlLdjd3iOjB0FDQ"
+        "name": "Sleazy Flow (Remix)",
+        "url": "https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG"
       },
       "artists": [
         {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 190904,
-      "name": "Allure (feat. Future & Mike WiLL Made-It)",
-      "url": "https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ"
+      "duration_ms": 161355,
+      "name": "Sleazy Flow (with Lil Baby) - Remix",
+      "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -935,22 +931,26 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Sleazy Flow (Remix)",
-        "url": "https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG"
+        "name": "Allure (feat. Future & Mike WiLL Made-It)",
+        "url": "https://open.spotify.com/album/25gXlZRYlLdjd3iOjB0FDQ"
       },
       "artists": [
         {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
         },
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
         }
       ],
-      "duration_ms": 161355,
-      "name": "Sleazy Flow (with Lil Baby) - Remix",
-      "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
+      "duration_ms": 190904,
+      "name": "Allure (feat. Future & Mike WiLL Made-It)",
+      "url": "https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1439,26 +1439,18 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "HOODLUMZ (with PlayThatBoiZay & A$AP Rocky)",
-        "url": "https://open.spotify.com/album/2KunOxPu4RavN3VZ08vv5D"
+        "name": "Straightenin",
+        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
       },
       "artists": [
         {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "PlayThatBoiZay",
-          "url": "https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 129403,
-      "name": "HOODLUMZ (with PlayThatBoiZay & A$AP Rocky)",
-      "url": "https://open.spotify.com/track/3vDSn3BLIJKMHGrGC0zAib"
+      "duration_ms": 255532,
+      "name": "Straightenin",
+      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
     },
     {
       "added_at": "2024-11-01 04:00:00",

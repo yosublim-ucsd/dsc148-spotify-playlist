@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sRMIzOmlb4.md) - [plain]
 
 > The biggest songs in Latin America in 2015\. Cover: Nicky Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,782 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,834 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sRMIzOmlb4.md) - [plain]
 | 16 | [Chillax \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [Visionary](https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX) | 3:17 |
 | 17 | [La Mordidita \(feat\. Yotuel\)](https://open.spotify.com/track/00i0O74dXdaKKdCrqHnfXm) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [A Quien Quiera Escuchar \(Deluxe Edition\)](https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9) | 3:31 |
 | 18 | [Como Mirarte](https://open.spotify.com/track/0CXEPVeQDLgDBfvcsQpXq1) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 3:48 |
-| 19 | [¿Cómo Pagarte?](https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:31 |
-| 20 | [Sin Contrato](https://open.spotify.com/track/3yHJs5NmQk2ROAWCfjniXV) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:41 |
+| 19 | [Sin Contrato](https://open.spotify.com/track/3yHJs5NmQk2ROAWCfjniXV) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:41 |
+| 20 | [¿Cómo Pagarte?](https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:31 |
 | 21 | [Si Te Dejas Llevar](https://open.spotify.com/track/3cdecPxEdxk99munEMVQ01) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [Si Te Dejas Llevar \(feat\. Juanka\)](https://open.spotify.com/album/4ZBRYtgXi7vaLMQDW53WUY) | 3:47 |
 | 22 | [Si Pudiera](https://open.spotify.com/track/5SqG2MEuRjwhxi1DcRR4V8) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 4:16 |
 | 23 | [Mayor Que Yo 3](https://open.spotify.com/track/4777sGsOdoM89vPH3CVoLe) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mayor Que Yo 3](https://open.spotify.com/album/571drPm82JNSynpu9yhEEX) | 5:04 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sRMIzOmlb4.md) - [plain]
 | 26 | [Te Equivocaste](https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG) | 4:04 |
 | 27 | [Quédate](https://open.spotify.com/track/5XXxxfDWGvI6OaXPEniklV) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:03 |
 | 28 | [Picky](https://open.spotify.com/track/4tPL9PeVZY4c0jUPtSD5nx) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Picky Back To The Roots](https://open.spotify.com/album/5Y0jPLZZEf179dwwq4iEmN) | 3:02 |
-| 29 | [Nunca Me Olvides](https://open.spotify.com/track/27ebni0DfbT5Owz6W42HP8) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Dangerous](https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY) | 4:01 |
-| 30 | [Pretextos \(feat\. Cosculluela\)](https://open.spotify.com/track/7HDOS7qOhBxmcsWTv29PSK) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:48 |
+| 29 | [Pretextos \(feat\. Cosculluela\)](https://open.spotify.com/track/7HDOS7qOhBxmcsWTv29PSK) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:48 |
+| 30 | [Nunca Me Olvides](https://open.spotify.com/track/27ebni0DfbT5Owz6W42HP8) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Dangerous](https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY) | 4:01 |
 | 31 | [Noche Loca](https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Todo Comenzó Bailando](https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S) | 2:58 |
 | 32 | [Me Voy Enamorando \- Remix](https://open.spotify.com/track/0SUukeNYkHMk8bxwgGQKJa) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arbise González](https://open.spotify.com/artist/15siq5yPjIUocpME8lz02m) | [Radio Universo](https://open.spotify.com/album/6JRDbgNUSL0I38UMocyBS1) | 3:35 |
 | 33 | [Obsesionado](https://open.spotify.com/track/5Jt4zdXTd9y1zxihiNYQI1) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Visionary](https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX) | 3:31 |

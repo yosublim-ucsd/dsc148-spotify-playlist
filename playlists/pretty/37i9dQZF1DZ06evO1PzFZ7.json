@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152001,
+  "num_followers": 152004,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAAB/193YjaoJSdw7KgMuh1zI",
+  "snapshot_id": "ZygOgAAAAACeWSD19hWPWBA/sfrdM57e",
   "tracks": [
     {
       "added_at": null,
@@ -471,26 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexicano Hasta los Huesos",
-        "url": "https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w"
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 178150,
-      "name": "Que Me Entierren Con la Banda",
-      "url": "https://open.spotify.com/track/6EubqUdydkHdtnXStHOlVN"
+      "duration_ms": 200269,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp"
     },
     {
       "added_at": null,
@@ -515,18 +507,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+        "name": "Mexicano Hasta los Huesos",
+        "url": "https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w"
       },
       "artists": [
         {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 200269,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp"
+      "duration_ms": 178150,
+      "name": "Que Me Entierren Con la Banda",
+      "url": "https://open.spotify.com/track/6EubqUdydkHdtnXStHOlVN"
     },
     {
       "added_at": null,

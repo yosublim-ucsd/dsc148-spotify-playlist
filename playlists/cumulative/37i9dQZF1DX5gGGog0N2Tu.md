@@ -4,7 +4,7 @@
 
 > 🎀  𝓢𝓸𝓶𝓮𝓽𝓲𝓶𝓮𝓼, 𝓰𝓲𝓻𝓵𝓼 𝓳𝓾𝓼𝓽 𝓰𝓸𝓽𝓽𝓪 𝓱𝓪𝓿𝓮 𝓯𝓾𝓷 💅
 
-255 songs - 13 hr 15 min
+256 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-06-27 |  |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2024-06-27 | 2024-07-10 |
 | [New Bottega](https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH) | 3:08 | 2024-07-26 |  |
+| [next to you](https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [next to you](https://open.spotify.com/album/1krJ5WnQuLKJhBK81PFVMW) | 2:34 | 2024-11-04 |  |
 | [NIGHTS LIKE THIS](https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 1:26 | 2024-07-04 |  |
 | [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 | 2024-10-03 |  |
 | [Nomad](https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nomad](https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq) | 3:45 | 2024-07-04 | 2024-07-25 |
@@ -189,7 +190,7 @@
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-27 |  |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2024-06-27 | 2024-07-27 |
 | [Sad Boiii](https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Sad Boiii](https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR) | 2:46 | 2024-09-09 | 2024-10-15 |
-| [Safety Net](https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Safety Net](https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8) | 3:23 | 2024-10-03 |  |
+| [Safety Net](https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Safety Net](https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8) | 3:23 | 2024-10-03 | 2024-11-06 |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-10-11 |  |
 | [Santa](https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/3uzutRS5qX4ng5Skjh5S6W) | 3:13 | 2024-07-26 |  |
 | [Say Yes To Heaven \- Anyma Remix](https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Say Yes To Heaven \(Anyma Remix\)](https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq) | 3:42 | 2024-07-26 | 2024-10-12 |

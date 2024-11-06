@@ -1,6 +1,6 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 57292,
+  "num_followers": 57338,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Trixie Smith Vol. 2 1925-1929",
-        "url": "https://open.spotify.com/album/2qHLqftCshlkkR8ydCXPGI"
-      },
-      "artists": [
-        {
-          "name": "Trixie Smith",
-          "url": "https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9"
-        }
-      ],
-      "duration_ms": 174184,
-      "name": "My Daddy Rocks Me",
-      "url": "https://open.spotify.com/track/4cputOB2WH8qeKRVafoopX"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "The Essential Billie Holiday",
         "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 173266,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/5HH7KwGKmtfpnkdgdRiapw"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Trixie Smith Vol. 2 1925-1929",
+        "url": "https://open.spotify.com/album/2qHLqftCshlkkR8ydCXPGI"
+      },
+      "artists": [
+        {
+          "name": "Trixie Smith",
+          "url": "https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9"
+        }
+      ],
+      "duration_ms": 174184,
+      "name": "My Daddy Rocks Me",
+      "url": "https://open.spotify.com/track/4cputOB2WH8qeKRVafoopX"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 187146,
-      "name": "Billie's Blues",
-      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "First Time I Met the Blues (When the Sun Goes Down series)",
         "url": "https://open.spotify.com/album/1uaBcAlIjRVuNcsx1zLayL"
       },
@@ -491,34 +475,18 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Crazy Blues: The Best Of Mamie Smith",
-        "url": "https://open.spotify.com/album/6os2Mv58OYnQClPf7B9E1s"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
       },
       "artists": [
         {
-          "name": "Mamie Smith",
-          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 168333,
-      "name": "Keep A Song In Your Soul",
-      "url": "https://open.spotify.com/track/0cS0A1fUEUd1EW3FcF8AEI"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
-        "name": "Early One Mornin\u2019 Blues (Live)",
-        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "Early One Mornin\u2019 Blues - Live",
-      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
+      "duration_ms": 187146,
+      "name": "Billie's Blues",
+      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -539,6 +507,38 @@
       "duration_ms": 240760,
       "name": "Bad Spell Blues",
       "url": "https://open.spotify.com/track/0GzE9pIJApHUOohOTGplUW"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Early One Mornin\u2019 Blues (Live)",
+        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 254106,
+      "name": "Early One Mornin\u2019 Blues - Live",
+      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Crazy Blues: The Best Of Mamie Smith",
+        "url": "https://open.spotify.com/album/6os2Mv58OYnQClPf7B9E1s"
+      },
+      "artists": [
+        {
+          "name": "Mamie Smith",
+          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Keep A Song In Your Soul",
+      "url": "https://open.spotify.com/track/0cS0A1fUEUd1EW3FcF8AEI"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "The Essential Billie Holiday",
-        "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 157960,
-      "name": "Billie's Blues - Take 1",
-      "url": "https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Sweet Emma Barrett And Her New Orleans Music",
         "url": "https://open.spotify.com/album/3ePmdU3EBhhiID5RI6ZlUg"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 220299,
       "name": "Jelly Roll Blues",
       "url": "https://open.spotify.com/track/5VTLcHNmiFZ99okh2YliQF"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "The Essential Billie Holiday",
+        "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 157960,
+      "name": "Billie's Blues - Take 1",
+      "url": "https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Territory Singers Vol. 1 (1922-1928)",
-        "url": "https://open.spotify.com/album/3LupTSTBpB0MDBKDgCbyae"
-      },
-      "artists": [
-        {
-          "name": "Ada Brown",
-          "url": "https://open.spotify.com/artist/5GiCHhSywK8JwLeR149WAI"
-        }
-      ],
-      "duration_ms": 184111,
-      "name": "Evil Mama Blues",
-      "url": "https://open.spotify.com/track/22ytr8Lkn7HH7DDSIt80Ee"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Those Dirty Blues, Vol. 2",
         "url": "https://open.spotify.com/album/0zDMxkrHTiWACsChYUqCNl"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 205000,
       "name": "Honey Dripper Blues",
       "url": "https://open.spotify.com/track/1Os8Vy3lPy5jV1pvbWhVb1"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Territory Singers Vol. 1 (1922-1928)",
+        "url": "https://open.spotify.com/album/3LupTSTBpB0MDBKDgCbyae"
+      },
+      "artists": [
+        {
+          "name": "Ada Brown",
+          "url": "https://open.spotify.com/artist/5GiCHhSywK8JwLeR149WAI"
+        }
+      ],
+      "duration_ms": 184111,
+      "name": "Evil Mama Blues",
+      "url": "https://open.spotify.com/track/22ytr8Lkn7HH7DDSIt80Ee"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Raunchy Business: Hot Nuts & Lollypops",
-        "url": "https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx"
-      },
-      "artists": [
-        {
-          "name": "Bernice Edwards",
-          "url": "https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA"
-        }
-      ],
-      "duration_ms": 186733,
-      "name": "Butcher Shop Blues",
-      "url": "https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Female Crazy Blues (Classic Mood Experience)",
         "url": "https://open.spotify.com/album/0qxCmVoI0KEnpT4dLazSeL"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "The Blues Mama",
-        "url": "https://open.spotify.com/album/6XBPbT1jHLKJpvkfAW4cuZ"
+        "name": "Raunchy Business: Hot Nuts & Lollypops",
+        "url": "https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx"
       },
       "artists": [
         {
-          "name": "Lil Green",
-          "url": "https://open.spotify.com/artist/54n9JL6NVGHuhXqU2DSbMS"
+          "name": "Bernice Edwards",
+          "url": "https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA"
         }
       ],
-      "duration_ms": 204225,
-      "name": "Romance in the Dark",
-      "url": "https://open.spotify.com/track/0o99WPCOktWokBuqRDjf0p"
+      "duration_ms": 186733,
+      "name": "Butcher Shop Blues",
+      "url": "https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
+        "name": "The Blues Mama",
+        "url": "https://open.spotify.com/album/6XBPbT1jHLKJpvkfAW4cuZ"
+      },
+      "artists": [
+        {
+          "name": "Lil Green",
+          "url": "https://open.spotify.com/artist/54n9JL6NVGHuhXqU2DSbMS"
+        }
+      ],
+      "duration_ms": 204225,
+      "name": "Romance in the Dark",
+      "url": "https://open.spotify.com/track/0o99WPCOktWokBuqRDjf0p"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
         "name": "Downhearted Blues",
         "url": "https://open.spotify.com/album/0uGxY4y7NJupIs7b5Keeep"
       },
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "East and West Blues",
-        "url": "https://open.spotify.com/album/2CpcUaXSolfue1LCymEctZ"
+        "name": "Stationary Mama",
+        "url": "https://open.spotify.com/album/7r099iFTUtERJVckKP5O7E"
       },
       "artists": [
         {
-          "name": "Marie Grinter",
-          "url": "https://open.spotify.com/artist/5xNjHH7UcOnDXIb6SnK1qr"
+          "name": "Edith Wilson",
+          "url": "https://open.spotify.com/artist/5elEUmHT71U4DXo5QV52pH"
         }
       ],
-      "duration_ms": 206240,
-      "name": "East and West Blues",
-      "url": "https://open.spotify.com/track/0dTUDvCC9x6a6UUPjOrOM2"
+      "duration_ms": 168973,
+      "name": "How Come You Do Me Like You Do?",
+      "url": "https://open.spotify.com/track/0t0zHxsrim0OQv0dkqy9EL"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Stationary Mama",
-        "url": "https://open.spotify.com/album/7r099iFTUtERJVckKP5O7E"
+        "name": "East and West Blues",
+        "url": "https://open.spotify.com/album/2CpcUaXSolfue1LCymEctZ"
       },
       "artists": [
         {
-          "name": "Edith Wilson",
-          "url": "https://open.spotify.com/artist/5elEUmHT71U4DXo5QV52pH"
+          "name": "Marie Grinter",
+          "url": "https://open.spotify.com/artist/5xNjHH7UcOnDXIb6SnK1qr"
         }
       ],
-      "duration_ms": 168973,
-      "name": "How Come You Do Me Like You Do?",
-      "url": "https://open.spotify.com/track/0t0zHxsrim0OQv0dkqy9EL"
+      "duration_ms": 206240,
+      "name": "East and West Blues",
+      "url": "https://open.spotify.com/track/0dTUDvCC9x6a6UUPjOrOM2"
     },
     {
       "added_at": "2024-06-02 16:39:20",

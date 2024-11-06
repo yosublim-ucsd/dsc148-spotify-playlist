@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \ud83d\udc97 with Martin Garrix",
-  "num_followers": 266670,
+  "num_followers": 266994,
   "original_name": "EDM 2024",
   "owner": {
     "name": "Spotify",
@@ -1687,6 +1687,26 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Smile Boy",
+        "url": "https://open.spotify.com/album/0GCPTSJvxI0pqUEuhOGSaS"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 144840,
+      "name": "Smile Boy",
+      "url": "https://open.spotify.com/track/686xawmVv1F1Ks5kJRkcVG"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Crush Me Down (You Spin Me Around)",
         "url": "https://open.spotify.com/album/6qypYS9alhKACA6XzPDDwB"
       },
@@ -1707,26 +1727,6 @@
       "duration_ms": 121232,
       "name": "Crush Me Down (You Spin Me Around)",
       "url": "https://open.spotify.com/track/2E8ometum2UaxsEdH8VS5z"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Smile Boy",
-        "url": "https://open.spotify.com/album/0GCPTSJvxI0pqUEuhOGSaS"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 144840,
-      "name": "Smile Boy",
-      "url": "https://open.spotify.com/track/686xawmVv1F1Ks5kJRkcVG"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1875,26 +1875,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Jordan Rys",
-          "url": "https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI"
-        }
-      ],
-      "duration_ms": 143117,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "hold my hand",
         "url": "https://open.spotify.com/album/0CgtiMzPmtvTM115elKHao"
       },
@@ -1911,6 +1891,26 @@
       "duration_ms": 266246,
       "name": "hold my hand",
       "url": "https://open.spotify.com/track/3GPmn3HANnZTlEovc2J9nt"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Jordan Rys",
+          "url": "https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI"
+        }
+      ],
+      "duration_ms": 143117,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1979,6 +1979,26 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Don't Kill My Vibe",
+        "url": "https://open.spotify.com/album/648IV7Co3PFq74vL5nimRr"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Don't Kill My Vibe",
+      "url": "https://open.spotify.com/track/4QF4IfN0TqvJ00V7qHkLRw"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Wherever You Are",
         "url": "https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK"
       },
@@ -2003,22 +2023,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Don't Kill My Vibe",
-        "url": "https://open.spotify.com/album/648IV7Co3PFq74vL5nimRr"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5h8OA47knr8723Mc73vVMD"
       },
       "artists": [
         {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         },
         {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+          "name": "Sofiloud",
+          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Don't Kill My Vibe",
-      "url": "https://open.spotify.com/track/4QF4IfN0TqvJ00V7qHkLRw"
+      "duration_ms": 155409,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4r9kj0CqH7RCp6Oxx56SvN"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -2039,26 +2059,6 @@
       "duration_ms": 197322,
       "name": "THE REASON (feat. John Newman)",
       "url": "https://open.spotify.com/track/1H7izUQD8BKZgcUTIG0t6o"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/5h8OA47knr8723Mc73vVMD"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Sofiloud",
-          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4r9kj0CqH7RCp6Oxx56SvN"
     },
     {
       "added_at": "2024-10-25 04:00:00",

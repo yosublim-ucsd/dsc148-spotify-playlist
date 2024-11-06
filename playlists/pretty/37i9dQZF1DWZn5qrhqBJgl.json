@@ -1,6 +1,6 @@
 {
   "description": "Dope global beat makers. <a href=\"spotify:artist:4fOizZJsCaT3RYpqNdeGKk\">Thanks Joey</a>",
-  "num_followers": 122934,
+  "num_followers": 122972,
   "original_name": "Dope Beats",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Redux",
-        "url": "https://open.spotify.com/album/1shfaj98aEPsCz6k6B2O9o"
-      },
-      "artists": [
-        {
-          "name": "Cushy",
-          "url": "https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q"
-        }
-      ],
-      "duration_ms": 151446,
-      "name": "Convo",
-      "url": "https://open.spotify.com/track/38bkmIxxZMQC1f6m0JXFl6"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Above the Clouds",
         "url": "https://open.spotify.com/album/0An0CtQgoD3lTBajLZ5BKT"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 195353,
       "name": "Lifted",
       "url": "https://open.spotify.com/track/7Gtaq3mJs8K4CY58TjCk9j"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Redux",
+        "url": "https://open.spotify.com/album/1shfaj98aEPsCz6k6B2O9o"
+      },
+      "artists": [
+        {
+          "name": "Cushy",
+          "url": "https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q"
+        }
+      ],
+      "duration_ms": 151446,
+      "name": "Convo",
+      "url": "https://open.spotify.com/track/38bkmIxxZMQC1f6m0JXFl6"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "Farmingdale",
+        "url": "https://open.spotify.com/album/0H08iAhi6Cv8iSh2QfZBuO"
+      },
+      "artists": [
+        {
+          "name": "Goldspell",
+          "url": "https://open.spotify.com/artist/2gmP9WC9aV1ETtETCW0yF1"
+        }
+      ],
+      "duration_ms": 180427,
+      "name": "Farmingdale",
+      "url": "https://open.spotify.com/track/2JT5TckTZ2eLRMUeT4c3vJ"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "The Ace",
         "url": "https://open.spotify.com/album/1zg8XpwtPKoLgGurMkz5Op"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 144968,
       "name": "The Ace",
       "url": "https://open.spotify.com/track/3YphbgGJ1GfEGhMmIOthk6"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Farmingdale",
-        "url": "https://open.spotify.com/album/0H08iAhi6Cv8iSh2QfZBuO"
-      },
-      "artists": [
-        {
-          "name": "Goldspell",
-          "url": "https://open.spotify.com/artist/2gmP9WC9aV1ETtETCW0yF1"
-        }
-      ],
-      "duration_ms": 180427,
-      "name": "Farmingdale",
-      "url": "https://open.spotify.com/track/2JT5TckTZ2eLRMUeT4c3vJ"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -403,18 +403,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Rudimentary",
-        "url": "https://open.spotify.com/album/7H2EfXZ6vwDEcRqg3fWjFy"
+        "name": "Arabstazy - Under Frustration Vol. 2",
+        "url": "https://open.spotify.com/album/57xfOZGUXk91oUUnlMrxPW"
       },
       "artists": [
         {
-          "name": "Ballpoint",
-          "url": "https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC"
+          "name": "Rafael Aragon",
+          "url": "https://open.spotify.com/artist/4WPMUBMIM4Pv1T4Qq3DIPs"
+        },
+        {
+          "name": "Stas",
+          "url": "https://open.spotify.com/artist/1nqPoRk7WaEiRBTNn6NFyG"
         }
       ],
-      "duration_ms": 129098,
-      "name": "Spectra",
-      "url": "https://open.spotify.com/track/0wW2h34ktVMnLMKZG57FRk"
+      "duration_ms": 322842,
+      "name": "Ik Vari Do Vari",
+      "url": "https://open.spotify.com/track/6tEhSz0ct5TlKXBsSNWIHa"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -435,22 +439,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Arabstazy - Under Frustration Vol. 2",
-        "url": "https://open.spotify.com/album/57xfOZGUXk91oUUnlMrxPW"
+        "name": "Rudimentary",
+        "url": "https://open.spotify.com/album/7H2EfXZ6vwDEcRqg3fWjFy"
       },
       "artists": [
         {
-          "name": "Rafael Aragon",
-          "url": "https://open.spotify.com/artist/4WPMUBMIM4Pv1T4Qq3DIPs"
-        },
-        {
-          "name": "Stas",
-          "url": "https://open.spotify.com/artist/1nqPoRk7WaEiRBTNn6NFyG"
+          "name": "Ballpoint",
+          "url": "https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC"
         }
       ],
-      "duration_ms": 322842,
-      "name": "Ik Vari Do Vari",
-      "url": "https://open.spotify.com/track/6tEhSz0ct5TlKXBsSNWIHa"
+      "duration_ms": 129098,
+      "name": "Spectra",
+      "url": "https://open.spotify.com/track/0wW2h34ktVMnLMKZG57FRk"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Emot",
-        "url": "https://open.spotify.com/album/0LvbwjOGgBviZPFgTpJQf7"
-      },
-      "artists": [
-        {
-          "name": "TheeAgris",
-          "url": "https://open.spotify.com/artist/6je5mA0FQskRZ5PHgxczTB"
-        }
-      ],
-      "duration_ms": 146207,
-      "name": "Emot",
-      "url": "https://open.spotify.com/track/62ej1SzgHt0FU9nP43qQZs"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Birdie_",
         "url": "https://open.spotify.com/album/4tkmEfZLyCSUjGwjJsm9Le"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 149333,
       "name": "Birdie_ - Instrumental",
       "url": "https://open.spotify.com/track/05n4JTIENSHhwsa7aBDvPm"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Emot",
+        "url": "https://open.spotify.com/album/0LvbwjOGgBviZPFgTpJQf7"
+      },
+      "artists": [
+        {
+          "name": "TheeAgris",
+          "url": "https://open.spotify.com/artist/6je5mA0FQskRZ5PHgxczTB"
+        }
+      ],
+      "duration_ms": 146207,
+      "name": "Emot",
+      "url": "https://open.spotify.com/track/62ej1SzgHt0FU9nP43qQZs"
     },
     {
       "added_at": "2022-03-22 11:23:16",

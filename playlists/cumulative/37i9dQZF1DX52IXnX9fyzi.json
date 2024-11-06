@@ -8743,6 +8743,24 @@
     },
     {
       "album": {
+        "name": "Whirlwinds of Life",
+        "url": "https://open.spotify.com/album/09PyQ46u4rKCwkgeEb0Rss"
+      },
+      "artists": [
+        {
+          "name": "Vic Carnes",
+          "url": "https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142674,
+      "name": "Whirlwinds of Life",
+      "url": "https://open.spotify.com/track/7LWlVCicZ2oYx9ddg0FglR"
+    },
+    {
+      "album": {
         "name": "Wide Skies",
         "url": "https://open.spotify.com/album/5flaLlq8sLt6VdnPCr5Ast"
       },

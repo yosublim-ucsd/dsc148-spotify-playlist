@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del Trap Latino\. Foto: Duki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,102,048 likes - 102 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,102,244 likes - 102 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 9 | [Rockstar](https://open.spotify.com/track/3E4ZzO4ySupnYypDPXcc3D) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Rockstar](https://open.spotify.com/album/15Pp0263atXizZbrwTEWjb) | 1:52 |
 | 10 | [120](https://open.spotify.com/track/3KJ3opyV29269SXkPrc19l) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:31 |
 | 11 | [SORNERO](https://open.spotify.com/track/1kKhy7DEPN4fUj8OPIJrOk) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [SORNERO](https://open.spotify.com/album/2MV34WRwGIClaHGjhZmK1f) | 3:28 |
-| 12 | [fLA$H](https://open.spotify.com/track/4sl0Z8wtMiQa5NuMIIVk36) | [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [fLA$H](https://open.spotify.com/album/4bHbVaSaEdg7SlM2ZWg2Lc) | 3:08 |
+| 12 | [fLA$H \(feat\. KHEA\)](https://open.spotify.com/track/4sl0Z8wtMiQa5NuMIIVk36) | [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [fLA$H \(feat\. KHEA\)](https://open.spotify.com/album/4bHbVaSaEdg7SlM2ZWg2Lc) | 3:08 |
 | 13 | [Solita](https://open.spotify.com/track/7rwX0O3RlxqqIjQM8evm5E) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Solita](https://open.spotify.com/album/27Exjl2H0oI6X0WCzZd7Bk) | 5:11 |
 | 14 | [She Don't Give a Fo](https://open.spotify.com/track/03a359wbiUsjN9h6yzXvmS) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [She Don't Give a Fo](https://open.spotify.com/album/42ZO19JImkKWh6y7rfvrfM) | 3:29 |
 | 15 | [Dos Mil 16](https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:28 |

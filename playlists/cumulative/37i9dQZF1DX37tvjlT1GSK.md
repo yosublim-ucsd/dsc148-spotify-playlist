@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Los Plebes del Rancho en portada.
 
-474 songs - 1 day 1 hr 3 min
+475 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 | 2022-02-01 |  |
 | [Me Encantaría](https://open.spotify.com/track/7og0ELz0i9aY85olco9azQ) | [Jorge Morales El Jilguero](https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv) | [Me Encantaría](https://open.spotify.com/album/41DebqQVtisNu01QMaw1wD) | 3:44 | 2024-02-24 | 2024-04-10 |
 | [ME PORTO BONITO](https://open.spotify.com/track/6utwmYBwLhVwxCGsZEfG0i) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [ME PORTO BONITO](https://open.spotify.com/album/24ZfOunWyvWR3mcAEvg8mN) | 3:02 | 2024-06-28 |  |
+| [Me Voy](https://open.spotify.com/track/5rRIkqmOeExv72ZAQKsNKk) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:36 | 2024-11-01 |  |
 | [Medias Negras](https://open.spotify.com/track/36aWKc0gB1dt2bh9YLlUD6) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Medias Negras](https://open.spotify.com/album/47un1dVrmVaaNT1PGvEU2d) | 3:07 | 2023-05-24 | 2024-01-31 |
 | [Mercedes](https://open.spotify.com/track/2nScdE9zhFz3oPYb7AW5GT) | [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [Mercedes](https://open.spotify.com/album/6TI3ORjQjDwmnxpEm4V2oX) | 2:13 | 2024-10-04 |  |
 | [Mi Bello Angel](https://open.spotify.com/track/1oWkcc7hQdVYPQMyQ6AFov) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:08 | 2023-06-30 | 2023-08-25 |
@@ -463,7 +464,7 @@
 | [Y Yo Voy](https://open.spotify.com/track/1ld0TsEKmNTl3FptSEu0dI) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Y Yo Voy](https://open.spotify.com/album/7qnA2gzuQmvSI07ddFCiIu) | 2:57 | 2022-10-24 | 2023-12-02 |
 | [Ya Acabo](https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 3:09 | 2023-12-01 |  |
 | [Ya acabó \- Con Becky G](https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Ya acabó \(Con Becky G\)](https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc) | 2:56 | 2022-05-06 | 2023-12-02 |
-| [Ya Corazón](https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ya Corazón](https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK) | 2:57 | 2023-03-17 |  |
+| [Ya Corazón](https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ya Corazón](https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK) | 2:57 | 2023-03-17 | 2024-11-06 |
 | [Ya Está Decidido](https://open.spotify.com/track/13SSMMhu2iI1oDSXwFSaiw) | [Clave 702](https://open.spotify.com/artist/3dBuaGsQYVTgxHkNxBNyL2) | [Ya Está Decidido](https://open.spotify.com/album/6bBvfl8NCNMYCL3vhyIHM4) | 3:57 | 2022-08-05 | 2022-09-24 |
 | [Ya la Supe Hacer](https://open.spotify.com/track/01r4caKLqWwKBGlcjuzT9d) | [Christian Ortega](https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [Ya la Supe Hacer](https://open.spotify.com/album/4iUAJgOLrD9aiN4i1TB3ut) | 2:30 | 2024-06-28 | 2024-09-07 |
 | [Ya Me Está Pegando En Serio](https://open.spotify.com/track/0Q0oYoNHC5UVFpb66hRFkw) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Ya Me Está Pegando En Serio](https://open.spotify.com/album/27WBG6Tq8pUcCZpM3uMu3g) | 3:33 | 2023-06-30 | 2023-07-15 |

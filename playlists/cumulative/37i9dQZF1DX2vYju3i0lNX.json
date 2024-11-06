@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/0bxiT0CWQQIpZIHMDH2l61"
+      },
+      "artists": [
+        {
+          "name": "Prism Trio",
+          "url": "https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162891,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/6Hwk611vPie2AxFJdE0I06"
+    },
+    {
+      "album": {
         "name": "All I Know Is You",
         "url": "https://open.spotify.com/album/3eEkfabAwNHDzoafZlJ9Em"
       },
@@ -4100,7 +4118,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 199166,
       "name": "Dimness",
       "url": "https://open.spotify.com/track/5IVl86u3PwXeo73x3tFBEh"
@@ -4472,7 +4490,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 227287,
       "name": "East Of Eden",
       "url": "https://open.spotify.com/track/6rW3GIbMfkNZkGHN1hRh1B"
@@ -4670,7 +4688,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 262566,
       "name": "Elegant As They Come",
       "url": "https://open.spotify.com/track/4kPYGarMXHC5eACXc17P25"
@@ -5168,6 +5186,24 @@
       "duration_ms": 253337,
       "name": "Falling For Love",
       "url": "https://open.spotify.com/track/2qWNjbqDTXBGRdcmZDcUXg"
+    },
+    {
+      "album": {
+        "name": "Falling for You",
+        "url": "https://open.spotify.com/album/5XxsunjiELsIYPPSZqpDHH"
+      },
+      "artists": [
+        {
+          "name": "Sidney Hatfield Trio",
+          "url": "https://open.spotify.com/artist/6H3KpzoFcsyiizhxJDboDB"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/3JxZ4Suz2IKTJL8tqYUldj"
     },
     {
       "album": {
@@ -6136,7 +6172,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 244897,
       "name": "Getting Sentimental",
       "url": "https://open.spotify.com/track/582sSNDZHDHEirG7B4ahKI"
@@ -6730,7 +6766,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 275959,
       "name": "Hometown Again",
       "url": "https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn"
@@ -6892,7 +6928,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 279206,
       "name": "How She Walks",
       "url": "https://open.spotify.com/track/1OsZpyWuQeukRtfB9U8Tmk"
@@ -7382,6 +7418,24 @@
       "duration_ms": 229504,
       "name": "I Wish I Knew",
       "url": "https://open.spotify.com/track/2ixKm55QpuEkEKHVGHWCNQ"
+    },
+    {
+      "album": {
+        "name": "I Wonder Why",
+        "url": "https://open.spotify.com/album/5lijkHpVDFVNqct6LqR1A6"
+      },
+      "artists": [
+        {
+          "name": "The Bruce Brady Trio",
+          "url": "https://open.spotify.com/artist/75Wq0vgFRSA0Nhx7tg49zW"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225250,
+      "name": "I Wonder Why",
+      "url": "https://open.spotify.com/track/7nrEqjAOU6LYdNRYiWHkSk"
     },
     {
       "album": {
@@ -10877,6 +10931,24 @@
     },
     {
       "album": {
+        "name": "Memories in Motion",
+        "url": "https://open.spotify.com/album/4GxLMPI1EoiD08UGLBBFAZ"
+      },
+      "artists": [
+        {
+          "name": "The Grace Smith Gang",
+          "url": "https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222620,
+      "name": "Memories in Motion",
+      "url": "https://open.spotify.com/track/7EEmq8RMAdBsZRY6uLBqS8"
+    },
+    {
+      "album": {
         "name": "Memories Of Her Music",
         "url": "https://open.spotify.com/album/0ae4cJFhCtFf2ZSO4UMewV"
       },
@@ -11050,7 +11122,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 259173,
       "name": "Midnight Serenade",
       "url": "https://open.spotify.com/track/20mQhw06M8Hb6859ZuyLeh"
@@ -12040,7 +12112,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 200062,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/0RHtVDyJZTDZUO93AyTjj0"
@@ -15986,7 +16058,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 212200,
       "name": "Tears",
       "url": "https://open.spotify.com/track/4g7dvHTmHnsr4buNGeAwOJ"
@@ -16580,7 +16652,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 176145,
       "name": "The Lights of Macau",
       "url": "https://open.spotify.com/track/2ftsIBsirQonhMxCHsn52l"
@@ -17012,7 +17084,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 181238,
       "name": "Theme for Ruth",
       "url": "https://open.spotify.com/track/3Lufuxi6y1fGw3bPHhlx66"

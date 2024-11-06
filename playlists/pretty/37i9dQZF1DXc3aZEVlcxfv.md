@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 
 > I am blessed!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,752 likes - 50 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,763 likes - 50 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,17 +32,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 | 22 | [Do It Again](https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:38 |
 | 23 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
 | 24 | [Dependable God \(Medley\)](https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Dependable God \(Medley\)](https://open.spotify.com/album/7CzRW6l3bcarSQ8w1wAoKj) | 3:52 |
-| 25 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 |
+| 25 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
 | 26 | [Adonai](https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 8:31 |
-| 27 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
+| 27 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 |
 | 28 | [The Blessing \(Live\)](https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 8:27 |
-| 29 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 |
+| 29 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 |
 | 30 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 |
 | 31 | [All That Matters](https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 6:10 |
 | 32 | [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 |
 | 33 | [Ekwueme](https://open.spotify.com/track/5YOR2BKwdWNnDqIZzEgguu) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Osinachi Nwachukwu](https://open.spotify.com/artist/7DmYJaJIKvbtMy7WsUNb1F) | [Ekwueme to the World Project](https://open.spotify.com/album/1hLkcPy59fyfQktW86MaOQ) | 6:57 |
-| 34 | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/album/5ebJIqFHHtI9QytYJIs8Cy) | 2:06 |
-| 35 | [Victory](https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 3:50 |
+| 34 | [Victory](https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 3:50 |
+| 35 | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/album/5ebJIqFHHtI9QytYJIs8Cy) | 2:06 |
 | 36 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 |
 | 37 | [On Christ the Solid Rock](https://open.spotify.com/track/7f76fuhNITKqRtUJaTXnzE) | [Vinesong](https://open.spotify.com/artist/2GBZhtZkXs2SjxoGJSWLo6) | [Our God Reigns](https://open.spotify.com/album/2goNu8zaAUIhrKnhMmLpya) | 2:58 |
 | 38 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 |

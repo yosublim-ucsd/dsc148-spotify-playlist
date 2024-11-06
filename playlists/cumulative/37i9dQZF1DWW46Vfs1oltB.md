@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: G\-DRAGON\)
 
-1,368 songs - 3 day 2 hr 6 min
+1,369 songs - 3 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [City Lights \(Feat\. Hash Swan\)](https://open.spotify.com/track/02X3xsCCCtW0jwAXgvu5Mk) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [City Lights](https://open.spotify.com/album/1ERqcew3rdwwhaLQUPpOfp) | 3:49 | 2022-09-11 | 2023-03-01 |
 | [CITY+++ \(feat\. Gaeko\)](https://open.spotify.com/track/1tLPWvrnepX6TK7RDPoWMa) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Seoul Vibe \(Original Soundtrack from The Netflix Film\)](https://open.spotify.com/album/6uZBJUJZY1gkxBGxfksbHs) | 2:57 | 2022-08-27 | 2022-12-20 |
 | [Cliché](https://open.spotify.com/track/2udNW46Jp5dP24bnNaPmh8) | [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS) | [4 MNTGS](https://open.spotify.com/album/3X7dYhAS4gOjL1sMZJ0psi) | 1:15 | 2022-01-15 | 2022-04-20 |
+| [CLIK CLAK](https://open.spotify.com/track/0Rq9lIn9fl4wiW9Tg72ifr) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 2:49 | 2024-11-05 |  |
 | [Closer \(with Paul Blanco, Mahalia\)](https://open.spotify.com/track/5AmBIWCnsLscPSYsfCApBy) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 3:16 | 2022-12-02 | 2022-12-19 |
 | [Closer \(with Paul Blanco, Mahalia\)](https://open.spotify.com/track/0Cuwd86fyu0lPVokzTp8Hu) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 3:16 | 2022-12-14 | 2023-01-11 |
 | [Cloud \(Feat\. Clavita, Donutman\)](https://open.spotify.com/track/5JPohmztk8M6sdxB59yEY0) | [WavyCake](https://open.spotify.com/artist/2fwYaw5xb32ox263Uo7nPR), [Clavita](https://open.spotify.com/artist/3J6rkpg316KEM3dvDsizb7), [Donutman](https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc) | [Cloud](https://open.spotify.com/album/0Ch4WiXxd12tT6OZrkBQyC) | 3:26 | 2021-12-21 | 2022-06-26 |

@@ -1,6 +1,6 @@
 {
   "description": "have you noticed? \ud83d\udeac\ud83e\udde1",
-  "num_followers": 215000,
+  "num_followers": 214994,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -831,18 +831,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "S\u00e5nne Som Oss",
-        "url": "https://open.spotify.com/album/7puoXTrLHsfCvDfj1Rqj61"
+        "name": "Ingen andre (feat. Chris Holsten)",
+        "url": "https://open.spotify.com/album/41qBtz2LfCm0J1GaDy1sa5"
       },
       "artists": [
         {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+          "name": "Isah",
+          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
+        },
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
         }
       ],
-      "duration_ms": 172596,
-      "name": "S\u00e5nne Som Oss",
-      "url": "https://open.spotify.com/track/2c6gm3rPfI0XGgbvm2mK3y"
+      "duration_ms": 164246,
+      "name": "Ingen andre (feat. Chris Holsten)",
+      "url": "https://open.spotify.com/track/6a2kA9madk3baDAq7QmPdb"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -863,22 +867,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Ingen andre (feat. Chris Holsten)",
-        "url": "https://open.spotify.com/album/41qBtz2LfCm0J1GaDy1sa5"
+        "name": "S\u00e5nne Som Oss",
+        "url": "https://open.spotify.com/album/7puoXTrLHsfCvDfj1Rqj61"
       },
       "artists": [
         {
-          "name": "Isah",
-          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
-        },
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
         }
       ],
-      "duration_ms": 164246,
-      "name": "Ingen andre (feat. Chris Holsten)",
-      "url": "https://open.spotify.com/track/6a2kA9madk3baDAq7QmPdb"
+      "duration_ms": 172596,
+      "name": "S\u00e5nne Som Oss",
+      "url": "https://open.spotify.com/track/2c6gm3rPfI0XGgbvm2mK3y"
     }
   ],
   "unique_name": "ung, dum & lovende",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Cortes modernos pa' los compas con estilo!",
-  "num_followers": 103869,
+  "num_followers": 103907,
   "original_name": "Barber\u00eda",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Pa' Que Retozen",
-      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 206420,
       "name": "La Santa",
       "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Pa' Que Retozen",
+      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
         "name": "Poco A Poco",
         "url": "https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 156040,
       "name": "Poco A Poco",
       "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -935,6 +935,26 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        }
+      ],
+      "duration_ms": 232853,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
@@ -955,22 +975,22 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
+        "name": "Hublot",
+        "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         },
         {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
         }
       ],
-      "duration_ms": 232853,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
+      "duration_ms": 225250,
+      "name": "Hublot",
+      "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -995,26 +1015,6 @@
       "duration_ms": 233453,
       "name": "Medallo",
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
-        "name": "Hublot",
-        "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Los Nuevos Escoltas",
-          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
-        }
-      ],
-      "duration_ms": 225250,
-      "name": "Hublot",
-      "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
+        "name": "Happy Birthday Flakko",
+        "url": "https://open.spotify.com/album/5aQdVDQFVq43QFPPdSmUO4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "SIN MIRAR LAS SE\u00d1ALES",
+      "url": "https://open.spotify.com/track/7fM24rKaYCTGf85Lj8U2pk"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
         "name": "Proyecto X",
         "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 158036,
       "name": "Proyecto X",
       "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
-        "name": "Happy Birthday Flakko",
-        "url": "https://open.spotify.com/album/5aQdVDQFVq43QFPPdSmUO4"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "SIN MIRAR LAS SE\u00d1ALES",
-      "url": "https://open.spotify.com/track/7fM24rKaYCTGf85Lj8U2pk"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "No Le Aflojo",
-        "url": "https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 202875,
-      "name": "No Le Aflojo",
-      "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
         "name": "Ahog\u00e1ndome en Alcohol",
         "url": "https://open.spotify.com/album/2mzpFXzP8MMSCOp0YjpshS"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 257846,
       "name": "Ahog\u00e1ndome en Alcohol",
       "url": "https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
+        "name": "No Le Aflojo",
+        "url": "https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 202875,
+      "name": "No Le Aflojo",
+      "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "No Hay Loco Que No Corone",
-        "url": "https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 159182,
-      "name": "La Mariconera",
-      "url": "https://open.spotify.com/track/6YBT8X7UohJrTv5BaRgAu8"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
         "name": "2/Catorce",
         "url": "https://open.spotify.com/album/23ceOvjypWsCUj9ZrW8Fno"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 212031,
       "name": "2/Catorce",
       "url": "https://open.spotify.com/track/71R8HJxQk5qMiRstrlXN9t"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
+        "name": "No Hay Loco Que No Corone",
+        "url": "https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "duration_ms": 159182,
+      "name": "La Mariconera",
+      "url": "https://open.spotify.com/track/6YBT8X7UohJrTv5BaRgAu8"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -2439,22 +2439,26 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "As\u00ed Soy Yo",
-        "url": "https://open.spotify.com/album/6vTUJrl67jx0ijds0oYjBJ"
+        "name": "Canciones Mamalonas 2",
+        "url": "https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO"
       },
       "artists": [
         {
-          "name": "Millonario & W. Corona",
-          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Eirian Music",
+          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
         }
       ],
-      "duration_ms": 289013,
-      "name": "\u00c9xtasis (feat. Cartel de Santa)",
-      "url": "https://open.spotify.com/track/4xbMF8jx0msGGgrtJaAuXE"
+      "duration_ms": 202597,
+      "name": "No Que No Eras Fan",
+      "url": "https://open.spotify.com/track/72KBDC6feOjHbiQ3x1jJ2N"
     }
   ],
   "unique_name": "Barber\u00eda",

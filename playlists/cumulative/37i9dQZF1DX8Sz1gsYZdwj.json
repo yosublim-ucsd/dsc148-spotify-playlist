@@ -375,6 +375,24 @@
     },
     {
       "album": {
+        "name": "Approval",
+        "url": "https://open.spotify.com/album/2TduV2Na9lQiW4HmjSbc5r"
+      },
+      "artists": [
+        {
+          "name": "Fryken",
+          "url": "https://open.spotify.com/artist/5z0Fx2yg2bbV0WpHiWi4pf"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179165,
+      "name": "Approval",
+      "url": "https://open.spotify.com/track/3QzrEF8QSFkZZIJiHzhA9O"
+    },
+    {
+      "album": {
         "name": "Children's Cello",
         "url": "https://open.spotify.com/album/3n3Pw80jcR51Ymw8CBp7Bu"
       },

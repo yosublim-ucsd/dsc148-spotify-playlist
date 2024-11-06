@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59 likes - 168 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 60 likes - 168 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 167 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 168 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AbgooAAAAAC9hjC3Wu1rI2cfOI/isKP6`
+Snapshot ID: `AbguNgAAAAAtJzqUOWLu9/34tNM3jovr`

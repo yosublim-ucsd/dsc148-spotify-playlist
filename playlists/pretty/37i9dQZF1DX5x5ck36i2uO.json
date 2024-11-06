@@ -1,6 +1,6 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Enjoy hip-hop music with a soft, luxurious jazz flavor.)",
-  "num_followers": 5246,
+  "num_followers": 5255,
   "original_name": "\uc7ac\uc988-\ud799 \uce74\ud398 (Jazz-Hip Cafe)",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,26 @@
     {
       "added_at": "2024-10-10 09:26:02",
       "album": {
+        "name": "THE SOLOEST",
+        "url": "https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        }
+      ],
+      "duration_ms": 179925,
+      "name": "Fake Flower (feat. Nucksal)",
+      "url": "https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx"
+    },
+    {
+      "added_at": "2024-10-10 09:26:02",
+      "album": {
         "name": "RANDOM BOX",
         "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 230173,
       "name": "Roommate",
       "url": "https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D"
-    },
-    {
-      "added_at": "2024-10-10 09:26:02",
-      "album": {
-        "name": "Net,Trap,Launcher,Capture",
-        "url": "https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn"
-      },
-      "artists": [
-        {
-          "name": "unofficialboyy",
-          "url": "https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o"
-        },
-        {
-          "name": "HAIFHAIF",
-          "url": "https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/2T4rkceZUut5d5boEM1iEP"
     },
     {
       "added_at": "2024-10-10 09:26:02",
@@ -675,22 +675,22 @@
     {
       "added_at": "2024-10-10 09:26:02",
       "album": {
-        "name": "THE SOLOEST",
-        "url": "https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T"
+        "name": "Net,Trap,Launcher,Capture",
+        "url": "https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn"
       },
       "artists": [
         {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+          "name": "unofficialboyy",
+          "url": "https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o"
         },
         {
-          "name": "Nucksal",
-          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+          "name": "HAIFHAIF",
+          "url": "https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR"
         }
       ],
-      "duration_ms": 179925,
-      "name": "Fake Flower (feat. Nucksal)",
-      "url": "https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx"
+      "duration_ms": 147428,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/2T4rkceZUut5d5boEM1iEP"
     },
     {
       "added_at": "2024-10-10 09:26:02",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-10-10 09:26:02",
       "album": {
-        "name": "Tourist",
-        "url": "https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR"
-      },
-      "artists": [
-        {
-          "name": "CRUCiAL STAR",
-          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
-        }
-      ],
-      "duration_ms": 189520,
-      "name": "Tourist",
-      "url": "https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn"
-    },
-    {
-      "added_at": "2024-10-10 09:26:02",
-      "album": {
         "name": "INSTANT (feat. SUMIN)",
         "url": "https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 178860,
       "name": "INSTANT (feat. SUMIN)",
       "url": "https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN"
+    },
+    {
+      "added_at": "2024-10-10 09:26:02",
+      "album": {
+        "name": "Tourist",
+        "url": "https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR"
+      },
+      "artists": [
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        }
+      ],
+      "duration_ms": 189520,
+      "name": "Tourist",
+      "url": "https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn"
     },
     {
       "added_at": "2024-10-10 09:26:02",
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-10-10 09:26:02",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1uDSyPokcsWjykNxR61SbI"
+        "name": "Gwichanist",
+        "url": "https://open.spotify.com/album/3r5Kq9OqzOjVZWkOY0GZD7"
       },
       "artists": [
         {
-          "name": "Khakii",
-          "url": "https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA"
+          "name": "Park Kyung",
+          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
         }
       ],
-      "duration_ms": 180626,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/44NrYLVtWcwizNgFva0zUt"
+      "duration_ms": 194360,
+      "name": "Gwichanist",
+      "url": "https://open.spotify.com/track/15lMi1pGF3IsKBQMsHeyHw"
     }
   ],
   "unique_name": "\uc7ac\uc988-\ud799 \uce74\ud398 (Jazz-Hip Cafe)",

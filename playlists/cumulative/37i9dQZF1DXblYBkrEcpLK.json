@@ -4695,6 +4695,36 @@
     },
     {
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u3010\u63a8\u3057\u306e\u5b50\u3011\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0CD (Vol.4)",
+        "url": "https://open.spotify.com/album/5Uuyj9BXLVhjiz0z033fpp"
+      },
+      "artists": [
+        {
+          "name": "B\u5c0f\u753a",
+          "url": "https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR"
+        },
+        {
+          "name": "\u30eb\u30d3\u30fc(CV:\u4f0a\u99d2\u3086\u308a\u3048)",
+          "url": "https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs"
+        },
+        {
+          "name": "\u6709\u99ac\u304b\u306a(CV:\u6f58\u3081\u3050\u307f)",
+          "url": "https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q"
+        },
+        {
+          "name": "MEM\u3061\u3087(CV:\u5927\u4e45\u4fdd\u7460\u7f8e)",
+          "url": "https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267116,
+      "name": "POP IN 2",
+      "url": "https://open.spotify.com/track/6WGrtUmFwTaP5G8AeegajH"
+    },
+    {
+      "album": {
         "name": "Tick",
         "url": "https://open.spotify.com/album/24iNTW4PeXS3yTTftTj4yZ"
       },
@@ -8522,7 +8552,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 299255,
       "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
       "url": "https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N"

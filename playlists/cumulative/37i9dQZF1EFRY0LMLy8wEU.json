@@ -508,10 +508,32 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 336064,
       "name": "Nothing You Can't Do",
       "url": "https://open.spotify.com/track/5ElLO48oy2MmZaCUImxEb7"
+    },
+    {
+      "album": {
+        "name": "Let Us Worship - Kingdom to the Capitol",
+        "url": "https://open.spotify.com/album/5PaeB0wIctrq829QPHekdo"
+      },
+      "artists": [
+        {
+          "name": "Sean Feucht",
+          "url": "https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR"
+        },
+        {
+          "name": "Melody Noel",
+          "url": "https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344233,
+      "name": "Nothing You Can't Do",
+      "url": "https://open.spotify.com/track/16ibtW4CG0OdbCuI45cc2B"
     },
     {
       "album": {

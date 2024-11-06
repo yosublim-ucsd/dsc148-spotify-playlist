@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Robeldo Timido
 
-197 songs - 11 hr 16 min
+198 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [fouronezerothree](https://open.spotify.com/track/3JdfX2AGZRuZvrDIaLCRyP) | [Calvin De Leon](https://open.spotify.com/artist/3WyQJx169swY8v3htgAqaK) | [fouronezerothree](https://open.spotify.com/album/7z5Din6w8cPFqHR4OwpOxz) | 2:45 | 2023-10-18 | 2023-11-11 |
 | [FREESTYLE](https://open.spotify.com/track/6a9c4NKoIdrugAs9fmWuSg) | [lmaobdy](https://open.spotify.com/artist/3CJhyHQgAStaSWNEVGgr8E), [Osidemafia, Xanny Warhol](https://open.spotify.com/artist/5i2iMEr9KYjnf6BxITukQq) | [FREESTYLE](https://open.spotify.com/album/0gb4iHpvS2Vc1HoCw0tt2m) | 3:50 | 2023-10-11 | 2023-12-09 |
 | [FYP LUV](https://open.spotify.com/track/7Hclwcxm8Ppba2x5fsdRCG) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [FYP LUV](https://open.spotify.com/album/1fcU63rLWeNkwA3XErDgKc) | 3:38 | 2024-10-30 |  |
-| [Ganun Talaga](https://open.spotify.com/track/7nwD00jIeBrnS0Ay9abC4T) | [1096 Gang](https://open.spotify.com/artist/1HkpK55jsORzgtOURbOeQH) | [Ganun Talaga](https://open.spotify.com/album/0egGF5IBQDYkzc74NLDqwf) | 3:49 | 2024-07-24 |  |
+| [Ganun Talaga](https://open.spotify.com/track/7nwD00jIeBrnS0Ay9abC4T) | [1096 Gang](https://open.spotify.com/artist/1HkpK55jsORzgtOURbOeQH) | [Ganun Talaga](https://open.spotify.com/album/0egGF5IBQDYkzc74NLDqwf) | 3:49 | 2024-07-24 | 2024-11-06 |
 | [Get Low](https://open.spotify.com/track/2kbNBhtgGiTxBuZTCXiQVY) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv) | [Get Low](https://open.spotify.com/album/7e209iBgYDKOavREMtFVAn) | 2:33 | 2023-12-27 |  |
 | [Girls Need Love \- Remix](https://open.spotify.com/track/4rWXfXphKXHxrB56npwV4k) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Girls Need Love \(Remix\)](https://open.spotify.com/album/1i2bMF5dNq6rbXRHYeaHVL) | 2:43 | 2024-01-17 | 2024-04-11 |
 | [GO GETTA](https://open.spotify.com/track/5fAIlWElS0Xj1T365oO3LJ) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp) | [O COAST](https://open.spotify.com/album/3E2ZsA4ZGIWPkzPr9Zc12R) | 4:12 | 2023-09-20 | 2023-11-18 |
@@ -180,6 +180,7 @@
 | [Still The Same](https://open.spotify.com/track/6ODWqGDqPWenJeh5Ux4ed5) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B), [OG CRY](https://open.spotify.com/artist/2EjIvtjRAXPH5OVVmfEKQt) | [Still The Same](https://open.spotify.com/album/4xtFsEP7gVHGlvUBbvAxJJ) | 3:05 | 2024-07-03 | 2024-08-15 |
 | [STRAWBERRY LANE FREESTYLE](https://open.spotify.com/track/5qazxrNqGp0rNd5ZQfJdQL) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK) | [STRAWBERRY LANE FREESTYLE](https://open.spotify.com/album/61XWN63SpjkBV57fX4fUyH) | 2:35 | 2024-07-03 | 2024-08-15 |
 | [Suave](https://open.spotify.com/track/5m7OS9AOWHmG6g9yeJmM0k) | [Crez](https://open.spotify.com/artist/0SJmS0inrLYPKcDCuEDuYP), [4200Southville](https://open.spotify.com/artist/6vrXik4RM95aPTw6KnZr1x) | [Suave](https://open.spotify.com/album/5qXVfaNRzC0BPS8k597sbY) | 3:28 | 2024-03-06 | 2024-03-08 |
+| [SUBOMOTO \- Hev Abi Remix](https://open.spotify.com/track/21Dq4ZfwEg1nfkwyxrx0ve) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [SUBOMOTO \(Hev Abi Remix\)](https://open.spotify.com/album/7wjI6FCsMJwMCumTlNu0xl) | 2:58 | 2024-11-06 |  |
 | [Summer Madness](https://open.spotify.com/track/6z6qqKOLvJd4YDZk3sTEo7) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT), [Buddhabeads](https://open.spotify.com/artist/4QJs0LNC1QSCOqhwi6BjSG), [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [Summer Madness](https://open.spotify.com/album/1UeObA1xLnOYTIw7WJVQAj) | 3:56 | 2023-11-08 | 2023-12-21 |
 | [Sumugal](https://open.spotify.com/track/35Vt1L1KBP2YoWfErB0FAy) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T), [Unotheone](https://open.spotify.com/artist/4MgsXfdEpHBkdGCSE6MIsc), [LK](https://open.spotify.com/artist/5O7D5aov42oqSgjKfjohle) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:01 | 2024-03-13 |  |
 | [talunan \(b4twenty freestyle\)](https://open.spotify.com/track/2Pu9B3qjWpAyjqWMFf4quE) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [talunan \(b4twenty freestyle\)](https://open.spotify.com/album/5VOxYu4iqFLZVvINIylola) | 2:45 | 2024-05-08 | 2024-07-02 |

@@ -4,7 +4,7 @@
 
 > Ethel Cain returns
 
-3,065 songs - 6 day 21 hr 59 min
+3,066 songs - 6 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2248,6 +2248,7 @@
 | [scared of everything](https://open.spotify.com/track/3AwY1dhmbVHMxugjNGhbmZ) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [scared of everything](https://open.spotify.com/album/6qf1Qjmib5fOTb18Ju6uA9) | 3:14 | 2021-10-16 | 2022-01-08 |
 | [scorton's creek \- re\-imagined by filous](https://open.spotify.com/track/5uSwYU4V1hFDZYEHF87RmK) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [scorton's creek \(re\-imagined by filous\)](https://open.spotify.com/album/72Hk7UBB0gMymYlRre61aC) | 2:59 | 2020-06-13 | 2021-07-31 |
 | [Scott Street](https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 5:05 | 2021-01-15 | 2021-01-27 |
+| [Scott Street](https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 5:05 | 2024-11-05 |  |
 | [SCRAMBLED](https://open.spotify.com/track/42uy5NuT0jGny3Ozp2DrxK) | [Havelock](https://open.spotify.com/artist/3AIAml2wCQUDhWt0BffVbA) | [SCRAMBLED](https://open.spotify.com/album/7qSI5uSBvlVNrBEwOwqhtP) | 4:37 | 2019-12-07 | 2020-04-20 |
 | [Sea Sick](https://open.spotify.com/track/3jLHo30ucbkYY9P7v8leKh) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Sea Sick](https://open.spotify.com/album/2rW8WOaJP6R7rIFFaJEhoZ) | 2:10 | 2019-10-22 | 2020-09-15 |
 | [Seaforth](https://open.spotify.com/track/25Ke6GfR72hvkQAt6fjM7j) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Seaforth](https://open.spotify.com/album/3QFf8WI1qvJJCcmnfMyuQx) | 4:05 | 2023-04-14 | 2023-05-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 
 > This is Little Simz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,569 likes - 41 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,584 likes - 41 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,15 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 29 | [Garage Palace \(feat\. Little Simz\)](https://open.spotify.com/track/5ZYBczat60p8a2Fnenour4) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Garage Palace \(feat\. Little Simz\)](https://open.spotify.com/album/5JR95SVj6hXkfA3QpfCFvU) | 2:31 |
 | 30 | [you should call mum](https://open.spotify.com/track/6M4r4D0ZNqa67UDzuOJ6Po) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 2:15 |
 | 31 | [Boss](https://open.spotify.com/track/5JmWjnv4BG5E7y6ijLzEz5) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:05 |
-| 32 | [Far Away](https://open.spotify.com/track/7p6ru2D2smv8ga7f06JkTo) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 3:07 |
+| 32 | [I Ain't Feelin It](https://open.spotify.com/track/0e0tBV3cm7RiTPzMCEegT1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 1:47 |
 | 33 | [Proud of Me \(feat\. Little Simz\)](https://open.spotify.com/track/1s6peZNxETxrrfMrveNZW8) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Proud of Me \(feat\. Little Simz\)](https://open.spotify.com/album/13DiRRO8DTuLxsD6qqQlp4) | 3:35 |
 | 34 | [Picture Perfect](https://open.spotify.com/track/1jGbBTbyopFlfh8b4pTcbU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness in Wonderland](https://open.spotify.com/album/5WIvREgNBScLryJbpNs9yN) | 3:03 |
 | 35 | [where’s my lighter](https://open.spotify.com/track/6bh9O5b4eHIjdwtcOVbSMe) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 3:53 |
-| 36 | [I Ain't Feelin It](https://open.spotify.com/track/0e0tBV3cm7RiTPzMCEegT1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 1:47 |
+| 36 | [Far Away](https://open.spotify.com/track/7p6ru2D2smv8ga7f06JkTo) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 3:07 |
 | 37 | [Back to My Love](https://open.spotify.com/track/3Qw29xE1UoPS5mdqoqVnWm) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Back to My Love](https://open.spotify.com/album/0abytCO5C9R9BHsvQ52Kyk) | 3:55 |
 | 38 | [Backseat](https://open.spotify.com/track/3LGlyLsK0PwfQA9Q0Sg9a8) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI) | 3:31 |
 | 39 | [Pink Youth](https://open.spotify.com/track/2WwwfnTUm4yUK8stRMPd7V) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Pink Youth](https://open.spotify.com/album/52lWZNXWoJMWFNPmXdAWz9) | 4:00 |
 | 40 | [Location \(feat\. Little Simz\)](https://open.spotify.com/track/7veYmTIhhDuVIpCW6UeoxJ) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Location \(feat\. Little Simz\)](https://open.spotify.com/album/5XpjnV9EuzkH60PtpwHn1E) | 4:05 |
 | 41 | [damn right](https://open.spotify.com/track/3Q1HNg15qwjOlDy5ia1NJc) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 2:00 |
 
-Snapshot ID: `Zya9AAAAAACe4DuWtTQWBjbUSkPS2oJE`
+Snapshot ID: `ZygOgAAAAACaF41GnAnOXsK9NVHgEHJY`

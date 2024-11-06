@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Gabry Ponte, Blasterjaxx, 1World
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,322 likes - 19 songs - 52 min 57 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,325 likes - 19 songs - 52 min 57 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

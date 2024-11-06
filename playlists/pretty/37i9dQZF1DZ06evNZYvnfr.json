@@ -1,12 +1,12 @@
 {
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
-  "num_followers": 3445,
+  "num_followers": 3447,
   "original_name": "This Is Micah Tyler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAABb3F4buGLXPNrt1t2QmE25",
+  "snapshot_id": "ZygOgAAAAAC5xmITbEnltsswdBZoGbDz",
   "tracks": [
     {
       "added_at": null,
@@ -299,18 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kitchen Sink EP",
-        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
+        "name": "My Story Your Glory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1FNe9cy8XHcI8JS4cqU6lD"
       },
       "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        },
         {
           "name": "Micah Tyler",
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 202631,
-      "name": "Come to Life",
-      "url": "https://open.spotify.com/track/0CQ3Wa3jHtkOwVTKyM2Ba1"
+      "duration_ms": 188544,
+      "name": "My Story Your Glory - Micah Tyler Collab Version",
+      "url": "https://open.spotify.com/track/4049ATZU2lzziyACfxMiqc"
     },
     {
       "added_at": null,
@@ -375,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Feels Like Joy",
+        "url": "https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Feels Like Joy",
+      "url": "https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 221026,
       "name": "Story I Tell",
       "url": "https://open.spotify.com/track/4a9UzMaCd1wji2qfb1y73V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Story Your Glory (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1FNe9cy8XHcI8JS4cqU6lD"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        },
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 188544,
-      "name": "My Story Your Glory - Micah Tyler Collab Version",
-      "url": "https://open.spotify.com/track/4049ATZU2lzziyACfxMiqc"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Kitchen Sink EP",
+        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 202631,
+      "name": "Come to Life",
+      "url": "https://open.spotify.com/track/0CQ3Wa3jHtkOwVTKyM2Ba1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "New Today",
         "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 191653,
       "name": "Love Lifted Me Up",
       "url": "https://open.spotify.com/track/1eleJrs2gUPqDpSRKCfXF3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feels Like Joy",
-        "url": "https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Feels Like Joy",
-      "url": "https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr"
     },
     {
       "added_at": null,

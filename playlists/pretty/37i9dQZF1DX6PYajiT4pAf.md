@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Duki y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,185 likes - 48 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,210 likes - 48 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 11 | [Tormenta Perfecta](https://open.spotify.com/track/1RG4xMoRobbuqGYHaF4nRp) | [Amaia Montero](https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo) | [Tormenta Perfecta](https://open.spotify.com/album/1KIuUn3B04sCDAdE3BFK4n) | 3:57 |
 | 12 | [GOLFO X DESPECHO](https://open.spotify.com/track/3mOP0148Z2lExKw4Jv8oZT) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [GOLFO X DESPECHO](https://open.spotify.com/album/5UwU3YKha4a2MPrz4Qo7Zf) | 2:49 |
 | 13 | [Ferxxoko](https://open.spotify.com/track/12VjaTNEaCfDlvW1XPZTQ9) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxoko](https://open.spotify.com/album/5uRpRstxMvxTSbAXZmaBnh) | 2:57 |
-| 14 | [fLA$H](https://open.spotify.com/track/4sl0Z8wtMiQa5NuMIIVk36) | [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [fLA$H](https://open.spotify.com/album/4bHbVaSaEdg7SlM2ZWg2Lc) | 3:08 |
+| 14 | [fLA$H \(feat\. KHEA\)](https://open.spotify.com/track/4sl0Z8wtMiQa5NuMIIVk36) | [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [fLA$H \(feat\. KHEA\)](https://open.spotify.com/album/4bHbVaSaEdg7SlM2ZWg2Lc) | 3:08 |
 | 15 | [COMPAÑERO](https://open.spotify.com/track/4XyoXvEiqCWJAHfsKIDgGs) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [COMPAÑERO](https://open.spotify.com/album/0j6VYIsW5eEwbTvXC9tyjY) | 2:14 |
 | 16 | [En El Aire](https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [En El Aire](https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6) | 3:23 |
 | 17 | [Quiero Que Perdamos La Cabeza \(Otra Vez\)](https://open.spotify.com/track/3DpbwEMDa3P5rzWJZOzWfj) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Quiero Que Perdamos La Cabeza \(Otra Vez\)](https://open.spotify.com/album/4SQ0OKByzERxsWIkv9oAv5) | 2:14 |

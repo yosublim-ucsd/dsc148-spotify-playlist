@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy melodies and hushed vocals\. Cover: Men I Trust
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,115,011 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115,097 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,21 +91,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 81 | [honey](https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2) | [honey](https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg) | 3:00 |
 | 82 | [Dogfish](https://open.spotify.com/track/0TVMOi7iwDYpgJexAlNtm9) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Mika's Laundry](https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq) | 1:54 |
 | 83 | [Nothing Lasts](https://open.spotify.com/track/2uwscEwG2u0rDYTGSvxrWu) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [One Million Love Songs](https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP) | 2:36 |
-| 84 | [Skeleton Key](https://open.spotify.com/track/1JnRhnZMomYsZ13RI3PRUQ) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Skeleton Key](https://open.spotify.com/album/6AplXmqTv6a4Pl7agAhEEv) | 3:18 |
-| 85 | [distance](https://open.spotify.com/track/6Z8O4QYEUXhKgO3F5KKImY) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [distance](https://open.spotify.com/album/14zPJo0XCQPwifvjqjjHTL) | 3:04 |
+| 84 | [distance](https://open.spotify.com/track/6Z8O4QYEUXhKgO3F5KKImY) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [distance](https://open.spotify.com/album/14zPJo0XCQPwifvjqjjHTL) | 3:04 |
+| 85 | [Skeleton Key](https://open.spotify.com/track/1JnRhnZMomYsZ13RI3PRUQ) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Skeleton Key](https://open.spotify.com/album/6AplXmqTv6a4Pl7agAhEEv) | 3:18 |
 | 86 | [Goodbye](https://open.spotify.com/track/0p1KjT88fOshVrM0sFVDhA) | [Sonia Gadhia](https://open.spotify.com/artist/3bjxtDdZiByIKfHFEK96zB), [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Goodbye](https://open.spotify.com/album/0T0wt8HN43bWa4fkBcoLHD) | 2:54 |
 | 87 | [Moonlight](https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Moonlight](https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN) | 3:59 |
 | 88 | [Mentos and Coke](https://open.spotify.com/track/1vohIWnkOUnCv60Od198Ma) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [Mentos and Coke](https://open.spotify.com/album/4Mk0oTQwMaQcQYSQHt08Gf) | 2:49 |
-| 89 | [my forever](https://open.spotify.com/track/15clT8j9S3OjjhjGqsoVZv) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [my forever](https://open.spotify.com/album/2JoAyLaBfgrpMtGY7Sbg6U) | 3:22 |
-| 90 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 |
+| 89 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 |
+| 90 | [my forever](https://open.spotify.com/track/15clT8j9S3OjjhjGqsoVZv) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [my forever](https://open.spotify.com/album/2JoAyLaBfgrpMtGY7Sbg6U) | 3:22 |
 | 91 | [Off and On](https://open.spotify.com/track/40zaUOTsugX2NEBuJ6905s) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Off and On](https://open.spotify.com/album/5VO20TLoge9jkK4SXKPbWU) | 4:10 |
 | 92 | [c u never](https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [c u never](https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A) | 2:55 |
 | 93 | [Rendezvous](https://open.spotify.com/track/25CaLVmZ8eV04GnQgB9HGW) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Rendezvous](https://open.spotify.com/album/3u1BKRicdzzbIqzU6aQhZl) | 3:12 |
 | 94 | [Workin’ On It](https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Workin' On It](https://open.spotify.com/album/4KD7VxzKwT2hNNNyEuk9I8) | 3:35 |
 | 95 | [Really good cry](https://open.spotify.com/track/4ezZ31HcRsE7zMNy73z9js) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [garage sale](https://open.spotify.com/album/083gC3RjOGmxjHN3OX4UmP) | 1:54 |
-| 96 | [Alien](https://open.spotify.com/track/335zR61okTOqbGmLFlHcrz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Alien](https://open.spotify.com/album/3nHgMTBuY81FhqgBmcjMhv) | 3:49 |
-| 97 | [NIGHTTIME](https://open.spotify.com/track/2I8CTRKgB772a6qtyhYv21) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [NIGHTTIME](https://open.spotify.com/album/70VzJ9KqBfNTDr23SoZ74Y) | 2:27 |
-| 98 | [gum v6.4](https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [gum](https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE) | 3:41 |
+| 96 | [gum v6.4](https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [gum](https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE) | 3:41 |
+| 97 | [Alien](https://open.spotify.com/track/335zR61okTOqbGmLFlHcrz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Alien](https://open.spotify.com/album/3nHgMTBuY81FhqgBmcjMhv) | 3:49 |
+| 98 | [NIGHTTIME](https://open.spotify.com/track/2I8CTRKgB772a6qtyhYv21) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [NIGHTTIME](https://open.spotify.com/album/70VzJ9KqBfNTDr23SoZ74Y) | 2:27 |
 | 99 | [milk in the morning](https://open.spotify.com/track/0nsdJMaNiVrEA224ojPFaT) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Zaini](https://open.spotify.com/artist/1MF873qFvGywvDUQbldyMH), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [milk in the morning](https://open.spotify.com/album/6mh0NWiMbPjv22MWcE7exj) | 3:10 |
 | 100 | [Woman](https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Woman](https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds) | 3:10 |
 

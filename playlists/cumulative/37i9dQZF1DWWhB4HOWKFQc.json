@@ -815,6 +815,28 @@
     },
     {
       "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
         "name": "Armageddon - The 1st Album",
         "url": "https://open.spotify.com/album/3gHhPm8z8tid1kvpniUKuK"
       },
@@ -866,6 +888,24 @@
       "duration_ms": 270242,
       "name": "Arteri",
       "url": "https://open.spotify.com/track/1LDYaddflYM0ht2DnSLS4s"
+    },
+    {
+      "album": {
+        "name": "Asa Asmara",
+        "url": "https://open.spotify.com/album/1PknYCJJPjdLZwhtA2SK4Z"
+      },
+      "artists": [
+        {
+          "name": "Baila",
+          "url": "https://open.spotify.com/artist/4RMuTrQQ4FiEb2e5jxvvhp"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223255,
+      "name": "Asa Asmara",
+      "url": "https://open.spotify.com/track/5WhXF5UP1oJxuG9X4CsbxP"
     },
     {
       "album": {
@@ -1504,6 +1544,24 @@
       "duration_ms": 196000,
       "name": "Besarnya Tetap Sama",
       "url": "https://open.spotify.com/track/3ttNZvYUuS0yjWN6cyZLkl"
+    },
+    {
+      "album": {
+        "name": "Betapa Ku Cinta Padamu",
+        "url": "https://open.spotify.com/album/4r8AyN6dqNmi3i9Kf8U83E"
+      },
+      "artists": [
+        {
+          "name": "Dato' Sri Siti Nurhaliza",
+          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366320,
+      "name": "Betapa Ku Cinta Padamu",
+      "url": "https://open.spotify.com/track/3rqpxF2ZSnlRIdb85ecaId"
     },
     {
       "album": {
@@ -2240,6 +2298,24 @@
       "duration_ms": 131600,
       "name": "Cheap Cologne",
       "url": "https://open.spotify.com/track/2B4Da1gud3hAKcCwo0dNMG"
+    },
+    {
+      "album": {
+        "name": "I'LL LIKE YOU",
+        "url": "https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176854,
+      "name": "Cherish (My Love)",
+      "url": "https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6"
     },
     {
       "album": {
@@ -4060,7 +4136,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 242827,
       "name": "For You (With Rita Ora)",
       "url": "https://open.spotify.com/track/5rlMVKnvE6ZSzNCs8ZyHqU"
@@ -4421,6 +4497,24 @@
     },
     {
       "album": {
+        "name": "Psychedelic Jungle",
+        "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186038,
+      "name": "Goo Goo Muck",
+      "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
+    },
+    {
+      "album": {
         "name": "GOOD LOYAL THOTS",
         "url": "https://open.spotify.com/album/0x4bB3gflkfs2teiVIJ5t5"
       },
@@ -4764,7 +4858,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
@@ -5498,6 +5592,42 @@
       "duration_ms": 256867,
       "name": "if u could see me cryin' in my room",
       "url": "https://open.spotify.com/track/13sOb9V6Y3uCnRxY9HIZqP"
+    },
+    {
+      "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131786,
+      "name": "Igloo",
+      "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
+    },
+    {
+      "album": {
+        "name": "GOLD",
+        "url": "https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202429,
+      "name": "Imaginary Friend",
+      "url": "https://open.spotify.com/track/06BeeZaS4YArThfTMu80QS"
     },
     {
       "album": {
@@ -7569,6 +7699,24 @@
     },
     {
       "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+    },
+    {
+      "album": {
         "name": "Manusia Paling Menyebalkan",
         "url": "https://open.spotify.com/album/4HwBlvQNOVmYPontLGdwCz"
       },
@@ -7602,6 +7750,24 @@
       "duration_ms": 256678,
       "name": "Manusia Putus Asa",
       "url": "https://open.spotify.com/track/68PkrpsVyyVlnNYb7hY97l"
+    },
+    {
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219986,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
     },
     {
       "album": {
@@ -8524,7 +8690,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 178026,
       "name": "NEMONEMO",
       "url": "https://open.spotify.com/track/4UwsXGVppRRJpKBHy0mtyK"
@@ -8629,6 +8795,24 @@
     },
     {
       "album": {
+        "name": "LIVE and FALL",
+        "url": "https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205571,
+      "name": "Night before the end",
+      "url": "https://open.spotify.com/track/39TvS8OLjrdKAQEkFAn2pc"
+    },
+    {
+      "album": {
         "name": "FOUR (Deluxe)",
         "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
       },
@@ -8640,7 +8824,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 226600,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
@@ -8752,6 +8936,24 @@
       "duration_ms": 180853,
       "name": "Nobody Gets Me",
       "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
+    },
+    {
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284363,
+      "name": "Noid",
+      "url": "https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41"
     },
     {
       "album": {
@@ -8879,6 +9081,24 @@
     },
     {
       "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536066,
+      "name": "November Rain",
+      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
+    },
+    {
+      "album": {
         "name": "Now And Then",
         "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
       },
@@ -8894,6 +9114,28 @@
       "duration_ms": 248333,
       "name": "Now And Then",
       "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
+    },
+    {
+      "album": {
+        "name": "Nresnani",
+        "url": "https://open.spotify.com/album/42y04fYST8LC6KCZcayUNf"
+      },
+      "artists": [
+        {
+          "name": "Lavora",
+          "url": "https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4"
+        },
+        {
+          "name": "Damara De",
+          "url": "https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270600,
+      "name": "Nresnani",
+      "url": "https://open.spotify.com/track/3xM5ljrKKRa3smVZF2ObFf"
     },
     {
       "album": {
@@ -9567,6 +9809,28 @@
     },
     {
       "album": {
+        "name": "Pesona",
+        "url": "https://open.spotify.com/album/3KjunxG32U22r50ljiwpFV"
+      },
+      "artists": [
+        {
+          "name": "TADI",
+          "url": "https://open.spotify.com/artist/6hpZLcLqVjqzWWA0ZXTThF"
+        },
+        {
+          "name": "Rahmania Astrini",
+          "url": "https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235920,
+      "name": "Pesona",
+      "url": "https://open.spotify.com/track/37cZnP06JGqD2jK01JQyfe"
+    },
+    {
+      "album": {
         "name": "Play With Me",
         "url": "https://open.spotify.com/album/7k0GD6BShlOxIz7pnFLjAd"
       },
@@ -9870,7 +10134,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 172773,
       "name": "R.E.M",
       "url": "https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e"
@@ -10778,7 +11042,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 220096,
       "name": "Save me",
       "url": "https://open.spotify.com/track/42i24oTxRFR53ezroofUtx"
@@ -11798,7 +12062,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 256706,
       "name": "Spaces",
       "url": "https://open.spotify.com/track/4lrC9aBnzlG9U5DDoHMnyt"
@@ -11954,7 +12218,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 179680,
       "name": "Steady",
       "url": "https://open.spotify.com/track/1zJUr9Oo5zEjvJrdlg67jQ"
@@ -12066,7 +12330,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 202061,
       "name": "Strip That Down (feat. Quavo)",
       "url": "https://open.spotify.com/track/29JrmE89KgRyCxBIzq2Ocw"
@@ -12218,6 +12482,24 @@
       "duration_ms": 154666,
       "name": "Super Shy",
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "album": {
+        "name": "Super Tuna",
+        "url": "https://open.spotify.com/album/7urG1JarAksXgoLSp5OfnT"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114693,
+      "name": "Super Tuna",
+      "url": "https://open.spotify.com/track/4pygz13A6EcLL6ti7kqGaf"
     },
     {
       "album": {
@@ -12886,7 +13168,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 174723,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ"
@@ -13052,7 +13334,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 229642,
       "name": "Terima Kasih, Masih Disini",
       "url": "https://open.spotify.com/track/5v3MURRjjVuSv1YSjIygcX"
@@ -13100,6 +13382,24 @@
       "duration_ms": 234024,
       "name": "Terminator (feat. Young Jonn)",
       "url": "https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc"
+    },
+    {
+      "album": {
+        "name": "Terpatah Terluka",
+        "url": "https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB"
+      },
+      "artists": [
+        {
+          "name": "Nabila Taqiyyah",
+          "url": "https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214395,
+      "name": "Terpatah Terluka",
+      "url": "https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B"
     },
     {
       "album": {
@@ -13154,6 +13454,24 @@
       "duration_ms": 283311,
       "name": "That Somebody",
       "url": "https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz"
+    },
+    {
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
       "album": {
@@ -13508,7 +13826,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 258440,
       "name": "Tiwikarma",
       "url": "https://open.spotify.com/track/1na13IdUEvCU6Hb6IaE3ei"
@@ -14344,6 +14662,24 @@
       "duration_ms": 153034,
       "name": "wherever u r (ft. V of BTS)",
       "url": "https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd"
+    },
+    {
+      "album": {
+        "name": "Whiplash - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183226,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV"
     },
     {
       "album": {

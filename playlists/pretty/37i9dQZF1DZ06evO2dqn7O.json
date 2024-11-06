@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 54995,
+  "num_followers": 54997,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAACeSL938blAN06OFnTpi5yz",
+  "snapshot_id": "ZygOgAAAAACjWSnwqt+WnnvhB7DQDYCU",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/3LEatdntFP2A5XkG1bFJh7"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 177839,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/1ThR3dFdiIQmBgD2P90oVV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Friend For Life (with Medium Build)",
         "url": "https://open.spotify.com/album/6QcE06gxBT4Son5ZgCzY0n"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 210773,
       "name": "Friend For Life (with Medium Build)",
       "url": "https://open.spotify.com/track/7BE4sJl4U5kPpphtYCq086"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/3LEatdntFP2A5XkG1bFJh7"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 177839,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/1ThR3dFdiIQmBgD2P90oVV"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 150600,
-      "name": "Upstate Boys",
-      "url": "https://open.spotify.com/track/69uKWbuh2iSwLlRDvR8OX2"
+      "duration_ms": 198026,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/5evWeMP1meoQ6dcMrFFjg4"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
       "duration_ms": 218266,
       "name": "Alcohol (with BRELAND)",
       "url": "https://open.spotify.com/track/1dAxKchdnh9UVPjzEew9ls"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don\u2019t Stay",
+        "url": "https://open.spotify.com/album/44rJLmL9vpqTN4ChPT4aHT"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "Don't Stay",
+      "url": "https://open.spotify.com/track/1JFWbktZpqwU37UX5MzjwR"
     },
     {
       "added_at": null,
@@ -755,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don\u2019t Stay",
-        "url": "https://open.spotify.com/album/44rJLmL9vpqTN4ChPT4aHT"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 189800,
-      "name": "Don't Stay",
-      "url": "https://open.spotify.com/track/1JFWbktZpqwU37UX5MzjwR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Townies",
         "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
       },
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 198026,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/5evWeMP1meoQ6dcMrFFjg4"
+      "duration_ms": 150600,
+      "name": "Upstate Boys",
+      "url": "https://open.spotify.com/track/69uKWbuh2iSwLlRDvR8OX2"
     },
     {
       "added_at": null,
@@ -867,26 +867,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Colors",
-        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
+        "name": "Astronomical",
+        "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
       },
       "artists": [
         {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
         },
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 242213,
-      "name": "Transmission",
-      "url": "https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX"
+      "duration_ms": 153957,
+      "name": "Razor's Edge (feat. X Ambassadors)",
+      "url": "https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l"
     },
     {
       "added_at": null,
@@ -907,22 +903,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Astronomical",
-        "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
       },
       "artists": [
         {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
         },
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 153957,
-      "name": "Razor's Edge (feat. X Ambassadors)",
-      "url": "https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l"
+      "duration_ms": 242213,
+      "name": "Transmission",
+      "url": "https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX"
     },
     {
       "added_at": null,

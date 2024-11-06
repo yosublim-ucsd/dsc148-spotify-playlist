@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,627 likes - 75 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,648 likes - 75 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 6 | [Relight My Fire \- 12" Disco Remix](https://open.spotify.com/track/4cTSigQmLfTKYmJUd6rlrv) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Relight My Fire \(Expanded Edition\)](https://open.spotify.com/album/0zHX5CKQciDiMewajwcAf4) | 6:46 |
 | 7 | [Ring My Bell](https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd) | [Anita Ward](https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P) | [Ring My Bell](https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV) | 8:11 |
 | 8 | [Last Dance \- 12" Version](https://open.spotify.com/track/4nWrCsWZzxiXX8FYHbydzl) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U), [Marc Paul Simon](https://open.spotify.com/artist/3eu9Ik2LKO3pIWb5S0RNyu), [Bobby Guttadaro](https://open.spotify.com/artist/16LePqrOXRl2PGbI6gphfm) | [Bad Girls \(Deluxe Edition\)](https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6) | 8:10 |
-| 9 | [Thinking of You \- 1995 Remaster](https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 4:26 |
+| 9 | [Love's Theme](https://open.spotify.com/track/5csdrJ0JtFn0qvwlvSh2EI) | [The Love Unlimited Orchestra](https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH) | [Rhapsody In White \(Reissue\)](https://open.spotify.com/album/2mCUkzGTTkAsvJmtxWgTdc) | 4:06 |
 | 10 | [Messages from the Stars](https://open.spotify.com/track/6lYY2HktYKpV1pUamfRlU1) | [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [Going Up](https://open.spotify.com/album/0TGYRrYo4CbhYX6ktuv75f) | 4:14 |
-| 11 | [Love's Theme](https://open.spotify.com/track/5csdrJ0JtFn0qvwlvSh2EI) | [The Love Unlimited Orchestra](https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH) | [Rhapsody In White \(Reissue\)](https://open.spotify.com/album/2mCUkzGTTkAsvJmtxWgTdc) | 4:06 |
+| 11 | [Thinking of You \- 1995 Remaster](https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 4:26 |
 | 12 | [Workin' Day and Night](https://open.spotify.com/track/6BdiFsPMPkSEEO4fFXFVWX) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 5:13 |
 | 13 | [Could Heaven Ever Be Like This](https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 8:36 |
 | 14 | [Spacer](https://open.spotify.com/track/2HnfVsBDEesQJPcXSyB7L2) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [King Of The World](https://open.spotify.com/album/5CtsuslrRP5CNsmuZQ8UIr) | 5:54 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 19 | [Burn This Disco Out](https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 3:41 |
 | 20 | [Can You Feel It \- 7" Version](https://open.spotify.com/track/0GIk0Mm87D0CDyj57Urtt3) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Triumph \(Expanded Version\)](https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7) | 3:50 |
 | 21 | [T.S.O.P\. \(The Sound of Philadelphia\) \(feat\. The Three Degrees\)](https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Love Is The Message](https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ) | 3:42 |
-| 22 | [Nights on Broadway](https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Music Speaks Louder Than Words](https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et) | 3:29 |
-| 23 | [Native New Yorker \- 12" Disco Mix](https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [Odyssey \(Expanded Edition\)](https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6) | 5:36 |
+| 22 | [Native New Yorker \- 12" Disco Mix](https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [Odyssey \(Expanded Edition\)](https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6) | 5:36 |
+| 23 | [Nights on Broadway](https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Music Speaks Louder Than Words](https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et) | 3:29 |
 | 24 | [My Forbidden Lover](https://open.spotify.com/track/4rVxIA2PfuPaFsVH5AOqIm) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué](https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU) | 4:34 |
 | 25 | [The Boss](https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Boss \(Expanded Edition\)](https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4) | 4:01 |
 | 26 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 72 | [It's a Better Than Good Time](https://open.spotify.com/track/0htlkpMiT2nAUwpBxo64LL) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0) | [The Way We Were: The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE) | 5:46 |
 | 73 | [He's My Man \- Extended Version](https://open.spotify.com/track/5niTFUJECbNZ0I2iLpot75) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Let Yourself Go: The ’70s Albums, Vol\. 2: 1974\-1977 \(The Final Sessions\)](https://open.spotify.com/album/7dY1xL0GNNxj2Qu6mePWvG) | 4:57 |
 | 74 | [Possessed \(Extended Verison\)](https://open.spotify.com/track/5giBASxVW4R1BFzGtWNEun) | [Doris Jones](https://open.spotify.com/artist/1YzlD6Cogo9fLRtzyMIdRc) | [The Best of Doris Jones "No Way Out"](https://open.spotify.com/album/1zEOxgQDjnzXNVuXO2IlXh) | 6:59 |
-| 75 | [I'm So Glad That I'm a Woman](https://open.spotify.com/track/3GUvckJgUl90ATgDkfbJn7) | [Love Unlimited](https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa) | [Love is Back](https://open.spotify.com/album/7cfrgUXpftlEhRNukBA3iR) | 4:01 |
+| 75 | [Ain't No Mountain High Enough](https://open.spotify.com/track/51uChSR8zp4cui4tLqiXb6) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [Inner Life](https://open.spotify.com/album/7ldc7KAIZ3JmsuCwIHcS2B) | 7:59 |
 
 Snapshot ID: `Ztx5GQAAAACU2PY/cJXuRTSL5yP4gyu7`

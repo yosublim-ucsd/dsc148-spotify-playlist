@@ -1,6 +1,6 @@
 {
   "description": "The best jazz new releases. Cover: Gregory Porter",
-  "num_followers": 146029,
+  "num_followers": 146070,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
@@ -18,6 +18,14 @@
         {
           "name": "Gregory Porter",
           "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        },
+        {
+          "name": "Swindle",
+          "url": "https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ"
+        },
+        {
+          "name": "Cam Blackwood",
+          "url": "https://open.spotify.com/artist/0mYBtMfnMNPOi1hyyzPcvb"
         }
       ],
       "duration_ms": 196178,

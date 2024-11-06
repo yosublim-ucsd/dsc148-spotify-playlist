@@ -1,6 +1,6 @@
 {
   "description": "Let your favorite pop guide you through your daily commute! Cover: Dua Lipa",
-  "num_followers": 421685,
+  "num_followers": 421670,
   "original_name": "Happy Drive",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Don't Kill the Magic",
         "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 224840,
       "name": "Rude",
       "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -335,26 +335,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "The Papercut Chronicles II",
-        "url": "https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB"
-      },
-      "artists": [
-        {
-          "name": "Gym Class Heroes",
-          "url": "https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli"
-        },
-        {
-          "name": "Adam Levine",
-          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
-        }
-      ],
-      "duration_ms": 210960,
-      "name": "Stereo Hearts (feat. Adam Levine)",
-      "url": "https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "24K Magic",
         "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 275986,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "The Papercut Chronicles II",
+        "url": "https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB"
+      },
+      "artists": [
+        {
+          "name": "Gym Class Heroes",
+          "url": "https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        }
+      ],
+      "duration_ms": 210960,
+      "name": "Stereo Hearts (feat. Adam Levine)",
+      "url": "https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -455,22 +455,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Drops Of Jupiter",
-        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Drops of Jupiter (Tell Me)",
-      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Blurryface",
         "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 214506,
       "name": "Ride",
       "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Drops Of Jupiter",
+        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Drops of Jupiter (Tell Me)",
+      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 163253,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -897,26 +897,6 @@
       "url": "https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"
     },
     {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Symphony (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 212459,
-      "name": "Symphony (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8"
-    },
-    {
       "added_at": "2022-04-13 19:43:54",
       "album": {
         "name": "The Midsummer Station",
@@ -935,6 +915,26 @@
       "duration_ms": 205933,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Symphony (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 212459,
+      "name": "Symphony (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1197,6 +1197,22 @@
       "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
     },
     {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "Get Weird (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 211786,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg"
+    },
+    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "Tusa",
@@ -1215,22 +1231,6 @@
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
-    },
-    {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
-        "name": "Get Weird (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 211786,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg"
     },
     {
       "added_at": "2021-10-15 04:01:00",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
-      },
-      "artists": [
-        {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
-        }
-      ],
-      "duration_ms": 192789,
-      "name": "Safe And Sound",
-      "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Mirrors (Radio Edit)",
         "url": "https://open.spotify.com/album/28GWVLkctSuSWQ1EUIxZ8m"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 277306,
       "name": "Mirrors - Radio Edit",
       "url": "https://open.spotify.com/track/6ToFxXRBtl5TJFEyIoYK3f"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "duration_ms": 192789,
+      "name": "Safe And Sound",
+      "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2207,6 +2207,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "The Blessed Unrest",
+        "url": "https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 218573,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Cuz I Love You (Super Deluxe)",
         "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
       },
@@ -2223,22 +2239,6 @@
       "duration_ms": 159011,
       "name": "Good as Hell (feat. Ariana Grande)",
       "url": "https://open.spotify.com/track/2rjjNUYONZqC7wSd1i6OFq"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "The Blessed Unrest",
-        "url": "https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 218573,
-      "name": "I Choose You",
-      "url": "https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl"
     },
     {
       "added_at": "2021-09-20 19:34:04",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "September",
-        "url": "https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 220891,
-      "name": "September",
-      "url": "https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Nine Track Mind",
         "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 194453,
       "name": "One Call Away",
       "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 220891,
+      "name": "September",
+      "url": "https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7"
     },
     {
       "added_at": "2021-08-25 20:28:57",

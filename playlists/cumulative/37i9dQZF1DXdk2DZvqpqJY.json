@@ -828,7 +828,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 158481,
       "name": "Blue Room",
       "url": "https://open.spotify.com/track/5zKKV21UiQK7lSLEZCm7NS"
@@ -2882,6 +2882,24 @@
       "duration_ms": 162708,
       "name": "Graceful Rhapsody",
       "url": "https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r"
+    },
+    {
+      "album": {
+        "name": "Grandparent's Melody",
+        "url": "https://open.spotify.com/album/67o4PhMUEyCnpSIf6uwvTj"
+      },
+      "artists": [
+        {
+          "name": "Trio Serena",
+          "url": "https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240791,
+      "name": "Grandparent's Melody",
+      "url": "https://open.spotify.com/track/2IRlssoEcf0YbgkXGXSWha"
     },
     {
       "album": {

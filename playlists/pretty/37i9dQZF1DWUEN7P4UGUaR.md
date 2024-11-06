@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Celestine Donkor
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,662 likes - 50 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,674 likes - 50 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 31 | [Awurade Ye](https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 4:24 |
 | 32 | [Hossana \(Live\)](https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna \(Live\)](https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8) | 5:44 |
 | 33 | [This Far by Grace](https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD) | [Pastor Edwin Dadson](https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH) | [This Far by Grace](https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR) | 4:53 |
-| 34 | [Okrokrohene](https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Okrokrohene](https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX) | 6:06 |
+| 34 | [Come and See](https://open.spotify.com/track/23GEN8dLBDYRAiDSno0eP2) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Come and See](https://open.spotify.com/album/6Le36V9KISl0nz7lJicj5g) | 5:42 |
 | 35 | [Medaase](https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Medaase](https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj) | 3:19 |
 | 36 | [Blessed](https://open.spotify.com/track/2ldQgqEsS4yhMWaxhmu3cE) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Blessed](https://open.spotify.com/album/79NSowDwIZktvvE09CjnrP) | 3:38 |
 | 37 | [VICTORY](https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [VICTORY](https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU) | 3:56 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 39 | [Chale](https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Chale](https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17) | 2:26 |
 | 40 | [Man on a Mission](https://open.spotify.com/track/0XeKqPjspgM5eAOhaCNMwL) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [The Prodigal Son](https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ) | 2:37 |
 | 41 | [Atɛɛne \- Overturned](https://open.spotify.com/track/6QBZ7vR6VVWD9AhlJoyNNS) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Atɛɛne \(Overturned\)](https://open.spotify.com/album/5Gd51I4NMFyutpwZe0M5ju) | 4:38 |
-| 42 | [Aseda](https://open.spotify.com/track/7AIplY4MAG0TBQMTeQkHuH) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Keteke](https://open.spotify.com/album/7997TGx8F6QVwHdpYcV8hO) | 3:47 |
-| 43 | [Come and See](https://open.spotify.com/track/23GEN8dLBDYRAiDSno0eP2) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Come and See](https://open.spotify.com/album/6Le36V9KISl0nz7lJicj5g) | 5:42 |
-| 44 | [Agbadza Gospel Medley II \(Live\)](https://open.spotify.com/track/6OOIvZJh0qNUM56BFWx4VT) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Agbadza Gospel Medley II \(Live\)](https://open.spotify.com/album/0a1CiR5KeyKrb3Zwh7Fp3I) | 8:33 |
+| 42 | [Agbadza Gospel Medley II \(Live\)](https://open.spotify.com/track/6OOIvZJh0qNUM56BFWx4VT) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Agbadza Gospel Medley II \(Live\)](https://open.spotify.com/album/0a1CiR5KeyKrb3Zwh7Fp3I) | 8:33 |
+| 43 | [Okrokrohene](https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Okrokrohene](https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX) | 6:06 |
+| 44 | [Aseda](https://open.spotify.com/track/7AIplY4MAG0TBQMTeQkHuH) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Keteke](https://open.spotify.com/album/7997TGx8F6QVwHdpYcV8hO) | 3:47 |
 | 45 | [DND](https://open.spotify.com/track/00NKcAGMQcLgown5dtYfCs) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [DND](https://open.spotify.com/album/3HbT4thk3EqWVSF278MPPX) | 2:43 |
 | 46 | [Watch & Pray](https://open.spotify.com/track/7uJNTmxFppTj3nZdbtSLDG) | [Siisi Baidoo](https://open.spotify.com/artist/1x9IbDcuMszbQzU8tposjZ) | [Watch & Pray](https://open.spotify.com/album/1aPAV46V8U8g0x0mEZOznd) | 8:25 |
-| 47 | [Me Ko M'Anim](https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Efiri Nyame](https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl) | 4:35 |
+| 47 | [Borborbor Gospel Medley](https://open.spotify.com/track/35kYZLjrvvDkEMZ20ELLT3) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Borborbor Gospel Medley](https://open.spotify.com/album/6AfJx9o8D0VztTeuIxy189) | 8:37 |
 | 48 | [Nyansabuakwa Nyame](https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nyansabuakwa Nyame](https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq) | 5:56 |
-| 49 | [Borborbor Gospel Medley](https://open.spotify.com/track/35kYZLjrvvDkEMZ20ELLT3) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Borborbor Gospel Medley](https://open.spotify.com/album/6AfJx9o8D0VztTeuIxy189) | 8:37 |
+| 49 | [Me Ko M'Anim](https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Efiri Nyame](https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl) | 4:35 |
 | 50 | [Sometin](https://open.spotify.com/track/0kPyu3XIUbFlyDvz319x8d) | [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [Sometin](https://open.spotify.com/album/3kdcgOOdHWNNkmJF2VaLsP) | 3:41 |
 
 Snapshot ID: `Zxs1SAAAAAAZgaXUj50BOgWTuNHBWMr8`

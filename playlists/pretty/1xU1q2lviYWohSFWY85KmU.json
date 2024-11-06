@@ -6,8 +6,132 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAD+PfjSx67ng7Tdr62f5jlsAhBH+sc",
+  "snapshot_id": "AAAEBwvkqtvXFaj6wuesMGlKnLswxKM0",
   "tracks": [
+    {
+      "added_at": "2024-11-05 08:29:07",
+      "album": {
+        "name": "\u516d\u82b1\u8b83\u6b4c",
+        "url": "https://open.spotify.com/album/2IDAlpFY78fr4QIONXQ9qv"
+      },
+      "artists": [
+        {
+          "name": "rukaku",
+          "url": "https://open.spotify.com/artist/2lAoVkxFoDf5o1PGtX0iAG"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "duration_ms": 218901,
+      "name": "\u516d\u82b1\u8b83\u6b4c",
+      "url": "https://open.spotify.com/track/5PpDUdkNlAQIrSQLg7Gcmr"
+    },
+    {
+      "added_at": "2024-11-05 08:29:20",
+      "album": {
+        "name": "EX10SION",
+        "url": "https://open.spotify.com/album/61j3EOlWjZm5fC1SUrYCO6"
+      },
+      "artists": [
+        {
+          "name": "TOKOTOKO",
+          "url": "https://open.spotify.com/artist/4D6R9IkfxEFHtLrm7D2LUH"
+        },
+        {
+          "name": "GUMI SV",
+          "url": "https://open.spotify.com/artist/0AGJkrs5uRJ9uFDHaqbVZB"
+        }
+      ],
+      "duration_ms": 239560,
+      "name": "\u591c\u3082\u3059\u304c\u3089\u541b\u60f3\u3075 (10th Anniv.) feat.GUMI SV",
+      "url": "https://open.spotify.com/track/02j3ouldOLVDdLO3cE4Tw6"
+    },
+    {
+      "added_at": "2024-11-05 08:29:39",
+      "album": {
+        "name": "Dancing on the edge",
+        "url": "https://open.spotify.com/album/3LFMTZdWJoESC9ruWc5evs"
+      },
+      "artists": [
+        {
+          "name": "okameP",
+          "url": "https://open.spotify.com/artist/1KC8BTeLDKxPr4Z19HJ6mp"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "MAI",
+          "url": "https://open.spotify.com/artist/0HlTcy9czaATTBerfsVICJ"
+        }
+      ],
+      "duration_ms": 200204,
+      "name": "Dancing on the edge (feat. \u521d\u97f3\u30df\u30af&Mai)",
+      "url": "https://open.spotify.com/track/1QONtjRwTlUODLpIggX5tU"
+    },
+    {
+      "added_at": "2024-11-05 08:30:57",
+      "album": {
+        "name": "next",
+        "url": "https://open.spotify.com/album/1xeKlSKdSgX2Blcs6rrecP"
+      },
+      "artists": [
+        {
+          "name": "Yoshihi",
+          "url": "https://open.spotify.com/artist/41FN2VKfQzEI9LOX4LFeaI"
+        },
+        {
+          "name": "\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9",
+          "url": "https://open.spotify.com/artist/36JmKF8ae9cmpYmbL5fZXD"
+        }
+      ],
+      "duration_ms": 197763,
+      "name": "\u30a4\u30ca\u30ba\u30de (feat. \u30e1\u30b0\u30c3\u30dd\u30a4\u30c9)",
+      "url": "https://open.spotify.com/track/6y59soOzuUqo1gmLoYFvp0"
+    },
+    {
+      "added_at": "2024-11-05 08:31:07",
+      "album": {
+        "name": "\u65c5\u306e\u9014\u4e2d",
+        "url": "https://open.spotify.com/album/01OoFMOC5ZLJ5xSgZDnwWp"
+      },
+      "artists": [
+        {
+          "name": "dezzy",
+          "url": "https://open.spotify.com/artist/6rdw0kbG9ame8zcTPuyM9Q"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 199578,
+      "name": "\u65c5\u306e\u9014\u4e2d (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6JcaY9hBH9x6GtqhHJ1Jc0"
+    },
     {
       "added_at": "2024-10-29 08:12:35",
       "album": {
@@ -695,134 +819,6 @@
       "duration_ms": 269368,
       "name": "Black Out",
       "url": "https://open.spotify.com/track/1xoSc615wdQJiegfuJ8wPH"
-    },
-    {
-      "added_at": "2024-09-03 08:34:56",
-      "album": {
-        "name": "Leisure",
-        "url": "https://open.spotify.com/album/3F3tnR8CkQX7rUTYexl3IO"
-      },
-      "artists": [
-        {
-          "name": "wotaku",
-          "url": "https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        },
-        {
-          "name": "Kagamine Len",
-          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
-        },
-        {
-          "name": "Megurine Luka",
-          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
-        },
-        {
-          "name": "MEIKO",
-          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
-        },
-        {
-          "name": "KAITO",
-          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
-        }
-      ],
-      "duration_ms": 183121,
-      "name": "Leisure",
-      "url": "https://open.spotify.com/track/22YKFyLRVLsCYNviE5kSyt"
-    },
-    {
-      "added_at": "2024-09-03 08:35:13",
-      "album": {
-        "name": "purpurite",
-        "url": "https://open.spotify.com/album/5BR6Dl64wjukXFLXfNYbMh"
-      },
-      "artists": [
-        {
-          "name": "narry",
-          "url": "https://open.spotify.com/artist/3BwdoxEHqxicASs1AaBevm"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "purpurite (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/1ThUUXPQUJ4FDKxDYzAmf9"
-    },
-    {
-      "added_at": "2024-09-03 08:35:23",
-      "album": {
-        "name": "\u904a\u8272\u306e\u30d0\u30c8\u30f3",
-        "url": "https://open.spotify.com/album/59auY5BGSCTF2VXPaK7e8V"
-      },
-      "artists": [
-        {
-          "name": "Cagayake",
-          "url": "https://open.spotify.com/artist/5CfFlJQ8rKqPkUkv9Hcpus"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "\u904a\u8272\u306e\u30d0\u30c8\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/5IhvWAZO2DMfkEVlN0DTwE"
-    },
-    {
-      "added_at": "2024-09-03 08:35:33",
-      "album": {
-        "name": "Nemesis",
-        "url": "https://open.spotify.com/album/1j08YK2O916NkMIUSK1x26"
-      },
-      "artists": [
-        {
-          "name": "\u3046\u3089\u307f\u7b2c\u4e8c\u5f62\u614b",
-          "url": "https://open.spotify.com/artist/3mbiub5aHkMuzIZDIQX3IZ"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Nemesis (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3)",
-      "url": "https://open.spotify.com/track/3t8Cbbn1Kqtqm3Wh3UCQxM"
-    },
-    {
-      "added_at": "2024-09-03 08:35:45",
-      "album": {
-        "name": "\u30a2\u30a6\u30d5\u30d8\u30fc\u30d9\u30f3",
-        "url": "https://open.spotify.com/album/2u9vyWn5nGMsTqd8RKQA1w"
-      },
-      "artists": [
-        {
-          "name": "\u306b\u307b",
-          "url": "https://open.spotify.com/artist/50TB8YYG1veA6YlYAkBIyX"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        },
-        {
-          "name": "\u53ef\u4e0d",
-          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
-        }
-      ],
-      "duration_ms": 149562,
-      "name": "\u30a2\u30a6\u30d5\u30d8\u30fc\u30d9\u30f3 (feat. \u521d\u97f3\u30df\u30af&\u53ef\u4e0d)",
-      "url": "https://open.spotify.com/track/2Rj7zS8uGPnauECSPyIJdT"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 \u30d1\u30ef\u30d5\u30eb\u30dd\u30c3\u30d7\u30b9",

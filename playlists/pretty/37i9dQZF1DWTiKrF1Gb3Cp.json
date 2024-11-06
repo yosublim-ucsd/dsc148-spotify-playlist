@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 213322,
+  "num_followers": 213372,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-10-11 18:59:32",
       "album": {
+        "name": "DELTAS",
+        "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 142372,
+      "name": "DELTAS",
+      "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
+    },
+    {
+      "added_at": "2024-10-11 18:59:32",
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 183797,
       "name": "El Menos Visto",
       "url": "https://open.spotify.com/track/6iC4fHzpEwug1iNFnNfhOy"
-    },
-    {
-      "added_at": "2024-10-11 18:59:32",
-      "album": {
-        "name": "DELTAS",
-        "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "DELTAS",
-      "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
     },
     {
       "added_at": "2024-10-11 18:59:32",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-10-11 18:59:32",
       "album": {
-        "name": "Traigo El Mando",
-        "url": "https://open.spotify.com/album/4uSaOLMXunvlUMi9sTRAoa"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        }
-      ],
-      "duration_ms": 182911,
-      "name": "Traigo El Mando",
-      "url": "https://open.spotify.com/track/5CNlGSmdMGd13s45QZVCzV"
-    },
-    {
-      "added_at": "2024-10-11 18:59:32",
-      "album": {
         "name": "IceWeed-Man",
         "url": "https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 252000,
       "name": "Desvielados",
       "url": "https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm"
+    },
+    {
+      "added_at": "2024-10-11 18:59:32",
+      "album": {
+        "name": "Traigo El Mando",
+        "url": "https://open.spotify.com/album/4uSaOLMXunvlUMi9sTRAoa"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "duration_ms": 182911,
+      "name": "Traigo El Mando",
+      "url": "https://open.spotify.com/track/5CNlGSmdMGd13s45QZVCzV"
     },
     {
       "added_at": "2024-10-11 18:59:32",

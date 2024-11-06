@@ -4,7 +4,7 @@
 
 > Country music that rocks\. Cover: Ryan Hurd
 
-384 songs - 21 hr 58 min
+385 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Born To Run To You](https://open.spotify.com/track/5HIjLTk1Yvkw9CtTXGeWtP) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Born To Run To You](https://open.spotify.com/album/0VBl3jdg3LcoMfUGbWw9uF) | 3:01 | 2023-03-17 | 2023-06-03 |
 | [Born With a Broken Heart](https://open.spotify.com/track/1Et2GokgjL1FKGdLBAeTNJ) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Born With a Broken Heart](https://open.spotify.com/album/3T14ypp8CyQE9LEgnO3uGQ) | 3:04 | 2023-07-07 | 2023-09-09 |
 | [Break Before I Bend](https://open.spotify.com/track/71Q2un1xXRayfGf0YIHH6j) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [Break Before I Bend](https://open.spotify.com/album/1k1abToaZr3uklkrmgvmnu) | 3:09 | 2023-11-10 |  |
-| [Break My Bones](https://open.spotify.com/track/1VSJKbdlrDRdI8oYu3tnzi) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Break My Bones](https://open.spotify.com/album/6jfQgc5MPRJrPqeJ8L1eu5) | 3:26 | 2023-01-27 |  |
+| [Break My Bones](https://open.spotify.com/track/1VSJKbdlrDRdI8oYu3tnzi) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Break My Bones](https://open.spotify.com/album/6jfQgc5MPRJrPqeJ8L1eu5) | 3:26 | 2023-01-27 | 2024-11-06 |
 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 | 2022-04-15 | 2023-03-26 |
 | [Bricks](https://open.spotify.com/track/5ogBdwMrYSUpoQDLyqFptS) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Bricks](https://open.spotify.com/album/6fQDqpUjTb5BZ1DEs25zdd) | 3:35 | 2023-06-09 | 2023-07-26 |
 | [Broken Windshield View](https://open.spotify.com/track/2VnjUrGKgRppVnbANIQyy7) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Broken Windshield View](https://open.spotify.com/album/4EzrCQdf9JYShUo0PtxXe4) | 3:24 | 2023-01-20 | 2023-03-05 |
@@ -348,6 +348,7 @@
 | [Up to Me](https://open.spotify.com/track/45eogTRy1OqfhJ2KQaOL2W) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [Up to Me](https://open.spotify.com/album/5vqC9GDUqWT1f6PDzPjwO4) | 4:02 | 2022-02-11 | 2022-07-22 |
 | [Up To No Good](https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Up To No Good](https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW) | 2:13 | 2022-07-22 |  |
 | [Varsity Type](https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Varsity Type](https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP) | 3:22 | 2022-05-27 | 2022-11-19 |
+| [Wait For It](https://open.spotify.com/track/1wrrEHQGT433ZOUA5wvXaX) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Wait For It](https://open.spotify.com/album/5QmNGPE9HijPfyy6ggJf9X) | 3:46 | 2024-11-01 |  |
 | [Wait Outside](https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:21 | 2021-11-01 | 2024-08-24 |
 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 | 2021-11-01 |  |
 | [Wake Up Without Me](https://open.spotify.com/track/0eseAsEdgDdUYaVL0Duikp) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Wake Up Without Me](https://open.spotify.com/album/4W92R9tdOKea59NHW0MaS2) | 2:53 | 2024-05-03 | 2024-08-13 |

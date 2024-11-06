@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Kim Dong Ryul\(김동률\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: BEN\(벤\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-572 songs - 1 day 13 hr 24 min
+574 songs - 1 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [All about you](https://open.spotify.com/track/7fftC401ke4BzA3ucPIXES) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel Del Luna OST Part.3](https://open.spotify.com/album/5WAsRdVn8bIzklCuZUqeUR) | 3:29 | 2021-12-20 | 2022-07-29 |
 | [All I Have is My Heart](https://open.spotify.com/track/3VqPDP2g1wR8F0J4utm3yX) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Ghost Doctor, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Y9r0IoRE4uftS7lSprK8e) | 3:17 | 2022-01-27 | 2022-04-21 |
 | [All is you](https://open.spotify.com/track/5nTJoIraxw2S0Bp5LEqGbk) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ), [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [All is you](https://open.spotify.com/album/10pOd9mtldRpC7tbHNz6WS) | 4:27 | 2022-04-01 | 2022-04-21 |
+| [All Our Days](https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [Family by Choice \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/4lZPOXajtPXz2lOvpzLPNT) | 4:48 | 2024-11-05 |  |
 | [Alley \(with SUNG SI KYUNG\)](https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Alley](https://open.spotify.com/album/1klgaObg00RhXIsKmVysk4) | 4:45 | 2023-12-13 |  |
 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 | 2024-05-29 | 2024-06-06 |
 | [Alone \(Feat\. GSoul\)](https://open.spotify.com/track/0TXGMVMHbmV8oHgayKayHs) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [look](https://open.spotify.com/album/0i1vQkPkubyuGSdSGH3zdV) | 4:14 | 2022-01-14 | 2022-07-17 |
@@ -252,7 +253,7 @@
 | [Just Look for you](https://open.spotify.com/track/15Xk9pTVjhLH3nldqR89Sl) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Chocolate, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/1IIaSwpqJvJCvxXyM69c3A) | 3:41 | 2022-07-25 | 2024-01-10 |
 | [Just Look for you](https://open.spotify.com/track/1rP25u8w92R4rq1UttWSeq) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Chocolate,Pt.5\(Original Television Soundtrack\)](https://open.spotify.com/album/2AZ7tXHNJnGDT1Q7n4L1Yz) | 3:41 | 2021-12-20 | 2022-04-20 |
 | [Just Look for you](https://open.spotify.com/track/21Kpv5vg4jtgfgIBgAqm2U) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Chocolate, Pt.5 \(Original Television Soundtrack\)](https://open.spotify.com/album/04B0uLq5aKWhjVmA8Vrj8I) | 3:41 | 2024-01-17 | 2024-04-19 |
-| [Kaze](https://open.spotify.com/track/686EAFs0uJRvVTHaOhkP1u) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA Studio Live Album 'MINDSET'](https://open.spotify.com/album/3pY7uXFrbq96BhWXcomLIi) | 5:31 | 2023-05-10 |  |
+| [Kaze](https://open.spotify.com/track/686EAFs0uJRvVTHaOhkP1u) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA Studio Live Album 'MINDSET'](https://open.spotify.com/album/3pY7uXFrbq96BhWXcomLIi) | 5:31 | 2023-05-10 | 2024-11-06 |
 | [La Vie Rosée](https://open.spotify.com/track/77EJqUi8w6kstvE53TFxnw) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [Tales of Sensuality](https://open.spotify.com/album/59wYUBRXUJBC5NxFXqFYLh) | 5:14 | 2024-04-25 | 2024-05-19 |
 | [Last](https://open.spotify.com/track/2ZrKUv6I0r52XuDNYPULps) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Miles Apart](https://open.spotify.com/album/1OmyHS4uPSMbqeHWw2G5CK) | 4:06 | 2022-04-01 | 2022-05-17 |
 | [Last Page \(prod\. by yoonsang\)](https://open.spotify.com/track/1aS1LxAKRyWCu5wPPfCQt3) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [Last Page \(prod\. by yoonsang\)](https://open.spotify.com/album/02r7KPdGKIirL2sAUOH2KQ) | 4:12 | 2022-03-24 | 2022-04-16 |
@@ -326,7 +327,7 @@
 | [My Dream](https://open.spotify.com/track/5XKo813PRaLwH1yHWP674c) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Rookie Historian GooHaeRyung 신입사관 구해령 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3IIHBgXFIt3yvPYDqsl8qp) | 3:54 | 2022-04-01 | 2022-04-19 |
 | [My Dream](https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Rookie Historian GooHaeRyung \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt) | 3:54 | 2022-09-06 | 2024-04-16 |
 | [My Favorite Winter](https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 3:49 | 2022-12-14 | 2023-01-13 |
-| [my life](https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [my life](https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS) | 2:54 | 2022-01-21 |  |
+| [my life](https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [my life](https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS) | 2:54 | 2022-01-21 | 2024-11-06 |
 | [MY OCEAN](https://open.spotify.com/track/7hRHXvvVKgPHIml5Semtor) | [Jeong Young Eun](https://open.spotify.com/artist/2XX6AOq6HuYXNj4l9FQTJ1) | [MY OCEAN](https://open.spotify.com/album/5YhzIq7UftXN1fwluhNgXV) | 3:49 | 2022-03-31 | 2022-04-17 |
 | [My Only One](https://open.spotify.com/track/3wbPvkTGox700oY5oDJPzY) | [2BiC](https://open.spotify.com/artist/2m4JjhDHG2PfW7WIaZW9ax) | [Calendar Of 2BIC \(August\)](https://open.spotify.com/album/3c8FoccgwEnlIVbF2fSItA) | 4:36 | 2022-02-10 | 2022-04-21 |
 | [My Only One](https://open.spotify.com/track/6JX4Pt45ZBFwrWkHkb3ty0) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Tomorrow OST Part.5](https://open.spotify.com/album/56Yr8Mpxlo419j32FhcPKg) | 4:22 | 2022-05-11 | 2022-10-25 |
@@ -365,6 +366,7 @@
 | [Only Longing Grows](https://open.spotify.com/track/2crkSPXNfENoVob10TfTTh) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.15](https://open.spotify.com/album/58uielBksTKu8wfbWBfJxC) | 3:53 | 2022-07-25 | 2022-08-04 |
 | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/track/3vZlTN0MeWV9DCYMfvny7d) | [Lee Hong Ki \(FTISLAND\)](https://open.spotify.com/artist/2uhdqkoAiPkJq5vkEQSlyE) | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/album/134CLUvRAY02C9Z4KtTlXo) | 4:16 | 2023-07-17 | 2023-09-11 |
 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 | 2021-12-20 |  |
+| [Only You](https://open.spotify.com/track/6plU8hBXEl5dpaxW3bYqnh) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Only You](https://open.spotify.com/album/4RXBbP8IWWszn57oSTcP24) | 4:31 | 2024-11-05 |  |
 | [Only You](https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Only You](https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM) | 4:23 | 2021-12-20 |  |
 | [Only you \(The Moon during the Day X GB9\)](https://open.spotify.com/track/3sa9y64Wx3P6lwJMifujf4) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Only you \(The Moon during the Day X GB9\)](https://open.spotify.com/album/3uNHehmSwCjlZDJ0jcZwyw) | 4:46 | 2021-12-27 | 2022-07-13 |
 | [Only you don't know \(Samsung New Retro Series\)](https://open.spotify.com/track/6Zvu8RwsRkogAb5AvBpF2x) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Only you don't know \(Samsung New Retro Series\)](https://open.spotify.com/album/5DqfLEt9syg644ToarPkZU) | 4:05 | 2021-12-20 | 2022-07-28 |

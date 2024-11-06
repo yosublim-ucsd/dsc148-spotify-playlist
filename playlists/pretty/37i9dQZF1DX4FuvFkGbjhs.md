@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Joesef
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,375 likes - 114 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,390 likes - 114 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

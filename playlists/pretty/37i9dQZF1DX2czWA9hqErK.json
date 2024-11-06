@@ -1,6 +1,6 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 1359969,
+  "num_followers": 1359962,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-10-25 08:00:00",
       "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
+    },
+    {
+      "added_at": "2024-10-25 08:00:00",
+      "album": {
         "name": "Tough",
         "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
-    },
-    {
-      "added_at": "2024-10-25 08:00:00",
-      "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
     },
     {
       "added_at": "2024-10-25 08:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-10-25 08:00:00",
       "album": {
+        "name": "Fable",
+        "url": "https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 261005,
+      "name": "Fable",
+      "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
+    },
+    {
+      "added_at": "2024-10-25 08:00:00",
+      "album": {
         "name": "I've Tried Everything But Therapy (Part 1.5)",
         "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 179437,
       "name": "Burning Down",
       "url": "https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV"
-    },
-    {
-      "added_at": "2024-10-25 08:00:00",
-      "album": {
-        "name": "Fable",
-        "url": "https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 261005,
-      "name": "Fable",
-      "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
     },
     {
       "added_at": "2024-10-25 08:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-10-25 08:00:00",
       "album": {
-        "name": "For Cryin' Out Loud!",
-        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 217232,
-      "name": "For Cryin' Out Loud!",
-      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
-    },
-    {
-      "added_at": "2024-10-25 08:00:00",
-      "album": {
         "name": "I Love You So F***ing Much",
         "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2024-10-25 08:00:00",
       "album": {
-        "name": "First Heartbreak",
-        "url": "https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n"
+        "name": "For Cryin' Out Loud!",
+        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 180486,
-      "name": "First Heartbreak",
-      "url": "https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357"
+      "duration_ms": 217232,
+      "name": "For Cryin' Out Loud!",
+      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
     },
     {
       "added_at": "2024-10-25 08:00:00",
@@ -935,6 +919,22 @@
       "duration_ms": 196752,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG"
+    },
+    {
+      "added_at": "2024-10-25 08:00:00",
+      "album": {
+        "name": "First Heartbreak",
+        "url": "https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 180486,
+      "name": "First Heartbreak",
+      "url": "https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357"
     },
     {
       "added_at": "2024-10-25 08:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-10-25 08:00:00",
       "album": {
-        "name": "Tear It All Apart",
-        "url": "https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 186342,
-      "name": "Tear It All Apart",
-      "url": "https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88"
-    },
-    {
-      "added_at": "2024-10-25 08:00:00",
-      "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 236012,
       "name": "My Fault (feat. Noah Cyrus)",
       "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
+    },
+    {
+      "added_at": "2024-10-25 08:00:00",
+      "album": {
+        "name": "Tear It All Apart",
+        "url": "https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 186342,
+      "name": "Tear It All Apart",
+      "url": "https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88"
     },
     {
       "added_at": "2024-10-25 08:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-10-25 08:00:00",
       "album": {
-        "name": "Peaceful Place",
-        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Peaceful Place",
-      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
-    },
-    {
-      "added_at": "2024-10-25 08:00:00",
-      "album": {
         "name": "Life, Love & Upsets",
         "url": "https://open.spotify.com/album/5Sx0EE8htv4hV5jtSQgGdM"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 176059,
       "name": "Looking Like That",
       "url": "https://open.spotify.com/track/13LdcTEtxPwQPEirkFSGPp"
+    },
+    {
+      "added_at": "2024-10-25 08:00:00",
+      "album": {
+        "name": "Peaceful Place",
+        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Peaceful Place",
+      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
     },
     {
       "added_at": "2024-10-25 08:00:00",
@@ -1537,6 +1537,22 @@
       "url": "https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k"
     },
     {
+      "added_at": "2024-10-25 11:32:47",
+      "album": {
+        "name": "Patterns in Repeat",
+        "url": "https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 200648,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/1SNB5tolDTBIT2ygSthC8d"
+    },
+    {
       "added_at": "2024-10-25 08:00:00",
       "album": {
         "name": "Here It Is",
@@ -1567,22 +1583,6 @@
       "duration_ms": 133059,
       "name": "Someone That's Better",
       "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
-    },
-    {
-      "added_at": "2024-10-25 11:32:47",
-      "album": {
-        "name": "Patterns in Repeat",
-        "url": "https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 200648,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/1SNB5tolDTBIT2ygSthC8d"
     },
     {
       "added_at": "2024-10-25 08:00:00",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-10-25 08:00:00",
       "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
+        "name": "Alienated",
+        "url": "https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i"
       },
       "artists": [
         {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
         }
       ],
-      "duration_ms": 231173,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
+      "duration_ms": 247613,
+      "name": "Alienated",
+      "url": "https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw"
     }
   ],
   "unique_name": "Easy",

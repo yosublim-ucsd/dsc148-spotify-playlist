@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > canzoni tristi per chi ha un cuore così 💔  \(in cover, chiello\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,769 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,773 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 39 | [Lei No \(Il Tradito\)](https://open.spotify.com/track/1thFyozce9U4LsdXYpheBl) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Come Uccidere Un Usignolo \(67 Edition\)](https://open.spotify.com/album/3jaseqJUAT1PMLbpYKCUPq) | 3:42 |
 | 40 | [14](https://open.spotify.com/track/1veUzOYyrblgIzylvPzkAZ) | [Jayred](https://open.spotify.com/artist/2fxu0phr0BCuxaKdSfCv08), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd) | [14](https://open.spotify.com/album/7290JgdAoUMQmFzAVztJpk) | 1:50 |
 | 41 | [RABBIA DISTILLATA](https://open.spotify.com/track/3em916bP0hSXqbfWpYWP9g) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [CHE IO MI AIUTI](https://open.spotify.com/album/0EPRc36lZm7irBGc6dVQTY) | 2:36 |
-| 42 | [Nontiscordardimè](https://open.spotify.com/track/1UDvp1Dlxa31Lu2hzpX4aV) | [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma) | [Nontiscordardimè](https://open.spotify.com/album/2UTmRQTtUtQPr4LzIUvFsq) | 2:58 |
-| 43 | [Situation](https://open.spotify.com/track/5w5pdKt5Ca3YbLXCQzu8CC) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [GREAF](https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP) | [TheWitch&TheWizard](https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O) | 1:48 |
+| 42 | [Situation](https://open.spotify.com/track/5w5pdKt5Ca3YbLXCQzu8CC) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [GREAF](https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP) | [TheWitch&TheWizard](https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O) | 1:48 |
+| 43 | [Nontiscordardimè](https://open.spotify.com/track/1UDvp1Dlxa31Lu2hzpX4aV) | [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma) | [Nontiscordardimè](https://open.spotify.com/album/2UTmRQTtUtQPr4LzIUvFsq) | 2:58 |
 | 44 | [TUTTO BENE](https://open.spotify.com/track/2GwkOhcx2lkJRZbz8oHcc0) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [TRAUMA](https://open.spotify.com/album/4yIRhOu3cXwjCCLsdvMCAe) | 3:19 |
 | 45 | [Favole](https://open.spotify.com/track/03OG1l3nH7rQgJDtM6YDb8) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Favole](https://open.spotify.com/album/4wM4GOeuTrqB90nlx4XZNi) | 1:42 |
 | 46 | [Male](https://open.spotify.com/track/07nCfjUbtcJsIxfHdXxlUs) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza](https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b) | 3:23 |

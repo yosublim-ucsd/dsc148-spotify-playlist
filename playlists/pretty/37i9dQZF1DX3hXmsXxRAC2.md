@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,281 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,340 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Una Vez Más](https://open.spotify.com/track/3pd1YpH2Zx9iRCaOSxKdVT) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Perdóname Mi Amor](https://open.spotify.com/album/0jfIHJWOzvDLrYGcIyc2TA) | 2:39 |
-| 2 | [Te Lo Pido por Favor](https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Primer Instinto](https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL) | 3:26 |
-| 3 | [No discutamos](https://open.spotify.com/track/4LOoLsXcPdAHzPwSznpq3Y) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 3:22 |
-| 4 | [Lo Pasado, Pasado](https://open.spotify.com/track/0N0MCLSnB3318RzJLVLtXt) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Lo Pasado Pasado](https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq) | 4:08 |
+| 1 | [Te Lo Pido por Favor](https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Primer Instinto](https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL) | 3:26 |
+| 2 | [Una Vez Más](https://open.spotify.com/track/3pd1YpH2Zx9iRCaOSxKdVT) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Perdóname Mi Amor](https://open.spotify.com/album/0jfIHJWOzvDLrYGcIyc2TA) | 2:39 |
+| 3 | [Lo Pasado, Pasado](https://open.spotify.com/track/0N0MCLSnB3318RzJLVLtXt) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Lo Pasado Pasado](https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq) | 4:08 |
+| 4 | [No discutamos](https://open.spotify.com/track/4LOoLsXcPdAHzPwSznpq3Y) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 3:22 |
 | 5 | [Ya No Vivo Por Vivir](https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Los Dúo \(Deluxe\)](https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF) | 6:14 |
 | 6 | [Se Me Olvidó Otra Vez \- Unplugged](https://open.spotify.com/track/6k2AsDKvvip54F59DIn1Mv) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [MTV Unplugged](https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2) | 3:42 |
 | 7 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/4NU4aMYuFTv9xTizymCKek) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 3:51 |

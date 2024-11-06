@@ -4,7 +4,7 @@
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-86 songs - 4 hr 41 min
+87 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Double Crown](https://open.spotify.com/track/7CxWLI6FDroqte3DbucNx9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Crosses and Crossroads](https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX) | 2:57 | 2023-12-13 | 2024-03-23 |
 | [Echoes](https://open.spotify.com/track/51OjUIiXdsPCr52oB5ntX8) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Cub da CookUpBoss](https://open.spotify.com/artist/6sJKJYlNaVSirnhSyVg4Ps) | [Goodnight Nashville](https://open.spotify.com/album/4BEol4SQk5NthGSNpaxIal) | 3:57 | 2023-12-13 | 2024-01-30 |
 | [Even Angels Cry](https://open.spotify.com/track/6IubO8kA1YB2rxPMKqXK9N) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 2:53 | 2024-06-06 | 2024-07-11 |
-| [Everyone Bleeds](https://open.spotify.com/track/4fTTSo54eiSHqL7sb93JMM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:22 | 2024-10-15 |  |
+| [Everyone Bleeds](https://open.spotify.com/track/4fTTSo54eiSHqL7sb93JMM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:22 | 2024-10-15 | 2024-11-06 |
 | [Fall in the Fall](https://open.spotify.com/track/6bXSfLBuqFQtVHNLxXbqbk) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Waylon & Willie 2](https://open.spotify.com/album/4o9I622N2dNhGOiaHqjwad) | 4:09 | 2023-12-13 |  |
 | [Get By](https://open.spotify.com/track/5CEkI4CA4yHWEdiRDt1qlr) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Get By](https://open.spotify.com/album/0QQ1aWvzjFk14qU4vfOFbW) | 2:40 | 2024-08-25 | 2024-10-31 |
 | [Get By](https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:40 | 2024-10-31 |  |
@@ -44,7 +44,8 @@
 | [Heaven](https://open.spotify.com/track/2t4m6SHDH2BEZ7hZa0b3QX) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Addiction Kills](https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP) | 2:49 | 2023-12-13 |  |
 | [Higher Than Heaven \(with Wiz Khalifa\)](https://open.spotify.com/track/6Xfyrr6Gx5VbXvsBpMmYeF) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:49 | 2024-10-17 | 2024-10-31 |
 | [House Of Mirrors \(feat\. Jelly Roll\)](https://open.spotify.com/track/7iANbpnadfUepWAYDrBqDb) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hotel Kalifornia \(Deluxe Version\)](https://open.spotify.com/album/2QmovINf6cQMuNTTZYNBWi) | 3:25 | 2023-12-13 | 2024-08-18 |
-| [I Am Not Okay](https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I Am Not Okay](https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i) | 3:17 | 2024-06-14 |  |
+| [I Am Not Okay](https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I Am Not Okay](https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i) | 3:17 | 2024-06-14 | 2024-11-06 |
+| [I Am Not Okay](https://open.spotify.com/track/3SaS0Va6o6jYkWvadT86C6) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:18 | 2024-11-06 |  |
 | [I Need You](https://open.spotify.com/track/1n2N1qOSZcjGmaIoJSjgZa) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 2:51 | 2023-12-13 |  |
 | [I Went To College / I Went To Jail \(feat\. Jelly Roll\)](https://open.spotify.com/track/3FULZo3F26XP00rsLrXTLE) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5) | 3:34 | 2024-05-03 | 2024-06-16 |
 | [I Went To College / I Went To Jail \(feat\. Jelly Roll\)](https://open.spotify.com/track/7kKdZ6PNaVD4aqsA9jvnyv) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/4aD7IAPv6OlCGoYWrUJZ3K) | 3:34 | 2024-03-22 | 2024-05-03 |

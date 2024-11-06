@@ -1,12 +1,12 @@
 {
   "description": "This is Luis Miguel. The essential tracks, all in one playlist.",
-  "num_followers": 2386751,
+  "num_followers": 2387273,
   "original_name": "This Is Luis Miguel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAAD8AmROhZM9VIl3ZO+88Wd8",
+  "snapshot_id": "ZygOgAAAAACPB8cdjEQZ7PPue3Zws19t",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "M\u00e9xico En La Piel",
-      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy Como Quiero Ser",
         "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 236413,
       "name": "Cuando Calienta El Sol",
       "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 209213,
+      "name": "M\u00e9xico En La Piel",
+      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
     },
     {
       "added_at": null,

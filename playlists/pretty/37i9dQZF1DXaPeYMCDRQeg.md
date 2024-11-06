@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 
 > My love language is all of em, do all that $\#\*!
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,801 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,811 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 | 7 | [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/album/4KIsBJev5R0VLIL3qAVDhx) | 3:25 |
 | 8 | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ) | 2:59 |
 | 9 | [Part II \(On The Run\)](https://open.spotify.com/track/2gSh6B45bWv4gDOhawR8C2) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Magna Carta..\. Holy Grail](https://open.spotify.com/album/0OTjYdGtP7AbwOwbYsGhyi) | 5:33 |
-| 10 | [Show Me](https://open.spotify.com/track/03wtx4ynOzWaPUCrmckNkC) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/5lICxaH7i12zXxQGjd2Mjn) | 3:40 |
+| 10 | [From A Woman](https://open.spotify.com/track/5YVmVthPhqjBUrqB2Rp5di) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 3:02 |
 | 11 | [Pretty Little Fears \(feat\. J\. Cole\)](https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [East Atlanta Love Letter](https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2) | 4:00 |
 | 12 | [Differences](https://open.spotify.com/track/0Uyh92tLyb9JawG8lmWCzJ) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Life](https://open.spotify.com/album/5IZeegMeRHlyKE6LKrVuYt) | 4:25 |
 | 13 | [Fortunate](https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Fortunate](https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H) | 5:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 | 99 | [Love Galore \(feat\. Travis Scott\)](https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:35 |
 | 100 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:38 |
 
-Snapshot ID: `Zu2fkQAAAAAcdHNuy60ZiYTeqoe8tl5i`
+Snapshot ID: `ZyqfowAAAADE7jIgdi3c+EOlJC/HcHDA`

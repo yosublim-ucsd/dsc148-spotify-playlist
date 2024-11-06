@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 
 > 2010 highlights from the home of indie music\. Cover: Gorillaz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,092 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,415 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 2 | [On Melancholy Hill](https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:53 |
 | 3 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 |
 | 4 | [What You Know](https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 3:09 |
-| 5 | [Howlin' for You](https://open.spotify.com/track/4yffABDkB5A9flvr9vQFck) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:11 |
-| 6 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
+| 5 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
+| 6 | [Howlin' for You](https://open.spotify.com/track/4yffABDkB5A9flvr9vQFck) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:11 |
 | 7 | [Silver Soul](https://open.spotify.com/track/56eSclzdXaWU5jOJ7DX7Vp) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/7ejB3MHdDNcY3GzRsQRAHs) | 4:58 |
 | 8 | [Black Sheep](https://open.spotify.com/track/72hSmnleYTiiOo23q8ZJIS) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Black Sheep](https://open.spotify.com/album/69BagWbfHgbO9uxjfVYcux) | 4:57 |
 | 9 | [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 68 | [Airplanes](https://open.spotify.com/track/6qsArsTq6WoqtUFUe1e15W) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Gorilla Manor](https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID) | 3:57 |
 | 69 | [Norway](https://open.spotify.com/track/2irDC5hDrLeNnqlmABCyZV) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/7ejB3MHdDNcY3GzRsQRAHs) | 3:54 |
 | 70 | [Don't Gotta Work It Out](https://open.spotify.com/track/7ECNbJ7lRHDY2CiHKVirYB) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Pickin' up the Pieces](https://open.spotify.com/album/6v1XsTQiTP6IziGoGpTLu1) | 4:09 |
-| 71 | [Sun](https://open.spotify.com/track/3yb4akoM3pD2epSSrfx9Es) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:44 |
-| 72 | [Ambling Alp](https://open.spotify.com/track/67k3wJiBJ7ZgEJH26Sp7hm) | [Yeasayer](https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft) | [Odd Blood](https://open.spotify.com/album/3yfOxXDy6AbOduHoo1653D) | 3:55 |
+| 71 | [Ambling Alp](https://open.spotify.com/track/67k3wJiBJ7ZgEJH26Sp7hm) | [Yeasayer](https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft) | [Odd Blood](https://open.spotify.com/album/3yfOxXDy6AbOduHoo1653D) | 3:55 |
+| 72 | [Sun](https://open.spotify.com/track/3yb4akoM3pD2epSSrfx9Es) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:44 |
 | 73 | [Boyfriend](https://open.spotify.com/track/6f7RZAHcYEwtujd97hGkF5) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Crazy for You](https://open.spotify.com/album/2FNAYHVBNgDmaJDEWg41gy) | 2:29 |
 | 74 | [Meyrin Fields](https://open.spotify.com/track/5yxLSSgg6x07mtl1PeOCb1) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Meyrin Fields](https://open.spotify.com/album/7An0egewVhqmkkAbUl2MW1) | 2:48 |
 | 75 | [Draw Your Swords](https://open.spotify.com/track/0fqgrmA1DofWdJG2daQf9w) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/4PpJwNXmV1CBL5JITpqPxA) | 6:35 |
@@ -92,21 +92,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 82 | [For You](https://open.spotify.com/track/18XBLoClPIgN2Yf21zDTpI) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/4PpJwNXmV1CBL5JITpqPxA) | 5:19 |
 | 83 | [Sweetest Kill](https://open.spotify.com/track/0j3dr7U259HXTzvEKJklpd) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Forgiveness Rock Record](https://open.spotify.com/album/0xzX9DQPOH62M4i7WdQNfF) | 5:09 |
 | 84 | [Rill Rill](https://open.spotify.com/track/1iw4yy8dDH9TcSEcOEWVnO) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Treats](https://open.spotify.com/album/7l5Y3f2amyv1acMfZZQfa2) | 3:49 |
-| 85 | [Love Is All](https://open.spotify.com/track/2VASvSAnhsxXv6V2o97D6x) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/4FQTG2YfZFSGT9z3tPvLWa) | 4:14 |
+| 85 | [Journal of Ardency](https://open.spotify.com/track/3vc0dm7NHZTProvlYlkhmh) | [Class Actress](https://open.spotify.com/artist/4nZbOHYEypqHtWwTPQu8Fl) | [Journal of Ardency](https://open.spotify.com/album/0yTVrdU4jqSHyrh6VCQ8Cw) | 3:45 |
 | 86 | [Far Away](https://open.spotify.com/track/2PsotMzKAdxPzpsEJYQd4Z) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW) | [Fields](https://open.spotify.com/album/7LMaY3Yah3TMepmzWWYGll) | 2:44 |
-| 87 | [Bloodbuzz Ohio](https://open.spotify.com/track/5JAWf4omEzwccQNE8Y6kvn) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ) | 4:35 |
+| 87 | [Love Is All](https://open.spotify.com/track/2VASvSAnhsxXv6V2o97D6x) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/4FQTG2YfZFSGT9z3tPvLWa) | 4:14 |
 | 88 | [Down in the Valley](https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 5:03 |
-| 89 | [Journal of Ardency](https://open.spotify.com/track/3vc0dm7NHZTProvlYlkhmh) | [Class Actress](https://open.spotify.com/artist/4nZbOHYEypqHtWwTPQu8Fl) | [Journal of Ardency](https://open.spotify.com/album/0yTVrdU4jqSHyrh6VCQ8Cw) | 3:45 |
-| 90 | [Round And Round](https://open.spotify.com/track/2qKTOaX1ZeMWn3aKhpxkz5) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN) | [Before Today](https://open.spotify.com/album/1dO7qBlkQXYENJaHfK7h56) | 5:08 |
-| 91 | [Baptism](https://open.spotify.com/track/4fQuGSR9iAmCOA36XCpKqr) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles \(II\)](https://open.spotify.com/album/63QBHPFzDjTfumF8VlPX8l) | 4:12 |
-| 92 | [Weekend](https://open.spotify.com/track/3qL2jwvsVpY4hmek3t5ahn) | [Smith Westerns](https://open.spotify.com/artist/3yEqgEvatASNm30zZR3ZHl) | [Dye It Blonde](https://open.spotify.com/album/6QOvRYGw29xOPkcraXsRH4) | 3:22 |
-| 93 | [Zebra](https://open.spotify.com/track/0ZAhJvqW67Epg4IsLIaSTR) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/4sYpTER2iT2Y7Kf4VsfUne) | 4:48 |
-| 94 | [England](https://open.spotify.com/track/1HWfQwxh9ADFMDDPv4lsYm) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ) | 5:40 |
+| 89 | [Bloodbuzz Ohio](https://open.spotify.com/track/5JAWf4omEzwccQNE8Y6kvn) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ) | 4:35 |
+| 90 | [Zebra](https://open.spotify.com/track/0ZAhJvqW67Epg4IsLIaSTR) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/4sYpTER2iT2Y7Kf4VsfUne) | 4:48 |
+| 91 | [Round And Round](https://open.spotify.com/track/2qKTOaX1ZeMWn3aKhpxkz5) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN) | [Before Today](https://open.spotify.com/album/1dO7qBlkQXYENJaHfK7h56) | 5:08 |
+| 92 | [Baptism](https://open.spotify.com/track/4fQuGSR9iAmCOA36XCpKqr) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles \(II\)](https://open.spotify.com/album/63QBHPFzDjTfumF8VlPX8l) | 4:12 |
+| 93 | [Weekend](https://open.spotify.com/track/3qL2jwvsVpY4hmek3t5ahn) | [Smith Westerns](https://open.spotify.com/artist/3yEqgEvatASNm30zZR3ZHl) | [Dye It Blonde](https://open.spotify.com/album/6QOvRYGw29xOPkcraXsRH4) | 3:22 |
+| 94 | [The Dreamer](https://open.spotify.com/track/6BdeC4b3dbPucapuLfYqKa) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Sometimes The Blues Is Just A Passing Bird](https://open.spotify.com/album/3qjQE1u461QuhH1JjcjaP0) | 4:05 |
 | 95 | [Lost in My Mind](https://open.spotify.com/track/563iNuGeBdAegSCMRSMjMH) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 4:19 |
-| 96 | [The Dreamer](https://open.spotify.com/track/6BdeC4b3dbPucapuLfYqKa) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Sometimes The Blues Is Just A Passing Bird](https://open.spotify.com/album/3qjQE1u461QuhH1JjcjaP0) | 4:05 |
+| 96 | [England](https://open.spotify.com/track/1HWfQwxh9ADFMDDPv4lsYm) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ) | 5:40 |
 | 97 | [Modern Man](https://open.spotify.com/track/7z7100g9zR2d55U1kGMyCv) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/7ywq1sBkcgkXsF3MduUPWi) | 4:39 |
-| 98 | [Not In Love](https://open.spotify.com/track/5vEpcbVSRFYkSpZmJ1lWAl) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles \(II\)](https://open.spotify.com/album/7g0VARP23qVijZeTE1dioJ) | 3:33 |
-| 99 | [Terrible Love](https://open.spotify.com/track/1bAuiVz7j2Qa78fssoVjKq) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ) | 4:39 |
-| 100 | [King Of Spain](https://open.spotify.com/track/52EIhoKvVv4VsMqjvqq0do) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/4FQTG2YfZFSGT9z3tPvLWa) | 3:26 |
+| 98 | [Terrible Love](https://open.spotify.com/track/1bAuiVz7j2Qa78fssoVjKq) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ) | 4:39 |
+| 99 | [King Of Spain](https://open.spotify.com/track/52EIhoKvVv4VsMqjvqq0do) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/4FQTG2YfZFSGT9z3tPvLWa) | 3:26 |
+| 100 | [Runaway](https://open.spotify.com/track/0ixsO0C70FhixBXjBgaCSP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ) | 5:33 |
 
 Snapshot ID: `Zfg+zgAAAAD+M2vsLXYgQAU11K8eEfo3`

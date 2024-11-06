@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,423 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,460 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 19 | [Booker's Boogie](https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [Blues On The Prowl](https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N) | 3:37 |
 | 20 | [Blue Lamp](https://open.spotify.com/track/3GPEPvxXoFf5GYZzlulpvz) | [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Piano](https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv) | 3:01 |
 | 21 | [Later Alligator \(See You Later, Alligator\)](https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu) | [Bobby Charles](https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1) | [See You Later, Alligator](https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s) | 3:45 |
-| 22 | [Honky Tonk Train Blues](https://open.spotify.com/track/7oTDuYHa8B8M6MpfR68oGy) | [Meade "Lux" Lewis](https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:58 |
-| 23 | [Boogie Woogie Man](https://open.spotify.com/track/7xbLsmxaQQDt8qVqqwuSuZ) | [Albert Ammons & Pete Johnson](https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:42 |
-| 24 | [C\-Jam Boogie](https://open.spotify.com/track/1HnX61nsEhP4RbfUsegXn1) | [Christian Bleiming](https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK) | [Piano\-Blues & Boogie\-Woogie](https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9) | 3:37 |
-| 25 | [Slider](https://open.spotify.com/track/4CTpTImixJkWNI9gUIMz8J) | [Boogie Woogie Kid](https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq) | [Boogie Woogie Kid](https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D) | 3:08 |
+| 22 | [Boogie Woogie Man](https://open.spotify.com/track/7xbLsmxaQQDt8qVqqwuSuZ) | [Albert Ammons & Pete Johnson](https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:42 |
+| 23 | [Honky Tonk Train Blues](https://open.spotify.com/track/7oTDuYHa8B8M6MpfR68oGy) | [Meade "Lux" Lewis](https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:58 |
+| 24 | [Slider](https://open.spotify.com/track/4CTpTImixJkWNI9gUIMz8J) | [Boogie Woogie Kid](https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq) | [Boogie Woogie Kid](https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D) | 3:08 |
+| 25 | [C\-Jam Boogie](https://open.spotify.com/track/1HnX61nsEhP4RbfUsegXn1) | [Christian Bleiming](https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK) | [Piano\-Blues & Boogie\-Woogie](https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9) | 3:37 |
 | 26 | [Swanee River Hop](https://open.spotify.com/track/0ijsopIPvMuvuk0pOeTtb2) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Rock and Rollin' With Fats](https://open.spotify.com/album/02ygc0A5WNjd5HnDI1xzs0) | 2:51 |
 | 27 | [Mac's Boogie](https://open.spotify.com/track/4qY3lrzyzSZIxTFX1jQKNI) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Plays Mac Rebennack](https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS) | 3:58 |
-| 28 | [Laci's Boogie](https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR) | [Luca Sestak](https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ) | [New Way](https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8) | 5:32 |
-| 29 | [Roll 'Em, Pete \(12\-30\-38\)](https://open.spotify.com/track/48yPw9QpyvTcQwZYoq2rzc) | [Pete Johnson](https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ) | [Complete Jazz Series 1938 \- 1939](https://open.spotify.com/album/49qNKP9EtVam3jzG7eci5T) | 2:51 |
+| 28 | [Roll 'Em, Pete \(12\-30\-38\)](https://open.spotify.com/track/48yPw9QpyvTcQwZYoq2rzc) | [Pete Johnson](https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ) | [Complete Jazz Series 1938 \- 1939](https://open.spotify.com/album/49qNKP9EtVam3jzG7eci5T) | 2:51 |
+| 29 | [Laci's Boogie](https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR) | [Luca Sestak](https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ) | [New Way](https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8) | 5:32 |
 | 30 | [Let Me Go Home Whiskey](https://open.spotify.com/track/33343QHpDEcf022acPZMw8) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Let's Have A Party! \(The Aladdin Recordings\)](https://open.spotify.com/album/7iDour2LtChLy6IyUYD6JF) | 2:47 |
 | 31 | [Long Tall Sally](https://open.spotify.com/track/60MAITKKhg7gofj3EH6xOM) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 2:30 |
 | 32 | [Jessie's Boogie Woogie](https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu) | [Preacher Jack](https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn) | [Return Of The Boogie Man](https://open.spotify.com/album/15eemntusUQL8JekIGa6KU) | 2:57 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 61 | [Chimes Blues](https://open.spotify.com/track/6mzWrjrDV4QXLiJkR4cOGh) | [Charles "Cow Cow" Davenport](https://open.spotify.com/artist/13qoBlyzXzgEW62d7AVGtd) | [Cow Cow Davenport Vol\. 1 \(1925\-1929\)](https://open.spotify.com/album/5akjiDx2OnmsHOdBn1Wlbs) | 3:19 |
 | 62 | [Marie](https://open.spotify.com/track/3YXstjQAfgJxzsxF5lU4id) | [Otis Spann's South Side Piano](https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2) | [Boogie Woogie 50](https://open.spotify.com/album/7uuTnzhHkYreRgEyRYcpJK) | 2:30 |
 | 63 | [La Salle Street Breakdown](https://open.spotify.com/track/3BqTjVgE1Yno4SoEuw7KEc) | [Jimmy Yancey](https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD) | [Yancey Special](https://open.spotify.com/album/67Bhk0YSsNBNkDgiVFAObX) | 3:05 |
-| 64 | [Detroit Rocks](https://open.spotify.com/track/4a2rIaT2d7HE3gBGkFlXJn) | [Montana Taylor](https://open.spotify.com/artist/0jpobPHlTpZ0Z8lFNNfCYM) | [Detroit Rocks](https://open.spotify.com/album/3o2o8lV33AvNkPIWI9IruH) | 3:25 |
-| 65 | [Bongo Boogie](https://open.spotify.com/track/0z54FzJQpU4t2qV1zGYrCj) | [Anisteen Allen](https://open.spotify.com/artist/5H7GMEfLmgBJlLlEltL1wF) | [Boogie Woogie Gals](https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ) | 2:40 |
+| 64 | [Bongo Boogie](https://open.spotify.com/track/0z54FzJQpU4t2qV1zGYrCj) | [Anisteen Allen](https://open.spotify.com/artist/5H7GMEfLmgBJlLlEltL1wF) | [Boogie Woogie Gals](https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ) | 2:40 |
+| 65 | [Detroit Rocks](https://open.spotify.com/track/4a2rIaT2d7HE3gBGkFlXJn) | [Montana Taylor](https://open.spotify.com/artist/0jpobPHlTpZ0Z8lFNNfCYM) | [Detroit Rocks](https://open.spotify.com/album/3o2o8lV33AvNkPIWI9IruH) | 3:25 |
 | 66 | [Okay](https://open.spotify.com/track/416aAh5pHiWiluFlP6aGEb) | [Kjell Sønksen](https://open.spotify.com/artist/3t5a0vTiZcxZZAYGCjiTWW) | [Okay](https://open.spotify.com/album/4SdSQl6XnCNn9jgkPlkmMc) | 3:18 |
 | 67 | [Piggly Wiggly Blues](https://open.spotify.com/track/1OuMSahqxZ8dEmWJzzwFQ5) | [James Crutchfield](https://open.spotify.com/artist/0sI1SWCDI7JGeEhEuLaOoc) | [St\. Louis Blues Piano Man](https://open.spotify.com/album/1tFDjvUI4XarpDcZQLZOoX) | 4:08 |
 | 68 | [Choo Choo Ch' Boogie](https://open.spotify.com/track/4vPJK1gKyygRS2mep7iyDq) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 2:44 |

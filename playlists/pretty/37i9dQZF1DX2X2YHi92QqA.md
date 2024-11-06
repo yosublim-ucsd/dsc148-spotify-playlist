@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Затишна музика для прогулянок пожовклим листячком 🍁
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,097 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,118 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 31 | [Цілуй](https://open.spotify.com/track/2Msj5zUarTNnsWu7YcEuPE) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Цілуй](https://open.spotify.com/album/0f89WOpBAPDPvgXlWZrcEa) | 2:35 |
 | 32 | [Відлюбилося](https://open.spotify.com/track/34b1BsvwGHVsZ63g7MaKHF) | [Averin](https://open.spotify.com/artist/5yDenXpJFxaiNa57V8Tvtx), [CHURSANOV](https://open.spotify.com/artist/5UqC0WSLyRoS6xGD8NA55e) | [Відлюбилося](https://open.spotify.com/album/7Drh1GDYNdKQKjahIjDwPw) | 2:33 |
 | 33 | [Додому](https://open.spotify.com/track/7uq2pa1AQo78i52lIjCn8U) | [Настя Балог](https://open.spotify.com/artist/126TREJvODJUo3f4UYTFxR), [POSITIFF](https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME) | [Додому](https://open.spotify.com/album/6R7kajFard1oiV6K8aTM4Q) | 2:47 |
-| 34 | [Кого ти вигадав?](https://open.spotify.com/track/3ZHshNzetuJ6CWsMoYSZbB) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Кого ти вигадав?](https://open.spotify.com/album/0zzcXw3obSrwf3HRjx0zYO) | 3:06 |
-| 35 | [Мені тебе бракує](https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe), [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Коли квітне папороть](https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6) | 3:38 |
+| 34 | [Мені тебе бракує](https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe), [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Коли квітне папороть](https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6) | 3:38 |
+| 35 | [Кого ти вигадав?](https://open.spotify.com/track/3ZHshNzetuJ6CWsMoYSZbB) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Кого ти вигадав?](https://open.spotify.com/album/0zzcXw3obSrwf3HRjx0zYO) | 3:06 |
 | 36 | [КАЖАНИ](https://open.spotify.com/track/2dYmrwp8exK5rMMx193Lj7) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [КАЖАНИ](https://open.spotify.com/album/2LBytOkd0MneKuZugxWjeG) | 3:05 |
 | 37 | [Гість](https://open.spotify.com/track/4QkqXbUMVAvsuZjTzw3dqr) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [HEARTBEAT](https://open.spotify.com/album/6Ep6BXKMZjgmrumX1ntPiY) | 2:48 |
 | 38 | [Під крилом](https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Під крилом](https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf) | 2:19 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 53 | [Забудь мене](https://open.spotify.com/track/38GSd0ICt6kGMJlBaVYdPf) | [NICHKA](https://open.spotify.com/artist/4wePP7WrVuqGPqkXe2P3mJ), [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [Забудь мене](https://open.spotify.com/album/7qOH8jaMcqpIFa3ktnEbKw) | 2:33 |
 | 54 | [Касета](https://open.spotify.com/track/2FQ7IeXv68DH72sTHdR9tn) | [Tof](https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y), [Білий Бо](https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM) | [Касета](https://open.spotify.com/album/1sw8pB9yJTdZhesv8Jf5LA) | 3:03 |
 | 55 | [Сльози і Пісні](https://open.spotify.com/track/0LrxqTCzZ5O67u3rK52wg8) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [Сльози і Пісні](https://open.spotify.com/album/6hrmqnMFPmyKjLeeiPFhdc) | 2:12 |
-| 56 | [під каштаном](https://open.spotify.com/track/7iHL1aov1VZu0p872UXKLD) | [KRYLATA](https://open.spotify.com/artist/4xFe7GD3DC9SGE5d6csgjG) | [під каштаном](https://open.spotify.com/album/1zyHH3vdd3WEDCWzQNm65i) | 2:19 |
-| 57 | [Карнізи](https://open.spotify.com/track/00h9eif2nfiEA1ykBFLvBZ) | [DOVI](https://open.spotify.com/artist/3PI6jFJpFKYyrHmTw0yxo5), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Карнізи](https://open.spotify.com/album/39oe0p8Azz1pwo1UoP6qTR) | 2:35 |
-| 58 | [Останні дні літа](https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL) | [Spiv Brativ](https://open.spotify.com/artist/1R7CiJX2ZHVowGfQ3GZW6b) | [Останні дні літа](https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam) | 3:30 |
+| 56 | [Останні дні літа](https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL) | [Spiv Brativ](https://open.spotify.com/artist/1R7CiJX2ZHVowGfQ3GZW6b) | [Останні дні літа](https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam) | 3:30 |
+| 57 | [під каштаном](https://open.spotify.com/track/7iHL1aov1VZu0p872UXKLD) | [KRYLATA](https://open.spotify.com/artist/4xFe7GD3DC9SGE5d6csgjG) | [під каштаном](https://open.spotify.com/album/1zyHH3vdd3WEDCWzQNm65i) | 2:19 |
+| 58 | [Карнізи](https://open.spotify.com/track/00h9eif2nfiEA1ykBFLvBZ) | [DOVI](https://open.spotify.com/artist/3PI6jFJpFKYyrHmTw0yxo5), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Карнізи](https://open.spotify.com/album/39oe0p8Azz1pwo1UoP6qTR) | 2:35 |
 | 59 | [Я тебе не чую](https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Я тебе не чую](https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op) | 2:35 |
 | 60 | [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 |
 

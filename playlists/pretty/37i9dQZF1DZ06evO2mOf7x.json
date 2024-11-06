@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 44412,
+  "num_followers": 44417,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAAA29I6tVr5sO9nG3tHSrlUS",
+  "snapshot_id": "ZygOgAAAAABcBSRnOZa8E1GqhB7/4A1D",
   "tracks": [
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Besos No Se Dan En La Camisa",
-        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Los Besos No Se Dan En La Camisa",
-      "url": "https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quise Olvidar",
         "url": "https://open.spotify.com/album/3IKzgoIkPXQm7GOzOKSPfX"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 213329,
       "name": "De Vez En Cuando",
       "url": "https://open.spotify.com/track/3n4C6uS30lIWNIcP72dhBE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Besos No Se Dan En La Camisa",
+        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Los Besos No Se Dan En La Camisa",
+      "url": "https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc"
     },
     {
       "added_at": null,

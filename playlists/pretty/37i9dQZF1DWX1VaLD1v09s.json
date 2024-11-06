@@ -1,6 +1,6 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 79968,
+  "num_followers": 79976,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Majestic (Live)",
-        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 409986,
-      "name": "Forever - Live",
-      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Greatest Hymns, Vol. 2",
         "url": "https://open.spotify.com/album/1JmmM3kMCKzYbuBHphQMFP"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 231866,
       "name": "Wonderful, Merciful Savior",
       "url": "https://open.spotify.com/track/1GfXRWcCxijFPbR5hYNh5q"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Majestic (Live)",
+        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 409986,
+      "name": "Forever - Live",
+      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "Best News Ever",
-      "url": "https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Passion: Let The Future Begin",
         "url": "https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 339493,
       "name": "In Christ Alone - Live",
       "url": "https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "Best News Ever",
+      "url": "https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Precious Memories",
-        "url": "https://open.spotify.com/album/010wiwXUvegsmlERAv7vMe"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 186026,
-      "name": "The Old Rugged Cross",
-      "url": "https://open.spotify.com/track/4jTPlQp1YnJFmP3tIzLcmN"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "You Deliver Me",
         "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 204133,
       "name": "How Deep The Father's Love For Us",
       "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Precious Memories",
+        "url": "https://open.spotify.com/album/010wiwXUvegsmlERAv7vMe"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 186026,
+      "name": "The Old Rugged Cross",
+      "url": "https://open.spotify.com/track/4jTPlQp1YnJFmP3tIzLcmN"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "For God Is With Us",
-        "url": "https://open.spotify.com/album/21RhfabPs3qGYmz3DRtNdn"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 196846,
-      "name": "For God Is With Us",
-      "url": "https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Saints and Sinners",
         "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 199866,
       "name": "Because He Lives (Amen)",
       "url": "https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "For God Is With Us",
+        "url": "https://open.spotify.com/album/21RhfabPs3qGYmz3DRtNdn"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 196846,
+      "name": "For God Is With Us",
+      "url": "https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
+        "name": "Decades of Worship",
+        "url": "https://open.spotify.com/album/6svPaewhKWrqIRW3DgbrOC"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "duration_ms": 417840,
+      "name": "Agnus Dei",
+      "url": "https://open.spotify.com/track/1N9SysNAP8j4wbAIHzlM9m"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
         "name": "The Gathering",
         "url": "https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT"
       },
@@ -1419,18 +1435,18 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Decades of Worship",
-        "url": "https://open.spotify.com/album/6svPaewhKWrqIRW3DgbrOC"
+        "name": "Your Grace Finds Me (Live)",
+        "url": "https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU"
       },
       "artists": [
         {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 417840,
-      "name": "Agnus Dei",
-      "url": "https://open.spotify.com/track/1N9SysNAP8j4wbAIHzlM9m"
+      "duration_ms": 340826,
+      "name": "Your Grace Finds Me - Live",
+      "url": "https://open.spotify.com/track/1ExpEXUOW2KzpfV0v8iWUp"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1451,22 +1467,6 @@
       "duration_ms": 165346,
       "name": "Freedom (with BEAM)",
       "url": "https://open.spotify.com/track/63HbQY6pMHcBlE9LIyIuOG"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
-        "name": "Your Grace Finds Me (Live)",
-        "url": "https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 340826,
-      "name": "Your Grace Finds Me - Live",
-      "url": "https://open.spotify.com/track/1ExpEXUOW2KzpfV0v8iWUp"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
+        "name": "Pure Heart (Live)",
+        "url": "https://open.spotify.com/album/5tke3M4DlnUd6fChHyIxKg"
+      },
+      "artists": [
+        {
+          "name": "Lenny LeBlanc",
+          "url": "https://open.spotify.com/artist/6UXDMJQeP2GCfHgspo2KZx"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "There Is None Like You - Live",
+      "url": "https://open.spotify.com/track/6gVkG8f7ldsQs0jAI8cB4X"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
         "name": "No One Like Our God",
         "url": "https://open.spotify.com/album/7Fcpi2Cm9H7PoWi0y91aKR"
       },
@@ -1703,38 +1719,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Pure Heart (Live)",
-        "url": "https://open.spotify.com/album/5tke3M4DlnUd6fChHyIxKg"
-      },
-      "artists": [
-        {
-          "name": "Lenny LeBlanc",
-          "url": "https://open.spotify.com/artist/6UXDMJQeP2GCfHgspo2KZx"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "There Is None Like You - Live",
-      "url": "https://open.spotify.com/track/6gVkG8f7ldsQs0jAI8cB4X"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
-        "name": "What You Could Do With Me",
-        "url": "https://open.spotify.com/album/4uy0OpUiNRU5mXvrFavQze"
-      },
-      "artists": [
-        {
-          "name": "Josh Wright",
-          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
-        }
-      ],
-      "duration_ms": 231550,
-      "name": "What You Could Do With Me",
-      "url": "https://open.spotify.com/track/5IJ3tn2MfGpGJ7GEGN3vhV"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Hymns For The Christian Life",
         "url": "https://open.spotify.com/album/5ZfXouAZobXbesq60mVzIz"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 257666,
       "name": "In Christ Alone",
       "url": "https://open.spotify.com/track/15sauKN8vieeKOVWWR9UG2"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "What You Could Do With Me",
+        "url": "https://open.spotify.com/album/4uy0OpUiNRU5mXvrFavQze"
+      },
+      "artists": [
+        {
+          "name": "Josh Wright",
+          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
+        }
+      ],
+      "duration_ms": 231550,
+      "name": "What You Could Do With Me",
+      "url": "https://open.spotify.com/track/5IJ3tn2MfGpGJ7GEGN3vhV"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Yes I Will",
-        "url": "https://open.spotify.com/album/0OOv0GLx4DQc5tPTkRo6sz"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 234731,
-      "name": "Yes I Will",
-      "url": "https://open.spotify.com/track/5vMzNmHm2ec2zrqiYhkQzZ"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Free To Worship",
         "url": "https://open.spotify.com/album/50pXzic1y0A1fLXp8ktvkr"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 289333,
       "name": "This Is The Day",
       "url": "https://open.spotify.com/track/0LniKzo1ZyVzqbBecrkmXe"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Yes I Will",
+        "url": "https://open.spotify.com/album/0OOv0GLx4DQc5tPTkRo6sz"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 234731,
+      "name": "Yes I Will",
+      "url": "https://open.spotify.com/track/5vMzNmHm2ec2zrqiYhkQzZ"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 244720,
-      "name": "Signature of Divine (Yahweh)",
-      "url": "https://open.spotify.com/track/45RIQSrYQaUkEIvFFb8M8a"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Lead Me to the Cross",
         "url": "https://open.spotify.com/album/7AHlPi8rCQYCndkrdQN14E"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 271640,
       "name": "Lead Me To the Cross",
       "url": "https://open.spotify.com/track/4coyTsdD4WcknP6e9uLAO0"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 244720,
+      "name": "Signature of Divine (Yahweh)",
+      "url": "https://open.spotify.com/track/45RIQSrYQaUkEIvFFb8M8a"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -2607,26 +2607,18 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Tent Revival Homecoming (Live)",
-        "url": "https://open.spotify.com/album/7L8TPfVhtZRX5U7HtWLJLF"
+        "name": "Burn The Ships (Deluxe Edition: Remixes & Collaborations)",
+        "url": "https://open.spotify.com/album/5bZuiwMXhNgCTPXgKh3nOb"
       },
       "artists": [
         {
-          "name": "Gaither",
-          "url": "https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY"
-        },
-        {
-          "name": "David Phelps",
-          "url": "https://open.spotify.com/artist/1R486Y8DuEKEH01hypvW1B"
-        },
-        {
-          "name": "Gaither Vocal Band",
-          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
         }
       ],
-      "duration_ms": 328066,
-      "name": "He's Alive - Live",
-      "url": "https://open.spotify.com/track/6f1tATC6ns7grIvEriqkC4"
+      "duration_ms": 227013,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/77ntXt0HAf9cn9WJpzQQ3g"
     }
   ],
   "unique_name": "Easter",

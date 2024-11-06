@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,241 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,287 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 26 | [Tus Besos](https://open.spotify.com/track/1wbIYS28OVIKPPhgqJ2bFn) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd), [Cuvan](https://open.spotify.com/artist/600tEotuBvksb03YwjVkX0), [Aneth](https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7) | [Tus Besos](https://open.spotify.com/album/5eUI4VKc1cHEMTuIOBM2kg) | 3:00 |
 | 27 | [Zapatear](https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Zapatear](https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s) | 2:42 |
 | 28 | [Toa Pa' Mi](https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK) | [NEAS DON'T CRY](https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD) | 3:02 |
-| 29 | [Mi Cumbia! \(feat\. Alan Rosales\)](https://open.spotify.com/track/52hcPddnEyaFkVv0w8iz8e) | [El Dusty](https://open.spotify.com/artist/746tySZWCr6nqgEjmQyKyB) | [Locos Only](https://open.spotify.com/album/4X7fhsjH4xxh8s8mYWlSLS) | 2:51 |
-| 30 | [El Tabano](https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb) | [Mickey Vivas](https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua) | [El Tabano](https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf) | 2:22 |
+| 29 | [El Tabano](https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb) | [Mickey Vivas](https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua) | [El Tabano](https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf) | 2:22 |
+| 30 | [Mi Cumbia! \(feat\. Alan Rosales\)](https://open.spotify.com/track/52hcPddnEyaFkVv0w8iz8e) | [El Dusty](https://open.spotify.com/artist/746tySZWCr6nqgEjmQyKyB) | [Locos Only](https://open.spotify.com/album/4X7fhsjH4xxh8s8mYWlSLS) | 2:51 |
 | 31 | [Desma](https://open.spotify.com/track/5eLrkX0RPJSlQT5H5U0o43) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Desma](https://open.spotify.com/album/3TNn2Pfo5RmV4hdw1ZSuUf) | 2:38 |
 | 32 | [Afroguaracha](https://open.spotify.com/track/1PHiNCctsPo5yvKRCTbKDn) | [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv) | [Afroguaracha](https://open.spotify.com/album/1OMT3htpBd2nNCHufrTLCi) | 3:09 |
 | 33 | [Costars](https://open.spotify.com/track/5UYVlRMSVmel4NohDcLK0o) | [DJ TETRIS](https://open.spotify.com/artist/6LgjuGF7FuYQ0Ycx9a4oqA) | [Que Suene Mexico, Vol\. 3](https://open.spotify.com/album/1fL1fq4l7HoOBgnsTGxxz3) | 3:15 |

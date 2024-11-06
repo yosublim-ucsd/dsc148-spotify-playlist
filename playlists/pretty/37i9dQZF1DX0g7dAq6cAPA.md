@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0g7dAq6cAPA.md) - [plain]
 
 > Music From "Puella Magi Madoka Magica"! 音楽で辿る「魔法少女まどか☆マギカ」の世界! ©Magica Quartet／Aniplex・Madoka Movie Project Rebellio
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,589 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,622 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0g7dAq6cAPA.md) - [plain]
 | 16 | [君の銀の庭](https://open.spotify.com/track/5z0sTqtZ73NliGt9LYjUO4) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [君の銀の庭](https://open.spotify.com/album/7t7RwR2ThlbTm7hqNaHr0n) | 5:07 |
 | 17 | [misterioso](https://open.spotify.com/track/1UdAcNwonnmKUjZR5n8FrT) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [君の銀の庭](https://open.spotify.com/album/7t7RwR2ThlbTm7hqNaHr0n) | 4:02 |
 | 18 | [ひかりふる](https://open.spotify.com/track/31pVFxgZROGaolgI211Og1) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [ひかりふる](https://open.spotify.com/album/0jCSqIa5E2rqBGw3R93JSt) | 4:51 |
-| 19 | [アリシア](https://open.spotify.com/track/1DGxaWI1MzZ6shRZx2LDgw) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アリシア/シグナル](https://open.spotify.com/album/16ZYBLZVTEup2AYxAli6FZ) | 3:50 |
+| 19 | [アリシア](https://open.spotify.com/track/1DGxaWI1MzZ6shRZx2LDgw) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アリシア／シグナル](https://open.spotify.com/album/16ZYBLZVTEup2AYxAli6FZ) | 3:50 |
 | 20 | [ごまかし](https://open.spotify.com/track/61fqqE7iW1rXSj1vGfWfdF) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [ごまかし／うつろい](https://open.spotify.com/album/6gMkQKen4RoK0YredoBx5z) | 4:11 |
 | 21 | [かかわり](https://open.spotify.com/track/7MdTnv03MnwSoNDeADoxgf) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 4:23 |
 | 22 | [シグナル](https://open.spotify.com/track/6482HIZv5Bf8VDybXr1SwS) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [シグナル](https://open.spotify.com/album/7HNWph7EIYq0lDwuvgdAVt) | 3:43 |

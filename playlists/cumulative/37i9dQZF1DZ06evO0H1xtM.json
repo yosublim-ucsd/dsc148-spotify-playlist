@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "EVO LUXURY 2",
+        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Jasson Arellano",
+          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174765,
+      "name": "956",
+      "url": "https://open.spotify.com/track/5vzCSTnTLVYYFad0tvVy9l"
+    },
+    {
+      "album": {
         "name": "On fire",
         "url": "https://open.spotify.com/album/4wj7qlN91z14QO2p5g3bnp"
       },
@@ -2076,7 +2098,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 199296,
       "name": "Zutano",
       "url": "https://open.spotify.com/track/1KDAP13YogPGAxOZOwsNuU"

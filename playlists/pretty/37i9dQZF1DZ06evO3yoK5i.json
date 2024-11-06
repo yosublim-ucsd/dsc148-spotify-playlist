@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 232278,
+  "num_followers": 232297,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAACYMPP0ZdwragzkRxfljBMF",
+  "snapshot_id": "ZygOgAAAAACcA7uUOYWH5wxo2vQ3JcbG",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuovi Eroi [35th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/2f5XCS5aYFMyxzIz7uKcMU"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Terra promessa - Remastered 2021",
-      "url": "https://open.spotify.com/track/5NxVsVTmbQsKF1dkLxhYyF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Musica Es",
         "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 305400,
       "name": "Nada Sin Ti",
       "url": "https://open.spotify.com/track/1SqNm3h3tjXYqAZUYOcX5L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuovi Eroi [35th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/2f5XCS5aYFMyxzIz7uKcMU"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Terra promessa - Remastered 2021",
+      "url": "https://open.spotify.com/track/5NxVsVTmbQsKF1dkLxhYyF"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musica \u00e8",
-        "url": "https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 241666,
-      "name": "Ti sposer\u00f2 perch\u00e9",
-      "url": "https://open.spotify.com/track/5ZODincIREhQ6RYnoJdXNd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuovi Eroi [35th Anniversary Edition (Remastered 192 khz)]",
         "url": "https://open.spotify.com/album/2f5XCS5aYFMyxzIz7uKcMU"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 251893,
       "name": "Una storia importante - Remastered 2021",
       "url": "https://open.spotify.com/track/0Ji0XFJtiOoqNt2RWSbpPZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Musica \u00e8",
+        "url": "https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 241666,
+      "name": "Ti sposer\u00f2 perch\u00e9",
+      "url": "https://open.spotify.com/track/5ZODincIREhQ6RYnoJdXNd"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfetto",
-        "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 232613,
-      "name": "Perfetto",
-      "url": "https://open.spotify.com/track/7yCNwWbcIOt3P6oz5qViW0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eros 30 (Spanish/Latin Version)",
         "url": "https://open.spotify.com/album/7aCxSW8pYwE5v1lRdw89tF"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 271093,
       "name": "Un Angel No Es",
       "url": "https://open.spotify.com/track/76vjX2eeCQyuFWHAyuo4Lu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfetto",
+        "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 232613,
+      "name": "Perfetto",
+      "url": "https://open.spotify.com/track/7yCNwWbcIOt3P6oz5qViW0"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Battito Infinito",
+        "url": "https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 203213,
+      "name": "Ama",
+      "url": "https://open.spotify.com/track/04AIGHEqfrN4oL74aHdvjE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eros (Spanish Version)",
         "url": "https://open.spotify.com/album/66PLBQY9K6Ehb6QYAqjYYA"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 584573,
       "name": "Musica \u00e8",
       "url": "https://open.spotify.com/track/0iBOLnepgpMhH4NinExjCn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Battito Infinito",
-        "url": "https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 203213,
-      "name": "Ama",
-      "url": "https://open.spotify.com/track/04AIGHEqfrN4oL74aHdvjE"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfetto",
-        "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 228080,
-      "name": "Sei Un Pensiero Speciale",
-      "url": "https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Musica Es",
         "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 251866,
       "name": "Completamente Enamorados",
       "url": "https://open.spotify.com/track/0kz3GgE2wVAw7o5p8FeUdO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfetto",
+        "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "Sei Un Pensiero Speciale",
+      "url": "https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt"
     },
     {
       "added_at": null,

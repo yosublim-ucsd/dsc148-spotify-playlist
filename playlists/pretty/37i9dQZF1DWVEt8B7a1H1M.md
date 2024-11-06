@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 
 > Bird sounds in the background
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,626 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,705 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 | 24 | [Birds in Calm Forest](https://open.spotify.com/track/23Hpf0InC4WVSmg9KaNxIy) | [Nature Lab](https://open.spotify.com/artist/2EBjHUWeiiLMOz9A22c4he) | [Birds by the Creek](https://open.spotify.com/album/5tk2REf1nK7U5eqr01YFbg) | 1:26 |
 | 25 | [3am Midsummer Birds](https://open.spotify.com/track/4cEsckil1CQNUFuPczf6qg) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:40 |
 | 26 | [Spring Birds In The Afternoon](https://open.spotify.com/track/70ZhYH2joI9RCE45TG52sS) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Spring Birds](https://open.spotify.com/album/0pkEvYY6HzXUaEveXWYOnE) | 2:14 |
-| 27 | [Swedish Spring Birds](https://open.spotify.com/track/6ugXvYQkWPNSMbw9JDTXmS) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [The Forest](https://open.spotify.com/album/1Ayk8zsTe7FfQQbFJ2a1sD) | 2:57 |
-| 28 | [Commander Piggins Call](https://open.spotify.com/track/7aZQxpvaYihFp6Edwp7NMy) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Sounds of the Lone Forest](https://open.spotify.com/album/1B5IwydWyyt3kBhAvk9skN) | 3:32 |
+| 27 | [Commander Piggins Call](https://open.spotify.com/track/7aZQxpvaYihFp6Edwp7NMy) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Sounds of the Lone Forest](https://open.spotify.com/album/1B5IwydWyyt3kBhAvk9skN) | 3:32 |
+| 28 | [Swedish Spring Birds](https://open.spotify.com/track/6ugXvYQkWPNSMbw9JDTXmS) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [The Forest](https://open.spotify.com/album/1Ayk8zsTe7FfQQbFJ2a1sD) | 2:57 |
 | 29 | [Morning Bird Symphony](https://open.spotify.com/track/3oVqA93MPShAdao5iIKlE7) | [Swedish Forest Birds](https://open.spotify.com/artist/0aW02sXtwKH8TEaJDPvg9N) | [Morning Forest Birds](https://open.spotify.com/album/1g53d39LNzKfa8p1aJhN5B) | 2:38 |
 | 30 | [June 3rd Morning Birds](https://open.spotify.com/track/5sSrNaCZniGiJr4BsUgUZE) | [Birds In The Morning](https://open.spotify.com/artist/2N3AKClGs5tPexsen5EBvm) | [Swedish Summer Birds](https://open.spotify.com/album/6Ez8dWYBbORaLkjiZOgHQE) | 3:45 |
 | 31 | [Forest Birds](https://open.spotify.com/track/7rgTZWgO5JEPrLCmhy1ABE) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Early Summer Birds Vol\. 1](https://open.spotify.com/album/00rJPgbMjFWxp3taHNlH7A) | 1:58 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 | 42 | [Birds In The Woods](https://open.spotify.com/track/1jMqE6saRqcpmglq4B2Bcd) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Early Summer Birds Vol\. 1](https://open.spotify.com/album/00rJPgbMjFWxp3taHNlH7A) | 1:41 |
 | 43 | [Beaks](https://open.spotify.com/track/3alz6iZZ5bFW6X4zhtxnhx) | [Forest Sounds](https://open.spotify.com/artist/3DCUYm4ife62EAKya2fULx) | [Lost in the Forest](https://open.spotify.com/album/2U41ZL7Coe10QMDh8B8M2I) | 3:45 |
 | 44 | [Beautiful Birds Above the Canopy](https://open.spotify.com/track/7zD9VBtet53ChaxtMpNGG7) | [Calm Bird Sounds](https://open.spotify.com/artist/1caNzGLMvuMlK2lODyKyxV) | [Calm Bird Lunch](https://open.spotify.com/album/0kq3VBW2O4MKDK6g0OXdZf) | 1:19 |
-| 45 | [In the Midst of Nature](https://open.spotify.com/track/4M9fhkESWwMVlTQqJpHJUw) | [Neoaves](https://open.spotify.com/artist/6fWfY05xUKeB3AGEbqMzFK) | [In the Midst of Nature](https://open.spotify.com/album/1AUZZNBB4fOtrSLQTeDv4N) | 2:01 |
-| 46 | [Birds High up in the Trees](https://open.spotify.com/track/0oT71mw0FfCo2zEhGcDHi2) | [Swedish Forest Birds](https://open.spotify.com/artist/0aW02sXtwKH8TEaJDPvg9N) | [Morning Forest Birds](https://open.spotify.com/album/1g53d39LNzKfa8p1aJhN5B) | 2:58 |
+| 45 | [Birds High up in the Trees](https://open.spotify.com/track/0oT71mw0FfCo2zEhGcDHi2) | [Swedish Forest Birds](https://open.spotify.com/artist/0aW02sXtwKH8TEaJDPvg9N) | [Morning Forest Birds](https://open.spotify.com/album/1g53d39LNzKfa8p1aJhN5B) | 2:58 |
+| 46 | [In the Midst of Nature](https://open.spotify.com/track/4M9fhkESWwMVlTQqJpHJUw) | [Neoaves](https://open.spotify.com/artist/6fWfY05xUKeB3AGEbqMzFK) | [In the Midst of Nature](https://open.spotify.com/album/1AUZZNBB4fOtrSLQTeDv4N) | 2:01 |
 | 47 | [Birds High up in the Trees](https://open.spotify.com/track/4kHAscEXKMWWTPG1pG4k9x) | [Under Bare Sky](https://open.spotify.com/artist/7KcqBIpoFRx659XfOwH8NK) | [Brook and Birds](https://open.spotify.com/album/1d8yAL9vhDTbuf6ARhzR6w) | 3:19 |
 | 48 | [Kaupe Spring Birds](https://open.spotify.com/track/6ajC6vMrdlIN3lO6cgaaiK) | [KPR Sounds](https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD) | [Soothing Birds](https://open.spotify.com/album/3YxvBOnaOmEGehyj9p4I7j) | 2:38 |
 | 49 | [Birds of Spring](https://open.spotify.com/track/69H7jdNnRPmik90SG9U8Ee) | [Peaceful Birds](https://open.spotify.com/artist/772Y6DzYn0qwzVkbGe5qcK) | [Beautiful Spring Birds](https://open.spotify.com/album/1TmnpMigOjg2thZUiwDld8) | 2:02 |

@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-316 songs - 21 hr 0 min
+317 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [FOREVER](https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [FOREVER](https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1) | 4:00 | 2022-11-18 | 2023-02-11 |
 | [Forever My Lady](https://open.spotify.com/track/2pY99npaZKTVAyw2DhV9Bo) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Forever My Lady](https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7) | 5:20 | 2024-01-31 |  |
 | [Fortunate](https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Fortunate](https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H) | 5:01 | 2024-01-31 |  |
+| [From A Woman](https://open.spotify.com/track/5YVmVthPhqjBUrqB2Rp5di) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 3:02 | 2024-11-05 |  |
 | [Fuckin' Sound](https://open.spotify.com/track/3cH7YI52JMcJrZIrJEJemU) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 2:44 | 2022-03-11 | 2023-02-11 |
 | [FYM](https://open.spotify.com/track/62Wm2jnqXMSyrrLxEvvuhZ) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Love Letterz \(Deluxe\)](https://open.spotify.com/album/4QjiMgXdGCo8R2RPEqTjer) | 2:53 | 2023-02-10 | 2024-02-01 |
 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:38 | 2021-12-15 |  |
@@ -243,7 +244,7 @@
 | [Set Him Up \(feat\. Ari Lennox\)](https://open.spotify.com/track/0FhfNle9FovXRL03awCJbe) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Set Him Up \(feat\. Ari Lennox\)](https://open.spotify.com/album/6prRBHIVxS9oyvDmxS2nwa) | 3:42 | 2021-12-15 | 2022-07-29 |
 | [Shawty \(feat\. T Pain\)](https://open.spotify.com/track/0mYoKqA23wUUj7BTEgNzjg) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [The Real Testament](https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW) | 4:15 | 2024-01-31 |  |
 | [Shea Butter Baby \(with J\. Cole\)](https://open.spotify.com/track/5BOBHIBuzvQuIYL1E1nDzl) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 3:31 | 2021-12-15 | 2023-02-11 |
-| [Show Me](https://open.spotify.com/track/03wtx4ynOzWaPUCrmckNkC) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/5lICxaH7i12zXxQGjd2Mjn) | 3:40 | 2024-04-25 |  |
+| [Show Me](https://open.spotify.com/track/03wtx4ynOzWaPUCrmckNkC) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/5lICxaH7i12zXxQGjd2Mjn) | 3:40 | 2024-04-25 | 2024-11-06 |
 | [Show You \(Remix\) \[feat\. Q\] \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/track/1wA1tFOHx167N1My7frqIH) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Show You \(Remix\) \[feat\. Q\] \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/album/03lVjJUyEISCC3TatvgC5J) | 4:16 | 2021-12-15 | 2022-07-29 |
 | [SHOWING YOU](https://open.spotify.com/track/6a5vE6GHrLSyqbbojVH1iy) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 4:46 | 2024-01-31 | 2024-06-04 |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 | 2024-06-20 | 2024-06-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Banda Primos de Tierra Caliente en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,653 likes - 125 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,715 likes - 125 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 58 | [Que Viva Tierra Caliente](https://open.spotify.com/track/3Xjwh0XMIg4u8V2RjjZEVP) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Estoy Aquí](https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ) | 3:26 |
 | 59 | [Quisiera Ser Una Lágrima](https://open.spotify.com/track/5NTuZKFaiYlyYZdj0fvbWn) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu) | 3:19 |
 | 60 | [Me Va a Extrañar](https://open.spotify.com/track/6EJSQb8fuC9HjZG0IC7KvY) | [La Nobleza De Aguililla](https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg) | [Solo para Ti](https://open.spotify.com/album/7FXd0tPldGUf192hdcHf0X) | 2:37 |
-| 61 | [La Luz de Tus Ojos / Cuestión Olvidada](https://open.spotify.com/track/2vLPZ5KsckjEa4EuYyHy5t) | [Banda los Costeños de Zirándaro Guerrero](https://open.spotify.com/artist/0cVRVkZyKQmKRcYLgiKphe), [Los Monarcas De Tierra Caliente](https://open.spotify.com/artist/6sIEMWaLmoLFkhc1O2bjBo) | [La Luz de Tus Ojos / Cuestión Olvidada](https://open.spotify.com/album/4j3MTUsDymuLJGsJpuOXMK) | 3:03 |
-| 62 | [Me Gustas Mucho](https://open.spotify.com/track/11vaLp8ocblznMKhpEMBbu) | [La Victoria De Mexico](https://open.spotify.com/artist/5H3OgLU1hxDDEqfmr4z5l0) | [Exitos de La Victoria de Mexico: Volume 1](https://open.spotify.com/album/7dSZTQ9RG7Ytk7h08A6Tgf) | 2:49 |
+| 61 | [Me Gustas Mucho](https://open.spotify.com/track/11vaLp8ocblznMKhpEMBbu) | [La Victoria De Mexico](https://open.spotify.com/artist/5H3OgLU1hxDDEqfmr4z5l0) | [Exitos de La Victoria de Mexico: Volume 1](https://open.spotify.com/album/7dSZTQ9RG7Ytk7h08A6Tgf) | 2:49 |
+| 62 | [La Luz de Tus Ojos / Cuestión Olvidada](https://open.spotify.com/track/2vLPZ5KsckjEa4EuYyHy5t) | [Banda los Costeños de Zirándaro Guerrero](https://open.spotify.com/artist/0cVRVkZyKQmKRcYLgiKphe), [Los Monarcas De Tierra Caliente](https://open.spotify.com/artist/6sIEMWaLmoLFkhc1O2bjBo) | [La Luz de Tus Ojos / Cuestión Olvidada](https://open.spotify.com/album/4j3MTUsDymuLJGsJpuOXMK) | 3:03 |
 | 63 | [30 Cartas](https://open.spotify.com/track/71xcrHytfm93vH4ZsoWUUj) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Para Que Vuelves](https://open.spotify.com/album/5eYDEDlyShOWTNqIPZ2AIY) | 2:12 |
 | 64 | [Conchita Del Mar](https://open.spotify.com/track/0WLCgFQL1zGrHrCVnAjNXB) | [Los Huaches De Tierra Caliente](https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum) | [Los Huaches Vip 2015](https://open.spotify.com/album/58LE63ynfEACZoYkKruFrF) | 3:08 |
 | 65 | [El Amor de Mi Vida](https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl) | [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI) | [El Amor de Tu Vida](https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf) | 4:38 |

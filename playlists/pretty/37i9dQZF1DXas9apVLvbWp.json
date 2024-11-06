@@ -1,38 +1,18 @@
 {
   "description": "<a href=\"http://bluegiant.jp/\">BLUE GIANT MOMENTUM</a>\u3068Spotify\u306e\u30b3\u30e9\u30dc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 85958,
+  "num_followers": 85982,
   "original_name": "BLUE GIANT MOMENTUM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn1+cQAAAABWl8kIIm4oa4TV+C7SbeuQ",
+  "snapshot_id": "ZynN9AAAAADOQjmWa9P4yMpL+KoALRhI",
   "tracks": [
     {
-      "added_at": "2024-06-27 15:00:00",
+      "added_at": "2024-11-05 07:49:08",
       "album": {
-        "name": "Sonicwonderland",
-        "url": "https://open.spotify.com/album/56y2AKjPkkMxCLGurbRco3"
-      },
-      "artists": [
-        {
-          "name": "Hiromi",
-          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
-        },
-        {
-          "name": "Sonicwonder",
-          "url": "https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w"
-        }
-      ],
-      "duration_ms": 537733,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/0Tirxn2z0sDASmUE77UjYg"
-    },
-    {
-      "added_at": "2024-06-27 15:00:00",
-      "album": {
-        "name": "Nothing Serious",
-        "url": "https://open.spotify.com/album/5sjpnIdONG9n6c6ipjpAFo"
+        "name": "Grande-Terre",
+        "url": "https://open.spotify.com/album/77VpcoLff1MKzDPZQ4rSyu"
       },
       "artists": [
         {
@@ -40,15 +20,39 @@
           "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
         }
       ],
-      "duration_ms": 413080,
-      "name": "Invitation",
-      "url": "https://open.spotify.com/track/47mgfsK4a8Ys91dmT0m6h3"
+      "duration_ms": 412626,
+      "name": "Rumba Roy",
+      "url": "https://open.spotify.com/track/1eVXW0c6PT1iwP0HDN7vVF"
     },
     {
-      "added_at": "2024-06-27 15:00:00",
+      "added_at": "2024-11-05 07:49:08",
       "album": {
-        "name": "Una Mas",
-        "url": "https://open.spotify.com/album/478lLfwrnUMDKIgaLCPTIy"
+        "name": "ELECTRIC RIDER",
+        "url": "https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp"
+      },
+      "artists": [
+        {
+          "name": "\u99ac\u5834\u667a\u7ae0",
+          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
+        },
+        {
+          "name": "\u4f50\u702c\u60a0\u8f14",
+          "url": "https://open.spotify.com/artist/2rHvOrwt4sRZeoAgAbCs9A"
+        },
+        {
+          "name": "\u30a6\u30a3\u30fc\u30c7\u30a3\u30fc\u30fb\u30d6\u30e9\u30a4\u30de\u30fc",
+          "url": "https://open.spotify.com/artist/1H5VMlyi86K6m02awVdsa7"
+        }
+      ],
+      "duration_ms": 282746,
+      "name": "Circus II",
+      "url": "https://open.spotify.com/track/6F6sIDHJO7MSrfdCOsXyFi"
+    },
+    {
+      "added_at": "2024-11-05 07:49:08",
+      "album": {
+        "name": "Quiet Kenny",
+        "url": "https://open.spotify.com/album/4B0pF1WLB3pCaZ4eTx5U8S"
       },
       "artists": [
         {
@@ -56,119 +60,47 @@
           "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
         }
       ],
-      "duration_ms": 309266,
-      "name": "If Ever I Would Leave You - Remasted 1998/ Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2DPcK58j3Zms6ybVIKSIIY"
+      "duration_ms": 278133,
+      "name": "Lotus Blossom",
+      "url": "https://open.spotify.com/track/4JfOUrNqNVsy1XWC99JdmV"
     },
     {
-      "added_at": "2024-06-27 15:00:00",
+      "added_at": "2024-11-05 07:49:08",
       "album": {
-        "name": "A Gift To Pops",
-        "url": "https://open.spotify.com/album/4v9NoIe0lZvPjOwHzjBGFn"
+        "name": "Candy (Remastered)",
+        "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
       },
       "artists": [
         {
-          "name": "The Wonderful World of Louis Armstrong All Stars",
-          "url": "https://open.spotify.com/artist/4bL3ftj87eKTf1pzvLMg0f"
-        },
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        },
-        {
-          "name": "Herlin Riley",
-          "url": "https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir"
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
         }
       ],
-      "duration_ms": 278570,
-      "name": "The Peanut Vendor",
-      "url": "https://open.spotify.com/track/2sc9i6lDgTyqzVkiSNvXI4"
+      "duration_ms": 339333,
+      "name": "Since I Fell For You - Rudy Van Gelder Edition / 2007 / Digital Remaster",
+      "url": "https://open.spotify.com/track/6MXrGG7nff0FXBQJa5UF9P"
     },
     {
-      "added_at": "2024-06-27 15:00:00",
+      "added_at": "2024-11-05 07:49:08",
       "album": {
-        "name": "Volume 2 (Vol. 2)",
-        "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
+        "name": "Clifford Brown With Strings",
+        "url": "https://open.spotify.com/album/6TLl6JDupQR1sdHh20eWNG"
       },
       "artists": [
         {
-          "name": "Miles Davis Quartet",
-          "url": "https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX"
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
         }
       ],
-      "duration_ms": 243252,
-      "name": "It Never Entered My Mind - Remastered",
-      "url": "https://open.spotify.com/track/47zglRNpxJfxadAe3C6xQe"
+      "duration_ms": 192866,
+      "name": "Smoke Gets In Your Eyes",
+      "url": "https://open.spotify.com/track/3RoRZMdcJ7twiO6fsYuRIq"
     },
     {
-      "added_at": "2024-06-27 15:00:00",
+      "added_at": "2024-11-05 07:49:08",
       "album": {
-        "name": "The Thing To Do (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/0av5agyPuFMf5oW3nStEPM"
-      },
-      "artists": [
-        {
-          "name": "Blue Mitchell",
-          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
-        }
-      ],
-      "duration_ms": 575906,
-      "name": "Chick's Tune - Remastered 2004/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1xNMOlKlWwWf2dSKgGik3Y"
-    },
-    {
-      "added_at": "2024-06-27 15:00:00",
-      "album": {
-        "name": "Bird And Diz (Expanded Edition)",
-        "url": "https://open.spotify.com/album/28R4xxdsuM5J9k8LekSnrK"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        },
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        },
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        },
-        {
-          "name": "Curly Russell",
-          "url": "https://open.spotify.com/artist/1zSDPSHsf6mXiNp3AHmSvG"
-        },
-        {
-          "name": "Buddy Rich",
-          "url": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs"
-        }
-      ],
-      "duration_ms": 155960,
-      "name": "Leap Frog - Take 5 / Complete",
-      "url": "https://open.spotify.com/track/1L6jTBgafXtYAj360MTFMZ"
-    },
-    {
-      "added_at": "2024-06-27 15:00:00",
-      "album": {
-        "name": "From This Moment",
-        "url": "https://open.spotify.com/album/5KPKnPNrHs21hKYowNbiEn"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
-        }
-      ],
-      "duration_ms": 468000,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/0Pm4QGKJOZ833wHSNUkK7v"
-    },
-    {
-      "added_at": "2024-06-27 15:00:00",
-      "album": {
-        "name": "Bounce",
-        "url": "https://open.spotify.com/album/4nbTmWLPgH3a2jT67dM3Ej"
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98"
       },
       "artists": [
         {
@@ -176,28 +108,92 @@
           "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
         }
       ],
-      "duration_ms": 451986,
-      "name": "Footprints",
-      "url": "https://open.spotify.com/track/5LLHkwl2JjOk3cEh1Pg8A3"
+      "duration_ms": 423040,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/68pfudLhgiuBICgGygCrdi"
     },
     {
-      "added_at": "2024-06-27 15:00:00",
+      "added_at": "2024-11-05 07:49:08",
       "album": {
-        "name": "Blue's Moods",
-        "url": "https://open.spotify.com/album/0GwJHqjwlCjcdIXeV7yELw"
+        "name": "Open Sesame (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
       },
       "artists": [
         {
-          "name": "Blue Mitchell",
-          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 353800,
-      "name": "I'll Close My Eyes",
-      "url": "https://open.spotify.com/track/76oiXjka5OXZJ4eqSQIDfY"
+      "duration_ms": 336266,
+      "name": "All Or Nothing At All - Remastered 2002/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7AA3gxoDwLN8NuVfZ5NEt9"
     },
     {
-      "added_at": "2024-06-27 15:00:00",
+      "added_at": "2024-11-05 07:49:08",
+      "album": {
+        "name": "Work Song",
+        "url": "https://open.spotify.com/album/0l07068z65NQtYicJn1OPn"
+      },
+      "artists": [
+        {
+          "name": "Nat Adderley",
+          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/0GSXh7IeBpk5uJDv7KsuKZ"
+    },
+    {
+      "added_at": "2024-11-05 07:49:08",
+      "album": {
+        "name": "The Happy Horns Of Clark Terry",
+        "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
+      },
+      "artists": [
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 279600,
+      "name": "Rockin' In Rhythm",
+      "url": "https://open.spotify.com/track/66OY61byAl0G6vOXHzFKzB"
+    },
+    {
+      "added_at": "2024-11-05 07:49:08",
+      "album": {
+        "name": "Royal Flush",
+        "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 372786,
+      "name": "I'm A Fool To Want You - Remastered 2006",
+      "url": "https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn"
+    },
+    {
+      "added_at": "2024-11-05 07:49:08",
+      "album": {
+        "name": "The Cool World",
+        "url": "https://open.spotify.com/album/5jkmTnqOUazNJZE7dB0SLY"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 317440,
+      "name": "Theme From The Cool World",
+      "url": "https://open.spotify.com/track/0IWT275YvFAiE9JQ2jEcrc"
+    },
+    {
+      "added_at": "2024-11-05 07:49:08",
       "album": {
         "name": "Cool Struttin' (Remastered / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/38ERGmBgDAsCTb4KNeopsX"
@@ -208,152 +204,208 @@
           "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
         }
       ],
-      "duration_ms": 563613,
-      "name": "Cool Struttin'",
-      "url": "https://open.spotify.com/track/7CnOzCWGrTINcDExG6u99y"
+      "duration_ms": 574053,
+      "name": "Deep Night - Rudy Van Gelder Edition/1998 Remaster",
+      "url": "https://open.spotify.com/track/3rkMTHBabMPDJsBsoIK2LI"
     },
     {
-      "added_at": "2024-06-27 15:00:00",
+      "added_at": "2024-11-05 07:49:08",
       "album": {
-        "name": "Like Minds",
-        "url": "https://open.spotify.com/album/2es5VG5ZUq4Z6WPTNyTrKf"
+        "name": "Relaxin' With The Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/0dyIXPKoUBt1vFJHX57dqt"
       },
       "artists": [
         {
-          "name": "Gary Burton",
-          "url": "https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX"
-        },
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        },
-        {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        },
-        {
-          "name": "Roy Haynes",
-          "url": "https://open.spotify.com/artist/1tGINpEJVUsQXssRC28ugo"
-        },
-        {
-          "name": "Dave Holland",
-          "url": "https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH"
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
         }
       ],
-      "duration_ms": 320400,
-      "name": "Elucidation",
-      "url": "https://open.spotify.com/track/3vlR3vFVVX1gR4FgEHUWkh"
+      "duration_ms": 396960,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/34xixFi5y3I5FIOH1ZWisx"
     },
     {
-      "added_at": "2024-06-27 15:00:00",
+      "added_at": "2024-11-05 07:49:08",
       "album": {
-        "name": "Clifford Brown And Max Roach At Basin Street (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6PuVuJwyxyBZXMz73teSoV"
+        "name": "Payton's Place",
+        "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
       },
       "artists": [
         {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        },
-        {
-          "name": "Max Roach Quintet",
-          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
-        },
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
         }
       ],
-      "duration_ms": 453146,
-      "name": "What Is This Thing Called Love",
-      "url": "https://open.spotify.com/track/3zqVCujN4nNryzTCwLGO3G"
+      "duration_ms": 338093,
+      "name": "With A Song In My Heart",
+      "url": "https://open.spotify.com/track/6RxzohEIy9ipKdm25DpyQI"
     },
     {
-      "added_at": "2024-06-27 15:00:00",
+      "added_at": "2024-11-05 07:49:08",
       "album": {
-        "name": "The Magnificent Thad Jones (Remastered)",
-        "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
+        "name": "Ofafrii",
+        "url": "https://open.spotify.com/album/6hEEjyUUTcaoLrwCEw5mMN"
       },
       "artists": [
         {
-          "name": "Thad Jones",
-          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
-        }
-      ],
-      "duration_ms": 447173,
-      "name": "If I Love Again - 2007 Digital Remaster/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/79G0U4pmuiCdxPdOym0REw"
-    },
-    {
-      "added_at": "2024-06-27 15:00:00",
-      "album": {
-        "name": "Kofi",
-        "url": "https://open.spotify.com/album/41rZeHM1GX1aocheecDsBr"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 466866,
-      "name": "Kofi",
-      "url": "https://open.spotify.com/track/6Hk76REBGJGtePFcMWVxQT"
-    },
-    {
-      "added_at": "2024-06-27 15:00:00",
-      "album": {
-        "name": "Oscar Peterson Trio Plus One",
-        "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "Out Of/Into",
+          "url": "https://open.spotify.com/artist/59COS6dQZSpIn9uz7BPgVT"
         },
         {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        },
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Kendrick Scott",
+          "url": "https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux"
+        },
+        {
+          "name": "Matt Brewer",
+          "url": "https://open.spotify.com/artist/2lbkXLlMyaHxra7bczgRqU"
         }
       ],
-      "duration_ms": 214946,
-      "name": "Brotherhood Of Man",
-      "url": "https://open.spotify.com/track/2vAldccB7bRPaHdYG7Oohk"
+      "duration_ms": 467920,
+      "name": "Ofafrii",
+      "url": "https://open.spotify.com/track/559PaBDfjHRcKs5R05nx1x"
     },
     {
-      "added_at": "2024-06-27 15:00:00",
+      "added_at": "2024-11-05 07:49:08",
       "album": {
-        "name": "Work Song",
-        "url": "https://open.spotify.com/album/2HtCcOEDNsiPYBMiVUzEHa"
+        "name": "In New York [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/65zkV2jjroxi3mwOEddvDJ"
       },
       "artists": [
         {
-          "name": "Nat Adderley",
-          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 587906,
+      "name": "Hotel 49",
+      "url": "https://open.spotify.com/track/7ikzTrNVXD47QbVNWtDJ9D"
+    },
+    {
+      "added_at": "2024-11-05 07:49:08",
+      "album": {
+        "name": "The Big Beat (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 527040,
+      "name": "Dat Dere - Remastered 2005",
+      "url": "https://open.spotify.com/track/0fYXEHGIJqfimplx8Y4683"
+    },
+    {
+      "added_at": "2024-11-05 07:49:08",
+      "album": {
+        "name": "Boss Horn (Remastered)",
+        "url": "https://open.spotify.com/album/1Zg5gkaCMGezneA4Aq9yXk"
+      },
+      "artists": [
+        {
+          "name": "Blue Mitchell",
+          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
+        }
+      ],
+      "duration_ms": 381893,
+      "name": "Rigor Mortez - Rudy Van Gelder 24-Bit Mastering/2003 Remaster",
+      "url": "https://open.spotify.com/track/4lQGjcuX6xblZPrVbsga6l"
+    },
+    {
+      "added_at": "2024-11-05 07:49:08",
+      "album": {
+        "name": "Bags' Groove (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         },
         {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
         },
         {
-          "name": "Bobby Timmons",
-          "url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC"
+          "name": "Milt Jackson",
+          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
+        },
+        {
+          "name": "Kenny Clarke",
+          "url": "https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa"
         },
         {
           "name": "Percy Heath",
           "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
-        },
-        {
-          "name": "Sam Jones",
-          "url": "https://open.spotify.com/artist/6ArVhrX5WE3fMuiR1D5kLV"
         }
       ],
-      "duration_ms": 255720,
-      "name": "Work Song",
-      "url": "https://open.spotify.com/track/03IIOmaxjRFVCunMf4SOgD"
+      "duration_ms": 674800,
+      "name": "Bags' Groove - RVG Remaster",
+      "url": "https://open.spotify.com/track/5RQqoEIkp6XsYyULz7AlAS"
     },
     {
-      "added_at": "2024-06-27 15:00:00",
+      "added_at": "2024-11-05 07:49:08",
+      "album": {
+        "name": "Empyrean Isles (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 333946,
+      "name": "Cantaloupe Island - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0sCeNwt8xRCMR4NhKpMyBe"
+    },
+    {
+      "added_at": "2024-11-05 07:49:08",
+      "album": {
+        "name": "Modern Art",
+        "url": "https://open.spotify.com/album/35GC6fz2v6ZoXcVlKf6BA6"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        }
+      ],
+      "duration_ms": 344066,
+      "name": "Fair Weather - Remastered",
+      "url": "https://open.spotify.com/track/3X3p3u03P8eFL8WTH0oaaU"
+    },
+    {
+      "added_at": "2024-11-05 07:49:08",
+      "album": {
+        "name": "Blue Train: The Complete Masters",
+        "url": "https://open.spotify.com/album/4bdyaPEbYeZtlCLfWzDpTI"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 643226,
+      "name": "Blue Train",
+      "url": "https://open.spotify.com/track/3CABfEMOTXoF4HoBm4HsWH"
+    },
+    {
+      "added_at": "2024-11-05 07:49:08",
       "album": {
         "name": "Blowin' The Blues Away",
         "url": "https://open.spotify.com/album/2yjs1MxTiDffQ1VGY9ilJc"
@@ -369,123 +421,55 @@
       "url": "https://open.spotify.com/track/3R5K5Alv1Db3WRRAE3lr42"
     },
     {
-      "added_at": "2024-06-27 15:00:00",
+      "added_at": "2024-11-05 07:49:08",
       "album": {
-        "name": "Moanin' (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC"
+        "name": "The Magnificent Thad Jones (Remastered)",
+        "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
       },
       "artists": [
         {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+          "name": "Thad Jones",
+          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
         }
       ],
-      "duration_ms": 373386,
-      "name": "Blues March",
-      "url": "https://open.spotify.com/track/3OyJe2L52BHpACsMjOKLFg"
+      "duration_ms": 403360,
+      "name": "April In Paris - 2007 Remaster/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3QuSHJUfvuOyeKMS32Wckj"
     },
     {
-      "added_at": "2024-06-27 15:00:00",
+      "added_at": "2024-11-05 07:49:08",
       "album": {
-        "name": "Payton's Place",
-        "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
+        "name": "The Blues And The Abstract Truth",
+        "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
       },
       "artists": [
         {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
         }
       ],
-      "duration_ms": 326466,
-      "name": "The Three Trumpeteers",
-      "url": "https://open.spotify.com/track/4hwbmQjymEOZfHxyuPnVXB"
+      "duration_ms": 281986,
+      "name": "Hoe Down",
+      "url": "https://open.spotify.com/track/3k7MPapSDy9kSWuhvXxP3c"
     },
     {
-      "added_at": "2024-06-27 15:00:00",
+      "added_at": "2024-11-05 07:49:08",
       "album": {
-        "name": "Roy And Diz (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6hdkQFF1LmdBM8KLiObbzh"
+        "name": "The Best Of Clifford Brown",
+        "url": "https://open.spotify.com/album/0oWFL44UweyyQSawMSHA4L"
       },
       "artists": [
         {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        },
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
         }
       ],
-      "duration_ms": 476866,
-      "name": "Trumpet Blues",
-      "url": "https://open.spotify.com/track/0yI1oHBHCKkWw6LeAY78nO"
+      "duration_ms": 198800,
+      "name": "Joy Spring",
+      "url": "https://open.spotify.com/track/0sQ9ee2jJNTQgjy55Pse5H"
     },
     {
-      "added_at": "2024-06-27 15:00:00",
-      "album": {
-        "name": "Blue Spirits (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4P8MSAZWs5WOG97gAtLxHk"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 624960,
-      "name": "Soul Surge - Remastered 2004/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0Sk4HSy7b9EulgZp4g2ffq"
-    },
-    {
-      "added_at": "2024-06-27 15:00:00",
-      "album": {
-        "name": "The Sidewinder (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 625293,
-      "name": "The Sidewinder - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3"
-    },
-    {
-      "added_at": "2024-06-27 15:00:00",
-      "album": {
-        "name": "Emergence",
-        "url": "https://open.spotify.com/album/5Iq3buZTi3mnS6NE2AtNkZ"
-      },
-      "artists": [
-        {
-          "name": "Roy Hargrove Big Band",
-          "url": "https://open.spotify.com/artist/0W8QO3RssbbFeIiBTgrgQ6"
-        }
-      ],
-      "duration_ms": 418786,
-      "name": "September In The Rain",
-      "url": "https://open.spotify.com/track/3Q9DWh2JBcNLcCaLoVoF2x"
-    },
-    {
-      "added_at": "2024-06-27 15:00:00",
-      "album": {
-        "name": "INTEGRAL MILES DAVIS 1951-1956",
-        "url": "https://open.spotify.com/album/3JUxN1xKhdG2zKHqbGkNRH"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 490493,
-      "name": "If I Were A Bell - From The Album Relaxin' With The Miles Davis Quintet",
-      "url": "https://open.spotify.com/track/4vqrTsXLjaHNAF2tCYWu69"
-    },
-    {
-      "added_at": "2024-06-27 15:00:00",
+      "added_at": "2024-11-05 07:49:08",
       "album": {
         "name": "Somethin' Else (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
@@ -501,68 +485,56 @@
       "url": "https://open.spotify.com/track/1iXpq6uyves7dVGJ4MwGYr"
     },
     {
-      "added_at": "2024-06-27 15:00:00",
+      "added_at": "2024-11-05 07:49:08",
       "album": {
-        "name": "Page One",
-        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
+        "name": "Score",
+        "url": "https://open.spotify.com/album/331gr9fv5S0JTKxVkMFQ16"
       },
       "artists": [
         {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+          "name": "Randy Brecker",
+          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
         }
       ],
-      "duration_ms": 482440,
-      "name": "Blue Bossa - Remastered",
-      "url": "https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw"
+      "duration_ms": 249666,
+      "name": "Morning Song",
+      "url": "https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ"
     },
     {
-      "added_at": "2024-06-27 15:00:00",
+      "added_at": "2024-11-05 07:49:08",
       "album": {
-        "name": "Chet Baker In Milan",
-        "url": "https://open.spotify.com/album/799y7nYS7LqsZhwnU7C3Lz"
+        "name": "Double Take",
+        "url": "https://open.spotify.com/album/6BWfm2UUdAFwD3GDHe0IJJ"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        },
+        {
+          "name": "Woody Shaw",
+          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
         }
       ],
-      "duration_ms": 284426,
-      "name": "Lady Bird",
-      "url": "https://open.spotify.com/track/1mnd8k1NXdHuO4IBW54XaK"
+      "duration_ms": 267680,
+      "name": "Sandu",
+      "url": "https://open.spotify.com/track/53MLy9pwzIs6ZPQBYWT1gq"
     },
     {
-      "added_at": "2024-06-27 15:00:00",
+      "added_at": "2024-11-05 07:49:08",
       "album": {
-        "name": "The Blues And The Abstract Truth",
-        "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
+        "name": "Detroit-New York Junction",
+        "url": "https://open.spotify.com/album/6lNbe1duzyK37MFoUeKqoy"
       },
       "artists": [
         {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+          "name": "Thad Jones",
+          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
         }
       ],
-      "duration_ms": 525613,
-      "name": "Stolen Moments",
-      "url": "https://open.spotify.com/track/1sce5VJvCOYYDAR9rp9KdG"
-    },
-    {
-      "added_at": "2024-06-27 15:00:00",
-      "album": {
-        "name": "La Vie En Rose",
-        "url": "https://open.spotify.com/album/4rii2OLIasjb8JnzA0Ylel"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong And His Orchestra",
-          "url": "https://open.spotify.com/artist/1hcIFNujgjY8Mrf5Iidlaf"
-        }
-      ],
-      "duration_ms": 205213,
-      "name": "La vie en rose - Single Version",
-      "url": "https://open.spotify.com/track/4iRg6I6c0CpX0GGSnHDgb7"
+      "duration_ms": 330120,
+      "name": "Tariff - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/3WJpTTRFQr46ZF2Td29bTj"
     }
   ],
   "unique_name": "BLUE GIANT MOMENTUM",

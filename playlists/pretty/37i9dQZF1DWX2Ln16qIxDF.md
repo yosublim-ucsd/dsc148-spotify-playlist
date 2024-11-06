@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 ### [El Top 2024](https://open.spotify.com/playlist/37i9dQZF1DWX2Ln16qIxDF)
 
-> Lo más pegado, lo más élite, o sea LIT killah.
+> Lo más pegado, lo más trendy, o sea Emilia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,104,012 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,104,112 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 99 | [A Donde Vas Si Te Vas \| CROSSOVER \#6](https://open.spotify.com/track/35XYCdq5WIInKAk40fXlNS) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [A Donde Vas Si Te Vas \| CROSSOVER \#6](https://open.spotify.com/album/5BtAmX3V5FPwiFYSlJYa8C) | 3:04 |
 | 100 | [un tiro](https://open.spotify.com/track/2XwuYSEl8sYgTWPmsBtAJP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:34 |
 
-Snapshot ID: `Zyj2HQAAAACsXr65LKteb8pP/UKIL3MK`
+Snapshot ID: `Zyp6+QAAAABkHlxyhlatN2PmK7qHbtuU`

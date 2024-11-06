@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,949 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,997 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,19 +36,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 26 | [Quiéreme Mucho](https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 3:38 |
 | 27 | [Popscuro](https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:57 |
 | 28 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 |
-| 29 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 |
+| 29 | [Querer](https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Efecto Dominó](https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb) | 3:37 |
 | 30 | [16 De Febrero](https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5) | [Emmanuel Del Real](https://open.spotify.com/artist/3zsKni86bXvCrbu8HxSIAM), [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Fuera Del Cielo](https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1) | 3:52 |
 | 31 | [Dead](https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [The Room](https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj) | 4:46 |
 | 32 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 |
 | 33 | [Why?](https://open.spotify.com/track/1QyPYtnOVwmprWCjVgPo1Q) | [She's A Tease](https://open.spotify.com/artist/1Vv6KQLygM1XDyikIMaN9W) | [Millonaria](https://open.spotify.com/album/3IbOWCON3FLtK3Yp7ZBC6A) | 3:40 |
 | 34 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 |
 | 35 | [Azul Oscuro](https://open.spotify.com/track/0QN72F39qCxtXJnyBGoUvy) | [Zurdok](https://open.spotify.com/artist/6aknH45IYM52OZgDiamuMF) | [Gran Salto 1997\-2014](https://open.spotify.com/album/3Wag0awiCvOgN4Sj6BXSuy) | 4:20 |
-| 36 | [Querer](https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Efecto Dominó](https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb) | 3:37 |
+| 36 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 |
 | 37 | [Amor Sin Fin](https://open.spotify.com/track/5wPsMPU6dTGckf8VLW2fsg) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Amador](https://open.spotify.com/album/2IsJL5SdD7FnplHSrlS6A0) | 3:13 |
 | 38 | [Épocas](https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Épocas](https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M) | 3:41 |
 | 39 | [Mi Castillo de Blanca Arena](https://open.spotify.com/track/2WFKRQJeQMCUatF7ufzfCs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Náufrago](https://open.spotify.com/album/07Ght6RYliCbCdKKbElmWK) | 2:29 |
-| 40 | [Sastre Del Diablo](https://open.spotify.com/track/7cfIzSgAEYUW4geo3jXduo) | [Nortec Collective](https://open.spotify.com/artist/7uoHvGlnMzDKOlPrmGCTNK) | [Border Revolver](https://open.spotify.com/album/0kL29ZyygPwNIkTxf7gpiN) | 2:50 |
-| 41 | [La Flotadera](https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 4:25 |
+| 40 | [La Flotadera](https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 4:25 |
+| 41 | [Sastre Del Diablo](https://open.spotify.com/track/7cfIzSgAEYUW4geo3jXduo) | [Nortec Collective](https://open.spotify.com/artist/7uoHvGlnMzDKOlPrmGCTNK) | [Border Revolver](https://open.spotify.com/album/0kL29ZyygPwNIkTxf7gpiN) | 2:50 |
 | 42 | [Palapa](https://open.spotify.com/track/2vofpKYoBvc2uiV2yHYrHW) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Moctezuma](https://open.spotify.com/album/70nk1mvQAQ1Tpf6j7gudRW) | 5:45 |
 | 43 | [Murasaki](https://open.spotify.com/track/033BH9v7RyCCdHzgxyiU5R) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Murasaki](https://open.spotify.com/album/6Wbe28xhFeR3q8gjhxgjrj) | 3:33 |
 | 44 | [Miente](https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Bengala](https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA) | 3:07 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 77 | [Berlin](https://open.spotify.com/track/0Lyn5aCdsCPyAncbsXQ9R2) | [Abominables](https://open.spotify.com/artist/6ElfvyeHfdy1g7lbshtn0f) | [Recuerdos del Futuro](https://open.spotify.com/album/4iuoEd83VdyP4fEjj5QtLe) | 3:24 |
 | 78 | [Sentado Aquí](https://open.spotify.com/track/7w6hhryYUd8U75m4whPw5w) | [Canseco](https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5) | [Sentado Aquí](https://open.spotify.com/album/07RCNt8nAEOaetIOiuLvNp) | 4:20 |
 | 79 | [Arena](https://open.spotify.com/track/4ikqBzdldCYqaY56KFqD2B) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Hipnosis](https://open.spotify.com/album/2W0ZOxbxmxvzeWl1xSRjXR) | 6:14 |
-| 80 | [Miente](https://open.spotify.com/track/6EN1O6MTvo7QdSivuDy7pR) | [Los Marty](https://open.spotify.com/artist/5seqHZItOVyRw65m6CgiNx) | [Historias De Un Cowboy](https://open.spotify.com/album/3heymgUjbF6Z9o8CGKC8Kg) | 2:46 |
-| 81 | [Chubaca Tiene un Secreto](https://open.spotify.com/track/7KhY4LpnabTWYCoShC9k0Z) | [Niña ](https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc) | [Levantate Sakuraba](https://open.spotify.com/album/1Qbmbt6pxdVfgX8mwCeHGS) | 3:33 |
+| 80 | [Chubaca Tiene un Secreto](https://open.spotify.com/track/7KhY4LpnabTWYCoShC9k0Z) | [Niña ](https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc) | [Levantate Sakuraba](https://open.spotify.com/album/1Qbmbt6pxdVfgX8mwCeHGS) | 3:33 |
+| 81 | [Miente](https://open.spotify.com/track/6EN1O6MTvo7QdSivuDy7pR) | [Los Marty](https://open.spotify.com/artist/5seqHZItOVyRw65m6CgiNx) | [Historias De Un Cowboy](https://open.spotify.com/album/3heymgUjbF6Z9o8CGKC8Kg) | 2:46 |
 | 82 | [No vuelvo más](https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 4:13 |
 | 83 | [Lluvia](https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI) | [Baltazar](https://open.spotify.com/artist/3bCoSxfUHJwe7ztAkZN7NW) | [Lluvia](https://open.spotify.com/album/07g3BVeM6QhWXfdLvRLlvy) | 4:14 |
 | 84 | [Vámonos](https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh) | [Súper Tigre](https://open.spotify.com/artist/2k7XXrxlqG3H27BueuiQW3) | [Súper Tigre](https://open.spotify.com/album/6j4jrKSq0iYQ2uhjZGYDs3) | 3:26 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 86 | [Tú Estás Más](https://open.spotify.com/track/3F9DzDNfF2qRBZ7rMmfNtE) | [Canseco](https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5) | [El Tiempo y la Ciudad](https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK) | 4:07 |
 | 87 | [Los Bajos Fondos](https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 2:53 |
 | 88 | [Fumemos un cigarrillo \- Soundtrack Original de la Película](https://open.spotify.com/track/4LlUdiN47svvAwEmbFWQN3) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Fumemos un cigarrillo \(Soundtrack Original de la Película\)](https://open.spotify.com/album/1qHG2eqmFWACQnG8ksdeYz) | 4:01 |
-| 89 | [Amorfos](https://open.spotify.com/track/2DmZbYnCLusQ1m20awqYnm) | [Disco Ruido](https://open.spotify.com/artist/6kfY9q7lPItE7Azxtzz3xH) | [Sistema Solar](https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi) | 4:09 |
-| 90 | [Marginado](https://open.spotify.com/track/0DRqAaqeBsDh8m7RyVsckz) | [KOKÔ CECÊ](https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V) | [Marginado](https://open.spotify.com/album/4giyZ5g7d0mLParNcnd5GF) | 3:24 |
+| 89 | [Marginado](https://open.spotify.com/track/0DRqAaqeBsDh8m7RyVsckz) | [KOKÔ CECÊ](https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V) | [Marginado](https://open.spotify.com/album/4giyZ5g7d0mLParNcnd5GF) | 3:24 |
+| 90 | [Amorfos](https://open.spotify.com/track/2DmZbYnCLusQ1m20awqYnm) | [Disco Ruido](https://open.spotify.com/artist/6kfY9q7lPItE7Azxtzz3xH) | [Sistema Solar](https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi) | 4:09 |
 | 91 | [Ja Ja Ja](https://open.spotify.com/track/4uFn00BDEN9SFt1Ow93yBn) | [Los Fancy Free](https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt) | [Never Greens, Vol\. 1](https://open.spotify.com/album/4MV8h1smFlnTbQtgD3RxKh) | 4:01 |
 | 92 | [24 Horas](https://open.spotify.com/track/4rPPEiwF4MlBHEVMokts8v) | [60 Tigres](https://open.spotify.com/artist/0peet3zSweSxBCXSaGedVV) | [Animal](https://open.spotify.com/album/6Xs7IL8Aljl4uslAKzA5M1) | 4:15 |
 | 93 | [Curse the Space](https://open.spotify.com/track/2Ryk5DzBoaJsIVtAUFfd95) | [Hey Chica!](https://open.spotify.com/artist/0YmDnVrTRCTPHYkOyK5m7T) | [Antología](https://open.spotify.com/album/5UDoOYylqlJqoitSCg2Cps) | 3:11 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 97 | [Copycat](https://open.spotify.com/track/1PK1LcF9pKYurDjOA17WmR) | [Los Fancy Free](https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt) | [Out of Place](https://open.spotify.com/album/4FW4QtvN7lDWxiKAjWIe7k) | 3:05 |
 | 98 | [A la Distancia](https://open.spotify.com/track/6lyOVxJw4WwJRmbSwzr2tQ) | [La Banderville](https://open.spotify.com/artist/5bHvEzZCBiHrBWMiwXFLgD) | [El Seminuevo de Manzana](https://open.spotify.com/album/4c8flSsuzU1QEYBMIoCQWd) | 3:15 |
 | 99 | [Alexander](https://open.spotify.com/track/5udE6XUnhzUvoC80bsYEMR) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [The Future Sugar](https://open.spotify.com/album/3JFTJTZLNG2B0ZJpxcUBOt) | 3:30 |
-| 100 | [Valedor](https://open.spotify.com/track/4OPMjEVvcoAOGu3XaB6nzd) | [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06) | [Gazapo](https://open.spotify.com/album/52KdB5pIsS20pJ7XdsneFT) | 3:48 |
+| 100 | [Won't Say Anything](https://open.spotify.com/track/36VnkzPXKbrqCgbF0avbpp) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Hoy A Las Ocho](https://open.spotify.com/album/6cc1X2dYcd8yTutYZsPAv1) | 4:09 |
 
 Snapshot ID: `ZpB8owAAAADvibx7Ro4NrxHkcqLsljTO`

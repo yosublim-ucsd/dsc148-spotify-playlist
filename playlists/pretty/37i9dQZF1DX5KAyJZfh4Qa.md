@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Touché Amoré
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,544 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,580 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,16 +50,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 40 | [Perfect Timing](https://open.spotify.com/track/7wXQGcvxWxRNudVjWYAs9t) | [Kerosene Heights](https://open.spotify.com/artist/0D4NkuZAkjfdm5clMtYYrz) | [Southeast of Somewhere](https://open.spotify.com/album/37BQtdBN3a84zmgvepx64v) | 3:10 |
 | 41 | [When I Come East](https://open.spotify.com/track/0Sl6b0H7zHJdAtaNZW72ZM) | [Thank You, I'm Sorry](https://open.spotify.com/artist/1SQbSVOGU3m2YlQQVV88QU) | [When I Come East](https://open.spotify.com/album/428XEEgSSBIndzwdGwdj1p) | 2:51 |
 | 42 | [C.A.S.E.Y](https://open.spotify.com/track/4ntOjUIBQDpFURoAv7FSPR) | [Kaonashi](https://open.spotify.com/artist/60Zpxsk0QxhPEyyvWfSv0I) | [A Second Chance At Forever: The Brilliant Lies From Casey Diamond](https://open.spotify.com/album/1MIEzJjXjy2drjNZSU48Nc) | 3:11 |
-| 43 | [the CIA](https://open.spotify.com/track/71VFHN459tdGGWOLpMdYMi) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the CIA](https://open.spotify.com/album/1zGMd5eXQY9rPrXL0tVeEe) | 4:42 |
-| 44 | [Real Love](https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Real Love](https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ) | 3:07 |
+| 43 | [Real Love](https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Real Love](https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ) | 3:07 |
+| 44 | [the CIA](https://open.spotify.com/track/71VFHN459tdGGWOLpMdYMi) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the CIA](https://open.spotify.com/album/1zGMd5eXQY9rPrXL0tVeEe) | 4:42 |
 | 45 | [Permanent Resolution](https://open.spotify.com/track/0s5m3QC7n1nOfthZkdm4fU) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Permanent Resolution](https://open.spotify.com/album/3ixJ2tEWQXd5TykWUaU6Mp) | 3:21 |
 | 46 | [Opossum! My Possum!](https://open.spotify.com/track/5yghSwq7jePANBrd72J8Ly) | [Thanks! I Hate It](https://open.spotify.com/artist/2AXYLreE6e33pDQgQNNNyu) | [Lovers Lane](https://open.spotify.com/album/66VJJVlE4sn1PlZVIRKW58) | 3:45 |
-| 47 | [goin' for the garbage plate](https://open.spotify.com/track/2mH0I08tBUW5ZdgGrGrMT7) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x), [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [goin' for the garbage plate](https://open.spotify.com/album/1FoVLF5NnbJBlZPkXork3J) | 4:02 |
-| 48 | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/track/6SpavaUktNu788dew49p9U) | [Predisposed.](https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X) | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C) | 4:39 |
+| 47 | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/track/6SpavaUktNu788dew49p9U) | [Predisposed.](https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X) | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C) | 4:39 |
+| 48 | [goin' for the garbage plate](https://open.spotify.com/track/2mH0I08tBUW5ZdgGrGrMT7) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x), [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [goin' for the garbage plate](https://open.spotify.com/album/1FoVLF5NnbJBlZPkXork3J) | 4:02 |
 | 49 | [Glass](https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme) | [Forest Green](https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc) | [Glass](https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc) | 4:43 |
-| 50 | [Black Hole](https://open.spotify.com/track/2pNlprM4EeUDywzOcbIE2q) | [Goalkeeper](https://open.spotify.com/artist/1foCMRbxVRo99EWPglSD3n) | [Black Hole](https://open.spotify.com/album/3ZvWNjZk7kFwvM4EF5fiGf) | 2:48 |
-| 51 | [You Will Never Be the Best at Anything You Try \(Surely Not\)](https://open.spotify.com/track/3kuRDe1vBmCXldgLl4ZJY9) | [Short Fictions](https://open.spotify.com/artist/07VKGw5BhunkwMnvz71Z1h) | [Every Moment of Every Day](https://open.spotify.com/album/2KKOxOD55emoqgbG2l5FSW) | 4:09 |
-| 52 | [Sometimes Things Change](https://open.spotify.com/track/2FEVvpf3HkEhIZMO3Gi6T0) | [Swimming](https://open.spotify.com/artist/102w2ubGZNdbZSCBkcGbJa) | [That's OK](https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl) | 4:05 |
+| 50 | [Sometimes Things Change](https://open.spotify.com/track/2FEVvpf3HkEhIZMO3Gi6T0) | [Swimming](https://open.spotify.com/artist/102w2ubGZNdbZSCBkcGbJa) | [That's OK](https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl) | 4:05 |
+| 51 | [Black Hole](https://open.spotify.com/track/2pNlprM4EeUDywzOcbIE2q) | [Goalkeeper](https://open.spotify.com/artist/1foCMRbxVRo99EWPglSD3n) | [Black Hole](https://open.spotify.com/album/3ZvWNjZk7kFwvM4EF5fiGf) | 2:48 |
+| 52 | [You Will Never Be the Best at Anything You Try \(Surely Not\)](https://open.spotify.com/track/3kuRDe1vBmCXldgLl4ZJY9) | [Short Fictions](https://open.spotify.com/artist/07VKGw5BhunkwMnvz71Z1h) | [Every Moment of Every Day](https://open.spotify.com/album/2KKOxOD55emoqgbG2l5FSW) | 4:09 |
 | 53 | [Numb](https://open.spotify.com/track/4OxACWNlVfc3KxcCaLy9mf) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [NUMB](https://open.spotify.com/album/6qkJORPQBeXP9DOqV6u4wR) | 4:00 |
 | 54 | [Leviathan](https://open.spotify.com/track/5Q7EvbPIC4ipRVlduRrnMn) | [State Faults](https://open.spotify.com/artist/6D3k7skHIg72j2v9J4zT9b) | [Children Of The Moon](https://open.spotify.com/album/7tqqBxs66oVjVvz7a9Isg7) | 4:10 |
 | 55 | [Botch Job](https://open.spotify.com/track/1m6BbiDMnZyOL2bEabfaqo) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Botch Job](https://open.spotify.com/album/4wkb2xBR8tVhsJVLCc6Yk3) | 2:46 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 58 | [Stone](https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP) | [Clementine](https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c) | [Stone](https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK) | 3:34 |
 | 59 | [Pyramid](https://open.spotify.com/track/3EeM9ImuhVIkPMfKofSENY) | [Guitar Fight from Fooly Cooly](https://open.spotify.com/artist/6mJuP6zvtXUAVL9xjxZiDL) | [Drought](https://open.spotify.com/album/3OeQC3qI4aHJSb9acJvniZ) | 2:25 |
 | 60 | [Cactus Song](https://open.spotify.com/track/5XLxy3qdfkkzGR5gpMFSXs) | [Raccoon Tour](https://open.spotify.com/artist/5mGnbFnoUYEUNE5EKnQY7R) | [Cactus Song](https://open.spotify.com/album/4qLnXj96NMYOlH6ZjfoA8W) | 3:02 |
-| 61 | [Passing Through The Hourglass](https://open.spotify.com/track/5ZU9XFpImuMvbwkTxnefFu) | [Kaonashi](https://open.spotify.com/artist/60Zpxsk0QxhPEyyvWfSv0I) | [Passing Through The Hourglass](https://open.spotify.com/album/6ywlr4h3z5yPWAgMxQOTgA) | 3:58 |
-| 62 | [Dead On The Page](https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91) | [Park National](https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul) | [I'm Here And This Is Real](https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk) | 3:18 |
-| 63 | [Grendel](https://open.spotify.com/track/3Pad3Y43Rlk4nSWi0etGNY) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Grendel](https://open.spotify.com/album/1FA9WX9DwRwR7Mdam8Ef82) | 5:04 |
-| 64 | [Won't You Fade](https://open.spotify.com/track/2ORXMAC5DctNtC3LfhIsQF) | [Wither Away](https://open.spotify.com/artist/5qMmv2bWNnZOP0RLAzaHvM) | [Won't You Fade](https://open.spotify.com/album/0JzKDW5zcrzql9gz0UDEI3) | 4:33 |
+| 61 | [Dead On The Page](https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91) | [Park National](https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul) | [I'm Here And This Is Real](https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk) | 3:18 |
+| 62 | [Passing Through The Hourglass](https://open.spotify.com/track/5ZU9XFpImuMvbwkTxnefFu) | [Kaonashi](https://open.spotify.com/artist/60Zpxsk0QxhPEyyvWfSv0I) | [Passing Through The Hourglass](https://open.spotify.com/album/6ywlr4h3z5yPWAgMxQOTgA) | 3:58 |
+| 63 | [Won't You Fade](https://open.spotify.com/track/2ORXMAC5DctNtC3LfhIsQF) | [Wither Away](https://open.spotify.com/artist/5qMmv2bWNnZOP0RLAzaHvM) | [Won't You Fade](https://open.spotify.com/album/0JzKDW5zcrzql9gz0UDEI3) | 4:33 |
+| 64 | [Grendel](https://open.spotify.com/track/3Pad3Y43Rlk4nSWi0etGNY) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Grendel](https://open.spotify.com/album/1FA9WX9DwRwR7Mdam8Ef82) | 5:04 |
 | 65 | [Seoul](https://open.spotify.com/track/242MWOVEHopesZNGpUXih2) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0) | [Seoul](https://open.spotify.com/album/6In2brueDbHP59jDfPjmJM) | 3:17 |
 | 66 | [Stupid](https://open.spotify.com/track/7hJp3RopLaJZBj6SEqxkHx) | [I Love Your Lifestyle](https://open.spotify.com/artist/2gHsHeJxm4bTuS94fKQgB5) | [No Driver](https://open.spotify.com/album/7nWOIJtPFYFxVVPpSXzRQk) | 5:04 |
 | 67 | [What I'm Feeling](https://open.spotify.com/track/34A5x3oPuiysfF2DD2YAvy) | [Mint Green](https://open.spotify.com/artist/5ivuVlLA09RcBnLFkOza7C) | [All Girls Go to Heaven](https://open.spotify.com/album/0dU3VxFjynVOH4jjv7CySV) | 4:02 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 72 | [Prove](https://open.spotify.com/track/3BuZNpEfBbcWo7KhQOP629) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Third Wind](https://open.spotify.com/album/1wnpJAcnD5Q6X291ynnerQ) | 2:53 |
 | 73 | [7AM](https://open.spotify.com/track/3X2dZ76DtGta0pukBGzUxd) | [CURB](https://open.spotify.com/artist/16be15Aitv731NGEMWwt9V) | [Hope You're Doing Well, Michaela](https://open.spotify.com/album/79xK4wzVxVFRDZi5ohUZQO) | 3:06 |
 | 74 | [kissinginacarcrash](https://open.spotify.com/track/3mI9Zb7Yw2iTNDcn0izhCq) | [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [kissinginacarcrash](https://open.spotify.com/album/4d1pLNwffNxsNQhiwNbTvt) | 3:09 |
-| 75 | [The Empress](https://open.spotify.com/track/6NPdC24W7wP3EvIW5agw0b) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [The Empress](https://open.spotify.com/album/5uMXtjNHzXliwZDyfyXv05) | 3:32 |
+| 75 | [Chessie](https://open.spotify.com/track/0WIQLsu3mwen4hXLFEaAlh) | [twentythreenineteen](https://open.spotify.com/artist/3phLzwJCbHic9zg954ocXE) | [Chessie](https://open.spotify.com/album/2OxC56M17RF8VFlOm9vMJO) | 2:53 |
 
 Snapshot ID: `ZwiiwAAAAAAbetszcSvKuBgNSC0HnhNU`

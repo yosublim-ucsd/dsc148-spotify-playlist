@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 61594,
+  "num_followers": 61624,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-11-04 17:52:14",
       "album": {
+        "name": "Maracuya",
+        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "Maracuya",
+      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
+    },
+    {
+      "added_at": "2024-11-04 17:52:14",
+      "album": {
         "name": "Rosa Que Linda Eres (Joe Mangione Remix)",
         "url": "https://open.spotify.com/album/4cxa4HdxHynJUVsQzODpl4"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 167578,
       "name": "Rosa Que Linda Eres - Joe Mangione Edit Remix",
       "url": "https://open.spotify.com/track/1GIa4bJA0G61N1bD7j6JxN"
-    },
-    {
-      "added_at": "2024-11-04 17:52:14",
-      "album": {
-        "name": "Maracuya",
-        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "Maracuya",
-      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
     },
     {
       "added_at": "2024-11-04 17:52:14",
@@ -1363,22 +1363,22 @@
     {
       "added_at": "2024-11-04 17:52:14",
       "album": {
-        "name": "Bullerengue",
-        "url": "https://open.spotify.com/album/5QPON1QI3Z09s01yzq5kb3"
+        "name": "Treme",
+        "url": "https://open.spotify.com/album/33CF51WT0WPMD1be6qEx3P"
       },
       "artists": [
         {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
         },
         {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
         }
       ],
-      "duration_ms": 195121,
-      "name": "Bullerengue",
-      "url": "https://open.spotify.com/track/0wZC3aP8YeXjYvw0Ua8Qnn"
+      "duration_ms": 210326,
+      "name": "Treme",
+      "url": "https://open.spotify.com/track/4MoOnPMkm3qCWbR8FI1x1m"
     },
     {
       "added_at": "2024-11-04 17:52:14",
@@ -1403,22 +1403,22 @@
     {
       "added_at": "2024-11-04 17:52:14",
       "album": {
-        "name": "Treme",
-        "url": "https://open.spotify.com/album/33CF51WT0WPMD1be6qEx3P"
+        "name": "Bullerengue",
+        "url": "https://open.spotify.com/album/5QPON1QI3Z09s01yzq5kb3"
       },
       "artists": [
         {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
         },
         {
-          "name": "Voltech",
-          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
         }
       ],
-      "duration_ms": 210326,
-      "name": "Treme",
-      "url": "https://open.spotify.com/track/4MoOnPMkm3qCWbR8FI1x1m"
+      "duration_ms": 195121,
+      "name": "Bullerengue",
+      "url": "https://open.spotify.com/track/0wZC3aP8YeXjYvw0Ua8Qnn"
     },
     {
       "added_at": "2024-11-04 17:52:14",
@@ -1591,26 +1591,26 @@
     {
       "added_at": "2024-11-04 17:52:14",
       "album": {
-        "name": "Afloja",
-        "url": "https://open.spotify.com/album/0WHUe82nMpxe7TvyvkiLUP"
+        "name": "Culo",
+        "url": "https://open.spotify.com/album/5JVaZThemCsRFGs94NnMID"
       },
       "artists": [
         {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+          "name": "Mariline",
+          "url": "https://open.spotify.com/artist/3NLFKv17mDCARVJdf3a2s4"
         },
         {
-          "name": "Buitano",
-          "url": "https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY"
+          "name": "Big O",
+          "url": "https://open.spotify.com/artist/4uBuaf1JOKbUdSXGw5eusl"
         },
         {
-          "name": "Fatboi",
-          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
+          "name": "Jonfy",
+          "url": "https://open.spotify.com/artist/028DpH7rTwRlVFTXPDY3LJ"
         }
       ],
-      "duration_ms": 183281,
-      "name": "Afloja",
-      "url": "https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf"
+      "duration_ms": 134880,
+      "name": "Culo",
+      "url": "https://open.spotify.com/track/6HD1Fez3zHqBLVAG92i06U"
     },
     {
       "added_at": "2024-11-04 17:52:14",
@@ -1655,26 +1655,26 @@
     {
       "added_at": "2024-11-04 17:52:14",
       "album": {
-        "name": "Culo",
-        "url": "https://open.spotify.com/album/5JVaZThemCsRFGs94NnMID"
+        "name": "Afloja",
+        "url": "https://open.spotify.com/album/0WHUe82nMpxe7TvyvkiLUP"
       },
       "artists": [
         {
-          "name": "Mariline",
-          "url": "https://open.spotify.com/artist/3NLFKv17mDCARVJdf3a2s4"
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
         },
         {
-          "name": "Big O",
-          "url": "https://open.spotify.com/artist/4uBuaf1JOKbUdSXGw5eusl"
+          "name": "Buitano",
+          "url": "https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY"
         },
         {
-          "name": "Jonfy",
-          "url": "https://open.spotify.com/artist/028DpH7rTwRlVFTXPDY3LJ"
+          "name": "Fatboi",
+          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
         }
       ],
-      "duration_ms": 134880,
-      "name": "Culo",
-      "url": "https://open.spotify.com/track/6HD1Fez3zHqBLVAG92i06U"
+      "duration_ms": 183281,
+      "name": "Afloja",
+      "url": "https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf"
     },
     {
       "added_at": "2024-11-04 17:52:14",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2024-11-04 17:52:14",
       "album": {
-        "name": "Tu Sabor",
-        "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
-      },
-      "artists": [
-        {
-          "name": "Sounds Of Rituals",
-          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
-        },
-        {
-          "name": "Pablo Alhach",
-          "url": "https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz"
-        }
-      ],
-      "duration_ms": 175357,
-      "name": "Tu Sabor",
-      "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
-    },
-    {
-      "added_at": "2024-11-04 17:52:14",
-      "album": {
         "name": "Alterego",
         "url": "https://open.spotify.com/album/4JypWzN41tSUvnRIzWt4f2"
       },
@@ -1755,26 +1735,22 @@
     {
       "added_at": "2024-11-04 17:52:14",
       "album": {
-        "name": "Yo Contigo",
-        "url": "https://open.spotify.com/album/0nSlUHddS5dfclkjaUF3z8"
+        "name": "Tu Sabor",
+        "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
       },
       "artists": [
         {
-          "name": "ATALE",
-          "url": "https://open.spotify.com/artist/4dcX4RK3q1qFZaOqyANmut"
+          "name": "Sounds Of Rituals",
+          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
         },
         {
-          "name": "Lion",
-          "url": "https://open.spotify.com/artist/6D1hKCdOPTrPRBowFYJbhk"
-        },
-        {
-          "name": "donatello.",
-          "url": "https://open.spotify.com/artist/1o0PcS7q3tbBgI1MFc2RQ7"
+          "name": "Pablo Alhach",
+          "url": "https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Yo Contigo",
-      "url": "https://open.spotify.com/track/4hxjSgsOe5hCNwFv4L2IbI"
+      "duration_ms": 175357,
+      "name": "Tu Sabor",
+      "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
     },
     {
       "added_at": "2024-11-04 17:52:14",
@@ -1803,6 +1779,30 @@
       "duration_ms": 179527,
       "name": "Pa Lante",
       "url": "https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX"
+    },
+    {
+      "added_at": "2024-11-04 17:52:14",
+      "album": {
+        "name": "Yo Contigo",
+        "url": "https://open.spotify.com/album/0nSlUHddS5dfclkjaUF3z8"
+      },
+      "artists": [
+        {
+          "name": "ATALE",
+          "url": "https://open.spotify.com/artist/4dcX4RK3q1qFZaOqyANmut"
+        },
+        {
+          "name": "Lion",
+          "url": "https://open.spotify.com/artist/6D1hKCdOPTrPRBowFYJbhk"
+        },
+        {
+          "name": "donatello.",
+          "url": "https://open.spotify.com/artist/1o0PcS7q3tbBgI1MFc2RQ7"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Yo Contigo",
+      "url": "https://open.spotify.com/track/4hxjSgsOe5hCNwFv4L2IbI"
     },
     {
       "added_at": "2024-11-04 17:52:14",
@@ -2023,22 +2023,26 @@
     {
       "added_at": "2024-11-04 17:52:14",
       "album": {
-        "name": "Tu Camino",
-        "url": "https://open.spotify.com/album/5mRwJTYVUwbDuvWung7Adv"
+        "name": "HAHAHA EP",
+        "url": "https://open.spotify.com/album/5xE9VX43NpuQEmAh94aUZC"
       },
       "artists": [
         {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+          "name": "MC Menor MT",
+          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
         },
         {
-          "name": "Sllash & Doppe",
-          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
+          "name": "bewav",
+          "url": "https://open.spotify.com/artist/7mQScd8jtZwkokSos5T3RM"
+        },
+        {
+          "name": "Stizi",
+          "url": "https://open.spotify.com/artist/7moIdr6bVKI6UGneM3OV42"
         }
       ],
-      "duration_ms": 165600,
-      "name": "Tu Camino",
-      "url": "https://open.spotify.com/track/4chazKXFBLQO6DFmv5hwj9"
+      "duration_ms": 156923,
+      "name": "HAHAHA",
+      "url": "https://open.spotify.com/track/4MBcx34MIGhVcjbjUb5WAs"
     }
   ],
   "unique_name": "Latin House",

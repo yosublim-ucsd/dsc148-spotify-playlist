@@ -2,33 +2,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 ### [Suomi\-indie tänään](https://open.spotify.com/playlist/37i9dQZF1DWWHpR486dzm3)
 
-> Suomi\-indien tuoreimpia helmiä\. Kannessa Goldielocks.
+> Suomi\-indien tuoreimpia helmiä\. Kannessa Vesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,880 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,881 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Provocateur](https://open.spotify.com/track/4WM16ujAuOr9QGwPkBT8u4) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Provocateur](https://open.spotify.com/album/7IIqR1U6AyKVYrLQeEbczI) | 2:54 |
-| 2 | [Ei puhuta enää](https://open.spotify.com/track/5jRJRbKzSWZQtW5ZtitRW9) | [Modem](https://open.spotify.com/artist/7CQG9lCRpxkuALUS2wbTia) | [Miten täällä voi elää?](https://open.spotify.com/album/0tXkF0oIujY97ah0f63neX) | 3:51 |
-| 3 | [Missä sä oot](https://open.spotify.com/track/5HOfloc2j0lHmZfmUxtTdJ) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Muovipussi kummittelee](https://open.spotify.com/album/7JLo7BNOhxESepJvUhIRPt) | 3:18 |
-| 4 | [Poseidon](https://open.spotify.com/track/0zIlq366VBZMwMZk3FfEpG) | [Orvokki](https://open.spotify.com/artist/2hIwNfBlBynlhicFEDBk7e) | [Poseidon](https://open.spotify.com/album/4jD0WwaxD9Agk4WnvWpF4r) | 5:19 |
-| 5 | [Iso kirkko palaa](https://open.spotify.com/track/2GZZSOjEAorIgSqvVruMgu) | [Topi Saha](https://open.spotify.com/artist/634z144xl609g8O217USKM), [Ylva Haru](https://open.spotify.com/artist/5kPC48lvYkLbKkXbbVWees) | [Neuvonantaja / Iso kirkko palaa](https://open.spotify.com/album/5Z5NZpBIV7z3MZOD1yD8eN) | 4:31 |
-| 6 | [Kari Tapio](https://open.spotify.com/track/3GfJDmX88Ta6EfAS1vmupD) | [20 000 Hz](https://open.spotify.com/artist/3iHSklDYGjosLmV4FqAvRQ) | [Kari Tapio](https://open.spotify.com/album/7zWlwV602U48Zjj47Fq1Q3) | 2:50 |
-| 7 | [I Believe](https://open.spotify.com/track/6YLrY2GuMbinOsQEdBYx9I) | [STINAKO](https://open.spotify.com/artist/32RRepyiKkxXaddxguld5s) | [Spirit](https://open.spotify.com/album/6WnSGLqugt2LrVYcGCm59z) | 5:04 |
-| 8 | [Tarinoita](https://open.spotify.com/track/1pbHITDVUJ6prDobLK77tg) | [Juhlat](https://open.spotify.com/artist/01D2EFqqME5IHfIUEuU4el), [Ty Roxy](https://open.spotify.com/artist/4FT8sPqLTd7Eoqdi8i5oJt) | [Tarinoita](https://open.spotify.com/album/50ro4O8EMrK0xIgbco7Myt) | 2:58 |
-| 9 | [Anteeksi, Tuulia](https://open.spotify.com/track/4sv9FUIdCsHBAX9oxXInzx) | [Saarisalo](https://open.spotify.com/artist/6IgTXnqCShUIfXhX2eC8Yl) | [Anteeksi, Tuulia](https://open.spotify.com/album/3TPUOnw8D2H9ShZkTcz4kR) | 3:36 |
-| 10 | [Luonto on mystinen](https://open.spotify.com/track/6D2xbT6HYVt4NE5naPjfCK) | [Jari Raaste](https://open.spotify.com/artist/1Pt8I79A8fqtQNibfZFk1O) | [Fresh!](https://open.spotify.com/album/1kGB89khvuCtSDqvPb6mSo) | 4:11 |
-| 11 | [Posket](https://open.spotify.com/track/7vkJYuULWTghhxEisMGuz1) | [Miika Leivo](https://open.spotify.com/artist/7Ba0N8U9lJ9pAHrXhKdeRQ) | [Nääj](https://open.spotify.com/album/7nc7HNMEG0asZ2RQ8R3nJl) | 3:13 |
-| 12 | [Oh, Sorrow](https://open.spotify.com/track/2RFvmlXtS1NPqo2tGk5I7I) | [UTU](https://open.spotify.com/artist/6k7RuActVz2KVaCmmY2JvW) | [Oh, Sorrow](https://open.spotify.com/album/0yvq2dcLQ58WUS5Bq925Yh) | 3:56 |
-| 13 | [Rakastut muihin tyttöihin](https://open.spotify.com/track/73I8G01m1fv2RWx6sR9GZW) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Rakastut muihin tyttöihin](https://open.spotify.com/album/1OfUXX1PZtEi3AbT22bTXc) | 2:15 |
-| 14 | [Jäljellä](https://open.spotify.com/track/6GNR7BbxSHFvKe6fhx19KI) | [Sonja Selene](https://open.spotify.com/artist/5xhxgugC1UFNupTURflnZX) | [Jäljellä](https://open.spotify.com/album/5JJExMtVa7gx5HJH1SPVYU) | 3:02 |
-| 15 | [Jos olisin koira](https://open.spotify.com/track/6LLItF2B9RV99W91oglZ6e) | [Litku Klemetti](https://open.spotify.com/artist/3Z5GO6d7DMSBeSlNBophOR) | [Funny Girl](https://open.spotify.com/album/07kACnPnws9MluGjKSX9fd) | 3:10 |
-| 16 | [Sin Sisters](https://open.spotify.com/track/6edJMxqip1ic6YF73RXTkl) | [Eidetic Dreams](https://open.spotify.com/artist/67I4GVTOFCKsOf6Bs6Y47I) | [Sin Sisters](https://open.spotify.com/album/17iqjxQNOXtcQYtzXtv5Ow) | 4:00 |
-| 17 | [Walk Through the Shadows](https://open.spotify.com/track/2amFbex2Xbcfk9uEuuzwNb) | [The Moon Trees](https://open.spotify.com/artist/6fZ9LphEgXRHUAGGMf11F9) | [Walk Through the Shadows](https://open.spotify.com/album/0gtCIb9SRwPITNbCmxlS9n) | 3:39 |
-| 18 | [Galactic Romance \- Kiva Kiva Versio](https://open.spotify.com/track/27BDYTZ3MSkVkxaKShmzoQ) | [Jaakko Eino Kalevi](https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3), [Vezurro](https://open.spotify.com/artist/02oufFxx8iLwRveBzq1vaE) | [Galactic Romance \(Kiva Kiva Versio\)](https://open.spotify.com/album/6UuQd9fdXpv3AeMRDo2P7i) | 5:15 |
-| 19 | [Sadan vuoden päästä se on tätä samaa paskaa](https://open.spotify.com/track/5oEdsobU4rzVHI59KFJFgB) | [\(proto\)Torvinen](https://open.spotify.com/artist/3UxBCoeW5rh7kmxB5TPyWd) | [Sadan vuoden päästä se on tätä samaa paskaa](https://open.spotify.com/album/4SrvMNuWHYLBIJzY6NieTM) | 4:37 |
-| 20 | [tuplavee](https://open.spotify.com/track/5FDPLWctT2AenV0fNjvGqb) | [nonexx](https://open.spotify.com/artist/1pY5dDb3CsTuPC9QwfpRbO) | [tuplavee](https://open.spotify.com/album/7AawXD0v5sqCUOdO53jjIF) | 2:33 |
-| 21 | [Muista, että kaikki ei vihaa sua koko ajan](https://open.spotify.com/track/3XnMXFJtRh7yMPeWywO4KM) | [Bad Sauna](https://open.spotify.com/artist/2ZG33QoV5Nd96TA4RwEsZT) | [Muista, että kaikki ei vihaa sua koko ajan](https://open.spotify.com/album/1t3FJ95d89DRmnAh5Dr7uk) | 2:55 |
+| 1 | [Rakastut muihin tyttöihin](https://open.spotify.com/track/73I8G01m1fv2RWx6sR9GZW) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Rakastut muihin tyttöihin](https://open.spotify.com/album/1OfUXX1PZtEi3AbT22bTXc) | 2:15 |
+| 2 | [Poseidon](https://open.spotify.com/track/0zIlq366VBZMwMZk3FfEpG) | [Orvokki](https://open.spotify.com/artist/2hIwNfBlBynlhicFEDBk7e) | [Poseidon](https://open.spotify.com/album/4jD0WwaxD9Agk4WnvWpF4r) | 5:19 |
+| 3 | [Ei puhuta enää](https://open.spotify.com/track/5jRJRbKzSWZQtW5ZtitRW9) | [Modem](https://open.spotify.com/artist/7CQG9lCRpxkuALUS2wbTia) | [Miten täällä voi elää?](https://open.spotify.com/album/0tXkF0oIujY97ah0f63neX) | 3:51 |
+| 4 | [Tarinoita](https://open.spotify.com/track/1pbHITDVUJ6prDobLK77tg) | [Juhlat](https://open.spotify.com/artist/01D2EFqqME5IHfIUEuU4el), [Ty Roxy](https://open.spotify.com/artist/4FT8sPqLTd7Eoqdi8i5oJt) | [Tarinoita](https://open.spotify.com/album/50ro4O8EMrK0xIgbco7Myt) | 2:58 |
+| 5 | [Anteeksi, Tuulia](https://open.spotify.com/track/4sv9FUIdCsHBAX9oxXInzx) | [Saarisalo](https://open.spotify.com/artist/6IgTXnqCShUIfXhX2eC8Yl) | [Anteeksi, Tuulia](https://open.spotify.com/album/3TPUOnw8D2H9ShZkTcz4kR) | 3:36 |
+| 6 | [Luonto on mystinen](https://open.spotify.com/track/6D2xbT6HYVt4NE5naPjfCK) | [Jari Raaste](https://open.spotify.com/artist/1Pt8I79A8fqtQNibfZFk1O) | [Fresh!](https://open.spotify.com/album/1kGB89khvuCtSDqvPb6mSo) | 4:11 |
+| 7 | [Posket](https://open.spotify.com/track/7vkJYuULWTghhxEisMGuz1) | [Miika Leivo](https://open.spotify.com/artist/7Ba0N8U9lJ9pAHrXhKdeRQ) | [Nääj](https://open.spotify.com/album/7nc7HNMEG0asZ2RQ8R3nJl) | 3:13 |
+| 8 | [Sin Sisters](https://open.spotify.com/track/6edJMxqip1ic6YF73RXTkl) | [Eidetic Dreams](https://open.spotify.com/artist/67I4GVTOFCKsOf6Bs6Y47I) | [Sin Sisters](https://open.spotify.com/album/17iqjxQNOXtcQYtzXtv5Ow) | 4:00 |
+| 9 | [Walk Through the Shadows](https://open.spotify.com/track/2amFbex2Xbcfk9uEuuzwNb) | [The Moon Trees](https://open.spotify.com/artist/6fZ9LphEgXRHUAGGMf11F9) | [Walk Through the Shadows](https://open.spotify.com/album/0gtCIb9SRwPITNbCmxlS9n) | 3:39 |
+| 10 | [Galactic Romance \- Kiva Kiva Versio](https://open.spotify.com/track/27BDYTZ3MSkVkxaKShmzoQ) | [Jaakko Eino Kalevi](https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3), [Vezurro](https://open.spotify.com/artist/02oufFxx8iLwRveBzq1vaE) | [Galactic Romance \(Kiva Kiva Versio\)](https://open.spotify.com/album/6UuQd9fdXpv3AeMRDo2P7i) | 5:15 |
+| 11 | [Muista, että kaikki ei vihaa sua koko ajan](https://open.spotify.com/track/3XnMXFJtRh7yMPeWywO4KM) | [Bad Sauna](https://open.spotify.com/artist/2ZG33QoV5Nd96TA4RwEsZT) | [Muista, että kaikki ei vihaa sua koko ajan](https://open.spotify.com/album/1t3FJ95d89DRmnAh5Dr7uk) | 2:55 |
+| 12 | [Provocateur](https://open.spotify.com/track/4WM16ujAuOr9QGwPkBT8u4) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Provocateur](https://open.spotify.com/album/7IIqR1U6AyKVYrLQeEbczI) | 2:54 |
+| 13 | [Missä sä oot](https://open.spotify.com/track/5HOfloc2j0lHmZfmUxtTdJ) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Muovipussi kummittelee](https://open.spotify.com/album/7JLo7BNOhxESepJvUhIRPt) | 3:18 |
+| 14 | [Iso kirkko palaa](https://open.spotify.com/track/2GZZSOjEAorIgSqvVruMgu) | [Topi Saha](https://open.spotify.com/artist/634z144xl609g8O217USKM), [Ylva Haru](https://open.spotify.com/artist/5kPC48lvYkLbKkXbbVWees) | [Neuvonantaja / Iso kirkko palaa](https://open.spotify.com/album/5Z5NZpBIV7z3MZOD1yD8eN) | 4:31 |
+| 15 | [Kari Tapio](https://open.spotify.com/track/3GfJDmX88Ta6EfAS1vmupD) | [20 000 Hz](https://open.spotify.com/artist/3iHSklDYGjosLmV4FqAvRQ) | [Kari Tapio](https://open.spotify.com/album/7zWlwV602U48Zjj47Fq1Q3) | 2:50 |
+| 16 | [I Believe](https://open.spotify.com/track/6YLrY2GuMbinOsQEdBYx9I) | [STINAKO](https://open.spotify.com/artist/32RRepyiKkxXaddxguld5s) | [Spirit](https://open.spotify.com/album/6WnSGLqugt2LrVYcGCm59z) | 5:04 |
+| 17 | [Oh, Sorrow](https://open.spotify.com/track/2RFvmlXtS1NPqo2tGk5I7I) | [UTU](https://open.spotify.com/artist/6k7RuActVz2KVaCmmY2JvW) | [Oh, Sorrow](https://open.spotify.com/album/0yvq2dcLQ58WUS5Bq925Yh) | 3:56 |
+| 18 | [Jäljellä](https://open.spotify.com/track/6GNR7BbxSHFvKe6fhx19KI) | [Sonja Selene](https://open.spotify.com/artist/5xhxgugC1UFNupTURflnZX) | [Jäljellä](https://open.spotify.com/album/5JJExMtVa7gx5HJH1SPVYU) | 3:02 |
+| 19 | [Jos olisin koira](https://open.spotify.com/track/6LLItF2B9RV99W91oglZ6e) | [Litku Klemetti](https://open.spotify.com/artist/3Z5GO6d7DMSBeSlNBophOR) | [Funny Girl](https://open.spotify.com/album/07kACnPnws9MluGjKSX9fd) | 3:10 |
+| 20 | [Sadan vuoden päästä se on tätä samaa paskaa](https://open.spotify.com/track/5oEdsobU4rzVHI59KFJFgB) | [\(proto\)Torvinen](https://open.spotify.com/artist/3UxBCoeW5rh7kmxB5TPyWd) | [Sadan vuoden päästä se on tätä samaa paskaa](https://open.spotify.com/album/4SrvMNuWHYLBIJzY6NieTM) | 4:37 |
+| 21 | [tuplavee](https://open.spotify.com/track/5FDPLWctT2AenV0fNjvGqb) | [nonexx](https://open.spotify.com/artist/1pY5dDb3CsTuPC9QwfpRbO) | [tuplavee](https://open.spotify.com/album/7AawXD0v5sqCUOdO53jjIF) | 2:33 |
 | 22 | [Another Life](https://open.spotify.com/track/0I0KcC7BvNc2Glv0brkhfn) | [Nevala](https://open.spotify.com/artist/4ljJsQb0itmfOo4AMeBAGa) | [Take Me to the Honky Tonk](https://open.spotify.com/album/7cVjxOw9QATGZuvJ06KFxC) | 2:59 |
 | 23 | [Katariina, ei huolta](https://open.spotify.com/track/18k6xNK0dyCGxQx7r3ZvZW) | [Keidas](https://open.spotify.com/artist/2ESvglqbkUzxRiTB0nJH00) | [Kuinka meidän nyt käy?](https://open.spotify.com/album/1JwAaxbjWtknOYas999WTP) | 3:48 |
 | 24 | [Ilotalo](https://open.spotify.com/track/3gDuesuKOYlgYj4a2QTmN6) | [Unta](https://open.spotify.com/artist/6eCXE59em49tCPf7LYosyz) | [Ilotalo](https://open.spotify.com/album/5MN9wEeWJB0WewDfvbwVPY) | 3:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 79 | [Kaikki kauniit sanat](https://open.spotify.com/track/2P4twR4evusRsFtqwhNQWv) | [Eva Louhivuori](https://open.spotify.com/artist/7DX4xa1cd1vBFt2kipYgfq) | [Kaikki kauniit sanat](https://open.spotify.com/album/7fpJvkuYgj5QoFfaXy4kJb) | 4:37 |
 | 80 | [Äyskäri](https://open.spotify.com/track/78SmqoqkoDg8Vfp9MAUzps) | [Jaakko Laitinen & Väärä Raha](https://open.spotify.com/artist/5QPVowsUcqhMFwZXmdGNUv) | [Äyskäri](https://open.spotify.com/album/5SeCAuQQQZOqeOtFymY2qv) | 4:21 |
 
-Snapshot ID: `ZyP+HAAAAAAiQumR+cQzVjgnMu2LGfMp`
+Snapshot ID: `ZyoB9wAAAACYxui96LrzQno22CLSvO9h`

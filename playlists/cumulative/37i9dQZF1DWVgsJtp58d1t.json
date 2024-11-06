@@ -4983,6 +4983,28 @@
     },
     {
       "album": {
+        "name": "Awuke",
+        "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172628,
+      "name": "Awuke",
+      "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
+    },
+    {
+      "album": {
         "name": "Ay Caramba",
         "url": "https://open.spotify.com/album/5Cla7ofc09ZmMLLFPguYmv"
       },
@@ -14244,7 +14266,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 178346,
       "name": "Closure (with Cash Cobain)",
       "url": "https://open.spotify.com/track/5RXnHx69EemG0EXsmhtfki"
@@ -23100,6 +23122,24 @@
       "duration_ms": 116248,
       "name": "fear no man",
       "url": "https://open.spotify.com/track/73vvKT9c9LdGNIEcAdaBzW"
+    },
+    {
+      "album": {
+        "name": "Fear When You Fly",
+        "url": "https://open.spotify.com/album/1Dve6i5g4D9Xw2GJCb9xOZ"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220104,
+      "name": "Fear When You Fly",
+      "url": "https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0"
     },
     {
       "album": {
@@ -70092,7 +70132,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 200813,
       "name": "TLC",
       "url": "https://open.spotify.com/track/2qbSJynY7eXE7bsXd9pjr9"

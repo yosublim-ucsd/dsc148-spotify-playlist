@@ -1,6 +1,6 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 74456,
+  "num_followers": 74472,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "The Rawkers (I <3 U SO Edition)",
-        "url": "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ"
-      },
-      "artists": [
-        {
-          "name": "Cassius",
-          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
-        }
-      ],
-      "duration_ms": 222407,
-      "name": "I <3 U SO",
-      "url": "https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
         "name": "Sound of Silver",
         "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 390013,
       "name": "Someone Great",
       "url": "https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
+        "name": "The Rawkers (I <3 U SO Edition)",
+        "url": "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ"
+      },
+      "artists": [
+        {
+          "name": "Cassius",
+          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
+        }
+      ],
+      "duration_ms": 222407,
+      "name": "I <3 U SO",
+      "url": "https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot"
     },
     {
       "added_at": "2024-08-08 18:53:25",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Bump",
-        "url": "https://open.spotify.com/album/4G2lrhI4JbpBdtYFfa1Qec"
-      },
-      "artists": [
-        {
-          "name": "Spank Rock",
-          "url": "https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2"
-        }
-      ],
-      "duration_ms": 447000,
-      "name": "Bump - Switch Remix",
-      "url": "https://open.spotify.com/track/6DwVAGeeP7lDQIqKbjzjxi"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
         "name": "Suspense Is Killing Me EP",
         "url": "https://open.spotify.com/album/0NLguEzq237Uukt4kmaqZR"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 293882,
       "name": "Suspense Is Killing Me",
       "url": "https://open.spotify.com/track/3so9K62SVDzEpIw5zE9kju"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
+        "name": "Bump",
+        "url": "https://open.spotify.com/album/4G2lrhI4JbpBdtYFfa1Qec"
+      },
+      "artists": [
+        {
+          "name": "Spank Rock",
+          "url": "https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2"
+        }
+      ],
+      "duration_ms": 447000,
+      "name": "Bump - Switch Remix",
+      "url": "https://open.spotify.com/track/6DwVAGeeP7lDQIqKbjzjxi"
     },
     {
       "added_at": "2024-08-08 18:53:25",

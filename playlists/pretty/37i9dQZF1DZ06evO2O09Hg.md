@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 
 > This is Juice WRLD\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,589,509 likes - 55 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,590,002 likes - 55 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 | 54 | [Wake Up! \(feat\. Juice WRLD\)](https://open.spotify.com/track/3pXexc6FHcfGTivRK0jKet) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [11th Dimension](https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf) | 2:15 |
 | 55 | [Rich And Blind](https://open.spotify.com/track/4UoDSs5VAw6xHdzbkjocTM) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:48 |
 
-Snapshot ID: `Zya9AAAAAABul1N2fF4CpCT6soc08s7A`
+Snapshot ID: `ZygOgAAAAADrwU2aMyPMPZrDmAWx9yIp`

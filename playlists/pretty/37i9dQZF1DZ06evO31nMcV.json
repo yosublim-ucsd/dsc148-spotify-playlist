@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 22644,
+  "num_followers": 22651,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAAB4rDtm4NiwsSi/N1yvZjh2",
+  "snapshot_id": "ZygOgAAAAADfTSURwsVdnx+msXPvvcH+",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Karma",
-        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 154372,
-      "name": "Truth Vibrations",
-      "url": "https://open.spotify.com/track/3SLMylmbPzGQL68AO4w6e4"
+      "duration_ms": 222048,
+      "name": "St Andrews",
+      "url": "https://open.spotify.com/track/50Rmu77Edn9xqug6AQGVe0"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw"
+        "name": "Piano Karma",
+        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 222048,
-      "name": "St Andrews",
-      "url": "https://open.spotify.com/track/50Rmu77Edn9xqug6AQGVe0"
+      "duration_ms": 154372,
+      "name": "Truth Vibrations",
+      "url": "https://open.spotify.com/track/3SLMylmbPzGQL68AO4w6e4"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Karma",
-        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
+        "name": "Truth - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 191445,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m"
+      "duration_ms": 189717,
+      "name": "Hope, Ascending - Solo Piano Version",
+      "url": "https://open.spotify.com/track/3TuN88sSwjNy1RAUDiKTm1"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piano Karma",
+        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 191445,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stolen Lullabies",
         "url": "https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 112072,
       "name": "A Wondrous Path",
       "url": "https://open.spotify.com/track/4LCktC1BeDa10GK1BwqKql"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Truth - The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 189717,
-      "name": "Hope, Ascending - Solo Piano Version",
-      "url": "https://open.spotify.com/track/3TuN88sSwjNy1RAUDiKTm1"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Truth - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 188697,
+      "name": "Colours - Solo Piano Version",
+      "url": "https://open.spotify.com/track/6mMTqraNCrZ1zImkldJptJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stolen Lullabies",
         "url": "https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 104727,
       "name": "Calmer Shores",
       "url": "https://open.spotify.com/track/2zI2ZijxaGuYvSXQk9RMN0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Truth - The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 188697,
-      "name": "Colours - Solo Piano Version",
-      "url": "https://open.spotify.com/track/6mMTqraNCrZ1zImkldJptJ"
     },
     {
       "added_at": null,

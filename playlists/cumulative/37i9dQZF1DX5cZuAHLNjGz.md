@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with AP Dhillon
 
-413 songs - 21 hr 15 min
+414 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Sheesha](https://open.spotify.com/track/5uHy68Q7ZWe8Qq9k7EAprS) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Sheesha](https://open.spotify.com/album/1qTxGh6NP5XUoN52jA3BB1) | 2:40 | 2022-09-06 | 2024-05-18 |
 | [Shinin'](https://open.spotify.com/track/1qrAgbcxQpeaDv4ptgjl9e) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Shinin'](https://open.spotify.com/album/5cFE6guiFfiFRHNxhkWTEv) | 3:15 | 2022-05-29 | 2023-08-01 |
 | [Showstopper](https://open.spotify.com/track/64mInfKzmJIbuTvcnhRgfW) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Showstopper](https://open.spotify.com/album/1KVirmPrDEhMyG54GfSSWz) | 2:26 | 2023-08-30 |  |
+| [Sifar Safar](https://open.spotify.com/track/3lQPwCmD918SyoiIkw1zqx) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Sifar Safar](https://open.spotify.com/album/3QNOBqIMylNpZXZ8OtFoC2) | 3:00 | 2024-11-05 |  |
 | [Signed to God](https://open.spotify.com/track/3lRzVvMNG1QJcHlhLXM0lA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 2:27 | 2022-06-01 | 2022-06-26 |
 | [Silicone](https://open.spotify.com/track/3UeV0FgtxsChvX6rlX8loZ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Silicone](https://open.spotify.com/album/7o8vQPQ3JQVz3g2hjvmC2u) | 3:26 | 2023-08-23 | 2023-11-10 |
 | [Sira](https://open.spotify.com/track/4GIcOw6sIY1esYTcBksP7L) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Sira](https://open.spotify.com/album/0K1bCtyj3QtFi7VHiuoqIb) | 2:52 | 2022-05-29 | 2022-07-16 |
@@ -357,7 +358,7 @@
 | [SWITCHIN' LANES](https://open.spotify.com/track/0o6IjbwmqxiDZPE5TvNKoJ) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [SWITCHIN' LANES](https://open.spotify.com/album/6YCt9sL8Y6kphIOcUalaRl) | 2:12 | 2023-05-26 | 2024-02-03 |
 | [SYL](https://open.spotify.com/track/0JBnAsReYppHqCZJbqy5H8) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [SYL](https://open.spotify.com/album/2NVYsJrBDBSZ2G2z63Bbgu) | 4:09 | 2022-06-23 | 2022-10-08 |
 | [Taare](https://open.spotify.com/track/3oWoAZ0Pe8PsI4A5SVVF3A) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Taare](https://open.spotify.com/album/0jwE7wNAlVPDUxem6bUXJ7) | 3:11 | 2024-04-08 | 2024-04-24 |
-| [Take It Easy](https://open.spotify.com/track/5si4xdFplkXAydKfFe1xXa) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:30 | 2023-04-13 |  |
+| [Take It Easy](https://open.spotify.com/track/5si4xdFplkXAydKfFe1xXa) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:30 | 2023-04-13 | 2024-11-06 |
 | [Talent](https://open.spotify.com/track/2Q5Z33wab7dtT91hUHC4EL) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Goranation](https://open.spotify.com/artist/5TsYKOgFnGb7OZ30hZubLz), [Mahi](https://open.spotify.com/artist/2d8qE6GstnxgGtOd36VVrs) | [The Hood](https://open.spotify.com/album/0qkvEZD47o0t4oLD5rSKEk) | 3:12 | 2024-05-31 | 2024-06-06 |
 | [Talja](https://open.spotify.com/track/1E4BrvZRKjcrfCkQS1iDfj) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Above All](https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG) | 3:12 | 2022-05-29 | 2022-12-16 |
 | [Tareefan](https://open.spotify.com/track/4hYKmQvLi2yaFAd7Kx07Vp) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Tareefan](https://open.spotify.com/album/36Bplz54txKmm4xAJoUGcg) | 3:12 | 2023-09-20 |  |

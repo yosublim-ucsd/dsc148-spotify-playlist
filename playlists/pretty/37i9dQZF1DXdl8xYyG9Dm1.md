@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: Black Sherif
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,657 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,714 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 47 | [AREA BOYZ PRAYER \(feat\. Seyi Vibez\)](https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 4:10 |
 | 48 | [Bluff](https://open.spotify.com/track/20o16MJXk6Jib9dx2bOUR9) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [To Whom It May Concern](https://open.spotify.com/album/4QlwqxdrSVolU2dcaHzfx9) | 3:05 |
 | 49 | [Platinum \(feat\. Frank Casino\)](https://open.spotify.com/track/39PW0FxVarJ5q7XUT6Lb67) | [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Frank Casino](https://open.spotify.com/artist/4wVM2SOjXuCEUuTi7lln9x) | [Platinum \(feat\. Frank Casino\)](https://open.spotify.com/album/44mgzWsvqEfFDUm1v8ZCf7) | 3:43 |
-| 50 | [Believer](https://open.spotify.com/track/36o7zjnqf5ouMXZTOkI0MK) | [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Believer](https://open.spotify.com/album/5rb4fEmvkfDSPP9A7YxkPf) | 3:50 |
-| 51 | [show u luv](https://open.spotify.com/track/6AMKemHX5TjvWwVCQgkYJY) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [see u soon](https://open.spotify.com/album/4aYa2JkUWVkOXptMYZtdq5) | 2:40 |
+| 50 | [show u luv](https://open.spotify.com/track/6AMKemHX5TjvWwVCQgkYJY) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [see u soon](https://open.spotify.com/album/4aYa2JkUWVkOXptMYZtdq5) | 2:40 |
+| 51 | [Believer](https://open.spotify.com/track/36o7zjnqf5ouMXZTOkI0MK) | [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Believer](https://open.spotify.com/album/5rb4fEmvkfDSPP9A7YxkPf) | 3:50 |
 | 52 | [Breaking News](https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Evil Twin](https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo) | 2:32 |
-| 53 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 |
-| 54 | [2025](https://open.spotify.com/track/6ByrGBVtpOGYIxyDc5XQYJ) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [2025](https://open.spotify.com/album/6QhHyhSidIqwPEQzWCWeig) | 3:18 |
+| 53 | [2025](https://open.spotify.com/track/6ByrGBVtpOGYIxyDc5XQYJ) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [2025](https://open.spotify.com/album/6QhHyhSidIqwPEQzWCWeig) | 3:18 |
+| 54 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 |
 | 55 | [VIOLATION](https://open.spotify.com/track/21COrY4QAM3QGc4iIvzD1H) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [VIOLATION](https://open.spotify.com/album/6gpmJar9EPyRhRDzgEs4Pd) | 2:28 |
 | 56 | [coMPRess](https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [coMPRess](https://open.spotify.com/album/14bqGESf16BESeYQaxQQOK) | 3:14 |
 | 57 | [PULL UP \(WHERE THE MUD BE\)](https://open.spotify.com/track/5KuVMkU5BAVsltPAJJTcyk) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [ROLE MODEL \(DELUXE VERSION\)](https://open.spotify.com/album/4Ui6fqKeQrsxVVArV6mkr1) | 2:34 |

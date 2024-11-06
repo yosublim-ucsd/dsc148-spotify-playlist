@@ -857,6 +857,28 @@
     },
     {
       "album": {
+        "name": "Defeatist",
+        "url": "https://open.spotify.com/album/0hEECMrMTGb1nI8G8i6qeS"
+      },
+      "artists": [
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        },
+        {
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214374,
+      "name": "Defeatist",
+      "url": "https://open.spotify.com/track/2faP8OzfXMSE8Fz8DZV0dO"
+    },
+    {
+      "album": {
         "name": "We Are Deadbeats Vol. 6",
         "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
       },
@@ -872,6 +894,28 @@
       "duration_ms": 209777,
       "name": "Digital Realm",
       "url": "https://open.spotify.com/track/2NxqIXMSwvAPEaZOY3OyRX"
+    },
+    {
+      "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/0E2uVMZUjikte4Ggzrgrfl"
+      },
+      "artists": [
+        {
+          "name": "SIREN",
+          "url": "https://open.spotify.com/artist/5GCrxFLckjsBYwr3FTQWir"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217931,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/0LKqkTfXvTB1ZVs1yJexm2"
     },
     {
       "album": {
@@ -2338,6 +2382,46 @@
       "duration_ms": 219720,
       "name": "Mellow Man",
       "url": "https://open.spotify.com/track/2GYMEBJeoZxHqIXc6ymsg1"
+    },
+    {
+      "album": {
+        "name": "Mellow Man (Remixes)",
+        "url": "https://open.spotify.com/album/6oybjDBdIest76s0bBiwxn"
+      },
+      "artists": [
+        {
+          "name": "Distinct Motive",
+          "url": "https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM"
+        },
+        {
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204639,
+      "name": "Mellow Man - Caspa Remix",
+      "url": "https://open.spotify.com/track/1bLzuJI7q2lrllNt5bwOI5"
+    },
+    {
+      "album": {
+        "name": "Mellow Man (Remixes)",
+        "url": "https://open.spotify.com/album/6oybjDBdIest76s0bBiwxn"
+      },
+      "artists": [
+        {
+          "name": "Distinct Motive",
+          "url": "https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302571,
+      "name": "Mellow Man - VIP",
+      "url": "https://open.spotify.com/track/696J2l4brnfo0EtipXIUYZ"
     },
     {
       "album": {

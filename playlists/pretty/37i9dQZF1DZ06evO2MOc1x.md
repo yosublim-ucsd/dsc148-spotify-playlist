@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 
 > This is Bonnie Raitt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,984 likes - 51 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,992 likes - 51 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 39 | [Good Man, Good Woman](https://open.spotify.com/track/3ooyUyDHyNU7HfUoJky1Ei) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 3:33 |
 | 40 | [Runaway \- 2008 Remaster](https://open.spotify.com/track/7ldCklGtxrVxpmdt1el897) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Sweet Forgiveness](https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B) | 3:55 |
 | 41 | [I Don't Want Anything To Change \- Live](https://open.spotify.com/track/5LoxEEVJZexmsipbWNxSZs) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Bonnie Raitt And Friends](https://open.spotify.com/album/4qt6BOh1VgNCyNyKYnFb5A) | 5:00 |
-| 42 | [Not Cause I Wanted To](https://open.spotify.com/track/2eddW5VE76XGnS9iOkaGv3) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 3:32 |
-| 43 | [Love Letters](https://open.spotify.com/track/6pqNafE84udPaoFLGffd7E) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Duets](https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea) | 4:00 |
-| 44 | [Too Long at the Fair \- 2008 Remaster](https://open.spotify.com/track/1oMhFBq8JndGlXmknlkSjp) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 2:58 |
-| 45 | [Can't Find My Way Home \- Live](https://open.spotify.com/track/1TITZdtKEabZzhm9EtfOCm) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Songs from the Rainbow Room 1972 \(Live\)](https://open.spotify.com/album/6UKKvudJfkgZcw59mNOy0c) | 3:07 |
+| 42 | [Too Long at the Fair \- 2008 Remaster](https://open.spotify.com/track/1oMhFBq8JndGlXmknlkSjp) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 2:58 |
+| 43 | [Not Cause I Wanted To](https://open.spotify.com/track/2eddW5VE76XGnS9iOkaGv3) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 3:32 |
+| 44 | [Can't Find My Way Home \- Live](https://open.spotify.com/track/1TITZdtKEabZzhm9EtfOCm) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Songs from the Rainbow Room 1972 \(Live\)](https://open.spotify.com/album/6UKKvudJfkgZcw59mNOy0c) | 3:07 |
+| 45 | [Love Letters](https://open.spotify.com/track/6pqNafE84udPaoFLGffd7E) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Duets](https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea) | 4:00 |
 | 46 | [Live Wire](https://open.spotify.com/track/39YLkuJY39HjEtw1dgdptd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 5:09 |
 | 47 | [Since I Fell for You \- 2008 Remaster](https://open.spotify.com/track/71G25PCcl4wa87qOJjjblz) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 3:06 |
 | 48 | [Louise \- 2008 Remaster](https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Sweet Forgiveness](https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B) | 2:45 |
 | 49 | [Blame it On Me](https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:47 |
 | 50 | [Too Soon To Tell](https://open.spotify.com/track/21bGSuzzoQOKcmz59uDuwH) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 3:45 |
-| 51 | [Silver Lining \- Radio Edit](https://open.spotify.com/track/7lkKtkioFFFk9nkwNLRHER) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [The Best Of Bonnie Raitt On Capitol 1989\-2003](https://open.spotify.com/album/1FV3yQh4QovuCGWqJuRdl4) | 3:37 |
+| 51 | [Long Distance Call \(feat\. Bonnie Raitt\)](https://open.spotify.com/track/1Thq8nUGqdxgIvnR0KnM0a) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Sam's Place](https://open.spotify.com/album/2r3pY9mS61KIUNszGK6BlP) | 3:59 |
 
-Snapshot ID: `Zya9AAAAAADg8HpE0Lq5aceiDoUaSJ0O`
+Snapshot ID: `ZygOgAAAAADUS2hL5Vrgs3Sl0Z3Mm8BF`

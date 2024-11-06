@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 428108,
+  "num_followers": 428351,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAABa6p4+SSR/yn5/x3gxGwV8",
+  "snapshot_id": "ZygOgAAAAACntRASqOR7vHgDCT+sg76w",
   "tracks": [
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phantomime",
-        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 249626,
-      "name": "Hanging Around",
-      "url": "https://open.spotify.com/track/6OBdX7cxnza92DAzFnFBQb"
+      "duration_ms": 245160,
+      "name": "See The Light",
+      "url": "https://open.spotify.com/track/7HbyELpx9fepfB4Flz20CG"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+        "name": "Phantomime",
+        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 245160,
-      "name": "See The Light",
-      "url": "https://open.spotify.com/track/1dgO96QXgopptwjnaeIC5l"
+      "duration_ms": 249626,
+      "name": "Hanging Around",
+      "url": "https://open.spotify.com/track/6OBdX7cxnza92DAzFnFBQb"
     },
     {
       "added_at": null,

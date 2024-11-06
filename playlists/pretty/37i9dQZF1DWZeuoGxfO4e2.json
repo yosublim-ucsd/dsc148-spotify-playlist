@@ -1,6 +1,6 @@
 {
   "description": "Celebramos a las figuras legendarias del rock en nuestro idioma. Foto: Soda Stereo.",
-  "num_followers": 686253,
+  "num_followers": 686376,
   "original_name": "Iconos del Rock Latinoamericano",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "Naufragios",
-        "url": "https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV"
-      },
-      "artists": [
-        {
-          "name": "Mikel Erentxun",
-          "url": "https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC"
-        }
-      ],
-      "duration_ms": 233733,
-      "name": "A un minuto de ti",
-      "url": "https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
         "name": "El Grito Del Tiempo",
         "url": "https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 235626,
       "name": "En alg\u00fan lugar",
       "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
+        "name": "Naufragios",
+        "url": "https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV"
+      },
+      "artists": [
+        {
+          "name": "Mikel Erentxun",
+          "url": "https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC"
+        }
+      ],
+      "duration_ms": 233733,
+      "name": "A un minuto de ti",
+      "url": "https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "El Que Busca Encuentra",
-        "url": "https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm"
-      },
-      "artists": [
-        {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-        }
-      ],
-      "duration_ms": 310146,
-      "name": "As\u00ed Es la Vida",
-      "url": "https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
         "name": "Si",
         "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 239226,
       "name": "Lento",
       "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
+        "name": "El Que Busca Encuentra",
+        "url": "https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "duration_ms": 310146,
+      "name": "As\u00ed Es la Vida",
+      "url": "https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m"
+        "name": "Rocanlover",
+        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
       },
       "artists": [
         {
-          "name": "La Uni\u00f3n",
-          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 233266,
-      "name": "Lobo-hombre en Par\u00eds",
-      "url": "https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv"
+      "duration_ms": 203626,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "Lo Que And\u00e1bamos Buscando (Special Para CEV)",
-        "url": "https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m"
       },
       "artists": [
         {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+          "name": "La Uni\u00f3n",
+          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Sabor a Chocolate",
-      "url": "https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u"
+      "duration_ms": 233266,
+      "name": "Lobo-hombre en Par\u00eds",
+      "url": "https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "Rocanlover",
-        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
         "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 253186,
       "name": "Maldito duende",
       "url": "https://open.spotify.com/track/7vcDJCAO356RYkCfiUozmE"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
+        "name": "Dalt\u00f3nico",
+        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 224085,
+      "name": "Dulce Soledad",
+      "url": "https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
+        "name": "Lo Que And\u00e1bamos Buscando (Special Para CEV)",
+        "url": "https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Sabor a Chocolate",
+      "url": "https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
         "name": "El Milagro Argentino",
         "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 313000,
       "name": "Loco (Tu Forma De Ser)",
       "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
-        "name": "Dalt\u00f3nico",
-        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 224085,
-      "name": "Dulce Soledad",
-      "url": "https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "Las baladas (Los singles vol II)",
-        "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 225080,
-      "name": "Te quiero",
-      "url": "https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
         "name": "Avalancha de \u00e9xitos",
         "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "Finisterra",
-        "url": "https://open.spotify.com/album/3Eubo97y5NcXWz7PsCzHIT"
+        "name": "Las baladas (Los singles vol II)",
+        "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
       },
       "artists": [
         {
-          "name": "M\u00e4go de Oz",
-          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
         }
       ],
-      "duration_ms": 296751,
-      "name": "Fiesta Pagana",
-      "url": "https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz"
+      "duration_ms": 225080,
+      "name": "Te quiero",
+      "url": "https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -615,6 +599,22 @@
       "duration_ms": 206133,
       "name": "Te Lo Pido por Favor",
       "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
+        "name": "Finisterra",
+        "url": "https://open.spotify.com/album/3Eubo97y5NcXWz7PsCzHIT"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4go de Oz",
+          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
+        }
+      ],
+      "duration_ms": 296751,
+      "name": "Fiesta Pagana",
+      "url": "https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "Alta Suciedad",
-        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
         "name": "La Ley MTV Unplugged",
         "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 288066,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
+        "name": "Alta Suciedad",
+        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "Amantes Sunt Amentes",
-        "url": "https://open.spotify.com/album/1IPg7NZ0YLxARNx5Qs4936"
-      },
-      "artists": [
-        {
-          "name": "PXNDX",
-          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Los Malaventurados No Lloran",
-      "url": "https://open.spotify.com/track/66PRDvzBHhbcdbc4T4mrZY"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
@@ -1047,22 +1031,6 @@
       "duration_ms": 161800,
       "name": "La Muralla Verde",
       "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
-        "name": "Honestidad Brutal",
-        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Te quiero igual",
-      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -1099,6 +1067,38 @@
       "duration_ms": 260439,
       "name": "Nada",
       "url": "https://open.spotify.com/track/1lpGX4TZPVgEKGGBDc3n9j"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
+        "name": "Honestidad Brutal",
+        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Te quiero igual",
+      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
+        "name": "Amantes Sunt Amentes",
+        "url": "https://open.spotify.com/album/1IPg7NZ0YLxARNx5Qs4936"
+      },
+      "artists": [
+        {
+          "name": "PXNDX",
+          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Los Malaventurados No Lloran",
+      "url": "https://open.spotify.com/track/66PRDvzBHhbcdbc4T4mrZY"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "Rocanrol Bumerang",
-        "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
-      },
-      "artists": [
-        {
-          "name": "Miguel R\u00edos",
-          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Santa Lucia - Remastered 2005",
-      "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
         "name": "Por Encima",
         "url": "https://open.spotify.com/album/5zlSFpoGVWyxGBc76ye0L0"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 217703,
       "name": "Por Siempre",
       "url": "https://open.spotify.com/track/6FLSb8CJwrcfXfzfD4ySji"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
+        "name": "Rocanrol Bumerang",
+        "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
+      },
+      "artists": [
+        {
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Santa Lucia - Remastered 2005",
+      "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 250357,
+      "name": "Personalmente",
+      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "Despierta",
-        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 250357,
-      "name": "Personalmente",
-      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
         "name": "Ch\u00fantaros Radio Poder",
         "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
       },
@@ -1591,22 +1591,6 @@
       "duration_ms": 238747,
       "name": "Ch\u00fantaros Style",
       "url": "https://open.spotify.com/track/4a0XUfmjQiRb0diHn9jVjA"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 283053,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/12NW2sUhBFz5VUxDZTp3Op"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -1627,6 +1611,22 @@
       "duration_ms": 237873,
       "name": "De Nada Sirve",
       "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 283053,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/12NW2sUhBFz5VUxDZTp3Op"
     }
   ],
   "unique_name": "Iconos del Rock Latinoamericano",

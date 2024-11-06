@@ -1,6 +1,6 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 324384,
+  "num_followers": 324495,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-10-03 14:41:17",
       "album": {
-        "name": "The Sahara Sessions",
-        "url": "https://open.spotify.com/album/0z8AQ0l95AM4DzQDBJLTzX"
-      },
-      "artists": [
-        {
-          "name": "Etran Finatawa",
-          "url": "https://open.spotify.com/artist/4loyFcpdGnVsJRk2pgv6qX"
-        }
-      ],
-      "duration_ms": 354653,
-      "name": "Matinfa",
-      "url": "https://open.spotify.com/track/3oUudjdOdEJI8JRCIPV3qj"
-    },
-    {
-      "added_at": "2024-10-03 14:41:17",
-      "album": {
         "name": "Tartit: Amankor / The Exile",
         "url": "https://open.spotify.com/album/08lhNsxIviCV0TQrVIqeuw"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 192000,
       "name": "Afous Dafous",
       "url": "https://open.spotify.com/track/36yiMWZzACLXonEZrw4gp1"
+    },
+    {
+      "added_at": "2024-10-03 14:41:17",
+      "album": {
+        "name": "The Sahara Sessions",
+        "url": "https://open.spotify.com/album/0z8AQ0l95AM4DzQDBJLTzX"
+      },
+      "artists": [
+        {
+          "name": "Etran Finatawa",
+          "url": "https://open.spotify.com/artist/4loyFcpdGnVsJRk2pgv6qX"
+        }
+      ],
+      "duration_ms": 354653,
+      "name": "Matinfa",
+      "url": "https://open.spotify.com/track/3oUudjdOdEJI8JRCIPV3qj"
     },
     {
       "added_at": "2024-10-03 14:41:17",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-10-03 14:41:17",
       "album": {
-        "name": "Ayo Nigla",
-        "url": "https://open.spotify.com/album/3r4X11sRjrDIvvxc8h4ece"
-      },
-      "artists": [
-        {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
-        }
-      ],
-      "duration_ms": 251093,
-      "name": "Ayo Nigla",
-      "url": "https://open.spotify.com/track/4UPLbsDhxOq7xtSexAMKIs"
-    },
-    {
-      "added_at": "2024-10-03 14:41:17",
-      "album": {
         "name": "Segu Blue",
         "url": "https://open.spotify.com/album/4QTlRKU34j7RvBuflzAOSP"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 219666,
       "name": "Banani - feat. Lobi Traor\u00e9",
       "url": "https://open.spotify.com/track/0pKqawIX3uh1iycrPw5LMQ"
+    },
+    {
+      "added_at": "2024-10-03 14:41:17",
+      "album": {
+        "name": "Ayo Nigla",
+        "url": "https://open.spotify.com/album/3r4X11sRjrDIvvxc8h4ece"
+      },
+      "artists": [
+        {
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+        }
+      ],
+      "duration_ms": 251093,
+      "name": "Ayo Nigla",
+      "url": "https://open.spotify.com/track/4UPLbsDhxOq7xtSexAMKIs"
     }
   ],
   "unique_name": "Sahara",

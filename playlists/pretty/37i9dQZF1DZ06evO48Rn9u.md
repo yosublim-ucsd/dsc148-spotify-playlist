@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 
 > This is Kacey Musgraves\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,759 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,786 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 | 49 | [Drive Away](https://open.spotify.com/track/5tw8ebBDTShqoCDzfIpZEo) | [The Brummies](https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Eternal Reach](https://open.spotify.com/album/1PB9Z5JcnmNMssRegx6K61) | 4:34 |
 | 50 | [Keep It To Yourself](https://open.spotify.com/track/2fG23IIy7rYN8eMNbAHcS2) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:16 |
 
-Snapshot ID: `Zya9AAAAAAAoWqm+HFG62ZMPP8CZQyvO`
+Snapshot ID: `ZygOgAAAAAAkQwf0nobQs41A5w9vGUJC`

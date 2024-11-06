@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,429 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,462 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 37 | [Collateral Damage](https://open.spotify.com/track/3A1zdPgQNDW4moavGCxSxz) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP) | 3:17 |
 | 38 | [Play Play \(feat\. Burna Boy\)](https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big Conspiracy](https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn) | 3:25 |
 | 39 | [Real Life \(feat\. Stormzy\)](https://open.spotify.com/track/3qvZW1bLvAsJIUhYcuvf4F) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:17 |
-| 40 | [Masculine \(feat\. Burna Boy\)](https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:24 |
-| 41 | [Afrikan Star](https://open.spotify.com/track/57ZphidHkoCJY20u4QSIZA) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Afrikan Sauce](https://open.spotify.com/album/4J2sMmMUFcjCExurtDQZJU) | 3:14 |
+| 40 | [Afrikan Star](https://open.spotify.com/track/57ZphidHkoCJY20u4QSIZA) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Afrikan Sauce](https://open.spotify.com/album/4J2sMmMUFcjCExurtDQZJU) | 3:14 |
+| 41 | [Masculine \(feat\. Burna Boy\)](https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:24 |
 | 42 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 |
 | 43 | [Anybody](https://open.spotify.com/track/0JoEdvXnroF2eVAaErd945) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP) | 3:08 |
 | 44 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:31 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 50 | [JA ARA E](https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:10 |
 | 51 | [Mera Na](https://open.spotify.com/track/0TlGvDUBcIUGZOroftyVF4) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Mera Na](https://open.spotify.com/album/6sUoLxSldFKFctJW8ocYh1) | 3:21 |
 
-Snapshot ID: `Zya9AAAAAADgbU7z5buKqqARpZpUq6YK`
+Snapshot ID: `ZygOgAAAAADRgN7Dv5Ffi52/yEqOuMU8`

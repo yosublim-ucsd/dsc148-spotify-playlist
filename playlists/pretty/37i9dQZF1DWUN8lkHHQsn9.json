@@ -1,6 +1,6 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:063D0MKbIbbBjKgtYRGBga\">Baasch</a>",
-  "num_followers": 42987,
+  "num_followers": 42983,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "po m\u0119sku",
-        "url": "https://open.spotify.com/album/7nvX0MECWua6K4t0FYssd4"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 226893,
-      "name": "po m\u0119sku",
-      "url": "https://open.spotify.com/track/0RIhsQxxndz7XQJSGW9C6H"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
         "name": "usa",
         "url": "https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 129032,
       "name": "usa",
       "url": "https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
+        "name": "po m\u0119sku",
+        "url": "https://open.spotify.com/album/7nvX0MECWua6K4t0FYssd4"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 226893,
+      "name": "po m\u0119sku",
+      "url": "https://open.spotify.com/track/0RIhsQxxndz7XQJSGW9C6H"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "Red Flag",
-        "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kempi\u0144ski",
-          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "Red Flag",
-      "url": "https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
         "name": "The Moon",
         "url": "https://open.spotify.com/album/1zagFHQjBkeYbAQBTfcbsU"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 284422,
       "name": "The Moon",
       "url": "https://open.spotify.com/track/0OE1ohr4hpGd7icsVJ8W8g"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kempi\u0144ski",
+          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "1986",
-        "url": "https://open.spotify.com/album/4Y5MQvSJeCXB9fIrMs8Zs6"
-      },
-      "artists": [
-        {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
-        }
-      ],
-      "duration_ms": 307146,
-      "name": "Dziewczyny",
-      "url": "https://open.spotify.com/track/3Ismbhh9YTgRZgXKzCKvri"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
         "name": "ABOUT US.",
         "url": "https://open.spotify.com/album/6H24A2xEAHDrYeYc8M4Ch8"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "Sabota\u017cysta",
-        "url": "https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G"
+        "name": "1986",
+        "url": "https://open.spotify.com/album/4Y5MQvSJeCXB9fIrMs8Zs6"
       },
       "artists": [
         {
-          "name": "Kamil Kempi\u0144ski",
-          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Sabota\u017cysta",
-      "url": "https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC"
+      "duration_ms": 307146,
+      "name": "Dziewczyny",
+      "url": "https://open.spotify.com/track/3Ismbhh9YTgRZgXKzCKvri"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -899,6 +883,22 @@
       "duration_ms": 263614,
       "name": "Deadfall",
       "url": "https://open.spotify.com/track/3JCRS3QDBI69OXYF5UAL7W"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
+        "name": "Sabota\u017cysta",
+        "url": "https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kempi\u0144ski",
+          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Sabota\u017cysta",
+      "url": "https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "Priorytety",
-        "url": "https://open.spotify.com/album/2B46Wx88prs5gPWMnvFMVO"
-      },
-      "artists": [
-        {
-          "name": "Alan Cyprysiak",
-          "url": "https://open.spotify.com/artist/0gbd0sFWxT28CVsxZ6J6Ig"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Priorytety",
-      "url": "https://open.spotify.com/track/3Q3U0azD3REhtU7nLrhabj"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
         "name": "Kot Schr\u00f6dingera",
         "url": "https://open.spotify.com/album/6UXHdo1mibLUki7oB0CtHx"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 221820,
       "name": "Kot Schr\u00f6dingera",
       "url": "https://open.spotify.com/track/5YdQeXesb70ZOr6OrHB82S"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
+        "name": "Ta\u0144cz\u0119",
+        "url": "https://open.spotify.com/album/54lzrUtzRhLlfsWzzVLqtA"
+      },
+      "artists": [
+        {
+          "name": "Alan Cyprysiak",
+          "url": "https://open.spotify.com/artist/0gbd0sFWxT28CVsxZ6J6Ig"
+        }
+      ],
+      "duration_ms": 210786,
+      "name": "Ta\u0144cz\u0119",
+      "url": "https://open.spotify.com/track/24ETPb54sx8KtyFV7mMRUI"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "IKONA",
-        "url": "https://open.spotify.com/album/37WqxMNlOurhOAEi9iPuDg"
+        "name": "December",
+        "url": "https://open.spotify.com/album/7ErTmSBSxGQlXxYkcpNNyg"
       },
       "artists": [
         {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+          "name": "Kuba Kluza",
+          "url": "https://open.spotify.com/artist/1I0FVrxB03evIF9eTEwsVa"
         }
       ],
-      "duration_ms": 180983,
-      "name": "IKONA",
-      "url": "https://open.spotify.com/track/6MqFb9iP01VR5dLZf2Bl5o"
+      "duration_ms": 172750,
+      "name": "December",
+      "url": "https://open.spotify.com/track/0IfjvMq4MHyfKoTd0K4WA6"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
+        "name": "IKONA",
+        "url": "https://open.spotify.com/album/37WqxMNlOurhOAEi9iPuDg"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        }
+      ],
+      "duration_ms": 180983,
+      "name": "IKONA",
+      "url": "https://open.spotify.com/track/6MqFb9iP01VR5dLZf2Bl5o"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
         "name": "mam ci\u0119 na oku",
         "url": "https://open.spotify.com/album/6jBc00kDUGTmwtGVcxls0y"
       },
@@ -1127,6 +1143,22 @@
       "duration_ms": 183000,
       "name": "mam ci\u0119 na oku",
       "url": "https://open.spotify.com/track/3322tQszVawkGwzFfu3JVf"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
+        "name": "Priorytety",
+        "url": "https://open.spotify.com/album/2B46Wx88prs5gPWMnvFMVO"
+      },
+      "artists": [
+        {
+          "name": "Alan Cyprysiak",
+          "url": "https://open.spotify.com/artist/0gbd0sFWxT28CVsxZ6J6Ig"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Priorytety",
+      "url": "https://open.spotify.com/track/3Q3U0azD3REhtU7nLrhabj"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1147,18 +1179,18 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/7ErTmSBSxGQlXxYkcpNNyg"
+        "name": "Haiku",
+        "url": "https://open.spotify.com/album/1utL1XsLZYrQEiLQX8o3qu"
       },
       "artists": [
         {
-          "name": "Kuba Kluza",
-          "url": "https://open.spotify.com/artist/1I0FVrxB03evIF9eTEwsVa"
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
         }
       ],
-      "duration_ms": 172750,
-      "name": "December",
-      "url": "https://open.spotify.com/track/0IfjvMq4MHyfKoTd0K4WA6"
+      "duration_ms": 189346,
+      "name": "Haiku",
+      "url": "https://open.spotify.com/track/4kdJPEgNmlyzo0mrRC4kOQ"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1183,54 +1215,6 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "Ta\u0144cz\u0119",
-        "url": "https://open.spotify.com/album/54lzrUtzRhLlfsWzzVLqtA"
-      },
-      "artists": [
-        {
-          "name": "Alan Cyprysiak",
-          "url": "https://open.spotify.com/artist/0gbd0sFWxT28CVsxZ6J6Ig"
-        }
-      ],
-      "duration_ms": 210786,
-      "name": "Ta\u0144cz\u0119",
-      "url": "https://open.spotify.com/track/24ETPb54sx8KtyFV7mMRUI"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
-        "name": "Haiku",
-        "url": "https://open.spotify.com/album/1utL1XsLZYrQEiLQX8o3qu"
-      },
-      "artists": [
-        {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
-        }
-      ],
-      "duration_ms": 189346,
-      "name": "Haiku",
-      "url": "https://open.spotify.com/track/4kdJPEgNmlyzo0mrRC4kOQ"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
-        "name": "Polska",
-        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
-      },
-      "artists": [
-        {
-          "name": "RAF",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
-        }
-      ],
-      "duration_ms": 243062,
-      "name": "Polska",
-      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
         "name": "nie wracam nie wracam nie wracam nie wracam",
         "url": "https://open.spotify.com/album/7s9dWBppVm7BbttpnStpfx"
       },
@@ -1243,38 +1227,6 @@
       "duration_ms": 196923,
       "name": "nie wracam nie wracam nie wracam nie wracam",
       "url": "https://open.spotify.com/track/0AEA4U5rbpOrB4UZlGktsN"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
-        "name": "Spina",
-        "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
-      },
-      "artists": [
-        {
-          "name": "Lulu x Uaziuk",
-          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
-        }
-      ],
-      "duration_ms": 213921,
-      "name": "Spina",
-      "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
-        "name": "Przypadki",
-        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 190443,
-      "name": "Przypadki",
-      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1295,6 +1247,38 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
+        "name": "Polska",
+        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
+      },
+      "artists": [
+        {
+          "name": "RAF",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "duration_ms": 243062,
+      "name": "Polska",
+      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
+        "name": "Spina",
+        "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
+      },
+      "artists": [
+        {
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+        }
+      ],
+      "duration_ms": 213921,
+      "name": "Spina",
+      "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
         "name": "SLAY",
         "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
       },
@@ -1311,8 +1295,8 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
+        "name": "OKO",
+        "url": "https://open.spotify.com/album/7AKfRwN2fngGqnaRqax8Ab"
       },
       "artists": [
         {
@@ -1320,9 +1304,25 @@
           "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
         }
       ],
-      "duration_ms": 225920,
-      "name": "Tango",
-      "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
+      "duration_ms": 211000,
+      "name": "Prawda",
+      "url": "https://open.spotify.com/track/1ljhrnf6rToJm43ZpOmorD"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
+        "name": "Przypadki",
+        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 190443,
+      "name": "Przypadki",
+      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1339,6 +1339,54 @@
       "duration_ms": 179986,
       "name": "BSoD (Bluescreen)",
       "url": "https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
+        "name": "Nawzajem",
+        "url": "https://open.spotify.com/album/75GNnZ1zBakXOS6ibrMcuI"
+      },
+      "artists": [
+        {
+          "name": "Sophie Szklarska",
+          "url": "https://open.spotify.com/artist/09GfElZ8wfFoJyaHNbSaan"
+        }
+      ],
+      "duration_ms": 142975,
+      "name": "Nawzajem",
+      "url": "https://open.spotify.com/track/0co1lgFF2B3fimrK2PqHok"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
+        "name": "psychodynamiczne",
+        "url": "https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9"
+      },
+      "artists": [
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "priorytetem",
+      "url": "https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
+        "name": "Przed siebie",
+        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
+      },
+      "artists": [
+        {
+          "name": "Oskar Kucmann",
+          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
+        }
+      ],
+      "duration_ms": 183178,
+      "name": "Przed siebie",
+      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1363,38 +1411,6 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "Nawzajem",
-        "url": "https://open.spotify.com/album/75GNnZ1zBakXOS6ibrMcuI"
-      },
-      "artists": [
-        {
-          "name": "Sophie Szklarska",
-          "url": "https://open.spotify.com/artist/09GfElZ8wfFoJyaHNbSaan"
-        }
-      ],
-      "duration_ms": 142975,
-      "name": "Nawzajem",
-      "url": "https://open.spotify.com/track/0co1lgFF2B3fimrK2PqHok"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
-        "name": "Przed siebie",
-        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
-      },
-      "artists": [
-        {
-          "name": "Oskar Kucmann",
-          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
-        }
-      ],
-      "duration_ms": 183178,
-      "name": "Przed siebie",
-      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
         "name": "ABOUT US.",
         "url": "https://open.spotify.com/album/6H24A2xEAHDrYeYc8M4Ch8"
       },
@@ -1411,6 +1427,38 @@
       "duration_ms": 187624,
       "name": "Friki",
       "url": "https://open.spotify.com/track/4ubTruEhOXdmw39H352YYV"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
+      },
+      "artists": [
+        {
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+        }
+      ],
+      "duration_ms": 225920,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
+        "name": "Re\u017cyser",
+        "url": "https://open.spotify.com/album/5JdAFKD7E59vMwZQLJQaSd"
+      },
+      "artists": [
+        {
+          "name": "Filip Sterne",
+          "url": "https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw"
+        }
+      ],
+      "duration_ms": 178890,
+      "name": "Re\u017cyser",
+      "url": "https://open.spotify.com/track/57ncBsP6ntAniZygJhDVDl"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1447,8 +1495,8 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "psychodynamiczne",
-        "url": "https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9"
+        "name": "miss u",
+        "url": "https://open.spotify.com/album/0TIjkkDpIOiOmdc3el92Uz"
       },
       "artists": [
         {
@@ -1456,25 +1504,9 @@
           "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
         }
       ],
-      "duration_ms": 190000,
-      "name": "priorytetem",
-      "url": "https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
-        "name": "OKO",
-        "url": "https://open.spotify.com/album/7AKfRwN2fngGqnaRqax8Ab"
-      },
-      "artists": [
-        {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Prawda",
-      "url": "https://open.spotify.com/track/1ljhrnf6rToJm43ZpOmorD"
+      "duration_ms": 150001,
+      "name": "miss u",
+      "url": "https://open.spotify.com/track/6264KCYuGN6YncMjaGbiRH"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1491,22 +1523,6 @@
       "duration_ms": 149500,
       "name": "Ocal mnie",
       "url": "https://open.spotify.com/track/3Fg0uofccKstiOvIvMczGs"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
-        "name": "Re\u017cyser",
-        "url": "https://open.spotify.com/album/5JdAFKD7E59vMwZQLJQaSd"
-      },
-      "artists": [
-        {
-          "name": "Filip Sterne",
-          "url": "https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw"
-        }
-      ],
-      "duration_ms": 178890,
-      "name": "Re\u017cyser",
-      "url": "https://open.spotify.com/track/57ncBsP6ntAniZygJhDVDl"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1543,18 +1559,18 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "miss u",
-        "url": "https://open.spotify.com/album/0TIjkkDpIOiOmdc3el92Uz"
+        "name": "ABOUT US.",
+        "url": "https://open.spotify.com/album/6H24A2xEAHDrYeYc8M4Ch8"
       },
       "artists": [
         {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+          "name": "IKARVS",
+          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
         }
       ],
-      "duration_ms": 150001,
-      "name": "miss u",
-      "url": "https://open.spotify.com/track/6264KCYuGN6YncMjaGbiRH"
+      "duration_ms": 218366,
+      "name": "S\u0142odka Wo\u0144",
+      "url": "https://open.spotify.com/track/213dpKUmTMXJYrYYjecaXG"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1579,38 +1595,6 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "ABOUT US.",
-        "url": "https://open.spotify.com/album/6H24A2xEAHDrYeYc8M4Ch8"
-      },
-      "artists": [
-        {
-          "name": "IKARVS",
-          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
-        }
-      ],
-      "duration_ms": 218366,
-      "name": "S\u0142odka Wo\u0144",
-      "url": "https://open.spotify.com/track/213dpKUmTMXJYrYYjecaXG"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
-        "name": "K\u00f3\u0142ko I Krzy\u017cyk",
-        "url": "https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex"
-      },
-      "artists": [
-        {
-          "name": "Cudowne Lata",
-          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Po Szkole",
-      "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
       },
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "HOTEL",
-        "url": "https://open.spotify.com/album/4Et5dfI8KUrOpRrwqy4Wc1"
+        "name": "K\u00f3\u0142ko I Krzy\u017cyk",
+        "url": "https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex"
       },
       "artists": [
         {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+          "name": "Cudowne Lata",
+          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
         }
       ],
-      "duration_ms": 190827,
-      "name": "HOTEL",
-      "url": "https://open.spotify.com/track/4VBvF9iBuitlLSEKDQR1PW"
+      "duration_ms": 169090,
+      "name": "Po Szkole",
+      "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1675,6 +1659,22 @@
       "duration_ms": 261818,
       "name": "Lesbijski Groove",
       "url": "https://open.spotify.com/track/0ZbfT8bgWR81cepTeCirfN"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
+        "name": "Sama s\u0142uchaj",
+        "url": "https://open.spotify.com/album/1kjorjjIHO8t9UC8P8iT0V"
+      },
+      "artists": [
+        {
+          "name": "Sienia",
+          "url": "https://open.spotify.com/artist/2e7TuhchY8aTY3v2qzMghX"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "Sama s\u0142uchaj",
+      "url": "https://open.spotify.com/track/5uiWeHUUj4KuG7uQZH9AAl"
     }
   ],
   "unique_name": "GLOW Polska",

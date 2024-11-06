@@ -1,12 +1,12 @@
 {
   "description": "Peaceful piano to help you slow down, breathe, and relax. ",
-  "num_followers": 7610017,
+  "num_followers": 7610688,
   "original_name": "Peaceful Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxZ6HQAAAABOsBYjES9x4Bnh3XHAGmki",
+  "snapshot_id": "Zyn+TgAAAAByXcEIgGXCRoOw/gr6gLYd",
   "tracks": [
     {
       "added_at": "2024-10-21 15:58:21",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-10-21 15:58:21",
       "album": {
-        "name": "Cascade",
-        "url": "https://open.spotify.com/album/52Ozb1gsB6O7EUaYnLtU1U"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 D\u00edvou",
-          "url": "https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Cascade",
-      "url": "https://open.spotify.com/track/2c4PSLMgucCOOd8sveoLUL"
-    },
-    {
-      "added_at": "2024-10-21 15:58:21",
-      "album": {
         "name": "land in sight",
         "url": "https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3"
       },
@@ -347,18 +331,18 @@
     {
       "added_at": "2024-10-21 15:58:21",
       "album": {
-        "name": "The Story of Forever",
-        "url": "https://open.spotify.com/album/0HrNXsDWQIBntoUwfhjaVW"
+        "name": "Misterbianco",
+        "url": "https://open.spotify.com/album/4WHPHLRQSauVqZo9FrldJW"
       },
       "artists": [
         {
-          "name": "Aquilegia",
-          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+          "name": "Mireia Lluna",
+          "url": "https://open.spotify.com/artist/1MYbOFZ4BcGF17pCUyznzS"
         }
       ],
-      "duration_ms": 223494,
-      "name": "The Story of Forever",
-      "url": "https://open.spotify.com/track/31qeus61ieZE3s9VU3OOPU"
+      "duration_ms": 105874,
+      "name": "Misterbianco",
+      "url": "https://open.spotify.com/track/4b0alD7TOFqZx5pQFrtL2G"
     },
     {
       "added_at": "2024-10-21 15:58:21",
@@ -395,18 +379,34 @@
     {
       "added_at": "2024-10-21 15:58:21",
       "album": {
-        "name": "Misterbianco",
-        "url": "https://open.spotify.com/album/4WHPHLRQSauVqZo9FrldJW"
+        "name": "Grounded in Love",
+        "url": "https://open.spotify.com/album/7dgM19C1eRfwg33ev3jLV8"
       },
       "artists": [
         {
-          "name": "Mireia Lluna",
-          "url": "https://open.spotify.com/artist/1MYbOFZ4BcGF17pCUyznzS"
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH"
         }
       ],
-      "duration_ms": 105874,
-      "name": "Misterbianco",
-      "url": "https://open.spotify.com/track/4b0alD7TOFqZx5pQFrtL2G"
+      "duration_ms": 143625,
+      "name": "Grounded in Love",
+      "url": "https://open.spotify.com/track/6r3yNcTDGZxBsvUi5hwpOf"
+    },
+    {
+      "added_at": "2024-10-21 15:58:21",
+      "album": {
+        "name": "The Story of Forever",
+        "url": "https://open.spotify.com/album/0HrNXsDWQIBntoUwfhjaVW"
+      },
+      "artists": [
+        {
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+        }
+      ],
+      "duration_ms": 223494,
+      "name": "The Story of Forever",
+      "url": "https://open.spotify.com/track/31qeus61ieZE3s9VU3OOPU"
     },
     {
       "added_at": "2024-10-21 15:58:21",
@@ -459,6 +459,70 @@
     {
       "added_at": "2024-10-21 15:58:21",
       "album": {
+        "name": "Choose your battles",
+        "url": "https://open.spotify.com/album/6YLV6MtavqLJHvqAXseU0Q"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "duration_ms": 131152,
+      "name": "Choose your battles",
+      "url": "https://open.spotify.com/track/2yssn38qENJXqRlnmxcVzB"
+    },
+    {
+      "added_at": "2024-11-05 11:15:26",
+      "album": {
+        "name": "stargazing",
+        "url": "https://open.spotify.com/album/0FCL5YSgPtrC3NQYOCwxZs"
+      },
+      "artists": [
+        {
+          "name": "Esperance",
+          "url": "https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "stargazing",
+      "url": "https://open.spotify.com/track/5Tm55bnuYOavqPLbueGYS4"
+    },
+    {
+      "added_at": "2024-10-21 15:58:21",
+      "album": {
+        "name": "Cascade",
+        "url": "https://open.spotify.com/album/52Ozb1gsB6O7EUaYnLtU1U"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 D\u00edvou",
+          "url": "https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Cascade",
+      "url": "https://open.spotify.com/track/2c4PSLMgucCOOd8sveoLUL"
+    },
+    {
+      "added_at": "2024-11-05 11:15:26",
+      "album": {
+        "name": "Clouds Coming",
+        "url": "https://open.spotify.com/album/7IAk6YxAb3zjyOaGV0nzb0"
+      },
+      "artists": [
+        {
+          "name": "Martes Fiore",
+          "url": "https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "Clouds Coming",
+      "url": "https://open.spotify.com/track/7bTycbdDfQELplifneZzJj"
+    },
+    {
+      "added_at": "2024-10-21 15:58:21",
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/48f225tKoJvjJOu6HDpzmb"
       },
@@ -473,20 +537,20 @@
       "url": "https://open.spotify.com/track/5rWsceGlMA0FD647lhEVEX"
     },
     {
-      "added_at": "2024-10-21 15:58:21",
+      "added_at": "2024-11-05 11:15:26",
       "album": {
-        "name": "Grounded in Love",
-        "url": "https://open.spotify.com/album/7dgM19C1eRfwg33ev3jLV8"
+        "name": "Mystical Murmurs",
+        "url": "https://open.spotify.com/album/0Ql3uAzHXNRXCSqHaIYc8V"
       },
       "artists": [
         {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH"
+          "name": "Mijongya",
+          "url": "https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7"
         }
       ],
-      "duration_ms": 143625,
-      "name": "Grounded in Love",
-      "url": "https://open.spotify.com/track/6r3yNcTDGZxBsvUi5hwpOf"
+      "duration_ms": 187198,
+      "name": "Mystical Murmurs",
+      "url": "https://open.spotify.com/track/4xvFnv7jOKavTDsu40BPJk"
     },
     {
       "added_at": "2024-10-21 15:58:21",
@@ -503,22 +567,6 @@
       "duration_ms": 136392,
       "name": "Beginnings",
       "url": "https://open.spotify.com/track/07Z42sQFooVNSyoJjknCDz"
-    },
-    {
-      "added_at": "2024-10-21 15:58:21",
-      "album": {
-        "name": "Choose your battles",
-        "url": "https://open.spotify.com/album/6YLV6MtavqLJHvqAXseU0Q"
-      },
-      "artists": [
-        {
-          "name": "Christian Janssen",
-          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
-        }
-      ],
-      "duration_ms": 131152,
-      "name": "Choose your battles",
-      "url": "https://open.spotify.com/track/2yssn38qENJXqRlnmxcVzB"
     },
     {
       "added_at": "2024-10-21 15:58:21",
@@ -2299,22 +2347,6 @@
     {
       "added_at": "2024-10-21 15:58:21",
       "album": {
-        "name": "Balloon",
-        "url": "https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa"
-      },
-      "artists": [
-        {
-          "name": "Chad Hammond",
-          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
-        }
-      ],
-      "duration_ms": 197750,
-      "name": "Balloon",
-      "url": "https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm"
-    },
-    {
-      "added_at": "2024-10-21 15:58:21",
-      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/7HbmmHY8HyI3uL9ElZXiy7"
       },
@@ -3071,22 +3103,6 @@
     {
       "added_at": "2024-10-21 15:58:21",
       "album": {
-        "name": "Khione",
-        "url": "https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51"
-      },
-      "artists": [
-        {
-          "name": "Dwight Rivera",
-          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
-        }
-      ],
-      "duration_ms": 179768,
-      "name": "Ruise\u00f1or",
-      "url": "https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1"
-    },
-    {
-      "added_at": "2024-10-21 15:58:21",
-      "album": {
         "name": "Night",
         "url": "https://open.spotify.com/album/16kvMhddZV5tUTCrVcOdRX"
       },
@@ -3163,38 +3179,6 @@
       "duration_ms": 205100,
       "name": "Young Ones",
       "url": "https://open.spotify.com/track/502QNU8kHHhL4rA9ft0Jcl"
-    },
-    {
-      "added_at": "2024-10-21 15:58:21",
-      "album": {
-        "name": "Tender",
-        "url": "https://open.spotify.com/album/6wm7WCVKUNXGWnVNK4IIeb"
-      },
-      "artists": [
-        {
-          "name": "Simeon Road",
-          "url": "https://open.spotify.com/artist/1FTRdK5rlo64WFmnihb2Pa"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Tender",
-      "url": "https://open.spotify.com/track/600m7rqCDlRD80E9MQtVZB"
-    },
-    {
-      "added_at": "2024-10-21 15:58:21",
-      "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7"
-      },
-      "artists": [
-        {
-          "name": "Elijah Reeves",
-          "url": "https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8"
-        }
-      ],
-      "duration_ms": 185750,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM"
     }
   ],
   "unique_name": "Peaceful Piano",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau?si=N0Z61C\-DSEutGSlpm\_fQ3g>Anendlessocean</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,531 likes - 118 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,544 likes - 118 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 39 | [Follow Who Get Road](https://open.spotify.com/track/4xkfTkJW4dCMLwIUydDlIL) | [Street Church Music](https://open.spotify.com/artist/0IepUFTdh1Oc3P2VgShszv), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Follow Who Get Road](https://open.spotify.com/album/2fUPy05V4dOh3zsaZEJ4La) | 3:02 |
 | 40 | [Kumama Papa](https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2) | [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Kumama](https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb) | 4:20 |
 | 41 | [Only You](https://open.spotify.com/track/7aV505QqvikC9q8oFEihV0) | [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [Only You](https://open.spotify.com/album/1asaOf1MnDnA1m8yqo2Tsu) | 2:41 |
-| 42 | [Bills on Jireh](https://open.spotify.com/track/1ncWYX3bppuPWGWfrVcrm3) | [Ossy Vybz](https://open.spotify.com/artist/2EWrUxppYGQJbO2TKGZy0A), [CLEVER EVER](https://open.spotify.com/artist/2nxz0EWQenMEKDQwY1rHNI) | [Bills on Jireh](https://open.spotify.com/album/2lyovfvpQE96QgzVeyBqPv) | 3:17 |
+| 42 | [Bills on Jireh](https://open.spotify.com/track/1ncWYX3bppuPWGWfrVcrm3) | [Ossy Vybz](https://open.spotify.com/artist/2EWrUxppYGQJbO2TKGZy0A), [CLEVER EVER](https://open.spotify.com/artist/2nxz0EWQenMEKDQwY1rHNI) | [Bills on Jireh](https://open.spotify.com/album/2lyovfvpQE96QgzVeyBqPv) | 3:19 |
 | 43 | [Fire](https://open.spotify.com/track/47pIqA2BD2VvicNWktyPOz) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Fire](https://open.spotify.com/album/55tLPfdCBOUCE6MegFElL1) | 2:53 |
 | 44 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 |
 | 45 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 |

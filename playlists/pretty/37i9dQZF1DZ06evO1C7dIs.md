@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 
 > This is Nightwish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,422 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,461 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 22 | [How's the Heart?](https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:02 |
 | 23 | [Wishmaster](https://open.spotify.com/track/4mwiaj9c4V0pW5y8t9mYHa) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV) | 4:24 |
 | 24 | [I Want My Tears Back](https://open.spotify.com/track/3HCzXf0lNpekSqsGBcGrCd) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 5:07 |
-| 25 | [Something Whispered Follow Me](https://open.spotify.com/track/42vCgooTTrjJN3Rtz1MW8n) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 6:39 |
+| 25 | [Sway](https://open.spotify.com/track/3UG048BsyKH9MfqPgTpyzx) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 4:23 |
 | 26 | [Planet Hell](https://open.spotify.com/track/4aOUcByFqMhdnMWZqUkogv) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:38 |
 | 27 | [Shudder Before the Beautiful](https://open.spotify.com/track/50CJMURkzURQwlp4Ht5tp6) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 6:29 |
 | 28 | [Shoemaker](https://open.spotify.com/track/5xITcnqoMdILDBNCwHGr5v) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:19 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 34 | [The Siren](https://open.spotify.com/track/0OVMtCCfQvkO1oXigmM2d8) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:45 |
 | 35 | [My Walden](https://open.spotify.com/track/3LgWFCHW1eZLZyfylrn88p) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 4:39 |
 | 36 | [Turn Loose the Mermaids](https://open.spotify.com/track/7D7jA8A8gFHK7SdmO3oOrM) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 4:19 |
-| 37 | [Dead To The World](https://open.spotify.com/track/3lY7foOrKVtDoYKUJXmkML) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK) | 4:19 |
-| 38 | [The Kinslayer](https://open.spotify.com/track/7JrKMhfBOMr78l3KbCAF1q) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV) | 3:58 |
+| 37 | [The Kinslayer](https://open.spotify.com/track/7JrKMhfBOMr78l3KbCAF1q) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV) | 3:58 |
+| 38 | [Dead To The World](https://open.spotify.com/track/3lY7foOrKVtDoYKUJXmkML) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK) | 4:19 |
 | 39 | [Weak Fantasy](https://open.spotify.com/track/3POMZFPzYbV6rYXJN1ozXW) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 5:24 |
 | 40 | [For the Heart I Once Had](https://open.spotify.com/track/2FPkCIeZJ9SO3g606XLJA4) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD) | 3:56 |
 | 41 | [Tribal](https://open.spotify.com/track/5tN4bKhtt6klkkB0GVt9i1) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 49 | [10th Man Down](https://open.spotify.com/track/6ufTwGcAxjHAYlTrhxeyME) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Over The Hills And Far Away](https://open.spotify.com/album/6j4E355c5CbrduKa4rGGLj) | 5:20 |
 | 50 | [Procession](https://open.spotify.com/track/7aIxfEHjebCNbs6bpKv9Go) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:31 |
 
-Snapshot ID: `Zya9AAAAAADY1+Yho2B+qkQ6kJsriKBD`
+Snapshot ID: `ZygOgAAAAAAzIWwbNiuVNbP+KmNI3EkU`

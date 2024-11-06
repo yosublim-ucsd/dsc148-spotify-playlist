@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 542670,
+  "num_followers": 542671,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Sunrise On The Sufferbus",
-        "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
-      },
-      "artists": [
-        {
-          "name": "Masters Of Reality",
-          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Rabbit One",
-      "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 158013,
       "name": "The Fox",
       "url": "https://open.spotify.com/track/4Ej7SloeEgarsCcsxK8VRL"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Sunrise On The Sufferbus",
+        "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
+      },
+      "artists": [
+        {
+          "name": "Masters Of Reality",
+          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Rabbit One",
+      "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Buffalo Fuzz",
-        "url": "https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Fuzz",
-          "url": "https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF"
-        }
-      ],
-      "duration_ms": 325313,
-      "name": "Perfect Man",
-      "url": "https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Boxriff",
         "url": "https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 251973,
       "name": "So Come On",
       "url": "https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Buffalo Fuzz",
+        "url": "https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Fuzz",
+          "url": "https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF"
+        }
+      ],
+      "duration_ms": 325313,
+      "name": "Perfect Man",
+      "url": "https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Witch",
+        "url": "https://open.spotify.com/album/37VVHGym3PMktFuWewZVf9"
+      },
+      "artists": [
+        {
+          "name": "Witch",
+          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
+        }
+      ],
+      "duration_ms": 477920,
+      "name": "Seer",
+      "url": "https://open.spotify.com/track/2elF1O0Cz9SfXgkj96cUZE"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Ilion",
         "url": "https://open.spotify.com/album/759EtlXJpbASpseS57pVyL"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 325026,
       "name": "The Regulator",
       "url": "https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Welcome to Sky Valley",
-        "url": "https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj"
-      },
-      "artists": [
-        {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
-        }
-      ],
-      "duration_ms": 356200,
-      "name": "Supa Scoopa and Mighty Scoop",
-      "url": "https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ"
     }
   ],
   "unique_name": "Stoner Rock",

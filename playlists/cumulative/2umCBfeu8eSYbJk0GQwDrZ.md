@@ -4,7 +4,7 @@
 
 > Stay current with the latest indie\-alt tracks\. Cover: Myles Smtih.
 
-515 songs - 1 day 4 hr 12 min
+516 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Buik](https://open.spotify.com/track/31Vsakk4P0GK89taZPvCHy) | [GHOSTWOMAN](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Hindsight is 50/50](https://open.spotify.com/album/0Ahyl5qytaDHcK6qJC1n2w) | 3:17 | 2023-11-24 | 2024-01-20 |
 | [bumpercar](https://open.spotify.com/track/7zBRgPUID7ERXyims1BufW) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [bumpercar](https://open.spotify.com/album/3qkjGDRmq1rl1j8ljNHdjk) | 2:24 | 2023-12-08 | 2024-01-20 |
 | [Burial Ground](https://open.spotify.com/track/1Xzyo31tkXB53PaRnPziLR) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Burial Ground](https://open.spotify.com/album/5jodqSew9785i4tEIRLase) | 4:04 | 2024-02-09 | 2024-03-09 |
+| [burn for you](https://open.spotify.com/track/7oydQ62zY3d8alCLxFlUGD) | [polaroid police](https://open.spotify.com/artist/18AaPbifDMnc2J9hNKR43D) | [burn for you](https://open.spotify.com/album/4C1g8RkRQMxZ49zveIpXsN) | 2:53 | 2024-11-05 |  |
 | [Burn The Hard Drive \(feat\. Mura Masa\)](https://open.spotify.com/track/2YK4w5AUbAyjgdokQuCzoj) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Burn The Hard Drive \(feat\. Mura Masa\)](https://open.spotify.com/album/2A7QGN8AFnIFthFrGXKKIi) | 3:12 | 2024-01-26 | 2024-03-09 |
 | [Burning In Flames](https://open.spotify.com/track/1Dnqeh7kkDd72y8qFAPuUc) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Kaiser Chiefs' Easy Eighth Album](https://open.spotify.com/album/5dkbWYrgm2ysC8bObtnjON) | 3:08 | 2024-03-01 | 2024-04-02 |
 | [Buying You A Garnet Amp](https://open.spotify.com/track/0hI7msofxyRJPQYRlpSR9q) | [The Secret Beach](https://open.spotify.com/artist/2BA8RBb2WV5OfaxXELFFe3) | [Buying You A Garnet Amp](https://open.spotify.com/album/0087WL1JN1O0Mi8mEVpESw) | 4:42 | 2024-04-05 | 2024-04-13 |
@@ -475,7 +476,7 @@
 | [Things You Didn’t Know](https://open.spotify.com/track/4KrNhm503tLQ0sB2uKhm1g) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Made Mistakes](https://open.spotify.com/album/01fUH3E30d9sjlzNV3jNHu) | 2:51 | 2024-06-07 | 2024-08-17 |
 | [this is what slow dancing feels like](https://open.spotify.com/track/4EhqimHdoK9OmCNvCfioH6) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what slow dancing feels like](https://open.spotify.com/album/24LaJk9nxJvZWtSmt7qMm5) | 2:25 | 2024-04-19 | 2024-08-03 |
 | [Time :: Fate :: Karma :: God](https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City \(Deluxe\)](https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS) | 3:03 | 2024-03-15 | 2024-08-17 |
-| [Tiny Screens](https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Tiny Screens](https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p) | 2:58 | 2024-10-04 |  |
+| [Tiny Screens](https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Tiny Screens](https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p) | 2:58 | 2024-10-04 | 2024-11-06 |
 | [tonight's the night i die to a frank ocean song](https://open.spotify.com/track/3MPjAnpNeBB5kmOQRc4mJw) | [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [The Abysmal EP](https://open.spotify.com/album/48hFgSWs5hl3drMtRVP7RF) | 2:57 | 2024-05-31 | 2024-06-08 |
 | [Too Attached](https://open.spotify.com/track/082mEHeYe8cHoVZ1exrb9L) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Too Attached](https://open.spotify.com/album/0Yl0YnOtGouj8QMD2LZhYQ) | 2:41 | 2024-01-19 | 2024-02-24 |
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-02-09 | 2024-07-20 |

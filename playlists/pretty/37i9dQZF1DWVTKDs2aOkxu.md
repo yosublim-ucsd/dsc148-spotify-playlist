@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Katie Gavin ft\. Mitski? Everyone remain calm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,683 likes - 82 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,661 likes - 82 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

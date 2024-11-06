@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > have you noticed? 🚬🧡
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,000 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,994 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 45 | [Sølvskje](https://open.spotify.com/track/6XuknnhHp56njzcXXnHuJg) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Sølvskje](https://open.spotify.com/album/6Wz4lDw5OdxQ34eeGrCVKW) | 2:17 |
 | 46 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 |
 | 47 | [Da vi var to](https://open.spotify.com/track/66mAcIc3VtfVTgae4gVeBV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Da vi var to](https://open.spotify.com/album/5kubT1Uexezpd5eejqQDgZ) | 3:07 |
-| 48 | [Sånne Som Oss](https://open.spotify.com/track/2c6gm3rPfI0XGgbvm2mK3y) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Sånne Som Oss](https://open.spotify.com/album/7puoXTrLHsfCvDfj1Rqj61) | 2:52 |
+| 48 | [Ingen andre \(feat\. Chris Holsten\)](https://open.spotify.com/track/6a2kA9madk3baDAq7QmPdb) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Ingen andre \(feat\. Chris Holsten\)](https://open.spotify.com/album/41qBtz2LfCm0J1GaDy1sa5) | 2:44 |
 | 49 | [hva om jeg slutta å bry meg](https://open.spotify.com/track/4X1EwzdgQpIIqzHO5HVYQ2) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR) | [hva om jeg slutta å bry meg](https://open.spotify.com/album/0r8iLgMrTIDdsa5ourX69b) | 3:06 |
-| 50 | [Ingen andre \(feat\. Chris Holsten\)](https://open.spotify.com/track/6a2kA9madk3baDAq7QmPdb) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Ingen andre \(feat\. Chris Holsten\)](https://open.spotify.com/album/41qBtz2LfCm0J1GaDy1sa5) | 2:44 |
+| 50 | [Sånne Som Oss](https://open.spotify.com/track/2c6gm3rPfI0XGgbvm2mK3y) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Sånne Som Oss](https://open.spotify.com/album/7puoXTrLHsfCvDfj1Rqj61) | 2:52 |
 
 Snapshot ID: `ZyQL8AAAAACo+zislrDNY8hfh1pnhyxM`

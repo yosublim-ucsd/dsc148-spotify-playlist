@@ -1,6 +1,6 @@
 {
   "description": "Nothing but classic blues. Cover: B.B. King",
-  "num_followers": 1944358,
+  "num_followers": 1944823,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
+        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
+        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
+      },
+      "artists": [
+        {
+          "name": "Derek & The Dominos",
+          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
+        }
+      ],
+      "duration_ms": 412960,
+      "name": "Have You Ever Loved A Woman?",
+      "url": "https://open.spotify.com/track/2ROJOb98GorxStuOuZWcGd"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
         "name": "Blues Breakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 212600,
       "name": "All Your Love - Stereo",
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
-        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
-      },
-      "artists": [
-        {
-          "name": "Derek & The Dominos",
-          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
-        }
-      ],
-      "duration_ms": 412960,
-      "name": "Have You Ever Loved A Woman?",
-      "url": "https://open.spotify.com/track/2ROJOb98GorxStuOuZWcGd"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -391,22 +391,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "To Know You Is To Love You",
-        "url": "https://open.spotify.com/album/1ZpLpF64iCjoc0XVrO1sEl"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 515000,
-      "name": "To Know You Is To Love You",
-      "url": "https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 188160,
       "name": "Rollin' Stone",
       "url": "https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "To Know You Is To Love You",
+        "url": "https://open.spotify.com/album/1ZpLpF64iCjoc0XVrO1sEl"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 515000,
+      "name": "To Know You Is To Love You",
+      "url": "https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY"
     },
     {
       "added_at": "2024-03-21 16:46:52",
@@ -519,22 +519,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 192706,
-      "name": "Junker's Blues",
-      "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "Live And Well",
         "url": "https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 517400,
       "name": "Why I Sing The Blues",
       "url": "https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 192706,
+      "name": "Junker's Blues",
+      "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/0zVx5Ao0pMlrZti8WVsbOx"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "This Is Clarence Carter",
-        "url": "https://open.spotify.com/album/7IWPPkijopGVrwWXRbmQKx"
-      },
-      "artists": [
-        {
-          "name": "Clarence Carter",
-          "url": "https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB"
-        }
-      ],
-      "duration_ms": 161520,
-      "name": "Part Time Love",
-      "url": "https://open.spotify.com/track/7p5Xpx7dd9wSPJF4Q4Nfbu"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Crawfish Fiesta (Remastered with Bonus Track)",
@@ -787,6 +771,22 @@
       "duration_ms": 194666,
       "name": "Big Chief - Remastered",
       "url": "https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "This Is Clarence Carter",
+        "url": "https://open.spotify.com/album/7IWPPkijopGVrwWXRbmQKx"
+      },
+      "artists": [
+        {
+          "name": "Clarence Carter",
+          "url": "https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB"
+        }
+      ],
+      "duration_ms": 161520,
+      "name": "Part Time Love",
+      "url": "https://open.spotify.com/track/7p5Xpx7dd9wSPJF4Q4Nfbu"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -839,22 +839,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Best Of Slim Harpo",
-        "url": "https://open.spotify.com/album/3odCmJBI5buTzwvQHi53MF"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "I'm A King Bee",
-      "url": "https://open.spotify.com/track/2uDIGXUD5hLdM7wzyl1PaR"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "The Essential Magic Sam: The Cobra and Chief Recordings 1957-1961",
         "url": "https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 176186,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Best Of Slim Harpo",
+        "url": "https://open.spotify.com/album/3odCmJBI5buTzwvQHi53MF"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "I'm A King Bee",
+      "url": "https://open.spotify.com/track/2uDIGXUD5hLdM7wzyl1PaR"
     },
     {
       "added_at": "2018-03-29 19:44:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ChUJAjulrsBHuGJQJqiTe.md) - [plain]
 
 > In memory of \[removed for privacy\]
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 2 likes - 17 songs - 1 hr 3 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 2 likes - 18 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,5 +25,6 @@ pretty - [cumulative](/playlists/cumulative/4ChUJAjulrsBHuGJQJqiTe.md) - [plain]
 | 15 | [Jenny III](https://open.spotify.com/track/3oIErIfuvGEHXnAdITuIVb) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jenny from Thebes](https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT) | 2:26 |
 | 16 | [Cowboy Tears](https://open.spotify.com/track/70XhaWZd0PsZgpEgqJhUgG) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:57 |
 | 17 | [Grenade Jumper](https://open.spotify.com/track/3jsNPTt6LUyB2srOcZaq47) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 2:58 |
+| 18 | [This Year](https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 3:52 |
 
-Snapshot ID: `AAAAGHpdyoGpWmYLrB8+2cRW8SUjwy1e`
+Snapshot ID: `AAAAGTHuQnsbskEpzEbiOXky04gKuTN5`

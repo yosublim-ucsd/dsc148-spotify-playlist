@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 353259,
+  "num_followers": 353331,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
+        "name": "Walked In The Room",
+        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Walked In The Room",
+      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
       },
@@ -859,38 +875,6 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Walked In The Room",
-        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Walked In The Room",
-      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 196975,
-      "name": "High",
-      "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
         "name": "North",
         "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 222000,
       "name": "Middle of Things, Beautiful Wife (feat. Xavier Oma\u0308r))",
       "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 196975,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "OUR LOVE (80'S)",
-        "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
-      },
-      "artists": [
-        {
-          "name": "YOURS",
-          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
-        }
-      ],
-      "duration_ms": 179323,
-      "name": "OUR LOVE (80'S)",
-      "url": "https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 218973,
       "name": "Naked",
       "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "OUR LOVE (80'S)",
+        "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
+      },
+      "artists": [
+        {
+          "name": "YOURS",
+          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
+        }
+      ],
+      "duration_ms": 179323,
+      "name": "OUR LOVE (80'S)",
+      "url": "https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Golden Hour, Vol. 1",
-        "url": "https://open.spotify.com/album/5cGoUvxqjYQB2VMDaLURmK"
-      },
-      "artists": [
-        {
-          "name": "Santino Le Saint",
-          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
-        }
-      ],
-      "duration_ms": 204621,
-      "name": "Dr. Knockout",
-      "url": "https://open.spotify.com/track/5sAW0PuBdaIysBOlvaobTH"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
         "name": "Cactus Water",
         "url": "https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 204240,
       "name": "Cactus Water",
       "url": "https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "Golden Hour, Vol. 1",
+        "url": "https://open.spotify.com/album/5cGoUvxqjYQB2VMDaLURmK"
+      },
+      "artists": [
+        {
+          "name": "Santino Le Saint",
+          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
+        }
+      ],
+      "duration_ms": 204621,
+      "name": "Dr. Knockout",
+      "url": "https://open.spotify.com/track/5sAW0PuBdaIysBOlvaobTH"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1111,8 +1111,8 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Shaken To My Soul (feat. Ruti)",
-        "url": "https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L"
+        "name": "Back 2 Me (feat. Sadie Walker)",
+        "url": "https://open.spotify.com/album/1U6hULxO4Abs7fgvq1uRQ3"
       },
       "artists": [
         {
@@ -1120,13 +1120,29 @@
           "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
         },
         {
-          "name": "Ruti",
-          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
+          "name": "Sadie Walker",
+          "url": "https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV"
         }
       ],
-      "duration_ms": 211208,
-      "name": "Shaken To My Soul (feat. Ruti)",
-      "url": "https://open.spotify.com/track/4R6zTX10cS2t8CLIhDkolC"
+      "duration_ms": 253221,
+      "name": "Back 2 Me (feat. Sadie Walker)",
+      "url": "https://open.spotify.com/track/2DMAgVaNhxgnTi4AOlfjCw"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "Ma Jo Lo",
+        "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
+      },
+      "artists": [
+        {
+          "name": "Midas the Jagaban",
+          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "Ma Jo Lo",
+      "url": "https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1151,22 +1167,6 @@
       "duration_ms": 230064,
       "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
       "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
-        "name": "Ma Jo Lo",
-        "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
-      },
-      "artists": [
-        {
-          "name": "Midas the Jagaban",
-          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "Ma Jo Lo",
-      "url": "https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1263,8 +1263,8 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Back 2 Me (feat. Sadie Walker)",
-        "url": "https://open.spotify.com/album/1U6hULxO4Abs7fgvq1uRQ3"
+        "name": "Shaken To My Soul (feat. Ruti)",
+        "url": "https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L"
       },
       "artists": [
         {
@@ -1272,13 +1272,13 @@
           "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
         },
         {
-          "name": "Sadie Walker",
-          "url": "https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV"
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
         }
       ],
-      "duration_ms": 253221,
-      "name": "Back 2 Me (feat. Sadie Walker)",
-      "url": "https://open.spotify.com/track/2DMAgVaNhxgnTi4AOlfjCw"
+      "duration_ms": 211208,
+      "name": "Shaken To My Soul (feat. Ruti)",
+      "url": "https://open.spotify.com/track/4R6zTX10cS2t8CLIhDkolC"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1295,6 +1295,26 @@
       "duration_ms": 171546,
       "name": "Things You Didn't Know",
       "url": "https://open.spotify.com/track/7HD9y0OUwitJUbZubKNX1k"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1"
+      },
+      "artists": [
+        {
+          "name": "oh caroline",
+          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
+        },
+        {
+          "name": "Spencer Hunt",
+          "url": "https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S"
+        }
+      ],
+      "duration_ms": 179809,
+      "name": "Much",
+      "url": "https://open.spotify.com/track/3wwK9BmSigIs5UMCVHI0HU"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1319,26 +1339,6 @@
       "duration_ms": 184497,
       "name": "Daydreaming - Sgt Slick Remix",
       "url": "https://open.spotify.com/track/1FCBtlxyee0yiZn0EnxtTk"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1"
-      },
-      "artists": [
-        {
-          "name": "oh caroline",
-          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
-        },
-        {
-          "name": "Spencer Hunt",
-          "url": "https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S"
-        }
-      ],
-      "duration_ms": 179809,
-      "name": "Much",
-      "url": "https://open.spotify.com/track/3wwK9BmSigIs5UMCVHI0HU"
     },
     {
       "added_at": "2024-10-25 15:55:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > 22simba in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,038 likes - 55 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,040 likes - 55 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 41 | [Nemmeno Mia Madre](https://open.spotify.com/track/5YtuHT8K8GTWMhEr9RmWW3) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB) | [Nemmeno Mia Madre](https://open.spotify.com/album/4VHudNS9aDgjLarAHCVIIa) | 3:14 |
 | 42 | [PROVA VIVENTE](https://open.spotify.com/track/5NnRhwXUVIc7EAxnJ9e7Hy) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [PROVA VIVENTE](https://open.spotify.com/album/3LtEbDNS4fQzu4NWYsl6tl) | 2:06 |
 | 43 | [BOY](https://open.spotify.com/track/56Mxkk2FpNTkg9cCoRXjRs) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka), [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI) | [BOY](https://open.spotify.com/album/20XcplC26XNhRAabYXk9K2) | 2:58 |
-| 44 | [Ragazzetto](https://open.spotify.com/track/7CHBnQwgD9GQGXXrjnHJch) | [Cana](https://open.spotify.com/artist/00l3k6xqdOgeC7F4drpy89) | [Ragazzetto](https://open.spotify.com/album/2hUgUMxrVBkUyhfQClvuCg) | 2:17 |
+| 44 | [RAGAZZETTO](https://open.spotify.com/track/7CHBnQwgD9GQGXXrjnHJch) | [Cana](https://open.spotify.com/artist/00l3k6xqdOgeC7F4drpy89) | [RAGAZZETTO](https://open.spotify.com/album/2hUgUMxrVBkUyhfQClvuCg) | 2:17 |
 | 45 | [40°C](https://open.spotify.com/track/7G9xXlMMSGYgF9uPEVbeF8) | [b4ze](https://open.spotify.com/artist/6Mh1nUtD5kZghWvdso2SC8) | [40°C](https://open.spotify.com/album/1gUkPILSid28zZkJsPGypu) | 1:57 |
 | 46 | [BROKER](https://open.spotify.com/track/6GbELElaCiUeok1zEdcCBF) | [Mocro Yakuza](https://open.spotify.com/artist/3To9zBWMwJt0ohLMHPxxSV) | [BROKER](https://open.spotify.com/album/1DRBrhYobmGDDfRomHJPvz) | 1:37 |
 | 47 | [MILANOBELLADADIO](https://open.spotify.com/track/3zuAkAuftpDMWOBgVBjI1F) | [Raspyy](https://open.spotify.com/artist/06aQxTBpi11b8LTWNw4yCd) | [MILANOBELLADADIO](https://open.spotify.com/album/0QrUu2fTC9RzTsYuzha1XL) | 1:54 |

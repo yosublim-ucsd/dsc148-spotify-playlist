@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland.
 
-144 songs - 7 hr 8 min
+145 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Stranger](https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Stranger](https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL) | 2:42 | 2024-11-01 |  |
 | [SucieriaZH](https://open.spotify.com/track/1n5vXSrZ0xbFRG1JFi1L7t) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [SucieriaZH](https://open.spotify.com/album/0HOt4Q0nybLug5MreioV5j) | 2:54 | 2024-06-27 | 2024-10-04 |
 | [Surfer Girl](https://open.spotify.com/track/3WLqSWEgz0Dxo2D5qKfXAP) | [Gabriel Benedek](https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu) | [Surfer Girl](https://open.spotify.com/album/7AUCY4FBxSUUzHp2YX5nkg) | 3:39 | 2024-06-27 | 2024-10-04 |
-| [Sweet Nothing](https://open.spotify.com/track/1uAZhciIvjilQJWg4e30w4) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I'm Not Always Sad, Sometimes I'm Angry](https://open.spotify.com/album/4tFDkjZhcwOAiZAsGBcTtO) | 3:20 | 2024-11-01 |  |
+| [Sweet Nothing](https://open.spotify.com/track/1Sh5Sch6XuUojE5eH0innu) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I'm Not Always Sad, Sometimes I'm Angry](https://open.spotify.com/album/4QYNec3HTSxq2ghYSrEBv2) | 3:20 | 2024-11-05 |  |
+| [Sweet Nothing](https://open.spotify.com/track/1uAZhciIvjilQJWg4e30w4) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I'm Not Always Sad, Sometimes I'm Angry](https://open.spotify.com/album/4tFDkjZhcwOAiZAsGBcTtO) | 3:20 | 2024-11-01 | 2024-11-06 |
 | [that life](https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [i always remember all of my dreams](https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq) | 2:51 | 2024-07-19 |  |
 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-06-27 | 2024-10-04 |
 | [theremin](https://open.spotify.com/track/0qqtydxO4KMSnhww9PlrqQ) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [theremin](https://open.spotify.com/album/7pYNdcVuPsnHE6KzsG33a1) | 2:41 | 2024-11-01 |  |

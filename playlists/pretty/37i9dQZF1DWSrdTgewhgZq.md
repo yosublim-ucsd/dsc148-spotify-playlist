@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 
 ### [DOPE.](https://open.spotify.com/playlist/37i9dQZF1DWSrdTgewhgZq)
 
-> The most flammable playlist ever\. Travis Scott spitting fire 🔥
+> The most flammable playlist ever\. Future & Travis Scott spitting fire 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,104,844 likes - 101 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,104,854 likes - 101 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 |
-| 2 | [Words2LiveBy \(feat\. Earl Sweatshirt\)](https://open.spotify.com/track/6legbS59rPTHhNRrVdABTk) | [El Cousteau](https://open.spotify.com/artist/6jas9NK79dEF6hU1LvmfHB), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Words2LiveBy \(feat\. Earl Sweatshirt\)](https://open.spotify.com/album/7BKRDai83KpPU96CA586gV) | 2:16 |
-| 3 | [Beverly Drive](https://open.spotify.com/track/0OkPSNqgtzOZUiXXQmHKWX) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Beverly Drive](https://open.spotify.com/album/6LIdgbrlI7m0IQUB2pyFac) | 4:08 |
-| 4 | [SOUTH OF FRANCE \- REMIX](https://open.spotify.com/track/5BjYmIIW8NIwItLPGjqKqP) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MIXTAPE PLUTO](https://open.spotify.com/album/5IcsHifVLGG0emBPlMZacj) | 3:03 |
+| 1 | [SOUTH OF FRANCE \- REMIX](https://open.spotify.com/track/5BjYmIIW8NIwItLPGjqKqP) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MIXTAPE PLUTO](https://open.spotify.com/album/5IcsHifVLGG0emBPlMZacj) | 3:03 |
+| 2 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 |
+| 3 | [Words2LiveBy \(feat\. Earl Sweatshirt\)](https://open.spotify.com/track/6legbS59rPTHhNRrVdABTk) | [El Cousteau](https://open.spotify.com/artist/6jas9NK79dEF6hU1LvmfHB), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Words2LiveBy \(feat\. Earl Sweatshirt\)](https://open.spotify.com/album/7BKRDai83KpPU96CA586gV) | 2:16 |
+| 4 | [Beverly Drive](https://open.spotify.com/track/0OkPSNqgtzOZUiXXQmHKWX) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Beverly Drive](https://open.spotify.com/album/6LIdgbrlI7m0IQUB2pyFac) | 4:08 |
 | 5 | [HIM ALL ALONG](https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM ALL ALONG](https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR) | 2:38 |
 | 6 | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/album/25gXlZRYlLdjd3iOjB0FDQ) | 3:10 |
 | 7 | [One By One](https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [One By One](https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K) | 2:59 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 | 100 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 |
 | 101 | [Pussy & Millions \(feat\. Travis Scott\)](https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:02 |
 
-Snapshot ID: `ZyRuYAAAAADIVxCO9N/X2P9IcK4xYexW`
+Snapshot ID: `Zyp6cgAAAADtUyOlf5g25XjKVK/r9Fhi`

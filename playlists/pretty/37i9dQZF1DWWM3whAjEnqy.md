@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 
 > Sun, sand, salt water and the perfect songs to match.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,768 likes - 85 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,766 likes - 85 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,15 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 36 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
 | 37 | [On Our Own](https://open.spotify.com/track/5pLgio8GlWLCwaZkUTtboI) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [14 Steps To A Better You](https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY) | 3:36 |
 | 38 | [Hold Me](https://open.spotify.com/track/1gSHyTYbpazDVGnzGtn4jn) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT) | 3:07 |
-| 39 | [Lonely](https://open.spotify.com/track/75fAK9KhLkSB9FAqQdhN7N) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Lonely](https://open.spotify.com/album/6wTILmJx9wwnM0ppScFLxu) | 3:31 |
-| 40 | [Wavy](https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Wavy](https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk) | 3:45 |
-| 41 | [Grizzly Bear](https://open.spotify.com/track/2BPI9yfqVnlCUYnRYnBkdL) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Angus & Julia Stone \(Deluxe\)](https://open.spotify.com/album/6w97X470r5gNmmfBkwPm04) | 4:08 |
+| 39 | [Wavy](https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Wavy](https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk) | 3:45 |
+| 40 | [Grizzly Bear](https://open.spotify.com/track/2BPI9yfqVnlCUYnRYnBkdL) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Angus & Julia Stone \(Deluxe\)](https://open.spotify.com/album/6w97X470r5gNmmfBkwPm04) | 4:08 |
+| 41 | [Lonely](https://open.spotify.com/track/75fAK9KhLkSB9FAqQdhN7N) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Lonely](https://open.spotify.com/album/6wTILmJx9wwnM0ppScFLxu) | 3:31 |
 | 42 | [London Still](https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi) | [The Waifs](https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz) | [Up All Night](https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n) | 3:46 |
 | 43 | [Feeding Line](https://open.spotify.com/track/5PRN8ql17R8rcKnHo6Ajlk) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Moonfire](https://open.spotify.com/album/3UsAObHERCrshH20RiicHG) | 4:28 |
 | 44 | [Simply Paradise](https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Simply Paradise](https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM) | 2:35 |
-| 45 | [The Summer](https://open.spotify.com/track/2xN6Xkcx09kPPlNR7gPZRV) | [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [Chimney's Afire](https://open.spotify.com/album/4PucMCxh5r2SNaAtZNcvzw) | 3:23 |
-| 46 | [Be About You](https://open.spotify.com/track/29HSkfe5ITejb0MXhroHtG) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Sponge Cake](https://open.spotify.com/album/4kN92M0macg1SPS4aeq62i) | 4:08 |
-| 47 | [Blue Eyes](https://open.spotify.com/track/0JIGBObzd2N4gv8xDeJIQz) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [Blue Eyes](https://open.spotify.com/album/5P5fEwWvPO5aAFggmkaCvG) | 3:57 |
+| 45 | [Blue Eyes](https://open.spotify.com/track/0JIGBObzd2N4gv8xDeJIQz) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [Blue Eyes](https://open.spotify.com/album/5P5fEwWvPO5aAFggmkaCvG) | 3:57 |
+| 46 | [The Summer](https://open.spotify.com/track/2xN6Xkcx09kPPlNR7gPZRV) | [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [Chimney's Afire](https://open.spotify.com/album/4PucMCxh5r2SNaAtZNcvzw) | 3:23 |
+| 47 | [Be About You](https://open.spotify.com/track/29HSkfe5ITejb0MXhroHtG) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Sponge Cake](https://open.spotify.com/album/4kN92M0macg1SPS4aeq62i) | 4:08 |
 | 48 | [Mystik](https://open.spotify.com/track/0NnVzBW6TJLaEzcyXjqRDH) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mystik](https://open.spotify.com/album/00yAwDfu7JLRlhvHSchMzu) | 4:09 |
 | 49 | [Talk It Out](https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6) | 3:10 |
 | 50 | [Lady Blue](https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Milyakburra](https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp) | 2:51 |
@@ -84,10 +84,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 74 | [God Forgot](https://open.spotify.com/track/5Pmvf3koZefZxHgOvTIGlQ) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [LO LA RU](https://open.spotify.com/album/7a6mqtb2gc5vM4RkfCVX7E) | 3:32 |
 | 75 | [Leave That](https://open.spotify.com/track/3YuAWFpVawNf23ZN7OlfD8) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Give It Up](https://open.spotify.com/album/1A3A8WdrkktsDANff6H9mt) | 3:20 |
 | 76 | [These Days](https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [These Days](https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS) | 3:23 |
-| 77 | [California](https://open.spotify.com/track/6OBFODmA2J6gRXtuiel6U2) | [Nick Cunningham](https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt) | [California](https://open.spotify.com/album/6BUjt6TadgjtSssORlZypB) | 3:48 |
+| 77 | [Think About You](https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [Caught Up In The Wire, No More](https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC) | 3:43 |
 | 78 | [Free](https://open.spotify.com/track/1OPlx5qqkPUp4VMxFLVhIL) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [Blue Sky Blue](https://open.spotify.com/album/2oJBk6QGkGjxb3d1y4LX07) | 3:35 |
-| 79 | [Inappropriate Behaviour](https://open.spotify.com/track/0Ma58HrmhNi0UrOCnAXXBt) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Inappropriate Behaviour](https://open.spotify.com/album/5ba8H8cdgeBRItvryKyzoY) | 4:13 |
-| 80 | [Think About You](https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [Caught Up In The Wire, No More](https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC) | 3:43 |
+| 79 | [California](https://open.spotify.com/track/6OBFODmA2J6gRXtuiel6U2) | [Nick Cunningham](https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt) | [California](https://open.spotify.com/album/6BUjt6TadgjtSssORlZypB) | 3:48 |
+| 80 | [Inappropriate Behaviour](https://open.spotify.com/track/0Ma58HrmhNi0UrOCnAXXBt) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Inappropriate Behaviour](https://open.spotify.com/album/5ba8H8cdgeBRItvryKyzoY) | 4:13 |
 | 81 | [Palo Alto](https://open.spotify.com/track/0zSPHyEar2FuCSKP2BD3FF) | [Jack River](https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS) | [Palo Alto](https://open.spotify.com/album/5z0zjbNK6hYM2FC3tWXwlp) | 3:19 |
 | 82 | [Middle Of The Hill](https://open.spotify.com/track/0MIoXOgLcUKRJEtb1rKh17) | [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [Memories & Dust](https://open.spotify.com/album/0ovM6UlAXcNWgLygQfX6xE) | 2:27 |
 | 83 | [As You Go](https://open.spotify.com/track/0epc6FCUxWAOYI5q7nyIQu) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [As You Go](https://open.spotify.com/album/3F9HI9gUtpku7E05sz6O4K) | 3:00 |

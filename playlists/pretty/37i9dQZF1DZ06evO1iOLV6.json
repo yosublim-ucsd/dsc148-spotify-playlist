@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 10237,
+  "num_followers": 10244,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAACmfb+8h/pcoeetWpcxFYFt",
+  "snapshot_id": "ZygOgAAAAADqnQAcHfcTDBWwAka1g2v2",
   "tracks": [
     {
       "added_at": null,
@@ -223,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omo Charlie Champagne Vol.1",
-        "url": "https://open.spotify.com/album/2c8Mf9ScYdKrb9foJiNaGe"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 195030,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/1Am00a8Tk3uEaMMToIYNQo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jah Eli Jah",
         "url": "https://open.spotify.com/album/0NB8X5tOAMMgU4lDWei9B4"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 233764,
       "name": "Jah Eli Jah",
       "url": "https://open.spotify.com/track/1PLOmSVGYrTRycWnUAWIaF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Omo Charlie Champagne Vol.1",
+        "url": "https://open.spotify.com/album/2c8Mf9ScYdKrb9foJiNaGe"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 195030,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/1Am00a8Tk3uEaMMToIYNQo"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma girl",
-        "url": "https://open.spotify.com/album/6QckTJtuiIKNFFlymaxaos"
-      },
-      "artists": [
-        {
-          "name": "Toofan",
-          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Ma girl",
-      "url": "https://open.spotify.com/track/2CUfR68XB0qSpCA5YXFbkO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God Over Everything",
         "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
       },
@@ -643,22 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+        "name": "Ma girl",
+        "url": "https://open.spotify.com/album/6QckTJtuiIKNFFlymaxaos"
       },
       "artists": [
         {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+          "name": "Toofan",
+          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
         },
         {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 205450,
-      "name": "Mon B\u00e9b\u00e9 (feat. Flavour)",
-      "url": "https://open.spotify.com/track/5z68NJKC2MnCydcfIjAqCY"
+      "duration_ms": 207272,
+      "name": "Ma girl",
+      "url": "https://open.spotify.com/track/2CUfR68XB0qSpCA5YXFbkO"
     },
     {
       "added_at": null,
@@ -679,6 +659,26 @@
       "duration_ms": 214769,
       "name": "Sing My Name",
       "url": "https://open.spotify.com/track/6zG9dqraRgFTDHxtYhLbQh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "duration_ms": 205450,
+      "name": "Mon B\u00e9b\u00e9 (feat. Flavour)",
+      "url": "https://open.spotify.com/track/5z68NJKC2MnCydcfIjAqCY"
     },
     {
       "added_at": null,
@@ -955,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONLY ONE KING",
-        "url": "https://open.spotify.com/album/0u649Gff5qgywplGmwA74P"
-      },
-      "artists": [
-        {
-          "name": "Alikiba",
-          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 205137,
-      "name": "Bwana Mdogo (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/7MsF2wr8ZVkZoT6Xi5BQ14"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wilmer",
         "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 224597,
       "name": "Wilmer (feat. Bera)",
       "url": "https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ONLY ONE KING",
+        "url": "https://open.spotify.com/album/0u649Gff5qgywplGmwA74P"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 205137,
+      "name": "Bwana Mdogo (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/7MsF2wr8ZVkZoT6Xi5BQ14"
     },
     {
       "added_at": null,

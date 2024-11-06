@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 
 > This is Rod Wave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,876 likes - 38 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,972 likes - 38 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 37 | [Dark Conversation](https://open.spotify.com/track/5lQvcmJHBcCHMFEusim8bH) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Ghetto Gospel](https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K) | 2:24 |
 | 38 | [Changing](https://open.spotify.com/track/4vUGwPNjByeo5nFuyxZoy0) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly](https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk) | 3:00 |
 
-Snapshot ID: `Zya9AAAAAACYZfMhbmtM62QBvvu1y6wF`
+Snapshot ID: `ZygOgAAAAADVrdF2HsrvMSXRtRU4nITn`

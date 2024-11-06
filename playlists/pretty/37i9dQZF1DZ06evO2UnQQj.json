@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAADqOSTVlPDCCi0wMLVVOeJz",
+  "snapshot_id": "ZygOgAAAAACl+GjqZccMkcRz59NWAo76",
   "tracks": [
     {
       "added_at": null,
@@ -427,30 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Filhas do Improv\u00e1vel",
-        "url": "https://open.spotify.com/album/10VElbFY3stDclLObB9NZ1"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Rizzi Get Busy",
-          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "Filhas do Improv\u00e1vel",
-      "url": "https://open.spotify.com/track/1PRtKlhyg4iHT3827dGHvd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bendito",
         "url": "https://open.spotify.com/album/4cW3OMHQpXncm0EXOSD9Fs"
       },
@@ -479,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jersey Culture BR",
-        "url": "https://open.spotify.com/album/2kg6KUU2bsF8Zyuy8kr6yG"
+        "name": "Filhas do Improv\u00e1vel",
+        "url": "https://open.spotify.com/album/10VElbFY3stDclLObB9NZ1"
       },
       "artists": [
         {
@@ -488,13 +464,17 @@
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         },
         {
-          "name": "RealLamak",
-          "url": "https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb"
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Rizzi Get Busy",
+          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
         }
       ],
-      "duration_ms": 119172,
-      "name": "Jersey Culture BR",
-      "url": "https://open.spotify.com/track/4JDLzoBc8uxuGgK0scCksH"
+      "duration_ms": 217142,
+      "name": "Filhas do Improv\u00e1vel",
+      "url": "https://open.spotify.com/track/1PRtKlhyg4iHT3827dGHvd"
     },
     {
       "added_at": null,
@@ -515,6 +495,26 @@
       "duration_ms": 141600,
       "name": "Inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/20DCYshCWu3olV86PDjT1K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jersey Culture BR",
+        "url": "https://open.spotify.com/album/2kg6KUU2bsF8Zyuy8kr6yG"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "RealLamak",
+          "url": "https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb"
+        }
+      ],
+      "duration_ms": 119172,
+      "name": "Jersey Culture BR",
+      "url": "https://open.spotify.com/track/4JDLzoBc8uxuGgK0scCksH"
     },
     {
       "added_at": null,
@@ -855,26 +855,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Filha do Sol",
-        "url": "https://open.spotify.com/album/1gViplzslh7HqURT2ghNEV"
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/2xB8dNtsp7rZ2iKNd2kRLh"
       },
       "artists": [
         {
+          "name": "PH Original",
+          "url": "https://open.spotify.com/artist/1vxO2TvhCnd9dhox0Rpgf1"
+        },
+        {
+          "name": "Thom Verardi",
+          "url": "https://open.spotify.com/artist/6NYaulgbUTHrGGJyaRcjAw"
+        },
+        {
           "name": "Clara Lima",
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Slim Beats",
-          "url": "https://open.spotify.com/artist/5r1fFIiucORVCausPSAF5x"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         }
       ],
-      "duration_ms": 112494,
-      "name": "Filha do Sol",
-      "url": "https://open.spotify.com/track/5lKw7lje9mmax3ohPIKPsS"
+      "duration_ms": 153376,
+      "name": "Tulipa",
+      "url": "https://open.spotify.com/track/35zut0yIY9eER3QAAa11Rr"
     },
     {
       "added_at": null,
@@ -899,6 +899,86 @@
       "duration_ms": 164000,
       "name": "Faturamento",
       "url": "https://open.spotify.com/track/0NbUmXgjKRvQGEL9RPxLSs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Transgress\u00e3o",
+        "url": "https://open.spotify.com/album/35FcgAKlBZl6sgChnxzv8n"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        }
+      ],
+      "duration_ms": 192098,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/6vcZDuXKzhABEmKM1pFTFr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Som Que Vem Da Alma",
+        "url": "https://open.spotify.com/album/0aislI5bnqq7T3tcz9NIgr"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Teo Guedx",
+          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Tr\u00e2nsito da Cidade",
+      "url": "https://open.spotify.com/track/50mIUQoOsK3JRmvqyHMnkC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Em Segredo",
+        "url": "https://open.spotify.com/album/03s6FpNgbgxJOeJuKeeVT1"
+      },
+      "artists": [
+        {
+          "name": "Carol Dantas",
+          "url": "https://open.spotify.com/artist/5HcqhT2a3Oa3Vb4arOjrOw"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        }
+      ],
+      "duration_ms": 153894,
+      "name": "Em Segredo",
+      "url": "https://open.spotify.com/track/3GTg4Lh4XuRaJNH9GyJ0gU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jersey Culture BR",
+        "url": "https://open.spotify.com/album/2kg6KUU2bsF8Zyuy8kr6yG"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "RealLamak",
+          "url": "https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb"
+        }
+      ],
+      "duration_ms": 129729,
+      "name": "Chuva de Bala",
+      "url": "https://open.spotify.com/track/1NylSwWpTFtlAXSxhlZH0C"
     },
     {
       "added_at": null,
@@ -931,8 +1011,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Som Que Vem Da Alma",
-        "url": "https://open.spotify.com/album/0aislI5bnqq7T3tcz9NIgr"
+        "name": "Filha do Sol",
+        "url": "https://open.spotify.com/album/1gViplzslh7HqURT2ghNEV"
       },
       "artists": [
         {
@@ -940,97 +1020,17 @@
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         },
         {
-          "name": "Teo Guedx",
-          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Tr\u00e2nsito da Cidade",
-      "url": "https://open.spotify.com/track/50mIUQoOsK3JRmvqyHMnkC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Transgress\u00e3o",
-        "url": "https://open.spotify.com/album/35FcgAKlBZl6sgChnxzv8n"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+          "name": "Slim Beats",
+          "url": "https://open.spotify.com/artist/5r1fFIiucORVCausPSAF5x"
         },
         {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         }
       ],
-      "duration_ms": 192098,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/6vcZDuXKzhABEmKM1pFTFr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jersey Culture BR",
-        "url": "https://open.spotify.com/album/2kg6KUU2bsF8Zyuy8kr6yG"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "RealLamak",
-          "url": "https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb"
-        }
-      ],
-      "duration_ms": 129729,
-      "name": "Chuva de Bala",
-      "url": "https://open.spotify.com/track/1NylSwWpTFtlAXSxhlZH0C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Em Segredo",
-        "url": "https://open.spotify.com/album/03s6FpNgbgxJOeJuKeeVT1"
-      },
-      "artists": [
-        {
-          "name": "Carol Dantas",
-          "url": "https://open.spotify.com/artist/5HcqhT2a3Oa3Vb4arOjrOw"
-        },
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        }
-      ],
-      "duration_ms": 153894,
-      "name": "Em Segredo",
-      "url": "https://open.spotify.com/track/3GTg4Lh4XuRaJNH9GyJ0gU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/2xB8dNtsp7rZ2iKNd2kRLh"
-      },
-      "artists": [
-        {
-          "name": "PH Original",
-          "url": "https://open.spotify.com/artist/1vxO2TvhCnd9dhox0Rpgf1"
-        },
-        {
-          "name": "Thom Verardi",
-          "url": "https://open.spotify.com/artist/6NYaulgbUTHrGGJyaRcjAw"
-        },
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        }
-      ],
-      "duration_ms": 153376,
-      "name": "Tulipa",
-      "url": "https://open.spotify.com/track/35zut0yIY9eER3QAAa11Rr"
+      "duration_ms": 112494,
+      "name": "Filha do Sol",
+      "url": "https://open.spotify.com/track/5lKw7lje9mmax3ohPIKPsS"
     },
     {
       "added_at": null,
@@ -1059,6 +1059,30 @@
       "duration_ms": 232806,
       "name": "Mente Criminosa",
       "url": "https://open.spotify.com/track/6dDUANFSGkfYoyRyri4emg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barras de Ouro",
+        "url": "https://open.spotify.com/album/67NHUQKVxpJQRiU1EuEdFb"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Rizzi Get Busy",
+          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        }
+      ],
+      "duration_ms": 172754,
+      "name": "Barras de Ouro",
+      "url": "https://open.spotify.com/track/3gOxkz6fpKXzhlEJ598sKO"
     },
     {
       "added_at": null,
@@ -1123,26 +1147,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sempre Visando o Progresso",
-        "url": "https://open.spotify.com/album/5ru7vWnmKXYF67WjjxIjmi"
+        "name": "SOMOS",
+        "url": "https://open.spotify.com/album/1gwwCCq6sdN2OX8H7dAuKg"
       },
       "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "Donces\u00e3o",
+          "url": "https://open.spotify.com/artist/7D5NN6IlLcm4Mo2QPqAQFx"
+        },
         {
           "name": "Clara Lima",
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         },
         {
-          "name": "WillsBife",
-          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/1nBhbXeNBvmQV1ZQ6iGdUd"
         },
         {
-          "name": "DNASTY",
-          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
+          "name": "Tracie",
+          "url": "https://open.spotify.com/artist/7hCbWGwjC1egF3UAJOtfk3"
+        },
+        {
+          "name": "Gustavo Treze",
+          "url": "https://open.spotify.com/artist/21TTiuQIM10WcAm3GJrPo1"
+        },
+        {
+          "name": "Torres",
+          "url": "https://open.spotify.com/artist/454gFLEvbdE3DuF5O0TksU"
         }
       ],
-      "duration_ms": 194418,
-      "name": "Sempre Visando o Progresso",
-      "url": "https://open.spotify.com/track/4Z4ah8IAeZqzSW8Efz5Yq6"
+      "duration_ms": 457683,
+      "name": "Trof\u00e9u",
+      "url": "https://open.spotify.com/track/3fHg8oNVWCV5InUmgwPjqD"
     },
     {
       "added_at": null,
@@ -1191,74 +1235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barras de Ouro",
-        "url": "https://open.spotify.com/album/67NHUQKVxpJQRiU1EuEdFb"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Rizzi Get Busy",
-          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        }
-      ],
-      "duration_ms": 172754,
-      "name": "Barras de Ouro",
-      "url": "https://open.spotify.com/track/3gOxkz6fpKXzhlEJ598sKO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOMOS",
-        "url": "https://open.spotify.com/album/1gwwCCq6sdN2OX8H7dAuKg"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "Donces\u00e3o",
-          "url": "https://open.spotify.com/artist/7D5NN6IlLcm4Mo2QPqAQFx"
-        },
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/1nBhbXeNBvmQV1ZQ6iGdUd"
-        },
-        {
-          "name": "Tracie",
-          "url": "https://open.spotify.com/artist/7hCbWGwjC1egF3UAJOtfk3"
-        },
-        {
-          "name": "Gustavo Treze",
-          "url": "https://open.spotify.com/artist/21TTiuQIM10WcAm3GJrPo1"
-        },
-        {
-          "name": "Torres",
-          "url": "https://open.spotify.com/artist/454gFLEvbdE3DuF5O0TksU"
-        }
-      ],
-      "duration_ms": 457683,
-      "name": "Trof\u00e9u",
-      "url": "https://open.spotify.com/track/3fHg8oNVWCV5InUmgwPjqD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Al\u00e9m",
         "url": "https://open.spotify.com/album/6lphcExMxtb7BIIwrOFPTB"
       },
@@ -1279,8 +1255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Som Que Vem Da Alma",
-        "url": "https://open.spotify.com/album/0aislI5bnqq7T3tcz9NIgr"
+        "name": "Sempre Visando o Progresso",
+        "url": "https://open.spotify.com/album/5ru7vWnmKXYF67WjjxIjmi"
       },
       "artists": [
         {
@@ -1288,17 +1264,37 @@
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         },
         {
-          "name": "Teo Guedx",
-          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
+          "name": "WillsBife",
+          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
         },
         {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+          "name": "DNASTY",
+          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Vai Brilhar",
-      "url": "https://open.spotify.com/track/4w5BfrRV73OebK2Ui4TFN1"
+      "duration_ms": 194418,
+      "name": "Sempre Visando o Progresso",
+      "url": "https://open.spotify.com/track/4Z4ah8IAeZqzSW8Efz5Yq6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fogo no Baile",
+        "url": "https://open.spotify.com/album/642vsEXxR4woIyJvAChCna"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Aldeia Records",
+          "url": "https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM"
+        }
+      ],
+      "duration_ms": 143773,
+      "name": "Fogo no Baile",
+      "url": "https://open.spotify.com/track/3yKaT3xxvxiHShtgiSHLlf"
     }
   ],
   "unique_name": "This Is Clara Lima",

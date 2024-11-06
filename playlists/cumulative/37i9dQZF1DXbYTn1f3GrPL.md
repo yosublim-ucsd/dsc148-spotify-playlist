@@ -4,7 +4,7 @@
 
 > Música serena de piano para dormir.
 
-259 songs - 11 hr 9 min
+261 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Alone In The Night](https://open.spotify.com/track/0JBwZWPQqCQaEkbpbs8cET) | [Ambient Gate Music](https://open.spotify.com/artist/5w3faOdrOWHXNLBxUZCmpM), [Raymoon](https://open.spotify.com/artist/4Bs2tH5kLn5baLxIRyWF74) | [Hypnotic Tune](https://open.spotify.com/album/1Y6zf7Hh7jnhp5y3Y5qksK) | 1:09 | 2023-04-03 | 2023-08-22 |
 | [am ersten Tag](https://open.spotify.com/track/2gwhISMkdlhEqEP60P93Z1) | [Hugo Vanbrooke](https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH) | [Time Line](https://open.spotify.com/album/40ZYcEHUVHnjvbFEAkj2ns) | 2:10 | 2023-04-03 |  |
 | [Amabile](https://open.spotify.com/track/3145XZiKmaE34sybk99dWc) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Amabile](https://open.spotify.com/album/6kOZ79mho4LuVfJrH8PmG8) | 3:16 | 2023-11-20 |  |
+| [Approval](https://open.spotify.com/track/3QzrEF8QSFkZZIJiHzhA9O) | [Fryken](https://open.spotify.com/artist/5z0Fx2yg2bbV0WpHiWi4pf) | [Approval](https://open.spotify.com/album/2TduV2Na9lQiW4HmjSbc5r) | 2:59 | 2024-11-05 |  |
 | [Arcticgrey](https://open.spotify.com/track/0zhaw7PAf3Wofl1yANAOa0) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Arcticgrey](https://open.spotify.com/album/4e3FQVTO1Sa0Tsmu3C7IMt) | 2:02 | 2023-04-03 |  |
 | [As a Rose Blossom](https://open.spotify.com/track/657LOljr0QcBwRX1qtWQy6) | [Emile Cerise](https://open.spotify.com/artist/5J3gBMCxZ68jLD8aijjftS) | [As a Rose Blossom](https://open.spotify.com/album/2w1FFF4DGgE1DZKKKvujf9) | 2:11 | 2024-10-15 |  |
 | [As We Fall In Love Again](https://open.spotify.com/track/2lwkWns2UHsmppqcpjIl5R) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [As We Fall In Love Again](https://open.spotify.com/album/37lCe2jTM8UEYXcS1tESar) | 2:50 | 2023-04-03 | 2024-09-25 |
@@ -96,6 +97,7 @@
 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 | 2023-04-03 |  |
 | [Glance Out A Casement Window](https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Glance Out A Casement Window](https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L) | 2:10 | 2023-04-03 |  |
 | [Gleam](https://open.spotify.com/track/4ODEul9zEesE2R8wMUs8eh) | [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Gleam](https://open.spotify.com/album/1km00QBaAtmwWqsQWjrsPH) | 2:33 | 2023-04-03 |  |
+| [Goodmight](https://open.spotify.com/track/7rLMGoaWru8BOjoU73vXO1) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Goodmight](https://open.spotify.com/album/7vBcf7bIKJfuYvSucoHNAE) | 2:13 | 2024-11-05 |  |
 | [Goodwill](https://open.spotify.com/track/1BfkOTr6W7SyXsfappHLHy) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Goodwill](https://open.spotify.com/album/5AkNMQIU6nLtldzxl4YGYH) | 3:26 | 2023-04-03 |  |
 | [Gravity](https://open.spotify.com/track/5rWsceGlMA0FD647lhEVEX) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Gravity](https://open.spotify.com/album/48f225tKoJvjJOu6HDpzmb) | 2:15 | 2024-10-21 |  |
 | [Green Leaves](https://open.spotify.com/track/6mDFYF6gUf6GbpP7eAPXWW) | [Brooklyn Smith](https://open.spotify.com/artist/0bdL8iLPL5Nj0IRvHn2kIP) | [Green Leaves](https://open.spotify.com/album/0zmGbTMtQIjxEEXgvcpRK1) | 2:22 | 2023-04-03 | 2023-04-19 |

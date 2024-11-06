@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 230289,
+  "num_followers": 230385,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAAAoaZRSStNBeYQObHVJTMrG",
+  "snapshot_id": "ZygOgAAAAAAKw/E4d4/K2CY3GMyVdMmH",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Verte Cerquita",
+        "url": "https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv"
+      },
+      "artists": [
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 232721,
+      "name": "Verte Cerquita",
+      "url": "https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde el Fondo",
         "url": "https://open.spotify.com/album/7tm0MO5pYRfglAJn1xJXHr"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 219200,
       "name": "Desde el Fondo",
       "url": "https://open.spotify.com/track/6EmMnV672C5ZCgi39Otuhm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Verte Cerquita",
-        "url": "https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv"
-      },
-      "artists": [
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 232721,
-      "name": "Verte Cerquita",
-      "url": "https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Te Hice Llorar",
-      "url": "https://open.spotify.com/track/0Y8ZSLP4tubnxQ0lTDgpe0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/5lHHOwtZ9cV6A3fCo70MW9"
       },
@@ -719,22 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LQRA Session #7",
-        "url": "https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW"
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
       },
       "artists": [
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 169642,
-      "name": "LQRA Session #7",
-      "url": "https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP"
+      "duration_ms": 214545,
+      "name": "Te Hice Llorar",
+      "url": "https://open.spotify.com/track/0Y8ZSLP4tubnxQ0lTDgpe0"
     },
     {
       "added_at": null,
@@ -751,6 +731,26 @@
       "duration_ms": 149024,
       "name": "Caballero",
       "url": "https://open.spotify.com/track/3rN1Wr64lf63NlAsmFHxxn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LQRA Session #7",
+        "url": "https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW"
+      },
+      "artists": [
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 169642,
+      "name": "LQRA Session #7",
+      "url": "https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP"
     },
     {
       "added_at": null,

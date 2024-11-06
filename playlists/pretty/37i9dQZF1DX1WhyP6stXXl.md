@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Cloudy June
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,619 likes - 99 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,636 likes - 99 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 21 | [Mind Control](https://open.spotify.com/track/3mJHTvufu4NrZQGZxMmWeM) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Mind Control](https://open.spotify.com/album/5pcrj1R40plmpD3EXv61XX) | 2:35 |
 | 22 | [Sip](https://open.spotify.com/track/1CMQQtOD2tAwCp0vtuOxIX) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sip](https://open.spotify.com/album/3rdm30kSOOJm3SDxcoVAs0) | 2:52 |
 | 23 | [Better By Myself](https://open.spotify.com/track/6UuUeDJ118UlygyO27unep) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Long Way Home](https://open.spotify.com/album/3MmEb9UgXMbg02WG29sE3a) | 2:51 |
-| 24 | [Sweet Nothing](https://open.spotify.com/track/1uAZhciIvjilQJWg4e30w4) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I'm Not Always Sad, Sometimes I'm Angry](https://open.spotify.com/album/4tFDkjZhcwOAiZAsGBcTtO) | 3:20 |
+| 24 | [Sweet Nothing](https://open.spotify.com/track/1Sh5Sch6XuUojE5eH0innu) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I'm Not Always Sad, Sometimes I'm Angry](https://open.spotify.com/album/4QYNec3HTSxq2ghYSrEBv2) | 3:20 |
 | 25 | [One Eye Open](https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [One Eye Open](https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck) | 3:32 |
 | 26 | [Break A Promise](https://open.spotify.com/track/6z04WTHul8K26xQGhACEYN) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL), [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [What Scares Me The Most](https://open.spotify.com/album/23I5bEZvvIqVaiyIiGOzrg) | 3:08 |
 | 27 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 98 | [SAVE A HORSE, BREAK A HEART](https://open.spotify.com/track/0ykHYUYiltQo6Xcmdq3Tp5) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [SAVE A HORSE, BREAK A HEART](https://open.spotify.com/album/1aRvubQxQHM7IqKnmiJvxE) | 2:54 |
 | 99 | [cause of death](https://open.spotify.com/track/2kC4xH9tfMlYGxUu9BKyxW) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [cause of death](https://open.spotify.com/album/0BNsz8vbgm8NLMbCQ9chMs) | 2:28 |
 
-Snapshot ID: `ZyiD7gAAAAAAHuz3V3UVOXC3dxsdxsy2`
+Snapshot ID: `Zyo5HAAAAACcBjVCdEX1sbRCKcGEStUX`

@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 249501,
+  "num_followers": 249509,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAABkL8AhtVVzD8JYDMHdylTr",
+  "snapshot_id": "ZygOgAAAAAAlUkIuUQ95raOtoqcueTob",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trio (2016 Remaster)",
+        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "Those Memories of You - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7sdNvO1i0MeKRseYnuebGN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Is Like a Butterfly",
         "url": "https://open.spotify.com/album/3MLoZC9rEBvyA2zLKBNYxT"
       },
@@ -535,30 +559,6 @@
       "duration_ms": 188871,
       "name": "Two Doors Down",
       "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trio (2016 Remaster)",
-        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 240813,
-      "name": "Those Memories of You - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7sdNvO1i0MeKRseYnuebGN"
     },
     {
       "added_at": null,
@@ -871,30 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destinations and Fun Places",
-        "url": "https://open.spotify.com/album/3Gj5Gbm8U9ce2FwW9kdBKl"
-      },
-      "artists": [
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 256924,
-      "name": "Take Me Home Country Roads",
-      "url": "https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -935,6 +911,30 @@
       "duration_ms": 204121,
       "name": "Somebody's Child",
       "url": "https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destinations and Fun Places",
+        "url": "https://open.spotify.com/album/3Gj5Gbm8U9ce2FwW9kdBKl"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 256924,
+      "name": "Take Me Home Country Roads",
+      "url": "https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt"
     },
     {
       "added_at": null,

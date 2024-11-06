@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,802 likes - 80 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,947 likes - 80 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 21 | [Maneater \- Extended Club Mix](https://open.spotify.com/track/1kTH8Ok1XWldpvIuzrCHFg) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Original Album Classics](https://open.spotify.com/album/7rsyTubfxdtX7lWCVmmBVy) | 5:58 |
 | 22 | [Heart Of Glass \- 12" Version](https://open.spotify.com/track/1ZhyS4b9gLOEpJ9pUIncva) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie Singles Collection: 1977\-1982](https://open.spotify.com/album/6hDo5Rj0Rc564d0duAaXP8) | 5:50 |
 | 23 | [Material Girl \- Extended Dance Remix](https://open.spotify.com/track/4vle25yO4Rf7AYkWtzSfAS) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 6:09 |
-| 24 | [When the Going Gets Tough \- Extended Version](https://open.spotify.com/track/3tT3CqBYG3peXXZx7xZUx9) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Love Zone \(Expanded Edition\)](https://open.spotify.com/album/7oUQQI3USlnBTUeN6KXXoo) | 7:32 |
-| 25 | [Running In The Family \- Extended Version](https://open.spotify.com/track/5vTKn6MszumvJHpobYCcEq) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Running In The Family \(Super Deluxe Edition\)](https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ) | 6:14 |
+| 24 | [Running In The Family \- Extended Version](https://open.spotify.com/track/5vTKn6MszumvJHpobYCcEq) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Running In The Family \(Super Deluxe Edition\)](https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ) | 6:14 |
+| 25 | [When the Going Gets Tough \- Extended Version](https://open.spotify.com/track/3tT3CqBYG3peXXZx7xZUx9) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Love Zone \(Expanded Edition\)](https://open.spotify.com/album/7oUQQI3USlnBTUeN6KXXoo) | 7:32 |
 | 26 | [Never Ending Story](https://open.spotify.com/track/2M6q8SznCTMo9XmppUmSJE) | [Limahl](https://open.spotify.com/artist/7LTzUnZaptYfAFmvqW5M6D) | [Never Ending Story](https://open.spotify.com/album/2IMheU2zkSgqXk01d1GRrD) | 5:20 |
 | 27 | [Rockit](https://open.spotify.com/track/2imFIZ1WcOHrA5IPFhVLJY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The Best Of Herbie Hancock \- The Hits!](https://open.spotify.com/album/4zZHvc3I4GrfPIUS0UkQb3) | 5:25 |
 | 28 | [Dr\. Beat \- Original 12" Mix](https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 6:28 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 59 | [Take Me Home \- Extended Remix](https://open.spotify.com/track/70tGBcXCFCJqA4iPaSu3Xl) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [12"ers](https://open.spotify.com/album/4vDz0u2AwgacbWvI827om5) | 8:06 |
 | 60 | [Loverboy \- Extended Mix](https://open.spotify.com/track/0z6oL4uRpjmnr3kyXMtqhC) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Suddenly \(Expanded Edition\)](https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo) | 8:08 |
 | 61 | [High Society Girl \- Long Dub Version; 1983 Digital Remaster](https://open.spotify.com/track/5bTXVkgoUZs8SXngRproJG) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 6:10 |
-| 62 | [Beat Dis \- 12" Version](https://open.spotify.com/track/3hWbM5cGgUiTUUkfSfD1kd) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [Beat Dis: The Very Best Of](https://open.spotify.com/album/0gs16qVEj1k1NAD1WdEnaN) | 5:57 |
-| 63 | [C'est la ouate \- Extended Version](https://open.spotify.com/track/1NzowVFBeKuGBEO3tGY6Jj) | [Caroline Loeb](https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm) | [C'est la ouate](https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb) | 6:03 |
+| 62 | [C'est la ouate \- Extended Version](https://open.spotify.com/track/1NzowVFBeKuGBEO3tGY6Jj) | [Caroline Loeb](https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm) | [C'est la ouate](https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb) | 6:03 |
+| 63 | [Beat Dis \- 12" Version](https://open.spotify.com/track/3hWbM5cGgUiTUUkfSfD1kd) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [Beat Dis: The Very Best Of](https://open.spotify.com/album/0gs16qVEj1k1NAD1WdEnaN) | 5:57 |
 | 64 | [Dancing On The Ceiling \- 12" Version](https://open.spotify.com/track/3hCsLasVlmTBQu7QDw1isr) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 7:10 |
 | 65 | [Too Shy \- Extended Version](https://open.spotify.com/track/3ePc9YMjz2xPMpHosrG9t5) | [Kajagoogoo](https://open.spotify.com/artist/0f3kLT4wvi2mFHlHJgV8Hl) | [The Very Best Of Kajagoogoo](https://open.spotify.com/album/18QlJWuxHQ1IGQ52qf8T1m) | 5:27 |
 | 66 | [Only When You Leave \- 12" Version](https://open.spotify.com/track/361rlvSrfbIxEPqIipaGjw) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [The Twelve Inch Mixes](https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm) | 6:25 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 77 | [Uncertain Smile \- 12" Remix](https://open.spotify.com/track/4XpHQQLQRrkpx92NqejUxV) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [45 RPM \- The Singles Of The The](https://open.spotify.com/album/5OCyAuTGiuGmrxL58zWpfa) | 9:59 |
 | 78 | [The Reflex \- Dance Mix](https://open.spotify.com/track/5CbvdXluVAq96ePQYg1xbi) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [The Singles 81\-85](https://open.spotify.com/album/2nKTcZhqiPzJCGfBmjPR7a) | 6:34 |
 | 79 | [Nightshift \- Club Mix](https://open.spotify.com/track/5stHnMIM1zwRS24mH6dAzS) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [20th Century Masters: The Millennium Collection: Best of Motown '80s, Vol\. 1](https://open.spotify.com/album/3oIG8hb8F4JA6k0ByH5js5) | 7:03 |
-| 80 | [Axel F \- Extended Mix](https://open.spotify.com/track/3vGfr8E9nAEdi1iZxZQv74) | [Forever 80](https://open.spotify.com/artist/4L1IYCTwbB9PXUtVT10HCM) | [Axel F \(Theme from "Beverly Hills Cop"\)](https://open.spotify.com/album/3BGEfvBICQ2tqWoEzt1OmV) | 5:10 |
+| 80 | [Love Changes \(Everything\) \- Love Mix](https://open.spotify.com/track/6Py8P2Yx6mKpz33QuCe25y) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Love Changes Everything](https://open.spotify.com/album/1OOZe5LRh7NnklIH9QvpW7) | 7:42 |
 
 Snapshot ID: `ZmmKwwAAAAALysfydJDdTsBEX864zE7u`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7JXJKP3xMvIMbEBBGApTPQ.md) - [plain]
 
 > Tune in for the year's hottest K\-Pop tracks! K\-Pop Tunes \| K\-Pop Mix \| K\-Pop Boyband \| K\-Pop Girl Groups \| Cover: Stray Kids
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 330,037 likes - 81 songs - 4 hr 5 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 330,017 likes - 81 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/7JXJKP3xMvIMbEBBGApTPQ.md) - [plain]
 | 80 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 |
 | 81 | [Feel the POP](https://open.spotify.com/track/3JnaRKReO6TFGEdhggFWZG) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [You had me at HELLO](https://open.spotify.com/album/1f7EBZExZ8wFWgacxTLDdM) | 2:56 |
 
-Snapshot ID: `AAAX40wfjD/2+ZVyZ8IwYbgN1PRFHHSe`
+Snapshot ID: `AAAX5gBdC2rnwcUlHPiDDvi901qhXQ0m`

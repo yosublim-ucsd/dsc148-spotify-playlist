@@ -1,6 +1,6 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 6155,
+  "num_followers": 6159,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
@@ -209,6 +209,26 @@
       "url": "https://open.spotify.com/track/3x3rh9ZI4rLvjyCg1MMZNu"
     },
     {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Take Me to the River (I Will Swim)",
+        "url": "https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD"
+      },
+      "artists": [
+        {
+          "name": "Alex Yurkiv",
+          "url": "https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ"
+        },
+        {
+          "name": "Thelma Costolo",
+          "url": "https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E"
+        }
+      ],
+      "duration_ms": 176104,
+      "name": "Take Me to the River (I Will Swim)",
+      "url": "https://open.spotify.com/track/4yaalj9cPc9FCVi0SXkBuV"
+    },
+    {
       "added_at": "2023-11-17 00:01:00",
       "album": {
         "name": "Jireh (My Provider)",
@@ -231,26 +251,6 @@
       "duration_ms": 168000,
       "name": "Jireh (My Provider)",
       "url": "https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Take Me to the River (I Will Swim)",
-        "url": "https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD"
-      },
-      "artists": [
-        {
-          "name": "Alex Yurkiv",
-          "url": "https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ"
-        },
-        {
-          "name": "Thelma Costolo",
-          "url": "https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E"
-        }
-      ],
-      "duration_ms": 176104,
-      "name": "Take Me to the River (I Will Swim)",
-      "url": "https://open.spotify.com/track/4yaalj9cPc9FCVi0SXkBuV"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -283,22 +283,6 @@
       "duration_ms": 228134,
       "name": "For the Love of God",
       "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 230931,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -335,6 +319,22 @@
       "duration_ms": 305674,
       "name": "This Is The Gospel",
       "url": "https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 230931,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -455,26 +455,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 161856,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Somebody to You",
         "url": "https://open.spotify.com/album/5CSCmth1QdipVm1AauVRut"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 228690,
       "name": "Somebody to You",
       "url": "https://open.spotify.com/track/4TnXEn8UJaGqCa1cqWkX2z"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 161856,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS"
     },
     {
       "added_at": "2023-11-17 00:01:00",

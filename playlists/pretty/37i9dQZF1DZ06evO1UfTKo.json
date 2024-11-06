@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 722202,
+  "num_followers": 722274,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAABoPaU5DcvJhyssNd4m8CfG",
+  "snapshot_id": "ZygOgAAAAAABScVN/xJepsbmNrXfPeca",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contrabando Y Traicion",
-        "url": "https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 206293,
-      "name": "Contrabando Y Traici\u00f3n",
-      "url": "https://open.spotify.com/track/4gRi0itWso2UodoRMP5asJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jaula De Oro",
         "url": "https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 193106,
       "name": "Pedro Y Pablo",
       "url": "https://open.spotify.com/track/5XgIkYlSVby03NmqREd5Sf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contrabando Y Traicion",
+        "url": "https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 206293,
+      "name": "Contrabando Y Traici\u00f3n",
+      "url": "https://open.spotify.com/track/4gRi0itWso2UodoRMP5asJ"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Incansables",
-        "url": "https://open.spotify.com/album/6V9J3vERD2KrRZmWQ1dHAS"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "Cuando Se Llega A Viejo",
-      "url": "https://open.spotify.com/track/5Gzbh6jt9wJci4mhaAC7zi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Buena Suerte",
         "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 163680,
       "name": "Apenas Te Fuistes Ayer",
       "url": "https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Incansables",
+        "url": "https://open.spotify.com/album/6V9J3vERD2KrRZmWQ1dHAS"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "Cuando Se Llega A Viejo",
+      "url": "https://open.spotify.com/track/5Gzbh6jt9wJci4mhaAC7zi"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Jessica Baio
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,097 likes - 97 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,154 likes - 97 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 16 | [Another Night](https://open.spotify.com/track/4I7wqHKnGjyi1q8RqnSqM2) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Another Night](https://open.spotify.com/album/1Dtbe0tlNOeaJZ1JWQgIRx) | 3:39 |
 | 17 | [Cynical](https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Cynical](https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e) | 3:27 |
 | 18 | [A Little Bit Sad](https://open.spotify.com/track/4Y74xfq9w0WZsTy7GuPnLV) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [A Little Bit Sad](https://open.spotify.com/album/1bhI33k7QCalRM9uzPJ3p4) | 2:46 |
-| 19 | [death bed, Pt\. 2](https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Daniel Saint](https://open.spotify.com/artist/1mqfwrWO9D3IQvWkwnuCNB), [chill sebs](https://open.spotify.com/artist/6SiKEPYrOXoQT6GbreDRvF) | [tell me your feelings and i won’t tell you mine, Pt\. 3](https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW) | 3:04 |
+| 19 | [death bed, Pt\. 2](https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Daniel Saint](https://open.spotify.com/artist/1mqfwrWO9D3IQvWkwnuCNB) | [tell me your feelings and i won’t tell you mine, Pt\. 3](https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW) | 3:04 |
 | 20 | [Popstar](https://open.spotify.com/track/4UAXfWyw7coJtUPVrDGz9t) | [Benicio Bryant](https://open.spotify.com/artist/4qs1nF5ED0DZKyxFwNCyMC) | [Popstar](https://open.spotify.com/album/7b0FCXRyVmkFfyIxnyD8he) | 2:50 |
 | 21 | [starz](https://open.spotify.com/track/1cE3qIWMrHbHlpDyfRrOGY) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [starz](https://open.spotify.com/album/07z1Ps5aZnKj0uBVD5uRKf) | 3:29 |
 | 22 | [October](https://open.spotify.com/track/1S5H1Kb9zorNzLiGlowC78) | [La Rhonza](https://open.spotify.com/artist/5YOg6PEOX2N8a7Rn0rBRjD) | [October](https://open.spotify.com/album/7s3OY71tBtARmt0ErG5Gy6) | 3:14 |

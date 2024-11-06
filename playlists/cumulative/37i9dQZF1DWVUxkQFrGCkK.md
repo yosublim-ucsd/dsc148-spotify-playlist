@@ -4,7 +4,7 @@
 
 > Cesara Linaaaaaaa
 
-726 songs - 2 day 4 hr 14 min
+727 songs - 2 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [DARLING DRIVE](https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [DARLING DRIVE](https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm) | 3:19 | 2024-01-11 |  |
 | [Day I Met You](https://open.spotify.com/track/2CKUBP6gZlk7gVSQLiie5M) | [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR) | [Day I Met You](https://open.spotify.com/album/0FkM3AnJGzeXNjMudtNRGi) | 5:31 | 2024-02-22 | 2024-03-30 |
 | [Day To Day \- Original Mix](https://open.spotify.com/track/61d5mezdUrtXgJFxx8I3Yd) | [Alkalino](https://open.spotify.com/artist/65SVoDN5Z3ZX5Pkh327fNs), [SMQ](https://open.spotify.com/artist/5DW22z8tpxWBvuDlPk486u) | [Day To Day](https://open.spotify.com/album/0yRmRs2WQV5QzBtcnVfFRR) | 7:02 | 2023-06-29 | 2023-08-02 |
+| [DAY&NITE](https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [DAY&NITE](https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB) | 3:25 | 2024-11-05 |  |
 | [De Soweto](https://open.spotify.com/track/7uoxGQlji7HkgIZxJOJCCE) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Les Saints EP](https://open.spotify.com/album/2Y4EGwtRPTe63PGNeulR44) | 4:58 | 2024-04-18 |  |
 | [Deep In The Three](https://open.spotify.com/track/5VAK3MPhNoROdWbMIIcUzj) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Thyladomid](https://open.spotify.com/artist/2ZK6csW8YIGpGGUiQO6wfW) | [Various Artists](https://open.spotify.com/album/1iPORQvynU2LUHJhtp8Rpx) | 8:19 | 2023-12-08 | 2024-04-19 |
 | [Deep In The Three](https://open.spotify.com/track/6VmLSbD3pgHBRNWboNyoSq) | [Thyladomid](https://open.spotify.com/artist/2ZK6csW8YIGpGGUiQO6wfW), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Various Artists](https://open.spotify.com/album/6EZn2dAuXo3M6U99YvxSyW) | 8:19 | 2023-05-11 |  |

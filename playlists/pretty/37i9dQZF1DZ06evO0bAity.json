@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAADpXUcZHen4+65tOPdAm0Sc",
+  "snapshot_id": "ZygOgAAAAACbtHa9kW13dMnnaRObHtjT",
   "tracks": [
     {
       "added_at": null,
@@ -163,18 +163,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Rat",
-        "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
+        "name": "Rock Star (triple j Like a Version)",
+        "url": "https://open.spotify.com/album/0sxfvjciRWGiS1y9cNXbA6"
       },
       "artists": [
         {
           "name": "DZ Deathrays",
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        },
+        {
+          "name": "Nerve",
+          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
         }
       ],
-      "duration_ms": 187680,
-      "name": "Less Out Of Sync",
-      "url": "https://open.spotify.com/track/5q4MPKCtF5IlDQgxSvQwmX"
+      "duration_ms": 246716,
+      "name": "Rock Star - triple j Like a Version",
+      "url": "https://open.spotify.com/track/06niWHnh1Rz6IyEoIahi8m"
     },
     {
       "added_at": null,
@@ -211,22 +215,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Star (triple j Like a Version)",
-        "url": "https://open.spotify.com/album/0sxfvjciRWGiS1y9cNXbA6"
+        "name": "Black Rat",
+        "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
       },
       "artists": [
         {
           "name": "DZ Deathrays",
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        },
-        {
-          "name": "Nerve",
-          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
         }
       ],
-      "duration_ms": 246716,
-      "name": "Rock Star - triple j Like a Version",
-      "url": "https://open.spotify.com/track/06niWHnh1Rz6IyEoIahi8m"
+      "duration_ms": 187680,
+      "name": "Less Out Of Sync",
+      "url": "https://open.spotify.com/track/5q4MPKCtF5IlDQgxSvQwmX"
     },
     {
       "added_at": null,
@@ -524,7 +524,7 @@
       "added_at": null,
       "album": {
         "name": "Black Rat",
-        "url": "https://open.spotify.com/album/2ii5T3w1mFdQLLgOyDqXh7"
+        "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 247222,
-      "name": "Nightwalking",
-      "url": "https://open.spotify.com/track/0KrVDtZ1R3fVE4z4wnaVUE"
+      "duration_ms": 211426,
+      "name": "Black Rat",
+      "url": "https://open.spotify.com/track/5Q5IpqEc3N5dWeetxVFAhq"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloodstreams",
-        "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 175680,
-      "name": "Dollar Chills",
-      "url": "https://open.spotify.com/track/7KdEhcj5B69l9sVBgnff0o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ruined My Life",
         "url": "https://open.spotify.com/album/6DmNm4kgQ8ImBla8OvEahZ"
       },
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 235080,
-      "name": "Gebbie Street",
-      "url": "https://open.spotify.com/track/02v5ggYAHVdQYMzbfq5Y2Q"
+      "duration_ms": 175680,
+      "name": "Dollar Chills",
+      "url": "https://open.spotify.com/track/7KdEhcj5B69l9sVBgnff0o"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
       "duration_ms": 171173,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/7K2EiQPCwiaWjXiWXl8dzu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 235080,
+      "name": "Gebbie Street",
+      "url": "https://open.spotify.com/track/02v5ggYAHVdQYMzbfq5Y2Q"
     },
     {
       "added_at": null,

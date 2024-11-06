@@ -1,12 +1,12 @@
 {
   "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 388693,
+  "num_followers": 388896,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAACJkQFJJ+Oi/MNZq9DeWlgm",
+  "snapshot_id": "ZygOgAAAAAAKHZpFIAU7Ih9FXE8oK7by",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saturday Night Wrist",
-        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 360666,
-      "name": "Beware",
-      "url": "https://open.spotify.com/track/2ASygm7048ssav4ekbehPS"
+      "duration_ms": 223893,
+      "name": "7 Words",
+      "url": "https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 223893,
-      "name": "7 Words",
-      "url": "https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saturday Night Wrist",
         "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
       },
@@ -260,9 +244,25 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 249320,
-      "name": "Hole in the Earth",
-      "url": "https://open.spotify.com/track/5Bpc360LNUScK53FrM8nvB"
+      "duration_ms": 360666,
+      "name": "Beware",
+      "url": "https://open.spotify.com/track/2ASygm7048ssav4ekbehPS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 245973,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/0PicuPCfXDJyyRtOR1ukGW"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+        "name": "Saturday Night Wrist",
+        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
       },
       "artists": [
         {
@@ -308,25 +308,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 245973,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/0PicuPCfXDJyyRtOR1ukGW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deftones",
-        "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Needles and Pins",
-      "url": "https://open.spotify.com/track/1oTKnx7AgEhA5wUs3Z8rrr"
+      "duration_ms": 249320,
+      "name": "Hole in the Earth",
+      "url": "https://open.spotify.com/track/5Bpc360LNUScK53FrM8nvB"
     },
     {
       "added_at": null,
@@ -347,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saturday Night Wrist",
-        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
+        "name": "Deftones",
+        "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
       },
       "artists": [
         {
@@ -356,9 +340,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 221800,
-      "name": "Xerces",
-      "url": "https://open.spotify.com/track/5hxcxipGOjgTzrPOkfsyyS"
+      "duration_ms": 203066,
+      "name": "Needles and Pins",
+      "url": "https://open.spotify.com/track/1oTKnx7AgEhA5wUs3Z8rrr"
     },
     {
       "added_at": null,
@@ -379,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deftones",
-        "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
+        "name": "Saturday Night Wrist",
+        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
       },
       "artists": [
         {
@@ -388,9 +372,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 257813,
-      "name": "Minerva",
-      "url": "https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl"
+      "duration_ms": 221800,
+      "name": "Xerces",
+      "url": "https://open.spotify.com/track/5hxcxipGOjgTzrPOkfsyyS"
     },
     {
       "added_at": null,
@@ -411,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saturday Night Wrist",
-        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
+        "name": "Deftones",
+        "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
       },
       "artists": [
         {
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 194306,
-      "name": "Kimdracula",
-      "url": "https://open.spotify.com/track/4m8wPzkI1y0sUdqEh4A7fq"
+      "duration_ms": 257813,
+      "name": "Minerva",
+      "url": "https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl"
     },
     {
       "added_at": null,
@@ -443,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Around the Fur",
-        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+        "name": "Saturday Night Wrist",
+        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
       },
       "artists": [
         {
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 276573,
-      "name": "Dai the Flu",
-      "url": "https://open.spotify.com/track/2cN7qiHMJflO91pkG9HoO1"
+      "duration_ms": 194306,
+      "name": "Kimdracula",
+      "url": "https://open.spotify.com/track/4m8wPzkI1y0sUdqEh4A7fq"
     },
     {
       "added_at": null,
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },
       "artists": [
         {
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 220826,
-      "name": "Root",
-      "url": "https://open.spotify.com/track/2jkZB94i573H134wKmsw2y"
+      "duration_ms": 276573,
+      "name": "Dai the Flu",
+      "url": "https://open.spotify.com/track/2cN7qiHMJflO91pkG9HoO1"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
       "duration_ms": 211146,
       "name": "You've Seen the Butcher",
       "url": "https://open.spotify.com/track/0oHj2DHtNVWEgBqOa1bejc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 220826,
+      "name": "Root",
+      "url": "https://open.spotify.com/track/2jkZB94i573H134wKmsw2y"
     },
     {
       "added_at": null,

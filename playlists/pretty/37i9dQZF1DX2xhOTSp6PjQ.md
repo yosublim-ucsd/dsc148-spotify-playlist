@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX?si=oHlDJ\-gNSvq4Yus0y5Y1xw">Mthandeni SK</a>, <a href="https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9?si=OuiHZEflRHyDpEE2I59TlA">MaWhoo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,863 likes - 60 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,382 likes - 60 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

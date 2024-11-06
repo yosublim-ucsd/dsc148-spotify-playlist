@@ -15043,6 +15043,28 @@
     },
     {
       "album": {
+        "name": "Tether",
+        "url": "https://open.spotify.com/album/0nP5bOmiy9MUhv8Gl6Vmqa"
+      },
+      "artists": [
+        {
+          "name": "ORACLE",
+          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
+        },
+        {
+          "name": "M\u00d8\u00d8NE",
+          "url": "https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Tether",
+      "url": "https://open.spotify.com/track/4DMLxt7joaC4OzbBKCC8I0"
+    },
+    {
+      "album": {
         "name": "The Banana Song",
         "url": "https://open.spotify.com/album/3Z64U9gwzFb0CNy7bTC0Fs"
       },

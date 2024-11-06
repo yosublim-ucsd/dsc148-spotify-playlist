@@ -1,6 +1,6 @@
 {
   "description": "Top country hits you know and love! Cover: Bailey Zimmerman",
-  "num_followers": 572571,
+  "num_followers": 572675,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "I Am Not Okay",
-        "url": "https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 197133,
-      "name": "I Am Not Okay",
-      "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Stereotype",
         "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 206106,
       "name": "She Had Me At Heads Carolina",
       "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "I Am Not Okay",
+        "url": "https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197133,
+      "name": "I Am Not Okay",
+      "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Mr. Saturday Night",
+        "url": "https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 161200,
+      "name": "Your Heart Or Mine",
+      "url": "https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Different Man",
         "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 174560,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Mr. Saturday Night",
-        "url": "https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 161200,
-      "name": "Your Heart Or Mine",
-      "url": "https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9"
     },
     {
       "added_at": "2024-10-25 04:00:00",

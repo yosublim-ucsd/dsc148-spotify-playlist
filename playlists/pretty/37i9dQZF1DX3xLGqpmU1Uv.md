@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 
 > ¡Las canciones que ponían a bailar a todo México! Alberto Vázquez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,122 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,151 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,15 +12,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 2 | [Cómo Te Extraño Mi Amor \(En Vivo\) \(feat\. Rubén Albarrán\)](https://open.spotify.com/track/4KTSH9v9nm4e2oiXa699aC) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Celebrando a una Leyenda \(En Vivo\)](https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98) | 3:15 |
 | 3 | [Creo Estar Soñando](https://open.spotify.com/track/76k8SMT9ALvTijx3EQiJP0) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [Discos Del Millón](https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k) | 2:42 |
 | 4 | [Adiós a Jamaica \(Jamaica Farewell\)](https://open.spotify.com/track/1th6iTXKtTtIrVbGPD3J3Z) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Hooligans](https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH) | 2:13 |
-| 5 | [El Rock De La Cárcel](https://open.spotify.com/track/43ciCW4nNa2x17L8Ts3Csf) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock \- Lo Mejor De Los Locos Del Ritmo \- Pioneros Del Rock En México](https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK) | 1:54 |
-| 6 | [Atras de la Raya](https://open.spotify.com/track/0QvKb8DrkSzvSDxBRJxK7K) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Peerless 80 Aniversario \- 24 Exitos Vol\. 1](https://open.spotify.com/album/4OfBy9NPNwl1pYoIjNLBhU) | 2:44 |
+| 5 | [Atras de la Raya](https://open.spotify.com/track/0QvKb8DrkSzvSDxBRJxK7K) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Peerless 80 Aniversario \- 24 Exitos Vol\. 1](https://open.spotify.com/album/4OfBy9NPNwl1pYoIjNLBhU) | 2:44 |
+| 6 | [El Rock De La Cárcel](https://open.spotify.com/track/43ciCW4nNa2x17L8Ts3Csf) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock \- Lo Mejor De Los Locos Del Ritmo \- Pioneros Del Rock En México](https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK) | 1:54 |
 | 7 | [Muévanse todos \- Twist and Shout](https://open.spotify.com/track/1BaZlroFKDgIlNc7JQ5LOq) | [Vianey Valdez](https://open.spotify.com/artist/1y6MyiByAJqCEhl0VNg8qs) | [Peerless 80 Aniversario \- 24 Éxitos](https://open.spotify.com/album/40i47N3kz7CqKfBdZG5K2Q) | 2:25 |
 | 8 | [Historia De Tommy](https://open.spotify.com/track/6Uf7HlTnMIUzFpUpHikfl1) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Grandes Éxitos](https://open.spotify.com/album/5vvanUaOWBi9JYjsh3X2I7) | 2:38 |
 | 9 | [Lagrimas De Cristal](https://open.spotify.com/track/16UEXcWy0r21FNGDxiMbgv) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [Discos Del Millón](https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k) | 2:56 |
 | 10 | [Chica ye yé](https://open.spotify.com/track/6d57N8nRzeGBW2bMinOEKr) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Peerless 80 Aniversario \- 24 Éxitos](https://open.spotify.com/album/52eGdmCUeEOIJFOM1rGJYX) | 2:13 |
-| 11 | [Tus Ojos](https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock \- Lo Mejor De Los Locos Del Ritmo \- Pioneros Del Rock En México](https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK) | 3:25 |
-| 12 | [Chica Alborotada](https://open.spotify.com/track/3b9ICYLGk3brPCarHbih8a) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Los Grandes Éxitos Del Rock & Roll \(En Español\) Vol\. 2](https://open.spotify.com/album/0tM7TEe6JjVrrbEOLYXh7j) | 2:07 |
-| 13 | [Se Fue](https://open.spotify.com/track/3LxPolifAA2lfU0cvmOhVQ) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Hermanos Carrion 50 Años, Vol\. 1](https://open.spotify.com/album/1gT2Z4hNEKewsnyZmY4eCH) | 2:42 |
+| 11 | [Chica Alborotada](https://open.spotify.com/track/3b9ICYLGk3brPCarHbih8a) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Los Grandes Éxitos Del Rock & Roll \(En Español\) Vol\. 2](https://open.spotify.com/album/0tM7TEe6JjVrrbEOLYXh7j) | 2:07 |
+| 12 | [Se Fue](https://open.spotify.com/track/3LxPolifAA2lfU0cvmOhVQ) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Hermanos Carrion 50 Años, Vol\. 1](https://open.spotify.com/album/1gT2Z4hNEKewsnyZmY4eCH) | 2:42 |
+| 13 | [Tus Ojos](https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock \- Lo Mejor De Los Locos Del Ritmo \- Pioneros Del Rock En México](https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK) | 3:25 |
 | 14 | [Corina, Corina](https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:35 |
 | 15 | [Al Ritmo De La Lluvia](https://open.spotify.com/track/5TmvmwxsHSfDfdW0RptHE4) | [Los Sleepers](https://open.spotify.com/artist/2cCeAySrR6BOPhRJWeoZBN) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:20 |
 | 16 | [Sospecha](https://open.spotify.com/track/0siRDrhbWLCoCdJt0Cv0dq) | [Los Seven Days](https://open.spotify.com/artist/76Zp92FdrV5z00lcCMcZNp) | [Los Originales](https://open.spotify.com/album/5UnYv67PEkeTWnlkBL1s5a) | 2:29 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 6688,
+  "num_followers": 6696,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAABKYGXP9HGsRiKJXkcaiGaf",
+  "snapshot_id": "ZygOgAAAAACITHTmiLQJyuq7MWXyh5Xt",
   "tracks": [
     {
       "added_at": null,
@@ -163,8 +163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "8KG",
-        "url": "https://open.spotify.com/album/6wJy7soOIrPeUVYXEgyc0c"
+        "name": "EU GOSTO DE GAROTAS",
+        "url": "https://open.spotify.com/album/6pR1Ki8v3x7jPXbSFqRmAU"
       },
       "artists": [
         {
@@ -172,17 +172,17 @@
           "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
         },
         {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "MangoLab",
+          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
         }
       ],
-      "duration_ms": 132923,
-      "name": "8KG",
-      "url": "https://open.spotify.com/track/4udduhNmtWkbdh5xP0hRJl"
+      "duration_ms": 147692,
+      "name": "PALHA\u00c7ADA",
+      "url": "https://open.spotify.com/track/4ZoCo1ETO88Ywu6NBQUVMQ"
     },
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EU GOSTO DE GAROTAS",
-        "url": "https://open.spotify.com/album/6pR1Ki8v3x7jPXbSFqRmAU"
+        "name": "8KG",
+        "url": "https://open.spotify.com/album/6wJy7soOIrPeUVYXEgyc0c"
       },
       "artists": [
         {
@@ -220,17 +220,17 @@
           "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
         },
         {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "MangoLab",
-          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         }
       ],
-      "duration_ms": 147692,
-      "name": "PALHA\u00c7ADA",
-      "url": "https://open.spotify.com/track/4ZoCo1ETO88Ywu6NBQUVMQ"
+      "duration_ms": 132923,
+      "name": "8KG",
+      "url": "https://open.spotify.com/track/4udduhNmtWkbdh5xP0hRJl"
     },
     {
       "added_at": null,

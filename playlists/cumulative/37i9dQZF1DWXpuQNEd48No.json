@@ -1343,6 +1343,28 @@
     },
     {
       "album": {
+        "name": "Near By Me",
+        "url": "https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f"
+      },
+      "artists": [
+        {
+          "name": "Bintu Pabra",
+          "url": "https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe"
+        },
+        {
+          "name": "Kp Kundu",
+          "url": "https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Chori Tera Dil",
+      "url": "https://open.spotify.com/track/7k7ZSuuFQdEZ1ibDzwliYA"
+    },
+    {
+      "album": {
         "name": "Chunni Re",
         "url": "https://open.spotify.com/album/501Xyp289koskmOatyc0Sk"
       },
@@ -3516,7 +3538,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 167172,
       "name": "Kede Kede Yaar",
       "url": "https://open.spotify.com/track/1aeIfm41wcpQiNSN9tjs6B"

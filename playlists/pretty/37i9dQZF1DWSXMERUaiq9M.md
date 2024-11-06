@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > the sound of a new generation
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,742 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,858 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 52 | [I Wanna Go](https://open.spotify.com/track/0EkO6IEUFlbfxLDoDVieOt) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [I Wanna Go](https://open.spotify.com/album/3YbiInRvYkmmWq6DHrYsn9) | 2:47 |
 | 53 | [Don't Stop](https://open.spotify.com/track/3tYYypENWxaS1DKUtcH8S8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Don't Stop](https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O) | 3:16 |
 | 54 | [Give Me Your Love \(Baby\)](https://open.spotify.com/track/4F1Rn7hLL2m5l66NYzzb4H) | [Christian Rogers](https://open.spotify.com/artist/1u3pcQukI3TVcrs8YuhGIE) | [Give Me Your Love \(Baby\)](https://open.spotify.com/album/3wDJ4kUp6DqTWo75eofx6U) | 2:16 |
-| 55 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
-| 56 | [Stolen Dance \- Hypertechno](https://open.spotify.com/track/4nOVDcu9Vv4owjeonZx5Qs) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ) | [Stolen Dance \(Hypertechno\)](https://open.spotify.com/album/3AJeTQRLl9C9UcgxGAb6Q0) | 3:08 |
+| 55 | [Stolen Dance \- Hypertechno](https://open.spotify.com/track/4nOVDcu9Vv4owjeonZx5Qs) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ) | [Stolen Dance \(Hypertechno\)](https://open.spotify.com/album/3AJeTQRLl9C9UcgxGAb6Q0) | 3:08 |
+| 56 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
 | 57 | [Ever Been Punched](https://open.spotify.com/track/5ImCWFZ4baU82mNbKyTxCQ) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Ever Been Punched](https://open.spotify.com/album/4dXQcKAqasUFoPzKAF1hmg) | 2:14 |
 | 58 | [EINS ZWEI](https://open.spotify.com/track/5TqqYy8XXfHGmnYiZV4eJF) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [EINS ZWEI](https://open.spotify.com/album/5JDhf7woR8UlAk2PlWAC40) | 2:21 |
 | 59 | [My Mama Dropped LSD in the 90's](https://open.spotify.com/track/0MeGiBDDodJwa1iHnCgG3q) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM), [blazey](https://open.spotify.com/artist/66Vn5izERxqMuZz9QB5Dyh) | [My Mama Dropped LSD in the 90's](https://open.spotify.com/album/0X12iWSZ0DQrn35GgTEjrT) | 2:56 |

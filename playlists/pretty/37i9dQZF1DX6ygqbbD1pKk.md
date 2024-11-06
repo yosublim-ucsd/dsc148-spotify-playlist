@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 
 > Todos tus éxitos favoritos de Disney\. Moana 2, Encanto, Frozen y mucho más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,788 likes - 99 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,846 likes - 99 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

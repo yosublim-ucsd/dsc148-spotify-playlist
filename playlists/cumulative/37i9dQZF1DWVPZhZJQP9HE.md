@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-582 songs - 1 day 10 hr 22 min
+583 songs - 1 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [Puppy Shame](https://open.spotify.com/track/5Iq2CSFEDfRkngMgDfrLMn) | [Shyam Sasikumar](https://open.spotify.com/artist/4UsEnWXfJJrVNNEv4fClaT), [Xwrld](https://open.spotify.com/artist/4j8qTveVETBkm23uFjJv5f), [MD Musiq](https://open.spotify.com/artist/2xTXq78UpppRzJ8br7kFA1) | [Palaya Folder](https://open.spotify.com/album/53ZtBsYjTasQUCmg3Qd8Hz) | 3:02 | 2022-11-28 | 2023-03-09 |
 | [Rain Rain Poi Thola](https://open.spotify.com/track/7Du7gAbZm9g9iyJsFpKLGG) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Rain Rain Poi Thola](https://open.spotify.com/album/6YfSHRJ3GMjWTPgPDMVjyR) | 3:28 | 2023-11-14 | 2024-07-12 |
 | [Rakkayi](https://open.spotify.com/track/2T1jVCp6093Hb72UZwBgjH) | [Karthik Srinivas](https://open.spotify.com/artist/2K1khAOvY0oyvdGpC25uXn), [Vrusha Balu](https://open.spotify.com/artist/5jhSfBeqM0W5nyTHA3EUjT), [A K PRRIYAN](https://open.spotify.com/artist/0awt0os7KJ5wBgHD5RV58o) | [Rakkayi](https://open.spotify.com/album/2D1tC3vqiG9dDdaCxeiDkm) | 3:24 | 2024-11-04 |  |
+| [Rani](https://open.spotify.com/track/7lo9dhL7wstxxHh1PVa5mz) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Anu Shasti](https://open.spotify.com/artist/6DL1Cn0wQfPkVAdYNJiTYK), [Pujalakshmi MP](https://open.spotify.com/artist/3RCStFNMFLjEbO74lM4Ubt), [Sivathmikha R](https://open.spotify.com/artist/6fbai4ydYZ4nTsAypxFxFt) | [Rani](https://open.spotify.com/album/3209TfKuIpETw5Z5kwVRL5) | 5:11 | 2024-11-05 |  |
 | [Rasathi](https://open.spotify.com/track/0CIPyhEbq7QKzOfDw6tQaQ) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [K.J Iyenar](https://open.spotify.com/artist/48x2n0fDajDy8dejSS83TN) | [Rasathi](https://open.spotify.com/album/6KMJDalW6JJfQjLTUbRbQT) | 4:45 | 2023-01-19 | 2023-02-22 |
 | [Ratha Kothippu](https://open.spotify.com/track/0HFPg4ofuzKy4qjH7rFLbD) | [Gana Mani](https://open.spotify.com/artist/4qzPzxh5OORai1gdxT3D69), [Vangal Pulla Vicky](https://open.spotify.com/artist/5eJHTflIBLyKN3EvU1rDAu) | [Ratha Kothippu](https://open.spotify.com/album/2Fd2YCT3s2TJc7eK9UeQAz) | 3:43 | 2024-10-03 |  |
 | [Rayil Pogum Idam](https://open.spotify.com/track/2pWUNHtUmNNKfvLGIsSKLN) | [Vijaynarain](https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi) | [Rayil Pogum Idam](https://open.spotify.com/album/3DgXRTUhQVT4mk7xSKwU3i) | 3:07 | 2023-11-23 | 2024-06-14 |

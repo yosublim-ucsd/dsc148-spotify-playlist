@@ -4,7 +4,7 @@
 
 > all cruise, no breaks
 
-135 songs - 8 hr 39 min
+136 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-04-05 |  |
 | [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 | 2024-01-26 |  |
 | [INTROSPECTIVE](https://open.spotify.com/track/5mxk3kAPTFubXtE6m5xKw2) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [INTROSPECTIVE](https://open.spotify.com/album/1VWigZ4X83wAkWPNwH0hGW) | 3:46 | 2024-08-23 | 2024-10-16 |
+| [IOU](https://open.spotify.com/track/3akZGuqQhifRrFYB8UCell) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag), [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [IOU](https://open.spotify.com/album/0q3267f3x9hLlTiZ07aUMa) | 3:11 | 2024-11-05 |  |
 | [IR](https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 4:32 | 2022-05-05 | 2023-08-12 |
 | [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 | 2024-06-15 | 2024-09-08 |
 | [Jocelyn Flores](https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:59 | 2023-09-05 |  |
@@ -83,7 +84,7 @@
 | [Mile High \(feat\. Travis Scott & Metro Boomin\)](https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:13 | 2023-09-05 |  |
 | [Moving On](https://open.spotify.com/track/3Jl6WHQ5cXbSM1yZXay6XN) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Roosevelt](https://open.spotify.com/album/21h3nv4SJgMi9SQaFiFUFX) | 4:43 | 2022-05-05 | 2023-09-06 |
 | [Mr\. Rager](https://open.spotify.com/track/2ncLdwTd8qzkxiJjlbiOgC) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/0InO6eGRL47KErEYEoc2rP) | 4:54 | 2023-09-05 |  |
-| [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2023-09-05 |  |
+| [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2023-09-05 | 2024-11-06 |
 | [Needed Me](https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:11 | 2023-09-05 |  |
 | [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 | 2024-09-11 |  |
 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2023-01-03 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-130 songs - 6 hr 53 min
+131 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Grandson \(feat\. Kodak Black\)](https://open.spotify.com/track/2iUQCloOfXTzjZAyW23pGf) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 2:20 | 2023-05-27 | 2023-11-11 |
 | [Gunsmoke Town](https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:54 | 2023-05-27 | 2024-01-25 |
 | [Haitian Scarface](https://open.spotify.com/track/6HW0HSK7j7FHeFlxqNdKR4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Scarface](https://open.spotify.com/album/0Dvd4RQ44MBoK0eslFXDpP) | 2:25 | 2022-10-28 | 2023-08-01 |
+| [Harlem Nights](https://open.spotify.com/track/7f5FgKkeLMeDEwsbvmVsrn) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dieuson Octave](https://open.spotify.com/album/5MMgxR8kqI7CFzQRvGiKHj) | 2:34 | 2024-11-06 |  |
 | [Hate Being Alone](https://open.spotify.com/track/4OTofNs1V7sgnSSlzj4edo) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Heart Break Kodak \(HBK\)](https://open.spotify.com/album/0U578dQAanKmYDKCvqk2P3) | 4:04 | 2024-06-03 |  |
 | [Heart Mind](https://open.spotify.com/track/2OPxM2L3KtuehqY24vTMGs) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j) | [FEMA \(Finesse Elevate Motivate Achieve\)](https://open.spotify.com/album/1mUwtBhnrDj0dkwnEjhOj0) | 3:23 | 2022-10-28 |  |
 | [hibachi \(feat\. Kodak Black & 21 Savage\)](https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 2:50 | 2022-10-28 |  |
@@ -87,7 +88,7 @@
 | [No Flockin'](https://open.spotify.com/track/34oWbFBfGEElvgO0a5c9V4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [No Flockin'](https://open.spotify.com/album/12YTH28wiBXQ16gvWOCMLU) | 2:45 | 2022-10-28 |  |
 | [No Love For A Thug](https://open.spotify.com/track/2IyD3ugrNb0LIV4x2RyHIP) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [No Love For A Thug](https://open.spotify.com/album/0pYqfL98U56ocG8caO8uBe) | 5:05 | 2023-04-15 | 2023-07-19 |
 | [No Love For A Thug](https://open.spotify.com/track/3gMtqjZ5dxsyfMDQcLBKed) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 5:05 | 2024-06-19 | 2024-06-21 |
-| [No More \(feat\. Travis Scott, Kodak Black & 21 Savage\)](https://open.spotify.com/track/42k9e2hgl98IdgkXLg4pxs) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 4:25 | 2022-10-28 |  |
+| [No More \(feat\. Travis Scott, Kodak Black & 21 Savage\)](https://open.spotify.com/track/42k9e2hgl98IdgkXLg4pxs) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 4:25 | 2022-10-28 | 2024-11-06 |
 | [Non Believer](https://open.spotify.com/track/3FRYmCRHCavq3Y6aCj11Px) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Non Believer](https://open.spotify.com/album/4lQxLqMHEEFXlhcnZKEjcF) | 3:27 | 2024-03-30 | 2024-06-09 |
 | [ONBOA47RD](https://open.spotify.com/track/40DPDhROA6rUmfE1E9wGjz) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Donald J\. Trump](https://open.spotify.com/artist/23U808v5GbnGrEIqalCIXi) | [ONBOA47RD](https://open.spotify.com/album/2NibhROzVqZ3UmHx6JLygb) | 3:05 | 2024-08-21 | 2024-11-01 |
 | [Patty Cake](https://open.spotify.com/track/0bXFIF7iL17TYLyx8JHziM) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 3:18 | 2022-10-28 |  |

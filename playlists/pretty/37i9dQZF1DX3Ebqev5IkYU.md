@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 
 > Schlechte Laune? Drück den Play Button!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,966,801 likes - 90 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,966,778 likes - 90 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 | 60 | [Safety Net](https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Safety Net](https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8) | 3:23 |
 | 61 | [Ich hass dich](https://open.spotify.com/track/2toCf2FDbTIdWriPI6kcsY) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 3:12 |
 | 62 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 |
-| 63 | [Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Für immer Frühling](https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN) | 2:00 |
-| 64 | [Lionheart \(Fearless\)](https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lionheart \(Fearless\)](https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT) | 3:06 |
+| 63 | [Lionheart \(Fearless\)](https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lionheart \(Fearless\)](https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT) | 3:06 |
+| 64 | [Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Für immer Frühling](https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN) | 2:00 |
 | 65 | [Heather On The Hill](https://open.spotify.com/track/7N3emAP0mWt2OYqxs0XYpc) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Heather On The Hill](https://open.spotify.com/album/2beYnTms954gTl7cYEupjN) | 2:19 |
 | 66 | [Beat Of Your Heart](https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Beat Of Your Heart](https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr) | 3:29 |
 | 67 | [Head Down](https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Head Down](https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2) | 2:53 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 | 79 | [Waterfall](https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Waterfall](https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD) | 2:17 |
 | 80 | [Fly Away](https://open.spotify.com/track/5ri4zqtWhG07hIuNNDWP76) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away](https://open.spotify.com/album/7jRjPcWQMYGtD6gPBDZiAq) | 2:58 |
 | 81 | [Simple Life](https://open.spotify.com/track/3AxfLI7PFjoe2voK0bmXjD) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Simple Life](https://open.spotify.com/album/7wwURNGmjYqXm1XRA4aIRf) | 2:33 |
-| 82 | [What It Feels Like](https://open.spotify.com/track/7lD0SNdtIYGV30yxu4494I) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [What It Feels Like](https://open.spotify.com/album/6w5EasEXNH9NSNpgJLqXO5) | 2:15 |
+| 82 | [Bella Napoli](https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Mille Grazie](https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD) | 3:55 |
 | 83 | [Feel Alive](https://open.spotify.com/track/0tb0RHrF4IpwPJOKYxnxxe) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Feel Alive](https://open.spotify.com/album/3zNr5IOpeOlfhpAHYz4ihP) | 2:28 |
-| 84 | [Bella Napoli](https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Mille Grazie](https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD) | 3:55 |
+| 84 | [What It Feels Like](https://open.spotify.com/track/7lD0SNdtIYGV30yxu4494I) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [What It Feels Like](https://open.spotify.com/album/6w5EasEXNH9NSNpgJLqXO5) | 2:15 |
 | 85 | [Manila](https://open.spotify.com/track/2hBkoDhuGk2AtSCprEFDFP) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Manila](https://open.spotify.com/album/04G5svGohksmXulzf6BbK3) | 2:24 |
 | 86 | [Little Bit of Love](https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love](https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2) | 3:46 |
 | 87 | [Heart Skips a Beat \(feat\. Rizzle Kicks\)](https://open.spotify.com/track/1f8UCzB3RqIgNkW7QIiIeP) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW), [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [In Case You Didn't Know](https://open.spotify.com/album/2OvZ8JCShhvxNkptwoGjve) | 3:22 |

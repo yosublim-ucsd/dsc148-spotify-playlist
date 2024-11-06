@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x0y4AP3Q3A.md) - [plain]
 
 > Najlepsi i najlepiej rockujący na polskiej scenie\. Cover: Cool Kids Of Death
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,468 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,467 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Origami](https://open.spotify.com/track/19skR3dXGeaNv5o0b7sT0E) | [Cool Kids Of Death](https://open.spotify.com/artist/4illxVu43vK6CgfzDhfunc), [Belmondo](https://open.spotify.com/artist/3LDKqGmw6GyxO81YdtMAgl) | [Origami](https://open.spotify.com/album/2saDF5ycn5yW3q6lZzhJHo) | 5:02 |
+| 1 | [Origami](https://open.spotify.com/track/19skR3dXGeaNv5o0b7sT0E) | [Cool Kids Of Death](https://open.spotify.com/artist/4illxVu43vK6CgfzDhfunc), [Belmondawg](https://open.spotify.com/artist/41OErJWZbkNcNzYPoy0PWJ), [Krzysztof Ostrowski](https://open.spotify.com/artist/4hyv33N42WzQB3MNNWgwPn) | [Origami](https://open.spotify.com/album/2saDF5ycn5yW3q6lZzhJHo) | 5:02 |
 | 2 | [Antylopy & Lwy](https://open.spotify.com/track/3mZSN65mRWoGXDvF9O7X4H) | [Terrific Sunday](https://open.spotify.com/artist/5jponzXxXIzb5bA5mO9BX1) | [Wzloty Bez Upadków](https://open.spotify.com/album/1q9xyeG3RgJtw20P31WbIr) | 3:01 |
 | 3 | [strach](https://open.spotify.com/track/6NGryOAkRaLH0jfTEquqs2) | [daysdaysdays](https://open.spotify.com/artist/2QLQnuxBwO6XzrUt0wcl9Z) | [strach](https://open.spotify.com/album/6KMDDPl5LpmEwQYJXuRYco) | 2:10 |
 | 4 | [Cycki, Kebab, Amarena](https://open.spotify.com/track/3RqEI5xZ5bq89EWePWY6BG) | [Nocny Kochanek](https://open.spotify.com/artist/1S9WnjiTrLaqPCJ8gWSWWq) | [Cycki, Kebab, Amarena](https://open.spotify.com/album/4eKMMKiN1YCRVvk5H5HWKB) | 4:11 |

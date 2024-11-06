@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,908 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,975 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 38 | [Alibi](https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4VQebFp9TEuKOaCu5lUUrC) | 3:48 |
 | 39 | [Favorite Thing to Do](https://open.spotify.com/track/2CvrLqKWl77sjcg608A1xW) | [Terry Hunter](https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [Favorite Thing to Do](https://open.spotify.com/album/2jtnBkj4zEknJH95VeO7kM) | 3:35 |
 | 40 | [Love the Mystery \- Radio Edit](https://open.spotify.com/track/2Pz0KXAVTupriGxk9rT42n) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Love the Mystery](https://open.spotify.com/album/3rHgk8sOOo0Kh5bX0Oqjs5) | 3:44 |
-| 41 | [SHOULD'VE BEEN YOU](https://open.spotify.com/track/6XbfAA4NymHlQ52zeMitGK) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [SHOULD'VE BEEN YOU](https://open.spotify.com/album/3dlAyZb5RjxYAirDWSREwW) | 3:14 |
+| 41 | [SHOULD'VE BEEN YOU](https://open.spotify.com/track/6XbfAA4NymHlQ52zeMitGK) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Tallulah Rose](https://open.spotify.com/artist/52K2wI1tA5kaRyQUKVhOaJ) | [SHOULD'VE BEEN YOU](https://open.spotify.com/album/3dlAyZb5RjxYAirDWSREwW) | 3:14 |
 | 42 | [No Matter What They Say](https://open.spotify.com/track/7FNuJJ4vC8gRZqdIZfZ28U) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7) | [No Matter What They Say](https://open.spotify.com/album/2C5XfFX5Ur1uSh5EMrTVsz) | 3:32 |
 | 43 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
 | 44 | [For Roy](https://open.spotify.com/track/10d2cJq5gUpMfJ7sO1VtIK) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [For Roy](https://open.spotify.com/album/0FAN1nY9LMj2mShCOorekg) | 3:43 |

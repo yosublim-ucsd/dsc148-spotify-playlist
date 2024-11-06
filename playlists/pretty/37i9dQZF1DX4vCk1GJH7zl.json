@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: DAY LIMNS",
-  "num_followers": 141101,
+  "num_followers": 141117,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Bleeding Heart (Acoustic - Live At Opera de Arame)",
-        "url": "https://open.spotify.com/album/1Ei09raJ2GMEuC01MpnNbO"
-      },
-      "artists": [
-        {
-          "name": "ANGRA",
-          "url": "https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y"
-        }
-      ],
-      "duration_ms": 339626,
-      "name": "Bleeding Heart (Acoustic - Live At Opera de Arame)",
-      "url": "https://open.spotify.com/track/2GmAGzbc0WTre9Ab9bBOnb"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Quatro Cantos de Um Mundo Redondo",
         "url": "https://open.spotify.com/album/5xBXM2fP2SkEEttijLCtGB"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 208636,
       "name": "Come\u00e7a Tudo Outra Vez",
       "url": "https://open.spotify.com/track/6h0ASQ97OHyTyY8AfcCfAN"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Bleeding Heart (Acoustic - Live At Opera de Arame)",
+        "url": "https://open.spotify.com/album/1Ei09raJ2GMEuC01MpnNbO"
+      },
+      "artists": [
+        {
+          "name": "ANGRA",
+          "url": "https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y"
+        }
+      ],
+      "duration_ms": 339626,
+      "name": "Bleeding Heart (Acoustic - Live At Opera de Arame)",
+      "url": "https://open.spotify.com/track/2GmAGzbc0WTre9Ab9bBOnb"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Eu Quero Tanto",
-        "url": "https://open.spotify.com/album/3g9SmqvLP3GeoHUIFTcWOA"
-      },
-      "artists": [
-        {
-          "name": "Cogumelo Plut\u00e3o",
-          "url": "https://open.spotify.com/artist/4qjNCru4YbPvA6FOUDi1ee"
-        }
-      ],
-      "duration_ms": 187647,
-      "name": "Eu Quero Tanto",
-      "url": "https://open.spotify.com/track/7y10XfBIaOWkWX5ksbBpuV"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Power Trio",
         "url": "https://open.spotify.com/album/4my2f5Jg1MTotcaknswcxR"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 243504,
       "name": "No Delta dos Rios",
       "url": "https://open.spotify.com/track/7ifgiwIrIWAlckZPXSL2m2"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Eu Quero Tanto",
+        "url": "https://open.spotify.com/album/3g9SmqvLP3GeoHUIFTcWOA"
+      },
+      "artists": [
+        {
+          "name": "Cogumelo Plut\u00e3o",
+          "url": "https://open.spotify.com/artist/4qjNCru4YbPvA6FOUDi1ee"
+        }
+      ],
+      "duration_ms": 187647,
+      "name": "Eu Quero Tanto",
+      "url": "https://open.spotify.com/track/7y10XfBIaOWkWX5ksbBpuV"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Hoje eu n\u00e3o vim falar de Amor",
-        "url": "https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "Hoje eu n\u00e3o vim falar de Amor",
-      "url": "https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Vida Real",
         "url": "https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 230565,
       "name": "Vida Real",
       "url": "https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Hoje eu n\u00e3o vim falar de Amor",
+        "url": "https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "Hoje eu n\u00e3o vim falar de Amor",
+      "url": "https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Proposta",
+        "url": "https://open.spotify.com/album/0u0CKWaPgFtWjzACLHQsle"
+      },
+      "artists": [
+        {
+          "name": "Davi Le\u00e3o",
+          "url": "https://open.spotify.com/artist/63PbB9qmaVblxOqBoOb2g7"
+        }
+      ],
+      "duration_ms": 166615,
+      "name": "Proposta",
+      "url": "https://open.spotify.com/track/5YNikQYqgUZIVhDJC0Q3TO"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Sweet Virginia / Across the Universe",
         "url": "https://open.spotify.com/album/5Tp6LVqSOfc5BBV0GjQYn6"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 273089,
       "name": "Sweet Virginia",
       "url": "https://open.spotify.com/track/3S088c3IBFwMRuVBX8NFhT"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Proposta",
-        "url": "https://open.spotify.com/album/0u0CKWaPgFtWjzACLHQsle"
-      },
-      "artists": [
-        {
-          "name": "Davi Le\u00e3o",
-          "url": "https://open.spotify.com/artist/63PbB9qmaVblxOqBoOb2g7"
-        }
-      ],
-      "duration_ms": 166615,
-      "name": "Proposta",
-      "url": "https://open.spotify.com/track/5YNikQYqgUZIVhDJC0Q3TO"
     },
     {
       "added_at": "2024-10-18 03:00:00",

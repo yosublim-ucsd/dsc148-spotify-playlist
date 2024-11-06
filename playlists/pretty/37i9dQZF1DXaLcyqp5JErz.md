@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Gisele Nascimento, Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,743 likes - 70 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,922 likes - 70 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 24 | [Aos Pés da Cruz](https://open.spotify.com/track/2Ab8zrDctK010iNqBGCrUt) | [Oficina G3](https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH) | [Histórias e Bicicletas](https://open.spotify.com/album/4JQYqu6oRSh7pEj2YS4Ggc) | 5:39 |
 | 25 | [Abraça\-Me](https://open.spotify.com/track/05fZNpkAeHQoQNFB7tFVMa) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq) | [Adoração](https://open.spotify.com/album/6VefFSAIlIhtQppFh78rpC) | 4:49 |
 | 26 | [Pra Onde Iremos? \(feat\. Felippe Valadão\) \- Ao Vivo](https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Felippe Valadão](https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 4:31 |
-| 27 | [Sabor de Mel](https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:22 |
+| 27 | [Fiel a Mim](https://open.spotify.com/track/45BbvslR0kdNkO79pDhAhM) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 7:22 |
 | 28 | [Aclame ao Senhor \- Ao Vivo](https://open.spotify.com/track/0dhpQeQ8LR4UEp9gugrITU) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Diante do Trono \(Ao Vivo\)](https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS) | 7:35 |
 | 29 | [Ouço Deus Me Chamar](https://open.spotify.com/track/2IAkyzxYd9QPnWRhHsWMO2) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 3 \- Ouço Deus Me Chamar](https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD) | 7:19 |
-| 30 | [Fiel a Mim](https://open.spotify.com/track/45BbvslR0kdNkO79pDhAhM) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 7:22 |
+| 30 | [Sabor de Mel](https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:22 |
 | 31 | [Com Muito Louvor](https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Cassiane \- Gospel Collection Ao Vivo](https://open.spotify.com/album/6tVasQXY2XtPQXfHRE6eSE) | 6:22 |
 | 32 | [Além do Impossível / Pedro \- Ao Vivo](https://open.spotify.com/track/31UMuLeLSIRO1jdri0iOXp) | [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg), [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS), [Salvaon](https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG), [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH), [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN), [Klebson Kollins](https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH) | [Além do Impossível / Pedro \(Ao Vivo\)](https://open.spotify.com/album/5uTw6KtalyBvjtWpTmipc0) | 6:45 |
 | 33 | [Abra os Olhos do Meu Coração \- Ao Vivo em Curitiba](https://open.spotify.com/track/308mpl3G2FseXxGEjtyLIW) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Fogo e Glória \(Ao Vivo em Curitiba\)](https://open.spotify.com/album/2OdyYrKg4KABWavlgvm0Qq) | 8:31 |

@@ -1,6 +1,6 @@
 {
   "description": "mais uma na vibe do verdinho / foto: Charlie XCX, Ariana Grande",
-  "num_followers": 611903,
+  "num_followers": 611904,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-10-31 00:01:00",
       "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
+    },
+    {
+      "added_at": "2024-10-31 00:01:00",
+      "album": {
         "name": "Tough",
         "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
-    },
-    {
-      "added_at": "2024-10-31 00:01:00",
-      "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
     },
     {
       "added_at": "2024-10-31 00:01:00",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2024-10-31 00:01:00",
       "album": {
-        "name": "Chasin' (feat. Meghan Trainor)",
-        "url": "https://open.spotify.com/album/5GzcpXxpQsBKJGPX2oDvvj"
-      },
-      "artists": [
-        {
-          "name": "Paris Hilton",
-          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Chasin' (feat. Meghan Trainor)",
-      "url": "https://open.spotify.com/track/4FtJXKZofhG9jt9reeahSg"
-    },
-    {
-      "added_at": "2024-10-31 00:01:00",
-      "album": {
         "name": "Coraz\u00f3n (Feat. Bomba Est\u00e9reo)",
         "url": "https://open.spotify.com/album/7ix2EWiNF7gDXdXoy99NjK"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 157503,
       "name": "Coraz\u00f3n (Feat. Bomba Est\u00e9reo)",
       "url": "https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh"
+    },
+    {
+      "added_at": "2024-10-31 00:01:00",
+      "album": {
+        "name": "Chasin' (feat. Meghan Trainor)",
+        "url": "https://open.spotify.com/album/5GzcpXxpQsBKJGPX2oDvvj"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Chasin' (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/4FtJXKZofhG9jt9reeahSg"
     },
     {
       "added_at": "2024-10-31 00:01:00",

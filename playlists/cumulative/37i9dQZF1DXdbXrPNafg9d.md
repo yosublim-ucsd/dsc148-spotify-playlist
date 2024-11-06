@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Wisp
 
-7,906 songs - 19 day 4 hr 31 min
+7,907 songs - 19 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1953,6 +1953,7 @@
 | [Dumb Guitar](https://open.spotify.com/track/50UWt4jx8Y1t8EoV0ODKDL) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Dumb Guitar](https://open.spotify.com/album/0oPbGSY87GRUH60Owh8Yql) | 5:10 | 2023-11-03 | 2023-12-16 |
 | [Dumber](https://open.spotify.com/track/47IfKaYzgUv3GvnfCvkzs1) | [Celia](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Dumber](https://open.spotify.com/album/0164Ced3OJ2oQamAmpa7sG) | 3:28 | 2023-05-19 | 2023-06-24 |
 | [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-03-03 | 2023-04-09 |
+| [Dundalk Dungeon](https://open.spotify.com/track/13aMJlWVcUmrrESLBkYSbV) | [Katrina Ford](https://open.spotify.com/artist/0m1QOHroy845vm0zq28eIA) | [H.E.A.R.T.](https://open.spotify.com/album/47GkZpvlxjEEWZpe4DNJam) | 3:37 | 2024-11-06 |  |
 | [Dusk](https://open.spotify.com/track/3FeEcY103cc4fmDl6UwoUS) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Dusk](https://open.spotify.com/album/364sZomV3ATJr86kZiJOdb) | 2:51 | 2020-12-04 | 2021-02-12 |
 | [Dust](https://open.spotify.com/track/6hEzCqKXYhxSUQy29whWrV) | [Caroline Says](https://open.spotify.com/artist/10U1DbsjhgAqUMcouK267Q) | [Dust](https://open.spotify.com/album/7xRv3n9tbW9meJ00lMwQlq) | 1:51 | 2024-10-11 |  |
 | [Dust](https://open.spotify.com/track/2jlCjWDVMETerCxcYLUV6c) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Dust](https://open.spotify.com/album/262dBxlmjPa3S0pjUaEalc) | 3:41 | 2024-10-04 |  |
@@ -5135,7 +5136,7 @@
 | [Palisade](https://open.spotify.com/track/0GORG74P5eJUDNZXHL81ns) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L) | [This Infinite](https://open.spotify.com/album/3y9JzXqiUFmPQJy0jxlCq4) | 3:44 | 2024-10-04 | 2024-11-02 |
 | [Palomino](https://open.spotify.com/track/0zosLtbwbykpbPRyZMCeL5) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino](https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D) | 3:17 | 2022-11-04 | 2022-12-24 |
 | [Pan and Broom](https://open.spotify.com/track/4cBqoMsJbZRRyJXLEmTX57) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Down in the Weeds, Where the World Once Was](https://open.spotify.com/album/1GMHBkCYVzWqrrczVDBJKm) | 2:52 | 2020-08-21 | 2020-09-18 |
-| [Panavision](https://open.spotify.com/track/5DO8iVnJwb45iYWpDzIOse) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Panavision](https://open.spotify.com/album/18WG8VLTCQc7XI7xdk9VaF) | 4:09 | 2024-10-04 |  |
+| [Panavision](https://open.spotify.com/track/5DO8iVnJwb45iYWpDzIOse) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Panavision](https://open.spotify.com/album/18WG8VLTCQc7XI7xdk9VaF) | 4:09 | 2024-10-04 | 2024-11-06 |
 | [Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Pandora](https://open.spotify.com/album/47rlABSBChwZC7qxAKzOWw) | 4:21 | 2024-04-05 | 2024-05-11 |
 | [Pang](https://open.spotify.com/track/5bcJwBywjaz78KTf374PCb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:33 | 2019-10-25 | 2019-11-15 |
 | [Panic Attack](https://open.spotify.com/track/4TfAkflaDVuAYjC9KZBJZK) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Panic Attack](https://open.spotify.com/album/4882yg0ncijjrB0hwgouLe) | 2:48 | 2023-01-20 | 2023-03-04 |

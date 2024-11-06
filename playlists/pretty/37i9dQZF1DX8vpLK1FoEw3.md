@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 
 > errar é humano persistir no erro é gotoso d+ \#MeuSpotify com Simone Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,780 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,867 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

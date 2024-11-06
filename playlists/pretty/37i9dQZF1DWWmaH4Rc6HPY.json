@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! RENEE en portada.",
-  "num_followers": 31699,
+  "num_followers": 31716,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
+        "name": "A Fuego",
+        "url": "https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH"
+      },
+      "artists": [
+        {
+          "name": "Robleis",
+          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
+        }
+      ],
+      "duration_ms": 167538,
+      "name": "A Fuego",
+      "url": "https://open.spotify.com/track/2MNcAkHDpVqGbRsaqO7LF2"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
         "name": "Mi + 1",
         "url": "https://open.spotify.com/album/6zNItkFIgiGd0ZK35jt6fM"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 166400,
       "name": "Mi + 1",
       "url": "https://open.spotify.com/track/7vr6sOiAkiDVteYSmg5FNU"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "A Fuego",
-        "url": "https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH"
-      },
-      "artists": [
-        {
-          "name": "Robleis",
-          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
-        }
-      ],
-      "duration_ms": 167538,
-      "name": "A Fuego",
-      "url": "https://open.spotify.com/track/2MNcAkHDpVqGbRsaqO7LF2"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "K\u00e9 MaL",
-        "url": "https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 188035,
-      "name": "K\u00e9 MaL",
-      "url": "https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "La Puerta",
         "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 183109,
       "name": "La Puerta",
       "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "K\u00e9 MaL",
+        "url": "https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 188035,
+      "name": "K\u00e9 MaL",
+      "url": "https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
+        "name": "Secuaz (Noches de Sal\u00f3n)",
+        "url": "https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 237324,
+      "name": "Secuaz - Noches de Sal\u00f3n",
+      "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
         "name": "Silencio",
         "url": "https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 325145,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "Secuaz (Noches de Sal\u00f3n)",
-        "url": "https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 237324,
-      "name": "Secuaz - Noches de Sal\u00f3n",
-      "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -923,6 +923,22 @@
       "duration_ms": 191107,
       "name": "Dame Love - Remix",
       "url": "https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "ZEPPELIN",
+        "url": "https://open.spotify.com/album/6dAYN3og99K1zstz4PsAoV"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 192815,
+      "name": "ZEPPELIN",
+      "url": "https://open.spotify.com/track/0P3bHdCDEADNVs1pftBVee"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -971,22 +987,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "ZEPPELIN",
-        "url": "https://open.spotify.com/album/6dAYN3og99K1zstz4PsAoV"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 192815,
-      "name": "ZEPPELIN",
-      "url": "https://open.spotify.com/track/0P3bHdCDEADNVs1pftBVee"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Rompehielos",
         "url": "https://open.spotify.com/album/13HcAi6ldlKksKEFPCrsf3"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 180310,
       "name": "Rompehielos",
       "url": "https://open.spotify.com/track/0bRhN9bnExMCBF3ktxH2nN"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "ECLIPSE",
-        "url": "https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 153837,
-      "name": "ECLIPSE",
-      "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1035,22 +1019,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Perder",
-        "url": "https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 219272,
-      "name": "Perder",
-      "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Elemento Noches De Sal\u00f3n",
         "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
       },
@@ -1063,6 +1031,38 @@
       "duration_ms": 223990,
       "name": "Elemento Noches De Sal\u00f3n - Noches De Sal\u00f3n",
       "url": "https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "ECLIPSE",
+        "url": "https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 153837,
+      "name": "ECLIPSE",
+      "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "Perder",
+        "url": "https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 219272,
+      "name": "Perder",
+      "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "sin nada",
-        "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
-      },
-      "artists": [
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        }
-      ],
-      "duration_ms": 154514,
-      "name": "sin nada",
-      "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Todo Regresa",
         "url": "https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 184453,
       "name": "Todo Regresa",
       "url": "https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "sin nada",
+        "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 154514,
+      "name": "sin nada",
+      "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
+        "name": "B2B",
+        "url": "https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "duration_ms": 182948,
+      "name": "B2B",
+      "url": "https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
         "name": "Cristal",
         "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
       },
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "B2B",
-        "url": "https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT"
+        "name": "\u00c9rase Una Vez (Pero Ya No) [De \"EQSB\" Soundtrack]",
+        "url": "https://open.spotify.com/album/6yrAgrYatN30AWcHIsWNOM"
       },
       "artists": [
         {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 182948,
-      "name": "B2B",
-      "url": "https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6"
+      "duration_ms": 189746,
+      "name": "\u00c9rase Una Vez (Pero Ya No)",
+      "url": "https://open.spotify.com/track/2CLcqg6PEB76Qkxh6R4MSC"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1295,22 +1311,6 @@
       "duration_ms": 174629,
       "name": "El para\u00edso #2",
       "url": "https://open.spotify.com/track/0Sk0gQDXrdlrCFk8xFYOrx"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "\u00c9rase Una Vez (Pero Ya No) [De \"EQSB\" Soundtrack]",
-        "url": "https://open.spotify.com/album/6yrAgrYatN30AWcHIsWNOM"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 189746,
-      "name": "\u00c9rase Una Vez (Pero Ya No)",
-      "url": "https://open.spotify.com/track/2CLcqg6PEB76Qkxh6R4MSC"
     },
     {
       "added_at": "2024-11-01 06:00:00",

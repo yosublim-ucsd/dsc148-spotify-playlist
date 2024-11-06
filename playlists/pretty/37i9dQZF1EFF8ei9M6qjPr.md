@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360 likes - 148 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 361 likes - 148 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 87 | [Tight Rope](https://open.spotify.com/track/5NeLJqVbSo5hhrxBSuLhRY) | [WENGIE](https://open.spotify.com/artist/1g4X3uOqgxWFRNV4MbEIbD) | [11:11](https://open.spotify.com/album/7u4fzlWAGPHodLj0lPDuyD) | 3:05 |
 | 88 | [Supernova](https://open.spotify.com/track/2Tb9VdP35jbF4GJmC869uu) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [REALIEZ](https://open.spotify.com/album/70ptf4PxBI5aZdXWPbxTs0) | 3:28 |
 | 89 | [Loverman](https://open.spotify.com/track/1CXwlCdikcZ2cni4GnYJLt) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Loverman](https://open.spotify.com/album/19fcLNxfpIzDU9z5nXH2A0) | 2:26 |
-| 90 | [Conversations in the Dark \- Violin Remix](https://open.spotify.com/track/6ujkVvJAlQ39Ra0E2tKx8M) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [John Legend x Lindsey Stirling: The Violin Remixes](https://open.spotify.com/album/1K2wTjP6DYiAljLN10283k) | 3:42 |
-| 91 | [Sober Up](https://open.spotify.com/track/3ImNIsa0NoPrvF77lNAvM3) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Lunch EP](https://open.spotify.com/album/64InF946FZ8kReuvMx8qn2) | 2:49 |
+| 90 | [Sober Up](https://open.spotify.com/track/3ImNIsa0NoPrvF77lNAvM3) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Lunch EP](https://open.spotify.com/album/64InF946FZ8kReuvMx8qn2) | 2:49 |
+| 91 | [Conversations in the Dark \- Violin Remix](https://open.spotify.com/track/6ujkVvJAlQ39Ra0E2tKx8M) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [John Legend x Lindsey Stirling: The Violin Remixes](https://open.spotify.com/album/1K2wTjP6DYiAljLN10283k) | 3:42 |
 | 92 | [growing pains](https://open.spotify.com/track/5DCla4SclRwZhGRlI9Gq4J) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:42 |
 | 93 | [Sick of Me Too](https://open.spotify.com/track/5p10pR7Hs1nM99bUwCAaqW) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Sick of Me Too](https://open.spotify.com/album/3r9SgXJ51nliEoI6Az7zO5) | 2:31 |
 | 94 | [Company](https://open.spotify.com/track/55kYJ7B56iDV7jDgA6vKCJ) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [Company](https://open.spotify.com/album/75YVWxYcBLnetgaM4GdU2g) | 3:43 |
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 129 | [BMW X5](https://open.spotify.com/track/5l2eU16Ruz6W73u0yESsuC) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [BMW X5](https://open.spotify.com/album/7BBbjxLMCcp3bseNfYgRPD) | 2:47 |
 | 130 | [Ghost Of Us](https://open.spotify.com/track/4Nxk4StgFRbgPXztvbYw2u) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:15 |
 | 131 | [Haunt Me](https://open.spotify.com/track/2TuTlcE2yrwZGFlowFYwIZ) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Dear Ella,](https://open.spotify.com/album/1NnDilXBFyACjOuXOvY7Z7) | 3:06 |
-| 132 | [let you down \(feat\. Jake Bugg\)](https://open.spotify.com/track/0KZYmzV0OHhPu4aTMO2zjm) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 3:27 |
-| 133 | [Invisible \(feat\. ROSIE\)](https://open.spotify.com/track/2wOAiTzjD2krew1lyLWE1b) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Invisible \(feat\. ROSIE\)](https://open.spotify.com/album/6Be6MPVTY87kq1jxqbuCUH) | 3:17 |
+| 132 | [Invisible \(feat\. ROSIE\)](https://open.spotify.com/track/2wOAiTzjD2krew1lyLWE1b) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Invisible \(feat\. ROSIE\)](https://open.spotify.com/album/6Be6MPVTY87kq1jxqbuCUH) | 3:17 |
+| 133 | [let you down \(feat\. Jake Bugg\)](https://open.spotify.com/track/0KZYmzV0OHhPu4aTMO2zjm) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 3:27 |
 | 134 | [Die For Me](https://open.spotify.com/track/1Ccf57DxueCpaJ85Rx7LDV) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:57 |
 | 135 | [Wish You Would](https://open.spotify.com/track/6OdhRpSKjX46JcDtaOlYoS) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Wish You Would](https://open.spotify.com/album/1VU8aeR5Av7bGxCZXlHwBe) | 2:24 |
 | 136 | [Good Bad & Ugly](https://open.spotify.com/track/5lrIBgTRHWlQj2LZdUYIwA) | [JaeyBxrd](https://open.spotify.com/artist/4rBpyETZEnrBQB7Xc4oRfa) | [Good Bad & Ugly](https://open.spotify.com/album/4V8iHTf70CbUtPmPre6WJl) | 2:01 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 147 | [Hurry Up and Let Me Down](https://open.spotify.com/track/5vNIgtRteWg8GvF54Rpz4Z) | [David Alexander](https://open.spotify.com/artist/0Wjw5Ny6h7tYYlwYDLFYiE) | [Hurry Up and Let Me Down](https://open.spotify.com/album/7k08YP0Il6IRpHBF2T24kk) | 2:36 |
 | 148 | [All I Wanna Be \(feat\. Sean Patrick Murray\)](https://open.spotify.com/track/1Ec1hixIPm30vs0s9aV5BK) | [Westside Cast](https://open.spotify.com/artist/5Z6UnrTHG7YbOsdHAkZdOw), [Sean Patrick Murray](https://open.spotify.com/artist/31wZNcRxQ9opwiFLXpCvld) | [Westside: The Music \(Music from the Original Series\)](https://open.spotify.com/album/4z57sC26Xxv1CdURc6mfru) | 3:54 |
 
-Snapshot ID: `AbgooAAAAAAHSZ4u0eJlmwiMqPaSBxKw`
+Snapshot ID: `AbguQAAAAAAlo9+ZU2M+rW2l/RY9p8+q`

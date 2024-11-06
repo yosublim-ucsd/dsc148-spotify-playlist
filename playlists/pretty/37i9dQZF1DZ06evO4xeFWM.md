@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,864 likes - 52 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,869 likes - 52 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 21 | [Flaws](https://open.spotify.com/track/14qPtxNN9MBdqKpP6l5q6G) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:38 |
 | 22 | [Joy](https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 3:12 |
 | 23 | [Another Place](https://open.spotify.com/track/2Fn4gZI3MAeWTiv7cSVxZQ) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Another Place](https://open.spotify.com/album/3PshhNStqCBXDzWm5O1VsE) | 3:33 |
-| 24 | [Zheng Yi Sao & Questions For Her](https://open.spotify.com/track/6IKCC8E1LWTo10LVr8jDqI) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:34 |
+| 24 | [Eve & Paradise Lost](https://open.spotify.com/track/0c3VjNgGU2wOidmg71UsdC) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:10 |
 | 25 | [Remains \(Bastille Vs\. Rag’N’Bone Man Vs\. Skunk Anansie\)](https://open.spotify.com/track/6G43t8BCjmJyPGwNrAAPPV) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [VS\. \(Other People’s Heartache, Pt\. III\)](https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL) | 4:39 |
 | 26 | [Thelma + Louise](https://open.spotify.com/track/2BzVkisodhQOPOPVJ9UKEI) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs) | 2:17 |
 | 27 | [No Angels](https://open.spotify.com/track/0rILJVRD7waDGOFzoyruI2) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [No Angels](https://open.spotify.com/album/5cGHWAoS3cGwU9eYTH3mSm) | 3:52 |
-| 28 | [Eve & Paradise Lost](https://open.spotify.com/track/0c3VjNgGU2wOidmg71UsdC) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:10 |
+| 28 | [Zheng Yi Sao & Questions For Her](https://open.spotify.com/track/6IKCC8E1LWTo10LVr8jDqI) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:34 |
 | 29 | [Bad Blood](https://open.spotify.com/track/04D2wKcN9ju5IY06nwV24m) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:32 |
 | 30 | [World Gone Mad](https://open.spotify.com/track/1ZyQGXH9dZ4AecevHhKUxi) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [World Gone Mad \(From Bright: The Album\)](https://open.spotify.com/album/1eRw8LHFNcfucLRf0PWbHw) | 3:15 |
 | 31 | [The Anchor](https://open.spotify.com/track/0qwpBiu4uhW9hiQ6P4NePz) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:24 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 51 | [The Currents](https://open.spotify.com/track/5hcxUMmvcL66B1OqPPres2) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:24 |
 | 52 | [WHAT YOU GONNA DO???](https://open.spotify.com/track/31brGBYDq5N15VxIn5juop) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [WHAT YOU GONNA DO???](https://open.spotify.com/album/60qrudaXQ3p7R3gX4ctAdD) | 2:11 |
 
-Snapshot ID: `Zya9AAAAAAAKTwaVZE6E3/3lJhdcAo7y`
+Snapshot ID: `ZygOgAAAAADu7BCkrH2Xf9dP9lc7klz6`

@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-01",
+      "date_removed": null,
       "duration_ms": 312788,
       "name": "360 Degrees [feat. Jully Black] - Extended Mix",
       "url": "https://open.spotify.com/track/5CWzrSnR7lkkj81y2UEoGX"
@@ -749,6 +749,24 @@
     },
     {
       "album": {
+        "name": "The Science",
+        "url": "https://open.spotify.com/album/2ghPaVly0Hh1w1bEjH0IXF"
+      },
+      "artists": [
+        {
+          "name": "Main Source",
+          "url": "https://open.spotify.com/artist/0zi2OowIfzNqUQiuUVyGLs"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220206,
+      "name": "Fakin' The Funk - Sound Track Version",
+      "url": "https://open.spotify.com/track/3Z3H0nC21PLinRbUbJlMGN"
+    },
+    {
+      "album": {
         "name": "While You Were Sleeping",
         "url": "https://open.spotify.com/album/40Ns0bZ8vDcncxeRIfwN6Q"
       },
@@ -854,7 +872,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 236680,
       "name": "Friendamine - Remix Featuring Nelly Furtado",
       "url": "https://open.spotify.com/track/2uJH9wXUWtW4MvtYw66NNn"
@@ -1428,7 +1446,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 249706,
       "name": "Looking At The Front Door",
       "url": "https://open.spotify.com/track/3gb5bGKt38kfetqZ35DlLp"
@@ -2106,7 +2124,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 273600,
       "name": "Rap Passion (feat. Red One)",
       "url": "https://open.spotify.com/track/0OKl5o9g4coiF36u9UXCzq"
@@ -2666,7 +2684,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 229466,
       "name": "The Radio Edit",
       "url": "https://open.spotify.com/track/3LucZMivE3CYFWGFgdao1Q"

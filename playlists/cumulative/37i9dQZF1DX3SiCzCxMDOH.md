@@ -4,7 +4,7 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-862 songs - 2 day 2 hr 26 min
+865 songs - 2 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [At Dusk](https://open.spotify.com/track/0XVdTFUuT5GpxURuICaFKK) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [At Dusk](https://open.spotify.com/album/5uRwkihneepvVSGokwLDNO) | 3:24 | 2022-08-10 |  |
 | [At Last](https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 4:53 | 2022-05-10 | 2023-06-23 |
 | [At the end of the day](https://open.spotify.com/track/0flOyulYWI5aqATizzKxdU) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [At the end of the day](https://open.spotify.com/album/4hBDyCoutcG2IhvK1p87P8) | 3:36 | 2024-05-10 |  |
+| [August With You](https://open.spotify.com/track/40hmR9JwhMwESw3hkvPs72) | [Villa Crespo](https://open.spotify.com/artist/5hBBW5N2rIgSPmRgFo5ErL) | [August With You](https://open.spotify.com/album/0LGrLzgASOIA6rDgKKyMeq) | 3:47 | 2024-11-05 |  |
 | [Autumn Embrace](https://open.spotify.com/track/3a2EtryAoijDMEAOaFSxqH) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Autumn Embrace](https://open.spotify.com/album/2DxBhqTHXlvOPiGGb4tB4k) | 2:33 | 2023-08-10 |  |
 | [Autumn In New York](https://open.spotify.com/track/62FrtiVepyS9UGfcTPhu7W) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Autumn In New York](https://open.spotify.com/album/1bfAtOefGFjr2k6eQicSzJ) | 4:19 | 2022-09-29 | 2023-03-18 |
 | [Autumn Memories](https://open.spotify.com/track/293Z6MI83NgU15Ky5Gakqc) | [Nathan Hill Trio](https://open.spotify.com/artist/4KDVrZS1ZTq8DvPeEZxbHz) | [Autumn Memories](https://open.spotify.com/album/6h7xUNNSruP2FycYPtFu9r) | 3:26 | 2024-02-02 |  |
@@ -322,6 +323,7 @@
 | [I Waited For You](https://open.spotify.com/track/4j58MWVz5BW6Z4b3x01EEG) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [I Waited For You](https://open.spotify.com/album/4gtku4tyuo8XFZC72MPAS8) | 3:24 | 2024-01-19 | 2024-09-04 |
 | [I Will](https://open.spotify.com/track/1L7N7WKoeTBDThE4eCX41B) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [I Will](https://open.spotify.com/album/4WRGSWTEHvrWfmIdv382O5) | 2:48 | 2023-06-22 |  |
 | [I Will Wait For You](https://open.spotify.com/track/0YFqTbYqglQhH2mkj1Cb1z) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [I Will Wait For You](https://open.spotify.com/album/0O6hlZssMqH4QAG1zDoWhH) | 2:16 | 2022-04-11 | 2022-10-28 |
+| [I Wonder Why](https://open.spotify.com/track/7nrEqjAOU6LYdNRYiWHkSk) | [The Bruce Brady Trio](https://open.spotify.com/artist/75Wq0vgFRSA0Nhx7tg49zW) | [I Wonder Why](https://open.spotify.com/album/5lijkHpVDFVNqct6LqR1A6) | 3:45 | 2024-11-05 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/6n4yC8xONFzknfbasLvGZH) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Moonlight in Vermont](https://open.spotify.com/album/3m63lHtdqEuoaRXHmwpqoJ) | 3:01 | 2022-08-17 | 2023-03-25 |
 | [I'll Be There](https://open.spotify.com/track/02PAR02BrdtAdLFOuPIBWP) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [I'll Be There](https://open.spotify.com/album/6aEjFrveJnlIDHj8ImUhgH) | 3:50 | 2023-12-22 | 2024-09-28 |
 | [I'll Never Smile Again](https://open.spotify.com/track/0fFcQSmLNV5oA8zjDzowwr) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [I'll Never Smile Again](https://open.spotify.com/album/11ex2SQdtNwOPbxvroSghz) | 2:46 | 2024-02-02 |  |
@@ -526,7 +528,7 @@
 | [Naima](https://open.spotify.com/track/6N1c9EHlOMHdQ55hmHkhDq) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [Naima](https://open.spotify.com/album/2sSS9Mxw73wnpilrkA4mdJ) | 3:10 | 2022-11-17 |  |
 | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq) | 4:05 | 2022-09-20 |  |
 | [Need to rest](https://open.spotify.com/track/0Z9IuuRyNcz275MxEMvdZ7) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [Need to rest](https://open.spotify.com/album/10hgpKgMU5w4n3pCRIfPrY) | 3:07 | 2023-10-06 |  |
-| [Need You Here](https://open.spotify.com/track/6U31miey75JtdzenSiTToi) | [Urban Jazz Junction](https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd) | [Need You Here](https://open.spotify.com/album/5fb0JVW12CPXXIZQ4LIcW4) | 4:08 | 2024-04-10 |  |
+| [Need You Here](https://open.spotify.com/track/6U31miey75JtdzenSiTToi) | [Urban Jazz Junction](https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd) | [Need You Here](https://open.spotify.com/album/5fb0JVW12CPXXIZQ4LIcW4) | 4:08 | 2024-04-10 | 2024-11-06 |
 | [Neon Nightscape](https://open.spotify.com/track/1IDeoU149BEQU6HChwNrHB) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Neon Nightscape](https://open.spotify.com/album/3o4zbbXblhFCJSanZqQqqn) | 3:16 | 2023-11-17 | 2024-09-10 |
 | [Never Let Me Go](https://open.spotify.com/track/2ymdJ1hcMKjzuWHek3ym3U) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [Never Let Me Go](https://open.spotify.com/album/1LGi7drBLtZN9O0tz12oTT) | 2:56 | 2022-10-27 | 2023-10-06 |
 | [New Hampshire](https://open.spotify.com/track/0Z8auoHguIXLgSMzqT3kZr) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Almond Joy](https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F) | 3:03 | 2022-04-11 | 2022-11-18 |
@@ -681,7 +683,7 @@
 | [Steps from the Nightingale](https://open.spotify.com/track/7fyUkkPxqX09GgpTBDR22Z) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Steps from the Nightingale](https://open.spotify.com/album/1ItL7EmWFogCnKiXFZQbmA) | 2:34 | 2022-12-01 |  |
 | [Still](https://open.spotify.com/track/2s499EvGIk8gVUGLCyftFX) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Still](https://open.spotify.com/album/48i2I8qyuyoqMahX05LWkq) | 2:31 | 2023-01-05 |  |
 | [Stormy Weather](https://open.spotify.com/track/1S34dvZPhsw0gIevtZrc0A) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Stormy Weather](https://open.spotify.com/album/1kLUIm38l7rUPoXJNe2ShN) | 3:12 | 2022-08-10 |  |
-| [Story of My Dream](https://open.spotify.com/track/3DgwDOJOfDGM6pdIWkkXA1) | [Almost Here](https://open.spotify.com/artist/5o7GNcXboXqTegTrAYHERs) | [Story of My Dream](https://open.spotify.com/album/6HuFY7tw5HA5ZMnurekM79) | 2:57 | 2023-09-22 |  |
+| [Story of My Dream](https://open.spotify.com/track/3DgwDOJOfDGM6pdIWkkXA1) | [Almost Here](https://open.spotify.com/artist/5o7GNcXboXqTegTrAYHERs) | [Story of My Dream](https://open.spotify.com/album/6HuFY7tw5HA5ZMnurekM79) | 2:57 | 2023-09-22 | 2024-11-06 |
 | [Strangest Sea](https://open.spotify.com/track/1uptgSNdSsDIVsdynJEoCe) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Strangest Sea](https://open.spotify.com/album/2KsZ2DjNxiSbfwWv49bHS9) | 3:34 | 2023-02-16 |  |
 | [Street Of Dreams](https://open.spotify.com/track/0pHhyUsES9pfUhQl0uGCZO) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [Street Of Dreams](https://open.spotify.com/album/7v179YsGamYrzsQIcGPa5U) | 3:21 | 2023-05-04 |  |
 | [Strong, silent type](https://open.spotify.com/track/01bVdeoXeVupkwzC2kwHsW) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Strong, silent type](https://open.spotify.com/album/67bsyOc1YTnuKGNF4foSlb) | 3:18 | 2024-02-02 | 2024-07-23 |
@@ -714,6 +716,7 @@
 | [The Day that I Felt](https://open.spotify.com/track/7IVkAhHfWNsc7HUxKddN1x) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:18 | 2023-02-02 |  |
 | [The Days Of Wine And Roses](https://open.spotify.com/track/4perVeAQ5hn68NDRx6nzey) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [The Days Of Wine And Roses](https://open.spotify.com/album/2k7HeS16u7cqaUJei7VuAf) | 3:05 | 2023-02-09 |  |
 | [The End Of A Love Affair](https://open.spotify.com/track/6wcsA3k0UzI0aFdwigs79C) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [The End Of A Love Affair](https://open.spotify.com/album/42PyETdAanQLbNeoNR1ulI) | 5:38 | 2022-04-11 | 2022-06-29 |
+| [The End of the Summer](https://open.spotify.com/track/2yK4ah3grQk1gsdmoUOc9Q) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [The End of the Summer](https://open.spotify.com/album/09A8piZfw2u2sJNH1Eg84d) | 4:58 | 2024-11-05 |  |
 | [The Fate of Love](https://open.spotify.com/track/59VY0huVKd5pSuJLI9RrMO) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [The Fate of Love](https://open.spotify.com/album/4LYUSTQLCYtx3DZTfsXFly) | 2:50 | 2023-01-19 |  |
 | [The First Step](https://open.spotify.com/track/2CFUoit9OLr6gHZ2WUz7P1) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [The First Step](https://open.spotify.com/album/0npCvOirIl3qBkbtpkAufa) | 3:02 | 2023-11-24 |  |
 | [the first time I saw you](https://open.spotify.com/track/2mxkWAgoZBU1lRmxp8KEBt) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [the first time I saw you](https://open.spotify.com/album/1L8MHKjTmFHlcwinpZgWZn) | 2:55 | 2023-04-13 | 2024-09-04 |
@@ -759,7 +762,7 @@
 | [This Morning](https://open.spotify.com/track/2kpki79GZZ2BNg5dNcvRUO) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [This Morning](https://open.spotify.com/album/7mYQhnbJorRqvOtmOepChZ) | 3:21 | 2024-02-09 | 2024-10-22 |
 | [Thoughts Of You](https://open.spotify.com/track/1ca7uFXnN2yDZu9TgMy04N) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Thoughts Of You](https://open.spotify.com/album/1qwTOSaVVrRVW4vBjjzbza) | 2:56 | 2023-09-08 |  |
 | [Through The Years](https://open.spotify.com/track/7g5SC1jZlV5dG5czITyjWa) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Through The Years](https://open.spotify.com/album/4fWa037ryzZJYfrxejalL0) | 3:56 | 2022-06-22 |  |
-| [Thursday Afternoon](https://open.spotify.com/track/0OxIW2YPKXFNkskaZfNFk5) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Thursday Afternoon](https://open.spotify.com/album/7mLrCwcnBKZgY7YcedbkW1) | 3:18 | 2024-05-10 |  |
+| [Thursday Afternoon](https://open.spotify.com/track/0OxIW2YPKXFNkskaZfNFk5) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Thursday Afternoon](https://open.spotify.com/album/7mLrCwcnBKZgY7YcedbkW1) | 3:18 | 2024-05-10 | 2024-11-06 |
 | [Till There Was You](https://open.spotify.com/track/3FpMFIImpOZfAXQjsOBmkh) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Till There Was You](https://open.spotify.com/album/0ab5U3SnyooRTgP2uFXejL) | 2:35 | 2023-08-10 |  |
 | [Time After Time](https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt) | [Urban Jazz Junction](https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd) | [Time After Time](https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6) | 3:20 | 2024-02-02 |  |
 | [Time For Us All](https://open.spotify.com/track/3qkps5sd1PZ16qddlIiA28) | [Shay Walsh](https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N) | [Time For Us All](https://open.spotify.com/album/1vDWKR0MtOjAGZkNLxU1IV) | 3:17 | 2023-08-10 | 2024-08-20 |

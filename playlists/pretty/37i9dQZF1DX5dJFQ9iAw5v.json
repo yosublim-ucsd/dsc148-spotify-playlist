@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 32457,
+  "num_followers": 32458,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl"
+      },
+      "artists": [
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        }
+      ],
+      "duration_ms": 220532,
+      "name": "Lago de Forma Mia",
+      "url": "https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
         "name": "Cinemateca Finlandesa",
         "url": "https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 276640,
       "name": "Viernes 3AM",
       "url": "https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Camino",
-        "url": "https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl"
-      },
-      "artists": [
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        }
-      ],
-      "duration_ms": 220532,
-      "name": "Lago de Forma Mia",
-      "url": "https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "ESCALECTRIC",
-        "url": "https://open.spotify.com/album/2zt51xYKMh7FFwORtkzq9x"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 286798,
-      "name": "Parque Chas",
-      "url": "https://open.spotify.com/track/0dnRzjlfB337Ay7nMcNsHS"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Viva Jujuy",
         "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 403600,
       "name": "Tour de Force",
       "url": "https://open.spotify.com/track/2foU99quuAqqJTCn04P1cy"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "ESCALECTRIC",
+        "url": "https://open.spotify.com/album/2zt51xYKMh7FFwORtkzq9x"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 286798,
+      "name": "Parque Chas",
+      "url": "https://open.spotify.com/track/0dnRzjlfB337Ay7nMcNsHS"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
+        "name": "El Drag\u00f3n Blanco",
+        "url": "https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF"
+      },
+      "artists": [
+        {
+          "name": "Patricio Carpossi",
+          "url": "https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX"
+        }
+      ],
+      "duration_ms": 286373,
+      "name": "Titi",
+      "url": "https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
         "name": "Querido Bill : Tributo a Bill Evans",
         "url": "https://open.spotify.com/album/7hi7JxW5BDVbINzu79QVjQ"
       },
@@ -1223,18 +1239,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "El Drag\u00f3n Blanco",
-        "url": "https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF"
+        "name": "Here\u00b4s That Rainy Day",
+        "url": "https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb"
       },
       "artists": [
         {
-          "name": "Patricio Carpossi",
-          "url": "https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX"
+          "name": "Gustavo Musso",
+          "url": "https://open.spotify.com/artist/4OyrnRvPB0hgGlAE0LGr0i"
+        },
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
         }
       ],
-      "duration_ms": 286373,
-      "name": "Titi",
-      "url": "https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne"
+      "duration_ms": 192615,
+      "name": "Here\u00b4s That Rainy Day",
+      "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1271,22 +1291,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Here\u00b4s That Rainy Day",
-        "url": "https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb"
+        "name": "Algo Bueno - Something Good",
+        "url": "https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5"
       },
       "artists": [
         {
-          "name": "Gustavo Musso",
-          "url": "https://open.spotify.com/artist/4OyrnRvPB0hgGlAE0LGr0i"
+          "name": "Marta Bellomo",
+          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
         },
         {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+          "name": "Alejandro Moro",
+          "url": "https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8"
         }
       ],
-      "duration_ms": 192615,
-      "name": "Here\u00b4s That Rainy Day",
-      "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
+      "duration_ms": 572278,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1339,26 +1359,6 @@
       "duration_ms": 405604,
       "name": "La Novena",
       "url": "https://open.spotify.com/track/0M8qsjYdr5qu2Z7TKGzTon"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Algo Bueno - Something Good",
-        "url": "https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5"
-      },
-      "artists": [
-        {
-          "name": "Marta Bellomo",
-          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
-        },
-        {
-          "name": "Alejandro Moro",
-          "url": "https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8"
-        }
-      ],
-      "duration_ms": 572278,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N"
     },
     {
       "added_at": "2023-12-08 00:22:41",

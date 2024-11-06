@@ -1,13 +1,45 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover:  Jeff Lamb",
-  "num_followers": 230209,
+  "num_followers": 230243,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxkxEAAAAAC1aFyXPKeA2LaOkxS2HiDQ",
+  "snapshot_id": "Zyq2ogAAAADIfHaUE27NtHlufkbk+BAt",
   "tracks": [
+    {
+      "added_at": "2024-11-06 00:21:54",
+      "album": {
+        "name": "Blue Desert",
+        "url": "https://open.spotify.com/album/1H96rR2NE8XkXZw5w9586X"
+      },
+      "artists": [
+        {
+          "name": "Jack J",
+          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
+        }
+      ],
+      "duration_ms": 173825,
+      "name": "Falling Down a Well",
+      "url": "https://open.spotify.com/track/5MyTc8ST5a6BNyyRucZNlf"
+    },
+    {
+      "added_at": "2024-11-06 00:21:54",
+      "album": {
+        "name": "Favorite Kind of People",
+        "url": "https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm"
+      },
+      "artists": [
+        {
+          "name": "Jaco Jaco",
+          "url": "https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL"
+        }
+      ],
+      "duration_ms": 184776,
+      "name": "Favorite Kind of People",
+      "url": "https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz"
+    },
     {
       "added_at": "2024-10-23 17:23:28",
       "album": {
@@ -23,6 +55,374 @@
       "duration_ms": 300570,
       "name": "Kids Go Down (\u5b69\u5b50\u4eec\u7684\u65f6\u5149)",
       "url": "https://open.spotify.com/track/4tSnOJt0gQai61lN8wo5b9"
+    },
+    {
+      "added_at": "2024-11-06 00:21:54",
+      "album": {
+        "name": "How Can I",
+        "url": "https://open.spotify.com/album/3jD85FlNOwbJNAGvWqICAg"
+      },
+      "artists": [
+        {
+          "name": "Dead Gowns",
+          "url": "https://open.spotify.com/artist/7jadGvdBDPrM4fNOukfDny"
+        }
+      ],
+      "duration_ms": 214626,
+      "name": "How Can I",
+      "url": "https://open.spotify.com/track/3FhlcU65UNcSscY959nVaX"
+    },
+    {
+      "added_at": "2024-11-06 00:21:54",
+      "album": {
+        "name": "ii",
+        "url": "https://open.spotify.com/album/0KlJJuIHiTe1eJ3BoLDQn3"
+      },
+      "artists": [
+        {
+          "name": "ggwendolyn",
+          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
+        }
+      ],
+      "duration_ms": 212849,
+      "name": "tumbleweed motel",
+      "url": "https://open.spotify.com/track/1LbRnseZm74OhORdBb6Isy"
+    },
+    {
+      "added_at": "2024-10-23 17:23:28",
+      "album": {
+        "name": "hello !",
+        "url": "https://open.spotify.com/album/40TqXlI1fSIQVfx6HmUfaQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Luke Brown",
+          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
+        }
+      ],
+      "duration_ms": 170903,
+      "name": "hello !",
+      "url": "https://open.spotify.com/track/5kXvq3Av4i43eejvl2GxZq"
+    },
+    {
+      "added_at": "2024-11-06 00:21:54",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/5YCM4V97dHK1yXbVygFmwL"
+      },
+      "artists": [
+        {
+          "name": "Gordon's Grandson",
+          "url": "https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9"
+        }
+      ],
+      "duration_ms": 129207,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/78XlwmdSGYjeqghuKGNMs7"
+    },
+    {
+      "added_at": "2024-10-23 17:23:28",
+      "album": {
+        "name": "Pale Moon Pale Horse",
+        "url": "https://open.spotify.com/album/4cXqpTCEwHkOHU5mPdAomq"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "duration_ms": 155247,
+      "name": "pale horse",
+      "url": "https://open.spotify.com/track/4ec6YIvFYITEzaEizacIVe"
+    },
+    {
+      "added_at": "2024-11-06 00:21:54",
+      "album": {
+        "name": "Girls just wanna have fun",
+        "url": "https://open.spotify.com/album/0Q1LTnqlF8Dfx4B3VPd2q5"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "duration_ms": 194815,
+      "name": "Girls just wanna have fun",
+      "url": "https://open.spotify.com/track/2BbY1U7zipIeqwd9m2WyC0"
+    },
+    {
+      "added_at": "2024-10-16 17:37:58",
+      "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/5nxiqAwXcEsBkKmsouCMKk"
+      },
+      "artists": [
+        {
+          "name": "Clover County",
+          "url": "https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/6DMxLT4C2n1Iilvb6a01Ic"
+    },
+    {
+      "added_at": "2024-11-06 00:21:54",
+      "album": {
+        "name": "alright",
+        "url": "https://open.spotify.com/album/73POisC3IBXf4YZlxFhfvG"
+      },
+      "artists": [
+        {
+          "name": "two blinks, i love you",
+          "url": "https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO"
+        }
+      ],
+      "duration_ms": 308455,
+      "name": "alright",
+      "url": "https://open.spotify.com/track/6gSYeqysKqWRLwndg8lNuV"
+    },
+    {
+      "added_at": "2024-11-06 00:21:54",
+      "album": {
+        "name": "Going Nowhere",
+        "url": "https://open.spotify.com/album/12HvrNdCXhtfIS48tDG9cf"
+      },
+      "artists": [
+        {
+          "name": "Quiet Light",
+          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
+        }
+      ],
+      "duration_ms": 178083,
+      "name": "Love90",
+      "url": "https://open.spotify.com/track/6UKPGUV7Qt7PfDR1H3lRN7"
+    },
+    {
+      "added_at": "2024-11-06 00:21:54",
+      "album": {
+        "name": "Swan Lake",
+        "url": "https://open.spotify.com/album/0Q4720qvbsUqSRz2n1FihD"
+      },
+      "artists": [
+        {
+          "name": "Cindy",
+          "url": "https://open.spotify.com/artist/5C8xxfvMhwwxeSz4LZm41N"
+        }
+      ],
+      "duration_ms": 222946,
+      "name": "All Weekend",
+      "url": "https://open.spotify.com/track/6KvvwJDOIiPmJ0By8vtd6d"
+    },
+    {
+      "added_at": "2024-10-09 18:06:10",
+      "album": {
+        "name": "SlowMo",
+        "url": "https://open.spotify.com/album/0hH7tpKEXHmjSujH9S4HFT"
+      },
+      "artists": [
+        {
+          "name": "Jeff Lamb",
+          "url": "https://open.spotify.com/artist/4uGP4EfbZejQhXJo7z9Nzb"
+        }
+      ],
+      "duration_ms": 222741,
+      "name": "Soft Spoken",
+      "url": "https://open.spotify.com/track/2OXhBICwcarUIxQecaxUZW"
+    },
+    {
+      "added_at": "2024-11-06 00:21:54",
+      "album": {
+        "name": "I Get the Feeling",
+        "url": "https://open.spotify.com/album/1rvTpaZxYWOL5iZqEnJ167"
+      },
+      "artists": [
+        {
+          "name": "True Blue",
+          "url": "https://open.spotify.com/artist/43c8bw6Z0PmKc7zJoMnfdW"
+        }
+      ],
+      "duration_ms": 132475,
+      "name": "I Get the Feeling",
+      "url": "https://open.spotify.com/track/1Aw7nkLyytqAgmSHeRIXLe"
+    },
+    {
+      "added_at": "2024-11-06 00:21:54",
+      "album": {
+        "name": "Oh My God",
+        "url": "https://open.spotify.com/album/4yF5V6WxWivXCNlYRY1QJs"
+      },
+      "artists": [
+        {
+          "name": "Cece Coakley",
+          "url": "https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN"
+        }
+      ],
+      "duration_ms": 165652,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/7bYsYf9LSRecWPJMPqL40d"
+    },
+    {
+      "added_at": "2024-10-23 17:23:28",
+      "album": {
+        "name": "Tropical Bird",
+        "url": "https://open.spotify.com/album/50rkhEDepOJckGqFfa9m3D"
+      },
+      "artists": [
+        {
+          "name": "Theodor",
+          "url": "https://open.spotify.com/artist/0oC6aXGEJhraxWOKGBm9NZ"
+        }
+      ],
+      "duration_ms": 149701,
+      "name": "Tropical Bird",
+      "url": "https://open.spotify.com/track/0UFrY7oCVf6qWnmexaVbGe"
+    },
+    {
+      "added_at": "2024-11-06 00:21:54",
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/4P0q9T6bQ5QBD2H4VOCV5w"
+      },
+      "artists": [
+        {
+          "name": "Witches Exist",
+          "url": "https://open.spotify.com/artist/04Lu0fhVMDqNwBeXZIasgR"
+        }
+      ],
+      "duration_ms": 261323,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/5gEzdCsINopzeSSL1lsyoN"
+    },
+    {
+      "added_at": "2024-11-06 00:21:54",
+      "album": {
+        "name": "Lying in the Sun",
+        "url": "https://open.spotify.com/album/3w5XCQLXn9CWdXKqTzp1JT"
+      },
+      "artists": [
+        {
+          "name": "Kook Joey",
+          "url": "https://open.spotify.com/artist/4yThQioYJaP6WS1fvTYeV8"
+        }
+      ],
+      "duration_ms": 192151,
+      "name": "Lying in the Sun",
+      "url": "https://open.spotify.com/track/205bRwxiJ3Rj4P7XBU5vPA"
+    },
+    {
+      "added_at": "2024-10-23 17:23:28",
+      "album": {
+        "name": "TONGUE TIED",
+        "url": "https://open.spotify.com/album/1w6bCEfhnBOPGZVzTo1I48"
+      },
+      "artists": [
+        {
+          "name": "Porsh Bet$",
+          "url": "https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4"
+        }
+      ],
+      "duration_ms": 153308,
+      "name": "TONGUE TIED",
+      "url": "https://open.spotify.com/track/3ucImkDP7641I02x0tCd7G"
+    },
+    {
+      "added_at": "2024-11-06 00:21:54",
+      "album": {
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/2qTrWxydn8ISxz3mmsmg6e"
+      },
+      "artists": [
+        {
+          "name": "La S\u00e9curit\u00e9",
+          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
+        }
+      ],
+      "duration_ms": 209181,
+      "name": "Detour",
+      "url": "https://open.spotify.com/track/46Wg3lpTEGr3z5eyRsc3fw"
+    },
+    {
+      "added_at": "2024-11-06 00:21:54",
+      "album": {
+        "name": "Serene Demon",
+        "url": "https://open.spotify.com/album/4lZtcC2X5kTWXYrMHRjkGs"
+      },
+      "artists": [
+        {
+          "name": "Art d'Ecco",
+          "url": "https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J"
+        }
+      ],
+      "duration_ms": 442989,
+      "name": "Serene Demon",
+      "url": "https://open.spotify.com/track/3A9wKO9kYSEJ1Fw0evSE0J"
+    },
+    {
+      "added_at": "2024-11-06 00:21:54",
+      "album": {
+        "name": "Aurelia",
+        "url": "https://open.spotify.com/album/7pObvtPdpyqVW4IjYOUfTG"
+      },
+      "artists": [
+        {
+          "name": "deary",
+          "url": "https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL"
+        }
+      ],
+      "duration_ms": 322124,
+      "name": "Aurelia",
+      "url": "https://open.spotify.com/track/7HZEdU8fVKPiK3vYF6Mf8B"
+    },
+    {
+      "added_at": "2024-11-06 00:21:54",
+      "album": {
+        "name": "Other People's Houses",
+        "url": "https://open.spotify.com/album/1JY1icMxsXzcISSKmdwl7Z"
+      },
+      "artists": [
+        {
+          "name": "Fairhazel",
+          "url": "https://open.spotify.com/artist/0U5fdV8QHxk7Qc82vXWoHn"
+        }
+      ],
+      "duration_ms": 177458,
+      "name": "Other People's Houses",
+      "url": "https://open.spotify.com/track/7uzG0wXilG7hVQOMfAwfYn"
+    },
+    {
+      "added_at": "2024-11-06 00:21:54",
+      "album": {
+        "name": "Liminal Space // Luna",
+        "url": "https://open.spotify.com/album/3EW2ZUuaZVdlI5LGOAEnGG"
+      },
+      "artists": [
+        {
+          "name": "ultrasaturated",
+          "url": "https://open.spotify.com/artist/5jzmHcHM6la5EEnffjdOrC"
+        }
+      ],
+      "duration_ms": 214846,
+      "name": "Liminal Space",
+      "url": "https://open.spotify.com/track/4eolAvAFu1WldnVAhKT6jY"
+    },
+    {
+      "added_at": "2024-11-06 00:21:54",
+      "album": {
+        "name": "Nicotine",
+        "url": "https://open.spotify.com/album/1ptxWivu5cgSL6cNwqy2A3"
+      },
+      "artists": [
+        {
+          "name": "Mid Drift",
+          "url": "https://open.spotify.com/artist/6D1ONv6dkTpWhFK4Sfsf8F"
+        }
+      ],
+      "duration_ms": 210473,
+      "name": "Nicotine",
+      "url": "https://open.spotify.com/track/3V1WgJUqTOkGUialWfexj8"
     },
     {
       "added_at": "2024-10-23 17:23:28",
@@ -43,22 +443,6 @@
     {
       "added_at": "2024-10-23 17:23:28",
       "album": {
-        "name": "hello !",
-        "url": "https://open.spotify.com/album/40TqXlI1fSIQVfx6HmUfaQ"
-      },
-      "artists": [
-        {
-          "name": "Martin Luke Brown",
-          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
-        }
-      ],
-      "duration_ms": 170903,
-      "name": "hello !",
-      "url": "https://open.spotify.com/track/5kXvq3Av4i43eejvl2GxZq"
-    },
-    {
-      "added_at": "2024-10-23 17:23:28",
-      "album": {
         "name": "Landlord blues",
         "url": "https://open.spotify.com/album/5RPLrYO2Xvp9r3jpquJilH"
       },
@@ -71,54 +455,6 @@
       "duration_ms": 123599,
       "name": "Landlord blues",
       "url": "https://open.spotify.com/track/4wiIAWolI7HefrUgehfAx6"
-    },
-    {
-      "added_at": "2024-10-23 17:23:28",
-      "album": {
-        "name": "TONGUE TIED",
-        "url": "https://open.spotify.com/album/1w6bCEfhnBOPGZVzTo1I48"
-      },
-      "artists": [
-        {
-          "name": "Porsh Bet$",
-          "url": "https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4"
-        }
-      ],
-      "duration_ms": 153308,
-      "name": "TONGUE TIED",
-      "url": "https://open.spotify.com/track/3ucImkDP7641I02x0tCd7G"
-    },
-    {
-      "added_at": "2024-10-09 18:06:10",
-      "album": {
-        "name": "SlowMo",
-        "url": "https://open.spotify.com/album/0hH7tpKEXHmjSujH9S4HFT"
-      },
-      "artists": [
-        {
-          "name": "Jeff Lamb",
-          "url": "https://open.spotify.com/artist/4uGP4EfbZejQhXJo7z9Nzb"
-        }
-      ],
-      "duration_ms": 222741,
-      "name": "Soft Spoken",
-      "url": "https://open.spotify.com/track/2OXhBICwcarUIxQecaxUZW"
-    },
-    {
-      "added_at": "2024-10-23 17:23:28",
-      "album": {
-        "name": "Tropical Bird",
-        "url": "https://open.spotify.com/album/50rkhEDepOJckGqFfa9m3D"
-      },
-      "artists": [
-        {
-          "name": "Theodor",
-          "url": "https://open.spotify.com/artist/0oC6aXGEJhraxWOKGBm9NZ"
-        }
-      ],
-      "duration_ms": 149701,
-      "name": "Tropical Bird",
-      "url": "https://open.spotify.com/track/0UFrY7oCVf6qWnmexaVbGe"
     },
     {
       "added_at": "2024-10-09 18:06:10",
@@ -183,22 +519,6 @@
       "duration_ms": 325102,
       "name": "Circles",
       "url": "https://open.spotify.com/track/0GZdhzwsSSzVT1rjqyHbbv"
-    },
-    {
-      "added_at": "2024-10-23 17:23:28",
-      "album": {
-        "name": "Pale Moon Pale Horse",
-        "url": "https://open.spotify.com/album/4cXqpTCEwHkOHU5mPdAomq"
-      },
-      "artists": [
-        {
-          "name": "Truman Sinclair",
-          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
-        }
-      ],
-      "duration_ms": 155247,
-      "name": "pale horse",
-      "url": "https://open.spotify.com/track/4ec6YIvFYITEzaEizacIVe"
     },
     {
       "added_at": "2024-10-23 17:23:28",
@@ -315,22 +635,6 @@
       "duration_ms": 161310,
       "name": "Afternoons (emory remix)",
       "url": "https://open.spotify.com/track/6kis0Xg4yoiC9jY0jT1KWJ"
-    },
-    {
-      "added_at": "2024-10-16 17:37:58",
-      "album": {
-        "name": "Ultraviolet",
-        "url": "https://open.spotify.com/album/5nxiqAwXcEsBkKmsouCMKk"
-      },
-      "artists": [
-        {
-          "name": "Clover County",
-          "url": "https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/6DMxLT4C2n1Iilvb6a01Ic"
     },
     {
       "added_at": "2024-10-09 18:06:10",

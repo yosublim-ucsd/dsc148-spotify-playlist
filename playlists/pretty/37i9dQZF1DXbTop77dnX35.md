@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Davido, YG Marley  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,604 likes - 58 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,725 likes - 58 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 24 | [Body Fire](https://open.spotify.com/track/24O7f2hggusUR0EmrK212U) | [2P.M.](https://open.spotify.com/artist/6XCGSn6cFC7ZxH346alRjC) | [Body Fire](https://open.spotify.com/album/6H5dNSKFlcnXGII5C4aMc5) | 2:50 |
 | 25 | [Sika](https://open.spotify.com/track/3ByFqgSVYbv0lDxUj2JoKN) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Sika](https://open.spotify.com/album/6S5LuVeKDZlP5v19xZ3FT1) | 2:34 |
 | 26 | [Lonely And Paranoid](https://open.spotify.com/track/6Y1EVXwegzrXoI0xBiF8w7) | [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Down I'm A Rebel](https://open.spotify.com/album/6dlBvqgsPhcvxgmRoA0fSl) | 2:50 |
-| 27 | [Obodo \(feat\. Phyno\)](https://open.spotify.com/track/4L4PEJIuDkstKmS352nkeV) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [Theresa Onuorah](https://open.spotify.com/artist/54OhlMlNRTktBpU6v4JqNK), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Obodo \(feat\. Phyno\)](https://open.spotify.com/album/4Pik1Eeu1bhJRocOLZA53H) | 3:30 |
+| 27 | [Obodo \(feat\. Phyno & Flavour\)](https://open.spotify.com/track/4L4PEJIuDkstKmS352nkeV) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Theresa Onuorah](https://open.spotify.com/artist/54OhlMlNRTktBpU6v4JqNK), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Obodo \(feat\. Phyno & Flavour\)](https://open.spotify.com/album/4Pik1Eeu1bhJRocOLZA53H) | 3:30 |
 | 28 | [For Her \(Chemtrails\) \(feat\. Machinedrum\)](https://open.spotify.com/track/1YyIoXA7kggDVorrWCnyOt) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [Electric Honey \(Encore\)](https://open.spotify.com/album/1KKL3kUokquvCUJXP6AUWa) | 2:55 |
 | 29 | [Pride](https://open.spotify.com/track/3HiVqLksar2QNbgXOjDRYm) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Pride](https://open.spotify.com/album/7trfAzxwXmdxFnZZT3TQ5y) | 2:23 |
 | 30 | [OH MY](https://open.spotify.com/track/7dzIeqK8arYEy7Hc4NcgmL) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk), [Nyolaa](https://open.spotify.com/artist/6IZHzPfxPeh4q6pS305zLg) | [BOOK OF VASA \(Pt\. 2\)](https://open.spotify.com/album/4DbL6zPXjcTvYyA5tflOTz) | 2:38 |

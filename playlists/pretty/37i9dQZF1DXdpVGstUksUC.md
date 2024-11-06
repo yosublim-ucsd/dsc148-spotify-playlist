@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,670 likes - 100 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,671 likes - 100 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 21 | [Wires](https://open.spotify.com/track/4yl1IpHPuXUV2MjxXy6hZn) | [Red Fang](https://open.spotify.com/artist/3u4HBuoQ4dgPBzX2Q9uf5S) | [Murder the Mountains \(Deluxe Version\)](https://open.spotify.com/album/5RQlhjpn4qz3q2vRrAGYD9) | 5:43 |
 | 22 | [Ugo](https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY) | [The Dead Pirates](https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx) | [Ugo](https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB) | 5:58 |
 | 23 | [Song For The Dead](https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 5:52 |
-| 24 | [Rabbit One](https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [Sunrise On The Sufferbus](https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5) | 3:33 |
-| 25 | [The Fox](https://open.spotify.com/track/4Ej7SloeEgarsCcsxK8VRL) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Peace](https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2) | 2:38 |
+| 24 | [The Fox](https://open.spotify.com/track/4Ej7SloeEgarsCcsxK8VRL) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Peace](https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2) | 2:38 |
+| 25 | [Rabbit One](https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [Sunrise On The Sufferbus](https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5) | 3:33 |
 | 26 | [Skweetis](https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe) | [Melvins](https://open.spotify.com/artist/2oJi7LuMzftVGKB6wpsBmO) | [Stoner Witch](https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw) | 1:12 |
 | 27 | [Dopesmoker \- 2022 Remastered Version](https://open.spotify.com/track/0m3NuZiabJ4wl4HmXONyIP) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Dopesmoker](https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q) | 1:03:29 |
 | 28 | [Last Living Dinosaur](https://open.spotify.com/track/5JWT9cWwbLttKe7zrfNnn7) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Berlin](https://open.spotify.com/album/433VO5ZmCPluaLEAgRmwXu) | 4:05 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 48 | [Hot Lava Man](https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Dopesmoker](https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q) | 8:25 |
 | 49 | [Cabin Fever](https://open.spotify.com/track/4lmnpR0Z7kc7ktKOwlPFsi) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Cabin Fever](https://open.spotify.com/album/2TIydCgadhiyrlzSM3989s) | 5:17 |
 | 50 | [Left Us To Mold](https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt) | [Unida](https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF) | [High Volume: The Stoner Rock Collection](https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x) | 5:46 |
-| 51 | [Perfect Man](https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X) | [Buffalo Fuzz](https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF) | [Buffalo Fuzz](https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW) | 5:25 |
-| 52 | [So Come On](https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA) | [The Atomic Bitchwax](https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6) | [Boxriff](https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7) | 4:11 |
+| 51 | [So Come On](https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA) | [The Atomic Bitchwax](https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6) | [Boxriff](https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7) | 4:11 |
+| 52 | [Perfect Man](https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X) | [Buffalo Fuzz](https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF) | [Buffalo Fuzz](https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW) | 5:25 |
 | 53 | [Superhuman God](https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh) | [Astroqueen](https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo) | [Into Submission](https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq) | 4:27 |
 | 54 | [Tres Brujas](https://open.spotify.com/track/02VH6OxidofPWj9u4t7TKd) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Warp Riders](https://open.spotify.com/album/0PN6KGJnEzkpTpmM1PP5z7) | 4:09 |
 | 55 | [Drowning on Empty](https://open.spotify.com/track/3g6cNWmxjtHv3cq1v8V3Lg) | [Geezer](https://open.spotify.com/artist/7wEkdwpx7bSDhRexrs94er) | [Groovy](https://open.spotify.com/album/30arspiTdQmIXFL43YuiC1) | 4:17 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 95 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 |
 | 96 | [Space Lord](https://open.spotify.com/track/3twKuUTPH239GCSPdRfmgY) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/6oLlvooHUXzfZdxk5q0XN9) | 5:55 |
 | 97 | [Desert Cruiser](https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml) | 7:29 |
-| 98 | [Ilion](https://open.spotify.com/track/21YyY9zhXf0rdn1cHXmZ1Q) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [Ilion](https://open.spotify.com/album/759EtlXJpbASpseS57pVyL) | 11:08 |
-| 99 | [The Regulator](https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Blast Tyrant \(Deluxe Version\)](https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR) | 5:25 |
-| 100 | [Supa Scoopa and Mighty Scoop](https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj) | 5:56 |
+| 98 | [Seer](https://open.spotify.com/track/2elF1O0Cz9SfXgkj96cUZE) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/37VVHGym3PMktFuWewZVf9) | 7:57 |
+| 99 | [Ilion](https://open.spotify.com/track/21YyY9zhXf0rdn1cHXmZ1Q) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [Ilion](https://open.spotify.com/album/759EtlXJpbASpseS57pVyL) | 11:08 |
+| 100 | [The Regulator](https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Blast Tyrant \(Deluxe Version\)](https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR) | 5:25 |
 
 Snapshot ID: `ZpnkwAAAAAD8cMJvYmd1e8puM8DJT6Pl`

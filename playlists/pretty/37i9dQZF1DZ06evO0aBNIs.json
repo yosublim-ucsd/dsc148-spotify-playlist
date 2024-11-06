@@ -1,12 +1,12 @@
 {
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
-  "num_followers": 712892,
+  "num_followers": 713004,
   "original_name": "This Is Avril Lavigne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAABfNVC7/1/USLyVhc+91on1",
+  "snapshot_id": "ZygOgAAAAAAps9JIS7ygCCgqlXgQCHnp",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 159746,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bulletproof (feat. Avril Lavigne)",
         "url": "https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 183919,
       "name": "Bulletproof (feat. Avril Lavigne)",
       "url": "https://open.spotify.com/track/3Hns0fETEXY84fGjboAbT7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 159746,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 255683,
+      "name": "I Fell In Love With The Devil",
+      "url": "https://open.spotify.com/track/6HHtTXPyBTJsLQT0y3afnm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ambitions",
         "url": "https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 218992,
       "name": "Listen (featuring Avril Lavigne)",
       "url": "https://open.spotify.com/track/0GT5m0eIa0OATOECdQtcsk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Head Above Water",
-        "url": "https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 255683,
-      "name": "I Fell In Love With The Devil",
-      "url": "https://open.spotify.com/track/6HHtTXPyBTJsLQT0y3afnm"
     },
     {
       "added_at": null,

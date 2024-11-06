@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-143 songs - 8 hr 7 min
+144 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Diggin' Up Hatchets](https://open.spotify.com/track/22Qce4LVRx6PqsVhOXuaWs) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:58 | 2023-03-23 |  |
 | [Dirty Laundry](https://open.spotify.com/track/7LFer4drCtWSyD8oxORZtC) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [I Can't Stand Still](https://open.spotify.com/album/2liPmoa0xyg9DcjKOryJ66) | 5:36 | 2023-11-20 |  |
 | [Do It All The Time](https://open.spotify.com/track/14ny3vlL25p6Vix2Sb8k1b) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Do It All The Time](https://open.spotify.com/album/7JvM9qMW23SCkpfz4ZrLsS) | 2:47 | 2022-09-07 |  |
+| [Doctor Worm](https://open.spotify.com/track/6OmApaLQPqHZL3iI78FOUR) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Severe Tire Damage](https://open.spotify.com/album/3Ww5ZsMGQH4F1Sf16ZztOh) | 3:01 | 2024-11-05 |  |
 | [Don't Bring Me Down \- 2012 Version](https://open.spotify.com/track/4lVHGdYDG7TLNNZ5GMQjyj) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [ELO 50th Anniversary Vol\. 1](https://open.spotify.com/album/4gGfNhFLBu74zGkNhJlQ0I) | 4:02 | 2024-01-02 |  |
 | [Dotab](https://open.spotify.com/track/4ODJ8ptwnVtxXs4d71eHNJ) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Your Parents Are Only Marginally Disappointed in Your Musical Taste](https://open.spotify.com/album/15b8BZbbE9M7Dx2twH81p0) | 4:34 | 2023-08-10 |  |
 | [Ferryman](https://open.spotify.com/track/492qQwagrn1noBTHRYKsvJ) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G), [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [Ferryman](https://open.spotify.com/album/1dDe20iAvQfwOMbvLfXetm) | 3:04 | 2023-03-23 |  |

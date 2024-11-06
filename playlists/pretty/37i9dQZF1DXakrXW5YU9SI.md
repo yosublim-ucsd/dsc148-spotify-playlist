@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Jesień nigdy nie brzmiała tak dobrze 🍂
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,405 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,453 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 43 | [Pushing It Down and Praying](https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O) | 3:54 |
 | 44 | [No One's Watching Me \(feat\. Olivia Dean\)](https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 4:22 |
 | 45 | [Dlugość dźwięku samotności](https://open.spotify.com/track/5ytkHKps6RVVDFZwAqVDCB) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Miłość w czasach popkultury](https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ) | 4:11 |
-| 46 | [Cats On The Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats On The Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 |
-| 47 | [\(Isn’t It\) Obvious](https://open.spotify.com/track/2WHpyoNdtUirfIv256JznP) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [\(Isn’t It\) Obvious](https://open.spotify.com/album/6mDGrC2zC5bugpOTPwNedv) | 3:51 |
+| 46 | [\(Isn’t It\) Obvious](https://open.spotify.com/track/2WHpyoNdtUirfIv256JznP) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [\(Isn’t It\) Obvious](https://open.spotify.com/album/6mDGrC2zC5bugpOTPwNedv) | 3:51 |
+| 47 | [Cats On The Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats On The Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 |
 | 48 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 |
 | 49 | [Should Have Known Better](https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 5:07 |
 | 50 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 |
 | 51 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 |
 | 52 | [Peaceful Place](https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Peaceful Place](https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X) | 4:15 |
-| 53 | [Lotus Eater](https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Lotus Eater](https://open.spotify.com/album/494g1fkelfoloDvUuqdAED) | 3:51 |
-| 54 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
+| 53 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
+| 54 | [Lotus Eater](https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Lotus Eater](https://open.spotify.com/album/494g1fkelfoloDvUuqdAED) | 3:51 |
 | 55 | [You And I](https://open.spotify.com/track/248XJMcsowzZrF1APvILhF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love](https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE) | 5:00 |
 | 56 | [Jak w filmie](https://open.spotify.com/track/2IYpNlrzRoWcIUPAvXKT6n) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Jak w filmie](https://open.spotify.com/album/2gtLXFybjn3nSZQPqVCsr6) | 3:03 |
 | 57 | [Weekend Boy](https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll) | 2:51 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 59 | [Big Jet Plane](https://open.spotify.com/track/3HedB2EwVAj5MAx8xFE1ea) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/5W1E1tqlKUl7p6KuyCAhji) | 3:59 |
 | 60 | [Silencio](https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Silencio](https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg) | 4:21 |
 | 61 | [That's What I Love](https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That's What I Love](https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93) | 3:46 |
-| 62 | [Cleats](https://open.spotify.com/track/7HWONeQrWpcjflAPGbH5L3) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Cleats](https://open.spotify.com/album/0VZGFBmqzdTFhMgMl7rsxB) | 3:41 |
+| 62 | [Czuję Cię Obok](https://open.spotify.com/track/21v4fl1hJ2bAUtp5fnpkoP) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg), [BRSC](https://open.spotify.com/artist/68b1ngOghaULNOIcy2nouz), [Mike Johnson](https://open.spotify.com/artist/1Rv7NvFb9DhfzZcA33jotl) | [Czuję Cię Obok](https://open.spotify.com/album/4UftLy4wwU1yDanxA9DYdN) | 2:32 |
 | 63 | [I’ll Go Anywhere](https://open.spotify.com/track/2K4XkJgiPjUGtnwSIM6xxi) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/16sGrLUTzqz0Z43j9qMn8S) | 2:34 |
-| 64 | [Czuję Cię Obok](https://open.spotify.com/track/21v4fl1hJ2bAUtp5fnpkoP) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg), [BRSC](https://open.spotify.com/artist/68b1ngOghaULNOIcy2nouz), [Mike Johnson](https://open.spotify.com/artist/1Rv7NvFb9DhfzZcA33jotl) | [Czuję Cię Obok](https://open.spotify.com/album/4UftLy4wwU1yDanxA9DYdN) | 2:32 |
+| 64 | [Cleats](https://open.spotify.com/track/7HWONeQrWpcjflAPGbH5L3) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Cleats](https://open.spotify.com/album/0VZGFBmqzdTFhMgMl7rsxB) | 3:41 |
 | 65 | [Falling Back](https://open.spotify.com/track/13JBJbh4d6rx98CjJcROpl) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Falling Back](https://open.spotify.com/album/40rKWr7rMApkEp7D52Z8mX) | 3:09 |
 | 66 | [Zdjęcia](https://open.spotify.com/track/4VWFlfcj5LYRKZHper4kHU) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Zdjęcia](https://open.spotify.com/album/0806pozS2h7r8yVwoKazfV) | 3:07 |
 | 67 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 |

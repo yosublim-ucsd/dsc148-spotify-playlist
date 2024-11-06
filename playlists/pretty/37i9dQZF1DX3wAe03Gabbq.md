@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wAe03Gabbq.md) - [plain]
 
 > Rock Rotation presents..\. Die besten Rock Songs aus 2023\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,759 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,761 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wAe03Gabbq.md) - [plain]
 | 13 | [Halo](https://open.spotify.com/track/79pTRPk4bqz34vh574c3TX) | [Lansdowne](https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34) | [Halo](https://open.spotify.com/album/6fpqA0nA9YoIADNE3POe5Z) | 3:36 |
 | 14 | [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 |
 | 15 | [I Left My License in the Future](https://open.spotify.com/track/1KK7Jyf8kzQO1LkNF85uO4) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [I Left My License in the Future](https://open.spotify.com/album/15NNV514Cwa36hZa9NkiYT) | 3:32 |
-| 16 | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX) | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91) | 3:19 |
+| 16 | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX) | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91) | 3:19 |
 | 17 | [War](https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:54 |
 | 18 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 |
 | 19 | [Psycho](https://open.spotify.com/track/6s3MpvQ1ulwrTuRhBgv0Eu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Psycho](https://open.spotify.com/album/1dK86eMRKHfAeN92ZwFaCe) | 3:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,860 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,140 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 14 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
 | 15 | [Heaven](https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Heaven](https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9) | 3:58 |
 | 16 | [Melodia](https://open.spotify.com/track/78dLyf8klcyrmgpwgmRQlE) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Melodia](https://open.spotify.com/album/4LntPSMGgRAOym8Yj684Gw) | 3:42 |
-| 17 | [Chaos \- Rave Mix](https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Chaos](https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs) | 4:00 |
-| 18 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 |
+| 17 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 |
+| 18 | [Chaos \- Rave Mix](https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Chaos](https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs) | 4:00 |
 | 19 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 |
 | 20 | [Diamonds On My Mind](https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Diamonds On My Mind](https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs) | 2:48 |
 | 21 | [Pain in my Heart](https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Sturm und Drang](https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK) | 3:44 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 37 | [Feeling](https://open.spotify.com/track/1KMru1wRFP6Qhi2jjjQfSb) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ), [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Feeling](https://open.spotify.com/album/2hYXwW0l3RjqMZSwtm0qcy) | 3:15 |
 | 38 | [When I Rock \- A.D.H.S\. Remix](https://open.spotify.com/track/2RZUzI8KssitQ4SYPr1xUd) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [When I Rock \(A.D.H.S\. Remix\)](https://open.spotify.com/album/3AUUUXLVRCj3nHbGHPT0ic) | 4:19 |
 | 39 | [Minimal](https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [MNML](https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8) | 6:30 |
-| 40 | [ORION](https://open.spotify.com/track/5EhsdUx1N4JTcokotQT71c) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [ORION](https://open.spotify.com/album/2PYilagLkHCFnVRKgXs39A) | 3:21 |
-| 41 | [Better Than U Thought](https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Better Than U Thought](https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG) | 3:09 |
-| 42 | [Elysium](https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Elysium](https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw) | 4:13 |
+| 40 | [Better Than U Thought](https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Better Than U Thought](https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG) | 3:09 |
+| 41 | [Elysium](https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Elysium](https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw) | 4:13 |
+| 42 | [ORION](https://open.spotify.com/track/5EhsdUx1N4JTcokotQT71c) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [ORION](https://open.spotify.com/album/2PYilagLkHCFnVRKgXs39A) | 3:21 |
 | 43 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 |
 | 44 | [You Can't Stop Us](https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [You Can't Stop Us](https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM) | 2:22 |
 | 45 | [Simulator \- Mha Iri Remix](https://open.spotify.com/track/27Nl7mwPVcqZKCofcS3v9Z) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Simulator \(Mha Iri Remix\)](https://open.spotify.com/album/6vRqH1E3gVFFEIjV4CjBhi) | 4:00 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 47 | [Seduction](https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [The Seduction EP](https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh) | 3:11 |
 | 48 | [Roll the Dice](https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Roll the Dice](https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ) | 4:36 |
 | 49 | [Ananda](https://open.spotify.com/track/4OgesRizuZuES11S4oMmCp) | [Joseph Capriati](https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf), [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Mantra EP](https://open.spotify.com/album/1ciTAED3gTIYBfhA3MpGNT) | 3:17 |
-| 50 | [Robot](https://open.spotify.com/track/1ozpkbaIyJ4lL2pUHbzTRW) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Robot](https://open.spotify.com/album/1qqb2o1QPUWO4mK2y5WV8A) | 3:25 |
+| 50 | [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 |
 
 Snapshot ID: `Zv9oQAAAAABwmFmhe5eT0GY+LruK6CEW`

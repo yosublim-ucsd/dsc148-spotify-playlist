@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 
 > This is Doechii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,459 likes - 43 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,500 likes - 43 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 37 | [Body Offer](https://open.spotify.com/track/5hkfoVa5xBk7mOAXbVzroj) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 1:01 |
 | 38 | [Girls](https://open.spotify.com/track/7zV60o01JXW3Hff1xgTHOX) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Girls](https://open.spotify.com/album/1Y8LXsmhhG4XtEo150UCo9) | 5:17 |
 | 39 | [Oh The Places You'll Go](https://open.spotify.com/track/3yO5tcTaJcJwoWdlPfcacz) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 1:32 |
-| 40 | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/track/0gIVNoo3H05GyR4ExxmQOa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/album/2Pr2gqGNGdyyqUMCkQ0V2V) | 2:24 |
+| 40 | [Girls Night Out \(with Doechii\)](https://open.spotify.com/track/74FInvmyz8taG35p8QYU6J) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:21 |
 | 41 | [Pencil Pouch](https://open.spotify.com/track/2kJ0e9Oxfl56GMhzACflTS) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 1:42 |
-| 42 | [Girls Night Out \(with Doechii\)](https://open.spotify.com/track/74FInvmyz8taG35p8QYU6J) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:21 |
+| 42 | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/track/0gIVNoo3H05GyR4ExxmQOa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/album/2Pr2gqGNGdyyqUMCkQ0V2V) | 2:24 |
 | 43 | [God](https://open.spotify.com/track/34soFye9AmIvGfmc9YPQRi) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 2:36 |
 
-Snapshot ID: `Zya9AAAAAAD/Sz9/VKj3vdzI63GKaMZ7`
+Snapshot ID: `ZygOgAAAAAAR8MkH6o2DliTn3kESxAGG`

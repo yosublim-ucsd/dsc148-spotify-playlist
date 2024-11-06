@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,746 songs - 3 day 5 hr 32 min
+1,749 songs - 3 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Bagatelle En Mineur](https://open.spotify.com/track/0C7GCuZRgpevMXfWl9jNkv) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Jeremy and Maureen](https://open.spotify.com/album/6ObwhBlnMPwTSXYgSGJZgf) | 2:10 | 2019-08-08 | 2020-08-20 |
 | [Balett](https://open.spotify.com/track/5akA0ZrfTGKwyjtHc4fr0p) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Papillon](https://open.spotify.com/album/4efBGcJ0YfvTrZvvKFEJj6) | 4:38 | 2020-06-02 | 2020-09-08 |
 | [Ballade Pour Elly](https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK) | [Oscar Sundberg](https://open.spotify.com/artist/15IHLyiNk8DVf00tp661dp) | [Ballade Pour Elly](https://open.spotify.com/album/4S1yWI2jYomspKaEy8tnoZ) | 4:03 | 2023-04-11 | 2024-06-01 |
-| [Balloon](https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Balloon](https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa) | 3:17 | 2023-10-02 |  |
+| [Balloon](https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Balloon](https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa) | 3:17 | 2023-10-02 | 2024-11-06 |
 | [Balm \(Scaled Down Version\)](https://open.spotify.com/track/5eIifmrzK2XxqiABsZhYGK) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Balm](https://open.spotify.com/album/6MLFHwt3qK0OQNEHryutgw) | 2:06 | 2019-05-26\* | 2019-08-30 |
 | [Barcelona](https://open.spotify.com/track/7jHkMYAkejNoMzd29JqcBW) | [Alex Kozobolis](https://open.spotify.com/artist/6fsUe68biDsnK9f8G41rNO) | [Barcelona](https://open.spotify.com/album/2dKm7tJrxscm7nZIoHCqaM) | 3:43 | 2019-06-27 | 2019-08-30 |
 | [Bartram's Garden](https://open.spotify.com/track/0E97LEEOz5rk6wAJr6rNI3) | [Zachary Patel](https://open.spotify.com/artist/5BTQ9QBT1Le61VYLVtRBCB) | [Bartram's Garden](https://open.spotify.com/album/1SRli8CCpxMiaYuPgfR8qa) | 2:23 | 2020-03-25 | 2021-08-05 |
@@ -299,6 +299,7 @@
 | [Cloud Postcards](https://open.spotify.com/track/0auem6mJ0CQFwX2Ycvd9Jd) | [Luis Álvarez](https://open.spotify.com/artist/3zowTYcPBFKlG4Hi98bPpq) | [Cloud Postcards](https://open.spotify.com/album/4huU3ZgziKwUSUV7GI7Eo2) | 2:40 | 2020-09-01 | 2022-04-15 |
 | [Cloud Walk](https://open.spotify.com/track/05CKxyJP3ZFRyMkY9idpCZ) | [Martin Greenbaum](https://open.spotify.com/artist/2OaV087psXxou4fTQOpfdh) | [Folk Dances](https://open.spotify.com/album/32CyfCvWsvfa17HsxAoodi) | 2:42 | 2019-08-23 | 2021-03-17 |
 | [Clouds](https://open.spotify.com/track/6WyF2Em0vKwoDUkHcbKVBA) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Clouds](https://open.spotify.com/album/6p8T30oLeBZNRcelcyIsoT) | 2:26 | 2020-12-08 | 2022-05-27 |
+| [Clouds Coming](https://open.spotify.com/track/7bTycbdDfQELplifneZzJj) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Clouds Coming](https://open.spotify.com/album/7IAk6YxAb3zjyOaGV0nzb0) | 2:26 | 2024-11-05 |  |
 | [Cloudy Waltz](https://open.spotify.com/track/5aMf0OItsp4ogKpcbrGrMP) | [Eric Cadogan](https://open.spotify.com/artist/7a0TJP7Zpr9ROvnR3ijADo) | [Cloudy Waltz](https://open.spotify.com/album/2D69fjIPFDklMPISFpy64H) | 2:01 | 2019-11-05 | 2022-01-27 |
 | [Coda](https://open.spotify.com/track/6CwC6D2SHyLGHsW9wk1dCa) | [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Mono](https://open.spotify.com/album/6dfUPvpme1QB8JGafJqBgx) | 2:13 | 2019-07-25 | 2020-03-04 |
 | [cold embrace](https://open.spotify.com/track/7edfdEV5G5gJUkiPP6g8AD) | [Gian Marco Castro](https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6) | [cold embrace](https://open.spotify.com/album/6Bjg1HMdsEf532a4V3AHTF) | 2:57 | 2021-05-22 | 2022-08-09 |
@@ -971,6 +972,7 @@
 | [My Mind Made Up](https://open.spotify.com/track/28EEsmFKYr0HTeCxyEeeqO) | [Sarah Seing](https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl) | [My Mind Made Up](https://open.spotify.com/album/5gj3aLJleU4wkfTN2bttEO) | 3:35 | 2021-07-01 | 2022-05-13 |
 | [My Story](https://open.spotify.com/track/58S5x2FRM1xU8Ufe2g0a2G) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [My Story](https://open.spotify.com/album/2EVVXolgUr3Is1UB86BITH) | 2:18 | 2023-11-28 |  |
 | [Mystic Lily](https://open.spotify.com/track/5PaxL9G0j505GkNvmb4r4x) | [Selin Soral](https://open.spotify.com/artist/1ELn9uEbCIJXLAtFmiQ2wY) | [Mystic Lily](https://open.spotify.com/album/3ze19Ewre23Cgja29gbwwM) | 2:15 | 2021-06-03 | 2022-05-21 |
+| [Mystical Murmurs](https://open.spotify.com/track/4xvFnv7jOKavTDsu40BPJk) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Mystical Murmurs](https://open.spotify.com/album/0Ql3uAzHXNRXCSqHaIYc8V) | 3:07 | 2024-11-05 |  |
 | [Mystique](https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Mystique](https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL) | 2:30 | 2022-02-23 | 2022-10-25 |
 | [Má sestra](https://open.spotify.com/track/49VzYsJHrITQOn28WBMztb) | [Jani Lechleiter](https://open.spotify.com/artist/13j5NE2SAeKFALiLQpipfU) | [Má sestra](https://open.spotify.com/album/6xQeCTSjdXFTQN6P65UcRe) | 2:05 | 2022-10-13 |  |
 | [Mère bien\-aimée](https://open.spotify.com/track/4iUW2jCsr1jofP9GQGuXPh) | [Céline Aubin](https://open.spotify.com/artist/1uJcXulhTLN9A0F6qrpWeT) | [Mère bien\-aimée](https://open.spotify.com/album/6l6nZMFvZ8SYslMUPvuOdr) | 2:16 | 2020-03-11 | 2022-05-05 |
@@ -1246,7 +1248,7 @@
 | [Rue Au Pain](https://open.spotify.com/track/43pVgyjB9yACAHeoJzsVpg) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Rue Au Pain](https://open.spotify.com/album/2aASt56NiEervWgl35oO23) | 3:11 | 2020-06-02 | 2020-09-22 |
 | [Rue de Rivoli](https://open.spotify.com/track/2QdIzYZgex1rqQ2OjA2LTb) | [Francine Leblanc](https://open.spotify.com/artist/3ua2qjBzlY2IDpjWQJA8Uy) | [Rue de Rivoli](https://open.spotify.com/album/5bExtKRwzIRQh9ozDlLSbn) | 2:09 | 2020-01-28 | 2020-03-25 |
 | [Ruhevoll](https://open.spotify.com/track/3a29LVdJdkqOBNDFnbbqJN) | [Naia Lambert](https://open.spotify.com/artist/0zo7bpOTP4vsR9ar1yoNgb) | [Ruhevoll](https://open.spotify.com/album/3KxGRGWUmnauKY3wXDGqtV) | 2:19 | 2022-05-20 | 2023-09-23 |
-| [Ruiseñor](https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Khione](https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51) | 2:59 | 2022-12-05 |  |
+| [Ruiseñor](https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Khione](https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51) | 2:59 | 2022-12-05 | 2024-11-06 |
 | [Rêvasser](https://open.spotify.com/track/2rBLJwsNjWvSx0yVAQLc3B) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Rêvasser](https://open.spotify.com/album/0xnlKa5rkGsf3r93ULxb3l) | 3:29 | 2021-11-11 | 2024-01-03 |
 | [Røgslør](https://open.spotify.com/track/16zbo4n31PEtvx6eDCWJqe) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Røgslør](https://open.spotify.com/album/13DfNvc23HtZrIJRQ0hkMN) | 2:12 | 2021-08-12 | 2022-11-10 |
 | [Sagittabondo](https://open.spotify.com/track/6L73Pb4dv5p9OOlY1ja32c) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Sagittabondo](https://open.spotify.com/album/5xA0kiXHUSL1wFWY52fu5O) | 2:13 | 2020-03-31 | 2022-05-27 |
@@ -1364,7 +1366,7 @@
 | [Something I Said](https://open.spotify.com/track/1Liv3usg8zyyqIG2RRjtVO) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Evenings on Instagram, Pt\. III](https://open.spotify.com/album/1887XT1ch3P3f6TMkeelgi) | 1:02 | 2019-10-22 | 2019-11-14 |
 | [Something Like Love](https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Something Like Love](https://open.spotify.com/album/5TF7WCLi2ysXIp8m88L2Nr) | 2:42 | 2020-06-16 | 2021-01-26 |
 | [Something To Remember \- Piano Score](https://open.spotify.com/track/5DrArCnMeTvCrmfxIsvPCL) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember \(Piano Score\)](https://open.spotify.com/album/5VQhkRSprjtaGMXC1j4phf) | 4:36 | 2019-05-26\* | 2019-08-13 |
-| [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-07-03 |  |
+| [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-07-03 | 2024-11-06 |
 | [Somewhere](https://open.spotify.com/track/6WZ0FZFfh0kwNYOwaxlAr7) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Somewhere](https://open.spotify.com/album/6wP1XjtfhZjzvFiDTJMfgV) | 3:02 | 2020-09-15 | 2020-09-28 |
 | [Sommarvals](https://open.spotify.com/track/0tL0JB08d5De5zBko245Y8) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Midsommarnatt](https://open.spotify.com/album/3MGHKETrexY8Hl5lgry1uH) | 2:56 | 2022-08-26 | 2024-10-08 |
 | [Sonder](https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Sonder](https://open.spotify.com/album/5kJ4JlLmhkJiMnzkMSStON) | 2:55 | 2022-03-10 | 2022-05-05 |
@@ -1393,6 +1395,7 @@
 | [Staircase Sonata](https://open.spotify.com/track/2Uw71QkfzFGYVioojiUnFv) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Staircase Sonata](https://open.spotify.com/album/68wDpwz5lfdohxxoyPNkf4) | 2:27 | 2019-08-08 | 2020-09-30 |
 | [Stairs](https://open.spotify.com/track/6003CN643H6xAMoSDrOT5z) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Stairs](https://open.spotify.com/album/2C7OlrU6TFjXjwn2GGbO2k) | 3:37 | 2019-07-11 | 2019-08-23 |
 | [Stairs and Steps](https://open.spotify.com/track/3Qsv4VR1YDlLe2T597LNaJ) | [Charlie Key](https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM) | [Song for A](https://open.spotify.com/album/6txt6BEwqboOhGfyZk5XkY) | 3:11 | 2019-05-26\* | 2020-01-22 |
+| [stargazing](https://open.spotify.com/track/5Tm55bnuYOavqPLbueGYS4) | [Esperance](https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg) | [stargazing](https://open.spotify.com/album/0FCL5YSgPtrC3NQYOCwxZs) | 2:20 | 2024-11-05 |  |
 | [Starling](https://open.spotify.com/track/0deHuVvihpR7Xi8CZCy23s) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Maxine](https://open.spotify.com/album/46o6wVwjYewCk2cFa239XN) | 4:04 | 2020-08-04 | 2021-04-08 |
 | [Starry Sky](https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Starry Sky](https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe) | 2:20 | 2022-02-23 | 2023-09-23 |
 | [Stars above](https://open.spotify.com/track/3Nlt0pHWgYWJQdkiNy0Kcf) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [As the sun slowly sets](https://open.spotify.com/album/6HIZdVicp4nHBJ49nJfbnF) | 2:40 | 2021-04-14 | 2022-08-27 |
@@ -1463,7 +1466,7 @@
 | [Tampa](https://open.spotify.com/track/4UYin1lrCwg96nRWRUfr5V) | [Heinz Goldblatt](https://open.spotify.com/artist/2huinmkGMFzltmc7Pe7fgf) | [Tampa](https://open.spotify.com/album/4lL79tsCuEZN5ClQjoNVDr) | 2:33 | 2019-05-26\* | 2019-08-30 |
 | [Tana](https://open.spotify.com/track/0pVxjmRJvXGSZnDp2Wi9WP) | [Jakob Maler](https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb) | [Tana](https://open.spotify.com/album/19M53ox1gdUcimYMaEeeDG) | 2:58 | 2022-02-02 | 2022-09-24 |
 | [Tell Me a Story](https://open.spotify.com/track/4LsQ8pHZReqFeYzCWQP9ON) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Re:Piano](https://open.spotify.com/album/4edvoE4IHJoa62sj3gFmMP) | 3:05 | 2019-05-26\* | 2019-08-13 |
-| [Tender](https://open.spotify.com/track/600m7rqCDlRD80E9MQtVZB) | [Simeon Road](https://open.spotify.com/artist/1FTRdK5rlo64WFmnihb2Pa) | [Tender](https://open.spotify.com/album/6wm7WCVKUNXGWnVNK4IIeb) | 2:50 | 2023-01-09 |  |
+| [Tender](https://open.spotify.com/track/600m7rqCDlRD80E9MQtVZB) | [Simeon Road](https://open.spotify.com/artist/1FTRdK5rlo64WFmnihb2Pa) | [Tender](https://open.spotify.com/album/6wm7WCVKUNXGWnVNK4IIeb) | 2:50 | 2023-01-09 | 2024-11-06 |
 | [Tenderly](https://open.spotify.com/track/7JMcuZdww7k1eQIRPbpRoG) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Tenderly](https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t) | 2:25 | 2022-06-03 | 2023-09-28 |
 | [Tendrement](https://open.spotify.com/track/4WFF3LgLuK0qGqY1YUdzD6) | [Michael Janzen](https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg) | [Tendrement](https://open.spotify.com/album/599xVWUaHJbNMwGYfKMnSz) | 2:09 | 2022-03-10 | 2023-07-04 |
 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 | 2021-05-27 | 2022-12-06 |

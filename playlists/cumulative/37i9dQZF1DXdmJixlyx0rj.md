@@ -2,9 +2,9 @@
 
 ### [Electronii'K](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: WOOSUNG\)
+> New & best K\-Electronic music is here\. \(Cover: THE FIX\(더 픽스\)\)
 
-212 songs - 12 hr 3 min
+213 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Come With Me \- Dannic Edit](https://open.spotify.com/track/7qhC28InmQySEMyCDEwk46) | [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Click Click Bang](https://open.spotify.com/album/2u3w9ksDmQ82UJOfw8CB2j) | 3:34 | 2024-04-05 | 2024-04-19 |
 | [CRAZY \(David Guetta Remix\)](https://open.spotify.com/track/3aNNxSj1e0pgaUUxV2GFoD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [CRAZY \(David Guetta Remix\)](https://open.spotify.com/album/0hXnUVrrEXKKGUNGfqpdlA) | 2:54 | 2024-09-21 |  |
 | [Criminal \- Minit Remix](https://open.spotify.com/track/2qLJiG8h6kFV6xDNGaZh1q) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8), [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m) | [iScreaM Vol.5 : Criminal Remixes](https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq) | 3:44 | 2024-04-05 | 2024-06-29 |
-| [Criminal \- SUMIN Remix](https://open.spotify.com/track/3Rk6ywWGOhw1uonKye1qoW) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [iScreaM Vol.5 : Criminal Remixes](https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq) | 3:31 | 2024-04-05 |  |
+| [Criminal \- SUMIN Remix](https://open.spotify.com/track/3Rk6ywWGOhw1uonKye1qoW) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [iScreaM Vol.5 : Criminal Remixes](https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq) | 3:31 | 2024-04-05 | 2024-11-06 |
 | [Dance First \(La La La\)](https://open.spotify.com/track/4X0CDb5Bs9kBVrT2ogDOcn) | [IÖN](https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV) | [CÖURAGE](https://open.spotify.com/album/3cxbXJDckUeaweTcWZ0nWX) | 4:58 | 2024-09-27 | 2024-10-16 |
 | [Dazed & Confused \- Japanese Version](https://open.spotify.com/track/6au6BQ6Uz9VimjCguRpisw) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Dazed & Confused \(Japanese Version\)](https://open.spotify.com/album/7z4DoXWr2pIU2hId9dh70U) | 3:55 | 2024-09-24 |  |
 | [DEEP \- 4B Remix](https://open.spotify.com/track/2PFR9yNzA9ExoGulaFY2IU) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [iScreaM Vol.17 : DEEP Remixes](https://open.spotify.com/album/52y8oOuU1sVpx7MmvaaIOk) | 2:34 | 2024-04-05 | 2024-06-29 |
@@ -196,6 +196,7 @@
 | [Techno Drop](https://open.spotify.com/track/64FyCvuRQz97BlujorXRrF) | [NAEMS](https://open.spotify.com/artist/5IGKglmmj5FyV0aJ53sEkO), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Techno Drop](https://open.spotify.com/album/6H77wIORIEe2156QVDgWzC) | 2:41 | 2024-04-05 | 2024-05-22 |
 | [The Feels \(Benny Benassi Remix\)](https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [The Feels](https://open.spotify.com/album/5kaDKzyrE5Cx9c4mLQZ6b1) | 3:05 | 2024-06-28 |  |
 | [There For You \- Club Mix](https://open.spotify.com/track/4gObgFsFGdKd1qgNEYfNLt) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [Rob Adans](https://open.spotify.com/artist/17ofLR1AMLtSrxZO8Ew8Eu) | [There For You \(Club Mix\)](https://open.spotify.com/album/7meNcaWJISNWfOJv4gLv3Q) | 3:10 | 2024-06-28 |  |
+| [TICKI\-TA](https://open.spotify.com/track/1p2a2BoWPOmBJUMlLAorL5) | [THE FIX](https://open.spotify.com/artist/3C9Tg0ENJ77szoSXlkSpZ3) | [TiCKi\-TA](https://open.spotify.com/album/31Mg2YdP6boTX66UPof7kU) | 2:38 | 2024-11-05 |  |
 | [To\. X](https://open.spotify.com/track/2DVj1SAT5dz5oOwU3kvMgB) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [iScreaM Vol.30 : To\. X Remixes](https://open.spotify.com/album/6kR9Gky1BBCFn17lA6ZO9x) | 2:50 | 2024-04-05 | 2024-04-19 |
 | [To\. X \- HUNJIYA Remix](https://open.spotify.com/track/1iIk4z63HT8cOdu6akgjJe) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [iScreaM Vol.30 : To\. X Remixes](https://open.spotify.com/album/6kR9Gky1BBCFn17lA6ZO9x) | 2:32 | 2024-04-05 | 2024-04-19 |
 | [To\. X \- IMLAY Remix](https://open.spotify.com/track/1PB7LNIEyrAUHbEcngMCPB) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [iScreaM Vol.30 : To\. X Remixes](https://open.spotify.com/album/6kR9Gky1BBCFn17lA6ZO9x) | 3:10 | 2024-04-05 | 2024-04-19 |

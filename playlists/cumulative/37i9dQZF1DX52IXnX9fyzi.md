@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-498 songs - 21 hr 32 min
+499 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,6 +491,7 @@
 | [What I Was Then What I Am Now](https://open.spotify.com/track/2AiuwFSEqy1y8v9vPuVKos) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [What I Was Then What I Am Now](https://open.spotify.com/album/4Vy1qg9dykeTQDeHcoNlkq) | 3:47 | 2024-01-05 |  |
 | [When the leaves start to fall](https://open.spotify.com/track/70vSsnVESDO3ASOxKlgRkI) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [When the leaves start to fall](https://open.spotify.com/album/65pB6B1PKVYEZ41xxkpHdn) | 2:20 | 2023-02-21 |  |
 | [Wherever I go](https://open.spotify.com/track/5W8M1dSQQTfbbP8wCIDxBn) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Infinity](https://open.spotify.com/album/6ASghZd5aW2oNTjorscSaN) | 2:15 | 2022-06-07 |  |
+| [Whirlwinds of Life](https://open.spotify.com/track/7LWlVCicZ2oYx9ddg0FglR) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Whirlwinds of Life](https://open.spotify.com/album/09PyQ46u4rKCwkgeEb0Rss) | 2:22 | 2024-11-05 |  |
 | [Wide Skies](https://open.spotify.com/track/7dgAZemjrAuLHTOikyWtbA) | [Liona Sand](https://open.spotify.com/artist/1p6pGVY7ZTHr9Lv9DCXQiE) | [Wide Skies](https://open.spotify.com/album/5flaLlq8sLt6VdnPCr5Ast) | 3:22 | 2022-04-14 | 2022-09-15 |
 | [Wiedersehen](https://open.spotify.com/track/3XJCDdzmuUdxz8hqXT32Gv) | [Christian Menke](https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU) | [Wiedersehen](https://open.spotify.com/album/1llNEXcHkiatftwmtVnkmr) | 3:27 | 2024-03-04 |  |
 | [Winds From The North](https://open.spotify.com/track/4qqKiqhvlVA5bahG0AFMip) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Winds From The North](https://open.spotify.com/album/0hO2pdcwBnbitpXMXsVYZ7) | 2:24 | 2024-03-19 |  |

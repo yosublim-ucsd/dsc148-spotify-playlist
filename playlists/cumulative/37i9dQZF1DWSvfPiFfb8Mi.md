@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-333 songs - 22 hr 1 min
+334 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [All This Love](https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [All This Love](https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb) | 3:53 | 2024-07-12 |  |
 | [Alsace](https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Alsace](https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS) | 1:57 | 2024-07-05 |  |
 | [Always By Your Side](https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Always By Your Side](https://open.spotify.com/album/1o4hTnWRBt6GxbNytqNHxH) | 5:37 | 2024-06-14 |  |
-| [Amantes \- Poolside Remix](https://open.spotify.com/track/1Bj4RpZHBXXz0G4wX4QYRi) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Amantes \(Poolside Remix\)](https://open.spotify.com/album/1nPnBp78vPtN3xdnTXUlUm) | 3:25 | 2024-05-31 |  |
+| [Amantes \- Poolside Remix](https://open.spotify.com/track/1Bj4RpZHBXXz0G4wX4QYRi) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Amantes \(Poolside Remix\)](https://open.spotify.com/album/1nPnBp78vPtN3xdnTXUlUm) | 3:25 | 2024-05-31 | 2024-11-06 |
 | [Amor](https://open.spotify.com/track/6bgs3RYz2AE8eJ5NJmBm8a) | [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [Amor](https://open.spotify.com/album/6ZYoYbyYrGZonOyeEOHPxg) | 4:01 | 2022-06-20 | 2023-06-22 |
 | [Archaeology](https://open.spotify.com/track/5cobXWU7WBgPCg7Ct9JHZh) | [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha), [Marques Toliver](https://open.spotify.com/artist/5zrD2ZqM6SB5XRJJwTroAu), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Archaeology](https://open.spotify.com/album/1CM763zbcbSqqnP0yNKDwM) | 4:12 | 2024-09-06 |  |
 | [Ask Yourself \(Can You Dance\)](https://open.spotify.com/track/1BB8a33pfYW3bw0k7kRlBg) | [Angelo Ferreri](https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ) | [A Chance / Ask Yourself \(Can You Dance\)](https://open.spotify.com/album/1eTSe304zMIBmpFQ1Vj9hc) | 3:36 | 2023-05-19 |  |
@@ -289,6 +289,7 @@
 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-05-19 | 2024-05-25 |
 | [Summertime](https://open.spotify.com/track/1UMvVsZlOd8jWPoh8ZvALl) | [Odaiba](https://open.spotify.com/artist/0ZLRzLs36ymAz7aquYoE3l), [Hola Bay](https://open.spotify.com/artist/7tYFTNdaLTVOfW6LXalwvL) | [Summertime](https://open.spotify.com/album/3wMMfTXXz9mA3lg0dDPrcZ) | 2:47 | 2024-11-01 |  |
 | [Sumthin Crazy \(with Rochelle Jordan\)](https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:06 | 2023-05-19 | 2023-09-23 |
+| [Supernova](https://open.spotify.com/track/6GRRR3GTp9kVIfX3J9UcON) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Supernova](https://open.spotify.com/album/5Ls9pWlUAXaHOZUhAk20Wd) | 3:39 | 2024-11-01 |  |
 | [Swiss Sensation](https://open.spotify.com/track/6NJO9Eg83rZwRIdLS0dFTQ) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Swiss Sensation](https://open.spotify.com/album/4GYcaieVtUoEV7piq7JPpo) | 3:47 | 2024-10-04 |  |
 | [Take It Back \(feat\. Davie\)](https://open.spotify.com/track/60ILwSbZxEZ6qgYZMPAq4D) | [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6), [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Take It Back \(feat\. Davie\)](https://open.spotify.com/album/5NN6jIlYaOhjirtYiGuPNr) | 3:36 | 2023-08-11 | 2024-01-29 |
 | [Take You Higher](https://open.spotify.com/track/3Ku4AjVUdvIhXPGlytVrEe) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Take You Higher](https://open.spotify.com/album/5cYXmvJLFKChvebPxEY4dZ) | 3:15 | 2024-10-18 |  |

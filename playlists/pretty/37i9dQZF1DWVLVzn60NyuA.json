@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 448241,
+  "num_followers": 448228,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -331,26 +331,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "Active",
-        "url": "https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 172597,
-      "name": "Active",
-      "url": "https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "Hold You",
         "url": "https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 232253,
       "name": "UN DIA (ONE DAY) (Feat. Tainy)",
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
+        "name": "Active",
+        "url": "https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 172597,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -495,6 +495,30 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 218826,
+      "name": "COMO UN BEB\u00c9",
+      "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
       },
@@ -531,26 +555,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "CALOR",
-        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "CALOR",
-      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -575,26 +579,22 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+        "name": "CALOR",
+        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 218826,
-      "name": "COMO UN BEB\u00c9",
-      "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
+      "duration_ms": 200769,
+      "name": "CALOR",
+      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "Sounds From The Other Side",
-        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Come Closer (feat. Drake)",
-      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "KAYTRAMIN\u00c9",
         "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 156000,
       "name": "Sossaup",
       "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
+        "name": "Sounds From The Other Side",
+        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Come Closer (feat. Drake)",
+      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
+        "name": "Bailando en la Lluvia",
+        "url": "https://open.spotify.com/album/7HEnLz9KmBGY9XXkErt7Lk"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 173748,
+      "name": "Bailando en la Lluvia",
+      "url": "https://open.spotify.com/track/3rHKDLHodKbyOpTa8EthS5"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
         "name": "Essence (feat. Justin Bieber & Tems)",
         "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 263288,
       "name": "Essence (feat. Justin Bieber & Tems)",
       "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
-        "name": "Bailando en la Lluvia",
-        "url": "https://open.spotify.com/album/7HEnLz9KmBGY9XXkErt7Lk"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 173748,
-      "name": "Bailando en la Lluvia",
-      "url": "https://open.spotify.com/track/3rHKDLHodKbyOpTa8EthS5"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 210194,
+      "name": "Ololufe (feat. Wande Coal)",
+      "url": "https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
         "name": "Otra Noche Sin Ti",
         "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
       },
@@ -1651,26 +1671,6 @@
       "duration_ms": 155307,
       "name": "Can't Anymore",
       "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
-        "name": "S2",
-        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 210194,
-      "name": "Ololufe (feat. Wande Coal)",
-      "url": "https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -2155,6 +2155,22 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
         "name": "Essa Dan\u00e7a",
         "url": "https://open.spotify.com/album/3cboQNy5mz93cr9AmvT5VW"
       },
@@ -2175,22 +2191,6 @@
       "duration_ms": 216000,
       "name": "Essa Dan\u00e7a",
       "url": "https://open.spotify.com/track/5FBPxXwpBLA8CH1wHRvDhq"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -2235,6 +2235,22 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
+        "name": "Ijo (Laba Laba)",
+        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Ijo (Laba Laba)",
+      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
         "name": "Catch Me If You Can",
         "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
       },
@@ -2251,22 +2267,6 @@
       "duration_ms": 160799,
       "name": "One Woman",
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
-        "name": "Ijo (Laba Laba)",
-        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Ijo (Laba Laba)",
-      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -2691,26 +2691,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "TE QUIERO",
-        "url": "https://open.spotify.com/album/1VBdiqMYdsazDcUBDBPTRL"
-      },
-      "artists": [
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        },
-        {
-          "name": "Dhurata Dora",
-          "url": "https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd"
-        }
-      ],
-      "duration_ms": 193596,
-      "name": "TE QUIERO",
-      "url": "https://open.spotify.com/track/5wuUYQbVwJSLPvt4Ra7VUx"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "\u00c7a Sert \u00e0 Rien",
         "url": "https://open.spotify.com/album/2GIqPe6SrTBebOm1DCgJG5"
       },
@@ -2731,6 +2711,26 @@
       "duration_ms": 170068,
       "name": "\u00c7a Sert \u00e0 Rien",
       "url": "https://open.spotify.com/track/0FmQ6iu0RCCUdIntK2q2eL"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
+        "name": "TE QUIERO",
+        "url": "https://open.spotify.com/album/1VBdiqMYdsazDcUBDBPTRL"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Dhurata Dora",
+          "url": "https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd"
+        }
+      ],
+      "duration_ms": 193596,
+      "name": "TE QUIERO",
+      "url": "https://open.spotify.com/track/5wuUYQbVwJSLPvt4Ra7VUx"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -2827,22 +2827,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "PINK SUMMER",
-        "url": "https://open.spotify.com/album/4j33fN2BPocBEJTsguqRPl"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 208471,
-      "name": "GIRLS WANNA HAVE FUN",
-      "url": "https://open.spotify.com/track/2vjiaAgTaB32W1PNYYaFdZ"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "Legalize",
         "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
       },
@@ -2855,6 +2839,22 @@
       "duration_ms": 146249,
       "name": "Legalize",
       "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
+        "name": "PINK SUMMER",
+        "url": "https://open.spotify.com/album/4j33fN2BPocBEJTsguqRPl"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 208471,
+      "name": "GIRLS WANNA HAVE FUN",
+      "url": "https://open.spotify.com/track/2vjiaAgTaB32W1PNYYaFdZ"
     },
     {
       "added_at": "2024-10-24 12:33:20",

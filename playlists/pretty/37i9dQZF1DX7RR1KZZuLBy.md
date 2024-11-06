@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,800 likes - 50 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,841 likes - 50 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 44 | [Ungukuphila](https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 5:56 |
 | 45 | [Somebody to You](https://open.spotify.com/track/4TnXEn8UJaGqCa1cqWkX2z) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Somebody to You](https://open.spotify.com/album/5CSCmth1QdipVm1AauVRut) | 3:48 |
 | 46 | [My God Can](https://open.spotify.com/track/1ySdxDrt5kh9MiEM8doZLL) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Jesus Changed My Life \(Deluxe Edition\)](https://open.spotify.com/album/1DaO9r3sgudFiiBYVPGrSo) | 3:13 |
-| 47 | [Banaka Nako Ea Me E Haufi](https://open.spotify.com/track/3rtv6UeFWYOAbegjRrrGCB) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Motlhang Ke Kolobetswa 'Die Poppe Sal Dans'](https://open.spotify.com/album/6OIg6NwgtsE7kfcPH3PL23) | 5:28 |
-| 48 | [The Blood \(Live\)](https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 5:12 |
+| 47 | [The Blood \(Live\)](https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 5:12 |
+| 48 | [Banaka Nako Ea Me E Haufi](https://open.spotify.com/track/3rtv6UeFWYOAbegjRrrGCB) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Motlhang Ke Kolobetswa 'Die Poppe Sal Dans'](https://open.spotify.com/album/6OIg6NwgtsE7kfcPH3PL23) | 5:28 |
 | 49 | [The Story I'll Tell \- Live](https://open.spotify.com/track/71za9Fyjl9BlyTB3mKvn3A) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 11:53 |
 | 50 | [Take It All Back](https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt) | 3:13 |
 

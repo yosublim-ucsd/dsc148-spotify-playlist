@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 279420,
+  "num_followers": 279425,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAABb3bX1qFj6sj5vNTuvnPTp",
+  "snapshot_id": "ZygOgAAAAABqYCKBFd+HSVEWGKL7hHuf",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pandora",
-        "url": "https://open.spotify.com/album/1eHsHKConMfzho7k48pomW"
+        "name": "111",
+        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
       },
       "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 128067,
-      "name": "Garupa",
-      "url": "https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF"
+      "duration_ms": 157928,
+      "name": "Amor de Que",
+      "url": "https://open.spotify.com/track/7vpGKEUPrA4UEsS4o4W1tP"
     },
     {
       "added_at": null,
@@ -511,18 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/1eHsHKConMfzho7k48pomW"
       },
       "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 157928,
-      "name": "Amor de Que",
-      "url": "https://open.spotify.com/track/7vpGKEUPrA4UEsS4o4W1tP"
+      "duration_ms": 128067,
+      "name": "Garupa",
+      "url": "https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 158544,
-      "name": "Trago seu Amor de Volta (feat. Dilsinho)",
-      "url": "https://open.spotify.com/track/5XZur2QUZ1yY1OclXoKFUt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 179995,
       "name": "Calma Amiga (feat. Anitta) - Dj RaMeMes (O DESTRUIDOR DO FUNK) & DJ Tonias Extended Mix",
       "url": "https://open.spotify.com/track/3TRIwk9p4ACUJwTxs8SqWQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 158544,
+      "name": "Trago seu Amor de Volta (feat. Dilsinho)",
+      "url": "https://open.spotify.com/track/5XZur2QUZ1yY1OclXoKFUt"
     },
     {
       "added_at": null,

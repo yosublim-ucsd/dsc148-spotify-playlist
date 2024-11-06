@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > 100% British \- 100% R&B\. Cover: Nia Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,430 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,493 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 38 | [Vitamins](https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Vitamins](https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12) | 2:32 |
 | 39 | [Hennessy \(feat\. Blxst\)](https://open.spotify.com/track/61mRlOaLDoj6dhSuM81t3t) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Hennessy \(feat\. Blxst\)](https://open.spotify.com/album/6yhGlErwPSocayEPnkT9Vk) | 2:24 |
 | 40 | [Eating out](https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Eating out](https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys) | 2:53 |
-| 41 | [Where Have You Been All My Life?](https://open.spotify.com/track/3AkSHcsF5E3EXg4FBuRf5r) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Where Have You Been All My Life?](https://open.spotify.com/album/5MaD8ctpy7eAo56up2zF20) | 3:03 |
-| 42 | [Boys Like U](https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Boys Like U](https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX) | 2:35 |
+| 41 | [Undone](https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Undone](https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In) | 3:20 |
+| 42 | [Where Have You Been All My Life?](https://open.spotify.com/track/3AkSHcsF5E3EXg4FBuRf5r) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Where Have You Been All My Life?](https://open.spotify.com/album/5MaD8ctpy7eAo56up2zF20) | 3:03 |
 | 43 | [TEQUILA](https://open.spotify.com/track/3meLEmr860diy8furP4Bff) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [TEQUILA](https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX) | 3:25 |
 | 44 | [Passenger Princess \(feat\. Aqyila\)](https://open.spotify.com/track/2dwRIUAoAaPlHIq8LUI99v) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Passenger Princess \(Remix\)](https://open.spotify.com/album/1548AEh0bKJXMYrkdfEB3l) | 3:40 |
-| 45 | [Undone](https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Undone](https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In) | 3:20 |
+| 45 | [Boys Like U](https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Boys Like U](https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX) | 2:35 |
 | 46 | [Best Interest](https://open.spotify.com/track/5IQUPSzuNlYmSzHK8fO0yH) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Best Interest](https://open.spotify.com/album/2DIGbvisJJIIf2xYU9xrW2) | 3:18 |
 | 47 | [Give Up The Fear](https://open.spotify.com/track/10tpSojwAIsgZAy4xbAiMB) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Give Up The Fear](https://open.spotify.com/album/3MS50q90DYesShrGsqAFve) | 2:39 |
 | 48 | [Nothing On You](https://open.spotify.com/track/7u8fLctZzIhiiavPuXXwF7) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Nothing On You](https://open.spotify.com/album/3wN5twfbZoolIBd9GgQyBV) | 3:45 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 52 | [vinland](https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [XONGZ አስቀያሚ ጡብ](https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC) | 2:49 |
 | 53 | [OOTW](https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [OOTW](https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX) | 2:19 |
 | 54 | [Life Size](https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Life Size](https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC) | 2:31 |
-| 55 | [I Wanna](https://open.spotify.com/track/7vMDtQo3RbOx3rAONunUZS) | [Essii](https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ) | [I Wanna](https://open.spotify.com/album/0sZxfPTPYUQ7tCmCjyiWy0) | 2:10 |
-| 56 | [Natural](https://open.spotify.com/track/3v0RwYzI5WlW7lKTTtJWT0) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Natural](https://open.spotify.com/album/1UWO7Rgw5ciLeQPc4uvyBG) | 3:09 |
+| 55 | [Natural](https://open.spotify.com/track/3v0RwYzI5WlW7lKTTtJWT0) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Natural](https://open.spotify.com/album/1UWO7Rgw5ciLeQPc4uvyBG) | 3:09 |
+| 56 | [I Wanna](https://open.spotify.com/track/7vMDtQo3RbOx3rAONunUZS) | [Essii](https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ) | [I Wanna](https://open.spotify.com/album/0sZxfPTPYUQ7tCmCjyiWy0) | 2:10 |
 | 57 | [Stone \(feat\. Bakar\)](https://open.spotify.com/track/75L5a5FbDcSKOZMwTNrZW6) | [Lilah Pi](https://open.spotify.com/artist/3qVWjgrCJKbbtPwfpnmwKo), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Stone \(feat\. Bakar\)](https://open.spotify.com/album/6vIEgwWLHseO0HD5OwmbDQ) | 3:20 |
-| 58 | [Fallin 4 A Thug](https://open.spotify.com/track/21LvidSXOuc5jgy5ttnCkP) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Fallin 4 A Thug](https://open.spotify.com/album/08two7eshES8TNEHi6WBGl) | 2:30 |
-| 59 | [Lights Camera](https://open.spotify.com/track/4vwqmgzfGY1dJkU2uXa1dg) | [Mellina Tey](https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx) | [Lights Camera](https://open.spotify.com/album/0KAGCqqtwVCQHI5gybH94S) | 2:39 |
+| 58 | [Lights Camera](https://open.spotify.com/track/4vwqmgzfGY1dJkU2uXa1dg) | [Mellina Tey](https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx) | [Lights Camera](https://open.spotify.com/album/0KAGCqqtwVCQHI5gybH94S) | 2:39 |
+| 59 | [Fallin 4 A Thug](https://open.spotify.com/track/21LvidSXOuc5jgy5ttnCkP) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Fallin 4 A Thug](https://open.spotify.com/album/08two7eshES8TNEHi6WBGl) | 2:30 |
 | 60 | [Escape Plan](https://open.spotify.com/track/2QtQLiOD8Wy6iG7pRiyrfN) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Escape Plan](https://open.spotify.com/album/62DboXMp5tBqZGDVxdaiVy) | 3:35 |
 
 Snapshot ID: `ZxrRcAAAAACf06PfzplW+Tn2nDb1j2u2`

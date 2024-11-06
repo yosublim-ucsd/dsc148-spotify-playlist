@@ -2515,6 +2515,32 @@
     },
     {
       "album": {
+        "name": "Azadi (From \"Amaran\") (Kannada)",
+        "url": "https://open.spotify.com/album/6ystt1HeVJSirgAjg07ked"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Anand Sreeraj",
+          "url": "https://open.spotify.com/artist/76pQbKPAh3W3KuXfBmmgNB"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "Azadi (From \"Amaran\") (Kannada)",
+      "url": "https://open.spotify.com/track/6jQwYTAxQkOmy6U0RtTUSP"
+    },
+    {
+      "album": {
         "name": "B A Gandu (from \"Rajayoga\")",
         "url": "https://open.spotify.com/album/2cRRLDT7lxA11kadMPrKYq"
       },
@@ -8668,7 +8694,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 220651,
       "name": "Entha Chendane Ivalu (From \"Laughing Buddha\")",
       "url": "https://open.spotify.com/track/1XrfVtaTqfJpJovmRhWEKw"
@@ -9530,7 +9556,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 194000,
       "name": "Gajendira (From \"Mr. Celebrity - Kannada\")",
       "url": "https://open.spotify.com/track/1Z9pwPGojNYki1FO1DfSkK"
@@ -10742,7 +10768,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 249269,
       "name": "Hani Hani Maleyu (From \"Great Love\")",
       "url": "https://open.spotify.com/track/2MBkqgtSqxqqSvVu7DxZo1"
@@ -12424,6 +12450,32 @@
       "duration_ms": 269140,
       "name": "Hudgi Ivalu - Sha LA LA LA Love (From \"Chase - In The Dark\")",
       "url": "https://open.spotify.com/track/7CpOi5xk4d0yFhYRUrUPv2"
+    },
+    {
+      "album": {
+        "name": "Hudukutha Hode (From \"Aaram Aravinda Swamy\")",
+        "url": "https://open.spotify.com/album/6cH8vFeshScgai7SlgfETZ"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Anoop Ramaswamy Kashyap",
+          "url": "https://open.spotify.com/artist/6a71yj0Cnnwd5kfEDHRzAg"
+        },
+        {
+          "name": "Jaskaran Singh",
+          "url": "https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204631,
+      "name": "Hudukutha Hode (From \"Aaram Aravinda Swamy\")",
+      "url": "https://open.spotify.com/track/5PNZvmaCf1eEZIBbOiPQzW"
     },
     {
       "album": {
@@ -14845,6 +14897,32 @@
     },
     {
       "album": {
+        "name": "Kanasidu Karagide (From \"Dil Kush\")",
+        "url": "https://open.spotify.com/album/6sggOjI4LZkeJP61nbejQT"
+      },
+      "artists": [
+        {
+          "name": "Prasad K Shetty",
+          "url": "https://open.spotify.com/artist/20uxeH7uGGbhMA8RqEjUf4"
+        },
+        {
+          "name": "Manju N",
+          "url": "https://open.spotify.com/artist/5eDphRSC6ncbig1N2lm11I"
+        },
+        {
+          "name": "Mallika Matti",
+          "url": "https://open.spotify.com/artist/4Xk6OszWpduC3wOjYoIhls"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107234,
+      "name": "Kanasidu Karagide (From \"Dil Kush\")",
+      "url": "https://open.spotify.com/track/2245COk0fqKMFahybvLcUV"
+    },
+    {
+      "album": {
         "name": "Hero (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5k2he7h7fYsqZ4QcxbSSTM"
       },
@@ -15348,6 +15426,28 @@
       "duration_ms": 259439,
       "name": "Kannu Kenakutide",
       "url": "https://open.spotify.com/track/4QCj8gMq1fH5Pg06bpik3x"
+    },
+    {
+      "album": {
+        "name": "Kannu Noduthe (From \"Ellige Payana Yavudo Daari\")",
+        "url": "https://open.spotify.com/album/5IuCOQPWNChXLoDNH2hOJW"
+      },
+      "artists": [
+        {
+          "name": "Sudeep",
+          "url": "https://open.spotify.com/artist/2MkYjL3nhs9qdOwhV1CPHJ"
+        },
+        {
+          "name": "Pranav Rao",
+          "url": "https://open.spotify.com/artist/0MNSM3C5suE6OAkv9cuylb"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156346,
+      "name": "Kannu Noduthe (From \"Ellige Payana Yavudo Daari\")",
+      "url": "https://open.spotify.com/track/7AuCczILa66mVc6Ge8RAkN"
     },
     {
       "album": {
@@ -19895,6 +19995,36 @@
     },
     {
       "album": {
+        "name": "Naa Ninage Nee Nanage (From \"Maryade Prashne\")",
+        "url": "https://open.spotify.com/album/152V86kXbJEWHXRMT6F3mN"
+      },
+      "artists": [
+        {
+          "name": "Arjun Ramu",
+          "url": "https://open.spotify.com/artist/2WMT3p2Mgvnap7bkfQ1J9A"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        },
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        },
+        {
+          "name": "Srilakshmi Belmannu",
+          "url": "https://open.spotify.com/artist/0N0WEDkRmqtpjlRYtBLoya"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216576,
+      "name": "Naa Ninage Nee Nanage (From \"Maryade Prashne\")",
+      "url": "https://open.spotify.com/track/0srfoWA48TRiEriW9aQWDQ"
+    },
+    {
+      "album": {
         "name": "Antharanga",
         "url": "https://open.spotify.com/album/7JxmKLthAiqLLADAoD3DiB"
       },
@@ -21506,7 +21636,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 246002,
       "name": "Nee Miramirane",
       "url": "https://open.spotify.com/track/4G842sOFxJ2O9Q7gLVvasH"
@@ -27355,6 +27485,32 @@
     },
     {
       "album": {
+        "name": "Saaraayi Shaantamma (From \"Gajarama\")",
+        "url": "https://open.spotify.com/album/4N3ofjbm08s6acodigeYIz"
+      },
+      "artists": [
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        },
+        {
+          "name": "Kunal Ganjawala",
+          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
+        },
+        {
+          "name": "Mano Murthy",
+          "url": "https://open.spotify.com/artist/3ijciQeyNDV7iQicWGWLWj"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259881,
+      "name": "Saaraayi Shaantamma (From \"Gajarama\")",
+      "url": "https://open.spotify.com/track/0IzSMwuWUq71cQ5Mgsixhg"
+    },
+    {
+      "album": {
         "name": "Sadaa Neene (From \"Ibbani Tabbida Ileyali\")",
         "url": "https://open.spotify.com/album/41RkrCKuHU0uO2O58mLMq2"
       },
@@ -27598,7 +27754,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 226903,
       "name": "Salma (From \"Aho Vikramaarka\")(Kannada)",
       "url": "https://open.spotify.com/track/6qj67DfVXVqTdLBYl8am4G"
@@ -29244,7 +29400,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 243373,
       "name": "Student Party",
       "url": "https://open.spotify.com/track/18bEtr0jCjLkbwAzUn98Hv"
@@ -30840,7 +30996,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 284571,
       "name": "Ullaasam",
       "url": "https://open.spotify.com/track/0LX3109SiCBjXY3bpzGMuj"
@@ -31540,7 +31696,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 223076,
       "name": "We Are The Bad Boys",
       "url": "https://open.spotify.com/track/2eGv6ray3KOT9jRKm9aajx"

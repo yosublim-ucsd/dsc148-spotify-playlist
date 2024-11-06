@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Damso au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,228 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,248 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 49 | [Madre Mia](https://open.spotify.com/track/4b7I2pWNUOdmWvQsvAciXX) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Madre Mia](https://open.spotify.com/album/30oZyeiZLVtcwlBNJaQmdd) | 2:55 |
 | 50 | [For My Head](https://open.spotify.com/track/2MctqofDb7O3NA0gpsAu3U) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0), [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [For My Head](https://open.spotify.com/album/2KWphjOXkBBrKcMA7YDHht) | 2:40 |
 | 51 | [Desire](https://open.spotify.com/track/5mMrzK6wWTG1LuBq9IhfOQ) | [Josh Stanley](https://open.spotify.com/artist/2YctNu2EnMnIwcxdCp0lJy) | [Desire](https://open.spotify.com/album/4E1YsoFmbxA9XIGccrODI5) | 2:46 |
-| 52 | [Omri](https://open.spotify.com/track/04SFSbVKc56Lxo6Ku7i39j) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Noxious](https://open.spotify.com/artist/4JiwTGDXADNF3BisYoQNFv) | [Omri](https://open.spotify.com/album/7p5Y8pmsvo7CECXguAFve0) | 2:42 |
+| 52 | [Omri](https://open.spotify.com/track/04SFSbVKc56Lxo6Ku7i39j) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Noxious](https://open.spotify.com/artist/3Kuu3eReA1kOwMTk1WUGOR) | [Omri](https://open.spotify.com/album/7p5Y8pmsvo7CECXguAFve0) | 2:42 |
 | 53 | [La Culpa](https://open.spotify.com/track/7xiCWklNdbjPGNecwGpGsO) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [La Culpa](https://open.spotify.com/album/2SqioyYYF7V3CrJYm3cDMY) | 2:39 |
 | 54 | [Slowly](https://open.spotify.com/track/1bMV1Dw8B2feFudpLAdZQ8) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C) | [Slowly](https://open.spotify.com/album/79y81CFMfBcPq0B0qlEjwM) | 3:18 |
 | 55 | [ashes & rust](https://open.spotify.com/track/0ynwM8MdgPqbSfII51PP3e) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent iii](https://open.spotify.com/album/35tILwApqYtN9fTJq2v7M3) | 4:02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: SURL\(설\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,163 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,153 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 40 | [Underwater](https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Underwater](https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7) | 4:03 |
 | 41 | [My Dear Love](https://open.spotify.com/track/0snDWpIDSGNZwVSzhheVAG) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Memoirs](https://open.spotify.com/album/58jJ1RTac6YEWx9xyJZjB0) | 4:14 |
 | 42 | [pony](https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [pony](https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc) | 3:01 |
-| 43 | [Burn Like A Star](https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs), [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Burn Like A Star](https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ) | 3:08 |
+| 43 | [Dancing In the Rain \- Wendy Wander Remake](https://open.spotify.com/track/0I7cu4uLecf71IpM8Wn10T) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Dancing In the Rain \(Wendy Wander Remake\)](https://open.spotify.com/album/0vORYLctd05d89nCUuwVJ2) | 4:06 |
 | 44 | [Burning Sunset](https://open.spotify.com/track/7EH1Z1xI4lUG1G0STPGsHj) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Burning Sunset](https://open.spotify.com/album/7GVOpghNRIDiEIh2M8vEJT) | 3:38 |
 | 45 | [Perfect](https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Love Playlist3 Part.1](https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI) | 3:57 |
-| 46 | [Dancing In the Rain \- Wendy Wander Remake](https://open.spotify.com/track/0I7cu4uLecf71IpM8Wn10T) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Dancing In the Rain \(Wendy Wander Remake\)](https://open.spotify.com/album/0vORYLctd05d89nCUuwVJ2) | 4:06 |
-| 47 | [Pasadena](https://open.spotify.com/track/36P3PbOaXo4uiv0CIDcTg2) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Pasadena](https://open.spotify.com/album/2xa1TuBl9eiUkHCIh3C0JG) | 2:43 |
-| 48 | [H O M E](https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:51 |
+| 46 | [Burn Like A Star](https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs), [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Burn Like A Star](https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ) | 3:08 |
+| 47 | [H O M E](https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:51 |
+| 48 | [Pasadena](https://open.spotify.com/track/36P3PbOaXo4uiv0CIDcTg2) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Pasadena](https://open.spotify.com/album/2xa1TuBl9eiUkHCIh3C0JG) | 2:43 |
 | 49 | [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 |
 | 50 | [Thursday Taco Man](https://open.spotify.com/track/4VZioVdtvf3NTW9YDZKJMw) | [DORI](https://open.spotify.com/artist/5n32uEk7HdSYRqZbiSyj13) | [Thursday Taco Man](https://open.spotify.com/album/5jMXKuGYikxGM8wpFARRL2) | 3:02 |
 

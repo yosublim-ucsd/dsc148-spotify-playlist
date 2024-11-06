@@ -4,28 +4,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 
 > フェス関係者の皆様、Let's book them! いま聴きたい、注目の洋楽アーティストを特集！ cover: Summer Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,464 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,471 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 |
 | 2 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 |
-| 3 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
+| 3 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
 | 4 | [Perfect Stranger](https://open.spotify.com/track/5ZLfgxU8yDwwMQXA2OSFlb) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Perfect Stranger](https://open.spotify.com/album/5gSD2ws5CGoFVoPWtcF4qL) | 3:17 |
 | 5 | [APEROL SPRITZ](https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [APEROL SPRITZ](https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv) | 2:10 |
 | 6 | [Big Butt](https://open.spotify.com/track/2G0VXW3rQW52nnIcRtAAdf) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Greatest Hits](https://open.spotify.com/album/3ZHoiRTrDh3eMbsYXLq8H2) | 3:36 |
 | 7 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
 | 8 | [I think about it all the time featuring bon iver](https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:20 |
-| 9 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
+| 9 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 10 | [The Sun](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Sun](https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK) | 3:04 |
 | 11 | [Lotus Eater](https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Lotus Eater](https://open.spotify.com/album/494g1fkelfoloDvUuqdAED) | 3:51 |
 | 12 | [Kiss Me Right](https://open.spotify.com/track/4fXmBERnR3SDk053aqQqwa) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Bonus Edition\)](https://open.spotify.com/album/0ResBXlOIf8Bqsf6W9swJx) | 2:41 |
 | 13 | [passenger side](https://open.spotify.com/track/2jpXlj0HRdK31Jm0ZjGLKU) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [liminal space](https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h) | 2:47 |
 | 14 | [Magic](https://open.spotify.com/track/1ssJcV4TYevaV87K813ht6) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Magic](https://open.spotify.com/album/2mXQsMd0DEX5zrFEuI5Zij) | 3:10 |
 | 15 | [Sad Boiii](https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Sad Boiii](https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR) | 2:46 |
-| 16 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 |
+| 16 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 |
 | 17 | [fairy godmother](https://open.spotify.com/track/7zstoq2sK1AKvlnzJNVEol) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 2:43 |
-| 18 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 |
+| 18 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 |
 | 19 | [Your House](https://open.spotify.com/track/20xfgpCbTJBDjrTFh916Av) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Your House](https://open.spotify.com/album/5bVyceWVMG2ArRJBXapami) | 3:47 |
 | 20 | [honeymoon \- Spotify Singles](https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:53 |
 | 21 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 |

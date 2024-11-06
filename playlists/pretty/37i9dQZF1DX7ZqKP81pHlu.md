@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 > Kader Japonais et Numidia Lezoul à la une de la playlist numéro 1 en Algérie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,821 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,858 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

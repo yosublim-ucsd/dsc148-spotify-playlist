@@ -1,6 +1,6 @@
 {
   "description": "pop punk, emo, post-hardcore, alt & more. Cover: L.S. Dunes",
-  "num_followers": 457360,
+  "num_followers": 457377,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-10-18 18:44:32",
       "album": {
-        "name": "Light Blue",
-        "url": "https://open.spotify.com/album/2aVOJTBuaBYiw6D81TPnQr"
-      },
-      "artists": [
-        {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
-        }
-      ],
-      "duration_ms": 188866,
-      "name": "Light Blue",
-      "url": "https://open.spotify.com/track/7jsx6taYSIBP0Oy5mBXPqh"
-    },
-    {
-      "added_at": "2024-10-18 18:44:32",
-      "album": {
         "name": "Hotel Bleu",
         "url": "https://open.spotify.com/album/3blidU7QbdagNPs3Wqw9cI"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 182117,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/19bqVQCJzBLiAb0ljuAVMC"
+    },
+    {
+      "added_at": "2024-10-18 18:44:32",
+      "album": {
+        "name": "Light Blue",
+        "url": "https://open.spotify.com/album/2aVOJTBuaBYiw6D81TPnQr"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "duration_ms": 188866,
+      "name": "Light Blue",
+      "url": "https://open.spotify.com/track/7jsx6taYSIBP0Oy5mBXPqh"
     },
     {
       "added_at": "2024-10-18 18:44:32",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-10-18 18:44:32",
       "album": {
-        "name": "Fatal Deluxe",
-        "url": "https://open.spotify.com/album/1636Uu93AuJgt7gTlQpL19"
-      },
-      "artists": [
-        {
-          "name": "L.S. Dunes",
-          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
-        }
-      ],
-      "duration_ms": 215686,
-      "name": "Fatal Deluxe",
-      "url": "https://open.spotify.com/track/3OIwpfyzmjixIpOPTFTO5H"
-    },
-    {
-      "added_at": "2024-10-18 18:44:32",
-      "album": {
         "name": "Cigarettes",
         "url": "https://open.spotify.com/album/6wpL9zVLAjk8G8mlR6mq4H"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2024-10-18 18:44:32",
       "album": {
-        "name": "Nobody\u2019s",
-        "url": "https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT"
+        "name": "Fatal Deluxe",
+        "url": "https://open.spotify.com/album/1636Uu93AuJgt7gTlQpL19"
       },
       "artists": [
         {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
         }
       ],
-      "duration_ms": 135897,
-      "name": "Nobody\u2019s",
-      "url": "https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU"
+      "duration_ms": 215686,
+      "name": "Fatal Deluxe",
+      "url": "https://open.spotify.com/track/3OIwpfyzmjixIpOPTFTO5H"
     },
     {
       "added_at": "2024-10-18 18:44:32",
@@ -1255,6 +1239,22 @@
       "duration_ms": 214505,
       "name": "You & I",
       "url": "https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE"
+    },
+    {
+      "added_at": "2024-10-18 18:44:32",
+      "album": {
+        "name": "Nobody\u2019s",
+        "url": "https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 135897,
+      "name": "Nobody\u2019s",
+      "url": "https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU"
     },
     {
       "added_at": "2024-10-18 18:44:32",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2024-10-18 18:44:32",
       "album": {
-        "name": "My Life In Subtitles",
-        "url": "https://open.spotify.com/album/7sWgC3VwEkJ1NDghlHxGNc"
+        "name": "Gray",
+        "url": "https://open.spotify.com/album/20fGJw0rld7cThO7quNyyR"
       },
       "artists": [
         {
-          "name": "Carpool",
-          "url": "https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit"
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
         }
       ],
-      "duration_ms": 172893,
-      "name": "Can We Just Get High?",
-      "url": "https://open.spotify.com/track/2TOgSScrpcnSZeihmZRn93"
+      "duration_ms": 149400,
+      "name": "Gray",
+      "url": "https://open.spotify.com/track/4iDjqte9c2cUhaZKJT38vl"
     },
     {
       "added_at": "2024-10-18 18:44:32",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2024-10-18 18:44:32",
       "album": {
-        "name": "Gray",
-        "url": "https://open.spotify.com/album/20fGJw0rld7cThO7quNyyR"
+        "name": "My Life In Subtitles",
+        "url": "https://open.spotify.com/album/7sWgC3VwEkJ1NDghlHxGNc"
       },
       "artists": [
         {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+          "name": "Carpool",
+          "url": "https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit"
         }
       ],
-      "duration_ms": 149400,
-      "name": "Gray",
-      "url": "https://open.spotify.com/track/4iDjqte9c2cUhaZKJT38vl"
+      "duration_ms": 172893,
+      "name": "Can We Just Get High?",
+      "url": "https://open.spotify.com/track/2TOgSScrpcnSZeihmZRn93"
     },
     {
       "added_at": "2024-10-18 18:44:32",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2024-10-18 18:44:32",
       "album": {
+        "name": "HELLMODE",
+        "url": "https://open.spotify.com/album/7Gw4NIOgnylpbryrOJksn9"
+      },
+      "artists": [
+        {
+          "name": "Jeff Rosenstock",
+          "url": "https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6"
+        }
+      ],
+      "duration_ms": 268397,
+      "name": "DOUBT",
+      "url": "https://open.spotify.com/track/24KYmcYFdSIzKJbKYpyOPO"
+    },
+    {
+      "added_at": "2024-10-18 18:44:32",
+      "album": {
         "name": "nosebleeder",
         "url": "https://open.spotify.com/album/6QTMfsAhVVDhxEZ5hA8nO3"
       },
@@ -1711,18 +1727,18 @@
     {
       "added_at": "2024-10-18 18:44:32",
       "album": {
-        "name": "HELLMODE",
-        "url": "https://open.spotify.com/album/7Gw4NIOgnylpbryrOJksn9"
+        "name": "You'll Get Nothing and Like It",
+        "url": "https://open.spotify.com/album/1ByEzlphT62gPQ6fsO9Mf4"
       },
       "artists": [
         {
-          "name": "Jeff Rosenstock",
-          "url": "https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6"
+          "name": "Ben Quad",
+          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
         }
       ],
-      "duration_ms": 268397,
-      "name": "DOUBT",
-      "url": "https://open.spotify.com/track/24KYmcYFdSIzKJbKYpyOPO"
+      "duration_ms": 112833,
+      "name": "You'll Get Nothing and Like It",
+      "url": "https://open.spotify.com/track/5Fb1ZtrV0mTKzy2RhzPP7I"
     },
     {
       "added_at": "2024-10-18 18:44:32",
@@ -1739,22 +1755,6 @@
       "duration_ms": 206333,
       "name": "Sliding Doors",
       "url": "https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL"
-    },
-    {
-      "added_at": "2024-10-18 18:44:32",
-      "album": {
-        "name": "You'll Get Nothing and Like It",
-        "url": "https://open.spotify.com/album/1ByEzlphT62gPQ6fsO9Mf4"
-      },
-      "artists": [
-        {
-          "name": "Ben Quad",
-          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
-        }
-      ],
-      "duration_ms": 112833,
-      "name": "You'll Get Nothing and Like It",
-      "url": "https://open.spotify.com/track/5Fb1ZtrV0mTKzy2RhzPP7I"
     },
     {
       "added_at": "2024-10-18 18:44:32",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-10-18 18:44:32",
       "album": {
-        "name": "only overnight",
-        "url": "https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R"
-      },
-      "artists": [
-        {
-          "name": "sace6",
-          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
-        }
-      ],
-      "duration_ms": 182454,
-      "name": "only overnight",
-      "url": "https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M"
-    },
-    {
-      "added_at": "2024-10-18 18:44:32",
-      "album": {
         "name": "can't you tell",
         "url": "https://open.spotify.com/album/4HhwrYw5v5HXDntSsdxwVS"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 191493,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY"
+    },
+    {
+      "added_at": "2024-10-18 18:44:32",
+      "album": {
+        "name": "only overnight",
+        "url": "https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R"
+      },
+      "artists": [
+        {
+          "name": "sace6",
+          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
+        }
+      ],
+      "duration_ms": 182454,
+      "name": "only overnight",
+      "url": "https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M"
     },
     {
       "added_at": "2024-10-18 18:44:32",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2024-10-18 18:44:32",
       "album": {
-        "name": "Slide 2 Me",
-        "url": "https://open.spotify.com/album/1Sp5CW0MLLNr5jVqlEn6zi"
-      },
-      "artists": [
-        {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 157626,
-      "name": "Slide 2 Me",
-      "url": "https://open.spotify.com/track/0nB4xFTYsIMUon9vQdPnIG"
-    },
-    {
-      "added_at": "2024-10-18 18:44:32",
-      "album": {
         "name": "Something About You",
         "url": "https://open.spotify.com/album/60IGbp8jEh7hiknYc9cCdu"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 157376,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/352rVkzjhMmzhivUPghajg"
+    },
+    {
+      "added_at": "2024-10-18 18:44:32",
+      "album": {
+        "name": "Slide 2 Me",
+        "url": "https://open.spotify.com/album/1Sp5CW0MLLNr5jVqlEn6zi"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 157626,
+      "name": "Slide 2 Me",
+      "url": "https://open.spotify.com/track/0nB4xFTYsIMUon9vQdPnIG"
     },
     {
       "added_at": "2024-10-18 18:44:32",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2024-10-18 18:44:32",
       "album": {
-        "name": "Hell 99",
-        "url": "https://open.spotify.com/album/1IO7HBfOhZJrQZQpEeWP8O"
-      },
-      "artists": [
-        {
-          "name": "Foxing",
-          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
-        }
-      ],
-      "duration_ms": 267760,
-      "name": "Hell 99",
-      "url": "https://open.spotify.com/track/1ohADSbCmwMEuA3xSHu3Eh"
-    },
-    {
-      "added_at": "2024-10-18 18:44:32",
-      "album": {
         "name": "Absolute Bloom",
         "url": "https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW"
       },
@@ -2083,22 +2067,6 @@
       "duration_ms": 205628,
       "name": "Absolute Bloom",
       "url": "https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm"
-    },
-    {
-      "added_at": "2024-10-18 18:44:32",
-      "album": {
-        "name": "Breaking Up With",
-        "url": "https://open.spotify.com/album/2FTXKWHVPdpZkRCYnG1d3L"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        }
-      ],
-      "duration_ms": 199412,
-      "name": "Breaking Up With",
-      "url": "https://open.spotify.com/track/5hJwhnnKiTgP3VySgUx5Xq"
     },
     {
       "added_at": "2024-10-18 18:44:32",
@@ -2119,6 +2087,22 @@
     {
       "added_at": "2024-10-18 18:44:32",
       "album": {
+        "name": "Hell 99",
+        "url": "https://open.spotify.com/album/1IO7HBfOhZJrQZQpEeWP8O"
+      },
+      "artists": [
+        {
+          "name": "Foxing",
+          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
+        }
+      ],
+      "duration_ms": 267760,
+      "name": "Hell 99",
+      "url": "https://open.spotify.com/track/1ohADSbCmwMEuA3xSHu3Eh"
+    },
+    {
+      "added_at": "2024-10-18 18:44:32",
+      "album": {
         "name": "Don't Listen To My Voicemail",
         "url": "https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 178432,
       "name": "Don't Listen To My Voicemail",
       "url": "https://open.spotify.com/track/2n3GSvKOeHl2hp2htjjHh9"
+    },
+    {
+      "added_at": "2024-10-18 18:44:32",
+      "album": {
+        "name": "Breaking Up With",
+        "url": "https://open.spotify.com/album/2FTXKWHVPdpZkRCYnG1d3L"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "duration_ms": 199412,
+      "name": "Breaking Up With",
+      "url": "https://open.spotify.com/track/5hJwhnnKiTgP3VySgUx5Xq"
     },
     {
       "added_at": "2024-10-18 18:44:32",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2024-10-18 18:44:32",
       "album": {
+        "name": "Waiting On Better Days",
+        "url": "https://open.spotify.com/album/0CmILxmHqhW8JdP6Re77Ze"
+      },
+      "artists": [
+        {
+          "name": "Wither Away",
+          "url": "https://open.spotify.com/artist/5qMmv2bWNnZOP0RLAzaHvM"
+        }
+      ],
+      "duration_ms": 214523,
+      "name": "Waiting On Better Days",
+      "url": "https://open.spotify.com/track/2wRaYER3ClLlHCRcq8FD7j"
+    },
+    {
+      "added_at": "2024-10-18 18:44:32",
+      "album": {
         "name": "She's a Rose",
         "url": "https://open.spotify.com/album/0KGHromCKa9EpEqs4ShDZG"
       },
@@ -2319,22 +2335,6 @@
       "duration_ms": 185757,
       "name": "She's a Rose",
       "url": "https://open.spotify.com/track/3NLCuJu9FqaHohaFd5rROu"
-    },
-    {
-      "added_at": "2024-10-18 18:44:32",
-      "album": {
-        "name": "Waiting On Better Days",
-        "url": "https://open.spotify.com/album/0CmILxmHqhW8JdP6Re77Ze"
-      },
-      "artists": [
-        {
-          "name": "Wither Away",
-          "url": "https://open.spotify.com/artist/5qMmv2bWNnZOP0RLAzaHvM"
-        }
-      ],
-      "duration_ms": 214523,
-      "name": "Waiting On Better Days",
-      "url": "https://open.spotify.com/track/2wRaYER3ClLlHCRcq8FD7j"
     },
     {
       "added_at": "2024-10-18 18:44:32",
@@ -2563,18 +2563,22 @@
     {
       "added_at": "2024-10-18 18:44:32",
       "album": {
-        "name": "Botch Job",
-        "url": "https://open.spotify.com/album/4wkb2xBR8tVhsJVLCc6Yk3"
+        "name": "Crumble",
+        "url": "https://open.spotify.com/album/1Uxd82K8UTywJLxLWzZzu2"
       },
       "artists": [
         {
-          "name": "Cursive",
-          "url": "https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3"
+          "name": "an00k",
+          "url": "https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB"
+        },
+        {
+          "name": "Lev UFO",
+          "url": "https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb"
         }
       ],
-      "duration_ms": 166800,
-      "name": "Botch Job",
-      "url": "https://open.spotify.com/track/1m6BbiDMnZyOL2bEabfaqo"
+      "duration_ms": 161091,
+      "name": "Crumble",
+      "url": "https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA"
     }
   ],
   "unique_name": "The Scene",

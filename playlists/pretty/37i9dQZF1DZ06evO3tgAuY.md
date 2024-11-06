@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,047 likes - 52 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,050 likes - 52 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 26 | [El Pariente \- En Vivo](https://open.spotify.com/track/72wD8rCDNm27xMyeaMLrd5) | [Los Pistones De Uriel Valdez](https://open.spotify.com/artist/7k1FiT4LBe1fIkVSdI8Dmn), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Levemente Live Sessions](https://open.spotify.com/album/5elO2gfBu2K6H7bmPDNCFh) | 2:57 |
 | 27 | [El Lic](https://open.spotify.com/track/47zq3s9SJbPsFLSAutzZ3s) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [El Lic](https://open.spotify.com/album/2xZEwYIbbGnjvKOL89DjJS) | 2:04 |
 | 28 | [El Dragon](https://open.spotify.com/track/0jZScMFNGw4Lfc7ezSJFVT) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Jordin Sandoval](https://open.spotify.com/artist/04P0m8LCKhoMBOz2V7OtwX) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 2:25 |
-| 29 | [El Marin](https://open.spotify.com/track/4gjCNNhuWpeagvK5Nr0jxo) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [El Marin](https://open.spotify.com/album/6VR7lIXVocgm88OHiHa5wd) | 2:13 |
-| 30 | [Dejate Llevar](https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Abelardo Nevarez](https://open.spotify.com/artist/0gQZwaWhArhHMTrrT8ujSr) | [Dejate Llevar](https://open.spotify.com/album/6N5CbKacIelION4UEKfZAe) | 2:40 |
+| 29 | [Dejate Llevar](https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Abelardo Nevarez](https://open.spotify.com/artist/0gQZwaWhArhHMTrrT8ujSr) | [Dejate Llevar](https://open.spotify.com/album/6N5CbKacIelION4UEKfZAe) | 2:40 |
+| 30 | [El Marin](https://open.spotify.com/track/4gjCNNhuWpeagvK5Nr0jxo) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [El Marin](https://open.spotify.com/album/6VR7lIXVocgm88OHiHa5wd) | 2:13 |
 | 31 | [Nos Gusto El Estilo](https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Perfil SS](https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc) | [Nos Gusto El Estilo](https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI) | 2:59 |
 | 32 | [Que Cambie](https://open.spotify.com/track/3rYH7ZzFDnBkV5CSCa7nYS) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 2:34 |
 | 33 | [El Vago](https://open.spotify.com/track/7C1vq0IO8W2WU12bOayEaN) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [El Vago](https://open.spotify.com/album/04z62VCLswRn0sA2xg9dSd) | 2:57 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 51 | [Ivan Archivaldo, Gonzalo Y El R, El Rápido \- En Vivo](https://open.spotify.com/track/61lb9K8iuqHrhpuhvgEhmr) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Agrado](https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh) | [El Maserati \(En Vivo\)](https://open.spotify.com/album/4Vl2J07gWFVCZsLF2Bn0uk) | 5:37 |
 | 52 | [Empecé De Abajo \- En Vivo](https://open.spotify.com/track/55wYSAADl63qjatMruo31p) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Charly Barraza](https://open.spotify.com/artist/0lt4tPr7zkjrESUVY4zEBY) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:43 |
 
-Snapshot ID: `Zya9AAAAAAA4ps1Vm5PRQC+NTX2v/i2o`
+Snapshot ID: `ZygOgAAAAAC0rgfO3rCaLjhldt4JcG+O`

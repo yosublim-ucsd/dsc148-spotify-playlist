@@ -1,15 +1,31 @@
 {
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: ROS\u00c9 & Bruno Mars",
-  "num_followers": 431627,
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: BABYMONSTER",
+  "num_followers": 431939,
   "original_name": "K-Pop Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyRSQAAAAABX5+EiXtPWlIS8/uR7+ls9",
+  "snapshot_id": "Zyoy8AAAAAAfvzbEy59wT1PGdYV6+Neo",
   "tracks": [
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
+        "name": "DRIP",
+        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 180845,
+      "name": "DRIP",
+      "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
@@ -29,23 +45,39 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "DRIP",
-        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
+        "name": "HAUTE COUTURE",
+        "url": "https://open.spotify.com/album/1WJ9XNiSoICq7iRrqzXOij"
       },
       "artists": [
         {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
         }
       ],
-      "duration_ms": 180845,
-      "name": "DRIP",
-      "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
+      "duration_ms": 163466,
+      "name": "RUNWAY",
+      "url": "https://open.spotify.com/track/1ctHNAVFmDTtge6GpmuBlg"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
+        "name": "The Star Chapter: SANCTUARY",
+        "url": "https://open.spotify.com/album/72JboNccBYyXR676YNfcYE"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 157149,
+      "name": "Over The Moon",
+      "url": "https://open.spotify.com/track/3BQeCOUf7M9B7NEpx9r4qj"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "POWER",
         "url": "https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx"
@@ -61,7 +93,7 @@
       "url": "https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Whiplash - The 5th Mini Album",
         "url": "https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU"
@@ -77,7 +109,7 @@
       "url": "https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "I'LL LIKE YOU",
         "url": "https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1"
@@ -93,23 +125,7 @@
       "url": "https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Identity",
-        "url": "https://open.spotify.com/album/7xzn12f7FNR7ZaZ5RB7afD"
-      },
-      "artists": [
-        {
-          "name": "MISAMO",
-          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
-        }
-      ],
-      "duration_ms": 140466,
-      "name": "Identity",
-      "url": "https://open.spotify.com/track/5vL4zyP6X132arv4VhySLT"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Kep1er The 6th Mini Album <TIPI-TAP>",
         "url": "https://open.spotify.com/album/1mNCEsMLc2YkZt22rhNdg7"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/5ufLXgP0f4GTghZO05XMpy"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "GOLD",
         "url": "https://open.spotify.com/album/7EUIivZlOlSqQbFYZxNig9"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/5XV3bQOM9IoZVxQSD0a6yb"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "SEVENTEEN 12th Mini Album 'SPILL THE FEELS'",
         "url": "https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W"
@@ -177,7 +193,39 @@
       "url": "https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/6OdmwetSmFXZhBrNJFKvay"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 181677,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/2Qcbspnftnon37jibwyvMU"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
+        "name": "CALL BACK - The 1st Album",
+        "url": "https://open.spotify.com/album/1VePAESUefVV2SCMFeo3TY"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "CALL BACK",
+      "url": "https://open.spotify.com/track/3iNi1rYa9FCDKSjA7cMBbN"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Moonlit Floor (Kiss Me)",
         "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
@@ -193,7 +241,7 @@
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "SYNK : PARALLEL LINE - Special Digital Single",
         "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
@@ -209,7 +257,7 @@
       "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Lose Yourself",
         "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
@@ -225,7 +273,7 @@
       "url": "https://open.spotify.com/track/7zi7dD55ORKCGEjDNwSa1n"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "...l",
         "url": "https://open.spotify.com/album/3mOHNMIoQXQfux8b0pgQI0"
@@ -241,7 +289,7 @@
       "url": "https://open.spotify.com/track/36qXU2yyq1JtGp05omV7bu"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Come Play (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/6Eb8iWappWpZgkqxDWiIGU"
@@ -273,7 +321,7 @@
       "url": "https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "THE BOYZ 9TH MINI ALBUM [TRIGGER]",
         "url": "https://open.spotify.com/album/6aBgONIIYJr8ondQP2gjOO"
@@ -289,7 +337,7 @@
       "url": "https://open.spotify.com/track/41B7FamCASDTknlXUhcb76"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/3dkYdURDlDxd8uhsyS09Dv"
@@ -305,7 +353,7 @@
       "url": "https://open.spotify.com/track/7yTn8YwfpEimufBe7uDtO7"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "HEADWAY",
         "url": "https://open.spotify.com/album/6MQTfio4WhfKDRuS8AJXxF"
@@ -321,7 +369,7 @@
       "url": "https://open.spotify.com/track/7rWJErOewz9Q4x6Z02HXkM"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Visionary Vision <Performante>",
         "url": "https://open.spotify.com/album/7EyiFZBHva4Ra9vZVFuljs"
@@ -337,7 +385,7 @@
       "url": "https://open.spotify.com/track/5DQc9DipgMf8sTBmW20rb7"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Unconditional",
         "url": "https://open.spotify.com/album/4Q6W1RKslZCLWZPmagDEy9"
@@ -353,7 +401,7 @@
       "url": "https://open.spotify.com/track/4j0W96NZvBFqwIyhCb9uGX"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Touch (ft. YEONJUN of TOMORROW X TOGETHER)",
         "url": "https://open.spotify.com/album/3ohHp2OASdUUB5ryLhvKpU"
@@ -373,7 +421,7 @@
       "url": "https://open.spotify.com/track/6VG3H64odw9YFcvY0NUZpL"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "THE ONE YOU WANTED",
         "url": "https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv"
@@ -393,7 +441,7 @@
       "url": "https://open.spotify.com/track/7jYRRvidgWHyHmlIu5lyx7"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Pleasure Shop - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/5yLDGn4Nj4fuqayUZqOp8J"
@@ -409,7 +457,7 @@
       "url": "https://open.spotify.com/track/2022n4pxaEaDC2YvzVl1w7"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Love Tune",
         "url": "https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r"
@@ -425,7 +473,7 @@
       "url": "https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "TTYL",
         "url": "https://open.spotify.com/album/3YTXG84SaFHqRP7zXRdCHg"
@@ -441,7 +489,23 @@
       "url": "https://open.spotify.com/track/3AXryyinIY17WLddIcNjwT"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/61XhfosIw9on81CdHUl7x0"
+      },
+      "artists": [
+        {
+          "name": "TVXQ!",
+          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "FRESH",
+      "url": "https://open.spotify.com/track/0kub4nQgDJiGxGHvJAQrs1"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "JIN LAB Project 7. [Here]",
         "url": "https://open.spotify.com/album/5YwAPoIC2QjO4pApIsZ6OH"
@@ -457,7 +521,7 @@
       "url": "https://open.spotify.com/track/7yZv08uDBYKCw7poSL3Btb"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "GGUM",
         "url": "https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V"
@@ -473,7 +537,7 @@
       "url": "https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/5af0MAXT3Igs4gbBTDbZVy"
@@ -489,7 +553,7 @@
       "url": "https://open.spotify.com/track/2kQxIqeYONePfvbeYG2npt"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Pok\u00e9mon | Make You Shine",
         "url": "https://open.spotify.com/album/6DDyjcjzezPkC912QMkf6j"
@@ -505,7 +569,7 @@
       "url": "https://open.spotify.com/track/3vakr4UnshUxgxlKxtxme7"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Will -Korean version-",
         "url": "https://open.spotify.com/album/4Pl0T6jHMRaGMamkg14mVZ"
@@ -521,7 +585,7 @@
       "url": "https://open.spotify.com/track/5bFmrudRoxSGLVLH9ZEkKW"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Only One Story",
         "url": "https://open.spotify.com/album/2f9xJ413POOMFAgtVyvpFp"
@@ -537,7 +601,7 @@
       "url": "https://open.spotify.com/track/1mcNZCvco4Vh7gmaxLy1Vr"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Youth Never DIE",
         "url": "https://open.spotify.com/album/2oNeawAl6GSDcgx7QHHdeG"
@@ -553,7 +617,7 @@
       "url": "https://open.spotify.com/track/1WxZnMz2lcFskuyx6A7rYi"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "fallIn'",
         "url": "https://open.spotify.com/album/0UBt9qU96ZwijUeQHCrPN5"
@@ -569,7 +633,7 @@
       "url": "https://open.spotify.com/track/33iEkYyCgQBJNTRN2fkY4S"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "ACT",
         "url": "https://open.spotify.com/album/6RWRS5nL83GBM3VQkYuYHO"
@@ -585,7 +649,7 @@
       "url": "https://open.spotify.com/track/1ARMCwjWcFqDRKnCsLhxzd"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "NIGHT",
         "url": "https://open.spotify.com/album/0Wrd4UJLcfFemsSz4PVOaP"
@@ -601,7 +665,7 @@
       "url": "https://open.spotify.com/track/4TjypNhCmZhTTBBkD39RiZ"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "LIVE and FALL",
         "url": "https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd"
@@ -617,7 +681,7 @@
       "url": "https://open.spotify.com/track/39TvS8OLjrdKAQEkFAn2pc"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Like Yesterday",
         "url": "https://open.spotify.com/album/4yaIevy3AvY5g1k7SkejSK"
@@ -633,7 +697,7 @@
       "url": "https://open.spotify.com/track/5YTsiCrfRiIxxqUnpcqe39"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/5jV0o8IBkyrptifJWnXB0u"
@@ -649,7 +713,7 @@
       "url": "https://open.spotify.com/track/7wlCdfpxaWQPaxspDIN3wX"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Depth",
         "url": "https://open.spotify.com/album/0tbbcpZnZsuyJLOpB7SOK3"
@@ -665,7 +729,7 @@
       "url": "https://open.spotify.com/track/3hHNvwkMZ153mKfdoaXyRr"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6WI6u7X7Vlme8gROHyDUrY"
@@ -681,23 +745,7 @@
       "url": "https://open.spotify.com/track/4UVsqRoSys14kMLBfpJDTQ"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "SYNK : PARALLEL LINE - Special Digital Single",
-        "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "Spark - WINTER Solo",
-      "url": "https://open.spotify.com/track/2xoA126GEgFhrYzRaTH7E4"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "MEOW",
         "url": "https://open.spotify.com/album/5TLTBK7AZVvOkv8FvAn7le"
@@ -713,7 +761,7 @@
       "url": "https://open.spotify.com/track/5LlUJ3HHI2dS0xowdMDXC5"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "NEMONEMO",
         "url": "https://open.spotify.com/album/6FLiJ4318RtpA5lYWJt2cL"
@@ -729,23 +777,7 @@
       "url": "https://open.spotify.com/track/4UwsXGVppRRJpKBHy0mtyK"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "SYNK : PARALLEL LINE - Special Digital Single",
-        "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Dopamine - GISELLE Solo",
-      "url": "https://open.spotify.com/track/6pIuPm3u7QgUFAX1V0D9wY"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "CRAZY",
         "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
@@ -761,7 +793,7 @@
       "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Steady - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3fWEp6LTn7hHD4w3Oo4hvF"
@@ -777,7 +809,7 @@
       "url": "https://open.spotify.com/track/1zJUr9Oo5zEjvJrdlg67jQ"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "19.99",
         "url": "https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF"
@@ -793,23 +825,7 @@
       "url": "https://open.spotify.com/track/6pqyZNnLKyJKtrlf42FQoq"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "SYNK : PARALLEL LINE - Special Digital Single",
-        "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 171160,
-      "name": "Bored! - NINGNING Solo",
-      "url": "https://open.spotify.com/track/44qlcokPO2RjD8791ohJFR"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "abouTZU",
         "url": "https://open.spotify.com/album/13a0SjtqEvhGLv5J46vURm"
@@ -825,7 +841,7 @@
       "url": "https://open.spotify.com/track/3iDGRv7rqwDYRlHoTaVE96"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "SAD SONG",
         "url": "https://open.spotify.com/album/0NmzOw8evaF6bn2U7tiWSA"
@@ -841,7 +857,7 @@
       "url": "https://open.spotify.com/track/4AwUc1mdlX4ARHkUNG0iho"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/4lgToZ6PFbsj6PpN1qfKGa"
@@ -857,7 +873,7 @@
       "url": "https://open.spotify.com/track/7251TzfUfdUfvTiEm0VrjQ"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "BORN LIKE THIS",
         "url": "https://open.spotify.com/album/4aJ7v5848ubd4iQF3lONqk"
@@ -873,7 +889,7 @@
       "url": "https://open.spotify.com/track/0ajEGDVNascvRTIF00SC4I"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Neva Play (feat. RM of BTS)",
         "url": "https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb"
@@ -893,7 +909,7 @@
       "url": "https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "HOUSE OF TRICKY : WATCH OUT",
         "url": "https://open.spotify.com/album/5i39B9fUkXSofBtiWABi93"
@@ -909,7 +925,7 @@
       "url": "https://open.spotify.com/track/336bNqFkCC2owApr6l7osT"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "RIIZING : Epilogue - The 1st Mini Album",
         "url": "https://open.spotify.com/album/12H3XVm97o4FhhWhtRnBWY"
@@ -925,7 +941,7 @@
       "url": "https://open.spotify.com/track/0W0STGeR1lBHBbDgdB0uie"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Hello, World - The 4th Mini Album",
         "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
@@ -941,7 +957,7 @@
       "url": "https://open.spotify.com/track/13U2hhhgeN57hffBCuaUcw"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "FLOW",
         "url": "https://open.spotify.com/album/7peUxIsjo1GlwVhNdXe4r2"
@@ -957,7 +973,7 @@
       "url": "https://open.spotify.com/track/6bdA8NPhCKyS38Zsg2xui9"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "UNO - YONAKA Ver.",
         "url": "https://open.spotify.com/album/5Jkbkqamz4pvQmWG1L6fax"
@@ -981,7 +997,7 @@
       "url": "https://open.spotify.com/track/5PhyMZfcddYmadaJjTRPgh"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "2nd Mini Album 'Algorithm's Blossom'",
         "url": "https://open.spotify.com/album/4i0rZXe1lgKDzJ8LkueifT"
@@ -997,7 +1013,7 @@
       "url": "https://open.spotify.com/track/1lTBkwEm0wim9RsMXqtqWy"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Fe3O4: STICK OUT",
         "url": "https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2"
@@ -1013,7 +1029,7 @@
       "url": "https://open.spotify.com/track/3Zice5cXhiPVLwrdBJlyHc"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Dreamy Resonance",
         "url": "https://open.spotify.com/album/4XZFgEjQ4Un1TNHAtTC87m"
@@ -1029,7 +1045,7 @@
       "url": "https://open.spotify.com/track/3zNqNoFNpPoXYrYJzCedzv"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Supernatural",
         "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
@@ -1045,7 +1061,7 @@
       "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "ATE THAT",
         "url": "https://open.spotify.com/album/7jN0fm4j3MRrqO6CZkefhx"
@@ -1061,7 +1077,7 @@
       "url": "https://open.spotify.com/track/6PFTc4Y66z4ZfyY0skgsD4"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Rains in Heaven",
         "url": "https://open.spotify.com/album/2SUJuWIru2k3m8RkjwcSsW"
@@ -1077,7 +1093,7 @@
       "url": "https://open.spotify.com/track/17IcI8xMok8qFNhSPRufjo"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "FANTASY",
         "url": "https://open.spotify.com/album/1OcEkmdnN6munsOZQmyyYE"
@@ -1093,7 +1109,7 @@
       "url": "https://open.spotify.com/track/0MmlCY9mi7pzKeOLdgKNLA"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Cosmic",
         "url": "https://open.spotify.com/album/6LM7oiElbxhLJJRL6K7AB5"
@@ -1109,7 +1125,7 @@
       "url": "https://open.spotify.com/track/0ekANUuUFZeWZMNQRmYhvs"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "Open Always Wins",
         "url": "https://open.spotify.com/album/5NZ1IEOLWVRYIhN8uRPyZs"
@@ -1125,7 +1141,7 @@
       "url": "https://open.spotify.com/track/7lqkrW4NxWuC8nVW1qnh2k"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "REVERSE",
         "url": "https://open.spotify.com/album/2agh9SrSkdac9tUYbHOeum"
@@ -1141,7 +1157,7 @@
       "url": "https://open.spotify.com/track/5KlKadHo3z2nuSpWZNgpj3"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2024-11-05 15:00:00",
       "album": {
         "name": "BAMESIS",
         "url": "https://open.spotify.com/album/402aahHNiFYPoNKZRg7GaF"
@@ -1155,22 +1171,6 @@
       "duration_ms": 187746,
       "name": "LAST PARADE",
       "url": "https://open.spotify.com/track/5g161vgVSZ2dhzczfNJcyx"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Sticky",
-        "url": "https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 157120,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
     }
   ],
   "unique_name": "K-Pop Fresh",

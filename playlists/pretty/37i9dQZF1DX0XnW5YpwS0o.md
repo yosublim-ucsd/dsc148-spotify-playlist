@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 
 > 2016 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,505 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,623 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 55 | [Grey Luh](https://open.spotify.com/track/1x1BKrrpq7CfOZPBeUsx16) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Berhana](https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3) | 4:21 |
 | 56 | [Die Trying](https://open.spotify.com/track/5JTAGruCIDyRLhKLwFkTnS) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Die Trying](https://open.spotify.com/album/3GtcNdfScg8xtLLbJNJbfm) | 3:29 |
 | 57 | [Doing It To Death](https://open.spotify.com/track/2hDtkP0ge2Gckcj7qi2NQ2) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Ash & Ice](https://open.spotify.com/album/7E6UpW4mlPavgOq1YuB2fd) | 4:07 |
-| 58 | [Surprise Yourself](https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [Phase \(Deluxe\)](https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR) | 4:20 |
-| 59 | [Spirit Cold](https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 3:42 |
+| 58 | [Spirit Cold](https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 3:42 |
+| 59 | [Surprise Yourself](https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [Phase \(Deluxe\)](https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR) | 4:20 |
 | 60 | [Dancing On Glass](https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Matter](https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK) | 4:06 |
 | 61 | [Conqueror](https://open.spotify.com/track/3qBn2YAFbX16coGmScr7Y5) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 3:27 |
 | 62 | [Daft Pretty Boys](https://open.spotify.com/track/58hbLmAfFQA4zbxcbRCO4P) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Disappear Here](https://open.spotify.com/album/5nTrWmCP1kjEeK3SuuS3PP) | 3:07 |

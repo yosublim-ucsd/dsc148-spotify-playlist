@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1333296,
+  "num_followers": 1333447,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Mu\u00e9vete",
-        "url": "https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1"
-      },
-      "artists": [
-        {
-          "name": "Los Telez",
-          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Gritar\u00eda",
-      "url": "https://open.spotify.com/track/0t1UDIDBS2u8k0TltYUHaE"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Sus Mejores Exitos",
         "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 195946,
       "name": "Ca\u00f1ita Ca\u00f1averal",
       "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Mu\u00e9vete",
+        "url": "https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1"
+      },
+      "artists": [
+        {
+          "name": "Los Telez",
+          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Gritar\u00eda",
+      "url": "https://open.spotify.com/track/0t1UDIDBS2u8k0TltYUHaE"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -783,18 +783,22 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "No Puedo Olvidarte",
-        "url": "https://open.spotify.com/album/1o6ilxYuAIaNYwjssSCAcS"
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/5k783HWe7on8tcK6W8jtyG"
       },
       "artists": [
         {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+          "name": "Nery Pedraza",
+          "url": "https://open.spotify.com/artist/2auNLhntCTSNSUhsN0MCQ0"
+        },
+        {
+          "name": "Los Guraperos de la Cumbia",
+          "url": "https://open.spotify.com/artist/2qzwx9X95HrGfehodiubOs"
         }
       ],
-      "duration_ms": 331000,
-      "name": "No Puedo Olvidarte",
-      "url": "https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ"
+      "duration_ms": 352480,
+      "name": "El Reo Ausente",
+      "url": "https://open.spotify.com/track/3G1MeI4VeHNhDimzvY22V0"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -815,22 +819,18 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/5k783HWe7on8tcK6W8jtyG"
+        "name": "No Puedo Olvidarte",
+        "url": "https://open.spotify.com/album/1o6ilxYuAIaNYwjssSCAcS"
       },
       "artists": [
         {
-          "name": "Nery Pedraza",
-          "url": "https://open.spotify.com/artist/2auNLhntCTSNSUhsN0MCQ0"
-        },
-        {
-          "name": "Los Guraperos de la Cumbia",
-          "url": "https://open.spotify.com/artist/2qzwx9X95HrGfehodiubOs"
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
         }
       ],
-      "duration_ms": 352480,
-      "name": "El Reo Ausente",
-      "url": "https://open.spotify.com/track/3G1MeI4VeHNhDimzvY22V0"
+      "duration_ms": 331000,
+      "name": "No Puedo Olvidarte",
+      "url": "https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/6kzuObrtfdIgQqWzknrE4q"
+      },
+      "artists": [
+        {
+          "name": "Grupo Konfusion",
+          "url": "https://open.spotify.com/artist/3xYkx6c8tr6YewKD3xqpH4"
+        }
+      ],
+      "duration_ms": 271461,
+      "name": "Tu y yo",
+      "url": "https://open.spotify.com/track/778AFISUlRVyMbzmASfOBx"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
         "name": "Sabor A Cumbia",
         "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 262861,
       "name": "Ya No Est\u00e0s Aqu\u00ec",
       "url": "https://open.spotify.com/track/6hoGyBraWOkZ5XunICrx7E"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
-        "name": "Tu y Yo",
-        "url": "https://open.spotify.com/album/6kzuObrtfdIgQqWzknrE4q"
-      },
-      "artists": [
-        {
-          "name": "Grupo Konfusion",
-          "url": "https://open.spotify.com/artist/3xYkx6c8tr6YewKD3xqpH4"
-        }
-      ],
-      "duration_ms": 271461,
-      "name": "Tu y yo",
-      "url": "https://open.spotify.com/track/778AFISUlRVyMbzmASfOBx"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Locura De Amor",
-        "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Karo's",
-          "url": "https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Amor Carnal",
-      "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Nuestra Historia Termino",
         "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 234140,
       "name": "Nuestra Historia Termino",
       "url": "https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Locura De Amor",
+        "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Karo's",
+          "url": "https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Amor Carnal",
+      "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
-        "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "\u00a1Ay! El Amor",
-      "url": "https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "La Cumbia Se\u00f1al",
         "url": "https://open.spotify.com/album/6YTxVxs81ZfPj1afYAiGaj"
       },
@@ -1435,18 +1419,34 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Triste y Vac\u00eda",
-        "url": "https://open.spotify.com/album/2bPp7IIAG9esCZClq0l6yV"
+        "name": "Amor T\u00f3xico",
+        "url": "https://open.spotify.com/album/48VIofynPJH1FbLciAyn5f"
       },
       "artists": [
         {
-          "name": "Grupo G",
-          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
+          "name": "Grupo K-L",
+          "url": "https://open.spotify.com/artist/6AZdWAXJzixK1BEq50ULbi"
         }
       ],
-      "duration_ms": 194506,
-      "name": "El Viejo Panz\u00f3n",
-      "url": "https://open.spotify.com/track/3Dj3PRVWbPlCSaWeA0DBRM"
+      "duration_ms": 260928,
+      "name": "Amor T\u00f3xico",
+      "url": "https://open.spotify.com/track/62y5VJHI9Y5udjRmtrW85E"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
+        "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "\u00a1Ay! El Amor",
+      "url": "https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Amor T\u00f3xico",
-        "url": "https://open.spotify.com/album/48VIofynPJH1FbLciAyn5f"
+        "name": "Triste y Vac\u00eda",
+        "url": "https://open.spotify.com/album/2bPp7IIAG9esCZClq0l6yV"
       },
       "artists": [
         {
-          "name": "Grupo K-L",
-          "url": "https://open.spotify.com/artist/6AZdWAXJzixK1BEq50ULbi"
+          "name": "Grupo G",
+          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
         }
       ],
-      "duration_ms": 260928,
-      "name": "Amor T\u00f3xico",
-      "url": "https://open.spotify.com/track/62y5VJHI9Y5udjRmtrW85E"
+      "duration_ms": 194506,
+      "name": "El Viejo Panz\u00f3n",
+      "url": "https://open.spotify.com/track/3Dj3PRVWbPlCSaWeA0DBRM"
     },
     {
       "added_at": "2024-07-04 23:21:37",

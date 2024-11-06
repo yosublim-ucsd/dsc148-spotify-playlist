@@ -9405,6 +9405,24 @@
     },
     {
       "album": {
+        "name": "Digging Around",
+        "url": "https://open.spotify.com/album/4ZV7TClwbbUPnfCRISDBPY"
+      },
+      "artists": [
+        {
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180133,
+      "name": "Digging Around",
+      "url": "https://open.spotify.com/track/0mIGu8CxAwQbbwN439W5b3"
+    },
+    {
+      "album": {
         "name": "Digital Forest / Sugar Pill",
         "url": "https://open.spotify.com/album/2Ze7DZYjC1b4qNt9ajoXd9"
       },

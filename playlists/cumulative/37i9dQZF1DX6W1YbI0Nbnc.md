@@ -4,7 +4,7 @@
 
 > Listen to women at full volume! 香港EQUAL女聲力量！\(cover: Joya\)
 
-285 songs - 17 hr 52 min
+289 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [830](https://open.spotify.com/track/3YC4FwGXLyjcn9zHGp1n3s) | [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [Chapter 0](https://open.spotify.com/album/3TOnz47hVLJFHzC4Cz7B3U) | 3:23 | 2022-03-07 | 2022-04-06 |
 | [8SEC](https://open.spotify.com/track/5iUu6TerlD7QGVeJyXRd3r) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [8SEC](https://open.spotify.com/album/4Rej6saAxyu8MQD21E8QeN) | 3:37 | 2022-08-02 | 2022-12-01 |
 | [@princejoyce](https://open.spotify.com/track/0MCuH8pcS50dyNTfr30xoQ) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Joyce To The World](https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF) | 3:14 | 2022-01-04 | 2022-02-03 |
+| [AFK???](https://open.spotify.com/track/1OfUSTbVRxIUaisRxyoqCK) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [AFK???](https://open.spotify.com/album/4rCoxG3kObBdtUszHBpfKX) | 3:06 | 2024-11-05 |  |
 | [Apart, so](https://open.spotify.com/track/0EKiPxxGjeI384TjISd9ph) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | ["I"](https://open.spotify.com/album/0w00oKtFxjZatD8WdqjXww) | 3:28 | 2024-02-06 |  |
 | [Atypical](https://open.spotify.com/track/5LXr3GhncY4sC9ynpapsnc) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Atypical](https://open.spotify.com/album/3FEaGC24Dx03W74Xz1Xb1t) | 2:56 | 2023-11-29 | 2024-04-03 |
 | [Back in the Game](https://open.spotify.com/track/1lx0nTrol5vUiG65MleoEi) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Back in the Game](https://open.spotify.com/album/5uLE642bTtgVSubD20bh21) | 3:37 | 2024-04-02 |  |
@@ -35,8 +36,8 @@
 | [GET WILD \(feat\. AKIKO\)](https://open.spotify.com/track/12NPhma0x5yqWaak5KDfly) | [ANSONBEAN](https://open.spotify.com/artist/1SwnEZ4IUZF2CEsWOM0E2L), [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt), [AKIKO](https://open.spotify.com/artist/2Opwzcyz0gW62Gz9sbYTRZ) | [GET WILD \(feat\. AKIKO\)](https://open.spotify.com/album/2xPIIW6H5UcWKaplgKp0wT) | 2:51 | 2023-07-04 | 2023-11-30 |
 | [Gotta Go!](https://open.spotify.com/track/3F16iie73VyKgN63z6YyZH) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Gotta Go!](https://open.spotify.com/album/5QMViZsyLMd5pJJc3l9BEO) | 3:26 | 2022-05-03 | 2022-08-03 |
 | [Grey is the New Blue](https://open.spotify.com/track/4rwBzrDw4KJYCfaxlQaunW) | [Winter Bagels](https://open.spotify.com/artist/5greJ5P16QGOFlMTnDH8F0) | [Grey is the New Blue](https://open.spotify.com/album/0bqRnMd1qwAfb7I1M7upVT) | 5:03 | 2022-04-05 | 2022-05-04 |
-| [Hey u](https://open.spotify.com/track/3vJKrE9ZYD4qOuHShG8vrf) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [Hey u](https://open.spotify.com/album/5EGo1lAzXuQZtM4aEkNEgt) | 3:32 | 2022-11-30 |  |
-| [HW1](https://open.spotify.com/track/7CbFYLWp5WI3K9p57d1X9w) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [HW1](https://open.spotify.com/album/27olYw9kfefaxM2oqtXhbg) | 4:19 | 2022-05-03 |  |
+| [Hey u](https://open.spotify.com/track/3vJKrE9ZYD4qOuHShG8vrf) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [Hey u](https://open.spotify.com/album/5EGo1lAzXuQZtM4aEkNEgt) | 3:32 | 2022-11-30 | 2024-11-06 |
+| [HW1](https://open.spotify.com/track/7CbFYLWp5WI3K9p57d1X9w) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [HW1](https://open.spotify.com/album/27olYw9kfefaxM2oqtXhbg) | 4:19 | 2022-05-03 | 2024-11-06 |
 | [Hypocrite](https://open.spotify.com/track/0tQVGTGduJETC5jRWni2Uo) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/6ePbNHhbr42Am5eUAshYm8) | 3:19 | 2022-11-30 | 2024-06-07 |
 | [Hypocrite](https://open.spotify.com/track/6HfzX4R5fPu1PCzfairoes) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/5DOXGmraTX5HolLqU6DE2j) | 3:20 | 2023-03-24 | 2024-04-19 |
 | [I can’t be you](https://open.spotify.com/track/0BuxxvxVGRCy4v5pbZhhkX) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | ["I"](https://open.spotify.com/album/0w00oKtFxjZatD8WdqjXww) | 3:37 | 2024-02-06 |  |
@@ -81,6 +82,7 @@
 | [Someday My Prince Will Come](https://open.spotify.com/track/1OWUZvmvabogBms3h8ryXF) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Someday My Prince Will Come](https://open.spotify.com/album/3vj37vVVTW7Fn3V982rq4T) | 4:12 | 2022-05-03 | 2022-08-03 |
 | [Sorrowful](https://open.spotify.com/track/4UemEw5HAdtbHtgEYNiVPK) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [之所以我們都在水底里歇斯](https://open.spotify.com/album/7wEg2vQRht8YxmSikgmRcd) | 4:49 | 2022-03-07 | 2022-05-04 |
 | [Speak Love](https://open.spotify.com/track/0BQaaSfzHe9Grd7DID3An9) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Speak Love](https://open.spotify.com/album/6ABfEqC4ZRjjQcVBeBgeUl) | 3:09 | 2023-11-29 | 2024-04-03 |
+| [SSS](https://open.spotify.com/track/2ktEpazJROn73HR7jAWY1q) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [SSS](https://open.spotify.com/album/5SsZzhz7bZEWEzGI3jNEpP) | 2:54 | 2024-11-05 |  |
 | [Strawberry Icecream](https://open.spotify.com/track/3QWDgjquhPquGK71NlBmi8) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [Strawberry Icecream](https://open.spotify.com/album/68JIJ0CuNyGkH9na7Y3OiD) | 3:21 | 2023-02-28 | 2024-06-07 |
 | [stupidlittlegirl](https://open.spotify.com/track/48dGspOoVv7a9HtHSgPQuh) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [stupidlittlegirl](https://open.spotify.com/album/1I8xMmaGJ6f17RDdN0ZhGN) | 2:59 | 2024-04-30 |  |
 | [Sympathy](https://open.spotify.com/track/3C6aaaQ73DYqlQqUbZ8m8p) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Sympathy](https://open.spotify.com/album/1M19JDKFDaQvAI4BTv3Gn5) | 4:20 | 2022-03-07 | 2022-08-03 |
@@ -139,14 +141,15 @@
 | [原來談戀愛是這麼一回事](https://open.spotify.com/track/6TJOXAyqTtq6Xvk1qHoleJ) | [Chantel 姚焯菲](https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq) | [原來談戀愛是這麼一回事](https://open.spotify.com/album/41qU1Np9lsLmB0o1e4sQql) | 3:29 | 2022-08-02 | 2022-09-07 |
 | [只想你記得](https://open.spotify.com/track/2CZDMyih2ayqPoe9Ccw2e7) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [只想你記得](https://open.spotify.com/album/28HSqRdjcCF4tHGwbXH10K) | 3:13 | 2022-01-04 | 2022-03-08 |
 | [可惜你是個人](https://open.spotify.com/track/4Bfgdsd4wlypz9B12zuNay) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [可惜你是個人](https://open.spotify.com/album/0XKJPvviHX8UQa5NyVZZBR) | 4:27 | 2023-10-03 | 2024-06-07 |
+| [可惜我們沒有](https://open.spotify.com/track/0QC5Fhykkjc7CSnEg4subE) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [可惜我們沒有](https://open.spotify.com/album/5c5iNfpcuh15u57wdA6cCh) | 4:05 | 2024-11-05 |  |
 | [史詩式完結](https://open.spotify.com/track/4PZ8v9on8C5V2L98xzgT8x) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [The Odyssey of Freya](https://open.spotify.com/album/12w8t90ZpgzOk9vz65NfNq) | 3:39 | 2023-11-29 |  |
 | [君莫問](https://open.spotify.com/track/0aTRqpyXgGs3yfnlRR4IBF) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [君莫問](https://open.spotify.com/album/5jCsCSxXDojiRu92WdoXFG) | 3:07 | 2023-06-06 |  |
 | [吳哥窟](https://open.spotify.com/track/1BFpJoAPByexBgJ5z7CDHZ) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [我本人](https://open.spotify.com/album/73eNXN2VJcoEasWmWp4IX8) | 3:43 | 2021-12-07 | 2022-01-05 |
 | [告別式](https://open.spotify.com/track/4fxdfsuH7iUDixsF3IO8PA) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT) | [告別式](https://open.spotify.com/album/60TuWoX4pXkaqjjadnYQxp) | 4:57 | 2021-12-07 | 2022-01-05 |
-| [告別煤氣燈](https://open.spotify.com/track/7xKi5V6OhMwBz5KsBZZ3Tg) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [告別煤氣燈](https://open.spotify.com/album/5Y5fvA5iggOCDrietR4FAP) | 3:28 | 2024-06-06 |  |
+| [告別煤氣燈](https://open.spotify.com/track/7xKi5V6OhMwBz5KsBZZ3Tg) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [告別煤氣燈](https://open.spotify.com/album/5Y5fvA5iggOCDrietR4FAP) | 3:28 | 2024-06-06 | 2024-11-06 |
 | [呼吸之間](https://open.spotify.com/track/1eVGIJZMTyms9dpWI70aJi) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [呼吸之間](https://open.spotify.com/album/2W6R3leFpPzSrZLkF7oFJR) | 4:13 | 2022-08-02 | 2023-11-30 |
 | [哥本哈根的另一個我](https://open.spotify.com/track/51QyPUhUxWJ45JENrb2oDF) | [Fiona Sit](https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa) | [哥本哈根的另一個我](https://open.spotify.com/album/3ObUQkjUZx5P1rz2mChrNq) | 3:40 | 2022-03-07 | 2022-08-03 |
-| [哭泣健康指南](https://open.spotify.com/track/28uHoC2GJULmTcFTnkJFb9) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [哭泣健康指南](https://open.spotify.com/album/6694y89ReLyXxCWhonU9O8) | 4:06 | 2023-11-29 |  |
+| [哭泣健康指南](https://open.spotify.com/track/28uHoC2GJULmTcFTnkJFb9) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [哭泣健康指南](https://open.spotify.com/album/6694y89ReLyXxCWhonU9O8) | 4:06 | 2023-11-29 | 2024-11-06 |
 | [四方帽之約](https://open.spotify.com/track/07DWpy6TvwVCmSfaiwAvna) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [四方帽之約](https://open.spotify.com/album/6IGeG2PWkQwGtuTYW0whUa) | 3:59 | 2023-09-05 |  |
 | [回到自己](https://open.spotify.com/track/1MLnyqRlbDal3gL3QmHcHK) | [Winter Bagels](https://open.spotify.com/artist/5greJ5P16QGOFlMTnDH8F0) | [回到自己](https://open.spotify.com/album/6aYvUkvwZcH5grv9Sa8WAW) | 5:24 | 2022-04-05 | 2022-05-04 |
 | [團圓說](https://open.spotify.com/track/1hSO2gFy57hFzDzQzDDiei) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [團圓說](https://open.spotify.com/album/1x04K2Hc3MLci681Q6XTws) | 4:21 | 2022-01-04 | 2024-05-01 |
@@ -202,6 +205,7 @@
 | [控制狂](https://open.spotify.com/track/76dLNd8p32g8VbQlYuZUNf) | [Candy Lo](https://open.spotify.com/artist/51ZbCFgOspWvhBjd1DUYEV) | [控制狂](https://open.spotify.com/album/6DDGlCxh0OKiehzeuIRxGx) | 4:09 | 2022-01-04 | 2022-02-03 |
 | [擇善固執](https://open.spotify.com/track/6eNVvM7s2vjWYBodtMpHsZ) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [Petit Fours](https://open.spotify.com/album/2Cs7d4bQgWBkdb3YZnOm2P) | 3:37 | 2022-08-02 | 2022-12-01 |
 | [收聲多謝](https://open.spotify.com/track/6UBbSrmg2XMWFTe9rImahv) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [收聲多謝](https://open.spotify.com/album/41LEXHiUDcHlhXpdPvmKf2) | 3:17 | 2021-12-07 | 2022-03-08 |
+| [新牌仔](https://open.spotify.com/track/0mQccrxpvXVspsotma27wJ) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [新牌仔](https://open.spotify.com/album/4bfBEFQbHpumCeg2zCKDBi) | 3:05 | 2024-11-05 |  |
 | [旁觀有罪](https://open.spotify.com/track/30OWg6pLbi8fupNYS5ZDnk) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [Honesty](https://open.spotify.com/album/4ikmdAhDo4AOmHmugvz1sT) | 3:53 | 2022-01-04 | 2022-02-03 |
 | [日月無常](https://open.spotify.com/track/5hZ7UxBJFPpi64lqpdXyh0) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [日月無常](https://open.spotify.com/album/7G8suSg1esgxqWBsVE1GsP) | 3:32 | 2022-04-05 | 2022-05-04 |
 | [早上37.2度](https://open.spotify.com/track/0xPuqKHf6Cchdi3jkjuyTR) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [早上37.2度](https://open.spotify.com/album/0cQ4ghlPaRQXjZQ8P84tBW) | 4:05 | 2022-05-03 | 2022-12-01 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Local artists you need to watch, handpicked by our editors. Cover: Fazerdaze",
+  "description": "Local artists you need to watch, handpicked by our editors. Cover: Young Franco",
   "name": "RADAR AU & NZ",
   "tracks": [
     {
@@ -450,6 +450,24 @@
       "duration_ms": 243399,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/1jpf91ngq4RrkajGFOqaGt"
+    },
+    {
+      "album": {
+        "name": "Batsh*t",
+        "url": "https://open.spotify.com/album/3MNa4RF0WImVVeALBvhXE8"
+      },
+      "artists": [
+        {
+          "name": "aleksiah",
+          "url": "https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138637,
+      "name": "Batsh*t",
+      "url": "https://open.spotify.com/track/2a1nbVmBuus5wF6Bkq8ZFE"
     },
     {
       "album": {
@@ -1751,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "Something To Look Back On",
+        "url": "https://open.spotify.com/album/27eJIiIuiYXzY6tfCNWNfN"
+      },
+      "artists": [
+        {
+          "name": "Montgomery",
+          "url": "https://open.spotify.com/artist/0qAtmxRkW1pvGWFDOxVbS4"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234439,
+      "name": "Find A Reason",
+      "url": "https://open.spotify.com/track/3kHxBWXqQlXyzy6qV3b1Cl"
+    },
+    {
+      "album": {
         "name": "Find A Way",
         "url": "https://open.spotify.com/album/0TEZzb1zjWJwOVpMQ9Uat4"
       },
@@ -2260,6 +2296,24 @@
       "duration_ms": 166981,
       "name": "Green Honda",
       "url": "https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr"
+    },
+    {
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/2z4btRtdgqRw3oAceWQKxk"
+      },
+      "artists": [
+        {
+          "name": "Asha Jefferies",
+          "url": "https://open.spotify.com/artist/4XUmpHj581ooyS5rJuCBJg"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287997,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/79Nga1vtGyuKTnT2wcieji"
     },
     {
       "album": {
@@ -4689,6 +4743,24 @@
     },
     {
       "album": {
+        "name": "Stiletto",
+        "url": "https://open.spotify.com/album/4N2vNjHPArJKgVEjpjgAcq"
+      },
+      "artists": [
+        {
+          "name": "Gut Health",
+          "url": "https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223566,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/2nXVWSPnltpTQhRCEUzYXF"
+    },
+    {
+      "album": {
         "name": "Rhythms",
         "url": "https://open.spotify.com/album/2J7YuvDTltVy6R3noYv416"
       },
@@ -5490,6 +5562,24 @@
       "duration_ms": 156986,
       "name": "Stop & Stare",
       "url": "https://open.spotify.com/track/2l1g0c9TIopvMg5h0xBWgc"
+    },
+    {
+      "album": {
+        "name": "Stop Calling",
+        "url": "https://open.spotify.com/album/0uvwr9erzNBwxjzqBSUz5Q"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Stop Calling",
+      "url": "https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK"
     },
     {
       "album": {
@@ -6448,6 +6538,24 @@
       "duration_ms": 164800,
       "name": "Wasted You",
       "url": "https://open.spotify.com/track/4cxEhWVeCI5Y37vNjCVIlx"
+    },
+    {
+      "album": {
+        "name": "Weather's Better",
+        "url": "https://open.spotify.com/album/5QjlHFNDQHxf6vXJPpOpO5"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172991,
+      "name": "Weather's Better",
+      "url": "https://open.spotify.com/track/0Nj1v6r8uNGgSL4tR7N0bz"
     },
     {
       "album": {

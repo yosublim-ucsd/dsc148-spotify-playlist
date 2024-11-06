@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 
 > Les plus belles chansons d'amour de la variété française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,711 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,714 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 22 | [Couleur menthe à l'eau](https://open.spotify.com/track/0PHjhFcDWWtZeQBWC12V4l) | [Eddy Mitchell](https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ) | [Happy Birthday](https://open.spotify.com/album/5YVoSO3cHnjC10DrXlX2AA) | 3:30 |
 | 23 | [Hymne à l'amour](https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Triple Best Of](https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18) | 3:26 |
 | 24 | [J'attends](https://open.spotify.com/track/2EjSObddqmZPzlcoket9WV) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Les femmes idéales](https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO) | 4:40 |
-| 25 | [Le lac](https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:55 |
+| 25 | [Mais je t'aime](https://open.spotify.com/track/4dtG1p71E6VPt9BmVYWcY5) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [Mais je t'aime](https://open.spotify.com/album/5OU0fh8Jg5DjOZMhvmkBUI) | 4:28 |
 | 26 | [Je vais t'aimer](https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La vieille](https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm) | 5:27 |
-| 27 | [Mais je t'aime](https://open.spotify.com/track/4dtG1p71E6VPt9BmVYWcY5) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [Mais je t'aime](https://open.spotify.com/album/5OU0fh8Jg5DjOZMhvmkBUI) | 4:28 |
+| 27 | [Le lac](https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:55 |
 | 28 | [L'encre de tes yeux \- Remastered](https://open.spotify.com/track/2mLFPvKfZ6LI9NaAtFDyUL) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Fragile \(Remastered\)](https://open.spotify.com/album/0UPJEVD6jVBaAEuFyTaCyX) | 3:06 |
 | 29 | [Aimer à mort](https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Joie de vivre](https://open.spotify.com/album/7cyuFUJLQkLVF7JIB2U9T2) | 2:56 |
 | 30 | [J'te l'dis quand même](https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Alors regarde](https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt) | 3:39 |
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 40 | [Je sais pas](https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:33 |
 | 41 | [Je suis malade](https://open.spotify.com/track/4Qzdktws811tv59fMf7CBz) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [Je Suis Malade](https://open.spotify.com/album/6TdQpl3zNMInvcyJLrkBM0) | 4:09 |
 | 42 | [1,2,3](https://open.spotify.com/track/7uCLrBdy5FH6T7vcJzqRd7) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f), [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [1,2,3](https://open.spotify.com/album/484D9KRWoTWTzghknHQd1Q) | 3:45 |
-| 43 | [Caroline](https://open.spotify.com/track/7esR7jO5Fyl78B6CwwhZJy) | [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [Qui sème le vent récolte le tempo](https://open.spotify.com/album/5hM61fBUA5OIMJUUuMrzyH) | 4:43 |
-| 44 | [Et un jour une femme](https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Châtelet les Halles](https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB) | 5:19 |
+| 43 | [Et un jour une femme](https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Châtelet les Halles](https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB) | 5:19 |
+| 44 | [Caroline](https://open.spotify.com/track/7esR7jO5Fyl78B6CwwhZJy) | [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [Qui sème le vent récolte le tempo](https://open.spotify.com/album/5hM61fBUA5OIMJUUuMrzyH) | 4:43 |
 | 45 | [J'en rêve encore \- Radio Edit](https://open.spotify.com/track/07aWTEpDmPPCx5XkqhRHfH) | [De Palmas](https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI) | [Marcher Dans Le Sable](https://open.spotify.com/album/7669yAkyDYTr33Hc0cAdhn) | 4:00 |
-| 46 | [Besoin de rien, envie de toi](https://open.spotify.com/track/2xwJmtyYt3tJNl4Ql9DmmW) | [Peter & Sloane](https://open.spotify.com/artist/6REk440jiYtbGdIyi2BjuV) | [Besoin De Rien, Envie De Toi](https://open.spotify.com/album/6KHWQW2tGc64o6y7YA79nF) | 3:42 |
-| 47 | [Quelques mots d'amour \- Remasterisé en 2002](https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Beauséjour \(Remasterisé en 2002\)](https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA) | 3:37 |
+| 46 | [Quelques mots d'amour \- Remasterisé en 2002](https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Beauséjour \(Remasterisé en 2002\)](https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA) | 3:37 |
+| 47 | [Besoin de rien, envie de toi](https://open.spotify.com/track/2xwJmtyYt3tJNl4Ql9DmmW) | [Peter & Sloane](https://open.spotify.com/artist/6REk440jiYtbGdIyi2BjuV) | [Besoin De Rien, Envie De Toi](https://open.spotify.com/album/6KHWQW2tGc64o6y7YA79nF) | 3:42 |
 | 48 | [Nous deux contre le reste du monde](https://open.spotify.com/track/0Uy2DEV9vQRFrCg4CLY6wY) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [La femme idéale](https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne) | 3:42 |
 | 49 | [Amour toujours](https://open.spotify.com/track/0Db6ejFxY0v2eIWVTNpf6J) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 3:27 |
 | 50 | [Tu trouveras](https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [De L' Amour Le Mieux](https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD) | 4:58 |

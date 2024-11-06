@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,085 likes - 98 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,090 likes - 98 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 50 | [ashes & rust](https://open.spotify.com/track/0ynwM8MdgPqbSfII51PP3e) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent iii](https://open.spotify.com/album/35tILwApqYtN9fTJq2v7M3) | 4:02 |
 | 51 | [Lie To Me](https://open.spotify.com/track/1ApIQQ6JK8uBr4nMi0j1BP) | [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Lie To Me](https://open.spotify.com/album/4idr0MkNlxGuIQPp46pRxa) | 2:42 |
 | 52 | [Dom Kan Inte Höra Musiken \- Masshysteri cover](https://open.spotify.com/track/0B37jwrsIJgcou8ErR8w80) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5) | [Höra musiken \- ep 24](https://open.spotify.com/album/1DOyjbkVt2IK1UzEcf3KnP) | 2:25 |
-| 53 | [66 Ex](https://open.spotify.com/track/0f4DYsO1sBip3wDH3SNRaJ) | [Dregen](https://open.spotify.com/artist/663P1NUOnzy8MiAjQFXVYA) | [66 Ex](https://open.spotify.com/album/17Ng2d2vkhdq7S0CXweQhh) | 3:00 |
+| 53 | [6 6 Ex](https://open.spotify.com/track/0f4DYsO1sBip3wDH3SNRaJ) | [Dregen](https://open.spotify.com/artist/663P1NUOnzy8MiAjQFXVYA) | [6 6 Ex](https://open.spotify.com/album/17Ng2d2vkhdq7S0CXweQhh) | 3:00 |
 | 54 | [All I Ever Am](https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 5:21 |
 | 55 | [Your House](https://open.spotify.com/track/20xfgpCbTJBDjrTFh916Av) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Your House](https://open.spotify.com/album/5bVyceWVMG2ArRJBXapami) | 3:47 |
 | 56 | [Du och jag](https://open.spotify.com/track/1FJGvFppbxmBac58qxhznH) | [crescenterna](https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh) | [Du och jag](https://open.spotify.com/album/1USw7xGDVNtx1syVDDWp0Y) | 3:29 |

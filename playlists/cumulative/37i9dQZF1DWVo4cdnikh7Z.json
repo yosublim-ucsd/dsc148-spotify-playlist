@@ -9511,6 +9511,36 @@
     },
     {
       "album": {
+        "name": "Hey Karukaruva (From \"Puyalil Oru Thoni\")",
+        "url": "https://open.spotify.com/album/36t2rhbubUYUJtDauvZJnv"
+      },
+      "artists": [
+        {
+          "name": "Bhavatharini",
+          "url": "https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4"
+        },
+        {
+          "name": "Snehan",
+          "url": "https://open.spotify.com/artist/4DPpMuArmlo0gwx2mnPwTL"
+        },
+        {
+          "name": "G. V. Prakash Kumar",
+          "url": "https://open.spotify.com/artist/6fpzjpb1v8Xss2OIt3cgLs"
+        },
+        {
+          "name": "M.M.Manasi",
+          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Hey Karukaruva (From \"Puyalil Oru Thoni\")",
+      "url": "https://open.spotify.com/track/4RJamVZPIiAd6HYXir7rv3"
+    },
+    {
+      "album": {
         "name": "Hey Magic Maname Title Track (From \"Hey Magic Maname\")",
         "url": "https://open.spotify.com/album/1A73QX4eyRwxWk89zLSlqo"
       },

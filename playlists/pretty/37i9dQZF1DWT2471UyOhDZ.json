@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Bon Iver",
-  "num_followers": 91063,
+  "num_followers": 91071,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "Lucid Girl",
-        "url": "https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Lucid Girl",
-      "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
         "name": "Unreal Unearth",
         "url": "https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 268653,
       "name": "Damage Gets Done",
       "url": "https://open.spotify.com/track/1EYP6mRfJY45IDKETJsjMO"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
+        "name": "Lucid Girl",
+        "url": "https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Lucid Girl",
+      "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 153266,
-      "name": "Mood Swings - Spotify Singles",
-      "url": "https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
         "name": "Waxwing",
         "url": "https://open.spotify.com/album/49vsrHjBAKKFj6PMjwQu6h"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "Le Risque",
-        "url": "https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
         }
       ],
-      "duration_ms": 214125,
-      "name": "Le Risque",
-      "url": "https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ"
+      "duration_ms": 153266,
+      "name": "Mood Swings - Spotify Singles",
+      "url": "https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -667,6 +651,22 @@
       "duration_ms": 194731,
       "name": "Mustang",
       "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
+        "name": "Le Risque",
+        "url": "https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 214125,
+      "name": "Le Risque",
+      "url": "https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "Zombieland",
-        "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
-      },
-      "artists": [
-        {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
-        }
-      ],
-      "duration_ms": 162932,
-      "name": "Zombieland",
-      "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
         "name": "L.A. Times",
         "url": "https://open.spotify.com/album/7wYyR1xrLO0uWxBlanysNT"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "Mountain out of a Molehill",
-        "url": "https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j"
+        "name": "Zombieland",
+        "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
       },
       "artists": [
         {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
         }
       ],
-      "duration_ms": 205330,
-      "name": "Mountain out of a Molehill",
-      "url": "https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb"
+      "duration_ms": 162932,
+      "name": "Zombieland",
+      "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -767,22 +751,18 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "Empty And Silent (feat. King Krule)",
-        "url": "https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0"
+        "name": "Mountain out of a Molehill",
+        "url": "https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j"
       },
       "artists": [
         {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        },
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
         }
       ],
-      "duration_ms": 367954,
-      "name": "Empty And Silent (feat. King Krule)",
-      "url": "https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk"
+      "duration_ms": 205330,
+      "name": "Mountain out of a Molehill",
+      "url": "https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -799,6 +779,26 @@
       "duration_ms": 235382,
       "name": "awe",
       "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
+        "name": "Empty And Silent (feat. King Krule)",
+        "url": "https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 367954,
+      "name": "Empty And Silent (feat. King Krule)",
+      "url": "https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "God Gets You Back",
-        "url": "https://open.spotify.com/album/469HjcDuXmmeyQrx2mWhWD"
-      },
-      "artists": [
-        {
-          "name": "Mogwai",
-          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
-        }
-      ],
-      "duration_ms": 400842,
-      "name": "God Gets You Back",
-      "url": "https://open.spotify.com/track/0nGjGqo75o3dBKnBMPdr8K"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
         "name": "Under the Weight",
         "url": "https://open.spotify.com/album/7j1xBW8ZMgUhxViDi1WRnh"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 193213,
       "name": "Under the Weight",
       "url": "https://open.spotify.com/track/0jWubqRD8vxtEIn8zRlTHF"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
+        "name": "God Gets You Back",
+        "url": "https://open.spotify.com/album/469HjcDuXmmeyQrx2mWhWD"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "duration_ms": 400842,
+      "name": "God Gets You Back",
+      "url": "https://open.spotify.com/track/0nGjGqo75o3dBKnBMPdr8K"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "Shirt",
-        "url": "https://open.spotify.com/album/2Z3KozCg7LVVLSEE0yXUod"
-      },
-      "artists": [
-        {
-          "name": "Porches",
-          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
-        }
-      ],
-      "duration_ms": 161833,
-      "name": "Bread Believer",
-      "url": "https://open.spotify.com/track/3ZyMkTinkvEAfQhj1cSzDG"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 182240,
       "name": "Call It Love - Edit",
       "url": "https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
+        "name": "Shirt",
+        "url": "https://open.spotify.com/album/2Z3KozCg7LVVLSEE0yXUod"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "duration_ms": 161833,
+      "name": "Bread Believer",
+      "url": "https://open.spotify.com/track/3ZyMkTinkvEAfQhj1cSzDG"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "St. Charles Square",
-        "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 235325,
-      "name": "St. Charles Square",
-      "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
         "name": "Frogs",
         "url": "https://open.spotify.com/album/7vANyFbcIVAprU6bilb72I"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 274346,
       "name": "Frogs",
       "url": "https://open.spotify.com/track/39irRnySrRADgui9AVTqdx"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
+        "name": "St. Charles Square",
+        "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 235325,
+      "name": "St. Charles Square",
+      "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -1183,38 +1183,6 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "Tigers Blood",
-        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 210693,
-      "name": "Ice Cold",
-      "url": "https://open.spotify.com/track/1w9rm8gK8BbvTSVOo34DET"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
-        "name": "Method Actor",
-        "url": "https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 231708,
-      "name": "Method Actor",
-      "url": "https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
         "name": "July",
         "url": "https://open.spotify.com/album/2UnzvLOwGcjqbIv5hajlvC"
       },
@@ -1247,6 +1215,38 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
+        "name": "Tigers Blood",
+        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 210693,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/1w9rm8gK8BbvTSVOo34DET"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
+        "name": "Method Actor",
+        "url": "https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 231708,
+      "name": "Method Actor",
+      "url": "https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
         "name": "Come Around and Love Me",
         "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "Love Heart Cheat Code",
-        "url": "https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 200664,
-      "name": "Cinnamon Temple",
-      "url": "https://open.spotify.com/track/6PzV5vEnJSng3LmZ23Y7DB"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
         "name": "Will Anybody Ever Love Me?",
         "url": "https://open.spotify.com/album/0k9E8vq5iYJUNO40E2G6U1"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 249259,
       "name": "Will Anybody Ever Love Me?",
       "url": "https://open.spotify.com/track/4g37wGcNWcVCdY0UoRNPzu"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
+        "name": "Love Heart Cheat Code",
+        "url": "https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 200664,
+      "name": "Cinnamon Temple",
+      "url": "https://open.spotify.com/track/6PzV5vEnJSng3LmZ23Y7DB"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "Floating On A Moment",
-        "url": "https://open.spotify.com/album/6WnQZyGXl3oKTsWmRLMqgY"
-      },
-      "artists": [
-        {
-          "name": "Beth Gibbons",
-          "url": "https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo"
-        }
-      ],
-      "duration_ms": 326080,
-      "name": "Floating On A Moment",
-      "url": "https://open.spotify.com/track/5ZBjVFfYDwj3TeIfDHLWLN"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
         "name": "QWERTY II",
         "url": "https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 289760,
       "name": "2 2 BOOTLEG",
       "url": "https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
+        "name": "Floating On A Moment",
+        "url": "https://open.spotify.com/album/6WnQZyGXl3oKTsWmRLMqgY"
+      },
+      "artists": [
+        {
+          "name": "Beth Gibbons",
+          "url": "https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo"
+        }
+      ],
+      "duration_ms": 326080,
+      "name": "Floating On A Moment",
+      "url": "https://open.spotify.com/track/5ZBjVFfYDwj3TeIfDHLWLN"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -1519,6 +1519,22 @@
       "duration_ms": 183706,
       "name": "The Yellow Mile",
       "url": "https://open.spotify.com/track/3d6CZ2dTOoSLqvfQG0rqjJ"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
+        "name": "When You Gonna Tell 'Em the Truth, Aaron?",
+        "url": "https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba"
+      },
+      "artists": [
+        {
+          "name": "Milo Korbenski",
+          "url": "https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI"
+        }
+      ],
+      "duration_ms": 233513,
+      "name": "Feral Guest",
+      "url": "https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "When You Gonna Tell 'Em the Truth, Aaron?",
-        "url": "https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba"
-      },
-      "artists": [
-        {
-          "name": "Milo Korbenski",
-          "url": "https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI"
-        }
-      ],
-      "duration_ms": 233513,
-      "name": "Feral Guest",
-      "url": "https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
         "name": "Brown Paper Bag",
         "url": "https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY"
       },
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "Bells and Whistles",
-        "url": "https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE"
+        "name": "Eye To The Ear",
+        "url": "https://open.spotify.com/album/55lbT7xxjAaY8nsHv9iuxd"
       },
       "artists": [
         {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+          "name": "Cosmo Sheldrake",
+          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
         }
       ],
-      "duration_ms": 247000,
-      "name": "Bells and Whistles",
-      "url": "https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb"
+      "duration_ms": 208626,
+      "name": "Breathe Round Corners",
+      "url": "https://open.spotify.com/track/4tuiYDefusmJ4W8u5qkAZM"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "Eye To The Ear",
-        "url": "https://open.spotify.com/album/55lbT7xxjAaY8nsHv9iuxd"
+        "name": "Bells and Whistles",
+        "url": "https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE"
       },
       "artists": [
         {
-          "name": "Cosmo Sheldrake",
-          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
         }
       ],
-      "duration_ms": 208626,
-      "name": "Breathe Round Corners",
-      "url": "https://open.spotify.com/track/4tuiYDefusmJ4W8u5qkAZM"
+      "duration_ms": 247000,
+      "name": "Bells and Whistles",
+      "url": "https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb"
     },
     {
       "added_at": "2024-10-17 23:36:56",

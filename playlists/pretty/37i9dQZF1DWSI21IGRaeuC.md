@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,535 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,575 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 69 | [Knocking Birds](https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 04](https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS) | 7:12 |
 | 70 | [Unfair](https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Unfair](https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ) | 4:07 |
 | 71 | [Work It](https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Work It EP](https://open.spotify.com/album/4afDe7exKekvI7T1Zf66iT) | 3:14 |
-| 72 | [Running from the Noise \- Edit](https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Running from the Noise \(Edit\)](https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1) | 3:10 |
-| 73 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 |
+| 72 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 |
+| 73 | [Running from the Noise \- Edit](https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Running from the Noise \(Edit\)](https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1) | 3:10 |
 | 74 | [FUTUR](https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Journey LP](https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW) | 3:25 |
 | 75 | [Whatchagonnado](https://open.spotify.com/track/0FuAZvxkjdLhEownrnITPY) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Whatchagonnado EP](https://open.spotify.com/album/2xUbwZP3JL9hhUgyVNrPoV) | 4:37 |
 | 76 | [I Like It](https://open.spotify.com/track/4l7tyaNeztF51PePtqyezc) | [Kieran Morgan](https://open.spotify.com/artist/6ndGFDGDB4O4YyLCqDisot) | [I Like It](https://open.spotify.com/album/6ywoB9hVatWArPteOqzH1a) | 3:20 |
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 86 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 |
 | 87 | [Origins \- 3AM Tusi Mix](https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Harvy Valencia](https://open.spotify.com/artist/0pgx8lzqNK3ywq4WWvaIO4) | [Origins EP](https://open.spotify.com/album/3tManJXRjY1UCJVXb7QTYN) | 3:56 |
 | 88 | [Nuthin' On](https://open.spotify.com/track/2iSKzMK0aNxmNAzdBVN6jp) | [Chicks Luv Us](https://open.spotify.com/artist/6tb3j9CDb60zsHm1lN8K02), [EdiP](https://open.spotify.com/artist/5LJwuxjm7hqe5ssWMyyQTE) | [Nuthin' On EP](https://open.spotify.com/album/0xHCfboVdtsec7vOiammF5) | 3:30 |
-| 89 | [ROCK THIS](https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV) | [Sergio Saffe](https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT) | [ROCK THIS](https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE) | 3:24 |
-| 90 | [SIMPLE ONE](https://open.spotify.com/track/7IfSrPPESiPzPDwHBllPVf) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [SIMPLE ONE](https://open.spotify.com/album/6JD65vVCXYIbdc6LAp4EGV) | 3:56 |
-| 91 | [Break It Down](https://open.spotify.com/track/5o73OVgK6juFXhIZiP4yKf) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Fascinator EP](https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR) | 6:09 |
+| 89 | [Break It Down](https://open.spotify.com/track/5o73OVgK6juFXhIZiP4yKf) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Fascinator EP](https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR) | 6:09 |
+| 90 | [ROCK THIS](https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV) | [Sergio Saffe](https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT) | [ROCK THIS](https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE) | 3:24 |
+| 91 | [SIMPLE ONE](https://open.spotify.com/track/7IfSrPPESiPzPDwHBllPVf) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [SIMPLE ONE](https://open.spotify.com/album/6JD65vVCXYIbdc6LAp4EGV) | 3:56 |
 | 92 | [Wake Up](https://open.spotify.com/track/6QtKYHsFWJvBUBmoxHabsD) | [Bastian Bux](https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD), [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [Wake Up](https://open.spotify.com/album/25f1FggBA5ONTSmjJGTvxf) | 3:27 |
 | 93 | [Wyle Up](https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W) | [ENNE \(BR\)](https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP) | [Wyle Up](https://open.spotify.com/album/0ypxGTI46Pk72LJh527jsX) | 2:30 |
 | 94 | [Un Beso](https://open.spotify.com/track/3uxTVxK3vXpbLNJBGiTvUM) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM) | [Un Beso](https://open.spotify.com/album/71dCpK7C3y77Ku9tbu7YwZ) | 3:45 |

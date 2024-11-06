@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-808 songs - 1 day 10 hr 42 min
+810 songs - 1 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Another Life](https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Another Life](https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD) | 2:19 | 2022-02-02 | 2024-03-26 |
 | [Answer](https://open.spotify.com/track/1FlBxmsJyCXMViFVNYFHv4) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Answer](https://open.spotify.com/album/6ybiMzz4uGQeMpUrObHltb) | 2:21 | 2022-10-24 | 2024-07-30 |
 | [Apart, Together](https://open.spotify.com/track/0OiXiEqUyVZrz8OnJkek2q) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Apart, Together](https://open.spotify.com/album/5XtJ21nRx5xJ9KNI9bZP2e) | 2:04 | 2021-12-13 | 2024-01-03 |
+| [Approval](https://open.spotify.com/track/3QzrEF8QSFkZZIJiHzhA9O) | [Fryken](https://open.spotify.com/artist/5z0Fx2yg2bbV0WpHiWi4pf) | [Approval](https://open.spotify.com/album/2TduV2Na9lQiW4HmjSbc5r) | 2:59 | 2024-11-05 |  |
 | [Apricity](https://open.spotify.com/track/1UY1Fr1IExkpYxxxxUWFug) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Apricity](https://open.spotify.com/album/5kkoWIAMOyqK9WVJmyWtfW) | 2:36 | 2022-12-21 | 2024-09-03 |
 | [April Sun](https://open.spotify.com/track/3oOUb7QryUQhLv2ZpLPSI8) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [April Sun](https://open.spotify.com/album/22115bOHkvjGPk8jNCtDFM) | 2:08 | 2021-12-13 | 2023-06-27 |
 | [Aquaterra](https://open.spotify.com/track/1eSt1uhXWcriWYOGZahU9i) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Aquaterra](https://open.spotify.com/album/4c1657shPbX080yozrcKuk) | 2:07 | 2023-01-27 |  |
@@ -468,6 +469,7 @@
 | [My Affliction](https://open.spotify.com/track/49bBnHT2FcuusDAaIfZVLC) | [Thibaud Fleming](https://open.spotify.com/artist/6QE5XI9fz7xt4jDwOqYceT) | [My Affliction](https://open.spotify.com/album/7mmt3L0Tva5TBR1gJ3fbtY) | 2:19 | 2022-12-21 | 2023-02-28 |
 | [My Only One](https://open.spotify.com/track/29Ys0ZMO3R4HfewkxjGvHR) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [My Only One](https://open.spotify.com/album/7p77pk33lJOZQeSD2Ot7CV) | 2:22 | 2021-12-13 | 2022-07-29 |
 | [My Only One](https://open.spotify.com/track/6weHliQCgO8eaXFpONJJ7Z) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [In Itself](https://open.spotify.com/album/5dKgGpZkMl8i3RQNbKtFCh) | 2:22 | 2022-07-28 | 2023-01-10 |
+| [Mystical Murmurs](https://open.spotify.com/track/4xvFnv7jOKavTDsu40BPJk) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Mystical Murmurs](https://open.spotify.com/album/0Ql3uAzHXNRXCSqHaIYc8V) | 3:07 | 2024-11-05 |  |
 | [Mystical State](https://open.spotify.com/track/5ZX0EY0qNRf1oF3q1cyzJ0) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Mystical State](https://open.spotify.com/album/16YWfdIgPKDVJyNVbbwmjh) | 2:00 | 2024-01-29 |  |
 | [Mécanique](https://open.spotify.com/track/3qbkko1sBm8hOhRg2T6OBV) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Mécanique](https://open.spotify.com/album/2CIascL7mybuFRkjXVUgBa) | 3:00 | 2021-12-13 | 2024-01-03 |
 | [Mélancolie](https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Mélancolie](https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N) | 3:11 | 2021-12-13 | 2022-02-03 |

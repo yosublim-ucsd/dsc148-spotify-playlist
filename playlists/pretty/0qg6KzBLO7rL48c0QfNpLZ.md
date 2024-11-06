@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 114,743 likes - 239 songs - 10 hr 25 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 114,852 likes - 239 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 5 | [Hiding](https://open.spotify.com/track/2o0el6UlLq6I1QCyLetFRz) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Nyday](https://open.spotify.com/artist/0L8JYDELi85NGgYy30MbRa) | [Hiding](https://open.spotify.com/album/0NtWULkgSdjZfJB1x56A68) | 2:40 |
 | 6 | [Wake Me Up](https://open.spotify.com/track/3OmjZrycraEy41ASkFH1Vj) | [LUKUS](https://open.spotify.com/artist/1MRIxJ469v984abDvc1sMi), [FN Chill](https://open.spotify.com/artist/60LpFfDTaI1Gn2qN42sRb7) | [Wake Me Up](https://open.spotify.com/album/4iEmdHtgMRMGNPt92SZsrT) | 2:39 |
 | 7 | [I Don't Wanna Wait](https://open.spotify.com/track/0K7rNlTUvPkA40eju6eE3y) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [I Don't Wanna Wait](https://open.spotify.com/album/3MvUqE3bKm73Z6Ttksg3id) | 2:52 |
-| 8 | [Move](https://open.spotify.com/track/5Ge8XlyxemWkqrLYIRUiWG) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [Move](https://open.spotify.com/album/2hqPQ9UpH2RBvAAvSEJn9d) | 2:24 |
-| 9 | [To Move Again](https://open.spotify.com/track/16SjfdDm4DGNeSPEGlqoxy) | [Phonez](https://open.spotify.com/artist/5wI5LhXulPIRdGianeW6EU), [LAUD](https://open.spotify.com/artist/04kVAoKNfyQrbp3XqhAkOB) | [To Move Again](https://open.spotify.com/album/2ud8zdiICtWtTgI3OhqR5u) | 2:33 |
-| 10 | [Show U](https://open.spotify.com/track/6xSWdxVYlsKWgksGySoOoY) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [Sanxez](https://open.spotify.com/artist/1p7AHcSoP4l1Y5njS41YrB), [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod) | [Show U](https://open.spotify.com/album/3eX0OuajufResqWVSFJAU9) | 2:05 |
+| 8 | [To Move Again](https://open.spotify.com/track/16SjfdDm4DGNeSPEGlqoxy) | [Phonez](https://open.spotify.com/artist/5wI5LhXulPIRdGianeW6EU), [LAUD](https://open.spotify.com/artist/04kVAoKNfyQrbp3XqhAkOB) | [To Move Again](https://open.spotify.com/album/2ud8zdiICtWtTgI3OhqR5u) | 2:33 |
+| 9 | [Show U](https://open.spotify.com/track/6xSWdxVYlsKWgksGySoOoY) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [Sanxez](https://open.spotify.com/artist/1p7AHcSoP4l1Y5njS41YrB), [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod) | [Show U](https://open.spotify.com/album/3eX0OuajufResqWVSFJAU9) | 2:05 |
+| 10 | [Move](https://open.spotify.com/track/5Ge8XlyxemWkqrLYIRUiWG) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [Move](https://open.spotify.com/album/2hqPQ9UpH2RBvAAvSEJn9d) | 2:24 |
 | 11 | [Alelujah](https://open.spotify.com/track/5p2rlMbmxEWso65tCF6u62) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [Alelujah](https://open.spotify.com/album/3eOxFHdq1RsJExvDpQSCPL) | 2:52 |
 | 12 | [Moments Away](https://open.spotify.com/track/1sR1g3504zuwjd0rv7mM0r) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Moments Away](https://open.spotify.com/album/6lUIASC3RjdySU5wBLKO3I) | 2:50 |
 | 13 | [Waves and Flowers](https://open.spotify.com/track/1B9fu3RqPPojtoc52N8tnL) | [Flip Flop Joe](https://open.spotify.com/artist/4mEoZalalxfXjM63DMaJmA) | [Waves and Flowers](https://open.spotify.com/album/4yYlw81OQHdDhDtoFIcpCW) | 2:14 |
@@ -248,4 +248,4 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 238 | [dream come true](https://open.spotify.com/track/368c9AohAk9EkinItwSCrv) | [supwel](https://open.spotify.com/artist/3QEjJCefGJTVNDg3fKswlx) | [dream come true](https://open.spotify.com/album/0qx2WRsEEOz5yyYK7Kow8A) | 2:12 |
 | 239 | [Feel That Way](https://open.spotify.com/track/0UTnGfNzQdPTZBnvMmbcU1) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [Feel That Way](https://open.spotify.com/album/26OiBfnDOpA0xrG0Sjzqzr) | 2:50 |
 
-Snapshot ID: `AAAbO1pbuiJ/tpRikxIJ97m2hHJ8Nr4r`
+Snapshot ID: `AAAbPLpyhJxOVIUXzpCNS62itQ1E11Vb`

@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Owen Riegling
 
-501 songs - 1 day 6 hr 29 min
+502 songs - 1 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Ghost Town](https://open.spotify.com/track/1wpANfPJEzSKc5JhEIGYQ1) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 2:48 | 2023-10-13 | 2023-11-18 |
 | [Ghost Town](https://open.spotify.com/track/2U8gE23QKFcJKNtOE39f50) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Ghost Town](https://open.spotify.com/album/6h4kEmbmGNXFEADoyjwIaK) | 2:48 | 2023-05-19 | 2023-10-20 |
 | [Give and Take](https://open.spotify.com/track/1m1yaWUGx0qQgl5bqGrcZm) | [Amy Blake](https://open.spotify.com/artist/3mgJBpa8Mp23JoxA1CWxol) | [Give and Take](https://open.spotify.com/album/6uiekTC9PgG5afPi4OWrNo) | 4:28 | 2022-05-13 | 2023-03-25 |
+| [Glad You Got Away](https://open.spotify.com/track/5RU76nf29QFbnvJDxHP3oR) | [Madisyn Gifford](https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85) | [Glad You Got Away](https://open.spotify.com/album/4WsY4BWCeD447uvIvJoE3e) | 3:34 | 2024-10-25 |  |
 | [Going to Water](https://open.spotify.com/track/3HCWK9dtiQ6X2yP5952dvl) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Thus Spoke the Fool](https://open.spotify.com/album/4K8fgkZb2es57x2enGQa9n) | 3:04 | 2024-08-16 |  |
 | [Golden Embers](https://open.spotify.com/track/4OkKz8LhKo846kN3nncNZs) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk) | 4:45 | 2023-04-28 | 2024-04-19 |
 | [Golden Embers](https://open.spotify.com/track/7fdwZ9ShF56daUOBH02U7S) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs) | 4:45 | 2023-04-21 | 2023-04-29 |
@@ -403,7 +404,7 @@
 | [Snakes and Waterfalls](https://open.spotify.com/track/684tjAMxT8Bdm7RSv6vgzC) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Lonely Like Me](https://open.spotify.com/album/7yeUolKNVVSu3jpK5JuK3b) | 4:02 | 2023-04-21 | 2023-04-30 |
 | [Snakes and Waterfalls](https://open.spotify.com/track/6f3lNzsCCWKFWfAG4uuqpC) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Lonely Like Me](https://open.spotify.com/album/2apvtGe2jSNLqT0vOJvwmf) | 4:02 | 2023-04-28 | 2024-04-19 |
 | [So Easy](https://open.spotify.com/track/1yVG9iuNxfOe30LRKy1dJf) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Reasons Why](https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh) | 3:33 | 2023-09-08 | 2024-05-27 |
-| [So Many Ways To Say I Love You](https://open.spotify.com/track/6LJRs5OvIe58iCbdE6dDK4) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [So Many Ways To Say I Love You](https://open.spotify.com/album/1iun8WXEf4ppNr0JY3xEqY) | 2:46 | 2024-10-11 |  |
+| [So Many Ways To Say I Love You](https://open.spotify.com/track/6LJRs5OvIe58iCbdE6dDK4) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [So Many Ways To Say I Love You](https://open.spotify.com/album/1iun8WXEf4ppNr0JY3xEqY) | 2:46 | 2024-10-11 | 2024-11-06 |
 | [Sober](https://open.spotify.com/track/7mZcHbpk2U6nZimDW4okd2) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Sober](https://open.spotify.com/album/0F6zv5oKgDzgI4NSDago87) | 3:41 | 2024-10-04 |  |
 | [Somebody Just Like Me](https://open.spotify.com/track/3N8P57zfeILMnUP90DZH40) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [BOOTCUT](https://open.spotify.com/album/3tvR5wPT639FKdAfdzPcuC) | 2:33 | 2023-07-14 | 2023-11-18 |
 | [Somebody Like You](https://open.spotify.com/track/3wlO7uuhoREZLDQtbnXjqu) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Somebody Like You](https://open.spotify.com/album/21vWay9Lyd98bUJuYHmTXJ) | 3:21 | 2022-05-13 | 2022-08-06 |

@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-461 songs - 1 day 4 hr 20 min
+462 songs - 1 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Blame It On My Youth](https://open.spotify.com/track/7iY29GCGYy8mSaY22eM8NY) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [Blame It On My Youth](https://open.spotify.com/album/0RYhx1VMQSMnmawwALlTCE) | 3:13 | 2023-04-20 |  |
 | [Blossom Serenade](https://open.spotify.com/track/3RNUosA5iDTNwMOKHS6XIu) | [Hollbeck](https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS) | [Blossom Serenade](https://open.spotify.com/album/4FltVNUNqldemwRB2XnBP4) | 3:16 | 2024-10-15 |  |
 | [Blue Midnight](https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Blue Midnight](https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp) | 3:09 | 2023-05-04 | 2024-11-04 |
-| [Blue Room](https://open.spotify.com/track/5zKKV21UiQK7lSLEZCm7NS) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Blue Room](https://open.spotify.com/album/6YHgKIBib4hbBwUqJ8pOT7) | 2:38 | 2023-03-20 |  |
+| [Blue Room](https://open.spotify.com/track/5zKKV21UiQK7lSLEZCm7NS) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Blue Room](https://open.spotify.com/album/6YHgKIBib4hbBwUqJ8pOT7) | 2:38 | 2023-03-20 | 2024-11-06 |
 | [Blue to Red](https://open.spotify.com/track/4wfkTVPHCmDCQGlsE6PL9T) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Blue to Red](https://open.spotify.com/album/5Cd7BhlVvsUr8dFPkLQ1JC) | 7:22 | 2022-04-22 | 2022-06-23 |
 | [Bobbi](https://open.spotify.com/track/4fcQOD3jgADwsZ2UCMsB2B) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [Bobbi](https://open.spotify.com/album/3zYm6hkuRqlpEkUyjamMuG) | 2:32 | 2023-03-20 | 2024-03-01 |
 | [Brixton Blues](https://open.spotify.com/track/5ZVgiWySiGOav9Ztuj5XXW) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Benjamin Muralt](https://open.spotify.com/artist/5cyLdqGfpPgg8uE1ZiCpwP), [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw), [George Crowley](https://open.spotify.com/artist/3e1ksaa0miXosHCRmDUZHj), [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P), [James Copus](https://open.spotify.com/artist/3QKktO8tdBUJq3qhZ3Iqrg) | [Brixton Blues](https://open.spotify.com/album/27idR1b6pCXimFuCvhxpbo) | 7:08 | 2022-02-17 | 2023-03-21 |
@@ -158,6 +158,7 @@
 | [Gone Surfing](https://open.spotify.com/track/6K8z3GPdPLr6DqDxiluhyk) | [Hemai](https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz) | [Strange Beauty Instrumental](https://open.spotify.com/album/3ZoOg4mHUlrcATrLte79uZ) | 3:14 | 2022-04-22 | 2022-06-03 |
 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2023-03-20 |  |
 | [Graceful Rhapsody](https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Graceful Rhapsody](https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm) | 2:42 | 2023-09-22 |  |
+| [Grandparent's Melody](https://open.spotify.com/track/2IRlssoEcf0YbgkXGXSWha) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [Grandparent's Melody](https://open.spotify.com/album/67o4PhMUEyCnpSIf6uwvTj) | 4:00 | 2024-10-15 |  |
 | [Grey Life](https://open.spotify.com/track/7mboIxKtkeuIOHwNEAVSZR) | [Braccus Beats](https://open.spotify.com/artist/04xlOQaGOCK5eYoinzCPqm), [TTechmak](https://open.spotify.com/artist/7BpxyVfC8cscZ1JKB48tP2) | [Grey Life](https://open.spotify.com/album/4VtzLzkxLPZGwrCpbs6jug) | 1:57 | 2022-06-02 | 2022-10-07 |
 | [Happiness](https://open.spotify.com/track/3dyNc3TbcaGcmLrQuk4Hls) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Happiness](https://open.spotify.com/album/4QmRHhICo301Jue6KX2IVU) | 1:40 | 2022-06-02 | 2022-08-12 |
 | [Have no control](https://open.spotify.com/track/0pS8dgfvPuJJL1JSd73Epw) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Have no control](https://open.spotify.com/album/6JPWlvZmndErRZxkwnb6Gj) | 3:39 | 2023-10-27 | 2023-12-24 |

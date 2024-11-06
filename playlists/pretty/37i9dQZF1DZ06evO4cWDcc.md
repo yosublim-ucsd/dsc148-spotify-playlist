@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 
 > This is Jimi Hendrix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,062 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,108 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 49 | [Drifting](https://open.spotify.com/track/4xmlBI4xprNK78GSoTtkxp) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [The Cry of Love](https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL) | 3:49 |
 | 50 | [Introduction \- Live at The Hollywood Bowl, Hollywood, CA \- August 18, 1967](https://open.spotify.com/track/0bHFzlbjS7LHT1tV2fn6nJ) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967](https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP) | 0:58 |
 
-Snapshot ID: `Zya9AAAAAABtHh56XW+Em+HSYJxSiyN2`
+Snapshot ID: `ZygOgAAAAACT/KxdIz+UIgzwZHTHTNox`

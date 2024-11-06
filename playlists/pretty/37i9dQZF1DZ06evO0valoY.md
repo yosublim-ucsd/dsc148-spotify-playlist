@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0valoY.md) - [plain]
 
 > This is Eslabon Armado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,943 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,971 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0valoY.md) - [plain]
 | 49 | [Hermosura de Mujer](https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:44 |
 | 50 | [Lamento Boliviano](https://open.spotify.com/track/6nViFsaHhvPV6GLms1R0oe) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Lamento Boliviano](https://open.spotify.com/album/4LBe254NURiRmej6BSdQLn) | 3:32 |
 
-Snapshot ID: `Zya9AAAAAAAxc8RoLOA5E57OjBdYu/Cw`
+Snapshot ID: `ZygOgAAAAACmjWyWeMDdkWqDqy7a/TI0`

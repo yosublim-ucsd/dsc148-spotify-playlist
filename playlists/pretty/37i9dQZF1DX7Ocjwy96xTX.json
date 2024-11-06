@@ -1,13 +1,29 @@
 {
   "description": "back up in the sky",
-  "num_followers": 240536,
+  "num_followers": 240598,
   "original_name": "IRL ANGEL ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9OAAAAAADoCZ/KFeVIszoE0zZjuzuT",
+  "snapshot_id": "ZypuAgAAAABWWZ8e04aiIRBmJ0PdbD6t",
   "tracks": [
+    {
+      "added_at": "2024-11-05 19:12:02",
+      "album": {
+        "name": "flora maniia",
+        "url": "https://open.spotify.com/album/2VJWNCadN7DfQ3XThbvlUk"
+      },
+      "artists": [
+        {
+          "name": "Temachii",
+          "url": "https://open.spotify.com/artist/6C28zKEQyk8yNoiQcqWbcQ"
+        }
+      ],
+      "duration_ms": 215064,
+      "name": "may you never forget me",
+      "url": "https://open.spotify.com/track/2sV11xuq4U8KlGWKCtGNpx"
+    },
     {
       "added_at": "2024-10-02 16:04:07",
       "album": {

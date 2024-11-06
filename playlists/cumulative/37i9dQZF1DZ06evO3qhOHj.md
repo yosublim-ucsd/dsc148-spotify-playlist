@@ -4,7 +4,7 @@
 
 > This is Mr\. Big\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 55 min
+73 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All the Way Up](https://open.spotify.com/track/4JtkYz1y2fuu5r4AbedNCt) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [What If...](https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP) | 5:12 | 2024-09-22 |  |
 | [Anything For You \- 2009 Remastered Version](https://open.spotify.com/track/2QUeoJUK5KYn6P6medGcgM) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \[Expanded\]](https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd) | 4:38 | 2023-12-13 |  |
 | [Arrow](https://open.spotify.com/track/6GvfNtsfika3NY9dJeJ8WI) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 3:42 | 2023-12-13 |  |
+| [As Far As I Can See](https://open.spotify.com/track/7K3IcXuMFzd3gTZBZNBKxf) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [What If...](https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP) | 3:54 | 2024-11-06 |  |
 | [As Good As It Gets](https://open.spotify.com/track/17AdKvkNwCHuSPmTn6l4aA) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 4:11 | 2024-07-15 | 2024-10-07 |
 | [Big Love \- 2009 Remastered Version](https://open.spotify.com/track/3HrCCxsNoBBYBoNhcjivPg) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \[Expanded\]](https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd) | 4:49 | 2023-12-13 |  |
 | [CDFF\-Lucky This Time \- 2010 Remastered Version](https://open.spotify.com/track/0HVMgdDyhr4pwNqrVh1TWB) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 4:13 | 2023-12-13 |  |
@@ -74,7 +75,7 @@
 | [Up On You](https://open.spotify.com/track/26PsjfFm0WptxsN9pkRh13) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Up On You](https://open.spotify.com/album/0Gl9UYk3oZiDgw1z7eX9Kl) | 4:34 | 2024-06-21 | 2024-08-07 |
 | [Voodoo Kiss \- 2010 Remastered Version](https://open.spotify.com/track/3LdABwumpWjN7VAzXZh1xF) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 4:07 | 2023-12-13 |  |
 | [Wake Up](https://open.spotify.com/track/4QO00F2MwWmZ37IeoSWejw) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 3:44 | 2023-12-13 |  |
-| [What Were You Thinking](https://open.spotify.com/track/6z6RHWh4mk0MXg3gFWJDpw) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 3:18 | 2024-07-15 |  |
+| [What Were You Thinking](https://open.spotify.com/track/6z6RHWh4mk0MXg3gFWJDpw) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 3:18 | 2024-07-15 | 2024-11-06 |
 | [Where Are They Now?](https://open.spotify.com/track/6624eWVGf6m29iK3AKXuI6) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Deep Cuts: The Best Of The Ballads](https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq) | 4:22 | 2023-12-13 |  |
 | [Who We Are](https://open.spotify.com/track/5HnbBZhHvyvmwOGYQPlm31) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 3:52 | 2024-07-15 | 2024-10-14 |
 | [Wild World \- 2009 Remastered Version](https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 3:28 | 2023-12-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,656 likes - 49 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,685 likes - 49 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 40 | [Count On Me \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:26 |
 | 41 | [Thirst For You](https://open.spotify.com/track/616Gk8gc7edgxJOLRUZaSg) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 5:00 |
 | 42 | [Through It All \- Live](https://open.spotify.com/track/5zDIg5nO5TxvEnGUJBiw45) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [A Billy Graham Music Homecoming \(Vol\. 2 / Live\)](https://open.spotify.com/album/0Gn8LSdxzYGqXhTs91kWx8) | 4:03 |
-| 43 | [He's Concerned](https://open.spotify.com/track/6bpRaJSFcjdv5aRtyUYwgc) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Songs Of Emotional Healing](https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A) | 3:26 |
-| 44 | [Bless His Holy Name](https://open.spotify.com/track/4DVfAjlA3pAHPjv0DLVk2J) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 4:31 |
+| 43 | [Bless His Holy Name](https://open.spotify.com/track/4DVfAjlA3pAHPjv0DLVk2J) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 4:31 |
+| 44 | [He's Concerned](https://open.spotify.com/track/6bpRaJSFcjdv5aRtyUYwgc) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Songs Of Emotional Healing](https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A) | 3:26 |
 | 45 | [No One](https://open.spotify.com/track/2bpk4L2kxnIJRY8dPfkpZ3) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 4:20 |
 | 46 | [I Don't Know Why \- Live](https://open.spotify.com/track/2l8cNakFazSIBJC49ztGpR) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [A Billy Graham Music Homecoming \(Vol\. 2 / Live\)](https://open.spotify.com/album/0Gn8LSdxzYGqXhTs91kWx8) | 1:05 |
-| 47 | [Nobody But You](https://open.spotify.com/track/1IISFIfZSTgB9bz5OQedyp) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans Presents Pure Worship](https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f) | 1:51 |
-| 48 | [We Welcome You \(Holy Father\)](https://open.spotify.com/track/5ZbYTCik99Yqk2CZRI6Xqk) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 4:57 |
+| 47 | [We Welcome You \(Holy Father\)](https://open.spotify.com/track/5ZbYTCik99Yqk2CZRI6Xqk) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 4:57 |
+| 48 | [Nobody But You](https://open.spotify.com/track/1IISFIfZSTgB9bz5OQedyp) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans Presents Pure Worship](https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f) | 1:51 |
 | 49 | [Looking Back At You](https://open.spotify.com/track/4bG7zbyd6ijoCm6P1Tin6g) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 3:48 |
 
-Snapshot ID: `Zya9AAAAAAAF/8aeI6pwQxdjX/gvUGE6`
+Snapshot ID: `ZygOgAAAAACA63Jq+c/69EGU81ZXX1ai`

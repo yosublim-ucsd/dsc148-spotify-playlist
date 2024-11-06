@@ -4,7 +4,7 @@
 
 > 
 
-2,015 songs - 4 day 12 hr 18 min
+2,017 songs - 4 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,6 +608,7 @@
 | [Falling for U](https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb) | 2:04 | 2021-08-05 |  |
 | [Famous Last Words](https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:59 | 2021-08-05 |  |
 | [Fancy](https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx) | 3:19 | 2021-08-05 |  |
+| [Fast Life](https://open.spotify.com/track/5u1vw4nmCG8iuerg6ppBf0) | [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5), [India Shan](https://open.spotify.com/artist/5U7ed4eqjReC376kSJKfs8) | [Fast Life](https://open.spotify.com/album/0yJzvNLSI3clU0lZGoqrVn) | 2:21 | 2024-11-05 |  |
 | [Father of All...](https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 2:31 | 2021-08-05 |  |
 | [Fear of Dying](https://open.spotify.com/track/1iJDsSrrVM1GrToPOMnq0e) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Fear of Dying](https://open.spotify.com/album/37p6hHok2BlHQ3VjiRGrTt) | 2:43 | 2022-06-06 |  |
 | [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 | 2021-08-05 |  |
@@ -634,6 +635,7 @@
 | [Fireprayer](https://open.spotify.com/track/5mNT4J2phEjHgpLlS1bj73) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [kiCK iiiii](https://open.spotify.com/album/1uhyYU7DFiHgW4czDH2FIb) | 3:54 | 2022-02-18 |  |
 | [Fitzpleasure](https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:39 | 2021-08-05 |  |
 | [Flaming Hot Cheetos](https://open.spotify.com/track/6P6wO3mWOx8xVsaNbBoW1K) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [diary 001](https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv) | 2:02 | 2021-08-05 |  |
+| [flasbak](https://open.spotify.com/track/3nh4njq5Yhor6qYF7ACkgI) | [moduz](https://open.spotify.com/artist/56WVh8EkeVz4N8w3EkBGA8) | [funky beats](https://open.spotify.com/album/7Anym5u2NhKEuslfyl7UFr) | 1:07 | 2024-11-05 |  |
 | [Fleeting Frozen Heart](https://open.spotify.com/track/0GQkIfqneFqLAQRlmJtuBv) | [Xxtarlit⚸](https://open.spotify.com/artist/0hY2DRaqiYfYIzB0M8tItc) | [A Thousand Things I Could Tell You](https://open.spotify.com/album/3IreEWEWvL99tFkoCUT2zy) | 3:07 | 2022-04-03 |  |
 | [Flight of the Crows](https://open.spotify.com/track/0gW6KLC4W6vChWUHucb69N) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/6LLqwrFRS3rgwKVCRBYGYy) | 2:38 | 2022-07-10 |  |
 | [Flim](https://open.spotify.com/track/4q650OiSDQIwccxDFpuuBm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp) | 2:57 | 2022-02-04 |  |

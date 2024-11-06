@@ -4,7 +4,7 @@
 
 > Hits terpanas dari .ROSÈ, Bruno Mars, LISA serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-248 songs - 15 hr 30 min
+249 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Selamat \(Selamat Tinggal\)](https://open.spotify.com/track/1mruWrUwAVe2XkksUQiaHK) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f), [Audy](https://open.spotify.com/artist/611ajYp7fMbkU5CYF08tje) | [Selamat \(Selamat Tinggal\)](https://open.spotify.com/album/6osB48b3PzrABxdspbyYkd) | 5:13 | 2024-01-25 | 2024-02-21 |
 | [Semata Karenamu](https://open.spotify.com/track/1SWBzZg6n9JZq7bnXxPPai) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Semata Karenamu](https://open.spotify.com/album/00Gd00OvRY6pKawXA1iCKs) | 4:38 | 2023-04-28 | 2023-08-15 |
 | [Semata Karenamu](https://open.spotify.com/track/4z6FksNI6MLCDTHrNJXhO0) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Semata Karenamu](https://open.spotify.com/album/7Cc4mRgFWAomMajhwO0xr6) | 4:38 | 2023-03-23 | 2023-05-08 |
+| [Semenjak Ada Dirimu](https://open.spotify.com/track/5H4MSA6eIr6x1iBTn1vpMG) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Semenjak Ada Dirimu](https://open.spotify.com/album/3ofCjilmmAuyucK9AwULA8) | 3:46 | 2024-11-05 |  |
 | [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 | 2024-02-20 | 2024-05-10 |
 | [Semua Aku Dirayakan](https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Semua Aku Dirayakan](https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ) | 5:10 | 2023-08-24 | 2024-05-03 |
 | [Sepenuh Hati](https://open.spotify.com/track/5FInkXMyxWHOvwejaEnPRd) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sepenuh Hati](https://open.spotify.com/album/1SCxm7IxbHVv9my7yM832a) | 4:07 | 2024-04-19 |  |

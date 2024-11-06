@@ -330,6 +330,24 @@
     {
       "album": {
         "name": "Candlelight",
+        "url": "https://open.spotify.com/album/1axFPU0WRnqSENiLSG57Xw"
+      },
+      "artists": [
+        {
+          "name": "Lyzone",
+          "url": "https://open.spotify.com/artist/1DD2cWVdKOniNG9iiRB8jR"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93954,
+      "name": "Candlelight",
+      "url": "https://open.spotify.com/track/4g4fVxKcrS1cv444N4QYzW"
+    },
+    {
+      "album": {
+        "name": "Candlelight",
         "url": "https://open.spotify.com/album/3tsZCGdzSDK4ertVgrndhh"
       },
       "artists": [

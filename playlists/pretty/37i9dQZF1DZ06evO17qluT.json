@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 60071,
+  "num_followers": 60138,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAADqVUMlruIFShjtrDipYHMl",
+  "snapshot_id": "ZygOgAAAAAC+3tg+sa69kC0rAvo5bHwN",
   "tracks": [
     {
       "added_at": null,
@@ -647,30 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEMR\u00c9H",
-        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
-      },
-      "artists": [
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "6ee",
-          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
-        }
-      ],
-      "duration_ms": 147967,
-      "name": "SEMR\u00c9H",
-      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Antes dos Gigantes Chegarem, Vol. 2",
         "url": "https://open.spotify.com/album/5Dz9KqHWRNlLHrWpEXcWoc"
       },
@@ -695,6 +671,30 @@
       "duration_ms": 305002,
       "name": "Antes dos Gigantes Chegarem",
       "url": "https://open.spotify.com/track/1Iz2RJFAbcyAwB9sOaXvLp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SEMR\u00c9H",
+        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
+      },
+      "artists": [
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        }
+      ],
+      "duration_ms": 147967,
+      "name": "SEMR\u00c9H",
+      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
     },
     {
       "added_at": null,
@@ -859,6 +859,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "TESTEMUNHAS DE TOKIODK",
+        "url": "https://open.spotify.com/album/1g8temqrqRrpKmE07A6CLA"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "LeodoKick",
+          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 217872,
+      "name": "250 por rota",
+      "url": "https://open.spotify.com/track/0nUkYjnUoksBaNa3MI66TF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pir\u00e2mide Perdida (Vol. 7)",
         "url": "https://open.spotify.com/album/6HEg1KrzxLjvupqYf0jleE"
       },
@@ -899,6 +927,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 249813,
+      "name": "Vivos",
+      "url": "https://open.spotify.com/track/10jI01n8w6g41qiIMAcAkb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vida Cara",
         "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
       },
@@ -927,34 +983,6 @@
       "duration_ms": 293009,
       "name": "X6",
       "url": "https://open.spotify.com/track/7qE3yPi9s1SdhSVEuOfFw4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 249813,
-      "name": "Vivos",
-      "url": "https://open.spotify.com/track/10jI01n8w6g41qiIMAcAkb"
     },
     {
       "added_at": null,
@@ -1007,34 +1035,6 @@
       "duration_ms": 192721,
       "name": "PUT@RIA!",
       "url": "https://open.spotify.com/track/7jVexMvXRY7rWIHTOqKs7G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TESTEMUNHAS DE TOKIODK",
-        "url": "https://open.spotify.com/album/1g8temqrqRrpKmE07A6CLA"
-      },
-      "artists": [
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "LeodoKick",
-          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 217872,
-      "name": "250 por rota",
-      "url": "https://open.spotify.com/track/0nUkYjnUoksBaNa3MI66TF"
     },
     {
       "added_at": null,
@@ -1175,6 +1175,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Poetas No Topo 1",
+        "url": "https://open.spotify.com/album/32yvq4xZ6Guokmoj0OmdEw"
+      },
+      "artists": [
+        {
+          "name": "Makalister",
+          "url": "https://open.spotify.com/artist/1RoerHIsbQo1h0V8KpznKV"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "JXNVS",
+          "url": "https://open.spotify.com/artist/3u9u7BEDPqcFJiOArFuRlb"
+        },
+        {
+          "name": "Slim Beat",
+          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
+        }
+      ],
+      "duration_ms": 398478,
+      "name": "Poetas No Topo 1",
+      "url": "https://open.spotify.com/track/2fQkVgq60aTQbVU1alltey"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cidade do Pecado",
         "url": "https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn"
       },
@@ -1219,50 +1263,6 @@
       "duration_ms": 222858,
       "name": "exalta",
       "url": "https://open.spotify.com/track/2otIusmrNZtvYj8lDVnA2w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poetas No Topo 1",
-        "url": "https://open.spotify.com/album/32yvq4xZ6Guokmoj0OmdEw"
-      },
-      "artists": [
-        {
-          "name": "Makalister",
-          "url": "https://open.spotify.com/artist/1RoerHIsbQo1h0V8KpznKV"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Menestrel",
-          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "JXNVS",
-          "url": "https://open.spotify.com/artist/3u9u7BEDPqcFJiOArFuRlb"
-        },
-        {
-          "name": "Slim Beat",
-          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
-        }
-      ],
-      "duration_ms": 398478,
-      "name": "Poetas No Topo 1",
-      "url": "https://open.spotify.com/track/2fQkVgq60aTQbVU1alltey"
     },
     {
       "added_at": null,

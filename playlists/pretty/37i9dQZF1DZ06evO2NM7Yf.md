@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 22 | [American in Paris](https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb) | 2:44 |
 | 23 | [Who Not to Love](https://open.spotify.com/track/2vDtDVAnCMvaKmKtSPTedt) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Who Not to Love](https://open.spotify.com/album/4P0RKhQn50VKzyJbBYnf3v) | 3:03 |
 
-Snapshot ID: `Zya9AAAAAADmaRWRzTvS6GL1kY+0Swhr`
+Snapshot ID: `ZygOgAAAAADU1Vkyns/6uRx3FlC4KyA6`

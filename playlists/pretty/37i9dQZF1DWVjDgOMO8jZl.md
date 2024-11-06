@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > STE in cover di RADAR Italia, la playlist dedicata agli artisti che Spotify ha scelto come emergenti dell'anno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,829 likes - 32 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,833 likes - 32 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 4 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 |
 | 5 | [Lose Control](https://open.spotify.com/track/2fwXfj7GBR93VZzSkbsBz9) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Lose Control](https://open.spotify.com/album/02yYEogWL6PjEAsraWFj91) | 4:20 |
 | 6 | [pupille](https://open.spotify.com/track/3SeZxt9gqqbHb4YRfCpqr3) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [pupille](https://open.spotify.com/album/7JTUUekkfQj1HkQhbGVugt) | 2:49 |
-| 7 | [Il Tempo Cura](https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Il Tempo Cura](https://open.spotify.com/album/16t4humL85l0QvihcPSYRN) | 2:32 |
+| 7 | [Il tempo cura](https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Il tempo cura](https://open.spotify.com/album/16t4humL85l0QvihcPSYRN) | 2:32 |
 | 8 | [ok </3](https://open.spotify.com/track/0KPSTNiVHs4cRwCj3W5GW4) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok </3](https://open.spotify.com/album/4dXDtIFb2uEtHONOuehkhz) | 3:24 |
 | 9 | [REQUIEM](https://open.spotify.com/track/329qNAEH6BYfCFC62j158Z) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [REQUIEM](https://open.spotify.com/album/2W09xIZ63nBstT9nLW2mAu) | 2:31 |
 | 10 | [quasi nuda](https://open.spotify.com/track/317eSzpK6SiEUiqTtke6Jk) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [quasi nuda](https://open.spotify.com/album/7zQ1TolEtgUbGMOAZpp1Vn) | 2:45 |

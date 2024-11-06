@@ -1,6 +1,6 @@
 {
   "description": "Los temas que prenden las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia. Foto: Pastor L\u00f3pez",
-  "num_followers": 125556,
+  "num_followers": 125559,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Sin Medir Distancia",
-        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Era Mentira",
-      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "Listos para Bailar",
         "url": "https://open.spotify.com/album/6fxDh3ZygNQVsqNvnj6oYM"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 226730,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/7t13B1tMcF74fp7fYYVcud"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "Sin Medir Distancia",
+        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Era Mentira",
+      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -579,26 +579,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Historia Musical de Rodolfo Con los Hispanos: 40 \u00c9xitos Inolvidables",
-        "url": "https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "Los Hispanos",
-          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Daniela",
-      "url": "https://open.spotify.com/track/4Jz3mGW1jn8tjBgx42iEuF"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "\u00c9xitos los Tupamaros",
         "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
       },
@@ -611,6 +591,22 @@
       "duration_ms": 191772,
       "name": "Todo el Mundo Necesita un Beso",
       "url": "https://open.spotify.com/track/0YVKaTzwcFyrmQAzS6Jk41"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -631,18 +627,22 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+        "name": "Historia Musical de Rodolfo Con los Hispanos: 40 \u00c9xitos Inolvidables",
+        "url": "https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y"
       },
       "artists": [
         {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
         }
       ],
-      "duration_ms": 248480,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi"
+      "duration_ms": 198053,
+      "name": "Daniela",
+      "url": "https://open.spotify.com/track/4Jz3mGW1jn8tjBgx42iEuF"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "16 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR"
+        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
       },
       "artists": [
         {
-          "name": "The Latin Brothers",
-          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
         }
       ],
-      "duration_ms": 212138,
-      "name": "Dime Qu\u00e9 Paso",
-      "url": "https://open.spotify.com/track/6KdVQNCUSnik4BfxNubvqR"
+      "duration_ms": 171374,
+      "name": "Dame Tu Mujer Jos\u00e9",
+      "url": "https://open.spotify.com/track/4bi8JuAAkq2raTQb8yJIOd"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -731,34 +731,18 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+        "name": "16 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR"
       },
       "artists": [
         {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
         }
       ],
-      "duration_ms": 243840,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
-        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
-      },
-      "artists": [
-        {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
-        }
-      ],
-      "duration_ms": 156467,
-      "name": "Mar\u00eda Teresa",
-      "url": "https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK"
+      "duration_ms": 212138,
+      "name": "Dime Qu\u00e9 Paso",
+      "url": "https://open.spotify.com/track/6KdVQNCUSnik4BfxNubvqR"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -779,6 +763,22 @@
       "duration_ms": 280783,
       "name": "Un Solo Cuerpo",
       "url": "https://open.spotify.com/track/4O2h7M3LF9jYoVSuDh8E23"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 248480,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
-      },
-      "artists": [
-        {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
-        }
-      ],
-      "duration_ms": 171374,
-      "name": "Dame Tu Mujer Jos\u00e9",
-      "url": "https://open.spotify.com/track/4bi8JuAAkq2raTQb8yJIOd"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "Amapola",
         "url": "https://open.spotify.com/album/5AgWLXB1XyZwu4nTh4PmxW"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 244963,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/5UgfYKsfRexKoIMVbVvlBo"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
+      },
+      "artists": [
+        {
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+        }
+      ],
+      "duration_ms": 156467,
+      "name": "Mar\u00eda Teresa",
+      "url": "https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -955,38 +955,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 280266,
-      "name": "La Canoa Ranchaa",
-      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
-        "name": "Colecci\u00f3n de \u00c9xitos (Vol. 1)",
-        "url": "https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP"
-      },
-      "artists": [
-        {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "El P\u00e1jaro Amarillo",
-      "url": "https://open.spotify.com/track/5v2Q2VjK0LOxOW8J9AO4RL"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "Sus M\u00e1s Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd"
       },
@@ -999,6 +967,22 @@
       "duration_ms": 205893,
       "name": "Traicionera - Digitally Remastered Original",
       "url": "https://open.spotify.com/track/0iYUChSCKX2ZBJJDHGOUPw"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "La Canoa Ranchaa",
+      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
+        "name": "Colecci\u00f3n de \u00c9xitos (Vol. 1)",
+        "url": "https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP"
+      },
+      "artists": [
+        {
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "El P\u00e1jaro Amarillo",
+      "url": "https://open.spotify.com/track/5v2Q2VjK0LOxOW8J9AO4RL"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
         "name": "El Pich\u00f3n",
         "url": "https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi"
       },
@@ -1075,22 +1075,6 @@
       "duration_ms": 170893,
       "name": "El Pescador de Bar\u00fa",
       "url": "https://open.spotify.com/track/74ZKfd2J1nPl5KyAVQ5uyy"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
-        "name": "Colecci\u00f3n de \u00c9xitos (Vol. 1)",
-        "url": "https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP"
-      },
-      "artists": [
-        {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
-        }
-      ],
-      "duration_ms": 174320,
-      "name": "El Bailador",
-      "url": "https://open.spotify.com/track/3bvQnI2iqaGMjDz7e35Kdv"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 7",
-        "url": "https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN"
+        "name": "Colecci\u00f3n de \u00c9xitos (Vol. 1)",
+        "url": "https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP"
       },
       "artists": [
         {
-          "name": "Grupo Caneo",
-          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
         }
       ],
-      "duration_ms": 266797,
-      "name": "Qu\u00e9 Har\u00e9 Sin Ti",
-      "url": "https://open.spotify.com/track/2qGUuQSv0PDWe6CGz8GdcP"
+      "duration_ms": 174320,
+      "name": "El Bailador",
+      "url": "https://open.spotify.com/track/3bvQnI2iqaGMjDz7e35Kdv"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1183,6 +1167,22 @@
       "duration_ms": 121893,
       "name": "Apagame La Vela",
       "url": "https://open.spotify.com/track/3I27f71VwlMVPe6wqAXPew"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 7",
+        "url": "https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Caneo",
+          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
+        }
+      ],
+      "duration_ms": 266797,
+      "name": "Qu\u00e9 Har\u00e9 Sin Ti",
+      "url": "https://open.spotify.com/track/2qGUuQSv0PDWe6CGz8GdcP"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Premio Platino para los Vallenatos Nueva Generaci\u00f3n",
-        "url": "https://open.spotify.com/album/0NWu62PPxYyA3l7aOWLrzI"
-      },
-      "artists": [
-        {
-          "name": "Ramiro Y Joche",
-          "url": "https://open.spotify.com/artist/7Is8U6C3xnnwIf3PQuAsI1"
-        }
-      ],
-      "duration_ms": 305950,
-      "name": "La Due\u00f1a de Mi Suerte",
-      "url": "https://open.spotify.com/track/67GaNUSyiFt3kqkZ08mFco"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "\u00c9xitos Gustavo 'El Loko' Quintero",
         "url": "https://open.spotify.com/album/0MNldUvah3YWbTUzFGjOiL"
       },
@@ -1351,6 +1335,38 @@
       "duration_ms": 200033,
       "name": "La Cinta Verde",
       "url": "https://open.spotify.com/track/6HX5qNv8VDWdm9YaYZKImS"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "Premio Platino para los Vallenatos Nueva Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/0NWu62PPxYyA3l7aOWLrzI"
+      },
+      "artists": [
+        {
+          "name": "Ramiro Y Joche",
+          "url": "https://open.spotify.com/artist/7Is8U6C3xnnwIf3PQuAsI1"
+        }
+      ],
+      "duration_ms": 305950,
+      "name": "La Due\u00f1a de Mi Suerte",
+      "url": "https://open.spotify.com/track/67GaNUSyiFt3kqkZ08mFco"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "Lo Mejor de los Melodicos Vol. 1",
+        "url": "https://open.spotify.com/album/13evw9mEtB5xBNgUWk89rR"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 227733,
+      "name": "Amparito",
+      "url": "https://open.spotify.com/track/4RQ0j2QKEe5gjrFsKriIF5"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Lo Mejor de los Melodicos Vol. 1",
-        "url": "https://open.spotify.com/album/13evw9mEtB5xBNgUWk89rR"
-      },
-      "artists": [
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 227733,
-      "name": "Amparito",
-      "url": "https://open.spotify.com/track/4RQ0j2QKEe5gjrFsKriIF5"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "Bachata Rosa (Versi\u00f3n Regional)",
         "url": "https://open.spotify.com/album/2vYWZIfKwVuxFUPIfol9h7"
       },
@@ -1403,22 +1403,6 @@
       "duration_ms": 170589,
       "name": "Bachata Rosa - Versi\u00f3n Regional",
       "url": "https://open.spotify.com/track/6DTpICcBytnJCN047V7w85"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
-        "name": "Bailables del A\u00f1o (Vol. 19)",
-        "url": "https://open.spotify.com/album/7CPqtS8EnVxhqi9vpi7AtT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Cariaco",
-          "url": "https://open.spotify.com/artist/7svoDpV7jHqFXOKNMhL4Ip"
-        }
-      ],
-      "duration_ms": 226250,
-      "name": "Cuerpo a Cuerpo",
-      "url": "https://open.spotify.com/track/65V8Ylug8Z2uAHzZpyvNfR"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1439,38 +1423,18 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
-        "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
+        "name": "Bailables del A\u00f1o (Vol. 19)",
+        "url": "https://open.spotify.com/album/7CPqtS8EnVxhqi9vpi7AtT"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+          "name": "Grupo Cariaco",
+          "url": "https://open.spotify.com/artist/7svoDpV7jHqFXOKNMhL4Ip"
         }
       ],
-      "duration_ms": 251761,
-      "name": "Me Toc\u00f3 Perderte",
-      "url": "https://open.spotify.com/track/2nrbEUO1fIZ72I6Jdf1m8h"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
-        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 7",
-        "url": "https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Caneo",
-          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
-        }
-      ],
-      "duration_ms": 278826,
-      "name": "Quien Piensa En Ti",
-      "url": "https://open.spotify.com/track/2P5dxRJ7BZLwffgIs0DQOX"
+      "duration_ms": 226250,
+      "name": "Cuerpo a Cuerpo",
+      "url": "https://open.spotify.com/track/65V8Ylug8Z2uAHzZpyvNfR"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1491,18 +1455,18 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Top Latino Navidad (Remix - Audio)",
-        "url": "https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE"
+        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 7",
+        "url": "https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN"
       },
       "artists": [
         {
-          "name": "N\u00e9stor Zavarce",
-          "url": "https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr"
+          "name": "Grupo Caneo",
+          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
         }
       ],
-      "duration_ms": 179320,
-      "name": "Cinco Pa' las 12",
-      "url": "https://open.spotify.com/track/5fbPZGNwJ622HDVfJDjn6a"
+      "duration_ms": 278826,
+      "name": "Quien Piensa En Ti",
+      "url": "https://open.spotify.com/track/2P5dxRJ7BZLwffgIs0DQOX"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1519,6 +1483,42 @@
       "duration_ms": 156655,
       "name": "Su\u00e9ltala Pa Que Se Defienda",
       "url": "https://open.spotify.com/track/4XI7CINm8BOsWKKanX0lIE"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "Top Latino Navidad (Remix - Audio)",
+        "url": "https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9stor Zavarce",
+          "url": "https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr"
+        }
+      ],
+      "duration_ms": 179320,
+      "name": "Cinco Pa' las 12",
+      "url": "https://open.spotify.com/track/5fbPZGNwJ622HDVfJDjn6a"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
+        "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        },
+        {
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+        }
+      ],
+      "duration_ms": 251761,
+      "name": "Me Toc\u00f3 Perderte",
+      "url": "https://open.spotify.com/track/2nrbEUO1fIZ72I6Jdf1m8h"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
+        "name": "\u00c9xitos Gabriel Romero",
+        "url": "https://open.spotify.com/album/5Ex2svgkWOj06qx1mkoLAb"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Romero",
+          "url": "https://open.spotify.com/artist/5X2f5xZkE0nn1b3gjKQH88"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "Av\u00e9 Pa Ve",
+      "url": "https://open.spotify.com/track/1nleosTUpcplhNd730Ckjk"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
         "name": "Tequendama de Oro, Vol. 4",
         "url": "https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku"
       },
@@ -1643,18 +1659,18 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "\u00c9xitos Gabriel Romero",
-        "url": "https://open.spotify.com/album/5Ex2svgkWOj06qx1mkoLAb"
+        "name": "Billo 76 1/2",
+        "url": "https://open.spotify.com/album/2cxu9v4F49h6eMCLunQmhQ"
       },
       "artists": [
         {
-          "name": "Gabriel Romero",
-          "url": "https://open.spotify.com/artist/5X2f5xZkE0nn1b3gjKQH88"
+          "name": "Billo's Caracas Boys",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
         }
       ],
-      "duration_ms": 194730,
-      "name": "Av\u00e9 Pa Ve",
-      "url": "https://open.spotify.com/track/1nleosTUpcplhNd730Ckjk"
+      "duration_ms": 194931,
+      "name": "La Casa De Fernando",
+      "url": "https://open.spotify.com/track/1nvbESS1keAEEVL7SJjSH4"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1675,22 +1691,6 @@
       "duration_ms": 299744,
       "name": "Toma de M\u00ed",
       "url": "https://open.spotify.com/track/7x24lss6mYJTc1RFMIkK5c"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
-        "name": "Billo 76 1/2",
-        "url": "https://open.spotify.com/album/2cxu9v4F49h6eMCLunQmhQ"
-      },
-      "artists": [
-        {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        }
-      ],
-      "duration_ms": 194931,
-      "name": "La Casa De Fernando",
-      "url": "https://open.spotify.com/track/1nvbESS1keAEEVL7SJjSH4"
     },
     {
       "added_at": "2024-11-01 02:49:12",

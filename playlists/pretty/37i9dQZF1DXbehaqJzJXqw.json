@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 489660,
+  "num_followers": 490156,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Whisper For You",
-        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 149533,
-      "name": "Plus Je T'embrasse",
-      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Quelqu'un M'a Dit",
         "url": "https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 208826,
       "name": "Chanson triste",
       "url": "https://open.spotify.com/track/3jFcVisem3whWKJcf52ATc"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Whisper For You",
+        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 149533,
+      "name": "Plus Je T'embrasse",
+      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -791,18 +791,22 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux (International Edition)",
-        "url": "https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m"
+        "name": "Le monde de la chanson, Vol. 27: Charles Aznavour, Vol. 2 \"O toi la vie!\"",
+        "url": "https://open.spotify.com/album/2jEjCqQw7AHAgv9NTyedwk"
       },
       "artists": [
         {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        },
+        {
+          "name": "L'Orchestre Paul Mauriat",
+          "url": "https://open.spotify.com/artist/48wFUnl7K9Gzc6eeZVsXmy"
         }
       ],
-      "duration_ms": 176506,
-      "name": "J'ai Deux Amours",
-      "url": "https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F"
+      "duration_ms": 219204,
+      "name": "Tu t'laissez aller",
+      "url": "https://open.spotify.com/track/5zh3ERfWfCHNEVM9y4mbvX"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -823,22 +827,18 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Le monde de la chanson, Vol. 27: Charles Aznavour, Vol. 2 \"O toi la vie!\"",
-        "url": "https://open.spotify.com/album/2jEjCqQw7AHAgv9NTyedwk"
+        "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux (International Edition)",
+        "url": "https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m"
       },
       "artists": [
         {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        },
-        {
-          "name": "L'Orchestre Paul Mauriat",
-          "url": "https://open.spotify.com/artist/48wFUnl7K9Gzc6eeZVsXmy"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
         }
       ],
-      "duration_ms": 219204,
-      "name": "Tu t'laissez aller",
-      "url": "https://open.spotify.com/track/5zh3ERfWfCHNEVM9y4mbvX"
+      "duration_ms": 176506,
+      "name": "J'ai Deux Amours",
+      "url": "https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "B Bardot - CD Story",
-        "url": "https://open.spotify.com/album/0moSn0vXjIrzWZH0weiFif"
+        "name": "Gainsbourg percussions",
+        "url": "https://open.spotify.com/album/1eSbBUNhdkrDtfqVHn3sS1"
       },
       "artists": [
         {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
         }
       ],
-      "duration_ms": 196906,
-      "name": "Le soleil",
-      "url": "https://open.spotify.com/track/1ddDudbgEXIFqMJQzHxidQ"
+      "duration_ms": 125200,
+      "name": "Ces petits riens",
+      "url": "https://open.spotify.com/track/71HYFVkUfN5ptKggYNJOHF"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Gainsbourg percussions",
-        "url": "https://open.spotify.com/album/1eSbBUNhdkrDtfqVHn3sS1"
+        "name": "B Bardot - CD Story",
+        "url": "https://open.spotify.com/album/0moSn0vXjIrzWZH0weiFif"
       },
       "artists": [
         {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
         }
       ],
-      "duration_ms": 125200,
-      "name": "Ces petits riens",
-      "url": "https://open.spotify.com/track/71HYFVkUfN5ptKggYNJOHF"
+      "duration_ms": 196906,
+      "name": "Le soleil",
+      "url": "https://open.spotify.com/track/1ddDudbgEXIFqMJQzHxidQ"
     },
     {
       "added_at": "2024-06-03 11:39:48",

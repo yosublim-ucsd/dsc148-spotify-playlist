@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u52a0\u85e4\u30df\u30ea\u30e4\u00d7\u690e\u540d\u6797\u6a8e",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: LANA",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -4903,6 +4903,28 @@
     },
     {
       "album": {
+        "name": "Christmas Mermaid (feat. Hikari)",
+        "url": "https://open.spotify.com/album/2EdYmR3WoAsVsuPbV9KlKk"
+      },
+      "artists": [
+        {
+          "name": "Tokiemeki Records",
+          "url": "https://open.spotify.com/artist/161wWZWEcqg8bqBNEhLCx8"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193620,
+      "name": "Christmas Mermaid (feat. Hikari)",
+      "url": "https://open.spotify.com/track/0BdTkVIFYJaZXSDvmT20EB"
+    },
+    {
+      "album": {
         "name": "CHRISTMAS SPIRIT &SWEET HARMONY",
         "url": "https://open.spotify.com/album/5pT2fiPF2gwfge0CSmS3xn"
       },
@@ -5174,6 +5196,24 @@
       "duration_ms": 220501,
       "name": "Cloudy's just right",
       "url": "https://open.spotify.com/track/14zuiKpK4DOr9Fkjf5FpQq"
+    },
+    {
+      "album": {
+        "name": "Collection",
+        "url": "https://open.spotify.com/album/1yUmyUBohq1WxkMb3yfkaG"
+      },
+      "artists": [
+        {
+          "name": "Sakurako Ohara",
+          "url": "https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282333,
+      "name": "Collection",
+      "url": "https://open.spotify.com/track/2FJKEYDWEw1lRxOCUmUQgN"
     },
     {
       "album": {
@@ -10445,6 +10485,24 @@
     },
     {
       "album": {
+        "name": "kibi",
+        "url": "https://open.spotify.com/album/3ZXw6rHj0sijF337z6lAoa"
+      },
+      "artists": [
+        {
+          "name": "Mone Kamishiraishi",
+          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214320,
+      "name": "hiker",
+      "url": "https://open.spotify.com/track/4BxVdjlf9N1vIdMie8S0tM"
+    },
+    {
+      "album": {
         "name": "Hirune no Kuni",
         "url": "https://open.spotify.com/album/72oJRih7QCDNBPWVuUlIB5"
       },
@@ -11366,6 +11424,24 @@
       "duration_ms": 223547,
       "name": "I'm Calling You",
       "url": "https://open.spotify.com/track/5iRz81mqmZt0ggeARC4t2d"
+    },
+    {
+      "album": {
+        "name": "I'm not alone",
+        "url": "https://open.spotify.com/album/0uJ9Ps9O2nJTtCxzRMZ6W1"
+      },
+      "artists": [
+        {
+          "name": "Yuki Kashiwagi",
+          "url": "https://open.spotify.com/artist/2BESLc1BVykMjAMNKjiK6H"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296985,
+      "name": "I'm not alone",
+      "url": "https://open.spotify.com/track/0HLNWEZBZeVSnrZSv7PMRJ"
     },
     {
       "album": {
@@ -13984,7 +14060,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 130666,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/5GMK8sduhOa6g3mcW9gwi6"
@@ -14132,7 +14208,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 306506,
       "name": "Life Is Beautiful",
       "url": "https://open.spotify.com/track/243O6DF6CLbvpDaTLel2Bk"
@@ -14216,6 +14292,24 @@
       "duration_ms": 254579,
       "name": "Light",
       "url": "https://open.spotify.com/track/3383Mps5G2KHcSqjZGp91W"
+    },
+    {
+      "album": {
+        "name": "LIGHT UP",
+        "url": "https://open.spotify.com/album/6hUv6hjsh7dAy9fKEf6yIH"
+      },
+      "artists": [
+        {
+          "name": "chelmico",
+          "url": "https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165777,
+      "name": "LIGHT UP",
+      "url": "https://open.spotify.com/track/7jGqreAOSIHpl5cjtNfPM0"
     },
     {
       "album": {
@@ -14310,7 +14404,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 224000,
       "name": "Lil Bit (feat. Asako Toki)",
       "url": "https://open.spotify.com/track/40DhQ5cNina0ZMeS8GMC8O"
@@ -14488,6 +14582,24 @@
       "duration_ms": 286400,
       "name": "LONELY",
       "url": "https://open.spotify.com/track/13iGOxPi9XuTpXcc8EejKr"
+    },
+    {
+      "album": {
+        "name": "Lonely Ghost",
+        "url": "https://open.spotify.com/album/1qtRBI934IWJ5P9PeJ1Jmd"
+      },
+      "artists": [
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232883,
+      "name": "Lonely Ghost",
+      "url": "https://open.spotify.com/track/1scNZUCW9lJtO98XIlFHgi"
     },
     {
       "album": {
@@ -16318,7 +16430,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 316626,
       "name": "Moliendo Caf\u00e9",
       "url": "https://open.spotify.com/track/3xxZsAs3yHWSy4dIs3CfOW"
@@ -17749,6 +17861,24 @@
     },
     {
       "album": {
+        "name": "No.5",
+        "url": "https://open.spotify.com/album/7rMxnxMlaCnxSBhqYXxu3H"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185896,
+      "name": "No.5",
+      "url": "https://open.spotify.com/track/5kXmyxToZp5zMN67Pek2UV"
+    },
+    {
+      "album": {
         "name": "Ima no Futari o Otagai ga Miteru",
         "url": "https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb"
       },
@@ -19078,7 +19208,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 207160,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k"
@@ -24656,7 +24786,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 191000,
       "name": "Sweet Lies (feat. Miyu Takeuchi)",
       "url": "https://open.spotify.com/track/7G1A0oCpYCpOiXe05VyNBy"
@@ -29952,7 +30082,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 131730,
       "name": "\u3044\u3044\u6e6f\u3060\u306a",
       "url": "https://open.spotify.com/track/2CB5Cqj4j5RaUJRw8U4KpG"
@@ -32106,7 +32236,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 242666,
       "name": "\u306d\u3048\u3001\u3061\u3083\u3093\u3068\u805e\u3044\u3066\u308b\uff1f",
       "url": "https://open.spotify.com/track/3r9U0eU5kDPzOz6iW6Rga0"
@@ -33416,6 +33546,24 @@
       "duration_ms": 218007,
       "name": "\u30a2\u30a4\u30ce\u30ed\u30a4",
       "url": "https://open.spotify.com/track/1cUFamnBZnwMLI0TzXBHBZ"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2",
+        "url": "https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255320,
+      "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2",
+      "url": "https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1"
     },
     {
       "album": {
@@ -34950,7 +35098,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 202533,
       "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7",
       "url": "https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd"
@@ -36294,6 +36442,24 @@
       "duration_ms": 286643,
       "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/7LCGgXpw27AK8r7CiPhG0l"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30f3\u30cd\u30eb",
+        "url": "https://open.spotify.com/album/1gt8HbTAk9AvfijdNoGXpx"
+      },
+      "artists": [
+        {
+          "name": "Humbert Humbert",
+          "url": "https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232226,
+      "name": "\u30c8\u30f3\u30cd\u30eb",
+      "url": "https://open.spotify.com/track/0Ocd8u6O537Fnvy32bEusr"
     },
     {
       "album": {
@@ -39524,6 +39690,24 @@
       "duration_ms": 115144,
       "name": "\u4ef2\u76f4\u308a\u306e\u3042\u3068\u306f",
       "url": "https://open.spotify.com/track/7adegfO1ubz1HZae429EPT"
+    },
+    {
+      "album": {
+        "name": "\u4f1a\u3044\u305f\u3044",
+        "url": "https://open.spotify.com/album/1y8dpNVXgFqgx7m0hnXZtN"
+      },
+      "artists": [
+        {
+          "name": "Ikimonogakari",
+          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362813,
+      "name": "\u4f1a\u3044\u305f\u3044",
+      "url": "https://open.spotify.com/track/5Uab2kk1H1vBXmDGk34u36"
     },
     {
       "album": {
@@ -48829,6 +49013,24 @@
     },
     {
       "album": {
+        "name": "SPARKLE",
+        "url": "https://open.spotify.com/album/0UBRZNP8S5VzkevlWP3ol8"
+      },
+      "artists": [
+        {
+          "name": "Nanase Aikawa",
+          "url": "https://open.spotify.com/artist/2RNdF99wgP5ikh7fIJ0DIk"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204133,
+      "name": "\u82f1\u96c4\u8b5a",
+      "url": "https://open.spotify.com/track/2mtF2CUfKH6mxXgJd3lhw1"
+    },
+    {
+      "album": {
         "name": "\u831c\u8272\u306e\u7d04\u675f",
         "url": "https://open.spotify.com/album/647EA5ELt0wI3DKXE58Tvq"
       },
@@ -49006,7 +49208,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 220633,
       "name": "\u8718\u86db\u306e\u7cf8",
       "url": "https://open.spotify.com/track/3awwf5Ts5K4p5clqz5Dttk"
@@ -50612,7 +50814,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 201840,
       "name": "\u98a8\u3068\u304f\u3061\u3065\u3051\u3068",
       "url": "https://open.spotify.com/track/06sSqb6WKQtGaR1LZdwKRA"

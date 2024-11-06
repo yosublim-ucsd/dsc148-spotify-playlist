@@ -2,7 +2,7 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: Disclosure
+> The home for alternative electronic music\. Cover: Four Tet at Drumsheds
 
 1,078 songs - 3 day 2 hr 43 min
 

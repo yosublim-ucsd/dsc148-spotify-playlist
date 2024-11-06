@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Led Zeppelin IV (Remaster)",
+        "url": "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285227,
+      "name": "Four Sticks - Remaster",
+      "url": "https://open.spotify.com/track/2kVhHxpxXhWr5OuuBtMLME"
+    },
+    {
+      "album": {
         "name": "Led Zeppelin IV (Deluxe Edition)",
         "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
       },

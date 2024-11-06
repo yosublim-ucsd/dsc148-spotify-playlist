@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 
 > ¡Estos son los hits de la electrónica en el 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,987 likes - 150 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,182 likes - 150 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

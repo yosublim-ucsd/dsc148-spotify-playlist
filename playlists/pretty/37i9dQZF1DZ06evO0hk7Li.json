@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 38241,
+  "num_followers": 38245,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAAAyoAObOD9ShKhzozHQ0qel",
+  "snapshot_id": "ZygOgAAAAAAD2CGa8OuYHgM32GoRFuRI",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
-        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 204658,
-      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
-      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 240266,
       "name": "Won't Turn Back",
       "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
+        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 204658,
+      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
+      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Paradox",
-        "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 276605,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/3oFTt5ivFcWXLypCNosbur"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 191613,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 276605,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/3oFTt5ivFcWXLypCNosbur"
     },
     {
       "added_at": null,
@@ -739,6 +739,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Owe You Nothing / Remember",
+        "url": "https://open.spotify.com/album/0rCgUCr9lTI64dezlg2Xjr"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 252393,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/3GMy4AOJogX3mMsoom1s0Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HOOD HYMNS",
         "url": "https://open.spotify.com/album/57JNHxlXjfkddcn7QWfnNA"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 111541,
       "name": "NI**AS NEED JESUS",
       "url": "https://open.spotify.com/track/4UY0cvACvAfZryubsiNXTS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Owe You Nothing / Remember",
-        "url": "https://open.spotify.com/album/0rCgUCr9lTI64dezlg2Xjr"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 252393,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/3GMy4AOJogX3mMsoom1s0Z"
     },
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Time Together: The Live Album",
-        "url": "https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        },
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 84800,
-      "name": "Take My Hand Precious Lord - Intro",
-      "url": "https://open.spotify.com/track/3hDhZ0Z0b9FxxaoaQfGQXy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SOMEONE ELSE (featuring Jacob Banks)",
         "url": "https://open.spotify.com/album/4eBkyax61tYK5RUkXaBQMk"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 222483,
       "name": "SOMEONE ELSE (featuring Jacob Banks)",
       "url": "https://open.spotify.com/track/2CQD7tRYaQtCLTZCOlgLnw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Our Time Together: The Live Album",
+        "url": "https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 84800,
+      "name": "Take My Hand Precious Lord - Intro",
+      "url": "https://open.spotify.com/track/3hDhZ0Z0b9FxxaoaQfGQXy"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Hoàng Dũng
+> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: MONO
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,743 likes - 55 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,754 likes - 55 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 54 | [Bầu Trời Mới](https://open.spotify.com/track/49kZuPsl8pXRJJGHmwRuW7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Minh Tốc & Lam](https://open.spotify.com/artist/27RoKwun6jKycKbH2iYUFU) | [Bầu Trời Mới](https://open.spotify.com/album/5Sde3witydNsarGlkHYAtm) | 4:22 |
 | 55 | [LA BÀN](https://open.spotify.com/track/5G8D7sPL8mUhrNOm5jC3Sm) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7) | [LA BÀN](https://open.spotify.com/album/2CbMaILGMALRPOZmayjiYD) | 3:06 |
 
-Snapshot ID: `Zyl+jgAAAADl+bPRZIeU+HGgnSK91LHB`
+Snapshot ID: `ZyrO0gAAAAAZ79gqhsPFgNDJrNGr8KqQ`

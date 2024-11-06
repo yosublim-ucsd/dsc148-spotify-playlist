@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Resgate",
-  "num_followers": 140814,
+  "num_followers": 140834,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,18 @@
     {
       "added_at": "2024-10-25 15:01:44",
       "album": {
-        "name": "Maranata (Trono)",
-        "url": "https://open.spotify.com/album/5LqVnPYwTlK5BPgK347wuw"
+        "name": "Descanso",
+        "url": "https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH"
       },
       "artists": [
         {
-          "name": "Igor Pinheiro de Lima",
-          "url": "https://open.spotify.com/artist/1HG2T9YTGz6sreCoAVRfku"
-        },
-        {
-          "name": "Lari Lindstron",
-          "url": "https://open.spotify.com/artist/15JLGAUpRQL7mhsxj2CdDd"
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
         }
       ],
-      "duration_ms": 303775,
-      "name": "Maranata (Trono)",
-      "url": "https://open.spotify.com/track/607mQzTrTUaQCMyzSd5hQo"
+      "duration_ms": 403932,
+      "name": "Descanso",
+      "url": "https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL"
     },
     {
       "added_at": "2024-10-25 15:01:44",
@@ -183,22 +179,6 @@
     {
       "added_at": "2024-10-25 15:01:44",
       "album": {
-        "name": "Descanso",
-        "url": "https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        }
-      ],
-      "duration_ms": 403932,
-      "name": "Descanso",
-      "url": "https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL"
-    },
-    {
-      "added_at": "2024-10-25 15:01:44",
-      "album": {
         "name": "Deixa Vir - Vol II (Ao Vivo)",
         "url": "https://open.spotify.com/album/5qjk2btAEazVwm5MtrMcSE"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 281760,
       "name": "Grita! (Shout!) - Ao Vivo",
       "url": "https://open.spotify.com/track/37h3VwFhtyxPp3jHD5sVXv"
+    },
+    {
+      "added_at": "2024-10-25 15:01:44",
+      "album": {
+        "name": "Maranata (Trono)",
+        "url": "https://open.spotify.com/album/5LqVnPYwTlK5BPgK347wuw"
+      },
+      "artists": [
+        {
+          "name": "Igor Pinheiro de Lima",
+          "url": "https://open.spotify.com/artist/1HG2T9YTGz6sreCoAVRfku"
+        },
+        {
+          "name": "Lari Lindstron",
+          "url": "https://open.spotify.com/artist/15JLGAUpRQL7mhsxj2CdDd"
+        }
+      ],
+      "duration_ms": 303775,
+      "name": "Maranata (Trono)",
+      "url": "https://open.spotify.com/track/607mQzTrTUaQCMyzSd5hQo"
     },
     {
       "added_at": "2024-10-25 15:01:44",
@@ -255,70 +255,6 @@
     {
       "added_at": "2024-10-25 15:01:44",
       "album": {
-        "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
-        "url": "https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 304556,
-      "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
-      "url": "https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr"
-    },
-    {
-      "added_at": "2024-10-25 15:01:44",
-      "album": {
-        "name": "Jardim Dos Inocentes",
-        "url": "https://open.spotify.com/album/6WBt57jyBlxr9F4kuWQL5s"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Abrantes",
-          "url": "https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN"
-        }
-      ],
-      "duration_ms": 370520,
-      "name": "Jardim Dos Inocentes",
-      "url": "https://open.spotify.com/track/6Jxs0BSse305oGyLW6aDKF"
-    },
-    {
-      "added_at": "2024-10-25 15:01:44",
-      "album": {
-        "name": "Nas Chagas",
-        "url": "https://open.spotify.com/album/4gfLB4BV8Efs5Hogfy42tW"
-      },
-      "artists": [
-        {
-          "name": "Resgate",
-          "url": "https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf"
-        }
-      ],
-      "duration_ms": 256390,
-      "name": "Nas Chagas",
-      "url": "https://open.spotify.com/track/1Dtc1417eHoEbMRsS4M0uE"
-    },
-    {
-      "added_at": "2024-10-25 15:01:44",
-      "album": {
-        "name": "Yeshua",
-        "url": "https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20"
-      },
-      "artists": [
-        {
-          "name": "Os Bravos",
-          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
-        }
-      ],
-      "duration_ms": 346917,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau"
-    },
-    {
-      "added_at": "2024-10-25 15:01:44",
-      "album": {
         "name": "Tudo Fica Bem",
         "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
       },
@@ -339,22 +275,50 @@
     {
       "added_at": "2024-10-25 15:01:44",
       "album": {
-        "name": "Medley Corinhos de Fogo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3E46QWTq6mddhz4o67GAjH"
+        "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
+        "url": "https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4"
       },
       "artists": [
         {
-          "name": "AtituD",
-          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
-        },
-        {
-          "name": "Jedson Aguiar",
-          "url": "https://open.spotify.com/artist/0CPfWYNtRHXEU2SnIZKNDg"
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
         }
       ],
-      "duration_ms": 164247,
-      "name": "Medley Corinhos de Fogo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6f4FTnfOe8EJjbskXRnBHj"
+      "duration_ms": 304556,
+      "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
+      "url": "https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr"
+    },
+    {
+      "added_at": "2024-10-25 15:01:44",
+      "album": {
+        "name": "Nas Chagas",
+        "url": "https://open.spotify.com/album/4gfLB4BV8Efs5Hogfy42tW"
+      },
+      "artists": [
+        {
+          "name": "Resgate",
+          "url": "https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf"
+        }
+      ],
+      "duration_ms": 256390,
+      "name": "Nas Chagas",
+      "url": "https://open.spotify.com/track/1Dtc1417eHoEbMRsS4M0uE"
+    },
+    {
+      "added_at": "2024-10-25 15:01:44",
+      "album": {
+        "name": "Jardim Dos Inocentes",
+        "url": "https://open.spotify.com/album/6WBt57jyBlxr9F4kuWQL5s"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Abrantes",
+          "url": "https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN"
+        }
+      ],
+      "duration_ms": 370520,
+      "name": "Jardim Dos Inocentes",
+      "url": "https://open.spotify.com/track/6Jxs0BSse305oGyLW6aDKF"
     },
     {
       "added_at": "2024-10-25 15:01:44",
@@ -375,6 +339,42 @@
       "duration_ms": 252348,
       "name": "Daniel (feat. Fernandinho)",
       "url": "https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2"
+    },
+    {
+      "added_at": "2024-10-25 15:01:44",
+      "album": {
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20"
+      },
+      "artists": [
+        {
+          "name": "Os Bravos",
+          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
+        }
+      ],
+      "duration_ms": 346917,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau"
+    },
+    {
+      "added_at": "2024-10-25 15:01:44",
+      "album": {
+        "name": "Medley Corinhos de Fogo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3E46QWTq6mddhz4o67GAjH"
+      },
+      "artists": [
+        {
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+        },
+        {
+          "name": "Jedson Aguiar",
+          "url": "https://open.spotify.com/artist/0CPfWYNtRHXEU2SnIZKNDg"
+        }
+      ],
+      "duration_ms": 164247,
+      "name": "Medley Corinhos de Fogo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6f4FTnfOe8EJjbskXRnBHj"
     },
     {
       "added_at": "2024-10-25 15:01:44",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-10-25 15:01:44",
       "album": {
-        "name": "Resist\u00eancia",
-        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        }
-      ],
-      "duration_ms": 261500,
-      "name": "Resist\u00eancia",
-      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
-    },
-    {
-      "added_at": "2024-10-25 15:01:44",
-      "album": {
         "name": "Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
       },
@@ -439,22 +423,6 @@
       "duration_ms": 536192,
       "name": "Santo - Ao Vivo",
       "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
-    },
-    {
-      "added_at": "2024-10-25 15:01:44",
-      "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 4)",
-        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
-      },
-      "artists": [
-        {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
-        }
-      ],
-      "duration_ms": 322400,
-      "name": "Rookmaaker - Ao Vivo",
-      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
     },
     {
       "added_at": "2024-10-25 15:01:44",
@@ -475,18 +443,34 @@
     {
       "added_at": "2024-10-25 15:01:44",
       "album": {
-        "name": "Na Corte do Egito (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz"
+        "name": "Resist\u00eancia",
+        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
       },
       "artists": [
         {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
         }
       ],
-      "duration_ms": 284693,
-      "name": "Na Corte do Egito - Ao Vivo",
-      "url": "https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e"
+      "duration_ms": 261500,
+      "name": "Resist\u00eancia",
+      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
+    },
+    {
+      "added_at": "2024-10-25 15:01:44",
+      "album": {
+        "name": "Palavrantiga Ao Vivo (Pt. 4)",
+        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
+      },
+      "artists": [
+        {
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+        }
+      ],
+      "duration_ms": 322400,
+      "name": "Rookmaaker - Ao Vivo",
+      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
     },
     {
       "added_at": "2024-10-25 15:01:44",
@@ -511,6 +495,22 @@
       "duration_ms": 262480,
       "name": "Dia De Milagres",
       "url": "https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT"
+    },
+    {
+      "added_at": "2024-10-25 15:01:44",
+      "album": {
+        "name": "Na Corte do Egito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Na Corte do Egito - Ao Vivo",
+      "url": "https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e"
     },
     {
       "added_at": "2024-10-25 15:01:44",
@@ -571,26 +571,6 @@
     {
       "added_at": "2024-10-25 15:01:44",
       "album": {
-        "name": "O Meu Lugar",
-        "url": "https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        },
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 245912,
-      "name": "O Meu Lugar",
-      "url": "https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1"
-    },
-    {
-      "added_at": "2024-10-25 15:01:44",
-      "album": {
         "name": "A Est\u00e1tua",
         "url": "https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 250600,
       "name": "Palavra Antiga - Ao Vivo",
       "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
+    },
+    {
+      "added_at": "2024-10-25 15:01:44",
+      "album": {
+        "name": "O Meu Lugar",
+        "url": "https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        },
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 245912,
+      "name": "O Meu Lugar",
+      "url": "https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1"
     },
     {
       "added_at": "2024-10-25 15:01:44",
@@ -711,6 +711,38 @@
     {
       "added_at": "2024-10-25 15:01:44",
       "album": {
+        "name": "Recome\u00e7o",
+        "url": "https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ"
+      },
+      "artists": [
+        {
+          "name": "ID2",
+          "url": "https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Recome\u00e7o",
+      "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
+    },
+    {
+      "added_at": "2024-10-25 15:01:44",
+      "album": {
+        "name": "Castelo Forte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q"
+      },
+      "artists": [
+        {
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "Castelo Forte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1"
+    },
+    {
+      "added_at": "2024-10-25 15:01:44",
+      "album": {
         "name": "For\u00e7a",
         "url": "https://open.spotify.com/album/7nrtt50btKPI4SgZbHFzAc"
       },
@@ -731,22 +763,6 @@
     {
       "added_at": "2024-10-25 15:01:44",
       "album": {
-        "name": "Recome\u00e7o",
-        "url": "https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ"
-      },
-      "artists": [
-        {
-          "name": "ID2",
-          "url": "https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Recome\u00e7o",
-      "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
-    },
-    {
-      "added_at": "2024-10-25 15:01:44",
-      "album": {
         "name": "Peregrino",
         "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 258000,
       "name": "Peregrino",
       "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
-    },
-    {
-      "added_at": "2024-10-25 15:01:44",
-      "album": {
-        "name": "Castelo Forte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q"
-      },
-      "artists": [
-        {
-          "name": "AtituD",
-          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "Castelo Forte - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1"
     },
     {
       "added_at": "2024-10-25 15:01:44",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-10-25 15:01:44",
       "album": {
-        "name": "Celebre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7fLGb5p4a1mFroUMKDFtqY"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        }
-      ],
-      "duration_ms": 249216,
-      "name": "Celebre - Ao Vivo",
-      "url": "https://open.spotify.com/track/39wHeXI2eShSnVgCLtSlw0"
-    },
-    {
-      "added_at": "2024-10-25 15:01:44",
-      "album": {
         "name": "Caminho Sem Volta",
         "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 246333,
       "name": "Me Ensina a Seguir",
       "url": "https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr"
+    },
+    {
+      "added_at": "2024-10-25 15:01:44",
+      "album": {
+        "name": "Celebre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7fLGb5p4a1mFroUMKDFtqY"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "duration_ms": 249216,
+      "name": "Celebre - Ao Vivo",
+      "url": "https://open.spotify.com/track/39wHeXI2eShSnVgCLtSlw0"
     },
     {
       "added_at": "2024-10-25 15:01:44",

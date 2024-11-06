@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Lo mejor de octubre 2024. Cover: Mar\u00eda Becerra",
+  "description": "Lo mejor de noviembre 2024. Cover: Mar\u00eda Becerra",
   "name": "Lo mejor del mes",
   "tracks": [
     {
@@ -944,7 +944,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 198463,
       "name": "Already Yours",
       "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
@@ -3527,6 +3527,24 @@
     },
     {
       "album": {
+        "name": "Coketa",
+        "url": "https://open.spotify.com/album/4AclNlBnOpdUSmHwnZnggt"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Coketa",
+      "url": "https://open.spotify.com/track/2BqyIc9IIWS7Mrwfl2taOv"
+    },
+    {
+      "album": {
         "name": "Coldplay",
         "url": "https://open.spotify.com/album/10rK1UDegx1LEDnbswIkTk"
       },
@@ -3780,6 +3798,28 @@
       "duration_ms": 162800,
       "name": "Conquistar El Planeta",
       "url": "https://open.spotify.com/track/6cOGBvdT0RY3UUtEP7vRHs"
+    },
+    {
+      "album": {
+        "name": "Constelaci\u00f3n",
+        "url": "https://open.spotify.com/album/2UCtRZWKRk0Uwhi5FWdPcV"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200631,
+      "name": "Constelaci\u00f3n",
+      "url": "https://open.spotify.com/track/4hphx3cA8mjPJR99B6XtBD"
     },
     {
       "album": {
@@ -4398,7 +4438,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 178922,
       "name": "C\u00f3mo hacer pa que no duela?",
       "url": "https://open.spotify.com/track/2f5Tz5xDtujdJ2zTCOYcRB"
@@ -5445,6 +5485,24 @@
     },
     {
       "album": {
+        "name": "DURO",
+        "url": "https://open.spotify.com/album/235ZKHV3Tg09Cj4vtYnZm8"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162204,
+      "name": "DURO",
+      "url": "https://open.spotify.com/track/1kyLInQ2qgYbK4wZxllfV2"
+    },
+    {
+      "album": {
         "name": "D\u00e9jalo En Visto",
         "url": "https://open.spotify.com/album/4pRtQajnKYpxiqYHgHvLeW"
       },
@@ -5996,6 +6054,28 @@
       "duration_ms": 250893,
       "name": "En Alta",
       "url": "https://open.spotify.com/track/5QX43W0c6X53arJNNtDV8U"
+    },
+    {
+      "album": {
+        "name": "En El Aire",
+        "url": "https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "En El Aire",
+      "url": "https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j"
     },
     {
       "album": {
@@ -7758,7 +7838,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 154969,
       "name": "HABLAME CLARO",
       "url": "https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY"
@@ -10448,7 +10528,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 134571,
       "name": "Lluvia de Sangria",
       "url": "https://open.spotify.com/track/6YY6Envq9Of2S00sPpQjlS"
@@ -15688,7 +15768,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 224022,
       "name": "Q U E V A S H A C E R H O Y ?",
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
@@ -17054,6 +17134,28 @@
       "duration_ms": 234255,
       "name": "Serotonina",
       "url": "https://open.spotify.com/track/5tENzpT5sqDRc0EXQf1k6o"
+    },
+    {
+      "album": {
+        "name": "SEXO ES LA MODA",
+        "url": "https://open.spotify.com/album/4bJWxZQFLrz2IW79KheuXD"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165901,
+      "name": "SEXO ES LA MODA",
+      "url": "https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E"
     },
     {
       "album": {

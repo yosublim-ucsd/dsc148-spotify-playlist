@@ -1,13 +1,29 @@
 {
   "description": "It's a good day to be a My Day!",
-  "num_followers": 257299,
+  "num_followers": 257348,
   "original_name": "This Is DAY6",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtaUpAAAAADIIBr5vbF9xPvVX0hBFoU4",
+  "snapshot_id": "ZynekAAAAAAISnlFxw/BaXna1fl0RWsX",
   "tracks": [
+    {
+      "added_at": "2024-11-05 09:00:00",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/3JySXkeZCG1WiMNlBB3n9p"
+      },
+      "artists": [
+        {
+          "name": "SUNGJIN",
+          "url": "https://open.spotify.com/artist/5ZQ96t8nPfBXYdZaXZwDHC"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "Check Pattern",
+      "url": "https://open.spotify.com/track/3bbuy0sL7miaccIfh6s86b"
+    },
     {
       "added_at": "2024-09-02 14:09:02",
       "album": {

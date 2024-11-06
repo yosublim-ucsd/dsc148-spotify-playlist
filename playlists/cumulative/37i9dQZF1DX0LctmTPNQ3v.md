@@ -2,9 +2,9 @@
 
 ### [Metal Christmas](https://open.spotify.com/playlist/37i9dQZF1DX0LctmTPNQ3v)
 
-> Time to headbang around the Christmas tree! Cover: August Burns Red
+> Your soundtrack for a not\-so\-silent night.
 
-132 songs - 8 hr 23 min
+133 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Oh Holy Night](https://open.spotify.com/track/5UOq2c7K2GOHDwiL7BsK6Y) | [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy), [Halford](https://open.spotify.com/artist/0kq4QvLGV5t1ZoE6ittrLQ) | [Halford III: Winter Songs](https://open.spotify.com/album/23gl11F7n7YNPGdI9L8XSd) | 4:08 | 2021-11-26 |  |
 | [Red Water \(Christmas Mourning\)](https://open.spotify.com/track/6Z8SIHKpQvtP8nBkjH3lIo) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 6:48 | 2021-11-26 |  |
 | [Rockin' Around the Christmas Tree](https://open.spotify.com/track/0XW1jrD07qo7Dy27LKjtYW) | [Helix](https://open.spotify.com/artist/7JF6mRd5N8LzsKugg4rcSG) | [A Heavy Mental Christmas](https://open.spotify.com/album/46HhQ76lGNj0dQTTpivGcP) | 1:59 | 2021-11-26 | 2023-10-28 |
-| [Rockin' Around the Christmas Tree](https://open.spotify.com/track/1NcwwGQmTgIaUimgUMN6hk) | [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [Rockin' Around the Christmas Tree](https://open.spotify.com/album/6DhsdnWLeBx8U309wLTIH1) | 2:10 | 2022-12-09 |  |
+| [Rockin' Around the Christmas Tree](https://open.spotify.com/track/1NcwwGQmTgIaUimgUMN6hk) | [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [Rockin' Around the Christmas Tree](https://open.spotify.com/album/6DhsdnWLeBx8U309wLTIH1) | 2:10 | 2022-12-09 | 2024-11-06 |
 | [Rocking around the X\-Mas Tree](https://open.spotify.com/track/39zqAazeGrgBYBtUGPsIGl) | [X\-Mas Project](https://open.spotify.com/artist/7g6TSQsmJUinPkd151QJXy) | [Bangin'Round The X\-Mas Tree](https://open.spotify.com/album/196zMg4XXsPSeXjd0D81fZ) | 2:33 | 2021-11-26 | 2022-07-29 |
 | [Rocking around the X\-Mas Tree](https://open.spotify.com/track/3t8Qoo7RyMsijIrtUKhdXX) | [X\-Mas Project](https://open.spotify.com/artist/7g6TSQsmJUinPkd151QJXy) | [Bangin´Round The X\-Mas Tree](https://open.spotify.com/album/4CUsvAGNQ28NTiD8IoaMWu) | 2:33 | 2021-11-26 | 2023-10-28 |
 | [Rudolph The Red Nosed Reindeer](https://open.spotify.com/track/0OpnNGa1cZFDvLnFntVbGt) | [Blasko](https://open.spotify.com/artist/1OWZTe6YcQO5PKvHPgUw8C), [John Tempesta](https://open.spotify.com/artist/5PhkFCyI5hOaacrmnE7tfc), [Dez Fafara](https://open.spotify.com/artist/5o8lHNxxxjD3hMXRhfVzpn), [Doug Aldrich](https://open.spotify.com/artist/4NyeE2YpdGL4xTMThr6qnZ) | [We Wish You A Metal Xmas And A Headbanging New Year](https://open.spotify.com/album/6toBzQcCJouEJxa8Bcsutn) | 4:08 | 2021-11-26 | 2023-10-28 |
@@ -140,5 +140,6 @@
 | [White Christmas](https://open.spotify.com/track/6xUPF0cpNS3lL1Q4c5k9fa) | [Paul Di'Anno](https://open.spotify.com/artist/6SKy1FCU5PskoE5Ode2y3Y), [Lea Hart](https://open.spotify.com/artist/6F7TZJPVHTlpG9jCYKw7h3) | [A Very Metal Xmas](https://open.spotify.com/album/4yIcXXvkfOTl58xvAjBslh) | 4:14 | 2021-11-26 |  |
 | [White Christmas](https://open.spotify.com/track/1C1z0j86okvfGRPRn1rI9b) | [Raskasta Joulua](https://open.spotify.com/artist/1tJpdWrJMjRN94utnNlOVX), [Jarkko Ahola](https://open.spotify.com/artist/3jP9vMttV2eyctsfcuYNQc) | [Ragnarok Juletide](https://open.spotify.com/album/4x3cXClXfNUbTy52FDdkZ5) | 5:25 | 2021-11-26 | 2024-04-19 |
 | [X\-M@$](https://open.spotify.com/track/1a8UIPEA1syyBSNhWwRfrY) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [X\-M@$](https://open.spotify.com/album/2z2D8A4HGkR5HQtSvb2lV8) | 2:33 | 2023-10-27 |  |
+| [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/0kI6zwUHv8b3y1Vm6ZzRJE) | [Danny Worsnop](https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW), [Jared Dines](https://open.spotify.com/artist/0UxXnwquK1V0komwWJEiVQ) | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/album/3rfu8siJ4hak2leVdfTEd7) | 2:31 | 2024-11-05 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

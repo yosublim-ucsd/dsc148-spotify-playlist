@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-904 songs - 1 day 14 hr 40 min
+907 songs - 1 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [For Alfie](https://open.spotify.com/track/5zWxUnGyMIQOhOhDUcfbQ3) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [For Alfie](https://open.spotify.com/album/6IDc0jP7lINFNfIg9dynCV) | 2:26 | 2022-07-19 | 2023-09-23 |
 | [For Kate](https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [For Kate](https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S) | 2:17 | 2022-01-17 | 2022-10-25 |
 | [For the First Time](https://open.spotify.com/track/3fI53uzMr8JIQ5TSfOUi56) | [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [For the First Time](https://open.spotify.com/album/7GiOs0H4ws3F6IB9i5ve09) | 2:28 | 2022-08-25 | 2023-09-26 |
+| [For the Stars](https://open.spotify.com/track/6ps3F1Olu4enaFFq8tn2O0) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [For the Stars](https://open.spotify.com/album/0OzUQYMoKMV6AXmgTfUYqd) | 2:04 | 2024-11-05 |  |
 | [For You](https://open.spotify.com/track/708sPQ3Czu2U7sOJcbY1fd) | [Hale Hoffman](https://open.spotify.com/artist/4274kWhhMpB59WtAGGr7j5) | [For You](https://open.spotify.com/album/7M09LrIRkm1eph7q7n3Blf) | 3:18 | 2022-11-24 | 2023-02-01 |
 | [Forbidden Chords](https://open.spotify.com/track/22MdrHbM2paKQswcbjHEsR) | [Eugenius R\. Malmgren](https://open.spotify.com/artist/2uODFqBJo1WlHbFBSuyLW9) | [Forbidden Chords](https://open.spotify.com/album/5qG5zlXidasaBblysEBt4A) | 2:19 | 2023-11-06 |  |
 | [Forever & Always](https://open.spotify.com/track/5hLVKQBumXZ9DhK6khCiOP) | [Tom Stannard](https://open.spotify.com/artist/6rDF0xaV7KBIlI5t9zs6EZ) | [Forever & Always](https://open.spotify.com/album/7B03e9Eebco3A1QGyFcBxj) | 2:06 | 2021-12-07 | 2022-05-06 |
@@ -407,7 +408,7 @@
 | [Last Things First](https://open.spotify.com/track/7HCl80rnRUZoeVWpuXLSli) | [Baltasar Thorgrimson](https://open.spotify.com/artist/0wyQQ5R0rWiaT1g8GUEDBC) | [Last Things First](https://open.spotify.com/album/30WZaV9jXKl6JYqjSUEZZq) | 2:32 | 2021-12-07 | 2022-02-02 |
 | [Laurel Tree \(Whispers\)](https://open.spotify.com/track/2n1LkGURXqH7lP3J7vhcJr) | [Rowen Ellis](https://open.spotify.com/artist/185C3FAs4S58KqV8e8LP3H) | [Laurel Tree \(Whispers\)](https://open.spotify.com/album/2yqjaFL6QWjYqH7vBpbUK0) | 2:47 | 2021-12-07 | 2023-09-23 |
 | [Lavendel](https://open.spotify.com/track/3cWSAOchf5q8dQ7ohaGV2n) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Lavendel](https://open.spotify.com/album/7rdBgstRz5NnrVzpneea7F) | 3:07 | 2021-12-07 | 2022-11-12 |
-| [Le Ballet de L\`Oubli](https://open.spotify.com/track/1ZvZqIoLskfHuZ3A0akrsV) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Le Ballet de L\`Oubli](https://open.spotify.com/album/1BYFGajwHEIseik0EvBU6m) | 3:23 | 2022-04-20 |  |
+| [Le Ballet de L\`Oubli](https://open.spotify.com/track/1ZvZqIoLskfHuZ3A0akrsV) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Le Ballet de L\`Oubli](https://open.spotify.com/album/1BYFGajwHEIseik0EvBU6m) | 3:23 | 2022-04-20 | 2024-11-06 |
 | [Le Bonheur](https://open.spotify.com/track/3J8dqKlO2trb3uRGhcx3ok) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Le Bonheur](https://open.spotify.com/album/16jsGf5M8TZ2NeqSa09c8P) | 2:59 | 2021-12-07 | 2022-07-20 |
 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Le Jardin de Monsieur Monet](https://open.spotify.com/album/6Pjv5GVH24zabVfeIMOetI) | 5:13 | 2021-12-07 | 2022-05-06 |
 | [Le parole non bastano](https://open.spotify.com/track/3q257jNovvy9u7dW3BOo4u) | [Massimo Corciani](https://open.spotify.com/artist/0YeuG8IbzLJfqplMuNTxGI) | [Le parole non bastano](https://open.spotify.com/album/6EHWGXSxxhvtOSZVEHr52o) | 2:31 | 2021-12-07 | 2022-06-08 |
@@ -771,11 +772,12 @@
 | [The lighthouse](https://open.spotify.com/track/4EuLUeWUGHK3BVJGBcpQah) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Back home](https://open.spotify.com/album/7rISUDvNmbSZ8oyY0v7Tfp) | 2:52 | 2022-06-07 | 2022-10-25 |
 | [The Lights Around the Shore](https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [The Lights Around the Shore](https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6) | 2:51 | 2024-01-03 |  |
 | [The Melody](https://open.spotify.com/track/39HNrbxhyNy6v4pp48qxEf) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [The Melody](https://open.spotify.com/album/6oWBJDoAekiOCsfPlkBqxo) | 2:22 | 2023-03-06 |  |
+| [The Melting Sun](https://open.spotify.com/track/1fFEpC7OcocrA4zqrWMSlP) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [The Melting Sun](https://open.spotify.com/album/4YqdTFxhcRMEWdYoNPjCcO) | 2:07 | 2024-11-05 |  |
 | [The Moon Tells Me a Secret](https://open.spotify.com/track/04sY6I7jwWcQzFTbCBqN64) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [The Moon Tells Me a Secret](https://open.spotify.com/album/52reaxxZt2xnGqSiy73D8M) | 1:50 | 2021-12-07 | 2023-07-19 |
 | [The Morning After](https://open.spotify.com/track/5ua7qZZVNiysfAbcN5IS6e) | [Tim Missel](https://open.spotify.com/artist/1DYhuAXlTQBvFFfLuYKM4l) | [The Morning After](https://open.spotify.com/album/7vVRy5xt2nrG6qGJcv6Cah) | 2:16 | 2021-12-07 | 2022-10-05 |
 | [The Old Chapel](https://open.spotify.com/track/47tqkzmEb9HmxGYXA0HERN) | [Max Goethe](https://open.spotify.com/artist/2nZU81jrG7xjPA8a3pZZmf) | [The Old Chapel](https://open.spotify.com/album/4WdLOyBKFk1KV6lANVXvOL) | 2:09 | 2023-12-18 |  |
 | [The Old Windmill](https://open.spotify.com/track/5YINZsov3qBPWjCEsWDDWX) | [Henri Bentley](https://open.spotify.com/artist/5laMomQR4uO3PR7cNNkWQy) | [The Old Windmill](https://open.spotify.com/album/441C9NGHHXjvEre4uFxUfn) | 2:02 | 2022-02-01 | 2023-09-26 |
-| [The Other Place](https://open.spotify.com/track/6RXyFqmnqRyVR7hAHSDCnD) | [Lucile Garett](https://open.spotify.com/artist/6VcRNGf7V9o2TJSW6leoCZ) | [The Other Place](https://open.spotify.com/album/1HKXs6ACrqDbWb7RjE6rE8) | 2:46 | 2022-04-28 |  |
+| [The Other Place](https://open.spotify.com/track/6RXyFqmnqRyVR7hAHSDCnD) | [Lucile Garett](https://open.spotify.com/artist/6VcRNGf7V9o2TJSW6leoCZ) | [The Other Place](https://open.spotify.com/album/1HKXs6ACrqDbWb7RjE6rE8) | 2:46 | 2022-04-28 | 2024-11-06 |
 | [The Portrait](https://open.spotify.com/track/6gzx7vC8xDp7jawrF0OIIJ) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [The Portrait](https://open.spotify.com/album/3Gf8cw74M2kiaAhc4Y9iVx) | 2:02 | 2023-09-29 |  |
 | [The River](https://open.spotify.com/track/2FPCfxbbIoCItFMjTG8sl0) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 1:58 | 2021-12-07 | 2023-01-27 |
 | [The round](https://open.spotify.com/track/6YD98m2CsK814hbBVQz9yS) | [Redd Mae](https://open.spotify.com/artist/06HnYHIlkitCKyiMel4rWp) | [The round](https://open.spotify.com/album/58H4jQ4WViq58tku5lRwiK) | 2:28 | 2024-03-15 |  |
@@ -878,6 +880,7 @@
 | [When the leaves start to fall](https://open.spotify.com/track/70vSsnVESDO3ASOxKlgRkI) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [When the leaves start to fall](https://open.spotify.com/album/65pB6B1PKVYEZ41xxkpHdn) | 2:20 | 2023-02-06 |  |
 | [Where Are You Now](https://open.spotify.com/track/4fmG6hh126lwv3IKzXM1gD) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/3QokS25Je7Ms9rbghdVHts) | 2:38 | 2021-12-07 | 2022-05-06 |
 | [Where We Belong](https://open.spotify.com/track/7imtufjk7dfVd1dBpXxhT7) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Where We Belong](https://open.spotify.com/album/1vw4pJwpVUdwqYH9m3mDqx) | 3:03 | 2024-10-22 |  |
+| [Whirlwinds of Life](https://open.spotify.com/track/7LWlVCicZ2oYx9ddg0FglR) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Whirlwinds of Life](https://open.spotify.com/album/09PyQ46u4rKCwkgeEb0Rss) | 2:22 | 2024-11-05 |  |
 | [Whisper Trail](https://open.spotify.com/track/2pEF97eTTTNC8pbpAVu8SB) | [Peter Mandel](https://open.spotify.com/artist/7pcKNsR8Kj7AIXtJT7u46g) | [Whisper Trail](https://open.spotify.com/album/6zalqhvd0efWVXZI4z6VyU) | 2:35 | 2021-12-07 | 2023-05-20 |
 | [Whispering Keys](https://open.spotify.com/track/4k8IkMaNrLu4MYdzCs0vF1) | [Lou Maxence](https://open.spotify.com/artist/7KP4VeCHHi7TuDNlociPui) | [Whispering Keys](https://open.spotify.com/album/6v4hXLjbm5ECFGyGpg9nHB) | 1:59 | 2023-05-09 | 2023-07-26 |
 | [Wieder Zusammen](https://open.spotify.com/track/7AqrZZG9hEeOJs9i6wzxFb) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Wieder Zusammen](https://open.spotify.com/album/7HI3M3BnOgeumeF5sfwo6j) | 3:11 | 2023-04-25 |  |

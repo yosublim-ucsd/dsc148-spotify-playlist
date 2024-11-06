@@ -1,6 +1,6 @@
 {
   "description": "New Music from Davido, YG Marley  and more ",
-  "num_followers": 83604,
+  "num_followers": 83725,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
@@ -555,7 +555,7 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
-        "name": "Obodo (feat. Phyno)",
+        "name": "Obodo (feat. Phyno & Flavour)",
         "url": "https://open.spotify.com/album/4Pik1Eeu1bhJRocOLZA53H"
       },
       "artists": [
@@ -564,20 +564,20 @@
           "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
         },
         {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        },
-        {
           "name": "Theresa Onuorah",
           "url": "https://open.spotify.com/artist/54OhlMlNRTktBpU6v4JqNK"
         },
         {
           "name": "Phyno",
           "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
         }
       ],
       "duration_ms": 210750,
-      "name": "Obodo (feat. Phyno)",
+      "name": "Obodo (feat. Phyno & Flavour)",
       "url": "https://open.spotify.com/track/4L4PEJIuDkstKmS352nkeV"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1562531,
+  "num_followers": 1562868,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAAATP8/9Eu6gTuTV7s4HpGkv",
+  "snapshot_id": "ZygOgAAAAAA3u+GWlruWY9y8qnkXD2d3",
   "tracks": [
     {
       "added_at": null,
@@ -404,17 +404,13 @@
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         },
         {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+          "name": "Kacy Hill",
+          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
         }
       ],
-      "duration_ms": 321560,
-      "name": "Nightcrawler (feat. Swae Lee & Chief Keef)",
-      "url": "https://open.spotify.com/track/3xby7fOyqmeON8jsnom0AT"
+      "duration_ms": 339066,
+      "name": "90210 (feat. Kacy Hill)",
+      "url": "https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP"
     },
     {
       "added_at": null,
@@ -488,13 +484,17 @@
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         },
         {
-          "name": "Kacy Hill",
-          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
         }
       ],
-      "duration_ms": 339066,
-      "name": "90210 (feat. Kacy Hill)",
-      "url": "https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP"
+      "duration_ms": 321560,
+      "name": "Nightcrawler (feat. Swae Lee & Chief Keef)",
+      "url": "https://open.spotify.com/track/3xby7fOyqmeON8jsnom0AT"
     },
     {
       "added_at": null,
@@ -923,6 +923,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ALL TIME HIGH",
+        "url": "https://open.spotify.com/album/1eqb4sPiZO1oLXs0ADlcW2"
+      },
+      "artists": [
+        {
+          "name": "Strick",
+          "url": "https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 136506,
+      "name": "CR@SH (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/1KmmViIziBGJQa728cXkzh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -947,22 +967,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALL TIME HIGH",
-        "url": "https://open.spotify.com/album/1eqb4sPiZO1oLXs0ADlcW2"
+        "name": "SOUTH OF FRANCE (REMIX)",
+        "url": "https://open.spotify.com/album/4owFc3Y0ot577RaREh58FR"
       },
       "artists": [
         {
-          "name": "Strick",
-          "url": "https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 136506,
-      "name": "CR@SH (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/1KmmViIziBGJQa728cXkzh"
+      "duration_ms": 183919,
+      "name": "SOUTH OF FRANCE - REMIX",
+      "url": "https://open.spotify.com/track/2C11qhXSCvVzGogwOTP6aZ"
     },
     {
       "added_at": null,
@@ -1047,30 +1067,6 @@
       "duration_ms": 129370,
       "name": "TKN (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DAYS BEFORE RODEO",
-        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 272772,
-      "name": "Mamacita (feat. Rich Homie Quan & Young Thug)",
-      "url": "https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI"
     }
   ],
   "unique_name": "This Is Travis Scott",

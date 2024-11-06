@@ -1,6 +1,6 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Municipal Waste",
-  "num_followers": 558820,
+  "num_followers": 558879,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
@@ -655,8 +655,8 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/32nLLpycunqmJfnF3EEfNJ"
+        "name": "Metal Church",
+        "url": "https://open.spotify.com/album/6LYQlKhDAXE9xMS3YzioNv"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
         }
       ],
-      "duration_ms": 225800,
-      "name": "Start the Fire",
-      "url": "https://open.spotify.com/track/6EDh3fGDzhYlgzPiccnRKe"
+      "duration_ms": 302360,
+      "name": "Metal Church",
+      "url": "https://open.spotify.com/track/34LXW73avo8xz0NLiVuiow"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -799,8 +799,8 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Metal Church",
-        "url": "https://open.spotify.com/album/6LYQlKhDAXE9xMS3YzioNv"
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/32nLLpycunqmJfnF3EEfNJ"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
         }
       ],
-      "duration_ms": 302360,
-      "name": "Metal Church",
-      "url": "https://open.spotify.com/track/34LXW73avo8xz0NLiVuiow"
+      "duration_ms": 225800,
+      "name": "Start the Fire",
+      "url": "https://open.spotify.com/track/6EDh3fGDzhYlgzPiccnRKe"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Taking Over",
-        "url": "https://open.spotify.com/album/5o5qYy6hUQwHP2zSqqRC8N"
-      },
-      "artists": [
-        {
-          "name": "Overkill",
-          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
-        }
-      ],
-      "duration_ms": 272333,
-      "name": "Wrecking Crew",
-      "url": "https://open.spotify.com/track/6fawOM1jHIuzdiMITZAnwG"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "Outer Isolation",
         "url": "https://open.spotify.com/album/1KzsSFzRO8903u1XTyEi8U"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 321880,
       "name": "Tetrastructural Minds",
       "url": "https://open.spotify.com/track/7vuI7MKPrRX3vPbsft78qz"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Taking Over",
+        "url": "https://open.spotify.com/album/5o5qYy6hUQwHP2zSqqRC8N"
+      },
+      "artists": [
+        {
+          "name": "Overkill",
+          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+        }
+      ],
+      "duration_ms": 272333,
+      "name": "Wrecking Crew",
+      "url": "https://open.spotify.com/track/6fawOM1jHIuzdiMITZAnwG"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "World Circus",
-        "url": "https://open.spotify.com/album/0vpkJpw2GlqWu2oENfdXYx"
-      },
-      "artists": [
-        {
-          "name": "Toxik",
-          "url": "https://open.spotify.com/artist/5v4Rmw4m3h9jJUeXd4hD2m"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "Heart Attack",
-      "url": "https://open.spotify.com/track/38kRxXRL2FbAM2mHZ2tqSQ"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "The Ultra-Violence",
         "url": "https://open.spotify.com/album/35flmem6J4bq04Kvib1ghA"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 299800,
       "name": "Kill as One",
       "url": "https://open.spotify.com/track/3U7bYEYs8GEAh2yyyhErly"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "World Circus",
+        "url": "https://open.spotify.com/album/0vpkJpw2GlqWu2oENfdXYx"
+      },
+      "artists": [
+        {
+          "name": "Toxik",
+          "url": "https://open.spotify.com/artist/5v4Rmw4m3h9jJUeXd4hD2m"
+        }
+      ],
+      "duration_ms": 228586,
+      "name": "Heart Attack",
+      "url": "https://open.spotify.com/track/38kRxXRL2FbAM2mHZ2tqSQ"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Unhealthy Mechanisms",
-        "url": "https://open.spotify.com/album/12TN9balowogEa9934vX3O"
-      },
-      "artists": [
-        {
-          "name": "Go Ahead And Die",
-          "url": "https://open.spotify.com/artist/3VvvNtwzaS0dyqr13Pa113"
-        }
-      ],
-      "duration_ms": 232406,
-      "name": "Drug-O-Cop",
-      "url": "https://open.spotify.com/track/18GlFhUte9Rdqax6WtlIx2"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "Seeking Vengeance",
         "url": "https://open.spotify.com/album/3aa6ckgxUKPXOyf1u4WlJM"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 246868,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/0ecCcO3gk2USR2o18UCBCf"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Unhealthy Mechanisms",
+        "url": "https://open.spotify.com/album/12TN9balowogEa9934vX3O"
+      },
+      "artists": [
+        {
+          "name": "Go Ahead And Die",
+          "url": "https://open.spotify.com/artist/3VvvNtwzaS0dyqr13Pa113"
+        }
+      ],
+      "duration_ms": 232406,
+      "name": "Drug-O-Cop",
+      "url": "https://open.spotify.com/track/18GlFhUte9Rdqax6WtlIx2"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Insane",
-        "url": "https://open.spotify.com/album/7DlA2Vm8witrWKt7mZEGyQ"
-      },
-      "artists": [
-        {
-          "name": "S7N",
-          "url": "https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm"
-        }
-      ],
-      "duration_ms": 182084,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/0EussHoROH1wsSg3qhN0WO"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/0Fkj9N2dzhtukOFYnauPO0"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 242660,
       "name": "Interface with the Infinite",
       "url": "https://open.spotify.com/track/3DVcZjs38AN1yyV6919IWb"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/7DlA2Vm8witrWKt7mZEGyQ"
+      },
+      "artists": [
+        {
+          "name": "S7N",
+          "url": "https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm"
+        }
+      ],
+      "duration_ms": 182084,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/0EussHoROH1wsSg3qhN0WO"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2171,6 +2171,22 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
+        "name": "Weapons of Thrash Destruction",
+        "url": "https://open.spotify.com/album/3tZJFYEx0PW4vFHDaBrGRg"
+      },
+      "artists": [
+        {
+          "name": "Terrifier",
+          "url": "https://open.spotify.com/artist/6CAS7EDKRPjByncY9Ca3qD"
+        }
+      ],
+      "duration_ms": 324182,
+      "name": "Reanimator",
+      "url": "https://open.spotify.com/track/5ihVldDm01ZzROCvW5rECC"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
         "name": "Flesh from Bone",
         "url": "https://open.spotify.com/album/3XAiBKyWClCBcJw64HIYHl"
       },
@@ -2199,22 +2215,6 @@
       "duration_ms": 293995,
       "name": "From the Past Comes the Storms - Re-Recorded",
       "url": "https://open.spotify.com/track/1TkZ5zd4E7GTaFCvV5VpdS"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
-        "name": "Weapons of Thrash Destruction",
-        "url": "https://open.spotify.com/album/3tZJFYEx0PW4vFHDaBrGRg"
-      },
-      "artists": [
-        {
-          "name": "Terrifier",
-          "url": "https://open.spotify.com/artist/6CAS7EDKRPjByncY9Ca3qD"
-        }
-      ],
-      "duration_ms": 324182,
-      "name": "Reanimator",
-      "url": "https://open.spotify.com/track/5ihVldDm01ZzROCvW5rECC"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Miami Supercops",
-        "url": "https://open.spotify.com/album/4Eu7a3XOyHwruAjlW5reZL"
-      },
-      "artists": [
-        {
-          "name": "Gama Bomb",
-          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
-        }
-      ],
-      "duration_ms": 197825,
-      "name": "Miami Supercops",
-      "url": "https://open.spotify.com/track/7rrIaFaaKxEEnzb4rWv6cl"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "Reap What You Sow",
         "url": "https://open.spotify.com/album/1PuGGc7XpxBaAlizciA24e"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 238106,
       "name": "Reap What You Sow",
       "url": "https://open.spotify.com/track/0PbOpIcpyKYKfL3Iuz4g9S"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Miami Supercops",
+        "url": "https://open.spotify.com/album/4Eu7a3XOyHwruAjlW5reZL"
+      },
+      "artists": [
+        {
+          "name": "Gama Bomb",
+          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
+        }
+      ],
+      "duration_ms": 197825,
+      "name": "Miami Supercops",
+      "url": "https://open.spotify.com/track/7rrIaFaaKxEEnzb4rWv6cl"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Let the World Burn",
-        "url": "https://open.spotify.com/album/7f08w78qHcpUQQ7cj9jKlH"
-      },
-      "artists": [
-        {
-          "name": "Vio-Lence",
-          "url": "https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df"
-        }
-      ],
-      "duration_ms": 310181,
-      "name": "Let the World Burn",
-      "url": "https://open.spotify.com/track/2C2Hi5imLSNAk9wI5itFHx"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "The Sound of Steel",
         "url": "https://open.spotify.com/album/7dn6QFOmR37W4DYczYCjFl"
       },
@@ -2475,22 +2459,18 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "BATS",
-        "url": "https://open.spotify.com/album/2AChbUajQYVEq5lntoghx3"
+        "name": "Let the World Burn",
+        "url": "https://open.spotify.com/album/7f08w78qHcpUQQ7cj9jKlH"
       },
       "artists": [
         {
-          "name": "Gama Bomb",
-          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
-        },
-        {
-          "name": "The Egyptian Lover",
-          "url": "https://open.spotify.com/artist/4iiBwQutE2Bh3bJ5N7jXnP"
+          "name": "Vio-Lence",
+          "url": "https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df"
         }
       ],
-      "duration_ms": 300120,
-      "name": "Egyptron",
-      "url": "https://open.spotify.com/track/46pYNjo4mtvlVg9E8WMZTj"
+      "duration_ms": 310181,
+      "name": "Let the World Burn",
+      "url": "https://open.spotify.com/track/2C2Hi5imLSNAk9wI5itFHx"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2591,6 +2571,42 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
+        "name": "BATS",
+        "url": "https://open.spotify.com/album/2AChbUajQYVEq5lntoghx3"
+      },
+      "artists": [
+        {
+          "name": "Gama Bomb",
+          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
+        },
+        {
+          "name": "The Egyptian Lover",
+          "url": "https://open.spotify.com/artist/4iiBwQutE2Bh3bJ5N7jXnP"
+        }
+      ],
+      "duration_ms": 300120,
+      "name": "Egyptron",
+      "url": "https://open.spotify.com/track/46pYNjo4mtvlVg9E8WMZTj"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Exiled To The Surface",
+        "url": "https://open.spotify.com/album/0tkgyipQ3jjwI2UVGVDDuT"
+      },
+      "artists": [
+        {
+          "name": "Traitor",
+          "url": "https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM"
+        }
+      ],
+      "duration_ms": 249531,
+      "name": "66 Exeter Street",
+      "url": "https://open.spotify.com/track/0oSILLUEwuFTFRsz5Twe56"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
         "name": "Fuel the Fire",
         "url": "https://open.spotify.com/album/2S93hqoq2uVn0yfihm5NIi"
       },
@@ -2611,22 +2627,6 @@
       "duration_ms": 296157,
       "name": "Fuel the Fire",
       "url": "https://open.spotify.com/track/0buwvmO1V7DoStjJF9KJbI"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
-        "name": "Exiled To The Surface",
-        "url": "https://open.spotify.com/album/0tkgyipQ3jjwI2UVGVDDuT"
-      },
-      "artists": [
-        {
-          "name": "Traitor",
-          "url": "https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM"
-        }
-      ],
-      "duration_ms": 249531,
-      "name": "66 Exeter Street",
-      "url": "https://open.spotify.com/track/0oSILLUEwuFTFRsz5Twe56"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2679,6 +2679,54 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/34y1xqgtej5mb8eV3stvhT"
+      },
+      "artists": [
+        {
+          "name": "Before The Dawn",
+          "url": "https://open.spotify.com/artist/6L77qXFnXb7Tac7xzPa0Y7"
+        }
+      ],
+      "duration_ms": 270579,
+      "name": "Destroyer",
+      "url": "https://open.spotify.com/track/1iQsQZzC1CneQhOycVXBHS"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Phantom Force",
+        "url": "https://open.spotify.com/album/2CqYBNqVw8stCxhxRaohUH"
+      },
+      "artists": [
+        {
+          "name": "Havok",
+          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
+        }
+      ],
+      "duration_ms": 179796,
+      "name": "Phantom Force",
+      "url": "https://open.spotify.com/track/1KeXxoAqApT6LiH9GQw0tR"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Bow Down To the Clowns",
+        "url": "https://open.spotify.com/album/3CeajsMj209XmQSWgdzPJ1"
+      },
+      "artists": [
+        {
+          "name": "Onslaught",
+          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
+        }
+      ],
+      "duration_ms": 290600,
+      "name": "Bow Down To the Clowns",
+      "url": "https://open.spotify.com/track/5kpeEEIRD13CzU8ZSTdJPy"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
         "name": "Metal II",
         "url": "https://open.spotify.com/album/6rvqy7S1R8d5kZ7jHNQ3Iw"
       },
@@ -2703,54 +2751,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Phantom Force",
-        "url": "https://open.spotify.com/album/2CqYBNqVw8stCxhxRaohUH"
-      },
-      "artists": [
-        {
-          "name": "Havok",
-          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
-        }
-      ],
-      "duration_ms": 179796,
-      "name": "Phantom Force",
-      "url": "https://open.spotify.com/track/1KeXxoAqApT6LiH9GQw0tR"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/34y1xqgtej5mb8eV3stvhT"
-      },
-      "artists": [
-        {
-          "name": "Before The Dawn",
-          "url": "https://open.spotify.com/artist/6L77qXFnXb7Tac7xzPa0Y7"
-        }
-      ],
-      "duration_ms": 270579,
-      "name": "Destroyer",
-      "url": "https://open.spotify.com/track/1iQsQZzC1CneQhOycVXBHS"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
-        "name": "Bow Down To the Clowns",
-        "url": "https://open.spotify.com/album/3CeajsMj209XmQSWgdzPJ1"
-      },
-      "artists": [
-        {
-          "name": "Onslaught",
-          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
-        }
-      ],
-      "duration_ms": 290600,
-      "name": "Bow Down To the Clowns",
-      "url": "https://open.spotify.com/track/5kpeEEIRD13CzU8ZSTdJPy"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "Killer Of Killers",
         "url": "https://open.spotify.com/album/1CZuXJsnDzVn7zLtdLwOBk"
       },
@@ -2763,22 +2763,6 @@
       "duration_ms": 228640,
       "name": "Killer Of Killers",
       "url": "https://open.spotify.com/track/1tgwzbkqYhLL8LWMgfHq1v"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
-        "name": "In Thrash We Trust",
-        "url": "https://open.spotify.com/album/2lnSedpTsd2fw33TmgDUQU"
-      },
-      "artists": [
-        {
-          "name": "Artillery",
-          "url": "https://open.spotify.com/artist/6N62Sla6F2uuEzNALo6720"
-        }
-      ],
-      "duration_ms": 249346,
-      "name": "In Thrash We Trust",
-      "url": "https://open.spotify.com/track/7pqsRGZ99q4Cl6uI9TmlJ2"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2815,6 +2799,22 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
+        "name": "In Thrash We Trust",
+        "url": "https://open.spotify.com/album/2lnSedpTsd2fw33TmgDUQU"
+      },
+      "artists": [
+        {
+          "name": "Artillery",
+          "url": "https://open.spotify.com/artist/6N62Sla6F2uuEzNALo6720"
+        }
+      ],
+      "duration_ms": 249346,
+      "name": "In Thrash We Trust",
+      "url": "https://open.spotify.com/track/7pqsRGZ99q4Cl6uI9TmlJ2"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
         "name": "Leave Nothing Behind",
         "url": "https://open.spotify.com/album/1yrl6UZGXbdWp5QR9lQanl"
       },
@@ -2847,22 +2847,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Brace for Impact",
-        "url": "https://open.spotify.com/album/60F8SQR15qRIpJV24q0gX1"
-      },
-      "artists": [
-        {
-          "name": "Flotsam & Jetsam",
-          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
-        }
-      ],
-      "duration_ms": 273746,
-      "name": "Brace for Impact",
-      "url": "https://open.spotify.com/track/6nqhwI9sRHsGAtMYUkGo0j"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "British Disaster: The Battle of '89 (Live At The Astoria)",
         "url": "https://open.spotify.com/album/4y3wHWrVls89q0BbncJ8Ny"
       },
@@ -2879,6 +2863,22 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
+        "name": "Brace for Impact",
+        "url": "https://open.spotify.com/album/60F8SQR15qRIpJV24q0gX1"
+      },
+      "artists": [
+        {
+          "name": "Flotsam & Jetsam",
+          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
+        }
+      ],
+      "duration_ms": 273746,
+      "name": "Brace for Impact",
+      "url": "https://open.spotify.com/track/6nqhwI9sRHsGAtMYUkGo0j"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
         "name": "Lockdown Forever",
         "url": "https://open.spotify.com/album/0zcre4qdDKeLiSsVk6srPM"
       },
@@ -2891,6 +2891,22 @@
       "duration_ms": 246552,
       "name": "Lockdown Forever",
       "url": "https://open.spotify.com/track/68R8KwPDpmDk44l8Xyelqg"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Caught In A Mosh",
+        "url": "https://open.spotify.com/album/7kDsRPwoPQueml7zupFAMb"
+      },
+      "artists": [
+        {
+          "name": "The L.I.F.E. Project",
+          "url": "https://open.spotify.com/artist/4CASo5ALuNEWrsKDpCKm5h"
+        }
+      ],
+      "duration_ms": 299160,
+      "name": "Caught In A Mosh",
+      "url": "https://open.spotify.com/track/03uCCpxPBtSqr18kXm9gfG"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2927,22 +2943,6 @@
       "duration_ms": 86109,
       "name": "Can't Help but Hate",
       "url": "https://open.spotify.com/track/1fHI0w8RN6LyJJyK73HYdH"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
-        "name": "Caught In A Mosh",
-        "url": "https://open.spotify.com/album/7kDsRPwoPQueml7zupFAMb"
-      },
-      "artists": [
-        {
-          "name": "The L.I.F.E. Project",
-          "url": "https://open.spotify.com/artist/4CASo5ALuNEWrsKDpCKm5h"
-        }
-      ],
-      "duration_ms": 299160,
-      "name": "Caught In A Mosh",
-      "url": "https://open.spotify.com/track/03uCCpxPBtSqr18kXm9gfG"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -2995,22 +2995,6 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Burn the Sky",
-        "url": "https://open.spotify.com/album/6FI3I1yEUAQT2A1qmh3QOx"
-      },
-      "artists": [
-        {
-          "name": "Flotsam & Jetsam",
-          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
-        }
-      ],
-      "duration_ms": 266920,
-      "name": "Burn the Sky",
-      "url": "https://open.spotify.com/track/0JMc364YMZ68bMn1OoBm3D"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
         "name": "Snob (feat. Jasta)",
         "url": "https://open.spotify.com/album/7r0lZzGYhG3al65li0dnhQ"
       },
@@ -3031,18 +3015,18 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
-        "name": "Friendly Fire",
-        "url": "https://open.spotify.com/album/3ee6hHayuMEKTFgx561n7R"
+        "name": "Burn the Sky",
+        "url": "https://open.spotify.com/album/6FI3I1yEUAQT2A1qmh3QOx"
       },
       "artists": [
         {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+          "name": "Flotsam & Jetsam",
+          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
         }
       ],
-      "duration_ms": 216786,
-      "name": "Friendly Fire",
-      "url": "https://open.spotify.com/track/0k2A0pdiTyiGoO60sRU1Zp"
+      "duration_ms": 266920,
+      "name": "Burn the Sky",
+      "url": "https://open.spotify.com/track/0JMc364YMZ68bMn1OoBm3D"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -3059,6 +3043,22 @@
       "duration_ms": 233650,
       "name": "Sacrilegious Pain",
       "url": "https://open.spotify.com/track/7sYEZU5f02dITKOEgSo6TM"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
+        "name": "Friendly Fire",
+        "url": "https://open.spotify.com/album/3ee6hHayuMEKTFgx561n7R"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "duration_ms": 216786,
+      "name": "Friendly Fire",
+      "url": "https://open.spotify.com/track/0k2A0pdiTyiGoO60sRU1Zp"
     },
     {
       "added_at": "2024-06-27 03:24:59",
@@ -3159,6 +3159,22 @@
     {
       "added_at": "2024-06-27 03:24:59",
       "album": {
+        "name": "Excessive Outburst of Depravity",
+        "url": "https://open.spotify.com/album/1rRn36ZY7U5Phm8u3854d7"
+      },
+      "artists": [
+        {
+          "name": "Protector",
+          "url": "https://open.spotify.com/artist/4LfucwWOrS5NHbgxwtYbH3"
+        }
+      ],
+      "duration_ms": 253346,
+      "name": "Perpetual Blood Oath",
+      "url": "https://open.spotify.com/track/1uH1Vkb8bPqgHVdXUMm9Zl"
+    },
+    {
+      "added_at": "2024-06-27 03:24:59",
+      "album": {
         "name": "The Descending",
         "url": "https://open.spotify.com/album/5wMW5X0vaDerQZxctW50KF"
       },
@@ -3187,22 +3203,6 @@
       "duration_ms": 183320,
       "name": "Witching Hour",
       "url": "https://open.spotify.com/track/1V36Hxv16qWjGvnK2FV4cO"
-    },
-    {
-      "added_at": "2024-06-27 03:24:59",
-      "album": {
-        "name": "Excessive Outburst of Depravity",
-        "url": "https://open.spotify.com/album/1rRn36ZY7U5Phm8u3854d7"
-      },
-      "artists": [
-        {
-          "name": "Protector",
-          "url": "https://open.spotify.com/artist/4LfucwWOrS5NHbgxwtYbH3"
-        }
-      ],
-      "duration_ms": 253346,
-      "name": "Perpetual Blood Oath",
-      "url": "https://open.spotify.com/track/1uH1Vkb8bPqgHVdXUMm9Zl"
     },
     {
       "added_at": "2024-06-27 03:24:59",

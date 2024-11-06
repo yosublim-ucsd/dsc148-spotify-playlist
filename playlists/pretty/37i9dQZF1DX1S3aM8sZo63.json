@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ponte cursi con las canciones m\u00e1s rom\u00e1nticas! Juli\u00f3n \u00c1lvarez en portada.",
-  "num_followers": 989870,
+  "num_followers": 990197,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,18 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Bebe Dame",
-        "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
+        "name": "Y Que Quede Claro",
+        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 271861,
-      "name": "Bebe Dame",
-      "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
+      "duration_ms": 194360,
+      "name": "De Ti Exclusivo",
+      "url": "https://open.spotify.com/track/2GQuP8ZrDoi38bwAbsyAtZ"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -291,18 +287,22 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Y Que Quede Claro",
-        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
+        "name": "Bebe Dame",
+        "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 194360,
-      "name": "De Ti Exclusivo",
-      "url": "https://open.spotify.com/track/2GQuP8ZrDoi38bwAbsyAtZ"
+      "duration_ms": 271861,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
+        "name": "Historia sin fin",
+        "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
       },
       "artists": [
         {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
+      "duration_ms": 184706,
+      "name": "Historia sin fin",
+      "url": "https://open.spotify.com/track/7LMuasDvRrwulpdKMyukDl"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -639,34 +639,18 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Historia sin fin",
-        "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
       "artists": [
         {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
         }
       ],
-      "duration_ms": 184706,
-      "name": "Historia sin fin",
-      "url": "https://open.spotify.com/track/7LMuasDvRrwulpdKMyukDl"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
-        "name": "Y Que Quede Claro",
-        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 248240,
-      "name": "Sobre Mis Pies",
-      "url": "https://open.spotify.com/track/0bCpwmdqIJhcCkf6P1zNSa"
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -691,6 +675,22 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
+        "name": "Y Que Quede Claro",
+        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 248240,
+      "name": "Sobre Mis Pies",
+      "url": "https://open.spotify.com/track/0bCpwmdqIJhcCkf6P1zNSa"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
         "name": "Consejos Gratis",
         "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "La Barda Me Vol\u00e9",
-        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Nadie Como Tu\u0301",
-      "url": "https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "Sue\u00f1o Guajiro",
         "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 183800,
       "name": "Sue\u00f1o Guajiro",
       "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "La Barda Me Vol\u00e9",
+        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Nadie Como Tu\u0301",
+      "url": "https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Qu\u00e9 Onda Perdida",
-        "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 239637,
-      "name": "Qu\u00e9 Onda Perdida",
-      "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "Huele A Peligro",
         "url": "https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG"
       },
@@ -839,18 +819,22 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Situaciones",
-        "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
+        "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/4NT68hH4qv8qFOaWI8unla"
       },
       "artists": [
         {
-          "name": "Palomo",
-          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda Coloso",
+          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
         }
       ],
-      "duration_ms": 233706,
-      "name": "De Uno Y De Todos Los Modos - Version Bolero",
-      "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
+      "duration_ms": 226815,
+      "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
+      "url": "https://open.spotify.com/track/6jwctT0wtZdG0fbLNVq5Jk"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -871,6 +855,22 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 210932,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
       },
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
+        "name": "Situaciones",
+        "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
       },
       "artists": [
         {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
         }
       ],
-      "duration_ms": 210932,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
+      "duration_ms": 233706,
+      "name": "De Uno Y De Todos Los Modos - Version Bolero",
+      "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Aqu\u00ed Casual",
-        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "Bonito y Bello",
-      "url": "https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "Mi Complemento",
         "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 201691,
       "name": "Mi Complemento",
       "url": "https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "Aqu\u00ed Casual",
+        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "Bonito y Bello",
+      "url": "https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "On The Road",
-        "url": "https://open.spotify.com/album/7eKycNamZrXXB4DGBPQ8sZ"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 152243,
-      "name": "\u00bfQu\u00e9 Ser\u00e1 De Mi Ex?",
-      "url": "https://open.spotify.com/track/0gCfxoxgd6RhJdbHV48ft4"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "Nadie Como T\u00fa",
         "url": "https://open.spotify.com/album/1E96ajg4gmUDbxbYGR6pBW"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 197426,
       "name": "Nadie Como T\u00fa",
       "url": "https://open.spotify.com/track/4rLtVsNQOzEgJkjeTU2Nda"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/7eKycNamZrXXB4DGBPQ8sZ"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 152243,
+      "name": "\u00bfQu\u00e9 Ser\u00e1 De Mi Ex?",
+      "url": "https://open.spotify.com/track/0gCfxoxgd6RhJdbHV48ft4"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/7bvOvntSA0iqc0BmOy8wz2"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "En Peligro de Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/1Utd9DbmWNHWjEuzItBmRX"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
         "name": "En Vida",
         "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 201084,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/7bvOvntSA0iqc0BmOy8wz2"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "En Peligro de Extinci\u00f3n",
-      "url": "https://open.spotify.com/track/1Utd9DbmWNHWjEuzItBmRX"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/7bvOvntSA0iqc0BmOy8wz2"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Escondidos",
+      "url": "https://open.spotify.com/track/2v2totojcWdvtjy7lAvl9o"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/5YRqVAEYjDqnzWkiqwJibI"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 163654,
       "name": "Mas Alla Del Sol",
       "url": "https://open.spotify.com/track/21Yn3cSdzaPQuOEs2kt4jQ"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/7bvOvntSA0iqc0BmOy8wz2"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 191893,
-      "name": "Escondidos",
-      "url": "https://open.spotify.com/track/2v2totojcWdvtjy7lAvl9o"
     }
   ],
   "unique_name": "Banda Rom\u00e1ntica",

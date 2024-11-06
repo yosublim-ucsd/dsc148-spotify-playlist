@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: OCHA\u221eME",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: DEATHRO",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -340,7 +340,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 170426,
       "name": "Andy",
       "url": "https://open.spotify.com/track/3JnVplRv5OFdNP8fHIZLYy"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 186706,
       "name": "BEK",
       "url": "https://open.spotify.com/track/4XADQSC4BZQle5UYYkGhSY"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 176246,
       "name": "Boarding Time (feat. PEE WEE GASKINS)",
       "url": "https://open.spotify.com/track/48QkR16zrg3MuUysTvZljm"
@@ -2134,6 +2134,24 @@
       "duration_ms": 187566,
       "name": "Dirty Party",
       "url": "https://open.spotify.com/track/2UixLInT8vsLbefK63BXLB"
+    },
+    {
+      "album": {
+        "name": "SKA! SKA! SKA!?",
+        "url": "https://open.spotify.com/album/1SXRbcrIquZ3UNLsHP7rWA"
+      },
+      "artists": [
+        {
+          "name": "skaskaskaclub",
+          "url": "https://open.spotify.com/artist/4fYQktTqLvpdHtd8Ue87Fq"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163733,
+      "name": "DIVE!!!",
+      "url": "https://open.spotify.com/track/1pc34YhP1c2OYOzEG3eUEQ"
     },
     {
       "album": {
@@ -3514,6 +3532,24 @@
       "duration_ms": 181891,
       "name": "Hey! Sunny!",
       "url": "https://open.spotify.com/track/0ka2Fx1ZmC4ZJBiP2cmVEH"
+    },
+    {
+      "album": {
+        "name": "HIGHVVAY",
+        "url": "https://open.spotify.com/album/5AeXizf9RP1WzYbQOiBroC"
+      },
+      "artists": [
+        {
+          "name": "Deathro",
+          "url": "https://open.spotify.com/artist/2XYYDTGmxUbg4nDxaOB1Yz"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157655,
+      "name": "HIGHVVAY",
+      "url": "https://open.spotify.com/track/11gjllEp2CAfghW39PeAfG"
     },
     {
       "album": {
@@ -10762,6 +10798,24 @@
       "duration_ms": 263472,
       "name": "\u3058\u3083\u3058\u3083\u99ac\u306b\u3055\u305b\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/6qV4xNwIt7qF0gO6yW086K"
+    },
+    {
+      "album": {
+        "name": "\u305d\u3046\u3044\u3046\u65e5\u3082\u3042\u308b",
+        "url": "https://open.spotify.com/album/5K2pchdWhbsKvPFa9bxDIU"
+      },
+      "artists": [
+        {
+          "name": "The Docci",
+          "url": "https://open.spotify.com/artist/4wqVGKK5aqe2Gzp8Up1jeC"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131896,
+      "name": "\u305d\u3046\u3044\u3046\u65e5\u3082\u3042\u308b",
+      "url": "https://open.spotify.com/track/0r8wdvoEP9RO17HYvYFnQJ"
     },
     {
       "album": {

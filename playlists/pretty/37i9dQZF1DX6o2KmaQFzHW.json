@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Soledad",
-  "num_followers": 191835,
+  "num_followers": 191850,
   "original_name": "Folclore Argentino",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-10-22 19:01:40",
       "album": {
-        "name": "De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/6TMGYks1T9yjraH2TIYzm0"
-      },
-      "artists": [
-        {
-          "name": "Argentino Luna",
-          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Zamba para Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/7JG9cdNOvJPwUu5sjEfsL0"
-    },
-    {
-      "added_at": "2024-10-22 19:01:40",
-      "album": {
         "name": "Balderrama",
         "url": "https://open.spotify.com/album/4SYoVh3GuXBVkvxkcYuinz"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 250801,
       "name": "Balderrama",
       "url": "https://open.spotify.com/track/6OrNV36QIdZJDOSbV21fYC"
+    },
+    {
+      "added_at": "2024-10-22 19:01:40",
+      "album": {
+        "name": "De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/6TMGYks1T9yjraH2TIYzm0"
+      },
+      "artists": [
+        {
+          "name": "Argentino Luna",
+          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Zamba para Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/7JG9cdNOvJPwUu5sjEfsL0"
     },
     {
       "added_at": "2024-10-22 19:01:40",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-10-22 19:01:40",
       "album": {
-        "name": "Monte Adentro",
-        "url": "https://open.spotify.com/album/6LNqyYmm1jIyMCJcUEBBfR"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Ayala El Mens\u00fa",
-          "url": "https://open.spotify.com/artist/6VBeD0MxrxKKw7FDK8FwhB"
-        }
-      ],
-      "duration_ms": 123146,
-      "name": "El Gualamb\u00e1o - Grabaci\u00f3n Original 1959",
-      "url": "https://open.spotify.com/track/6C47UVs9GGfx43i03ZThIr"
-    },
-    {
-      "added_at": "2024-10-22 19:01:40",
-      "album": {
         "name": "Jorge Cafrune 18 temas",
         "url": "https://open.spotify.com/album/4kxlEuKNnVnUkuLM2EpY9k"
       },
@@ -1727,18 +1711,18 @@
     {
       "added_at": "2024-10-22 19:01:40",
       "album": {
-        "name": "Toda Una Vida",
-        "url": "https://open.spotify.com/album/121Kqyyc83tndCB8NWb9Gt"
+        "name": "Monte Adentro",
+        "url": "https://open.spotify.com/album/6LNqyYmm1jIyMCJcUEBBfR"
       },
       "artists": [
         {
-          "name": "El Chango Nieto",
-          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+          "name": "Ram\u00f3n Ayala El Mens\u00fa",
+          "url": "https://open.spotify.com/artist/6VBeD0MxrxKKw7FDK8FwhB"
         }
       ],
-      "duration_ms": 206693,
-      "name": "Adonde Est\u00e1n los P\u00e1jaros Que Mueren",
-      "url": "https://open.spotify.com/track/01Cmz4ZEG6PQdSKBrAdf8m"
+      "duration_ms": 123146,
+      "name": "El Gualamb\u00e1o - Grabaci\u00f3n Original 1959",
+      "url": "https://open.spotify.com/track/6C47UVs9GGfx43i03ZThIr"
     },
     {
       "added_at": "2024-10-22 19:01:40",
@@ -1755,6 +1739,22 @@
       "duration_ms": 190333,
       "name": "Llorar\u00e9",
       "url": "https://open.spotify.com/track/3URJ8j0Z8yAXTigCzhvYrV"
+    },
+    {
+      "added_at": "2024-10-22 19:01:40",
+      "album": {
+        "name": "Toda Una Vida",
+        "url": "https://open.spotify.com/album/121Kqyyc83tndCB8NWb9Gt"
+      },
+      "artists": [
+        {
+          "name": "El Chango Nieto",
+          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "Adonde Est\u00e1n los P\u00e1jaros Que Mueren",
+      "url": "https://open.spotify.com/track/01Cmz4ZEG6PQdSKBrAdf8m"
     },
     {
       "added_at": "2024-10-22 19:01:40",

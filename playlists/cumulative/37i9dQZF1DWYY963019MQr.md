@@ -4,7 +4,7 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-98 songs - 5 hr 27 min
+99 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Both Sides Now](https://open.spotify.com/track/7Meqm9jgQXhh08vdnbrvfY) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [Cream](https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy) | 2:18 | 2022-10-13 |  |
 | [But Not For Me](https://open.spotify.com/track/4cpnWeyzfOASkuCQrGtCWs) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Kenny Burrell](https://open.spotify.com/album/7fojK26IFekgUBnmPD0s7l) | 3:50 | 2022-10-13 | 2022-11-25 |
 | [By Then](https://open.spotify.com/track/4UoKhh4KjZfFhbNh1EuyKv) | [Joe T\. Harris](https://open.spotify.com/artist/4iE2uZjQBe6KKF49DtFcD3) | [By Then](https://open.spotify.com/album/4um3mquSODjjiVy2KESC86) | 2:37 | 2022-10-13 |  |
+| [Candlelight](https://open.spotify.com/track/4g4fVxKcrS1cv444N4QYzW) | [Lyzone](https://open.spotify.com/artist/1DD2cWVdKOniNG9iiRB8jR) | [Candlelight](https://open.spotify.com/album/1axFPU0WRnqSENiLSG57Xw) | 1:33 | 2024-11-05 |  |
 | [Candlelight](https://open.spotify.com/track/1C57YMNutdZLFayXh2ZXHG) | [Samio](https://open.spotify.com/artist/0kYSqcF80y3iL7leXg9Gt7) | [Candlelight](https://open.spotify.com/album/3tsZCGdzSDK4ertVgrndhh) | 3:23 | 2022-10-27 |  |
 | [Danny Boy](https://open.spotify.com/track/0X4mnyUksaQJy9VG8GjJOx) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535) | [At First Light](https://open.spotify.com/album/0NrIhUxqXHbIR75LWZNURP) | 3:40 | 2023-03-16 | 2023-09-16 |
 | [Danny Boy \(Londonderry Air\)](https://open.spotify.com/track/1vhdWXJNjlsgaSRdSpqsYh) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:51 | 2022-10-13 |  |

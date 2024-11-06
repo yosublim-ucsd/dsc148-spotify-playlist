@@ -1741,6 +1741,24 @@
     },
     {
       "album": {
+        "name": "Vampire (Scary String Quartet Version)",
+        "url": "https://open.spotify.com/album/3HEO526E82jR3GyMGf5Mzz"
+      },
+      "artists": [
+        {
+          "name": "Zymphonica",
+          "url": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220687,
+      "name": "Vampire - Scary String Quartet Version",
+      "url": "https://open.spotify.com/track/2KpLqvnKKlmw0tatXBBcsX"
+    },
+    {
+      "album": {
         "name": "Prokofiev: Symphony No. 6, Op. 111 & Waltz Suite, Op. 110",
         "url": "https://open.spotify.com/album/5qN1KUt1e6YGtbNN8Kn8RX"
       },

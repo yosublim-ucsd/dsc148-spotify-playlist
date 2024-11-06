@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,147 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,173 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 69 | [Tau Special](https://open.spotify.com/track/0ngntzXMh8Z7scng196dWU) | [The Movers](https://open.spotify.com/artist/2X07VlWN9IlypdVxQqtwY6) | [The Movers \- Vol\. 1 \- 1970\-1976 \(Analog Africa No\. 35\)](https://open.spotify.com/album/01vGEXvg6XS0ptkIBLAby4) | 2:51 |
 | 70 | [Sr\. Tigre \- French Braids Rework](https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Sr\. Tigre \(French Braids Rework\)](https://open.spotify.com/album/4iRAsml6uMPqEiTQZ0zmDp) | 3:32 |
 | 71 | [Mentira \(Chega De Mentira\)](https://open.spotify.com/track/611fDM69jrdLN8bIdFcAIb) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Previsão Do Tempo](https://open.spotify.com/album/4SrPTE9sLJTE8mpeWFUhRL) | 3:43 |
-| 72 | [Tenha Fé, Pois Amanhã um Lindo Dia Vai Nascer](https://open.spotify.com/track/3KVDM9shwWEbLsRpimCuTn) | [Os Originais Do Samba](https://open.spotify.com/artist/4gKqxjR0MkEKjqvO3Ctvpg) | [Exportação](https://open.spotify.com/album/77jGZCMKllauVI0zSExKFn) | 2:47 |
+| 72 | [Esperar Pra Ver](https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Cartão Postal](https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN) | 2:08 |
 | 73 | [Disco Sole](https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:23 |
-| 74 | [Esperar Pra Ver](https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Cartão Postal](https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN) | 2:08 |
+| 74 | [Tenha Fé, Pois Amanhã um Lindo Dia Vai Nascer](https://open.spotify.com/track/3KVDM9shwWEbLsRpimCuTn) | [Os Originais Do Samba](https://open.spotify.com/artist/4gKqxjR0MkEKjqvO3Ctvpg) | [Exportação](https://open.spotify.com/album/77jGZCMKllauVI0zSExKFn) | 2:47 |
 | 75 | [Sevda Çiçeği](https://open.spotify.com/track/4vmztiqUDwZGYHogu7RJ5e) | [Fikret Kızılok](https://open.spotify.com/artist/6RXvZtTyld421VPmJtLqkL) | [Zaman Zaman](https://open.spotify.com/album/4cMwQJZAYmmK6LXB4flKvL) | 4:25 |
 | 76 | [Agúzate](https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Agúzate](https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4) | 6:17 |
 | 77 | [Gente Aberta](https://open.spotify.com/track/0MT6ecgiLweuA4nd9NTGll) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 2:20 |

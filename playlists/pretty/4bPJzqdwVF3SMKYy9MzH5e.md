@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,002 songs - 4 day 11 hr 31 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,004 songs - 4 day 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2002,13 +2002,15 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1992 | [SPIJKERBOM](https://open.spotify.com/track/3vK4A2BPFWDe4FatXwQhdN) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [SPIJKERBOM](https://open.spotify.com/album/1Xrv1azKd3OXiUjgm7BP5W) | 2:48 |
 | 1993 | [mr useless](https://open.spotify.com/track/1Ar2McJ98hNvgsHlxLTPQc) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [Club Shy \(extended\)](https://open.spotify.com/album/1ojjeSCH0gg7T5StxFJx7g) | 2:29 |
 | 1994 | [3ISBÄR](https://open.spotify.com/track/3d9JNjZC5rIWLcd0knqvla) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [3ISBÄR](https://open.spotify.com/album/6K02nZ7YNOePwWQIBkFdhk) | 4:36 |
-| 1995 | [4eva](https://open.spotify.com/track/6c0Vmwoz6Dgn0sZP3ZMO07) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [Club Shy \(extended\)](https://open.spotify.com/album/1ojjeSCH0gg7T5StxFJx7g) | 2:20 |
-| 1996 | [4K](https://open.spotify.com/track/1BIXs6CdkPRLytuqoXs6XN) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [4K](https://open.spotify.com/album/4C4pswO5xUzT3S2pN94LNk) | 3:21 |
-| 1997 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 |
-| 1998 | [Tuwi Tuwi](https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Tuwi Tuwi](https://open.spotify.com/album/2TLl92KX0u6TNGtcMGD4EY) | 2:15 |
-| 1999 | [HAY ANABEL](https://open.spotify.com/track/0vV04Rids5cIbton3RAi2n) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY ANABEL](https://open.spotify.com/album/0XMyL1XVeP3Zjd3mwHoRqY) | 1:42 |
-| 2000 | [Sientate en Ese Deo](https://open.spotify.com/track/4o9DRmcnHX2V4aPHinhfrP) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [El Hombre](https://open.spotify.com/album/5hzbgBTxfikktf9cOvggGF) | 3:41 |
-| 2001 | [Kinda Like It That Way](https://open.spotify.com/track/3sJZX0uLZkJYXOsULRJAq7) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 2:51 |
-| 2002 | [Leni \(Crystal Castles vs GoodBooks\)](https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH) | [GoodBooks](https://open.spotify.com/artist/0pwItbAKmeSTovWzxzkkbg), [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Control Freaks \(The Remixes\)](https://open.spotify.com/album/4lPBSP3DIiXn2ktREAsoHw) | 4:16 |
+| 1995 | [flasbak](https://open.spotify.com/track/3nh4njq5Yhor6qYF7ACkgI) | [moduz](https://open.spotify.com/artist/56WVh8EkeVz4N8w3EkBGA8) | [funky beats](https://open.spotify.com/album/7Anym5u2NhKEuslfyl7UFr) | 1:07 |
+| 1996 | [4eva](https://open.spotify.com/track/6c0Vmwoz6Dgn0sZP3ZMO07) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [Club Shy \(extended\)](https://open.spotify.com/album/1ojjeSCH0gg7T5StxFJx7g) | 2:20 |
+| 1997 | [4K](https://open.spotify.com/track/1BIXs6CdkPRLytuqoXs6XN) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [4K](https://open.spotify.com/album/4C4pswO5xUzT3S2pN94LNk) | 3:21 |
+| 1998 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 |
+| 1999 | [Tuwi Tuwi](https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Tuwi Tuwi](https://open.spotify.com/album/2TLl92KX0u6TNGtcMGD4EY) | 2:15 |
+| 2000 | [HAY ANABEL](https://open.spotify.com/track/0vV04Rids5cIbton3RAi2n) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY ANABEL](https://open.spotify.com/album/0XMyL1XVeP3Zjd3mwHoRqY) | 1:42 |
+| 2001 | [Sientate en Ese Deo](https://open.spotify.com/track/4o9DRmcnHX2V4aPHinhfrP) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [El Hombre](https://open.spotify.com/album/5hzbgBTxfikktf9cOvggGF) | 3:41 |
+| 2002 | [Kinda Like It That Way](https://open.spotify.com/track/3sJZX0uLZkJYXOsULRJAq7) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 2:51 |
+| 2003 | [Leni \(Crystal Castles vs GoodBooks\)](https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH) | [GoodBooks](https://open.spotify.com/artist/0pwItbAKmeSTovWzxzkkbg), [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Control Freaks \(The Remixes\)](https://open.spotify.com/album/4lPBSP3DIiXn2ktREAsoHw) | 4:16 |
+| 2004 | [Fast Life](https://open.spotify.com/track/5u1vw4nmCG8iuerg6ppBf0) | [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5), [India Shan](https://open.spotify.com/artist/5U7ed4eqjReC376kSJKfs8) | [Fast Life](https://open.spotify.com/album/0yJzvNLSI3clU0lZGoqrVn) | 2:21 |
 
-Snapshot ID: `AAADhVDW8z3L6HFn4EhXnEvd1NHN0w3X`
+Snapshot ID: `AAADiL8Z1k8Jg4689J/ktDt6F58sMksr`

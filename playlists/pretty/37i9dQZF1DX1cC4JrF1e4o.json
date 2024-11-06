@@ -1,6 +1,6 @@
 {
   "description": "Timeless and smooth. Here are your favorite crooners. Cover: Nat King Cole. ",
-  "num_followers": 430011,
+  "num_followers": 430152,
   "original_name": "Crooner Classics",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-07-15 15:23:26",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
-    },
-    {
-      "added_at": "2024-07-15 15:23:26",
-      "album": {
         "name": "Chet Baker Sings",
         "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 215466,
       "name": "It's Always You - Vocal Version",
       "url": "https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe"
+    },
+    {
+      "added_at": "2024-07-15 15:23:26",
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
     },
     {
       "added_at": "2024-07-15 15:23:26",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-07-15 15:23:26",
       "album": {
-        "name": "Blossom Dearie (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 133666,
-      "name": "'Deed I Do",
-      "url": "https://open.spotify.com/track/2dLM74n8z8UgW9NQhSbhm1"
-    },
-    {
-      "added_at": "2024-07-15 15:23:26",
-      "album": {
         "name": "Don't Go To Strangers",
         "url": "https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 230066,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n"
+    },
+    {
+      "added_at": "2024-07-15 15:23:26",
+      "album": {
+        "name": "Blossom Dearie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 133666,
+      "name": "'Deed I Do",
+      "url": "https://open.spotify.com/track/2dLM74n8z8UgW9NQhSbhm1"
     },
     {
       "added_at": "2024-07-15 15:23:26",

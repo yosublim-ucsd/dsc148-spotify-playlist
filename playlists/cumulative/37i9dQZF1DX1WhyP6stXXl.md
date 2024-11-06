@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Cloudy June
 
-500 songs - 1 day 1 hr 18 min
+501 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,7 +424,8 @@
 | [SUPERSCAR](https://open.spotify.com/track/5GGA54O0NQK6Bo7nI0cz5k) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [SUPERSCAR](https://open.spotify.com/album/2pElP8JopnqWCAEujfbhBL) | 3:14 | 2024-10-24 |  |
 | [Swallow My Tears](https://open.spotify.com/track/2EZd0TdGBQGy0yZB0DEh93) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Swallow My Tears](https://open.spotify.com/album/0tDIhm78N9TV435gJtj9R8) | 2:54 | 2024-10-24 |  |
 | [Sweet Delusion](https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Sweet Delusion](https://open.spotify.com/album/69voT9oEaLrFUzfJGUMwLZ) | 2:52 | 2024-10-17 |  |
-| [Sweet Nothing](https://open.spotify.com/track/1uAZhciIvjilQJWg4e30w4) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I'm Not Always Sad, Sometimes I'm Angry](https://open.spotify.com/album/4tFDkjZhcwOAiZAsGBcTtO) | 3:20 | 2024-10-31 |  |
+| [Sweet Nothing](https://open.spotify.com/track/1Sh5Sch6XuUojE5eH0innu) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I'm Not Always Sad, Sometimes I'm Angry](https://open.spotify.com/album/4QYNec3HTSxq2ghYSrEBv2) | 3:20 | 2024-11-05 |  |
+| [Sweet Nothing](https://open.spotify.com/track/1uAZhciIvjilQJWg4e30w4) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I'm Not Always Sad, Sometimes I'm Angry](https://open.spotify.com/album/4tFDkjZhcwOAiZAsGBcTtO) | 3:20 | 2024-10-31 | 2024-11-06 |
 | [Sweet Oblivion](https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Sweet Oblivion](https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118) | 2:15 | 2024-07-18 | 2024-08-16 |
 | [Swimming Pool](https://open.spotify.com/track/2EJ8biaqSmbFay6DANx7gs) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Swimming Pool](https://open.spotify.com/album/3hcMcEo5O1i707MVen72zi) | 3:24 | 2024-08-29 | 2024-09-27 |
 | [Sympathy is a knife featuring ariana grande](https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:34 | 2024-10-10 |  |

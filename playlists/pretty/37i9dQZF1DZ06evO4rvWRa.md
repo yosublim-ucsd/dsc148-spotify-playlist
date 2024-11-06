@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,640,471 likes - 51 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,640,506 likes - 51 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 50 | [Team Side Feat\. RCB](https://open.spotify.com/track/4YHA0wXklru86h1N211Ywh) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Team Side Feat\. RCB](https://open.spotify.com/album/6bxJPyjZuWGRxE825Wy2wk) | 3:00 |
 | 51 | [Yesterday](https://open.spotify.com/track/0CSLSbNaWiSnaXQ5h5lmWm) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Walkerworld](https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0) | 2:41 |
 
-Snapshot ID: `Zya9AAAAAACYxNoPBUTwy7ciXdTBAyll`
+Snapshot ID: `ZygOgAAAAAAEvEghbtSCQqeI/GxEifoy`

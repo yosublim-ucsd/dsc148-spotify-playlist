@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 40248,
+  "num_followers": 40250,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAABoRYM631MkU7afyxGFjSEb",
+  "snapshot_id": "ZygOgAAAAACGyL+8hvEDGpvgwJfisWng",
   "tracks": [
     {
       "added_at": null,
@@ -167,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tap In",
-        "url": "https://open.spotify.com/album/3XpOIE22NDEl5VSguQGv2h"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 139413,
-      "name": "Tap In",
-      "url": "https://open.spotify.com/track/4Hpib09wXgD84w4uwTPnYD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Immaculate",
         "url": "https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 154400,
       "name": "Immaculate",
       "url": "https://open.spotify.com/track/21XJd63KiArnOgo39sJezL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tap In",
+        "url": "https://open.spotify.com/album/3XpOIE22NDEl5VSguQGv2h"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 139413,
+      "name": "Tap In",
+      "url": "https://open.spotify.com/track/4Hpib09wXgD84w4uwTPnYD"
     },
     {
       "added_at": null,
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
-        "url": "https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 189496,
-      "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kings & Queens, Pt. 2 (feat. Lauv & Saweetie)",
         "url": "https://open.spotify.com/album/2kzL3gkr5jufUyowwonTlf"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 175992,
       "name": "Kings & Queens, Pt. 2 (feat. Lauv & Saweetie)",
       "url": "https://open.spotify.com/track/5rB5mfeFCkUI3nkHQMMZ3K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
+        "url": "https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 189496,
+      "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn"
     },
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 152241,
-      "name": "Baby Boo",
-      "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B*tch From Da Souf (Remix)",
         "url": "https://open.spotify.com/album/3o03DZkcxR0OzpsPArhDxy"
       },
@@ -699,22 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do It For The Bay",
-        "url": "https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60"
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
       },
       "artists": [
         {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         },
         {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 118551,
-      "name": "Do It For The Bay",
-      "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
+      "duration_ms": 152241,
+      "name": "Baby Boo",
+      "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
     },
     {
       "added_at": null,
@@ -739,6 +719,26 @@
       "duration_ms": 214536,
       "name": "Move (feat. Saweetie)",
       "url": "https://open.spotify.com/track/0DcjZHcCkc8DlRnZI0hagv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do It For The Bay",
+        "url": "https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 118551,
+      "name": "Do It For The Bay",
+      "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
     },
     {
       "added_at": null,

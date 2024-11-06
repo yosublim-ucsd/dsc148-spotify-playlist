@@ -299,6 +299,24 @@
     },
     {
       "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290616,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
+    },
+    {
+      "album": {
         "name": "Apotoma",
         "url": "https://open.spotify.com/album/06MswgDdAz1qxh97su2gCq"
       },
@@ -489,6 +507,24 @@
     },
     {
       "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
+    },
+    {
+      "album": {
         "name": "Beckham",
         "url": "https://open.spotify.com/album/1GNQ8Lr4qLa6XTTm7Xuwgw"
       },
@@ -600,6 +636,24 @@
       "duration_ms": 170800,
       "name": "Bolide Noir",
       "url": "https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE"
+    },
+    {
+      "album": {
+        "name": "Born With a Broken Heart",
+        "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208956,
+      "name": "Born With a Broken Heart",
+      "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
     },
     {
       "album": {
@@ -900,7 +954,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 243133,
       "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
       "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA"
@@ -1126,6 +1180,24 @@
       "duration_ms": 160218,
       "name": "Europapa",
       "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
+    },
+    {
+      "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234997,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
     },
     {
       "album": {
@@ -1374,7 +1446,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 239320,
       "name": "Greatest Day",
       "url": "https://open.spotify.com/track/3LF54Y7TxU5vy3YKAIfiQ4"
@@ -1475,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "Her Eyes",
+        "url": "https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215476,
+      "name": "Her Eyes",
+      "url": "https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B"
+    },
+    {
+      "album": {
         "name": "Pride Hits 2024",
         "url": "https://open.spotify.com/album/5drC6dUcECNvDhc0XpVFue"
       },
@@ -1552,7 +1642,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -1588,7 +1678,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 238866,
       "name": "I'm Gonna Miss You",
       "url": "https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj"
@@ -1606,7 +1696,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 304674,
       "name": "Ikaria",
       "url": "https://open.spotify.com/track/0Od1JTAg6xoTl5cQZozNLG"
@@ -1642,6 +1732,10 @@
         {
           "name": "Fi Vita Sigma",
           "url": "https://open.spotify.com/artist/1tHNXjqv2f4qfAldD1hF5I"
+        },
+        {
+          "name": "Ixodotis",
+          "url": "https://open.spotify.com/artist/2lxAO4k1GdoEMQRbdpboME"
         }
       ],
       "date_added": "2024-07-01",
@@ -1650,6 +1744,24 @@
       "duration_ms": 409407,
       "name": "Kai Irthe Pali",
       "url": "https://open.spotify.com/track/1R5MdJm6JiHXjJPxUJ9w4F"
+    },
+    {
+      "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237908,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
     },
     {
       "album": {
@@ -1726,6 +1838,24 @@
       "duration_ms": 172153,
       "name": "LALALALA",
       "url": "https://open.spotify.com/track/6cStn8ifAT1MkQoDHPd6YP"
+    },
+    {
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/61FSTdvDNl2fNqdGKTrXib"
+      },
+      "artists": [
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222786,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq"
     },
     {
       "album": {
@@ -2155,6 +2285,44 @@
     },
     {
       "album": {
+        "name": "Move (feat. Camila Cabello)",
+        "url": "https://open.spotify.com/album/1Jo5dOD8bFEWnPIXKlORVp"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Stryv",
+          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Malachiii",
+          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+        },
+        {
+          "name": "Orso",
+          "url": "https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180236,
+      "name": "Move (feat. Camila Cabello)",
+      "url": "https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG"
+    },
+    {
+      "album": {
         "name": "Nosos Tou Realismou",
         "url": "https://open.spotify.com/album/5G91ijM2CCIjnRrcDFziB7"
       },
@@ -2316,7 +2484,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 226600,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
@@ -2411,6 +2579,24 @@
     },
     {
       "album": {
+        "name": "Orizontas",
+        "url": "https://open.spotify.com/album/25UflpnoKjtYc77eMUrIJo"
+      },
+      "artists": [
+        {
+          "name": "Cilia Katrali",
+          "url": "https://open.spotify.com/artist/3zlHrTvjiDIL22SZeVhsXy"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "Orizontas",
+      "url": "https://open.spotify.com/track/0pgIOA5FWtN3DRqMRCwsmu"
+    },
+    {
+      "album": {
         "name": "Os To Telos",
         "url": "https://open.spotify.com/album/169RnGnp5X9WurYUJzn3Et"
       },
@@ -2448,7 +2634,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 183653,
       "name": "Oscar Winning Tears.",
       "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
@@ -2602,6 +2788,36 @@
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+    },
+    {
+      "album": {
+        "name": "Smooth Kai Hardcorila",
+        "url": "https://open.spotify.com/album/39evk8deOXlmmUleUs5YzZ"
+      },
+      "artists": [
+        {
+          "name": "Thitis",
+          "url": "https://open.spotify.com/artist/2JQCG349xGvlhwEkK4qWoz"
+        },
+        {
+          "name": "Sadomas",
+          "url": "https://open.spotify.com/artist/3eZXDyJChvCDzsAGtNeGLP"
+        },
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310967,
+      "name": "Proti Sfaira",
+      "url": "https://open.spotify.com/track/1KQuIL6OzY8L2qQZGtpPB4"
     },
     {
       "album": {
@@ -2830,7 +3046,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 197542,
       "name": "Silverlines - prod. Labrinth",
       "url": "https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol"
@@ -2870,7 +3086,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 245493,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
@@ -2914,7 +3130,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 154126,
       "name": "Sympathy is a knife featuring ariana grande",
       "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
@@ -2932,7 +3148,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 299978,
       "name": "S\u00e3o Paulo (No Crowd Version)",
       "url": "https://open.spotify.com/track/12z0RTOZyxLiAQf3mub7x8"
@@ -3042,6 +3258,24 @@
       "duration_ms": 292478,
       "name": "Taxidi",
       "url": "https://open.spotify.com/track/6OeMRweMBxOOsH0jRZZcHB"
+    },
+    {
+      "album": {
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/110skZzsCFyckMdjupeIBX"
+      },
+      "artists": [
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174723,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ"
     },
     {
       "album": {
@@ -3294,7 +3528,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 141226,
       "name": "Tosa Kalokairia",
       "url": "https://open.spotify.com/track/5cERWuNRghbSmXyv4pGX5v"
@@ -3338,6 +3572,24 @@
       "duration_ms": 303333,
       "name": "Tragedy",
       "url": "https://open.spotify.com/track/6UXXeFqMBGiqjkzQzkMT3E"
+    },
+    {
+      "album": {
+        "name": "TR\u00cbNDELIN\u00cb",
+        "url": "https://open.spotify.com/album/0Ld8iFuTStdrjN0MgeyiSB"
+      },
+      "artists": [
+        {
+          "name": "CHICO",
+          "url": "https://open.spotify.com/artist/77b7cwrBvXhEUenbuiByjs"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231960,
+      "name": "TR\u00cbNDELIN\u00cb",
+      "url": "https://open.spotify.com/track/5JvnfdWIxhRSwFWwclDSF5"
     },
     {
       "album": {

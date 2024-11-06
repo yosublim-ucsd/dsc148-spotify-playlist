@@ -2,9 +2,9 @@
 
 ### [RADAR AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWYIJ3HxqIxIJ)
 
-> Local artists you need to watch, handpicked by our editors\. Cover: Fazerdaze
+> Local artists you need to watch, handpicked by our editors\. Cover: Young Franco
 
-356 songs - 18 hr 28 min
+362 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Bad Dreams](https://open.spotify.com/track/3DKr7g8vp6W6XE6jFvjleO) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Timezones](https://open.spotify.com/album/5V126SDuq0XEspGTPTA50q) | 2:52 | 2024-10-01 |  |
 | [BAD LIKE RIRI](https://open.spotify.com/track/1rnTvRuAHx6NRcpC4fSXeg) | [Jesswar](https://open.spotify.com/artist/0A3iezHvtPZ8HxHn4RMmtl), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [BAD LIKE RIRI](https://open.spotify.com/album/6plQgIsPgXrRsIa0zZCe5r) | 3:37 | 2021-10-15 | 2022-08-16 |
 | [Bang Bang](https://open.spotify.com/track/1jpf91ngq4RrkajGFOqaGt) | [AKOSIA](https://open.spotify.com/artist/0Oe5XB0pjnOZZo8snWSHoL) | [Bang Bang](https://open.spotify.com/album/78Df0kziilAoIaCTCvJtdA) | 4:03 | 2022-08-28 | 2023-03-02 |
+| [Batsh\*t](https://open.spotify.com/track/2a1nbVmBuus5wF6Bkq8ZFE) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Batsh\*t](https://open.spotify.com/album/3MNa4RF0WImVVeALBvhXE8) | 2:18 | 2024-11-05 |  |
 | [Believe](https://open.spotify.com/track/7KSNAoH0zVnpb6bV7xezaX) | [Maxwell Young](https://open.spotify.com/artist/5HONdRTLNvBjlD2LirKp0q) | [Believe](https://open.spotify.com/album/3fphy1gARezaH2Xb96v5kQ) | 4:01 | 2022-08-15 | 2023-03-02 |
 | [Best Friend](https://open.spotify.com/track/2gwfFTCzAdIW927SH6x3Pi) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [Best Friend](https://open.spotify.com/album/3RQfcYVC3DERYdq5AY8iXi) | 3:18 | 2022-11-10 | 2023-02-15 |
 | [Best Friend](https://open.spotify.com/track/6GToD1V53S3LLIinqSS9Z8) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [Best Friend](https://open.spotify.com/album/2LmnM6QMAh2MucdanVamcm) | 3:18 | 2022-11-10 | 2023-03-02 |
@@ -101,6 +102,7 @@
 | [Falling](https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ) | [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [Falling](https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY) | 3:30 | 2023-03-02 | 2024-10-02 |
 | [Favourite Clothes](https://open.spotify.com/track/7oUpTUajw3HrcbEoCjKpCt) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Favourite Clothes](https://open.spotify.com/album/3mWnjokIlIO78gJvXYAj2X) | 3:06 | 2021-10-15 | 2022-08-16 |
 | [Feel Alive](https://open.spotify.com/track/3wSbCJYFzsfajYhO5RNCwE) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Feel Alive](https://open.spotify.com/album/5EqDIpC3xKRUEzxqBqKHwB) | 3:21 | 2023-06-22 | 2024-10-02 |
+| [Find A Reason](https://open.spotify.com/track/3kHxBWXqQlXyzy6qV3b1Cl) | [Montgomery](https://open.spotify.com/artist/0qAtmxRkW1pvGWFDOxVbS4) | [Something To Look Back On](https://open.spotify.com/album/27eJIiIuiYXzY6tfCNWNfN) | 3:54 | 2024-11-05 |  |
 | [Find A Way](https://open.spotify.com/track/1ehfUJxTQus3BFzlZND5HB) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Find A Way](https://open.spotify.com/album/0TEZzb1zjWJwOVpMQ9Uat4) | 3:47 | 2024-03-28 | 2024-10-02 |
 | [Find A Way](https://open.spotify.com/track/6tsnbyNrSbdxa96kM6F84i) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Find A Way](https://open.spotify.com/album/1VWrKBjlH6OfQNxTdjJaYP) | 3:47 | 2023-06-27 | 2024-04-19 |
 | [flowergirl](https://open.spotify.com/track/7ct8Wji1KpACDWhYnPkXdN) | [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD) | [untied shoes](https://open.spotify.com/album/1uh3IWRijeFQAFMXwD1Lfn) | 2:49 | 2023-03-02 | 2024-10-02 |
@@ -129,6 +131,7 @@
 | [Gotta Learn](https://open.spotify.com/track/3XtiBlcnXnqjSEbtXjlIQw) | [Maxwell Young](https://open.spotify.com/artist/5HONdRTLNvBjlD2LirKp0q) | [Gotta Learn / It's OK Love](https://open.spotify.com/album/2m7ihiiPGwqm4DnFfGs09W) | 2:29 | 2021-10-15 | 2022-08-16 |
 | [Gravity Glidin](https://open.spotify.com/track/62Wv4hnAk5ichfSckOSnQK) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronomical](https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge) | 2:20 | 2021-10-15 | 2022-08-16 |
 | [Green Honda](https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Green Honda](https://open.spotify.com/album/46O3bl9CMEXxzQubtLz4Zq) | 2:46 | 2023-03-02 | 2024-10-02 |
+| [Growing Pains](https://open.spotify.com/track/79Nga1vtGyuKTnT2wcieji) | [Asha Jefferies](https://open.spotify.com/artist/4XUmpHj581ooyS5rJuCBJg) | [Growing Pains](https://open.spotify.com/album/2z4btRtdgqRw3oAceWQKxk) | 4:47 | 2024-11-05 |  |
 | [GTFO](https://open.spotify.com/track/01nSzyIB57M50XlmuGGqjE) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [GTFO](https://open.spotify.com/album/5hAPhhrqcSGlLHW3uNgJof) | 3:20 | 2022-08-28 | 2022-11-11 |
 | [GTFO](https://open.spotify.com/track/278aLzuJAZjYNFwI9w8967) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [GTFO](https://open.spotify.com/album/6OyW86SMqRcmY635lyxp8y) | 3:20 | 2022-08-15 | 2022-10-13 |
 | [GUAP POP](https://open.spotify.com/track/5fO0HCT842t1Uh01mI4hYu) | [Agung Mango](https://open.spotify.com/artist/1XXBwJeXvPE1PdXWjJLuXf), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [GUAP POP](https://open.spotify.com/album/3id0ljW668YT6O3feu9wnz) | 3:37 | 2022-11-10 | 2023-03-02 |
@@ -258,6 +261,7 @@
 | [Ray of Light](https://open.spotify.com/track/2NCivP0yuBfwHuvLf9QNzy) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Ray of Light](https://open.spotify.com/album/47DlMVv64jPLw8DJJ1oqLU) | 3:49 | 2024-10-01 |  |
 | [Ready For The Sky](https://open.spotify.com/track/3XOX3I1JNdxQNGbMvXjEPY) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Ready For The Sky](https://open.spotify.com/album/6p57HASzXc9WVwpJTb0Pc4) | 3:17 | 2022-08-15 | 2023-03-02 |
 | [Replay](https://open.spotify.com/track/4BAIKNDhzBhO90nKPEVP4b) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Replay](https://open.spotify.com/album/5FLiuv7yv19N5iuezp0qQO) | 2:19 | 2024-03-28 | 2024-10-02 |
+| [Restless](https://open.spotify.com/track/2nXVWSPnltpTQhRCEUzYXF) | [Gut Health](https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU) | [Stiletto](https://open.spotify.com/album/4N2vNjHPArJKgVEjpjgAcq) | 3:43 | 2024-11-05 |  |
 | [Rhythms](https://open.spotify.com/track/7B1k04cXHoNGF1ve0k3acD) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Rhythms](https://open.spotify.com/album/2J7YuvDTltVy6R3noYv416) | 3:15 | 2023-03-02 | 2024-10-02 |
 | [Ride It](https://open.spotify.com/track/2CFHcnCYe7AGWoxwRdMx70) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Ride It](https://open.spotify.com/album/4vGP301b5kqTeeaeYpsMaM) | 2:18 | 2024-01-18 | 2024-10-02 |
 | [Right Now \(Used in the motion picture SCREAM VI\)](https://open.spotify.com/track/7an15q8ChuA2zKrTidBXxW) | [Hugo Basclain](https://open.spotify.com/artist/0AMwJ7ohVHJl0iKC0CpdVG) | [NOSTALGIA IS A LIAR](https://open.spotify.com/album/1JIIi8lZLcdbPpu0HMl2Xa) | 3:14 | 2023-03-12 | 2023-06-23 |
@@ -300,6 +304,7 @@
 | [Stop & Stare](https://open.spotify.com/track/3HQkHblcaWYmYfP1jIRfsj) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Stop & Stare](https://open.spotify.com/album/1NBIz4sWJZtw76e5D6issj) | 2:36 | 2023-06-22 | 2024-04-15 |
 | [Stop & Stare](https://open.spotify.com/track/5tpybInr1G31Wgl7FWXLKw) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Lost In Translation](https://open.spotify.com/album/2TLhzp9VSGiYoSd7IPdU69) | 2:36 | 2024-03-28 | 2024-04-19 |
 | [Stop & Stare](https://open.spotify.com/track/2l1g0c9TIopvMg5h0xBWgc) | [Logan Priest](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Stop & Stare](https://open.spotify.com/album/1vn4qh7uF3nPfG9Hu5X20t) | 2:36 | 2024-03-28 | 2024-10-02 |
+| [Stop Calling](https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Stop Calling](https://open.spotify.com/album/0uvwr9erzNBwxjzqBSUz5Q) | 2:58 | 2024-11-05 |  |
 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2023-06-22 | 2024-10-02 |
 | [Sunday Morning](https://open.spotify.com/track/2btftog5enfQLHGvpqNd4N) | [Aidan Fine](https://open.spotify.com/artist/0KDjHOiKe5QcKHwpvKb33V) | [Sunday Morning](https://open.spotify.com/album/1eQ589pdoxuc82OSxCtk9j) | 2:07 | 2023-03-02 | 2024-10-02 |
 | [Sunday Morning](https://open.spotify.com/track/2rkM3PwHVDsuDDyYiv3KVM) | [Aidan Fine](https://open.spotify.com/artist/0KDjHOiKe5QcKHwpvKb33V) | [Sunday Morning](https://open.spotify.com/album/5deglqPUxXOmdQjSFeMpMQ) | 2:07 | 2023-10-19 | 2024-04-19 |
@@ -351,6 +356,7 @@
 | [Want U](https://open.spotify.com/track/3lFbM9JdipWtVRzohsaOWk) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Want U / Safe To Say](https://open.spotify.com/album/7oPUGuvIS4164TJFayPYuJ) | 2:16 | 2024-10-01 |  |
 | [Wasted You](https://open.spotify.com/track/28L2LpII3fEre94t6RtHic) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Wasted You](https://open.spotify.com/album/2emrhAuOMSvfs7i9nqhfJP) | 2:44 | 2023-03-02 | 2023-09-21 |
 | [Wasted You](https://open.spotify.com/track/4cxEhWVeCI5Y37vNjCVIlx) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Wasted You](https://open.spotify.com/album/1SZ4Pxkt81jWO3AuY5GskN) | 2:44 | 2023-08-17 | 2023-10-20 |
+| [Weather's Better](https://open.spotify.com/track/0Nj1v6r8uNGgSL4tR7N0bz) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Weather's Better](https://open.spotify.com/album/5QjlHFNDQHxf6vXJPpOpO5) | 2:52 | 2024-11-05 |  |
 | [What If He Put His Hands on You](https://open.spotify.com/track/3QJFUk14nTZEqQcMxTVGiW) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Mine / What If He Put His Hands on You](https://open.spotify.com/album/1aYhrhdTX6bo60T1tAsoxw) | 3:07 | 2021-10-15 | 2022-08-16 |
 | [When Skies Were Always Blue](https://open.spotify.com/track/1cxfKJMjgB4OY0mm3QVB6n) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [When Skies Were Always Blue](https://open.spotify.com/album/6ONL60dY4YafW6hPNEsFiN) | 4:15 | 2021-10-15 | 2022-08-16 |
 | [Whirinaki Mai](https://open.spotify.com/track/22UVBLb7Gwq5futagSgqJi) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [Whirinaki Mai](https://open.spotify.com/album/0NqWzlJqAeDmJ38FMm6Xv6) | 2:34 | 2022-11-10 | 2023-03-02 |

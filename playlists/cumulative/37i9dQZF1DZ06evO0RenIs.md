@@ -4,7 +4,7 @@
 
 > This is Phoenix\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 54 min
+66 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/2Xl9SgLTp16bHEVdmUuJPi) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 4:06 | 2023-03-19 |  |
 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 | 2023-08-18 | 2024-08-14 |
 | [Too Young](https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:17 | 2023-03-19 |  |
-| [Trying To Be Cool](https://open.spotify.com/track/0UpuOCp6EU4BZabgmBqr1o) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV) | 3:48 | 2023-03-19 |  |
+| [Trying To Be Cool](https://open.spotify.com/track/0UpuOCp6EU4BZabgmBqr1o) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV) | 3:48 | 2023-03-19 | 2024-11-06 |
+| [Trying To Be Cool](https://open.spotify.com/track/3adprsGoZuParw5pyhhLCc) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg) | 3:48 | 2024-11-06 |  |
 | [Tuttifrutti](https://open.spotify.com/track/0R98IdPkYNH36q3DhAO3NB) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/6kcDKcht2MzEizeqtioYtP) | 3:52 | 2023-03-19 | 2023-07-31 |
 | [Tuttifrutti](https://open.spotify.com/track/387304JRC4rHBwlVcbny0m) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy) | 3:52 | 2023-07-30 |  |
 | [Victim of the Crime](https://open.spotify.com/track/2ThMLsmAtcKOmXaEgKdJ93) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 4:05 | 2023-03-19 |  |

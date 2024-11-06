@@ -1453,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "August With You",
+        "url": "https://open.spotify.com/album/0LGrLzgASOIA6rDgKKyMeq"
+      },
+      "artists": [
+        {
+          "name": "Villa Crespo",
+          "url": "https://open.spotify.com/artist/5hBBW5N2rIgSPmRgFo5ErL"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227467,
+      "name": "August With You",
+      "url": "https://open.spotify.com/track/40hmR9JwhMwESw3hkvPs72"
+    },
+    {
+      "album": {
         "name": "Autumn Embrace",
         "url": "https://open.spotify.com/album/2DxBhqTHXlvOPiGGb4tB4k"
       },
@@ -5717,6 +5735,24 @@
     },
     {
       "album": {
+        "name": "I Wonder Why",
+        "url": "https://open.spotify.com/album/5lijkHpVDFVNqct6LqR1A6"
+      },
+      "artists": [
+        {
+          "name": "The Bruce Brady Trio",
+          "url": "https://open.spotify.com/artist/75Wq0vgFRSA0Nhx7tg49zW"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225250,
+      "name": "I Wonder Why",
+      "url": "https://open.spotify.com/track/7nrEqjAOU6LYdNRYiWHkSk"
+    },
+    {
+      "album": {
         "name": "Moonlight in Vermont",
         "url": "https://open.spotify.com/album/3m63lHtdqEuoaRXHmwpqoJ"
       },
@@ -9400,7 +9436,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 248500,
       "name": "Need You Here",
       "url": "https://open.spotify.com/track/6U31miey75JtdzenSiTToi"
@@ -12198,7 +12234,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 177431,
       "name": "Story of My Dream",
       "url": "https://open.spotify.com/track/3DgwDOJOfDGM6pdIWkkXA1"
@@ -12786,6 +12822,24 @@
       "duration_ms": 338132,
       "name": "The End Of A Love Affair",
       "url": "https://open.spotify.com/track/6wcsA3k0UzI0aFdwigs79C"
+    },
+    {
+      "album": {
+        "name": "The End of the Summer",
+        "url": "https://open.spotify.com/album/09A8piZfw2u2sJNH1Eg84d"
+      },
+      "artists": [
+        {
+          "name": "Arta Porting",
+          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298123,
+      "name": "The End of the Summer",
+      "url": "https://open.spotify.com/track/2yK4ah3grQk1gsdmoUOc9Q"
     },
     {
       "album": {
@@ -13610,7 +13664,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 198894,
       "name": "Thursday Afternoon",
       "url": "https://open.spotify.com/track/0OxIW2YPKXFNkskaZfNFk5"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: Samuraï & Leo Rizzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,304 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,308 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 52 | [Toda Mi Fe](https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Ocho](https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP) | 3:19 |
 | 53 | [Todo Se Detiene Aquí](https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Escombros](https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61) | 3:48 |
 | 54 | [Abismo](https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Abismo](https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8) | 2:53 |
-| 55 | [Tú Ya No Dices Nada](https://open.spotify.com/track/453J04Y7iitrBquFXDKql1) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi), [Manola](https://open.spotify.com/artist/5BbO0itGowbSxRpMb5uopK) | [Tú Ya No Dices Nada](https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n) | 3:35 |
-| 56 | [San Saltarín](https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [San Saltarín](https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk) | 4:18 |
+| 55 | [San Saltarín](https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [San Saltarín](https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk) | 4:18 |
+| 56 | [Tú Ya No Dices Nada](https://open.spotify.com/track/453J04Y7iitrBquFXDKql1) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi), [Manola](https://open.spotify.com/artist/5BbO0itGowbSxRpMb5uopK) | [Tú Ya No Dices Nada](https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n) | 3:35 |
 | 57 | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY) | 3:03 |
 | 58 | [Fútbol Rock](https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Fútbol Rock](https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR) | 4:13 |
 | 59 | [Quédate Con Él](https://open.spotify.com/track/0Izcb9Fi0SttnpjldQEgvc) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 2:43 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 68 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
 | 69 | [Echao’ a perder](https://open.spotify.com/track/0UqHiphvidOqxY3IxKSejM) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Echao’ a perder](https://open.spotify.com/album/37vSNbeXR46dfgii1nAWRx) | 2:48 |
 | 70 | [La Bas\(e\)](https://open.spotify.com/track/4kpRAJOlfHuu24AzHvJ1GO) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [La Bas\(e\)](https://open.spotify.com/album/3otMnORRUkinKsR5EzwK68) | 3:03 |
-| 71 | [Fake Glasses](https://open.spotify.com/track/7IwbzcK6oZz2UGXE2TaP1s) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH) | [Fake Glasses](https://open.spotify.com/album/5XB41iVD4AhapPg77W0tQs) | 2:43 |
-| 72 | [Lo que ves es lo que tengo](https://open.spotify.com/track/3GTOGJ9LdUK2bLF94gpr4K) | [Estéreo Waves](https://open.spotify.com/artist/7oZNzBBlegejGPqSxiOS3v) | [Lo que ves es lo que tengo](https://open.spotify.com/album/5j3RL5wefQodkZWC4ysv1B) | 3:23 |
+| 71 | [Lo que ves es lo que tengo](https://open.spotify.com/track/3GTOGJ9LdUK2bLF94gpr4K) | [Estéreo Waves](https://open.spotify.com/artist/7oZNzBBlegejGPqSxiOS3v) | [Lo que ves es lo que tengo](https://open.spotify.com/album/5j3RL5wefQodkZWC4ysv1B) | 3:23 |
+| 72 | [Fake Glasses](https://open.spotify.com/track/7IwbzcK6oZz2UGXE2TaP1s) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH) | [Fake Glasses](https://open.spotify.com/album/5XB41iVD4AhapPg77W0tQs) | 2:43 |
 | 73 | [Sentimientos Encontrados](https://open.spotify.com/track/1TFS64QKUI7iZoiKYJpjaw) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Renacimiento](https://open.spotify.com/album/1bgDT6xm0mP29HMfGTbpAm) | 3:32 |
 | 74 | [Suéltate el pelo](https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Suéltate el pelo](https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz) | 2:51 |
 | 75 | [Quetzal](https://open.spotify.com/track/79TPB4n8m3evt7RUJZ1Kqe) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Nice Life
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,715 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,731 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 43 | [AVÉ](https://open.spotify.com/track/6D9rsde59fT5cHjTqyWz6c) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [AVÉ](https://open.spotify.com/album/4Yqrh5FabMU4qXPf4161BA) | 2:52 |
 | 44 | [Safadeza](https://open.spotify.com/track/4py0bZESzc62qRBlwSWFrZ) | [Helio Baiano](https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB), [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Safadeza](https://open.spotify.com/album/0uTQBBju3AaEIzAHIcZgBB) | 3:09 |
 | 45 | [Magico](https://open.spotify.com/track/0WP4sAf9JKYvy1neTliv5C) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Sem Limite](https://open.spotify.com/album/6r1xwFSAEE9Y369dtleQLB) | 3:57 |
-| 46 | [Fica longi bo](https://open.spotify.com/track/74CP5TIs7o1S14ArcC8Jdz) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Fica longi bo](https://open.spotify.com/album/4aWV8TxkTIf0FItHx20cOc) | 3:18 |
+| 46 | [Companhia](https://open.spotify.com/track/7AD5BM9mGIlaZq6yO6QDMy) | [Labo Music](https://open.spotify.com/artist/4lpDn6K0BLYyCJExpa9diL), [J Levy](https://open.spotify.com/artist/4dqiY8fEeGgJQmypUXYTcZ) | [Lobo da Labo](https://open.spotify.com/album/2ZFqRM7JIZZWT1awS0NQZ9) | 3:24 |
 | 47 | [Início do Fim](https://open.spotify.com/track/5HPczsgqYZb0Ux7v3JWXGT) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Início do Fim](https://open.spotify.com/album/7dqjUyl7pKYDWuqRHL1olI) | 3:11 |
-| 48 | [Companhia](https://open.spotify.com/track/7AD5BM9mGIlaZq6yO6QDMy) | [Labo Music](https://open.spotify.com/artist/4lpDn6K0BLYyCJExpa9diL), [J Levy](https://open.spotify.com/artist/4dqiY8fEeGgJQmypUXYTcZ) | [Lobo da Labo](https://open.spotify.com/album/2ZFqRM7JIZZWT1awS0NQZ9) | 3:24 |
+| 48 | [Fica longi bo](https://open.spotify.com/track/74CP5TIs7o1S14ArcC8Jdz) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Fica longi bo](https://open.spotify.com/album/4aWV8TxkTIf0FItHx20cOc) | 3:18 |
 | 49 | [Batom](https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Batom](https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7) | 3:32 |
 | 50 | [Fica Comigo](https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Fica Comigo](https://open.spotify.com/album/7cg4MQKXsUNxQakPQVuZYE) | 3:22 |
 | 51 | [Fé](https://open.spotify.com/track/6bp9ivNIHLHqHFPIaqC40u) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt) | [Fé](https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a) | 2:32 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 55 | [Momentos](https://open.spotify.com/track/4oy3pqAKEWN9mrxwTHwdMs) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD), [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd) | [Momentos](https://open.spotify.com/album/7y3xk4lkwaN3Eq56tTav1B) | 3:30 |
 | 56 | [Buquê](https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Buquê](https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX) | 3:31 |
 | 57 | [Faço Como](https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W) | [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd) | [Menina Mulher](https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm) | 3:21 |
-| 58 | [Teu Corpo](https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Teu Corpo](https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63) | 2:50 |
-| 59 | [365](https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [365](https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT) | 3:39 |
+| 58 | [365](https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [365](https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT) | 3:39 |
+| 59 | [Teu Corpo](https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Teu Corpo](https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63) | 2:50 |
 | 60 | [Menta](https://open.spotify.com/track/6WXfOiRWXLAPjWGkExCaUj) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Menta](https://open.spotify.com/album/5m12RKdPcPwMzRwb9EIECk) | 3:16 |
 | 61 | [Você Me Kuia](https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4) | [Jay Oliver](https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X) | [Longe de Ti](https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1) | 4:08 |
 | 62 | [Nha Mos](https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Nha Mos](https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0) | 3:16 |

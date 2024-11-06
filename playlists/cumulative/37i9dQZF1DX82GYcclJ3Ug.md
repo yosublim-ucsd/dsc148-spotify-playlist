@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: cleopatrick
 
-2,319 songs - 5 day 5 hr 33 min
+2,320 songs - 5 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [Die For Me \(feat\. Lil Yachty\)](https://open.spotify.com/track/2CcH3jT1sLd06JU4VVBTq9) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Die For Me \(feat\. Lil Yachty\)](https://open.spotify.com/album/0CFYKSZZuRcAypaOSBGlJb) | 3:26 | 2024-08-16 | 2024-09-21 |
 | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ) | 2:14 | 2022-04-08 | 2022-07-23 |
 | [Dig Your Man](https://open.spotify.com/track/0I2wfSfWHOu5vn1LyPN67P) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Dig Your Man](https://open.spotify.com/album/7rKNpL7tkiKJmCklMkzvSA) | 3:03 | 2024-07-26 | 2024-08-31 |
+| [Digging Around](https://open.spotify.com/track/0mIGu8CxAwQbbwN439W5b3) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Digging Around](https://open.spotify.com/album/4ZV7TClwbbUPnfCRISDBPY) | 3:00 | 2024-11-05 |  |
 | [Digital Forest](https://open.spotify.com/track/49dxw4snvfZ9DBCceJXPo3) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Digital Forest / Sugar Pill](https://open.spotify.com/album/2Ze7DZYjC1b4qNt9ajoXd9) | 2:48 | 2023-05-05 | 2023-06-24 |
 | [Digital Silence](https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Digital Silence](https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp) | 3:18 | 2023-04-07 | 2023-04-29 |
 | [Dilemma](https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dilemma](https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk) | 3:18 | 2023-12-08 | 2024-02-17 |

@@ -1,6 +1,6 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 938583,
+  "num_followers": 938645,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "We Can't Stop (Acoustic)",
         "url": "https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 178490,
       "name": "We Can't Stop - Acoustic",
       "url": "https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "The Tip Jar Volume One",
-        "url": "https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx"
-      },
-      "artists": [
-        {
-          "name": "Obadiah Parker",
-          "url": "https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ"
-        }
-      ],
-      "duration_ms": 298800,
-      "name": "Hey Ya - solo version",
-      "url": "https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Girls Just Wanna Have Fun",
         "url": "https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 172992,
       "name": "Girls Just Wanna Have Fun - Acoustic",
       "url": "https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "The Tip Jar Volume One",
+        "url": "https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx"
+      },
+      "artists": [
+        {
+          "name": "Obadiah Parker",
+          "url": "https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ"
+        }
+      ],
+      "duration_ms": 298800,
+      "name": "Hey Ya - solo version",
+      "url": "https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Derivatives",
-        "url": "https://open.spotify.com/album/4Dd7OQGnbrlcNFHD9rf9W4"
-      },
-      "artists": [
-        {
-          "name": "William Fitzsimmons",
-          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
-        }
-      ],
-      "duration_ms": 192639,
-      "name": "I Kissed a Girl",
-      "url": "https://open.spotify.com/track/4TBZ0i75gIWHedxf6N4Qwc"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "It Aint me (Acoustic)",
         "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 192545,
       "name": "It Aint me - Acoustic",
       "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Derivatives",
+        "url": "https://open.spotify.com/album/4Dd7OQGnbrlcNFHD9rf9W4"
+      },
+      "artists": [
+        {
+          "name": "William Fitzsimmons",
+          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
+        }
+      ],
+      "duration_ms": 192639,
+      "name": "I Kissed a Girl",
+      "url": "https://open.spotify.com/track/4TBZ0i75gIWHedxf6N4Qwc"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "City of Stars",
-        "url": "https://open.spotify.com/album/1TylOvw81vANdJBV5Fa3BU"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 154858,
-      "name": "City of Stars",
-      "url": "https://open.spotify.com/track/0KQnOjW6AP1LECHd18xjFj"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Pretty Girl (Acoustic Version)",
         "url": "https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 180828,
       "name": "Pretty Girl - Acoustic Version",
       "url": "https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "City of Stars",
+        "url": "https://open.spotify.com/album/1TylOvw81vANdJBV5Fa3BU"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 154858,
+      "name": "City of Stars",
+      "url": "https://open.spotify.com/track/0KQnOjW6AP1LECHd18xjFj"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Acoustic In Nashville - Bootleg No. 2",
-        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 269946,
-      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
-      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Crazy (Live Sessions)",
         "url": "https://open.spotify.com/album/6GlV1bUsj1Vjk6xHIJKhbC"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 176067,
       "name": "Crazy - Live Sessions",
       "url": "https://open.spotify.com/track/15byLK9MadQ44VM9opaGms"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Acoustic In Nashville - Bootleg No. 2",
+        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 269946,
+      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
+      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1991,8 +1991,8 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
       },
       "artists": [
         {
@@ -2000,9 +2000,9 @@
           "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
         }
       ],
-      "duration_ms": 165697,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
+      "duration_ms": 194129,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -2095,6 +2095,22 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "Sweet Child o\u2019 Mine",
+        "url": "https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7"
+      },
+      "artists": [
+        {
+          "name": "Taken By Trees",
+          "url": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
+        }
+      ],
+      "duration_ms": 302880,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "Vault Playlist Vol. 1",
         "url": "https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5"
       },
@@ -2107,6 +2123,22 @@
       "duration_ms": 259569,
       "name": "No One - Acoustic",
       "url": "https://open.spotify.com/track/2VFf8YhTnmhWF108o9UEr7"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 165697,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -2127,22 +2159,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 194129,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Dreams (Piano Version)",
         "url": "https://open.spotify.com/album/1oBjEkE3FjyD74adBZsUTI"
       },
@@ -2159,22 +2175,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Sweet Child o\u2019 Mine",
-        "url": "https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7"
-      },
-      "artists": [
-        {
-          "name": "Taken By Trees",
-          "url": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
-        }
-      ],
-      "duration_ms": 302880,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "The Covers, Vol. 4",
         "url": "https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU"
       },
@@ -2187,6 +2187,22 @@
       "duration_ms": 233377,
       "name": "Set Fire To The Rain",
       "url": "https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "All the Little Lights (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 266626,
+      "name": "Let Her Go - Acoustic",
+      "url": "https://open.spotify.com/track/4tzAf07GCR6DlycQkUKlgN"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -2223,22 +2239,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "All the Little Lights (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 266626,
-      "name": "Let Her Go - Acoustic",
-      "url": "https://open.spotify.com/track/4tzAf07GCR6DlycQkUKlgN"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "I Can't Make You Love Me/Immigrant Song",
         "url": "https://open.spotify.com/album/7EyotZp8SIypYNsBKA1yLk"
       },
@@ -2251,6 +2251,22 @@
       "duration_ms": 291046,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/0hL7pMYm3WQhoywLYFdF3t"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/0suH3Rwd18aTcUNz8OoOg1"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 247816,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/0osBWMCpbGSGj5FVDzCTvy"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -2271,22 +2287,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "In My Life",
-        "url": "https://open.spotify.com/album/2bW3haSRmwMkq1UBXArTuX"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/3P5PjBDgbYzumxnbuahZqn"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Send Me on My Way (Acoustic)",
         "url": "https://open.spotify.com/album/1iAVTWqne8RsvIoicto48v"
       },
@@ -2299,6 +2299,22 @@
       "duration_ms": 187812,
       "name": "Send Me on My Way (Acoustic)",
       "url": "https://open.spotify.com/track/61tV4cFi7ECPLVdmcoTTf9"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/2bW3haSRmwMkq1UBXArTuX"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 154290,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/3P5PjBDgbYzumxnbuahZqn"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -2403,18 +2419,18 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Another Bundle of Tantrums",
-        "url": "https://open.spotify.com/album/0suH3Rwd18aTcUNz8OoOg1"
+        "name": "Havana (Acoustic)",
+        "url": "https://open.spotify.com/album/6h1bLyGqSOqyh1kjN4yz3T"
       },
       "artists": [
         {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
         }
       ],
-      "duration_ms": 247816,
-      "name": "Rather Be",
-      "url": "https://open.spotify.com/track/0osBWMCpbGSGj5FVDzCTvy"
+      "duration_ms": 141142,
+      "name": "Havana - Acoustic",
+      "url": "https://open.spotify.com/track/6WocEbaRB9G2QEnklpIhLd"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -2447,22 +2463,6 @@
       "duration_ms": 174360,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/5FwD0r8W7XSBtXc7Jb4HuC"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
-        "name": "Havana (Acoustic)",
-        "url": "https://open.spotify.com/album/6h1bLyGqSOqyh1kjN4yz3T"
-      },
-      "artists": [
-        {
-          "name": "Matt Johnson",
-          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
-        }
-      ],
-      "duration_ms": 141142,
-      "name": "Havana - Acoustic",
-      "url": "https://open.spotify.com/track/6WocEbaRB9G2QEnklpIhLd"
     },
     {
       "added_at": "2024-07-10 07:20:21",

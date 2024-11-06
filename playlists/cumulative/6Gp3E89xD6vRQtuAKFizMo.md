@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-370 songs - 17 hr 49 min
+371 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Dark Side](https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Dark Side](https://open.spotify.com/album/2wsfXvFZaPK9bYpxVmv6ya) | 2:37 | 2022-12-09 | 2023-04-09 |
 | [Deeper \(feat\. Britt Lari\)](https://open.spotify.com/track/0ZkliuhJeGUEu674X81vYd) | [K3SS](https://open.spotify.com/artist/56HIHMnIOj1xfjzBtAVxA4), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Deeper \(feat\. Britt Lari\)](https://open.spotify.com/album/4MHyWFTymT76DoaChcI8Kj) | 2:45 | 2024-02-27 |  |
 | [Destination](https://open.spotify.com/track/7pDbNJJyVfglnEjSI2Ka6j) | [Versue](https://open.spotify.com/artist/2dAFoJE1SfRcTUOJvtDnXa) | [Destination](https://open.spotify.com/album/09ZrrEnySnNaz6GPOzQLqi) | 4:16 | 2023-04-07 | 2023-04-15 |
+| [Disco Addiction](https://open.spotify.com/track/0ugzxiofEEtpkXUq12ZJgf) | [We Rose](https://open.spotify.com/artist/3JAYBjWnOGr7B9JYXHQjmv) | [Disco Addiction](https://open.spotify.com/album/4WYBOZHVZ96XsBMzCfDSo2) | 2:16 | 2024-11-05 |  |
 | [DiscoTech](https://open.spotify.com/track/17F6myLWeg7xqutfsyUEgq) | [Boslyk](https://open.spotify.com/artist/1rGIIV4URDuQj5y0FYoL0r) | [DiscoTech](https://open.spotify.com/album/698cfH6j3yX8vBqWSAg5lt) | 2:28 | 2024-04-12 |  |
 | [Disengage](https://open.spotify.com/track/5NGLGbbClZvq7n8L4VRnfy) | [Nikademis](https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP) | [Disengage](https://open.spotify.com/album/0yytK65AucnQcLwfMbiKB9) | 3:17 | 2023-04-25 |  |
 | [Diss You](https://open.spotify.com/track/7zQhHRCbfA5z3rY56O9REd) | [Afroki](https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Save My Soul \(feat\. Jordan Grace\)](https://open.spotify.com/album/6bodARPsfzNApsTUOzKDmh) | 2:05 | 2024-05-17 |  |

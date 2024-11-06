@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 
 > Rock y rumba para esos días de sol, sangría y amigxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,235 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,258 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 45 | [El talismán](https://open.spotify.com/track/5NXYUnjruvZd3mXiJNJVeA) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 3:39 |
 | 46 | [Alba](https://open.spotify.com/track/6uojMoKuVkIVEeqH4JCBAr) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Cosas Mias](https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT) | 3:44 |
 | 47 | [Amigos para Siempre](https://open.spotify.com/track/6PfQB3xEbIlky1dXOb3Yyh) | [Los Manolos](https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj) | [Dulce Veneno](https://open.spotify.com/album/103iVGOwBBlDcdrRmORWDH) | 4:24 |
-| 48 | [Kalikeno \- Rumba](https://open.spotify.com/track/4LxFbjtxUtV1h6DNIqRBIK) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [Y Es Ke Me Han Kambiao Los Tiempos](https://open.spotify.com/album/6I7EVvaptXn9Nwjy80jacV) | 4:31 |
+| 48 | [Como un burro amarrado en la puerta del baile](https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Las 100 mejores canciones del Pop Español, Vol\. 3](https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T) | 3:37 |
 | 49 | [Felicidad](https://open.spotify.com/track/1pX5XE5hajZQ4lB6HuMVKa) | [La Cabra Mecanica](https://open.spotify.com/artist/1g2kmC27Pg8fcsT3O9ecje) | [Vestidos De Domingo \(+ Remixes\)](https://open.spotify.com/album/1zIyzZFhqB27mVPqnwJpTs) | 4:14 |
 | 50 | [Sin documentos](https://open.spotify.com/track/0VD9b7IXBWM0lKGagkYOKu) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Hasta luego](https://open.spotify.com/album/17zbU7662bSZyECndKCYio) | 4:45 |
-| 51 | [Como un burro amarrado en la puerta del baile](https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Las 100 mejores canciones del Pop Español, Vol\. 3](https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T) | 3:37 |
+| 51 | [Kalikeno \- Rumba](https://open.spotify.com/track/4LxFbjtxUtV1h6DNIqRBIK) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [Y Es Ke Me Han Kambiao Los Tiempos](https://open.spotify.com/album/6I7EVvaptXn9Nwjy80jacV) | 4:31 |
 | 52 | [Quedate a dormir](https://open.spotify.com/track/0UQitarNPDgB7ObJCj47kn) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Usar Y Tirar](https://open.spotify.com/album/3vqfArwNlflN3NtNTJINqF) | 4:17 |
 | 53 | [Sevilla Tiene un Color Especial](https://open.spotify.com/track/1x8tjll0oP07qkZWVtm8ap) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Alegria Y Cosabuena](https://open.spotify.com/album/1Q9ij11CdNvogM0IPG1KNc) | 3:47 |
 | 54 | [Pokito a Poko](https://open.spotify.com/track/7LrM28pPWCpJYmbnaxHBmu) | [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Chambao Caminando](https://open.spotify.com/album/2aKJ1XjOutOWXUNp6UrSJ5) | 3:27 |

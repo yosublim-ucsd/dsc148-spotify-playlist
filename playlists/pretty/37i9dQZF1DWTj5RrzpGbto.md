@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTj5RrzpGbto.md) - [plain]
 
 > รวมทุกอินเนอร์เพลงสากลที่นี่เลย\. ศิลปิน: ROSÉ, Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,025 likes - 55 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,072 likes - 55 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTj5RrzpGbto.md) - [plain]
 | 7 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
 | 8 | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0) | 2:56 |
 | 9 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
-| 10 | [death bed, Pt\. 2](https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Daniel Saint](https://open.spotify.com/artist/1mqfwrWO9D3IQvWkwnuCNB), [chill sebs](https://open.spotify.com/artist/6SiKEPYrOXoQT6GbreDRvF) | [tell me your feelings and i won’t tell you mine, Pt\. 3](https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW) | 3:04 |
+| 10 | [death bed, Pt\. 2](https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Daniel Saint](https://open.spotify.com/artist/1mqfwrWO9D3IQvWkwnuCNB) | [tell me your feelings and i won’t tell you mine, Pt\. 3](https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW) | 3:04 |
 | 11 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 12 | [Take Me to the Beach \(feat\. Jungeli\)](https://open.spotify.com/track/299bs3nx4r3zcmLD8tRPi3) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Take Me to the Beach \(feat\. Jungeli\)](https://open.spotify.com/album/1eFuf3Xkm3XiiPRVX9ambn) | 2:47 |
 | 13 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 |

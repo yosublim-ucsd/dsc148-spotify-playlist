@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 19730,
+  "num_followers": 19734,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Ofrenda Gaucha: Valsecito Amigo",
-        "url": "https://open.spotify.com/album/6jUZzfW2CkpEULtaFOegAk"
+        "name": "Pu\u00f1al de Sombra",
+        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
       },
       "artists": [
         {
-          "name": "Nelly Omar",
-          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
-        },
-        {
-          "name": "Francisco Canaro Y Su Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf"
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
         }
       ],
-      "duration_ms": 165637,
-      "name": "Rosas de Oto\u00f1o",
-      "url": "https://open.spotify.com/track/6CAz0sn2HaHSpSiQ0EMkJx"
+      "duration_ms": 213476,
+      "name": "Mano a Mano",
+      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -691,18 +687,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Pu\u00f1al de Sombra",
-        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
+        "name": "Ofrenda Gaucha: Valsecito Amigo",
+        "url": "https://open.spotify.com/album/6jUZzfW2CkpEULtaFOegAk"
       },
       "artists": [
         {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+          "name": "Nelly Omar",
+          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
+        },
+        {
+          "name": "Francisco Canaro Y Su Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf"
         }
       ],
-      "duration_ms": 213476,
-      "name": "Mano a Mano",
-      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
+      "duration_ms": 165637,
+      "name": "Rosas de Oto\u00f1o",
+      "url": "https://open.spotify.com/track/6CAz0sn2HaHSpSiQ0EMkJx"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -771,6 +771,34 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Buenos Aires",
+        "url": "https://open.spotify.com/album/3QnnowQDhMZJiQUZaknba7"
+      },
+      "artists": [
+        {
+          "name": "Delfina Cheb",
+          "url": "https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq"
+        },
+        {
+          "name": "Horacio Avilano",
+          "url": "https://open.spotify.com/artist/1OVVbwW8JjRpAvlGmMqO8E"
+        },
+        {
+          "name": "Hern\u00e1n Fredes",
+          "url": "https://open.spotify.com/artist/4nAqi6nuYVAAKCtplFZdWj"
+        },
+        {
+          "name": "Hern\u00e1n Mastromarini",
+          "url": "https://open.spotify.com/artist/3I1iCHvPAEoqbxj7oCKVvY"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "Cafet\u00edn de Buenos Aires",
+      "url": "https://open.spotify.com/track/6igePX7ujLa9bohLAXO34X"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Patio De Tango",
         "url": "https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS"
       },
@@ -803,34 +831,6 @@
       "duration_ms": 270791,
       "name": "Trenzas",
       "url": "https://open.spotify.com/track/7jBfhA6e93EKL1BaoghORb"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Buenos Aires",
-        "url": "https://open.spotify.com/album/3QnnowQDhMZJiQUZaknba7"
-      },
-      "artists": [
-        {
-          "name": "Delfina Cheb",
-          "url": "https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq"
-        },
-        {
-          "name": "Horacio Avilano",
-          "url": "https://open.spotify.com/artist/1OVVbwW8JjRpAvlGmMqO8E"
-        },
-        {
-          "name": "Hern\u00e1n Fredes",
-          "url": "https://open.spotify.com/artist/4nAqi6nuYVAAKCtplFZdWj"
-        },
-        {
-          "name": "Hern\u00e1n Mastromarini",
-          "url": "https://open.spotify.com/artist/3I1iCHvPAEoqbxj7oCKVvY"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Cafet\u00edn de Buenos Aires",
-      "url": "https://open.spotify.com/track/6igePX7ujLa9bohLAXO34X"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -939,26 +939,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "The History Of Tango, Volume 1 / Recordings 1925 - 1929",
-        "url": "https://open.spotify.com/album/7iw58RnRTqZgzdT5sG5j5C"
-      },
-      "artists": [
-        {
-          "name": "Ada Falc\u00f3n",
-          "url": "https://open.spotify.com/artist/1bshphZh29CbPD7uyWxxk3"
-        },
-        {
-          "name": "Francisco Canaro & His Orchestra",
-          "url": "https://open.spotify.com/artist/118T4pkXEKg5wkWphove1a"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "La Morocha",
-      "url": "https://open.spotify.com/track/1anG08CBwoLXg6gdpfjbcP"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Marioneta",
         "url": "https://open.spotify.com/album/1PLdRsYPzD1sttkZmst1Dz"
       },
@@ -991,18 +971,38 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Susy Leiva - Grandes Exitos -",
-        "url": "https://open.spotify.com/album/2yeB0qqmekdprMgK6xF4mG"
+        "name": "The History Of Tango, Volume 1 / Recordings 1925 - 1929",
+        "url": "https://open.spotify.com/album/7iw58RnRTqZgzdT5sG5j5C"
       },
       "artists": [
         {
-          "name": "Susy Leiva",
-          "url": "https://open.spotify.com/artist/4gRdLOmvGZUprym6lU6Xaz"
+          "name": "Ada Falc\u00f3n",
+          "url": "https://open.spotify.com/artist/1bshphZh29CbPD7uyWxxk3"
+        },
+        {
+          "name": "Francisco Canaro & His Orchestra",
+          "url": "https://open.spotify.com/artist/118T4pkXEKg5wkWphove1a"
         }
       ],
-      "duration_ms": 178386,
-      "name": "Che bandoneon",
-      "url": "https://open.spotify.com/track/2nNttXpVNiyEewXhZUTHNu"
+      "duration_ms": 180520,
+      "name": "La Morocha",
+      "url": "https://open.spotify.com/track/1anG08CBwoLXg6gdpfjbcP"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Mujeres del Tango",
+        "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
+      },
+      "artists": [
+        {
+          "name": "Las Del Abasto",
+          "url": "https://open.spotify.com/artist/2f7l4mZd4Fnc1yW6OHsEQE"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Quejas de Bandone\u00f3n",
+      "url": "https://open.spotify.com/track/2kCx1Q1N6Xj7yqA2P1GvaQ"
     }
   ],
   "unique_name": "Mujeres del Tango",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,469 likes - 52 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,477 likes - 52 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 51 | [Échalo Pa' Ca](https://open.spotify.com/track/2h9otdWcqvn5D52cgS32fz) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Échalo Pa' Ca](https://open.spotify.com/album/0l17ZOSlaSfuQXPe2G82hk) | 3:42 |
 | 52 | [Treehouse](https://open.spotify.com/track/0Zrxq7AxjJQrVg013MYgU2) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Treehouse](https://open.spotify.com/album/0xDUWlPe0z4xOiBi41dmb9) | 3:09 |
 
-Snapshot ID: `Zya9AAAAAADGg55tFODeCT//jCul1vch`
+Snapshot ID: `ZygOgAAAAAATJ7go3bd/zJoxVsJgIq20`

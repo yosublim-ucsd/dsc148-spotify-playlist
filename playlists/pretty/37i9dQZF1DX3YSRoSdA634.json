@@ -1,6 +1,6 @@
 {
   "description": "Having a bad day? We know how it feels!",
-  "num_followers": 4020991,
+  "num_followers": 4020809,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 216410,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Kid Krow",
         "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 185773,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 216410,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Serotonin Dreams",
-        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        }
-      ],
-      "duration_ms": 168066,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 347226,
       "name": "Marvins Room",
       "url": "https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Serotonin Dreams",
+        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "duration_ms": 168066,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 273426,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/0R8P9KfGJCDULmlEoBagcO"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 277506,
       "name": "Supercut",
       "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 273426,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/0R8P9KfGJCDULmlEoBagcO"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Cheers to the Fall",
         "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 253342,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1107,18 +1107,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "lovestrong.",
-        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
+        "name": "brent",
+        "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
       },
       "artists": [
         {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
         }
       ],
-      "duration_ms": 246587,
-      "name": "jar of hearts",
-      "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
+      "duration_ms": 219146,
+      "name": "you were good to me",
+      "url": "https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1139,22 +1143,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "brent",
-        "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
+        "name": "lovestrong.",
+        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
       },
       "artists": [
         {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        },
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
         }
       ],
-      "duration_ms": 219146,
-      "name": "you were good to me",
-      "url": "https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P"
+      "duration_ms": 246587,
+      "name": "jar of hearts",
+      "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1367,22 +1367,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+        "name": "Mansion",
+        "url": "https://open.spotify.com/album/3Qq4kVfHPrs8xPKIYKmctl"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bradley Cooper",
-          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
         }
       ],
-      "duration_ms": 281066,
-      "name": "I'll Never Love Again - Film Version",
-      "url": "https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG"
+      "duration_ms": 270453,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/5DHQKZCOZhGNTbYBCekWx0"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1403,18 +1399,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Mansion",
-        "url": "https://open.spotify.com/album/3Qq4kVfHPrs8xPKIYKmctl"
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
       "artists": [
         {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
         }
       ],
-      "duration_ms": 270453,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/5DHQKZCOZhGNTbYBCekWx0"
+      "duration_ms": 281066,
+      "name": "I'll Never Love Again - Film Version",
+      "url": "https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Colour The Small One",
-        "url": "https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 272800,
-      "name": "Breathe Me",
-      "url": "https://open.spotify.com/track/7jqzZyJJLrpkRFYGpkqSK6"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "The Pains Of Growing",
         "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 227693,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Colour The Small One",
+        "url": "https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 272800,
+      "name": "Breathe Me",
+      "url": "https://open.spotify.com/track/7jqzZyJJLrpkRFYGpkqSK6"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2263,18 +2263,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "CHARLIE",
-        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
+        "name": "Unlearn (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 204376,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj"
+      "duration_ms": 155361,
+      "name": "Unlearn (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2315,22 +2319,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Unlearn (with Gracie Abrams)",
-        "url": "https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy"
+        "name": "CHARLIE",
+        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
       },
       "artists": [
         {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         }
       ],
-      "duration_ms": 155361,
-      "name": "Unlearn (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD"
+      "duration_ms": 204376,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "+",
+        "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 200755,
+      "name": "Autumn Leaves - Deluxe Edition",
+      "url": "https://open.spotify.com/track/7iBSkXB0pTvZasOLf0Qxk9"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
       },
@@ -2407,22 +2423,6 @@
       "duration_ms": 218093,
       "name": "when was it over? (feat. Sam Hunt)",
       "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "+",
-        "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 200755,
-      "name": "Autumn Leaves - Deluxe Edition",
-      "url": "https://open.spotify.com/track/7iBSkXB0pTvZasOLf0Qxk9"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2739,22 +2739,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Isaiah",
-        "url": "https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Firebrace",
-          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
-        }
-      ],
-      "duration_ms": 193446,
-      "name": "It's Gotta Be You",
-      "url": "https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "5AM (Expanded Edition)",
         "url": "https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L"
       },
@@ -2767,6 +2751,22 @@
       "duration_ms": 257906,
       "name": "5AM",
       "url": "https://open.spotify.com/track/4B4kunXhV2ZKnYcvDgAFoE"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Isaiah",
+        "url": "https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Firebrace",
+          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
+        }
+      ],
+      "duration_ms": 193446,
+      "name": "It's Gotta Be You",
+      "url": "https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3219,6 +3219,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "I Believe You",
+        "url": "https://open.spotify.com/album/7c6s5q0fbvQF5wFQAsmzo7"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 192992,
+      "name": "I Believe You",
+      "url": "https://open.spotify.com/track/4GUXTRTjQ4voLzwLw9qbPx"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Fly Away With Me",
         "url": "https://open.spotify.com/album/0zyfjcblb35vFRjZ3KKXMR"
       },
@@ -3235,18 +3251,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "I Believe You",
-        "url": "https://open.spotify.com/album/7c6s5q0fbvQF5wFQAsmzo7"
+        "name": "Black Hole (Acoustic Version)",
+        "url": "https://open.spotify.com/album/009oQ3UChouWgXe3XWU2gD"
       },
       "artists": [
         {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 192992,
-      "name": "I Believe You",
-      "url": "https://open.spotify.com/track/4GUXTRTjQ4voLzwLw9qbPx"
+      "duration_ms": 175979,
+      "name": "Black Hole - Acoustic Version",
+      "url": "https://open.spotify.com/track/1cpVLszZnKUHUjsJDTEi3D"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3279,22 +3295,6 @@
       "duration_ms": 218804,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/5sdTTy6GnSHRJfWI2ZvAGe"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "English Rain",
-        "url": "https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Please Don't Say You Love Me",
-      "url": "https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y"
     }
   ],
   "unique_name": "Life Sucks",

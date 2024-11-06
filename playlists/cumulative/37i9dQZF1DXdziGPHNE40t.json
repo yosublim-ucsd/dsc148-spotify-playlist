@@ -654,7 +654,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 226679,
       "name": "Angel Falls",
       "url": "https://open.spotify.com/track/18mq8tGDlx1wF16w1YZxTf"
@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 210484,
       "name": "Dedicated To You",
       "url": "https://open.spotify.com/track/14bAZKLFFDRL7VdqgThszi"
@@ -2414,7 +2414,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 404106,
       "name": "Early Morning Thoughts",
       "url": "https://open.spotify.com/track/4QUlDSxJVMTYKaz3xBQ8F9"
@@ -2616,6 +2616,24 @@
       "duration_ms": 248165,
       "name": "Evans",
       "url": "https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622"
+    },
+    {
+      "album": {
+        "name": "Evening In New York",
+        "url": "https://open.spotify.com/album/33hEJUqjhwhKO75YNfphuE"
+      },
+      "artists": [
+        {
+          "name": "Jen\u00e9 Martins Band",
+          "url": "https://open.spotify.com/artist/7u9j7MdEqR5Em27hR8uuEI"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Evening In New York",
+      "url": "https://open.spotify.com/track/6i1udzdP4HRmjVDo4LPZF1"
     },
     {
       "album": {
@@ -3106,7 +3124,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 246250,
       "name": "Forgetful",
       "url": "https://open.spotify.com/track/6zWt69VWeGEtq5hmXjxH4y"
@@ -4104,7 +4122,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 216759,
       "name": "i've got a crush on you",
       "url": "https://open.spotify.com/track/79S9Ea6Q347UAPTIWnLmV2"
@@ -4680,7 +4698,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 156299,
       "name": "Jazz Junction",
       "url": "https://open.spotify.com/track/1grGYyIWIJ44ApvRXWCvdN"
@@ -5310,7 +5328,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 195561,
       "name": "Little Birdy Bean",
       "url": "https://open.spotify.com/track/4vkgxZq0GhzUt6Ta7e4RFO"
@@ -5742,7 +5760,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 204405,
       "name": "Make good better",
       "url": "https://open.spotify.com/track/75tYxIVIyTRQmCJeg68z84"
@@ -6390,7 +6408,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 224463,
       "name": "My First Choice",
       "url": "https://open.spotify.com/track/5Hd1LiJmHktsqPpoEKhKGv"
@@ -6606,7 +6624,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 187004,
       "name": "My Sweetest You",
       "url": "https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy"
@@ -7562,6 +7580,24 @@
       "duration_ms": 215767,
       "name": "Prez Delight",
       "url": "https://open.spotify.com/track/6lGjkXzEE95Q0qma4QFVQL"
+    },
+    {
+      "album": {
+        "name": "Prismatic Patterns",
+        "url": "https://open.spotify.com/album/2KxfRZS092AuJpZPndNq2z"
+      },
+      "artists": [
+        {
+          "name": "The Belleville Band",
+          "url": "https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144991,
+      "name": "Prismatic Patterns",
+      "url": "https://open.spotify.com/track/4p1JSJ4KvxfADfuskXlTgT"
     },
     {
       "album": {
@@ -9349,6 +9385,24 @@
     },
     {
       "album": {
+        "name": "The Holly and the Ivy",
+        "url": "https://open.spotify.com/album/38rt65pqnxc4KI8XvuVUkH"
+      },
+      "artists": [
+        {
+          "name": "Eternal Time Trio",
+          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130011,
+      "name": "The Holly and the Ivy",
+      "url": "https://open.spotify.com/track/0SXEGR0VmEVLs19ohpJ4AY"
+    },
+    {
+      "album": {
         "name": "The Last Call",
         "url": "https://open.spotify.com/album/3ifBBmWsuoHqpXnfYJ4YwS"
       },
@@ -10674,7 +10728,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 258414,
       "name": "What's Life Without You",
       "url": "https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic"
@@ -11070,7 +11124,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 236785,
       "name": "Without A Song",
       "url": "https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d"

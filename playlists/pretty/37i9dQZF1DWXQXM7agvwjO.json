@@ -1,6 +1,6 @@
 {
   "description": "Hottest indie sound from Asia. Cover: She Her Her Hers (Japan)",
-  "num_followers": 102336,
+  "num_followers": 102385,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-10-31 16:00:00",
       "album": {
+        "name": "Multo",
+        "url": "https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "duration_ms": 237692,
+      "name": "Multo",
+      "url": "https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF"
+    },
+    {
+      "added_at": "2024-10-31 16:00:00",
+      "album": {
         "name": "B\u00ecnh Y\u00ean",
         "url": "https://open.spotify.com/album/6DeqUBJYtfvtw8pcpEJqna"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 201655,
       "name": "B\u00ecnh Y\u00ean",
       "url": "https://open.spotify.com/track/5IZDnmnMBzLnE6APoYL26d"
-    },
-    {
-      "added_at": "2024-10-31 16:00:00",
-      "album": {
-        "name": "Multo",
-        "url": "https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo"
-      },
-      "artists": [
-        {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
-        }
-      ],
-      "duration_ms": 237692,
-      "name": "Multo",
-      "url": "https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF"
     },
     {
       "added_at": "2024-10-31 16:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-10-31 16:00:00",
       "album": {
-        "name": "happy endings do exist",
-        "url": "https://open.spotify.com/album/5hb3yY4LWxh6Z9cL0h7vCL"
-      },
-      "artists": [
-        {
-          "name": "PRYVT",
-          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
-        }
-      ],
-      "duration_ms": 197100,
-      "name": "happy endings do exist",
-      "url": "https://open.spotify.com/track/3f3UiKcmfzCkeV0QxOnBK9"
-    },
-    {
-      "added_at": "2024-10-31 16:00:00",
-      "album": {
         "name": "Amazing Show\u540c\u540d\u5c08\u8f2f",
         "url": "https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2024-10-31 16:00:00",
       "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l"
+        "name": "happy endings do exist",
+        "url": "https://open.spotify.com/album/5hb3yY4LWxh6Z9cL0h7vCL"
       },
       "artists": [
         {
-          "name": "Glen Check",
-          "url": "https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV"
+          "name": "PRYVT",
+          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
         }
       ],
-      "duration_ms": 227019,
-      "name": "Dazed & Confused",
-      "url": "https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z"
+      "duration_ms": 197100,
+      "name": "happy endings do exist",
+      "url": "https://open.spotify.com/track/3f3UiKcmfzCkeV0QxOnBK9"
     },
     {
       "added_at": "2024-10-31 16:00:00",
@@ -987,6 +971,22 @@
       "duration_ms": 210322,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12"
+    },
+    {
+      "added_at": "2024-10-31 16:00:00",
+      "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l"
+      },
+      "artists": [
+        {
+          "name": "Glen Check",
+          "url": "https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV"
+        }
+      ],
+      "duration_ms": 227019,
+      "name": "Dazed & Confused",
+      "url": "https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z"
     },
     {
       "added_at": "2024-10-31 16:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-10-31 16:00:00",
       "album": {
-        "name": "All The Way Home",
-        "url": "https://open.spotify.com/album/5Trqw7SQqbXfQnXHLzLnEN"
+        "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
+        "url": "https://open.spotify.com/album/5UizfLMmPsJpezsjEnBd8J"
       },
       "artists": [
         {
-          "name": "WIM",
-          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+          "name": "Lomba Sihir",
+          "url": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
         }
       ],
-      "duration_ms": 167100,
-      "name": "All The Way Home",
-      "url": "https://open.spotify.com/track/3lNxMw1toz8dCBt0wx9DWf"
+      "duration_ms": 233630,
+      "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
+      "url": "https://open.spotify.com/track/58yYXKH0TKKSRDvPdWKPxm"
     },
     {
       "added_at": "2024-10-31 16:00:00",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-10-31 16:00:00",
       "album": {
-        "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
-        "url": "https://open.spotify.com/album/5UizfLMmPsJpezsjEnBd8J"
+        "name": "All The Way Home",
+        "url": "https://open.spotify.com/album/5Trqw7SQqbXfQnXHLzLnEN"
       },
       "artists": [
         {
-          "name": "Lomba Sihir",
-          "url": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
         }
       ],
-      "duration_ms": 233630,
-      "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
-      "url": "https://open.spotify.com/track/58yYXKH0TKKSRDvPdWKPxm"
+      "duration_ms": 167100,
+      "name": "All The Way Home",
+      "url": "https://open.spotify.com/track/3lNxMw1toz8dCBt0wx9DWf"
     },
     {
       "added_at": "2024-10-31 16:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-10-31 16:00:00",
       "album": {
-        "name": "\u74e6\u5408",
-        "url": "https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8"
-      },
-      "artists": [
-        {
-          "name": "No Party For Cao Dong",
-          "url": "https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "\u7f38",
-      "url": "https://open.spotify.com/track/2OL3D6q6Qs1PY0NV3u4dNu"
-    },
-    {
-      "added_at": "2024-10-31 16:00:00",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2024-10-31 16:00:00",
       "album": {
-        "name": "Weirdo",
-        "url": "https://open.spotify.com/album/3UXtvSzgnZGaPl9w9jnPn2"
+        "name": "\u74e6\u5408",
+        "url": "https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8"
       },
       "artists": [
         {
-          "name": "WIM",
-          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+          "name": "No Party For Cao Dong",
+          "url": "https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp"
         }
       ],
-      "duration_ms": 253917,
-      "name": "Weirdo",
-      "url": "https://open.spotify.com/track/6qjKT6qI5AeGajCaKq2mfS"
+      "duration_ms": 186506,
+      "name": "\u7f38",
+      "url": "https://open.spotify.com/track/2OL3D6q6Qs1PY0NV3u4dNu"
     },
     {
       "added_at": "2024-10-31 16:00:00",
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2024-10-31 16:00:00",
       "album": {
+        "name": "Weirdo",
+        "url": "https://open.spotify.com/album/3UXtvSzgnZGaPl9w9jnPn2"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        }
+      ],
+      "duration_ms": 253917,
+      "name": "Weirdo",
+      "url": "https://open.spotify.com/track/6qjKT6qI5AeGajCaKq2mfS"
+    },
+    {
+      "added_at": "2024-10-31 16:00:00",
+      "album": {
         "name": "POWER ANDRE 99",
         "url": "https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-10-31 16:00:00",
       "album": {
-        "name": "Be Someone",
-        "url": "https://open.spotify.com/album/4lqmF9FjM1SXTkSAGNt1LW"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 225542,
-      "name": "Be Someone",
-      "url": "https://open.spotify.com/track/0IxSrOKtHS5O561qA7JJaV"
-    },
-    {
-      "added_at": "2024-10-31 16:00:00",
-      "album": {
         "name": "sharp knife",
         "url": "https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 170204,
       "name": "sharp knife",
       "url": "https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ"
+    },
+    {
+      "added_at": "2024-10-31 16:00:00",
+      "album": {
+        "name": "Be Someone",
+        "url": "https://open.spotify.com/album/4lqmF9FjM1SXTkSAGNt1LW"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 225542,
+      "name": "Be Someone",
+      "url": "https://open.spotify.com/track/0IxSrOKtHS5O561qA7JJaV"
     },
     {
       "added_at": "2024-10-31 16:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-10-31 16:00:00",
       "album": {
-        "name": "Retro-39 - Single",
-        "url": "https://open.spotify.com/album/7z3hLL1p2l0XyzjKWK7cKB"
-      },
-      "artists": [
-        {
-          "name": "Tilly Birds",
-          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
-        }
-      ],
-      "duration_ms": 209224,
-      "name": "Retro-39",
-      "url": "https://open.spotify.com/track/0dlObt3L90XxFk93xFFAEZ"
-    },
-    {
-      "added_at": "2024-10-31 16:00:00",
-      "album": {
         "name": "eko",
         "url": "https://open.spotify.com/album/7eKyBS8bK0jnfIWByYDrzB"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2024-10-31 16:00:00",
       "album": {
-        "name": "Dungeon",
-        "url": "https://open.spotify.com/album/1xWgPTItnMarVlFwjLkuQe"
+        "name": "Retro-39 - Single",
+        "url": "https://open.spotify.com/album/7z3hLL1p2l0XyzjKWK7cKB"
       },
       "artists": [
         {
-          "name": "muque",
-          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
         }
       ],
-      "duration_ms": 175600,
-      "name": "feelin'",
-      "url": "https://open.spotify.com/track/4C0BzFXSBi1G9GdDzYYnnj"
+      "duration_ms": 209224,
+      "name": "Retro-39",
+      "url": "https://open.spotify.com/track/0dlObt3L90XxFk93xFFAEZ"
     },
     {
       "added_at": "2024-10-31 16:00:00",
@@ -1495,6 +1479,22 @@
       "duration_ms": 148465,
       "name": "INVITATION - Spotify Singles",
       "url": "https://open.spotify.com/track/3SgCMp45HYch7DI0BgCGHy"
+    },
+    {
+      "added_at": "2024-10-31 16:00:00",
+      "album": {
+        "name": "Dungeon",
+        "url": "https://open.spotify.com/album/1xWgPTItnMarVlFwjLkuQe"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "duration_ms": 175600,
+      "name": "feelin'",
+      "url": "https://open.spotify.com/track/4C0BzFXSBi1G9GdDzYYnnj"
     },
     {
       "added_at": "2024-10-31 16:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-10-31 16:00:00",
       "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e23\u0e39\u0e49",
-        "url": "https://open.spotify.com/album/0QYsMM0FeG6QryoPlf54io"
-      },
-      "artists": [
-        {
-          "name": "Safeplanet",
-          "url": "https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw"
-        }
-      ],
-      "duration_ms": 302903,
-      "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e23\u0e39\u0e49",
-      "url": "https://open.spotify.com/track/5HCwzA8KgJa7MVj0Gs3pL6"
-    },
-    {
-      "added_at": "2024-10-31 16:00:00",
-      "album": {
         "name": "Now and Ever",
         "url": "https://open.spotify.com/album/27u7Lg41vdi6Ku1KGW1UrU"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 220161,
       "name": "Now and Ever",
       "url": "https://open.spotify.com/track/1VHM91Ost9UKZYPg7rRdhK"
+    },
+    {
+      "added_at": "2024-10-31 16:00:00",
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e23\u0e39\u0e49",
+        "url": "https://open.spotify.com/album/0QYsMM0FeG6QryoPlf54io"
+      },
+      "artists": [
+        {
+          "name": "Safeplanet",
+          "url": "https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw"
+        }
+      ],
+      "duration_ms": 302903,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e23\u0e39\u0e49",
+      "url": "https://open.spotify.com/track/5HCwzA8KgJa7MVj0Gs3pL6"
     },
     {
       "added_at": "2024-10-31 16:00:00",
@@ -1611,22 +1611,6 @@
       "duration_ms": 260430,
       "name": "Glue",
       "url": "https://open.spotify.com/track/3KDIlOWvgtEJUqh7T0lWBF"
-    },
-    {
-      "added_at": "2024-10-31 16:00:00",
-      "album": {
-        "name": "Until The Sunrise",
-        "url": "https://open.spotify.com/album/3KqZhPw9FN7ss8Xyu6bbwH"
-      },
-      "artists": [
-        {
-          "name": "Patrickananda",
-          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "Until The Sunrise",
-      "url": "https://open.spotify.com/track/0zI17xGlm9qDcwQ65NHotE"
     },
     {
       "added_at": "2024-10-31 16:00:00",
@@ -1675,6 +1659,22 @@
       "duration_ms": 265621,
       "name": "\u98db\u54af",
       "url": "https://open.spotify.com/track/43hf98nAQmYNuX3i2l6ius"
+    },
+    {
+      "added_at": "2024-10-31 16:00:00",
+      "album": {
+        "name": "Until The Sunrise",
+        "url": "https://open.spotify.com/album/3KqZhPw9FN7ss8Xyu6bbwH"
+      },
+      "artists": [
+        {
+          "name": "Patrickananda",
+          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "Until The Sunrise",
+      "url": "https://open.spotify.com/track/0zI17xGlm9qDcwQ65NHotE"
     },
     {
       "added_at": "2024-10-31 16:00:00",

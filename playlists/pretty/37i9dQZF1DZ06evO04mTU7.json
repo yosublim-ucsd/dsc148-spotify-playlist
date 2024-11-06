@@ -1,12 +1,12 @@
 {
   "description": "This is AJULIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 6425,
+  "num_followers": 6466,
   "original_name": "This Is AJULIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAADmx+b0teDKq8N7GHt3P7wl",
+  "snapshot_id": "ZygOgAAAAADg/F0WCqNu7l9YLi7JPec3",
   "tracks": [
     {
       "added_at": null,
@@ -175,30 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piranha",
-        "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 176098,
-      "name": "Piranha",
-      "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poetas no Topo 4",
         "url": "https://open.spotify.com/album/18qyfUQL7yiBIfSGwk8kco"
       },
@@ -267,6 +243,30 @@
       "duration_ms": 1067860,
       "name": "Poetas no Topo 4",
       "url": "https://open.spotify.com/track/4w47dntseeMeuLPzFTKKB9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piranha",
+        "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 176098,
+      "name": "Piranha",
+      "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
     },
     {
       "added_at": null,

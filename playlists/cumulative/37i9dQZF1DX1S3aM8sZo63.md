@@ -4,7 +4,7 @@
 
 > ¡Ponte cursi con las canciones más románticas! Julión Álvarez en portada.
 
-214 songs - 11 hr 36 min
+215 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [El Amor De Tu Vida](https://open.spotify.com/track/728JhI2Z1GDz1ThXbMIBvl) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [El Amor De Tu Vida \(feat\. Tony Melendez\)](https://open.spotify.com/album/2PbWbeflQZor3YlEs3N2lh) | 2:43 | 2021-12-27 | 2022-07-29 |
 | [El Amor De Tu Vida](https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Tony Melendez](https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF) | [El Amor De Tu Vida](https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9) | 2:43 | 2023-06-07 | 2024-04-19 |
 | [El Amor De Tu Vida](https://open.spotify.com/track/07NDoMUU2uThRfYaQLAhNj) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [El Amor De Tu Vida](https://open.spotify.com/album/0m83d317eGDRDC3Cn6zrnF) | 3:04 | 2023-12-01 | 2023-12-16 |
+| [El Amor No Fue Pa´ Mí \(En Vivo\)](https://open.spotify.com/track/6jwctT0wtZdG0fbLNVq5Jk) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [El Amor No Fue Pa´ Mí \(En Vivo\)](https://open.spotify.com/album/4NT68hH4qv8qFOaWI8unla) | 3:46 | 2024-10-25 |  |
 | [El Amor Soñado](https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Amor Soñado](https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO) | 3:02 | 2021-12-27 | 2024-10-05 |
 | [El Color de Tus Ojos](https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 3:22 | 2021-12-27 |  |
 | [El Lujo de Tenerte](https://open.spotify.com/track/3RS7iIReKd9yd2j7lfID5z) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Todo Va Estar Bien](https://open.spotify.com/album/1WGsrfidOIf6PMG0szz2WJ) | 2:56 | 2021-12-27 |  |
@@ -152,7 +153,7 @@
 | [Qué Bueno Es Tenerte](https://open.spotify.com/track/2Vficy40iZyTKoAJNwLWzd) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Qué Bueno Es Tenerte](https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H) | 3:25 | 2021-12-27 |  |
 | [Qué Fuimos \(En Vivo\)](https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Qué Fuimos \(En Vivo\)](https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b) | 3:50 | 2024-10-04 |  |
 | [Qué Maldición](https://open.spotify.com/track/1ovCSSWps8DWQwEDgmGiFp) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Qué Maldición](https://open.spotify.com/album/6oRHxFUQKBLocEBeWw24gb) | 3:23 | 2023-12-15 | 2024-01-17 |
-| [Qué Onda Perdida](https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15) | 3:59 | 2024-10-04 |  |
+| [Qué Onda Perdida](https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15) | 3:59 | 2024-10-04 | 2024-11-06 |
 | [Quédate Conmigo](https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:13 | 2022-06-20 |  |
 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 | 2021-12-27 | 2022-06-21 |
 | [Regalo De Dios](https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 3:05 | 2023-12-22 |  |

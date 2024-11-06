@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,660 likes - 114 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,673 likes - 114 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 43 | [Thin](https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [ii](https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN) | 2:58 |
 | 44 | [Please Don't Say You Love Me](https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA) | 3:01 |
 | 45 | [Faith's Song](https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l) | [Amy Wadge](https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp) | [Keeping Faith](https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh) | 2:52 |
-| 46 | [Nervous \(The Ooh Song\) \- Mark McCabe Remix](https://open.spotify.com/track/0L9lXMXddmoBbBUeF7A9An) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE), [Mark McCabe](https://open.spotify.com/artist/7b7fZRv3EYhFgWYJR3yjXn) | [Nervous \(The Ooh Song\) \[Mark McCabe Remix\]](https://open.spotify.com/album/6jfuBG9u0Au2nWXGXTXmux) | 3:15 |
-| 47 | [Things You Can't Change](https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [In Between Minds](https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC) | 3:19 |
+| 46 | [Things You Can't Change](https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [In Between Minds](https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC) | 3:19 |
+| 47 | [Nervous \(The Ooh Song\) \- Mark McCabe Remix](https://open.spotify.com/track/0L9lXMXddmoBbBUeF7A9An) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE), [Mark McCabe](https://open.spotify.com/artist/7b7fZRv3EYhFgWYJR3yjXn) | [Nervous \(The Ooh Song\) \[Mark McCabe Remix\]](https://open.spotify.com/album/6jfuBG9u0Au2nWXGXTXmux) | 3:15 |
 | 48 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 |
 | 49 | [hungover sunday](https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [hungover sunday](https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a) | 3:00 |
 | 50 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 69 | [Be Your Man](https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Be Your Man](https://open.spotify.com/album/052JsWmQlm2x415X7glETB) | 4:00 |
 | 70 | [Out of My Hands](https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Out of My Hands](https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh) | 3:23 |
 | 71 | [Hey Ya! \- Acoustic](https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [Hey Ya!](https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G) | 3:34 |
-| 72 | [No Fixed Abode](https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [No Fixed Abode](https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF) | 3:24 |
-| 73 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
+| 72 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
+| 73 | [No Fixed Abode](https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [No Fixed Abode](https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF) | 3:24 |
 | 74 | [Fact \- Fiction](https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Mads Langer](https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1) | 4:21 |
 | 75 | [I'm Done](https://open.spotify.com/track/5kMa3mm5zoM9SWTAZOBDDB) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:09 |
 | 76 | [you up?](https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [The Things I Can't Take With Me](https://open.spotify.com/album/3PSY4nGEzBEDmrb1UQL4iJ) | 1:14 |
@@ -111,15 +111,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 101 | [Cali](https://open.spotify.com/track/6LUdon4Z5YxNQDab66qepz) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Cali](https://open.spotify.com/album/3PisCW9fbXoASB0f2uAaYm) | 3:56 |
 | 102 | [The First To Know](https://open.spotify.com/track/58YU87leZyFMLbqdhQyQva) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [The First To Know](https://open.spotify.com/album/63X0OJQvVHVKWfR52CEndw) | 3:03 |
 | 103 | [Sorry Would Go A Long Way](https://open.spotify.com/track/3BuahhfJclheHyXL9pVrmO) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Sorry Would Go A Long Way](https://open.spotify.com/album/1y14kxEmxu5AXm7BApA2hc) | 3:11 |
-| 104 | [You You You](https://open.spotify.com/track/4h7MSTsZsbdHrWHVNXczkW) | [Sille Nilsson](https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC) | [Fall Away Into Place](https://open.spotify.com/album/7jHdi1IgUCGYlwofvhuB7S) | 3:42 |
-| 105 | [Blame](https://open.spotify.com/track/5JIcMwcnI4KQ3LYebICHbK) | [Matt Wills](https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT) | [Blame](https://open.spotify.com/album/6hlJSytMwlfpP4nWZrFwOX) | 2:56 |
+| 104 | [Blame](https://open.spotify.com/track/5JIcMwcnI4KQ3LYebICHbK) | [Matt Wills](https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT) | [Blame](https://open.spotify.com/album/6hlJSytMwlfpP4nWZrFwOX) | 2:56 |
+| 105 | [You You You](https://open.spotify.com/track/4h7MSTsZsbdHrWHVNXczkW) | [Sille Nilsson](https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC) | [Fall Away Into Place](https://open.spotify.com/album/7jHdi1IgUCGYlwofvhuB7S) | 3:42 |
 | 106 | [Helpless](https://open.spotify.com/track/7hyFz1ms1XEHbE2KqUbUQ8) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Helpless](https://open.spotify.com/album/1tnaGg9YXodD8TW4aSF39y) | 3:41 |
 | 107 | [Too Much To H8](https://open.spotify.com/track/3jsZnIOR0xnPg9XB8Ah7RQ) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Too Much To H8](https://open.spotify.com/album/45dRzNGb0feUCNe9WYgQ6g) | 2:52 |
 | 108 | [They Told Me](https://open.spotify.com/track/1uHfCC9qFChGhiSarUWq1B) | [Palm Trees](https://open.spotify.com/artist/3IYNUniWKkMmHKUHssC392), [Sophia Ayana](https://open.spotify.com/artist/0Tags4oElQqYRXkUyzGPzg) | [They Told Me](https://open.spotify.com/album/0s8cuApDirOCHXdb5Atv2F) | 3:01 |
-| 109 | [Blind You](https://open.spotify.com/track/1dOoli2ESWoNr6N28hxt4U) | [Didirri](https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw) | [Blind You](https://open.spotify.com/album/5O1yayKlHTvFlikkbGz7xt) | 2:54 |
-| 110 | [Fade](https://open.spotify.com/track/7zxhhMt0j1JV7OuFpQ2Boe) | [Skinny Living](https://open.spotify.com/artist/405DvLr0FOuOWYgCt0emff) | [Fade](https://open.spotify.com/album/4yYS7JBEY54Zn2J1z0fNJK) | 3:29 |
-| 111 | [Lying To Myself](https://open.spotify.com/track/3GPD0sa8NqrEmlGzkhKrAN) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lying To Myself](https://open.spotify.com/album/4vnyXmkgSgbduvuZOCbtLO) | 3:30 |
-| 112 | [Stop By Now](https://open.spotify.com/track/0zcrA7R0RlrCO7Fot7jQlt) | [Sille Nilsson](https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC) | [Stop By Now](https://open.spotify.com/album/17UBVzMdVOaQzusxehB7eH) | 3:43 |
+| 109 | [Fade](https://open.spotify.com/track/7zxhhMt0j1JV7OuFpQ2Boe) | [Skinny Living](https://open.spotify.com/artist/405DvLr0FOuOWYgCt0emff) | [Fade](https://open.spotify.com/album/4yYS7JBEY54Zn2J1z0fNJK) | 3:29 |
+| 110 | [Stop By Now](https://open.spotify.com/track/0zcrA7R0RlrCO7Fot7jQlt) | [Sille Nilsson](https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC) | [Stop By Now](https://open.spotify.com/album/17UBVzMdVOaQzusxehB7eH) | 3:43 |
+| 111 | [Blind You](https://open.spotify.com/track/1dOoli2ESWoNr6N28hxt4U) | [Didirri](https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw) | [Blind You](https://open.spotify.com/album/5O1yayKlHTvFlikkbGz7xt) | 2:54 |
+| 112 | [Lying To Myself](https://open.spotify.com/track/3GPD0sa8NqrEmlGzkhKrAN) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lying To Myself](https://open.spotify.com/album/4vnyXmkgSgbduvuZOCbtLO) | 3:30 |
 | 113 | [Daydreaming](https://open.spotify.com/track/3shOp9UrL0PMRdZir2mK91) | [Yehra](https://open.spotify.com/artist/3PLqRcOQ0mbGN3mPELPAZI) | [Daydreaming](https://open.spotify.com/album/30KoavVtPo5iGMn2SGlS1Q) | 2:58 |
 | 114 | [I'm Not Her \- Acoustic](https://open.spotify.com/track/4yr1dDskFzkDY8q6gBUNXw) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [I'm Not Her \(Acoustic\)](https://open.spotify.com/album/4LLOsUgnaD6Gsp6pEKI3GC) | 3:17 |
 

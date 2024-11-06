@@ -1,6 +1,6 @@
 {
   "description": "d\u00e1 play que a bagun\u00e7a organizada t\u00e1 liberada ",
-  "num_followers": 1065431,
+  "num_followers": 1065396,
   "original_name": "Sextou",
   "owner": {
     "name": "Spotify",
@@ -131,26 +131,6 @@
     {
       "added_at": "2024-10-31 00:01:00",
       "album": {
-        "name": "One Kiss (with Dua Lipa)",
-        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 214846,
-      "name": "One Kiss (with Dua Lipa)",
-      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
-    },
-    {
-      "added_at": "2024-10-31 00:01:00",
-      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 186209,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+    },
+    {
+      "added_at": "2024-10-31 00:01:00",
+      "album": {
+        "name": "One Kiss (with Dua Lipa)",
+        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 214846,
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
       "added_at": "2024-10-31 00:01:00",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2024-10-31 00:01:00",
       "album": {
+        "name": "Physical",
+        "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 193829,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
+    },
+    {
+      "added_at": "2024-10-31 00:01:00",
+      "album": {
         "name": "Funk Generation",
         "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 157838,
       "name": "Ahi",
       "url": "https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0"
-    },
-    {
-      "added_at": "2024-10-31 00:01:00",
-      "album": {
-        "name": "Physical",
-        "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 193829,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
     },
     {
       "added_at": "2024-10-31 00:01:00",
@@ -1887,26 +1887,6 @@
     {
       "added_at": "2024-10-31 00:01:00",
       "album": {
-        "name": "Here We Go Again",
-        "url": "https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 164541,
-      "name": "Here We Go Again",
-      "url": "https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M"
-    },
-    {
-      "added_at": "2024-10-31 00:01:00",
-      "album": {
         "name": "In Your Arms (For An Angel)",
         "url": "https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b"
       },
@@ -1931,6 +1911,26 @@
       "duration_ms": 150476,
       "name": "In Your Arms (For An Angel)",
       "url": "https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR"
+    },
+    {
+      "added_at": "2024-10-31 00:01:00",
+      "album": {
+        "name": "Here We Go Again",
+        "url": "https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 164541,
+      "name": "Here We Go Again",
+      "url": "https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M"
     },
     {
       "added_at": "2024-10-31 00:01:00",
@@ -2011,6 +2011,26 @@
     {
       "added_at": "2024-10-31 00:01:00",
       "album": {
+        "name": "Don't You Hold Me Down",
+        "url": "https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "duration_ms": 132597,
+      "name": "Don't You Hold Me Down",
+      "url": "https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim"
+    },
+    {
+      "added_at": "2024-10-31 00:01:00",
+      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj"
       },
@@ -2031,26 +2051,6 @@
       "duration_ms": 143253,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD"
-    },
-    {
-      "added_at": "2024-10-31 00:01:00",
-      "album": {
-        "name": "Don't You Hold Me Down",
-        "url": "https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Georgia Ku",
-          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
-        }
-      ],
-      "duration_ms": 132597,
-      "name": "Don't You Hold Me Down",
-      "url": "https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim"
     },
     {
       "added_at": "2024-10-31 00:01:00",

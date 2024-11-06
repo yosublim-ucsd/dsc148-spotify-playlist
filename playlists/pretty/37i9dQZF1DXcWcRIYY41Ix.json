@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: Lhasa de Sela.",
-  "num_followers": 126171,
+  "num_followers": 126189,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "Mundo Nuevo",
-        "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "Mundo Nuevo",
-      "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/523A7IjwBmOfIAk0xh3DUx"
       },
@@ -995,18 +975,22 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "Ay Madrid",
-        "url": "https://open.spotify.com/album/2ZoSeQVAi8w3FkGsOV7BF8"
+        "name": "Mundo Nuevo",
+        "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
       },
       "artists": [
         {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 181125,
-      "name": "Ay Madrid",
-      "url": "https://open.spotify.com/track/0xbrUmlaNHYD7LHjMyVZgJ"
+      "duration_ms": 201346,
+      "name": "Mundo Nuevo",
+      "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1023,6 +1007,22 @@
       "duration_ms": 219967,
       "name": "Inmensamente Fr\u00e1gil",
       "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
+        "name": "Ay Madrid",
+        "url": "https://open.spotify.com/album/2ZoSeQVAi8w3FkGsOV7BF8"
+      },
+      "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 181125,
+      "name": "Ay Madrid",
+      "url": "https://open.spotify.com/track/0xbrUmlaNHYD7LHjMyVZgJ"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+        }
+      ],
+      "duration_ms": 212019,
+      "name": "T\u00f3came",
+      "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
         "name": "Neurean / La Meva Llengua",
         "url": "https://open.spotify.com/album/2YBY9WZYL2ruwII9G5xXVj"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 195024,
       "name": "Due\u00f1a",
       "url": "https://open.spotify.com/track/4rqgkVxIgfYVnCtaQNdN0o"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
-      },
-      "artists": [
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        },
-        {
-          "name": "Guillem Roma",
-          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
-        }
-      ],
-      "duration_ms": 212019,
-      "name": "T\u00f3came",
-      "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "Caparaz\u00f3n",
-        "url": "https://open.spotify.com/album/1BsdnZvfo9rUHKj7XGgpNp"
-      },
-      "artists": [
-        {
-          "name": "Delfi Moore",
-          "url": "https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe"
-        }
-      ],
-      "duration_ms": 187594,
-      "name": "Caparaz\u00f3n",
-      "url": "https://open.spotify.com/track/1ZILqfSEpNKojBamw4IRnN"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
         "name": "Una carta con tu nombre",
         "url": "https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 235075,
       "name": "Una carta con tu nombre",
       "url": "https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
+        "name": "Caparaz\u00f3n",
+        "url": "https://open.spotify.com/album/1BsdnZvfo9rUHKj7XGgpNp"
+      },
+      "artists": [
+        {
+          "name": "Delfi Moore",
+          "url": "https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe"
+        }
+      ],
+      "duration_ms": 187594,
+      "name": "Caparaz\u00f3n",
+      "url": "https://open.spotify.com/track/1ZILqfSEpNKojBamw4IRnN"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "Llamando",
-        "url": "https://open.spotify.com/album/1gS7zOKufSC1rj29Q9eBPD"
-      },
-      "artists": [
-        {
-          "name": "Julieta Rada",
-          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 343498,
-      "name": "Llamando",
-      "url": "https://open.spotify.com/track/5qnfj8NLkjVaNO2eDWqt4C"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
         "name": "Continuar",
         "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
       },
@@ -1343,6 +1323,26 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
+        "name": "Llamando",
+        "url": "https://open.spotify.com/album/1gS7zOKufSC1rj29Q9eBPD"
+      },
+      "artists": [
+        {
+          "name": "Julieta Rada",
+          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 343498,
+      "name": "Llamando",
+      "url": "https://open.spotify.com/track/5qnfj8NLkjVaNO2eDWqt4C"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
         "name": "S\u20acR\u20acNATA",
         "url": "https://open.spotify.com/album/3RU9SZ2PmXjmE88AuZRdzi"
       },
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "El chico de Andratx",
-        "url": "https://open.spotify.com/album/0SFoBg3E3UFCvv2PWCPUBU"
+        "name": "El hombre de la habitaci\u00f3n de al lado",
+        "url": "https://open.spotify.com/album/7EqHXkO34eYZLPco3EpGZC"
       },
       "artists": [
         {
-          "name": "Bruno Sotos",
-          "url": "https://open.spotify.com/artist/5VtAP0zOz2mBVP7x4I6cT8"
+          "name": "Pez Mago",
+          "url": "https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY"
         }
       ],
-      "duration_ms": 153492,
-      "name": "El cielo de tu boca",
-      "url": "https://open.spotify.com/track/01HKKccj72pbBARrkUI8YN"
+      "duration_ms": 234933,
+      "name": "El hombre de la habitaci\u00f3n de al lado",
+      "url": "https://open.spotify.com/track/0O8cglYEjO4csK9xHbKqp0"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "El hombre de la habitaci\u00f3n de al lado",
-        "url": "https://open.spotify.com/album/7EqHXkO34eYZLPco3EpGZC"
+        "name": "El chico de Andratx",
+        "url": "https://open.spotify.com/album/0SFoBg3E3UFCvv2PWCPUBU"
       },
       "artists": [
         {
-          "name": "Pez Mago",
-          "url": "https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY"
+          "name": "Bruno Sotos",
+          "url": "https://open.spotify.com/artist/5VtAP0zOz2mBVP7x4I6cT8"
         }
       ],
-      "duration_ms": 234933,
-      "name": "El hombre de la habitaci\u00f3n de al lado",
-      "url": "https://open.spotify.com/track/0O8cglYEjO4csK9xHbKqp0"
+      "duration_ms": 153492,
+      "name": "El cielo de tu boca",
+      "url": "https://open.spotify.com/track/01HKKccj72pbBARrkUI8YN"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1423,26 +1423,6 @@
       "duration_ms": 133333,
       "name": "Y tu compa\u00f1\u00eda - canci\u00f3n original para la pel\u00edcula \"Voy a desaparecer\"",
       "url": "https://open.spotify.com/track/3fxahF4LqeH1Jcs9WTMEBW"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
-        "name": "Deshielo",
-        "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Ruiz",
-          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
-        },
-        {
-          "name": "Chambao",
-          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
-        }
-      ],
-      "duration_ms": 221712,
-      "name": "Oye mi Voz",
-      "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1467,6 +1447,26 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
+        "name": "Deshielo",
+        "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Ruiz",
+          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
+        },
+        {
+          "name": "Chambao",
+          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
+        }
+      ],
+      "duration_ms": 221712,
+      "name": "Oye mi Voz",
+      "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
         "name": "ENCORE",
         "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 252668,
       "name": "REMOLINO",
       "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
+        "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
+        "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
+      },
+      "artists": [
+        {
+          "name": "Luisa y el Mar",
+          "url": "https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC"
+        }
+      ],
+      "duration_ms": 175905,
+      "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
+      "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1499,22 +1515,6 @@
       "duration_ms": 212698,
       "name": "As vidas caladas",
       "url": "https://open.spotify.com/track/4Efc5WGKeeEVruEsTq36r2"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
-        "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
-        "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
-      },
-      "artists": [
-        {
-          "name": "Luisa y el Mar",
-          "url": "https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC"
-        }
-      ],
-      "duration_ms": 175905,
-      "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
-      "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "Caribe boreal",
-        "url": "https://open.spotify.com/album/1GKOEFTSAzTAgu0B6RM9My"
-      },
-      "artists": [
-        {
-          "name": "Pacoenlaluna",
-          "url": "https://open.spotify.com/artist/69AwGjfFeu3lurlo1xwOkz"
-        }
-      ],
-      "duration_ms": 229871,
-      "name": "Caribe boreal",
-      "url": "https://open.spotify.com/track/2AoqZCkpCuDbLwEq9nh5pw"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
         "name": "Mareas",
         "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 229901,
       "name": "Mareas",
       "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
+        "name": "Caribe boreal",
+        "url": "https://open.spotify.com/album/1GKOEFTSAzTAgu0B6RM9My"
+      },
+      "artists": [
+        {
+          "name": "Pacoenlaluna",
+          "url": "https://open.spotify.com/artist/69AwGjfFeu3lurlo1xwOkz"
+        }
+      ],
+      "duration_ms": 229871,
+      "name": "Caribe boreal",
+      "url": "https://open.spotify.com/track/2AoqZCkpCuDbLwEq9nh5pw"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "Lobo",
-        "url": "https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk"
-      },
-      "artists": [
-        {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        }
-      ],
-      "duration_ms": 186181,
-      "name": "Lobo",
-      "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
         "name": "La Noche de Mi Amor",
         "url": "https://open.spotify.com/album/4HZrNKdPv7iheKniNZOH7E"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 214464,
       "name": "La Noche de Mi Amor",
       "url": "https://open.spotify.com/track/3kMOp6GfCkln4nR91q9ESE"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
+        "name": "Lobo",
+        "url": "https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk"
+      },
+      "artists": [
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        }
+      ],
+      "duration_ms": 186181,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "C/ VIEJOS",
-        "url": "https://open.spotify.com/album/4sncZPHkQoPYhBBSwnFi6a"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Yfeu",
-          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
-        }
-      ],
-      "duration_ms": 180279,
-      "name": "C/ VIEJOS",
-      "url": "https://open.spotify.com/track/4hhMoM1eaLHBosahwhNGkw"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
         "name": "Una mica m\u00e9s",
         "url": "https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 261775,
       "name": "Una mica m\u00e9s",
       "url": "https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
+        "name": "C/ VIEJOS",
+        "url": "https://open.spotify.com/album/4sncZPHkQoPYhBBSwnFi6a"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Yfeu",
+          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
+        }
+      ],
+      "duration_ms": 180279,
+      "name": "C/ VIEJOS",
+      "url": "https://open.spotify.com/track/4hhMoM1eaLHBosahwhNGkw"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1863,22 +1863,22 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "Mi canci\u00f3n",
-        "url": "https://open.spotify.com/album/6EDZigC2EE0vzPpBjAyTxh"
+        "name": "Pecho Jard\u00edn",
+        "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
       },
       "artists": [
         {
-          "name": "Bruno Sotos",
-          "url": "https://open.spotify.com/artist/5VtAP0zOz2mBVP7x4I6cT8"
+          "name": "Alejandro Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/1QmdL2FgY8hrUjbKxX3jcK"
         },
         {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
         }
       ],
-      "duration_ms": 195941,
-      "name": "Mi canci\u00f3n",
-      "url": "https://open.spotify.com/track/7Ci5UjgtYfSqMe7PNwco9D"
+      "duration_ms": 282990,
+      "name": "Pecho Jard\u00edn",
+      "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
     }
   ],
   "unique_name": "Cancionistas",

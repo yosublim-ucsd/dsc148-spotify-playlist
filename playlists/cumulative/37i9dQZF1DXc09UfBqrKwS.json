@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Ad Astra",
+        "url": "https://open.spotify.com/album/1LR1BYVE2XyzNqI2YMFjsQ"
+      },
+      "artists": [
+        {
+          "name": "Volta Celeste",
+          "url": "https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158253,
+      "name": "Ad Astra",
+      "url": "https://open.spotify.com/track/0v7I8fgIlTNg3MSk4osm1j"
+    },
+    {
+      "album": {
         "name": "Ad Infinitum",
         "url": "https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR"
       },
@@ -2813,6 +2831,24 @@
     },
     {
       "album": {
+        "name": "Enigmus",
+        "url": "https://open.spotify.com/album/10kWRgddUgZdJ96qITHnYx"
+      },
+      "artists": [
+        {
+          "name": "luminique Revox",
+          "url": "https://open.spotify.com/artist/1x102Y2kSACtCX5MsNyIGX"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203733,
+      "name": "Enigmus",
+      "url": "https://open.spotify.com/track/7Cw2C3KEvbcXVEBERuAWzt"
+    },
+    {
+      "album": {
         "name": "Eons",
         "url": "https://open.spotify.com/album/1mrlHBWDGAFlIiZooWzedK"
       },
@@ -4343,6 +4379,24 @@
     },
     {
       "album": {
+        "name": "Joys",
+        "url": "https://open.spotify.com/album/3NWkkOHzbGUFecxZyIbBeB"
+      },
+      "artists": [
+        {
+          "name": "Los Sobriles",
+          "url": "https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Joys",
+      "url": "https://open.spotify.com/track/2O2qcDFG5UHfwPdlzlU5Ez"
+    },
+    {
+      "album": {
         "name": "juu",
         "url": "https://open.spotify.com/album/5pmfLhKpvk8KmNqA5ayiUq"
       },
@@ -4466,6 +4520,24 @@
       "duration_ms": 156916,
       "name": "Levitation",
       "url": "https://open.spotify.com/track/0zQ2Qbxic7cXWOVv9Qy98n"
+    },
+    {
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/0NiwXfCPPctznzw3f3rOkH"
+      },
+      "artists": [
+        {
+          "name": "Oliver \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147946,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/0LNiw2LKUcJG80ciSFQnLu"
     },
     {
       "album": {
@@ -5006,6 +5078,24 @@
       "duration_ms": 178000,
       "name": "Mist",
       "url": "https://open.spotify.com/track/1cDxN422npw3wU2ZfY6Qb9"
+    },
+    {
+      "album": {
+        "name": "Mist",
+        "url": "https://open.spotify.com/album/7C5hApE1qc1BDNFekhDbPt"
+      },
+      "artists": [
+        {
+          "name": "Melanitta Perspicillata",
+          "url": "https://open.spotify.com/artist/3wFCsw8ioaujwxcRwbEFi4"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185418,
+      "name": "Mist",
+      "url": "https://open.spotify.com/track/7oUxWZteexoZDiFXxnPfrm"
     },
     {
       "album": {
@@ -6327,6 +6417,24 @@
     },
     {
       "album": {
+        "name": "Recombination",
+        "url": "https://open.spotify.com/album/0gOoHcaJF4R89QSkjlQVCA"
+      },
+      "artists": [
+        {
+          "name": "Matt Deep",
+          "url": "https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179630,
+      "name": "Recombination",
+      "url": "https://open.spotify.com/track/0vTkzpVA6dpjQo5s6l9WOg"
+    },
+    {
+      "album": {
         "name": "Red Mind",
         "url": "https://open.spotify.com/album/7gton8cQc8A19dy3C2oaIT"
       },
@@ -6540,6 +6648,24 @@
       "duration_ms": 178968,
       "name": "Resort To Nature",
       "url": "https://open.spotify.com/track/7x5R8CCs2hpUWdReDxsQYZ"
+    },
+    {
+      "album": {
+        "name": "Respective",
+        "url": "https://open.spotify.com/album/3KbZDAf3Vc9OZP15LKnoku"
+      },
+      "artists": [
+        {
+          "name": "different spaces",
+          "url": "https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177251,
+      "name": "Respective",
+      "url": "https://open.spotify.com/track/4CFdKTed1DOl04HkT5yFl9"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 2010s. Cover: Kesha",
-  "num_followers": 1111826,
+  "num_followers": 1112307,
   "original_name": "Party Hits 2010s",
   "owner": {
     "name": "Spotify",
@@ -963,26 +963,6 @@
     {
       "added_at": "2024-07-12 13:54:59",
       "album": {
-        "name": "One Kiss (with Dua Lipa)",
-        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 214846,
-      "name": "One Kiss (with Dua Lipa)",
-      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
-    },
-    {
-      "added_at": "2024-07-12 13:54:59",
-      "album": {
         "name": "Warrior (Expanded Edition)",
         "url": "https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 255631,
       "name": "Latch",
       "url": "https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr"
+    },
+    {
+      "added_at": "2024-07-12 13:54:59",
+      "album": {
+        "name": "One Kiss (with Dua Lipa)",
+        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 214846,
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
       "added_at": "2024-07-12 13:54:59",
@@ -1423,22 +1423,22 @@
     {
       "added_at": "2024-07-12 13:54:59",
       "album": {
-        "name": "31 Minutes to Takeoff",
-        "url": "https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl"
+        "name": "Planet Pit (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB"
       },
       "artists": [
         {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         },
         {
-          "name": "Gigamesh",
-          "url": "https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 213293,
-      "name": "Cooler Than Me - Single Mix",
-      "url": "https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"
+      "duration_ms": 227280,
+      "name": "International Love (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/62zFEHfAYl5kdHYOivj4BC"
     },
     {
       "added_at": "2024-07-12 13:54:59",
@@ -1459,22 +1459,22 @@
     {
       "added_at": "2024-07-12 13:54:59",
       "album": {
-        "name": "Planet Pit (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB"
+        "name": "31 Minutes to Takeoff",
+        "url": "https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Gigamesh",
+          "url": "https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle"
         }
       ],
-      "duration_ms": 227280,
-      "name": "International Love (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/62zFEHfAYl5kdHYOivj4BC"
+      "duration_ms": 213293,
+      "name": "Cooler Than Me - Single Mix",
+      "url": "https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"
     },
     {
       "added_at": "2024-07-12 13:54:59",
@@ -2103,6 +2103,22 @@
     {
       "added_at": "2024-07-12 13:54:59",
       "album": {
+        "name": "Get Weird (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 211786,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg"
+    },
+    {
+      "added_at": "2024-07-12 13:54:59",
+      "album": {
         "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
         "url": "https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99"
       },
@@ -2135,22 +2151,6 @@
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
-    },
-    {
-      "added_at": "2024-07-12 13:54:59",
-      "album": {
-        "name": "Get Weird (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 211786,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg"
     },
     {
       "added_at": "2024-07-12 13:54:59",
@@ -2303,6 +2303,26 @@
     {
       "added_at": "2024-07-12 13:54:59",
       "album": {
+        "name": "All Around The World (La La La)",
+        "url": "https://open.spotify.com/album/0Y59j5oCvwTM2aNyPb6YpJ"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "A Touch Of Class",
+          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "All Around The World (La La La)",
+      "url": "https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp"
+    },
+    {
+      "added_at": "2024-07-12 13:54:59",
+      "album": {
         "name": "Born This Way (International Special Edition Version)",
         "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
       },
@@ -2347,26 +2367,6 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
-    },
-    {
-      "added_at": "2024-07-12 13:54:59",
-      "album": {
-        "name": "All Around The World (La La La)",
-        "url": "https://open.spotify.com/album/0Y59j5oCvwTM2aNyPb6YpJ"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "A Touch Of Class",
-          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "All Around The World (La La La)",
-      "url": "https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp"
     },
     {
       "added_at": "2024-07-12 13:54:59",

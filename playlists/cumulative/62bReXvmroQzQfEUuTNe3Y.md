@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance to in 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-453 songs - 1 day 1 hr 33 min
+454 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Come With Me \- Radio Mix](https://open.spotify.com/track/1Ht4NJdY8adMsW540P5vG0) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Come With Me](https://open.spotify.com/album/1Z83BApqk19O0J3QAMRqaR) | 2:53 | 2021-10-02 | 2021-11-11 |
 | [Complicate It](https://open.spotify.com/track/6sF9xywJzoCAdDcHeqqAfE) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [Complicate It](https://open.spotify.com/album/0z0kAoOGiTi9prRcjlPyRV) | 2:25 | 2024-10-04 |  |
 | [Control](https://open.spotify.com/track/3NrMppEmrfhrz9OXaUejp7) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Last Dance](https://open.spotify.com/album/68basHoqk34JRezSeXRacF) | 2:50 | 2021-08-07 | 2021-08-21 |
+| [Cornfield Chase](https://open.spotify.com/track/2Bz1aTnk3QLWkv89jHsMcb) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT) | [Cornfield Chase](https://open.spotify.com/album/668xE928NOQDOVmq9NXOu3) | 2:21 | 2024-11-05 |  |
 | [Cruel Summer \- LP Giobbi Remix](https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [The Cruelest Summer](https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4) | 3:12 | 2024-02-23 |  |
 | [Cry For Me](https://open.spotify.com/track/3cxgp575v709HjOLSHubBw) | [Touring](https://open.spotify.com/artist/1DKSHZmGXSlYlbUKFb6KXZ), [Luca Wilding](https://open.spotify.com/artist/3IMal2orfDZIifVZjFOLLL) | [Cry For Me](https://open.spotify.com/album/5TnCTrun94MPp92pUNTLzI) | 4:13 | 2024-03-22 |  |
 | [Dance Moves](https://open.spotify.com/track/0T03ZEDp87vpVEqgouqk87) | [Moonlight Breakfast](https://open.spotify.com/artist/1lfKZ5QsMaOjo5UbVmNaqp) | [Affection](https://open.spotify.com/album/51ojuOytuRkxxusdPjwIJs) | 3:50 | 2024-02-23 | 2024-09-21 |
@@ -85,7 +86,7 @@
 | [Delta](https://open.spotify.com/track/47LQEI2udisu7sRC9dYU4l) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Delta / Bartok EP](https://open.spotify.com/album/1xGvbgezgfzeFTndnwfY2U) | 3:24 | 2020-09-13\* | 2021-06-12 |
 | [Demons \- Massane Remix](https://open.spotify.com/track/5f4qquwjZzEXIdua2FId7b) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Demons](https://open.spotify.com/album/0P2mWEmLyOtXeallz8cGXz) | 4:03 | 2021-04-24 |  |
 | [Deny It](https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Deny It](https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i) | 4:02 | 2022-12-02 | 2023-04-01 |
-| [DESTINATIONS](https://open.spotify.com/track/6pqZjgc1HAGImauB9sCGU1) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MOOD](https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl) | 4:03 | 2023-05-05 |  |
+| [DESTINATIONS](https://open.spotify.com/track/6pqZjgc1HAGImauB9sCGU1) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MOOD](https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl) | 4:03 | 2023-05-05 | 2024-11-06 |
 | [DESTINY \(I.O.U\) \(feat\. Shibui\)](https://open.spotify.com/track/4eBMIU9A2DTYxcO0uOiGiS) | [WISEKIDS](https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2), [Paolo Pellegrino](https://open.spotify.com/artist/3ewQZ4iDkC9CQzceitueXe), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [DESTINY \(I.O.U\) \(feat\. Shibui\)](https://open.spotify.com/album/4tgnw6Z4gzE1ju0o63qxQn) | 2:34 | 2021-06-19 | 2021-06-26 |
 | [Dive](https://open.spotify.com/track/2lRvisx71Qh4dI3nhHN7gf) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Rue More](https://open.spotify.com/artist/26bowrYXXcMtHgx8g7sPKa) | [Dive](https://open.spotify.com/album/6HM2HWm4h2WymgqHEtDNgU) | 3:17 | 2023-03-31 |  |
 | [Dominoes](https://open.spotify.com/track/0qQCWMHz32bQd8gIKc8LFd) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Innerlight EP](https://open.spotify.com/album/2tg28FJC1DoNaE19f9FpY7) | 3:54 | 2021-10-16 | 2021-11-11 |

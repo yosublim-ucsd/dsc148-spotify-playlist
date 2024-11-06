@@ -1,12 +1,12 @@
 {
   "description": "This is HUMBE. The essential tracks, all in one playlist.",
-  "num_followers": 223000,
+  "num_followers": 223262,
   "original_name": "This Is HUMBE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAAD9Vq61HdB5/i8EhJz5YkmI",
+  "snapshot_id": "ZygOgAAAAAAP3iQQk8m+NborxVtlAwTh",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "bestia",
-        "url": "https://open.spotify.com/album/3g7qNB5LqZlkp72mvCXYj6"
+        "name": "Amor a Primera",
+        "url": "https://open.spotify.com/album/050xwu2KqU1mned3kh65Nw"
       },
       "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        },
         {
           "name": "HUMBE",
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 220638,
-      "name": "bestia",
-      "url": "https://open.spotify.com/track/2HZ5HcjkncmwlEh6dNG5Ra"
+      "duration_ms": 186733,
+      "name": "Amor a Primera",
+      "url": "https://open.spotify.com/track/2filNZQPKju4OSbRKQvI2V"
     },
     {
       "added_at": null,
@@ -415,18 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor a Primera",
-        "url": "https://open.spotify.com/album/050xwu2KqU1mned3kh65Nw"
+        "name": "bestia",
+        "url": "https://open.spotify.com/album/3g7qNB5LqZlkp72mvCXYj6"
       },
       "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        },
         {
           "name": "HUMBE",
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 186733,
-      "name": "Amor a Primera",
-      "url": "https://open.spotify.com/track/2filNZQPKju4OSbRKQvI2V"
+      "duration_ms": 220638,
+      "name": "bestia",
+      "url": "https://open.spotify.com/track/2HZ5HcjkncmwlEh6dNG5Ra"
     },
     {
       "added_at": null,

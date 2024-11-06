@@ -1,13 +1,185 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 05 Nov 23:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 06 Nov 02:02 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAM7smgTIZzm/eJyMCoN/8tvD3hG0vi",
+  "snapshot_id": "AAAM+nQ2w9g8v8Ns28RYsdon6bG1QC2i",
   "tracks": [
+    {
+      "added_at": "2024-11-06 02:02:22",
+      "album": {
+        "name": "Ai Que Calor",
+        "url": "https://open.spotify.com/album/6lk3NAiPTwyWCOI1SEf58R"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 144197,
+      "name": "Ai Que Calor",
+      "url": "https://open.spotify.com/track/4JId9VjoHETIHoCa7KHAf6"
+    },
+    {
+      "added_at": "2024-11-05 14:02:59",
+      "album": {
+        "name": "Mayonaka no Door~stay with me 2024",
+        "url": "https://open.spotify.com/album/3kDcz6EbJfyQyoYlJe0iCA"
+      },
+      "artists": [
+        {
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
+        }
+      ],
+      "duration_ms": 292666,
+      "name": "Mayonaka no Door~stay with me 2024",
+      "url": "https://open.spotify.com/track/62hTf9Vj6CdT4esPv7YHrn"
+    },
+    {
+      "added_at": "2024-11-05 14:02:59",
+      "album": {
+        "name": "Welcome to the Industry (From Fretless - The Wrath of Riffson)",
+        "url": "https://open.spotify.com/album/0VBT2ouqnWfL43FPwH7NeZ"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "duration_ms": 276714,
+      "name": "Welcome to the Industry - From Fretless - The Wrath of Riffson",
+      "url": "https://open.spotify.com/track/7tQJYcSnoUfDQnHbMjpp0q"
+    },
+    {
+      "added_at": "2024-11-05 17:02:55",
+      "album": {
+        "name": "\u666f\u8272 (KESHIKI)",
+        "url": "https://open.spotify.com/album/4a0wYABBEPqM7XSe2fIEFN"
+      },
+      "artists": [
+        {
+          "name": "EVNNE",
+          "url": "https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "\u666f\u8272 (KESHIKI)",
+      "url": "https://open.spotify.com/track/49OO49oidrxq3rmcrPfnDb"
+    },
+    {
+      "added_at": "2024-11-05 17:02:55",
+      "album": {
+        "name": "i want u",
+        "url": "https://open.spotify.com/album/1UFdwl1RfQ0pVHbzFV1YLL"
+      },
+      "artists": [
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "i want u",
+      "url": "https://open.spotify.com/track/1KUwEwWCtkY1wvLI7whez0"
+    },
+    {
+      "added_at": "2024-11-06 02:02:22",
+      "album": {
+        "name": "BABASONICO",
+        "url": "https://open.spotify.com/album/74rfiKnITSdktvbgqi5Kut"
+      },
+      "artists": [
+        {
+          "name": "Stiffy",
+          "url": "https://open.spotify.com/artist/7g7N6cRr5izWiIWvffgwWO"
+        },
+        {
+          "name": "turrobaby",
+          "url": "https://open.spotify.com/artist/3ZZY9rHZxm8lmug0aoX3pB"
+        },
+        {
+          "name": "Zell",
+          "url": "https://open.spotify.com/artist/0bslv0fksKPyiH3LQqHagi"
+        },
+        {
+          "name": "AgusFortnite2008",
+          "url": "https://open.spotify.com/artist/6S0NgDvO6FINUMYschvqZe"
+        }
+      ],
+      "duration_ms": 106500,
+      "name": "BABASONICO",
+      "url": "https://open.spotify.com/track/45JcbGAWOaqL8X7DFAMeP3"
+    },
+    {
+      "added_at": "2024-11-05 05:02:56",
+      "album": {
+        "name": "THE THIRD EYE",
+        "url": "https://open.spotify.com/album/0mGo5OEVo1bHP3zDrMgHLn"
+      },
+      "artists": [
+        {
+          "name": "tsubi club",
+          "url": "https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3"
+        }
+      ],
+      "duration_ms": 222496,
+      "name": "THE THIRD EYE",
+      "url": "https://open.spotify.com/track/4CU5tXSJWDNYgfgHnQtqOD"
+    },
+    {
+      "added_at": "2024-11-05 05:02:56",
+      "album": {
+        "name": "Lonely-Chan!",
+        "url": "https://open.spotify.com/album/5jvKpIC0XOUvlVsR7FL4br"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "SadGirlsVsTheWorld",
+          "url": "https://open.spotify.com/artist/6iUeohKjJtOEsfR1Z96g61"
+        },
+        {
+          "name": "Y\u00fbmi",
+          "url": "https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni"
+        },
+        {
+          "name": "irichan!",
+          "url": "https://open.spotify.com/artist/0hk7xvuMOqeUb0MWDkWwH6"
+        }
+      ],
+      "duration_ms": 156631,
+      "name": "Lonely-Chan!",
+      "url": "https://open.spotify.com/track/060HfJjBbzTz5jIQXxwAvH"
+    },
+    {
+      "added_at": "2024-11-05 11:03:08",
+      "album": {
+        "name": "Flower Burial",
+        "url": "https://open.spotify.com/album/0XwtjCyCxVPus0ZEiMvmPV"
+      },
+      "artists": [
+        {
+          "name": "gyrofield",
+          "url": "https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X"
+        }
+      ],
+      "duration_ms": 297142,
+      "name": "Flower Burial",
+      "url": "https://open.spotify.com/track/41uLJSrY3KqlLXd952wSiD"
+    },
     {
       "added_at": "2024-11-04 05:02:38",
       "album": {
@@ -45,6 +217,22 @@
       "url": "https://open.spotify.com/track/6XMHSmYxPPSu5dEIYT2iiB"
     },
     {
+      "added_at": "2024-11-05 17:02:55",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/3MrnCJFdzORGBefjmsxJLU"
+      },
+      "artists": [
+        {
+          "name": "ur pretty",
+          "url": "https://open.spotify.com/artist/5m9PQtVJ9ZZVWgb3t2nTMN"
+        }
+      ],
+      "duration_ms": 141013,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/4IX7E8IKV7HnRsn6V12Bgm"
+    },
+    {
       "added_at": "2024-11-04 23:02:47",
       "album": {
         "name": "The Bed I Made",
@@ -59,6 +247,22 @@
       "duration_ms": 186808,
       "name": "The Bed I Made",
       "url": "https://open.spotify.com/track/3gBiP88ggeaMxwVdLULEVv"
+    },
+    {
+      "added_at": "2024-11-05 20:02:30",
+      "album": {
+        "name": "Waste It With You",
+        "url": "https://open.spotify.com/album/608UrXKVU5451WPCd29dRr"
+      },
+      "artists": [
+        {
+          "name": "Tempesst",
+          "url": "https://open.spotify.com/artist/6yYoIxAvtAgGPSSring5SB"
+        }
+      ],
+      "duration_ms": 183722,
+      "name": "Waste It With You",
+      "url": "https://open.spotify.com/track/7FLXbZxZcyu6vNQy5D73RR"
     },
     {
       "added_at": "2024-11-04 17:02:54",
@@ -655,202 +859,6 @@
       "duration_ms": 174315,
       "name": "Lichtermeer",
       "url": "https://open.spotify.com/track/4In6HWGtiW1xDQWBwgVoRb"
-    },
-    {
-      "added_at": "2024-11-01 14:02:51",
-      "album": {
-        "name": "Decoy",
-        "url": "https://open.spotify.com/album/6nlYgVUO6Vhsl4KKGjGlMh"
-      },
-      "artists": [
-        {
-          "name": "Glokk40Spaz",
-          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
-        }
-      ],
-      "duration_ms": 154223,
-      "name": "Decoy",
-      "url": "https://open.spotify.com/track/3ersqxDzeNQnTnCKIoYkSf"
-    },
-    {
-      "added_at": "2024-11-01 08:02:42",
-      "album": {
-        "name": "Close Proximity",
-        "url": "https://open.spotify.com/album/3dHD3koeC8YbOBDkRmxHZx"
-      },
-      "artists": [
-        {
-          "name": "BLP KOSHER",
-          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
-        }
-      ],
-      "duration_ms": 198216,
-      "name": "Close Proximity",
-      "url": "https://open.spotify.com/track/5SgRLhSvGalr5eNljscFBH"
-    },
-    {
-      "added_at": "2024-11-01 08:02:42",
-      "album": {
-        "name": "HAMMER",
-        "url": "https://open.spotify.com/album/2hYS5RoJQZ9kXr6NkHu8NN"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 200244,
-      "name": "HAMMER",
-      "url": "https://open.spotify.com/track/49p6Jr3v4lrHxoUa7XnMN5"
-    },
-    {
-      "added_at": "2024-11-01 20:03:07",
-      "album": {
-        "name": "Fantasy (feat. Channel Tres)",
-        "url": "https://open.spotify.com/album/3k2rnh2rzbv7MF9kyf0CTr"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 216588,
-      "name": "Fantasy (feat. Channel Tres)",
-      "url": "https://open.spotify.com/track/1dGk1UhfbLY0neBaedx37o"
-    },
-    {
-      "added_at": "2024-11-01 05:03:09",
-      "album": {
-        "name": "Open The Pit",
-        "url": "https://open.spotify.com/album/5wiAY7ul5fy4xdzfKq9BV6"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        }
-      ],
-      "duration_ms": 226069,
-      "name": "Open The Pit",
-      "url": "https://open.spotify.com/track/1HComaUOXdl7jRuGB3KsVB"
-    },
-    {
-      "added_at": "2024-11-01 11:02:35",
-      "album": {
-        "name": "IOU",
-        "url": "https://open.spotify.com/album/0q3267f3x9hLlTiZ07aUMa"
-      },
-      "artists": [
-        {
-          "name": "Layto",
-          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
-        },
-        {
-          "name": "WesGhost",
-          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
-        }
-      ],
-      "duration_ms": 191622,
-      "name": "IOU",
-      "url": "https://open.spotify.com/track/3akZGuqQhifRrFYB8UCell"
-    },
-    {
-      "added_at": "2024-11-01 17:02:39",
-      "album": {
-        "name": "You Resemble Everything",
-        "url": "https://open.spotify.com/album/7KMmDgFmwClaHFUugRQdx5"
-      },
-      "artists": [
-        {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
-        }
-      ],
-      "duration_ms": 224226,
-      "name": "You Resemble Everything",
-      "url": "https://open.spotify.com/track/6F8bla4C7O8JvA2J0OuSt7"
-    },
-    {
-      "added_at": "2024-11-02 05:02:28",
-      "album": {
-        "name": "Need I Say More",
-        "url": "https://open.spotify.com/album/4s5r0xB87oOlLo9jEJ57vp"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
-        }
-      ],
-      "duration_ms": 178893,
-      "name": "Need I Say More",
-      "url": "https://open.spotify.com/track/2UkRAahf0a1wvwxyfqbcLl"
-    },
-    {
-      "added_at": "2024-11-01 08:02:42",
-      "album": {
-        "name": "\u0426\u0435\u043d\u0442\u0440",
-        "url": "https://open.spotify.com/album/59qcGksrKwwDYNP3ixAocj"
-      },
-      "artists": [
-        {
-          "name": "Heronwater",
-          "url": "https://open.spotify.com/artist/6694OnEnGJ9QPSS9q7Bu33"
-        }
-      ],
-      "duration_ms": 134769,
-      "name": "\u0426\u0435\u043d\u0442\u0440",
-      "url": "https://open.spotify.com/track/73DUhs3InYiSovhfju5FiB"
-    },
-    {
-      "added_at": "2024-11-01 05:03:09",
-      "album": {
-        "name": "MUZEU",
-        "url": "https://open.spotify.com/album/3bd1dMnWuPI1eKBda71qCy"
-      },
-      "artists": [
-        {
-          "name": "OG Eastbull",
-          "url": "https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO"
-        },
-        {
-          "name": "NOUA UNSPE",
-          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
-        }
-      ],
-      "duration_ms": 156363,
-      "name": "MUZEU",
-      "url": "https://open.spotify.com/track/70lIMzCAltgvTJRFJe8s2Y"
-    },
-    {
-      "added_at": "2024-11-01 23:02:42",
-      "album": {
-        "name": "on my way!",
-        "url": "https://open.spotify.com/album/0KhKgRPkVEkPY5DJpkFVhq"
-      },
-      "artists": [
-        {
-          "name": "renforshort",
-          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
-        }
-      ],
-      "duration_ms": 195759,
-      "name": "on my way!",
-      "url": "https://open.spotify.com/track/3xop7j0ksS5xxLnR9uFi6U"
     }
   ],
   "unique_name": "New Singles Now",

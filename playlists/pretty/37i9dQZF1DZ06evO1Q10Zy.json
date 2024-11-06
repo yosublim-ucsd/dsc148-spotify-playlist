@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 35477,
+  "num_followers": 35481,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAADZOYjJialNse8H4wpYeiD+",
+  "snapshot_id": "ZygOgAAAAADnPep0m8dnSt9WsqM4+IeU",
   "tracks": [
     {
       "added_at": null,
@@ -119,98 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 349840,
-      "name": "Whip Appeal - 12-inch Version",
-      "url": "https://open.spotify.com/track/4D13ulAZI1V7PG7Zg1Ar7r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For The Cool In You",
-        "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 293266,
-      "name": "Never Keeping Secrets",
-      "url": "https://open.spotify.com/track/7L06pF5o819jflseQ4Wde5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lips On Lips",
-        "url": "https://open.spotify.com/album/3c6tkZqDVzUq6HEyn0Klhl"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Young",
-          "url": "https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 226926,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3sIbXHStayfEMhIrLgsJs2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love, Marriage\u200e & Divorce",
-        "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 263066,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/5o1Trj52mQcOfgiFfNEzAz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Carter III",
-        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 265240,
-      "name": "Comfortable",
-      "url": "https://open.spotify.com/track/6NKtO7hYNDtjGFXE858qEk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Q's Jook Joint",
         "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
       },
@@ -239,6 +147,98 @@
       "duration_ms": 450600,
       "name": "Slow Jams",
       "url": "https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The Cool In You",
+        "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 293266,
+      "name": "Never Keeping Secrets",
+      "url": "https://open.spotify.com/track/7L06pF5o819jflseQ4Wde5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 349840,
+      "name": "Whip Appeal - 12-inch Version",
+      "url": "https://open.spotify.com/track/4D13ulAZI1V7PG7Zg1Ar7r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love, Marriage\u200e & Divorce",
+        "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 263066,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/5o1Trj52mQcOfgiFfNEzAz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lips On Lips",
+        "url": "https://open.spotify.com/album/3c6tkZqDVzUq6HEyn0Klhl"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Young",
+          "url": "https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 226926,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3sIbXHStayfEMhIrLgsJs2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 265240,
+      "name": "Comfortable",
+      "url": "https://open.spotify.com/track/6NKtO7hYNDtjGFXE858qEk"
     },
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 311533,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Closer Look",
         "url": "https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT"
       },
@@ -883,8 +899,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/3pw5V9vCxISf2edu7otGJM"
       },
       "artists": [
         {
@@ -892,9 +908,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 311533,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe"
+      "duration_ms": 303093,
+      "name": "You Make Me Feel Brand New",
+      "url": "https://open.spotify.com/track/4AK8YjpnRNHHFFQKSvqtmE"
     },
     {
       "added_at": null,
@@ -915,22 +931,6 @@
       "duration_ms": 246533,
       "name": "I Honestly Love You",
       "url": "https://open.spotify.com/track/586aJTfgYDYOkYcoApmsXp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lovers",
-        "url": "https://open.spotify.com/album/3pw5V9vCxISf2edu7otGJM"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 303093,
-      "name": "You Make Me Feel Brand New",
-      "url": "https://open.spotify.com/track/4AK8YjpnRNHHFFQKSvqtmE"
     },
     {
       "added_at": null,

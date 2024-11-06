@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon.",
-  "num_followers": 25009,
+  "num_followers": 25027,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-11-04 11:05:55",
       "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
+    },
+    {
+      "added_at": "2024-11-04 11:05:55",
+      "album": {
         "name": "Tough",
         "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
-    },
-    {
-      "added_at": "2024-11-04 11:05:55",
-      "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
     },
     {
       "added_at": "2024-11-04 11:05:55",
@@ -835,6 +835,26 @@
     {
       "added_at": "2024-11-04 11:05:55",
       "album": {
+        "name": "MOKKA",
+        "url": "https://open.spotify.com/album/4iQWeN0DOgVm1npN2nKkpk"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "duration_ms": 163375,
+      "name": "MOKKA",
+      "url": "https://open.spotify.com/track/3u582Ft7ws5CvUxCsBHxwT"
+    },
+    {
+      "added_at": "2024-11-04 11:05:55",
+      "album": {
         "name": "BANDANA",
         "url": "https://open.spotify.com/album/42hd8PAjFmpZfA9Z9Dy96l"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 186808,
       "name": "BANDANA",
       "url": "https://open.spotify.com/track/7A65mp4YCD2HyrYZ7DGIW9"
-    },
-    {
-      "added_at": "2024-11-04 11:05:55",
-      "album": {
-        "name": "MOKKA",
-        "url": "https://open.spotify.com/album/4iQWeN0DOgVm1npN2nKkpk"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
-        {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
-        }
-      ],
-      "duration_ms": 163375,
-      "name": "MOKKA",
-      "url": "https://open.spotify.com/track/3u582Ft7ws5CvUxCsBHxwT"
     },
     {
       "added_at": "2024-11-04 11:05:55",
@@ -947,22 +947,18 @@
     {
       "added_at": "2024-11-04 11:05:55",
       "album": {
-        "name": "NINCS HOLNAP",
-        "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/1Yjm0RrLmt6LG9ng0mM6mU"
       },
       "artists": [
         {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        },
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
         }
       ],
-      "duration_ms": 130679,
-      "name": "PROSECCO",
-      "url": "https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii"
+      "duration_ms": 162333,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370"
     },
     {
       "added_at": "2024-11-04 11:05:55",
@@ -987,18 +983,22 @@
     {
       "added_at": "2024-11-04 11:05:55",
       "album": {
-        "name": "Strawberry",
-        "url": "https://open.spotify.com/album/1Yjm0RrLmt6LG9ng0mM6mU"
+        "name": "NINCS HOLNAP",
+        "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
       },
       "artists": [
         {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
         }
       ],
-      "duration_ms": 162333,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370"
+      "duration_ms": 130679,
+      "name": "PROSECCO",
+      "url": "https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii"
     },
     {
       "added_at": "2024-11-04 11:05:55",
@@ -1055,82 +1055,6 @@
     {
       "added_at": "2024-11-04 11:05:55",
       "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
-      },
-      "artists": [
-        {
-          "name": "MIKOLAS",
-          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
-        },
-        {
-          "name": "Mark Neve",
-          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
-        }
-      ],
-      "duration_ms": 141027,
-      "name": "Delilah",
-      "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
-    },
-    {
-      "added_at": "2024-11-04 11:05:55",
-      "album": {
-        "name": "Vagy Mindent Vagy Semmit",
-        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 176395,
-      "name": "M\u00e1mor",
-      "url": "https://open.spotify.com/track/1zWdoNRmxhBaAJiJI2SI7j"
-    },
-    {
-      "added_at": "2024-11-04 11:05:55",
-      "album": {
-        "name": "NINCS HOLNAP",
-        "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
-      },
-      "artists": [
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        },
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        }
-      ],
-      "duration_ms": 150295,
-      "name": "CARTIER",
-      "url": "https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m"
-    },
-    {
-      "added_at": "2024-11-04 11:05:55",
-      "album": {
-        "name": "Valencia",
-        "url": "https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9"
-      },
-      "artists": [
-        {
-          "name": "Tomi",
-          "url": "https://open.spotify.com/artist/3T7cPgj4vAIoSdypl7cNH8"
-        },
-        {
-          "name": "VALMAR",
-          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
-        }
-      ],
-      "duration_ms": 175081,
-      "name": "Valencia",
-      "url": "https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb"
-    },
-    {
-      "added_at": "2024-11-04 11:05:55",
-      "album": {
         "name": "BANNANI",
         "url": "https://open.spotify.com/album/1tHyKcCUoVbv045LQBFKHO"
       },
@@ -1155,22 +1079,18 @@
     {
       "added_at": "2024-11-04 11:05:55",
       "album": {
-        "name": "0",
-        "url": "https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf"
+        "name": "Vagy Mindent Vagy Semmit",
+        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
       },
       "artists": [
         {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        },
-        {
-          "name": "ANUBII$",
-          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         }
       ],
-      "duration_ms": 146400,
-      "name": "MEGGYF\u00c1N",
-      "url": "https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw"
+      "duration_ms": 176395,
+      "name": "M\u00e1mor",
+      "url": "https://open.spotify.com/track/1zWdoNRmxhBaAJiJI2SI7j"
     },
     {
       "added_at": "2024-11-04 11:05:55",
@@ -1199,6 +1119,86 @@
       "duration_ms": 189354,
       "name": "Rampapapam",
       "url": "https://open.spotify.com/track/1E2flGJxXQNeBLRqQXiAsK"
+    },
+    {
+      "added_at": "2024-11-04 11:05:55",
+      "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
+      },
+      "artists": [
+        {
+          "name": "MIKOLAS",
+          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
+        },
+        {
+          "name": "Mark Neve",
+          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
+        }
+      ],
+      "duration_ms": 141027,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
+    },
+    {
+      "added_at": "2024-11-04 11:05:55",
+      "album": {
+        "name": "Valencia",
+        "url": "https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9"
+      },
+      "artists": [
+        {
+          "name": "Tomi",
+          "url": "https://open.spotify.com/artist/3T7cPgj4vAIoSdypl7cNH8"
+        },
+        {
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+        }
+      ],
+      "duration_ms": 175081,
+      "name": "Valencia",
+      "url": "https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb"
+    },
+    {
+      "added_at": "2024-11-04 11:05:55",
+      "album": {
+        "name": "0",
+        "url": "https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "MEGGYF\u00c1N",
+      "url": "https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw"
+    },
+    {
+      "added_at": "2024-11-04 11:05:55",
+      "album": {
+        "name": "NINCS HOLNAP",
+        "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "duration_ms": 150295,
+      "name": "CARTIER",
+      "url": "https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m"
     },
     {
       "added_at": "2024-11-04 11:05:55",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-11-04 11:05:55",
       "album": {
-        "name": "Tiara",
-        "url": "https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        }
-      ],
-      "duration_ms": 203125,
-      "name": "Tiara",
-      "url": "https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr"
-    },
-    {
-      "added_at": "2024-11-04 11:05:55",
-      "album": {
         "name": "SISS",
         "url": "https://open.spotify.com/album/6cCrVfhvI1Wy9G5w55wxlM"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 170934,
       "name": "SISS",
       "url": "https://open.spotify.com/track/2wYEY39laan1ePP1etfI1N"
+    },
+    {
+      "added_at": "2024-11-04 11:05:55",
+      "album": {
+        "name": "Tiara",
+        "url": "https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "duration_ms": 203125,
+      "name": "Tiara",
+      "url": "https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr"
     },
     {
       "added_at": "2024-11-04 11:05:55",
@@ -1331,34 +1331,38 @@
     {
       "added_at": "2024-11-04 11:05:55",
       "album": {
-        "name": "Torz",
-        "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/2nKNusskARBW5lMEt3996z"
       },
       "artists": [
         {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "K\u00daTV\u00d6LGYI S\u00c1RA",
+          "url": "https://open.spotify.com/artist/2HFVT3TbcVZW8lWVE4eIka"
         }
       ],
-      "duration_ms": 178800,
-      "name": "Doktor - Torz",
-      "url": "https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf"
+      "duration_ms": 114392,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/4VXiDjCRkKHvXFhSX7OEri"
     },
     {
       "added_at": "2024-11-04 11:05:55",
       "album": {
-        "name": "zek\u0151",
-        "url": "https://open.spotify.com/album/7fSpOvhym4ns1HJwa6Igag"
+        "name": "J\u00e9zus k\u00e9rlek h\u00edvj\u00e1l fel",
+        "url": "https://open.spotify.com/album/0FUvBz087oUFhM6EslUWBI"
       },
       "artists": [
         {
-          "name": "ByeAlex \u00e9s a Slepp",
-          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+          "name": "Zakeus",
+          "url": "https://open.spotify.com/artist/50lp8qhb7cVGIj7YpCQ16B"
         }
       ],
-      "duration_ms": 157636,
-      "name": "bangkok",
-      "url": "https://open.spotify.com/track/22BKxxJomFWgMsYn1Y7Fxn"
+      "duration_ms": 160534,
+      "name": "J\u00e9zus k\u00e9rlek h\u00edvj\u00e1l fel",
+      "url": "https://open.spotify.com/track/5iAfEsRxQ6LjMZ7p2cWeOJ"
     },
     {
       "added_at": "2024-11-04 11:05:55",
@@ -1379,18 +1383,18 @@
     {
       "added_at": "2024-11-04 11:05:55",
       "album": {
-        "name": "J\u00e9zus k\u00e9rlek h\u00edvj\u00e1l fel",
-        "url": "https://open.spotify.com/album/0FUvBz087oUFhM6EslUWBI"
+        "name": "zek\u0151",
+        "url": "https://open.spotify.com/album/7fSpOvhym4ns1HJwa6Igag"
       },
       "artists": [
         {
-          "name": "Zakeus",
-          "url": "https://open.spotify.com/artist/50lp8qhb7cVGIj7YpCQ16B"
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
         }
       ],
-      "duration_ms": 160534,
-      "name": "J\u00e9zus k\u00e9rlek h\u00edvj\u00e1l fel",
-      "url": "https://open.spotify.com/track/5iAfEsRxQ6LjMZ7p2cWeOJ"
+      "duration_ms": 157636,
+      "name": "bangkok",
+      "url": "https://open.spotify.com/track/22BKxxJomFWgMsYn1Y7Fxn"
     },
     {
       "added_at": "2024-11-04 11:05:55",
@@ -1415,22 +1419,18 @@
     {
       "added_at": "2024-11-04 11:05:55",
       "album": {
-        "name": "Loca",
-        "url": "https://open.spotify.com/album/2nKNusskARBW5lMEt3996z"
+        "name": "Torz",
+        "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
       },
       "artists": [
         {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        },
-        {
-          "name": "K\u00daTV\u00d6LGYI S\u00c1RA",
-          "url": "https://open.spotify.com/artist/2HFVT3TbcVZW8lWVE4eIka"
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
         }
       ],
-      "duration_ms": 114392,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/4VXiDjCRkKHvXFhSX7OEri"
+      "duration_ms": 178800,
+      "name": "Doktor - Torz",
+      "url": "https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf"
     },
     {
       "added_at": "2024-11-04 11:05:55",
@@ -1451,22 +1451,18 @@
     {
       "added_at": "2024-11-04 11:05:55",
       "album": {
-        "name": "IGAZIAK\u00c9RT",
-        "url": "https://open.spotify.com/album/79TxTooMGOIBxL57zgx6n1"
+        "name": "\u00d6rd\u00f6g N\u00f3rika",
+        "url": "https://open.spotify.com/album/1JaFdpKwzHa9KdPdqQ98Yw"
       },
       "artists": [
         {
-          "name": "ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
-        },
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
         }
       ],
-      "duration_ms": 156521,
-      "name": "45 Primo",
-      "url": "https://open.spotify.com/track/1iJSUAeT5x2fooS8jFg7cy"
+      "duration_ms": 123125,
+      "name": "\u00d6rd\u00f6g N\u00f3rika",
+      "url": "https://open.spotify.com/track/0NECD9bmlKlhxuZHQ5sq7J"
     }
   ],
   "unique_name": "Most Men\u0151",

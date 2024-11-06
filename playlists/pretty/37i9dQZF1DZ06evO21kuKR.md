@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 
 > This is Moneybagg Yo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,818 likes - 51 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,837 likes - 51 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 36 | [Fall Down \(feat\. Kevin Gates & Rvssian\)](https://open.spotify.com/track/4z7OagqDCwZjkZBedfA0OG) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [RESET](https://open.spotify.com/album/547DJFUYOl2SBYJbo2jZX1) | 3:01 |
 | 37 | [PLAY DA FOOL](https://open.spotify.com/track/2r2P4BdOx5thvw5lYR84t3) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:19 |
 | 38 | [Trust Nothing \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 3:05 |
-| 39 | [ON GOD](https://open.spotify.com/track/0oaPJvWMRthRdnoPNUsniz) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 3:00 |
-| 40 | [GO! \(with BIG30\)](https://open.spotify.com/track/04wzgTWP6YU07PdUjm0XzG) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:03 |
+| 39 | [GO! \(with BIG30\)](https://open.spotify.com/track/04wzgTWP6YU07PdUjm0XzG) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:03 |
+| 40 | [ON GOD](https://open.spotify.com/track/0oaPJvWMRthRdnoPNUsniz) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 3:00 |
 | 41 | [SPEAK](https://open.spotify.com/track/3kZTs4DX113J0YjNl6e6H1) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:19 |
 | 42 | [See Wat I’m Sayin](https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [See Wat I’m Sayin](https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R) | 2:26 |
-| 43 | [RAP N\*\*\*\*S](https://open.spotify.com/track/06dAi84ttJpX8MtNehYiAj) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 1:56 |
-| 44 | [Switches & Dracs \(with Lil Durk feat\. EST Gee\)](https://open.spotify.com/track/4c7LkE1lSNj3RR4cZo0jEi) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB) | 2:13 |
+| 43 | [Switches & Dracs \(with Lil Durk feat\. EST Gee\)](https://open.spotify.com/track/4c7LkE1lSNj3RR4cZo0jEi) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB) | 2:13 |
+| 44 | [RAP N\*\*\*\*S](https://open.spotify.com/track/06dAi84ttJpX8MtNehYiAj) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 1:56 |
 | 45 | [Projects](https://open.spotify.com/track/0iknSgwfDslqMT5pr6j5zi) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:48 |
 | 46 | [Scared Money \(feat\. J\. Cole and Moneybagg Yo\)](https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Scared Money](https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8) | 3:24 |
 | 47 | [Pistol By Da Bed](https://open.spotify.com/track/5QOQTuR9vSDQdhz3Bo2FTs) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 1:59 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 50 | [Don't Worry \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/0jYuyvmZaMNUDQicdPXNMy) | [Doodie Lo](https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Big Doodie Lo](https://open.spotify.com/album/76Eiy74blIlWShse7Iu8GL) | 2:21 |
 | 51 | [Feel The Same Way \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5nh5iMaYliOmgrhohSNOtJ) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hunger Games 3](https://open.spotify.com/album/2vHDkBlDTfwjLMOSiTO3za) | 3:32 |
 
-Snapshot ID: `Zya9AAAAAACCdy0lmouPyDbP5CWFr9j2`
+Snapshot ID: `ZygOgAAAAADIVftjSuEGi4uwX2DVtme/`

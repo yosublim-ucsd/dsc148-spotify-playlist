@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 
 > Defining songs of the riot grrrl era and the artists keeping its spirit alive
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,539 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,606 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,14 +30,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 20 | [Take It Off](https://open.spotify.com/track/6QyBIZEvs11K9lKjyLYtv6) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Spend The Night \(U.S\. Version\)](https://open.spotify.com/album/15wLLULZwFUQ2aDp4PB3nv) | 2:41 |
 | 21 | [Strawberry Gashes](https://open.spotify.com/track/6BbUeBm35cYoGUy70rqsG8) | [Jack Off Jill](https://open.spotify.com/artist/5ybsLFsFrRFXgdklfMryWD) | [Clear Hearts Grey Flowers](https://open.spotify.com/album/7GmU3mfzXDwS68kpuFMczP) | 3:43 |
 | 22 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 |
-| 23 | [Double Dare Ya](https://open.spotify.com/track/2tRI6j8RxFwrxoRKs7dnV8) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The First Two Records](https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze) | 2:40 |
-| 24 | [Bruise Violet](https://open.spotify.com/track/0o0fnK2CqZvI3jONRDv6ax) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Fontanelle](https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09) | 2:52 |
+| 23 | [Bruise Violet](https://open.spotify.com/track/0o0fnK2CqZvI3jONRDv6ax) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Fontanelle](https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09) | 2:52 |
+| 24 | [Double Dare Ya](https://open.spotify.com/track/2tRI6j8RxFwrxoRKs7dnV8) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The First Two Records](https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze) | 2:40 |
 | 25 | [Spit It Out](https://open.spotify.com/track/44la56EZdE2fw9r963o5E2) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spit It Out](https://open.spotify.com/album/7C2M8DsO12eRUsFBtzeqkS) | 3:07 |
 | 26 | [Mind Your Own Business](https://open.spotify.com/track/6bEjOYezTuD2gYq5X7tGlP) | [Delta 5](https://open.spotify.com/artist/2qe52cWdi4IRtgg14CLInb) | [Singles and Sessions 1979\-1981](https://open.spotify.com/album/7dyzbiN0P6EfoxdRIgk6lL) | 3:13 |
 | 27 | [superiority complex \(big noise\)](https://open.spotify.com/track/4RAPGBiC5HJN7sFr1B6EsG) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [FREE I.H: This Is Not the One You've Been Waiting For](https://open.spotify.com/album/2Epa4HydFeZJ6rxm8OZ7aw) | 1:34 |
 | 28 | [Typical Girls](https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:55 |
-| 29 | [i'm not crying you're crying](https://open.spotify.com/track/7ChGmRrK8sWCGp3uWNV0vH) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 2:49 |
-| 30 | [New Radio](https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Singles](https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb) | 1:33 |
+| 29 | [New Radio](https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Singles](https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb) | 1:33 |
+| 30 | [i'm not crying you're crying](https://open.spotify.com/track/7ChGmRrK8sWCGp3uWNV0vH) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 2:49 |
 | 31 | [Wargasm](https://open.spotify.com/track/7b1snQi3wWfUPmRrPvK0ny) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 2:42 |
 | 32 | [Sweet '69](https://open.spotify.com/track/55oE1XL7HceNY7VR7Nz4yu) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Nemesisters](https://open.spotify.com/album/7KGRLGS0Bwc494GS7awFsL) | 4:04 |
 | 33 | [White Flag](https://open.spotify.com/track/3qlmCOHjmpGUISp5nXU9LJ) | [Slutever](https://open.spotify.com/artist/4TBQj88AvHlzsLhzP12GuD) | [White Flag](https://open.spotify.com/album/0yFMCvJNbUpkiWxzANvkzA) | 2:26 |
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 57 | [Husbands](https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK) | [Savages](https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60) | [Silence Yourself](https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31) | 2:50 |
 | 58 | [Bad Ass Bitch](https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1) | [Lunachicks](https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X) | [Luxury Problem](https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr) | 4:08 |
 | 59 | [Too Many Creeps](https://open.spotify.com/track/17yxzUcZSu3S9KyoGF0ckI) | [Bush Tetras](https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb) | [Rhythm and Paranoia: The Best of Bush Tetras](https://open.spotify.com/album/1N88J8RmLwvapgXTbuZe79) | 4:03 |
-| 60 | [Love Thing](https://open.spotify.com/track/0Tun80hNL7L2kwQlroehnb) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth \(Remastered\)](https://open.spotify.com/album/0gslg0u8VjLBWPBuInwjsr) | 1:39 |
+| 60 | [What Kind of Monster Are You?](https://open.spotify.com/track/7AfEKgIdg2jYvarZwNJIXd) | [Slant 6](https://open.spotify.com/artist/2wJzS4RYv4vtk5uo13IlkY) | [Soda Pop \* Rip Off](https://open.spotify.com/album/5SQhXEf4MVjWG4Y5K78GxQ) | 2:03 |
 | 61 | [Girls Like Us](https://open.spotify.com/track/55iEQ6oFvMsQm2eLGl4OIC) | [The Julie Ruin](https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF) | [Run Fast](https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f) | 3:19 |
-| 62 | [What Kind of Monster Are You?](https://open.spotify.com/track/7AfEKgIdg2jYvarZwNJIXd) | [Slant 6](https://open.spotify.com/artist/2wJzS4RYv4vtk5uo13IlkY) | [Soda Pop \* Rip Off](https://open.spotify.com/album/5SQhXEf4MVjWG4Y5K78GxQ) | 2:03 |
-| 63 | [Where the Girls Are](https://open.spotify.com/track/3LAsmmdRNi6qoZDSclv2iD) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [That's Not What I Heard](https://open.spotify.com/album/1nemQafNn0dGHjXFylg8Kf) | 1:44 |
-| 64 | [Glass House](https://open.spotify.com/track/1luXZ3wGajUSfwMs24Izvp) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [All at Once](https://open.spotify.com/album/1AamkKRYew16QStHIhgY1A) | 3:44 |
+| 62 | [Love Thing](https://open.spotify.com/track/0Tun80hNL7L2kwQlroehnb) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth \(Remastered\)](https://open.spotify.com/album/0gslg0u8VjLBWPBuInwjsr) | 1:39 |
+| 63 | [Glass House](https://open.spotify.com/track/1luXZ3wGajUSfwMs24Izvp) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [All at Once](https://open.spotify.com/album/1AamkKRYew16QStHIhgY1A) | 3:44 |
+| 64 | [Where the Girls Are](https://open.spotify.com/track/3LAsmmdRNi6qoZDSclv2iD) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [That's Not What I Heard](https://open.spotify.com/album/1nemQafNn0dGHjXFylg8Kf) | 1:44 |
 | 65 | [Be Yr Mama](https://open.spotify.com/track/1KwBL4bOPurrC2ZqUEo4QY) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM) | 2:52 |
 | 66 | [My Baby \(Axe Nice\)](https://open.spotify.com/track/1yGOXn0GWEcXTejNMHYoR4) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Mannequin Pussy](https://open.spotify.com/album/3JWT3gPoEcgonA0Y2JREmK) | 0:59 |
 | 67 | [Where's My Wife](https://open.spotify.com/track/7MY32OSePqeLg5YPAqEkEc) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv) | [Willow](https://open.spotify.com/album/27b5zGoTeu3YQO04wGTQg0) | 3:48 |

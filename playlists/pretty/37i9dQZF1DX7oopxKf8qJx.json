@@ -1,6 +1,6 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 103582,
+  "num_followers": 103668,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
@@ -175,18 +175,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "You and the Night and the Music",
-        "url": "https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef"
+        "name": "Two Pianos Today",
+        "url": "https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY"
       },
       "artists": [
         {
-          "name": "The Melachrino Strings and Orchestra",
-          "url": "https://open.spotify.com/artist/4h434Npi0e7fooQBbS3ZuV"
+          "name": "Ronnie Aldrich and his 2 pianos",
+          "url": "https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT"
+        },
+        {
+          "name": "London Festival Orchestra",
+          "url": "https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9"
         }
       ],
-      "duration_ms": 169493,
-      "name": "Violins in the Night",
-      "url": "https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ"
+      "duration_ms": 188880,
+      "name": "Georgy Girl",
+      "url": "https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -211,22 +215,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Two Pianos Today",
-        "url": "https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY"
+        "name": "You and the Night and the Music",
+        "url": "https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef"
       },
       "artists": [
         {
-          "name": "Ronnie Aldrich and his 2 pianos",
-          "url": "https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT"
-        },
-        {
-          "name": "London Festival Orchestra",
-          "url": "https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9"
+          "name": "The Melachrino Strings and Orchestra",
+          "url": "https://open.spotify.com/artist/4h434Npi0e7fooQBbS3ZuV"
         }
       ],
-      "duration_ms": 188880,
-      "name": "Georgy Girl",
-      "url": "https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz"
+      "duration_ms": 169493,
+      "name": "Violins in the Night",
+      "url": "https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -463,26 +463,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Beyond The Sea",
-        "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
+        "name": "I Wish You Love",
+        "url": "https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE"
       },
       "artists": [
         {
-          "name": "Robert Maxwell",
-          "url": "https://open.spotify.com/artist/61nzGtKcJqf1IpkvIOjAyB"
-        },
-        {
-          "name": "Carl Sigman",
-          "url": "https://open.spotify.com/artist/5ZbBu38Ltmu0G9xsRUKmZ2"
-        },
-        {
-          "name": "Frank Chacksfield & His Orchestra",
-          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
         }
       ],
-      "duration_ms": 217266,
-      "name": "Ebb Tide",
-      "url": "https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL"
+      "duration_ms": 168666,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -503,18 +495,26 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "I Wish You Love",
-        "url": "https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE"
+        "name": "Beyond The Sea",
+        "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
       },
       "artists": [
         {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+          "name": "Robert Maxwell",
+          "url": "https://open.spotify.com/artist/61nzGtKcJqf1IpkvIOjAyB"
+        },
+        {
+          "name": "Carl Sigman",
+          "url": "https://open.spotify.com/artist/5ZbBu38Ltmu0G9xsRUKmZ2"
+        },
+        {
+          "name": "Frank Chacksfield & His Orchestra",
+          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
         }
       ],
-      "duration_ms": 168666,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar"
+      "duration_ms": 217266,
+      "name": "Ebb Tide",
+      "url": "https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -747,8 +747,8 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "And Awaaay We Go! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3K0zalfzD0tX4s2t4fT6EP"
+        "name": "Champagne, Candlelight And Kisses",
+        "url": "https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
         }
       ],
-      "duration_ms": 196666,
-      "name": "Melancholy Serenade",
-      "url": "https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw"
+      "duration_ms": 222786,
+      "name": "Theme From \"Bus Stop\"",
+      "url": "https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -863,8 +863,8 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Champagne, Candlelight And Kisses",
-        "url": "https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx"
+        "name": "And Awaaay We Go! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3K0zalfzD0tX4s2t4fT6EP"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
         }
       ],
-      "duration_ms": 222786,
-      "name": "Theme From \"Bus Stop\"",
-      "url": "https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw"
+      "duration_ms": 196666,
+      "name": "Melancholy Serenade",
+      "url": "https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "Hey...Let Yourself Go!",
+        "url": "https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3"
+      },
+      "artists": [
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 217306,
+      "name": "You And The Night And The Music",
+      "url": "https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "The New Limelight",
         "url": "https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 247040,
       "name": "The Man That Got Away",
       "url": "https://open.spotify.com/track/1hDthwJhM5GqDkolDuMSoA"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "Hey...Let Yourself Go!",
-        "url": "https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3"
-      },
-      "artists": [
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 217306,
-      "name": "You And The Night And The Music",
-      "url": "https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot"
     },
     {
       "added_at": "2024-07-17 14:53:29",

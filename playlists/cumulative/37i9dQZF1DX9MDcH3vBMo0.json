@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 143777,
       "name": "Botanical",
       "url": "https://open.spotify.com/track/0auGwYryPNa1UIEn3BrIx0"
@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 134899,
       "name": "Chaleureuse",
       "url": "https://open.spotify.com/track/0FAJDVUpuCzEhCGfouo8Fk"
@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 126000,
       "name": "D'\u00e9meraude",
       "url": "https://open.spotify.com/track/27NsmJyv3hRvtP9V48xYNB"
@@ -5752,7 +5752,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 144813,
       "name": "Karlovy Vary",
       "url": "https://open.spotify.com/track/6UQU3rbYYESsfBcJOvZDHB"
@@ -12049,6 +12049,24 @@
     },
     {
       "album": {
+        "name": "The Melting Sun",
+        "url": "https://open.spotify.com/album/4YqdTFxhcRMEWdYoNPjCcO"
+      },
+      "artists": [
+        {
+          "name": "Eva Starr",
+          "url": "https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "The Melting Sun",
+      "url": "https://open.spotify.com/track/1fFEpC7OcocrA4zqrWMSlP"
+    },
+    {
+      "album": {
         "name": "The Morning After",
         "url": "https://open.spotify.com/album/7vVRy5xt2nrG6qGJcv6Cah"
       },
@@ -12132,7 +12150,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 128088,
       "name": "The Seventh Wave",
       "url": "https://open.spotify.com/track/4rRjQydi87TheoZVntdiER"
@@ -12906,7 +12924,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 121299,
       "name": "Une main tendue",
       "url": "https://open.spotify.com/track/5rqAxnEsenuRJjUAXbzima"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 
 > Recordings from the tropical rainforest
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,442 likes - 89 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,541 likes - 89 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,16 +55,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 45 | [Tropical Rain Thunderbirds](https://open.spotify.com/track/2UWkZeJs7eCis4gbWdyJ7p) | [Natural Rain Sounds for Sleeping](https://open.spotify.com/artist/3uisK8V5NgLCkg6KdYmVnr) | [Rain Sounds & White Noise](https://open.spotify.com/album/1Jxxz6IARapq4T2QDZrLsI) | 3:16 |
 | 46 | [Nap In The Rainforest](https://open.spotify.com/track/3FIWPMCPiAri83CyY4KbXx) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Let the forest talk](https://open.spotify.com/album/5vemnKTIVMtdfZGDo1mcvk) | 3:32 |
 | 47 | [Frogs and Rain near the River](https://open.spotify.com/track/6e5HVs8ctp5QxGShtMlEMY) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Frogs and Rain near the River](https://open.spotify.com/album/7DDVhkJ1acgUJlMFXPz73p) | 2:20 |
-| 48 | [A Night In The Jungle With Birds At River \(Fluss\)](https://open.spotify.com/track/5LVx4ofVD3DXNfkiDajr4a) | [Life Sounds Nature](https://open.spotify.com/artist/0SGJ24mW8PvCH3O8GeXSFg) | [The Very Best Sound Of Birds And Nature \(With Rain, Forest, Creek, River, Wind, Thunder\)](https://open.spotify.com/album/2rrNOxZ5jEL4KaJUGbyzuV) | 5:16 |
-| 49 | [Many Jungle Birds](https://open.spotify.com/track/0H35gcoQAOvPoFpSbO8Ylp) | [Dr\. Meditation](https://open.spotify.com/artist/3oZYKXyDVvu1P0wVIrCquY) | [200 Nature Sounds](https://open.spotify.com/album/5JojOrCQpS1pYJXAgOQkSV) | 3:12 |
+| 48 | [Many Jungle Birds](https://open.spotify.com/track/0H35gcoQAOvPoFpSbO8Ylp) | [Dr\. Meditation](https://open.spotify.com/artist/3oZYKXyDVvu1P0wVIrCquY) | [200 Nature Sounds](https://open.spotify.com/album/5JojOrCQpS1pYJXAgOQkSV) | 3:12 |
+| 49 | [A Night In The Jungle With Birds At River \(Fluss\)](https://open.spotify.com/track/5LVx4ofVD3DXNfkiDajr4a) | [Life Sounds Nature](https://open.spotify.com/artist/0SGJ24mW8PvCH3O8GeXSFg) | [The Very Best Sound Of Birds And Nature \(With Rain, Forest, Creek, River, Wind, Thunder\)](https://open.spotify.com/album/2rrNOxZ5jEL4KaJUGbyzuV) | 5:16 |
 | 50 | [Late Night In The Rainforest](https://open.spotify.com/track/6neg4vRWipQEtwmvVyzqaY) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Sounds of Burma](https://open.spotify.com/album/66dgbk5BAbZ7TCR3cp9D5h) | 3:32 |
-| 51 | [Tranquil Rainforest](https://open.spotify.com/track/5SYhok0pJrIqZQ0lRes91I) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Lost in the Rainforest](https://open.spotify.com/album/2xpTsNAzRb56XKfQbvx9Z8) | 3:50 |
-| 52 | [Warm Rain](https://open.spotify.com/track/4jFPb0mUf0fVaooBRAYqxg) | [Oerwoud](https://open.spotify.com/artist/5nQ9HpkiXvRUN30EJpkj29) | [Amazon Rain](https://open.spotify.com/album/3dWd2DplPM06y5XnUU8h9f) | 3:28 |
+| 51 | [Warm Rain](https://open.spotify.com/track/4jFPb0mUf0fVaooBRAYqxg) | [Oerwoud](https://open.spotify.com/artist/5nQ9HpkiXvRUN30EJpkj29) | [Amazon Rain](https://open.spotify.com/album/3dWd2DplPM06y5XnUU8h9f) | 3:28 |
+| 52 | [Tranquil Rainforest](https://open.spotify.com/track/5SYhok0pJrIqZQ0lRes91I) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Lost in the Rainforest](https://open.spotify.com/album/2xpTsNAzRb56XKfQbvx9Z8) | 3:50 |
 | 53 | [Nap in the Wild](https://open.spotify.com/track/4qfFldAX7y8Amwu4yUHxvj) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Nap in the Wild](https://open.spotify.com/album/0OCN5QxiQoRZI4Oz0IMYr9) | 3:32 |
 | 54 | [River Water on Roots](https://open.spotify.com/track/3m490Sp9oDgssK7Tq5I6hu) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Jungle River Rapids](https://open.spotify.com/album/0ICLrHqdJ36IN30dyM7B7T) | 4:58 |
 | 55 | [White Noise \(Peaceful Jungle\)](https://open.spotify.com/track/26MpviERp5F3eLwotmejx7) | [Sleeping Peace](https://open.spotify.com/artist/1sfXfZmoCLThYQyNCaXAQw) | [White Noise \(Peaceful Jungle\)](https://open.spotify.com/album/6WNnFWfsilmn4th5FDhBU2) | 8:52 |
-| 56 | [Relaxing Crickets And Waterfall](https://open.spotify.com/track/5iAB4tlYseBES4MKqgY4KG) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Forest By Night](https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9) | 4:24 |
-| 57 | [Deep in the Rainforest](https://open.spotify.com/track/4bNwBIT6kPgxnhw16XF5mb) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Deep in the Rainforest](https://open.spotify.com/album/26DdElvaLPpa91ymGXlSeV) | 3:32 |
+| 56 | [Deep in the Rainforest](https://open.spotify.com/track/4bNwBIT6kPgxnhw16XF5mb) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Deep in the Rainforest](https://open.spotify.com/album/26DdElvaLPpa91ymGXlSeV) | 3:32 |
+| 57 | [Relaxing Crickets And Waterfall](https://open.spotify.com/track/5iAB4tlYseBES4MKqgY4KG) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Forest By Night](https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9) | 4:24 |
 | 58 | [Fresh Forest](https://open.spotify.com/track/1EnpczqhePEswNjzfyirRV) | [Eskil Hermes](https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby) | [Fresh Forest](https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm) | 2:37 |
 | 59 | [Jungle Relaxation Sleep](https://open.spotify.com/track/0KvIXQVhzpRfVDT3xDSUrL) | [Ambient Nature White Noise](https://open.spotify.com/artist/2vgMXbvbpzLc0CuugRYpL3) | [Rain Forest Ambience Sleep Sounds \- Sounds From The Jungle For A Clearer Mind](https://open.spotify.com/album/7vJGaKJj8PvMqYTi58Jlun) | 2:00 |
 | 60 | [Sleep Under The Leaves](https://open.spotify.com/track/1PsGLGg9ohMYigEsqoQrqQ) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Wild life](https://open.spotify.com/album/4EcVNjlDHEfNuS8OsnbQ4z) | 3:28 |

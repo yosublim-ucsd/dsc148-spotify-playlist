@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Robe y Rupatrupa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,102 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,126 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 59 | [No Se por Que Te Quiero](https://open.spotify.com/track/7GITdJq0WUdMk2NgHIDFFq) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t), [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ) | [Mirame](https://open.spotify.com/album/0kCoPtVjOcbKXsgBSaCmVs) | 3:35 |
 | 60 | [El Baile](https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vulnerables](https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl) | 3:30 |
 | 61 | [Un Ramito de Violetas](https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 4:12 |
-| 62 | [Humo](https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [50 Palos](https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB) | 3:05 |
-| 63 | [La vida es más compleja de lo que parece](https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [12 segundos de oscuridad](https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz) | 3:08 |
-| 64 | [Soñar Contigo](https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Los Mares De China](https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA) | 3:06 |
+| 62 | [La vida es más compleja de lo que parece](https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [12 segundos de oscuridad](https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz) | 3:08 |
+| 63 | [Soñar Contigo](https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Los Mares De China](https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA) | 3:06 |
+| 64 | [Humo](https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [50 Palos](https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB) | 3:05 |
 | 65 | [Sinmigo](https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw) | [Mr\. Kilombo](https://open.spotify.com/artist/2y2zsEIM0NTeGwkxcnGmvo), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Cerrando Puntos Suspensivos](https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr) | 3:37 |
 | 66 | [El sitio de mi recreo](https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Canciones 1980\-2009](https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u) | 3:10 |
 | 67 | [Gracias a la Vida](https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Mi Chile Lindo](https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl) | 4:38 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 91 | [Deseos de cosas imposibles](https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Deseos de cosas imposibles](https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk) | 3:34 |
 | 92 | [La Pena Vuela \(VMG\)](https://open.spotify.com/track/65yD11M9keuQoajWuLMb9M) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [La Pena Vuela \(VMG\)](https://open.spotify.com/album/2HBnc7C7JSw1H3PJR5iNcb) | 2:34 |
 | 93 | [Al Alba](https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Albanta](https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M) | 4:57 |
-| 94 | [La Memoria Del Corazón](https://open.spotify.com/track/1oQzGXjYAJ77bFfZSui6Ng) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [La Memoria Del Corazón](https://open.spotify.com/album/7hzPKiTaSxBWnq4w8oizP9) | 3:27 |
-| 95 | [Me iría contigo](https://open.spotify.com/track/60lshuY1w3XPv2Q6kvs96z) | [Mercedes Cañas](https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb) | [Me iría contigo](https://open.spotify.com/album/0NUq5usKMXLfkcKvae1wCu) | 3:25 |
+| 94 | [Me iría contigo](https://open.spotify.com/track/60lshuY1w3XPv2Q6kvs96z) | [Mercedes Cañas](https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb) | [Me iría contigo](https://open.spotify.com/album/0NUq5usKMXLfkcKvae1wCu) | 3:25 |
+| 95 | [La Memoria Del Corazón](https://open.spotify.com/track/1oQzGXjYAJ77bFfZSui6Ng) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [La Memoria Del Corazón](https://open.spotify.com/album/7hzPKiTaSxBWnq4w8oizP9) | 3:27 |
 | 96 | [Un Solo Corazón](https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r) | [El Jose](https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Yo Sin Tú](https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i) | 5:08 |
 | 97 | [Soy un Corazón Tendido al Sol](https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Soy Un Corazón Tendido Al Sol](https://open.spotify.com/album/7FRX45DynbKTm8cvlONpbB) | 4:24 |
 | 98 | [Sinvergüenza](https://open.spotify.com/track/62acVIul8sVkk5ljkcSmJ9) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH) | [Sinvergüenza](https://open.spotify.com/album/606x4RWcuBQAORbCgjjeFk) | 3:21 |

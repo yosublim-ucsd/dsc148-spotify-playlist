@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,746 likes - 87 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,755 likes - 87 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 39 | [Fold](https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Fold](https://open.spotify.com/album/7G9J7ME1E89jnBT6Kyx3YG) | 2:37 |
 | 40 | [Eyes Closed](https://open.spotify.com/track/0l0UDr9M10FQAMkq8jcIf8) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People](https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3) | 4:32 |
 | 41 | [Cranes in the Sky \- Spotify Singles](https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Cranes in the Sky \(Spotify Singles\)](https://open.spotify.com/album/260Kae28MIGcLpp248A869) | 4:28 |
-| 42 | [Lately Remix \(feat\. Craig David\)](https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf) | 2:06 |
-| 43 | [YOU](https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:31 |
+| 42 | [YOU](https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:31 |
+| 43 | [Lately Remix \(feat\. Craig David\)](https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf) | 2:06 |
 | 44 | [It's All There \(Secrets\)](https://open.spotify.com/track/3Sf2u44aaU4WYJ3jcTNJco) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Truth Be Told](https://open.spotify.com/album/2O5nHhevgApYSTlSgyVcbg) | 3:20 |
 | 45 | [Room Full Of Love](https://open.spotify.com/track/5zthp0rjPhiX8Vty5tmbzF) | [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2), [Lizzy](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO) | [Room Full Of Love](https://open.spotify.com/album/0NqK6iQuCSulrXQ9hr6oKO) | 3:59 |
 | 46 | [Someday](https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX) | 2:41 |

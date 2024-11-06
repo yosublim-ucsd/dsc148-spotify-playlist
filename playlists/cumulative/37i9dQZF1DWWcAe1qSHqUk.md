@@ -4,7 +4,7 @@
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-155 songs - 10 hr 23 min
+156 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [As Time Goes By](https://open.spotify.com/track/4N6xY1v1oOuXb6GdEJqQTP) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [As Time Goes By](https://open.spotify.com/album/2Jr81lF1N4Lq9rGzroCQQR) | 2:34 | 2022-09-12 | 2023-11-03 |
 | [As Time Goes By](https://open.spotify.com/track/6QupNh6FsuLo5k47KC16yG) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [As Time Goes By](https://open.spotify.com/album/3oJQhXk20kCoMh5ECFd9VR) | 2:34 | 2023-11-06 | 2024-04-19 |
 | [As You Are](https://open.spotify.com/track/4NMmzP4VL8cPZmbBzr7zgI) | [Margareta Bengtson](https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov), [Jan Allan](https://open.spotify.com/artist/16oi0GQ9croDkKnFFCU1z6), [Anders Paulsson](https://open.spotify.com/artist/7ckFJ4mBSnZE1HYuF9DL2y), [Alberto Pinton](https://open.spotify.com/artist/3UjG2ialyrtso8EoqYavB2), [Third Saxes Galore](https://open.spotify.com/artist/5XylwFZ2XZhB1yGJ09z98X) | [As We Are](https://open.spotify.com/album/4NbKMvjr3BYWJydaVvwWjx) | 5:30 | 2024-04-08 |  |
+| [At Last](https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9) | [Susan Wong](https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI) | [At Last](https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR) | 2:44 | 2024-11-04 |  |
 | [Ay Ay Ay](https://open.spotify.com/track/0qScOEiQOLaucPMy6W9jDL) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [RawayanaLand](https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD) | 4:29 | 2023-04-17 | 2024-04-19 |
 | [Bewitched](https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [For You](https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL) | 3:49 | 2022-10-31 |  |
 | [Beyond the Sea](https://open.spotify.com/track/0z7HoTIz4VyKF8xldfxMK2) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [After Dark](https://open.spotify.com/album/1jHMh9wZHmRbBAnRpi8KLL) | 4:17 | 2022-09-12 |  |
@@ -69,7 +70,7 @@
 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 | 2022-09-12 |  |
 | [Hungry Like the Wolf](https://open.spotify.com/track/4v0kiG1CNMbJjIAeyJs8P7) | [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9) | [Vintage Café \- Lounge & Jazz Blends](https://open.spotify.com/album/5dPAnuLyn7AHGV6XIIcY64) | 4:00 | 2024-04-08 | 2024-07-18 |
 | [Hungry Like The Wolf](https://open.spotify.com/track/3zsLiaqjQR7CDURvq8o4W7) | [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9) | [Jazz And 80s](https://open.spotify.com/album/0E3NKNhm72KqrGNNBx1sB0) | 4:03 | 2024-07-08 | 2024-11-05 |
-| [I Get Along Without You Very Well](https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:32 | 2022-09-12 |  |
+| [I Get Along Without You Very Well](https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:32 | 2022-09-12 | 2024-11-06 |
 | [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 | 2023-09-18 |  |
 | [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 | 2023-09-18 |  |
 | [I Walk A Little Faster](https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Dear Blossom,](https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c) | 3:53 | 2022-10-31 |  |

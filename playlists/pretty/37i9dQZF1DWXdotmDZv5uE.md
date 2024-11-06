@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Lleva el alma musical de México a donde sea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,372 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,402 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 12 | [Vamos A Bailar](https://open.spotify.com/track/67nOZSTKNPgwFt4ObbBPar) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Luis Alberto Ballesteros](https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Mariachi Vol\. 1](https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA) | 1:40 |
 | 13 | [Canto A Veracruz](https://open.spotify.com/track/0MYecQUlzO9dyJ9lRHpEko) | [Conjunto Alma Jarocha](https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f) | [Reventón Veracruzano Puros Éxitos De..](https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh) | 2:35 |
 | 14 | [El Siquisiri](https://open.spotify.com/track/5AaFV9x2mCYc0xOaOq2t8a) | [Sones Jarochos](https://open.spotify.com/artist/19wDbhvttV6xZQWf8pmxux), [Los Nacionales De Jacinto Gatica](https://open.spotify.com/artist/03evbzgK4Uoo1IpSm551pr) | [Sones Jarochos \- Los Nacionales De Jacinto Gatica \- Feria Mexicana](https://open.spotify.com/album/5I2AhtiDpEUVWjeYn2DpyS) | 2:10 |
-| 15 | [La Martiniana](https://open.spotify.com/track/1m5A6GfEnXDex5rRCgZMWT) | [Son Itsmeño](https://open.spotify.com/artist/1GtAdYtIZLOHrTCJUTNkFl) | [La Ruta del Son Mexicano](https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz) | 4:31 |
-| 16 | [El Balajú](https://open.spotify.com/track/71BWI87sAe2JFqOSECGXpX) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Caribe Mar Sincopado](https://open.spotify.com/album/2hCmmR9twhWkwWAm3vgGfx) | 4:54 |
+| 15 | [El Balajú](https://open.spotify.com/track/71BWI87sAe2JFqOSECGXpX) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Caribe Mar Sincopado](https://open.spotify.com/album/2hCmmR9twhWkwWAm3vgGfx) | 4:54 |
+| 16 | [La Martiniana](https://open.spotify.com/track/1m5A6GfEnXDex5rRCgZMWT) | [Son Itsmeño](https://open.spotify.com/artist/1GtAdYtIZLOHrTCJUTNkFl) | [La Ruta del Son Mexicano](https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz) | 4:31 |
 | 17 | [Café Café](https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf) | [Radio Jarocho](https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx) | [Café Café](https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S) | 3:58 |
 | 18 | [Las Clases del Cha Cha Cha](https://open.spotify.com/track/0vCBgiJZPjYXwVqVcqy8FR) | [Marimba Chiapas](https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5) | [Danzones, Mambos y Cha Cha Chas](https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL) | 2:36 |
 | 19 | [San Cristobal](https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb) | [San Cristobal](https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V) | 2:21 |

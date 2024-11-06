@@ -123,6 +123,24 @@
     },
     {
       "album": {
+        "name": "3RD EYE PORTAL",
+        "url": "https://open.spotify.com/album/7rE3YiL6olNUVCl9aIndpA"
+      },
+      "artists": [
+        {
+          "name": "shaggyshwag",
+          "url": "https://open.spotify.com/artist/7KQFFBiQ3evE9ZFodKDBfY"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223876,
+      "name": "3RD EYE PORTAL",
+      "url": "https://open.spotify.com/track/1GJbFqJ3aq6sLg1cuw053C"
+    },
+    {
+      "album": {
         "name": "4 AM",
         "url": "https://open.spotify.com/album/1avwAILe1EKoT0yzL3sikg"
       },
@@ -23164,6 +23182,24 @@
       "duration_ms": 152812,
       "name": "SOMEBODY",
       "url": "https://open.spotify.com/track/4mhTDjGCgGXzL1vbKVI92P"
+    },
+    {
+      "album": {
+        "name": "Somebody's Watching Me",
+        "url": "https://open.spotify.com/album/7ehR853zGsCH6wlJC6zIHe"
+      },
+      "artists": [
+        {
+          "name": "Of Love and Lust - OLAL",
+          "url": "https://open.spotify.com/artist/2ixhhj6kXIFLj6BOGpdrt0"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Somebody's Watching Me",
+      "url": "https://open.spotify.com/track/4lZ2z5NLpRSK6Mz27OStPK"
     },
     {
       "album": {

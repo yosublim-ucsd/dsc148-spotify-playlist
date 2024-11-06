@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country music that rocks\. Cover: Ryan Hurd
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,698 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,751 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 38 | [Heart On Fire](https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Heart](https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt) | 4:18 |
 | 39 | [Pray All The Way Home](https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Pray All The Way Home](https://open.spotify.com/album/55BEOWkidLBWuSVaavBmRn) | 2:24 |
 | 40 | [Something's Gonna Kill Me](https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me](https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It) | 3:03 |
-| 41 | [Drowning](https://open.spotify.com/track/22AYv6oubrOclu24nNux0M) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Drowning](https://open.spotify.com/album/5Y8hv9mXolK9hQej1MOlwF) | 4:48 |
-| 42 | [Learning As I Go](https://open.spotify.com/track/5BjSorudpG5f73ToFjJYeN) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Learning As I Go](https://open.spotify.com/album/0tFdaemn2wol2XTfNkn3MJ) | 3:18 |
+| 41 | [Learning As I Go](https://open.spotify.com/track/5BjSorudpG5f73ToFjJYeN) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Learning As I Go](https://open.spotify.com/album/0tFdaemn2wol2XTfNkn3MJ) | 3:18 |
+| 42 | [Drowning](https://open.spotify.com/track/22AYv6oubrOclu24nNux0M) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Drowning](https://open.spotify.com/album/5Y8hv9mXolK9hQej1MOlwF) | 4:48 |
 | 43 | [Don't Come Lookin'](https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Jackson Dean](https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp) | 3:07 |
 | 44 | [I ain't Country](https://open.spotify.com/track/7HoqLd4ZXftkWF1TkQgSt2) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P), [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Heart On Ice](https://open.spotify.com/album/59AFllTisSU6QjmiBjIO82) | 2:40 |
 | 45 | [Homeboy](https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:47 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 94 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 |
 | 95 | [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 |
 | 96 | [Break Before I Bend](https://open.spotify.com/track/71Q2un1xXRayfGf0YIHH6j) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [Break Before I Bend](https://open.spotify.com/album/1k1abToaZr3uklkrmgvmnu) | 3:09 |
-| 97 | [Come Get Your Memory](https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92) | 2:51 |
+| 97 | [Wait For It](https://open.spotify.com/track/1wrrEHQGT433ZOUA5wvXaX) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Wait For It](https://open.spotify.com/album/5QmNGPE9HijPfyy6ggJf9X) | 3:46 |
 | 98 | [She's No Good for Me](https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [She's No Good for Me](https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu) | 3:25 |
-| 99 | [Break My Bones](https://open.spotify.com/track/1VSJKbdlrDRdI8oYu3tnzi) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Break My Bones](https://open.spotify.com/album/6jfQgc5MPRJrPqeJ8L1eu5) | 3:26 |
+| 99 | [Come Get Your Memory](https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92) | 2:51 |
 | 100 | [I'm Not For Everyone](https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [I'm Not For Everyone](https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr) | 2:52 |
 
 Snapshot ID: `ZyRSQAAAAADVU51+fGOjpiX3tzu9pnLs`

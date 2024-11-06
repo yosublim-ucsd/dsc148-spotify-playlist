@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover new artists on the horizon this 2024. Cover: dwta\n",
+  "description": "Discover new artists on the horizon this 2024. Cover: Denise Julia\n",
   "name": "RADAR Philippines",
   "tracks": [
     {
@@ -456,6 +456,24 @@
       "duration_ms": 188000,
       "name": "bet",
       "url": "https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa"
+    },
+    {
+      "album": {
+        "name": "better than he does",
+        "url": "https://open.spotify.com/album/4FQyEFRe3Wmpm5bY9IxeJF"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153374,
+      "name": "better than he does",
+      "url": "https://open.spotify.com/track/68fzlFxU1uUeLTK68ICK3J"
     },
     {
       "album": {

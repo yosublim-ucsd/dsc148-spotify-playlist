@@ -4,11 +4,12 @@
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-100 songs - 5 hr 10 min
+101 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7x7](https://open.spotify.com/track/7hSiTZy3OImgzZaj3Y25JA) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 2:45 | 2024-11-04 |  |
+| [956](https://open.spotify.com/track/5vzCSTnTLVYYFad0tvVy9l) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Jasson Arellano](https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 2:54 | 2024-11-06 |  |
 | [A ti](https://open.spotify.com/track/1PMFC2sESWeDrIwUqjOgBD) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [On fire](https://open.spotify.com/album/4wj7qlN91z14QO2p5g3bnp) | 2:47 | 2023-08-08 |  |
 | [Alucin](https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Alucin](https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB) | 3:17 | 2023-12-13 |  |
 | [Amplificando](https://open.spotify.com/track/4jbJAwMMiVzADF1br5apIk) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [THE GOAT](https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb) | 3:39 | 2024-06-06 | 2024-06-30 |
@@ -106,7 +107,7 @@
 | [Y Sigues Siendo Tú](https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:35 | 2023-08-08 | 2024-04-19 |
 | [Y Sigues Siendo Tú](https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:35 | 2024-04-19 |  |
 | [Ya Va Haber Algo](https://open.spotify.com/track/4GrBjsSTRqeKEl4m56YhJ1) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Ya Va Haber Algo](https://open.spotify.com/album/388986wIgntQUo8UookHGS) | 2:18 | 2024-01-20 |  |
-| [Zutano](https://open.spotify.com/track/1KDAP13YogPGAxOZOwsNuU) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Mismo De La Vida Ruina](https://open.spotify.com/album/1RCqTwnQDquifOW1cbLxzE) | 3:19 | 2024-04-16 |  |
+| [Zutano](https://open.spotify.com/track/1KDAP13YogPGAxOZOwsNuU) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Mismo De La Vida Ruina](https://open.spotify.com/album/1RCqTwnQDquifOW1cbLxzE) | 3:19 | 2024-04-16 | 2024-11-06 |
 | [Zutano](https://open.spotify.com/track/0OIUNAez5dwpemxZvGbyTp) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Mismo De La Vida Ruina](https://open.spotify.com/album/4VtvkKRjnW0X7jxRkLUfsd) | 3:20 | 2023-08-08 | 2024-04-16 |
 
 \*This playlist was first scraped on 2023-08-09. Prior content cannot be recovered.

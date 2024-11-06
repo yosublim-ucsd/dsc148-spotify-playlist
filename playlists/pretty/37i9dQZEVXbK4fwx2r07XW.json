@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Australia.",
-  "num_followers": 59056,
+  "num_followers": 59075,
   "original_name": "Top Songs - Australia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lrw2SAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lr2HyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2024-11-01 12:38:27",
@@ -392,7 +392,7 @@
       "added_at": "2024-11-01 12:38:27",
       "album": {
         "name": "Unreal Unearth: Unaired",
-        "url": "https://open.spotify.com/album/48qd9sU3xqYJbKaxHCciJL"
+        "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
       },
       "artists": [
         {
@@ -402,7 +402,7 @@
       ],
       "duration_ms": 251424,
       "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ"
+      "url": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5"
     },
     {
       "added_at": "2024-11-01 12:38:27",
@@ -855,8 +855,8 @@
     {
       "added_at": "2024-11-01 12:38:27",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk"
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 241688,
-      "name": "Take Me To Church",
-      "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"
+      "duration_ms": 241693,
+      "name": "Take Me to Church",
+      "url": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
     }
   ],
   "unique_name": "Top Songs - Australia",

@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-209 songs - 9 hr 58 min
+210 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Amabile](https://open.spotify.com/track/3145XZiKmaE34sybk99dWc) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Amabile](https://open.spotify.com/album/6kOZ79mho4LuVfJrH8PmG8) | 3:16 | 2023-11-20 |  |
 | [Anima I](https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Anima I](https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG) | 3:01 | 2023-06-30 |  |
 | [Approaching View](https://open.spotify.com/track/0mF6mYZxi3HLMfKJpXT6JT) | [Keith Foster](https://open.spotify.com/artist/5e1yO1Z9BVf2csEYLGqQ2j) | [Approaching View](https://open.spotify.com/album/4LemwZw7HfUQQ63MqzVuHz) | 2:25 | 2024-02-05 |  |
+| [Approval](https://open.spotify.com/track/3QzrEF8QSFkZZIJiHzhA9O) | [Fryken](https://open.spotify.com/artist/5z0Fx2yg2bbV0WpHiWi4pf) | [Approval](https://open.spotify.com/album/2TduV2Na9lQiW4HmjSbc5r) | 2:59 | 2024-11-05 |  |
 | [Archangel's Lullaby](https://open.spotify.com/track/1UeEULIBhrFzy8WhI3FrMF) | [Howard Blake](https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei), [Steven Isserlis](https://open.spotify.com/artist/3lqUltCfNNgeU38vDVBbI1), [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | [Children's Cello](https://open.spotify.com/album/3n3Pw80jcR51Ymw8CBp7Bu) | 1:39 | 2021-11-09 | 2023-09-30 |
 | [As a Rose Blossom](https://open.spotify.com/track/657LOljr0QcBwRX1qtWQy6) | [Emile Cerise](https://open.spotify.com/artist/5J3gBMCxZ68jLD8aijjftS) | [As a Rose Blossom](https://open.spotify.com/album/2w1FFF4DGgE1DZKKKvujf9) | 2:11 | 2024-10-15 |  |
 | [As Ballad](https://open.spotify.com/track/42KPF7PhUrDkHc3Zdr3Rd5) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Stay In The Dark](https://open.spotify.com/album/7nGEHv8P2Ys8D7g6Hn1i10) | 4:53 | 2021-11-09 | 2022-02-01 |

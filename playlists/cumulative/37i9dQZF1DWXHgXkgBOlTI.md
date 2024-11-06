@@ -2,9 +2,9 @@
 
 ### [Jazz Fusion Japan](https://open.spotify.com/playlist/37i9dQZF1DWXHgXkgBOlTI)
 
-> ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: bohemianvoodoo
+> ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: toconoma
 
-112 songs - 8 hr 38 min
+113 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,9 +86,10 @@
 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 | 2023-03-14 |  |
 | [spectres de mouse](https://open.spotify.com/track/0M372WfoAEvYSRjcczirDF) | [mouse on the keys](https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp) | [an anxious object](https://open.spotify.com/album/3RaPoJgvbOwugD3mKSjew5) | 3:20 | 2023-04-04 | 2024-04-19 |
 | [spectres de mouse](https://open.spotify.com/track/1ObG9Ewso0enlqOojHXzzs) | [mouse on the keys](https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp) | [an anxious object](https://open.spotify.com/album/7uLIqmPNnfmBd92Tz1apN2) | 3:20 | 2023-03-14 | 2023-04-30 |
-| [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 | 2023-04-04 |  |
+| [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 | 2023-04-04 | 2024-11-06 |
 | [Sweety \- Retake](https://open.spotify.com/track/52mth0jGVZaWoIQVHuYLXY) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [Sweety \(Retake\)](https://open.spotify.com/album/3Mo56M5rUTxI0N6TsOHFAP) | 4:43 | 2023-03-14 | 2023-04-05 |
-| [Synapse](https://open.spotify.com/track/7HnrvQ03PYY7z8ZvSzQAJW) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [Synapse](https://open.spotify.com/album/3NHLgwwaAkW0DyfhdWZ2J1) | 4:53 | 2024-10-23 |  |
+| [Synapse](https://open.spotify.com/track/7HnrvQ03PYY7z8ZvSzQAJW) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [Synapse](https://open.spotify.com/album/3NHLgwwaAkW0DyfhdWZ2J1) | 4:53 | 2024-10-23 | 2024-11-06 |
+| [Syncer](https://open.spotify.com/track/6UInfSod2RLOHwNKX13FLD) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [ISLAND](https://open.spotify.com/album/23ZjMOszKR7sjFmN0vXEan) | 4:41 | 2024-11-05 |  |
 | [Tailwind](https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY) | [Ear Candy Jazz Factory](https://open.spotify.com/artist/6fJoQGB0VmdUHup8pB7ple) | [Tangerine Peel Jam](https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv) | 4:35 | 2024-09-25 |  |
 | [TAKARAJIMA](https://open.spotify.com/track/0LxZYdBCTyGY3UwvHhjkxi) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [JAZZ目線2](https://open.spotify.com/album/7CbZFe7OHG41MCkYcWQlzM) | 4:16 | 2024-02-27 | 2024-04-09 |
 | [Take Me](https://open.spotify.com/track/4IjS1LeleZKxuHPrVqq33j) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [Asian Dreamer](https://open.spotify.com/album/2brs79CBxiApvCNRM880RA) | 4:52 | 2023-03-14 | 2024-04-19 |
@@ -108,7 +109,7 @@
 | [Zero G](https://open.spotify.com/track/0qzL6t5JFpEsnLVlezgykn) | [かつしかトリオ](https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm) | [Wild Guys In The Universe](https://open.spotify.com/album/1entHKqpYIPQygUeAJYpkq) | 3:46 | 2024-09-11 |  |
 | [みずいろの雨](https://open.spotify.com/track/75iEGWh5t7ZyqYKuvns6Ma) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [みずいろの雨](https://open.spotify.com/album/41aqTAsLAIAMGgW1tOqErz) | 4:50 | 2023-03-14 | 2024-01-31 |
 | [サファリ](https://open.spotify.com/track/4MEXW1zCYDjD3vZy8Sa9uR) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI) | [マイ・ディア・ライフ](https://open.spotify.com/album/7dn9EVB0Joi88kXKeFR1qD) | 7:06 | 2024-02-27 |  |
-| [ハルカゼ](https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [seed](https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg) | 3:27 | 2024-09-18 | 2024-10-26 |
+| [ハルカゼ](https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [seed](https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg) | 3:27 | 2024-09-18 |  |
 | [ハルシュラ](https://open.spotify.com/track/3cSPVDggJ4QlUcQtXEFExR) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 4:01 | 2024-09-18 |  |
 | [夜になると鮭は](https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 2:08 | 2023-03-14 | 2024-04-19 |
 | [夜間航路 \- Album Mix](https://open.spotify.com/track/4KvnG2uCuv6vkirDtt3mA5) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Discovery](https://open.spotify.com/album/67ygKtkMebXurAs2ihwzAg) | 3:56 | 2023-03-14 |  |

@@ -4,7 +4,7 @@
 
 > This is Teenage Wrist\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 24 min
+54 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Bloom](https://open.spotify.com/track/4dIcol4M56nWvq8OA5bm4n) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK) | 4:37 | 2022-09-16 | 2023-03-13 |
 | [Chrome Neon Jesus](https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:43 | 2022-09-16 |  |
 | [Cigarette Two Step](https://open.spotify.com/track/5KwLLL8VE4k3mUTy1gfgpP) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Fear Before The March Of Flames](https://open.spotify.com/artist/4sGnh5atNR6I2OHURlmlMq), [David Marion](https://open.spotify.com/artist/1Su8KMQGp47Q3LddHVXj5k) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:55 | 2023-08-05 | 2023-08-26 |
-| [Cold Case](https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:44 | 2023-08-05 |  |
+| [Cold Case](https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:44 | 2023-08-05 | 2024-11-06 |
+| [Cold Case \- Kurt Ballou Mix](https://open.spotify.com/track/51DetOrim3PuO2qc8datc2) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love \(Deluxe\)](https://open.spotify.com/album/7bjoRFAziiXoBlPbLtUlV7) | 3:45 | 2024-11-06 |  |
 | [Dark Sky](https://open.spotify.com/track/1LkC13v4sIOOcvVMRhiljd) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [S.A\. Martinez](https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy) | [Still Love \(Deluxe\)](https://open.spotify.com/album/7bjoRFAziiXoBlPbLtUlV7) | 3:11 | 2024-11-05 |  |
 | [Dark Sky](https://open.spotify.com/track/4XvDPaoKmHsrgf5eksXNYu) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [S.A\. Martinez](https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy) | [Dark Sky](https://open.spotify.com/album/7A8gtZtoZMbpT0xAYl7ma3) | 3:11 | 2023-07-12 | 2023-08-26 |
 | [Dark Sky](https://open.spotify.com/track/5cNGzuptAf9M47qvH4F4zx) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [S.A\. Martinez](https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:11 | 2023-08-25 | 2024-10-20 |
@@ -59,7 +60,7 @@
 | [Supermachine](https://open.spotify.com/track/6NNi9MBDthHTDFFaaYpDA9) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:52 | 2022-09-24 | 2022-10-11 |
 | [Swallow](https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:50 | 2022-09-16 |  |
 | [Taste Of Gasoline](https://open.spotify.com/track/67kHOo0IxF8dcfN5SEvBRb) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 2:46 | 2022-09-16 |  |
-| [Wax Poetic](https://open.spotify.com/track/5FOvWDm4PrPchyHMDOQiXs) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Sister Void](https://open.spotify.com/artist/3DpwZLxTvFL01VP4qPfRjn) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:33 | 2023-08-05 | 2024-03-12 |
+| [Wax Poetic](https://open.spotify.com/track/5FOvWDm4PrPchyHMDOQiXs) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Sister Void](https://open.spotify.com/artist/3DpwZLxTvFL01VP4qPfRjn) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:33 | 2023-08-05 |  |
 | [Yellowbelly](https://open.spotify.com/track/1k9Iq0HDhuadenPEBv7VUQ) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 3:14 | 2022-09-16 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

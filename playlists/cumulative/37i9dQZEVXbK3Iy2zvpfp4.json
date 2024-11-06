@@ -2907,6 +2907,28 @@
     },
     {
       "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
         "name": "Arabela",
         "url": "https://open.spotify.com/album/6dbEoyjAuCbj8xPqb6IXWT"
       },
@@ -4288,7 +4310,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 152347,
       "name": "Bal\u00edk tr\u00e1vy (feat. Lajfr)",
       "url": "https://open.spotify.com/track/0QeA490KgXCstFtOC70fde"
@@ -6568,7 +6590,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 233228,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/267nfLfaSSDa9ivHncHynh"
@@ -7268,7 +7290,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 127226,
       "name": "Cancion Del Mariachi",
       "url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls"
@@ -8800,6 +8822,40 @@
       "duration_ms": 388960,
       "name": "Come back to me",
       "url": "https://open.spotify.com/track/62HKW77nt6tudsIHXT2A0M"
+    },
+    {
+      "album": {
+        "name": "Come Play (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/6Eb8iWappWpZgkqxDWiIGU"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "Come Play (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz"
     },
     {
       "album": {
@@ -11977,6 +12033,28 @@
     },
     {
       "album": {
+        "name": "Na sv\u00e4t\u00fd vrch",
+        "url": "https://open.spotify.com/album/6ZiGoOfjPgnWTakfLCd9Uk"
+      },
+      "artists": [
+        {
+          "name": "ESPE",
+          "url": "https://open.spotify.com/artist/1qKArYwWqtUqVq61t3iV4u"
+        },
+        {
+          "name": "Katar\u00edna Jura",
+          "url": "https://open.spotify.com/artist/6lO6BuXmNpGIhcUpoQ9n4s"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365334,
+      "name": "D\u00f4verujem Zas",
+      "url": "https://open.spotify.com/track/523yytFEuN8sKvESXpqB2v"
+    },
+    {
+      "album": {
         "name": "Babie leto v podzem\u00ed",
         "url": "https://open.spotify.com/album/1b77hmZwV9NYXqFlH6qE3J"
       },
@@ -12450,7 +12528,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 104418,
       "name": "Embrace It",
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
@@ -15122,7 +15200,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 95806,
       "name": "FUNK DO BOUNCE",
       "url": "https://open.spotify.com/track/7etchTu0yJDGvk55gIQADV"
@@ -21326,7 +21404,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 186093,
       "name": "It's Going Down Now",
       "url": "https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28"
@@ -21638,6 +21716,28 @@
       "duration_ms": 103534,
       "name": "japanese bottega",
       "url": "https://open.spotify.com/track/1MjQ9pek7VBAJkJSwDKeHI"
+    },
+    {
+      "album": {
+        "name": "SWAG SIDE STORY",
+        "url": "https://open.spotify.com/album/5u0q9Bie9brMl3dCdehhnt"
+      },
+      "artists": [
+        {
+          "name": "CA$HANOVA BULHAR",
+          "url": "https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton"
+        },
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Jazda",
+      "url": "https://open.spotify.com/track/6k0dWRI6L1sUxPwIcZH01F"
     },
     {
       "album": {
@@ -25270,6 +25370,28 @@
     {
       "album": {
         "name": "Cum n Cocaine",
+        "url": "https://open.spotify.com/album/7l7A0JXx3s5pEdOPv9X7mk"
+      },
+      "artists": [
+        {
+          "name": "BJ Lips",
+          "url": "https://open.spotify.com/artist/22jHNXFZFhbCjUcEAm5xl9"
+        },
+        {
+          "name": "princess paparazzi",
+          "url": "https://open.spotify.com/artist/2avrAiKHyEOuZq92O1yIxV"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173168,
+      "name": "Love Potions",
+      "url": "https://open.spotify.com/track/4yMMsS5QaEcsHZkKwdEyLv"
+    },
+    {
+      "album": {
+        "name": "Cum n Cocaine",
         "url": "https://open.spotify.com/album/2blliGGUSb0eMWp9iFHI6h"
       },
       "artists": [
@@ -25284,7 +25406,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 173168,
       "name": "Love Potions",
       "url": "https://open.spotify.com/track/6ZK4VMxfEYLPqpSvX2l4iY"
@@ -27115,6 +27237,32 @@
     },
     {
       "album": {
+        "name": "Menina de Vermelho",
+        "url": "https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s"
+      },
+      "artists": [
+        {
+          "name": "MC Menor JP",
+          "url": "https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU"
+        },
+        {
+          "name": "RAMONMIX",
+          "url": "https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK"
+        },
+        {
+          "name": "The Ironix",
+          "url": "https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151348,
+      "name": "Menina de Vermelho",
+      "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"
+    },
+    {
+      "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
       },
@@ -28714,6 +28862,28 @@
       "duration_ms": 156436,
       "name": "moonlight (kali uchis) - sped up version",
       "url": "https://open.spotify.com/track/1TL4lgjSoc9SeKKjLhDO1n"
+    },
+    {
+      "album": {
+        "name": "Moravo",
+        "url": "https://open.spotify.com/album/1irb82GmiKhbOJAWBCKy5i"
+      },
+      "artists": [
+        {
+          "name": "Vesna",
+          "url": "https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6"
+        },
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152470,
+      "name": "Moravo",
+      "url": "https://open.spotify.com/track/2FGYOoEH3Xb4fYKynsEzWP"
     },
     {
       "album": {
@@ -31008,7 +31178,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 217333,
       "name": "NEW DROP",
       "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
@@ -31700,6 +31870,24 @@
       "duration_ms": 157500,
       "name": "NOCI JAK NA MO\u0158I",
       "url": "https://open.spotify.com/track/5Zq9PSTaOxt82uqcHiRd3T"
+    },
+    {
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284363,
+      "name": "Noid",
+      "url": "https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41"
     },
     {
       "album": {
@@ -32892,6 +33080,28 @@
       "duration_ms": 152925,
       "name": "OneShot",
       "url": "https://open.spotify.com/track/65YPiyiBBGQgqjiSG8jkvM"
+    },
+    {
+      "album": {
+        "name": "GLOBAL",
+        "url": "https://open.spotify.com/album/7hUhtwBYvKoibrTp9xDRyX"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        },
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147826,
+      "name": "ONLY G'Z",
+      "url": "https://open.spotify.com/track/4x7peu8R6VGEJSzkYNlypW"
     },
     {
       "album": {
@@ -38332,7 +38542,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 203621,
       "name": "Safety Net",
       "url": "https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp"
@@ -41648,7 +41858,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 127626,
       "name": "Spooky, Scary Skeletons",
       "url": "https://open.spotify.com/track/23V08GxMeaZNSf8Gy6KF6t"
@@ -44027,6 +44237,24 @@
     },
     {
       "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "album": {
         "name": "The Astronaut",
         "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
       },
@@ -44094,7 +44322,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 197692,
       "name": "The Ballad of the Witches' Road (Sacred Chant Version)",
       "url": "https://open.spotify.com/track/59h6Uw3m5ClwHnEcKXh8hg"
@@ -44202,7 +44430,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
@@ -44934,6 +45162,24 @@
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/4a9RlnJ0v1T7HgLtps1HvI"
+    },
+    {
+      "album": {
+        "name": "The Nightmare Before Christmas",
+        "url": "https://open.spotify.com/album/4YF2FhoRfaTLv2sMVLUrJm"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/4LazDzEGshEUn9D2zbm6w2"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196186,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/63y2aL2dT6zzw8FOSLaNrp"
     },
     {
       "album": {
@@ -46241,6 +46487,28 @@
     },
     {
       "album": {
+        "name": "GLOBAL",
+        "url": "https://open.spotify.com/album/7hUhtwBYvKoibrTp9xDRyX"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        },
+        {
+          "name": "Rytmus",
+          "url": "https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186086,
+      "name": "ULICE DRUH\u00c1 M\u00c1MA",
+      "url": "https://open.spotify.com/track/00Imdq7NDBO3zbbREGgUOM"
+    },
+    {
+      "album": {
         "name": "Lov na city",
         "url": "https://open.spotify.com/album/4TdRul8rV6NsU8VzzyyvzH"
       },
@@ -46960,7 +47228,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 67596,
       "name": "VAPO NO SETOR",
       "url": "https://open.spotify.com/track/25MzUGleMnmyoeTNRZ8QF1"
@@ -48382,7 +48650,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 110110,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60"
@@ -48933,6 +49201,24 @@
     },
     {
       "album": {
+        "name": "Whiplash - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183226,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p"
+    },
+    {
+      "album": {
         "name": "Whiskey Cola",
         "url": "https://open.spotify.com/album/7dmHs0lCwYgPKLWHMWucBn"
       },
@@ -49454,7 +49740,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 258013,
       "name": "Woops",
       "url": "https://open.spotify.com/track/2XeqqfeJgtG3mQI5xNeNTy"

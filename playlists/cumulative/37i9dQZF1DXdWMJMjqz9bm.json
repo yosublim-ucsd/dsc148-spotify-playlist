@@ -5807,6 +5807,28 @@
     },
     {
       "album": {
+        "name": "IOU",
+        "url": "https://open.spotify.com/album/0q3267f3x9hLlTiZ07aUMa"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        },
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191622,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/3akZGuqQhifRrFYB8UCell"
+    },
+    {
+      "album": {
         "name": "PURPLE RAG PRINCE",
         "url": "https://open.spotify.com/album/1DEKTyc3STPJG5MFXUOKPR"
       },

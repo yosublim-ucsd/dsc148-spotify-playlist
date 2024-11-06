@@ -4,7 +4,7 @@
 
 > Wake up at your own pace with gentle piano music.
 
-134 songs - 5 hr 54 min
+135 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Softly](https://open.spotify.com/track/6plAuHENSbslv0tAe8verB) | [Kendra Logozar](https://open.spotify.com/artist/7rwhybBLjf5jWQsmXfwJhd) | [Softly](https://open.spotify.com/album/07ymnuv7uKDcQckEtOstPv) | 2:26 | 2021-04-21 | 2024-10-01 |
 | [Someday](https://open.spotify.com/track/2l7GZORseeFArK1n3GUjac) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Someday](https://open.spotify.com/album/5B6UCEHOHCDK3BIng2X4FY) | 2:20 | 2024-08-16 |  |
 | [Sonora](https://open.spotify.com/track/4ku8WSW5vtEZNGM8oUuGnd) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Serán](https://open.spotify.com/album/7rfwsqw6rBpkZ1z3ROAoYS) | 3:26 | 2021-04-21 |  |
+| [stargazing](https://open.spotify.com/track/5Tm55bnuYOavqPLbueGYS4) | [Esperance](https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg) | [stargazing](https://open.spotify.com/album/0FCL5YSgPtrC3NQYOCwxZs) | 2:20 | 2024-11-05 |  |
 | [Sunset Aglow](https://open.spotify.com/track/2xfXbJK08v7gZb9YvPr0UZ) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 2:42 | 2021-04-21 |  |
 | [The Light Will Return](https://open.spotify.com/track/0wHtZIo4VfYdXVKj3xrxWG) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [The Light Will Return](https://open.spotify.com/album/4HBKYcRStmQOq1QrdPceqo) | 2:45 | 2021-04-21 |  |
 | [The Room Upstairs](https://open.spotify.com/track/2TOXQ1L2NjnKYAwrHbzDgZ) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [The Room Upstairs](https://open.spotify.com/album/2nroqN7kkTUrFfw8K55wP1) | 2:20 | 2021-04-21 |  |

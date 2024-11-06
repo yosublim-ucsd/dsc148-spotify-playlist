@@ -3123,6 +3123,24 @@
     },
     {
       "album": {
+        "name": "DAY&NITE",
+        "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
+      },
+      "artists": [
+        {
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "DAY&NITE",
+      "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
+    },
+    {
+      "album": {
         "name": "Les Saints EP",
         "url": "https://open.spotify.com/album/2Y4EGwtRPTe63PGNeulR44"
       },

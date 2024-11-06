@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 209298,
+  "num_followers": 209368,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAAAXcPI4cJDS0WsWXyAmFLY+",
+  "snapshot_id": "ZygOgAAAAAAtLDEj6G2Ebh7P7bwDh/Gg",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Bigger Artist",
+        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 209269,
+      "name": "Drowning (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Evil Genius",
         "url": "https://open.spotify.com/album/5xqQtdlJUY7Fg4BMp13LrX"
       },
@@ -95,26 +115,6 @@
       "duration_ms": 203161,
       "name": "Wake Up in the Sky",
       "url": "https://open.spotify.com/track/2G1tXoGBaEMJ7FKGnkf6ud"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bigger Artist",
-        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 209269,
-      "name": "Drowning (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI"
     },
     {
       "added_at": null,
@@ -759,6 +759,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hit Bout It",
+        "url": "https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 177158,
+      "name": "Hit Bout It",
+      "url": "https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heartbreak on a Full Moon",
         "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
       },
@@ -787,22 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hit Bout It",
-        "url": "https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0"
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
       "artists": [
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 177158,
-      "name": "Hit Bout It",
-      "url": "https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6"
+      "duration_ms": 164038,
+      "name": "MoshPit (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/4KX8vXbouybtUptEyYxtIk"
     },
     {
       "added_at": null,
@@ -827,26 +847,6 @@
       "duration_ms": 155495,
       "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
       "url": "https://open.spotify.com/track/231JL1zyH8JlEvYkCymu1K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 164038,
-      "name": "MoshPit (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/4KX8vXbouybtUptEyYxtIk"
     },
     {
       "added_at": null,
@@ -939,6 +939,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart Break Kodak (HBK)",
+        "url": "https://open.spotify.com/album/0U578dQAanKmYDKCvqk2P3"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 244078,
+      "name": "Hate Being Alone",
+      "url": "https://open.spotify.com/track/4OTofNs1V7sgnSSlzj4edo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dieuson Octave",
+        "url": "https://open.spotify.com/album/5MMgxR8kqI7CFzQRvGiKHj"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Harlem Nights",
+      "url": "https://open.spotify.com/track/7f5FgKkeLMeDEwsbvmVsrn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Better Me Than You",
         "url": "https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd"
       },
@@ -963,22 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart Break Kodak (HBK)",
-        "url": "https://open.spotify.com/album/0U578dQAanKmYDKCvqk2P3"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 244078,
-      "name": "Hate Being Alone",
-      "url": "https://open.spotify.com/track/4OTofNs1V7sgnSSlzj4edo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back For Everything",
         "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
       },
@@ -991,34 +1007,6 @@
       "duration_ms": 165760,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/0FmKMGrNrrf12GmmCYh2eJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 265120,
-      "name": "No More (feat. Travis Scott, Kodak Black & 21 Savage)",
-      "url": "https://open.spotify.com/track/42k9e2hgl98IdgkXLg4pxs"
     }
   ],
   "unique_name": "This Is Kodak Black",

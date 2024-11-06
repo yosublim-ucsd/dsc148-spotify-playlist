@@ -1575,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/0twPnjlQLn8uXvYdkq43SF"
+      },
+      "artists": [
+        {
+          "name": "Jasper van Dijk",
+          "url": "https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212853,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/69nRm9PEBhWkinMixrzmOh"
+    },
+    {
+      "album": {
         "name": "Daydreamer",
         "url": "https://open.spotify.com/album/3seGUQqyvqEZoCKJPidgeJ"
       },

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Gregory Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,029 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,070 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [We Have All The Time In The World \- Cam Blackwood & Swindle Version](https://open.spotify.com/track/3MYTlTdvrrsvRdFS06spdY) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [We Have All The Time In The World \(Cam Blackwood & Swindle Version\)](https://open.spotify.com/album/6qKI6X5pITMNVyQyxrvRhp) | 3:16 |
+| 1 | [We Have All The Time In The World \- Cam Blackwood & Swindle Version](https://open.spotify.com/track/3MYTlTdvrrsvRdFS06spdY) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Swindle](https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ), [Cam Blackwood](https://open.spotify.com/artist/0mYBtMfnMNPOi1hyyzPcvb) | [We Have All The Time In The World \(Cam Blackwood & Swindle Version\)](https://open.spotify.com/album/6qKI6X5pITMNVyQyxrvRhp) | 3:16 |
 | 2 | [Healthy Ground](https://open.spotify.com/track/6AlXUgMf0TemcZ2RKE9gtb) | [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC) | [No Pain, No Champagne](https://open.spotify.com/album/56KPUa9IzTTnUeY0PwvIBN) | 4:15 |
 | 3 | [Flyways](https://open.spotify.com/track/77zmFpzsaQPTOhS87FM0sy) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Little Big III](https://open.spotify.com/album/0aj5rKNNnNHjdC799ogFu1) | 4:03 |
 | 4 | [Hope](https://open.spotify.com/track/347Fpu96gIJPsNrAO2bj9g) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9), [Guy Moskovich](https://open.spotify.com/artist/3ayMZIWae6YcKu9kdj0pVK) | [Brightlight](https://open.spotify.com/album/1ekjhKwkURkXmbPCWr8rSk) | 4:06 |

@@ -1,6 +1,6 @@
 {
   "description": "100% cl\u00e1ssicos.",
-  "num_followers": 390666,
+  "num_followers": 390915,
   "original_name": "EDM Hits",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,26 @@
     {
       "added_at": "2024-07-15 13:20:02",
       "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+        "name": "Dancin (feat. Luvli) [Krono Remix]",
+        "url": "https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN"
         },
         {
-          "name": "Conrad Sewell",
-          "url": "https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi"
+          "name": "Krono",
+          "url": "https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB"
+        },
+        {
+          "name": "Luvli",
+          "url": "https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr"
         }
       ],
-      "duration_ms": 271640,
-      "name": "Firestone",
-      "url": "https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE"
+      "duration_ms": 198053,
+      "name": "Dancin (feat. Luvli) - Krono Remix",
+      "url": "https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM"
     },
     {
       "added_at": "2024-07-15 13:20:02",
@@ -615,26 +619,22 @@
     {
       "added_at": "2024-07-15 13:20:02",
       "album": {
-        "name": "Dancin (feat. Luvli) [Krono Remix]",
-        "url": "https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE"
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
       },
       "artists": [
         {
-          "name": "Aaron Smith",
-          "url": "https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Krono",
-          "url": "https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB"
-        },
-        {
-          "name": "Luvli",
-          "url": "https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr"
+          "name": "Conrad Sewell",
+          "url": "https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi"
         }
       ],
-      "duration_ms": 198053,
-      "name": "Dancin (feat. Luvli) - Krono Remix",
-      "url": "https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM"
+      "duration_ms": 271640,
+      "name": "Firestone",
+      "url": "https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE"
     },
     {
       "added_at": "2024-07-15 13:20:02",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-07-15 13:20:02",
       "album": {
-        "name": "New Eyes",
-        "url": "https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 227833,
-      "name": "Rather Be (feat. Jess Glynne)",
-      "url": "https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM"
-    },
-    {
-      "added_at": "2024-07-15 13:20:02",
-      "album": {
         "name": "Hear Me Now (feat. Zeeba)",
         "url": "https://open.spotify.com/album/6fpsA5aYbVNLe6y3P49o2o"
       },
@@ -879,22 +859,6 @@
     {
       "added_at": "2024-07-15 13:20:02",
       "album": {
-        "name": "The Rokstarr Hits Collection",
-        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
-    },
-    {
-      "added_at": "2024-07-15 13:20:02",
-      "album": {
         "name": "Communion (Deluxe)",
         "url": "https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR"
       },
@@ -911,22 +875,38 @@
     {
       "added_at": "2024-07-15 13:20:02",
       "album": {
-        "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix]",
-        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
+        "name": "New Eyes",
+        "url": "https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
         },
         {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
         }
       ],
-      "duration_ms": 214912,
-      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
-      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
+      "duration_ms": 227833,
+      "name": "Rather Be (feat. Jess Glynne)",
+      "url": "https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM"
+    },
+    {
+      "added_at": "2024-07-15 13:20:02",
+      "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
     },
     {
       "added_at": "2024-07-15 13:20:02",
@@ -947,6 +927,26 @@
       "duration_ms": 210090,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0"
+    },
+    {
+      "added_at": "2024-07-15 13:20:02",
+      "album": {
+        "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix]",
+        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 214912,
+      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
+      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
     },
     {
       "added_at": "2024-07-15 13:20:02",

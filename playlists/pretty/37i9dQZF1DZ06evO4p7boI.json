@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95223,
+  "num_followers": 95231,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAACd6L4LrvukjdBeas4eA2Uf",
+  "snapshot_id": "ZygOgAAAAAC5ZRaAlCNCdPi37JWNOAJS",
   "tracks": [
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/5qbcsZMwL0x46sX7VO37Ye"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emergency Tsunami",
         "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 145121,
       "name": "Friends & Family",
       "url": "https://open.spotify.com/track/1U6Qqq2JQzOWoHYqtG7pYO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/5qbcsZMwL0x46sX7VO37Ye"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "88GLAM RELOADED",
-        "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
-      },
-      "artists": [
-        {
-          "name": "88GLAM",
-          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 185316,
-      "name": "Bali",
-      "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Demons Protected By Angels",
         "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 181355,
       "name": "Dead Shot (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5CI4P97F6XAwK1kGnFYC0k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "88GLAM RELOADED",
+        "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
+      },
+      "artists": [
+        {
+          "name": "88GLAM",
+          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 185316,
+      "name": "Bali",
+      "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
     },
     {
       "added_at": null,
@@ -923,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emergency Tsunami",
-        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+        "name": "Demons Protected By Angels",
+        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
       },
       "artists": [
         {
@@ -932,13 +932,13 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 159003,
-      "name": "Repercussions (with Young Thug)",
-      "url": "https://open.spotify.com/track/0YFwNNWeRQhOi6p17jTCzp"
+      "duration_ms": 164937,
+      "name": "Interstellar (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5HRXn4V1qL4CFNizMsFrTy"
     },
     {
       "added_at": null,
@@ -955,6 +955,26 @@
       "duration_ms": 182880,
       "name": "NAV",
       "url": "https://open.spotify.com/track/0OPfZM09RUjE46nIeJGCfX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emergency Tsunami",
+        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 159003,
+      "name": "Repercussions (with Young Thug)",
+      "url": "https://open.spotify.com/track/0YFwNNWeRQhOi6p17jTCzp"
     },
     {
       "added_at": null,
@@ -979,26 +999,6 @@
       "duration_ms": 242368,
       "name": "Painless 2 (with NAV feat. Lil Durk)",
       "url": "https://open.spotify.com/track/71Ih7wOeWd2EJxKi77Yiqi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Demons Protected By Angels",
-        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 164937,
-      "name": "Interstellar (with Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/5HRXn4V1qL4CFNizMsFrTy"
     },
     {
       "added_at": null,

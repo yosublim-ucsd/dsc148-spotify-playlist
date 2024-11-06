@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 
 > This is The Beach Boys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,223 likes - 52 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,238 likes - 52 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 51 | [Wouldn’t It Be Nice](https://open.spotify.com/track/4gySZmwNJcFvVUR0SaELUK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Beach Boys With The Royal Philharmonic Orchestra](https://open.spotify.com/album/11IshdNymucuMOL1GcleRX) | 3:13 |
 | 52 | [Disney Girls \(1957\) \- Remastered 2009](https://open.spotify.com/track/17qLiavc8woWHAPAGZD0Py) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 4:10 |
 
-Snapshot ID: `Zya9AAAAAACnHKi5U+w1wARlQHUYLJUv`
+Snapshot ID: `ZygOgAAAAACsM4SfjnYL9K0dMsQGrWI3`

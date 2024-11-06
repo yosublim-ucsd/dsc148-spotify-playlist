@@ -1,12 +1,12 @@
 {
   "description": "This is Phoenix. The essential tracks, all in one playlist.",
-  "num_followers": 94706,
+  "num_followers": 94713,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAACrm9I2PcS/c6UaQspvFQeP",
+  "snapshot_id": "ZygOgAAAAABr9tfgaJeF6f0GOoRLsZCb",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 224973,
-      "name": "Fences",
-      "url": "https://open.spotify.com/track/3f4AG90lRsmrpY3D0GsXat"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 226103,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 224973,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/3f4AG90lRsmrpY3D0GsXat"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 185106,
-      "name": "Armistice",
-      "url": "https://open.spotify.com/track/0x1pUJuOfNh7nStPF1V0AK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Never Been Like That (Deluxe Version)",
         "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
       },
@@ -367,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alpha Zulu",
-        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
       "artists": [
         {
@@ -376,9 +360,25 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 167013,
-      "name": "Season 2",
-      "url": "https://open.spotify.com/track/4Dy26AYLOdCjqSadkaTYJN"
+      "duration_ms": 185106,
+      "name": "Armistice",
+      "url": "https://open.spotify.com/track/0x1pUJuOfNh7nStPF1V0AK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 228133,
+      "name": "Trying To Be Cool",
+      "url": "https://open.spotify.com/track/3adprsGoZuParw5pyhhLCc"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
       "duration_ms": 207106,
       "name": "Holdin' on Together",
       "url": "https://open.spotify.com/track/2foqLoUPvd5OcINiUtKZg8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 167013,
+      "name": "Season 2",
+      "url": "https://open.spotify.com/track/4Dy26AYLOdCjqSadkaTYJN"
     },
     {
       "added_at": null,
@@ -431,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy"
       },
       "artists": [
         {
@@ -440,9 +456,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 228133,
-      "name": "Trying To Be Cool",
-      "url": "https://open.spotify.com/track/0UpuOCp6EU4BZabgmBqr1o"
+      "duration_ms": 247373,
+      "name": "J-Boy",
+      "url": "https://open.spotify.com/track/4Bu0XuiecALTHX3YWHOLml"
     },
     {
       "added_at": null,
@@ -463,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ti Amo",
-        "url": "https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy"
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
       },
       "artists": [
         {
@@ -472,9 +488,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 247373,
-      "name": "J-Boy",
-      "url": "https://open.spotify.com/track/4Bu0XuiecALTHX3YWHOLml"
+      "duration_ms": 169800,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/6ayQqGsXx1jxDiEku4V9Gg"
     },
     {
       "added_at": null,
@@ -495,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+        "name": "Alphabetical",
+        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
       },
       "artists": [
         {
@@ -504,9 +520,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 169800,
-      "name": "On Fire",
-      "url": "https://open.spotify.com/track/6ayQqGsXx1jxDiEku4V9Gg"
+      "duration_ms": 213800,
+      "name": "(You Can't Blame It On) Anybody",
+      "url": "https://open.spotify.com/track/1kVa8X5Ifr6XVmn8XvC1iu"
     },
     {
       "added_at": null,
@@ -527,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alphabetical",
-        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy"
       },
       "artists": [
         {
@@ -536,9 +552,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 213800,
-      "name": "(You Can't Blame It On) Anybody",
-      "url": "https://open.spotify.com/track/1kVa8X5Ifr6XVmn8XvC1iu"
+      "duration_ms": 205920,
+      "name": "Ti Amo",
+      "url": "https://open.spotify.com/track/5yE87rHl2tLsQqPM2igT4S"
     },
     {
       "added_at": null,
@@ -559,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ti Amo",
-        "url": "https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy"
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
       },
       "artists": [
         {
@@ -568,9 +584,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 205920,
-      "name": "Ti Amo",
-      "url": "https://open.spotify.com/track/5yE87rHl2tLsQqPM2igT4S"
+      "duration_ms": 195866,
+      "name": "Summer Days",
+      "url": "https://open.spotify.com/track/1g50RH5iSvlFwhHsRRNP9D"
     },
     {
       "added_at": null,
@@ -587,22 +603,6 @@
       "duration_ms": 302026,
       "name": "Identical",
       "url": "https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "Summer Days",
-      "url": "https://open.spotify.com/track/1g50RH5iSvlFwhHsRRNP9D"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 244813,
-      "name": "Chloroform",
-      "url": "https://open.spotify.com/track/55Gk9YGlpv5Tmloubm4jI6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 300533,
       "name": "Honeymoon",
       "url": "https://open.spotify.com/track/5dtTD2LIqWk1GsB8y0zDur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 244813,
+      "name": "Chloroform",
+      "url": "https://open.spotify.com/track/55Gk9YGlpv5Tmloubm4jI6"
     },
     {
       "added_at": null,

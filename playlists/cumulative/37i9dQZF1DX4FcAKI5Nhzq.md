@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: BABYMONSTER
+> Future K\-Pop hits! Cover: sungjin
 
-1,164 songs - 2 day 15 hr 19 min
+1,165 songs - 2 day 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [CARDIGAN \(feat\. Wonstein\)](https://open.spotify.com/track/2ZEJPpvO2j1KDx9UxShxID) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [ROSES](https://open.spotify.com/album/0Q5HDqny1SbvWqXCByWIql) | 3:14 | 2021-06-04 | 2021-07-01 |
 | [Care for you](https://open.spotify.com/track/1e0WrO4w1FXr1n6wH71IlS) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [There, there](https://open.spotify.com/album/1t4iETCeHp2KqYpYDLwxqM) | 3:53 | 2023-07-21 | 2023-08-17 |
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2021-01-27 | 2021-03-01 |
+| [Check Pattern](https://open.spotify.com/track/3bbuy0sL7miaccIfh6s86b) | [SUNGJIN](https://open.spotify.com/artist/5ZQ96t8nPfBXYdZaXZwDHC) | [30](https://open.spotify.com/album/3JySXkeZCG1WiMNlBB3n9p) | 3:17 | 2024-11-05 |  |
 | [Cheese](https://open.spotify.com/track/4pJONzTRaCfshJdrN051lr) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Cheese](https://open.spotify.com/album/3yshBMkBoK9HZ5KbKz2lHj) | 3:26 | 2023-09-01 | 2023-10-06 |
 | [Cheese](https://open.spotify.com/track/6x5mCFqbpUfjAq6Egyjl2c) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Cheese](https://open.spotify.com/album/7qx75T9tAxkomFYsmFADV1) | 3:06 | 2024-05-23 | 2024-06-24 |
 | [CHERRY](https://open.spotify.com/track/5UCTT2liT61iPL2cCV9Gto) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO’ COMPLETE](https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef) | 3:30 | 2021-09-28 | 2021-11-24 |
@@ -562,7 +563,7 @@
 | [LA SOL MI](https://open.spotify.com/track/6h1laUrcyGZAwSj2k1KTRY) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [LA SOL MI](https://open.spotify.com/album/04TnvhobYIlwA9SOIFMyGY) | 2:52 | 2024-01-31 | 2024-04-04 |
 | [LALISA](https://open.spotify.com/track/10BfqdiV5PhV1UYsMEyou1) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d) | 3:20 | 2021-09-11 | 2021-12-02 |
 | [Last Chance](https://open.spotify.com/track/3VNm72yGbPkxaUMhoWk15s) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [Queen of Tears \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/7IlGRv127ABNT0oN8xQUKK) | 4:08 | 2024-04-26 | 2024-04-30 |
-| [LAST PARADE](https://open.spotify.com/track/5g161vgVSZ2dhzczfNJcyx) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [BAMESIS](https://open.spotify.com/album/402aahHNiFYPoNKZRg7GaF) | 3:07 | 2024-08-08 |  |
+| [LAST PARADE](https://open.spotify.com/track/5g161vgVSZ2dhzczfNJcyx) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [BAMESIS](https://open.spotify.com/album/402aahHNiFYPoNKZRg7GaF) | 3:07 | 2024-08-08 | 2024-11-06 |
 | [LAST PIECE](https://open.spotify.com/track/6xrjIHbm6ga5J8HhOS2Rmn) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath of Love: Last Piece](https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H) | 3:42 | 2020-12-01 | 2021-03-25 |
 | [Last Scene](https://open.spotify.com/track/72b8XXM0GEo1TtJ2aPe79R) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Last Scene \- The 3rd Mini Album](https://open.spotify.com/album/1qEyXADkIHSmaCZuHnQPb7) | 4:22 | 2022-11-18 | 2023-02-01 |
 | [Last Sequence](https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Sequence](https://open.spotify.com/album/2Cv3xionHF2O7QL8p6MbCT) | 3:07 | 2022-07-08 | 2022-09-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,222 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,256 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 36 | [On & On](https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [On & On](https://open.spotify.com/album/2R1IseXguOsELhULk1H60P) | 2:50 |
 | 37 | [Don't You Cry](https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov) | [Don't You Cry](https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg) | 4:06 |
 | 38 | [Poker Face](https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3), [Joe Kox](https://open.spotify.com/artist/0aN6ilg8tbD71OTn12qx1G) | [Poker Face](https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA) | 2:37 |
-| 39 | [Eternity](https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Eternity](https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY) | 2:15 |
-| 40 | [La La La](https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [La La La](https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA) | 2:17 |
+| 39 | [La La La](https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [La La La](https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA) | 2:17 |
+| 40 | [Eternity](https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Eternity](https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY) | 2:15 |
 | 41 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 |
 | 42 | [Smile Boy](https://open.spotify.com/track/686xawmVv1F1Ks5kJRkcVG) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Smile Boy](https://open.spotify.com/album/0GCPTSJvxI0pqUEuhOGSaS) | 2:24 |
 | 43 | [Do It To It \- Tiësto Remix](https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Tiësto Remix\)](https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ) | 2:05 |
 | 44 | [BASS DOWN LOW](https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3) | [BASS DOWN LOW](https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1) | 2:46 |
-| 45 | [ABC](https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [ABC](https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK) | 2:39 |
-| 46 | [Turn All The Lights On](https://open.spotify.com/track/3AxoLYBDzx5hTCSJR2W4i9) | [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1) | [Turn All The Lights On](https://open.spotify.com/album/2So8QRALJzGvefJp86htBu) | 2:17 |
+| 45 | [Turn All The Lights On](https://open.spotify.com/track/3AxoLYBDzx5hTCSJR2W4i9) | [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1) | [Turn All The Lights On](https://open.spotify.com/album/2So8QRALJzGvefJp86htBu) | 2:17 |
+| 46 | [ABC](https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [ABC](https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK) | 2:39 |
 | 47 | [Little Do You Know \- Techno Version](https://open.spotify.com/track/2PUVc5dzb7xkgE1Ld6UhF5) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Little Do You Know \(Techno Version\)](https://open.spotify.com/album/0sHpgapkIb1yv4DJmAW1hR) | 2:01 |
 | 48 | [Drinkin](https://open.spotify.com/track/1Usa0Fv8L9NmRKY4UYk4sD) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Drinkin](https://open.spotify.com/album/2M4jhdsyvC0xpuXXc1SKWE) | 2:16 |
 | 49 | [Fireflies](https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Jordan Rys](https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI) | [Fireflies](https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM) | 2:23 |

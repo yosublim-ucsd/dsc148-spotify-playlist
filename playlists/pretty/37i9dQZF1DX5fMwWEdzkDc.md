@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,553 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,568 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 26 | [Love Sick](https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Cheerful Sensibility](https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk) | 4:01 |
 | 27 | [애인만들기](https://open.spotify.com/track/7oEnx3neiNUlJRwBadUhAS) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [꽃보다 남자 Best Collection](https://open.spotify.com/album/0hYIKujukWBdeVb8Cv3Qy7) | 3:15 |
 | 28 | [Me to You, You to Me](https://open.spotify.com/track/1oW9H74WFBF0AsjP2e61YZ) | [Jatanpung](https://open.spotify.com/artist/0rmwTliQlHxi4uQQ0auZm5) | [A bicycle Ride](https://open.spotify.com/album/4dNI0uPp7lWdClgD8hGTVg) | 3:42 |
-| 29 | [A Flying Butterfly](https://open.spotify.com/track/3I71PFicYG614VGl6hqcUK) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Why Be?](https://open.spotify.com/album/4S5PRo1gVG9BvRnCcdYzdS) | 3:34 |
-| 30 | [사랑의 바보](https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp) | [The Nuts](https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb) | [더 넛츠 1집](https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf) | 4:21 |
+| 29 | [사랑의 바보](https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp) | [The Nuts](https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb) | [더 넛츠 1집](https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf) | 4:21 |
+| 30 | [A Flying Butterfly](https://open.spotify.com/track/3I71PFicYG614VGl6hqcUK) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Why Be?](https://open.spotify.com/album/4S5PRo1gVG9BvRnCcdYzdS) | 3:34 |
 | 31 | [Soju Hanjan](https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Bye](https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg) | 4:50 |
 | 32 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 |
 | 33 | [사랑합니다...](https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [영민](https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF) | 3:48 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 47 | [점점](https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:31 |
 | 48 | [다시 사랑한다 말할까](https://open.spotify.com/track/52p5RtEaTXx1u1udrx8Fqr) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [기억속의 멜로디](https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi) | 4:47 |
 | 49 | [한 남자](https://open.spotify.com/track/0KjswKgBYLO65T674Hvldc) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [Evolution](https://open.spotify.com/album/127CxMmFX7bctgIccMVPib) | 4:18 |
-| 50 | [화장을 고치고](https://open.spotify.com/track/0e70x113268aBzaBaNHmrR) | [WAX](https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ) | [Wax02 : 화장을 고치고](https://open.spotify.com/album/0lxaVhnSUrnsCreJm5sBj6) | 4:10 |
+| 50 | [Etude of Memory](https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW) | [Exhibition](https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE) | [Exhibition](https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj) | 5:13 |
 | 51 | [Honey](https://open.spotify.com/track/7K0qoyK48Um3llVR4TH0rI) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Honey \(Special Edition\)](https://open.spotify.com/album/0vAZzuihx388IsfLUPamzB) | 3:15 |
-| 52 | [Etude of Memory](https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW) | [Exhibition](https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE) | [Exhibition](https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj) | 5:13 |
+| 52 | [화장을 고치고](https://open.spotify.com/track/0e70x113268aBzaBaNHmrR) | [WAX](https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ) | [Wax02 : 화장을 고치고](https://open.spotify.com/album/0lxaVhnSUrnsCreJm5sBj6) | 4:10 |
 | 53 | [살다가](https://open.spotify.com/track/0qqHi5iyYkcbvCpnWwHKLl) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [살다가](https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe) | 4:43 |
 | 54 | [그녀를 사랑해줘요](https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Stand Alone](https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i) | 4:19 |
 | 55 | [내 머리가 나빠서](https://open.spotify.com/track/1cKxbdfl0lytWFFMXsoCEA) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [꽃보다 남자 Best Collection](https://open.spotify.com/album/0hYIKujukWBdeVb8Cv3Qy7) | 4:23 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 59 | [체념](https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:59 |
 | 60 | [Come Back To Me](https://open.spotify.com/track/4ezlt6ciGxes2ctqphnKVU) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [Just Listen.......](https://open.spotify.com/album/4QoM0VDe5UPOotBYmmcg5U) | 4:06 |
 | 61 | [Girls On Top](https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Girls On Top](https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6) | 3:38 |
-| 62 | [Stay](https://open.spotify.com/track/0Q2uAamKg36f2KH0NSepT7) | [MBLAQ](https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG) | [BLAQ Style](https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF) | 3:20 |
-| 63 | [감사](https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [기억속의 멜로디](https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi) | 4:45 |
+| 62 | [감사](https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [기억속의 멜로디](https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi) | 4:45 |
+| 63 | [Stay](https://open.spotify.com/track/0Q2uAamKg36f2KH0NSepT7) | [MBLAQ](https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG) | [BLAQ Style](https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF) | 3:20 |
 | 64 | [잠시만 안녕](https://open.spotify.com/track/7fyEwJts3Fv2D4MIt5I1M9) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [M.C The Max! Vol.1](https://open.spotify.com/album/0FPzOi7YqDtrJAqnfq3O4T) | 6:48 |
 | 65 | [My love has faded away](https://open.spotify.com/track/1K7POuN7vtBx5MCAi2W6DJ) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [My love has faded away](https://open.spotify.com/album/69dtdfRPdV7cV3taX0horB) | 3:40 |
 | 66 | [I LOVE YOU](https://open.spotify.com/track/0rXBAMbHo7WTddZYfK2AX9) | [Position](https://open.spotify.com/artist/46Bj2frkvUzqJUwcSx24Wo) | [포지션 스페셜 I LOVE YOU](https://open.spotify.com/album/2KvPzTe2rEACWx6nlQEebv) | 5:29 |

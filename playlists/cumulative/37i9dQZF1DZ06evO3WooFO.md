@@ -4,7 +4,7 @@
 
 > This is blink\-182\. The essential tracks, all in one playlist.
 
-102 songs - 5 hr 12 min
+103 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Carousel](https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Cheshire Cat](https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83) | 3:14 | 2022-01-11 |  |
 | [CUT ME OFF](https://open.spotify.com/track/2Zs1T1OXwcm6XgrIRvAfwH) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/00txDYFrU4LjWqwKE8iQJA) | 2:06 | 2024-02-01 | 2024-09-16 |
 | [Cynical](https://open.spotify.com/track/0oOOVSZGuPriWBqwbh0uuJ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 1:55 | 2023-01-14 | 2023-12-14 |
-| [Cynical](https://open.spotify.com/track/7qLTXx7crEEtkbI2TAflqd) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 1:55 | 2023-12-29 | 2024-09-18 |
+| [Cynical](https://open.spotify.com/track/7qLTXx7crEEtkbI2TAflqd) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 1:55 | 2023-12-29 |  |
 | [Dammit](https://open.spotify.com/track/6WkSUgo1VdpzgtiXKlFPcY) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/2CoVyQi2zIifUNBcVR0gEH) | 2:45 | 2022-01-11 |  |
 | [DANCE WITH ME](https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [DANCE WITH ME](https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh) | 3:08 | 2023-10-10 | 2023-11-11 |
 | [DANCE WITH ME](https://open.spotify.com/track/5k2KDcpVLgyy0dr7uzdJit) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:08 | 2023-11-10 |  |
@@ -71,6 +71,7 @@
 | [M+M's](https://open.spotify.com/track/6A82LV89Dc6eMJI4ocqwUS) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Cheshire Cat](https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83) | 2:39 | 2022-01-11 |  |
 | [Man Overboard](https://open.spotify.com/track/1PRknVhZ6BsVX61MPrrVsV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [The Mark, Tom And Travis Show \(The Enema Strikes Back!\) \[Live\]](https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz) | 2:46 | 2022-01-11 |  |
 | [Misery](https://open.spotify.com/track/1gofFAslBqWqeZ1F73GaJe) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0jLf8ecN5HjstQqPAjJlsS) | 3:51 | 2022-01-11 | 2023-11-11 |
+| [MORE THAN YOU KNOW](https://open.spotify.com/track/2uMNjuv6vXS9lRr61GvssB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:37 | 2024-11-06 |  |
 | [MORE THAN YOU KNOW](https://open.spotify.com/track/6apKpbDebOi4RXhmcgOCNz) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:37 | 2023-09-25 | 2023-11-11 |
 | [MORE THAN YOU KNOW](https://open.spotify.com/track/6is198totXPWEoY2ulZ4A5) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/00txDYFrU4LjWqwKE8iQJA) | 3:37 | 2024-06-26 | 2024-09-14 |
 | [Mutt](https://open.spotify.com/track/3Q0yxw9mdycjnuORDvY5E6) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 3:23 | 2022-02-08 | 2024-06-12 |
@@ -108,7 +109,7 @@
 | [What's My Age Again?](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:28 | 2022-01-11 |  |
 | [When I Was Young](https://open.spotify.com/track/1bI5cazRwt66vksBjV6RmH) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 3:29 | 2022-12-28 |  |
 | [WHEN WE WERE YOUNG](https://open.spotify.com/track/7sr058hCmHw5kUwCM4smm7) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 2:40 | 2023-11-10 | 2023-12-23 |
-| [Wishing Well](https://open.spotify.com/track/0y3fPWWin7NL5aED2FjvXP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 3:20 | 2023-05-11 | 2024-09-08 |
+| [Wishing Well](https://open.spotify.com/track/0y3fPWWin7NL5aED2FjvXP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 3:20 | 2023-05-11 |  |
 | [Wishing Well](https://open.spotify.com/track/4M4taWkQGn3FcbH6tnH6mx) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 3:20 | 2022-01-11 | 2024-09-14 |
 
 \*This playlist was first scraped on 2022-01-12. Prior content cannot be recovered.

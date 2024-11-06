@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 61330,
+  "num_followers": 61339,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAAC3y+FeDPbjAb1sgAWiXuLi",
+  "snapshot_id": "ZygOgAAAAACpoDtXPoXQByXKeluB7Nen",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALV",
-        "url": "https://open.spotify.com/album/79NYLb4A4a1OwBRbLAsyfk"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 217541,
-      "name": "ALV",
-      "url": "https://open.spotify.com/track/0czJDMboe5qf9NTHisp6kO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ruzzicovers",
         "url": "https://open.spotify.com/album/2iIluiLqHB24y20H2qPbb2"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 219086,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/51Qn4E2abqNQzL5XMzWEHw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ALV",
+        "url": "https://open.spotify.com/album/79NYLb4A4a1OwBRbLAsyfk"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 217541,
+      "name": "ALV",
+      "url": "https://open.spotify.com/track/0czJDMboe5qf9NTHisp6kO"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 173450,
+      "name": "Lo Bailado",
+      "url": "https://open.spotify.com/track/5AQFKEETsXkpLsHHq9kpmO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Sientes T\u00fa?",
         "url": "https://open.spotify.com/album/36Flbad50gwniOiAgA97ff"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 181169,
       "name": "Lo Sientes T\u00fa?",
       "url": "https://open.spotify.com/track/7xX6nwgmvLgKtWTKwDrI2c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 173450,
-      "name": "Lo Bailado",
-      "url": "https://open.spotify.com/track/5AQFKEETsXkpLsHHq9kpmO"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Himnos del Amor",
-        "url": "https://open.spotify.com/album/00oqeg7bfUjuQWLqgrdZ2k"
-      },
-      "artists": [
-        {
-          "name": "Ramona",
-          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 206818,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/2Qm7E9UitJaLknrQp3YXgd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
         "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
       },
@@ -903,18 +883,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No todo lo puedes dar",
-        "url": "https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld"
+        "name": "Los Himnos del Amor",
+        "url": "https://open.spotify.com/album/00oqeg7bfUjuQWLqgrdZ2k"
       },
       "artists": [
+        {
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        },
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 228640,
-      "name": "La Vida No Es F\u00e1cil",
-      "url": "https://open.spotify.com/track/0jGTmc9Z4yczeLzLVaIJgp"
+      "duration_ms": 206818,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/2Qm7E9UitJaLknrQp3YXgd"
     },
     {
       "added_at": null,
@@ -935,6 +919,22 @@
       "duration_ms": 169090,
       "name": "Te Confieso",
       "url": "https://open.spotify.com/track/1syzaQgUf8zOeLwash8NT5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No todo lo puedes dar",
+        "url": "https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 228640,
+      "name": "La Vida No Es F\u00e1cil",
+      "url": "https://open.spotify.com/track/0jGTmc9Z4yczeLzLVaIJgp"
     },
     {
       "added_at": null,

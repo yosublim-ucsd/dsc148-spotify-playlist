@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 24 | [RABBITHOLE](https://open.spotify.com/track/5NVnK2Ct25u1enmwdWAdkR) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr) | 2:21 |
 | 25 | [Texts Go Green](https://open.spotify.com/track/1GPliC2cz8d5rTVDASQ633) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Texts Go Green](https://open.spotify.com/album/3OrU1Vo2kgpEING1SWD4e3) | 2:25 |
 | 26 | [GIRLZ](https://open.spotify.com/track/3pWZZrTyZo3WSVkSIOWFu6) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GIRLZ \(secs on the beach remix\)](https://open.spotify.com/album/700XrAzXjvhqICEnLE9OgD) | 2:21 |
-| 27 | [London's Calling](https://open.spotify.com/track/6PMc3WtyzVGmnHCEWlmIbW) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [London's Calling](https://open.spotify.com/album/3PeetJ2MUzFszFdrAI8Bda) | 2:23 |
-| 28 | [The Idea](https://open.spotify.com/track/2o4eax2msyhbpijcWKtbOS) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [I Don't Know What Love Is](https://open.spotify.com/album/52FQWWrNHNXIU3JlCzt3fX) | 3:31 |
+| 27 | [The Idea](https://open.spotify.com/track/2o4eax2msyhbpijcWKtbOS) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [I Don't Know What Love Is](https://open.spotify.com/album/52FQWWrNHNXIU3JlCzt3fX) | 3:31 |
+| 28 | [London's Calling](https://open.spotify.com/track/6PMc3WtyzVGmnHCEWlmIbW) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [London's Calling](https://open.spotify.com/album/3PeetJ2MUzFszFdrAI8Bda) | 2:23 |
 | 29 | [Gateway Drug](https://open.spotify.com/track/35tCAihZKcNT93g5SYIxlb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin](https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX) | 2:41 |
 | 30 | [Agree to Disagree](https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 2:22 |
 | 31 | [Where Am I?](https://open.spotify.com/track/5A3NEMVcI9sAp7BSuaEeWU) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Where Am I?](https://open.spotify.com/album/5HwTjLAj4NbPkdvA0NXYWV) | 1:07 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 44 | [Nerve](https://open.spotify.com/track/7i2byKvq0t1ZFM2gRF08gM) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [Geena Fontanella](https://open.spotify.com/artist/10wiqOOU6bWDY4TavxRO42) | [Nerve](https://open.spotify.com/album/3zt0WesxwZxCUdvhF2EavU) | 2:48 |
 | 45 | [make u miss me](https://open.spotify.com/track/5NZGTvM5SYxifaJIMz3XZI) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [make u miss me](https://open.spotify.com/album/0USpfZlo9OlFDkNy9cgFR8) | 3:08 |
 
-Snapshot ID: `AbgoqgAAAABOKfBiRZCPdnAvlird4Ryv`
+Snapshot ID: `AbguSgAAAABXt4bpPi2m/y0OriRrkHWa`

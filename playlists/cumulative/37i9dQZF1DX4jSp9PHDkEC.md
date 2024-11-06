@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-585 songs - 1 day 15 hr 27 min
+586 songs - 1 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,8 +404,9 @@
 | [Riverside](https://open.spotify.com/track/1UmFRZU3taMGZApPhK32mc) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/79JZVTdAztJJEYm6xtDzBM) | 3:48 | 2023-01-17 | 2024-11-04 |
 | [Riverside](https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx) | 3:48 | 2023-01-17 | 2024-04-19 |
 | [Rocky Trail](https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:30 | 2023-01-17 | 2024-04-19 |
-| [Rocky Trail](https://open.spotify.com/track/5xKHD7mTnrCgy4SN1Y1jK3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Rocky Trail](https://open.spotify.com/album/608ZymCmVta7bY6ZYjRU3j) | 3:30 | 2023-01-17 |  |
+| [Rocky Trail](https://open.spotify.com/track/5xKHD7mTnrCgy4SN1Y1jK3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Rocky Trail](https://open.spotify.com/album/608ZymCmVta7bY6ZYjRU3j) | 3:30 | 2023-01-17 | 2024-11-06 |
 | [Romance](https://open.spotify.com/track/6OekrDohNUa6lMUQ6UWy1l) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Ex:Re](https://open.spotify.com/album/30sddBZ6VjuOkhIXvdE0Pw) | 6:43 | 2023-01-17 | 2024-04-19 |
+| [Romance](https://open.spotify.com/track/7Ky78y9gxAKlujRin3vzZf) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Ex:Re](https://open.spotify.com/album/2TzaLffI6wNpSstYdP07bv) | 6:43 | 2023-01-17 |  |
 | [Room Temperature](https://open.spotify.com/track/6TPTnROcnJQXuAyRDw2qfu) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 4:04 | 2023-01-17 | 2024-04-19 |
 | [Rooting For You](https://open.spotify.com/track/5MHmD8cfTbudNLTWYA5QHJ) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Rooting For You](https://open.spotify.com/album/3dt7LAPk6cqCfYWwpSqVt9) | 4:29 | 2023-01-17 | 2024-10-10 |
 | [Rooting For You](https://open.spotify.com/track/0HFCw1viBRc2siCdkjL86P) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Truth Is a Beautiful Thing \(Deluxe\)](https://open.spotify.com/album/2czuN6tZcR5ebpuK9A1Vur) | 4:29 | 2023-01-17 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-1,100 songs - 2 day 13 hr 9 min
+1,101 songs - 2 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Aloha](https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Aloha \(feat\. Darell, Mambo Kingz & Dj Luian\)](https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH) | 4:01 | 2021-04-17 | 2021-09-05 |
 | [AM](https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [AM](https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope) | 3:02 | 2021-04-04 | 2021-07-31 |
 | [AM Remix](https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [AM Remix](https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV) | 4:21 | 2021-06-27 | 2022-02-25 |
-| [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 | 2023-05-20 |  |
+| [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 | 2023-05-20 | 2024-11-06 |
+| [Amigos Y Enemigos Almighty](https://open.spotify.com/track/3RpbyzSdjlKeEEnVbzhCRE) | [Membrillito](https://open.spotify.com/artist/1Wkq8mUYQv7GfWVYkq5Nu9) | [Amigos Y Enemigos Almighty](https://open.spotify.com/album/6hIwKyH17huDs7cJZ0rhrC) | 2:30 | 2024-11-05 |  |
 | [Amiri Jeans](https://open.spotify.com/track/1kavadKZM6Ah01m1rFCU0o) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [King Fly](https://open.spotify.com/artist/3bfahxMCLID17MMlD2DfGc) | [La Luz Es Única](https://open.spotify.com/album/1DsJVfcNlWH0W1Ie4QxBWB) | 2:16 | 2023-06-09 | 2023-10-01 |
 | [Amiri Jeans \- Remix](https://open.spotify.com/track/2cYpAMhTGCXZfunFfujsg5) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Trap Star](https://open.spotify.com/album/11Q0ZQryDyVVg2FcL31m8g) | 3:50 | 2024-07-20 | 2024-07-22 |
 | [Amor de Luto \- Remix](https://open.spotify.com/track/2soJD3UB4rSm7GLFiOnOf8) | [Shamanes Crew](https://open.spotify.com/artist/6J9Vq69rGl3fJftWDT8jaK), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [Amor de Luto \(Remix\)](https://open.spotify.com/album/6eeCVg2glP5TRHuXL9Uo1B) | 5:05 | 2022-12-16 | 2022-12-20 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-897 songs - 2 day 5 hr 54 min
+898 songs - 2 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Blank Space \(Taylor's Version\)](https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-28 | 2023-11-05 |
 | [Blessed\-Cursed](https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 2:50 | 2022-01-11 | 2022-01-15 |
 | [Blockbuster feat\. YEONJUN of TOMORROW X TOGETHER](https://open.spotify.com/track/08XshFxOo9rcQagObgcoK6) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:47 | 2021-10-14 | 2021-10-16 |
-| [blue](https://open.spotify.com/track/2ezMnGfGww3WSOJp7TwI1N) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/4dhoGa2hqBQ402BaIwBpcn) | 3:34 | 2024-10-16 |  |
+| [blue](https://open.spotify.com/track/2ezMnGfGww3WSOJp7TwI1N) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/4dhoGa2hqBQ402BaIwBpcn) | 3:34 | 2024-10-16 | 2024-11-06 |
+| [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2024-11-05 |  |
 | [blue](https://open.spotify.com/track/7x4AjK76OJYPjR0gRvftd6) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/71aeC1OdbynbvpPhtm2WUb) | 3:34 | 2024-10-08 | 2024-10-17 |
 | [BMW](https://open.spotify.com/track/62aa4ZnQGgF8gXzzvWRJhG) | [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [Leslie](https://open.spotify.com/artist/7e9E8xCNHDoWE4B730wEHt) | [Heartbreak SZN 2](https://open.spotify.com/album/7gdfCp5dpCCQMb5HUkXJwQ) | 2:48 | 2021-10-26 | 2022-03-10 |
 | [BMW](https://open.spotify.com/track/7C9Knp9FzLY6RwgktmW9Ge) | [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [Leslie](https://open.spotify.com/artist/4ISAzgKYMuonWbDhueeoEq) | [Heartbreak SZN 2](https://open.spotify.com/album/4DMjaQksbK2Ccrevh7Qy1B) | 2:48 | 2022-03-09 | 2023-10-09 |
@@ -297,7 +298,7 @@
 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 | 2023-05-29 | 2023-11-19 |
 | [Gusto Ko Sakin Ka Lang](https://open.spotify.com/track/52F5Y4EgcZ2RggVqpqSJBe) | [Robledo Timido](https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw) | [Gusto Ko Sakin Ka Lang](https://open.spotify.com/album/2CKTmUw2QrxtchdI1yVfQB) | 3:13 | 2024-09-02 |  |
 | [Habang Buhay](https://open.spotify.com/track/63bmIgH9sS6sX5Sc7MetGq) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 4:04 | 2021-11-03 | 2022-10-23 |
-| [Hanggang Kailan \- Umuwi Ka Na Baby](https://open.spotify.com/track/69u8qQcaA3o0A7Ko87juqp) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [Strike Whilst the Iron Is Hot](https://open.spotify.com/album/1Pjond44g3GY0emy3LfcCl) | 4:21 | 2023-09-07 | 2024-11-04 |
+| [Hanggang Kailan \- Umuwi Ka Na Baby](https://open.spotify.com/track/69u8qQcaA3o0A7Ko87juqp) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [Strike Whilst the Iron Is Hot](https://open.spotify.com/album/1Pjond44g3GY0emy3LfcCl) | 4:21 | 2023-09-07 |  |
 | [Hangin](https://open.spotify.com/track/1y2t6CYXp7llG3fnhTkQOl) | [Yno](https://open.spotify.com/artist/1UA8gmDdRTIn1SIswEIAXg) | [Hangin](https://open.spotify.com/album/7CwjUB296r3lpbcvC8h7cj) | 4:59 | 2023-06-25 | 2023-06-27 |
 | [happier](https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:55 | 2021-05-23 | 2021-12-26 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-06 | 2022-08-26 |
@@ -394,8 +395,8 @@
 | [Jump Then Fall \(Taylor’s Version\)](https://open.spotify.com/track/2m3ObD945KvpE5y9A1eUWm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:57 | 2021-04-11 | 2021-04-15 |
 | [Just A Little Bit](https://open.spotify.com/track/3QdjLOemIcMZovVOnvJP7P) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 2:47 | 2021-10-14 | 2021-10-17 |
 | [Just as usual](https://open.spotify.com/track/64xTu0cKbXu3ZSRkfXiBnx) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 3:27 | 2021-06-09 | 2021-06-12 |
-| [Just the Way You Are](https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:40 | 2024-11-04 |  |
-| [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 | 2023-06-27 | 2024-11-05 |
+| [Just the Way You Are](https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:40 | 2024-11-04 | 2024-11-06 |
+| [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 | 2023-06-27 |  |
 | [Kabilang Buhay](https://open.spotify.com/track/0knRQzgvbUed6K74mX81hG) | [Bandang Lapis](https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx) | [Kabilang Buhay](https://open.spotify.com/album/1bXVfDuQen1YkHWKudAi2c) | 5:25 | 2021-03-27\* | 2021-04-08 |
 | [Kagome](https://open.spotify.com/track/2BDrpeAnTxCurLt38yDSrE) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Kagome](https://open.spotify.com/album/4CIT1BsHQams5FP5RUSydD) | 3:58 | 2022-05-02 | 2023-01-14 |
 | [Kampana Ng Simbahan](https://open.spotify.com/track/3WJNclt6udgjcPiSy0hMNb) | [Leo Valdez](https://open.spotify.com/artist/55yK9bebS7rDYaiTiR0slN) | [Pamasko Ng Mga Bituin](https://open.spotify.com/album/1CIUzJ8OkF00ewxIQgVzhq) | 2:54 | 2023-12-25 | 2023-12-27 |
@@ -656,7 +657,7 @@
 | [Sad Beautiful Tragic \(Taylor's Version\)](https://open.spotify.com/track/21SralRv4ucDT3i1rYrr85) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 4:44 | 2021-11-14 | 2021-11-14 |
 | [Sad Beautiful Tragic \(Taylor's Version\)](https://open.spotify.com/track/73qMN9bXy7MSPwwGfH3wQr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:44 | 2021-11-14 | 2021-11-17 |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-10-30 | 2024-11-01 |
-| [Salamin, Salamin](https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Talaarawan](https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv) | 3:50 | 2024-04-02 |  |
+| [Salamin, Salamin](https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Talaarawan](https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv) | 3:50 | 2024-04-02 | 2024-11-06 |
 | [Samahan Mo Ako](https://open.spotify.com/track/1mXxolyhAm7eP91K48L57k) | [Je](https://open.spotify.com/artist/1NIQyQhhLxI07lSrY00HVB) | [Samahan Mo Ako](https://open.spotify.com/album/3cQnZJpy16sCjo52KUiEDL) | 3:32 | 2021-04-17 | 2021-07-01 |
 | [Sanctuary](https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 3:00 | 2022-06-15 | 2022-07-17 |
 | [Sandali](https://open.spotify.com/track/6gbhAe0l2WPXEGFYOBdPOO) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Sandali](https://open.spotify.com/album/6HculBGdKrjNRW3w2ChG7P) | 3:28 | 2024-06-22 | 2024-09-23 |

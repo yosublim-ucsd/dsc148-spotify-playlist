@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,343 likes - 70 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,377 likes - 70 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 42 | [Preta Pretinha](https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 6:37 |
 | 43 | [Faraó](https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX) | [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD) | [Tete a Tete Margareth](https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK) | 5:34 |
 | 44 | [Playsom](https://open.spotify.com/track/3xeqZUMpHsLO1UEoTIwHBO) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Marcio Victor](https://open.spotify.com/artist/3yC2gBgxQcQ4m90ltqAir9) | [Duas Cidades](https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI) | 3:58 |
-| 45 | [Agora só falta você](https://open.spotify.com/track/3impd3fNYkpLlklzuOfyVZ) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita](https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw) | 3:24 |
-| 46 | [Rap du Bom Parte II \- Mús\. Incid.: Odara](https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sujeito Homem 2](https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD) | 7:15 |
+| 45 | [Rap du Bom Parte II \- Mús\. Incid.: Odara](https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sujeito Homem 2](https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD) | 7:15 |
+| 46 | [Agora só falta você](https://open.spotify.com/track/3impd3fNYkpLlklzuOfyVZ) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita](https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw) | 3:24 |
 | 47 | [Zé Do Caroço](https://open.spotify.com/track/1h7XWoJkUP6dk89XYBoaaZ) | [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Leci Brandão](https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6) | 3:24 |
 | 48 | [Brasil Pandeiro](https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:55 |
 | 49 | [Ligeiro](https://open.spotify.com/track/3GDHgdo1Ahn7fe5h2yh2aY) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Ligeiro](https://open.spotify.com/album/0j8GlFLqVlDkKKAzH9G2cp) | 3:31 |
@@ -71,11 +71,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 61 | [Nem Vem Que Não Tem \- Ao Vivo](https://open.spotify.com/track/5G5uIDkQytLq7yOacUcjJ9) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya), [Som Tres](https://open.spotify.com/artist/3KPIgglSGTB02qXJecKzNV) | [Nem Vem Que Não Tem](https://open.spotify.com/album/2T4SgxLYyvVJxqwWGk4Pjq) | 2:32 |
 | 62 | [Você Não Entende Nada](https://open.spotify.com/track/2vlaOc3YYt7WLYIYxoJgYB) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Divino Maravilhoso \- Gal Costa Interpreta Caetano Veloso](https://open.spotify.com/album/0g95IMqM1BNSjYWwHEW0FZ) | 3:50 |
 | 63 | [Deusa do Amor](https://open.spotify.com/track/5bYc3SytNlaeXiprYUrPK1) | [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Máquina de Escrever Música \(20th Anniversary Edition\)](https://open.spotify.com/album/7o5qJh2A57nroT64dUV2vz) | 4:57 |
-| 64 | [Bananeira \(Remastered\)](https://open.spotify.com/track/3Z2Thcr0SrxKcQpvouDpR8) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Emilio Santiago \(Remastered\)](https://open.spotify.com/album/2FlDGXezVaILbnqmFIb2vU) | 2:53 |
-| 65 | [Aleluia](https://open.spotify.com/track/1KUqyZaFMpglFfxXzv4Aj6) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E) | [Robson Jorge e Lincoln Olivetti](https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM) | 3:52 |
+| 64 | [Aleluia](https://open.spotify.com/track/1KUqyZaFMpglFfxXzv4Aj6) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E) | [Robson Jorge e Lincoln Olivetti](https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM) | 3:52 |
+| 65 | [Bananeira \(Remastered\)](https://open.spotify.com/track/3Z2Thcr0SrxKcQpvouDpR8) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Emilio Santiago \(Remastered\)](https://open.spotify.com/album/2FlDGXezVaILbnqmFIb2vU) | 2:53 |
 | 66 | [Realce](https://open.spotify.com/track/6991iMrfqqHjYSPzsobNeW) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Realce](https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr) | 4:44 |
-| 67 | [Pé do Meu Samba \- Ao Vivo](https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Mart'nália em Berlim \(Ao Vivo\)](https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG) | 4:16 |
-| 68 | [16 Toneladas](https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe) | [Funk Como Le Gusta](https://open.spotify.com/artist/4EdK5PbxoQyOAJFWpc8xLg), [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm) | [Roda de Funk](https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S) | 3:11 |
+| 67 | [16 Toneladas](https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe) | [Funk Como Le Gusta](https://open.spotify.com/artist/4EdK5PbxoQyOAJFWpc8xLg), [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm) | [Roda de Funk](https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S) | 3:11 |
+| 68 | [Pé do Meu Samba \- Ao Vivo](https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Mart'nália em Berlim \(Ao Vivo\)](https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG) | 4:16 |
 | 69 | [Jamburana](https://open.spotify.com/track/7IxEuM3zkP51Qk4zKkugIM) | [Dona Onete](https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc) | [Feitiço Caboclo](https://open.spotify.com/album/2LVjaj6inxXbQGyhydh5UW) | 4:27 |
 | 70 | [Pelas Tabelas](https://open.spotify.com/track/5E8D8xyRm113aCdV5JfJvA) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Braseiro](https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x) | 3:53 |
 

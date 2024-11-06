@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWv69X.md) - [plain]
 
 > This is Mar de Copas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,088 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,090 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWv69X.md) - [plain]
 | 23 | [Viejo Amor, Nuevo Amor](https://open.spotify.com/track/1B1MMCuGh1ZNpOW64K1AcJ) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t) | 3:29 |
 | 24 | [Cada Siete Tardes de Sol](https://open.spotify.com/track/4UnggXhJH0JzyDCA5SJdgv) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Seis](https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx) | 4:23 |
 | 25 | [Lb](https://open.spotify.com/track/3xWM8wXIwvNRT3kfCPSrnM) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [En Vivo](https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4) | 4:41 |
-| 26 | [Enloqueciendo](https://open.spotify.com/track/56L3CCrj0ceiAU3lPbw8G4) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Suna](https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI) | 3:19 |
+| 26 | [Vuelve Conmigo](https://open.spotify.com/track/0JTBnDXkc9XFWPuMTYf3v2) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Si algo así como el amor está en el aire](https://open.spotify.com/album/4Z2EOWKODHlBbLnvewyQwW) | 5:06 |
 | 27 | [Lisa en el Espejo](https://open.spotify.com/track/0fp20PQabJAHeXBu8UkniG) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t) | 3:13 |
 | 28 | [Pensando en Ti](https://open.spotify.com/track/6VCbMz84tUE3xUlWfsH9yA) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Seis](https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx) | 4:27 |
 | 29 | [Un Nuevo Intento](https://open.spotify.com/track/71h02ya68CI1PNvfw9Ea9Z) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [En Vivo](https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4) | 3:12 |
-| 30 | [Vuelve Conmigo](https://open.spotify.com/track/0JTBnDXkc9XFWPuMTYf3v2) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Si algo así como el amor está en el aire](https://open.spotify.com/album/4Z2EOWKODHlBbLnvewyQwW) | 5:06 |
-| 31 | [Otra Canción](https://open.spotify.com/track/6o5EDbCCf94rIvBoKXw4dR) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [III](https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG) | 3:45 |
+| 30 | [Enloqueciendo](https://open.spotify.com/track/56L3CCrj0ceiAU3lPbw8G4) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Suna](https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI) | 3:19 |
+| 31 | [Una Historia Más](https://open.spotify.com/track/2mepxXfZbgVvC2zw8FCCYt) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [De Tierra](https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP) | 4:03 |
 | 32 | [Siglo XX](https://open.spotify.com/track/4OZgSWznmn6hzNSJSIgiV8) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Seis](https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx) | 4:09 |
-| 33 | [Una Historia Más](https://open.spotify.com/track/2mepxXfZbgVvC2zw8FCCYt) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [De Tierra](https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP) | 4:03 |
+| 33 | [Otra Canción](https://open.spotify.com/track/6o5EDbCCf94rIvBoKXw4dR) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [III](https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG) | 3:45 |
 | 34 | [El Dolor del Amor](https://open.spotify.com/track/0dbg6Rzu2hhXrvn6bwT39n) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [El Soundtrack de una Vida](https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt) | 3:21 |
 | 35 | [Ni por un Segundo](https://open.spotify.com/track/3arauHGIZskCf50BMT1m1I) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Si algo así como el amor está en el aire](https://open.spotify.com/album/4Z2EOWKODHlBbLnvewyQwW) | 4:53 |
 | 36 | [Cómo Pensar Que No Te Quise](https://open.spotify.com/track/6XIlkDOQxF681R9F3bugBk) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Seis](https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx) | 4:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWv69X.md) - [plain]
 | 49 | [C.p.a.m.](https://open.spotify.com/track/3gjYndqMoWw0xrO0ZzfTD7) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [El Soundtrack de una Vida](https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt) | 5:25 |
 | 50 | [Así Fue Que una Historia Murió](https://open.spotify.com/track/2vBuiWik9kwEemeh8N1Ljh) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Suna](https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI) | 1:38 |
 
-Snapshot ID: `Zya9AAAAAAD1rWiaemNlSCDXpuVF3iZW`
+Snapshot ID: `ZygOgAAAAAApyXIGu71Z82NMOxiQPGNN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Édith Piaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,929 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,934 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 61 | [Douce France](https://open.spotify.com/track/1YwQo6MrcSn0RQfnk0iG8D) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [Platinum](https://open.spotify.com/album/4WDKGsDi7616S6Egs0quLq) | 3:12 |
 | 62 | [La maladie d'amour](https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La Maladie D'Amour](https://open.spotify.com/album/2VS8g9qRPdXFC3hQSIwmqK) | 3:30 |
 | 63 | [Fais comme l'oiseau](https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais Comme L'Oiseau](https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn) | 3:06 |
-| 64 | [Emmenez Moi](https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 3:32 |
+| 64 | [La bohème](https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 4:05 |
 | 65 | [La poupée qui fait non](https://open.spotify.com/track/3OqYJWnF2v4B88YHEPuOmD) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/4V5xtW0tFqjJUlAWHHv1Rg) | 3:13 |
 | 66 | [Mon vieux](https://open.spotify.com/track/05GcBfZY8Zno2DkWToHyIw) | [Daniel Guichard](https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs) | [Mon Vieux](https://open.spotify.com/album/1i0NyVofMiqLPfZwiiQ79f) | 3:32 |
 | 67 | [Vous permettez, monsieur ?](https://open.spotify.com/track/0BZkhtJceF2dcvazRrfguv) | [Adamo](https://open.spotify.com/artist/26ycUCO6mpGAZPw9yHzhon) | [Le disque d'or \(Remastered\)](https://open.spotify.com/album/79M1hsJkTEt1mOfiIi97Qh) | 3:02 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 70 | [Céline](https://open.spotify.com/track/1dhwnKg62ljkHarJ883N7Z) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB) | 3:08 |
 | 71 | [Chez Laurette](https://open.spotify.com/track/4vLqJ8khGI4VpdINhXrxi9) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [Les 50 plus belles chansons](https://open.spotify.com/album/1RjaSfFBL6CkpHO7XW9A7D) | 3:30 |
 | 72 | [Les Mots Bleus](https://open.spotify.com/track/0iKhilpfx902LV9jUU5x30) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Les mots bleus](https://open.spotify.com/album/46kTt80CYge3BA2IWx4WRh) | 4:10 |
-| 73 | [La bohème](https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 4:05 |
+| 73 | [Emmenez Moi](https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 3:32 |
 | 74 | [La Ballade Des Gens Heureux](https://open.spotify.com/track/3f1kUjxpiIf6cqOn71acN9) | [Gérard Lenorman](https://open.spotify.com/artist/5yyYswdvKadmf03amOvBDx) | [100 Tubes 70s](https://open.spotify.com/album/2zs6pEnk6jffcqakWih5lW) | 3:18 |
 | 75 | [Ne Me Quitte Pas](https://open.spotify.com/track/0B2mpfbg0an33QEYfKGChy) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [Infiniment](https://open.spotify.com/album/4d9l1TbzJDhwKylJLwJixn) | 4:11 |
 | 76 | [Comme d'habitude](https://open.spotify.com/track/3oHpcWfXvtA6RrzgYahuAT) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Best Of](https://open.spotify.com/album/3ZU8JjHnH8JxGEKfrN7x16) | 4:13 |

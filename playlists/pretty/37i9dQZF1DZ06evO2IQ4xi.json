@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 13459,
+  "num_followers": 13500,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAAD/Sz9/VKj3vdzI63GKaMZ7",
+  "snapshot_id": "ZygOgAAAAAAR8MkH6o2DliTn3kESxAGG",
   "tracks": [
     {
       "added_at": null,
@@ -687,6 +687,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 201528,
+      "name": "Girls Night Out (with Doechii)",
+      "url": "https://open.spotify.com/track/74FInvmyz8taG35p8QYU6J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coven Music Session, Vol. 1",
+        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 102269,
+      "name": "Pencil Pouch",
+      "url": "https://open.spotify.com/track/2kJ0e9Oxfl56GMhzACflTS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
         "url": "https://open.spotify.com/album/2Pr2gqGNGdyyqUMCkQ0V2V"
       },
@@ -715,42 +751,6 @@
       "duration_ms": 144796,
       "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
       "url": "https://open.spotify.com/track/0gIVNoo3H05GyR4ExxmQOa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coven Music Session, Vol. 1",
-        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 102269,
-      "name": "Pencil Pouch",
-      "url": "https://open.spotify.com/track/2kJ0e9Oxfl56GMhzACflTS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Girls Night Out",
-        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 201528,
-      "name": "Girls Night Out (with Doechii)",
-      "url": "https://open.spotify.com/track/74FInvmyz8taG35p8QYU6J"
     },
     {
       "added_at": null,

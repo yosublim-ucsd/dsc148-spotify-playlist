@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-10-14 18:38:40",
       "album": {
-        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 186106,
-      "name": "Cold As You",
-      "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
-    },
-    {
-      "added_at": "2024-10-14 18:38:40",
-      "album": {
         "name": "HERO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 197930,
       "name": "My Church",
       "url": "https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U"
+    },
+    {
+      "added_at": "2024-10-14 18:38:40",
+      "album": {
+        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "Cold As You",
+      "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
     },
     {
       "added_at": "2024-10-14 18:38:40",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-10-14 18:38:40",
       "album": {
-        "name": "Like I Love Country Music",
-        "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 234340,
-      "name": "Like I Love Country Music",
-      "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
-    },
-    {
-      "added_at": "2024-10-14 18:38:40",
-      "album": {
         "name": "Montevallo",
         "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 192160,
       "name": "Leave The Night On",
       "url": "https://open.spotify.com/track/3wx2kQWPn9p5UppQbNhPAk"
+    },
+    {
+      "added_at": "2024-10-14 18:38:40",
+      "album": {
+        "name": "Like I Love Country Music",
+        "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 234340,
+      "name": "Like I Love Country Music",
+      "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
     },
     {
       "added_at": "2024-10-14 18:38:40",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-10-14 18:38:40",
       "album": {
-        "name": "Experiment Extended",
-        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "Good as You",
-      "url": "https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15"
-    },
-    {
-      "added_at": "2024-10-14 18:38:40",
-      "album": {
         "name": "After All The Bars Are Closed",
         "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
       },
@@ -1431,22 +1415,6 @@
       "duration_ms": 191839,
       "name": "After All The Bars Are Closed",
       "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
-    },
-    {
-      "added_at": "2024-10-14 18:38:40",
-      "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Cowboy Casanova",
-      "url": "https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD"
     },
     {
       "added_at": "2024-10-14 18:38:40",
@@ -1471,18 +1439,34 @@
     {
       "added_at": "2024-10-14 18:38:40",
       "album": {
-        "name": "Hang Tight Honey",
-        "url": "https://open.spotify.com/album/5WyXnepLcbyDzp4qhBZ5f2"
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 189786,
-      "name": "Hang Tight Honey",
-      "url": "https://open.spotify.com/track/6w7OpHp3Y3ByHzmfQXYCRN"
+      "duration_ms": 236786,
+      "name": "Cowboy Casanova",
+      "url": "https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD"
+    },
+    {
+      "added_at": "2024-10-14 18:38:40",
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "Good as You",
+      "url": "https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15"
     },
     {
       "added_at": "2024-10-14 18:38:40",
@@ -1499,6 +1483,22 @@
       "duration_ms": 207733,
       "name": "Break Up with Him",
       "url": "https://open.spotify.com/track/5ZManJDV3CexO66nRCkdiV"
+    },
+    {
+      "added_at": "2024-10-14 18:38:40",
+      "album": {
+        "name": "Hang Tight Honey",
+        "url": "https://open.spotify.com/album/5WyXnepLcbyDzp4qhBZ5f2"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 189786,
+      "name": "Hang Tight Honey",
+      "url": "https://open.spotify.com/track/6w7OpHp3Y3ByHzmfQXYCRN"
     },
     {
       "added_at": "2024-10-14 18:38:40",

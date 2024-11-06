@@ -985,6 +985,28 @@
     },
     {
       "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
         "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
         "url": "https://open.spotify.com/album/1X1uDkDDs2BQiKlghA0gVQ"
       },
@@ -1090,6 +1112,24 @@
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
+    },
+    {
+      "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/1vmuokjeEWukuNChZWHC5Y"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218002,
+      "name": "Awaken",
+      "url": "https://open.spotify.com/track/7hr0WyhqQxrK3SQ9ZQxjTu"
     },
     {
       "album": {
@@ -1906,7 +1946,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 191700,
       "name": "Big Dreams",
       "url": "https://open.spotify.com/track/7zGuOKCjKlIdaFh0xREuCY"
@@ -2902,7 +2942,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 180409,
       "name": "CAVE (with Tove Lo)",
       "url": "https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm"
@@ -2986,6 +3026,24 @@
       "duration_ms": 159456,
       "name": "CHEGOU 3",
       "url": "https://open.spotify.com/track/3Pd1MwrGRhEzjiO7njmlbi"
+    },
+    {
+      "album": {
+        "name": "Cherish (My Love) (Remixes)",
+        "url": "https://open.spotify.com/album/1rQZODajANwqhegpEuCYk4"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176854,
+      "name": "Cherish (My Love)",
+      "url": "https://open.spotify.com/track/21LtZQQMQYwVIxc9O9Ygq8"
     },
     {
       "album": {
@@ -3754,7 +3812,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 353920,
       "name": "Defying Gravity - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/1bpnYrDCforv9ctJMzJRV8"
@@ -3914,7 +3972,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
@@ -4240,7 +4298,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 104418,
       "name": "Embrace It",
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
@@ -4262,6 +4320,24 @@
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "album": {
+        "name": "Ends of the Earth",
+        "url": "https://open.spotify.com/album/59IUArxnHB64BUCM3hKTwQ"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269830,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/30rU9CBF5cwiexNHJffkLS"
     },
     {
       "album": {
@@ -5058,7 +5134,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 114464,
       "name": "Free Bird",
       "url": "https://open.spotify.com/track/6ZyCPSTV4ckXENxnEwf8wA"
@@ -5842,7 +5918,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 64525,
       "name": "Goosebumps Original Theme Song",
       "url": "https://open.spotify.com/track/0gs6G0qcP6yXVBntg8PC3L"
@@ -6072,7 +6148,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 182375,
       "name": "Halloween Theme",
       "url": "https://open.spotify.com/track/6Z36wt7oo6xm2uGN00PnTq"
@@ -6174,6 +6250,10 @@
         {
           "name": "Trap Remix Guys",
           "url": "https://open.spotify.com/artist/5mJT67kG5MKy7byzJWMN7c"
+        },
+        {
+          "name": "Trap Remix Guy",
+          "url": "https://open.spotify.com/artist/57hx1phIu1MxM82nOla1au"
         }
       ],
       "date_added": "2024-11-01",
@@ -6997,6 +7077,24 @@
     },
     {
       "album": {
+        "name": "House Again",
+        "url": "https://open.spotify.com/album/6Oxk5FxwVNUMD9KxChEVrY"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202290,
+      "name": "House Again",
+      "url": "https://open.spotify.com/track/4OG8nSaGmiATo0y59bvehc"
+    },
+    {
+      "album": {
         "name": "How Sweet",
         "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
       },
@@ -7484,7 +7582,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 238866,
       "name": "I'm Gonna Miss You",
       "url": "https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj"
@@ -7654,6 +7752,24 @@
       "duration_ms": 146813,
       "name": "If You Don't Want My Love",
       "url": "https://open.spotify.com/track/4A48ckONJNoXU5smWT9CeG"
+    },
+    {
+      "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131786,
+      "name": "Igloo",
+      "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
     },
     {
       "album": {
@@ -7939,6 +8055,24 @@
     },
     {
       "album": {
+        "name": "It's My Ego",
+        "url": "https://open.spotify.com/album/0efkEgsdM8HpQAI3qq31Gk"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226105,
+      "name": "It's My Ego",
+      "url": "https://open.spotify.com/track/5DtzKlHN5Gay3JkIZKztmS"
+    },
+    {
+      "album": {
         "name": "It's Not Right But It's Okay",
         "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
       },
@@ -8144,6 +8278,24 @@
       "duration_ms": 213722,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/3htu3gsrxm2SluQk3WXnXA"
+    },
+    {
+      "album": {
+        "name": "Cartoon Darkness",
+        "url": "https://open.spotify.com/album/6yubtXRtg07Pd4REHb6lc7"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128658,
+      "name": "Jerkin'",
+      "url": "https://open.spotify.com/track/3rZwj7e7m61R5e9Tn3YTFa"
     },
     {
       "album": {
@@ -9589,6 +9741,24 @@
     },
     {
       "album": {
+        "name": "Love Somebody",
+        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204828,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
+    },
+    {
+      "album": {
         "name": "Broken By Desire To Be Heavenly Sent",
         "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
       },
@@ -10564,7 +10734,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
@@ -10856,7 +11026,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 126840,
       "name": "My Girlfriend Is a Witch",
       "url": "https://open.spotify.com/track/39PWLJrvfBCrfe4NX9aGZD"
@@ -11325,6 +11495,24 @@
     },
     {
       "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284363,
+      "name": "Noid",
+      "url": "https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41"
+    },
+    {
+      "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
       },
@@ -11438,6 +11626,24 @@
       "duration_ms": 295775,
       "name": "Novocaine",
       "url": "https://open.spotify.com/track/4JJpEYYamr363Kbc4zdw1h"
+    },
+    {
+      "album": {
+        "name": "NOW IT'S GONE",
+        "url": "https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143184,
+      "name": "NOW IT'S GONE",
+      "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
     },
     {
       "album": {
@@ -11890,6 +12096,28 @@
       "duration_ms": 224124,
       "name": "PICK UP THE PHONE (feat. Nate Dogg)",
       "url": "https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g"
+    },
+    {
+      "album": {
+        "name": "Piece of My Heart (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259354,
+      "name": "Piece of My Heart (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
     },
     {
       "album": {
@@ -12406,7 +12634,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 224022,
       "name": "Q U E V A S H A C E R H O Y ?",
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
@@ -12424,7 +12652,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 161285,
       "name": "Quitter",
       "url": "https://open.spotify.com/track/3ai1kBVQF9GusoxIdgBrjz"
@@ -12718,6 +12946,24 @@
       "duration_ms": 144113,
       "name": "Rock",
       "url": "https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"
+    },
+    {
+      "album": {
+        "name": "ROCKMAN",
+        "url": "https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179370,
+      "name": "ROCKMAN",
+      "url": "https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL"
     },
     {
       "album": {
@@ -13162,7 +13408,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 218360,
       "name": "set me free",
       "url": "https://open.spotify.com/track/7Dwk4YmBNSqOfRAN7MjQZK"
@@ -14808,7 +15054,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 290802,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a"
@@ -15160,6 +15406,24 @@
       "duration_ms": 228285,
       "name": "That's Who I Praise",
       "url": "https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk"
+    },
+    {
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
       "album": {
@@ -15713,6 +15977,24 @@
     },
     {
       "album": {
+        "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/4LazDzEGshEUn9D2zbm6w2"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196560,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
+    },
+    {
+      "album": {
         "name": "Three Lions",
         "url": "https://open.spotify.com/album/6vOxOnQHYrXocGtFkbEx57"
       },
@@ -15764,7 +16046,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -16948,6 +17230,24 @@
       "duration_ms": 161342,
       "name": "Whatever She Wants [BONUS]",
       "url": "https://open.spotify.com/track/7aQ1tSYr518KwnE4SVSQbT"
+    },
+    {
+      "album": {
+        "name": "Whiplash - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183226,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 362493,
+  "num_followers": 362516,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAADmSNrPzazAUwPpUTgMWA7F",
+  "snapshot_id": "ZygOgAAAAABIfOGIfV9Y4PjzAveP5xBv",
   "tracks": [
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 213912,
-      "name": "Turbulent Skies",
-      "url": "https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY"
+      "duration_ms": 234478,
+      "name": "Kaleidoscope Jesus",
+      "url": "https://open.spotify.com/track/0djgZ44VjoYzAk67eMLBLk"
     },
     {
       "added_at": null,
@@ -687,42 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hear (Live)",
-        "url": "https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 308920,
-      "name": "Close - Live",
-      "url": "https://open.spotify.com/track/1PaTAWlv998QLFhfc4HuJ2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 234478,
-      "name": "Kaleidoscope Jesus",
-      "url": "https://open.spotify.com/track/0djgZ44VjoYzAk67eMLBLk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "North Point Music: Beginnings",
         "url": "https://open.spotify.com/album/2nUPCwoRsqH34xEPzg0OtA"
       },
@@ -739,6 +703,42 @@
       "duration_ms": 250186,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/2tEzz6a8TkScfoKYz5OY8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 213912,
+      "name": "Turbulent Skies",
+      "url": "https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hear (Live)",
+        "url": "https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 308920,
+      "name": "Close - Live",
+      "url": "https://open.spotify.com/track/1PaTAWlv998QLFhfc4HuJ2"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
       "duration_ms": 170302,
       "name": "You Are So Beautiful - Live Acoustic",
       "url": "https://open.spotify.com/track/7i6DvJgOTuVV1nOP7FfT5u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sessions",
-        "url": "https://open.spotify.com/album/4Y4ntagypPMlqa71YLaDsA"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 206054,
-      "name": "You're All I'll Take With Me - Live Acoustic",
-      "url": "https://open.spotify.com/track/6N6Pn9vCqy22eVaYIGlDN5"
     }
   ],
   "unique_name": "This Is Lauren Daigle",

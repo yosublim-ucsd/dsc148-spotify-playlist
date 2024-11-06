@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-489 songs - 21 hr 19 min
+490 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,6 +422,7 @@
 | [The Question](https://open.spotify.com/track/07SaUURZhay2n0SIGVVFtu) | [Cullen Waller](https://open.spotify.com/artist/1q5Nczup0WnMsnnhRxJ4BX) | [The Question](https://open.spotify.com/album/3XNSOM2jeWp4YhJC8pe2hU) | 3:01 | 2023-03-10 | 2024-10-16 |
 | [The Reason Why](https://open.spotify.com/track/0C14i4tdhEb5mor8aia7ix) | [Esme Sanford](https://open.spotify.com/artist/3T88MTp2AubsoH7BHmPpDi) | [The Reason Why](https://open.spotify.com/album/47oAYFVTExyqWFPC3aW7ye) | 2:13 | 2023-03-10 | 2024-04-04 |
 | [The Right Time](https://open.spotify.com/track/3FA1m1pT3dnbRfZdiWCKQZ) | [Nick Vereshchak](https://open.spotify.com/artist/7u4DRtXXgLlr8Nf6b8vA56) | [Recollections Vol\. 8](https://open.spotify.com/album/6l7TZVCSf4RYOJM1YlslHD) | 1:48 | 2023-03-10 | 2023-10-09 |
+| [The Shades of Autumn](https://open.spotify.com/track/7blT4n9pSyxii6V21KIJBB) | [Emile Cerise](https://open.spotify.com/artist/5J3gBMCxZ68jLD8aijjftS) | [The Shades of Autumn](https://open.spotify.com/album/2W2E8WP1OYmuRQwGMvYZkh) | 2:08 | 2024-11-05 |  |
 | [The Shadow Of The Wind](https://open.spotify.com/track/6FTgfZZTT8Z60nMoI5efst) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Helligvaer](https://open.spotify.com/album/29Xn4EC2TtRXPn9RYp58Ao) | 2:34 | 2023-03-10 |  |
 | [The Sky](https://open.spotify.com/track/2VXkzMDKubnPzh16J9b9tm) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [The Sky](https://open.spotify.com/album/54HWr8JfjFpNgBIKllPuXg) | 2:38 | 2023-03-10 |  |
 | [The Sky Is Mine](https://open.spotify.com/track/6dIGw0ChcSE4zXCqPfCbw2) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [The Sky Is Mine](https://open.spotify.com/album/0eEyjp3aw6rE5ruirePD2Q) | 3:00 | 2023-03-10 | 2024-03-26 |

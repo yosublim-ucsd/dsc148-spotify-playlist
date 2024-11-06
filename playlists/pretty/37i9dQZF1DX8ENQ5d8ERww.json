@@ -1,6 +1,6 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 12087,
+  "num_followers": 12090,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -143,26 +143,6 @@
     {
       "added_at": "2024-10-10 15:53:12",
       "album": {
-        "name": "Churer Dame K\u00f6nig Gras",
-        "url": "https://open.spotify.com/album/3chLYTAznowVTDoIZByBVq"
-      },
-      "artists": [
-        {
-          "name": "LIV",
-          "url": "https://open.spotify.com/artist/4pw7Mbk0DDfe90FRWlXIzA"
-        },
-        {
-          "name": "DJ Babon",
-          "url": "https://open.spotify.com/artist/0wc6XBZwfrVIKFxJkhxm41"
-        }
-      ],
-      "duration_ms": 205242,
-      "name": "Tagebuach",
-      "url": "https://open.spotify.com/track/53hEa3yzWEKm7ft3EG7cVF"
-    },
-    {
-      "added_at": "2024-10-10 15:53:12",
-      "album": {
         "name": "Glanton Gang",
         "url": "https://open.spotify.com/album/0kiaJgxcPFBCRx7AilxSef"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 293933,
       "name": "Glasm\u00f6nsch",
       "url": "https://open.spotify.com/track/0GfZ8xC6eDB0OyeC3vipjn"
+    },
+    {
+      "added_at": "2024-10-10 15:53:12",
+      "album": {
+        "name": "Churer Dame K\u00f6nig Gras",
+        "url": "https://open.spotify.com/album/3chLYTAznowVTDoIZByBVq"
+      },
+      "artists": [
+        {
+          "name": "LIV",
+          "url": "https://open.spotify.com/artist/4pw7Mbk0DDfe90FRWlXIzA"
+        },
+        {
+          "name": "DJ Babon",
+          "url": "https://open.spotify.com/artist/0wc6XBZwfrVIKFxJkhxm41"
+        }
+      ],
+      "duration_ms": 205242,
+      "name": "Tagebuach",
+      "url": "https://open.spotify.com/track/53hEa3yzWEKm7ft3EG7cVF"
     },
     {
       "added_at": "2024-10-10 15:53:12",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-10-10 15:53:12",
       "album": {
-        "name": "Als ch\u00e4nteds B\u00e4rg\u00e4 versetz\u00e4",
-        "url": "https://open.spotify.com/album/3hCDtIE1aAIK90Wf3oIgys"
-      },
-      "artists": [
-        {
-          "name": "Luut & T\u00fc\u00fctli",
-          "url": "https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW"
-        }
-      ],
-      "duration_ms": 314533,
-      "name": "Ich weiss scho",
-      "url": "https://open.spotify.com/track/7G8OZ2uvpFeMbUfx9TP3Bj"
-    },
-    {
-      "added_at": "2024-10-10 15:53:12",
-      "album": {
         "name": "Fl\u00f6chted",
         "url": "https://open.spotify.com/album/7AHBWmJtoKKMBLEwjg6Hek"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 182773,
       "name": "Gedankeg\u00e4ng",
       "url": "https://open.spotify.com/track/1Gn956F0SU6oKY0cGrAgEq"
+    },
+    {
+      "added_at": "2024-10-10 15:53:12",
+      "album": {
+        "name": "Als ch\u00e4nteds B\u00e4rg\u00e4 versetz\u00e4",
+        "url": "https://open.spotify.com/album/3hCDtIE1aAIK90Wf3oIgys"
+      },
+      "artists": [
+        {
+          "name": "Luut & T\u00fc\u00fctli",
+          "url": "https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW"
+        }
+      ],
+      "duration_ms": 314533,
+      "name": "Ich weiss scho",
+      "url": "https://open.spotify.com/track/7G8OZ2uvpFeMbUfx9TP3Bj"
     },
     {
       "added_at": "2024-10-10 15:53:12",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-10-10 15:53:12",
       "album": {
-        "name": "Maxilla",
-        "url": "https://open.spotify.com/album/3YE7DohC6p9fImF9AJx9Su"
-      },
-      "artists": [
-        {
-          "name": "Moskito",
-          "url": "https://open.spotify.com/artist/7uL3oi3QRjKzhzYM2zI4Va"
-        }
-      ],
-      "duration_ms": 295381,
-      "name": "Luftloch",
-      "url": "https://open.spotify.com/track/2DlKLCqqfzbwKKGHOXZF8N"
-    },
-    {
-      "added_at": "2024-10-10 15:53:12",
-      "album": {
         "name": "Bar",
         "url": "https://open.spotify.com/album/6qpKhE3dGE8rFVAssczdHG"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 252440,
       "name": "Mini Homeboys",
       "url": "https://open.spotify.com/track/2YoBQUtCsAtvPiG7XrY3S5"
+    },
+    {
+      "added_at": "2024-10-10 15:53:12",
+      "album": {
+        "name": "Maxilla",
+        "url": "https://open.spotify.com/album/3YE7DohC6p9fImF9AJx9Su"
+      },
+      "artists": [
+        {
+          "name": "Moskito",
+          "url": "https://open.spotify.com/artist/7uL3oi3QRjKzhzYM2zI4Va"
+        }
+      ],
+      "duration_ms": 295381,
+      "name": "Luftloch",
+      "url": "https://open.spotify.com/track/2DlKLCqqfzbwKKGHOXZF8N"
     },
     {
       "added_at": "2024-10-10 15:53:12",

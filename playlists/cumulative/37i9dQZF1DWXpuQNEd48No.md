@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala
 
-301 songs - 15 hr 39 min
+302 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Chore Haryana Aale](https://open.spotify.com/track/1bbbcdT3UhWkSIXH0FzipI) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT) | [Chore Haryana Aale](https://open.spotify.com/album/4uH6nJZ7YA3GpeaBZccaCC) | 2:58 | 2023-09-27 | 2024-03-10 |
 | [Chore Haryane Aale](https://open.spotify.com/track/4L1hMlypJ7QKJKGbK0sGJE) | [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER), [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT) | [Chore Haryane Aale](https://open.spotify.com/album/0CkziYfchViVp2Q3fQqQgc) | 2:58 | 2024-03-08 | 2024-04-19 |
 | [Chore Haryane Aale](https://open.spotify.com/track/2YTKohkHJHXgRCut4Ew0HS) | [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [PINNOCIO](https://open.spotify.com/artist/6iNOTxWm3HgwNKL3MhFvzY), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu) | [Chore Haryane Aale](https://open.spotify.com/album/7fd96zMwZ0cbsMCmxHyhLf) | 3:27 | 2023-10-09 |  |
+| [Chori Tera Dil](https://open.spotify.com/track/7k7ZSuuFQdEZ1ibDzwliYA) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [Near By Me](https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f) | 2:56 | 2024-11-04 |  |
 | [Chunni Re](https://open.spotify.com/track/10UovAa1vY1LMGMuoP75aK) | [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [PARDHAAN](https://open.spotify.com/artist/06sVoZgq2NIPNoWgggu8Vq) | [Chunni Re](https://open.spotify.com/album/501Xyp289koskmOatyc0Sk) | 2:35 | 2023-12-14 | 2024-03-14 |
 | [Cigarette](https://open.spotify.com/track/5eUpBQYXRIyNfLFqRW5nwQ) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Cigarette](https://open.spotify.com/album/2wVwJZiXVsQ9tIm2mum83F) | 2:40 | 2023-12-14 |  |
 | [Circle](https://open.spotify.com/track/5d3cpUagWngKLiIwtHSLKV) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE) | [Circle](https://open.spotify.com/album/6cEaAwxDU0JPzApMzVFcEZ) | 3:14 | 2023-08-30 | 2023-09-28 |
@@ -172,7 +173,7 @@
 | [Kaley Sheshe](https://open.spotify.com/track/0ZcMt3GYvVkBjdomag59NP) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [Aniket Jain](https://open.spotify.com/artist/3CenMXEd3ei2rZZ3k9bWQH) | [Kaley Sheshe](https://open.spotify.com/album/4gFSkO9sJOpWHwW8MPtyIp) | 3:31 | 2023-12-18 |  |
 | [Kali Gadiyan](https://open.spotify.com/track/4tQCcLqpUjymKyF40Mea7S) | [Rohit Yadav](https://open.spotify.com/artist/4zRoK0hPfzE4hULJ0z1BpI) | [Kali Gadiyan](https://open.spotify.com/album/3cz4elhHTo85owGPi7ly0M) | 2:32 | 2023-03-28 | 2023-04-04 |
 | [Kalyug](https://open.spotify.com/track/1PpD1pRsC67ir1qT7fvz5R) | [Shayam Sharma](https://open.spotify.com/artist/61lpcC14tsSoXZyrjGXVEo), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Kalyug](https://open.spotify.com/album/3RSgIg2SuGhUVe3TMi0I6o) | 3:38 | 2024-04-18 | 2024-09-19 |
-| [Kede Kede Yaar](https://open.spotify.com/track/1aeIfm41wcpQiNSN9tjs6B) | [Daulatpuria](https://open.spotify.com/artist/0c8dHxShstYZeEkR4SIrBI), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Kede Kede Yaar](https://open.spotify.com/album/2wrCS3CHyPOACbcDEc3ULP) | 2:47 | 2023-07-11 |  |
+| [Kede Kede Yaar](https://open.spotify.com/track/1aeIfm41wcpQiNSN9tjs6B) | [Daulatpuria](https://open.spotify.com/artist/0c8dHxShstYZeEkR4SIrBI), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Kede Kede Yaar](https://open.spotify.com/album/2wrCS3CHyPOACbcDEc3ULP) | 2:47 | 2023-07-11 | 2024-11-06 |
 | [Khot](https://open.spotify.com/track/2w5m9SgekwHPwZRHRBakfr) | [Sapna Choudhary](https://open.spotify.com/artist/5WYVZzKOZMUn4pNY9gy2BM), [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs) | [Khot](https://open.spotify.com/album/71M8S6DWOZQswhiF6eUC06) | 3:24 | 2023-03-28 | 2023-08-15 |
 | [Kill EM \- Mafioso Chapter 1](https://open.spotify.com/track/4KNLzEVSubSB7I9d86ZVYo) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Kill EM \(Mafioso Chapter 1\)](https://open.spotify.com/album/1vFbokZeCyfA010NKbO88U) | 2:52 | 2023-03-28 | 2023-06-17 |
 | [Kill Love](https://open.spotify.com/track/5AZptd2m2uVIGILEtFTfJu) | [Saaaj Tomar](https://open.spotify.com/artist/3Y7nPioCRQYii5bAFVbOMl) | [Kill Love](https://open.spotify.com/album/0cKcmHsfxybfDu7MFmg8h2) | 2:44 | 2024-09-30 | 2024-10-22 |

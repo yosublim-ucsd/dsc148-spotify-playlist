@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u6b63\u5b97 Spotify \u539f\u5275\u5168\u53f0\u6700\u7d05\u897f\u6d0b\u6b4c\u55ae\uff01\u71b1\u9580\u5c31\u6b64\u4e00\u5f35\uff01Cover:  David Guetta x Ava Max",
+  "description": "\u6b63\u5b97 Spotify \u539f\u5275\u5168\u53f0\u6700\u7d05\u897f\u6d0b\u6b4c\u55ae\uff01\u71b1\u9580\u5c31\u6b64\u4e00\u5f35\uff01Cover: Shawn Mendes",
   "name": "\u6700Hit\u897f\u6d0b\u699c",
   "tracks": [
     {
@@ -42,10 +42,28 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 231496,
       "name": "(Isn\u2019t It) Obvious",
       "url": "https://open.spotify.com/track/2WHpyoNdtUirfIv256JznP"
+    },
+    {
+      "album": {
+        "name": "1 Wish",
+        "url": "https://open.spotify.com/album/7KlrorqixG3qKh4nHmfoJt"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167105,
+      "name": "1 Wish",
+      "url": "https://open.spotify.com/track/1knrvScmRb6ZCPPsBzDHcy"
     },
     {
       "album": {
@@ -266,7 +284,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 215789,
       "name": "A Life To Remember",
       "url": "https://open.spotify.com/track/09tZoMSWSx1OmpQNdqyGPj"
@@ -342,7 +360,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 222647,
       "name": "ALL MY LOVE",
       "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
@@ -418,7 +436,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 130265,
       "name": "APEROL SPRITZ",
       "url": "https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq"
@@ -440,6 +458,28 @@
       "duration_ms": 151739,
       "name": "Apple",
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+    },
+    {
+      "album": {
+        "name": "brent iii",
+        "url": "https://open.spotify.com/album/35tILwApqYtN9fTJq2v7M3"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242493,
+      "name": "ashes & rust",
+      "url": "https://open.spotify.com/track/0ynwM8MdgPqbSfII51PP3e"
     },
     {
       "album": {
@@ -472,7 +512,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 171243,
       "name": "BABY I'M BACK",
       "url": "https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw"
@@ -718,7 +758,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 153374,
       "name": "better than he does",
       "url": "https://open.spotify.com/track/68fzlFxU1uUeLTK68ICK3J"
@@ -758,7 +798,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 152571,
       "name": "Bigger In Texas",
       "url": "https://open.spotify.com/track/0XW9AyYhwwUyBYFvRfrfIs"
@@ -881,6 +921,24 @@
     },
     {
       "album": {
+        "name": "Eternal Atake 2",
+        "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138323,
+      "name": "Chill Bae",
+      "url": "https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4"
+    },
+    {
+      "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
@@ -896,6 +954,24 @@
       "duration_ms": 225973,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/2bl81llf715VEEbAx03yvB"
+    },
+    {
+      "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/7K9I81H2Gph67Ep83p2EXF"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162802,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/3SY2LmMCRA5eLNXjyY2zPU"
     },
     {
       "album": {
@@ -954,7 +1030,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 267986,
       "name": "Coming To You",
       "url": "https://open.spotify.com/track/23vvBKq0rsWBHr53rMpeAD"
@@ -1082,7 +1158,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 220036,
       "name": "Dancing In The Flames",
       "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
@@ -1336,6 +1412,24 @@
       "duration_ms": 156831,
       "name": "Easy",
       "url": "https://open.spotify.com/track/7DJdAivvw89IDyflbj7K4p"
+    },
+    {
+      "album": {
+        "name": "UNSAID",
+        "url": "https://open.spotify.com/album/6qymOSCWulOMM6D7LxuZtl"
+      },
+      "artists": [
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126748,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/6TgRJPRmu9l75M2bneEyyh"
     },
     {
       "album": {
@@ -1749,6 +1843,24 @@
     },
     {
       "album": {
+        "name": "still hungover",
+        "url": "https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184706,
+      "name": "girl you're taking home",
+      "url": "https://open.spotify.com/track/13TtTCE6v8vwTSgWJPjwLl"
+    },
+    {
+      "album": {
         "name": "GIRLS",
         "url": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC"
       },
@@ -1840,6 +1952,32 @@
       "duration_ms": 156053,
       "name": "good old days",
       "url": "https://open.spotify.com/track/1XcPFhBIMCUgXlBC5CuBOM"
+    },
+    {
+      "album": {
+        "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
+        "url": "https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176034,
+      "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB"
     },
     {
       "album": {
@@ -2021,6 +2159,24 @@
     },
     {
       "album": {
+        "name": "Heart of Gold",
+        "url": "https://open.spotify.com/album/1cMeCtprtHWW2XytkPUthL"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171607,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/1VQfrKbnGSZnEFoGpfVnS8"
+    },
+    {
+      "album": {
         "name": "Sincere",
         "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
       },
@@ -2192,7 +2348,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 207501,
       "name": "Hide It (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/2NXGMnNU6nctSmcKWjfdCS"
@@ -2380,7 +2536,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 193246,
       "name": "i confess",
       "url": "https://open.spotify.com/track/1HIZCdpxgYsYyCAqYi5Vtf"
@@ -2554,10 +2710,28 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 249530,
       "name": "I Never Loved You",
       "url": "https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l"
+    },
+    {
+      "album": {
+        "name": "Dear Big Santa",
+        "url": "https://open.spotify.com/album/2HaS5g0VjsXf93yy7TNf6c"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175951,
+      "name": "I Want You This Christmas",
+      "url": "https://open.spotify.com/track/1JHsB2E0FWEEBVdFV2W6w8"
     },
     {
       "album": {
@@ -3589,6 +3763,24 @@
     },
     {
       "album": {
+        "name": "Noid",
+        "url": "https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284363,
+      "name": "Noid",
+      "url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5"
+    },
+    {
+      "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
       },
@@ -3752,7 +3944,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 216006,
       "name": "Panic Attack",
       "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
@@ -3854,6 +4046,24 @@
       "duration_ms": 261420,
       "name": "Pretty Slowly",
       "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
+    },
+    {
+      "album": {
+        "name": "Pure Imagination",
+        "url": "https://open.spotify.com/album/1e1k5dvhUv0qmLPhJepLyA"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117887,
+      "name": "Pure Imagination",
+      "url": "https://open.spotify.com/track/56mgK7OVdzQCAku9ro5GPj"
     },
     {
       "album": {
@@ -3992,7 +4202,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 158374,
       "name": "Rock n Roll",
       "url": "https://open.spotify.com/track/1T2zLWVcr4nXMrMnzyHUVl"
@@ -4086,6 +4296,24 @@
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    {
+      "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/3yAHCdy8s77OpoBvVY9EJp"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182040,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/4jHl6jgzZOnS4nGamPZ1Uk"
     },
     {
       "album": {
@@ -4270,7 +4498,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 148123,
       "name": "Skin & Bones",
       "url": "https://open.spotify.com/track/42NTvEyFiluZCbMGoiyWyD"
@@ -4310,6 +4538,24 @@
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
+    },
+    {
+      "album": {
+        "name": "small",
+        "url": "https://open.spotify.com/album/3h7ozNB6Vvbw2sTWTtxQCk"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213266,
+      "name": "small",
+      "url": "https://open.spotify.com/track/0zmhbBZjEEMxZLac83gLRQ"
     },
     {
       "album": {
@@ -4724,7 +4970,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 174213,
       "name": "Swallow My Tears",
       "url": "https://open.spotify.com/track/2EZd0TdGBQGy0yZB0DEh93"
@@ -4786,6 +5032,50 @@
       "duration_ms": 154126,
       "name": "Sympathy is a knife featuring ariana grande",
       "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
+    },
+    {
+      "album": {
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301623,
+      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
+    },
+    {
+      "album": {
+        "name": "Take Me to the Beach (feat. Jungeli)",
+        "url": "https://open.spotify.com/album/1eFuf3Xkm3XiiPRVX9ambn"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167066,
+      "name": "Take Me to the Beach (feat. Jungeli)",
+      "url": "https://open.spotify.com/track/299bs3nx4r3zcmLD8tRPi3"
     },
     {
       "album": {
@@ -5404,7 +5694,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 166598,
       "name": "U and I (Intertwine)",
       "url": "https://open.spotify.com/track/3m4PhccmoJYS8ei9I1GQEX"

@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 9570,
+  "num_followers": 9590,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAAAFtUY6ZK+XJDR+jShBCLlz",
+  "snapshot_id": "ZygOgAAAAADWUzcSeaqoWjEfUEDpYSDG",
   "tracks": [
     {
       "added_at": null,
@@ -939,6 +939,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bourbon (Ao Vivo no Est\u00fadio MangoLab)",
+        "url": "https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "MangoLab",
+          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
+        }
+      ],
+      "duration_ms": 110348,
+      "name": "Bourbon - Ao Vivo no Est\u00fadio MangoLab",
+      "url": "https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
         "url": "https://open.spotify.com/album/1Qiv1Ia80WJ8ryqXWX5hy5"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 181714,
       "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
       "url": "https://open.spotify.com/track/55ndEIr4ApcHOtBp67iZ2l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bourbon (Ao Vivo no Est\u00fadio MangoLab)",
-        "url": "https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "MangoLab",
-          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
-        }
-      ],
-      "duration_ms": 110348,
-      "name": "Bourbon - Ao Vivo no Est\u00fadio MangoLab",
-      "url": "https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Rewind and unwind with sirens of the seventies and eighties.",
-  "num_followers": 900513,
+  "num_followers": 900659,
   "original_name": "70s & 80s Acoustic",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-08-23 14:56:31",
       "album": {
-        "name": "Ooh La La",
-        "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
-      },
-      "artists": [
-        {
-          "name": "Faces",
-          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "Ooh La La",
-      "url": "https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4"
-    },
-    {
-      "added_at": "2024-08-23 14:56:31",
-      "album": {
         "name": "Still Bill",
         "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 258834,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
+    },
+    {
+      "added_at": "2024-08-23 14:56:31",
+      "album": {
+        "name": "Ooh La La",
+        "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
+      },
+      "artists": [
+        {
+          "name": "Faces",
+          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4"
     },
     {
       "added_at": "2024-08-23 14:56:31",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-08-23 14:56:31",
       "album": {
-        "name": "Every Picture Tells A Story",
-        "url": "https://open.spotify.com/album/4h1e47X26VQHXCjNZZ5P3v"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 350266,
-      "name": "Maggie May",
-      "url": "https://open.spotify.com/track/2LpirOWiA4eslLRuPpQT7V"
-    },
-    {
-      "added_at": "2024-08-23 14:56:31",
-      "album": {
         "name": "Vanilla Sky (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/5BTAqof8FIlVhXa1JsclU7"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 262600,
       "name": "Solsbury Hill",
       "url": "https://open.spotify.com/track/4tIhDBT9YgxR38EJ7kXN2F"
+    },
+    {
+      "added_at": "2024-08-23 14:56:31",
+      "album": {
+        "name": "Every Picture Tells A Story",
+        "url": "https://open.spotify.com/album/4h1e47X26VQHXCjNZZ5P3v"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 350266,
+      "name": "Maggie May",
+      "url": "https://open.spotify.com/track/2LpirOWiA4eslLRuPpQT7V"
     },
     {
       "added_at": "2024-08-23 14:56:31",

@@ -4,7 +4,7 @@
 
 > In memory of \[removed for privacy\]
 
-17 songs - 1 hr 3 min
+18 songs - 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Matthew 25:21](https://open.spotify.com/track/4TkrknkID0VW1dq0P91xnf) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Life Of The World To Come](https://open.spotify.com/album/1MxD6tOa9FMBKpQYLnUUYS) | 5:50 | 2023-03-23 |  |
 | [Quito](https://open.spotify.com/track/1IrDAmuLsebsukhbaW4dpC) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [We Shall All Be Healed](https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z) | 2:03 | 2023-03-03 |  |
 | [Sad Songs](https://open.spotify.com/track/6spFAE12J5kM51cKEzsgmF) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:14 | 2023-03-27 |  |
+| [This Year](https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 3:52 | 2024-11-05 |  |
 | [Through Me \(The Flood\)](https://open.spotify.com/track/7KPx2ijBup2MQHMrz6EVSV) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 3:47 | 2023-03-21 |  |
 | [Until Olympius Returns](https://open.spotify.com/track/51zqMsABxv9XNBRVOzptyU) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Songs for Pierre Chuvin](https://open.spotify.com/album/2FHXWD7j8HqJUQzA4ZrHDG) | 2:12 | 2023-03-03 |  |
 | [You Said You'd Grow Old With Me](https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Wide Awake](https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn) | 3:44 | 2023-06-09 |  |

@@ -6,167 +6,75 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABOXnzOujkywzkV0yfb9Rba",
+  "snapshot_id": "AAAAAAAAAACDHyvJrMS0aTRcb/FjubGg",
   "tracks": [
     {
       "added_at": "2024-11-04 05:00:00",
       "album": {
-        "name": "The Roads",
-        "url": "https://open.spotify.com/album/74Kn48bZ6koe1cWM3x29lU"
+        "name": "The Wild Robot (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i"
       },
       "artists": [
         {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 250600,
-      "name": "The Roads",
-      "url": "https://open.spotify.com/track/2bSaJE7jrTeDXW4bZB93Ji"
+      "duration_ms": 187206,
+      "name": "I Could Use a Boost",
+      "url": "https://open.spotify.com/track/0Kj6kohRovHA5vU45ASu0K"
     },
     {
       "added_at": "2024-11-04 05:00:00",
       "album": {
-        "name": "Simply The Best",
-        "url": "https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7"
+        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
       },
       "artists": [
         {
-          "name": "Billianne",
-          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
         }
       ],
-      "duration_ms": 173571,
-      "name": "Simply The Best",
-      "url": "https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN"
+      "duration_ms": 161960,
+      "name": "Mountain Banjo",
+      "url": "https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO"
     },
     {
       "added_at": "2024-11-04 05:00:00",
       "album": {
-        "name": "Notos",
-        "url": "https://open.spotify.com/album/5S0FcLxoJ9jjk8s13hfwTZ"
+        "name": "Practical Magic (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw"
       },
       "artists": [
         {
-          "name": "The Oh Hellos",
-          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
         }
       ],
-      "duration_ms": 227910,
-      "name": "Constellations",
-      "url": "https://open.spotify.com/track/7g3MdW9vvunaniaNq4C8Fe"
+      "duration_ms": 155613,
+      "name": "Amas Veritas",
+      "url": "https://open.spotify.com/track/20iP6vxSoQRgq00W2hHKn9"
     },
     {
       "added_at": "2024-11-04 05:00:00",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+        "name": "La La Land (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Cosmic Love",
-      "url": "https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol"
-    },
-    {
-      "added_at": "2024-11-04 05:00:00",
-      "album": {
-        "name": "Goodpain",
-        "url": "https://open.spotify.com/album/0rwRaoJxFBwrVzdGFMXYQ8"
-      },
-      "artists": [
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+        },
         {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+          "name": "Emma Stone",
+          "url": "https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq"
         }
       ],
-      "duration_ms": 204213,
-      "name": "Beige",
-      "url": "https://open.spotify.com/track/5bs5GopDitBx9xjoHHRDoo"
-    },
-    {
-      "added_at": "2024-11-04 05:00:00",
-      "album": {
-        "name": "Symphony Sessions",
-        "url": "https://open.spotify.com/album/5EiQd7YNy6rt0qyaOg0iPt"
-      },
-      "artists": [
-        {
-          "name": "Cody Fry",
-          "url": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/6bU3RDOTuXynFSx3xWSdKq"
-    },
-    {
-      "added_at": "2024-11-04 05:00:00",
-      "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 269893,
-      "name": "All the Pretty Girls",
-      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
-    },
-    {
-      "added_at": "2024-11-04 05:00:00",
-      "album": {
-        "name": "Cradlesong",
-        "url": "https://open.spotify.com/album/026sOya6nqtvO4zSLpFQCj"
-      },
-      "artists": [
-        {
-          "name": "Rob Thomas",
-          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
-        }
-      ],
-      "duration_ms": 225506,
-      "name": "Little Wonders - Radio Version",
-      "url": "https://open.spotify.com/track/1Zx5Y46u3v32jRRIWtzQKN"
-    },
-    {
-      "added_at": "2024-11-04 05:00:00",
-      "album": {
-        "name": "The Kite (Live)",
-        "url": "https://open.spotify.com/album/4tG6jwqdDcC1XEDVncqP05"
-      },
-      "artists": [
-        {
-          "name": "Luisa Marion",
-          "url": "https://open.spotify.com/artist/3m2JMbwYgxHsgGHo3Ifdie"
-        }
-      ],
-      "duration_ms": 145535,
-      "name": "The Kite (Live)",
-      "url": "https://open.spotify.com/track/6rKcT02l7zAgTswhVFWKeY"
-    },
-    {
-      "added_at": "2024-11-04 05:00:00",
-      "album": {
-        "name": "Grey Fidelity",
-        "url": "https://open.spotify.com/album/4gcifqqCaQgrNrhLvsX6wV"
-      },
-      "artists": [
-        {
-          "name": "Tow'rs",
-          "url": "https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql"
-        }
-      ],
-      "duration_ms": 283099,
-      "name": "Girl in Calico",
-      "url": "https://open.spotify.com/track/2XiZN924Dye5VCgl2skr5M"
+      "duration_ms": 162973,
+      "name": "City Of Stars (Humming)",
+      "url": "https://open.spotify.com/track/3gbwtdRrtD05lz08DTxfFt"
     },
     {
       "added_at": "2024-11-04 05:00:00",
@@ -187,64 +95,40 @@
     {
       "added_at": "2024-11-04 05:00:00",
       "album": {
-        "name": "How To Train Your Dragon (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/1kTnC045mQqurTQvGMGpmU"
+        "name": "Outer Wilds (Main Theme)",
+        "url": "https://open.spotify.com/album/7Bj7N4dVSJhqm6D0Cfh7o0"
       },
       "artists": [
         {
-          "name": "J\u00f3nsi",
-          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+          "name": "ROZEN",
+          "url": "https://open.spotify.com/artist/1uca08INg3Te4jR7g1khYN"
         }
       ],
-      "duration_ms": 257959,
-      "name": "Sticks & Stones",
-      "url": "https://open.spotify.com/track/6CdxafAJt9jsdQCDTOMc72"
+      "duration_ms": 195756,
+      "name": "Outer Wilds (Main Theme) [Orchestral]",
+      "url": "https://open.spotify.com/track/2WV1bG6lnQH5znVZMW2vkV"
     },
     {
       "added_at": "2024-11-04 05:00:00",
       "album": {
-        "name": "How to Train Your Dragon 2 (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/1VYM3uIZXGJGa7T8jGHG5z"
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/2TMgRDkSHYqugBxj00G1t9"
       },
       "artists": [
         {
-          "name": "John Powell",
-          "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
-        },
-        {
-          "name": "Jon Thor Birgisson",
-          "url": "https://open.spotify.com/artist/22ayr50bQdbc22zdAQnzLp"
-        },
-        {
-          "name": "J\u00f3nsi",
-          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+          "name": "Bernth",
+          "url": "https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj"
         }
       ],
-      "duration_ms": 164986,
-      "name": "Where No One Goes",
-      "url": "https://open.spotify.com/track/2ChTe9bXZhmd7d4ilaCca8"
+      "duration_ms": 129526,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/7CIznPJ8AsdNZAQwVtqAq3"
     },
     {
       "added_at": "2024-11-04 05:00:00",
       "album": {
-        "name": "False Floors",
-        "url": "https://open.spotify.com/album/520kCQ9Z5WEWih341YHcmT"
-      },
-      "artists": [
-        {
-          "name": "Rogue Valley",
-          "url": "https://open.spotify.com/artist/1EbGAjTV50qpZ53jXTvmV7"
-        }
-      ],
-      "duration_ms": 256535,
-      "name": "The Wolves and the Ravens",
-      "url": "https://open.spotify.com/track/7M7e3u2MjbOVTkQMW6XqL6"
-    },
-    {
-      "added_at": "2024-11-04 05:00:00",
-      "album": {
-        "name": "From Fields, From Forests, From Far",
-        "url": "https://open.spotify.com/album/5CFiBp6RnvH1DBCK76QCTH"
+        "name": "Concerning Hobbits",
+        "url": "https://open.spotify.com/album/4KlENSqFvWnqzWnvwpyw4N"
       },
       "artists": [
         {
@@ -252,31 +136,183 @@
           "url": "https://open.spotify.com/artist/68HDLnp9oeBFmkT6trhkza"
         }
       ],
-      "duration_ms": 136000,
-      "name": "From Fields, From Forests, From Far",
-      "url": "https://open.spotify.com/track/2ZUrify1iNYCVgkNGLZl6t"
+      "duration_ms": 179140,
+      "name": "Concerning Hobbits",
+      "url": "https://open.spotify.com/track/20x376qLEr9LLYY523Y0Nz"
     },
     {
       "added_at": "2024-11-04 05:00:00",
       "album": {
-        "name": "Atlas: Survive",
-        "url": "https://open.spotify.com/album/6CQOJdEaVnfMrimDadiedZ"
+        "name": "Soldier, Poet, King",
+        "url": "https://open.spotify.com/album/5fAWtmceYeqBtAT4ggvCTu"
       },
       "artists": [
         {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+          "name": "Cullen Vance",
+          "url": "https://open.spotify.com/artist/7z4fAr9crNNXZuYijh895l"
         }
       ],
-      "duration_ms": 241013,
-      "name": "Bloom (Eros)",
-      "url": "https://open.spotify.com/track/2cKkthxFdzFEmZeMThj2Sn"
+      "duration_ms": 155792,
+      "name": "Soldier, Poet, King",
+      "url": "https://open.spotify.com/track/65GDGNPmiSPNynfOpP3Psp"
     },
     {
       "added_at": "2024-11-04 05:00:00",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+        "name": "You, Me & Gravity: The Music of Planet Coaster",
+        "url": "https://open.spotify.com/album/1YnOoKqaHiKlsoMTJ9GzjA"
+      },
+      "artists": [
+        {
+          "name": "Jim Guthrie",
+          "url": "https://open.spotify.com/artist/4wEVY6Zz9STrspLNOmyz50"
+        },
+        {
+          "name": "J.J. Ipsen",
+          "url": "https://open.spotify.com/artist/1Nb0Hhq6PIvqZNDAXr34zW"
+        }
+      ],
+      "duration_ms": 131560,
+      "name": "Breakfast Of Champignons",
+      "url": "https://open.spotify.com/track/3usN1mAgCLDEnp7B221hnX"
+    },
+    {
+      "added_at": "2024-11-04 05:00:00",
+      "album": {
+        "name": "Upscale",
+        "url": "https://open.spotify.com/album/2VpW0GhwkTnDfKwQLN9Nd2"
+      },
+      "artists": [
+        {
+          "name": "Scottish Fish",
+          "url": "https://open.spotify.com/artist/4yEPmP3liGrXmdlxo6XWHv"
+        }
+      ],
+      "duration_ms": 262880,
+      "name": "Epic",
+      "url": "https://open.spotify.com/track/1dRw9bUv7kxrEmSrL02yHu"
+    },
+    {
+      "added_at": "2024-11-04 05:00:00",
+      "album": {
+        "name": "Arrietty Soundtrack",
+        "url": "https://open.spotify.com/album/0ldESLoQyyP80ynVU2gych"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile Corbel",
+          "url": "https://open.spotify.com/artist/4mVQMbJAHOazLrBmgpgB8M"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Arrietty's Song - Instrumental Version",
+      "url": "https://open.spotify.com/track/4F22XJWhfi1BHI0fOA9td6"
+    },
+    {
+      "added_at": "2024-11-04 05:00:00",
+      "album": {
+        "name": "The Last of Us Part II: Covers and Rarities",
+        "url": "https://open.spotify.com/album/2SOJkkY1edgKG56QAGXerh"
+      },
+      "artists": [
+        {
+          "name": "Ashley Johnson",
+          "url": "https://open.spotify.com/artist/4Th8ot6JTBxri6CBIkHCAU"
+        },
+        {
+          "name": "Chris Rondinella",
+          "url": "https://open.spotify.com/artist/6FnsD5PJTFEnFKYhMQEXLQ"
+        }
+      ],
+      "duration_ms": 231548,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/5s78Y4ulsGO9BJh5s3GrL9"
+    },
+    {
+      "added_at": "2024-11-04 05:00:00",
+      "album": {
+        "name": "Appaloosa Bones",
+        "url": "https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 286120,
+      "name": "Sweet Heat Lightning",
+      "url": "https://open.spotify.com/track/7gSZkeBr9Koc9Rfm3pp769"
+    },
+    {
+      "added_at": "2024-11-04 05:00:00",
+      "album": {
+        "name": "I Love You So F***ing Much",
+        "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 221670,
+      "name": "Creatures in Heaven",
+      "url": "https://open.spotify.com/track/1QDgcVfZKIf2SKBjQzzTLs"
+    },
+    {
+      "added_at": "2024-11-04 05:00:00",
+      "album": {
+        "name": "Mulberry Mouse",
+        "url": "https://open.spotify.com/album/6yPllfAG91I1HRRefHPMwh"
+      },
+      "artists": [
+        {
+          "name": "Alan Gogoll",
+          "url": "https://open.spotify.com/artist/7MOxmVjcx5HWoEu9pBWXT3"
+        }
+      ],
+      "duration_ms": 183822,
+      "name": "Mulberry Mouse",
+      "url": "https://open.spotify.com/track/0NsFXBxpfDO4BFrCHDlJeB"
+    },
+    {
+      "added_at": "2024-11-04 05:00:00",
+      "album": {
+        "name": "Avatar: The Last Airbender - Book 1: Water (Music From The Animated Series)",
+        "url": "https://open.spotify.com/album/3O8AxQ0FXMQw5l7PbHcn8F"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zuckerman",
+          "url": "https://open.spotify.com/artist/1fbkVAnlEb34awQtWEDa6W"
+        }
+      ],
+      "duration_ms": 94746,
+      "name": "Iroh's Tsungi Horn",
+      "url": "https://open.spotify.com/track/1I2M8MhLJmlV4SEQK8YyLc"
+    },
+    {
+      "added_at": "2024-11-04 05:00:00",
+      "album": {
+        "name": "Far Cry 5 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1SHBTtjQvdlrWt3y7rtaHn"
+      },
+      "artists": [
+        {
+          "name": "Dan Romer",
+          "url": "https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4"
+        }
+      ],
+      "duration_ms": 125906,
+      "name": "Safe and Sound",
+      "url": "https://open.spotify.com/track/5VUP33MfIPEVnFRfhQCrF2"
+    },
+    {
+      "added_at": "2024-11-04 05:00:00",
+      "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
       },
       "artists": [
         {
@@ -284,217 +320,197 @@
           "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 384080,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/4qyfir5Yr7nfo05g6cyFMT"
+      "duration_ms": 213440,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
     },
     {
       "added_at": "2024-11-04 05:00:00",
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
+        "name": "Butterflies (feat. AURORA)",
+        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 274552,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/47DKI4RxI8ZW0sBqDenMhO"
+      "duration_ms": 130666,
+      "name": "Butterflies (feat. AURORA)",
+      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
     },
     {
       "added_at": "2024-11-04 05:00:00",
       "album": {
-        "name": "Carrie & Lowell",
-        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
+        "name": "Somewhere Only We Know",
+        "url": "https://open.spotify.com/album/2HPDex06VeCvldfsSwJITg"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "AcousticTrench",
+          "url": "https://open.spotify.com/artist/7FtIwSBEj9k7ANhBpnqxsX"
         }
       ],
-      "duration_ms": 239508,
-      "name": "Death with Dignity",
-      "url": "https://open.spotify.com/track/73uJybGAhwGRD9MZYrOmTY"
+      "duration_ms": 126041,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/6TqWNOw7ANVXMYE4cZGDJm"
     },
     {
       "added_at": "2024-11-04 05:00:00",
       "album": {
-        "name": "Go Farther In Lightness",
-        "url": "https://open.spotify.com/album/0leVOEw8L2TnAfLGwkFnab"
+        "name": "All My Demons Greeting Me As A Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW"
       },
       "artists": [
         {
-          "name": "Gang of Youths",
-          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 422146,
-      "name": "Achilles Come Down",
-      "url": "https://open.spotify.com/track/22TntnVO3lQNDR5nsvxGRs"
+      "duration_ms": 194760,
+      "name": "Running With The Wolves",
+      "url": "https://open.spotify.com/track/6r6n5OmXkdsOxN2iCj5UE0"
     },
     {
       "added_at": "2024-11-04 05:00:00",
       "album": {
-        "name": "Orpheus",
-        "url": "https://open.spotify.com/album/4VVein5UzmL3npYHYZjhYM"
+        "name": "The Navigator",
+        "url": "https://open.spotify.com/album/0Tixw6kz9YHMsSIi1PXzIH"
       },
       "artists": [
         {
-          "name": "Vincent Lima",
-          "url": "https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX"
+          "name": "Vian Izak",
+          "url": "https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq"
+        },
+        {
+          "name": "Juniper Vale",
+          "url": "https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK"
         }
       ],
-      "duration_ms": 197900,
-      "name": "Orpheus",
-      "url": "https://open.spotify.com/track/2oyFkgt5lh7bQWBo5XQ4V4"
+      "duration_ms": 105422,
+      "name": "Call the Nightingale",
+      "url": "https://open.spotify.com/track/5JW5XAAlzlc6emiRGN8tPQ"
     },
     {
       "added_at": "2024-11-04 05:00:00",
       "album": {
-        "name": "MOOMINVALLEY (Official Soundtrack)",
-        "url": "https://open.spotify.com/album/3vNC5t3sZSkCi4A2l8ZPCF"
+        "name": "It's Called: Freefall",
+        "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
       },
       "artists": [
         {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
         }
       ],
-      "duration_ms": 181969,
-      "name": "Ready Now",
-      "url": "https://open.spotify.com/track/1xzIv4LPe57Lgz3ELDOdBE"
+      "duration_ms": 158297,
+      "name": "It's Called: Freefall",
+      "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
     },
     {
       "added_at": "2024-11-04 05:00:00",
       "album": {
-        "name": "Can You Afford To Lose Me?",
-        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+        "name": "Over the Garden Wall (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2uuFLUwbjRiiQ89t4mgC0d"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Over the Garden Wall",
+          "url": "https://open.spotify.com/artist/7iOCrUsQ1PyiiBhp7Qc4cp"
+        },
+        {
+          "name": "The Blasting Company",
+          "url": "https://open.spotify.com/artist/4paO0IcImRazkM6c1RUt48"
         }
       ],
-      "duration_ms": 171662,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/40GKeaD28h2nN9ap6qKC68"
+      "duration_ms": 92626,
+      "name": "Prelude",
+      "url": "https://open.spotify.com/track/4rDDzbKwDldcYX66MB55DR"
     },
     {
       "added_at": "2024-11-04 05:00:00",
       "album": {
-        "name": "(i would have followed you)",
-        "url": "https://open.spotify.com/album/7oODsnDx7Pccntmf78OzQM"
+        "name": "Spirit: Stallion Of The Cimarron (Music From The Original Motion Picture)",
+        "url": "https://open.spotify.com/album/3pDG0vQ5LfL2BQZJJtkbg8"
       },
       "artists": [
         {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
         }
       ],
-      "duration_ms": 289040,
-      "name": "j's lullaby (darlin' i'd wait for you)",
-      "url": "https://open.spotify.com/track/3uxdBOY4eCts8eOS03J9Qf"
+      "duration_ms": 221826,
+      "name": "Homeland",
+      "url": "https://open.spotify.com/track/6sNfKtgLF8AgFApf3ENVBe"
     },
     {
       "added_at": "2024-11-04 05:00:00",
       "album": {
-        "name": "A Little Lift",
-        "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
+        "name": "The Wind Waker Orchestrated",
+        "url": "https://open.spotify.com/album/6N6jfTjyhTM3TMcLXumRBN"
       },
       "artists": [
         {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+          "name": "The Marcus Hedges Trend Orchestra",
+          "url": "https://open.spotify.com/artist/123epI2OFu37F7VsnOBn9F"
         }
       ],
-      "duration_ms": 183850,
-      "name": "Don't Let Me",
-      "url": "https://open.spotify.com/track/5Vnny8AlKRnPZ3wQNouf2T"
+      "duration_ms": 227860,
+      "name": "The Great Sea - From \"The Legend of Zelda: The Wind Waker\"",
+      "url": "https://open.spotify.com/track/1D644kNnetS59dp2wUoVMl"
     },
     {
       "added_at": "2024-11-04 05:00:00",
       "album": {
-        "name": "Magnetic",
-        "url": "https://open.spotify.com/album/2pYRp07Kxh0sFzKahkaMZl"
+        "name": "Kingdom Hearts World",
+        "url": "https://open.spotify.com/album/0uhPhUPXYXuYX86f0LaWWl"
       },
       "artists": [
         {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+          "name": "Federico Dubbini",
+          "url": "https://open.spotify.com/artist/2yiXMorEbGKw4gPLK7x8U4"
         }
       ],
-      "duration_ms": 225333,
-      "name": "Come to Me",
-      "url": "https://open.spotify.com/track/3sBfItjYrLgKrCPIZndhc6"
+      "duration_ms": 136049,
+      "name": "Dearly Beloved",
+      "url": "https://open.spotify.com/track/6kmcqAVdWNZxO9QvFXi6JT"
     },
     {
       "added_at": "2024-11-04 05:00:00",
       "album": {
-        "name": "how can i pretend?",
-        "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
+        "name": "Alto's Odyssey (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6cSKoN9FYxH3tRfM6AkAKE"
       },
       "artists": [
         {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+          "name": "Todd Baker",
+          "url": "https://open.spotify.com/artist/2RfwvVMJyYSZNtzYu67LL4"
         }
       ],
-      "duration_ms": 132000,
-      "name": "ur so pretty",
-      "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
+      "duration_ms": 340413,
+      "name": "An Endless Desert",
+      "url": "https://open.spotify.com/track/7KOZqkcLlzldiaGjb5uARk"
     },
     {
       "added_at": "2024-11-04 05:00:00",
       "album": {
-        "name": "The Wisp Sings: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/4VNB4ehPs8SKVVn6QAvHp2"
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
       },
       "artists": [
         {
-          "name": "Winter Aid",
-          "url": "https://open.spotify.com/artist/15S89CUJtshT2P7WIa2M5l"
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         }
       ],
-      "duration_ms": 313252,
-      "name": "The Wisp Sings",
-      "url": "https://open.spotify.com/track/7nDXmx3FuyeX7FI7PFl2iX"
-    },
-    {
-      "added_at": "2024-11-04 05:00:00",
-      "album": {
-        "name": "Writing of Blues and Yellows (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "La Lune",
-      "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
-    },
-    {
-      "added_at": "2024-11-04 05:00:00",
-      "album": {
-        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
-        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 229357,
-      "name": "Wool - from The Hunger Games: The Ballad of Songbirds & Snakes",
-      "url": "https://open.spotify.com/track/4hoqP9dIAu2Nk6u5LvxOR4"
+      "duration_ms": 156365,
+      "name": "The Power of Prophecy",
+      "url": "https://open.spotify.com/track/3EkwCXyPeH6xGs23tVnJJy"
     }
   ],
   "unique_name": "Discover Weekly (@mackorone)",

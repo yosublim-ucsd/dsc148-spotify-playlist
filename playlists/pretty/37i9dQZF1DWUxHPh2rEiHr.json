@@ -1,6 +1,6 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: Sevdaliza & KAROL G",
-  "num_followers": 498370,
+  "num_followers": 498387,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,26 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "LA PANTERA NEGRA (DELUXE)",
+        "url": "https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 130880,
+      "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
+      "url": "https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Dilaw",
         "url": "https://open.spotify.com/album/1gbgbQj9mCxtp3IPybhMzp"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "LA PANTERA NEGRA (DELUXE)",
-        "url": "https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        }
-      ],
-      "duration_ms": 130880,
-      "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
-      "url": "https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "X'CLUSIVO (REMIX)",
         "url": "https://open.spotify.com/album/3FUYttT6kvaVvhiUBr6Oyh"
       },
@@ -1219,26 +1239,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Casanova",
-        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Todo De Ti",
         "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
       },
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "IMAN (Two Of Us)",
-        "url": "https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 122405,
-      "name": "IMAN (Two Of Us)",
-      "url": "https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 154554,
       "name": "With You",
       "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "IMAN (Two Of Us)",
+        "url": "https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 122405,
+      "name": "IMAN (Two Of Us)",
+      "url": "https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Omega (feat. Ralphie Choo)",
-        "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Omega (feat. Ralphie Choo)",
-      "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Smeraldo Garden Marching Band (feat. Loco)",
         "url": "https://open.spotify.com/album/2PcM535knJOZb6MUth8axj"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 182840,
       "name": "Smeraldo Garden Marching Band (feat. Loco)",
       "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Omega (feat. Ralphie Choo)",
+        "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Omega (feat. Ralphie Choo)",
+      "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1415,22 +1415,6 @@
       "duration_ms": 196853,
       "name": "How You Feel (Ft. Leven Kali)",
       "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Illusion",
-        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 188143,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1463,6 +1447,22 @@
       "duration_ms": 153346,
       "name": "City Boys",
       "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 188143,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Look Who's Laughing Now",
-        "url": "https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 174660,
-      "name": "Look Who's Laughing Now",
-      "url": "https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Original Vibe Machine",
         "url": "https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 162285,
       "name": "No Wahala",
       "url": "https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Look Who's Laughing Now",
+        "url": "https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 174660,
+      "name": "Look Who's Laughing Now",
+      "url": "https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "CALMA",
-        "url": "https://open.spotify.com/album/0DNUkgfYrdwXS0HuUm2hGk"
-      },
-      "artists": [
-        {
-          "name": "Y4ska",
-          "url": "https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8"
-        },
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "CALMA",
-      "url": "https://open.spotify.com/track/0ZW2C4Yd8HvGXM6jrLmChx"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "SUPERMODEL",
         "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
       },
@@ -1843,22 +1823,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "On My Love",
-        "url": "https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi"
+        "name": "CALMA",
+        "url": "https://open.spotify.com/album/0DNUkgfYrdwXS0HuUm2hGk"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Y4ska",
+          "url": "https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
         }
       ],
-      "duration_ms": 222911,
-      "name": "On My Love",
-      "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
+      "duration_ms": 120000,
+      "name": "CALMA",
+      "url": "https://open.spotify.com/track/0ZW2C4Yd8HvGXM6jrLmChx"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1883,6 +1863,26 @@
       "duration_ms": 220361,
       "name": "KIZAO",
       "url": "https://open.spotify.com/track/2ejhK0OtBe4CdfD67uqzGB"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "On My Love",
+        "url": "https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 222911,
+      "name": "On My Love",
+      "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
     },
     {
       "added_at": "2024-11-01 04:00:00",

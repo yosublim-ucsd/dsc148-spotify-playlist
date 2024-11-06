@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 
 > This is Nat King Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,360 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,389 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 23 | [The Girl From Ipanema](https://open.spotify.com/track/3niaqXwt6bSu5HCXJpaee7) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Ultimate Nat King Cole](https://open.spotify.com/album/2IFGaozoXFA3m9IUH2Hcc4) | 2:54 |
 | 24 | [Acércate Más](https://open.spotify.com/track/6c877PJUCIHKP0A0yaj6zJ) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Natalie Cole En Español \(Track By Track Commentary\)](https://open.spotify.com/album/4neGAu0qprh1ghFDhH824H) | 2:47 |
 | 25 | [’Tis Autumn](https://open.spotify.com/track/6sQruAh3HYroK1zT8PUrea) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [BD Music & Cabu Present Nat King Cole](https://open.spotify.com/album/2yWx9ptM3TdlwZIkXwZacq) | 3:09 |
-| 26 | [You'll Never Know \- Remastered](https://open.spotify.com/track/5dPRT4LvyogKLxmFpNGV4m) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Songs](https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC) | 2:42 |
-| 27 | [I Don't Want To See Tomorrow](https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [I Don't Want To Be Hurt Anymore](https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe) | 2:36 |
+| 26 | [I Don't Want To See Tomorrow](https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [I Don't Want To Be Hurt Anymore](https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe) | 2:36 |
+| 27 | [You'll Never Know \- Remastered](https://open.spotify.com/track/5dPRT4LvyogKLxmFpNGV4m) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Songs](https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC) | 2:42 |
 | 28 | [Red Sails In The Sunset](https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:17 |
 | 29 | [Blame It On My Youth \- Remastered 1999](https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 4:12 |
 | 30 | [Aquellos Ojos Verdes](https://open.spotify.com/track/35uu4l4jYnCLMh88URXqoX) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 2:13 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 40 | [The More I See You](https://open.spotify.com/track/64VKSHhJmNdA5sC46RSKTp) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Very Thought Of You \(Expanded Edition\)](https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB) | 3:25 |
 | 41 | [You Made Me Love You \(I Didn't Want To Do It\) \- Remastered](https://open.spotify.com/track/7LPVWfMHGxawDxNzppoHOZ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Thank You, Pretty Baby](https://open.spotify.com/album/0Nghkb1nHs4WCtnA0irWN2) | 2:52 |
 | 42 | [Walkin' My Baby Back Home](https://open.spotify.com/track/26LH7Z7NgqszsBSCvsDjjS) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Nat King Cole's 8 Top Pops](https://open.spotify.com/album/1yP0VKloRyuwhzchRWZlaC) | 2:38 |
-| 43 | [Let's Fall In Love](https://open.spotify.com/track/6Zis3c4TSJHeBkivT2tMzY) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 2:48 |
-| 44 | [Cappuccina](https://open.spotify.com/track/0l77yPx7obpLzZ93NFNcFR) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sincerely](https://open.spotify.com/album/338VuAlKIPVBLt5O2AKe5M) | 2:48 |
-| 45 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/0XboALCVOmAxzi5JEZHytz) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Touch Of Your Lips](https://open.spotify.com/album/0ec54Pa8SjLsJT94qqK9TU) | 4:46 |
-| 46 | [Just You, Just Me \- Remastered 1999](https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 3:02 |
-| 47 | [There Will Never Be Another You](https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 3:38 |
-| 48 | [Love Letters \- Remastered](https://open.spotify.com/track/13dUfyPZRCUA1V2JVGeYpm) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Songs](https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC) | 2:43 |
+| 43 | [There Will Never Be Another You](https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 3:38 |
+| 44 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/0XboALCVOmAxzi5JEZHytz) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Touch Of Your Lips](https://open.spotify.com/album/0ec54Pa8SjLsJT94qqK9TU) | 4:46 |
+| 45 | [Cappuccina](https://open.spotify.com/track/0l77yPx7obpLzZ93NFNcFR) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sincerely](https://open.spotify.com/album/338VuAlKIPVBLt5O2AKe5M) | 2:48 |
+| 46 | [Love Letters \- Remastered](https://open.spotify.com/track/13dUfyPZRCUA1V2JVGeYpm) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Songs](https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC) | 2:43 |
+| 47 | [Let's Fall In Love](https://open.spotify.com/track/6Zis3c4TSJHeBkivT2tMzY) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 2:48 |
+| 48 | [Just You, Just Me \- Remastered 1999](https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 3:02 |
 | 49 | [El Bodeguero \(Grocer's Cha\-Cha\)](https://open.spotify.com/track/4DfK9livSlasQjziFFVEql) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Cole Espanol](https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p) | 2:24 |
 | 50 | [I Could Have Danced All Night](https://open.spotify.com/track/20mEmrHhY9yN6IvYncoL96) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [My Fair Lady](https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I) | 2:30 |
 
-Snapshot ID: `Zya9AAAAAADfY5wkkfX76pBlu45nXTFK`
+Snapshot ID: `ZygOgAAAAAAQP2tPL3sSCpMfFPhMiXWf`

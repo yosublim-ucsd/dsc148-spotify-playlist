@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,921 likes - 272 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,922 likes - 272 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 112 | [You Go Your Way, I'll Go Mine](https://open.spotify.com/track/3H62Xhas83DoIXeSMqV26y) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 3:32 |
 | 113 | [I Didn't Have Any Summer Romance](https://open.spotify.com/track/17F1e95eSGGcJq275iMNWQ) | [Simone White](https://open.spotify.com/artist/1qFOfghPhItJzIUt1iD1ty) | [I Am the Man](https://open.spotify.com/album/0bdgA41D4kZaO87Esq5wZU) | 3:26 |
 | 114 | [I Can't Say Goodbye to You](https://open.spotify.com/track/24TtjVPpY6uuWxKKmosG28) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The New Album](https://open.spotify.com/album/7JqDnsWOUOEQ8tnxgxKMvW) | 2:12 |
-| 115 | [No One Ever Tells You](https://open.spotify.com/track/1Z4lNPJfSpbqN3V5j7YQEa) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Twist Uptown](https://open.spotify.com/album/1u6OEiAZAyZPCLE9frkKBZ) | 2:19 |
-| 116 | [There's A Space Between Us](https://open.spotify.com/track/6AebtnBPxHNDfsPE21Qhxr) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:19 |
+| 115 | [There's A Space Between Us](https://open.spotify.com/track/6AebtnBPxHNDfsPE21Qhxr) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:19 |
+| 116 | [No One Ever Tells You](https://open.spotify.com/track/1Z4lNPJfSpbqN3V5j7YQEa) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Twist Uptown](https://open.spotify.com/album/1u6OEiAZAyZPCLE9frkKBZ) | 2:19 |
 | 117 | [I'd Like To Know You Better](https://open.spotify.com/track/58gaz9qaiCBPvC67SqJdYY) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 2:46 |
 | 118 | [Walk On In](https://open.spotify.com/track/3LoBQGP7Aq7Pj2y1dNkgsr) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 2:44 |
 | 119 | [So Goes Love \(Unissued Single\) \- Remastered](https://open.spotify.com/track/5iDDDtMSRepWfHWkej90k3) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [All the Singles](https://open.spotify.com/album/2jZH2KFGsgqfRg1XmJlVUY) | 2:35 |
@@ -281,4 +281,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 271 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 272 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AbgotAAAAABNIZUioJ56w/bsBUg+glmY`
+Snapshot ID: `AbguSgAAAABXUyywpuHm+PPFCfZ9/73s`

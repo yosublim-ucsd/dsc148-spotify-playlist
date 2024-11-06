@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,561 likes - 75 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,588 likes - 75 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 3 | [Island Bounce](https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Island Bounce](https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq) | 2:27 |
 | 4 | [Burnt Coffee](https://open.spotify.com/track/754aGQqZJaznJc5fc2lTbG) | [AAGAPE](https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W) | [Burnt Coffee](https://open.spotify.com/album/7JLxezcgbxK6owUxAtJnsA) | 2:06 |
 | 5 | [Worcestershire dreaming](https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Worcestershire dreaming](https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj) | 2:06 |
-| 6 | [Watching Walls](https://open.spotify.com/track/5Pv4jIAe9BM9QZJxvMQTZG) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Watching Walls](https://open.spotify.com/album/19n7gbTqzfG0M7Ptnx999l) | 2:11 |
-| 7 | [In Comparison With](https://open.spotify.com/track/2kRqoND9nTZ6ShVTWPQ3Y6) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [In Comparison With](https://open.spotify.com/album/3vvMXi4IWwUbgQi7S2oxJP) | 3:22 |
+| 6 | [In Comparison With](https://open.spotify.com/track/2kRqoND9nTZ6ShVTWPQ3Y6) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [In Comparison With](https://open.spotify.com/album/3vvMXi4IWwUbgQi7S2oxJP) | 3:22 |
+| 7 | [Watching Walls](https://open.spotify.com/track/5Pv4jIAe9BM9QZJxvMQTZG) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Watching Walls](https://open.spotify.com/album/19n7gbTqzfG0M7Ptnx999l) | 2:11 |
 | 8 | [a day with the kids](https://open.spotify.com/track/0u8cOPcqtOMeBj4IgCDhN0) | [blank maxxymus](https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K) | [a day with the kids](https://open.spotify.com/album/6Ts9ETbP9B7PPMnIHnrOsQ) | 2:00 |
 | 9 | [Call It A Night](https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA) | [jon pm](https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH) | [Call It A Night](https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O) | 2:21 |
 | 10 | [Memories & Notes](https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Memories & Notes](https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt) | 1:53 |
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 29 | [superabundance](https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8) | [Mickey Jam](https://open.spotify.com/artist/0QeBXI6ruzIKKQ7EkrDBr9) | [superabundance](https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC) | 2:19 |
 | 30 | [Dawn](https://open.spotify.com/track/6aKLdYN5qIQXhi5oorQO3g) | [Allem Iversom](https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Dawn](https://open.spotify.com/album/3BFZtTltMCgeJcszVWkFKU) | 2:40 |
 | 31 | [curled up](https://open.spotify.com/track/1eb0KT4XSTq2Gt9C1MCqHm) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [curled up](https://open.spotify.com/album/6TosV7bDaKCr39dqtzHTz8) | 2:12 |
-| 32 | [lunar walk](https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx) | [laura ploy](https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD) | [lunar walk](https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE) | 2:00 |
-| 33 | [River Day](https://open.spotify.com/track/5hgH4lqrKXSzauHoUiJV3q) | [imagiro](https://open.spotify.com/artist/2O8Fgh14LT9QBGfFM5q5Rb) | [Places I Remember](https://open.spotify.com/album/1WuUuPZOPUNuWg5B9Ubmw1) | 2:30 |
+| 32 | [River Day](https://open.spotify.com/track/5hgH4lqrKXSzauHoUiJV3q) | [imagiro](https://open.spotify.com/artist/2O8Fgh14LT9QBGfFM5q5Rb) | [Places I Remember](https://open.spotify.com/album/1WuUuPZOPUNuWg5B9Ubmw1) | 2:30 |
+| 33 | [lunar walk](https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx) | [laura ploy](https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD) | [lunar walk](https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE) | 2:00 |
 | 34 | [Solitude](https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3) | [Soibú](https://open.spotify.com/artist/4HFaAaWRSjxvxyNB6RoUaI) | [Solitude](https://open.spotify.com/album/2qBou21EABjntC15p7h3cz) | 2:23 |
-| 35 | [Snoozy Stardust](https://open.spotify.com/track/4u1ws1ZLno8CGz6p95zct9) | [COSMOGLOW](https://open.spotify.com/artist/5f6pxBwuhmxzCH94UamrGb) | [Snoozy Stardust](https://open.spotify.com/album/1p5hNyVKFYNnUzFMSTPHNG) | 3:38 |
-| 36 | [memory](https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [soul](https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW) | 3:35 |
+| 35 | [memory](https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [soul](https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW) | 3:35 |
+| 36 | [Snoozy Stardust](https://open.spotify.com/track/4u1ws1ZLno8CGz6p95zct9) | [COSMOGLOW](https://open.spotify.com/artist/5f6pxBwuhmxzCH94UamrGb) | [Snoozy Stardust](https://open.spotify.com/album/1p5hNyVKFYNnUzFMSTPHNG) | 3:38 |
 | 37 | [roamwave](https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [roamwave](https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy) | 2:18 |
 | 38 | [Dreemin'](https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Dreemin'](https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0) | 2:11 |
 | 39 | [Magic Mind](https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Magic Mind](https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC) | 2:35 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 44 | [Hydra](https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj) | [Smith Village Beat Street](https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF) | [21st Trail](https://open.spotify.com/album/2TYiO5QeDiFYvPy0NzajDb) | 1:47 |
 | 45 | [Under The Tree](https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja) | [Chrisolof](https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI) | [Under The Tree](https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn) | 1:54 |
 | 46 | [Weightless](https://open.spotify.com/track/76EMECk9SY0jUT8HtZr2x0) | [Lunar Lo\-Fi](https://open.spotify.com/artist/0LeGNGW4wUUlVfuNATYlLD), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Weightless](https://open.spotify.com/album/1bkB4UOzzy9Oh4xoeSiLVv) | 2:31 |
-| 47 | [Last Dream](https://open.spotify.com/track/5SBOxgMvsWuWyZQPjXEqAA) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Last Dream](https://open.spotify.com/album/1vdtftHbxBqtGT1vvl0nIl) | 2:14 |
-| 48 | [kyoto dreams](https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP) | [WAIIFUU](https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY) | [kyoto dreams](https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT) | 2:24 |
+| 47 | [kyoto dreams](https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP) | [WAIIFUU](https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY) | [kyoto dreams](https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT) | 2:24 |
+| 48 | [Last Dream](https://open.spotify.com/track/5SBOxgMvsWuWyZQPjXEqAA) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Last Dream](https://open.spotify.com/album/1vdtftHbxBqtGT1vvl0nIl) | 2:14 |
 | 49 | [falling behind](https://open.spotify.com/track/01IdQkdBqnyp4mhCDRGx5D) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [falling behind](https://open.spotify.com/album/78Xt50bJ6SeWBoXjL8wpGK) | 2:17 |
 | 50 | [roadtrip](https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [roadtrip](https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy) | 2:17 |
 | 51 | [Free Trees](https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Free Trees](https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z) | 2:30 |

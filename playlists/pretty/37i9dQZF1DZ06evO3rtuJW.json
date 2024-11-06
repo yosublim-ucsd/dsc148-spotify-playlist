@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 33237,
+  "num_followers": 33240,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAABSlK5e3mIcFd1lX1Lys0fh",
+  "snapshot_id": "ZygOgAAAAABbMof0Y6rVeJA3ZERh7YWA",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 179209,
+      "name": "Last Time (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/5rDt0wjt4BrYGrveWoIKXB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JUST RE'D UP 3",
         "url": "https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69"
       },
@@ -247,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me vs. Myself",
-        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 179209,
-      "name": "Last Time (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/5rDt0wjt4BrYGrveWoIKXB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Big Swerv",
         "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
       },
@@ -274,15 +274,11 @@
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 233736,
-      "name": "In the A (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/0ltgsHBUPGRnFn8P4fNrTh"
+      "duration_ms": 176981,
+      "name": "Influence",
+      "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
     },
     {
       "added_at": null,
@@ -354,11 +350,15 @@
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 176981,
-      "name": "Influence",
-      "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
+      "duration_ms": 233736,
+      "name": "In the A (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/0ltgsHBUPGRnFn8P4fNrTh"
     },
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THA STREETS VOL 1",
-        "url": "https://open.spotify.com/album/7BQHGnFNwftsmtHvsAJqAr"
-      },
-      "artists": [
-        {
-          "name": "HotBlock Jmoe",
-          "url": "https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 126315,
-      "name": "ROTTEN",
-      "url": "https://open.spotify.com/track/7juzMlYu3mq7iSojvDz32y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNDERWORLD",
         "url": "https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 181080,
       "name": "Swerve (feat. G Herbo)",
       "url": "https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THA STREETS VOL 1",
+        "url": "https://open.spotify.com/album/7BQHGnFNwftsmtHvsAJqAr"
+      },
+      "artists": [
+        {
+          "name": "HotBlock Jmoe",
+          "url": "https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 126315,
+      "name": "ROTTEN",
+      "url": "https://open.spotify.com/track/7juzMlYu3mq7iSojvDz32y"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv",
-        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 182705,
-      "name": "Strike You",
-      "url": "https://open.spotify.com/track/7BFVpSTcDLAyD5zKag2aVF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sessions",
         "url": "https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 221815,
       "name": "Cry No More",
       "url": "https://open.spotify.com/track/1TwQ0XtQfCgcstxhpOSg7t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Swerv",
+        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 182705,
+      "name": "Strike You",
+      "url": "https://open.spotify.com/track/7BFVpSTcDLAyD5zKag2aVF"
     },
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kid That Did",
-        "url": "https://open.spotify.com/album/584NttnQ3jTv0yoCArM0yx"
-      },
-      "artists": [
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 111375,
-      "name": "2 for 6",
-      "url": "https://open.spotify.com/track/0SAtnx2juacTBniqrwvYRU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Swervo",
         "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 214344,
       "name": "Honestly (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Kid That Did",
+        "url": "https://open.spotify.com/album/584NttnQ3jTv0yoCArM0yx"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 111375,
+      "name": "2 for 6",
+      "url": "https://open.spotify.com/track/0SAtnx2juacTBniqrwvYRU"
     },
     {
       "added_at": null,

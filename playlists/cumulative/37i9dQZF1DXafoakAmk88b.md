@@ -2,7 +2,7 @@
 
 ### [Indie Frequency](https://open.spotify.com/playlist/37i9dQZF1DXafoakAmk88b)
 
-> New indie from black artists driving the current\. Cover: Jelani Aryeh
+> New indie from black artists driving the current\. Cover: Fousheé
 
 468 songs - 1 day 0 hr 35 min
 
@@ -121,7 +121,7 @@
 | [Don't Call Me](https://open.spotify.com/track/6TmdQKyH6D50cTnXVnfLFn) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Don't Call Me](https://open.spotify.com/album/27RLYalOrcL90bq5Y13mZ1) | 2:48 | 2024-03-25 | 2024-04-06 |
 | [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-06-07 | 2024-08-17 |
 | [DOOLALLY](https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [DOOLALLY](https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5) | 3:22 | 2023-06-07 | 2023-08-22 |
-| [Dope Sick](https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv) | [Dope Sick](https://open.spotify.com/album/2973KhbLLpi58GvCCTIbXn) | 3:15 | 2024-05-04 | 2024-10-26 |
+| [Dope Sick](https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv) | [Dope Sick](https://open.spotify.com/album/2973KhbLLpi58GvCCTIbXn) | 3:15 | 2024-05-04 |  |
 | [double standard](https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [double standard](https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4) | 3:23 | 2022-04-08 | 2023-08-22 |
 | [Dry](https://open.spotify.com/track/3B1BzvXzF4Xhre3SLxTDz7) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [Dry](https://open.spotify.com/album/66IrzcJ0xrFyfzeh51DbyS) | 3:59 | 2023-03-29 | 2023-04-22 |
 | [Echolalia](https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Echolalia](https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r) | 3:00 | 2023-02-01 | 2023-06-08 |
@@ -342,7 +342,7 @@
 | [Pretty Pictures](https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 2:58 | 2022-02-18 | 2023-02-11 |
 | [Prom Queen](https://open.spotify.com/track/2xrYD5TVgsUAVa3G0oAzMr) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [Prom Queen](https://open.spotify.com/album/0TfMAdRpJtLRv3DVK0I4Wp) | 2:48 | 2023-02-10 | 2023-08-22 |
 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 | 2022-06-17 | 2023-04-22 |
-| [PULL UP](https://open.spotify.com/track/35wqLh4Ht76d4YIUU2oNXq) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [PULL UP](https://open.spotify.com/album/1brHIGC0EiM5onDMz2aCB9) | 2:20 | 2024-06-09 |  |
+| [PULL UP](https://open.spotify.com/track/35wqLh4Ht76d4YIUU2oNXq) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [PULL UP](https://open.spotify.com/album/1brHIGC0EiM5onDMz2aCB9) | 2:20 | 2024-06-09 | 2024-11-06 |
 | [Purple Skies](https://open.spotify.com/track/2HKsYLUAKgrdmjrB9re1Fq) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Purple Skies](https://open.spotify.com/album/307ITAy6aD9dQQFjxSM5Mf) | 3:06 | 2023-08-09 | 2023-08-22 |
 | [QUIET ON THE SET](https://open.spotify.com/track/5xWvCOX5UAgOljuv2QAFtG) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Ready When You Are](https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU) | 2:49 | 2023-06-07 | 2023-08-22 |
 | [Rapture in Blue](https://open.spotify.com/track/7qTf2TeEGdz9W1hFGPUiMK) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Rapture in Blue](https://open.spotify.com/album/5PZcNqeU1AmYN9wv1k1MZy) | 2:24 | 2022-02-18 | 2022-11-12 |

@@ -2,9 +2,9 @@
 
 ### [Latin Frequency](https://open.spotify.com/playlist/37i9dQZF1DWU65QzegR429)
 
-> Latin music making waves\. Cover: Hamilton
+> Latin music making waves\. Cover: Sech
 
-214 songs - 11 hr 12 min
+215 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Soy Yo](https://open.spotify.com/track/20Ca0pIyUwu9jIUJ2sr5cg) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Soy Yo](https://open.spotify.com/album/7JuLd58gOTogWvAwNyYggp) | 3:38 | 2022-06-02 | 2023-02-11 |
 | [SPICY](https://open.spotify.com/track/3Qjwo4QZcSR79l5GaoHweR) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [SPICY](https://open.spotify.com/album/5D0lLOvY3tsKuo2WTFfj4d) | 3:00 | 2024-02-01 | 2024-10-12 |
 | [Sugar Boi](https://open.spotify.com/track/4wSGokexiP0n1wfGZALMLi) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Sugar Boi](https://open.spotify.com/album/6ZompWFaxtNkSguDPSVszb) | 2:54 | 2023-02-10 |  |
-| [Sugar Honey Iced Tea \(S.H.I.T.\)](https://open.spotify.com/track/32mS3YkFXkUab2By9hjCRa) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Everything is Beautiful](https://open.spotify.com/album/53uhBqvPad79nqxsGmVyiv) | 2:28 | 2024-03-21 |  |
+| [Sugar Honey Iced Tea \(S.H.I.T.\)](https://open.spotify.com/track/32mS3YkFXkUab2By9hjCRa) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Everything is Beautiful](https://open.spotify.com/album/53uhBqvPad79nqxsGmVyiv) | 2:28 | 2024-03-21 | 2024-11-06 |
 | [T'as peur](https://open.spotify.com/track/0KERPiv5izyNsVcXYNEugE) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [T'as peur](https://open.spotify.com/album/5iq2ffpT0zwW0CLI646Z8d) | 3:35 | 2023-02-27 |  |
 | [Taka Taka](https://open.spotify.com/track/03zJF1SQSX2sRwILa06p3E) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Taka Taka](https://open.spotify.com/album/32yqnJvhVOIw6BPqDdTD8G) | 2:35 | 2023-02-10 | 2024-02-02 |
 | [TAMBIÉN](https://open.spotify.com/track/39Pc4a04VgCtcc7m0XKi9M) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA PANTERA NEGRA](https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z) | 2:19 | 2024-10-11 |  |
@@ -201,6 +201,7 @@
 | [Tik Tok](https://open.spotify.com/track/1IhD7wsDlyz6ya4qHm6Ry3) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh), [Kairo La Sinfonia](https://open.spotify.com/artist/77slAN1w8sLCiCGwiZmNEF) | [Tik Tok](https://open.spotify.com/album/13Prq5PrWckc6wtxEnXkja) | 2:36 | 2022-02-18 | 2022-06-03 |
 | [Todo De Ti](https://open.spotify.com/track/5RwV8BvLfX5injfqYodke9) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 3:19 | 2022-02-18 | 2022-06-03 |
 | [TOKO](https://open.spotify.com/track/1kE0aGbuxGUOS6rUaBPhCe) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [TOKO](https://open.spotify.com/album/0IKs9DTpEL26R4G8h0fW5z) | 2:55 | 2024-02-01 |  |
+| [TOY PERDIO](https://open.spotify.com/track/3JXGcoxUTyBU7AYdpsLdH6) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [TOY PERDIO](https://open.spotify.com/album/41Fx3xFa1msZKkLGXVgm4t) | 2:55 | 2024-11-05 |  |
 | [Triple H](https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP) | [They Love Us](https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb) | 2:54 | 2022-06-02 | 2023-02-11 |
 | [Trucki](https://open.spotify.com/track/1xyMEik4SsayMAEV4rwYYW) | [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Real Sofoke Hiigh](https://open.spotify.com/artist/5sX6UbJx4vxLzHXIMsVXZh) | [Trucki](https://open.spotify.com/album/5jO83YZz3ujLMMM61Fwkzv) | 3:56 | 2023-02-27 |  |
 | [TU ME QUIERES?](https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [TU ME QUIERES?](https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB) | 2:45 | 2023-06-16 |  |

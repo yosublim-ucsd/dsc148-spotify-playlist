@@ -4,7 +4,7 @@
 
 > I am horrifically aware of my spine
 
-55 songs - 3 hr 6 min
+56 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [In the Craters on the Moon \- The Jordan Lake Sessions Volume 3](https://open.spotify.com/track/1dvU7wUiWHA0ZfQx05FCKG) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Jordan Lake Sessions: Volumes 3 and 4](https://open.spotify.com/album/2oQ3dQki5q8qGmJdM9lAxu) | 3:56 | 2023-03-03 |  |
 | [It's Still Rock and Roll to Me](https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Glass Houses](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) | 2:56 | 2024-09-16 |  |
 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 | 2023-06-03 |  |
+| [Magpie](https://open.spotify.com/track/0Nx1m4J8mlBW34aUW7wcy2) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 2:00 | 2024-11-05 |  |
 | [Money, Money, Money](https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:06 | 2024-09-19 |  |
 | [Moonsickness](https://open.spotify.com/track/4lOEGaLwY4yN2WFfGIq2Tr) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 5:14 | 2024-01-17 |  |
 | [My Prius](https://open.spotify.com/track/6hAtV3tR7ywSPDGGkHgEBg) | [Tom McGovern](https://open.spotify.com/artist/7sdTDjtp0SEve3nZk2mfEk), [A.Rob](https://open.spotify.com/artist/7FjmAIhzIo6jd274dZlMZ1) | [My Prius](https://open.spotify.com/album/3bPLq8BVMLo5y3oYec00nz) | 1:58 | 2022-05-07 |  |

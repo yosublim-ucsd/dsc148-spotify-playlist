@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,086 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,099 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 32 | [De Barrio](https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0) | [M.A.K.U SoundSystem](https://open.spotify.com/artist/1XvVZZxpcgZw7MUG5BIUJh) | [Mezcla](https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa) | 5:51 |
 | 33 | [Kintsugi](https://open.spotify.com/track/2kJSKfA6jrrXxqmDZoWLvt) | [Pamela Rodriguez](https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC) | [Kintsugi](https://open.spotify.com/album/6CBtxsXQQKQO5jiCpysjMw) | 3:31 |
 | 34 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 |
-| 35 | [Ay Palomita](https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Ay Palomita](https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk) | 6:31 |
-| 36 | [Ceguera](https://open.spotify.com/track/2mlqxHbOJ0hzBZjNfRj0ZN) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Ceguera](https://open.spotify.com/album/37VzZiemzFQd77eZo9kOfv) | 4:19 |
+| 35 | [Ceguera](https://open.spotify.com/track/2mlqxHbOJ0hzBZjNfRj0ZN) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Ceguera](https://open.spotify.com/album/37VzZiemzFQd77eZo9kOfv) | 4:19 |
+| 36 | [Ay Palomita](https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Ay Palomita](https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk) | 6:31 |
 | 37 | [La lluvia \(The Rain\)](https://open.spotify.com/track/5AzMb8M8OP7gzY4eoofKsX) | [Alpamayo](https://open.spotify.com/artist/1IwczbeypqcP1e5qF9xWyK) | [Alpamayo: Music From Peru and Ecuador](https://open.spotify.com/album/1dxPMheXy9f4e4qdanfuVK) | 4:04 |
 | 38 | [Qam Hina](https://open.spotify.com/track/4rRgfl70FRS1OYBD29pQa4) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Qam Hina](https://open.spotify.com/album/4iRMmNgcj155HZInt8BXxK) | 4:07 |
 | 39 | [Trote de Enquelga](https://open.spotify.com/track/120c4z2FZUop2bVpc5sTMD) | [Los Curacas](https://open.spotify.com/artist/5mmVJF0pKY3PEMLhrRU0gw) | [Folklore en Mi Escuela\. Danzas y Cantos de América, Vol\. 2](https://open.spotify.com/album/4mbnG0P8Oi8JJAoCtX8J5D) | 2:29 |

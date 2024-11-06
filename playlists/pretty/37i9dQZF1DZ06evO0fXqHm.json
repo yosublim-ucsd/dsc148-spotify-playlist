@@ -1,12 +1,12 @@
 {
   "description": "This is Mac J\u00falia. The essential tracks, all in one playlist.",
-  "num_followers": 1531,
+  "num_followers": 1532,
   "original_name": "This Is Mac J\u00falia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAAAyqhe5bQDaSCfSQG1Rn0f8",
+  "snapshot_id": "ZygOgAAAAADgUCMf+SI6nRB7o+kZM77q",
   "tracks": [
     {
       "added_at": null,
@@ -555,42 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sextape: Love Me Two Times",
-        "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Dona On\u00e7a",
-      "url": "https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Juma Marru\u00e1",
-      "url": "https://open.spotify.com/track/69GJRlhDtyaOnSGL7tQhhw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sozinho",
         "url": "https://open.spotify.com/album/0kzkl5kB8rwy8D0jCpLopY"
       },
@@ -615,6 +579,42 @@
       "duration_ms": 121846,
       "name": "Sozinho",
       "url": "https://open.spotify.com/track/6vqr49lCwlODxmWEdb091P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Juma Marru\u00e1",
+      "url": "https://open.spotify.com/track/69GJRlhDtyaOnSGL7tQhhw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sextape: Love Me Two Times",
+        "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Dona On\u00e7a",
+      "url": "https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9"
     },
     {
       "added_at": null,
@@ -911,6 +911,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baile do Bruxo (DELUXE)",
+        "url": "https://open.spotify.com/album/0S3pM5Z9LfLBU6IdYFJxiA"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "SMU",
+          "url": "https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c"
+        },
+        {
+          "name": "DJ Ws da Igrejinha",
+          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 177862,
+      "name": "TODA VEZ QUE EU TE VEJO",
+      "url": "https://open.spotify.com/track/4BRJeEBhCba4qO87fEYDaC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/4xOsFV0RqRz4SJq2fkwge6"
       },
@@ -943,38 +975,6 @@
       "duration_ms": 224500,
       "name": "Olha Beb\u00ea",
       "url": "https://open.spotify.com/track/3MieTvQzwXlljej28RVFmC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baile do Bruxo (DELUXE)",
-        "url": "https://open.spotify.com/album/0S3pM5Z9LfLBU6IdYFJxiA"
-      },
-      "artists": [
-        {
-          "name": "Tropa do Bruxo",
-          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
-        },
-        {
-          "name": "SMU",
-          "url": "https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c"
-        },
-        {
-          "name": "DJ Ws da Igrejinha",
-          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 177862,
-      "name": "TODA VEZ QUE EU TE VEJO",
-      "url": "https://open.spotify.com/track/4BRJeEBhCba4qO87fEYDaC"
     },
     {
       "added_at": null,
@@ -1023,22 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mete Mac Vol 1",
-        "url": "https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Para de Brincar Comigo",
-      "url": "https://open.spotify.com/track/1XU61okRaI9UxMB3z2O2GQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Phone",
         "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 166103,
       "name": "Phone",
       "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mete Mac Vol 1",
+        "url": "https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "Para de Brincar Comigo",
+      "url": "https://open.spotify.com/track/1XU61okRaI9UxMB3z2O2GQ"
     },
     {
       "added_at": null,
@@ -1123,30 +1123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        },
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Avenida Brasil",
-      "url": "https://open.spotify.com/track/7eIfnbitmJPHXbSeyjzVlC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ta na Hora",
         "url": "https://open.spotify.com/album/32wuBDeLvsJ1pvwmUmardT"
       },
@@ -1179,6 +1155,30 @@
       "duration_ms": 202007,
       "name": "Ta na Hora",
       "url": "https://open.spotify.com/track/3c5YDO4ZMp0jwUcTq8PzTs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Avenida Brasil",
+      "url": "https://open.spotify.com/track/7eIfnbitmJPHXbSeyjzVlC"
     },
     {
       "added_at": null,

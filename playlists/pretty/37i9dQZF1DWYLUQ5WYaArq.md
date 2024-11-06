@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > Keep that mirror ball spinning, we've got disco fever! Cover: Bee Gees
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,360 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,351 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

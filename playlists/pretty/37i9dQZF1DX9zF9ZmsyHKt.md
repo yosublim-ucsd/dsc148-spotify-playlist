@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,614 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,685 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 25 | [Pra Te Esquecer \- Ao Vivo](https://open.spotify.com/track/0YcOV4SbJCSO5xJpVsIw18) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso na Amazônia \- Bloco 1 \(Ao Vivo\)](https://open.spotify.com/album/07DKQEQmK2bV9AoZrhDivn) | 4:19 |
 | 26 | [Sou do Norte](https://open.spotify.com/track/08hHdpaOdOaH8feh4qiRN8) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb) | [Sou do Norte](https://open.spotify.com/album/2viFBI4mjhFPScVNybzn6l) | 3:02 |
 | 27 | [Ex Mai Love](https://open.spotify.com/track/0YcjaVx3KKr0AVZ15YKHJs) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [Treme](https://open.spotify.com/album/0bEhleLUVlS997I3NTHJ4f) | 2:55 |
-| 28 | [O Traficante](https://open.spotify.com/track/7f1x85YSE9DliOSRFFfuM2) | [Banda Amazonas](https://open.spotify.com/artist/6aADV1iVy0z8Bni0qXLRkf), [Nelsinho Rodrigues](https://open.spotify.com/artist/4k5GPOqlaMmuhxSQkPZrWb) | [Ai Amor](https://open.spotify.com/album/7GqpB21EqkfOs3WJYufal4) | 2:55 |
+| 28 | [Essa É a Ultima Vez](https://open.spotify.com/track/5MmDczW2YblO394A3dMG8I) | [Banda Batidão do Melody](https://open.spotify.com/artist/0UwSlqhvDCl7xANP1ANswD) | [Essa É a Ultima Vez](https://open.spotify.com/album/1s0VJLoLdhsMw4vlkmlLe7) | 3:31 |
 | 29 | [Pra Me Conquistar](https://open.spotify.com/track/11tQHWsy9QSi9Ml69ldeng) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [O Ritmo Que Conquistou o Brasil \- Vol.03](https://open.spotify.com/album/75BR3zxW4J4g4fnXsHKGY3) | 2:58 |
 | 30 | [Ultra Som](https://open.spotify.com/track/16pJs5VpOZfmBtxmIPT908) | [Banda Ravelly](https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW) | [Envolvendo Você!](https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD) | 4:13 |
 | 31 | [Eu Te Venero](https://open.spotify.com/track/2xPYB3pXXhW4dLY58esXJh) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:56 |
-| 32 | [Essa É a Ultima Vez](https://open.spotify.com/track/5MmDczW2YblO394A3dMG8I) | [Banda Batidão do Melody](https://open.spotify.com/artist/0UwSlqhvDCl7xANP1ANswD) | [Essa É a Ultima Vez](https://open.spotify.com/album/1s0VJLoLdhsMw4vlkmlLe7) | 3:31 |
+| 32 | [O Traficante](https://open.spotify.com/track/7f1x85YSE9DliOSRFFfuM2) | [Banda Amazonas](https://open.spotify.com/artist/6aADV1iVy0z8Bni0qXLRkf), [Nelsinho Rodrigues](https://open.spotify.com/artist/4k5GPOqlaMmuhxSQkPZrWb) | [Ai Amor](https://open.spotify.com/album/7GqpB21EqkfOs3WJYufal4) | 2:55 |
 | 33 | [Imagem do Prazer](https://open.spotify.com/track/5lIRlJGqInAEInVxpqf9rg) | [Banda POP Show](https://open.spotify.com/artist/5mW39VdCIwXOmfW5Tdn6T7) | [Imagem do Prazer](https://open.spotify.com/album/40dHfK5l6u8abVgWN00Lks) | 3:40 |
 | 34 | [Dançando e Beijando](https://open.spotify.com/track/07NOfxIl2JR9qxg8Zpe6iH) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Dançando e Beijando](https://open.spotify.com/album/6KPBm9CwV3uHFFvdflir7l) | 2:46 |
 | 35 | [Tic Tac](https://open.spotify.com/track/5LPazgtTZDkx73NjcMnZgx) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo na Amazônia](https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla) | 3:32 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 55 | [Está no Ar](https://open.spotify.com/track/4HvbIF4n0nW3f0t2K1r6la) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq), [DJ Neco Patifão](https://open.spotify.com/artist/5qKMhT0vNRheWDWYDTjV1V) | [Elétrico](https://open.spotify.com/album/2sQuHDWwnn10g440LIlm03) | 3:35 |
 | 56 | [Aceita Meu Amor](https://open.spotify.com/track/0uCz530eIv1baO4SpwbzAE) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [Aceita Meu Amor](https://open.spotify.com/album/12xRuoSjB4PSEoRIth8dhy) | 3:44 |
 | 57 | [Disse Adeus](https://open.spotify.com/track/6naHDFlQZ1TvcPYN0Uasgm) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo na Amazônia](https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla) | 4:10 |
-| 58 | [Lágrimas de Sangue \(Ao Vivo\)](https://open.spotify.com/track/7ihbN5GjWZpta9qSrCRUl5) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso Tour Brasil \(Ao Vivo em São Paulo \- SP\) EP5](https://open.spotify.com/album/2Eu4pJipc7JR6TJBgQpkqH) | 2:32 |
-| 59 | [Olha Bem Pra Mim](https://open.spotify.com/track/4gLQDSMuWg9JOkTtURE0po) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj), [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Olha Bem Pra Mim](https://open.spotify.com/album/0Bc2jtElw3UGoWFzL1CSzU) | 3:18 |
+| 58 | [Olha Bem Pra Mim](https://open.spotify.com/track/4gLQDSMuWg9JOkTtURE0po) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj), [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Olha Bem Pra Mim](https://open.spotify.com/album/0Bc2jtElw3UGoWFzL1CSzU) | 3:18 |
+| 59 | [Lágrimas de Sangue \(Ao Vivo\)](https://open.spotify.com/track/7ihbN5GjWZpta9qSrCRUl5) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso Tour Brasil \(Ao Vivo em São Paulo \- SP\) EP5](https://open.spotify.com/album/2Eu4pJipc7JR6TJBgQpkqH) | 2:32 |
 | 60 | [Grito Seu Nome](https://open.spotify.com/track/3JQLEtwCzTNwrjbbxoVDZE) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Sucessos](https://open.spotify.com/album/6UqGyxulGDAtJGQiy5gRP8) | 3:03 |
 
 Snapshot ID: `ZxsJsAAAAACXUgQZDccQHrqTWOsVVcUv`

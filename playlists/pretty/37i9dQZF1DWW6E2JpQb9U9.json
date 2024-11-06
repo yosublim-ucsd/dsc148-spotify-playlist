@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: No Te Va Gustar",
-  "num_followers": 116742,
+  "num_followers": 116770,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-10-10 22:03:33",
       "album": {
-        "name": "En Vivo Obras",
-        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
-      },
-      "artists": [
-        {
-          "name": "Almafuerte",
-          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
-        }
-      ],
-      "duration_ms": 228144,
-      "name": "Toro y Pampa - En Vivo",
-      "url": "https://open.spotify.com/track/43c4oelxnp0cVeFZZ4L4QL"
-    },
-    {
-      "added_at": "2024-10-10 22:03:33",
-      "album": {
         "name": "Los Lun\u00e1ticos Planes de una Mariposa Incandescente (Vivo en Luna Park)",
         "url": "https://open.spotify.com/album/4gPo6XbIQfVywsTVYrT42E"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 294784,
       "name": "Savia - Vivo en Luna Park",
       "url": "https://open.spotify.com/track/7lY5sUTwLclisN4n6iKBdz"
+    },
+    {
+      "added_at": "2024-10-10 22:03:33",
+      "album": {
+        "name": "En Vivo Obras",
+        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
+      },
+      "artists": [
+        {
+          "name": "Almafuerte",
+          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
+        }
+      ],
+      "duration_ms": 228144,
+      "name": "Toro y Pampa - En Vivo",
+      "url": "https://open.spotify.com/track/43c4oelxnp0cVeFZZ4L4QL"
     },
     {
       "added_at": "2024-10-10 22:03:33",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-10-10 22:03:33",
       "album": {
-        "name": "El Rock De Mi Vida",
-        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 263573,
-      "name": "Reyes de la Noche",
-      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
-    },
-    {
-      "added_at": "2024-10-10 22:03:33",
-      "album": {
         "name": "Repuesto de Fe (En Vivo)",
         "url": "https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 164933,
       "name": "Irresponsables - En Vivo",
       "url": "https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt"
+    },
+    {
+      "added_at": "2024-10-10 22:03:33",
+      "album": {
+        "name": "El Rock De Mi Vida",
+        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 263573,
+      "name": "Reyes de la Noche",
+      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
     },
     {
       "added_at": "2024-10-10 22:03:33",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-10-10 22:03:33",
       "album": {
-        "name": "Espejo Roto (Ac\u00fastico Gran Rex Vol. 2)",
-        "url": "https://open.spotify.com/album/4nRnE0UCMcJ8f5KauYk0np"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 269911,
-      "name": "Espejo Roto - Ac\u00fastico Gran Rex Vol. 2",
-      "url": "https://open.spotify.com/track/2Alvbv4IXQh0SpSVyZxBZK"
-    },
-    {
-      "added_at": "2024-10-10 22:03:33",
-      "album": {
         "name": "Vivo X la 25",
         "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 262866,
       "name": "Solo Voy - En Vivo",
       "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
+    },
+    {
+      "added_at": "2024-10-10 22:03:33",
+      "album": {
+        "name": "Espejo Roto (Ac\u00fastico Gran Rex Vol. 2)",
+        "url": "https://open.spotify.com/album/4nRnE0UCMcJ8f5KauYk0np"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 269911,
+      "name": "Espejo Roto - Ac\u00fastico Gran Rex Vol. 2",
+      "url": "https://open.spotify.com/track/2Alvbv4IXQh0SpSVyZxBZK"
     },
     {
       "added_at": "2024-10-10 22:03:33",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2024-10-10 22:03:33",
       "album": {
-        "name": "Sucio y Desprolijo (En Vivo Cosqu\u00edn Rock)",
-        "url": "https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR"
-      },
-      "artists": [
-        {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
-        },
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 333394,
-      "name": "Sucio y Desprolijo - En Vivo Cosqu\u00edn Rock",
-      "url": "https://open.spotify.com/track/76Bt5vjnbxyr0JmxZKToTW"
-    },
-    {
-      "added_at": "2024-10-10 22:03:33",
-      "album": {
         "name": "Ahora Vengo (Vivo Luna Park)",
         "url": "https://open.spotify.com/album/2GkgmWl8aK8vCThHX8UWSz"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 171306,
       "name": "Ahora Vengo - Vivo Luna Park",
       "url": "https://open.spotify.com/track/1ZnRsIPcOyiDlua5lEIE0B"
+    },
+    {
+      "added_at": "2024-10-10 22:03:33",
+      "album": {
+        "name": "Sucio y Desprolijo (En Vivo Cosqu\u00edn Rock)",
+        "url": "https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR"
+      },
+      "artists": [
+        {
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+        },
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 333394,
+      "name": "Sucio y Desprolijo - En Vivo Cosqu\u00edn Rock",
+      "url": "https://open.spotify.com/track/76Bt5vjnbxyr0JmxZKToTW"
     },
     {
       "added_at": "2024-10-10 22:03:33",

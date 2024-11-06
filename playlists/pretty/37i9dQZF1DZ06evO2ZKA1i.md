@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,179 likes - 52 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,194 likes - 52 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 51 | [The Gypsy \- 2009 Digital Remaster](https://open.spotify.com/track/3I0S6fO1aypYu55X3M2cHL) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 4:05 |
 | 52 | [Rat Bat Blue \- Remastered](https://open.spotify.com/track/7eUDIVvnoFyhkNqxXsmaqr) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Who Do We Think We Are \(Remastered\)](https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y) | 5:26 |
 
-Snapshot ID: `Zya9AAAAAACwpbIfeEiprRGLCT7CCNb/`
+Snapshot ID: `ZygOgAAAAAAsTLakHPZ3KOP4A/7nXtPq`

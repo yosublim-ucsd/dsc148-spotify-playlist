@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KN7YrOIxQD.md) - [plain]
 
 > Los éxitos del momento en Centroamérica\. Portada: Boza y Elena Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,158 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,172 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-1,335 songs - 3 day 0 hr 33 min
+1,337 songs - 3 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [1997](https://open.spotify.com/track/2bTeCQRI3qckVWtGGwYL98) | [Koni Blank](https://open.spotify.com/artist/231JwBdGdYBzCV8Eaj9XTb), [Empyre One](https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22) | [1997](https://open.spotify.com/album/5Vj3Vt3e6yKdKntX3AIiTw) | 4:16 | 2024-08-23 | 2024-08-31 |
 | [2 The Moon](https://open.spotify.com/track/5fbigfxYwz6fGGxe8Py57t) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA) | [2 The Moon](https://open.spotify.com/album/4jl6uAmBT25q5BtSxz2rRZ) | 3:05 | 2024-06-07 | 2024-06-17 |
 | [2024 XoXo](https://open.spotify.com/track/29N1UD1yTXU8ngPi0ctPNb) | [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy) | [2024 XoXo](https://open.spotify.com/album/3laulBu303RVaVah7TGlEA) | 3:26 | 2024-10-11 | 2024-10-22 |
+| [3RD EYE PORTAL](https://open.spotify.com/track/1GJbFqJ3aq6sLg1cuw053C) | [shaggyshwag](https://open.spotify.com/artist/7KQFFBiQ3evE9ZFodKDBfY) | [3RD EYE PORTAL](https://open.spotify.com/album/7rE3YiL6olNUVCl9aIndpA) | 3:43 | 2024-11-05 |  |
 | [4 AM](https://open.spotify.com/track/6LS3774BZi0uDWh7ks7uUi) | [Alarmin](https://open.spotify.com/artist/5EJimw4J7NPLFxG5dPscPM), [Zøie X](https://open.spotify.com/artist/6g9htvUdEJA5WrG8YX16gY) | [4 AM](https://open.spotify.com/album/1avwAILe1EKoT0yzL3sikg) | 3:51 | 2024-05-22 | 2024-05-25 |
 | [4EVR](https://open.spotify.com/track/2A3eCsmsW5ztqItagBLCVP) | [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [4EVR](https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB) | 3:15 | 2024-08-02 | 2024-08-09 |
 | [4U](https://open.spotify.com/track/2xwgWtJlylRCOJ9h9rCbIc) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [4U](https://open.spotify.com/album/4x0dpkxoEAYiqIKI3LAROt) | 3:38 | 2024-09-05 | 2024-09-13 |
@@ -1085,6 +1086,7 @@
 | [Solar Eclipse](https://open.spotify.com/track/6kcKGIrGNI8X6O7P43f07p) | [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Solar Eclipse](https://open.spotify.com/album/4o4tfBG0VotNVUHnn6mkm0) | 2:54 | 2024-09-26 | 2024-10-05 |
 | [Solitaire](https://open.spotify.com/track/61XaE8H0vddL76oXueZZt8) | [Yelow](https://open.spotify.com/artist/0GLDtPfnUd5hQ18yba1xDi), [Susie Ledge](https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ) | [Solitaire](https://open.spotify.com/album/7AaEg0zYWxtcPhHe5ltEVk) | 3:23 | 2024-05-30 | 2024-06-08 |
 | [SOMEBODY](https://open.spotify.com/track/4mhTDjGCgGXzL1vbKVI92P) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [SOMEBODY](https://open.spotify.com/album/0pP3Zk8HjoeKfSEPf8bF5p) | 2:32 | 2024-06-16 | 2024-06-21 |
+| [Somebody's Watching Me](https://open.spotify.com/track/4lZ2z5NLpRSK6Mz27OStPK) | [Of Love and Lust \- OLAL](https://open.spotify.com/artist/2ixhhj6kXIFLj6BOGpdrt0) | [Somebody's Watching Me](https://open.spotify.com/album/7ehR853zGsCH6wlJC6zIHe) | 4:08 | 2024-11-05 |  |
 | [Somedays](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Somedays](https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK) | 3:27 | 2024-07-25 | 2024-08-02 |
 | [Somedays \- Dombresky Remix](https://open.spotify.com/track/751KIBXXbsEoaHGvIVLRRn) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Somedays \(Dombresky Remix\)](https://open.spotify.com/album/10CinkYqwArHgBNujRZmQK) | 3:17 | 2024-10-11 | 2024-10-22 |
 | [Someone You Loved](https://open.spotify.com/track/0DFn6gpTjvLGhbtTLUHxLh) | [Danny Suko](https://open.spotify.com/artist/4LmA8fdViKiDkQChO1Tsag), [Dj Squared](https://open.spotify.com/artist/75Obng72MkIaKTFCgK1vKN) | [Someone You Loved](https://open.spotify.com/album/6a87gx0IIyElVAIf2HLaRL) | 2:57 | 2024-10-11 | 2024-10-22 |

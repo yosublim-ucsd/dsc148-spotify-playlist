@@ -2,7 +2,7 @@
 
 ### [Hardstyle Adrenaline! 2024](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
 
-> Updated weekly \| Hardstyle \| Cover: LNY TNZ
+> Updated weekly \| Hardstyle \| Cover: Dual Damage
 
 1,181 songs - 2 day 15 hr 18 min
 
@@ -710,7 +710,7 @@
 | [Ode To My Body](https://open.spotify.com/track/2UtT0Vbj38TUz5rYHy5fQE) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [Ode To My Body](https://open.spotify.com/album/3gaZDgOzdovrklfNvelPn7) | 3:37 | 2024-02-01 | 2024-03-23 |
 | [Oh Fortuna \- Carmina Burana](https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [SMVGGLERS](https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [Oh Fortuna](https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0) | 2:50 | 2023-05-25 | 2023-06-02 |
 | [OH SHIT](https://open.spotify.com/track/2SwZwthOSKcdsqBn2mfsur) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [OH SHIT](https://open.spotify.com/album/7gVEdgzeVxx3KGKxUC1sqm) | 2:47 | 2023-05-04 | 2023-05-12 |
-| [Oldschool](https://open.spotify.com/track/4JaGfWxUe3OpcwjUIjQG1I) | [Lucion](https://open.spotify.com/artist/2qczsfdtAomhH6VtcrvBGb), [Ebi](https://open.spotify.com/artist/3pI1XXzzKOYdYCLWurc2Ky) | [Oldschool](https://open.spotify.com/album/4LnUDHK46Ej6SqRfvC1gSA) | 2:54 | 2024-10-18 |  |
+| [Oldschool](https://open.spotify.com/track/4JaGfWxUe3OpcwjUIjQG1I) | [Lucion](https://open.spotify.com/artist/2qczsfdtAomhH6VtcrvBGb), [Ebi](https://open.spotify.com/artist/3pI1XXzzKOYdYCLWurc2Ky) | [Oldschool](https://open.spotify.com/album/4LnUDHK46Ej6SqRfvC1gSA) | 2:54 | 2024-10-18 | 2024-11-06 |
 | [Olympus](https://open.spotify.com/track/4ITTSSQ5RTqLqF9ldhpQul) | [Undefiant](https://open.spotify.com/artist/0HHZoGGxhwl5My16mWggVP) | [Olympus](https://open.spotify.com/album/57I5rsbCdmmGcWctOImwNW) | 3:25 | 2023-06-18 | 2023-06-23 |
 | [On Fire](https://open.spotify.com/track/6KTEkElC6L57LWsG6i14B5) | [ZIGGY X](https://open.spotify.com/artist/02c73sVTVC2NrbEjCdhU83), [Sedutchion](https://open.spotify.com/artist/3wXY3DwFG8BCDOHsAZrprD) | [On Fire](https://open.spotify.com/album/68zJzjpFXZmG0iz7QC46Pu) | 2:42 | 2022-12-08 | 2023-01-27 |
 | [On My Level](https://open.spotify.com/track/0s8GqG5R7cnJuG11QLqFsO) | [State of Deva](https://open.spotify.com/artist/7MyoSv4wg5VRYvoUBHdhJi), [KELVIN FARHEAVEN](https://open.spotify.com/artist/5SIKXBAzvyMedgwygTpc3X) | [On My Level](https://open.spotify.com/album/7K4OJ6AdTGlMnYLy8gCYsm) | 3:16 | 2024-10-25 |  |

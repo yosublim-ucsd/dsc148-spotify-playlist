@@ -538,7 +538,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 142040,
       "name": "Everyone Bleeds",
       "url": "https://open.spotify.com/track/4fTTSo54eiSHqL7sb93JMM"
@@ -752,10 +752,28 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 197133,
       "name": "I Am Not Okay",
       "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
+    },
+    {
+      "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198066,
+      "name": "I Am Not Okay",
+      "url": "https://open.spotify.com/track/3SaS0Va6o6jYkWvadT86C6"
     },
     {
       "album": {

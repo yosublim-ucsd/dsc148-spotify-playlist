@@ -2,7 +2,7 @@
 
 ### [MEXCLA](https://open.spotify.com/playlist/37i9dQZF1DWVACbHMzNf0B)
 
-> 2 y 3 de noviembre en el Parque Bicentenario 🤠 Consigue tus boletos <a href="https://bit.ly/mexcla\_playlist"> AQUÍ</a> Luis R Conriquez en portada.
+> ¡Gracias por vivir MEXCLA con nosotros! ✨💚 Luis R Conriquez en portada.
 
 631 songs - 1 day 9 hr 27 min
 

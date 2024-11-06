@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 
 > Favor de hacer doble fila para bailar estos cumbiones ¡Súbale hay lugares!
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,939 likes - 125 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,106 likes - 125 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 | 68 | [Cumbia de los Pajaritos](https://open.spotify.com/track/0fNwZHd0wq3eQEOppEqUEG) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:51 |
 | 69 | [Ya No Estàs Aquì](https://open.spotify.com/track/6hoGyBraWOkZ5XunICrx7E) | [Grupo Cumbia Nova](https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw) | [Ya No Estàs Aquì](https://open.spotify.com/album/7ABWSjRh6gp8dVjnFIRvgE) | 4:22 |
 | 70 | [Llorando Se Fue "Lambada"](https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [El Auténtico e Imbatible](https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62) | 3:28 |
-| 71 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
-| 72 | [Nuestra Historia Termino](https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF), [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc), [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [Nuestra Historia Termino](https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf) | 3:54 |
+| 71 | [Nuestra Historia Termino](https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF), [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc), [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [Nuestra Historia Termino](https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf) | 3:54 |
+| 72 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
 | 73 | [Escándalo](https://open.spotify.com/track/1MDqUM1XbzZ2wei3mrpPbA) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Juntos Por La Sonora](https://open.spotify.com/album/0exIxyDjKib8Qbc7RTeIG5) | 4:38 |
 | 74 | [Hay El Amor](https://open.spotify.com/track/1H44XT1xN2Ubxa2wLqjCDT) | [Yulios Kumbia](https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH) | [Hay El Amor](https://open.spotify.com/album/3oIHwQmrJ8MwEx00jIT1tK) | 3:04 |
 | 75 | [La Vampiresa](https://open.spotify.com/track/06uyFPb72xxh5takZ206Of) | [Explosion Colombiana De Ortiz Ortiz](https://open.spotify.com/artist/0TnUsXdjrYnKIU6BCBbWop) | [La Vampiresa](https://open.spotify.com/album/2zwdkKmfduNetGgWDlUM3T) | 5:14 |

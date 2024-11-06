@@ -1,6 +1,6 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 25007,
+  "num_followers": 25022,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB"
+        "name": "Marshmallow",
+        "url": "https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx"
       },
       "artists": [
         {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
         }
       ],
-      "duration_ms": 224786,
-      "name": "Wonderland",
-      "url": "https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i"
+      "duration_ms": 182321,
+      "name": "Marshmallow",
+      "url": "https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "Marshmallow",
-        "url": "https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx"
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB"
       },
       "artists": [
         {
-          "name": "MISAMO",
-          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
         }
       ],
-      "duration_ms": 182321,
-      "name": "Marshmallow",
-      "url": "https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84"
+      "duration_ms": 224786,
+      "name": "Wonderland",
+      "url": "https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -723,34 +723,6 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "I gotta go (feat. Hiplin, WILYWNKA & kojikoji)",
-        "url": "https://open.spotify.com/album/3ABotZ0kjriT2TgaVIwo2y"
-      },
-      "artists": [
-        {
-          "name": "GeG",
-          "url": "https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi"
-        },
-        {
-          "name": "Hiplin",
-          "url": "https://open.spotify.com/artist/7kBLcEkquJFcV7lk9MkKBM"
-        },
-        {
-          "name": "WILYWNKA",
-          "url": "https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy"
-        },
-        {
-          "name": "kojikoji",
-          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
-        }
-      ],
-      "duration_ms": 312972,
-      "name": "I gotta go (feat. Hiplin, WILYWNKA & kojikoji)",
-      "url": "https://open.spotify.com/track/5EBsireOwbvRqFb0md9BDu"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
         "name": "replica",
         "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
@@ -779,6 +751,34 @@
       "duration_ms": 199117,
       "name": "\u611b\u304c\u706f\u308b",
       "url": "https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
+        "name": "I gotta go (feat. Hiplin, WILYWNKA & kojikoji)",
+        "url": "https://open.spotify.com/album/3ABotZ0kjriT2TgaVIwo2y"
+      },
+      "artists": [
+        {
+          "name": "GeG",
+          "url": "https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi"
+        },
+        {
+          "name": "Hiplin",
+          "url": "https://open.spotify.com/artist/7kBLcEkquJFcV7lk9MkKBM"
+        },
+        {
+          "name": "WILYWNKA",
+          "url": "https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy"
+        },
+        {
+          "name": "kojikoji",
+          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
+        }
+      ],
+      "duration_ms": 312972,
+      "name": "I gotta go (feat. Hiplin, WILYWNKA & kojikoji)",
+      "url": "https://open.spotify.com/track/5EBsireOwbvRqFb0md9BDu"
     },
     {
       "added_at": "2024-10-22 15:00:00",

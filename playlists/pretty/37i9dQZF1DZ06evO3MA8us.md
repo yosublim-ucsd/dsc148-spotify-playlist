@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 
 > This is Passion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,007 likes - 51 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,009 likes - 51 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 50 | [Christ Our King \- Live From Camp](https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Live From Camp](https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1) | 6:05 |
 | 51 | [The Stand \- Live](https://open.spotify.com/track/57uVEAkBfidAvupugoVuHZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Awakening \(Live\)](https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54) | 6:08 |
 
-Snapshot ID: `Zya9AAAAAACgnn4dBqlwsIOIUK/iSM+O`
+Snapshot ID: `ZygOgAAAAABF+TNXNjj1YupDRZtvaDc8`

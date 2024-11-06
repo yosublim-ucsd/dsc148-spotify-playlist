@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 11518,
+  "num_followers": 11525,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAAAg8Vael7YLcjtNRknkZB2W",
+  "snapshot_id": "ZygOgAAAAAAFPKlx+tQwSLmeh2PGybxm",
   "tracks": [
     {
       "added_at": null,
@@ -231,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/2NurBGrvfdiNz5GnzvYh1u"
-      },
-      "artists": [
-        {
-          "name": "Praiz",
-          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 224444,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/73gG9GzysDFMjiLvFG1WHI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JAMZ",
         "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 206000,
       "name": "Better Days (feat. BNXN fka Buju)",
       "url": "https://open.spotify.com/track/0ou0qN9oPjJ442ZHrEksLx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/2NurBGrvfdiNz5GnzvYh1u"
+      },
+      "artists": [
+        {
+          "name": "Praiz",
+          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/73gG9GzysDFMjiLvFG1WHI"
     },
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Strength Of A Woman (feat. Stonebwoy)",
-      "url": "https://open.spotify.com/track/73kjMOJYDiMpcfxPEcdMqQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/2OASYXR3lBYmnNKIT26hdq"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 201433,
       "name": "La Familia",
       "url": "https://open.spotify.com/track/6rjkvAGpEeyf67CAM9Lb09"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Strength Of A Woman (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/73kjMOJYDiMpcfxPEcdMqQ"
     },
     {
       "added_at": null,
@@ -459,6 +459,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Highest",
+        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Yung L",
+          "url": "https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq"
+        }
+      ],
+      "duration_ms": 201750,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/5KLFqxmGAZKj3HpGzExiZR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
       },
@@ -479,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highest",
-        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
+        "name": "Coachella",
+        "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
       },
       "artists": [
         {
@@ -488,13 +508,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Yung L",
-          "url": "https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq"
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         }
       ],
-      "duration_ms": 201750,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/5KLFqxmGAZKj3HpGzExiZR"
+      "duration_ms": 185196,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
     },
     {
       "added_at": null,
@@ -519,22 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coachella",
-        "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
+        "name": "Anointing",
+        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 185196,
-      "name": "Coachella",
-      "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
+      "duration_ms": 216546,
+      "name": "Anointing",
+      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
     },
     {
       "added_at": null,
@@ -575,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anointing",
-        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "Anointing",
-      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Happy Day",
         "url": "https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sarkology",
-        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 247462,
-      "name": "Original",
-      "url": "https://open.spotify.com/track/3RI4zqzeqTBAXFe2q2HPe5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rapperholic",
         "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 225625,
       "name": "U Go Kill Me (feat. El)",
       "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 247462,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/3RI4zqzeqTBAXFe2q2HPe5"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tonga",
-        "url": "https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8"
-      },
-      "artists": [
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Tonga",
-      "url": "https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oofeets",
         "url": "https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 226666,
       "name": "Oofeets",
       "url": "https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tonga",
+        "url": "https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 202346,
+      "name": "Tonga",
+      "url": "https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V"
     },
     {
       "added_at": null,

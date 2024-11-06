@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 143 | [We've Been Here Before](https://open.spotify.com/track/5Jqrw4v1IOgoKdrPeswPKt) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [17 \- EP](https://open.spotify.com/album/6MRKuygv9ooGp2QPUyT4qk) | 3:01 |
 | 144 | [Therapy](https://open.spotify.com/track/2bjRu9zvmzsHcWFcvg9Wek) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [James Hart](https://open.spotify.com/artist/7EEz8argPRkpyE5cFJpyi5) | [Red Lips](https://open.spotify.com/album/6huDs4K7QvGIkFvHBYbfd1) | 3:38 |
 | 145 | [Money](https://open.spotify.com/track/5no9qgBHjIokSpqZsdTtda) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Unfinished Business \(Deluxe\)](https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X) | 3:18 |
-| 146 | [Money On You \- The Voice Performance](https://open.spotify.com/track/35ap6ekPdkGkiUkWfWhZB4) | [Chris Blue](https://open.spotify.com/artist/4urap4WzzvxwW5cC12CBGv) | [The Complete Season 12 Collection \(The Voice Performance\)](https://open.spotify.com/album/7sjWAx2gyKqItDbxTTeAjf) | 3:14 |
-| 147 | [MUSCLE](https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MUSCLE](https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH) | 2:29 |
+| 146 | [MUSCLE](https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MUSCLE](https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH) | 2:29 |
+| 147 | [Money On You \- The Voice Performance](https://open.spotify.com/track/35ap6ekPdkGkiUkWfWhZB4) | [Chris Blue](https://open.spotify.com/artist/4urap4WzzvxwW5cC12CBGv) | [The Complete Season 12 Collection \(The Voice Performance\)](https://open.spotify.com/album/7sjWAx2gyKqItDbxTTeAjf) | 3:14 |
 | 148 | [All The Time](https://open.spotify.com/track/19GhAhZTkpC0FXuL8n5NQQ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Girl Problems](https://open.spotify.com/album/6toYxO6NCaUTUI0g5w2CEq) | 3:28 |
 | 149 | [Labels](https://open.spotify.com/track/3r8evU1djaHU2iJpcZ8hKN) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Kool Aid](https://open.spotify.com/album/4bDfdcqRQqnxwEbp24xNdg) | 3:11 |
 | 150 | [Show Me](https://open.spotify.com/track/7JJ7S5bgyGFf0OUU0ftSyt) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [idina.](https://open.spotify.com/album/3jXpXBlvGdt0LHZ2CqBg3K) | 5:02 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 180 | [All My Life](https://open.spotify.com/track/15l0pOOpIL11xt2JoWKthY) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:36 |
 | 181 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 
-Snapshot ID: `AbgoqgAAAABtFsYDvBKzxoYSaHPP3DZF`
+Snapshot ID: `AbguSgAAAAD5hT2rBQy0k+PB5AJ4RL7/`

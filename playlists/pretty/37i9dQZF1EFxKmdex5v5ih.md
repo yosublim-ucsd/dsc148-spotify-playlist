@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,110 likes - 299 songs - 16 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,111 likes - 299 songs - 16 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,8 +189,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 179 | [Footprints](https://open.spotify.com/track/6W1WqOE3Wd5AnZbL149Xfy) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Footprints](https://open.spotify.com/album/5vk7PQrawbv5FJtWHYUK9i) | 4:13 |
 | 180 | [Someone I Could Die For](https://open.spotify.com/track/7cJrXfaHHNbUKgZwJ90DfA) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:26 |
 | 181 | [Conversations](https://open.spotify.com/track/3MvTNChVxHQyUBnHfKc9Yg) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 3:04 |
-| 182 | [Where Were You](https://open.spotify.com/track/1v2sakRkTMhPMVLU4IMyUB) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [The Shack: Music From and Inspired By the Original Motion Picture](https://open.spotify.com/album/40JDNqFUzKmBSMEfDHPztO) | 3:07 |
-| 183 | [The Older You Get](https://open.spotify.com/track/3wtuQJ5cWlAmDp0exZwLe3) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [The Older You Get](https://open.spotify.com/album/71omgibBrjAY4OhP5pGnfZ) | 3:36 |
+| 182 | [The Older You Get](https://open.spotify.com/track/3wtuQJ5cWlAmDp0exZwLe3) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [The Older You Get](https://open.spotify.com/album/71omgibBrjAY4OhP5pGnfZ) | 3:36 |
+| 183 | [Where Were You](https://open.spotify.com/track/1v2sakRkTMhPMVLU4IMyUB) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [The Shack: Music From and Inspired By the Original Motion Picture](https://open.spotify.com/album/40JDNqFUzKmBSMEfDHPztO) | 3:07 |
 | 184 | [Marry Me \- Ballad](https://open.spotify.com/track/70h2rOY9K2UbTzvGNun6XK) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 3:33 |
 | 185 | [Sunset](https://open.spotify.com/track/1qYnqHydtG4iV9YenAz8Ux) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Deluxe Edition\)](https://open.spotify.com/album/2zbfishc70HpcgMu8ymtri) | 4:04 |
 | 186 | [Timebomb \(feat\. MOD SUN\)](https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Timebomb \(feat\. MOD SUN\)](https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU) | 3:02 |
@@ -224,10 +224,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 214 | [Fall into You](https://open.spotify.com/track/1AeSZVz9UrF4m5kQ7KPmUu) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Dancing In The Dark](https://open.spotify.com/album/0735UJg7bIwGmv28e7zQOF) | 2:38 |
 | 215 | [dark times](https://open.spotify.com/track/67dauMD2RclztbZPgMDBKk) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 4:06 |
 | 216 | [What Ifs](https://open.spotify.com/track/2R3B2XsVx0SadBO1N8dSBq) | [Angourie Rice](https://open.spotify.com/artist/2WBxsfNZRSQriRDgDgWkTO) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 1:58 |
-| 217 | [chasing you](https://open.spotify.com/track/1b9FE0PI47eaWSPrfBW66I) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:02 |
-| 218 | [Undertone](https://open.spotify.com/track/0JeAo18bs3edkTQ30aZtih) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:16 |
-| 219 | [Amore \(feat\. Rick Ross\)](https://open.spotify.com/track/77AyJAWtrpoyi9ZDW4dn46) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:54 |
-| 220 | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW) | 3:35 |
+| 217 | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW) | 3:35 |
+| 218 | [chasing you](https://open.spotify.com/track/1b9FE0PI47eaWSPrfBW66I) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:02 |
+| 219 | [Undertone](https://open.spotify.com/track/0JeAo18bs3edkTQ30aZtih) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:16 |
+| 220 | [Amore \(feat\. Rick Ross\)](https://open.spotify.com/track/77AyJAWtrpoyi9ZDW4dn46) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:54 |
 | 221 | [The Good & The Bad](https://open.spotify.com/track/6LD4m5kbjSemWJaA9DdEIp) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [The Good & The Bad](https://open.spotify.com/album/19HUwMGdjDSb7AnO2UXFIM) | 3:57 |
 | 222 | [Polkamania!](https://open.spotify.com/track/1GXIST9gaPpWcRrRhHUcJb) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Polkamania!](https://open.spotify.com/album/1gqDuax64n9FHQxaFlyobc) | 4:06 |
 | 223 | [come back](https://open.spotify.com/track/1QwRhyt1sjYJXAWzFCBjuE) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:36 |
@@ -264,8 +264,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 254 | [The Other Side](https://open.spotify.com/track/0nHeGy8AW70D8sGlXQ40D6) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ), [Chester See](https://open.spotify.com/artist/2iTiSaR023IikZDaOfEIRR) | [The Greatest Showman A Cappella](https://open.spotify.com/album/1jdS2Z2L7De7iyK68vLFeS) | 3:28 |
 | 255 | [Typical](https://open.spotify.com/track/5sGTgu8E6XIUcYX6KbAaW9) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Typical](https://open.spotify.com/album/52EEYalE16TZY5EkdDr5zX) | 2:10 |
 | 256 | [Honeymind](https://open.spotify.com/track/6YaCwYtJIDlchaC4bJ9N1g) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 3:19 |
-| 257 | [Eternity](https://open.spotify.com/track/1sGPx5DZ5ADHoFxHgqVpzJ) | [PIKASONIC](https://open.spotify.com/artist/2hfoi6OmVRrLmZG1huaD1e) | [Memory](https://open.spotify.com/album/13xiFFc0cBN88k8Nb3X9oR) | 4:28 |
-| 258 | [Real Good Love](https://open.spotify.com/track/6E7D5c2DAP9y5jdaUevLg8) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [The Hard Way](https://open.spotify.com/album/4IVyKEuxf8LmxwX0Ltki0N) | 2:52 |
+| 257 | [Real Good Love](https://open.spotify.com/track/6E7D5c2DAP9y5jdaUevLg8) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [The Hard Way](https://open.spotify.com/album/4IVyKEuxf8LmxwX0Ltki0N) | 2:52 |
+| 258 | [Eternity](https://open.spotify.com/track/1sGPx5DZ5ADHoFxHgqVpzJ) | [PIKASONIC](https://open.spotify.com/artist/2hfoi6OmVRrLmZG1huaD1e) | [Memory](https://open.spotify.com/album/13xiFFc0cBN88k8Nb3X9oR) | 4:28 |
 | 259 | [Think of Me](https://open.spotify.com/track/3STEusKGtRFiQdVQfAdNik) | [HARIZ](https://open.spotify.com/artist/2bhndespnMFNIut7yIlThU) | [Reminisce](https://open.spotify.com/album/2Jzx2YNhAFk8db6cKjWPub) | 3:07 |
 | 260 | [Loving Nobody](https://open.spotify.com/track/4FnrwHQLcbOwhUjb983ifW) | [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Loving Nobody](https://open.spotify.com/album/10uNdRKtd9wW6SlXRlRFyo) | 3:03 |
 | 261 | [Autopsy](https://open.spotify.com/track/4zotA5C9wM08d4vlXuioqb) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Identity \(Deluxe Edition\)](https://open.spotify.com/album/1LuX04eXLkZjPhgShQ6JNe) | 3:48 |
@@ -308,4 +308,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 298 | [Ghost Town](https://open.spotify.com/track/3psN2n0AqdpDY2pyY3P6uW) | [David Michael Ross](https://open.spotify.com/artist/2irkthky57ha2MXa6Owuwu) | [Guitaro](https://open.spotify.com/album/1AmQN4zcNgNBlSaSYWa3QC) | 4:07 |
 | 299 | [With or Without \- Live](https://open.spotify.com/track/4pVx0df00wwPN8IkbZBWda) | [R.A.H](https://open.spotify.com/artist/4Rz6ZsosxzkgkGqKFqYXNG) | [Live From The Roof](https://open.spotify.com/album/0MIbD4UmCfjcnOhBcSPPv1) | 6:42 |
 
-Snapshot ID: `AbgoqgAAAABd1iAHXZWmwBPWv0XCSHCM`
+Snapshot ID: `AbguSgAAAABNTAd9l9CpeFgW2MZENhlB`

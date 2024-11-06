@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-776 songs - 1 day 9 hr 38 min
+777 songs - 1 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -665,6 +665,7 @@
 | [The Light Of That Morning](https://open.spotify.com/track/3hA4o2GOVotNTAzZEY7kBj) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Light Of That Morning](https://open.spotify.com/album/6uAyUcY2newV2vsoPiBLdV) | 2:34 | 2023-05-03 | 2024-03-19 |
 | [The Lighthouse keeper](https://open.spotify.com/track/0pW7fhQB5zr1hTrEpPsuJc) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [The Lighthouse keeper](https://open.spotify.com/album/3kb1qnpFKZ09wOtBBOX5fP) | 3:03 | 2022-04-27 |  |
 | [The Lights Around the Shore](https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [The Lights Around the Shore](https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6) | 2:51 | 2024-01-05 |  |
+| [The Melting Sun](https://open.spotify.com/track/1fFEpC7OcocrA4zqrWMSlP) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [The Melting Sun](https://open.spotify.com/album/4YqdTFxhcRMEWdYoNPjCcO) | 2:07 | 2024-11-05 |  |
 | [The Owl](https://open.spotify.com/track/0YFMpvuxexjjj8lZKYRCrD) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [The Owl](https://open.spotify.com/album/4D5mDIlOrgRAXMO4hOhYXo) | 2:59 | 2022-04-15 | 2022-05-14 |
 | [The Phenomenon](https://open.spotify.com/track/6QCddEiJ7fLtmoGsq1kWdq) | [Macauley Hubert](https://open.spotify.com/artist/0XeGtlvUw6IYSA0HY3rjF8) | [The Phenomenon](https://open.spotify.com/album/5Z143iLwtuMHwu5NvUafJh) | 2:30 | 2022-04-15 | 2023-04-13 |
 | [The Pond](https://open.spotify.com/track/1sKzQ5CXYSKKeeKyfLf5H3) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [The Pond](https://open.spotify.com/album/6aNc4dlBFw27rfDeNJxTbY) | 1:46 | 2022-06-07 | 2022-11-19 |

@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 342431,
+  "num_followers": 342601,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "Resting Place (To the Cross)",
+        "url": "https://open.spotify.com/album/0Dvdd8C1sQ7g9wDsNJ0bWM"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 243346,
+      "name": "Resting Place (To the Cross)",
+      "url": "https://open.spotify.com/track/016DP00vwMNLR10fT8jQka"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "In Bloom",
         "url": "https://open.spotify.com/album/1p2mOtXzL6GZV5NMuap85T"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 193000,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Resting Place (To the Cross)",
-        "url": "https://open.spotify.com/album/0Dvdd8C1sQ7g9wDsNJ0bWM"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 243346,
-      "name": "Resting Place (To the Cross)",
-      "url": "https://open.spotify.com/track/016DP00vwMNLR10fT8jQka"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "Stay Close",
+        "url": "https://open.spotify.com/album/7oYNsctXYKRxdbcvrvXXmN"
+      },
+      "artists": [
+        {
+          "name": "Austin Sebek",
+          "url": "https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8"
+        }
+      ],
+      "duration_ms": 194716,
+      "name": "Stay Close",
+      "url": "https://open.spotify.com/track/3OAL4fkGJ2sImt2Lhy4D7V"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "Saving Me Still",
         "url": "https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 244746,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Stay Close",
-        "url": "https://open.spotify.com/album/7oYNsctXYKRxdbcvrvXXmN"
-      },
-      "artists": [
-        {
-          "name": "Austin Sebek",
-          "url": "https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8"
-        }
-      ],
-      "duration_ms": 194716,
-      "name": "Stay Close",
-      "url": "https://open.spotify.com/track/3OAL4fkGJ2sImt2Lhy4D7V"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "\u2020 (just the cross)",
-        "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
-      },
-      "artists": [
-        {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
-        }
-      ],
-      "duration_ms": 398333,
-      "name": "\u2020 (just the cross) - Live",
-      "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2"
       },
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "\u2020 (just the cross)",
+        "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "duration_ms": 398333,
+      "name": "\u2020 (just the cross) - Live",
+      "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "How Can I",
         "url": "https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 274373,
       "name": "How Can I",
       "url": "https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "I Will Sing",
+        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
+      },
+      "artists": [
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "duration_ms": 254488,
+      "name": "I Will Sing",
+      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "I Will Sing",
-        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
-      },
-      "artists": [
-        {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
-        }
-      ],
-      "duration_ms": 254488,
-      "name": "I Will Sing",
-      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Fortress (Acoustic)",
         "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 249485,
       "name": "Fortress (Acoustic)",
       "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 213453,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1147,22 +1163,6 @@
       "duration_ms": 254118,
       "name": "Not in a Hurry - Reimagined",
       "url": "https://open.spotify.com/track/2xrCrLzMb2tfWISosDOqqX"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Teach Me",
-        "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 213453,
-      "name": "Teach Me",
-      "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Stained Glass",
-        "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
-      },
-      "artists": [
-        {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
-        }
-      ],
-      "duration_ms": 317509,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Who May Ascend",
         "url": "https://open.spotify.com/album/5tlyBPuMZQeuXT0SzsitGG"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 296000,
       "name": "Who May Ascend",
       "url": "https://open.spotify.com/track/4hD29U9zLHZrVOCcaBPeoo"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Stained Glass",
+        "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
+      },
+      "artists": [
+        {
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+        }
+      ],
+      "duration_ms": 317509,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Maybe Just Maybe",
-        "url": "https://open.spotify.com/album/564N7BUtsNurbaPUL5FRg8"
-      },
-      "artists": [
-        {
-          "name": "Becky Higg",
-          "url": "https://open.spotify.com/artist/5ttP4RmwYgmSnhINrRavZv"
-        }
-      ],
-      "duration_ms": 319552,
-      "name": "Like the Dawn",
-      "url": "https://open.spotify.com/track/1RH9Nsu2iiShLD1enwFLaC"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "You Never Break a Promise",
         "url": "https://open.spotify.com/album/2hmFbkOIyuU2tInHCMWCzA"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 337760,
       "name": "You Never Break a Promise",
       "url": "https://open.spotify.com/track/6T9fv9tlmxc0RyaHp8HsR8"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Maybe Just Maybe",
+        "url": "https://open.spotify.com/album/564N7BUtsNurbaPUL5FRg8"
+      },
+      "artists": [
+        {
+          "name": "Becky Higg",
+          "url": "https://open.spotify.com/artist/5ttP4RmwYgmSnhINrRavZv"
+        }
+      ],
+      "duration_ms": 319552,
+      "name": "Like the Dawn",
+      "url": "https://open.spotify.com/track/1RH9Nsu2iiShLD1enwFLaC"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "It Goes Both Ways",
-        "url": "https://open.spotify.com/album/0oK55mBAQglpapd3cEjKh8"
-      },
-      "artists": [
-        {
-          "name": "Sam Wilson",
-          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
-        }
-      ],
-      "duration_ms": 222992,
-      "name": "It Goes Both Ways",
-      "url": "https://open.spotify.com/track/61agJFeawepC25zhwZgP5Y"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Teach Us That One Song",
         "url": "https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 354223,
       "name": "Teach Us That One Song",
       "url": "https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "It Goes Both Ways",
+        "url": "https://open.spotify.com/album/0oK55mBAQglpapd3cEjKh8"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+        }
+      ],
+      "duration_ms": 222992,
+      "name": "It Goes Both Ways",
+      "url": "https://open.spotify.com/track/61agJFeawepC25zhwZgP5Y"
     },
     {
       "added_at": "2024-08-03 00:38:12",

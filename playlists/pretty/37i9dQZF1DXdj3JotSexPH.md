@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 
 > اضغط للبدء
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,105 likes - 79 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,098 likes - 79 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 65 | [Hiroshima](https://open.spotify.com/track/50CSLj1uwXwutKGyarD63g) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Batn Al Shaer](https://open.spotify.com/album/3TJe6YsGmLSZSsoQKLdcM8) | 1:38 |
 | 66 | [3al hady](https://open.spotify.com/track/2xo7e1lWaLrmHqRyITPSlT) | [Uglymoss](https://open.spotify.com/artist/0FnIoDE1vDMSPMCXpfmLFW) | [3al hady](https://open.spotify.com/album/1Ae5dRJaDBUqCjTE33f15F) | 2:48 |
 | 67 | [Dabbaba](https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Dabbaba](https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv) | 2:09 |
-| 68 | [فويقو](https://open.spotify.com/track/4LWi9iKjOWbFnL21uqts6G) | [Abdullah Trill](https://open.spotify.com/artist/0RdQVXvBEJSwpdfMfwfHOD) | [فويقو](https://open.spotify.com/album/2iCQwd97pVX6TR4jzE2IE0) | 2:12 |
-| 69 | [شفت](https://open.spotify.com/track/6NAlHGjMcLv1JBfmJCabKs) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw) | [شفت](https://open.spotify.com/album/6CnP4TxSVUVg13UrMTPRfX) | 2:03 |
+| 68 | [شفت](https://open.spotify.com/track/6NAlHGjMcLv1JBfmJCabKs) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw) | [شفت](https://open.spotify.com/album/6CnP4TxSVUVg13UrMTPRfX) | 2:03 |
+| 69 | [فويقو](https://open.spotify.com/track/4LWi9iKjOWbFnL21uqts6G) | [Abdullah Trill](https://open.spotify.com/artist/0RdQVXvBEJSwpdfMfwfHOD) | [فويقو](https://open.spotify.com/album/2iCQwd97pVX6TR4jzE2IE0) | 2:12 |
 | 70 | [Khalisni](https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp) | [Saud G](https://open.spotify.com/artist/76VXSNBSY5pbsYgMe2dTYZ), [Ahmedoo Biggie](https://open.spotify.com/artist/4srnmX4lNfxOKYNA8gdRMy) | [Khalisni](https://open.spotify.com/album/3gYH2ky5iZ1SaKNveeP378) | 3:09 |
 | 71 | [براند](https://open.spotify.com/track/0bMkuGfY0DFEfZ3Y5szHpx) | [Khalz](https://open.spotify.com/artist/6Ypyp6sAbGndh7J0EMfope), [MOHAMEDMEM](https://open.spotify.com/artist/4V2oeE3lVCRjk6GnL0fsBI) | [براند](https://open.spotify.com/album/02adwhzPLgQhBCiAHW3oZe) | 2:37 |
 | 72 | [FLOATING](https://open.spotify.com/track/6dH6sNqJ0V70apdyR7mMSZ) | [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS) | [Floating](https://open.spotify.com/album/2VRJeL1urQDxXkIvPCCa6s) | 3:11 |

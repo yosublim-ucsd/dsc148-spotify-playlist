@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos de la mano de sus más grandes intérpretes\. Foto: Soledad
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,835 likes - 150 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,850 likes - 150 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 48 | [Cancion del Adios](https://open.spotify.com/track/6BklLF2QyVlNyKVj41yEFf) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Horacio Guarany](https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT) | 3:09 |
 | 49 | [Alma Guaraní](https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm) | [Correntinas II](https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct) | 2:36 |
 | 50 | [Ay Vidita](https://open.spotify.com/track/4GUppnqduxOfD6qmsQkGZe) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Los Tekis\-Los Elegidos](https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft) | 3:20 |
-| 51 | [Zamba para Decir Adiós](https://open.spotify.com/track/7JG9cdNOvJPwUu5sjEfsL0) | [Argentino Luna](https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs) | [De Colección](https://open.spotify.com/album/6TMGYks1T9yjraH2TIYzm0) | 3:33 |
-| 52 | [Balderrama](https://open.spotify.com/track/6OrNV36QIdZJDOSbV21fYC) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Balderrama](https://open.spotify.com/album/4SYoVh3GuXBVkvxkcYuinz) | 4:10 |
+| 51 | [Balderrama](https://open.spotify.com/track/6OrNV36QIdZJDOSbV21fYC) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Balderrama](https://open.spotify.com/album/4SYoVh3GuXBVkvxkcYuinz) | 4:10 |
+| 52 | [Zamba para Decir Adiós](https://open.spotify.com/track/7JG9cdNOvJPwUu5sjEfsL0) | [Argentino Luna](https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs) | [De Colección](https://open.spotify.com/album/6TMGYks1T9yjraH2TIYzm0) | 3:33 |
 | 53 | [Zamba Del Negro Alegre](https://open.spotify.com/track/7surOH29RMSvRAdInzGhLU) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Romance De Luna Y Flor](https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe) | 3:03 |
 | 54 | [Córdoba Sin Ti](https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Grandes Éxitos](https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS) | 3:47 |
 | 55 | [Y Va Pasando la Vida](https://open.spotify.com/track/09yvQeZIRvECwGGg964mz0) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [El Estilo Romántico](https://open.spotify.com/album/772LrlucinRlQP8KlOfaF2) | 3:40 |
@@ -107,10 +107,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 97 | [Posadeña Linda](https://open.spotify.com/track/4KcFK0hcj843zVpssjAMBe) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT), [Sergio Galleguillo](https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt) | [Posadeña Linda](https://open.spotify.com/album/4uusF4qOg0PlRtcdmBevMC) | 4:31 |
 | 98 | [Lucero Cantor](https://open.spotify.com/track/5Rr0MwgF3sDqch1brtSunL) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Los Copla](https://open.spotify.com/album/67f8qJ03gPtnrQFeMnIa0k) | 3:14 |
 | 99 | [Chibidon](https://open.spotify.com/track/3AYQhu2ISuQEd8lBJDIpXD) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Cantas Tú, Canto Yo](https://open.spotify.com/album/5URTFnqKE3e1MINrqVjAgF) | 3:39 |
-| 100 | [El Gualambáo \- Grabación Original 1959](https://open.spotify.com/track/6C47UVs9GGfx43i03ZThIr) | [Ramón Ayala El Mensú](https://open.spotify.com/artist/6VBeD0MxrxKKw7FDK8FwhB) | [Monte Adentro](https://open.spotify.com/album/6LNqyYmm1jIyMCJcUEBBfR) | 2:03 |
-| 101 | [La olvidada](https://open.spotify.com/track/6nu6eQFJtv6Ihy60HvxI4l) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Jorge Cafrune 18 temas](https://open.spotify.com/album/4kxlEuKNnVnUkuLM2EpY9k) | 2:13 |
-| 102 | [Adonde Están los Pájaros Que Mueren](https://open.spotify.com/track/01Cmz4ZEG6PQdSKBrAdf8m) | [El Chango Nieto](https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM) | [Toda Una Vida](https://open.spotify.com/album/121Kqyyc83tndCB8NWb9Gt) | 3:26 |
-| 103 | [Lloraré](https://open.spotify.com/track/3URJ8j0Z8yAXTigCzhvYrV) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [22 Grandes Exitos](https://open.spotify.com/album/4VcoE025pFB2BLm9fhgg6T) | 3:10 |
+| 100 | [La olvidada](https://open.spotify.com/track/6nu6eQFJtv6Ihy60HvxI4l) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Jorge Cafrune 18 temas](https://open.spotify.com/album/4kxlEuKNnVnUkuLM2EpY9k) | 2:13 |
+| 101 | [El Gualambáo \- Grabación Original 1959](https://open.spotify.com/track/6C47UVs9GGfx43i03ZThIr) | [Ramón Ayala El Mensú](https://open.spotify.com/artist/6VBeD0MxrxKKw7FDK8FwhB) | [Monte Adentro](https://open.spotify.com/album/6LNqyYmm1jIyMCJcUEBBfR) | 2:03 |
+| 102 | [Lloraré](https://open.spotify.com/track/3URJ8j0Z8yAXTigCzhvYrV) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [22 Grandes Exitos](https://open.spotify.com/album/4VcoE025pFB2BLm9fhgg6T) | 3:10 |
+| 103 | [Adonde Están los Pájaros Que Mueren](https://open.spotify.com/track/01Cmz4ZEG6PQdSKBrAdf8m) | [El Chango Nieto](https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM) | [Toda Una Vida](https://open.spotify.com/album/121Kqyyc83tndCB8NWb9Gt) | 3:26 |
 | 104 | [Camino al Amor](https://open.spotify.com/track/0RvY0zu9rB1CKW0FwNr627) | [Peteco Carabajal](https://open.spotify.com/artist/2v28P580xseflEKfwYtIb6) | [Grandes Exitos \(Serie De Oro\)](https://open.spotify.com/album/3rEBrFbu2Gf4jeg6Rjzo0T) | 2:25 |
 | 105 | [Tonada del viejo amor](https://open.spotify.com/track/65D0PzyFvb20eFe6FOzgif) | [Patricio Villarejo](https://open.spotify.com/artist/0JkIG94rcts9CuTMPIuMVl), [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Tonada del viejo amor](https://open.spotify.com/album/2fYUY5jhI1774jp8kIzgih) | 4:38 |
 | 106 | [La Sanlorenceña](https://open.spotify.com/track/2kD7pDdnnzZZRtNVq4oRE1) | [Polo Román y Salta Trio](https://open.spotify.com/artist/4SCayb8SLDyq3OcSz2GVkm) | [Antológico](https://open.spotify.com/album/4SQb1bIPv3pkmgzIjIxHz3) | 2:41 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 156609,
+  "num_followers": 156629,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAABZEIeaYRp3GOPHNfafY/Ja",
+  "snapshot_id": "ZygOgAAAAADfUI63q2IP6Lky5jRw6nhO",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archives",
-        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 133840,
-      "name": "Boot Hill - 1989 Version",
-      "url": "https://open.spotify.com/track/60kPEmCU9j6wXd57jm5Xpj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soul to Soul",
         "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 366666,
       "name": "Ain't Gone 'N' Give up on Love",
       "url": "https://open.spotify.com/track/0hTh8RO5xGOiahaDkADRKf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 133840,
+      "name": "Boot Hill - 1989 Version",
+      "url": "https://open.spotify.com/track/60kPEmCU9j6wXd57jm5Xpj"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archives",
-        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 209146,
-      "name": "So Excited",
-      "url": "https://open.spotify.com/track/1nB4UkYsul7uVNK8YIUmw8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soul to Soul",
         "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 167773,
       "name": "Lookin' out the Window",
       "url": "https://open.spotify.com/track/221wgBBRPtKIBgpjGvMWUD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 209146,
+      "name": "So Excited",
+      "url": "https://open.spotify.com/track/1nB4UkYsul7uVNK8YIUmw8"
     },
     {
       "added_at": null,
@@ -587,28 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Texas Flood (Remastered 2024)",
-        "url": "https://open.spotify.com/album/7aZJyyT4SnGYlreZDTlYsW"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        },
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 1201488,
-      "name": "Texas Flood - Remastered 2024",
-      "url": "https://open.spotify.com/track/1UJTPt48XBuPpk35yHdK3Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Archives",
-        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+        "name": "Live Alive",
+        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
       },
       "artists": [
         {
@@ -616,9 +596,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 171800,
-      "name": "Shake 'N Bake",
-      "url": "https://open.spotify.com/track/1dvaLzUkbmvt6GsPVkW7kg"
+      "duration_ms": 277306,
+      "name": "Willie The Wimp - Live",
+      "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
     },
     {
       "added_at": null,
@@ -639,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Alive",
-        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
       },
       "artists": [
         {
@@ -648,9 +628,29 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 277306,
-      "name": "Willie The Wimp - Live",
-      "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
+      "duration_ms": 171800,
+      "name": "Shake 'N Bake",
+      "url": "https://open.spotify.com/track/1dvaLzUkbmvt6GsPVkW7kg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Texas Flood (Remastered 2024)",
+        "url": "https://open.spotify.com/album/7aZJyyT4SnGYlreZDTlYsW"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 1201488,
+      "name": "Texas Flood - Remastered 2024",
+      "url": "https://open.spotify.com/track/1UJTPt48XBuPpk35yHdK3Y"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Deal: Greatest Hits Volume 1",
-        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 270360,
-      "name": "Come On, Pt. III",
-      "url": "https://open.spotify.com/track/0t4Ef0Z7BGIRtwoK8S8299"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Session (Deluxe Edition / Remastered 2024)",
         "url": "https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 75711,
       "name": "Old Times - Remastered 2024",
       "url": "https://open.spotify.com/track/10jdo4Vs80PeuDHzWQUirD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Real Deal: Greatest Hits Volume 1",
+        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 270360,
+      "name": "Come On, Pt. III",
+      "url": "https://open.spotify.com/track/0t4Ef0Z7BGIRtwoK8S8299"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Session",
-        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        },
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 302640,
-      "name": "Ask Me No Questions",
-      "url": "https://open.spotify.com/track/2lLsxW07QzVfneL7Ov2bIT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Session (Deluxe Edition / Remastered 2024)",
         "url": "https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 58716,
       "name": "Pep Talk - Remastered 2024",
       "url": "https://open.spotify.com/track/2wdvPx55QXWSr3wHkT8r1Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Session",
+        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 302640,
+      "name": "Ask Me No Questions",
+      "url": "https://open.spotify.com/track/2lLsxW07QzVfneL7Ov2bIT"
     }
   ],
   "unique_name": "This Is Stevie Ray Vaughan",

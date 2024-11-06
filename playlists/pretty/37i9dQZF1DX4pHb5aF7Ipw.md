@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Rap\. Cover: Riar Saab
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,676 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,684 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 15 | [Rich Life](https://open.spotify.com/track/2vWFL9GDgCrAvycqWvPVj2) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [DJ Shadow Dubai](https://open.spotify.com/artist/3qnsN7WTgndwqTiBHelp6S) | [Rich Life](https://open.spotify.com/album/5jmBYAUyG3nqevklnEAnNO) | 2:17 |
 | 16 | [Big Loss](https://open.spotify.com/track/76voghdL792BAy9YwEKfzw) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Big Loss](https://open.spotify.com/album/7xZV2oU3dR8taMeW7OGdyP) | 2:45 |
 | 17 | [Rubi Kon?](https://open.spotify.com/track/2YUuQdYenYuVQh8L45ZyCv) | [Ruban Buttar](https://open.spotify.com/artist/1U0l9iwnxY6s6IGANtXQYV) | [Rubi Kon?](https://open.spotify.com/album/4NlM5deMG1ozwIF0h7uU8T) | 2:57 |
-| 18 | [Jaanch](https://open.spotify.com/track/1Lj859rhdYI6Dvcf5mRJ7B) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy) | [Jaanch](https://open.spotify.com/album/5JFVMooWstgdswR5QcyVOv) | 2:50 |
+| 18 | [Jaanch](https://open.spotify.com/track/1Lj859rhdYI6Dvcf5mRJ7B) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [Ishan](https://open.spotify.com/artist/5VUpMJVhsIjr7UshFyoWVu) | [Jaanch](https://open.spotify.com/album/5JFVMooWstgdswR5QcyVOv) | 2:50 |
 | 19 | [Meds \- Xundr & Knwnkid Remix](https://open.spotify.com/track/3RFaOuOZHZiEiHtUJWYKSA) | [Islandkiddd](https://open.spotify.com/artist/5hB0eQ1WDA5flgbllv3m0B), [GAGG E](https://open.spotify.com/artist/1bLhM3jn76Q9wKJSF23x8R), [Glixzy](https://open.spotify.com/artist/5ZIksrTp5QKB7uiDofkU8Y), [Numbgod](https://open.spotify.com/artist/2pRlsbIdL2gTiSwdxzGnuY), [Xundr](https://open.spotify.com/artist/319D42RfAQ63NPsLnjQvch), [Knwnkid](https://open.spotify.com/artist/3cDTfJUpTGl9ozI7t4CSda) | [Meds](https://open.spotify.com/album/6ERlO2g7UsQOWbeuoxdsnW) | 2:53 |
 | 20 | [Gaddi](https://open.spotify.com/track/5mncLIF5R5QKJu0IxsnYuJ) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR), [Jodhbir Chahal](https://open.spotify.com/artist/4YIGAMUUmCzojgGhp8bgV7), [Avvy Ballagan](https://open.spotify.com/artist/17SREP4Zd3CshA6N3uTP6Q) | [Gaddi](https://open.spotify.com/album/3kbSyJsGhlvH67hlzgfyTb) | 2:05 |
 | 21 | [Glock](https://open.spotify.com/track/3Tew8PRnaVMwIX1UERZK0L) | [Mahi Musik](https://open.spotify.com/artist/4C9FG0V4P9wGggesIigNCP) | [Hustle N Flow](https://open.spotify.com/album/1Dfofzn6G1OLp3ZKjz0oEr) | 2:19 |

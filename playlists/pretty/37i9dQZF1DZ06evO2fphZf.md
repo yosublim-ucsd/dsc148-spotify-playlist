@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 
 > This is thủy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,790 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,799 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 3 | [twin flames](https://open.spotify.com/track/0Ik9LPqXs0DYConyjqvEFR) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [twin flames](https://open.spotify.com/album/4xW0IPIKToGIy3HMAnYOj1) | 2:53 |
 | 4 | [whatcha gotta say \(with Blxst\)](https://open.spotify.com/track/4MGD9rpRJlRj8jSfuFh4B9) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 2:51 |
 | 5 | [playing tricks](https://open.spotify.com/track/6bqdzSnOYEhGkcaNXwxzA9) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:04 |
-| 6 | [cloud 11](https://open.spotify.com/track/6sPUQOYM3gPHt6V6tUOGPD) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [cloud 11](https://open.spotify.com/album/77XSyzmCy40q7rNihXkGU7) | 2:33 |
-| 7 | [close with desires \(feat\. thuy\)](https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [close with desires \(feat\. thuy\)](https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID) | 3:25 |
+| 6 | [close with desires \(feat\. thuy\)](https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [close with desires \(feat\. thuy\)](https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID) | 3:25 |
+| 7 | [cloud 11](https://open.spotify.com/track/6sPUQOYM3gPHt6V6tUOGPD) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [cloud 11](https://open.spotify.com/album/77XSyzmCy40q7rNihXkGU7) | 2:33 |
 | 8 | [fairy godmother](https://open.spotify.com/track/7zstoq2sK1AKvlnzJNVEol) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 2:43 |
 | 9 | [chances](https://open.spotify.com/track/3PPD1wg591kQnsws16mlkS) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:47 |
-| 10 | [hair down \(with CHUNG HA\)](https://open.spotify.com/track/0J6uaKir7FzzTvnQcpg0MJ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [hair down \(with CHUNG HA\)](https://open.spotify.com/album/5pViClRtFnnMBoRwfGS2rh) | 3:29 |
-| 11 | [vapor rub](https://open.spotify.com/track/3rpfbgu18wx28HZJEWTlPt) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [vapor rub](https://open.spotify.com/album/3fCcpuwdbjTg2Ul2ZiWsmF) | 2:56 |
+| 10 | [vapor rub](https://open.spotify.com/track/3rpfbgu18wx28HZJEWTlPt) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [vapor rub](https://open.spotify.com/album/3fCcpuwdbjTg2Ul2ZiWsmF) | 2:56 |
+| 11 | [hair down \(with CHUNG HA\)](https://open.spotify.com/track/0J6uaKir7FzzTvnQcpg0MJ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [hair down \(with CHUNG HA\)](https://open.spotify.com/album/5pViClRtFnnMBoRwfGS2rh) | 3:29 |
 | 12 | [D8](https://open.spotify.com/track/1Iki8u1ZqffZTODbvFrotd) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 2:41 |
 | 13 | [figured u out](https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:12 |
 | 14 | [All Night Long](https://open.spotify.com/track/5DyBTivjORrpNhJkJj2Ao5) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Lil Kev](https://open.spotify.com/artist/05U8xYmKMe2z0IjNlI2qG6) | [All Night Long](https://open.spotify.com/album/2RBCjQ1pAiQSSW9YdFAkqs) | 3:34 |
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 18 | [obsessed](https://open.spotify.com/track/4eJHrA5Ujucbjs7ieKYOUQ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:05 |
 | 19 | [trippin'](https://open.spotify.com/track/61paqDrRJe8h4c5ypysurz) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:24 |
 | 20 | [roleplay](https://open.spotify.com/track/1J6NSOo1WZDwwj5GjmcQGv) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 2:25 |
-| 21 | [Two Truths And A Lie](https://open.spotify.com/track/6DzfmaiigxeCnB9qnnIZpW) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Two Truths And A Lie](https://open.spotify.com/album/6mB24ENPL4m2E7Q7Li7lFb) | 2:13 |
+| 21 | [so into you \- Spotify Singles](https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Spotify Singles](https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR) | 2:53 |
 | 22 | [trust \(feat\. RINI\)](https://open.spotify.com/track/5tHWgoCChShsl9BJDkZDcQ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:17 |
-| 23 | [so into you \- Spotify Singles](https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Spotify Singles](https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR) | 2:53 |
+| 23 | [Two Truths And A Lie](https://open.spotify.com/track/6DzfmaiigxeCnB9qnnIZpW) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Two Truths And A Lie](https://open.spotify.com/album/6mB24ENPL4m2E7Q7Li7lFb) | 2:13 |
 | 24 | [crash & burn](https://open.spotify.com/track/4xZ2DCv0AhOg7NUuqjRbCl) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 3:11 |
 | 25 | [in my head](https://open.spotify.com/track/4hD9dJBxYL7OUh6QgxBkM6) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:08 |
 | 26 | [Criminal \(Over You\)](https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Sonder](https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 49 | [Next to You](https://open.spotify.com/track/1GVe6q4SdRvrQ8zN9nC0LE) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Next to You](https://open.spotify.com/album/0m6yQDokL3mfrVXsObA8Sw) | 3:24 |
 | 50 | [The Way](https://open.spotify.com/track/1YQJzh01rPQ4fiAuEtxXuW) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [The Way](https://open.spotify.com/album/2t1eIuTTN8mxkOXxjRBasL) | 2:54 |
 
-Snapshot ID: `Zya9AAAAAACJwopDFkuX6URoRcOj+Co4`
+Snapshot ID: `ZygOgAAAAADWWa5IRnwc3/Y0Tcpeyqu4`

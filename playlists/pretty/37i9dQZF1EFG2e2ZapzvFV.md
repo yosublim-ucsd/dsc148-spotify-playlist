@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,582 likes - 171 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,581 likes - 171 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 37 | [Safe](https://open.spotify.com/track/12wAQ0HNbJWVrVJA3woXDb) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Safe](https://open.spotify.com/album/0qrB9JjkcCjQQK7S1eFrcX) | 3:20 |
 | 38 | [Cynic](https://open.spotify.com/track/6IW6mD0OrfYXXkTgdLBQ83) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:28 |
 | 39 | [Give Me Something](https://open.spotify.com/track/5KwtMxjFSXoixWutWmxDee) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [Thirty One](https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2) | 3:11 |
-| 40 | [Biting Down](https://open.spotify.com/track/2bQorkqtGzEJatTcD8I1F0) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Love Club EP](https://open.spotify.com/album/0zUEZI3Z9kZuPoyoWakf75) | 3:33 |
-| 41 | [Your Bones](https://open.spotify.com/track/7zBg6qxuNUz0mBdr85l6ng) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stellaria](https://open.spotify.com/album/5UHVVt48bKChmsZNguXZIu) | 2:39 |
+| 40 | [Your Bones](https://open.spotify.com/track/7zBg6qxuNUz0mBdr85l6ng) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stellaria](https://open.spotify.com/album/5UHVVt48bKChmsZNguXZIu) | 2:39 |
+| 41 | [Biting Down](https://open.spotify.com/track/2bQorkqtGzEJatTcD8I1F0) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Love Club EP](https://open.spotify.com/album/0zUEZI3Z9kZuPoyoWakf75) | 3:33 |
 | 42 | [Mother & Father](https://open.spotify.com/track/3Nttjgkm2lDCRVFpMh22hv) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:07 |
 | 43 | [Church](https://open.spotify.com/track/6Apozxrk03AIyQwyswUjbt) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 3:03 |
 | 44 | [CHAMPION](https://open.spotify.com/track/14oFxKTXuTpYgKe2vy0Cih) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [CHAMPION](https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx) | 2:53 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 170 | [Suffocating Slow](https://open.spotify.com/track/6Kqyu4rJpZTSbSk9hxU8ec) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always And Never \(Australian Version\)](https://open.spotify.com/album/0q0yIvuQStgbwJBA9ml9Ik) | 3:08 |
 | 171 | [The Way I Are \(Dance With Somebody\)](https://open.spotify.com/track/7MNy41gAOCWaWuY2OA7vl9) | [Laura Lawson](https://open.spotify.com/artist/0tHvF8kSTxJYfAq8PlwaUA), [Morgan Fox](https://open.spotify.com/artist/6lavva7uEgQhcMSQvOXrDs) | [Pop Hits Anthems](https://open.spotify.com/album/6NmPeYy79lVRBn7tzJ9mC2) | 3:11 |
 
-Snapshot ID: `AbgoqgAAAAD+AA0/W87F+MWau9seOYgr`
+Snapshot ID: `AbguSgAAAACIdpmMD+zdGzgULtpIpHMS`

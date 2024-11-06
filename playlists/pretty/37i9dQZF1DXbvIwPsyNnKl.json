@@ -1,31 +1,35 @@
 {
   "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Robeldo Timido",
-  "num_followers": 1249634,
+  "num_followers": 1250299,
   "original_name": "KALYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyGS4gAAAABYPDQSnWakKNGovZtbW6FJ",
+  "snapshot_id": "ZyrU6AAAAADG27qp7nu/bC36SCxXpUCO",
   "tracks": [
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
-        "name": "FYP LUV",
-        "url": "https://open.spotify.com/album/1fcU63rLWeNkwA3XErDgKc"
+        "name": "SUBOMOTO (Hev Abi Remix)",
+        "url": "https://open.spotify.com/album/7wjI6FCsMJwMCumTlNu0xl"
       },
       "artists": [
         {
-          "name": "ALLMO$T",
-          "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
+          "name": "Zae",
+          "url": "https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD"
+        },
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
         }
       ],
-      "duration_ms": 218309,
-      "name": "FYP LUV",
-      "url": "https://open.spotify.com/track/7Hclwcxm8Ppba2x5fsdRCG"
+      "duration_ms": 178931,
+      "name": "SUBOMOTO - Hev Abi Remix",
+      "url": "https://open.spotify.com/track/21Dq4ZfwEg1nfkwyxrx0ve"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "Gusto Ko Sakin Ka Lang",
         "url": "https://open.spotify.com/album/2CKTmUw2QrxtchdI1yVfQB"
@@ -41,7 +45,23 @@
       "url": "https://open.spotify.com/track/52F5Y4EgcZ2RggVqpqSJBe"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
+      "album": {
+        "name": "FYP LUV",
+        "url": "https://open.spotify.com/album/1fcU63rLWeNkwA3XErDgKc"
+      },
+      "artists": [
+        {
+          "name": "ALLMO$T",
+          "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
+        }
+      ],
+      "duration_ms": 218309,
+      "name": "FYP LUV",
+      "url": "https://open.spotify.com/track/7Hclwcxm8Ppba2x5fsdRCG"
+    },
+    {
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "WADADADENG!",
         "url": "https://open.spotify.com/album/09YfFV0VRkkHjZJ9XI2OsX"
@@ -77,7 +97,7 @@
       "url": "https://open.spotify.com/track/0AuZUiq6K6E9l2GOWTuy5c"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/0hMT0sAqjZvYBimWnMDswf"
@@ -93,47 +113,7 @@
       "url": "https://open.spotify.com/track/4067uAzJZUHJInwOo7X701"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
-      "album": {
-        "name": "META MIXTAPE",
-        "url": "https://open.spotify.com/album/2CsZ4OSOM32Dplwhn9yXuQ"
-      },
-      "artists": [
-        {
-          "name": "Nik Makino",
-          "url": "https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks"
-        },
-        {
-          "name": "Shao Lin",
-          "url": "https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt"
-        }
-      ],
-      "duration_ms": 219425,
-      "name": "EA",
-      "url": "https://open.spotify.com/track/4eqz6LHHtgGanz0V91rlLN"
-    },
-    {
-      "added_at": "2024-10-30 01:58:58",
-      "album": {
-        "name": "Ashtray",
-        "url": "https://open.spotify.com/album/1Sg2cru2SJiSOOFdQmgy2h"
-      },
-      "artists": [
-        {
-          "name": "MBNel",
-          "url": "https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF"
-        },
-        {
-          "name": "O SIDE MAFIA",
-          "url": "https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp"
-        }
-      ],
-      "duration_ms": 154250,
-      "name": "Ashtray",
-      "url": "https://open.spotify.com/track/7acx61pQgmxeYw7FBh4DYX"
-    },
-    {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "Dikapamigay",
         "url": "https://open.spotify.com/album/1kISZMlDKKu14boq3Ze9Qp"
@@ -153,7 +133,7 @@
       "url": "https://open.spotify.com/track/5bEoMNE8AuautKnCVKHyxf"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "Wag Na",
         "url": "https://open.spotify.com/album/3dPZYbHJzqN3CDYp4ygh57"
@@ -173,27 +153,7 @@
       "url": "https://open.spotify.com/track/6Rz2gTPL95Y9EJkwgqpFkE"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
-      "album": {
-        "name": "Martial Lao",
-        "url": "https://open.spotify.com/album/2NU7PW7QQdrrGDwDIUZxk6"
-      },
-      "artists": [
-        {
-          "name": "Don Pao",
-          "url": "https://open.spotify.com/artist/7HnBKbjSa10sPCoX3HMp8Z"
-        },
-        {
-          "name": "Flow G",
-          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
-        }
-      ],
-      "duration_ms": 287778,
-      "name": "Balagbag",
-      "url": "https://open.spotify.com/track/3s1BMSp0yxKDbTo6MDeueq"
-    },
-    {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "ILY",
         "url": "https://open.spotify.com/album/2Z3aaJjwmO8hBQodeaqfKh"
@@ -213,23 +173,7 @@
       "url": "https://open.spotify.com/track/3w2uH1D7s2lyBNionSZOM0"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
-      "album": {
-        "name": "Faded (Raw)",
-        "url": "https://open.spotify.com/album/1YoTE6M7v7oQcdv5gHM0kb"
-      },
-      "artists": [
-        {
-          "name": "Illest Morena",
-          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Faded (Raw)",
-      "url": "https://open.spotify.com/track/5AxEGHRwgBqFDZ20ilkCw6"
-    },
-    {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "Burgis",
         "url": "https://open.spotify.com/album/3rucLazJL4NKIiF6DBp5Fa"
@@ -249,39 +193,23 @@
       "url": "https://open.spotify.com/track/3O5P2ZDUwExzcIdZkJwFq1"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
-        "name": "ANSWER THE G",
-        "url": "https://open.spotify.com/album/145nJ3pWoD1PqWBhQqSZEA"
+        "name": "Faded (Raw)",
+        "url": "https://open.spotify.com/album/1YoTE6M7v7oQcdv5gHM0kb"
       },
       "artists": [
         {
-          "name": "SUPAFLY",
-          "url": "https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih"
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
         }
       ],
-      "duration_ms": 168712,
-      "name": "Answer The G",
-      "url": "https://open.spotify.com/track/4UZE33BJf8b9KYOQhdcnJi"
+      "duration_ms": 175384,
+      "name": "Faded (Raw)",
+      "url": "https://open.spotify.com/track/5AxEGHRwgBqFDZ20ilkCw6"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
-      "album": {
-        "name": "Sakin ka",
-        "url": "https://open.spotify.com/album/3QDlhH3UhbaTJJv3J2Ho5r"
-      },
-      "artists": [
-        {
-          "name": "SUPAFLY",
-          "url": "https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih"
-        }
-      ],
-      "duration_ms": 269011,
-      "name": "Sakin ka",
-      "url": "https://open.spotify.com/track/0kC2bP7qJ0plOW4nbjysZy"
-    },
-    {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "Kung Alam Mo Lang",
         "url": "https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa"
@@ -305,7 +233,7 @@
       "url": "https://open.spotify.com/track/35Vt1L1KBP2YoWfErB0FAy"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "Babaero",
         "url": "https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO"
@@ -325,7 +253,23 @@
       "url": "https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
+      "album": {
+        "name": "ANSWER THE G",
+        "url": "https://open.spotify.com/album/145nJ3pWoD1PqWBhQqSZEA"
+      },
+      "artists": [
+        {
+          "name": "SUPAFLY",
+          "url": "https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih"
+        }
+      ],
+      "duration_ms": 168712,
+      "name": "Answer The G",
+      "url": "https://open.spotify.com/track/4UZE33BJf8b9KYOQhdcnJi"
+    },
+    {
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "Lil Kasalanan Shortie",
         "url": "https://open.spotify.com/album/03XSg6TO123KLtT7YusRjO"
@@ -341,7 +285,7 @@
       "url": "https://open.spotify.com/track/6zdryckXPbIeQE5npNqvNp"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "Get Low",
         "url": "https://open.spotify.com/album/7e209iBgYDKOavREMtFVAn"
@@ -361,23 +305,7 @@
       "url": "https://open.spotify.com/track/2kbNBhtgGiTxBuZTCXiQVY"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
-      "album": {
-        "name": "PAREHAS TAYO",
-        "url": "https://open.spotify.com/album/3as5iLN6ugZO7Kz4xVaHdk"
-      },
-      "artists": [
-        {
-          "name": "Nateman",
-          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "PAREHAS TAYO",
-      "url": "https://open.spotify.com/track/6KDLUcxVRvXIXMexgf9x9b"
-    },
-    {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "Tequila Rose",
         "url": "https://open.spotify.com/album/02tMWeYI98izui099O7QDb"
@@ -397,7 +325,23 @@
       "url": "https://open.spotify.com/track/5fGWamKtCGZXW04flUxXl0"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
+      "album": {
+        "name": "PAREHAS TAYO",
+        "url": "https://open.spotify.com/album/3as5iLN6ugZO7Kz4xVaHdk"
+      },
+      "artists": [
+        {
+          "name": "Nateman",
+          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "PAREHAS TAYO",
+      "url": "https://open.spotify.com/track/6KDLUcxVRvXIXMexgf9x9b"
+    },
+    {
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "We Made It",
         "url": "https://open.spotify.com/album/2vd0mHXPGNEfvYK9PY5U2H"
@@ -417,7 +361,63 @@
       "url": "https://open.spotify.com/track/00h9iBIZPHjHAVoNzKHIOz"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
+      "album": {
+        "name": "META MIXTAPE",
+        "url": "https://open.spotify.com/album/2CsZ4OSOM32Dplwhn9yXuQ"
+      },
+      "artists": [
+        {
+          "name": "Nik Makino",
+          "url": "https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks"
+        },
+        {
+          "name": "Shao Lin",
+          "url": "https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt"
+        }
+      ],
+      "duration_ms": 219425,
+      "name": "EA",
+      "url": "https://open.spotify.com/track/4eqz6LHHtgGanz0V91rlLN"
+    },
+    {
+      "added_at": "2024-11-06 02:31:04",
+      "album": {
+        "name": "4:AM",
+        "url": "https://open.spotify.com/album/2KbChrlOoIu1vhxwCiNpXo"
+      },
+      "artists": [
+        {
+          "name": "HELLMERRY",
+          "url": "https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "4:AM",
+      "url": "https://open.spotify.com/track/4OaVpRQJWIgMTecpLSmhnn"
+    },
+    {
+      "added_at": "2024-11-06 02:31:04",
+      "album": {
+        "name": "Makasarili Malambing",
+        "url": "https://open.spotify.com/album/07y0oEistR8d2JOwd5E67B"
+      },
+      "artists": [
+        {
+          "name": "Kristina Dawn",
+          "url": "https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d"
+        },
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "duration_ms": 121845,
+      "name": "Makasarili Malambing",
+      "url": "https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE"
+    },
+    {
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "Kunan Mong Pic",
         "url": "https://open.spotify.com/album/2yo2p2KkXVyYNV5Lo8XxwN"
@@ -441,107 +441,79 @@
       "url": "https://open.spotify.com/track/6q07OiEEt6Tz2SkGuwCCGo"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
-        "name": "Makasarili Malambing",
-        "url": "https://open.spotify.com/album/07y0oEistR8d2JOwd5E67B"
+        "name": "Ashtray",
+        "url": "https://open.spotify.com/album/1Sg2cru2SJiSOOFdQmgy2h"
       },
       "artists": [
         {
-          "name": "Kristina Dawn",
-          "url": "https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d"
+          "name": "MBNel",
+          "url": "https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF"
         },
         {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+          "name": "O SIDE MAFIA",
+          "url": "https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp"
         }
       ],
-      "duration_ms": 121845,
-      "name": "Makasarili Malambing",
-      "url": "https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE"
+      "duration_ms": 154250,
+      "name": "Ashtray",
+      "url": "https://open.spotify.com/track/7acx61pQgmxeYw7FBh4DYX"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
-        "name": "4:AM",
-        "url": "https://open.spotify.com/album/2KbChrlOoIu1vhxwCiNpXo"
+        "name": "Sakin ka",
+        "url": "https://open.spotify.com/album/3QDlhH3UhbaTJJv3J2Ho5r"
       },
       "artists": [
         {
-          "name": "HELLMERRY",
-          "url": "https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc"
+          "name": "SUPAFLY",
+          "url": "https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih"
         }
       ],
-      "duration_ms": 228571,
-      "name": "4:AM",
-      "url": "https://open.spotify.com/track/4OaVpRQJWIgMTecpLSmhnn"
+      "duration_ms": 269011,
+      "name": "Sakin ka",
+      "url": "https://open.spotify.com/track/0kC2bP7qJ0plOW4nbjysZy"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/0WO2RnfXjz2WeYDsRhQP98"
+        "name": "Martial Lao",
+        "url": "https://open.spotify.com/album/2NU7PW7QQdrrGDwDIUZxk6"
       },
       "artists": [
         {
-          "name": "Shanti Dope",
-          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
-        }
-      ],
-      "duration_ms": 174025,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/2rHlkGQAXF0Z0mKWsC38d0"
-    },
-    {
-      "added_at": "2024-10-30 01:58:58",
-      "album": {
-        "name": "PROBINSYANA",
-        "url": "https://open.spotify.com/album/7Ch9NvbwkIBWs4WZU8R1iI"
-      },
-      "artists": [
-        {
-          "name": "Nateman",
-          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+          "name": "Don Pao",
+          "url": "https://open.spotify.com/artist/7HnBKbjSa10sPCoX3HMp8Z"
         },
+        {
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
+        }
+      ],
+      "duration_ms": 287778,
+      "name": "Balagbag",
+      "url": "https://open.spotify.com/track/3s1BMSp0yxKDbTo6MDeueq"
+    },
+    {
+      "added_at": "2024-11-06 02:31:04",
+      "album": {
+        "name": "Mapagdamot",
+        "url": "https://open.spotify.com/album/0wajABC3XZdnEdJKyK42S9"
+      },
+      "artists": [
         {
           "name": "Robledo Timido",
-          "url": "https://open.spotify.com/artist/6zGHYZUATHdgsCDVw4HBXg"
-        },
-        {
-          "name": "Kiddotin",
-          "url": "https://open.spotify.com/artist/7DwWCK71cxhiSxoUAy172N"
+          "url": "https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw"
         }
       ],
-      "duration_ms": 212034,
-      "name": "PROBINSYANA",
-      "url": "https://open.spotify.com/track/7d6XBbDzgYoMfwqlUv173t"
+      "duration_ms": 203893,
+      "name": "Mapagdamot",
+      "url": "https://open.spotify.com/track/3WUWeGmthk0eUaYOFopjWB"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
-      "album": {
-        "name": "La Luna",
-        "url": "https://open.spotify.com/album/32xyVyuVCNv9fBAHUZ7G1v"
-      },
-      "artists": [
-        {
-          "name": "Skusta Clee",
-          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
-        },
-        {
-          "name": "Yuridope",
-          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
-        },
-        {
-          "name": "Ron Henley",
-          "url": "https://open.spotify.com/artist/6eGQ0qPUlGBjmRgyQ84g3f"
-        }
-      ],
-      "duration_ms": 362250,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/5vUp3dbqvs1pGMURHVhkjY"
-    },
-    {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "SOBRANG SOLID",
         "url": "https://open.spotify.com/album/7GZveuL9U8QsWEQFeG7pyC"
@@ -561,47 +533,23 @@
       "url": "https://open.spotify.com/track/0Ol6h1ldPVt1ARNYiYLZ6g"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
-        "name": "Mapagdamot",
-        "url": "https://open.spotify.com/album/0wajABC3XZdnEdJKyK42S9"
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/0WO2RnfXjz2WeYDsRhQP98"
       },
       "artists": [
         {
-          "name": "Robledo Timido",
-          "url": "https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw"
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
         }
       ],
-      "duration_ms": 203893,
-      "name": "Mapagdamot",
-      "url": "https://open.spotify.com/track/3WUWeGmthk0eUaYOFopjWB"
+      "duration_ms": 174025,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/2rHlkGQAXF0Z0mKWsC38d0"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
-      "album": {
-        "name": "SA'YO LANG",
-        "url": "https://open.spotify.com/album/5h87BNGNhIpVde4Ttnu5DQ"
-      },
-      "artists": [
-        {
-          "name": "Juan Caoile",
-          "url": "https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd"
-        },
-        {
-          "name": "Kyleswish",
-          "url": "https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa"
-        },
-        {
-          "name": "Jawz",
-          "url": "https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "SA'YO LANG",
-      "url": "https://open.spotify.com/track/1DQdAQW9QxjPqLm1cFC6EL"
-    },
-    {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "Marikit Sa Dilim",
         "url": "https://open.spotify.com/album/5lvADzxNwgth5Y5EZdHx7l"
@@ -625,59 +573,31 @@
       "url": "https://open.spotify.com/track/2n0OFvWzkojBD1kVIOeGqe"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
-        "name": "Bakante",
-        "url": "https://open.spotify.com/album/4O7iJCIn3PbzN04UrelxnO"
+        "name": "SA'YO LANG",
+        "url": "https://open.spotify.com/album/5h87BNGNhIpVde4Ttnu5DQ"
       },
       "artists": [
         {
-          "name": "Omar Baliw",
-          "url": "https://open.spotify.com/artist/2gZrkTQmIZCDWQMMXjkC4K"
+          "name": "Juan Caoile",
+          "url": "https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd"
         },
         {
-          "name": "Rhyne",
-          "url": "https://open.spotify.com/artist/50cO3P6YcYTVmheR2eETF4"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Bakante",
-      "url": "https://open.spotify.com/track/3M7hZf5sKm1RJD3UJx6TiT"
-    },
-    {
-      "added_at": "2024-10-30 01:58:58",
-      "album": {
-        "name": "bahay namin maliit lamang",
-        "url": "https://open.spotify.com/album/5MgFxCKMfta2fQequyHHrt"
-      },
-      "artists": [
+          "name": "Kyleswish",
+          "url": "https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa"
+        },
         {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+          "name": "Jawz",
+          "url": "https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg"
         }
       ],
-      "duration_ms": 135549,
-      "name": "julie pakipot",
-      "url": "https://open.spotify.com/track/0mAzGN40qLHmKL5uMKV8Ht"
+      "duration_ms": 242000,
+      "name": "SA'YO LANG",
+      "url": "https://open.spotify.com/track/1DQdAQW9QxjPqLm1cFC6EL"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
-      "album": {
-        "name": "Elohim",
-        "url": "https://open.spotify.com/album/61hWpVqCooPz8lw0TdDOXs"
-      },
-      "artists": [
-        {
-          "name": "Lynx",
-          "url": "https://open.spotify.com/artist/4mQuTsax5ozo0Dg0unNLfC"
-        }
-      ],
-      "duration_ms": 146732,
-      "name": "Elohim",
-      "url": "https://open.spotify.com/track/6P8aiBjZ0Ld5Wxii6ajUSV"
-    },
-    {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "Highschool",
         "url": "https://open.spotify.com/album/3iicfDQLWCyTSXpQoLYXmz"
@@ -693,7 +613,23 @@
       "url": "https://open.spotify.com/track/29TD6wm2gYpqNlKim9ni88"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
+      "album": {
+        "name": "bahay namin maliit lamang",
+        "url": "https://open.spotify.com/album/5MgFxCKMfta2fQequyHHrt"
+      },
+      "artists": [
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "duration_ms": 135549,
+      "name": "julie pakipot",
+      "url": "https://open.spotify.com/track/0mAzGN40qLHmKL5uMKV8Ht"
+    },
+    {
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "MINAHALAGAD",
         "url": "https://open.spotify.com/album/1N6eO3cWQ1LXAJux7E21fD"
@@ -713,7 +649,23 @@
       "url": "https://open.spotify.com/track/0k9bmRFeWAKCJm0OtIrbd1"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
+      "album": {
+        "name": "Elohim",
+        "url": "https://open.spotify.com/album/61hWpVqCooPz8lw0TdDOXs"
+      },
+      "artists": [
+        {
+          "name": "Lynx",
+          "url": "https://open.spotify.com/artist/4mQuTsax5ozo0Dg0unNLfC"
+        }
+      ],
+      "duration_ms": 146732,
+      "name": "Elohim",
+      "url": "https://open.spotify.com/track/6P8aiBjZ0Ld5Wxii6ajUSV"
+    },
+    {
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "Aba Ginoong Napupuno Ng Swag",
         "url": "https://open.spotify.com/album/2Jocl1kQS4Bn5EZFGhFcmR"
@@ -729,7 +681,7 @@
       "url": "https://open.spotify.com/track/7jQ3w6hGY8mdf87wLMAhC7"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "Pass Sa Lowkey",
         "url": "https://open.spotify.com/album/6B6K84lxNWJivNC4L5nW7F"
@@ -749,7 +701,55 @@
       "url": "https://open.spotify.com/track/78sUH2ilGjWxoFp3L5EptT"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
+      "album": {
+        "name": "La Luna",
+        "url": "https://open.spotify.com/album/32xyVyuVCNv9fBAHUZ7G1v"
+      },
+      "artists": [
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        },
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+        },
+        {
+          "name": "Ron Henley",
+          "url": "https://open.spotify.com/artist/6eGQ0qPUlGBjmRgyQ84g3f"
+        }
+      ],
+      "duration_ms": 362250,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/5vUp3dbqvs1pGMURHVhkjY"
+    },
+    {
+      "added_at": "2024-11-06 02:31:04",
+      "album": {
+        "name": "PROBINSYANA",
+        "url": "https://open.spotify.com/album/7Ch9NvbwkIBWs4WZU8R1iI"
+      },
+      "artists": [
+        {
+          "name": "Nateman",
+          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+        },
+        {
+          "name": "Robledo Timido",
+          "url": "https://open.spotify.com/artist/6zGHYZUATHdgsCDVw4HBXg"
+        },
+        {
+          "name": "Kiddotin",
+          "url": "https://open.spotify.com/artist/7DwWCK71cxhiSxoUAy172N"
+        }
+      ],
+      "duration_ms": 212034,
+      "name": "PROBINSYANA",
+      "url": "https://open.spotify.com/track/7d6XBbDzgYoMfwqlUv173t"
+    },
+    {
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "Top Secret",
         "url": "https://open.spotify.com/album/14z1WtpGIfD9rhHTWJr9mr"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/5E37bVbBKQaV28JFaCNZVp"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "Sadista",
         "url": "https://open.spotify.com/album/45kF7zimRp7FU2jqDbA9Ct"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/5hmg43Bn1stiI6BDat3Sl4"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "6LOCK",
         "url": "https://open.spotify.com/album/32R0fB78SY19ipjoD5c2Sp"
@@ -833,7 +833,59 @@
       "url": "https://open.spotify.com/track/4kaRV5iUm7GxeJX7z4Yzif"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
+      "album": {
+        "name": "Bakante",
+        "url": "https://open.spotify.com/album/4O7iJCIn3PbzN04UrelxnO"
+      },
+      "artists": [
+        {
+          "name": "Omar Baliw",
+          "url": "https://open.spotify.com/artist/2gZrkTQmIZCDWQMMXjkC4K"
+        },
+        {
+          "name": "Rhyne",
+          "url": "https://open.spotify.com/artist/50cO3P6YcYTVmheR2eETF4"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Bakante",
+      "url": "https://open.spotify.com/track/3M7hZf5sKm1RJD3UJx6TiT"
+    },
+    {
+      "added_at": "2024-11-06 02:31:04",
+      "album": {
+        "name": "Low Key",
+        "url": "https://open.spotify.com/album/6sfBOM9O439L3kClbO4aoX"
+      },
+      "artists": [
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        }
+      ],
+      "duration_ms": 163764,
+      "name": "Low Key",
+      "url": "https://open.spotify.com/track/6Eik0bvVyGHACEEJWqfFQl"
+    },
+    {
+      "added_at": "2024-11-06 02:31:04",
+      "album": {
+        "name": "Kung Tayo'y Magkasama",
+        "url": "https://open.spotify.com/album/3KIfo5GhGEgoR948d6qLR6"
+      },
+      "artists": [
+        {
+          "name": "Juan Caoile",
+          "url": "https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd"
+        }
+      ],
+      "duration_ms": 161112,
+      "name": "Kung Tayo'y Magkasama",
+      "url": "https://open.spotify.com/track/6R1yOtE8wWZCezNDMGkd71"
+    },
+    {
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "Kung Sakin Ka Lang",
         "url": "https://open.spotify.com/album/7m5vwlRbBZmR7l9HHpe4j8"
@@ -853,39 +905,7 @@
       "url": "https://open.spotify.com/track/70AlmIH3Ld5b6R1JGILbpK"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
-      "album": {
-        "name": "Low Key",
-        "url": "https://open.spotify.com/album/6sfBOM9O439L3kClbO4aoX"
-      },
-      "artists": [
-        {
-          "name": "Skusta Clee",
-          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
-        }
-      ],
-      "duration_ms": 163764,
-      "name": "Low Key",
-      "url": "https://open.spotify.com/track/6Eik0bvVyGHACEEJWqfFQl"
-    },
-    {
-      "added_at": "2024-10-30 01:58:58",
-      "album": {
-        "name": "Kung Tayo'y Magkasama",
-        "url": "https://open.spotify.com/album/3KIfo5GhGEgoR948d6qLR6"
-      },
-      "artists": [
-        {
-          "name": "Juan Caoile",
-          "url": "https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd"
-        }
-      ],
-      "duration_ms": 161112,
-      "name": "Kung Tayo'y Magkasama",
-      "url": "https://open.spotify.com/track/6R1yOtE8wWZCezNDMGkd71"
-    },
-    {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "bahay namin maliit lamang",
         "url": "https://open.spotify.com/album/5MgFxCKMfta2fQequyHHrt"
@@ -905,7 +925,7 @@
       "url": "https://open.spotify.com/track/7ybvHpVseTzAMUKLczNlLL"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/0eLwyUTGyj0nvAsEMWSc7c"
@@ -925,23 +945,7 @@
       "url": "https://open.spotify.com/track/0hMTCu0bJhqbVcpNsfMP2Y"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
-      "album": {
-        "name": "BLUDEVL",
-        "url": "https://open.spotify.com/album/2IjAbVlaGvgpWOUcVQjK8x"
-      },
-      "artists": [
-        {
-          "name": "HELLMERRY",
-          "url": "https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "Regrets",
-      "url": "https://open.spotify.com/track/07TlwpmIzJE0nMffVhJDDx"
-    },
-    {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "HEARTBREAK SZN 3",
         "url": "https://open.spotify.com/album/0OYk10DGvHILpIDDtsk1Ad"
@@ -957,7 +961,23 @@
       "url": "https://open.spotify.com/track/5g44fkdzvWCk4btj6hh5tA"
     },
     {
-      "added_at": "2024-10-30 01:58:58",
+      "added_at": "2024-11-06 02:31:04",
+      "album": {
+        "name": "BLUDEVL",
+        "url": "https://open.spotify.com/album/2IjAbVlaGvgpWOUcVQjK8x"
+      },
+      "artists": [
+        {
+          "name": "HELLMERRY",
+          "url": "https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "Regrets",
+      "url": "https://open.spotify.com/track/07TlwpmIzJE0nMffVhJDDx"
+    },
+    {
+      "added_at": "2024-11-06 02:31:04",
       "album": {
         "name": "Hmmm (Masasawi)",
         "url": "https://open.spotify.com/album/3LYlh3KDntUE3YrsNW9Ui4"
@@ -971,22 +991,6 @@
       "duration_ms": 181072,
       "name": "Hmmm (Masasawi)",
       "url": "https://open.spotify.com/track/23XWtmVCCqqusWLmtxWUM8"
-    },
-    {
-      "added_at": "2024-10-30 01:58:58",
-      "album": {
-        "name": "Ganun Talaga",
-        "url": "https://open.spotify.com/album/0egGF5IBQDYkzc74NLDqwf"
-      },
-      "artists": [
-        {
-          "name": "1096 Gang",
-          "url": "https://open.spotify.com/artist/1HkpK55jsORzgtOURbOeQH"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Ganun Talaga",
-      "url": "https://open.spotify.com/track/7nwD00jIeBrnS0Ay9abC4T"
     }
   ],
   "unique_name": "KALYE",

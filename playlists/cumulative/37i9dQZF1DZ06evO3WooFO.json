@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-18",
+      "date_removed": null,
       "duration_ms": 115520,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/7qLTXx7crEEtkbI2TAflqd"
@@ -1155,6 +1155,24 @@
     },
     {
       "album": {
+        "name": "ONE MORE TIME...",
+        "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217187,
+      "name": "MORE THAN YOU KNOW",
+      "url": "https://open.spotify.com/track/2uMNjuv6vXS9lRr61GvssB"
+    },
+    {
+      "album": {
         "name": "ONE MORE TIME / MORE THAN YOU KNOW",
         "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
       },
@@ -1840,7 +1858,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 200360,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/0y3fPWWin7NL5aED2FjvXP"

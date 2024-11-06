@@ -247,22 +247,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "For Cryin' Out Loud!",
-        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 217232,
-      "name": "For Cryin' Out Loud!",
-      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "A Fragile Thing",
         "url": "https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 283086,
       "name": "A Fragile Thing",
       "url": "https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "For Cryin' Out Loud!",
+        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 217232,
+      "name": "For Cryin' Out Loud!",
+      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Somliga av oss",
-        "url": "https://open.spotify.com/album/3hqJs0VTyrdYVERNsYTwsD"
-      },
-      "artists": [
-        {
-          "name": "Th\u00e5str\u00f6m",
-          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Det b\u00e4sta av allt",
-      "url": "https://open.spotify.com/track/4WFxrUnpVOAL5a3jMNUXgq"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Private Blizzard",
         "url": "https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 234973,
       "name": "One and Only",
       "url": "https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Somliga av oss",
+        "url": "https://open.spotify.com/album/3hqJs0VTyrdYVERNsYTwsD"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Det b\u00e4sta av allt",
+      "url": "https://open.spotify.com/track/4WFxrUnpVOAL5a3jMNUXgq"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Du lever bara en g\u00e5ng",
+        "url": "https://open.spotify.com/album/3uTHyiH9oRSibuPZeryfjp"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 184973,
+      "name": "Du lever bara en g\u00e5ng",
+      "url": "https://open.spotify.com/track/4XeAYorvujNce5c46bMCHw"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Du lever bara en g\u00e5ng",
-        "url": "https://open.spotify.com/album/3uTHyiH9oRSibuPZeryfjp"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Du lever bara en g\u00e5ng",
-      "url": "https://open.spotify.com/track/4XeAYorvujNce5c46bMCHw"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Ge inte upp p\u00e5 mig",
         "url": "https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 204506,
       "name": "Ge inte upp p\u00e5 mig",
       "url": "https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Home (Truckstops and Airports)",
+        "url": "https://open.spotify.com/album/0cdboLJ121JrMns7p0Hm6f"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 222864,
+      "name": "Home (Truckstops and Airports)",
+      "url": "https://open.spotify.com/track/4JiFa6TIB4nDUxKSVZYhf9"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -635,38 +651,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Home (Truckstops and Airports)",
-        "url": "https://open.spotify.com/album/0cdboLJ121JrMns7p0Hm6f"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 222864,
-      "name": "Home (Truckstops and Airports)",
-      "url": "https://open.spotify.com/track/4JiFa6TIB4nDUxKSVZYhf9"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "I Wrote Your Name (Upon My Heart)",
-        "url": "https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 200932,
-      "name": "I Wrote Your Name (Upon My Heart)",
-      "url": "https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "The Player",
         "url": "https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg"
       },
@@ -679,22 +663,6 @@
       "duration_ms": 168188,
       "name": "The Player",
       "url": "https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Younger",
-        "url": "https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 205146,
-      "name": "Younger",
-      "url": "https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -715,6 +683,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "I Wrote Your Name (Upon My Heart)",
+        "url": "https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 200932,
+      "name": "I Wrote Your Name (Upon My Heart)",
+      "url": "https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Going Home",
         "url": "https://open.spotify.com/album/7vftI6sRQGbJrTstCjbr6t"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "WILDSIDE",
-        "url": "https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV"
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
         }
       ],
-      "duration_ms": 167200,
-      "name": "WILDSIDE",
-      "url": "https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB"
+      "duration_ms": 205146,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -763,6 +747,22 @@
       "duration_ms": 166703,
       "name": "Fan f\u00f6r dig",
       "url": "https://open.spotify.com/track/0oYRtSnrvzyVcPEFgRkhUg"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "WILDSIDE",
+        "url": "https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "WILDSIDE",
+      "url": "https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Hurts",
-        "url": "https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6"
-      },
-      "artists": [
-        {
-          "name": "Anders Hojer",
-          "url": "https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY"
-        }
-      ],
-      "duration_ms": 200655,
-      "name": "Hurts",
-      "url": "https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Vad dom \u00e4n trodde s\u00e5 trodde dom fel",
         "url": "https://open.spotify.com/album/0hixYNKkifQOs3ESibKa8h"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 180627,
       "name": "Vad dom \u00e4n trodde s\u00e5 trodde dom fel",
       "url": "https://open.spotify.com/track/4wwHNlsshir6XuAYJana1o"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Hurts",
+        "url": "https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6"
+      },
+      "artists": [
+        {
+          "name": "Anders Hojer",
+          "url": "https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY"
+        }
+      ],
+      "duration_ms": 200655,
+      "name": "Hurts",
+      "url": "https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 208651,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Tjue \u00e5r",
         "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 176808,
       "name": "F\u00f8r han for",
       "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 208651,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "S\u00e5nger om dig",
-        "url": "https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 174054,
-      "name": "Ingen annan",
-      "url": "https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Someone You Used To Know",
         "url": "https://open.spotify.com/album/4XFbOH46yjW67UhgfrVSk0"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 175555,
       "name": "Someone You Used To Know",
       "url": "https://open.spotify.com/track/1OlVmZGMSpICl9M78258fv"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "S\u00e5nger om dig",
+        "url": "https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 174054,
+      "name": "Ingen annan",
+      "url": "https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Fri till slut - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        },
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 288155,
+      "name": "Fri till slut - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "ROX RMX Vol. 1 (Remixes From The Roxette Vaults)",
         "url": "https://open.spotify.com/album/5B7TvbVknCtZDOnv4NCG5S"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 188571,
       "name": "Alltid Du (feat. Etta Zelmani)",
       "url": "https://open.spotify.com/track/2fHWPfD2wEX03IaohJyt9Z"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Fri till slut - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        },
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 288155,
-      "name": "Fri till slut - Spotify Singles",
-      "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Maybe Now",
-        "url": "https://open.spotify.com/album/7eIArT5FbDbGALQ6qIgAqv"
-      },
-      "artists": [
-        {
-          "name": "Mariette",
-          "url": "https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Maybe Now",
-      "url": "https://open.spotify.com/track/2OpxNvfJwxFpEzNI3DCyD1"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Hoppas du m\u00e5r bra",
         "url": "https://open.spotify.com/album/3gSVVZjJ5EwrkqReBk6ff4"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 196560,
       "name": "Hoppas du m\u00e5r bra",
       "url": "https://open.spotify.com/track/7FUXC8AnXYjpQrBHX5wqlA"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Maybe Now",
+        "url": "https://open.spotify.com/album/7eIArT5FbDbGALQ6qIgAqv"
+      },
+      "artists": [
+        {
+          "name": "Mariette",
+          "url": "https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Maybe Now",
+      "url": "https://open.spotify.com/track/2OpxNvfJwxFpEzNI3DCyD1"
     },
     {
       "added_at": "2024-10-24 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 
 > This is Auli'i Cravalho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,699 likes - 26 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,700 likes - 26 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 | 21 | [The Future's in My Hands \- Theme from "Hailey's On It!"](https://open.spotify.com/track/2EDhyd2FMEeV1P0iwA1eWt) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Hailey's On It! \(Original Soundtrack\)](https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF) | 2:58 |
 | 22 | [The Guilty Ones \- Rise Cast Version](https://open.spotify.com/track/0salYy0gJrLwAHZ73uYChV) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Damon J\. Gillespie](https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I) | [The Guilty Ones \(Rise Cast Version\)](https://open.spotify.com/album/1zU1HLS9kSGp9tzVRQDFLY) | 3:31 |
 | 23 | [Those You've Known \- Rise Cast Version](https://open.spotify.com/track/3XSIH7n9qyqY7PS3HzDYNx) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Damon J\. Gillespie](https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I), [Ellie Desautels](https://open.spotify.com/artist/71Vw9QsO329HcPRMksPlDe) | [Rise Season 1: The Album \(Music from the TV Series\)](https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1) | 1:51 |
-| 24 | [The Word Of Your Body \- Rise Cast Version](https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Damon J\. Gillespie](https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I) | [The Word Of Your Body \(Rise Cast Version\)](https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw) | 2:54 |
+| 24 | [This Christmas](https://open.spotify.com/track/4fUxmFLeAstWRQfcOi2uRL) | [Graham Phillips](https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Burt Bacharach](https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC), [Steven Sater](https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv) | [Burt Bacharach and Steven Sater's Some Lovers \(World Premiere Recording\)](https://open.spotify.com/album/32HtQlSGJdLv2e0lmBFPf2) | 3:27 |
 | 25 | [You Fit Me Perfectly](https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Manny Jacinto](https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz) | [Hailey's On It! \(Original Soundtrack\)](https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF) | 1:28 |
-| 26 | [This Christmas](https://open.spotify.com/track/4fUxmFLeAstWRQfcOi2uRL) | [Graham Phillips](https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Burt Bacharach](https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC), [Steven Sater](https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv) | [Burt Bacharach and Steven Sater's Some Lovers \(World Premiere Recording\)](https://open.spotify.com/album/32HtQlSGJdLv2e0lmBFPf2) | 3:27 |
+| 26 | [The Word Of Your Body \- Rise Cast Version](https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Damon J\. Gillespie](https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I) | [The Word Of Your Body \(Rise Cast Version\)](https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw) | 2:54 |
 
-Snapshot ID: `Zya9AAAAAADemy8X5ShUnEusdhRXaEQK`
+Snapshot ID: `ZygOgAAAAACgV0TmipmBcyXe2IBLA+Gq`

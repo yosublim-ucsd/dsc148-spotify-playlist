@@ -428,7 +428,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 148965,
       "name": "1000 kobiet",
       "url": "https://open.spotify.com/track/1jMD392hwarcPnl0aWsA0H"
@@ -3828,7 +3828,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -4336,7 +4336,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 174246,
       "name": "BFF",
       "url": "https://open.spotify.com/track/1kuhnhugcuXf4CiNdqCRUU"
@@ -4972,7 +4972,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 176000,
       "name": "BLUEBERRY",
       "url": "https://open.spotify.com/track/4BgTgPsNeDz2KG4QsshjL9"
@@ -10258,7 +10258,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 202758,
       "name": "Drive",
       "url": "https://open.spotify.com/track/4kcMDgaU8xb4otoDv5c4kD"
@@ -13050,7 +13050,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 140000,
       "name": "Genziara",
       "url": "https://open.spotify.com/track/2nUpzFnUPY6Omv9XWa292d"
@@ -13674,7 +13674,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 178004,
       "name": "Ground Zero",
       "url": "https://open.spotify.com/track/2FHBvsUs4tpHSzIi3GvRjK"
@@ -21456,7 +21456,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 202054,
       "name": "MAMA POWTARZA\u0141A",
       "url": "https://open.spotify.com/track/5y0CCj9ENhM4G3gebGlnzb"
@@ -21762,7 +21762,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 143264,
       "name": "Mati",
       "url": "https://open.spotify.com/track/0MjXxNBit7WY6YpwtCc5lH"
@@ -22620,7 +22620,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 197000,
       "name": "Mi\u0142o\u015b\u0107 jest \u015blepa",
       "url": "https://open.spotify.com/track/3IQN4rjqZlmJgO4exMkaNT"
@@ -30936,7 +30936,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 183748,
       "name": "Przester",
       "url": "https://open.spotify.com/track/0MTTFee7cTSd46njlPKBZe"
@@ -35468,7 +35468,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -35486,7 +35486,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -36378,7 +36378,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -36917,6 +36917,24 @@
     },
     {
       "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "album": {
         "name": "Skan My\u015bli",
         "url": "https://open.spotify.com/album/6wdo5dYDjgHFZ1q0nJauzr"
       },
@@ -37182,7 +37200,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -37200,7 +37218,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -38048,6 +38066,28 @@
       "duration_ms": 247466,
       "name": "Traplife",
       "url": "https://open.spotify.com/track/6ylKuNAHPNiv8ryrQ14ZrH"
+    },
+    {
+      "album": {
+        "name": "Troch\u0119 Za Blisko",
+        "url": "https://open.spotify.com/album/5LTCu9xRaCbYcmKYWlBEI1"
+      },
+      "artists": [
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149323,
+      "name": "Troch\u0119 Za Blisko",
+      "url": "https://open.spotify.com/track/6SpeBDnkgYdkFYy5AEW2Oz"
     },
     {
       "album": {

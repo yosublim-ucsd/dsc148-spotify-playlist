@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,311 likes - 49 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,325 likes - 49 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 35 | [Venga Tu Reino](https://open.spotify.com/track/5xnAIoSXn2pyECcEcxc5rz) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Tu Reino Está Aquí](https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m) | 8:25 |
 | 36 | [Eres Santo](https://open.spotify.com/track/3y4FxHuewno26pHuJvFrkx) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Somos Uno](https://open.spotify.com/album/5M755OeM0Ad61FrB1ZixHS) | 6:51 |
 | 37 | [Mientras Viva](https://open.spotify.com/track/503ZWabGr3NrnDk8WYIma0) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM) | 3:28 |
-| 38 | [Milagros](https://open.spotify.com/track/2kiERVFwmFf2XblqWAaBPG) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS) | 6:28 |
-| 39 | [Pródigo](https://open.spotify.com/track/2VaH4aUQA8gSxY4VDkWsnu) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 7:30 |
+| 38 | [Pródigo](https://open.spotify.com/track/2VaH4aUQA8gSxY4VDkWsnu) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 7:30 |
+| 39 | [Milagros](https://open.spotify.com/track/2kiERVFwmFf2XblqWAaBPG) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS) | 6:28 |
 | 40 | [Nada Más](https://open.spotify.com/track/0m8kH2fAxNRxFlnzURAZEf) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 5:45 |
 | 41 | [Despierta Mi Corazón](https://open.spotify.com/track/3exjY1UuuSPVgdFMFNrxAb) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Despierta Mi Corazón](https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610) | 7:44 |
 | 42 | [Encuentro Glorioso](https://open.spotify.com/track/5QWVPkQkHwYYSJJiFaUt6V) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM) | 5:49 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 48 | [Jesús, Eres el Centro](https://open.spotify.com/track/7qPRGq5Nts33SYjeHi83gJ) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 8:07 |
 | 49 | [Sonido de Amor \- \(Espontáneo\)](https://open.spotify.com/track/5Hy5SnsgoJiSseiNZL3TjR) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Anthony Catacoli](https://open.spotify.com/artist/56t1x0Jm7IiTEqpKvtY6Q7), [Antonio & Allison](https://open.spotify.com/artist/25zvOZBB4XlEB4R4xwqjD9) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 2:31 |
 
-Snapshot ID: `Zya9AAAAAAAI+5v4uNzpwz4AZPefqnFO`
+Snapshot ID: `ZygOgAAAAADRmp19AudNhnaeXRf0t8Hl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,334 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,352 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 41 | [Outside of Heaven](https://open.spotify.com/track/5me6syYRQFgzMXGV3sK9Nr) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Just a little Love](https://open.spotify.com/album/4uI7l9lBNI3rzpW9V0OAif) | 2:38 |
 | 42 | [A Teenager In Love](https://open.spotify.com/track/48zgajINkd60MYu8WE0dcG) | [Marty Wilde](https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN) | [The Best of British Rock 'n' Roll / 1956 \- 1959, Vol\. 2](https://open.spotify.com/album/0g8JsELC0nFdjETYsDO1lK) | 2:21 |
 | 43 | [Big Man](https://open.spotify.com/track/0KayDFomB8iDyAdOpKfKTK) | [The Four Preps](https://open.spotify.com/artist/5MsnoFODDc5nxWrjm99Zew) | [The Single Collection, Vol\. 1](https://open.spotify.com/album/1pmKZnDtUJACH85pfDAHDr) | 2:23 |
-| 44 | [Come prima](https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv) | [Marino Marini](https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo) | [Guaglione](https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc) | 2:41 |
-| 45 | [Band of Gold \(with Ray Conniff & His Orchestra & Chorus\)](https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd) | [Don Cherry](https://open.spotify.com/artist/3uOUFs61rANc8dETV3OfID), [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [The Best of Don Cherry](https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4) | 2:35 |
+| 44 | [Band of Gold \(with Ray Conniff & His Orchestra & Chorus\)](https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd) | [Don Cherry](https://open.spotify.com/artist/3uOUFs61rANc8dETV3OfID), [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [The Best of Don Cherry](https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4) | 2:35 |
+| 45 | [Come prima](https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv) | [Marino Marini](https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo) | [Guaglione](https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc) | 2:41 |
 | 46 | [Tammy](https://open.spotify.com/track/5aumFAJ6QzEy8Sm9fluanc) | [Debbie Reynolds](https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn) | [Love Is A Simple Thing](https://open.spotify.com/album/4xFfbmS2BiQieVo1nRZi47) | 3:04 |
 | 47 | [Let Me Go, Lover!](https://open.spotify.com/track/0Ribhkc0wstAoYkEY12BDq) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Singles](https://open.spotify.com/album/5LoOStQoPOCIyOReBVcbtR) | 3:04 |
 | 48 | [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/5GiwnZ1KhRI6VS5SSwfeht) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 2:32 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 72 | [Tom Dooley](https://open.spotify.com/track/3nFOQSVdAqr6vPpXA98RnP) | [Lonnie Donegan](https://open.spotify.com/artist/6dIOTeSQDBSR6gwsL0WB2n) | [The EP Collection](https://open.spotify.com/album/4EwFjI32q5wL1cFie4lyPu) | 3:20 |
 | 73 | [Love Is A Many Splendoured Thing](https://open.spotify.com/track/1p3Ae3lSSaJWCHHLrsFNKq) | [The Four Aces](https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy) | [Call The Midwife](https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3) | 3:00 |
 | 74 | [Don't Laugh at Me \('Cause I'm a Fool\)](https://open.spotify.com/track/6VVqpLQDeyEwQd2NQrjQPN) | [Norman Wisdom](https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 3:36 |
-| 75 | [Make It Soon \- 1999 Remaster](https://open.spotify.com/track/20SLjXdA0H3I5IRf4E07Hi) | [Tony Brent](https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj) | [The Best Of Tony Brent](https://open.spotify.com/album/26pN1w1fbL5t8EDI5XvaOn) | 2:34 |
-| 76 | [Half As Much \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/28vTOD76XR7tx6RonEpZc2) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Essential \- Easy Listening](https://open.spotify.com/album/6tLbWFq5usheMkHZwmMFaY) | 2:45 |
-| 77 | [Rose Marie](https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Original Hits \- Country](https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n) | 2:22 |
+| 75 | [Half As Much \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/28vTOD76XR7tx6RonEpZc2) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Essential \- Easy Listening](https://open.spotify.com/album/6tLbWFq5usheMkHZwmMFaY) | 2:45 |
+| 76 | [Rose Marie](https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Original Hits \- Country](https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n) | 2:22 |
+| 77 | [Make It Soon \- 1999 Remaster](https://open.spotify.com/track/20SLjXdA0H3I5IRf4E07Hi) | [Tony Brent](https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj) | [The Best Of Tony Brent](https://open.spotify.com/album/26pN1w1fbL5t8EDI5XvaOn) | 2:34 |
 | 78 | [I'm Walking Behind You \- 2001 Remastered](https://open.spotify.com/track/70PXozsEK1wUHXnT72Wlxh) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Greatest Hits](https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc) | 3:04 |
 | 79 | [We Will Make Love](https://open.spotify.com/track/2RwgGFFWJO0RzyM2VAOwWW) | [Russ Hamilton](https://open.spotify.com/artist/6ghW1DfBe5HLRybsxZrQHV) | [The Best Of The 50's \(Fifties\)](https://open.spotify.com/album/6IT0jEXEkvbJkgGQwFyOud) | 2:40 |
 | 80 | [Changing Partners \- Remastered](https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [All the Greatest Hits Ever Made, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR) | 2:50 |

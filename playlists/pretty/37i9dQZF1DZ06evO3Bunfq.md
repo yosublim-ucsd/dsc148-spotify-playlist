@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 
 > This is Dharius\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,668 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,708 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 28 | [Estilo Malandro](https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:32 |
 | 29 | [Si la muerte pregunta](https://open.spotify.com/track/75q22frRWs67LW2ltg7PLC) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:29 |
 | 30 | [Borracho Gacho](https://open.spotify.com/track/2f552XXwU9KIdxmXQQ4AqN) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Vicio y la Fama](https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI) | 2:45 |
-| 31 | [Hipocresía](https://open.spotify.com/track/4OElCXKZqbE8MhHvhrKX1z) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 4:11 |
-| 32 | [Hey Morra](https://open.spotify.com/track/0q7l3V8Hlbwvs2u9UN6w6P) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 3:53 |
+| 31 | [Hey Morra](https://open.spotify.com/track/0q7l3V8Hlbwvs2u9UN6w6P) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 3:53 |
+| 32 | [Hipocresía](https://open.spotify.com/track/4OElCXKZqbE8MhHvhrKX1z) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 4:11 |
 | 33 | [La Misión \(Episodio 4\)](https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [La Misión \(Episodio 4\)](https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e) | 4:53 |
 | 34 | [No tengo amigos](https://open.spotify.com/track/5Kf28YdJzA9sd1BhpQ1UNr) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:27 |
-| 35 | [Sin Escapatoria](https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Sin Escapatoria](https://open.spotify.com/album/0CykID0bWBhpZHVjqUlx4B) | 3:25 |
-| 36 | [Mala Fama, Buena Vidha](https://open.spotify.com/track/6Ov2J0ExzEMhj6hVirzpWt) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:30 |
+| 35 | [Mala Fama, Buena Vidha](https://open.spotify.com/track/6Ov2J0ExzEMhj6hVirzpWt) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:30 |
+| 36 | [Sin Escapatoria](https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Sin Escapatoria](https://open.spotify.com/album/0CykID0bWBhpZHVjqUlx4B) | 3:25 |
 | 37 | [El Bolsón](https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [El Bolsón](https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe) | 3:51 |
 | 38 | [Retumbando en la Ciudad](https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Retumbando en la Ciudad](https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J) | 3:34 |
 | 39 | [Espejismo](https://open.spotify.com/track/5SddVjDLzloefDoqO2xXJp) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 3:09 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 43 | [Mecha Corta](https://open.spotify.com/track/0eOv02uWpROIogqqzGLGyH) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mecha Corta](https://open.spotify.com/album/08U3yHqqKgyDm0LLwH0gAA) | 3:30 |
 | 44 | [Me juzgan](https://open.spotify.com/track/7DOSRCf92tETax3J3upq3k) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 4:03 |
 | 45 | [Inhala](https://open.spotify.com/track/19U70d6IpR3x8XRBfGMXXI) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Yayo](https://open.spotify.com/artist/74ygGK6cTqo0Q7UadJytEJ) | [Inhala](https://open.spotify.com/album/5BC1qGaUadJLd5y4QIhhJS) | 4:05 |
-| 46 | [Broche De Oro](https://open.spotify.com/track/6bomSYIzgSeymVS1sdUhsu) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Esquina](https://open.spotify.com/album/1AUCWNSatHgDBNYvfthnNa) | 4:27 |
-| 47 | [El Perdedor](https://open.spotify.com/track/5QKymytqsCOJX5Jw7vQYCi) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Perdedor](https://open.spotify.com/album/0J3NgEahBI5Hst8QJEY821) | 3:48 |
+| 46 | [El Perdedor](https://open.spotify.com/track/5QKymytqsCOJX5Jw7vQYCi) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Perdedor](https://open.spotify.com/album/0J3NgEahBI5Hst8QJEY821) | 3:48 |
+| 47 | [Broche De Oro](https://open.spotify.com/track/6bomSYIzgSeymVS1sdUhsu) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Esquina](https://open.spotify.com/album/1AUCWNSatHgDBNYvfthnNa) | 4:27 |
 | 48 | [\#LQMQ](https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP) | 3:31 |
 | 49 | [Porque La Demora](https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Porque La Demora](https://open.spotify.com/album/6zUt368NvVDSN4UCMvGlv7) | 2:49 |
 | 50 | [El After Porky](https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:43 |
 
-Snapshot ID: `Zya9AAAAAAAr0/RZJPBIEA5yVhtLzxDH`
+Snapshot ID: `ZygOgAAAAACT7RMbz8ZGFEwmRyPpvRZR`

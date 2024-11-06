@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,326 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,347 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 7 | [Piel](https://open.spotify.com/track/6kPCcIAGoTeRrh8qrmKa90) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:22 |
 | 8 | [Amor de Vago](https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL) | [Amor de Vago](https://open.spotify.com/album/7dIwIFhUC8xNF0bICvgMX2) | 3:08 |
 | 9 | [AGORA](https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [AGORA](https://open.spotify.com/album/07QCnsWWoXTgLuU43VfB2u) | 2:33 |
-| 10 | [Perdonarte ¿Para Qué?](https://open.spotify.com/track/5djlc1fMHiFsSpsQQtopLy) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte ¿Para Qué?](https://open.spotify.com/album/2yJ4Ic3Bt4DC3kIR7M4Y44) | 3:13 |
+| 10 | [Perdonarte, ¿Para Qué?](https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte, ¿Para Qué?](https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol) | 3:13 |
 | 11 | [Princesa](https://open.spotify.com/track/1db75lVrSgDFZI1gZh8JlV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Princesa](https://open.spotify.com/album/7rd2Pb6dBQvrzgbJU3ihpC) | 2:46 |
 | 12 | [Pa´Que Te Acuerdes \| CROSSOVER \#8](https://open.spotify.com/track/5aZ8rf2aPfZrnRWLA7bByo) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Pa´ Que Te Acuerdes \| CROSSOVER \#8](https://open.spotify.com/album/6Es6kN0L82XnLAaKV02ZoC) | 2:52 |
 | 13 | [QUE ME FALTE TODO](https://open.spotify.com/track/1TyBUtMxdmRfXhW3MmbxtQ) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [QUE NOS FALTE TODO](https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [HOLA PERDIDA](https://open.spotify.com/track/7JKptWv4YXmievid0HajID) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [QUE NOS FALTE TODO](https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G) | 2:46 |
 | 50 | [Un Besito Más](https://open.spotify.com/track/5rQSQlZXXjMcevPGoAfE1z) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA) | [Un Besito Más](https://open.spotify.com/album/6lrNHcXSOvN82VYYtL9wCs) | 2:40 |
 
-Snapshot ID: `Lrw2SAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lr2HyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

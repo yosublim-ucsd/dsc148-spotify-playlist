@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Hollie Kenniff
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,963 likes - 100 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,030 likes - 100 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,16 +36,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 26 | [Fantas Morbida](https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 3:07 |
 | 27 | [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 |
 | 28 | [Wawa by the Ocean](https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces](https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao) | 10:28 |
-| 29 | [Being Her Shadow](https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 4:45 |
+| 29 | [Pale Interior](https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
 | 30 | [Woodland Encounter](https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [See\-Through](https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF) | 6:08 |
 | 31 | [Ubiquitous](https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Holotropica](https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu) | 3:49 |
 | 32 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 |
 | 33 | [ME](https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we), [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Comme Un Seul Narcisse](https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4) | 4:21 |
 | 34 | [Raw Silk Uncut Wood](https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Raw Silk Uncut Wood](https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY) | 10:00 |
 | 35 | [Absolution](https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Micro Macro](https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB) | 2:24 |
-| 36 | [Russian Snow](https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU) | [Lucette Bourdin](https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3) | [Rising Fog](https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil) | 8:28 |
-| 37 | [Drip In The Cave](https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs) | [Katatonic Silentio](https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm) | [Axis Of Light](https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm) | 3:37 |
-| 38 | [Pale Interior](https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
+| 36 | [Drip In The Cave](https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs) | [Katatonic Silentio](https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm) | [Axis Of Light](https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm) | 3:37 |
+| 37 | [Russian Snow](https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU) | [Lucette Bourdin](https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3) | [Rising Fog](https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil) | 8:28 |
+| 38 | [Being Her Shadow](https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 4:45 |
 | 39 | [Car Alarm, Turn Signal](https://open.spotify.com/track/5b9RnePfuBFVrNeoxjvkwD) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Ka Baird](https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6) | [Car Alarm, Turn Signal](https://open.spotify.com/album/5CaNDqcdbSedlvPcCbZ67Z) | 4:47 |
 | 40 | [Billow](https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt) | [Ulla Straus](https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp) | [Big Room](https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE) | 4:27 |
 | 41 | [a path between the clouds](https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE) | [Poemme](https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG) | [Frozen Passages](https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R) | 5:42 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 58 | [Inspirit \- Extended Version](https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Healing Is A Miracle \- Extended Versions](https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d) | 10:40 |
 | 59 | [At Dawn](https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [No\. 4](https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe) | 2:50 |
 | 60 | [Marina\`s Song](https://open.spotify.com/track/6gCrvZ8QV0ftNuWES7SXUP) | [EIRLYS](https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l) | [Marina\`s Song](https://open.spotify.com/album/2NGbCubwWrphNgJYEy2e2g) | 5:03 |
-| 61 | [Ciclo del agua](https://open.spotify.com/track/1EOTAXuiXoMqeTXOsKWqyU) | [RRUCCULLA](https://open.spotify.com/artist/4DyRwqRYLu9youbREKFzNU) | [Rincones Seguros](https://open.spotify.com/album/0TAQ3WfNTsDLEnkZQG1bS5) | 3:45 |
-| 62 | [CHU / 處](https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [CHU / 處](https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC) | 2:23 |
+| 61 | [CHU / 處](https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [CHU / 處](https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC) | 2:23 |
+| 62 | [Ciclo del agua](https://open.spotify.com/track/1EOTAXuiXoMqeTXOsKWqyU) | [RRUCCULLA](https://open.spotify.com/artist/4DyRwqRYLu9youbREKFzNU) | [Rincones Seguros](https://open.spotify.com/album/0TAQ3WfNTsDLEnkZQG1bS5) | 3:45 |
 | 63 | [The Centre of Everything](https://open.spotify.com/track/3eqRtlNi5Dqj9ZM3x7mb6X) | [Alice in Freefall](https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX) | [World Breathes](https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj) | 3:14 |
 | 64 | [Becoming Ferromagnetic](https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Becoming Ferromagnetic](https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ) | 5:28 |
 | 65 | [Cloudbreath](https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 3:07 |

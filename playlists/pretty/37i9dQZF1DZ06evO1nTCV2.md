@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,701 likes - 51 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,703 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 33 | [I'm Sorry And I Love You](https://open.spotify.com/track/4T3C7lqynxYIXDYaLcVE1M) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Wednesdays](https://open.spotify.com/album/2gK2hMSg8rNam7mHpmy3Ek) | 3:34 |
 | 34 | [Chin Up, Cheer Up](https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 2:58 |
 | 35 | [This House Is Not For Sale](https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 3:53 |
-| 36 | [Fuck The Rain](https://open.spotify.com/track/08O1D1vlxPG0NStXrWkWsS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/7IKoFG0yRzDmqalNLJpw6y) | 3:33 |
-| 37 | [Wildest Dreams](https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 5:21 |
-| 38 | [I'm So Lonesome I Could Cry \- Live from Brussels, Belgium\. 2023](https://open.spotify.com/track/6KDMEwkY62VFgorcEXV6Sn) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [I'm so Lonesome I Could Cry \(Live from Brussels, Belgium\. 2023\)](https://open.spotify.com/album/2QHKzxEko5j379hJjAeaKH) | 2:45 |
-| 39 | [Pale Blue Eyes \- Live from Brussels, Belgium\. 2023](https://open.spotify.com/track/465dmul9rRuEvCqM2h1nPk) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Pale Blue Eyes \(Live from Brussels, Belgium\. 2023\)](https://open.spotify.com/album/0voZlAVCVvl0tyGVC7NHUj) | 4:26 |
-| 40 | [The Rescue Blues](https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:38 |
-| 41 | [English Girls Approximately](https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:40 |
+| 36 | [Wildest Dreams](https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 5:21 |
+| 37 | [Fuck The Rain](https://open.spotify.com/track/08O1D1vlxPG0NStXrWkWsS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/7IKoFG0yRzDmqalNLJpw6y) | 3:33 |
+| 38 | [Pale Blue Eyes \- Live from Brussels, Belgium\. 2023](https://open.spotify.com/track/465dmul9rRuEvCqM2h1nPk) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Pale Blue Eyes \(Live from Brussels, Belgium\. 2023\)](https://open.spotify.com/album/0voZlAVCVvl0tyGVC7NHUj) | 4:26 |
+| 39 | [I'm So Lonesome I Could Cry \- Live from Brussels, Belgium\. 2023](https://open.spotify.com/track/6KDMEwkY62VFgorcEXV6Sn) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [I'm so Lonesome I Could Cry \(Live from Brussels, Belgium\. 2023\)](https://open.spotify.com/album/2QHKzxEko5j379hJjAeaKH) | 2:45 |
+| 40 | [English Girls Approximately](https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:40 |
+| 41 | [The Rescue Blues](https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:38 |
 | 42 | [Out of the Woods](https://open.spotify.com/track/1WALf3LQsgkXda1jjsBsSV) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 6:07 |
 | 43 | [Halloweenhead](https://open.spotify.com/track/04N3X9vfSzIpkgnD15pCzz) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 3:23 |
 | 44 | [Free Bird \- Live from Brussels, Belgium\. 2023](https://open.spotify.com/track/1SvonsO64oFlCKvbh91aGX) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Candy Says \(Live from Brussels, Belgium\. 2023\)](https://open.spotify.com/album/2kspNWSth47GH6DwITiDVq) | 3:08 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 50 | [The Shadowlands](https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:18 |
 | 51 | [How Much Light](https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [I Do Not Feel Like Being Good](https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD) | 3:15 |
 
-Snapshot ID: `Zya9AAAAAACE/vfcaspjZuhcRk3HR/9Q`
+Snapshot ID: `ZygOgAAAAACUGmTVkhmrdr50sSUrjtqz`

@@ -1,6 +1,6 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Jensen McRae",
-  "num_followers": 300437,
+  "num_followers": 300526,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Streetlights",
-        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Angel from Montgomery - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "MOSS",
         "url": "https://open.spotify.com/album/53RbAh13qFqN6wKraRLipl"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 207389,
       "name": "Th\u00e9r\u00e8se",
       "url": "https://open.spotify.com/track/4R7m6ZnA6GpuVikRKj2DGY"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Streetlights",
+        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Angel from Montgomery - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Mudroom",
-        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 239895,
-      "name": "Mudroom",
-      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Sadness As A Gift",
         "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 259015,
       "name": "Sadness As A Gift",
       "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Mudroom",
+        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 239895,
+      "name": "Mudroom",
+      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
         "name": "Rain On Sunday",
         "url": "https://open.spotify.com/album/2VGzHqnVWTiMlKfnCoXU0U"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 215093,
       "name": "If Ever (with Jack Johnson & Ben Harper)",
       "url": "https://open.spotify.com/track/3lQY1TrOzBKG9c83ALIX77"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Car Wheels On A Gravel Road",
-        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 284560,
-      "name": "Car Wheels On A Gravel Road",
-      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "A Month Or Two",
         "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 191226,
       "name": "A Month Or Two",
       "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Car Wheels On A Gravel Road",
+        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 284560,
+      "name": "Car Wheels On A Gravel Road",
+      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "The Harrow & The Harvest",
-        "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 241957,
-      "name": "The Way It Goes",
-      "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Because I Wanted You to Know",
         "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 184301,
       "name": "As It Is",
       "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "The Harrow & The Harvest",
+        "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 241957,
+      "name": "The Way It Goes",
+      "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "World On The Ground",
-        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 197640,
       "name": "Good Woman",
       "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "World On The Ground",
+        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Quiet the Room",
         "url": "https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 225154,
       "name": "Whatever Fits Together",
       "url": "https://open.spotify.com/track/3Ya357rg6humSfjzHxpdJ2"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Optimism",
-        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
-      },
-      "artists": [
-        {
-          "name": "Jana Horn",
-          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
-        }
-      ],
-      "duration_ms": 119372,
-      "name": "Optimism",
-      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Stand For Myself",
         "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 204693,
       "name": "Diamond Studded Shoes",
       "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Optimism",
+        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
+      },
+      "artists": [
+        {
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+        }
+      ],
+      "duration_ms": 119372,
+      "name": "Optimism",
+      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "Wild Turkey",
-      "url": "https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Violet Light",
         "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 173077,
       "name": "How Bad I Wanna Live",
       "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "Wild Turkey",
+      "url": "https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
+        "name": "Life Is",
+        "url": "https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Life Is",
+      "url": "https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
         "name": "B\u00e9la Fleck & Abigail Washburn",
         "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 216306,
       "name": "Railroad",
       "url": "https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
-        "name": "Life Is",
-        "url": "https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Life Is",
-      "url": "https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Hunt You Down",
-        "url": "https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Hunt You Down",
-      "url": "https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Would You Mind Please Pulling Me Close?",
         "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 243925,
       "name": "Would You Mind Please Pulling Me Close?",
       "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Hunt You Down",
+        "url": "https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Hunt You Down",
+      "url": "https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Polaroid Lovers",
-        "url": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 180524,
-      "name": "Runaway Train",
-      "url": "https://open.spotify.com/track/3cebUq89Iq26AHYYu5sLac"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
       },
@@ -1635,18 +1619,18 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "The Bird & the Rifle",
-        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
+        "name": "Polaroid Lovers",
+        "url": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
       },
       "artists": [
         {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 198186,
-      "name": "Wreck You",
-      "url": "https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM"
+      "duration_ms": 180524,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/3cebUq89Iq26AHYYu5sLac"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1663,6 +1647,22 @@
       "duration_ms": 235146,
       "name": "The Capitalist Blues",
       "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "The Bird & the Rifle",
+        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 198186,
+      "name": "Wreck You",
+      "url": "https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Circles And Arrows",
-        "url": "https://open.spotify.com/album/5n7a1XEKjjbwh5gGt98tCo"
-      },
-      "artists": [
-        {
-          "name": "Cheryl Wheeler",
-          "url": "https://open.spotify.com/artist/4bvWv6KDmnNNJCfElUEgsZ"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Northern Girl",
-      "url": "https://open.spotify.com/track/7noNmrmVAtMU5v37MOS5s7"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/3KkxlIx2jtJYW2nOIjnkAw"
       },
@@ -1783,6 +1767,22 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
+        "name": "Circles And Arrows",
+        "url": "https://open.spotify.com/album/5n7a1XEKjjbwh5gGt98tCo"
+      },
+      "artists": [
+        {
+          "name": "Cheryl Wheeler",
+          "url": "https://open.spotify.com/artist/4bvWv6KDmnNNJCfElUEgsZ"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Northern Girl",
+      "url": "https://open.spotify.com/track/7noNmrmVAtMU5v37MOS5s7"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
         "name": "Sorry Now",
         "url": "https://open.spotify.com/album/72kgT7HDOlYmJmmIxUwy7k"
       },
@@ -1795,6 +1795,22 @@
       "duration_ms": 192160,
       "name": "Sorry Now",
       "url": "https://open.spotify.com/track/5vTnp3Oue2Vioki5Jn5Nwx"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Paradise Hotel",
+        "url": "https://open.spotify.com/album/2PEWS3JPX85pShEiYXmlLa"
+      },
+      "artists": [
+        {
+          "name": "Eliza Gilkyson",
+          "url": "https://open.spotify.com/artist/1x2vfyp8dGA84qgwb3D9QG"
+        }
+      ],
+      "duration_ms": 349413,
+      "name": "Is It Like Today",
+      "url": "https://open.spotify.com/track/09DewAwnhcRWoN0VOEB8u4"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1843,22 +1859,6 @@
       "duration_ms": 192466,
       "name": "Heart Like a Wheel",
       "url": "https://open.spotify.com/track/7ctYp2gIPnE79lRzov5k2n"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
-        "name": "Paradise Hotel",
-        "url": "https://open.spotify.com/album/2PEWS3JPX85pShEiYXmlLa"
-      },
-      "artists": [
-        {
-          "name": "Eliza Gilkyson",
-          "url": "https://open.spotify.com/artist/1x2vfyp8dGA84qgwb3D9QG"
-        }
-      ],
-      "duration_ms": 349413,
-      "name": "Is It Like Today",
-      "url": "https://open.spotify.com/track/09DewAwnhcRWoN0VOEB8u4"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -2015,6 +2015,22 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
+        "name": "Working Man",
+        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
         "name": "See You Around",
         "url": "https://open.spotify.com/album/6nIGYJuUbUNPlqLseIbFQh"
       },
@@ -2039,22 +2055,6 @@
       "duration_ms": 225893,
       "name": "Game To Lose",
       "url": "https://open.spotify.com/track/6hRmSHcTdXbIp66h9Aj8Mc"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
-        "name": "Working Man",
-        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "American Siren",
-        "url": "https://open.spotify.com/album/5ZGhlw7RozA6DfbDeV68Bn"
-      },
-      "artists": [
-        {
-          "name": "Emily Scott Robinson",
-          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
-        }
-      ],
-      "duration_ms": 226466,
-      "name": "Old Gods",
-      "url": "https://open.spotify.com/track/75CnQWeQ1V4tFSnes66c8H"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "That's How Rumors Get Started",
         "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 194533,
       "name": "Letting Me Down",
       "url": "https://open.spotify.com/track/0CFJazMm76jtItqdPYQ53O"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "American Siren",
+        "url": "https://open.spotify.com/album/5ZGhlw7RozA6DfbDeV68Bn"
+      },
+      "artists": [
+        {
+          "name": "Emily Scott Robinson",
+          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/75CnQWeQ1V4tFSnes66c8H"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -2475,22 +2475,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Rock Bottom",
-        "url": "https://open.spotify.com/album/21PZ6vS8uahnrZmySYDh3K"
-      },
-      "artists": [
-        {
-          "name": "Ira Wolf",
-          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
-        }
-      ],
-      "duration_ms": 236146,
-      "name": "Currency",
-      "url": "https://open.spotify.com/track/43eUMLFb0WHjuBigpHKhNT"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Atomic Number",
         "url": "https://open.spotify.com/album/2KUkCcrWIdNe4tqAdsHFyk"
       },
@@ -2515,6 +2499,22 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
+        "name": "Rock Bottom",
+        "url": "https://open.spotify.com/album/21PZ6vS8uahnrZmySYDh3K"
+      },
+      "artists": [
+        {
+          "name": "Ira Wolf",
+          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
+        }
+      ],
+      "duration_ms": 236146,
+      "name": "Currency",
+      "url": "https://open.spotify.com/track/43eUMLFb0WHjuBigpHKhNT"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
         "name": "Some Good Lives",
         "url": "https://open.spotify.com/album/3uabupxSHc1Nrvk1OKkzO8"
       },
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Hours Are the New Days",
-        "url": "https://open.spotify.com/album/3icg7KC4xfcrVtgANJ0duJ"
-      },
-      "artists": [
-        {
-          "name": "Mary Glenn",
-          "url": "https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0"
-        }
-      ],
-      "duration_ms": 244664,
-      "name": "Hours Are the New Days",
-      "url": "https://open.spotify.com/track/4Yj0zFarMIlpNj8eyQPq53"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/38twMt2I8ceWNWtoqqvENP"
       },
@@ -2559,6 +2543,22 @@
       "duration_ms": 179306,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Hours Are the New Days",
+        "url": "https://open.spotify.com/album/3icg7KC4xfcrVtgANJ0duJ"
+      },
+      "artists": [
+        {
+          "name": "Mary Glenn",
+          "url": "https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0"
+        }
+      ],
+      "duration_ms": 244664,
+      "name": "Hours Are the New Days",
+      "url": "https://open.spotify.com/track/4Yj0zFarMIlpNj8eyQPq53"
     },
     {
       "added_at": "2024-07-05 18:47:06",

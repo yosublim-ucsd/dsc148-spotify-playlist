@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,587 likes - 51 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,592 likes - 51 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 50 | [Glória & Honra](https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 6:25 |
 | 51 | [Elohim / Não Mais Escravos \- Ao Vivo](https://open.spotify.com/track/7ep4wOYoOgtObGj4gomwSs) | [Clamor Pelas Nações](https://open.spotify.com/artist/6ube8yDyEYxMvAGmuzwNEF), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Ricardo Robortella](https://open.spotify.com/artist/17B72UyTRtaLFcuC5juWmz) | [Elohim / Não Mais Escravos \(Ao Vivo\)](https://open.spotify.com/album/1YJXXC0I9iandkorigXckC) | 6:43 |
 
-Snapshot ID: `Zya9AAAAAABDYd3LK55uw2EgoELhe1iG`
+Snapshot ID: `ZygOgAAAAACU1clbsB/kwT1JUwegkFr5`

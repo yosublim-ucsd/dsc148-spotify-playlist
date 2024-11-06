@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33svt5.md) - [plain]
 
 > This is Doja Cat\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,039,652 likes - 52 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,039,777 likes - 52 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33svt5.md) - [plain]
 | 47 | [ACKNOWLEDGE ME](https://open.spotify.com/track/2Ke8xquzK9JyPt6OPGBVTI) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet 2 CLAUDE](https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2) | 3:10 |
 | 48 | [Up And Down](https://open.spotify.com/track/1uQ1TZ9YIWCtBTgq09uoix) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her \(Deluxe\)](https://open.spotify.com/album/4XLPYMERZZaBzkJg0mkdvO) | 2:31 |
 | 49 | [Go Off](https://open.spotify.com/track/032UZ3KVrzII6AE9Abnj7z) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:17 |
-| 50 | [MASC \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0FdW7MEbDKdz8v5TXqcFkG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Scarlet 2 CLAUDE](https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2) | 3:25 |
-| 51 | [Can't Wait](https://open.spotify.com/track/5ZyQqAgrPr0cVm0VfM69Np) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:55 |
-| 52 | [Wet Vagina](https://open.spotify.com/track/5MqauQV2PhcEFfhKtBOTua) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:12 |
+| 50 | [Pussy Talk](https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:38 |
+| 51 | [MASC \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0FdW7MEbDKdz8v5TXqcFkG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Scarlet 2 CLAUDE](https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2) | 3:25 |
+| 52 | [Can't Wait](https://open.spotify.com/track/5ZyQqAgrPr0cVm0VfM69Np) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:55 |
 
-Snapshot ID: `Zya9AAAAAADiaRRG4EfjFXUgsf8bonEL`
+Snapshot ID: `ZygOgAAAAACHPcovE2uyY+eNAa3Kf1ii`

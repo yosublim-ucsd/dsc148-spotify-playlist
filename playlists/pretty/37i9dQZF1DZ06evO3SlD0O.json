@@ -1,12 +1,12 @@
 {
   "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 25913,
+  "num_followers": 25920,
   "original_name": "This Is Los Traileros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAAChBlBKVoOG7j0xWG0GJtkx",
+  "snapshot_id": "ZygOgAAAAACZ2KgM95f6C4S8P1qFrjKZ",
   "tracks": [
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 145520,
-      "name": "La Entrega",
-      "url": "https://open.spotify.com/track/4E2uYqHn60DDtOP16sLMuz"
+      "duration_ms": 125133,
+      "name": "El Conejito",
+      "url": "https://open.spotify.com/track/6tglYfAohZzigQWwukU1T6"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 125133,
-      "name": "El Conejito",
-      "url": "https://open.spotify.com/track/6tglYfAohZzigQWwukU1T6"
+      "duration_ms": 145520,
+      "name": "La Entrega",
+      "url": "https://open.spotify.com/track/4E2uYqHn60DDtOP16sLMuz"
     },
     {
       "added_at": null,

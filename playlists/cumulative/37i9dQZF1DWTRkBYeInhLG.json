@@ -1509,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "The Best Of Andre Hehanussa",
+        "url": "https://open.spotify.com/album/3Y2EhVB5y5EhZ8arApRoas"
+      },
+      "artists": [
+        {
+          "name": "Andre Hehanussa",
+          "url": "https://open.spotify.com/artist/76uP2Wqg5YSfW8JLOQk4Qb"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241733,
+      "name": "KKEB",
+      "url": "https://open.spotify.com/track/71NQP11KgFDEJzzrks7wcn"
+    },
+    {
+      "album": {
         "name": "Komang",
         "url": "https://open.spotify.com/album/6qNAh30wzA0xwInyRza9XD"
       },
@@ -2972,7 +2990,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 218405,
       "name": "Tanpa Tergesa",
       "url": "https://open.spotify.com/track/66wRGrt1HmeVa1wtnWMj6C"

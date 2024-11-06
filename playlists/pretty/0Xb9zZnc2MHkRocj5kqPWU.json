@@ -6,7 +6,7 @@
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAHj6WpiBlVoJVzUdM1VfG5HouHRAlA",
+  "snapshot_id": "AAAHkT5ut4pZcyA0cal45gxNo4UZgwNH",
   "tracks": [
     {
       "added_at": "2024-10-30 13:33:09",
@@ -67,6 +67,26 @@
       "duration_ms": 213382,
       "name": "Open Fields",
       "url": "https://open.spotify.com/track/7zYnlqCePHqm34anuV9vM2"
+    },
+    {
+      "added_at": "2024-11-05 14:52:14",
+      "album": {
+        "name": "Human Universe",
+        "url": "https://open.spotify.com/album/1lQFEZutkw8GBJACT06LM3"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
+        }
+      ],
+      "duration_ms": 264640,
+      "name": "Debussy: Clair de Lune",
+      "url": "https://open.spotify.com/track/0JqCZH9a6xWjiw68rNwxG2"
     },
     {
       "added_at": "2024-10-16 13:40:29",
@@ -559,26 +579,6 @@
       "duration_ms": 156066,
       "name": "Sonata No. 42 in D Minor",
       "url": "https://open.spotify.com/track/2RTqiYtiTKhkctjDOGgQlL"
-    },
-    {
-      "added_at": "2024-08-21 19:43:09",
-      "album": {
-        "name": "Sakamoto: solari",
-        "url": "https://open.spotify.com/album/5pweojtaklLhDo7qdNVEBr"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        },
-        {
-          "name": "Hayato Sumino",
-          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
-        }
-      ],
-      "duration_ms": 165693,
-      "name": "Sakamoto: solari",
-      "url": "https://open.spotify.com/track/1yp9xapvzXJ6b7jin86HjO"
     },
     {
       "added_at": "2024-08-21 19:50:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 
 > This is Carolina Ross\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,628 likes - 47 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,627 likes - 47 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 | 30 | [Si Quieres \- Versión Mariachi](https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Si Quieres \(Versión Mariachi\)](https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc) | 4:18 |
 | 31 | [Despacito](https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:51 |
 | 32 | [Nadie Es Indispensable](https://open.spotify.com/track/73nDfaFbDrTQIFEUG6Q2nY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 3:02 |
-| 33 | [Tengo Que Colgar](https://open.spotify.com/track/5k9In7MRqmG3fSxjpaLIzD) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 4:02 |
-| 34 | [Siempre Te Voy a Querer](https://open.spotify.com/track/2bNYigumZc9MMdc621Hn7N) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY) | 3:46 |
+| 33 | [Siempre Te Voy a Querer](https://open.spotify.com/track/2bNYigumZc9MMdc621Hn7N) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY) | 3:46 |
+| 34 | [Tengo Que Colgar](https://open.spotify.com/track/5k9In7MRqmG3fSxjpaLIzD) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 4:02 |
 | 35 | [Decide Qué Somos](https://open.spotify.com/track/0gYEHUYvIBgNnNLiUKYoHg) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 2:49 |
 | 36 | [Menos Mal Que Me Querías](https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Menos Mal Que Me Querías](https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW) | 2:37 |
 | 37 | [Mi Mayor Anhelo](https://open.spotify.com/track/5GF4Jwl28VSwPZrweQEXst) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 3:11 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 | 46 | [Flores](https://open.spotify.com/track/7gn2w2Kff4d9njp2SbtMtA) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Flores](https://open.spotify.com/album/5h4a45hu6p0pFpmteYSJZw) | 2:34 |
 | 47 | [Cuando Caiga La Noche](https://open.spotify.com/track/25xtqmANsVCuTfdoEHMnAv) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 3:21 |
 
-Snapshot ID: `Zya9AAAAAADN2sUjG/1Ohj6HlPkearlW`
+Snapshot ID: `ZygOgAAAAABz3Jd4SpQgi9z/j7X0nvVx`

@@ -1,130 +1,34 @@
 {
-  "description": "T\u00fcrkiye'nin birbirinden g\u00fc\u00e7l\u00fc kad\u0131n sesleri bir arada. Kapak: Sertab Erener",
-  "num_followers": 77273,
+  "description": "T\u00fcrkiye'nin birbirinden g\u00fc\u00e7l\u00fc kad\u0131n sesleri bir arada. Kapak: Simge P\u0131nar",
+  "num_followers": 77283,
   "original_name": "EQUAL T\u00fcrkiye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw0+pgAAAACUqrLTfRd9+TDyrD3O3RGX",
+  "snapshot_id": "ZyqHUAAAAABeNK3/SCWdKXMHlqkAEGB0",
   "tracks": [
     {
-      "added_at": "2024-10-01 21:43:02",
+      "added_at": "2024-11-05 21:00:00",
       "album": {
-        "name": "Sen \u0130ste",
-        "url": "https://open.spotify.com/album/1YOztSqsIoCFQB3rP0s4EV"
+        "name": "Sen Evimdin",
+        "url": "https://open.spotify.com/album/67fqX2M6TOIuXx25BVPHYb"
       },
       "artists": [
         {
-          "name": "Sertab Erener",
-          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
+          "name": "Simge P\u0131nar",
+          "url": "https://open.spotify.com/artist/3LaMLuHw30v7Smtt3mcrjE"
         }
       ],
-      "duration_ms": 203358,
-      "name": "Sen \u0130ste",
-      "url": "https://open.spotify.com/track/1s42fdgiINV0t72XimbLdJ"
+      "duration_ms": 240730,
+      "name": "Sen Evimdin",
+      "url": "https://open.spotify.com/track/1FjEqUzW15l8AVB23BS1zn"
     },
     {
-      "added_at": "2024-10-01 21:43:02",
+      "added_at": "2024-11-05 21:00:00",
       "album": {
-        "name": "Ak\u015famlarda",
-        "url": "https://open.spotify.com/album/4YLun4JSgAX1ckS3GL66og"
-      },
-      "artists": [
-        {
-          "name": "Kalben",
-          "url": "https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV"
-        }
-      ],
-      "duration_ms": 243646,
-      "name": "Ak\u015famlarda",
-      "url": "https://open.spotify.com/track/2IFBw39BL4Qn1O4qcvrwjQ"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Ben B\u00f6yle",
-        "url": "https://open.spotify.com/album/55EPPWTtxqRsqbyD7zkyng"
-      },
-      "artists": [
-        {
-          "name": "Zeynep Bast\u0131k",
-          "url": "https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1"
-        }
-      ],
-      "duration_ms": 130080,
-      "name": "Ben B\u00f6yle",
-      "url": "https://open.spotify.com/track/4QCav8A7C8fOrX2gQNShuh"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "MONA LISA",
-        "url": "https://open.spotify.com/album/5Gm2EfvHhNu1Nkd1WMMfUW"
-      },
-      "artists": [
-        {
-          "name": "M Lisa",
-          "url": "https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc"
-        }
-      ],
-      "duration_ms": 133500,
-      "name": "VURDUM TELLER\u0130NE",
-      "url": "https://open.spotify.com/track/5Y5fFEqazjbtNAgbx9noTF"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Kli\u015fe Masallar",
-        "url": "https://open.spotify.com/album/1tZ0jzNknHwfwAL82Lgzpf"
-      },
-      "artists": [
-        {
-          "name": "G\u00fcne\u015f",
-          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
-        }
-      ],
-      "duration_ms": 166754,
-      "name": "Kli\u015fe Masallar",
-      "url": "https://open.spotify.com/track/1AebpV6yEV2kD7KPv70Pro"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Can\u0131n Beni \u00c7ekti",
-        "url": "https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB"
-      },
-      "artists": [
-        {
-          "name": "Melike \u015eahin",
-          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
-        }
-      ],
-      "duration_ms": 193621,
-      "name": "Can\u0131n Beni \u00c7ekti",
-      "url": "https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Bir Yol Bu",
-        "url": "https://open.spotify.com/album/5kMATpx7sTlBDByIzh2lxX"
-      },
-      "artists": [
-        {
-          "name": "Beng\u00fc Beker",
-          "url": "https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW"
-        }
-      ],
-      "duration_ms": 181278,
-      "name": "Bir Yol Bu",
-      "url": "https://open.spotify.com/track/1K0MhAS7ZzSh7Btzg1C3MJ"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Kafam Leyla",
-        "url": "https://open.spotify.com/album/6ZDZObHRFNHfMbT4x8lcjw"
+        "name": "Yasemen",
+        "url": "https://open.spotify.com/album/10hs7zZCXHauEHe9mjzG0z"
       },
       "artists": [
         {
@@ -132,487 +36,335 @@
           "url": "https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9"
         }
       ],
-      "duration_ms": 168747,
-      "name": "Kafam Leyla",
-      "url": "https://open.spotify.com/track/7MN4Igk2OkMaR2FbBUKEpa"
+      "duration_ms": 150909,
+      "name": "Yasemen",
+      "url": "https://open.spotify.com/track/2SVoUZdzxuDuxBdHSO73KF"
     },
     {
-      "added_at": "2024-10-01 21:43:02",
+      "added_at": "2024-11-05 21:00:00",
       "album": {
-        "name": "NOLDUYSA OLDU",
-        "url": "https://open.spotify.com/album/2szyZK8995Knlb6krlCSw9"
+        "name": "Bulu\u015f Benimle",
+        "url": "https://open.spotify.com/album/3SYetO3WwyUTnCzCOaKYFg"
       },
       "artists": [
         {
-          "name": "Mela Bedel",
-          "url": "https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY"
+          "name": "Kalben",
+          "url": "https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV"
         }
       ],
-      "duration_ms": 151391,
-      "name": "NOLDUYSA OLDU",
-      "url": "https://open.spotify.com/track/4JygvKkVjhgA2v5MNFqeEP"
+      "duration_ms": 217764,
+      "name": "Bulu\u015f Benimle",
+      "url": "https://open.spotify.com/track/2ypx5BvZiaA2ekTVKBK9fS"
     },
     {
-      "added_at": "2024-10-01 21:43:02",
+      "added_at": "2024-11-05 21:00:00",
       "album": {
-        "name": "Yukar\u0131 Bak",
-        "url": "https://open.spotify.com/album/3Y8HenXWXRHWEcHeCqaKFY"
+        "name": "kapkara",
+        "url": "https://open.spotify.com/album/3gHChYYRQh3K9U2Waz87xZ"
+      },
+      "artists": [
+        {
+          "name": "S\u0131la",
+          "url": "https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0"
+        }
+      ],
+      "duration_ms": 243900,
+      "name": "kapkara",
+      "url": "https://open.spotify.com/track/17ZlQdhdC3h3bkzfNdWrGr"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Tamam m\u0131?",
+        "url": "https://open.spotify.com/album/3Ie7oA6ziUYQIYOEZ6FLOq"
+      },
+      "artists": [
+        {
+          "name": "Esin \u0130R\u0130S",
+          "url": "https://open.spotify.com/artist/6dpY6muER7DKdsC6KhFid4"
+        }
+      ],
+      "duration_ms": 194147,
+      "name": "Tamam m\u0131?",
+      "url": "https://open.spotify.com/track/1aSt690cluxr3Xhi3xQ3Dz"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Enfus",
+        "url": "https://open.spotify.com/album/2VnweK6Od0fDlJFAnqIRbO"
+      },
+      "artists": [
+        {
+          "name": "Elif Kaya",
+          "url": "https://open.spotify.com/artist/0YP9sio4vk1BLyCWg3DG1r"
+        }
+      ],
+      "duration_ms": 230459,
+      "name": "Enfus",
+      "url": "https://open.spotify.com/track/3ce5WNaKnWb7IB3LJnZlU9"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Harbin Anlam\u0131 Yok",
+        "url": "https://open.spotify.com/album/0nZsExgn9jZNVBJ6PpUNLp"
+      },
+      "artists": [
+        {
+          "name": "Melis Yelman",
+          "url": "https://open.spotify.com/artist/5293MFbMbXTTvCZP8hezDv"
+        }
+      ],
+      "duration_ms": 133206,
+      "name": "Harbin Anlam\u0131 Yok",
+      "url": "https://open.spotify.com/track/7DcEiDSEi8HhbRqBfA3lmO"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "KAL",
+        "url": "https://open.spotify.com/album/4jWna7DPVBIbWj226wJLx2"
+      },
+      "artists": [
+        {
+          "name": "Ekin Beril",
+          "url": "https://open.spotify.com/artist/1sJ90imre0sj4Kj4a8xyXp"
+        }
+      ],
+      "duration_ms": 140329,
+      "name": "KAL",
+      "url": "https://open.spotify.com/track/07MWc97BiYTbQgGQ3fEJHS"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Kalbin A\u011flasada",
+        "url": "https://open.spotify.com/album/2U2I7mOuR3qRpgarX9Gcoa"
+      },
+      "artists": [
+        {
+          "name": "Niran \u00dcnsal",
+          "url": "https://open.spotify.com/artist/1BvyGRrehtERIWjXKsgzWo"
+        }
+      ],
+      "duration_ms": 248215,
+      "name": "Kalbin A\u011flasada",
+      "url": "https://open.spotify.com/track/1pRitNd0FFnsC2oc2cQ0xL"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Affet",
+        "url": "https://open.spotify.com/album/5sdFer3k1Cxw0NZiBU6Uh4"
+      },
+      "artists": [
+        {
+          "name": "Zerrin \u00d6zer",
+          "url": "https://open.spotify.com/artist/2CleFSxMoxkm2RduyMwcrm"
+        }
+      ],
+      "duration_ms": 196510,
+      "name": "Affet",
+      "url": "https://open.spotify.com/track/2icd0Qoi3aCTuPNesx4wza"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "H\u0130SSETT\u0130M",
+        "url": "https://open.spotify.com/album/35QkSWKDZ9E79IMeAbkVlw"
+      },
+      "artists": [
+        {
+          "name": "aisu",
+          "url": "https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "H\u0130SSETT\u0130M",
+      "url": "https://open.spotify.com/track/0gJOyisLF12MV6K1yvKDas"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "TANTUN\u0130",
+        "url": "https://open.spotify.com/album/3qqsR5ECbYrHETWrE2Opiz"
+      },
+      "artists": [
+        {
+          "name": "ALIZADE",
+          "url": "https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz"
+        }
+      ],
+      "duration_ms": 90000,
+      "name": "TANTUN\u0130",
+      "url": "https://open.spotify.com/track/0dLDhZYWdKKhcpIm2Cjeuj"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Zemberek",
+        "url": "https://open.spotify.com/album/3PBAZCQDUMq8nYWFduOsYm"
+      },
+      "artists": [
+        {
+          "name": "Merve \u00c7alkan",
+          "url": "https://open.spotify.com/artist/40nToqTbZUUXhFhx4zkbD3"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Zemberek",
+      "url": "https://open.spotify.com/track/0hD3X0eqr8H8BCxGL2BHMX"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "A\u015fk G\u00fczel \u015eey Sanm\u0131\u015f\u0131m",
+        "url": "https://open.spotify.com/album/7HAOvCvXQYlQLwGwe6YBiN"
+      },
+      "artists": [
+        {
+          "name": "Elif Buse Do\u011fan",
+          "url": "https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS"
+        }
+      ],
+      "duration_ms": 183846,
+      "name": "A\u015fk G\u00fczel \u015eey Sanm\u0131\u015f\u0131m",
+      "url": "https://open.spotify.com/track/6eG7H0d9FP9KiFQI5AA2Wf"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "G\u00fcne\u015f Daha G\u00fczel Do\u011facak",
+        "url": "https://open.spotify.com/album/1SbNxjs7nGerRVwShbjoCO"
+      },
+      "artists": [
+        {
+          "name": "Eda Baba",
+          "url": "https://open.spotify.com/artist/0sG2HOcaA6eqnGTeLMJpRm"
+        }
+      ],
+      "duration_ms": 229083,
+      "name": "G\u00fcne\u015f Daha G\u00fczel Do\u011facak",
+      "url": "https://open.spotify.com/track/58xYPJIPeOKJN5uqWuMlpm"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "SORDU\u011eU KADAR",
+        "url": "https://open.spotify.com/album/0dAKCAwONzVxKCuxqPYNgF"
+      },
+      "artists": [
+        {
+          "name": "B\u00eedar",
+          "url": "https://open.spotify.com/artist/7jOk8UWLjN0boLFk0q9RgT"
+        }
+      ],
+      "duration_ms": 202282,
+      "name": "SORDU\u011eU KADAR",
+      "url": "https://open.spotify.com/track/5iWII4xRXqnUwwsQdzBZ5A"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Ete\u011fimdeki Ta\u015flar (Akustik)",
+        "url": "https://open.spotify.com/album/2pz2OoUPRW1ugq6iOxb8t7"
       },
       "artists": [
         {
           "name": "\u015eenceylik",
           "url": "https://open.spotify.com/artist/571gGI6PcQbBN0SZ5QEI5i"
-        },
-        {
-          "name": "Safiye",
-          "url": "https://open.spotify.com/artist/3J5L8phe7TP0vhoiXdJizP"
         }
       ],
-      "duration_ms": 133625,
-      "name": "Yukar\u0131 Bak",
-      "url": "https://open.spotify.com/track/0eoIZ6iNH7GcCNcpqYTOn1"
+      "duration_ms": 318000,
+      "name": "Hayret (Akustik)",
+      "url": "https://open.spotify.com/track/6SCdtzJP63VXUZ23tNch8B"
     },
     {
-      "added_at": "2024-10-01 21:43:02",
+      "added_at": "2024-11-05 21:00:00",
       "album": {
-        "name": "T\u00d6VBE",
-        "url": "https://open.spotify.com/album/3cfN03TdOT893v64NbgpQG"
+        "name": "G\u00fcc\u00fcm Yok",
+        "url": "https://open.spotify.com/album/1ywWSw85x5lEAPb8mi49HM"
       },
       "artists": [
         {
-          "name": "Beril Raperin",
-          "url": "https://open.spotify.com/artist/7LjdSdCRrPRUEUSy5ChO6G"
+          "name": "Melis Karaduman",
+          "url": "https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG"
         }
       ],
-      "duration_ms": 178740,
-      "name": "T\u00d6VBE",
-      "url": "https://open.spotify.com/track/7KBBTgm3GiGmGWAQNjfL65"
+      "duration_ms": 168426,
+      "name": "G\u00fcc\u00fcm Yok",
+      "url": "https://open.spotify.com/track/0yXU2mHp4li95DiqWX2K9X"
     },
     {
-      "added_at": "2024-10-01 21:43:02",
+      "added_at": "2024-11-05 21:00:00",
       "album": {
-        "name": "Yalan",
-        "url": "https://open.spotify.com/album/2cvSVKnvk7noDdqGBVDGLK"
+        "name": "D\u00f6neceksin Diye S\u00f6z Ver",
+        "url": "https://open.spotify.com/album/22gTrjcf3TzQ6sXJb69xhG"
       },
       "artists": [
         {
-          "name": "Melis Fis",
-          "url": "https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8"
+          "name": "Ay\u00e7a \u00d6zefe",
+          "url": "https://open.spotify.com/artist/01GsQzZqKa4M0j3CJ9BF13"
         }
       ],
-      "duration_ms": 170757,
-      "name": "Yalan",
-      "url": "https://open.spotify.com/track/18JIIA7skQT8h7a13nMHfh"
+      "duration_ms": 204428,
+      "name": "D\u00f6neceksin Diye S\u00f6z Ver",
+      "url": "https://open.spotify.com/track/7lpzmQvn7wQZQSKOed8QEy"
     },
     {
-      "added_at": "2024-10-01 21:43:02",
+      "added_at": "2024-11-05 21:00:00",
       "album": {
-        "name": "Bi' Fark\u0131n Var",
-        "url": "https://open.spotify.com/album/3vgV50xyw8ldVEPJEXbZqA"
+        "name": "I Don\u2019t Want To!",
+        "url": "https://open.spotify.com/album/5WsRz6HtJrqC5g2IPxomv1"
       },
       "artists": [
         {
-          "name": "G\u00fcliz Ayla",
-          "url": "https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs"
+          "name": "Min Taka",
+          "url": "https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH"
         }
       ],
-      "duration_ms": 152450,
-      "name": "Bi' Fark\u0131n Var",
-      "url": "https://open.spotify.com/track/7yV4NuGTMAwTJyymp7vdrL"
+      "duration_ms": 179565,
+      "name": "I Don\u2019t Want To!",
+      "url": "https://open.spotify.com/track/2XFcfeNnmjYxbKT0lT0cyh"
     },
     {
-      "added_at": "2024-10-01 21:43:02",
+      "added_at": "2024-11-05 21:00:00",
       "album": {
-        "name": "Mazide",
-        "url": "https://open.spotify.com/album/0rjCBkzUULXmudEq4vy0hi"
+        "name": "Art\u0131k Bitti",
+        "url": "https://open.spotify.com/album/0pmXmTR4WCmY1UcFnVdplf"
       },
       "artists": [
         {
-          "name": "KARDELEN",
-          "url": "https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms"
+          "name": "Didem \u00d6zek",
+          "url": "https://open.spotify.com/artist/3GAYms0mkGz0XGj8ua38bo"
         }
       ],
-      "duration_ms": 180800,
-      "name": "Mazide",
-      "url": "https://open.spotify.com/track/78Ph3Ffyp3vV0BqaBLJRXN"
+      "duration_ms": 220443,
+      "name": "Art\u0131k Bitti",
+      "url": "https://open.spotify.com/track/40CL57fCcttufOJbFIENIG"
     },
     {
-      "added_at": "2024-10-01 21:43:02",
+      "added_at": "2024-11-05 21:00:00",
       "album": {
-        "name": "\u00d6lsem (Akustik)",
-        "url": "https://open.spotify.com/album/5mSWdJnQ6GZGB4dbijLaNs"
+        "name": "senin bi' hikayen yok",
+        "url": "https://open.spotify.com/album/5AAcBxqQRiKja1wBDHUlfq"
       },
       "artists": [
         {
-          "name": "Sena \u015eener",
-          "url": "https://open.spotify.com/artist/7CW2eGwAuElNq09rVtZYsM"
+          "name": "\u00d6yk\u00fc D\u00f6rter",
+          "url": "https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA"
         }
       ],
-      "duration_ms": 221738,
-      "name": "\u00d6lsem - Akustik",
-      "url": "https://open.spotify.com/track/3ym6vxtm8PrIUrp4lOzmXZ"
+      "duration_ms": 144494,
+      "name": "senin bi' hikayen yok",
+      "url": "https://open.spotify.com/track/4kPnDITlHE8oA8H8vMe3Aa"
     },
     {
-      "added_at": "2024-10-01 21:43:02",
+      "added_at": "2024-11-05 21:00:00",
       "album": {
-        "name": "Enerji Vampiri",
-        "url": "https://open.spotify.com/album/072j48lAvKX7lw2bnNNvIJ"
-      },
-      "artists": [
-        {
-          "name": "Kolera",
-          "url": "https://open.spotify.com/artist/2WrrDGOjPL1QFuLB45DZ7Q"
-        }
-      ],
-      "duration_ms": 223832,
-      "name": "Enerji Vampiri",
-      "url": "https://open.spotify.com/track/5FapGJlM3VpPQqEA9RvLsl"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Unutamad\u0131m",
-        "url": "https://open.spotify.com/album/7LI2m3KvlFkJgcaVK5G4Vq"
-      },
-      "artists": [
-        {
-          "name": "Semiramis Pekkan",
-          "url": "https://open.spotify.com/artist/5vuQpKX1QG7WlQ40C27HfD"
-        }
-      ],
-      "duration_ms": 204746,
-      "name": "Unutamad\u0131m",
-      "url": "https://open.spotify.com/track/6lIlfVhOFjhX9VAJIlDEAX"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "A\u015fktan Bir Fazla",
-        "url": "https://open.spotify.com/album/7o2Dwev2FnDUnwUsu648VH"
-      },
-      "artists": [
-        {
-          "name": "Demet Sa\u011f\u0131ro\u011flu",
-          "url": "https://open.spotify.com/artist/1JezmRKWjau6fQtfotfhZY"
-        }
-      ],
-      "duration_ms": 184773,
-      "name": "A\u015fktan Bir Fazla",
-      "url": "https://open.spotify.com/track/6RJ8S4QJTAiEwSiXbSpRBd"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "A\u015fk \u0130\u00e7in",
-        "url": "https://open.spotify.com/album/1aGYTRnVht5W38WAO2ioj5"
-      },
-      "artists": [
-        {
-          "name": "Nur Cennet",
-          "url": "https://open.spotify.com/artist/3l2XZBROf6IhytyMQW2U1g"
-        }
-      ],
-      "duration_ms": 143317,
-      "name": "A\u015fk \u0130\u00e7in",
-      "url": "https://open.spotify.com/track/45IJE3wmxsQcAbZEBIEB45"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Seyfo",
-        "url": "https://open.spotify.com/album/4BtanZUpIyame5HMX0UX0Q"
-      },
-      "artists": [
-        {
-          "name": "Ceylan",
-          "url": "https://open.spotify.com/artist/396gqBt8a2NN7gXtDWF7AJ"
-        }
-      ],
-      "duration_ms": 187361,
-      "name": "Seyfo",
-      "url": "https://open.spotify.com/track/4eo9jRVDaij39cFP8FwDXG"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "A\u015fktan \u00d6lenler Meydan\u0131",
-        "url": "https://open.spotify.com/album/1PFBFqRDc5FLcAmBXzuBAu"
-      },
-      "artists": [
-        {
-          "name": "Zuhal Olcay",
-          "url": "https://open.spotify.com/artist/6XTIDpYqIA3fUeQM8zA4Ix"
-        }
-      ],
-      "duration_ms": 240895,
-      "name": "A\u015fktan \u00d6lenler Meydan\u0131",
-      "url": "https://open.spotify.com/track/6m393UDPF0b6zdrux3ejdq"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Hileli Zarlar",
-        "url": "https://open.spotify.com/album/15DCbnWK2tfLAtOWtmIsyI"
-      },
-      "artists": [
-        {
-          "name": "Melis S\u00f6kmen",
-          "url": "https://open.spotify.com/artist/0H83Ljg3YxbUzWx45WjDWL"
-        }
-      ],
-      "duration_ms": 175990,
-      "name": "Hileli Zarlar",
-      "url": "https://open.spotify.com/track/34X0YHELctrCjkx8zE38SV"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "O g\u00fcnden beri",
-        "url": "https://open.spotify.com/album/7o5XupJtqlDdPGm0kaakBo"
-      },
-      "artists": [
-        {
-          "name": "Ekin Ekinci",
-          "url": "https://open.spotify.com/artist/0A5Q33lqavDugneEXFHPy1"
-        }
-      ],
-      "duration_ms": 226132,
-      "name": "O g\u00fcnden beri",
-      "url": "https://open.spotify.com/track/2K6hKdjilMLlmUQ9yP7bGe"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Ziyan",
-        "url": "https://open.spotify.com/album/6LnHm4Uj2VBASuYtyL9Fo7"
-      },
-      "artists": [
-        {
-          "name": "Bilge Su",
-          "url": "https://open.spotify.com/artist/7omNgxR3HnKtIGQHiEW8eY"
-        }
-      ],
-      "duration_ms": 237176,
-      "name": "Ziyan",
-      "url": "https://open.spotify.com/track/4DCu7h5ZHuYUlI82eddILw"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Kafay\u0131 Takt\u0131m",
-        "url": "https://open.spotify.com/album/0RdT5edHlCrZp1esNbFDf9"
-      },
-      "artists": [
-        {
-          "name": "GLSH",
-          "url": "https://open.spotify.com/artist/0cgVfVpwHSfELTRxrlzNtl"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Kafay\u0131 Takt\u0131m",
-      "url": "https://open.spotify.com/track/6AA4LouJTYgrEKY6tMqczz"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Kaybol",
-        "url": "https://open.spotify.com/album/3mAtYxKmJazTL0Rfy1HADk"
-      },
-      "artists": [
-        {
-          "name": "\u0130dil Ate\u015f",
-          "url": "https://open.spotify.com/artist/69pbpuvOtuRw0isQSCBFyR"
-        }
-      ],
-      "duration_ms": 123692,
-      "name": "Kaybol",
-      "url": "https://open.spotify.com/track/6MMslRG1qdEm0pQD03kHTP"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Yang\u0131n (Akustik)",
-        "url": "https://open.spotify.com/album/4mjEsSyJTVNLoDdQ4aCVOh"
-      },
-      "artists": [
-        {
-          "name": "Hande \u00dcnsal",
-          "url": "https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ"
-        }
-      ],
-      "duration_ms": 175387,
-      "name": "Yang\u0131n - Akustik",
-      "url": "https://open.spotify.com/track/4BPMuZiqf3mGXnSAOG2fIA"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Hala Sendeyiz",
-        "url": "https://open.spotify.com/album/6gdlVFBnkPLMMzY8lAyUXS"
-      },
-      "artists": [
-        {
-          "name": "Bet\u00fcl Demir",
-          "url": "https://open.spotify.com/artist/6aMuEI7xrBQvb2z0lXWwCR"
-        }
-      ],
-      "duration_ms": 184649,
-      "name": "Hala Sendeyiz",
-      "url": "https://open.spotify.com/track/3SnNeJa3JS0747rpIDnJIb"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Benden Bilsin",
-        "url": "https://open.spotify.com/album/3ZEw9bGdIZ6WDzHqeTzhhp"
-      },
-      "artists": [
-        {
-          "name": "G\u00fclay",
-          "url": "https://open.spotify.com/artist/7gZAYKgUSYI7tTxx4ak4d0"
-        }
-      ],
-      "duration_ms": 281777,
-      "name": "Benden Bilsin",
-      "url": "https://open.spotify.com/track/3IMVzaWpuq9ImdtVJBWoRE"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Bu Devran",
-        "url": "https://open.spotify.com/album/4ina02csBWO205cnOSlJtw"
-      },
-      "artists": [
-        {
-          "name": "Sevcan Orhan",
-          "url": "https://open.spotify.com/artist/18HQhVaGq9v0wM4u4YDW9A"
-        }
-      ],
-      "duration_ms": 261913,
-      "name": "Bu Devran",
-      "url": "https://open.spotify.com/track/4L2MwmpizYX85knnQlVLbJ"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Depresyon Krall\u0131\u011f\u0131",
-        "url": "https://open.spotify.com/album/2ntXxAH8WuGSiUCXHl6B25"
-      },
-      "artists": [
-        {
-          "name": "El\u00e7in Or\u00e7un",
-          "url": "https://open.spotify.com/artist/1e6JMnBTnlsmLfUIshPefJ"
-        }
-      ],
-      "duration_ms": 146707,
-      "name": "Depresyon Krall\u0131\u011f\u0131",
-      "url": "https://open.spotify.com/track/0Fzt6h7AtxfG6RCmrvIIep"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Biri",
-        "url": "https://open.spotify.com/album/3GGdnbRBrLcoIwD6eKLLb1"
-      },
-      "artists": [
-        {
-          "name": "Edda Dora",
-          "url": "https://open.spotify.com/artist/6GQrlIxwl5AChrEIJeBcSQ"
-        }
-      ],
-      "duration_ms": 170298,
-      "name": "Biri",
-      "url": "https://open.spotify.com/track/3rtPdXhhhZaIdV8e9VNi2G"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "s\u00f6ylemesen de biliyorum",
-        "url": "https://open.spotify.com/album/3uO7ECSQtyJPDHlUmeb4aT"
-      },
-      "artists": [
-        {
-          "name": "MAY",
-          "url": "https://open.spotify.com/artist/6794QEoE9Xgw29m4WPd1ul"
-        }
-      ],
-      "duration_ms": 192369,
-      "name": "s\u00f6ylemesen de biliyorum",
-      "url": "https://open.spotify.com/track/1534TaaST9BvukHVTvCNSz"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Rewilding",
-        "url": "https://open.spotify.com/album/1UwfWjDbi8fDvUPjpo9LQD"
-      },
-      "artists": [
-        {
-          "name": "Ba\u015fak G\u00fcnak",
-          "url": "https://open.spotify.com/artist/13NtiBSQa2IRMON1b7IO0u"
-        },
-        {
-          "name": "Ah! Kosmos",
-          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
-        }
-      ],
-      "duration_ms": 127937,
-      "name": "Rewilding",
-      "url": "https://open.spotify.com/track/5EBvFuG3abPnQEqxbX38o4"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Ben de",
-        "url": "https://open.spotify.com/album/7bJIzpimF8pRzUaVyZzXOk"
-      },
-      "artists": [
-        {
-          "name": "Af\u015fin",
-          "url": "https://open.spotify.com/artist/3l3WwKmbhCGHrg5248XNWu"
-        }
-      ],
-      "duration_ms": 193279,
-      "name": "Ben de",
-      "url": "https://open.spotify.com/track/73gnAM0azuU8LhGi34k5lH"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Dokun Bana",
-        "url": "https://open.spotify.com/album/0lNtRtRMYCWarSz6hwUexI"
-      },
-      "artists": [
-        {
-          "name": "Cansu Esin",
-          "url": "https://open.spotify.com/artist/1uoDHmd2nPKxqxh1bDKU6j"
-        }
-      ],
-      "duration_ms": 138556,
-      "name": "Dokun Bana",
-      "url": "https://open.spotify.com/track/45IuBajgmBExXMvPALoZtA"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Veda",
-        "url": "https://open.spotify.com/album/3dblvzOPpyJRCtBbZIbMC4"
-      },
-      "artists": [
-        {
-          "name": "G\u00f6k\u00e7e Ye\u015filba\u015f",
-          "url": "https://open.spotify.com/artist/4vEHJ2k0qrokabt96heePy"
-        }
-      ],
-      "duration_ms": 153034,
-      "name": "Veda",
-      "url": "https://open.spotify.com/track/0NwM0mW9D9UaIvQO2YgW0K"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Geceler Boyunca",
-        "url": "https://open.spotify.com/album/4jRg843e7UoePbWumo5QM6"
+        "name": "Kulak Asmad\u0131m",
+        "url": "https://open.spotify.com/album/7kUyOzxZwDwXjZ1AAAbcPy"
       },
       "artists": [
         {
@@ -620,95 +372,47 @@
           "url": "https://open.spotify.com/artist/7evFI1HE86akQXdNhdWJVd"
         }
       ],
-      "duration_ms": 118588,
-      "name": "Geceler Boyunca",
-      "url": "https://open.spotify.com/track/4p5wEHhBrpYTZQegK5Am3x"
+      "duration_ms": 159272,
+      "name": "Kulak Asmad\u0131m",
+      "url": "https://open.spotify.com/track/6O7HCwehEX8mU3GIW2JUnN"
     },
     {
-      "added_at": "2024-10-01 21:43:02",
+      "added_at": "2024-11-05 21:00:00",
       "album": {
-        "name": "\u0130ki Tatl\u0131 S\u00f6z",
-        "url": "https://open.spotify.com/album/782ev4BSgUJo29eiq0woro"
+        "name": "holly",
+        "url": "https://open.spotify.com/album/6qf5Zi3FjD1W1jAZEzM7IT"
       },
       "artists": [
         {
-          "name": "\u0130pek \u00d6zcan",
-          "url": "https://open.spotify.com/artist/2E9ccxAgaGu6DT1rCNfFsG"
+          "name": "zei",
+          "url": "https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa"
         }
       ],
-      "duration_ms": 171130,
-      "name": "\u0130ki Tatl\u0131 S\u00f6z",
-      "url": "https://open.spotify.com/track/4Lc6N5K7k9i4JKwJL8HIMO"
+      "duration_ms": 134500,
+      "name": "holly",
+      "url": "https://open.spotify.com/track/0UqmgJ47W4WU3xw8iLAyib"
     },
     {
-      "added_at": "2024-10-01 21:43:02",
+      "added_at": "2024-11-05 21:00:00",
       "album": {
-        "name": "Herkes Yok",
-        "url": "https://open.spotify.com/album/0dranJBaRRmthOEp8UjvEc"
+        "name": "Ekim D\u00fc\u015f\u00fc",
+        "url": "https://open.spotify.com/album/083eVm5NgdjQWQfntTxq6u"
       },
       "artists": [
         {
-          "name": "Yasemin Rosa",
-          "url": "https://open.spotify.com/artist/1zrc2YgiwtHNcgmuYkThkB"
+          "name": "Dilan Balkay",
+          "url": "https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM"
         }
       ],
-      "duration_ms": 197102,
-      "name": "Herkes Yok",
-      "url": "https://open.spotify.com/track/5DJlAQ9deIMhti19ZGrKyF"
+      "duration_ms": 248800,
+      "name": "Ekim D\u00fc\u015f\u00fc",
+      "url": "https://open.spotify.com/track/524K8gtcJwiAGgj4xCTJQi"
     },
     {
-      "added_at": "2024-10-01 21:43:02",
+      "added_at": "2024-11-05 21:00:00",
       "album": {
-        "name": "Virane",
-        "url": "https://open.spotify.com/album/1dlxOKzvQwJHwi81cmfGMl"
-      },
-      "artists": [
-        {
-          "name": "Dilan \u00c7\u0131tak",
-          "url": "https://open.spotify.com/artist/5xRCXmsCeEaZlWpAd2I8IY"
-        }
-      ],
-      "duration_ms": 147272,
-      "name": "Virane",
-      "url": "https://open.spotify.com/track/4axVl8XOWfSIAAPb9BLa7Z"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Telaffuz",
-        "url": "https://open.spotify.com/album/6qbVU8RLm60UszCJyIvqQj"
-      },
-      "artists": [
-        {
-          "name": "Hayriye",
-          "url": "https://open.spotify.com/artist/7w0vYTgGyUSeitPjpylJBK"
-        }
-      ],
-      "duration_ms": 245424,
-      "name": "Telaffuz",
-      "url": "https://open.spotify.com/track/54BMDdCYusUW1TcOmWv6Ds"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "\u0130stanbul \u0130stanbul Olal\u0131",
-        "url": "https://open.spotify.com/album/3Tr0nDCBmecBhQCb8DHZRs"
-      },
-      "artists": [
-        {
-          "name": "Dilde",
-          "url": "https://open.spotify.com/artist/0GDoXnSw4iGdysDQWCiuP3"
-        }
-      ],
-      "duration_ms": 243192,
-      "name": "\u0130stanbul \u0130stanbul Olal\u0131",
-      "url": "https://open.spotify.com/track/3VIVJuTBbW8q6PjiFeewAT"
-    },
-    {
-      "added_at": "2024-10-01 21:43:02",
-      "album": {
-        "name": "Bizi Anlat",
-        "url": "https://open.spotify.com/album/4IPlgIrxMYGC7Jglhwqg4U"
+        "name": "Yelkovan",
+        "url": "https://open.spotify.com/album/4iGgg2l9CaG80iDYFUPGVs"
       },
       "artists": [
         {
@@ -716,73 +420,461 @@
           "url": "https://open.spotify.com/artist/7AgcHazHZQ9xB0n3QU6fwK"
         }
       ],
-      "duration_ms": 193509,
-      "name": "Bizi Anlat",
-      "url": "https://open.spotify.com/track/2JYNqtUDbNf62j6s0xJ7Om"
+      "duration_ms": 248547,
+      "name": "Yelkovan",
+      "url": "https://open.spotify.com/track/34Zxqx5ZFnz4K311BatLIy"
     },
     {
-      "added_at": "2024-10-01 21:43:02",
+      "added_at": "2024-11-05 21:00:00",
       "album": {
-        "name": "Yad Eller Ald\u0131 Beni (Akustik)",
-        "url": "https://open.spotify.com/album/3df4EnvGBo7Ym7LYSqGWXt"
+        "name": "Ayr\u0131lmam",
+        "url": "https://open.spotify.com/album/5vfsINvhM2FAURuWuITLdO"
       },
       "artists": [
         {
-          "name": "Canan \u00c7al",
-          "url": "https://open.spotify.com/artist/4L8MGte6xyKnTZNGGjI2mk"
+          "name": "Hande Mehan",
+          "url": "https://open.spotify.com/artist/1u3WUGLV2ZGPvwkfdvgZFl"
         }
       ],
-      "duration_ms": 274000,
-      "name": "Yad Eller Ald\u0131 Beni - Akustik",
-      "url": "https://open.spotify.com/track/5QvU0ZHYfxYqImTI0g76wK"
+      "duration_ms": 215744,
+      "name": "Ayr\u0131lmam",
+      "url": "https://open.spotify.com/track/6TGHJAmtHqfwaNiSu76TMS"
     },
     {
-      "added_at": "2024-10-01 21:43:02",
+      "added_at": "2024-11-05 21:00:00",
       "album": {
-        "name": "B\u0131\u00e7ak",
-        "url": "https://open.spotify.com/album/4YXZwGdSYFoKHKyiQHHIjB"
+        "name": "Ne Senle Ne Sensiz",
+        "url": "https://open.spotify.com/album/6ndlwMgCxShmdPDgEAcUir"
       },
       "artists": [
         {
-          "name": "Duygu Kutlu",
-          "url": "https://open.spotify.com/artist/5VOpKGCsAEtjs8oy1mle9o"
+          "name": "G\u00fcl\u015fah K\u00f6m\u00fcr",
+          "url": "https://open.spotify.com/artist/0rFRdFCCe5YQKYZ7Oew9Vi"
         }
       ],
-      "duration_ms": 234986,
-      "name": "B\u0131\u00e7ak",
-      "url": "https://open.spotify.com/track/0j3PqmejqwLF2ghCTPZJnD"
+      "duration_ms": 165000,
+      "name": "Ne Senle Ne Sensiz",
+      "url": "https://open.spotify.com/track/0uxGe3LBeI8uzkKbEhdb42"
     },
     {
-      "added_at": "2024-10-01 21:43:02",
+      "added_at": "2024-11-05 21:00:00",
       "album": {
-        "name": "Yel Senin Yelken Senin",
-        "url": "https://open.spotify.com/album/0UVXIzJZ9TbwZXlpKIcJSR"
+        "name": "Bazen",
+        "url": "https://open.spotify.com/album/6pMM4h5qlq7SkH8CAYe1rj"
       },
       "artists": [
         {
-          "name": "\u0130rem \u00d6zen",
-          "url": "https://open.spotify.com/artist/76G25ekDcncsRVCDunPdu1"
+          "name": "Burcu G\u00fcven",
+          "url": "https://open.spotify.com/artist/6fviEnbwvkFIBpOBb8hSsm"
         }
       ],
-      "duration_ms": 189918,
-      "name": "Yel Senin Yelken Senin",
-      "url": "https://open.spotify.com/track/6QVGJXttIyLllNSXRXjOPF"
+      "duration_ms": 188128,
+      "name": "Bazen",
+      "url": "https://open.spotify.com/track/5wnnyPOS6erVNCHNmm2G5Q"
     },
     {
-      "added_at": "2024-10-01 21:43:02",
+      "added_at": "2024-11-05 21:00:00",
       "album": {
-        "name": "Mutlak Ak\u0131l",
-        "url": "https://open.spotify.com/album/1pZOX0s8MoV4nbtPqoiCff"
+        "name": "G\u0131lgam\u0131\u015f Destan\u0131",
+        "url": "https://open.spotify.com/album/7fVMNJR9kiw7JByWqz7UtI"
       },
       "artists": [
         {
-          "name": "\u00d6zge Arslan",
-          "url": "https://open.spotify.com/artist/7rzLq3I3srzi4TCyJ9vCHo"
+          "name": "Beyza Do\u011fu\u00e7",
+          "url": "https://open.spotify.com/artist/58hQlMTfVuyOTvJihGj5Te"
         }
       ],
-      "duration_ms": 317647,
-      "name": "Mutlak Ak\u0131l",
-      "url": "https://open.spotify.com/track/5qYgF21GpSv6b7th2vFzkf"
+      "duration_ms": 139875,
+      "name": "G\u0131lgam\u0131\u015f Destan\u0131",
+      "url": "https://open.spotify.com/track/4pcx4HBfkSqC07gWCdcZra"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Yan Benimle",
+        "url": "https://open.spotify.com/album/0deW6AbSJp7iLxO4EKbkYQ"
+      },
+      "artists": [
+        {
+          "name": "Sena \u0130ris",
+          "url": "https://open.spotify.com/artist/6t4HcTpW2c7w9RT5VZvr5i"
+        }
+      ],
+      "duration_ms": 138854,
+      "name": "Yan Benimle",
+      "url": "https://open.spotify.com/track/4KCvOrqdaAP2Y3lM0bBnR5"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "A\u011f\u0131r \u0130stanbul",
+        "url": "https://open.spotify.com/album/5PKGscGrGh5uzj3Mzx3K75"
+      },
+      "artists": [
+        {
+          "name": "G\u00fclay",
+          "url": "https://open.spotify.com/artist/7gZAYKgUSYI7tTxx4ak4d0"
+        }
+      ],
+      "duration_ms": 269329,
+      "name": "A\u011f\u0131r \u0130stanbul",
+      "url": "https://open.spotify.com/track/3u2IXRijYHsD8fJSywgMQm"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Dile Kolay",
+        "url": "https://open.spotify.com/album/0j2EzwpcXSWYsAIAIQhHLe"
+      },
+      "artists": [
+        {
+          "name": "Song\u00fcl Karl\u0131",
+          "url": "https://open.spotify.com/artist/1FiYcJ7qneilUV04LX8sY1"
+        }
+      ],
+      "duration_ms": 214248,
+      "name": "Dile Kolay",
+      "url": "https://open.spotify.com/track/2FbPdu3oWXL5d3djBZxyHd"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Du",
+        "url": "https://open.spotify.com/album/0uW5SmbMieO5QAkd65PQgJ"
+      },
+      "artists": [
+        {
+          "name": "Suzan",
+          "url": "https://open.spotify.com/artist/3cUXFZdZWyyRn5rME7yuNH"
+        }
+      ],
+      "duration_ms": 142943,
+      "name": "Du",
+      "url": "https://open.spotify.com/track/6Miw29UkviR5ZVkvRtQ5Jb"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Benim Hikayem",
+        "url": "https://open.spotify.com/album/7voBNyJkYPJUUWd23Ghhja"
+      },
+      "artists": [
+        {
+          "name": "Deniz Seki",
+          "url": "https://open.spotify.com/artist/28bHkFlKKHHudmgvnfYpiJ"
+        }
+      ],
+      "duration_ms": 185677,
+      "name": "Benim Hikayem",
+      "url": "https://open.spotify.com/track/2jyeGir3lDnMyCLXc6h066"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Beni Bul Anne",
+        "url": "https://open.spotify.com/album/3aR9HqevZMyreiganKv7EJ"
+      },
+      "artists": [
+        {
+          "name": "LARA",
+          "url": "https://open.spotify.com/artist/29A0ZyAAZilbn5F6Vztd5i"
+        }
+      ],
+      "duration_ms": 166964,
+      "name": "Beni Bul Anne",
+      "url": "https://open.spotify.com/track/3qUAEjkgHx1DaVyXvwLGJm"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Cebinde D\u00fcnya",
+        "url": "https://open.spotify.com/album/7kvsbGFRkw17dLrUgjBDYt"
+      },
+      "artists": [
+        {
+          "name": "Beliz",
+          "url": "https://open.spotify.com/artist/12QL4EXEXsPTOVjXBc8BD4"
+        }
+      ],
+      "duration_ms": 197236,
+      "name": "Cebinde D\u00fcnya",
+      "url": "https://open.spotify.com/track/65MQlYnM5tVo4sWrbwHwx3"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "\u00d6p\u00fc\u015f\u00fcrken A\u015f\u0131klar (0 Km Soundtrack)",
+        "url": "https://open.spotify.com/album/0E1ybwCmL4beZIrfhD0EKJ"
+      },
+      "artists": [
+        {
+          "name": "Nova Norda",
+          "url": "https://open.spotify.com/artist/0A5AyLcMXZRmLE7i2maS0R"
+        }
+      ],
+      "duration_ms": 193489,
+      "name": "\u00d6p\u00fc\u015f\u00fcrken A\u015f\u0131klar (0 Km Soundtrack)",
+      "url": "https://open.spotify.com/track/6ndc6YNQyArpNAaGU82Sdh"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Affetmem",
+        "url": "https://open.spotify.com/album/6YMCRuYYf8djDLzogU9ecu"
+      },
+      "artists": [
+        {
+          "name": "Buse \u00c7a\u011fla",
+          "url": "https://open.spotify.com/artist/5PYjl3ZvZWW6OOCPYpLACy"
+        }
+      ],
+      "duration_ms": 197797,
+      "name": "Affetmem",
+      "url": "https://open.spotify.com/track/0mJb95h8TZGIKK4k2CPmkH"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Ayar\u0131m\u0131 Ka\u00e7\u0131rma",
+        "url": "https://open.spotify.com/album/2Dp6bli4jjYR09vkUgLQZo"
+      },
+      "artists": [
+        {
+          "name": "Sena M\u00fclayim",
+          "url": "https://open.spotify.com/artist/4O1nia7N16gruRpiijddpX"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Ayar\u0131m\u0131 Ka\u00e7\u0131rma",
+      "url": "https://open.spotify.com/track/6pYYVXVbjObZ4DBbRJTyIq"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Daha Derin",
+        "url": "https://open.spotify.com/album/2qj6vsUh5wkZxz0cnntnSN"
+      },
+      "artists": [
+        {
+          "name": "Berra Kocaaslan",
+          "url": "https://open.spotify.com/artist/2v9mEznmVGHmLNwA8TELtH"
+        }
+      ],
+      "duration_ms": 136039,
+      "name": "Daha Derin",
+      "url": "https://open.spotify.com/track/0D59vIYBMoxStighq1kTmI"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "A Blogoth\u00e8que Take Away Show",
+        "url": "https://open.spotify.com/album/5xJhrRPCSt0N0bWnkcMJyE"
+      },
+      "artists": [
+        {
+          "name": "B\u00fc\u015fra Kay\u0131k\u00e7\u0131",
+          "url": "https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E"
+        }
+      ],
+      "duration_ms": 388000,
+      "name": "Tribute to Egyptian Song (A Blogoth\u00e8que Take Away Show)",
+      "url": "https://open.spotify.com/track/0qBoANuLQqFxlpCCskDTKm"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Renklerimi Almay\u0131n Benden",
+        "url": "https://open.spotify.com/album/2mGUn42N2OdYwXx4sqRrhV"
+      },
+      "artists": [
+        {
+          "name": "Yasemin Bahloul",
+          "url": "https://open.spotify.com/artist/2mz9baBuJ1mILERJJihYJ5"
+        }
+      ],
+      "duration_ms": 211487,
+      "name": "Renklerimi Almay\u0131n Benden",
+      "url": "https://open.spotify.com/track/57j2ZVe8LZei5SQvTEkFmp"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Bulut Olma",
+        "url": "https://open.spotify.com/album/3PK3h5OjEXxfeesgU4whi6"
+      },
+      "artists": [
+        {
+          "name": "Sevda Deniz Karali",
+          "url": "https://open.spotify.com/artist/15Z0sgBT1nnrFz5lkxVFmZ"
+        }
+      ],
+      "duration_ms": 197028,
+      "name": "Bulut Olma",
+      "url": "https://open.spotify.com/track/3greDTtzXmzLe5r9FssI28"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "K\u0131rm\u0131z\u0131 \u00c7izgi",
+        "url": "https://open.spotify.com/album/6bubPovCAkV6LxziBqM9un"
+      },
+      "artists": [
+        {
+          "name": "Arya Aryay",
+          "url": "https://open.spotify.com/artist/5TrOFp4saNR1jYOoOITvH9"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "K\u0131rm\u0131z\u0131 \u00c7izgi",
+      "url": "https://open.spotify.com/track/0xZb98mXKNiOv7topUdDVT"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Bu Ne Bela",
+        "url": "https://open.spotify.com/album/4uZKjVzHBK4xa91rQYdvrT"
+      },
+      "artists": [
+        {
+          "name": "Giz",
+          "url": "https://open.spotify.com/artist/4xHMxTG1wa06uHMezG7Hfs"
+        }
+      ],
+      "duration_ms": 155714,
+      "name": "Bu Ne Bela",
+      "url": "https://open.spotify.com/track/3oWagFbYIZ7kvJy7niOCi5"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "\u00d6zledin mi Sen de?",
+        "url": "https://open.spotify.com/album/0OQJ2UnyBJlNZO3DI7D2Fc"
+      },
+      "artists": [
+        {
+          "name": "Ceyda Karadeniz",
+          "url": "https://open.spotify.com/artist/1ku2XLDVzNGNnlT7jBSssA"
+        }
+      ],
+      "duration_ms": 163400,
+      "name": "\u00d6zledin mi Sen de?",
+      "url": "https://open.spotify.com/track/2iEqZuWvVDD6dcR9CAImds"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Ben Yan\u0131ld\u0131m",
+        "url": "https://open.spotify.com/album/4eEAnRsftmuXuhFWkm9tdr"
+      },
+      "artists": [
+        {
+          "name": "Cemre K\u0131ralio\u011flu",
+          "url": "https://open.spotify.com/artist/6VA3HtSeoLzgycaQygAamc"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "Ben Yan\u0131ld\u0131m",
+      "url": "https://open.spotify.com/track/3j8M5ON91qpVuvyqiM5yl5"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Alaaddin",
+        "url": "https://open.spotify.com/album/18bzdTfekL5mXeYrTeHB8n"
+      },
+      "artists": [
+        {
+          "name": "Tuana Tetik",
+          "url": "https://open.spotify.com/artist/4hVkWQ0iAHxtfV6TSARSxR"
+        }
+      ],
+      "duration_ms": 166343,
+      "name": "Alaaddin",
+      "url": "https://open.spotify.com/track/7CMBLeVj36I0yHVsGCDzAB"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "\u00dcst\u00fcme Gelme",
+        "url": "https://open.spotify.com/album/3Com9vFpR3OfsMY6WFBCem"
+      },
+      "artists": [
+        {
+          "name": "Esra Sezer",
+          "url": "https://open.spotify.com/artist/24Sd3J1rwzBXULxVin8U0L"
+        }
+      ],
+      "duration_ms": 148555,
+      "name": "\u00dcst\u00fcme Gelme",
+      "url": "https://open.spotify.com/track/0L56KWG2k4BvH5MLVvJbQE"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Kay\u0131p Yolcu",
+        "url": "https://open.spotify.com/album/6bYv3n3GHQ3Fmt8yYn2UYL"
+      },
+      "artists": [
+        {
+          "name": "Merve Demirci",
+          "url": "https://open.spotify.com/artist/1Ky2PiE9IMwMQ9pfs5SbFp"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Kay\u0131p Yolcu",
+      "url": "https://open.spotify.com/track/7vAVGx9yTL31xIu5sBZycq"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "\u00c7\u00f6p\u00e7\u00fcler",
+        "url": "https://open.spotify.com/album/0JEwaMcoUvCgjox56qy8na"
+      },
+      "artists": [
+        {
+          "name": "Nihan Belgin",
+          "url": "https://open.spotify.com/artist/6v7zvtUlRA6xkUxFZqJnWw"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "\u00c7\u00f6p\u00e7\u00fcler",
+      "url": "https://open.spotify.com/track/3Mj1V9zwJpq7xtnaeLpVga"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "bi yol",
+        "url": "https://open.spotify.com/album/7kCN8u6QddkzCFh4Uip5vI"
+      },
+      "artists": [
+        {
+          "name": "Gizem Kosif",
+          "url": "https://open.spotify.com/artist/3Foixw44zgTLNs1ASHCR5I"
+        },
+        {
+          "name": "Eda Suluki",
+          "url": "https://open.spotify.com/artist/1yAMATU04rAd820To5cmrb"
+        }
+      ],
+      "duration_ms": 158507,
+      "name": "bi yol",
+      "url": "https://open.spotify.com/track/1ddbGjxAWpshgbWoJ47Bu4"
+    },
+    {
+      "added_at": "2024-11-05 21:00:00",
+      "album": {
+        "name": "Eskisi Gibi",
+        "url": "https://open.spotify.com/album/5uuaBKOJaYXloTIbDRvZNx"
+      },
+      "artists": [
+        {
+          "name": "Maral Ataman",
+          "url": "https://open.spotify.com/artist/6WeCkvYT5OHm3Pt6h8ZgXj"
+        }
+      ],
+      "duration_ms": 206537,
+      "name": "Eskisi Gibi",
+      "url": "https://open.spotify.com/track/1im5jYc8hO0Gc2ZdaW7FRE"
     }
   ],
   "unique_name": "EQUAL T\u00fcrkiye",

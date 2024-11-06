@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 
 > This is Sia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,410,480 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,410,545 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 | 35 | [Alive](https://open.spotify.com/track/25R5Tdr4K7ENb6umHzdCXn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 4:23 |
 | 36 | [Floating Through Space](https://open.spotify.com/track/2AceGjiX9isUbXmMZa0Dl1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Floating Through Space](https://open.spotify.com/album/0BE9HxEf6RRDyni3SSvM6t) | 2:57 |
 | 37 | [Together](https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Together](https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8) | 3:25 |
-| 38 | [Immortal Queen \(feat\. Chaka Khan & Eve\)](https://open.spotify.com/track/4Dr0ZwcgQbj9Sqna43GBes) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Immortal Queen \(feat\. Chaka Khan & Eve\)](https://open.spotify.com/album/3bIMMjzboZD5thhPhRZ8Sn) | 3:32 |
-| 39 | [Big Girls Cry](https://open.spotify.com/track/75xgoXAGed7jiNDdV8TNOe) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:30 |
+| 38 | [Big Girls Cry](https://open.spotify.com/track/75xgoXAGed7jiNDdV8TNOe) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:30 |
+| 39 | [Immortal Queen \(feat\. Chaka Khan & Eve\)](https://open.spotify.com/track/4Dr0ZwcgQbj9Sqna43GBes) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Immortal Queen \(feat\. Chaka Khan & Eve\)](https://open.spotify.com/album/3bIMMjzboZD5thhPhRZ8Sn) | 3:32 |
 | 40 | [Bang My Head \(feat\. Sia & Fetty Wap\)](https://open.spotify.com/track/53Y0kdCa1CZ9gRqEuknfwy) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Listen Again](https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU) | 3:13 |
 | 41 | [I'm Still Here](https://open.spotify.com/track/5KGTKwOePys7aH4o6EzXEP) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [I'm Still Here](https://open.spotify.com/album/61rbnX1w8qupnV0CyNH1Or) | 4:01 |
-| 42 | [Dynamite](https://open.spotify.com/track/0fQfJFfngYfG26560HLMLN) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Dynamite](https://open.spotify.com/album/50olq3HtK70p3MOSB9hNj8) | 3:32 |
-| 43 | [Fire Meet Gasoline](https://open.spotify.com/track/3Rw6shHCDFRWv3g2WmEFKv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:01 |
+| 42 | [Fire Meet Gasoline](https://open.spotify.com/track/3Rw6shHCDFRWv3g2WmEFKv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:01 |
+| 43 | [Dynamite](https://open.spotify.com/track/0fQfJFfngYfG26560HLMLN) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Dynamite](https://open.spotify.com/album/50olq3HtK70p3MOSB9hNj8) | 3:32 |
 | 44 | [Courage to Change](https://open.spotify.com/track/2MbgQKWhoii8bqsMBWWWgA) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Courage to Change](https://open.spotify.com/album/09bnoLaXqJi7naZtDXHIbh) | 4:52 |
 | 45 | [No New Friends \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/6Dma0t0hOe6Bd6u5YRKF3n) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 2:55 |
 | 46 | [Soon We'll Be Found](https://open.spotify.com/track/4eiL3JVHop31N0PwPv6M9D) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 | 49 | [ON \(Feat\. Sia\)](https://open.spotify.com/track/4JWbH50WabthGhmtduR8b9) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 4:06 |
 | 50 | [Incredible \(AWEN Remix\)](https://open.spotify.com/track/2AY4ZQ8Uzz0nbwJr0dLUsU) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl) | [Reasonable Remixes 1](https://open.spotify.com/album/67wMwSJ4tkhJtb8qAetnTO) | 5:43 |
 
-Snapshot ID: `Zya9AAAAAADNOGgsgsc643r16VGoiTxq`
+Snapshot ID: `ZygOgAAAAAD+Mhs8tfxv062WDWquxI4m`

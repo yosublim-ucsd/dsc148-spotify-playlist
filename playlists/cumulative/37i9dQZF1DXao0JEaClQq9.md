@@ -4,7 +4,7 @@
 
 > Modern heavenly sounds\. Cover: Clarissa Connelly
 
-659 songs - 1 day 17 hr 13 min
+660 songs - 1 day 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,7 +378,7 @@
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-20 | 2024-11-02 |
 | [Lucky](https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Forever & A Few](https://open.spotify.com/album/1NHlnn47gB3IrP9fwahcjF) | 4:11 | 2022-06-03 | 2022-06-12 |
 | [Lucy Takes a Picture](https://open.spotify.com/track/20vW1Ew2jU6mgOFrRZhUdN) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Lucy Takes a Picture](https://open.spotify.com/album/1dQQ661oLGGtZ1fC1dj6dx) | 4:19 | 2024-05-24 | 2024-08-17 |
-| [Lullaby](https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 3:06 | 2022-10-28 |  |
+| [Lullaby](https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 3:06 | 2022-10-28 | 2024-11-06 |
 | [Løb Stop Stå](https://open.spotify.com/track/3wyLILirr6oFIFw1vYuktv) | [Boom Clap Bachelors](https://open.spotify.com/artist/30A0dNl1aYj4oOaMJKQk6Q), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Mellem Dine Læber](https://open.spotify.com/album/6jdBXphE7GNaJbnM0bQEqH) | 4:48 | 2021-06-03 | 2022-04-19 |
 | [Machote](https://open.spotify.com/track/2TqYC6Gn7vDhL8f2wWCYTB) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:57 | 2021-06-03 | 2022-06-01 |
 | [Make U Stay](https://open.spotify.com/track/32Q7B7BsaUBb8D2zT2Vngb) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Make U Stay](https://open.spotify.com/album/4qdvHpWNuKzIo49fq9ASrL) | 3:20 | 2021-06-03 | 2022-04-22 |
@@ -387,6 +387,7 @@
 | [Mary Boone](https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Mary Boone](https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz) | 4:26 | 2024-04-05 | 2024-05-24 |
 | [Mary Boone](https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:26 | 2024-04-05 | 2024-04-19 |
 | [mary magdalene](https://open.spotify.com/track/77tQQM8iEswfiSVLbTrFPX) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 5:21 | 2021-06-03 | 2022-04-23 |
+| [may you never forget me](https://open.spotify.com/track/2sV11xuq4U8KlGWKCtGNpx) | [Temachii](https://open.spotify.com/artist/6C28zKEQyk8yNoiQcqWbcQ) | [flora maniia](https://open.spotify.com/album/2VJWNCadN7DfQ3XThbvlUk) | 3:35 | 2024-11-05 |  |
 | [Maybe in the Summer](https://open.spotify.com/track/3xj837YDEJHCrFis2IK9U9) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [KILL SASSY 009](https://open.spotify.com/album/74uDeU4iV08fDcMsSeS8F3) | 3:20 | 2021-06-03 | 2022-04-21 |
 | [Maybe We Could](https://open.spotify.com/track/17hWC0trWpd4NFLBldsmr0) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Maybe We Could](https://open.spotify.com/album/5gbBvOETd39fVSwkua7bPC) | 2:58 | 2021-06-03 | 2022-07-29 |
 | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG) | 3:15 | 2021-11-19 | 2022-05-18 |

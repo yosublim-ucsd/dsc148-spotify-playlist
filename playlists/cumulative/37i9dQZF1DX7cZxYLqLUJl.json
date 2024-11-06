@@ -2079,6 +2079,24 @@
     },
     {
       "album": {
+        "name": "stargazing",
+        "url": "https://open.spotify.com/album/0FCL5YSgPtrC3NQYOCwxZs"
+      },
+      "artists": [
+        {
+          "name": "Esperance",
+          "url": "https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "stargazing",
+      "url": "https://open.spotify.com/track/5Tm55bnuYOavqPLbueGYS4"
+    },
+    {
+      "album": {
         "name": "Quiet Cove",
         "url": "https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL"
       },

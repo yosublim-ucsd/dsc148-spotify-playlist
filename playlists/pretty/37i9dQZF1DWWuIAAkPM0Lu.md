@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > ..\. nu ligger albummet her: <a href="spotify:album:6IihVWau3jW3N1ho4ySKDk">Fri</a> ✨ <a href="spotify:artist:0YF2oUwHHPo0VTGuqgYG0X">Thor Farlov</a> ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,462 likes - 97 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,460 likes - 97 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 55 | [Big Deel](https://open.spotify.com/track/66RjUgZnuFIMuwtL51wdQ5) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [Good Girl No Dey Pay](https://open.spotify.com/album/6QEAFXgLPabFWNOMPbXBbV) | 2:11 |
 | 56 | [You're Everything](https://open.spotify.com/track/5uJjELQWTZSvx6tYpR7iY2) | [Keelan Mak](https://open.spotify.com/artist/4xSveO2Pb18Jyl2f7xW8SW) | [Boy's In Love](https://open.spotify.com/album/5wEhtEyQVbRgkaV6eQCpOQ) | 3:06 |
 | 57 | [10/10](https://open.spotify.com/track/0A19MZxroYjdFfwF3xvShG) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [10/10](https://open.spotify.com/album/6XR7x0yo8BgOU5CdIUJPVX) | 2:52 |
-| 58 | [death bed, Pt\. 2](https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Daniel Saint](https://open.spotify.com/artist/1mqfwrWO9D3IQvWkwnuCNB), [chill sebs](https://open.spotify.com/artist/6SiKEPYrOXoQT6GbreDRvF) | [tell me your feelings and i won’t tell you mine, Pt\. 3](https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW) | 3:04 |
+| 58 | [death bed, Pt\. 2](https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Daniel Saint](https://open.spotify.com/artist/1mqfwrWO9D3IQvWkwnuCNB) | [tell me your feelings and i won’t tell you mine, Pt\. 3](https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW) | 3:04 |
 | 59 | [ashes & rust](https://open.spotify.com/track/0ynwM8MdgPqbSfII51PP3e) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent iii](https://open.spotify.com/album/35tILwApqYtN9fTJq2v7M3) | 4:02 |
 | 60 | [Fine Line](https://open.spotify.com/track/4aj5gtiXkAYa73LvODqC1I) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Fine Line](https://open.spotify.com/album/4JeWljyMgbRVMWHCvkCGTz) | 3:22 |
 | 61 | [Expectations](https://open.spotify.com/track/5DMRqUFiuV5CLRK4B9p7Sn) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Expectations](https://open.spotify.com/album/369Mk6u4O6PMo13VaLYH6B) | 2:45 |

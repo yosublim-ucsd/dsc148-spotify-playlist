@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover:  <a href=https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL?si=jzqjskzuRUaOUiS0zWW0Wg>Minister GUC</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,488 likes - 90 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,627 likes - 90 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

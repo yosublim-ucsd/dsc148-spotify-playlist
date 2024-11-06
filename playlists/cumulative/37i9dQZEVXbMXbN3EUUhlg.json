@@ -811,6 +811,24 @@
     },
     {
       "album": {
+        "name": "A Morte do Autotune",
+        "url": "https://open.spotify.com/album/3wtW4Pv6ED7nUpQL5GY5Vx"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216710,
+      "name": "A Morte do Autotune",
+      "url": "https://open.spotify.com/track/4MF0VMffyxHsy3GZwwUnAs"
+    },
+    {
+      "album": {
         "name": "Se Joga (Ao Vivo)",
         "url": "https://open.spotify.com/album/3uyCAKNUG2xNsLDjSz7CZd"
       },
@@ -3395,6 +3413,28 @@
     },
     {
       "album": {
+        "name": "Cora\u00e7\u00e3o de Ouro",
+        "url": "https://open.spotify.com/album/06JmpvXoHG2dFMvmIGRvi1"
+      },
+      "artists": [
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "DJ BOY",
+          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Bebeto e Rom\u00e1rio",
+      "url": "https://open.spotify.com/track/1iYCb2ogLunulBHn3g3cPX"
+    },
+    {
+      "album": {
         "name": "Todos Os Cantos, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr"
       },
@@ -4404,6 +4444,28 @@
       "duration_ms": 266737,
       "name": "CAJU",
       "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
+    },
+    {
+      "album": {
+        "name": "Cora\u00e7\u00e3o de Ouro",
+        "url": "https://open.spotify.com/album/06JmpvXoHG2dFMvmIGRvi1"
+      },
+      "artists": [
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "DJ JR No Beat",
+          "url": "https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186165,
+      "name": "Calculista",
+      "url": "https://open.spotify.com/track/5mPn4ueXc1oua018FDvknz"
     },
     {
       "album": {
@@ -5426,7 +5488,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 164401,
       "name": "CLONE - Ao Vivo",
       "url": "https://open.spotify.com/track/4dvHZesL5UKzfJnFH5bm3g"
@@ -6028,6 +6090,24 @@
       "duration_ms": 213006,
       "name": "C\u00ea T\u00e1 Preparada - Ao Vivo",
       "url": "https://open.spotify.com/track/4dwBkgq4a4gEissxTY0YDT"
+    },
+    {
+      "album": {
+        "name": "Obrigado Deus",
+        "url": "https://open.spotify.com/album/1jUaMGClL6BGdKqbyw0sjX"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159480,
+      "name": "C\u00f3pia Proibida",
+      "url": "https://open.spotify.com/track/2TMbgCaKPhrzSQgmvlrrxd"
     },
     {
       "album": {
@@ -9414,7 +9494,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 154734,
       "name": "Eu Vou Sentar - Ao Vivo em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/2pilqAMqJMjbIQSnQVNdMv"
@@ -11220,7 +11300,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 171335,
       "name": "Gosta De Rua - Ao Vivo",
       "url": "https://open.spotify.com/track/4VNRWHoiKHZJIoQHPbmJIv"
@@ -12696,7 +12776,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 159322,
       "name": "Lapada Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
@@ -13014,7 +13094,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 142470,
       "name": "Licor 43",
       "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
@@ -13166,7 +13246,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 233478,
       "name": "Locked out of Heaven",
       "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
@@ -14116,6 +14196,28 @@
       "duration_ms": 145853,
       "name": "Malvada",
       "url": "https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0"
+    },
+    {
+      "album": {
+        "name": "Malvadinho",
+        "url": "https://open.spotify.com/album/0OSgbe5GNzV5ShonkfL6Ev"
+      },
+      "artists": [
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "DJ JB Mix",
+          "url": "https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120115,
+      "name": "Malvadinho",
+      "url": "https://open.spotify.com/track/3D06dCZbYilOFAB8kR5tYF"
     },
     {
       "album": {
@@ -19036,7 +19138,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 137066,
       "name": "Pega Cabuloso - Ao Vivo em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/6dwBglhRdkwcb2CL9dHdJs"
@@ -23590,7 +23692,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 178983,
       "name": "Sujeito Homem - Ao Vivo",
       "url": "https://open.spotify.com/track/2cGRf9skACWnKRK1eLYBJn"
@@ -23826,7 +23928,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 203337,
       "name": "S\u00f3 F\u00e9",
       "url": "https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1"

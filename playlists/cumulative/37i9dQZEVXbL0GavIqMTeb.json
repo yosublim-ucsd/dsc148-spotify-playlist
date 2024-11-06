@@ -1276,10 +1276,28 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 170480,
       "name": "AMARGURA",
       "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
+    },
+    {
+      "album": {
+        "name": "Amigos Y Enemigos Almighty",
+        "url": "https://open.spotify.com/album/6hIwKyH17huDs7cJZ0rhrC"
+      },
+      "artists": [
+        {
+          "name": "Membrillito",
+          "url": "https://open.spotify.com/artist/1Wkq8mUYQv7GfWVYkq5Nu9"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150024,
+      "name": "Amigos Y Enemigos Almighty",
+      "url": "https://open.spotify.com/track/3RpbyzSdjlKeEEnVbzhCRE"
     },
     {
       "album": {

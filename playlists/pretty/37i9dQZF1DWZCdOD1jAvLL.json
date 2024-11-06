@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: Kasablanca",
-  "num_followers": 248569,
+  "num_followers": 248608,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -783,30 +783,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Sweet Disposition (John Summit & Silver Panda Remix)",
-        "url": "https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Silver Panda",
-          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
-        }
-      ],
-      "duration_ms": 251904,
-      "name": "Sweet Disposition - John Summit & Silver Panda Remix",
-      "url": "https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
         "url": "https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
       "url": "https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Sweet Disposition (John Summit & Silver Panda Remix)",
+        "url": "https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Silver Panda",
+          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+        }
+      ],
+      "duration_ms": 251904,
+      "name": "Sweet Disposition - John Summit & Silver Panda Remix",
+      "url": "https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1151,30 +1151,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Receipts (feat. Gunna)",
-        "url": "https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 234461,
-      "name": "Receipts (feat. Gunna)",
-      "url": "https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Quest For Fire",
         "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
       },
@@ -1195,6 +1171,30 @@
       "duration_ms": 126774,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Receipts (feat. Gunna)",
+        "url": "https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 234461,
+      "name": "Receipts (feat. Gunna)",
+      "url": "https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1331,6 +1331,38 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Push",
+        "url": "https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        },
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        },
+        {
+          "name": "contra",
+          "url": "https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi"
+        }
+      ],
+      "duration_ms": 185244,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Fine Night",
         "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
       },
@@ -1399,38 +1431,6 @@
       "duration_ms": 277298,
       "name": "The Veldt Cinema - BYNX Edit",
       "url": "https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Push",
-        "url": "https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        },
-        {
-          "name": "OFFAIAH",
-          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
-        },
-        {
-          "name": "contra",
-          "url": "https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi"
-        }
-      ],
-      "duration_ms": 185244,
-      "name": "Push",
-      "url": "https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Bandit (Club Mix)",
-        "url": "https://open.spotify.com/album/1edPdWHVtyAiaihO0UvDWS"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Bandit - Club Mix",
-      "url": "https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Feels Like You",
         "url": "https://open.spotify.com/album/1EE0HJG6YJbTz2UPCVxdJI"
       },
@@ -1919,6 +1899,26 @@
       "duration_ms": 202758,
       "name": "Feels Like You",
       "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Bandit (Club Mix)",
+        "url": "https://open.spotify.com/album/1edPdWHVtyAiaihO0UvDWS"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Bandit - Club Mix",
+      "url": "https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Gyrate (ft. Wreckno)",
         "url": "https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 176000,
       "name": "Gyrate (ft. Wreckno)",
       "url": "https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -2071,6 +2071,26 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "No Time (feat. SadBoi)",
+        "url": "https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 171520,
+      "name": "No Time (feat. SadBoi)",
+      "url": "https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Don't Look Down (Hold On)",
         "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
       },
@@ -2091,26 +2111,6 @@
       "duration_ms": 245333,
       "name": "Don't Look Down (Hold On)",
       "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "No Time (feat. SadBoi)",
-        "url": "https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe"
-      },
-      "artists": [
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        },
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 171520,
-      "name": "No Time (feat. SadBoi)",
-      "url": "https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -2331,26 +2331,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/5crYO6MbmHmFPHW9G6hr3p"
+        "name": "Bass Face",
+        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
       },
       "artists": [
         {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         },
         {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "DeathbyRomy",
-          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+          "name": "Young Lyxx",
+          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
         }
       ],
-      "duration_ms": 208846,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/68udexWA5NqZQh8YXJkHky"
+      "duration_ms": 183014,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -2375,22 +2371,26 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Bass Face",
-        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/5crYO6MbmHmFPHW9G6hr3p"
       },
       "artists": [
         {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
         },
         {
-          "name": "Young Lyxx",
-          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
         }
       ],
-      "duration_ms": 183014,
-      "name": "Bass Face",
-      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
+      "duration_ms": 208846,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/68udexWA5NqZQh8YXJkHky"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -2539,6 +2539,30 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Seismic",
+        "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Fly With Us",
+          "url": "https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL"
+        }
+      ],
+      "duration_ms": 208125,
+      "name": "Seismic",
+      "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "FAME?",
         "url": "https://open.spotify.com/album/7afE7fQMNPIS4EYhyEi55z"
       },
@@ -2575,30 +2599,6 @@
       "duration_ms": 194823,
       "name": "Signal",
       "url": "https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Seismic",
-        "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Fly With Us",
-          "url": "https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL"
-        }
-      ],
-      "duration_ms": 208125,
-      "name": "Seismic",
-      "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
     }
   ],
   "unique_name": "Bangers",

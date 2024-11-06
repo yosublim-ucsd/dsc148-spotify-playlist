@@ -1,6 +1,6 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 16738,
+  "num_followers": 16761,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Take My Breath",
+        "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 220196,
+      "name": "Take My Breath - Single Version",
+      "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Lighter",
         "url": "https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 172268,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Take My Breath",
-        "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 220196,
-      "name": "Take My Breath - Single Version",
-      "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Physical",
+        "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 193829,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Me Provocas",
         "url": "https://open.spotify.com/album/7nTh2NTu702X1jGG4Ew02x"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 147255,
       "name": "Me Provocas",
       "url": "https://open.spotify.com/track/7sEwsJK7Ol0J6PFV9nioxu"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Physical",
-        "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 193829,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "All We Got (feat. KIDDO)",
-        "url": "https://open.spotify.com/album/7wzcIKvtXDWs1VA2BMHuaY"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
-        }
-      ],
-      "duration_ms": 190218,
-      "name": "All We Got (feat. KIDDO)",
-      "url": "https://open.spotify.com/track/1FP9s72rDYty6mfoOEYKnE"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/4w554Y1ts3lmzhn7hpfLBJ"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/4wosxLl0mAqhneDzya2MfY"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "All We Got (feat. KIDDO)",
+        "url": "https://open.spotify.com/album/7wzcIKvtXDWs1VA2BMHuaY"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "duration_ms": 190218,
+      "name": "All We Got (feat. KIDDO)",
+      "url": "https://open.spotify.com/track/1FP9s72rDYty6mfoOEYKnE"
     },
     {
       "added_at": "2024-08-29 22:00:00",

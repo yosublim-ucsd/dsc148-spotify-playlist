@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 ### [Tokyo Super Hits! ](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\.  Cover: King Gnu
+> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\.  Cover: Vaundy
 
-[Spotify](https://open.spotify.com/user/spotify) - 948,075 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,382 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ねっこ](https://open.spotify.com/track/4btYb7Tfjw5bQazC6bQXpl) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [ねっこ](https://open.spotify.com/album/4NA5TeCtuhkYhIZ75JGACR) | 3:59 |
-| 2 | [Same Blue](https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/36xdrf8iLOjM0LFvG9auGT) | 3:57 |
-| 3 | [モノトーン](https://open.spotify.com/track/42XeicjBjdyu7boDDtHkvu) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [モノトーン](https://open.spotify.com/album/5xCgHRLy9eo3VJIssNPOUJ) | 3:30 |
-| 4 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
-| 5 | [オトノケ \- Otonoke](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 |
-| 6 | [familie](https://open.spotify.com/track/4PCQHOJFMV9BWq46UMVf2l) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [familie](https://open.spotify.com/album/4jX0nfsyTW1uhGXIHQiQun) | 3:42 |
-| 7 | [ラッキーカラー](https://open.spotify.com/track/5Fzv7ho7XOwvvEOvxFnnTp) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ラッキーカラー](https://open.spotify.com/album/6LYuCN75nHet5fz8Cvzs8H) | 3:38 |
-| 8 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 |
+| 1 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 |
+| 2 | [ねっこ](https://open.spotify.com/track/4btYb7Tfjw5bQazC6bQXpl) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [ねっこ](https://open.spotify.com/album/4NA5TeCtuhkYhIZ75JGACR) | 3:59 |
+| 3 | [Same Blue](https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/36xdrf8iLOjM0LFvG9auGT) | 3:57 |
+| 4 | [モノトーン](https://open.spotify.com/track/42XeicjBjdyu7boDDtHkvu) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [モノトーン](https://open.spotify.com/album/5xCgHRLy9eo3VJIssNPOUJ) | 3:30 |
+| 5 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
+| 6 | [オトノケ \- Otonoke](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 |
+| 7 | [familie](https://open.spotify.com/track/4PCQHOJFMV9BWq46UMVf2l) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [familie](https://open.spotify.com/album/4jX0nfsyTW1uhGXIHQiQun) | 3:42 |
+| 8 | [ラッキーカラー](https://open.spotify.com/track/5Fzv7ho7XOwvvEOvxFnnTp) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ラッキーカラー](https://open.spotify.com/album/6LYuCN75nHet5fz8Cvzs8H) | 3:38 |
 | 9 | [がらくた \- JUNK](https://open.spotify.com/track/52ItXyP098zb8OR4na4iQk) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LOST CORNER](https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T) | 3:57 |
 | 10 | [愛とU](https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [愛とU](https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl) | 3:22 |
 | 11 | [Swamp](https://open.spotify.com/track/2uWlL56OdmgMy9eCMTUZmN) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Swamp](https://open.spotify.com/album/1a5lsd68rw7esELngC2OUm) | 2:56 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 39 | [Romantic](https://open.spotify.com/track/61DzuO5GOWbN9aX9G4Pop9) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Romantic](https://open.spotify.com/album/5W8LmYnKgTQCTpRbR4cP3G) | 4:10 |
 | 40 | [若者のすべて](https://open.spotify.com/track/0bolEYwnvGkCjy38QACpBt) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [若者のすべて](https://open.spotify.com/album/2pS9ATc0f1xRthcOaTVXvb) | 5:01 |
 | 41 | [One](https://open.spotify.com/track/4oaQZLunFjVPbN830b0yfg) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [One](https://open.spotify.com/album/5YjWEzGDPT2LZHcKAPIc2w) | 3:40 |
-| 42 | [WISH](https://open.spotify.com/track/4RPMlFHLeQax7zt5LlRNsR) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q) | [WISH](https://open.spotify.com/album/48BPkbIZI5iugqQAotUoGz) | 5:15 |
-| 43 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
-| 44 | [in the pocket](https://open.spotify.com/track/7cSnylYfrW2vho71jk52EC) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [in the pocket](https://open.spotify.com/album/7og4SwTc07Zan2RHIi0ufr) | 4:51 |
-| 45 | [青の朔日](https://open.spotify.com/track/4juomwTgjpVtOKLaiSsJKS) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Iris](https://open.spotify.com/album/5FSNEQcyQtmVeizw5j5Y8b) | 5:24 |
-| 46 | [猫にジェラシー](https://open.spotify.com/track/6Qr07C97QliK35ZQGs941S) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [猫にジェラシー](https://open.spotify.com/album/10bxrO3VcayVLsFF30JFxO) | 3:14 |
-| 47 | [元彼女のみなさまへ](https://open.spotify.com/track/0H3RFIhXuuRoQyNKYdvSbn) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [元彼女のみなさまへ](https://open.spotify.com/album/3ASemm4Sc1YQzMrUKConNf) | 4:08 |
-| 48 | [it’s okay](https://open.spotify.com/track/4CvQEMeuNttVJuoALqN30U) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [it’s okay](https://open.spotify.com/album/6I7sRd2M125ktiuoisAhai) | 2:26 |
+| 42 | [it’s okay](https://open.spotify.com/track/4CvQEMeuNttVJuoALqN30U) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [it’s okay](https://open.spotify.com/album/6I7sRd2M125ktiuoisAhai) | 2:26 |
+| 43 | [WISH](https://open.spotify.com/track/4RPMlFHLeQax7zt5LlRNsR) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q) | [WISH](https://open.spotify.com/album/48BPkbIZI5iugqQAotUoGz) | 5:15 |
+| 44 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
+| 45 | [in the pocket](https://open.spotify.com/track/7cSnylYfrW2vho71jk52EC) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [in the pocket](https://open.spotify.com/album/7og4SwTc07Zan2RHIi0ufr) | 4:51 |
+| 46 | [青の朔日](https://open.spotify.com/track/4juomwTgjpVtOKLaiSsJKS) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Iris](https://open.spotify.com/album/5FSNEQcyQtmVeizw5j5Y8b) | 5:24 |
+| 47 | [猫にジェラシー](https://open.spotify.com/track/6Qr07C97QliK35ZQGs941S) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [猫にジェラシー](https://open.spotify.com/album/10bxrO3VcayVLsFF30JFxO) | 3:14 |
+| 48 | [元彼女のみなさまへ](https://open.spotify.com/track/0H3RFIhXuuRoQyNKYdvSbn) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [元彼女のみなさまへ](https://open.spotify.com/album/3ASemm4Sc1YQzMrUKConNf) | 4:08 |
 | 49 | [Friends, Family & God \(feat\. G\-k.i.d & KEIJU\)](https://open.spotify.com/track/2ot7Di8yxbJ01vGdJmdQ4L) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Friends, Family & God \(feat\. G\-k.i.d & KEIJU\)](https://open.spotify.com/album/0NFLbdYg7vCwWYSE7OiRpZ) | 3:50 |
 | 50 | [INZM](https://open.spotify.com/track/55paYSUx1VJB5kUHljI8ov) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [INZM](https://open.spotify.com/album/0PXVVti0BzJC5atBVVFMNh) | 3:30 |
 
-Snapshot ID: `ZyD4cAAAAACp0OqKZcv3x+A6ALqju+iR`
+Snapshot ID: `Zyoy8AAAAADJqQieaEhsS49uEl+7REFD`

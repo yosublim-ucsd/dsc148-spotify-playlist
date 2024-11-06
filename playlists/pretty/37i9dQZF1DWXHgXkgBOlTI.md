@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 ### [Jazz Fusion Japan](https://open.spotify.com/playlist/37i9dQZF1DWXHgXkgBOlTI)
 
-> ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: bohemianvoodoo
+> ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: toconoma
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,725 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,741 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 |
+| 1 | [Syncer](https://open.spotify.com/track/6UInfSod2RLOHwNKX13FLD) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [ISLAND](https://open.spotify.com/album/23ZjMOszKR7sjFmN0vXEan) | 4:41 |
 | 2 | [Vivid](https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [Vivid](https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav) | 3:51 |
 | 3 | [Lamp \(feat\. Nujabes\)](https://open.spotify.com/track/5fpIho8igzgHw9FTmZGoTU) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [MELODICA](https://open.spotify.com/album/2rbEQqaCzEfUU5QB8Uv1D3) | 6:40 |
 | 4 | [Night flight](https://open.spotify.com/track/0C6V5RSz6pdfc2WE8NOsJk) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy) | [Night Flight](https://open.spotify.com/album/6PI5RLr6s5U4nUmBhmyn0J) | 3:50 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 14 | [Good song](https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 3:22 |
 | 15 | [Zero G](https://open.spotify.com/track/0qzL6t5JFpEsnLVlezgykn) | [かつしかトリオ](https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm) | [Wild Guys In The Universe](https://open.spotify.com/album/1entHKqpYIPQygUeAJYpkq) | 3:46 |
 | 16 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
-| 17 | [Synapse](https://open.spotify.com/track/7HnrvQ03PYY7z8ZvSzQAJW) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [Synapse](https://open.spotify.com/album/3NHLgwwaAkW0DyfhdWZ2J1) | 4:53 |
+| 17 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 |
 | 18 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 |
 | 19 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 |
 | 20 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 47 | [Hale no sola sita \-LA YELLOW SAMBA\-](https://open.spotify.com/track/2PshJ3niqCAbzdKPtwSa7Z) | [PE'Z](https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig) | [九月の空 \-KUGATSU NO SOLA\-](https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC) | 3:39 |
 | 48 | [Never Let Go \- Instrumental](https://open.spotify.com/track/6HHlEdo81pmNuapvkEPQZl) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m) | [Elastic Afterwords \(Instrumental\)](https://open.spotify.com/album/1iXHDPgsCFPAT6TGdQ9DIm) | 4:28 |
 | 49 | [Acceleration](https://open.spotify.com/track/47ndoNDWCd8tykoDL5khQI) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [color & monochrome 2](https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW) | 4:05 |
-| 50 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 |
+| 50 | [ハルカゼ](https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [seed](https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg) | 3:27 |
 
-Snapshot ID: `ZxhkfAAAAACPTnzIB6gE6FfLQnKGA/5U`
+Snapshot ID: `ZyozdgAAAAAVTVUFOirGvltrQnJuUOaV`

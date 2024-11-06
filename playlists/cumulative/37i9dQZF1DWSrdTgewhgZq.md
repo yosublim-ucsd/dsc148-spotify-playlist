@@ -2,7 +2,7 @@
 
 ### [DOPE.](https://open.spotify.com/playlist/37i9dQZF1DWSrdTgewhgZq)
 
-> The most flammable playlist ever\. Travis Scott spitting fire 🔥
+> The most flammable playlist ever\. Future & Travis Scott spitting fire 🔥
 
 341 songs - 18 hr 15 min
 

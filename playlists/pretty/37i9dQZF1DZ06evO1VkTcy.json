@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 21734,
+  "num_followers": 21740,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAACyzF46LjnhlMUHa+/wwDSV",
+  "snapshot_id": "ZygOgAAAAABzS1OGu8fEULzlp1jXh6s+",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Poesia Ac\u00fastica",
+        "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "duration_ms": 611076,
+      "name": "Poesia Ac\u00fastica #9 Melhor Forma",
+      "url": "https://open.spotify.com/track/0Qm3FcWgkif9MeY6lgcX11"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica 14",
         "url": "https://open.spotify.com/album/4VM4tFlf3F3rAQfbJDvqnN"
       },
@@ -211,54 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poesia Ac\u00fastica #9 Melhor Forma",
-        "url": "https://open.spotify.com/album/0qv2YZ17FLtrzkO3TbwOBr"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Cesar Mc",
-          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        }
-      ],
-      "duration_ms": 611076,
-      "name": "Poesia Ac\u00fastica #9 Melhor Forma",
-      "url": "https://open.spotify.com/track/3NqKRuFQjTFXYKimFXlMwt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Podium",
         "url": "https://open.spotify.com/album/35tu4rgJcxboWonRqgSkk6"
       },
@@ -275,6 +275,30 @@
       "duration_ms": 240000,
       "name": "Sorrisos (feat. Lourena)",
       "url": "https://open.spotify.com/track/4S3zWMCOGI5k61u78QTGWR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corda Bamba",
+        "url": "https://open.spotify.com/album/2ubtGX0eu9F0UVLMx7sNE5"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        }
+      ],
+      "duration_ms": 191478,
+      "name": "Corda Bamba",
+      "url": "https://open.spotify.com/track/4nsjsaov1d0LvyOVPCaXRf"
     },
     {
       "added_at": null,
@@ -323,30 +347,6 @@
       "duration_ms": 600000,
       "name": "Poesia Ac\u00fastica #11 Nada Mudou",
       "url": "https://open.spotify.com/track/0BiXrraKIkkc4Qj2lcgVUc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corda Bamba",
-        "url": "https://open.spotify.com/album/2ubtGX0eu9F0UVLMx7sNE5"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        }
-      ],
-      "duration_ms": 191478,
-      "name": "Corda Bamba",
-      "url": "https://open.spotify.com/track/4nsjsaov1d0LvyOVPCaXRf"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Sa\u00edda Est\u00e1 Dentro",
-        "url": "https://open.spotify.com/album/6VfOqa6cm75t5RjmC62hC8"
-      },
-      "artists": [
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 231407,
-      "name": "P\u00e1ssaros",
-      "url": "https://open.spotify.com/track/09a27piHzkROsmYoFqr15A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 180705,
       "name": "Tira minha paz",
       "url": "https://open.spotify.com/track/5EOydzBnaxzhzj7iHqiRUo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Sa\u00edda Est\u00e1 Dentro",
+        "url": "https://open.spotify.com/album/6VfOqa6cm75t5RjmC62hC8"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 231407,
+      "name": "P\u00e1ssaros",
+      "url": "https://open.spotify.com/track/09a27piHzkROsmYoFqr15A"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avi\u00e3o",
-        "url": "https://open.spotify.com/album/3jofE4ABxA4B0nNFGEvj1P"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        }
-      ],
-      "duration_ms": 241171,
-      "name": "Avi\u00e3o",
-      "url": "https://open.spotify.com/track/6kdJ1Y8M9IDrEczN8FFweO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 198260,
       "name": "Cupido Querido",
       "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avi\u00e3o",
+        "url": "https://open.spotify.com/album/3jofE4ABxA4B0nNFGEvj1P"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        }
+      ],
+      "duration_ms": 241171,
+      "name": "Avi\u00e3o",
+      "url": "https://open.spotify.com/track/6kdJ1Y8M9IDrEczN8FFweO"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tava Tudo Tranquilin",
-        "url": "https://open.spotify.com/album/3ZedGOE0bZPeLL2CENOSHn"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Tava Tudo Tranquilin",
-      "url": "https://open.spotify.com/track/5Uaxvx1iQUPSpZqz6NRzdf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Posturadin",
         "url": "https://open.spotify.com/album/66QOsOeesc7RCRddsMOLKo"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 226521,
       "name": "Posturadin",
       "url": "https://open.spotify.com/track/60nf4kVvOPfKPL8C9INkCI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tava Tudo Tranquilin",
+        "url": "https://open.spotify.com/album/3ZedGOE0bZPeLL2CENOSHn"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Tava Tudo Tranquilin",
+      "url": "https://open.spotify.com/track/5Uaxvx1iQUPSpZqz6NRzdf"
     },
     {
       "added_at": null,
@@ -1099,26 +1099,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chore N\u00e3o",
-        "url": "https://open.spotify.com/album/1AxgqUpUQOP16G1MJq5ERn"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 176111,
-      "name": "Chore N\u00e3o",
-      "url": "https://open.spotify.com/track/6N1HbvxPCd4cP82dtVL0tk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 174797,
       "name": "F\u00e9 no caminho",
       "url": "https://open.spotify.com/track/6zVcsaPAIqzS6ykbxCHFb6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chore N\u00e3o",
+        "url": "https://open.spotify.com/album/1AxgqUpUQOP16G1MJq5ERn"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 176111,
+      "name": "Chore N\u00e3o",
+      "url": "https://open.spotify.com/track/6N1HbvxPCd4cP82dtVL0tk"
     },
     {
       "added_at": null,
@@ -1187,30 +1187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00f3s",
-        "url": "https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep"
-      },
-      "artists": [
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 216344,
-      "name": "Cabe\u00e7a erguida",
-      "url": "https://open.spotify.com/track/0QLvzqKWTmSXLexxrn3n4K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -1231,6 +1207,30 @@
       "duration_ms": 179310,
       "name": "Ressentimento",
       "url": "https://open.spotify.com/track/1JEVUqr2B689BR4ST2Z2Ll"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00f3s",
+        "url": "https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep"
+      },
+      "artists": [
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 216344,
+      "name": "Cabe\u00e7a erguida",
+      "url": "https://open.spotify.com/track/0QLvzqKWTmSXLexxrn3n4K"
     },
     {
       "added_at": null,

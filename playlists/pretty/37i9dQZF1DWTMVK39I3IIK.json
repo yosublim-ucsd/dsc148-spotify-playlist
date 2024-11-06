@@ -211,6 +211,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Det Hele Handler Om Dig",
+        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 198452,
+      "name": "Det Hele Handler Om Dig",
+      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "JEG VIL IKKE VIDE DU FINDES",
         "url": "https://open.spotify.com/album/7lZ0NCBbfMvh3MbRg6nJbM"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 174240,
       "name": "DET V\u00c6RSTE VED DIG (feat. Ida Laurberg)",
       "url": "https://open.spotify.com/track/6AzeApPdgk5mSF02oRsRCV"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Det Hele Handler Om Dig",
-        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 198452,
-      "name": "Det Hele Handler Om Dig",
-      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "I storsl\u00e5et kinddans, med livet som indsats",
+        "url": "https://open.spotify.com/album/4kCIEEooRWkYSiZhn7EECg"
+      },
+      "artists": [
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        }
+      ],
+      "duration_ms": 171384,
+      "name": "Mand P\u00e5 En Nat",
+      "url": "https://open.spotify.com/track/003Ljf2u0rLc63T1jSTa0L"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "I Know All The Words But I Can't Say Goodbye",
         "url": "https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 338436,
       "name": "Dem, Vi Plejede At V\u00e6re",
       "url": "https://open.spotify.com/track/2MtiQSpFfpbJZOfF5hYnRx"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "I storsl\u00e5et kinddans, med livet som indsats",
-        "url": "https://open.spotify.com/album/4kCIEEooRWkYSiZhn7EECg"
-      },
-      "artists": [
-        {
-          "name": "URO",
-          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
-        }
-      ],
-      "duration_ms": 171384,
-      "name": "Mand P\u00e5 En Nat",
-      "url": "https://open.spotify.com/track/003Ljf2u0rLc63T1jSTa0L"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "SAMBA",
-        "url": "https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "Under Vand",
-      "url": "https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "V\u00e5gen igen",
         "url": "https://open.spotify.com/album/2XjznrGCaPqfMTvdadWfzb"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 250500,
       "name": "V\u00e5gen igen",
       "url": "https://open.spotify.com/track/4ZA8fLnOlO8u0OOT4QrMD5"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "SAMBA",
+        "url": "https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "Under Vand",
+      "url": "https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "N\u00e5r Du R\u00f8rer Ved Mig",
-        "url": "https://open.spotify.com/album/4QF32PL3bB5cAzY6RFzeLg"
-      },
-      "artists": [
-        {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
-        }
-      ],
-      "duration_ms": 217242,
-      "name": "N\u00e5r Du R\u00f8rer Ved Mig",
-      "url": "https://open.spotify.com/track/1KaWWvD6AcG3Hyyr9jyLhf"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Marianne og Henrik",
         "url": "https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 180664,
       "name": "Marianne og Henrik",
       "url": "https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "N\u00e5r Du R\u00f8rer Ved Mig",
+        "url": "https://open.spotify.com/album/4QF32PL3bB5cAzY6RFzeLg"
+      },
+      "artists": [
+        {
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+        }
+      ],
+      "duration_ms": 217242,
+      "name": "N\u00e5r Du R\u00f8rer Ved Mig",
+      "url": "https://open.spotify.com/track/1KaWWvD6AcG3Hyyr9jyLhf"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Oktobernat",
+        "url": "https://open.spotify.com/album/6SW2DY4K9Ull8aEDinXEqV"
+      },
+      "artists": [
+        {
+          "name": "Sira Jovina",
+          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
+        }
+      ],
+      "duration_ms": 175357,
+      "name": "Oktobernat",
+      "url": "https://open.spotify.com/track/1Ibke8wIUBCJbHdPjsaUDc"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Dans I Morgen",
         "url": "https://open.spotify.com/album/5q2qW7AKv8q6ke68KsLBc7"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 128616,
       "name": "Coast II Coast (feat. USSEL)",
       "url": "https://open.spotify.com/track/0HKBq5BnA2JOiLy85H0JxL"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Oktobernat",
-        "url": "https://open.spotify.com/album/6SW2DY4K9Ull8aEDinXEqV"
-      },
-      "artists": [
-        {
-          "name": "Sira Jovina",
-          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
-        }
-      ],
-      "duration_ms": 175357,
-      "name": "Oktobernat",
-      "url": "https://open.spotify.com/track/1Ibke8wIUBCJbHdPjsaUDc"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "SHE-REX",
-        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
-      },
-      "artists": [
-        {
-          "name": "eee gee",
-          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
-        }
-      ],
-      "duration_ms": 232465,
-      "name": "promise to pick up the phone",
-      "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "ENGLE & BLAA MAERKER",
         "url": "https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 174017,
       "name": "oslo til k\u00f8benhavn",
       "url": "https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "SHE-REX",
+        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
+      },
+      "artists": [
+        {
+          "name": "eee gee",
+          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
+        }
+      ],
+      "duration_ms": 232465,
+      "name": "promise to pick up the phone",
+      "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "The Game",
-        "url": "https://open.spotify.com/album/7fguP8EMcSuGjet7VIwBMr"
-      },
-      "artists": [
-        {
-          "name": "Dopha",
-          "url": "https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn"
-        }
-      ],
-      "duration_ms": 185729,
-      "name": "The Game",
-      "url": "https://open.spotify.com/track/364mT4h3GcKYrfkdR6kLK4"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Uvejr - Del 1",
         "url": "https://open.spotify.com/album/7xmM67m7uPRM6VYhSn8Uu0"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 215625,
       "name": "Krystalklart Kaos",
       "url": "https://open.spotify.com/track/6ZXVSgQpC0TzJTnsMbFSCU"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/7fguP8EMcSuGjet7VIwBMr"
+      },
+      "artists": [
+        {
+          "name": "Dopha",
+          "url": "https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn"
+        }
+      ],
+      "duration_ms": 185729,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/364mT4h3GcKYrfkdR6kLK4"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Keep Forgetting",
+        "url": "https://open.spotify.com/album/5HBhsnBwHddgj9ookdBhDj"
+      },
+      "artists": [
+        {
+          "name": "GUZO",
+          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+        }
+      ],
+      "duration_ms": 173028,
+      "name": "Keep Forgetting",
+      "url": "https://open.spotify.com/track/1rc1butXPjPJnAR2LVJWvv"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Great Doubt EDITS",
         "url": "https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 145125,
       "name": "Do you wanna - Fine + Molina EDIT",
       "url": "https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Keep Forgetting",
-        "url": "https://open.spotify.com/album/5HBhsnBwHddgj9ookdBhDj"
-      },
-      "artists": [
-        {
-          "name": "GUZO",
-          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
-        }
-      ],
-      "duration_ms": 173028,
-      "name": "Keep Forgetting",
-      "url": "https://open.spotify.com/track/1rc1butXPjPJnAR2LVJWvv"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1011,6 +1011,22 @@
       "duration_ms": 151395,
       "name": "Maler",
       "url": "https://open.spotify.com/track/2klZrdYgQZqwIqX1aMzBKZ"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Caravan",
+        "url": "https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi"
+      },
+      "artists": [
+        {
+          "name": "GUZO",
+          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+        }
+      ],
+      "duration_ms": 314708,
+      "name": "Cursing and Lying!",
+      "url": "https://open.spotify.com/track/5dslPul1UbjAHzUcFZZoUw"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1103,50 +1119,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Dopa min",
-        "url": "https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b"
+        "name": "Frav\u00e6r",
+        "url": "https://open.spotify.com/album/2hicqCPKVEeRFZzQ9Rk1fy"
       },
       "artists": [
         {
-          "name": "Bette",
-          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
+          "name": "will",
+          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
         }
       ],
-      "duration_ms": 161911,
-      "name": "Dopa min",
-      "url": "https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Caravan",
-        "url": "https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi"
-      },
-      "artists": [
-        {
-          "name": "GUZO",
-          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
-        }
-      ],
-      "duration_ms": 314708,
-      "name": "Cursing and Lying!",
-      "url": "https://open.spotify.com/track/5dslPul1UbjAHzUcFZZoUw"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Elsk Mig",
-        "url": "https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU"
-      },
-      "artists": [
-        {
-          "name": "Joyce",
-          "url": "https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow"
-        }
-      ],
-      "duration_ms": 236624,
-      "name": "Se Mig",
-      "url": "https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R"
+      "duration_ms": 128115,
+      "name": "Frav\u00e6r",
+      "url": "https://open.spotify.com/track/3n3wux4QslhJMFnwSqw7mC"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1167,18 +1151,34 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
+        "name": "Dopa min",
+        "url": "https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b"
       },
       "artists": [
         {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+          "name": "Bette",
+          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
         }
       ],
-      "duration_ms": 241716,
-      "name": "Se Mig F\u00f8r Jeg Glemmer Hvem Jeg Er",
-      "url": "https://open.spotify.com/track/6eKpCSesviVv5WEtuU8fMJ"
+      "duration_ms": 161911,
+      "name": "Dopa min",
+      "url": "https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Infinity Action",
+        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 243306,
+      "name": "Brev Fra En Forr\u00e6der",
+      "url": "https://open.spotify.com/track/0SDWa22lSLNpGnr5bF3f2z"
     }
   ],
   "unique_name": "ung kniv ",

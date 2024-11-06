@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: The Wiggles
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,439 likes - 273 songs - 11 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,528 likes - 273 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 99 | [Pirate Treasure Hunt](https://open.spotify.com/track/4bvHU03wdDsBaipPxGOJw2) | [Baby Joy Joy](https://open.spotify.com/artist/6GAZ9fxattwUYRuTRddv5N) | [Pirate Treasure Hunt](https://open.spotify.com/album/62emgO17Ku0kWJds36XXWa) | 3:14 |
 | 100 | [Run! The Floor is Lava!!](https://open.spotify.com/track/2iKFK74HvyAuQr9vxbTfsB) | [The Little Mouse Production](https://open.spotify.com/artist/6Kb3W2eeJN6YNriqvdLNNE) | [Run! The Floor is Lava!!](https://open.spotify.com/album/6jXIAp5SAQtUGTw4Yrt2yd) | 3:35 |
 | 101 | [Kitty Cat \(Look at that Cat\)](https://open.spotify.com/track/0zWBajnKNL18aO4yBzTPWt) | [Bari Koral](https://open.spotify.com/artist/40GTTHyDAFn0HJ1vsk7CYZ) | [Kitty Cat \(Look at that Cat\)](https://open.spotify.com/album/6y02NRmFKwHgi4ZAXX7Whd) | 3:09 |
-| 102 | [You Can Be a Hero \- From "Ryan's World the Movie: Titan Universe Adventure"](https://open.spotify.com/track/5OsxnnVJIikPG9iWAZNAhE) | [Miles Music Kid](https://open.spotify.com/artist/6zbWxUfLhRVLxjQXONZ2AS) | [You Can Be a Hero \(From "Ryan's World the Movie: Titan Universe Adventure"\)](https://open.spotify.com/album/2FNAMsGotVMtYiEbFsGTA3) | 2:52 |
+| 102 | [You Can Be a Hero \- From "Ryan's World the Movie: Titan Universe Adventure"](https://open.spotify.com/track/5OsxnnVJIikPG9iWAZNAhE) | [Miles Bonham](https://open.spotify.com/artist/4zf7Oqjvx7QEGcZPqpBr5Y) | [You Can Be a Hero \(From "Ryan's World the Movie: Titan Universe Adventure"\)](https://open.spotify.com/album/2FNAMsGotVMtYiEbFsGTA3) | 2:52 |
 | 103 | [Rub A Dub Dub](https://open.spotify.com/track/56O7X42b5jutoJnw4nsIxA) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Rub A Dub Dub](https://open.spotify.com/album/1TxvfCE2fVle9dQ0plL1Ud) | 1:59 |
 | 104 | [Sticks N Stones](https://open.spotify.com/track/3crz6tvFxibQJzy7zkGLhT) | [Ronnie Boy Kids](https://open.spotify.com/artist/1K3KWU6neb0IFYos3nJe38), [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I) | [Sticks N Stones](https://open.spotify.com/album/4gHGGREC4hUVfD4KhICPAH) | 2:15 |
 | 105 | [Trampoline \- Kids Songs](https://open.spotify.com/track/5kergIpw9REOhqwFs4PC7e) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Trampoline \- Kids Songs](https://open.spotify.com/album/6712xWJnGDS7RIR90QhtgV) | 2:06 |

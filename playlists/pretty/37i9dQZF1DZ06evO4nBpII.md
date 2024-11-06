@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 
 > This is Green Day\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,986 likes - 51 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,111 likes - 51 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 50 | [The Saints Are Coming](https://open.spotify.com/track/2OqCyO684ShnEOqFQieN3Z) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The Saints Are Coming](https://open.spotify.com/album/3s9hW1Wjsxf2LDyIa9J0il) | 3:22 |
 | 51 | [Father of All...](https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 2:31 |
 
-Snapshot ID: `Zya9AAAAAABPV0SSaAOIdiQdyJZcyGmZ`
+Snapshot ID: `ZygOgAAAAABdZ3mzKlnoHXxu6ErUrkeh`

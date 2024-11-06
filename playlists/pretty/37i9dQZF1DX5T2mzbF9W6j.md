@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,451 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,446 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 53 | [KONFETTI](https://open.spotify.com/track/4EvCYXjPweKzMgTCRYgmp2) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq), [FANTØM](https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5) | [KONFETTI](https://open.spotify.com/album/4X1n6VXWFDTcknIWKAgHNy) | 2:34 |
 | 54 | [NIE MÓWIŁA NIC](https://open.spotify.com/track/5RFe2B5H3E3ZNYL0gn04JU) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [NIE MÓWIŁA NIC](https://open.spotify.com/album/3Bb29LKGzT3DfKyvB4QR4l) | 2:28 |
 | 55 | [Falling Back](https://open.spotify.com/track/13JBJbh4d6rx98CjJcROpl) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Falling Back](https://open.spotify.com/album/40rKWr7rMApkEp7D52Z8mX) | 3:09 |
-| 56 | [Dead Man](https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Dead Man](https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB) | 3:23 |
-| 57 | [Nie musisz się bać](https://open.spotify.com/track/09fqIgOZRn3ZbwbQB2r2u2) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Nie musisz się bać](https://open.spotify.com/album/0MHl2tY6jrbEbssuR7nxdM) | 2:25 |
-| 58 | [Nimbostratus](https://open.spotify.com/track/1aSxqyObq0lfd8P4rHIESF) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Kaprysy](https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY) | 3:15 |
-| 59 | [Tam czeka mnie dom](https://open.spotify.com/track/2R5JI5M63xGVesrcwILZ0B) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Tam czeka mnie dom](https://open.spotify.com/album/1BFCotBzxEo6Od7Uk0g2OH) | 2:17 |
+| 56 | [Nie musisz się bać](https://open.spotify.com/track/09fqIgOZRn3ZbwbQB2r2u2) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Nie musisz się bać](https://open.spotify.com/album/0MHl2tY6jrbEbssuR7nxdM) | 2:25 |
+| 57 | [Dead Man](https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Dead Man](https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB) | 3:23 |
+| 58 | [Tam czeka mnie dom](https://open.spotify.com/track/2R5JI5M63xGVesrcwILZ0B) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Tam czeka mnie dom](https://open.spotify.com/album/1BFCotBzxEo6Od7Uk0g2OH) | 2:17 |
+| 59 | [Nimbostratus](https://open.spotify.com/track/1aSxqyObq0lfd8P4rHIESF) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Kaprysy](https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY) | 3:15 |
 | 60 | [Cyrk](https://open.spotify.com/track/1e8Lx51hxlh88uaA3IumUR) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Cyrk](https://open.spotify.com/album/3LnfdUm50X2HVIUadHJ6Nf) | 3:06 |
 
 Snapshot ID: `ZxGI4AAAAACxOyFLe8rHp8Onk+jVwnG5`

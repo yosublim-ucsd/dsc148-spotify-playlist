@@ -338,10 +338,28 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 212734,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/6b6KXDbDn0s0Jepxm8a3nr"
+    },
+    {
+      "album": {
+        "name": "DRIP",
+        "url": "https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212734,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/7a6vvAM1cjAuyVQpqv9pmu"
     },
     {
       "album": {

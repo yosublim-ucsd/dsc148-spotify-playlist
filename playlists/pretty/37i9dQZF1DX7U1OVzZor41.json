@@ -1,6 +1,6 @@
 {
   "description": "\u5728KTV\u91cc\uff0c\u8fd9\u4e9b\u90fd\u662f\u5fc5\u70b9\u5fc5\u5531\u7684\u534e\u8bedK\u6b4c\u3002\u4f60\u51c6\u5907\u597d\u4e86\u5417\uff1f",
-  "num_followers": 145027,
+  "num_followers": 145030,
   "original_name": "\u4eba\u6c14K\u6b4c\u699c",
   "owner": {
     "name": "Spotify",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-10-11 05:22:52",
       "album": {
-        "name": "\u592a\u5e73\u76db\u4e16",
-        "url": "https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU"
+        "name": "\u521d\u5b78\u8005",
+        "url": "https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ"
       },
       "artists": [
         {
-          "name": "David Tao",
-          "url": "https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB"
+          "name": "Joker Xue",
+          "url": "https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN"
         }
       ],
-      "duration_ms": 292666,
-      "name": "\u611b\u6211\u9084\u662f\u4ed6",
-      "url": "https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i"
+      "duration_ms": 261249,
+      "name": "\u6f14\u54e1",
+      "url": "https://open.spotify.com/track/6LunoYd3xpZ19sICOXS8Xd"
     },
     {
       "added_at": "2024-10-11 05:22:52",
@@ -419,18 +419,18 @@
     {
       "added_at": "2024-10-11 05:22:52",
       "album": {
-        "name": "\u521d\u5b78\u8005",
-        "url": "https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ"
+        "name": "\u592a\u5e73\u76db\u4e16",
+        "url": "https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU"
       },
       "artists": [
         {
-          "name": "Joker Xue",
-          "url": "https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN"
+          "name": "David Tao",
+          "url": "https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB"
         }
       ],
-      "duration_ms": 261249,
-      "name": "\u6f14\u54e1",
-      "url": "https://open.spotify.com/track/6LunoYd3xpZ19sICOXS8Xd"
+      "duration_ms": 292666,
+      "name": "\u611b\u6211\u9084\u662f\u4ed6",
+      "url": "https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i"
     },
     {
       "added_at": "2024-10-11 05:22:52",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-10-11 05:22:52",
       "album": {
-        "name": "I'm O.K.",
-        "url": "https://open.spotify.com/album/1tOMQ0MGYaMF4F0YtyUKXN"
-      },
-      "artists": [
-        {
-          "name": "David Tao",
-          "url": "https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "\u666e\u901a\u670b\u53cb",
-      "url": "https://open.spotify.com/track/7CTitzr4eVIDCPUJi5Dr4B"
-    },
-    {
-      "added_at": "2024-10-11 05:22:52",
-      "album": {
         "name": "\u6709\u7406\u60f3",
         "url": "https://open.spotify.com/album/3ykTa8oJzxd7n6vplb3VTl"
       },
@@ -527,22 +511,6 @@
       "duration_ms": 312997,
       "name": "\u4e0d\u5c07\u5c31 (\u96fb\u5f71\"\u4f55\u4ee5\u7b19\u7c2b\u9ed8\"\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/5DH8nF7aWoXXg5Sm3gjCWD"
-    },
-    {
-      "added_at": "2024-10-11 05:22:52",
-      "album": {
-        "name": "\u9006\u5149",
-        "url": "https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Sun",
-          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
-        }
-      ],
-      "duration_ms": 289066,
-      "name": "\u6211\u61f7\u5ff5\u7684",
-      "url": "https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21"
     },
     {
       "added_at": "2024-10-11 05:22:52",
@@ -563,6 +531,22 @@
     {
       "added_at": "2024-10-11 05:22:52",
       "album": {
+        "name": "\u9006\u5149",
+        "url": "https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "duration_ms": 289066,
+      "name": "\u6211\u61f7\u5ff5\u7684",
+      "url": "https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21"
+    },
+    {
+      "added_at": "2024-10-11 05:22:52",
+      "album": {
         "name": "\u83ef\u8207\u6d6a\u6f2b",
         "url": "https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT"
       },
@@ -575,22 +559,6 @@
       "duration_ms": 233406,
       "name": "\u60f3\u548c\u4f60\u770b\u4e94\u6708\u7684\u665a\u971e",
       "url": "https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ"
-    },
-    {
-      "added_at": "2024-10-11 05:22:52",
-      "album": {
-        "name": "\u5982\u679c\u96e8\u4e4b\u5f8c",
-        "url": "https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 281200,
-      "name": "\u5982\u679c\u96e8\u4e4b\u5f8c",
-      "url": "https://open.spotify.com/track/6kabSi7XCHHGThNme6J2tL"
     },
     {
       "added_at": "2024-10-11 05:22:52",
@@ -611,18 +579,34 @@
     {
       "added_at": "2024-10-11 05:22:52",
       "album": {
-        "name": "\u6211\u597d\u55ce? - \u592a\u967d\u5982\u5e38\u5347\u8d77",
-        "url": "https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM"
+        "name": "\u5982\u679c\u96e8\u4e4b\u5f8c",
+        "url": "https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g"
       },
       "artists": [
         {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
         }
       ],
-      "duration_ms": 289604,
-      "name": "\u6162\u51b7",
-      "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
+      "duration_ms": 281200,
+      "name": "\u5982\u679c\u96e8\u4e4b\u5f8c",
+      "url": "https://open.spotify.com/track/6kabSi7XCHHGThNme6J2tL"
+    },
+    {
+      "added_at": "2024-10-11 05:22:52",
+      "album": {
+        "name": "I'm O.K.",
+        "url": "https://open.spotify.com/album/1tOMQ0MGYaMF4F0YtyUKXN"
+      },
+      "artists": [
+        {
+          "name": "David Tao",
+          "url": "https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "\u666e\u901a\u670b\u53cb",
+      "url": "https://open.spotify.com/track/7CTitzr4eVIDCPUJi5Dr4B"
     },
     {
       "added_at": "2024-10-11 05:22:52",
@@ -639,6 +623,22 @@
       "duration_ms": 279146,
       "name": "\u5e74\u5c11\u6709\u70ba",
       "url": "https://open.spotify.com/track/6XY80Ofqd8j0SGiEdRLwCp"
+    },
+    {
+      "added_at": "2024-10-11 05:22:52",
+      "album": {
+        "name": "\u6211\u597d\u55ce? - \u592a\u967d\u5982\u5e38\u5347\u8d77",
+        "url": "https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 289604,
+      "name": "\u6162\u51b7",
+      "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
     },
     {
       "added_at": "2024-10-11 05:22:52",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-10-11 05:22:52",
       "album": {
-        "name": "\u5bc2\u5bde\u4e0d\u75db",
-        "url": "https://open.spotify.com/album/5ncMRfP3V96fdb61yB0WKR"
-      },
-      "artists": [
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 285546,
-      "name": "\u7d66\u6211\u4e00\u500b\u7406\u7531\u5fd8\u8a18",
-      "url": "https://open.spotify.com/track/2DcmVSLAg0ZzfOQxDshZHY"
-    },
-    {
-      "added_at": "2024-10-11 05:22:52",
-      "album": {
         "name": "\u518d\u611b\u4e00\u904d\u2027\u5929\u540e\u9673\u52e2\u5b89",
         "url": "https://open.spotify.com/album/7EYP32Kr9V27MBMdmBkUo0"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 289400,
       "name": "\u5929\u540e",
       "url": "https://open.spotify.com/track/4D0KlK4Fl8lotvsoys1bYQ"
+    },
+    {
+      "added_at": "2024-10-11 05:22:52",
+      "album": {
+        "name": "\u5bc2\u5bde\u4e0d\u75db",
+        "url": "https://open.spotify.com/album/5ncMRfP3V96fdb61yB0WKR"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "duration_ms": 285546,
+      "name": "\u7d66\u6211\u4e00\u500b\u7406\u7531\u5fd8\u8a18",
+      "url": "https://open.spotify.com/track/2DcmVSLAg0ZzfOQxDshZHY"
     },
     {
       "added_at": "2024-10-11 05:22:52",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-10-11 05:22:52",
       "album": {
-        "name": "LINK",
-        "url": "https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz"
-      },
-      "artists": [
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 318938,
-      "name": "\u646f\u53cb",
-      "url": "https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0"
-    },
-    {
-      "added_at": "2024-10-11 05:22:52",
-      "album": {
         "name": "\u5c0f\u5e78\u904b",
         "url": "https://open.spotify.com/album/6PqQY9oiU7zXQEuWUYBZs5"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 237840,
       "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
       "url": "https://open.spotify.com/track/5DCNAwyomUF3LXunq4NSpJ"
+    },
+    {
+      "added_at": "2024-10-11 05:22:52",
+      "album": {
+        "name": "JJ\u6797\u4fca\u5091100\u5929",
+        "url": "https://open.spotify.com/album/6D0BwgO8fScZhwVFP6k6N9"
+      },
+      "artists": [
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "duration_ms": 234890,
+      "name": "\u80cc\u5c0d\u80cc\u64c1\u62b1",
+      "url": "https://open.spotify.com/track/5OZeRuBBRpEY13BagcAOLJ"
     }
   ],
   "unique_name": "\u4eba\u6c14K\u6b4c\u699c",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > Gli astri nascenti del pop italiano 🔮 Cover: Olly e Angelina Mango
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,875 likes - 95 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,883 likes - 95 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

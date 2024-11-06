@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 17531,
+  "num_followers": 17537,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAACIKbhVxO99jPf96dVfOtwB",
+  "snapshot_id": "ZygOgAAAAAAxQPQLmdQBIJP0jTWTlWdC",
   "tracks": [
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortaleza",
-        "url": "https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU"
+        "name": "De Saloon",
+        "url": "https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 263880,
-      "name": "Mi coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1URudLlOGgHV6GE5TQfMQW"
+      "duration_ms": 207200,
+      "name": "Esfumar",
+      "url": "https://open.spotify.com/track/1zumR6nP8LnKma5wOvq9nB"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Saloon",
-        "url": "https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS"
+        "name": "Fortaleza",
+        "url": "https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 207200,
-      "name": "Esfumar",
-      "url": "https://open.spotify.com/track/1zumR6nP8LnKma5wOvq9nB"
+      "duration_ms": 263880,
+      "name": "Mi coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1URudLlOGgHV6GE5TQfMQW"
     },
     {
       "added_at": null,
@@ -536,41 +536,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 236586,
-      "name": "Fui feliz",
-      "url": "https://open.spotify.com/track/4eg5oafPZjlFK6xYF6qs3Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morder",
-        "url": "https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 216786,
-      "name": "Axfixiar",
-      "url": "https://open.spotify.com/track/0BH9WwsHL55n1TJFA3z3Rv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Delicada Violencia",
-        "url": "https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 235613,
-      "name": "Delicada violencia",
-      "url": "https://open.spotify.com/track/0WqFZiJlm264gE6zgJIyQQ"
+      "duration_ms": 213946,
+      "name": "Brigida",
+      "url": "https://open.spotify.com/track/3xlHWb5TsdrN0BTb0h2aM5"
     },
     {
       "added_at": null,
@@ -591,6 +559,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Delicada Violencia",
+        "url": "https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 235613,
+      "name": "Delicada violencia",
+      "url": "https://open.spotify.com/track/0WqFZiJlm264gE6zgJIyQQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morder",
+        "url": "https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 216786,
+      "name": "Axfixiar",
+      "url": "https://open.spotify.com/track/0BH9WwsHL55n1TJFA3z3Rv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Saloon",
         "url": "https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS"
       },
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 213946,
-      "name": "Brigida",
-      "url": "https://open.spotify.com/track/3xlHWb5TsdrN0BTb0h2aM5"
+      "duration_ms": 236586,
+      "name": "Fui feliz",
+      "url": "https://open.spotify.com/track/4eg5oafPZjlFK6xYF6qs3Y"
     },
     {
       "added_at": null,

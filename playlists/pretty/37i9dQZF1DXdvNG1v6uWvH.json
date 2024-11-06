@@ -1,6 +1,6 @@
 {
   "description": "N\u00fd t\u00f3nlist!",
-  "num_followers": 9129,
+  "num_followers": 9128,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Punish",
-        "url": "https://open.spotify.com/album/1xeGbgjpB3uXZ7oZGpc1zm"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 407710,
-      "name": "Punish",
-      "url": "https://open.spotify.com/track/2Iy2Qj5kTsmXAndBnOWdy4"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "LOST IN HEAVEN",
         "url": "https://open.spotify.com/album/6fCGW5OWBTrtesYXjEze3h"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 213103,
       "name": "YOU",
       "url": "https://open.spotify.com/track/6p2eArI2fcdxiO8UenVfVy"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "Punish",
+        "url": "https://open.spotify.com/album/1xeGbgjpB3uXZ7oZGpc1zm"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 407710,
+      "name": "Punish",
+      "url": "https://open.spotify.com/track/2Iy2Qj5kTsmXAndBnOWdy4"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -582,10 +582,6 @@
         {
           "name": "Daniel Saint",
           "url": "https://open.spotify.com/artist/1mqfwrWO9D3IQvWkwnuCNB"
-        },
-        {
-          "name": "chill sebs",
-          "url": "https://open.spotify.com/artist/6SiKEPYrOXoQT6GbreDRvF"
         }
       ],
       "duration_ms": 184864,
@@ -611,6 +607,22 @@
       "duration_ms": 255285,
       "name": "Caught in a Moment",
       "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "Ray Of Light",
+        "url": "https://open.spotify.com/album/1GBySAbVIvQTKCR0Tg4a4U"
+      },
+      "artists": [
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "Ray Of Light",
+      "url": "https://open.spotify.com/track/3yFWhxIlIzlyro5r6IMuT4"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -647,22 +659,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Ray Of Light",
-        "url": "https://open.spotify.com/album/1GBySAbVIvQTKCR0Tg4a4U"
-      },
-      "artists": [
-        {
-          "name": "Nico Santos",
-          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
-        }
-      ],
-      "duration_ms": 176500,
-      "name": "Ray Of Light",
-      "url": "https://open.spotify.com/track/3yFWhxIlIzlyro5r6IMuT4"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "UNSAID",
         "url": "https://open.spotify.com/album/6qymOSCWulOMM6D7LxuZtl"
       },
@@ -691,22 +687,6 @@
       "duration_ms": 257903,
       "name": "Mouth of a Flower",
       "url": "https://open.spotify.com/track/0rHsI1XMHFqORFBxjzgDP5"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/6N27ut0ON8ncLdWx7OUUFJ"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 265304,
-      "name": "My Four Friends",
-      "url": "https://open.spotify.com/track/1ou8lPpPxEHOm1RZKXgllX"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -763,6 +743,42 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/6N27ut0ON8ncLdWx7OUUFJ"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 265304,
+      "name": "My Four Friends",
+      "url": "https://open.spotify.com/track/1ou8lPpPxEHOm1RZKXgllX"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "What Scares Me The Most",
+        "url": "https://open.spotify.com/album/23I5bEZvvIqVaiyIiGOzrg"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        },
+        {
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Break A Promise",
+      "url": "https://open.spotify.com/track/6z04WTHul8K26xQGhACEYN"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
         "name": "Girl With No Face (Deluxe)",
         "url": "https://open.spotify.com/album/3YmHgqNX2uNNbBRa8WkxkD"
       },
@@ -799,26 +815,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Feeling So Real 2024",
-        "url": "https://open.spotify.com/album/2y3iEKYZHffH4dJQfvbQOb"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Feeling So Real 2024 - Edit",
-      "url": "https://open.spotify.com/track/59shwQBZ8fRkiZXU5E5A6u"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "Fantasy (feat. Channel Tres)",
         "url": "https://open.spotify.com/album/3k2rnh2rzbv7MF9kyf0CTr"
       },
@@ -839,22 +835,22 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "What Scares Me The Most",
-        "url": "https://open.spotify.com/album/23I5bEZvvIqVaiyIiGOzrg"
+        "name": "Feeling So Real 2024",
+        "url": "https://open.spotify.com/album/2y3iEKYZHffH4dJQfvbQOb"
       },
       "artists": [
         {
-          "name": "ROSIE",
-          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         },
         {
-          "name": "Caleb Hearn",
-          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         }
       ],
-      "duration_ms": 188400,
-      "name": "Break A Promise",
-      "url": "https://open.spotify.com/track/6z04WTHul8K26xQGhACEYN"
+      "duration_ms": 203333,
+      "name": "Feeling So Real 2024 - Edit",
+      "url": "https://open.spotify.com/track/59shwQBZ8fRkiZXU5E5A6u"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -891,22 +887,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Hacker",
-        "url": "https://open.spotify.com/album/0S7e6QKCfYDmvIVujOC9S8"
-      },
-      "artists": [
-        {
-          "name": "Matt Champion",
-          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
-        }
-      ],
-      "duration_ms": 179081,
-      "name": "Hacker",
-      "url": "https://open.spotify.com/track/7yokdvwHVF5Ejp5iqP4FhY"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "The One I Need",
         "url": "https://open.spotify.com/album/6X8Qc5tagwfpDl4H2r5ceI"
       },
@@ -927,22 +907,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "I Want You Yesterday",
-        "url": "https://open.spotify.com/album/0AzuCbYoIxEBH9boTjbekq"
-      },
-      "artists": [
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
-        }
-      ],
-      "duration_ms": 167671,
-      "name": "I Want You Yesterday",
-      "url": "https://open.spotify.com/track/0B7kvXtG2SnY0z8YQjhN0G"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "What Have You Done To Me?",
         "url": "https://open.spotify.com/album/10lnSg9ovtLdS5hNsaO1Gh"
       },
@@ -955,6 +919,38 @@
       "duration_ms": 378332,
       "name": "What Have You Done To Me?",
       "url": "https://open.spotify.com/track/17R2aajQzh7XyR4b9pnggt"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "Hacker",
+        "url": "https://open.spotify.com/album/0S7e6QKCfYDmvIVujOC9S8"
+      },
+      "artists": [
+        {
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+        }
+      ],
+      "duration_ms": 179081,
+      "name": "Hacker",
+      "url": "https://open.spotify.com/track/7yokdvwHVF5Ejp5iqP4FhY"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "I Want You Yesterday",
+        "url": "https://open.spotify.com/album/0AzuCbYoIxEBH9boTjbekq"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "duration_ms": 167671,
+      "name": "I Want You Yesterday",
+      "url": "https://open.spotify.com/track/0B7kvXtG2SnY0z8YQjhN0G"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -999,38 +995,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "starz",
-        "url": "https://open.spotify.com/album/07z1Ps5aZnKj0uBVD5uRKf"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 209800,
-      "name": "starz",
-      "url": "https://open.spotify.com/track/1cE3qIWMrHbHlpDyfRrOGY"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/55DFqfotSUPU7MSv6NuK8m"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Palladino",
-          "url": "https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P"
-        }
-      ],
-      "duration_ms": 202735,
-      "name": "Drunk",
-      "url": "https://open.spotify.com/track/0hd4HXtAwtIQq4kAlJySa0"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/79y81CFMfBcPq0B0qlEjwM"
       },
@@ -1067,18 +1031,34 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "10/10",
-        "url": "https://open.spotify.com/album/6XR7x0yo8BgOU5CdIUJPVX"
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/55DFqfotSUPU7MSv6NuK8m"
       },
       "artists": [
         {
-          "name": "joel",
-          "url": "https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR"
+          "name": "Fabiana Palladino",
+          "url": "https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P"
         }
       ],
-      "duration_ms": 172653,
-      "name": "10/10",
-      "url": "https://open.spotify.com/track/0A19MZxroYjdFfwF3xvShG"
+      "duration_ms": 202735,
+      "name": "Drunk",
+      "url": "https://open.spotify.com/track/0hd4HXtAwtIQq4kAlJySa0"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "starz",
+        "url": "https://open.spotify.com/album/07z1Ps5aZnKj0uBVD5uRKf"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 209800,
+      "name": "starz",
+      "url": "https://open.spotify.com/track/1cE3qIWMrHbHlpDyfRrOGY"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -1095,6 +1075,22 @@
       "duration_ms": 187086,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/6tgBOj1W50ssmhorIQOFKX"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "10/10",
+        "url": "https://open.spotify.com/album/6XR7x0yo8BgOU5CdIUJPVX"
+      },
+      "artists": [
+        {
+          "name": "joel",
+          "url": "https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/0A19MZxroYjdFfwF3xvShG"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -1131,38 +1127,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Falling Down a Well / Born Without a Smile",
-        "url": "https://open.spotify.com/album/2ad6OJI02AHDOXDCCdf9Sg"
-      },
-      "artists": [
-        {
-          "name": "Jack J",
-          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
-        }
-      ],
-      "duration_ms": 173825,
-      "name": "Falling Down a Well",
-      "url": "https://open.spotify.com/track/6y4eFBfaADWBdUMq4HlrOC"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "Church",
-        "url": "https://open.spotify.com/album/7jgwLVhLfnpmK4Je0O86bG"
-      },
-      "artists": [
-        {
-          "name": "L\u00e5psley",
-          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
-        }
-      ],
-      "duration_ms": 184555,
-      "name": "Church",
-      "url": "https://open.spotify.com/track/21TMrD5pndojPXRtAc23rN"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "Until We're Together",
         "url": "https://open.spotify.com/album/0gerArONKXKkiCm6jdfIGB"
       },
@@ -1183,6 +1147,22 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
+        "name": "Church",
+        "url": "https://open.spotify.com/album/7jgwLVhLfnpmK4Je0O86bG"
+      },
+      "artists": [
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "duration_ms": 184555,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/21TMrD5pndojPXRtAc23rN"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
         "name": "theremin",
         "url": "https://open.spotify.com/album/7pYNdcVuPsnHE6KzsG33a1"
       },
@@ -1195,6 +1175,22 @@
       "duration_ms": 161003,
       "name": "theremin",
       "url": "https://open.spotify.com/track/0qqtydxO4KMSnhww9PlrqQ"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "Falling Down a Well / Born Without a Smile",
+        "url": "https://open.spotify.com/album/2ad6OJI02AHDOXDCCdf9Sg"
+      },
+      "artists": [
+        {
+          "name": "Jack J",
+          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
+        }
+      ],
+      "duration_ms": 173825,
+      "name": "Falling Down a Well",
+      "url": "https://open.spotify.com/track/6y4eFBfaADWBdUMq4HlrOC"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -1255,38 +1251,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "all night on my own",
-        "url": "https://open.spotify.com/album/6xbEGQEczwqCG7g9sqvq50"
-      },
-      "artists": [
-        {
-          "name": "Rommii",
-          "url": "https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U"
-        }
-      ],
-      "duration_ms": 132328,
-      "name": "all night on my own",
-      "url": "https://open.spotify.com/track/4hd01RIHFRlBLh0sfOyjT2"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "urmybiggestfear",
-        "url": "https://open.spotify.com/album/54yn2HKSW9hyFu0yRPeKUi"
-      },
-      "artists": [
-        {
-          "name": "awfultune",
-          "url": "https://open.spotify.com/artist/1vkWdqcabQ1swciXipkLBj"
-        }
-      ],
-      "duration_ms": 156018,
-      "name": "urmybiggestfear",
-      "url": "https://open.spotify.com/track/3B3sILdxwfmStSRAGUTEPO"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/6qnNL37RrTFrc63BZXAqVu"
       },
@@ -1307,6 +1271,22 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
+        "name": "all night on my own",
+        "url": "https://open.spotify.com/album/6xbEGQEczwqCG7g9sqvq50"
+      },
+      "artists": [
+        {
+          "name": "Rommii",
+          "url": "https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U"
+        }
+      ],
+      "duration_ms": 132328,
+      "name": "all night on my own",
+      "url": "https://open.spotify.com/track/4hd01RIHFRlBLh0sfOyjT2"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
         "name": "Oh Baby",
         "url": "https://open.spotify.com/album/15r2y9u2NMPwEk6reFDJR1"
       },
@@ -1319,6 +1299,22 @@
       "duration_ms": 114098,
       "name": "Oh Baby",
       "url": "https://open.spotify.com/track/35niSyb2wlUyM5pZvmpZ00"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "urmybiggestfear",
+        "url": "https://open.spotify.com/album/54yn2HKSW9hyFu0yRPeKUi"
+      },
+      "artists": [
+        {
+          "name": "awfultune",
+          "url": "https://open.spotify.com/artist/1vkWdqcabQ1swciXipkLBj"
+        }
+      ],
+      "duration_ms": 156018,
+      "name": "urmybiggestfear",
+      "url": "https://open.spotify.com/track/3B3sILdxwfmStSRAGUTEPO"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -1347,26 +1343,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Seventh Heaven",
-        "url": "https://open.spotify.com/album/5e5Gy5f8V4KvLGDpq8Ic6E"
-      },
-      "artists": [
-        {
-          "name": "School of X",
-          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
-        },
-        {
-          "name": "Noah Carter",
-          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
-        }
-      ],
-      "duration_ms": 270505,
-      "name": "Few Changes",
-      "url": "https://open.spotify.com/track/3Y7fhEzMlqpMj6TwsqL6si"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "Fuckboy",
         "url": "https://open.spotify.com/album/2kO8R8fWvb05l4E792icty"
       },
@@ -1391,6 +1367,26 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
+        "name": "Seventh Heaven",
+        "url": "https://open.spotify.com/album/5e5Gy5f8V4KvLGDpq8Ic6E"
+      },
+      "artists": [
+        {
+          "name": "School of X",
+          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
+        },
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "duration_ms": 270505,
+      "name": "Few Changes",
+      "url": "https://open.spotify.com/track/3Y7fhEzMlqpMj6TwsqL6si"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
         "name": "Stj\u00f6rnulj\u00f3s",
         "url": "https://open.spotify.com/album/59p6zapqO8FjoARPt7J4gp"
       },
@@ -1407,22 +1403,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Dancing With My Ghost",
-        "url": "https://open.spotify.com/album/0CZKywDmlVR1iZ3rHBIkEg"
-      },
-      "artists": [
-        {
-          "name": "Carpark North",
-          "url": "https://open.spotify.com/artist/6v8pFbihIDnlV6freVYMmZ"
-        }
-      ],
-      "duration_ms": 225229,
-      "name": "Dancing With My Ghost",
-      "url": "https://open.spotify.com/track/69ocosqOP3VkFnNMmwUG2x"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/7kqOUamGULA3Gl9rc55NIv"
       },
@@ -1435,22 +1415,6 @@
       "duration_ms": 168278,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/7FsgBP4M6dlFz31z4t7FE8"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "Boy's In Love",
-        "url": "https://open.spotify.com/album/5wEhtEyQVbRgkaV6eQCpOQ"
-      },
-      "artists": [
-        {
-          "name": "Keelan Mak",
-          "url": "https://open.spotify.com/artist/4xSveO2Pb18Jyl2f7xW8SW"
-        }
-      ],
-      "duration_ms": 186564,
-      "name": "You're Everything",
-      "url": "https://open.spotify.com/track/5uJjELQWTZSvx6tYpR7iY2"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -1475,6 +1439,38 @@
       "duration_ms": 217773,
       "name": "Somethin Bout You (feat. Betsy) - Korn\u00e9l Kov\u00e1cs Remix",
       "url": "https://open.spotify.com/track/4qOa6vs4ov95ePvABgU0PL"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "Dancing With My Ghost",
+        "url": "https://open.spotify.com/album/0CZKywDmlVR1iZ3rHBIkEg"
+      },
+      "artists": [
+        {
+          "name": "Carpark North",
+          "url": "https://open.spotify.com/artist/6v8pFbihIDnlV6freVYMmZ"
+        }
+      ],
+      "duration_ms": 225229,
+      "name": "Dancing With My Ghost",
+      "url": "https://open.spotify.com/track/69ocosqOP3VkFnNMmwUG2x"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "Boy's In Love",
+        "url": "https://open.spotify.com/album/5wEhtEyQVbRgkaV6eQCpOQ"
+      },
+      "artists": [
+        {
+          "name": "Keelan Mak",
+          "url": "https://open.spotify.com/artist/4xSveO2Pb18Jyl2f7xW8SW"
+        }
+      ],
+      "duration_ms": 186564,
+      "name": "You're Everything",
+      "url": "https://open.spotify.com/track/5uJjELQWTZSvx6tYpR7iY2"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -1639,6 +1635,30 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
+        "name": "Crystal Blue",
+        "url": "https://open.spotify.com/album/2sErRnc35Ge5ZxBZWLDjm5"
+      },
+      "artists": [
+        {
+          "name": "Silent Boy",
+          "url": "https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu"
+        },
+        {
+          "name": "Sace",
+          "url": "https://open.spotify.com/artist/7reSsIosg88LaPnn8KKlJA"
+        },
+        {
+          "name": "defyer",
+          "url": "https://open.spotify.com/artist/4gzhQmub5TDvQ9cgvhvOUE"
+        }
+      ],
+      "duration_ms": 154153,
+      "name": "Crystal Blue",
+      "url": "https://open.spotify.com/track/5pUiPwQNv9LeNs7KLIkiPB"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
         "name": "Lost Track / Chasing Potential",
         "url": "https://open.spotify.com/album/0MkVpPKM0BA5zL3Y58nWlE"
       },
@@ -1667,30 +1687,6 @@
       "duration_ms": 189156,
       "name": "Skull",
       "url": "https://open.spotify.com/track/5AFwc0M06ZufxXVcjzEMHY"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "Crystal Blue",
-        "url": "https://open.spotify.com/album/2sErRnc35Ge5ZxBZWLDjm5"
-      },
-      "artists": [
-        {
-          "name": "Silent Boy",
-          "url": "https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu"
-        },
-        {
-          "name": "Sace",
-          "url": "https://open.spotify.com/artist/7reSsIosg88LaPnn8KKlJA"
-        },
-        {
-          "name": "defyer",
-          "url": "https://open.spotify.com/artist/4gzhQmub5TDvQ9cgvhvOUE"
-        }
-      ],
-      "duration_ms": 154153,
-      "name": "Crystal Blue",
-      "url": "https://open.spotify.com/track/5pUiPwQNv9LeNs7KLIkiPB"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -1743,22 +1739,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/47nusENjvJnH0MGKk3mfTk"
-      },
-      "artists": [
-        {
-          "name": "\u00d6zg\u00fcr Can",
-          "url": "https://open.spotify.com/artist/6YNMyQAlJK3JPOUCbGUaQi"
-        }
-      ],
-      "duration_ms": 325473,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/4NdKiPnDnYorKKth25pmNq"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/69NL9AjVJ2MmXO8UNOcndA"
       },
@@ -1779,6 +1759,22 @@
       "duration_ms": 150243,
       "name": "Waves",
       "url": "https://open.spotify.com/track/7fpGELAFYgGfBFSj9Ym4kC"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/47nusENjvJnH0MGKk3mfTk"
+      },
+      "artists": [
+        {
+          "name": "\u00d6zg\u00fcr Can",
+          "url": "https://open.spotify.com/artist/6YNMyQAlJK3JPOUCbGUaQi"
+        }
+      ],
+      "duration_ms": 325473,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/4NdKiPnDnYorKKth25pmNq"
     },
     {
       "added_at": "2024-11-01 00:00:00",

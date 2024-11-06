@@ -5839,6 +5839,24 @@
     },
     {
       "album": {
+        "name": "DRIP",
+        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180845,
+      "name": "DRIP",
+      "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
+    },
+    {
+      "album": {
         "name": "Drive Forever (Motivational Speech Remix)",
         "url": "https://open.spotify.com/album/2iMJJUGRNM5f0xJhhwGOWO"
       },
@@ -15431,6 +15449,24 @@
     },
     {
       "album": {
+        "name": "The Star Chapter: SANCTUARY",
+        "url": "https://open.spotify.com/album/72JboNccBYyXR676YNfcYE"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157149,
+      "name": "Over The Moon",
+      "url": "https://open.spotify.com/track/3BQeCOUf7M9B7NEpx9r4qj"
+    },
+    {
+      "album": {
         "name": "Override",
         "url": "https://open.spotify.com/album/0bwtv7A8S0PMvgobvukQO7"
       },
@@ -18998,7 +19034,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
@@ -19918,7 +19954,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 114693,
       "name": "Super Tuna",
       "url": "https://open.spotify.com/track/4pygz13A6EcLL6ti7kqGaf"
@@ -20046,7 +20082,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -20064,7 +20100,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -22502,7 +22538,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
@@ -25504,6 +25540,24 @@
       "duration_ms": 165694,
       "name": "\u0631\u0627\u0636\u064a \u0628\u062d\u0628\u0643",
       "url": "https://open.spotify.com/track/5ymOnvj1xxhjkDBQINU30S"
+    },
+    {
+      "album": {
+        "name": "\u0631\u062d\u062a\u064a \u062e\u0646\u062a\u064a\u0646\u064a \u0648\u063a\u062f\u0631\u062a\u064a \u0648\u0647\u0627\u0646\u062a \u0627\u0644\u0639\u0634\u0631\u0647 \u0639\u0644\u064a\u0643",
+        "url": "https://open.spotify.com/album/1Tl4hVkvBfjMT1AVUaq75C"
+      },
+      "artists": [
+        {
+          "name": "umiy",
+          "url": "https://open.spotify.com/artist/7CLlOKuKAmd7uuSDeyLN0M"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294359,
+      "name": "\u0631\u062d\u062a\u064a \u062e\u0646\u062a\u064a\u0646\u064a \u0648\u063a\u062f\u0631\u062a\u064a \u0648\u0647\u0627\u0646\u062a \u0627\u0644\u0639\u0634\u0631\u0647 \u0639\u0644\u064a\u0643",
+      "url": "https://open.spotify.com/track/5dzwBAYB1Y7Pn4qOOrLOcB"
     },
     {
       "album": {

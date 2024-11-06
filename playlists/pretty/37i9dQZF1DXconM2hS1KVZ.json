@@ -1,6 +1,6 @@
 {
   "description": "Sommer f\u00fcr immer!",
-  "num_followers": 432714,
+  "num_followers": 432675,
   "original_name": "Sommerklassiker",
   "owner": {
     "name": "Spotify",
@@ -71,22 +71,6 @@
     {
       "added_at": "2024-06-25 10:54:39",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
-    },
-    {
-      "added_at": "2024-06-25 10:54:39",
-      "album": {
         "name": "Don't Kill the Magic",
         "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 224840,
       "name": "Rude",
       "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
+    },
+    {
+      "added_at": "2024-06-25 10:54:39",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2024-06-25 10:54:39",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-06-25 10:54:39",
       "album": {
-        "name": "Nevermind",
-        "url": "https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Nevermind",
-      "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
-    },
-    {
-      "added_at": "2024-06-25 10:54:39",
-      "album": {
         "name": "Con Calma",
         "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 193226,
       "name": "Con Calma",
       "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
+    },
+    {
+      "added_at": "2024-06-25 10:54:39",
+      "album": {
+        "name": "Nevermind",
+        "url": "https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Nevermind",
+      "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
     },
     {
       "added_at": "2024-06-25 10:54:39",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-06-25 10:54:39",
       "album": {
-        "name": "Eterno Agosto",
-        "url": "https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "Sofia",
-      "url": "https://open.spotify.com/track/5vj59ONIVbyhcrI8ZSwoRo"
-    },
-    {
-      "added_at": "2024-06-25 10:54:39",
-      "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 211666,
       "name": "Cheap Thrills",
       "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
+    },
+    {
+      "added_at": "2024-06-25 10:54:39",
+      "album": {
+        "name": "Eterno Agosto",
+        "url": "https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/5vj59ONIVbyhcrI8ZSwoRo"
     },
     {
       "added_at": "2024-06-25 10:54:39",

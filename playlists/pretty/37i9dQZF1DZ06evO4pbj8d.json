@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 8364,
+  "num_followers": 8392,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAAAkQfKvFJIIoiCgGYqPGbFX",
+  "snapshot_id": "ZygOgAAAAAD6Qj9ZJLRTWVqpO2jlJ8dg",
   "tracks": [
     {
       "added_at": null,
@@ -463,18 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blink Twice",
-        "url": "https://open.spotify.com/album/0YXMnmlNlrJhL1nC8NXAoT"
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
       "artists": [
         {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 197767,
-      "name": "Blink Twice",
-      "url": "https://open.spotify.com/track/15mBjCfIMBnW92VxkswM2P"
+      "duration_ms": 186986,
+      "name": "Bigger Man (with Maren Morris)",
+      "url": "https://open.spotify.com/track/3Dd9ip26FejJl8qi6mJ7M8"
     },
     {
       "added_at": null,
@@ -491,6 +495,38 @@
       "duration_ms": 224086,
       "name": "flowers",
       "url": "https://open.spotify.com/track/6y3cOwUVb3MZQQzzLcscYb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/0YXMnmlNlrJhL1nC8NXAoT"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 197767,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/15mBjCfIMBnW92VxkswM2P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 236291,
+      "name": "Somebody Like Me",
+      "url": "https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq"
     },
     {
       "added_at": null,
@@ -515,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Proof Of Life",
-        "url": "https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO"
+        "name": "OBSERVATIONS FROM A CROWDED ROOM",
+        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
       },
       "artists": [
         {
@@ -524,9 +560,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 236291,
-      "name": "Somebody Like Me",
-      "url": "https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq"
+      "duration_ms": 223510,
+      "name": "DUST/DIVINITY",
+      "url": "https://open.spotify.com/track/52PFBc2sSdQOcDxfjLZPNi"
     },
     {
       "added_at": null,
@@ -547,42 +583,6 @@
       "duration_ms": 197474,
       "name": "It\u2019s a good day (to fight the system) (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OBSERVATIONS FROM A CROWDED ROOM",
-        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 223510,
-      "name": "DUST/DIVINITY",
-      "url": "https://open.spotify.com/track/52PFBc2sSdQOcDxfjLZPNi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "Bigger Man (with Maren Morris)",
-      "url": "https://open.spotify.com/track/3Dd9ip26FejJl8qi6mJ7M8"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 
 > This is Alfredo Olivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 972,380 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 972,677 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 | 29 | [Ni Con Labios Prestados](https://open.spotify.com/track/3IxbwKm0uWtoHJQ04K1YbA) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ni Con Labios Prestados](https://open.spotify.com/album/6qbkITbtEKq6CfhurxWvLx) | 4:04 |
 | 30 | [Autorízame](https://open.spotify.com/track/6T2y5WeZ71xB2N5OcvVkBI) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Patroncito](https://open.spotify.com/album/0tIyKS6ftGdNvonIhxXI7h) | 3:04 |
 | 31 | [Medalla De Plata](https://open.spotify.com/track/6HhmRkKT5i2oGSECqQxrog) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:03 |
-| 32 | [Asignatura Pendiente](https://open.spotify.com/track/1uvfOengybr6fzRxecMsuJ) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Asignatura Pendiente](https://open.spotify.com/album/3kMQSQJN1D9ABXcSsgJ2vK) | 4:05 |
-| 33 | [Comando X \(En Vivo\)](https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [En Vivo](https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk) | 4:11 |
+| 32 | [Comando X \(En Vivo\)](https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [En Vivo](https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk) | 4:11 |
+| 33 | [Asignatura Pendiente](https://open.spotify.com/track/1uvfOengybr6fzRxecMsuJ) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Asignatura Pendiente](https://open.spotify.com/album/3kMQSQJN1D9ABXcSsgJ2vK) | 4:05 |
 | 34 | [Ya Se Fue](https://open.spotify.com/track/0tP88lyRyCHHO3q8D8bRiG) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Mis 30 Aniversario, Vol\. 3](https://open.spotify.com/album/5kcO8OQj6dqVtTgg232WSU) | 3:21 |
 | 35 | [La Mejor De Las Historias](https://open.spotify.com/track/7B5W4cddzkBppgnbcu4syz) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:35 |
 | 36 | [Cuando Valgas La Pena \- Versión Mariachi](https://open.spotify.com/track/3pBTu2wT09kh7kP6VU0DR8) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 | 49 | [Los Tres Mandos](https://open.spotify.com/track/0wS4OuuXKAXN8aUCG6f3tE) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Tino Acosta](https://open.spotify.com/artist/2KDJtRiuNSnTiyxYZnhhBN) | [Con El Pie Derecho](https://open.spotify.com/album/7tfTfzVmVrplYDru65lUbP) | 2:30 |
 | 50 | [Así Es Esto](https://open.spotify.com/track/2VEGCGMsMoPIqnocO2pE0q) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:41 |
 
-Snapshot ID: `Zya9AAAAAAAQv6BU6ud8lCE2/wmQzxgu`
+Snapshot ID: `ZygOgAAAAAB9JDENIWBreaJOzBIXlTl2`

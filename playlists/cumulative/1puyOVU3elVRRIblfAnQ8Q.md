@@ -4,7 +4,7 @@
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-194 songs - 11 hr 12 min
+198 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,9 @@
 | [Danger](https://open.spotify.com/track/3SoamIpcuox8LEzgOOB5EH) | [MontyCler](https://open.spotify.com/artist/58pVdkxx4UZqPrNAWDdOEw), [STVSH](https://open.spotify.com/artist/5nEtdd8cmhvf1zgNMFoQcI) | [We Are Deadbeats Vol\. 6](https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh) | 2:58 | 2024-08-23 | 2024-09-27 |
 | [Deathwish](https://open.spotify.com/track/2Z85COMAN65p26N55yd32P) | [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [Deathwish](https://open.spotify.com/album/288QGoQc8PJsoexl5pFm2T) | 3:06 | 2023-03-07 | 2023-11-09 |
 | [Deep Inside](https://open.spotify.com/track/080ykYdAZJaUaEeu1hnVtF) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Lily Of The Valley](https://open.spotify.com/album/22MhIeIM0sCQ7bJllDMnSZ) | 4:05 | 2024-04-30 | 2024-08-24 |
+| [Defeatist](https://open.spotify.com/track/2faP8OzfXMSE8Fz8DZV0dO) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Defeatist](https://open.spotify.com/album/0hEECMrMTGb1nI8G8i6qeS) | 3:34 | 2024-11-05 |  |
 | [Digital Realm](https://open.spotify.com/track/2NxqIXMSwvAPEaZOY3OyRX) | [Skellytn](https://open.spotify.com/artist/2UFoFFh9ayxK6EvW4tZcH3) | [We Are Deadbeats Vol\. 6](https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh) | 3:29 | 2024-08-23 | 2024-09-27 |
+| [Dimension](https://open.spotify.com/track/0LKqkTfXvTB1ZVs1yJexm2) | [SIREN](https://open.spotify.com/artist/5GCrxFLckjsBYwr3FTQWir), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Dimension](https://open.spotify.com/album/0E2uVMZUjikte4Ggzrgrfl) | 3:37 | 2024-11-05 |  |
 | [DIMENSIONS](https://open.spotify.com/track/4msDV8woKgp0ZeF16NcEdU) | [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [DIMENSIONS](https://open.spotify.com/album/6oWwk2twiHE14qLrxOSmyS) | 2:35 | 2024-05-31 |  |
 | [Disappear](https://open.spotify.com/track/3hy3b5Oei3UySsinfLQJ44) | [Age Of Espion](https://open.spotify.com/artist/2bSOGtIzF9st33E9X0o6oK), [YAANO](https://open.spotify.com/artist/2T0O5j4GMBDmAd8OaEA2UX) | [Facades](https://open.spotify.com/album/3N4gykmYIucBybo3T67aQk) | 3:02 | 2023-12-06 | 2024-01-27 |
 | [Don't Think](https://open.spotify.com/track/2sAoRGqjUNYLxIKNjwQNFI) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 4:12 | 2024-01-26 | 2024-02-10 |
@@ -124,6 +126,8 @@
 | [LYSS](https://open.spotify.com/track/5uYuLVSvHnvzd03RYm01PY) | [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [LYSS EP](https://open.spotify.com/album/28TxwayUhN9PaKQ5Obnqqv) | 3:08 | 2024-08-05 | 2024-08-24 |
 | [Mad Ting](https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Mad Ting](https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg) | 3:14 | 2024-08-05 |  |
 | [Mellow Man](https://open.spotify.com/track/2GYMEBJeoZxHqIXc6ymsg1) | [Distinct Motive](https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM) | [Mellow Man](https://open.spotify.com/album/7GuzEc0bwqnJVQGSavefCD) | 3:39 | 2024-01-12 | 2024-08-24 |
+| [Mellow Man \- Caspa Remix](https://open.spotify.com/track/1bLzuJI7q2lrllNt5bwOI5) | [Distinct Motive](https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM), [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Mellow Man \(Remixes\)](https://open.spotify.com/album/6oybjDBdIest76s0bBiwxn) | 3:24 | 2024-11-05 |  |
+| [Mellow Man \- VIP](https://open.spotify.com/track/696J2l4brnfo0EtipXIUYZ) | [Distinct Motive](https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM) | [Mellow Man \(Remixes\)](https://open.spotify.com/album/6oybjDBdIest76s0bBiwxn) | 5:02 | 2024-11-05 |  |
 | [MIC CHECK](https://open.spotify.com/track/3FZY2bYqCoTUZEyueDzqRC) | [Chef Boyarbeatz](https://open.spotify.com/artist/7nSk3iFPogRCOokrMliejt) | [MIC CHECK](https://open.spotify.com/album/1NUs0wLUWhQDVhTkpd20Ue) | 2:51 | 2023-05-17 | 2024-01-27 |
 | [N.V.T 01](https://open.spotify.com/track/3IZtGyzQF1YnG561LWLrDt) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Mild Snake](https://open.spotify.com/album/72l32wShYZSe4SEfImLwEI) | 4:45 | 2024-02-09 | 2024-05-17 |
 | [Neville Bartos](https://open.spotify.com/track/2hTgABeudycK1FR2xtMa7l) | [Cimm](https://open.spotify.com/artist/5X4hjk9hibUXzbSn3jq6ZK) | [We Are Deadbeats Vol\. 6](https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh) | 5:57 | 2024-08-23 | 2024-09-27 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 22485,
+  "num_followers": 22490,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAADPE+NAvZXNbW9mM4mUmETF",
+  "snapshot_id": "ZygOgAAAAACg2kuaeOM5arnlFpDgC38X",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Letter",
-        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
+        "name": "Otherness",
+        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 338317,
-      "name": "Midnight Regulations",
-      "url": "https://open.spotify.com/track/2XtMlaDhm09wvKftVAeQv1"
+      "duration_ms": 331266,
+      "name": "Blue Spade",
+      "url": "https://open.spotify.com/track/4CDZqDBSTDHzmQKE46wCTq"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otherness",
-        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
+        "name": "Death Letter",
+        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 331266,
-      "name": "Blue Spade",
-      "url": "https://open.spotify.com/track/4CDZqDBSTDHzmQKE46wCTq"
+      "duration_ms": 338317,
+      "name": "Midnight Regulations",
+      "url": "https://open.spotify.com/track/2XtMlaDhm09wvKftVAeQv1"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Letter",
-        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 228817,
-      "name": "Accept Crime",
-      "url": "https://open.spotify.com/track/5jPB5Pgus7EhKidYkoCjcl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alexisonfire",
         "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 139417,
       "name": "Counterparts and Number Them",
       "url": "https://open.spotify.com/track/1Hez08ojkopWzM5dTroCJT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death Letter",
+        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 228817,
+      "name": "Accept Crime",
+      "url": "https://open.spotify.com/track/5jPB5Pgus7EhKidYkoCjcl"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Letter",
-        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 214592,
-      "name": "Burial",
-      "url": "https://open.spotify.com/track/4lFETObcVlO6l5obGe4JPu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alexisonfire",
         "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 292558,
       "name": "Little Girls Pointing and Laughing",
       "url": "https://open.spotify.com/track/5b0ZFCqgkYc3XdA4cbjT2S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death Letter",
+        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 214592,
+      "name": "Burial",
+      "url": "https://open.spotify.com/track/4lFETObcVlO6l5obGe4JPu"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Letter",
-        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 182820,
-      "name": "You Burn First",
-      "url": "https://open.spotify.com/track/35tsomku93trCDwRe1W9bx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alexisonfire",
         "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 314876,
       "name": "Adelleda",
       "url": "https://open.spotify.com/track/2USjkYb3JFNr9HDZcMUQ8H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death Letter",
+        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 182820,
+      "name": "You Burn First",
+      "url": "https://open.spotify.com/track/35tsomku93trCDwRe1W9bx"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Letter",
-        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 249804,
-      "name": "The Northern",
-      "url": "https://open.spotify.com/track/5obWUTDt34b0IGGsstvUTV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Switcheroo Series",
         "url": "https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 219560,
       "name": "Charlie Sheen vs. Henry Rollins",
       "url": "https://open.spotify.com/track/4nEPLRQ0oW3bgp8fL7CbIo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death Letter",
+        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 249804,
+      "name": "The Northern",
+      "url": "https://open.spotify.com/track/5obWUTDt34b0IGGsstvUTV"
     },
     {
       "added_at": null,

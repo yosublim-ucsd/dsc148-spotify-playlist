@@ -7473,6 +7473,24 @@
     },
     {
       "album": {
+        "name": "The Shades of Autumn",
+        "url": "https://open.spotify.com/album/2W2E8WP1OYmuRQwGMvYZkh"
+      },
+      "artists": [
+        {
+          "name": "Emile Cerise",
+          "url": "https://open.spotify.com/artist/5J3gBMCxZ68jLD8aijjftS"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128970,
+      "name": "The Shades of Autumn",
+      "url": "https://open.spotify.com/track/7blT4n9pSyxii6V21KIJBB"
+    },
+    {
+      "album": {
         "name": "Helligvaer",
         "url": "https://open.spotify.com/album/29Xn4EC2TtRXPn9RYp58Ao"
       },

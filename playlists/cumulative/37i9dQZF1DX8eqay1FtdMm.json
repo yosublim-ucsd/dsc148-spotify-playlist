@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Kim Dong Ryul(\uae40\ub3d9\ub960)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: BEN(\ubca4)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -450,6 +450,24 @@
       "duration_ms": 267584,
       "name": "All is you",
       "url": "https://open.spotify.com/track/5nTJoIraxw2S0Bp5LEqGbk"
+    },
+    {
+      "album": {
+        "name": "Family by Choice (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/4lZPOXajtPXz2lOvpzLPNT"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288046,
+      "name": "All Our Days",
+      "url": "https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y"
     },
     {
       "album": {
@@ -4632,7 +4650,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 331600,
       "name": "Kaze",
       "url": "https://open.spotify.com/track/686EAFs0uJRvVTHaOhkP1u"
@@ -6008,7 +6026,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 174990,
       "name": "my life",
       "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
@@ -6720,6 +6738,24 @@
       "duration_ms": 248835,
       "name": "Only Then",
       "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
+    },
+    {
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/4RXBbP8IWWszn57oSTcP24"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271360,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/6plU8hBXEl5dpaxW3bYqnh"
     },
     {
       "album": {

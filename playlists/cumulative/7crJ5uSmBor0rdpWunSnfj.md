@@ -4,10 +4,11 @@
 
 > Desperation
 
-5 songs - 18 min 33 sec
+6 songs - 20 min 33 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Magpie](https://open.spotify.com/track/0Nx1m4J8mlBW34aUW7wcy2) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 2:00 | 2024-11-05 |  |
 | [Make It Rain](https://open.spotify.com/track/3m4Q0H3PIlxlBjERC7zWh2) | [The Haunted Windchimes](https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2) | [Out With the Crow](https://open.spotify.com/album/1nbXKbgWArwy2KuLItW6qh) | 4:55 | 2024-09-16 |  |
 | [Need More Bandages](https://open.spotify.com/track/41oZm63yeOM8FHjk4lpdfD) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Bleed Out](https://open.spotify.com/album/20KGjm5xRROTqP0UY1EVRg) | 3:41 | 2023-11-22 |  |
 | [Sometimes](https://open.spotify.com/track/6oLgJATx3ECZ7Pcghmz38L) | [Nick Lutsko](https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE) | [Swords](https://open.spotify.com/album/2oTWDmzqeri1WOvpSH5J4g) | 3:48 | 2024-04-08 |  |

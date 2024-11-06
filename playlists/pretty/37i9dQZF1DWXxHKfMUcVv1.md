@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,393 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,426 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 30 | [Ruge Uge](https://open.spotify.com/track/4qUDaUEXqZtGzxiwQbNC82) | [Los Ladrones Sueltos](https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF) | [Christian Puga y los Ladrones Sueltos](https://open.spotify.com/album/2sCnMd9nQOtUqBEWLNuw3E) | 3:43 |
 | 31 | [Si Tú Supieras](https://open.spotify.com/track/1Pt5Ne6IbnPyLdBnYiChHV) | [Chapa C](https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb) | [Emergencia de Amor](https://open.spotify.com/album/4Ep0QJGPadz7Agnejcy8jK) | 3:47 |
 | 32 | [A Tu Lado](https://open.spotify.com/track/4CB6Ih8Zuj8XqA9Z0dv0dw) | [Flou](https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk) | [Tácito](https://open.spotify.com/album/4AmKPsiZ7EfXD753LkqFj3) | 4:03 |
-| 33 | [Te Regalo](https://open.spotify.com/track/7b3h31GXmBdFbTWZ0xem7V) | [Ivan Zavala](https://open.spotify.com/artist/6UjgZ5FpxLsjRvPiN4yoI2) | [Imposible](https://open.spotify.com/album/3GK2930aijx836XgQ720GV) | 2:54 |
-| 34 | [Pense Que Te Olvide](https://open.spotify.com/track/6mcKcKUigHBg8z2tz7AKOR) | [Lalo Monte](https://open.spotify.com/artist/3SB8njtBUMJOVsNZ37xB53) | [Pense Que Te Olvide](https://open.spotify.com/album/4gDQufSUCOgyk8EZVMyhyE) | 3:39 |
+| 33 | [Pense Que Te Olvide](https://open.spotify.com/track/6mcKcKUigHBg8z2tz7AKOR) | [Lalo Monte](https://open.spotify.com/artist/3SB8njtBUMJOVsNZ37xB53) | [Pense Que Te Olvide](https://open.spotify.com/album/4gDQufSUCOgyk8EZVMyhyE) | 3:39 |
+| 34 | [Te Regalo](https://open.spotify.com/track/7b3h31GXmBdFbTWZ0xem7V) | [Ivan Zavala](https://open.spotify.com/artist/6UjgZ5FpxLsjRvPiN4yoI2) | [Imposible](https://open.spotify.com/album/3GK2930aijx836XgQ720GV) | 2:54 |
 | 35 | [En Las Calles](https://open.spotify.com/track/5xeWKH7GcUCKM6aLtzkSm5) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [En Las Calles](https://open.spotify.com/album/03dGvr1nMBKbUUlTAEDgFF) | 2:41 |
 | 36 | [El Solo](https://open.spotify.com/track/06CeEkSJ834D9jTT3posh6) | [Revolber](https://open.spotify.com/artist/2s7biaf5EUXCa08iWBL3Kn) | [Kaimonomacaco](https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1) | 4:27 |
 | 37 | [Soy De Mi Tierra](https://open.spotify.com/track/74DxLHmbHDSsUQhs3v8kqI) | [Pablo Benegas](https://open.spotify.com/artist/1w3h0mrPhK98mFPP6eiMgp) | [Canciones Rotas](https://open.spotify.com/album/0gzoNPu1co0CfO6Bmoz2yM) | 3:30 |

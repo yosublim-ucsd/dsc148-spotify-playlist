@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1xzZPyV5jY8bYYNtAUkyOx">Lauren Aquilina</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-100 songs - 5 hr 20 min
+101 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Beautiful Liar](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [REASON](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) | 3:03 | 2024-07-03 |  |
 | [Best Friend](https://open.spotify.com/track/3rncf1MzF1nnqPPCt9TORS) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:15 | 2024-07-03 |  |
 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 | 2024-07-03 |  |
-| [BILLIONAIRE](https://open.spotify.com/track/0QICKhP44TRnb4EurQ3tN9) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 2:37 | 2024-11-03 |  |
+| [BILLIONAIRE](https://open.spotify.com/track/0QICKhP44TRnb4EurQ3tN9) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 2:37 | 2024-11-03 | 2024-11-06 |
+| [BILLIONAIRE](https://open.spotify.com/track/2eEBg0fpGBwXOGyN6k1m44) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc) | 2:37 | 2024-11-05 |  |
 | [Burn](https://open.spotify.com/track/7kAY0CSIsTtcPQKUhUdV8X) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Gasoline \- The 2nd Album](https://open.spotify.com/album/1STTad4531T7StJ4EiVwAG) | 3:51 | 2024-07-21 |  |
 | [Butterfly](https://open.spotify.com/track/2iRCi8sNkLZxsU0TAiWq8M) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 2:37 | 2024-07-03 |  |
 | [butterfly](https://open.spotify.com/track/34ZfAjSGM4vxJ1P6N5geSp) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [butterfly](https://open.spotify.com/album/4n0NmhE2JvEhqkfdQnPDW6) | 3:09 | 2024-07-03 |  |
@@ -55,8 +56,8 @@
 | [Invisible](https://open.spotify.com/track/5CC5Dia3BhRVkP1dzJJs7p) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Invisible](https://open.spotify.com/album/4TCPGeP8KROlyQn4TuZeH3) | 3:40 | 2024-07-03 |  |
 | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo) | 3:27 | 2024-07-03 |  |
 | [Josslyn](https://open.spotify.com/track/37ZKB38iNyKJ0xYEz9SJgk) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Josslyn](https://open.spotify.com/album/4H3mlT00kr4bJrY80GOFnx) | 3:09 | 2024-07-03 |  |
-| [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 | 2024-07-03 |  |
-| [Kiss Ur Face Forever](https://open.spotify.com/track/7B4KpsPtxx6SK7rX1k650O) | [Orla Gartland](https://open.spotify.com/artist/0MosRqpk3OZXYV91A1vSEn) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:47 | 2024-10-06 | 2024-11-02 |
+| [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 | 2024-07-03 | 2024-11-06 |
+| [Kiss Ur Face Forever](https://open.spotify.com/track/7B4KpsPtxx6SK7rX1k650O) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:47 | 2024-10-06 |  |
 | [Latest Ghost \- Piano Version](https://open.spotify.com/track/2loDDNNlOt33AQqRDIZOtJ) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World \(Piano Versions\)](https://open.spotify.com/album/5rU6PM80YSF6JOOz4Nw92T) | 2:51 | 2024-07-03 |  |
 | [Lessons \(feat\. Banx & Ranx\)](https://open.spotify.com/track/1N85gpxRSKAeUX9ZsPjxBg) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:07 | 2024-07-03 |  |
 | [Let It Ring](https://open.spotify.com/track/39RQAEuPs04z9wCFnMBuA7) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Let It Ring](https://open.spotify.com/album/3euSNVHfekPRn3aeG2r1Up) | 2:48 | 2024-07-03 |  |
@@ -94,8 +95,8 @@
 | [Talk to Me](https://open.spotify.com/track/3ZL2ee9L5Mq6QgUcnlnmgj) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Sinners](https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1) | 3:28 | 2024-07-03 |  |
 | [Teenage Self](https://open.spotify.com/track/6OldSvtQa4kQoTSaWzsSlR) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 1:51 | 2024-07-03 |  |
 | [testosterone](https://open.spotify.com/track/3M7DvOm9xlkhgj9oLxZygU) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [testosterone](https://open.spotify.com/album/2ekbb1ggU4xcpzN88njSQT) | 3:10 | 2024-07-03 |  |
-| [The Hit](https://open.spotify.com/track/0NZtY6Lv5kSCSvifCNNVcz) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 3:30 | 2024-10-06 | 2024-11-04 |
-| [The Hit](https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [The Hit](https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu) | 3:30 | 2024-07-24 |  |
+| [The Hit](https://open.spotify.com/track/0NZtY6Lv5kSCSvifCNNVcz) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 3:30 | 2024-10-06 |  |
+| [The Hit](https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [The Hit](https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu) | 3:30 | 2024-07-24 | 2024-11-06 |
 | [Thinking About](https://open.spotify.com/track/6wpUNL6pvnzjehb8Az0jmt) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 3:57 | 2024-07-03 |  |
 | [This Hell](https://open.spotify.com/track/7aHmvUghK3XCEqNRbUeAn4) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:56 | 2024-07-03 |  |
 | [Tobacco In My Sheets](https://open.spotify.com/track/4p6IFaIofYYRHrJlLq8MyY) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:21 | 2024-07-03 |  |

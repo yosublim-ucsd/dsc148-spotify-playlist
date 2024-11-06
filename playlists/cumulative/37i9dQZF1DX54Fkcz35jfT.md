@@ -4,7 +4,7 @@
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: UVERworld
 
-349 songs - 20 hr 5 min
+350 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Say My Name](https://open.spotify.com/track/1tCiCPvZYVdR5rIxokcqbj) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest in Punk](https://open.spotify.com/album/4FhRess5TiGML7doG1wP2e) | 1:48 | 2023-11-02 | 2024-04-19 |
 | [Say My Name](https://open.spotify.com/track/06YNVx8q2zF84s8SfGbxMC) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/0Z1B02ZtMcAtgluiIWZTMB) | 1:48 | 2023-10-10 | 2023-11-05 |
 | [Say My Name](https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6) | 1:48 | 2023-10-10 |  |
+| [Schmerz](https://open.spotify.com/track/5xeD8ZfRdinMDzUfaw1T4B) | [\-真天地開闢集団\-ジグザグ](https://open.spotify.com/artist/6X80cxJKMsSqzFmwHX7QCu) | [Gran ∞ Grace](https://open.spotify.com/album/4T8vKqEfLe7aS914pjg7A3) | 3:01 | 2024-11-05 |  |
 | [scorpion.](https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [scorpion.](https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om) | 2:43 | 2023-08-08 | 2023-11-22 |
 | [SCUM DOGS FART](https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [ENTH](https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ) | 3:17 | 2024-03-26 |  |
 | [SCUM DOGS FART](https://open.spotify.com/track/6dlfbY8ImWjJbYGwuLLiV2) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [ENTH](https://open.spotify.com/album/5NE8yd43s8gZJ3mp0flYvq) | 3:17 | 2024-03-26 | 2024-04-19 |
@@ -296,7 +297,7 @@
 | [あばく](https://open.spotify.com/track/5ucixkROvLTWu0LeJMt32M) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [あばく](https://open.spotify.com/album/2qtIGkBUz6IRZyJxH46z5s) | 2:53 | 2024-08-13 |  |
 | [かわE](https://open.spotify.com/track/4EjGcScTz7Uy1ISJfeeeEd) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [BEST of the Tank\-top](https://open.spotify.com/album/0Ng4VLkEM5p6YLXmqJi5Gf) | 3:24 | 2023-11-14 | 2023-12-22 |
 | [どうして](https://open.spotify.com/track/12bcROya6wVF9SIANw7zBr) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [どうして](https://open.spotify.com/album/5O8klTl6CAVZdZ5Erc8dI0) | 3:49 | 2024-07-09 | 2024-10-02 |
-| [ひとつの曲ができるまで](https://open.spotify.com/track/5WzC0LHb2Ebb6Jz0v56D8y) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [輝くもの天より堕ち](https://open.spotify.com/album/77Ll0Q93NYrFRA6lsF5UpK) | 2:24 | 2024-07-30 |  |
+| [ひとつの曲ができるまで](https://open.spotify.com/track/5WzC0LHb2Ebb6Jz0v56D8y) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [輝くもの天より堕ち](https://open.spotify.com/album/77Ll0Q93NYrFRA6lsF5UpK) | 2:24 | 2024-07-30 | 2024-11-06 |
 | [むずかしいてれぱしい](https://open.spotify.com/track/3gK4FH3UWiitJgVzvgun0K) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [音樂](https://open.spotify.com/album/6YEPeFr7BwExXt6ZxLQ8SM) | 2:49 | 2024-04-30 |  |
 | [ゆらめき \(YURAMEKI\)](https://open.spotify.com/track/3wfpG43c7wdb0LofeE0NlM) | [DIR EN GREY](https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA) | [19990120](https://open.spotify.com/album/5xkvN0sLl4iaokgZixvhvz) | 5:09 | 2024-01-31 | 2024-03-20 |
 | [アイデンティティー](https://open.spotify.com/track/1oe5T289Oiv3s6a2QAxAyr) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [アイデンティティー](https://open.spotify.com/album/5pF9bdQUrBXSafswwiTUfP) | 4:01 | 2024-03-26 | 2024-05-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\. Cover: <a href="spotify:artist:3qfrrrSO7utFdJkM2tvMRb"> CeCe Winans </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,943 likes - 100 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,041 likes - 100 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

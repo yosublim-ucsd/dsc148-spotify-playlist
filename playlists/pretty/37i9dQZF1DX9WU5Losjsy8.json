@@ -1,6 +1,6 @@
 {
   "description": "Ein Prosit der Gem\u00fctlichkeit",
-  "num_followers": 428820,
+  "num_followers": 428821,
   "original_name": "Wiesn Party 2024",
   "owner": {
     "name": "Spotify",
@@ -427,30 +427,6 @@
     {
       "added_at": "2024-10-18 14:01:30",
       "album": {
-        "name": "Olivia",
-        "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
-      },
-      "artists": [
-        {
-          "name": "Die Zipfelbuben",
-          "url": "https://open.spotify.com/artist/2V63XSO1pn1xopgeRMP06U"
-        },
-        {
-          "name": "Der Zipfelbube",
-          "url": "https://open.spotify.com/artist/6J8iPd5dkgJWgxqe4Fn2Az"
-        },
-        {
-          "name": "DJ Cashi",
-          "url": "https://open.spotify.com/artist/3maDQKNIwvbtAglSmYGhCo"
-        }
-      ],
-      "duration_ms": 180157,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
-    },
-    {
-      "added_at": "2024-10-18 14:01:30",
-      "album": {
         "name": "BIER",
         "url": "https://open.spotify.com/album/2SDMGLfkqgDiysROV2CfhC"
       },
@@ -471,6 +447,30 @@
       "duration_ms": 129652,
       "name": "BIER",
       "url": "https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA"
+    },
+    {
+      "added_at": "2024-10-18 14:01:30",
+      "album": {
+        "name": "Olivia",
+        "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
+      },
+      "artists": [
+        {
+          "name": "Die Zipfelbuben",
+          "url": "https://open.spotify.com/artist/2V63XSO1pn1xopgeRMP06U"
+        },
+        {
+          "name": "Der Zipfelbube",
+          "url": "https://open.spotify.com/artist/6J8iPd5dkgJWgxqe4Fn2Az"
+        },
+        {
+          "name": "DJ Cashi",
+          "url": "https://open.spotify.com/artist/3maDQKNIwvbtAglSmYGhCo"
+        }
+      ],
+      "duration_ms": 180157,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
     },
     {
       "added_at": "2024-10-18 14:01:30",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-10-18 14:01:30",
       "album": {
-        "name": "Hurra die Gams",
-        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
-      },
-      "artists": [
-        {
-          "name": "Matty Valentino",
-          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Hurra die Gams",
-      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
-    },
-    {
-      "added_at": "2024-10-18 14:01:30",
-      "album": {
         "name": "Oben unten (Party Edit)",
         "url": "https://open.spotify.com/album/2BTgz7ff5y04sV3F5kzseH"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 212250,
       "name": "Oben unten - Party Edit",
       "url": "https://open.spotify.com/track/4UfAtfhnKnBKZbyiVDobU2"
+    },
+    {
+      "added_at": "2024-10-18 14:01:30",
+      "album": {
+        "name": "Hurra die Gams",
+        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
+      },
+      "artists": [
+        {
+          "name": "Matty Valentino",
+          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Hurra die Gams",
+      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
     },
     {
       "added_at": "2024-10-18 14:01:30",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-10-18 14:01:30",
       "album": {
+        "name": "Ouzo",
+        "url": "https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K"
+      },
+      "artists": [
+        {
+          "name": "Vincent Gross",
+          "url": "https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy"
+        }
+      ],
+      "duration_ms": 274914,
+      "name": "Ouzo",
+      "url": "https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp"
+    },
+    {
+      "added_at": "2024-10-18 14:01:30",
+      "album": {
         "name": "Lea",
         "url": "https://open.spotify.com/album/7DpARaNJn5iLOKGVANTSsq"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 159374,
       "name": "Lea",
       "url": "https://open.spotify.com/track/02AnxXaXzxredcMjjb26U0"
-    },
-    {
-      "added_at": "2024-10-18 14:01:30",
-      "album": {
-        "name": "Ouzo",
-        "url": "https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K"
-      },
-      "artists": [
-        {
-          "name": "Vincent Gross",
-          "url": "https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy"
-        }
-      ],
-      "duration_ms": 274914,
-      "name": "Ouzo",
-      "url": "https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp"
     },
     {
       "added_at": "2024-10-18 14:01:30",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-10-18 14:01:30",
       "album": {
-        "name": "Schei\u00dfegal, ich feier (Radio Edit)",
-        "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
-      },
-      "artists": [
-        {
-          "name": "M\u00fctze Katze",
-          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
-        }
-      ],
-      "duration_ms": 164103,
-      "name": "Schei\u00dfegal, ich feier - Radio Edit",
-      "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
-    },
-    {
-      "added_at": "2024-10-18 14:01:30",
-      "album": {
         "name": "Dann leg ich Schlager auf",
         "url": "https://open.spotify.com/album/3Hod9KyrcwiuI6SWzspYAg"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 171202,
       "name": "Dann leg ich Schlager auf",
       "url": "https://open.spotify.com/track/21YH3LX7O0uayHWOmDGPbL"
+    },
+    {
+      "added_at": "2024-10-18 14:01:30",
+      "album": {
+        "name": "Schei\u00dfegal, ich feier (Radio Edit)",
+        "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
+      },
+      "artists": [
+        {
+          "name": "M\u00fctze Katze",
+          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
+        }
+      ],
+      "duration_ms": 164103,
+      "name": "Schei\u00dfegal, ich feier - Radio Edit",
+      "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
     },
     {
       "added_at": "2024-10-18 14:01:30",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2024-10-18 14:01:30",
       "album": {
-        "name": "Nachbarn",
-        "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
-      },
-      "artists": [
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 181553,
-      "name": "Nachbarn",
-      "url": "https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok"
-    },
-    {
-      "added_at": "2024-10-18 14:01:30",
-      "album": {
         "name": "Grapefruit",
         "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 184160,
       "name": "Grapefruit",
       "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
+    },
+    {
+      "added_at": "2024-10-18 14:01:30",
+      "album": {
+        "name": "Nachbarn",
+        "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 181553,
+      "name": "Nachbarn",
+      "url": "https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok"
     },
     {
       "added_at": "2024-10-18 14:01:30",
@@ -1351,6 +1351,30 @@
     {
       "added_at": "2024-10-18 14:01:30",
       "album": {
+        "name": "Kabinenparty",
+        "url": "https://open.spotify.com/album/2aP4tzkye6IAAW0h3wJfV5"
+      },
+      "artists": [
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        },
+        {
+          "name": "Nils_Gucki",
+          "url": "https://open.spotify.com/artist/0IKHmPWMEtjcERBTOo34GF"
+        },
+        {
+          "name": "MAKZ 38",
+          "url": "https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF"
+        }
+      ],
+      "duration_ms": 142750,
+      "name": "Kabinenparty",
+      "url": "https://open.spotify.com/track/4TUtbQyNMmitAOXIsAMhLn"
+    },
+    {
+      "added_at": "2024-10-18 14:01:30",
+      "album": {
         "name": "Hoch die H\u00e4nde Wochenende",
         "url": "https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ"
       },
@@ -1411,30 +1435,6 @@
     {
       "added_at": "2024-10-18 14:01:30",
       "album": {
-        "name": "Kabinenparty",
-        "url": "https://open.spotify.com/album/2aP4tzkye6IAAW0h3wJfV5"
-      },
-      "artists": [
-        {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
-        },
-        {
-          "name": "Nils_Gucki",
-          "url": "https://open.spotify.com/artist/0IKHmPWMEtjcERBTOo34GF"
-        },
-        {
-          "name": "MAKZ 38",
-          "url": "https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF"
-        }
-      ],
-      "duration_ms": 142750,
-      "name": "Kabinenparty",
-      "url": "https://open.spotify.com/track/4TUtbQyNMmitAOXIsAMhLn"
-    },
-    {
-      "added_at": "2024-10-18 14:01:30",
-      "album": {
         "name": "Holterdiepolter",
         "url": "https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J"
       },
@@ -1451,6 +1451,22 @@
       "duration_ms": 192600,
       "name": "Holterdiepolter",
       "url": "https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ"
+    },
+    {
+      "added_at": "2024-10-18 14:01:30",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
+      },
+      "artists": [
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        }
+      ],
+      "duration_ms": 144533,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
     },
     {
       "added_at": "2024-10-18 14:01:30",
@@ -1495,26 +1511,6 @@
       "duration_ms": 188000,
       "name": "Ciao 3 Tage Blau",
       "url": "https://open.spotify.com/track/3AZ24YPWIpb82PaduK1FZS"
-    },
-    {
-      "added_at": "2024-10-18 14:01:30",
-      "album": {
-        "name": "Ein bisschen Frieden (Stereoact #Remix)",
-        "url": "https://open.spotify.com/album/4nmaiFwmUo5Pq1mXbWaIgI"
-      },
-      "artists": [
-        {
-          "name": "Nicole",
-          "url": "https://open.spotify.com/artist/1C5PhB7zfGmDKaYLLt5GYZ"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Ein bisschen Frieden - Stereoact #Remix",
-      "url": "https://open.spotify.com/track/2htsBWFGjnCmlb1c7eKLRZ"
     }
   ],
   "unique_name": "Wiesn Party 2024",

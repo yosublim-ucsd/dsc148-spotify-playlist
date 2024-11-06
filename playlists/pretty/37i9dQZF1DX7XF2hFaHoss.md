@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: Jessica Pratt
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,008 likes - 90 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,022 likes - 90 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,14 +64,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 54 | [I Know A Place \- Acoustic](https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U: One Year On](https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX) | 4:51 |
 | 55 | [Remember That Night? \- Acoustic](https://open.spotify.com/track/49HbzUD2vcpoTAepAW2sjI) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night? \(Acoustic\)](https://open.spotify.com/album/5yCBbhqxEr4KYJb7e3qwgd) | 3:42 |
 | 56 | [Portland](https://open.spotify.com/track/1eDkdK7CVn0NRAvKM6xBiY) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Country](https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9) | 3:48 |
-| 57 | [A Country Dance](https://open.spotify.com/track/70STpXvjirFK1ZKL7gTokK) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [A Country Dance](https://open.spotify.com/album/39ZxoCaRZcE8kjs8j9JrZU) | 2:57 |
-| 58 | [Halfway There](https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Halfway There](https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI) | 3:14 |
+| 57 | [Halfway There](https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Halfway There](https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI) | 3:14 |
+| 58 | [A Country Dance](https://open.spotify.com/track/70STpXvjirFK1ZKL7gTokK) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [A Country Dance](https://open.spotify.com/album/39ZxoCaRZcE8kjs8j9JrZU) | 2:57 |
 | 59 | [Navy Blue Sheet Blues](https://open.spotify.com/track/4pPpcOXCS9xCX950BZhb9z) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Navy Blue Sheet Blues](https://open.spotify.com/album/2m2T96Sgp64fTm9ajo6VCH) | 1:26 |
 | 60 | [Aeroplane](https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a) | [Holly Throsby](https://open.spotify.com/artist/0ISl2YbBIgqW4IWbSJMn5g) | [After a Time](https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW) | 3:51 |
 | 61 | [Quiet \- Stripped](https://open.spotify.com/track/60oCAd3gei66GObniGX4wV) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Quiet \(Stripped\)](https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi) | 3:28 |
-| 62 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 |
-| 63 | [Do You See The Light Around Me?](https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Do You See The Light Around Me?](https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK) | 3:24 |
-| 64 | [Bad Luck Bad Habit](https://open.spotify.com/track/0o394lDZL07bwAv8K11yDj) | [Alycia Lang](https://open.spotify.com/artist/7tjNex1evNPneJtpH3Lps8) | [Bad Luck Bad Habit](https://open.spotify.com/album/2K0GCEkTtUgBXWk1KGyzeA) | 3:30 |
+| 62 | [Bad Luck Bad Habit](https://open.spotify.com/track/0o394lDZL07bwAv8K11yDj) | [Alycia Lang](https://open.spotify.com/artist/7tjNex1evNPneJtpH3Lps8) | [Bad Luck Bad Habit](https://open.spotify.com/album/2K0GCEkTtUgBXWk1KGyzeA) | 3:30 |
+| 63 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 |
+| 64 | [Do You See The Light Around Me?](https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Do You See The Light Around Me?](https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK) | 3:24 |
 | 65 | [Awake Me \- Acoustic](https://open.spotify.com/track/5XrJkrEfUx0UeTWzQeqO1k) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Awake Me \(Acoustic\)](https://open.spotify.com/album/78Du9LnVvLDyWbISr3dSCR) | 5:12 |
 | 66 | [Best Days \- Acoustic](https://open.spotify.com/track/38sCPCcv3QjWl0NslC5KtW) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Best Days \(Acoustic\)](https://open.spotify.com/album/0Hg3xaDMtD4heeBIutwMSV) | 2:59 |
 | 67 | [Be Careful](https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Be Careful](https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf) | 5:42 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 72 | [Save This Heart](https://open.spotify.com/track/5B1KYVaGIsI7v7LZYbXWI8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb) | 3:01 |
 | 73 | [Sober](https://open.spotify.com/track/3fTokbLfwqwi5cMZmGcI4b) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Choices](https://open.spotify.com/album/6zE8tiHOsAe74bv0VJIYX5) | 3:02 |
 | 74 | [Feels Like Magic](https://open.spotify.com/track/4OQAl1UeO0DF6aP3XgXp6F) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Feels Like Magic](https://open.spotify.com/album/15alEIqBgadwC3kR7xq99y) | 3:07 |
-| 75 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 |
-| 76 | [Groceries](https://open.spotify.com/track/6eqtIVUZAuHJyokiR03I0k) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer](https://open.spotify.com/album/6qy3kKRePcyju3SxF34kOh) | 3:34 |
+| 75 | [Groceries](https://open.spotify.com/track/6eqtIVUZAuHJyokiR03I0k) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer](https://open.spotify.com/album/6qy3kKRePcyju3SxF34kOh) | 3:34 |
+| 76 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 |
 | 77 | [Real Love](https://open.spotify.com/track/2rQMHZq7jnK0J2izGbCj0Z) | [Cammy Enaharo](https://open.spotify.com/artist/0iM6AplgWF7ISiwJaBhXLF) | [Hard To Look At](https://open.spotify.com/album/22dE6uGzAupKicgRGotoNv) | 2:29 |
 | 78 | [Kindergarten Heart](https://open.spotify.com/track/4sfkyrxPn0YOCohtvBRPJo) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Kindergarten Heart](https://open.spotify.com/album/3H7nFcNvSTRr5e1hOU3neJ) | 2:57 |
 | 79 | [See the Day](https://open.spotify.com/track/02FXmW3KGdhRZKGNccwl5r) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [See the Day](https://open.spotify.com/album/69DnDDvVwm7QHff7CLWWT4) | 3:08 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 84 | [Nothing We Say](https://open.spotify.com/track/2IoUZxXF26o9NIiYmfw34d) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Nothing We Say \- EP](https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7) | 3:31 |
 | 85 | [The Low Hum](https://open.spotify.com/track/2VnR0EzbyFApMflT0xrcuD) | [Laura Cortese & The Dance Cards](https://open.spotify.com/artist/0jHvVCEhCmKwd3Aqz2Jwh3), [Laura Cortese](https://open.spotify.com/artist/5T5BMVZGSvhRXSx3alNp2n) | [California Calling](https://open.spotify.com/album/1RR6o1mYDjmZDZZvE75KFi) | 4:01 |
 | 86 | [How Could I Forget](https://open.spotify.com/track/38Kbca2Yc3eGMwRYbbI8so) | [Chastity Brown](https://open.spotify.com/artist/6vRqjrYlvurWLEwRKvTdEw) | [The Acoustic Guitar Project: Minneapolis 2014](https://open.spotify.com/album/2qdU8Zs5lu87f49YCzNL8E) | 4:02 |
-| 87 | [charades](https://open.spotify.com/track/0CfyUqkj68lJXnWBsziP6V) | [Misty Boyce](https://open.spotify.com/artist/3QxHPvnw4NfrfEaqWlBjqN) | [genesis](https://open.spotify.com/album/2CxTdEDSHr7GUqfWqaryXg) | 3:31 |
-| 88 | [Good for Something](https://open.spotify.com/track/2KKPd7nqbhDzgAYsFjC9WA) | [The Sea The Sea](https://open.spotify.com/artist/3uKFW2tuZB4NFThJfHJtZ1) | [Good for Something](https://open.spotify.com/album/7rh14CSLmsm9HXtLIfq6tC) | 3:20 |
+| 87 | [Good for Something](https://open.spotify.com/track/2KKPd7nqbhDzgAYsFjC9WA) | [The Sea The Sea](https://open.spotify.com/artist/3uKFW2tuZB4NFThJfHJtZ1) | [Good for Something](https://open.spotify.com/album/7rh14CSLmsm9HXtLIfq6tC) | 3:20 |
+| 88 | [charades](https://open.spotify.com/track/0CfyUqkj68lJXnWBsziP6V) | [Misty Boyce](https://open.spotify.com/artist/3QxHPvnw4NfrfEaqWlBjqN) | [genesis](https://open.spotify.com/album/2CxTdEDSHr7GUqfWqaryXg) | 3:31 |
 | 89 | [Soundings](https://open.spotify.com/track/0esMQejJS5rGbjbZlEjgkp) | [Elanor Moss](https://open.spotify.com/artist/0zyFWHrZsZXBupeqrDkLtz) | [Soundings](https://open.spotify.com/album/6knZI5Gkp0SvKHpTkwhiTC) | 2:55 |
 | 90 | [Unsteady Ground](https://open.spotify.com/track/5aU5EVIbdKn6Xg4ujLTrll) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Low](https://open.spotify.com/album/1wMYbFE4Xxeb6qxe2nkeIX) | 3:51 |
 

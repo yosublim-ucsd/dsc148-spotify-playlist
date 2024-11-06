@@ -8392,7 +8392,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 173714,
       "name": "Tu",
       "url": "https://open.spotify.com/track/2kleSbAWlMuc9NKtgLYibe"
@@ -8828,6 +8828,32 @@
       "duration_ms": 200755,
       "name": "Vail",
       "url": "https://open.spotify.com/track/1bqAnuqlgbQ55AByEp0SmM"
+    },
+    {
+      "album": {
+        "name": "Azaad Collab",
+        "url": "https://open.spotify.com/album/1p3mGK6FO2Mcs4NSqqlPRK"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233987,
+      "name": "Vallo Vallo",
+      "url": "https://open.spotify.com/track/7oa0g2fCVf39RW6EstUdiN"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 5124,
+  "num_followers": 5151,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
@@ -535,26 +535,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Solo Pienso En Ti (feat. De La Ghetto & Justin Quiles)",
-        "url": "https://open.spotify.com/album/5GcW2cCrVqjPm3dgDJOBRF"
+        "name": "Bonus Trap",
+        "url": "https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         },
         {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 268794,
-      "name": "Solo Pienso En Ti (feat. De La Ghetto & Justin Quiles)",
-      "url": "https://open.spotify.com/track/53rkN7z3bKorDSIxDvqXNt"
+      "duration_ms": 166346,
+      "name": "Me Prefiere A Mi",
+      "url": "https://open.spotify.com/track/6b38njkY1j48fruqRqrm6d"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -575,22 +571,26 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Bonus Trap",
-        "url": "https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX"
+        "name": "Solo Pienso En Ti (feat. De La Ghetto & Justin Quiles)",
+        "url": "https://open.spotify.com/album/5GcW2cCrVqjPm3dgDJOBRF"
       },
       "artists": [
         {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         }
       ],
-      "duration_ms": 166346,
-      "name": "Me Prefiere A Mi",
-      "url": "https://open.spotify.com/track/6b38njkY1j48fruqRqrm6d"
+      "duration_ms": 268794,
+      "name": "Solo Pienso En Ti (feat. De La Ghetto & Justin Quiles)",
+      "url": "https://open.spotify.com/track/53rkN7z3bKorDSIxDvqXNt"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Me Gusta",
-        "url": "https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        }
-      ],
-      "duration_ms": 158267,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "CAPRICHOSO",
         "url": "https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 167619,
       "name": "CAPRICHOSO",
       "url": "https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "duration_ms": 158267,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Ke Sientes",
-        "url": "https://open.spotify.com/album/7qFLMFjDA0884ZFrqOsfuX"
-      },
-      "artists": [
-        {
-          "name": "Aleesha",
-          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
-        },
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 207146,
-      "name": "Ke Sientes",
-      "url": "https://open.spotify.com/track/6dR0gtcWwM4XyX9QnrHUap"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "Cama Vacia",
         "url": "https://open.spotify.com/album/6kjJgUCFPKSf7Tr27whxpe"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 172680,
       "name": "Cama Vacia",
       "url": "https://open.spotify.com/track/06myN3Gm0cS4b2egG9diEr"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Ke Sientes",
+        "url": "https://open.spotify.com/album/7qFLMFjDA0884ZFrqOsfuX"
+      },
+      "artists": [
+        {
+          "name": "Aleesha",
+          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+        },
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 207146,
+      "name": "Ke Sientes",
+      "url": "https://open.spotify.com/track/6dR0gtcWwM4XyX9QnrHUap"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "No Puedo Fingir",
-        "url": "https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 164352,
-      "name": "No Puedo Fingir",
-      "url": "https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "L.O.V.E.",
         "url": "https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 118746,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "No Puedo Fingir",
+        "url": "https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 164352,
+      "name": "No Puedo Fingir",
+      "url": "https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t"
     },
     {
       "added_at": "2024-07-26 04:59:00",

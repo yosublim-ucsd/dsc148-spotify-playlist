@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Saquon Barkley
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Steph Curry and Jayson Tatum
 
 750 songs - 1 day 14 hr 50 min
 

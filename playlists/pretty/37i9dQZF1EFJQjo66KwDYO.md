@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJQjo66KwDYO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4md41gWw4iHeQrueXkPBmc">Dyo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 23 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJQjo66KwDYO.md) - [plain]
 | 36 | [Just When I Thought](https://open.spotify.com/track/5NerE4vzq2j1B5a8NVP6eK) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 4:42 |
 | 37 | [Name On It \(feat\. Burna Boy\)](https://open.spotify.com/track/6wQugAr2CdLrjvACWNSvv5) | [Four of Diamonds](https://open.spotify.com/artist/42qq1SQuTH1AT2daN3fLMt), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Name On It](https://open.spotify.com/album/71UHFVp0KFVh3T1JrpKkQV) | 3:34 |
 | 38 | [Stupid Things](https://open.spotify.com/track/5PDtPZbKiRohW3RYZG9Cls) | [Four of Diamonds](https://open.spotify.com/artist/42qq1SQuTH1AT2daN3fLMt), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Stupid Things](https://open.spotify.com/album/0EEJCRze8YLJ1qPm668jQr) | 3:24 |
-| 39 | [Illuminous](https://open.spotify.com/track/099SC5HFifJ4cOr9xTCEuc) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Illuminous](https://open.spotify.com/album/5tJE3R6o5gD1w1WSvvVrXt) | 2:46 |
-| 40 | [My Man](https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [My Man](https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg) | 2:07 |
+| 39 | [My Man](https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [My Man](https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg) | 2:07 |
+| 40 | [Illuminous](https://open.spotify.com/track/099SC5HFifJ4cOr9xTCEuc) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Illuminous](https://open.spotify.com/album/5tJE3R6o5gD1w1WSvvVrXt) | 2:46 |
 | 41 | [Hosanna \(feat\. Dave B\)](https://open.spotify.com/track/30fRQc5shauvHRMhoGkmRq) | [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep), [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ) | [Hosanna \(feat\. Dave B\)](https://open.spotify.com/album/094rrmcDtxZSKnUaTMkqnS) | 3:50 |
 | 42 | [Down With You \(feat\. Dyo\)](https://open.spotify.com/track/2VLigO9xmafdZGx9KdsBGf) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb) | [About 30](https://open.spotify.com/album/3ssy7tJKSX4ohRxWvfqsJo) | 2:58 |
 | 43 | [Lucky](https://open.spotify.com/track/2qecwrQGKIj7IBfnhPSJ2U) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [FEARLESS](https://open.spotify.com/album/1K6Ysz8y164For9ImmTMtO) | 3:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJQjo66KwDYO.md) - [plain]
 | 59 | [TRU RIDDIM](https://open.spotify.com/track/62pCWKXxzz85jX9lZ8cxAB) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [MOREFIRE 2](https://open.spotify.com/album/3ddg45dZCiS99mmdepomv4) | 2:28 |
 | 60 | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/track/0IxYapIhhD1ofLxT2q46Dp) | [Good Morning Kevin](https://open.spotify.com/artist/7csX8zBobpO7iDI59JfY3C), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/album/5KPvNHiy9PiKkNQggvWtx2) | 1:51 |
 
-Snapshot ID: `AbgoqgAAAAAI+lasUtKbNYy4f/qQ7TSp`
+Snapshot ID: `AbguSgAAAAAKmr1K7tTpAslWPkd5IgNp`

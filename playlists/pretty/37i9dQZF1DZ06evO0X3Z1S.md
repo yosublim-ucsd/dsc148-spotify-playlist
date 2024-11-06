@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 
 > This is Jonas Blue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,251 likes - 48 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,249 likes - 48 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 12 | [All You Need Is Love](https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love](https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe) | 2:19 |
 | 13 | [Rise](https://open.spotify.com/track/5ZSl6gDoV6bPPxzmLeneV9) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:14 |
 | 14 | [Alien](https://open.spotify.com/track/0RUTnY2B3s05fZuCHsNaUP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Alien](https://open.spotify.com/album/3LXVxMUrioKZcoheV2zT3u) | 2:54 |
-| 15 | [100 Lives](https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [100 Lives](https://open.spotify.com/album/6zOK13fGEgCUcqCwYySpHu) | 3:13 |
-| 16 | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh) | 3:40 |
+| 15 | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh) | 3:40 |
+| 16 | [100 Lives](https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [100 Lives](https://open.spotify.com/album/6zOK13fGEgCUcqCwYySpHu) | 3:13 |
 | 17 | [Polaroid](https://open.spotify.com/track/49COPp81lGS9Hl9OwKlsKl) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:13 |
 | 18 | [Perfect Melody](https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Perfect Melody](https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L) | 2:39 |
 | 19 | [Hear Me Say](https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Hear Me Say](https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V) | 3:10 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 47 | [Roll With Me \(feat\. Shungudzo & ZieZie\)](https://open.spotify.com/track/5nsJclFXUIQajs8WJIkds7) | [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Roll With Me \(feat\. Shungudzo & ZieZie\)](https://open.spotify.com/album/20SORgtgHYtIn2xjpjXres) | 3:02 |
 | 48 | [Siento](https://open.spotify.com/track/65d4aua5FrYn9CyKfmABR4) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Siento](https://open.spotify.com/album/2gXRx1iRPgKVSltTi7eBNa) | 3:37 |
 
-Snapshot ID: `Zya9AAAAAAAlcOtrgTYSq5qD/cN/F0IM`
+Snapshot ID: `ZygOgAAAAABJmlhZaAdvILHrkhii/9dg`

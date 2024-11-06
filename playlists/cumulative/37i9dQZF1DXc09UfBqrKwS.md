@@ -4,7 +4,7 @@
 
 > hora d hacer la meme
 
-511 songs - 1 day 1 hr 0 min
+518 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Ability to Observe](https://open.spotify.com/track/6Uk1BcHkEnyrjif1u5QeVB) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Ability to Observe](https://open.spotify.com/album/4Et5trmywSRl9256SDr5Nf) | 3:14 | 2024-03-20 | 2024-07-16 |
 | [abundance](https://open.spotify.com/track/2ql3MvEcsA946YC2Ob0sQc) | [Elvio Martín](https://open.spotify.com/artist/1rOPEkX83RQnXXOO55RJM7) | [abundance](https://open.spotify.com/album/4cjm7LC3n8iypOqeDO7yzO) | 2:44 | 2024-07-09 |  |
 | [Acknowledge](https://open.spotify.com/track/3b9FmqamhswFKthJpVEGHk) | [Latehours](https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM) | [Acknowledge](https://open.spotify.com/album/7qZbzUnRPRPSWGpgOYt2ud) | 2:59 | 2024-07-09 |  |
+| [Ad Astra](https://open.spotify.com/track/0v7I8fgIlTNg3MSk4osm1j) | [Volta Celeste](https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI) | [Ad Astra](https://open.spotify.com/album/1LR1BYVE2XyzNqI2YMFjsQ) | 2:38 | 2024-11-05 |  |
 | [Ad Infinitum](https://open.spotify.com/track/1WHrCfYujnEhApstu2ppFo) | [James Matthéus](https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy) | [Ad Infinitum](https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR) | 2:31 | 2023-03-31 | 2024-05-21 |
 | [Adagioria](https://open.spotify.com/track/0jZ3SFl1XOHBX7cppGE8YM) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Adagioria](https://open.spotify.com/album/7ACYrenALvAYakJjHWsSL5) | 3:09 | 2024-05-20 | 2024-07-16 |
 | [Adrift](https://open.spotify.com/track/6BubwSHIXvMPQhFaDW6gXf) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Adrift](https://open.spotify.com/album/3nrhZs2qqfp7DtuofUjGfN) | 2:36 | 2024-02-08 |  |
@@ -164,6 +165,7 @@
 | [Endless Cosmos](https://open.spotify.com/track/37PNuXmxQzb7xQERMSoYdA) | [Hans Jacob](https://open.spotify.com/artist/6gT2Bu1wTc1uHC5NcJV0gQ) | [Endless Cosmos](https://open.spotify.com/album/3bz9e5yKivJ9Y4juq04T6S) | 2:50 | 2024-04-05 | 2024-07-16 |
 | [Endless Motion](https://open.spotify.com/track/29UVNezH22t8Asto3WFdzl) | [Slepth](https://open.spotify.com/artist/3sKO7LRCv1v7joHE7Hpbql) | [Endless Motion](https://open.spotify.com/album/2O1o8OGsnvX4h69neULuAL) | 2:32 | 2024-10-14 |  |
 | [Enhance](https://open.spotify.com/track/6qEnfDbUi83vhDsQ0Fbft1) | [Eône](https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7) | [Enhance](https://open.spotify.com/album/5OrGR2SQ7hmJeqH5thqCay) | 2:52 | 2024-07-09 |  |
+| [Enigmus](https://open.spotify.com/track/7Cw2C3KEvbcXVEBERuAWzt) | [luminique Revox](https://open.spotify.com/artist/1x102Y2kSACtCX5MsNyIGX) | [Enigmus](https://open.spotify.com/album/10kWRgddUgZdJ96qITHnYx) | 3:23 | 2024-11-05 |  |
 | [Eons](https://open.spotify.com/track/538bWp96juSoSBvM7wD2Qm) | [Erratic Peace](https://open.spotify.com/artist/2soZQALc84ALUcZxlDyxPD) | [Eons](https://open.spotify.com/album/1mrlHBWDGAFlIiZooWzedK) | 3:03 | 2023-03-31 | 2023-09-01 |
 | [Erinnerungen](https://open.spotify.com/track/3oSnjjDlGybELlBa9by38Y) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Erinnerungen](https://open.spotify.com/album/64Cah8smmxb3ypiPR1MtQl) | 3:12 | 2024-02-08 |  |
 | [Espiral Dunes](https://open.spotify.com/track/4VA2DaUgjUiNHolxdl1jUg) | [Dream Drift Tunes](https://open.spotify.com/artist/26ZbGRftrJHVZUDaz5rSkM) | [Espiral Dunes](https://open.spotify.com/album/2QAWqvO57E1wPBm7i2w3KN) | 3:19 | 2024-05-04 | 2024-07-16 |
@@ -249,6 +251,7 @@
 | [Inner Strength and Courage](https://open.spotify.com/track/5AiDahGjCGvc0zSsU3nz2A) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Inner Strength and Courage](https://open.spotify.com/album/5N7hvsSyBmye2JyaQ7UziS) | 3:10 | 2024-08-30 |  |
 | [Inside The Wave](https://open.spotify.com/track/7u6NFtytPfiVDK5txIpHvd) | [Eoforwine](https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq) | [The Deep](https://open.spotify.com/album/7x78Dxtt8fpbFbLfSMM2bR) | 2:26 | 2023-03-31 | 2024-05-21 |
 | [Insightful](https://open.spotify.com/track/0NlByUffMwnOmFjoGgJNCs) | [Noah Florence](https://open.spotify.com/artist/6jzQUeRZexHKG2fjsCpmi6) | [Insightful](https://open.spotify.com/album/06gZhh1yRVqsA3E6By30MH) | 2:45 | 2024-03-06 |  |
+| [Joys](https://open.spotify.com/track/2O2qcDFG5UHfwPdlzlU5Ez) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Joys](https://open.spotify.com/album/3NWkkOHzbGUFecxZyIbBeB) | 2:40 | 2024-11-05 |  |
 | [juu](https://open.spotify.com/track/55nogKh6Ns5mO0PaEpZPrv) | [Echoes and Frequencies](https://open.spotify.com/artist/4GiTtneqRxV5TqUD5KjgeJ) | [juu](https://open.spotify.com/album/5pmfLhKpvk8KmNqA5ayiUq) | 3:21 | 2023-05-19 |  |
 | [Karuna](https://open.spotify.com/track/2ju2Pcl8XLFZERPVsDBItG) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Karuna](https://open.spotify.com/album/18pYuIQyfxpeeqloiQtmXA) | 3:03 | 2023-03-31 | 2024-02-09 |
 | [La Cascada](https://open.spotify.com/track/2WGKo3sflN4aUNtesZw4Py) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Bella Unión](https://open.spotify.com/album/2zfjHiF04uCEQEBMrrp6aX) | 3:01 | 2023-03-31 | 2023-12-09 |
@@ -256,6 +259,7 @@
 | [Leticia](https://open.spotify.com/track/69zMzxv7BgdLXTauZvOCm3) | [Kaua Correia](https://open.spotify.com/artist/6PE8Ppk9H0TScbZEoLD0z1) | [Leticia](https://open.spotify.com/album/5dTHisxcHVT1yBlWVDUrpb) | 3:06 | 2023-03-31 | 2024-02-09 |
 | [Levitate](https://open.spotify.com/track/0GRyPs3q2ywZWnUFyc1yUb) | [Ocean Pulse](https://open.spotify.com/artist/6gQD4JqqcAJWvbWObCMCTX) | [Levitate](https://open.spotify.com/album/0zeZuh7s0PugfanmMyWBpN) | 3:16 | 2024-05-20 |  |
 | [Levitation](https://open.spotify.com/track/0zQ2Qbxic7cXWOVv9Qy98n) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Levitation](https://open.spotify.com/album/5U7rGOt0KLvEF2HXnvE88J) | 2:36 | 2023-03-31 | 2024-02-09 |
+| [Lighthouse](https://open.spotify.com/track/0LNiw2LKUcJG80ciSFQnLu) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Lighthouse](https://open.spotify.com/album/0NiwXfCPPctznzw3f3rOkH) | 2:27 | 2024-11-05 |  |
 | [Lithium](https://open.spotify.com/track/4emADcTdYDTuUtuqW6FgG1) | [Hudba Lyrika](https://open.spotify.com/artist/21JKDXC6Hihde2MshJBXM7) | [Metalla Alcalica](https://open.spotify.com/album/0li3pN4Iz7QT0v7XAeygDK) | 2:54 | 2024-05-04 | 2024-07-16 |
 | [Ljusa Drömmar](https://open.spotify.com/track/5HkG3ZdLOVZQI4rpUdGZCa) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Ljusa Drömmar](https://open.spotify.com/album/2384yojNT2lobdTrGBbzuA) | 2:38 | 2023-03-31 | 2024-02-09 |
 | [Longevity](https://open.spotify.com/track/2b9CuyDYXeYjrf4Rp1N7yF) | [Miesha Berens](https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln) | [Longevity](https://open.spotify.com/album/3JL7WAKFG5v94whFka9GxF) | 2:52 | 2023-03-31 | 2024-05-21 |
@@ -286,6 +290,7 @@
 | [Mindful Heights](https://open.spotify.com/track/7zGEVhbWkkwVeu15l42JCV) | [Snooze Narrator](https://open.spotify.com/artist/4AIFEMrtoaGz1z3j8OXeR3) | [Mindful Heights](https://open.spotify.com/album/6waTwZDuN0H1mFP7rZhQZK) | 3:24 | 2024-05-20 | 2024-07-16 |
 | [Miraculous](https://open.spotify.com/track/39klOrreaNPjsYeh1zTFjh) | [Muh Re](https://open.spotify.com/artist/4FimVNSfsYDIj9JdNq1gXe) | [Miraculous](https://open.spotify.com/album/5uiAQcotkaF94TIP8cIlR1) | 3:27 | 2023-03-31 | 2024-02-09 |
 | [Mist](https://open.spotify.com/track/1cDxN422npw3wU2ZfY6Qb9) | [Ellia Dunn](https://open.spotify.com/artist/4TxtbbN9ln1SgIcf9NAjBw) | [Mist](https://open.spotify.com/album/2U7MoXvOHyKZorf993LEDt) | 2:58 | 2023-03-31 | 2024-02-09 |
+| [Mist](https://open.spotify.com/track/7oUxWZteexoZDiFXxnPfrm) | [Melanitta Perspicillata](https://open.spotify.com/artist/3wFCsw8ioaujwxcRwbEFi4) | [Mist](https://open.spotify.com/album/7C5hApE1qc1BDNFekhDbPt) | 3:05 | 2024-11-05 |  |
 | [Mit hjerte i dine hænder](https://open.spotify.com/track/1Mbf1MT7A0FSYUVs9Az24Z) | [Silas Mathiasen](https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5) | [Mit hjerte i dine hænder](https://open.spotify.com/album/3pmX9LCkx89Ysu8kHg4Uzn) | 2:48 | 2023-03-31 | 2024-02-09 |
 | [Mitigation](https://open.spotify.com/track/7CTMv3eJZ3mQ618kZWAb6f) | [Lorne Kroos](https://open.spotify.com/artist/6Wk6weno4MPG3dutdTNbDD) | [Mitigation](https://open.spotify.com/album/6CqhHR1DRyQHasTVtE7aHN) | 3:31 | 2023-03-31 | 2024-02-09 |
 | [Mo Chroidhe](https://open.spotify.com/track/01yqm6MIIlCdOXCtrYJpRx) | [Mila Harper](https://open.spotify.com/artist/61XTODbHm8u4mMws36C1IG) | [Mo Chroidhe](https://open.spotify.com/album/4d0cCBHVGlmqCqqW3dffzg) | 3:02 | 2023-03-31 | 2023-12-09 |
@@ -359,6 +364,7 @@
 | [Rays of Warmth](https://open.spotify.com/track/66OUrai5ZjJgzwhKimF8F8) | [Fabin](https://open.spotify.com/artist/5EQs9AqQh02dx0JLrmVwWV) | [Rays of Warmth](https://open.spotify.com/album/3F4YB50btI83J496J2zj3p) | 3:11 | 2024-01-13 |  |
 | [Reaching](https://open.spotify.com/track/56FXVmCOeJjnbPIAlQ8Nud) | [Celestial Nora](https://open.spotify.com/artist/0v23idsWZW4xo9DUIKRA9b) | [Reaching](https://open.spotify.com/album/0Wong9wpUESQKR9l41NbWF) | 3:03 | 2024-01-13 | 2024-03-21 |
 | [Rearview Mirror](https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Rearview Mirror](https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr) | 3:14 | 2023-03-31 | 2024-02-09 |
+| [Recombination](https://open.spotify.com/track/0vTkzpVA6dpjQo5s6l9WOg) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Recombination](https://open.spotify.com/album/0gOoHcaJF4R89QSkjlQVCA) | 2:59 | 2024-11-05 |  |
 | [Red Mind](https://open.spotify.com/track/1WhFXIOfYDaLiAKrBO9hmX) | [Selma Key](https://open.spotify.com/artist/3TiO9o6VESefaIb0yJBjYa) | [Red Mind](https://open.spotify.com/album/7gton8cQc8A19dy3C2oaIT) | 3:00 | 2024-01-13 |  |
 | [Redamancy](https://open.spotify.com/track/2iWt83ffEevRHEPJiz6nJN) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Redamancy](https://open.spotify.com/album/3zOIJ6Ke62DFZYdXMMtrnQ) | 3:39 | 2023-03-31 | 2024-05-05 |
 | [Reflective moments](https://open.spotify.com/track/4cmuVNLXezTGcr03kewBP1) | [Graphite Sounds](https://open.spotify.com/artist/2rBTSkY7hIHfya4L45hFS1) | [Reflective moments](https://open.spotify.com/album/5Rdv5powZMQVSLB6Lc1uui) | 3:10 | 2024-01-13 |  |
@@ -371,6 +377,7 @@
 | [Reserve](https://open.spotify.com/track/4AIVJN4gesqZ91UzHxSzqm) | [Lo Amber](https://open.spotify.com/artist/6KHAX77UjY8HXrbGJjZNtI) | [Reserve](https://open.spotify.com/album/4MZFlQf43WsdCsHGaVD0Ko) | 3:02 | 2024-01-13 |  |
 | [Resolutions](https://open.spotify.com/track/4ovVCv4X9VZfT79f79c0XN) | [Bevan Holcomb](https://open.spotify.com/artist/4c2v7qErEBJfzjDs2UXStG) | [Resolutions](https://open.spotify.com/album/4aHmDEtV3YWFakmdD2LMow) | 3:08 | 2023-03-31 | 2024-05-05 |
 | [Resort To Nature](https://open.spotify.com/track/7x5R8CCs2hpUWdReDxsQYZ) | [Relaxatron](https://open.spotify.com/artist/0ytd7vbPhVQGueImkqm76d) | [Resort To Nature](https://open.spotify.com/album/3cfeMFlrZhj48l1V1kpr3c) | 2:58 | 2024-05-20 |  |
+| [Respective](https://open.spotify.com/track/4CFdKTed1DOl04HkT5yFl9) | [different spaces](https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K) | [Respective](https://open.spotify.com/album/3KbZDAf3Vc9OZP15LKnoku) | 2:57 | 2024-11-05 |  |
 | [Response](https://open.spotify.com/track/1yNQpzSyigQQ91TLZHutvB) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Response](https://open.spotify.com/album/0evxd5kXADFYIhiYRQ1p7e) | 3:24 | 2024-07-09 |  |
 | [Rest And Sleep](https://open.spotify.com/track/1dP2Rd9ViYTNv3yVO2KEY1) | [Youssouf Yaro](https://open.spotify.com/artist/7pFjwqCdPUodEXf6mfoM7g) | [Rest And Sleep](https://open.spotify.com/album/0DTIAeAIV5iLToCDdrdsyG) | 3:23 | 2023-08-04 | 2024-05-21 |
 | [Restful Whispers](https://open.spotify.com/track/6C5c20UUEJhT8tFhY3kDPe) | [Joa Abbot](https://open.spotify.com/artist/5YyUtmkNPxBBPJLJDAXFxk) | [Restful Whispers](https://open.spotify.com/album/4dh8iE6t0QwHO1uAhPkmHG) | 3:38 | 2024-05-04 |  |

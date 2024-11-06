@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di  Kid Yugi, Tredici Pietro, Don Joe e tanti altri! 🔥
 
-4,372 songs - 8 day 4 hr 15 min
+4,372 songs - 8 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,7 +596,7 @@
 | [BOOK BOOK \(feat\. 18K\)](https://open.spotify.com/track/3a6BHquceaZbGd7ekM6gzm) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB) | [BOOK BOOK \(feat\. 18K\)](https://open.spotify.com/album/2Z0kx5ZUak6qEIds2gdwqb) | 3:11 | 2024-03-28 | 2024-04-12 |
 | [BOOSTER](https://open.spotify.com/track/5arBLJ3AF9UmIr32iaPQ6K) | [Nexx](https://open.spotify.com/artist/10yYDDtZbacO1aGxRUsDhZ) | [BOOSTER](https://open.spotify.com/album/2RmTfpzxV5A3WDV0NSUgnY) | 3:00 | 2023-03-16 | 2023-03-25 |
 | [BORDERLINE](https://open.spotify.com/track/7uFTLhCiyb1M8PkOedxyaA) | [Gyuse](https://open.spotify.com/artist/6hj6eKlYId3xev1piRmEqr) | [BORDERLINE](https://open.spotify.com/album/0YzswSZIwGpiqHfrmcZYzs) | 2:54 | 2023-12-21 | 2024-01-05 |
-| [Borse Hermès](https://open.spotify.com/track/1MRDqKrcGYLw883LuVmDjy) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Borse Hermès](https://open.spotify.com/album/4K4WFgRUEfOrPD4ioCBppM) | 2:39 | 2024-10-24 |  |
+| [Borse Hermès](https://open.spotify.com/track/1MRDqKrcGYLw883LuVmDjy) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Borse Hermès](https://open.spotify.com/album/4K4WFgRUEfOrPD4ioCBppM) | 2:40 | 2024-10-24 |  |
 | [Borsello Prada](https://open.spotify.com/track/52PDvwBDTOUbYmkwDq1fu9) | [Andrè Montana](https://open.spotify.com/artist/3JfAJKFD8ryxrv7xF3GTMj), [Elle](https://open.spotify.com/artist/1GGmrHQIoMkJ3iXTdY1GFE) | [Borsello Prada](https://open.spotify.com/album/2c2AJNZwH0nRJtR1kdmhUE) | 2:26 | 2023-10-12 | 2023-10-27 |
 | [BOSS](https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [BOSS](https://open.spotify.com/album/3sMOvpUohugjixq44SynQG) | 2:24 | 2023-03-24 | 2023-04-28 |
 | [BOSS](https://open.spotify.com/track/1bKBU3m21OFXP0UEOW8QjA) | [ZE7E](https://open.spotify.com/artist/7jjCGirkG8ErxZkrVijR5n) | [BOSS](https://open.spotify.com/album/5gKT9XMRmAomUp378RZc9k) | 2:06 | 2022-08-04 | 2022-08-26 |
@@ -3279,7 +3279,7 @@
 | [RACKSS](https://open.spotify.com/track/5wzgjThl6M33LV1njlC1TG) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82), [PLAYBOIKIRA](https://open.spotify.com/artist/4SXKXgZLapOYWThvUIpZpV) | [RACKSS](https://open.spotify.com/album/17Peu4cPdSbBIGibPMiiLo) | 3:34 | 2023-04-06 | 2023-04-21 |
 | [RADAR](https://open.spotify.com/track/3iUzQUPBbohRqlEnkpUiKC) | [Ventitrè](https://open.spotify.com/artist/6T7TABWDRM6CKqqzlqRlZT), [NUOVOTONO](https://open.spotify.com/artist/0wlfO7pda6EQ1mHQmYLZeJ) | [RADAR](https://open.spotify.com/album/24M966ywD0j3ZGsvlaZOoc) | 2:46 | 2024-06-27 | 2024-07-12 |
 | [Radici](https://open.spotify.com/track/2DO1FtemtQJHMeIF98Zfi8) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Xela Baby](https://open.spotify.com/artist/2lSvy0qRlHqyWxkHmflU7M) | [Radici](https://open.spotify.com/album/2n5GxzWWDD1WWysgJCKIxr) | 3:32 | 2023-01-19 | 2023-02-10 |
-| [Ragazzetto](https://open.spotify.com/track/7CHBnQwgD9GQGXXrjnHJch) | [Cana](https://open.spotify.com/artist/00l3k6xqdOgeC7F4drpy89) | [Ragazzetto](https://open.spotify.com/album/2hUgUMxrVBkUyhfQClvuCg) | 2:17 | 2024-10-17 |  |
+| [RAGAZZETTO](https://open.spotify.com/track/7CHBnQwgD9GQGXXrjnHJch) | [Cana](https://open.spotify.com/artist/00l3k6xqdOgeC7F4drpy89) | [RAGAZZETTO](https://open.spotify.com/album/2hUgUMxrVBkUyhfQClvuCg) | 2:17 | 2024-10-17 |  |
 | [Ragazzi Di Strada](https://open.spotify.com/track/0Jmw3UGD25rtBNtUYxYkY8) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz) | [Another One](https://open.spotify.com/album/44Qx6sP7zs2CRCm44X7Es2) | 3:03 | 2024-06-17 | 2024-07-12 |
 | [Ragazzi fuori](https://open.spotify.com/track/2QQ3rN78weEKTKBK3Op4dw) | [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E), [Johnny Marsiglia](https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb), [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Ragazzi fuori](https://open.spotify.com/album/2RgScSlYyVlMPB2KiYnS88) | 3:09 | 2024-04-04 | 2024-04-12 |
 | [ragazzi in piazza](https://open.spotify.com/track/5BdeMJ48mOr0J5g7qaWy0A) | [Rari](https://open.spotify.com/artist/1WrYSK27pJ9GVgcRGtezIM) | [ragazzi in piazza](https://open.spotify.com/album/6PaLhbdaxTD9jstb4lB93x) | 2:39 | 2024-07-18 | 2024-08-09 |

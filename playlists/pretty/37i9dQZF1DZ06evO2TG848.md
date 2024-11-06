@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 
 > This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,115 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,120 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 | 31 | [Deportation/Iguazu](https://open.spotify.com/track/5FT4zvyKeap0uZZmF84nOl) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Babel \- Music From And Inspired By The Motion Picture](https://open.spotify.com/album/3oHysLqzr30LVkciv5idom) | 4:49 |
 | 32 | [Ella](https://open.spotify.com/track/5Uz25QNtRcdOKZhqkpATne) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Camino](https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN) | 1:40 |
 | 33 | [Forsaken](https://open.spotify.com/track/632EUtBelECssjKp9ZX1tL) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 0:42 |
-| 34 | [Yarará](https://open.spotify.com/track/5yZF5BdTmtdQitz89YBMYL) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [SUR](https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA) | 2:50 |
-| 35 | [La Noche Ya Es Día](https://open.spotify.com/track/2hUATbFX6dEZeFpikctyyS) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Qhapaq Ñan](https://open.spotify.com/album/7z2o3Kb9hCVB416isvUIce) | 3:22 |
+| 34 | [La Noche Ya Es Día](https://open.spotify.com/track/2hUATbFX6dEZeFpikctyyS) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Qhapaq Ñan](https://open.spotify.com/album/7z2o3Kb9hCVB416isvUIce) | 3:22 |
+| 35 | [Yarará](https://open.spotify.com/track/5yZF5BdTmtdQitz89YBMYL) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [SUR](https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA) | 2:50 |
 | 36 | [Opening](https://open.spotify.com/track/5uUkMMDpggRSQ4hRfI3lV7) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:31 |
 | 37 | [Resolve](https://open.spotify.com/track/1WxUcACrb7ZM2UcIRRYNFZ) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:48 |
 | 38 | [Cordon de Plata](https://open.spotify.com/track/2PGqbsSYbNYhfqEOtiH4k7) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Camino](https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 | 49 | [Riding Horses](https://open.spotify.com/track/1VcuJnxxrWeoJwQqF00Ggw) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:24 |
 | 50 | [Algun Dia \(Unplugged\) \(En Vivo\) \(with Gustavo Santaolalla\)](https://open.spotify.com/track/3Hasr4XNwh4CaUwqGsIror) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 4:00 |
 
-Snapshot ID: `Zya9AAAAAAAI5AiKZ1DQRYjZ2bSNJG+n`
+Snapshot ID: `ZygOgAAAAADzZiQtXjEleDPMhlFwXqKA`

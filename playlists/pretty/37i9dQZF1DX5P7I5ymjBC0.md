@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul\.  Cover\- Mikey McCleary, Sushant Divgikar, Parth Parekh & Khan Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,375 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,410 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 41 | [Sajna Barse](https://open.spotify.com/track/4IUTA4aKxSmoHeLgp4UVFP) | [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv), [Arpita Chatterjee](https://open.spotify.com/artist/2tTjyBVsDVEW9vLkNP7idm) | [Bapi Bari Jaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2eBYvjsfrgID51qApYWvDt) | 4:24 |
 | 42 | [Chaa Rahi Kali Ghata](https://open.spotify.com/track/78xcub4FzranFU5SmRPg8j) | [Hina Nasrullah](https://open.spotify.com/artist/6xLg3SN4UR6GC5aLO86jYm), [Amanat Ali](https://open.spotify.com/artist/3W6xwT7LnBITpBcqdRq3lm) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 7:38 |
 | 43 | [Dekho Sakhi](https://open.spotify.com/track/65xJV3XPDoSbQCJTzLZ6hi) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Prateek Narsimha](https://open.spotify.com/artist/5CZ3t3rNQcDxr2fFOZ3keO), [Rohan Prasanna](https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X) | [Dekho Sakhi](https://open.spotify.com/album/327X9g5nLaJwhAEQytBl8h) | 4:37 |
-| 44 | [Ghir Ghir](https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:05 |
-| 45 | [Suprabhatam](https://open.spotify.com/track/6S9b1AoBkTC4K9I8jB58b8) | [Dhruv Ghanekar](https://open.spotify.com/artist/716MYE0ks6nnA2oCJdK3Mb), [Nandini Srikar](https://open.spotify.com/artist/3oinJWo0iD7MVnojA8R8WP) | [Voyage 2](https://open.spotify.com/album/6effFXpDdti8nGW6FFCKch) | 4:01 |
+| 44 | [Suprabhatam](https://open.spotify.com/track/6S9b1AoBkTC4K9I8jB58b8) | [Dhruv Ghanekar](https://open.spotify.com/artist/716MYE0ks6nnA2oCJdK3Mb), [Nandini Srikar](https://open.spotify.com/artist/3oinJWo0iD7MVnojA8R8WP) | [Voyage 2](https://open.spotify.com/album/6effFXpDdti8nGW6FFCKch) | 4:01 |
+| 45 | [Ghir Ghir](https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:05 |
 | 46 | [Naina Morey \- Redefined](https://open.spotify.com/track/4oZINaDR2CFCkacgsv0G5f) | [Umashankar Kathak](https://open.spotify.com/artist/0gn4c6YbczAGbmASu6EAor), [Jayesh Kathak](https://open.spotify.com/artist/1fyiw6fCA8sUoUQkainmWB), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Naina Morey \(Redefined\)](https://open.spotify.com/album/0uli1eOLGrt76V11eFtity) | 3:22 |
 | 47 | [Hans Dhuni](https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T) | [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 3:59 |
-| 48 | [Labon Se Baat \- The Ghazal](https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Labon Se Baat \- The Ghazal](https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms) | 5:11 |
-| 49 | [Kinaray \- Coke Studio Season 8](https://open.spotify.com/track/0rLTPr8MuyUiJZqYfeyD83) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Kinaray \(Coke Studio Season 8\)](https://open.spotify.com/album/1kYjfNM4mmZjdnqOCTnjjX) | 4:21 |
+| 48 | [Kinaray \- Coke Studio Season 8](https://open.spotify.com/track/0rLTPr8MuyUiJZqYfeyD83) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Kinaray \(Coke Studio Season 8\)](https://open.spotify.com/album/1kYjfNM4mmZjdnqOCTnjjX) | 4:21 |
+| 49 | [Labon Se Baat \- The Ghazal](https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Labon Se Baat \- The Ghazal](https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms) | 5:11 |
 | 50 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 |
 
 Snapshot ID: `ZxocaQAAAACLU3Ao1KE8980BZt1QcBof`

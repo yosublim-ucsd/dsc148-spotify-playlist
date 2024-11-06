@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-638 songs - 1 day 10 hr 59 min
+639 songs - 1 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Devils Haircut](https://open.spotify.com/track/47OEl1PttAFxNEf9KRmx23) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay](https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp) | 3:15 | 2023-09-15 | 2024-10-19 |
 | [Did I Make You Up?](https://open.spotify.com/track/4RE7fFJNIZiO9ngs883gFG) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Did I Make You Up?](https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc) | 2:29 | 2022-11-17 | 2023-06-01 |
 | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ) | 2:14 | 2022-06-27 | 2023-03-25 |
+| [Digging Around](https://open.spotify.com/track/0mIGu8CxAwQbbwN439W5b3) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Digging Around](https://open.spotify.com/album/4ZV7TClwbbUPnfCRISDBPY) | 3:00 | 2024-11-05 |  |
 | [Disaster Party](https://open.spotify.com/track/0tZQkiMamZC9PVKeIDtvTP) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [Disaster Party](https://open.spotify.com/album/3PUNh3goCvfGWs0ipKSUkS) | 3:01 | 2021-03-10 | 2022-07-30 |
 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 | 2021-06-25 | 2022-05-04 |
 | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25) | 3:35 | 2023-08-07 | 2023-11-16 |
@@ -389,7 +390,7 @@
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-05-24 | 2024-10-12 |
 | [Nights](https://open.spotify.com/track/5iSvlEhNJhrHUFPSHluDF0) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Nights](https://open.spotify.com/album/0GpuGR0FbHgPzom4GqBKVS) | 3:35 | 2021-03-10 | 2022-07-29 |
 | [Nobody \(feat\. dodie\)](https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Nobody \(feat\. dodie\)](https://open.spotify.com/album/14izII4z3jQPUPx2pmZsMM) | 3:26 | 2023-03-24 | 2024-10-17 |
-| [Nosebleeds](https://open.spotify.com/track/1XNeBNXSNFeY6HcrV3IEJv) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct) | 3:03 | 2023-09-15 |  |
+| [Nosebleeds](https://open.spotify.com/track/1XNeBNXSNFeY6HcrV3IEJv) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct) | 3:03 | 2023-09-15 | 2024-11-06 |
 | [Not Joking](https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [You Are Who You Hang Out With](https://open.spotify.com/album/5ti35p8028PSksErKRW415) | 3:18 | 2023-08-07 | 2023-10-24 |
 | [Not OK!](https://open.spotify.com/track/2YbMlkq0ARgHiMGBFGTnxq) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [Not OK!](https://open.spotify.com/album/0liYHS0MVX0AP18hq6lMoO) | 3:12 | 2021-03-10 | 2022-04-27 |
 | [Not Too Late](https://open.spotify.com/track/0ig4lxtPqcFTUopvk57nQy) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Not Too Late](https://open.spotify.com/album/4vjxGn7u7g7MN3KEGnagOG) | 3:15 | 2022-03-11 | 2022-04-15 |

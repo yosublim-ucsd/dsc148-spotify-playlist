@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 150602,
+  "num_followers": 150638,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zya9AAAAAACaSygAEbpf6porgNVnQfCe",
+  "snapshot_id": "ZygOgAAAAABi82QJ7iLwGh1ADraJXUT2",
   "tracks": [
     {
       "added_at": null,
@@ -595,38 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 228148,
-      "name": "RAIN DOWN ON ME (feat. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore)",
-      "url": "https://open.spotify.com/track/5y2cCCIlatBeApYP5G8sEM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Hold It All Together",
         "url": "https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26"
       },
@@ -651,6 +619,26 @@
       "duration_ms": 449704,
       "name": "Champion (feat. Brandon Lake & Maryanne J. George)",
       "url": "https://open.spotify.com/track/18drykjTj4apowUYLaTenY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 272348,
+      "name": "Bless Me",
+      "url": "https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE"
     },
     {
       "added_at": null,
@@ -683,22 +671,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
       "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
         {
           "name": "Maverick City Music",
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 272348,
-      "name": "Bless Me",
-      "url": "https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE"
+      "duration_ms": 228148,
+      "name": "RAIN DOWN ON ME (feat. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore)",
+      "url": "https://open.spotify.com/track/5y2cCCIlatBeApYP5G8sEM"
     },
     {
       "added_at": null,
@@ -827,30 +827,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worthy of My Song (Worthy of It All)",
-        "url": "https://open.spotify.com/album/4JVfmmlngccdWTflavCEyu"
+        "name": "MAVHOUSE",
+        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
       },
       "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
         {
           "name": "Maverick City Music",
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Mav City Gospel Choir",
-          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+          "name": "Song House",
+          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
+        },
+        {
+          "name": "Nick Day",
+          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
+        },
+        {
+          "name": "Za Smith",
+          "url": "https://open.spotify.com/artist/4XtxlaWuCCmOs0MpZp4t7X"
+        },
+        {
+          "name": "Roman Collins",
+          "url": "https://open.spotify.com/artist/0Eaw8bBAVJWKzwHdVCvmkH"
         }
       ],
-      "duration_ms": 506796,
-      "name": "Worthy of My Song (Worthy of It All)",
-      "url": "https://open.spotify.com/track/4YFy1VOf7pV1PF6rSxiz1v"
+      "duration_ms": 225768,
+      "name": "Well, Well, Well (feat. Nick Day, Roman Collins & Za Smith)",
+      "url": "https://open.spotify.com/track/1Uxa2NtfjBIOravMz0ZQF5"
     },
     {
       "added_at": null,
@@ -907,34 +911,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAVHOUSE",
-        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
+        "name": "Worthy of My Song (Worthy of It All)",
+        "url": "https://open.spotify.com/album/4JVfmmlngccdWTflavCEyu"
       },
       "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
         {
           "name": "Maverick City Music",
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Song House",
-          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
-        },
-        {
-          "name": "Nick Day",
-          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
-        },
-        {
-          "name": "Za Smith",
-          "url": "https://open.spotify.com/artist/4XtxlaWuCCmOs0MpZp4t7X"
-        },
-        {
-          "name": "Roman Collins",
-          "url": "https://open.spotify.com/artist/0Eaw8bBAVJWKzwHdVCvmkH"
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
         }
       ],
-      "duration_ms": 225768,
-      "name": "Well, Well, Well (feat. Nick Day, Roman Collins & Za Smith)",
-      "url": "https://open.spotify.com/track/1Uxa2NtfjBIOravMz0ZQF5"
+      "duration_ms": 506796,
+      "name": "Worthy of My Song (Worthy of It All)",
+      "url": "https://open.spotify.com/track/4YFy1VOf7pV1PF6rSxiz1v"
     },
     {
       "added_at": null,

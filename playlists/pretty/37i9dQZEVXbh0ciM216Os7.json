@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADkkbQpADhsktuC2faXywbu",
+  "snapshot_id": "AAAAAAAAAACX087AsH82FEDu1kIoRqy0",
   "tracks": [
     {
       "added_at": "2024-11-01 05:00:00",
@@ -87,26 +87,6 @@
     {
       "added_at": "2024-11-01 05:00:00",
       "album": {
-        "name": "The Workload",
-        "url": "https://open.spotify.com/album/1Y8hWm20UTS2V3IvmWK0DY"
-      },
-      "artists": [
-        {
-          "name": "Skyzoo",
-          "url": "https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 191445,
-      "name": "The Workload",
-      "url": "https://open.spotify.com/track/6IrG5DFdKKotGMbkg4Qoow"
-    },
-    {
-      "added_at": "2024-11-01 05:00:00",
-      "album": {
         "name": "Smoke Stain's, Pt.2",
         "url": "https://open.spotify.com/album/5mEef2rDgo4KgK1X4XzbF3"
       },
@@ -131,22 +111,22 @@
     {
       "added_at": "2024-11-01 05:00:00",
       "album": {
-        "name": "No More Costumes",
-        "url": "https://open.spotify.com/album/1pq8LSaDQvvkICYojowtGn"
+        "name": "The Workload",
+        "url": "https://open.spotify.com/album/1Y8hWm20UTS2V3IvmWK0DY"
       },
       "artists": [
         {
-          "name": "Ave the Fox",
-          "url": "https://open.spotify.com/artist/4grfwArjhjtuqX0KmI3u73"
+          "name": "Skyzoo",
+          "url": "https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc"
         },
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
         }
       ],
-      "duration_ms": 282217,
-      "name": "Black Batman",
-      "url": "https://open.spotify.com/track/720jHxQyhubRRlWEC9gLaE"
+      "duration_ms": 191445,
+      "name": "The Workload",
+      "url": "https://open.spotify.com/track/6IrG5DFdKKotGMbkg4Qoow"
     },
     {
       "added_at": "2024-11-01 05:00:00",
@@ -163,6 +143,26 @@
       "duration_ms": 300000,
       "name": "I Send a Message - Vocal Remixed Version",
       "url": "https://open.spotify.com/track/1EX0ypIZAyVIFOq7syrewU"
+    },
+    {
+      "added_at": "2024-11-01 05:00:00",
+      "album": {
+        "name": "No More Costumes",
+        "url": "https://open.spotify.com/album/1pq8LSaDQvvkICYojowtGn"
+      },
+      "artists": [
+        {
+          "name": "Ave the Fox",
+          "url": "https://open.spotify.com/artist/4grfwArjhjtuqX0KmI3u73"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 282217,
+      "name": "Black Batman",
+      "url": "https://open.spotify.com/track/720jHxQyhubRRlWEC9gLaE"
     },
     {
       "added_at": "2024-11-01 05:00:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-11-01 05:00:00",
       "album": {
+        "name": "In Paris - The complete 1955-1956 Barclay sessions",
+        "url": "https://open.spotify.com/album/3m8bBFXdYcflYWPZuHZpp9"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Dinah - Complete Take 2",
+      "url": "https://open.spotify.com/track/5ienEnB4QkJXUZrmz0f29p"
+    },
+    {
+      "added_at": "2024-11-01 05:00:00",
+      "album": {
         "name": "Hey Rudy",
         "url": "https://open.spotify.com/album/3eiocwg4ruTp6TaEKelCen"
       },
@@ -227,18 +243,18 @@
     {
       "added_at": "2024-11-01 05:00:00",
       "album": {
-        "name": "In Paris - The complete 1955-1956 Barclay sessions",
-        "url": "https://open.spotify.com/album/3m8bBFXdYcflYWPZuHZpp9"
+        "name": "My Funny Valentine (Live at Paris, Salle Pleyel, France - October 1, 1964 [2nd Concert])",
+        "url": "https://open.spotify.com/album/5DDiKk0BqvLTHEWckejdE3"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 186866,
-      "name": "Dinah - Complete Take 2",
-      "url": "https://open.spotify.com/track/5ienEnB4QkJXUZrmz0f29p"
+      "duration_ms": 740098,
+      "name": "My Funny Valentine - Live at Paris, Salle Pleyel, France - October 1, 1964 [2nd Concert]",
+      "url": "https://open.spotify.com/track/7C5x1Us4oj2LUjzXvLSyyT"
     },
     {
       "added_at": "2024-11-01 05:00:00",
@@ -283,22 +299,6 @@
       "duration_ms": 171026,
       "name": "Aguas da Amazonia: Negro River",
       "url": "https://open.spotify.com/track/2fNiWwBYCqIef8NDVcJB8x"
-    },
-    {
-      "added_at": "2024-11-01 05:00:00",
-      "album": {
-        "name": "My Funny Valentine (Live at Paris, Salle Pleyel, France - October 1, 1964 [2nd Concert])",
-        "url": "https://open.spotify.com/album/5DDiKk0BqvLTHEWckejdE3"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 740098,
-      "name": "My Funny Valentine - Live at Paris, Salle Pleyel, France - October 1, 1964 [2nd Concert]",
-      "url": "https://open.spotify.com/track/7C5x1Us4oj2LUjzXvLSyyT"
     },
     {
       "added_at": "2024-11-01 05:00:00",
@@ -383,46 +383,6 @@
     {
       "added_at": "2024-11-01 05:00:00",
       "album": {
-        "name": "Words2LiveBy (feat. Earl Sweatshirt)",
-        "url": "https://open.spotify.com/album/7BKRDai83KpPU96CA586gV"
-      },
-      "artists": [
-        {
-          "name": "El Cousteau",
-          "url": "https://open.spotify.com/artist/6jas9NK79dEF6hU1LvmfHB"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 136874,
-      "name": "Words2LiveBy (feat. Earl Sweatshirt)",
-      "url": "https://open.spotify.com/track/6legbS59rPTHhNRrVdABTk"
-    },
-    {
-      "added_at": "2024-11-01 05:00:00",
-      "album": {
-        "name": "Frankenstein",
-        "url": "https://open.spotify.com/album/3EmpiBiVuoGvd2WI0lD4ZY"
-      },
-      "artists": [
-        {
-          "name": "Qveen Herby",
-          "url": "https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 146957,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/0PL8Noq0tGCl4NJPjwSvTR"
-    },
-    {
-      "added_at": "2024-11-01 05:00:00",
-      "album": {
         "name": "Te'Kill'Ya",
         "url": "https://open.spotify.com/album/29kd82BQka5Gs290XCHC4G"
       },
@@ -443,6 +403,82 @@
       "duration_ms": 219189,
       "name": "Te'Kill'Ya",
       "url": "https://open.spotify.com/track/2FY3V309Dc0X6VS8OWFxC9"
+    },
+    {
+      "added_at": "2024-11-01 05:00:00",
+      "album": {
+        "name": "Words2LiveBy (feat. Earl Sweatshirt)",
+        "url": "https://open.spotify.com/album/7BKRDai83KpPU96CA586gV"
+      },
+      "artists": [
+        {
+          "name": "El Cousteau",
+          "url": "https://open.spotify.com/artist/6jas9NK79dEF6hU1LvmfHB"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 136874,
+      "name": "Words2LiveBy (feat. Earl Sweatshirt)",
+      "url": "https://open.spotify.com/track/6legbS59rPTHhNRrVdABTk"
+    },
+    {
+      "added_at": "2024-11-01 05:00:00",
+      "album": {
+        "name": "How to Impress God",
+        "url": "https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "No ID",
+          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "How to Impress God",
+      "url": "https://open.spotify.com/track/1o5j4OuuHUVMTG0sv35Lsa"
+    },
+    {
+      "added_at": "2024-11-01 05:00:00",
+      "album": {
+        "name": "American Idiot (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 154983,
+      "name": "American Idiot (Alt. Version) - Demo",
+      "url": "https://open.spotify.com/track/3tSGHoEd3CKJ9E5OtHKFZ1"
+    },
+    {
+      "added_at": "2024-11-01 05:00:00",
+      "album": {
+        "name": "Frankenstein",
+        "url": "https://open.spotify.com/album/3EmpiBiVuoGvd2WI0lD4ZY"
+      },
+      "artists": [
+        {
+          "name": "Qveen Herby",
+          "url": "https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 146957,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/0PL8Noq0tGCl4NJPjwSvTR"
     },
     {
       "added_at": "2024-11-01 05:00:00",
@@ -483,42 +519,6 @@
       "duration_ms": 256328,
       "name": "Survive The Night",
       "url": "https://open.spotify.com/track/25YJpVrQBDAh6Zu8frDwgp"
-    },
-    {
-      "added_at": "2024-11-01 05:00:00",
-      "album": {
-        "name": "How to Impress God",
-        "url": "https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        },
-        {
-          "name": "No ID",
-          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "How to Impress God",
-      "url": "https://open.spotify.com/track/1o5j4OuuHUVMTG0sv35Lsa"
-    },
-    {
-      "added_at": "2024-11-01 05:00:00",
-      "album": {
-        "name": "American Idiot (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 154983,
-      "name": "American Idiot (Alt. Version) - Demo",
-      "url": "https://open.spotify.com/track/3tSGHoEd3CKJ9E5OtHKFZ1"
     },
     {
       "added_at": "2024-11-01 05:00:00",
@@ -675,6 +675,26 @@
     {
       "added_at": "2024-11-01 05:00:00",
       "album": {
+        "name": "8 Days (Remixes)",
+        "url": "https://open.spotify.com/album/4h91KGw31tC1ygdlDDqCDX"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "8 Days - Wuki Remix",
+      "url": "https://open.spotify.com/track/4lY3nqqbiBpK9LM59EWJTb"
+    },
+    {
+      "added_at": "2024-11-01 05:00:00",
+      "album": {
         "name": "Like A Tree It Grows",
         "url": "https://open.spotify.com/album/23W15PVhBPoAUh2EcELrtW"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 421094,
       "name": "PLAY IT BACK",
       "url": "https://open.spotify.com/track/6iIm2TCtfNPXODSL3P0z96"
-    },
-    {
-      "added_at": "2024-11-01 05:00:00",
-      "album": {
-        "name": "8 Days (Remixes)",
-        "url": "https://open.spotify.com/album/4h91KGw31tC1ygdlDDqCDX"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "8 Days - Wuki Remix",
-      "url": "https://open.spotify.com/track/4lY3nqqbiBpK9LM59EWJTb"
     },
     {
       "added_at": "2024-11-01 05:00:00",

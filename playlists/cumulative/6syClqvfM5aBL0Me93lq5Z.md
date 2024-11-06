@@ -4,7 +4,7 @@
 
 > Dead dove, don&\#x27;t eat
 
-45 songs - 2 hr 48 min
+46 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [John Brown's Body](https://open.spotify.com/track/40kPi5XMLrlVONe2EE2y6a) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [American Favorite Ballads, Vols\. 1\-5 \(Box Set\)](https://open.spotify.com/album/0WyzonIUHozsiu3Zmf5BJq) | 3:01 | 2023-04-05 |  |
 | [Kiss Me, Son of God \- Alternate Version](https://open.spotify.com/track/2y7LfqHAlQjOiOATA2yh96) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Then: The Earlier Years](https://open.spotify.com/album/2NxD978NSpgrG9ME6p5Uj7) | 1:49 | 2023-03-26 |  |
 | [Lady, What Do You Do All Day?](https://open.spotify.com/track/3LTn81Zr4LWGBXFz9kUDpi) | [Peggy Seeger](https://open.spotify.com/artist/0gXQn7UrpopDb2TIkmIjoU) | [Folkways Years, 1955\-1992: Songs of Love and Politics](https://open.spotify.com/album/3uDKUH0dPtS3Ii0CLB9Bw7) | 3:46 | 2024-09-16 |  |
+| [Magpie](https://open.spotify.com/track/0Nx1m4J8mlBW34aUW7wcy2) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 2:00 | 2024-11-05 |  |
 | [Mercy Down](https://open.spotify.com/track/2K3uissFwVVgAxC8E7fCl5) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Hope and a Hand Grenade](https://open.spotify.com/album/5wGp1HqFB2WPrLT5asYwVz) | 3:41 | 2023-03-23 |  |
 | [Money, Money, Money](https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:06 | 2024-09-19 |  |
 | [No Irish Need Apply](https://open.spotify.com/track/29QLU0cH9Ibwv12WRQMB9r) | [Joe Glazer](https://open.spotify.com/artist/0mbpwhdmzWPMzw0881Ylzt) | [We’ve Only Just Begun: A Century of Labor Song](https://open.spotify.com/album/67h5o3Y9jnOGMk9kfaJnoG) | 2:10 | 2024-09-16 |  |

@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/4o7OH7yOeecKZ4wUNzfwvR"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Hass",
+          "url": "https://open.spotify.com/artist/1ngeTsUw6Wo2W4TTgTSCcC"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263172,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/5ntJrJGw1eBIf5gqYGxSW6"
+    },
+    {
+      "album": {
         "name": "all my friends are high",
         "url": "https://open.spotify.com/album/5ViYeMlc3DbC5IbWtBNDwh"
       },
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 244066,
       "name": "Call Me Over",
       "url": "https://open.spotify.com/track/0AbelNIOOzvaWVihsOpxbp"
@@ -2322,7 +2340,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 381268,
       "name": "Cosmology",
       "url": "https://open.spotify.com/track/1M2R7cAdnwWO08JinxumOU"
@@ -2568,6 +2586,24 @@
       "duration_ms": 172246,
       "name": "Dance Alone",
       "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
+    },
+    {
+      "album": {
+        "name": "Dance Around It",
+        "url": "https://open.spotify.com/album/1xoeD78NXLXsQlevdemjLd"
+      },
+      "artists": [
+        {
+          "name": "Rachael Fahim",
+          "url": "https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146483,
+      "name": "Dance Around It",
+      "url": "https://open.spotify.com/track/38GBAkcBZPFlmxvWMDVmZJ"
     },
     {
       "album": {
@@ -3851,6 +3887,24 @@
     },
     {
       "album": {
+        "name": "Something To Look Back On",
+        "url": "https://open.spotify.com/album/27eJIiIuiYXzY6tfCNWNfN"
+      },
+      "artists": [
+        {
+          "name": "Montgomery",
+          "url": "https://open.spotify.com/artist/0qAtmxRkW1pvGWFDOxVbS4"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234439,
+      "name": "Find A Reason",
+      "url": "https://open.spotify.com/track/3kHxBWXqQlXyzy6qV3b1Cl"
+    },
+    {
+      "album": {
         "name": "Good Company - EP",
         "url": "https://open.spotify.com/album/4yTvwbp957jWpDOSt2voOe"
       },
@@ -3884,6 +3938,24 @@
       "duration_ms": 220500,
       "name": "Firecracker",
       "url": "https://open.spotify.com/track/2XwMUGqZqbMJnNGpFeTN9m"
+    },
+    {
+      "album": {
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/4hGx777atd45keRREW2y9a"
+      },
+      "artists": [
+        {
+          "name": "BIRDEE \u738b\u7152",
+          "url": "https://open.spotify.com/artist/3ca99BZZJrBcxFAblzKy60"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139447,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/15DBXRbnzgFb2b6EjpQoMo"
     },
     {
       "album": {
@@ -5383,6 +5455,28 @@
     },
     {
       "album": {
+        "name": "Hocus Pocus",
+        "url": "https://open.spotify.com/album/5IJCDI2kPavM9i8x3P8bET"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        },
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193555,
+      "name": "Hocus Pocus",
+      "url": "https://open.spotify.com/track/00i7lDi06DTNJJRmciIJOn"
+    },
+    {
+      "album": {
         "name": "Hold My Horses",
         "url": "https://open.spotify.com/album/27j87iE7loDzPzNFIsz6nd"
       },
@@ -5758,7 +5852,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 180020,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/49AAuOt0cEnwXFRmxMgrrD"
@@ -5860,6 +5954,24 @@
       "duration_ms": 180409,
       "name": "i lost my friend at a rave",
       "url": "https://open.spotify.com/track/1XvIHLaJ1pX7lDC8CW9sTV"
+    },
+    {
+      "album": {
+        "name": "I Might",
+        "url": "https://open.spotify.com/album/5L5k5hOjM2XFWFzN0BH28n"
+      },
+      "artists": [
+        {
+          "name": "Lara Andallo",
+          "url": "https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170653,
+      "name": "I Might",
+      "url": "https://open.spotify.com/track/386TCoYJzJYogk5VxgyOtJ"
     },
     {
       "album": {
@@ -7924,7 +8036,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 170040,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/6F9aI7NCQJXMvnBKj7gQJV"
@@ -8559,6 +8671,24 @@
     },
     {
       "album": {
+        "name": "Nice To Meet Me",
+        "url": "https://open.spotify.com/album/0UkpkkacCX6qmSNsAEOZrv"
+      },
+      "artists": [
+        {
+          "name": "Mia Wray",
+          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184093,
+      "name": "Nice To Meet Me",
+      "url": "https://open.spotify.com/track/5xA9Y5MQ3UdHOthViOVg2K"
+    },
+    {
+      "album": {
         "name": "Brighter Side of Blue",
         "url": "https://open.spotify.com/album/5ksGObxjs1JrBhHXzWl4WB"
       },
@@ -9186,7 +9316,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 197114,
       "name": "Only Miss U",
       "url": "https://open.spotify.com/track/1Bd9FLOn1RBITwPL7VpPzz"
@@ -9656,7 +9786,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 177824,
       "name": "Put U On",
       "url": "https://open.spotify.com/track/2gnR4Uxo3EDApWWTyLrcYb"
@@ -9818,7 +9948,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 229353,
       "name": "Ray of Light",
       "url": "https://open.spotify.com/track/2NCivP0yuBfwHuvLf9QNzy"
@@ -10140,6 +10270,24 @@
       "duration_ms": 196533,
       "name": "Run",
       "url": "https://open.spotify.com/track/7x6KLLjsxpR9zVfzUEGfX4"
+    },
+    {
+      "album": {
+        "name": "RUNNING 4 MY LIFE!",
+        "url": "https://open.spotify.com/album/3rI5bC0bSsk8ZV5aYNJrk1"
+      },
+      "artists": [
+        {
+          "name": "Mia Rodriguez",
+          "url": "https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "RUNNING 4 MY LIFE!",
+      "url": "https://open.spotify.com/track/0i92LaizSBPnJ366pOkOdK"
     },
     {
       "album": {
@@ -11249,6 +11397,24 @@
     },
     {
       "album": {
+        "name": "Stop Calling",
+        "url": "https://open.spotify.com/album/0uvwr9erzNBwxjzqBSUz5Q"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Stop Calling",
+      "url": "https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK"
+    },
+    {
+      "album": {
         "name": "Storm",
         "url": "https://open.spotify.com/album/1vlDZjBF1i3tAEP0OC1ITB"
       },
@@ -11970,7 +12136,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 181200,
       "name": "The Way She Moves",
       "url": "https://open.spotify.com/track/4e4TUjnl3ochGiRdb8lU6J"
@@ -13400,7 +13566,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 166421,
       "name": "Won't Hold My Breath",
       "url": "https://open.spotify.com/track/5UK487suwwzt6dLCeSGlIa"

@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-450 songs - 19 hr 9 min
+451 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Dandelion Song](https://open.spotify.com/track/1wDYoGkjEyzH0LgYNuS4YS) | [Maël Alexandrienne](https://open.spotify.com/artist/5VQ1hti6Wtt95mSCrighiu) | [Dandelion Song](https://open.spotify.com/album/26QuZDw2nEtsvVWUUZaLwM) | 3:12 | 2022-04-04 | 2022-11-19 |
 | [Darfur](https://open.spotify.com/track/2Z82bNIH22cl7KbEmbgYsg) | [Regan O'leary](https://open.spotify.com/artist/1yg5ZzuhPtFiSx96ztMhub) | [Dynjandi](https://open.spotify.com/album/6ZNUdRVZ8XXAaGSpCQczkZ) | 2:30 | 2022-04-04 | 2024-03-05 |
 | [Das Versprechen](https://open.spotify.com/track/1QCpwaFTWdn52B1MybBmGJ) | [Alma Klein](https://open.spotify.com/artist/13BmXB0asE1bzPqYfWSTin) | [Das Versprechen](https://open.spotify.com/album/0LgaZhljzonHcCWXVV8zF5) | 2:26 | 2022-04-04 | 2022-11-19 |
+| [Daybreak](https://open.spotify.com/track/69nRm9PEBhWkinMixrzmOh) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Daybreak](https://open.spotify.com/album/0twPnjlQLn8uXvYdkq43SF) | 3:32 | 2024-11-05 |  |
 | [Daydreamer](https://open.spotify.com/track/0QVOz1Ciduo7miwdCMAeRD) | [Ronan Spoor](https://open.spotify.com/artist/1MeRseIlQhsx4BksnKLHZ0) | [Daydreamer](https://open.spotify.com/album/3seGUQqyvqEZoCKJPidgeJ) | 2:36 | 2022-11-18 |  |
 | [De seu](https://open.spotify.com/track/5Bl7fjZwq3u37T51tspPAp) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [De Seu](https://open.spotify.com/album/0a84zl4kQdodn1VhkTl3jl) | 2:35 | 2022-04-04 | 2022-04-29 |
 | [Deepest woods](https://open.spotify.com/track/3ARfOz1BOZdiaUkcjb5Ul7) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Deepest Woods](https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe) | 2:49 | 2022-04-04 | 2022-07-08 |

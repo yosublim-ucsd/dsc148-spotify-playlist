@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-06",
       "duration_ms": 226690,
       "name": "Above the Salt",
       "url": "https://open.spotify.com/track/6UuUbGvNaGsNjCYOuyw18Y"
@@ -2032,6 +2032,24 @@
       "duration_ms": 216000,
       "name": "Kahan (last year)",
       "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
+    },
+    {
+      "album": {
+        "name": "Kerbside Poetry",
+        "url": "https://open.spotify.com/album/6xklTnSYtgOoQSnKd1IkJL"
+      },
+      "artists": [
+        {
+          "name": "Asha Lin",
+          "url": "https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192035,
+      "name": "Kerbside Poetry",
+      "url": "https://open.spotify.com/track/3TZGETLafJxMADpUqVIYSv"
     },
     {
       "album": {

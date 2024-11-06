@@ -2,7 +2,7 @@
 
 ### [El Top 2024](https://open.spotify.com/playlist/37i9dQZF1DWX2Ln16qIxDF)
 
-> Lo más pegado, lo más élite, o sea LIT killah.
+> Lo más pegado, lo más trendy, o sea Emilia.
 
 617 songs - 1 day 7 hr 24 min
 

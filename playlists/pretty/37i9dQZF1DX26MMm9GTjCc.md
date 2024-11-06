@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26MMm9GTjCc.md) - [plain]
 
 > The soundtrack to your festive get\-together!
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,907 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,997 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

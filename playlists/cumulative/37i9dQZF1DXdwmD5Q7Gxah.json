@@ -41837,6 +41837,24 @@
     },
     {
       "album": {
+        "name": "Stranger in the Alps (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305000,
+      "name": "Scott Street",
+      "url": "https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr"
+    },
+    {
+      "album": {
         "name": "SCRAMBLED",
         "url": "https://open.spotify.com/album/7qSI5uSBvlVNrBEwOwqhtP"
       },

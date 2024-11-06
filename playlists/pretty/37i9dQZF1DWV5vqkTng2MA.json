@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
-  "num_followers": 411021,
+  "num_followers": 411095,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Aviary: Act 1",
-        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
-      },
-      "artists": [
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 222937,
-      "name": "Slipping",
-      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Cosmos",
         "url": "https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 219880,
       "name": "Will I Ever Know",
       "url": "https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Aviary: Act 1",
+        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
+      },
+      "artists": [
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 222937,
+      "name": "Slipping",
+      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Test Your Love",
-        "url": "https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH"
+        "name": "Every Night",
+        "url": "https://open.spotify.com/album/6V2QX2Hckiqbcuq9F97NZS"
       },
       "artists": [
         {
-          "name": "Buffalo Clover",
-          "url": "https://open.spotify.com/artist/2JTQSdVTZDWslqkHPZM2LA"
+          "name": "Walker Lukens",
+          "url": "https://open.spotify.com/artist/1PN1wQSUA0IxfjX6CZy0q4"
         }
       ],
-      "duration_ms": 190600,
-      "name": "The Ruse",
-      "url": "https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt"
+      "duration_ms": 174735,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Every Night",
-        "url": "https://open.spotify.com/album/6V2QX2Hckiqbcuq9F97NZS"
+        "name": "Test Your Love",
+        "url": "https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH"
       },
       "artists": [
         {
-          "name": "Walker Lukens",
-          "url": "https://open.spotify.com/artist/1PN1wQSUA0IxfjX6CZy0q4"
+          "name": "Buffalo Clover",
+          "url": "https://open.spotify.com/artist/2JTQSdVTZDWslqkHPZM2LA"
         }
       ],
-      "duration_ms": 174735,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo"
+      "duration_ms": 190600,
+      "name": "The Ruse",
+      "url": "https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Reelin'",
-        "url": "https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C"
-      },
-      "artists": [
-        {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Reelin'",
-      "url": "https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Watermelon Oranges",
         "url": "https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 207613,
       "name": "Don't Please Yourself",
       "url": "https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Reelin'",
+        "url": "https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "duration_ms": 208250,
+      "name": "Reelin'",
+      "url": "https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "We Can Always Come Back To This (Music From The Series This Is Us)",
-        "url": "https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN"
-      },
-      "artists": [
-        {
-          "name": "Brian Tyree Henry",
-          "url": "https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK"
-        }
-      ],
-      "duration_ms": 254329,
-      "name": "We Can Always Come Back To This",
-      "url": "https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Hard Working Americans",
         "url": "https://open.spotify.com/album/4b8yPzgOgP0oeOU2SVeCSN"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 288693,
       "name": "Stomp and Holler",
       "url": "https://open.spotify.com/track/21MxnjLrvBUY3XgwU7l6kn"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "We Can Always Come Back To This (Music From The Series This Is Us)",
+        "url": "https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN"
+      },
+      "artists": [
+        {
+          "name": "Brian Tyree Henry",
+          "url": "https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK"
+        }
+      ],
+      "duration_ms": 254329,
+      "name": "We Can Always Come Back To This",
+      "url": "https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Kaley / Further Away",
-        "url": "https://open.spotify.com/album/0JvLLE7WcXbUiuJrAnnBkG"
-      },
-      "artists": [
-        {
-          "name": "Naima Bock",
-          "url": "https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok"
-        }
-      ],
-      "duration_ms": 183645,
-      "name": "Kaley",
-      "url": "https://open.spotify.com/track/6Eq158UlSBDyVmEF5VIRQT"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Cold Times",
         "url": "https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 213720,
       "name": "Cold Times",
       "url": "https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Kaley / Further Away",
+        "url": "https://open.spotify.com/album/0JvLLE7WcXbUiuJrAnnBkG"
+      },
+      "artists": [
+        {
+          "name": "Naima Bock",
+          "url": "https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok"
+        }
+      ],
+      "duration_ms": 183645,
+      "name": "Kaley",
+      "url": "https://open.spotify.com/track/6Eq158UlSBDyVmEF5VIRQT"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Hands on the Radio",
+        "url": "https://open.spotify.com/album/08noPcSJhhNl1KayiNivkS"
+      },
+      "artists": [
+        {
+          "name": "The Weeks",
+          "url": "https://open.spotify.com/artist/3zE5jV6Uw9hhdWCXM8hS3j"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "Hands on the Radio",
+      "url": "https://open.spotify.com/track/0S1NJoM1JHfd2x9Orm2j2G"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
         "url": "https://open.spotify.com/album/0LOwGeTAFeD4qSFXr4pKf8"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 215986,
       "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
       "url": "https://open.spotify.com/track/43zk0iEDzsjOBOzJmEx6Nv"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Hands on the Radio",
-        "url": "https://open.spotify.com/album/08noPcSJhhNl1KayiNivkS"
-      },
-      "artists": [
-        {
-          "name": "The Weeks",
-          "url": "https://open.spotify.com/artist/3zE5jV6Uw9hhdWCXM8hS3j"
-        }
-      ],
-      "duration_ms": 212333,
-      "name": "Hands on the Radio",
-      "url": "https://open.spotify.com/track/0S1NJoM1JHfd2x9Orm2j2G"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq"
-      },
-      "artists": [
-        {
-          "name": "Jon Muq",
-          "url": "https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe"
-        }
-      ],
-      "duration_ms": 246453,
-      "name": "Bend",
-      "url": "https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "What You Don't Do",
         "url": "https://open.spotify.com/album/54lLC6rMU62oNOYyyzUEVF"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 220586,
       "name": "What You Don't Do",
       "url": "https://open.spotify.com/track/2txZKGnh75sFb3FFnuwjgF"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq"
+      },
+      "artists": [
+        {
+          "name": "Jon Muq",
+          "url": "https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe"
+        }
+      ],
+      "duration_ms": 246453,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4"
     },
     {
       "added_at": "2024-09-06 04:00:00",

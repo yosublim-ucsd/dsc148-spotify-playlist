@@ -1169,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "Goodmight",
+        "url": "https://open.spotify.com/album/7vBcf7bIKJfuYvSucoHNAE"
+      },
+      "artists": [
+        {
+          "name": "Linior",
+          "url": "https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133369,
+      "name": "Goodmight",
+      "url": "https://open.spotify.com/track/7rLMGoaWru8BOjoU73vXO1"
+    },
+    {
+      "album": {
         "name": "Grounded in Love",
         "url": "https://open.spotify.com/album/7dgM19C1eRfwg33ev3jLV8"
       },

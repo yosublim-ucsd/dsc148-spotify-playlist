@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$
 
-665 songs - 1 day 2 hr 11 min
+666 songs - 1 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [ART OF WAR \(feat\. Denzel Curry & Rico Nasty\)](https://open.spotify.com/track/5iieKgPJ2EeL0BwlGQOocT) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [3](https://open.spotify.com/album/10LJ6xc4AmjUcXOSKwkFfn) | 3:06 | 2023-04-07 | 2024-03-09 |
 | [Art of War \(feat\. Denzel Curry & Rico Nasty\)](https://open.spotify.com/track/75tFBhZ34HNOiPder8VFYt) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Art of War \(feat\. Denzel Curry & Rico Nasty\)](https://open.spotify.com/album/7GtrF4bpZE45mzZYCOzJMS) | 3:06 | 2021-09-17 | 2022-07-08 |
 | [Ashes](https://open.spotify.com/track/4K4Rys1SsGGX88c3S6M9Ro) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [FromBeyondTheGrave](https://open.spotify.com/album/646x2vO2P4qeUTXANXTPLU) | 1:59 | 2021-09-17 | 2022-11-26 |
-| [Atxmic\-Bxmb.](https://open.spotify.com/track/14anA5oIZszxWvvOAfoE8y) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Atxmic\-Bxmb.](https://open.spotify.com/album/5m31ElwTduQrxwXOkAaIPc) | 2:37 | 2023-06-23 |  |
+| [Atxmic\-Bxmb.](https://open.spotify.com/track/14anA5oIZszxWvvOAfoE8y) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Atxmic\-Bxmb.](https://open.spotify.com/album/5m31ElwTduQrxwXOkAaIPc) | 2:37 | 2023-06-23 | 2024-11-06 |
 | [Audubon](https://open.spotify.com/track/3UcyaCWLsc0XDhzXHUuH1S) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XII: The Dark Glacier Saga](https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj) | 2:14 | 2022-04-11 | 2022-05-17 |
 | [Avalon](https://open.spotify.com/track/7CxFWAnQ8eqiRL4W12Xzb6) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Avalon](https://open.spotify.com/album/6mSqysiE0NE7TbFosoJGTv) | 2:20 | 2021-09-17 | 2022-05-17 |
 | [Babydoll](https://open.spotify.com/track/2NE8pVJOkEsmPwSRDE6d2h) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [Blüdhaven](https://open.spotify.com/album/59Grt87N5tvB698akuFC5d) | 2:10 | 2024-05-24 |  |
@@ -268,6 +268,7 @@
 | [GYOZA](https://open.spotify.com/track/6kXhGr5BFBPBcfdIE9rK1X) | [Blckbrd](https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O), [outsiderX](https://open.spotify.com/artist/6aAXv7UhOHDhgDB7fnhhOQ) | [GYOZA](https://open.spotify.com/album/4Io8EBHyHFxZrbk72BuC9X) | 2:32 | 2023-04-14 | 2023-07-01 |
 | [H4LO](https://open.spotify.com/track/22Qo1XTyQGjHiqLreOUGDh) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [H4LO](https://open.spotify.com/album/3xO1MRz165AasIqc4G4A9o) | 3:40 | 2023-03-03 | 2023-05-06 |
 | [HAHA](https://open.spotify.com/track/18Gcl5bxdd8bpBhWOj1rCR) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [HAHA](https://open.spotify.com/album/5TWFIHtoGLtCd8dT4WLbhJ) | 2:40 | 2021-12-21 | 2022-04-21 |
+| [HAND OF GOD](https://open.spotify.com/track/5uU3WcUlNxcbP2nGiTihW8) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [GODHANDUSA](https://open.spotify.com/artist/52XZBIfTRn9iyM7QLf6DmX) | [HAND OF GOD](https://open.spotify.com/album/3iiaoDbegf42GdVGpl7HXc) | 3:50 | 2024-11-05 |  |
 | [harmful](https://open.spotify.com/track/63kMVxA0GX56dSBmmmPbP7) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [harmful](https://open.spotify.com/album/3801uSyiDSkOYSWaNL7dNg) | 2:03 | 2023-12-08 | 2024-02-24 |
 | [HEADF1RST](https://open.spotify.com/track/0fLfkuOaS2oVukMM92ksLz) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [HEADF1RST](https://open.spotify.com/album/1nePUQDAvEU6uO7Uh14wsX) | 2:00 | 2022-11-18 | 2023-03-09 |
 | [Hearse](https://open.spotify.com/track/3nWjClTcD4IfHDNrgfKLsD) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw), [Sect Unit](https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju) | [Hearse](https://open.spotify.com/album/2k0qVhJOTZBHjUKNQ3zleM) | 3:33 | 2024-01-05 |  |

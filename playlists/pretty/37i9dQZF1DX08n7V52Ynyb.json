@@ -1,6 +1,6 @@
 {
   "description": "Soft and smooth vocal Jazz to help you relax and unwind.",
-  "num_followers": 56811,
+  "num_followers": 56858,
   "original_name": "Relaxing Vocal Jazz",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
-        "name": "Linger Awhile",
-        "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 294287,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
         "name": "I Only Have Eyes For You",
         "url": "https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 250745,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
+        "name": "Linger Awhile",
+        "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 294287,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -359,26 +359,6 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
-        "name": "Perhaps You\u2019ll Wonder Why",
-        "url": "https://open.spotify.com/album/5JjlmBr6SE9dY2xAKO1jrr"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        },
-        {
-          "name": "Philippe Powell",
-          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
-        }
-      ],
-      "duration_ms": 285306,
-      "name": "Perhaps You'll Wonder Why",
-      "url": "https://open.spotify.com/track/3iJDdT5rSv6SAY5W21PHsp"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
         "name": "The Complete Ella And Louis On Verve",
         "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 223000,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/6zK83IKs3vP6Uxm2UpYYpo"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
+        "name": "Perhaps You\u2019ll Wonder Why",
+        "url": "https://open.spotify.com/album/5JjlmBr6SE9dY2xAKO1jrr"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        },
+        {
+          "name": "Philippe Powell",
+          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
+        }
+      ],
+      "duration_ms": 285306,
+      "name": "Perhaps You'll Wonder Why",
+      "url": "https://open.spotify.com/track/3iJDdT5rSv6SAY5W21PHsp"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
-        "name": "This Bitter Earth",
-        "url": "https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7"
-      },
-      "artists": [
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 290119,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/5ZjbzXgHWwyYB6rotYuP01"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
         "name": "In Her Words",
         "url": "https://open.spotify.com/album/7AdQX1dp37fnchc6h8sLuv"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 267160,
       "name": "Gone Again",
       "url": "https://open.spotify.com/track/2BwbCvzK0TomWh4Igp0wq3"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
+        "name": "This Bitter Earth",
+        "url": "https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 290119,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/5ZjbzXgHWwyYB6rotYuP01"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -519,22 +519,6 @@
       "duration_ms": 253386,
       "name": "Do You Know What It Means to Miss New Orleans",
       "url": "https://open.spotify.com/track/5DTWu4zFlUZnOD9StTy164"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
-        "name": "Lonely House",
-        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
-      },
-      "artists": [
-        {
-          "name": "Lucy Yeghiazaryan",
-          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
-        }
-      ],
-      "duration_ms": 211664,
-      "name": "There's a Lull in My Life",
-      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -615,6 +599,22 @@
       "duration_ms": 216654,
       "name": "Violets for Your Furs",
       "url": "https://open.spotify.com/track/5fVwnzlWnYEdJnL9KRQZ0d"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
+        "name": "Lonely House",
+        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
+      },
+      "artists": [
+        {
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+        }
+      ],
+      "duration_ms": 211664,
+      "name": "There's a Lull in My Life",
+      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
-        "name": "Songs to Comfort",
-        "url": "https://open.spotify.com/album/10cKBHZzGy3ykvZVHngmy8"
-      },
-      "artists": [
-        {
-          "name": "Marie M\u00f8rck",
-          "url": "https://open.spotify.com/artist/7hlDHwdUAnMXWDRu5Shlt7"
-        }
-      ],
-      "duration_ms": 338186,
-      "name": "Song to Comfort",
-      "url": "https://open.spotify.com/track/2sJl5vXX9cVaDYZFfjPTLc"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
         "name": "My Mood Is You",
         "url": "https://open.spotify.com/album/6Eqi72QvWARDyhff3pQbqY"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 345821,
       "name": "My Mood Is You",
       "url": "https://open.spotify.com/track/17kume3IjetNXGJlsrs3HE"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
+        "name": "Songs to Comfort",
+        "url": "https://open.spotify.com/album/10cKBHZzGy3ykvZVHngmy8"
+      },
+      "artists": [
+        {
+          "name": "Marie M\u00f8rck",
+          "url": "https://open.spotify.com/artist/7hlDHwdUAnMXWDRu5Shlt7"
+        }
+      ],
+      "duration_ms": 338186,
+      "name": "Song to Comfort",
+      "url": "https://open.spotify.com/track/2sJl5vXX9cVaDYZFfjPTLc"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
-        "name": "Blues in the City",
-        "url": "https://open.spotify.com/album/67s8dczNzhEOzVYKM23LNw"
-      },
-      "artists": [
-        {
-          "name": "Laverne Butler",
-          "url": "https://open.spotify.com/artist/2iE4tV40WH7VZKH9pfdnMi"
-        }
-      ],
-      "duration_ms": 303973,
-      "name": "I'm a Fool to Want You",
-      "url": "https://open.spotify.com/track/7LVIhJkFdSrhFbD7qo0OOq"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
         "name": "Cherokee",
         "url": "https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 338822,
       "name": "Cherokee",
       "url": "https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
+        "name": "Blues in the City",
+        "url": "https://open.spotify.com/album/67s8dczNzhEOzVYKM23LNw"
+      },
+      "artists": [
+        {
+          "name": "Laverne Butler",
+          "url": "https://open.spotify.com/artist/2iE4tV40WH7VZKH9pfdnMi"
+        }
+      ],
+      "duration_ms": 303973,
+      "name": "I'm a Fool to Want You",
+      "url": "https://open.spotify.com/track/7LVIhJkFdSrhFbD7qo0OOq"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -927,6 +927,26 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
+        "name": "Let's Face the Music",
+        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
+      },
+      "artists": [
+        {
+          "name": "Reinhardt Winkler",
+          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
+        },
+        {
+          "name": "Simone Kopmajer",
+          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
+        }
+      ],
+      "duration_ms": 227867,
+      "name": "Why Should I Care?",
+      "url": "https://open.spotify.com/track/0rGRDmusUJI3byaiZWcurV"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
         "name": "Voces Veladas, Vol.2-Un Homenaje a Letristas e Int\u00e9rpretes de Jazz",
         "url": "https://open.spotify.com/album/68Zzm6yDNA2CUBGA5rsjbe"
       },
@@ -959,50 +979,6 @@
       "duration_ms": 317800,
       "name": "I Walk A Little Faster",
       "url": "https://open.spotify.com/track/13IsFI2oDwC0CNR2hLAKeS"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
-        "name": "Let's Face the Music",
-        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
-      },
-      "artists": [
-        {
-          "name": "Reinhardt Winkler",
-          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
-        },
-        {
-          "name": "Simone Kopmajer",
-          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
-        }
-      ],
-      "duration_ms": 227867,
-      "name": "Why Should I Care?",
-      "url": "https://open.spotify.com/track/0rGRDmusUJI3byaiZWcurV"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
-        "name": "Love Is Here To Stay",
-        "url": "https://open.spotify.com/album/3oqSxcqpOcoIQUJeHEW5xp"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Sullivan Fortner",
-          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
-        },
-        {
-          "name": "Eric Wheeler",
-          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
-        }
-      ],
-      "duration_ms": 253226,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/1hHbHdcMzXprkNkRuAqjQs"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -1051,6 +1027,30 @@
       "duration_ms": 207745,
       "name": "The Very Thought of You",
       "url": "https://open.spotify.com/track/0cOY54OpNKZC1lLgdqJCaI"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
+        "name": "Love Is Here To Stay",
+        "url": "https://open.spotify.com/album/3oqSxcqpOcoIQUJeHEW5xp"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        }
+      ],
+      "duration_ms": 253226,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/1hHbHdcMzXprkNkRuAqjQs"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -1159,6 +1159,38 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
+        "name": "Easy Come, Easy Go Blues",
+        "url": "https://open.spotify.com/album/3jF1HHLzYTcKf7YTOAB7gp"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 152654,
+      "name": "Easy Come, Easy Go Blues",
+      "url": "https://open.spotify.com/track/1710r4hqXR33zvno2TtqFV"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
+        "name": "In the Space Between Our Souls",
+        "url": "https://open.spotify.com/album/2p6JHhn0lEekYls1t0o5NS"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Saga",
+          "url": "https://open.spotify.com/artist/5AFOYgZPpkiWB7FAeEXl6F"
+        }
+      ],
+      "duration_ms": 413916,
+      "name": "In the Space Between Our Souls",
+      "url": "https://open.spotify.com/track/68f2v05WiiKkLEA8lnlaUD"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/2TexgqYYV0EitC949gQKGx"
       },
@@ -1183,38 +1215,6 @@
       "duration_ms": 448640,
       "name": "From a Mother to a Child",
       "url": "https://open.spotify.com/track/2fcHfAhlK9D2DHAyn1xttw"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
-        "name": "In the Space Between Our Souls",
-        "url": "https://open.spotify.com/album/2p6JHhn0lEekYls1t0o5NS"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Saga",
-          "url": "https://open.spotify.com/artist/5AFOYgZPpkiWB7FAeEXl6F"
-        }
-      ],
-      "duration_ms": 413916,
-      "name": "In the Space Between Our Souls",
-      "url": "https://open.spotify.com/track/68f2v05WiiKkLEA8lnlaUD"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
-        "name": "Easy Come, Easy Go Blues",
-        "url": "https://open.spotify.com/album/3jF1HHLzYTcKf7YTOAB7gp"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 152654,
-      "name": "Easy Come, Easy Go Blues",
-      "url": "https://open.spotify.com/track/1710r4hqXR33zvno2TtqFV"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -1659,18 +1659,22 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
-        "name": "An Evening With Anita O'Day",
-        "url": "https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig"
+        "name": "Two Tenors",
+        "url": "https://open.spotify.com/album/2FwsXdfYSYQIwAOTBtYbRx"
       },
       "artists": [
         {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+          "name": "Jan Smigmator",
+          "url": "https://open.spotify.com/artist/6iZZuD8jZoqc1vZ1M0CWBo"
+        },
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
         }
       ],
-      "duration_ms": 207466,
-      "name": "Anita's Blues",
-      "url": "https://open.spotify.com/track/1Gc34PgPMoYIlRzi28BPsq"
+      "duration_ms": 209293,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/2BmSDptUfW7WVbasPnBqhZ"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -1691,22 +1695,18 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
-        "name": "Two Tenors",
-        "url": "https://open.spotify.com/album/2FwsXdfYSYQIwAOTBtYbRx"
+        "name": "An Evening With Anita O'Day",
+        "url": "https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig"
       },
       "artists": [
         {
-          "name": "Jan Smigmator",
-          "url": "https://open.spotify.com/artist/6iZZuD8jZoqc1vZ1M0CWBo"
-        },
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
         }
       ],
-      "duration_ms": 209293,
-      "name": "Love Letters",
-      "url": "https://open.spotify.com/track/2BmSDptUfW7WVbasPnBqhZ"
+      "duration_ms": 207466,
+      "name": "Anita's Blues",
+      "url": "https://open.spotify.com/track/1Gc34PgPMoYIlRzi28BPsq"
     },
     {
       "added_at": "2024-10-25 08:57:10",

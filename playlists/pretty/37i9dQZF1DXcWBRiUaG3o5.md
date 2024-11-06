@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,238,852 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,238,822 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 44 | [Cormorant Bird](https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cormorant Bird](https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq) | 3:27 |
 | 45 | [I Wish I Knew](https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Wish I Knew](https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N) | 3:49 |
 | 46 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 |
-| 47 | [Hummingbird](https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Hummingbird](https://open.spotify.com/album/3E5U6w1a0Zw9BDFAzo3giD) | 5:17 |
-| 48 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 |
+| 47 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 |
+| 48 | [Hummingbird](https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Hummingbird](https://open.spotify.com/album/3E5U6w1a0Zw9BDFAzo3giD) | 5:17 |
 | 49 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 |
-| 50 | [Blanket](https://open.spotify.com/track/25CXUUZD2FDegmlHePvXvw) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Nordic Mellow](https://open.spotify.com/album/4pejz8zu3H1IwCIRAaAAOD) | 3:05 |
-| 51 | [Should I](https://open.spotify.com/track/7bUDoZirLuxyxQEsLEQv6s) | [Arum Rae](https://open.spotify.com/artist/4aqcilLiGfXetHrTuC8DG9) | [Sub Rosa](https://open.spotify.com/album/208D0gsXCpr6urKKD9l4Pu) | 4:04 |
+| 50 | [Should I](https://open.spotify.com/track/7bUDoZirLuxyxQEsLEQv6s) | [Arum Rae](https://open.spotify.com/artist/4aqcilLiGfXetHrTuC8DG9) | [Sub Rosa](https://open.spotify.com/album/208D0gsXCpr6urKKD9l4Pu) | 4:04 |
+| 51 | [Blanket](https://open.spotify.com/track/25CXUUZD2FDegmlHePvXvw) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Nordic Mellow](https://open.spotify.com/album/4pejz8zu3H1IwCIRAaAAOD) | 3:05 |
 | 52 | [Wilderness](https://open.spotify.com/track/2qw3TJxd8Wn2ZVGHkf8YaW) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Adaptations](https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC) | 3:26 |
 | 53 | [The Bells](https://open.spotify.com/track/0Lrw2If9v68OrhrOw1FV3C) | [From Indian Lakes](https://open.spotify.com/artist/3YvQkjWJ5ykJVUNP7YbTy9) | [Acoustic EP](https://open.spotify.com/album/7qrefGYj0VGyK601YKgxsx) | 4:44 |
 | 54 | [Resin](https://open.spotify.com/track/2uzItOYNxVizwKjXELbVdv) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Last Line](https://open.spotify.com/album/3WO6fZZkHAVj9F0kMfQ6SU) | 3:23 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 75 | [Does Not Heal \- Christian Lee Hutson Version](https://open.spotify.com/track/74NaeSFbUmYIeaRYlqwvrv) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR), [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Does Not Heal \(Christian Lee Hutson Version\)](https://open.spotify.com/album/23noaeLrXaiLBRVOyalN1a) | 4:26 |
 | 76 | [Bad Dream](https://open.spotify.com/track/2pqKEd7Lbz6EcySnBnGRsA) | [Azure Ray](https://open.spotify.com/artist/70UZ254VvtSUmrfqPOkUQZ) | [Bad Dream](https://open.spotify.com/album/2Kbf7AqWqqAAol13mXAjJD) | 4:10 |
 | 77 | [Sinking Ship](https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Sinking Ship / Back & Forth](https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt) | 4:07 |
-| 78 | [Before the Sun](https://open.spotify.com/track/5g54tKWuCOrHmLppzxzQrt) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Before the Sun](https://open.spotify.com/album/4tCs31ECl6vTX2t5hVOeN2) | 2:48 |
-| 79 | [September Song, pt\. ii](https://open.spotify.com/track/4tM4hSwyXO0Q6wWLknh7YJ) | [Lightning Bug](https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4) | [September Song, pt\. ii](https://open.spotify.com/album/4dFYEqNWRCrzMWUjrRWGzg) | 3:57 |
+| 78 | [September Song, pt\. ii](https://open.spotify.com/track/4tM4hSwyXO0Q6wWLknh7YJ) | [Lightning Bug](https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4) | [September Song, pt\. ii](https://open.spotify.com/album/4dFYEqNWRCrzMWUjrRWGzg) | 3:57 |
+| 79 | [Before the Sun](https://open.spotify.com/track/5g54tKWuCOrHmLppzxzQrt) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Before the Sun](https://open.spotify.com/album/4tCs31ECl6vTX2t5hVOeN2) | 2:48 |
 | 80 | [Rest \(Acoustic\)](https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Rest](https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr) | 5:19 |
 | 81 | [The Moons Detriment](https://open.spotify.com/track/6dRKRVyjzxa2efBCXZez6R) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [The Moons Detriment](https://open.spotify.com/album/40uRLasPxbgmHu5yfueU2m) | 2:35 |
 | 82 | [Re: Stacks](https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 6:41 |

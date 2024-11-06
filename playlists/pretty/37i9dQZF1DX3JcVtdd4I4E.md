@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 
 > Welcome to the Nordic queendom of pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,978 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,979 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 42 | [I Should’ve Danced More](https://open.spotify.com/track/7vCZ1vLPbbTG42dPHg0PC9) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [I Should’ve Danced More](https://open.spotify.com/album/23ZYTwf4AeZozJU3mRNC0o) | 3:21 |
 | 43 | [All My Life \(Where Have You Been\)](https://open.spotify.com/track/5zZr5MeTBHHyyOjGHo0TKo) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [All My Life \(Where Have You Been\)](https://open.spotify.com/album/1IynmYnMto0IfvYfvuWTeU) | 2:52 |
 | 44 | [And Then Came You](https://open.spotify.com/track/2CuPyOrXSVSxFCpW0TjzdI) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [And Then Came You](https://open.spotify.com/album/4hq1E3eP2GWZ7kdddv7MDS) | 3:15 |
-| 45 | [deathrow bby](https://open.spotify.com/track/4HkHmWX6tSbyMIybuForxR) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Ambrosia](https://open.spotify.com/album/6RucaVwbVouUrU5uBAzFe8) | 2:15 |
-| 46 | [Habits \(Stay High\) \[Stripped in France\]](https://open.spotify.com/track/5XJ1lUHJJdOTj0PGUXZMOf) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Habits \(Stay High\) \[Stripped in France\]](https://open.spotify.com/album/1jskQCfh9IXZjEfZRq5H1q) | 3:44 |
+| 45 | [Habits \(Stay High\) \[Stripped in France\]](https://open.spotify.com/track/5XJ1lUHJJdOTj0PGUXZMOf) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Habits \(Stay High\) \[Stripped in France\]](https://open.spotify.com/album/1jskQCfh9IXZjEfZRq5H1q) | 3:44 |
+| 46 | [deathrow bby](https://open.spotify.com/track/4HkHmWX6tSbyMIybuForxR) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Ambrosia](https://open.spotify.com/album/6RucaVwbVouUrU5uBAzFe8) | 2:15 |
 | 47 | [I Turn To You](https://open.spotify.com/track/3k4kK11yrqUpsHaVMzWFOI) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [I Turn To You](https://open.spotify.com/album/211hQhZlaZz0cE9pO7fSfg) | 2:56 |
 | 48 | [Expiration Date\_demo\_V2.wav](https://open.spotify.com/track/0v0Gekm6VUYI924GpUYJdL) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Expiration Date\_demo\_V2.wav](https://open.spotify.com/album/4DDoW84tuNRze3XKDNxoGK) | 2:42 |
 | 49 | [I Don’t Know Love](https://open.spotify.com/track/2p5peGFsiSfp155oGdEdqZ) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [I Don't Know Love](https://open.spotify.com/album/71thnehEgFEak0JXMqWcLi) | 4:13 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 75 | [Attack of the Ghost Riders](https://open.spotify.com/track/51MPm38qe6Mgp816W18ayV) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [Attack of the Ghost Riders](https://open.spotify.com/album/5AGkIQ0OiuvG0mhqAWgqsY) | 2:44 |
 | 76 | [Effort](https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Effort](https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl) | 2:31 |
 | 77 | [Let's Get It](https://open.spotify.com/track/33WKRSrbY7Ku0HmlYiCQ6K) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Let's Get It](https://open.spotify.com/album/4Zt6JAobDaBHR2hxGauHpp) | 1:52 |
-| 78 | [Coming Home](https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Coming Home](https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ) | 3:28 |
-| 79 | [Ego](https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Ego](https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf) | 2:52 |
+| 78 | [Ego](https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Ego](https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf) | 2:52 |
+| 79 | [Coming Home](https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Coming Home](https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ) | 3:28 |
 | 80 | [Down, down, down](https://open.spotify.com/track/2o7Yym63nfCcOaFv592Ujp) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Down, down, down](https://open.spotify.com/album/6qSvXRmoheeoc9Cfw2qUGr) | 3:30 |
 
 Snapshot ID: `ZlWOOQAAAACVjPccM3d5ha4twsJBb44H`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > The sweet sounds of Palestine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,941 likes - 70 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,988 likes - 70 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 24 | [Bad Timing](https://open.spotify.com/track/5w3zFqLzDVn5uB4Fz7N02N) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [Second Verse](https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4) | 4:32 |
 | 25 | [Don't Care Where You From](https://open.spotify.com/track/5PT5IgcPlzwiJKETXTKKwS) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Shamstep](https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM) | 4:23 |
 | 26 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 |
-| 27 | [Supply Me with an Excess of Love](https://open.spotify.com/track/1tM8DL9vdl7T8jbdmm83to) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO) | [Revelation of Ecstasy and Rebellion](https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr) | 4:34 |
-| 28 | [Nasheed al Alam al Falastini نشيد العلم الفلسطيني](https://open.spotify.com/track/2NJpqrTkLIPiERkyYeXLkc) | [JABiD](https://open.spotify.com/artist/2KQIn7Asb3rXpWoYFlbqM9) | [JABiD atini ala tawahini جبد أعطيني على طواحيني](https://open.spotify.com/album/6vMVS8IbBTG7lVTKAc7COD) | 3:43 |
+| 27 | [Nasheed al Alam al Falastini نشيد العلم الفلسطيني](https://open.spotify.com/track/2NJpqrTkLIPiERkyYeXLkc) | [JABiD](https://open.spotify.com/artist/2KQIn7Asb3rXpWoYFlbqM9) | [JABiD atini ala tawahini جبد أعطيني على طواحيني](https://open.spotify.com/album/6vMVS8IbBTG7lVTKAc7COD) | 3:43 |
+| 28 | [Supply Me with an Excess of Love](https://open.spotify.com/track/1tM8DL9vdl7T8jbdmm83to) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO) | [Revelation of Ecstasy and Rebellion](https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr) | 4:34 |
 | 29 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 |
 | 30 | [Kounili El Musica](https://open.spotify.com/track/4UcpiWGup7TKr1NkqaBrQ7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Kounili El Musica](https://open.spotify.com/album/77e5W1q40rJcSAJjt7GA1p) | 2:55 |
 | 31 | [Nijmet El\-Subeh](https://open.spotify.com/track/5ngzNl6skIrN3XZHrF5TXr) | [Sanaa Moussa](https://open.spotify.com/artist/15wMBXP3Z6VWcfFmqc2yUG) | [Ishraq Reminiscence](https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs) | 4:45 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 36 | [Arabs Say KHOD](https://open.spotify.com/track/1olrdm18fB6b45WiYB6TFr) | [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [Arabs Say KHOD](https://open.spotify.com/album/0lMkfXfoeEbE3DUvIFB66s) | 3:12 |
 | 37 | [Carry the Earth](https://open.spotify.com/track/73XTg0Yt03seww60tQcBSL) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI), [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 6:16 |
 | 38 | [Mali Huriye \(I Don't Have Freedom\)](https://open.spotify.com/track/6Z3ttOetQvCgKMfrH13w9D) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz) | [Dedication](https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO) | 3:37 |
-| 39 | [Mariam](https://open.spotify.com/track/56RrRBnwtJKPRl86MZV6sd) | [ELCONTAINER](https://open.spotify.com/artist/309KxHARNs5Wz1K3EoAa6Z) | [Mariam](https://open.spotify.com/album/0KrTSAUZrGW7vbqctUKVZI) | 3:55 |
-| 40 | [Ma Mali Shi](https://open.spotify.com/track/5iHLim2PneDfm9B2kL2z02) | [Ghazall](https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG) | [A Tareeq](https://open.spotify.com/album/5sy5gs8QvcIyLKiK0Ikzu2) | 3:58 |
+| 39 | [Ma Mali Shi](https://open.spotify.com/track/5iHLim2PneDfm9B2kL2z02) | [Ghazall](https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG) | [A Tareeq](https://open.spotify.com/album/5sy5gs8QvcIyLKiK0Ikzu2) | 3:58 |
+| 40 | [Mariam](https://open.spotify.com/track/56RrRBnwtJKPRl86MZV6sd) | [ELCONTAINER](https://open.spotify.com/artist/309KxHARNs5Wz1K3EoAa6Z) | [Mariam](https://open.spotify.com/album/0KrTSAUZrGW7vbqctUKVZI) | 3:55 |
 | 41 | [لا تغمزيني](https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6) | [Laith Abu Joda](https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m) | [لا تغمزيني](https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh) | 2:58 |
 | 42 | [Today is the day](https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3) | [Hazy Noir](https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY) | [Today Is the day](https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA) | 2:31 |
 | 43 | [Dabke System](https://open.spotify.com/track/6pA25Qz9Pbvb90I6j0MRYy) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Dabke System](https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G) | 5:42 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 51 | [G'areeb Fi Bladi \(Stranger In My Own Country\)](https://open.spotify.com/track/0BqIeIEdNQuYqj2js8BA27) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz) | [Dedication](https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO) | 3:45 |
 | 52 | [القضية فلسطينية](https://open.spotify.com/track/7KaT8J7igAsn5Xof9ccu7q) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [القضية فلسطينية](https://open.spotify.com/album/5ZFL6eq3fsGCa5268jMNYa) | 2:49 |
 | 53 | [فلسطين](https://open.spotify.com/track/7GAIec8M8V8ftwtj2lSMPI) | [Nass El Ghiwane](https://open.spotify.com/artist/040hze5aLmq4IDXPDQfUDL) | [Le meilleur, vol.1](https://open.spotify.com/album/7s3nuAyok865QigeowkopM) | 6:23 |
-| 54 | [Mo Light](https://open.spotify.com/track/4ELE971aOY79OV4263w8h3) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Mo Light](https://open.spotify.com/album/25uNBZF9zpP2QxDpZNrn1E) | 4:45 |
-| 55 | [Yalah Yalah Ramallah](https://open.spotify.com/track/0hMAja0ctsCGFn0Nps83Z4) | [Fermin Muguruza](https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk) | [Checkpoint Rock: Canciones Desde Palestina](https://open.spotify.com/album/5elgS21gSfVxSjz2y22iP8) | 4:52 |
+| 54 | [Yalah Yalah Ramallah](https://open.spotify.com/track/0hMAja0ctsCGFn0Nps83Z4) | [Fermin Muguruza](https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk) | [Checkpoint Rock: Canciones Desde Palestina](https://open.spotify.com/album/5elgS21gSfVxSjz2y22iP8) | 4:52 |
+| 55 | [Mo Light](https://open.spotify.com/track/4ELE971aOY79OV4263w8h3) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Mo Light](https://open.spotify.com/album/25uNBZF9zpP2QxDpZNrn1E) | 4:45 |
 | 56 | [Ibn Gaza](https://open.spotify.com/track/4QCpIFfyrpHuIICOGYpN2J) | [Laith Abu Joda](https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m) | [Ibn Gaza](https://open.spotify.com/album/3Rp6oJKIE5zQrMptdWzrgh) | 1:21 |
 | 57 | [Room](https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7) | [Fadi Ammous](https://open.spotify.com/artist/1jDVc6g1Qkiwxnbjz02Gpi) | [Room](https://open.spotify.com/album/6lAmjHAwltL9jRp1GAGCEX) | 2:37 |
 | 58 | [Dammi Falastini](https://open.spotify.com/track/5Pn31ZVgrp95UDTEYcKR6K) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [Muntasib Alqamah Amshi](https://open.spotify.com/album/4n4atfTSCn0gmSS9qHltsU) | 4:00 |

@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Beat the Champ",
+        "url": "https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173040,
+      "name": "The Ballad of Bull Ramos",
+      "url": "https://open.spotify.com/track/491XVMCXT51FiwxXkGHJkY"
+    },
+    {
+      "album": {
         "name": "Songs for Pierre Chuvin",
         "url": "https://open.spotify.com/album/2FHXWD7j8HqJUQzA4ZrHDG"
       },
