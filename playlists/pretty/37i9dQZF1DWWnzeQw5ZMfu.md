@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,080 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,078 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 82 | [Pompeii \- MTV Unplugged / Edit](https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Pompeii / Come As You Are \(MTV Unplugged\)](https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K) | 4:28 |
 | 83 | [Waking Up In Vegas \- Live At MTV Unplugged, 2009](https://open.spotify.com/track/532jcgk0ZQgRze05omDsqo) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Unplugged \(Live At MTV Unplugged, New York, NY/2009\)](https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG) | 3:31 |
 | 84 | [Crazy \- Live](https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Soul Live](https://open.spotify.com/album/6bXqJuzljqzZo4MMhoECiT) | 7:21 |
-| 85 | [Warwick Avenue \- Live](https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Warwick Avenue \(Live\)](https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw) | 3:57 |
-| 86 | [Feel \- Live at Live 8, Hyde Park, London, 2nd July 2005](https://open.spotify.com/track/2Smji1HNCbqpFFMtrrzPHN) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Live 8 \(Live, July 2005\)](https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H) | 4:27 |
+| 85 | [Feel \- Live at Live 8, Hyde Park, London, 2nd July 2005](https://open.spotify.com/track/2Smji1HNCbqpFFMtrrzPHN) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Live 8 \(Live, July 2005\)](https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H) | 4:27 |
+| 86 | [Warwick Avenue \- Live](https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Warwick Avenue \(Live\)](https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw) | 3:57 |
 | 87 | [Stop \- Live In Madrid, Spain / 1998](https://open.spotify.com/track/0VhUMZKnTBsMk4AVilZNuR) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 3:24 |
 | 88 | [My Love Is Your Love \- Live from Late Show with David Letterman](https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston Live: Her Greatest Performances](https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0) | 3:46 |
 | 89 | [New Rules \- Live](https://open.spotify.com/track/2NPqVa1uGpeplqt60ISgr9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [New Rules \(Live\)](https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc) | 4:35 |

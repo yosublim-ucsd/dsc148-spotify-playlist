@@ -4,7 +4,7 @@
 
 > Novidades do pop nacional pra te deixar mais leve! Foto: Gaab, Lourena
 
-724 songs - 1 day 12 hr 2 min
+725 songs - 1 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Leve](https://open.spotify.com/track/7AkXdni6wENxnSE9kWG768) | [Suhai](https://open.spotify.com/artist/7qxYJsbJ6l2IgZbJyr1XBR) | [Leve](https://open.spotify.com/album/6IpeEAsup8HxzCIKlvnh5B) | 2:40 | 2024-04-12 | 2024-06-14 |
 | [Lilás](https://open.spotify.com/track/6tEG7zGGyWgztkKlbW2HsE) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Lilás](https://open.spotify.com/album/6gqc9vh0zqPJ4tseFyIC0b) | 2:55 | 2023-12-01 | 2024-01-20 |
 | [Lindo Dom](https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Lindo Dom](https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf) | 3:13 | 2023-09-01 | 2024-07-19 |
+| [Lisboa](https://open.spotify.com/track/2o2xhyri4aJUtgMGkf5P0J) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 3:39 | 2024-11-06 |  |
 | [Logo Eu](https://open.spotify.com/track/1pPpL3JEgD2mJLA6uBVolj) | [Zek](https://open.spotify.com/artist/39A7Z4FUZvnRvIVNfyfesh) | [Decolagem](https://open.spotify.com/album/6i02cQxaeYpaKEeMRasSXK) | 2:32 | 2023-02-03 | 2023-04-29 |
 | [Longe de Mim](https://open.spotify.com/track/4VQ5sykAzSAcimgu6cRxPj) | [Maria Maud](https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM) | [Longe de Mim](https://open.spotify.com/album/06ojZMF5zjFtXX5axLV2JU) | 3:14 | 2023-01-27 | 2023-02-04 |
 | [Louca \- Ao Vivo](https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Sem Filtro \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg) | 3:04 | 2022-08-01 | 2023-02-25 |
@@ -482,7 +483,7 @@
 | [pequena](https://open.spotify.com/track/2wx2CPCAjGOnYH18MVbcb1) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [pequena](https://open.spotify.com/album/6Jf6qOxMnq36H3s9HdHgOJ) | 2:42 | 2022-05-13 | 2023-01-21 |
 | [perfeita](https://open.spotify.com/track/1lRFP08SSrTCdmjfRK40t1) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [perfeita](https://open.spotify.com/album/0p5iUTyG5QmUWL0e2LD0qO) | 3:15 | 2023-06-23 | 2023-08-05 |
 | [Perigo](https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Quem É Ela?](https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9) | 2:38 | 2023-09-01 | 2024-02-03 |
-| [Pipa](https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Pipa](https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA) | 3:01 | 2024-09-27 |  |
+| [Pipa](https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Pipa](https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA) | 3:01 | 2024-09-27 | 2024-11-07 |
 | [Pique Djavan \- Ao Vivo](https://open.spotify.com/track/7D9sdH2LEs3To9nMZnLXUt) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:46 | 2024-02-23 | 2024-05-07 |
 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 | 2023-08-25 |  |
 | [PLENA TERÇA FEIRA](https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx), [Julie Ramos](https://open.spotify.com/artist/72MhucM5doKoAXE5GIApaV) | [PLENA TERÇA FEIRA](https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3) | 3:07 | 2023-09-22 | 2024-09-06 |

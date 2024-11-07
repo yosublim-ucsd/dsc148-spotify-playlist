@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 51812,
+  "num_followers": 51828,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -1191,18 +1191,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "La Chamamecera",
-        "url": "https://open.spotify.com/album/2DrjbKf3LDlKVRgu1Jiftp"
+        "name": "Refugio de So\u00f1adores",
+        "url": "https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2"
       },
       "artists": [
         {
-          "name": "Ambo\u00e9",
-          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
+          "name": "Rudi y Nini Flores",
+          "url": "https://open.spotify.com/artist/1NUWvy634UHJCGgo0c47wt"
+        },
+        {
+          "name": "Miguel \u00c1ngel Porra",
+          "url": "https://open.spotify.com/artist/5CBXXNsH8GqhdfEttuMXTN"
         }
       ],
-      "duration_ms": 265253,
-      "name": "La Chamamecera",
-      "url": "https://open.spotify.com/track/3RtLz2m3s8HgkR5pDdcP1k"
+      "duration_ms": 202025,
+      "name": "Refugio de So\u00f1adores",
+      "url": "https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1223,22 +1227,18 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Refugio de So\u00f1adores",
-        "url": "https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2"
+        "name": "La Chamamecera",
+        "url": "https://open.spotify.com/album/2DrjbKf3LDlKVRgu1Jiftp"
       },
       "artists": [
         {
-          "name": "Rudi y Nini Flores",
-          "url": "https://open.spotify.com/artist/1NUWvy634UHJCGgo0c47wt"
-        },
-        {
-          "name": "Miguel \u00c1ngel Porra",
-          "url": "https://open.spotify.com/artist/5CBXXNsH8GqhdfEttuMXTN"
+          "name": "Ambo\u00e9",
+          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
         }
       ],
-      "duration_ms": 202025,
-      "name": "Refugio de So\u00f1adores",
-      "url": "https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km"
+      "duration_ms": 265253,
+      "name": "La Chamamecera",
+      "url": "https://open.spotify.com/track/3RtLz2m3s8HgkR5pDdcP1k"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "20 Superexitos Originales",
+        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
+      },
+      "artists": [
+        {
+          "name": "Isaco Abitbol",
+          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
+        },
+        {
+          "name": "D\u00fao Ubeda / Chavez",
+          "url": "https://open.spotify.com/artist/58fMfIAKCyYaNnqL65U7b8"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "Nostalgias Camperas",
+      "url": "https://open.spotify.com/track/2w7HJNJhi017o0TCw1s4PI"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/4VAmOJquewlCgACkqB6DgL"
       },
@@ -1495,22 +1515,6 @@
       "duration_ms": 270000,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/1qQ2k6WRvClfd6e1BDjjtG"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "20 Superexitos Originales",
-        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
-      },
-      "artists": [
-        {
-          "name": "Isaco Abitbol",
-          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
-        }
-      ],
-      "duration_ms": 171973,
-      "name": "Flor del Litoral",
-      "url": "https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb"
     },
     {
       "added_at": "2024-10-11 03:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 10152,
+  "num_followers": 10151,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "120 WERS\u00d3W \u017bEBY ZAJE*A\u0106 CO WASZE",
+        "url": "https://open.spotify.com/album/2cdCiu1JfdjhuuWUEc2FOd"
+      },
+      "artists": [
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        }
+      ],
+      "duration_ms": 292902,
+      "name": "120 WERS\u00d3W \u017bEBY ZAJE*A\u0106 CO WASZE",
+      "url": "https://open.spotify.com/track/1VqT8aWuxRigiZILLcSlEM"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "Ma\u0142y Ksi\u0105\u017c\u0119",
         "url": "https://open.spotify.com/album/0vklKK8tv39Onnd9DnZlUt"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 181000,
       "name": "Ma\u0142y Ksi\u0105\u017c\u0119",
       "url": "https://open.spotify.com/track/5ngOu7hZUAGnk0FTDPzBob"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "120 WERS\u00d3W \u017bEBY ZAJE*A\u0106 CO WASZE",
-        "url": "https://open.spotify.com/album/2cdCiu1JfdjhuuWUEc2FOd"
-      },
-      "artists": [
-        {
-          "name": "vkie",
-          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
-        }
-      ],
-      "duration_ms": 292902,
-      "name": "120 WERS\u00d3W \u017bEBY ZAJE*A\u0106 CO WASZE",
-      "url": "https://open.spotify.com/track/1VqT8aWuxRigiZILLcSlEM"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "HHULTRAS",
+        "url": "https://open.spotify.com/album/1hrT9b9eOofnc73kblwE6b"
+      },
+      "artists": [
+        {
+          "name": "W\u0142odi",
+          "url": "https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j"
+        }
+      ],
+      "duration_ms": 167034,
+      "name": "HHULTRAS",
+      "url": "https://open.spotify.com/track/71Y1TmjUbMGbBlHkBV54pz"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "NIE MA CI\u0118",
         "url": "https://open.spotify.com/album/5YgEYtpToICxfF8duu9b00"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 171932,
       "name": "NIE MA CI\u0118",
       "url": "https://open.spotify.com/track/5AzCwwnB7XHoZZIusuHeXJ"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "HHULTRAS",
-        "url": "https://open.spotify.com/album/1hrT9b9eOofnc73kblwE6b"
-      },
-      "artists": [
-        {
-          "name": "W\u0142odi",
-          "url": "https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j"
-        }
-      ],
-      "duration_ms": 167034,
-      "name": "HHULTRAS",
-      "url": "https://open.spotify.com/track/71Y1TmjUbMGbBlHkBV54pz"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1303,6 +1303,30 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "RYSY",
+        "url": "https://open.spotify.com/album/3pBEh2pgcaYJz0qwWqYmtg"
+      },
+      "artists": [
+        {
+          "name": "Pawbeats",
+          "url": "https://open.spotify.com/artist/4WrzIcfTrK5U6UcDp4cX6L"
+        },
+        {
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+        },
+        {
+          "name": "Paluch",
+          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
+        }
+      ],
+      "duration_ms": 170986,
+      "name": "RYSY",
+      "url": "https://open.spotify.com/track/6d2W4tWQGGhhnJe4zddAUi"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "SQNHEAD",
         "url": "https://open.spotify.com/album/4zWkYzMYNwvCwFAVloExPA"
       },
@@ -1343,30 +1367,6 @@
       "duration_ms": 153746,
       "name": "SQNHEAD",
       "url": "https://open.spotify.com/track/6kdAn7zMHOp57RlOgDel4j"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "RYSY",
-        "url": "https://open.spotify.com/album/3pBEh2pgcaYJz0qwWqYmtg"
-      },
-      "artists": [
-        {
-          "name": "Pawbeats",
-          "url": "https://open.spotify.com/artist/4WrzIcfTrK5U6UcDp4cX6L"
-        },
-        {
-          "name": "Zeamsone",
-          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
-        },
-        {
-          "name": "Paluch",
-          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
-        }
-      ],
-      "duration_ms": 170986,
-      "name": "RYSY",
-      "url": "https://open.spotify.com/track/6d2W4tWQGGhhnJe4zddAUi"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1771,34 +1771,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Mamy ci\u0119\u017cko",
-        "url": "https://open.spotify.com/album/0wYBM3GIqYhMZNUFXsLS5F"
-      },
-      "artists": [
-        {
-          "name": "Solar",
-          "url": "https://open.spotify.com/artist/1KJvuZHmkpnrjIyTLhhwpb"
-        },
-        {
-          "name": "Bia\u0142as",
-          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
-        },
-        {
-          "name": "SB Maffija",
-          "url": "https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG"
-        },
-        {
-          "name": "Jonatan",
-          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Mamy ci\u0119\u017cko",
-      "url": "https://open.spotify.com/track/24DsDMTiN9Fwm4XIstmfn9"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "TipiKnapa",
         "url": "https://open.spotify.com/album/7J60viX5whIH74wxAEd8rX"
       },
@@ -1827,6 +1799,34 @@
       "duration_ms": 269617,
       "name": "polonez dla pocz\u0105tkuj\u0105cych",
       "url": "https://open.spotify.com/track/6rsBxeaMPY1C9dJZ3mxtZW"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Mamy ci\u0119\u017cko",
+        "url": "https://open.spotify.com/album/0wYBM3GIqYhMZNUFXsLS5F"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/1KJvuZHmkpnrjIyTLhhwpb"
+        },
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "SB Maffija",
+          "url": "https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Mamy ci\u0119\u017cko",
+      "url": "https://open.spotify.com/track/24DsDMTiN9Fwm4XIstmfn9"
     },
     {
       "added_at": "2024-02-27 08:21:33",

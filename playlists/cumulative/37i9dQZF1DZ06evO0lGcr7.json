@@ -344,7 +344,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 170025,
       "name": "dramatic escape",
       "url": "https://open.spotify.com/track/1Rh3J0oTvXLEsVmaZoSurn"
@@ -940,6 +940,28 @@
       "duration_ms": 215247,
       "name": "Nobody Loves Me",
       "url": "https://open.spotify.com/track/1SYqnlqZyI7dVYDEvdkBau"
+    },
+    {
+      "album": {
+        "name": "liminal space",
+        "url": "https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        },
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182423,
+      "name": "now's not the time",
+      "url": "https://open.spotify.com/track/1xVOsRTyj1M3YApAS4Xj67"
     },
     {
       "album": {

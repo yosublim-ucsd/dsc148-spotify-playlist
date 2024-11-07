@@ -2,7 +2,7 @@
 
 ### [Bollywood Central](https://open.spotify.com/playlist/37i9dQZF1DWXtlo6ENS92N)
 
-> Bollywood Central, jab baje toh seedha dil ke centre mein lage 🫶🏼 Cover \- Teri Baaton Mein Aisa Uljha Jiya
+> Bollywood Central, jab baje toh seedha dil ke centre mein lage 🫶🏼 Cover \- Stree 2
 
 160 songs - 10 hr 38 min
 

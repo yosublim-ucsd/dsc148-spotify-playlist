@@ -1,6 +1,6 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 227902,
+  "num_followers": 227969,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
@@ -632,12 +632,12 @@
           "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         },
         {
-          "name": "Rivo",
-          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
-        },
-        {
           "name": "Eliza Doolittle",
           "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+        },
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
         }
       ],
       "duration_ms": 208524,
@@ -795,8 +795,8 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Lately",
-        "url": "https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O"
+        "name": "Innerbloom (Radio Edit)",
+        "url": "https://open.spotify.com/album/3ZiNbboiLplvAjEwrRPLWj"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 249573,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K"
+      "duration_ms": 238067,
+      "name": "Innerbloom - Radio Edit",
+      "url": "https://open.spotify.com/track/233AL29SR6QWnD7hu7ylbf"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -987,8 +987,8 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Innerbloom (Radio Edit)",
-        "url": "https://open.spotify.com/album/3ZiNbboiLplvAjEwrRPLWj"
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O"
       },
       "artists": [
         {
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 238067,
-      "name": "Innerbloom - Radio Edit",
-      "url": "https://open.spotify.com/track/233AL29SR6QWnD7hu7ylbf"
+      "duration_ms": 249573,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1971,22 +1971,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "SAVE ME",
-        "url": "https://open.spotify.com/album/4IHs5K9AlUPG2jNNlNR84l"
+        "name": "I DON'T WANT TO FALL IN LOVE",
+        "url": "https://open.spotify.com/album/0sXjHFUi5WyYVSkjwvDb4V"
       },
       "artists": [
         {
-          "name": "Boston Bun",
-          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
-        },
-        {
-          "name": "Bag Raiders",
-          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
         }
       ],
-      "duration_ms": 216960,
-      "name": "SAVE ME",
-      "url": "https://open.spotify.com/track/0TsJzxDrjLNs6szBrho1dG"
+      "duration_ms": 188983,
+      "name": "I DON'T WANT TO FALL IN LOVE",
+      "url": "https://open.spotify.com/track/2nfCQnzvjapzfLlv5Efdku"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2011,18 +2007,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "I DON'T WANT TO FALL IN LOVE",
-        "url": "https://open.spotify.com/album/0sXjHFUi5WyYVSkjwvDb4V"
+        "name": "SAVE ME",
+        "url": "https://open.spotify.com/album/4IHs5K9AlUPG2jNNlNR84l"
       },
       "artists": [
         {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+          "name": "Boston Bun",
+          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
+        },
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
         }
       ],
-      "duration_ms": 188983,
-      "name": "I DON'T WANT TO FALL IN LOVE",
-      "url": "https://open.spotify.com/track/2nfCQnzvjapzfLlv5Efdku"
+      "duration_ms": 216960,
+      "name": "SAVE ME",
+      "url": "https://open.spotify.com/track/0TsJzxDrjLNs6szBrho1dG"
     },
     {
       "added_at": "2024-10-04 04:00:00",

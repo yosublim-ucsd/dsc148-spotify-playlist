@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Go Tell It on the Mountain",
+        "url": "https://open.spotify.com/album/3o3acoQ0WWOiGG2j7rKeAN"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rick",
+          "url": "https://open.spotify.com/artist/5AT79GgEygZW9OVGweJeBu"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155374,
+      "name": "Go Tell It on the Mountain",
+      "url": "https://open.spotify.com/track/6j9sxrPzicPYaesxdlRVME"
+    },
+    {
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/2E5IEkEnaAH1oqCl4S0I5U"
       },
@@ -438,6 +456,24 @@
       "duration_ms": 123448,
       "name": "Holy One Where Art Though",
       "url": "https://open.spotify.com/track/37GBu2M1RWkoO0Y4LTOo5Q"
+    },
+    {
+      "album": {
+        "name": "How Great Thou Art",
+        "url": "https://open.spotify.com/album/5nBnV844JGJgufUEmm3rVH"
+      },
+      "artists": [
+        {
+          "name": "Orcrist",
+          "url": "https://open.spotify.com/artist/1N5Q4G5YuaZkMi4M8Kef2U"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "How Great Thou Art",
+      "url": "https://open.spotify.com/track/5jTAJBqOZQIFp0gndvqR75"
     },
     {
       "album": {
@@ -726,6 +762,24 @@
       "duration_ms": 131455,
       "name": "Pass Me Not, O Gentle Savior - Piano",
       "url": "https://open.spotify.com/track/5i8g9ufImKIKSr3I4cCMBR"
+    },
+    {
+      "album": {
+        "name": "Path of Elijah",
+        "url": "https://open.spotify.com/album/4EriY4MESwEbL6RFNfN5WB"
+      },
+      "artists": [
+        {
+          "name": "Katya Karenenov",
+          "url": "https://open.spotify.com/artist/2wazbooFwVj41LSoHtBdzj"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "Path of Elijah",
+      "url": "https://open.spotify.com/track/0ioAH5ojwEIa4ZZS0KsqgA"
     },
     {
       "album": {

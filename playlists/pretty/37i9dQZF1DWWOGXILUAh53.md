@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: JADE x Channel Tres
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,503 likes - 87 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,619 likes - 87 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

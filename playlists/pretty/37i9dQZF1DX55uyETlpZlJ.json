@@ -1,13 +1,37 @@
 {
-  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Vasu Dixit, Manuality, Joel Sakkari",
-  "num_followers": 23634,
+  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Sanjith Hegde,  Sonu Nigam",
+  "num_followers": 23635,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyoThAAAAABMU/W5m/woqY/qUrORVmqA",
+  "snapshot_id": "ZytorQAAAACUJ6J8lk0OOlgRNNV/h2MR",
   "tracks": [
+    {
+      "added_at": "2024-11-06 13:00:45",
+      "album": {
+        "name": "Mayavi (From \"Bhoomi 2024\")",
+        "url": "https://open.spotify.com/album/12WRdvgLyCdAZJXOw1xQxs"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
+        }
+      ],
+      "duration_ms": 258125,
+      "name": "Mayavi (From \"Bhoomi 2024\")",
+      "url": "https://open.spotify.com/track/5FpUYrZWcFcuQMX4lDQqrf"
+    },
     {
       "added_at": "2024-11-05 12:45:56",
       "album": {
@@ -1395,26 +1419,6 @@
       "duration_ms": 125712,
       "name": "JUST MUSIC",
       "url": "https://open.spotify.com/track/6rP745yCeuwMJdd4uJAG2h"
-    },
-    {
-      "added_at": "2024-05-02 10:37:10",
-      "album": {
-        "name": "Amma",
-        "url": "https://open.spotify.com/album/6LoIoj7lzUFF4lNld1TQWQ"
-      },
-      "artists": [
-        {
-          "name": "Pavana V Kashyap",
-          "url": "https://open.spotify.com/artist/1KqqYAhcih9exiT1rEUQlQ"
-        },
-        {
-          "name": "Paluz45",
-          "url": "https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04"
-        }
-      ],
-      "duration_ms": 126231,
-      "name": "Amma",
-      "url": "https://open.spotify.com/track/1cknWsTf04j4n2FoGUV7DS"
     },
     {
       "added_at": "2024-05-06 06:26:44",

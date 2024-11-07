@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAam0w6i0dI.md) - [plain]
 
 > Prepare for the upcoming fan meeting by listening to TWICE's best songs! \(트와이스의 베스트 곡들을 들으며 다가오는 팬 미팅을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,456 likes - 21 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,653 likes - 21 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

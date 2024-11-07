@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=Mqh0sB44Qk2pfbu7iBX7rQ"> Wakadinali</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,273 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,286 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 16 | [Quagmire](https://open.spotify.com/track/4vma7XUXJRiXjyKRaxDzvW) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [Saint Sinner](https://open.spotify.com/album/6S32d9VMvOGlV9pjk7m300) | 3:19 |
 | 17 | [Riswa 4](https://open.spotify.com/track/4pvrbIrBj18UKnsEi3QZf1) | [Dyana Cods](https://open.spotify.com/artist/1TMFrPAmqxTK5rVS8ujqMR), [Sewersydaa](https://open.spotify.com/artist/6CxcUeJaPy4qYjudhmDJaf) | [Rong Manners](https://open.spotify.com/album/11VRCN8jmGgrfzD7b1hoF4) | 2:03 |
 | 18 | [Balenciaga](https://open.spotify.com/track/3SQ7H8QrtoRlfX9G0WjK8R) | [Barak Jacuzzi](https://open.spotify.com/artist/19AJD2oIyuRpkLX72RSJqD), [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg) | [Balenciaga](https://open.spotify.com/album/1CCtXMEG8kdXlBJiaS0ULn) | 2:38 |
-| 19 | [Stylistic](https://open.spotify.com/track/4bYlN2c4w0PcAkCYdt8of2) | [Wahenga](https://open.spotify.com/artist/0ITJFZNAAHPuuH8d8jjyqA), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X) | [Stylistic](https://open.spotify.com/album/7zYgzGRQIBYsCuS7VtB4oL) | 3:14 |
+| 19 | [STYLISTIC](https://open.spotify.com/track/4bYlN2c4w0PcAkCYdt8of2) | [Wahenga](https://open.spotify.com/artist/0ITJFZNAAHPuuH8d8jjyqA), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X) | [STYLISTIC](https://open.spotify.com/album/7zYgzGRQIBYsCuS7VtB4oL) | 3:14 |
 | 20 | [Not my Portion](https://open.spotify.com/track/0ZRBTiydsRQKVKMBKaXAyB) | [Smarta Official](https://open.spotify.com/artist/28FKjb7uHEtVQk6exPWR6U), [Tipsy Gee](https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5) | [Not my Portion](https://open.spotify.com/album/6JdcJuTSiIL78LM4XpA1s1) | 2:25 |
 | 21 | [Talk Ni Cheap](https://open.spotify.com/track/3yLgHCgibaREPaivKLUfUc) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [Talk Ni Cheap](https://open.spotify.com/album/3xvkQ8HoEKB5cMklZTB6UW) | 3:11 |
 | 22 | [Bang](https://open.spotify.com/track/3F0T9sEt8GU6Y3e4X6ohy2) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Bang](https://open.spotify.com/album/7y2QTGCGqRZxGDXDTJPOlA) | 4:36 |

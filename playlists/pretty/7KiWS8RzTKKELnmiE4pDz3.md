@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 116 songs - 5 hr 44 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 117 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,5 +124,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 114 | [Maze](https://open.spotify.com/track/55XOUxXsBBbC07PD3Zml3F) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 2:24 |
 | 115 | [She’s The One](https://open.spotify.com/track/6bfJggd4HFdzHzvZLQ5EDX) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 3:08 |
 | 116 | [Cartier Gucci Scarf \(feat\. Lil Duke\)](https://open.spotify.com/track/3TWSar7EBNWZVeEWqDSjpw) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Duke](https://open.spotify.com/artist/06Qf6vq8AVIpE9XIw8LAsY) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:18 |
+| 117 | [Free BabyEBG Freestyle](https://open.spotify.com/track/1eRTuYXGNve68gqGiRUTG3) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Free BabyEBG Freestyle](https://open.spotify.com/album/1TSlkErLHfkPRqK2xh6S51) | 2:00 |
 
-Snapshot ID: `AAAdlZEEXPg506Wf2ep4alzUtAKHPtiR`
+Snapshot ID: `AAAdlp+VgpOxyxsGigbwA0g3hLrF8VQF`

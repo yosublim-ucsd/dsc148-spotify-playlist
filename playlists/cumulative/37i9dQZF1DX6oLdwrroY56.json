@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Cheats",
+        "url": "https://open.spotify.com/album/7fy9ViwHRwWAEmG4upZLn9"
+      },
+      "artists": [
+        {
+          "name": "Cheats",
+          "url": "https://open.spotify.com/artist/4XUJ1FQti6aKrUrZTCBFKz"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235700,
+      "name": "Accidents",
+      "url": "https://open.spotify.com/track/7lMWnmbFWP1Rg0cSICKmjx"
+    },
+    {
+      "album": {
         "name": "Aking Araw, Araw-Araw",
         "url": "https://open.spotify.com/album/013JCUPCrH1lYZZTyDWy2m"
       },
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 260191,
       "name": "Lia",
       "url": "https://open.spotify.com/track/6uHHGyKxMg5MOUbXsqVgxL"
@@ -1069,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "Liwanag",
+        "url": "https://open.spotify.com/album/3qzGyBXcGla1MjSGS9GuhS"
+      },
+      "artists": [
+        {
+          "name": "The Knobs",
+          "url": "https://open.spotify.com/artist/5SChS914naD0ev5pHTFMdt"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324597,
+      "name": "Liwanag",
+      "url": "https://open.spotify.com/track/2Xvp6TOLEoYL7xBxMpCqfH"
+    },
+    {
+      "album": {
         "name": "Lumang Gunita",
         "url": "https://open.spotify.com/album/4YyUobyOK37XTX41efmYnJ"
       },
@@ -1080,7 +1116,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 243506,
       "name": "Lumang Gunita",
       "url": "https://open.spotify.com/track/6y2vT4HD1jxx4ak9zAwhWD"
@@ -1570,7 +1606,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 323856,
       "name": "Pangalawang Ulan",
       "url": "https://open.spotify.com/track/2UqeYYd5gqpAgV1YOjtfeO"
@@ -1921,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "Sa Ilalim Ng Bituin",
+        "url": "https://open.spotify.com/album/5ql887OnajGHP3hJL5pHmS"
+      },
+      "artists": [
+        {
+          "name": "Feel Day",
+          "url": "https://open.spotify.com/artist/6X3hydoInpp3NXnkQ3V5L3"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200117,
+      "name": "Sa Ilalim Ng Bituin",
+      "url": "https://open.spotify.com/track/5ZKvWEMpk6sW68FDsEIkdR"
+    },
+    {
+      "album": {
         "name": "Sa Iyo Na Lang Ako",
         "url": "https://open.spotify.com/album/5RP6MCfIhoHQDAXBrhxRX0"
       },
@@ -2016,6 +2070,24 @@
       "duration_ms": 234798,
       "name": "salita",
       "url": "https://open.spotify.com/track/5P3aZmkWKEuG6kfpyMPll9"
+    },
+    {
+      "album": {
+        "name": "oshin",
+        "url": "https://open.spotify.com/album/4z5TSk891ox2zzk5VKZCiB"
+      },
+      "artists": [
+        {
+          "name": "bird.",
+          "url": "https://open.spotify.com/artist/5ZR9GMo2iB8nxetEtvRdey"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233311,
+      "name": "san juan",
+      "url": "https://open.spotify.com/track/1NT1aQIoEz6TDf88T1mq1W"
     },
     {
       "album": {
@@ -2214,7 +2286,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 200675,
       "name": "sirens",
       "url": "https://open.spotify.com/track/1oo1PbwqaA5c59xnCBreus"

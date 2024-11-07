@@ -4,13 +4,13 @@
 
 > Tech house technicians, featuring Shermanology 👽👽  50% techno, 50% house
 
-1,821 songs - 4 day 5 hr 26 min
+1,822 songs - 4 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(still\) WON'T4GETU](https://open.spotify.com/track/0XIBrC5NWpiOleeVQuxiIo) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B) | [\(still\) WON'T4GETU](https://open.spotify.com/album/6bUu40spRoUdMgjryJKi54) | 6:14 | 2023-03-17 | 2023-06-17 |
 | [1, 2 Step \(Supersonic\)](https://open.spotify.com/track/09iOlbzf6gyapDqeMNYSCp) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [1, 2 Step \(Supersonic\)](https://open.spotify.com/album/4VX1pbjA9f0CKhuGRMBuZx) | 2:56 | 2022-06-03 | 2022-09-10 |
-| [10 Outta 10](https://open.spotify.com/track/6QKveURtqwxUSX7XUEbEXN) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [OGAQUAFINA](https://open.spotify.com/artist/07E0xIjCv2xkPCR7KCr9aK) | [10 Outta 10](https://open.spotify.com/album/6SjhB3dESaVIPp3xWOedhZ) | 3:36 | 2024-10-04 |  |
+| [10 Outta 10](https://open.spotify.com/track/6QKveURtqwxUSX7XUEbEXN) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [OGAQUAFINA](https://open.spotify.com/artist/07E0xIjCv2xkPCR7KCr9aK) | [10 Outta 10](https://open.spotify.com/album/6SjhB3dESaVIPp3xWOedhZ) | 3:36 | 2024-10-04 | 2024-11-07 |
 | [123 Round Again](https://open.spotify.com/track/5BOX5D958PRwNNpEkYg5QE) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [123 Round Again](https://open.spotify.com/album/3lU4CldHLg8gjYGKTnwWuV) | 2:03 | 2023-07-14 | 2023-10-28 |
 | [125 Beats](https://open.spotify.com/track/3qO9naDjbpCrLqHsWHAPND) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [125 Beats](https://open.spotify.com/album/71xQGeio5kVluMGpJNQ96c) | 3:10 | 2021-11-26 | 2022-01-06 |
 | [1981](https://open.spotify.com/track/7u4JWiOExiBrWtvo0U8Pkx) | [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [1981](https://open.spotify.com/album/4rMb8Py8uXc5OW4jrirIYq) | 3:22 | 2022-07-08 | 2022-08-06 |
@@ -1460,6 +1460,7 @@
 | [Something Fresh](https://open.spotify.com/track/1KBPJUMJjKd95viVQGy5NK) | [Amy Lauren](https://open.spotify.com/artist/0nOcx2Q9TleKLfgje3H9Zz), [Nicole Fiallo](https://open.spotify.com/artist/73UetSYlADQU9aDYjakZsc) | [Something Fresh](https://open.spotify.com/album/32SFNhZoeh2Tax77hAqWzr) | 2:52 | 2021-11-26 | 2022-01-06 |
 | [Something Going On 2022 \(feat\. Martha Wash & Jocelyn Brown\)](https://open.spotify.com/track/5bExqqlQbWM7LWeOK1ZzCR) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq), [Martha Wash](https://open.spotify.com/artist/7htVGwGw3uAa7Axft4MTnx) | [Something Going On 2022 \(feat\. Martha Wash & Jocelyn Brown\)](https://open.spotify.com/album/7Lqi1L3oTGhnHlwDhVgZmh) | 2:48 | 2022-04-01 | 2022-06-04 |
 | [Something In Your Eyes](https://open.spotify.com/track/5vr8JEu7dWxm6p1IXBGEbH) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Something In Your Eyes](https://open.spotify.com/album/5s4ZxE4IDV0TlOBwZNAPo1) | 2:08 | 2023-02-17 | 2023-04-22 |
+| [Something Real](https://open.spotify.com/track/7aQj2ocqPu5LuoQIJmbbeu) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Something Real](https://open.spotify.com/album/3H46xPl7qcJIeFy6yugMAm) | 3:46 | 2024-11-01 |  |
 | [Something To Me](https://open.spotify.com/track/2oCShkda3AnUzwPzZPvQyf) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Something To Me](https://open.spotify.com/album/6kbGkFNoQrF3EWaQxky9sO) | 3:45 | 2024-06-21 | 2024-07-27 |
 | [Sometimes](https://open.spotify.com/track/6FIMkyHbGmBwdTTLexMb9h) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Sometimes](https://open.spotify.com/album/37fpjqTSqYLV6ybowtvGCI) | 3:25 | 2021-11-26 | 2022-01-06 |
 | [Soul System](https://open.spotify.com/track/5LBALrbr55bXfJNb8dsWb1) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [ISOLAT003](https://open.spotify.com/album/1dQUrrp5pAkTvCcfzY2Mvh) | 3:43 | 2022-01-05 | 2022-02-26 |

@@ -1,6 +1,6 @@
 {
   "description": "The best hardstyle remixes of songs you know!",
-  "num_followers": 167178,
+  "num_followers": 167306,
   "original_name": "Hardstyle Remixes of Popular Songs",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-10-23 22:00:00",
       "album": {
-        "name": "Bloody Mary",
-        "url": "https://open.spotify.com/album/4seVM4HKphKWbuVPL0q8k9"
-      },
-      "artists": [
-        {
-          "name": "Lockdown",
-          "url": "https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Bloody Mary",
-      "url": "https://open.spotify.com/track/00NbtCjGk8CqdB8ukjxCT4"
-    },
-    {
-      "added_at": "2024-10-23 22:00:00",
-      "album": {
         "name": "The Sinner",
         "url": "https://open.spotify.com/album/0i17sHHGhyA9OSAPhwnYkH"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 209032,
       "name": "The Sinner",
       "url": "https://open.spotify.com/track/1vXhMbqeQdSpsdVNf8mP8n"
+    },
+    {
+      "added_at": "2024-10-23 22:00:00",
+      "album": {
+        "name": "Bloody Mary",
+        "url": "https://open.spotify.com/album/4seVM4HKphKWbuVPL0q8k9"
+      },
+      "artists": [
+        {
+          "name": "Lockdown",
+          "url": "https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/00NbtCjGk8CqdB8ukjxCT4"
     },
     {
       "added_at": "2024-10-23 22:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-10-23 22:00:00",
       "album": {
+        "name": "Smooth Criminal",
+        "url": "https://open.spotify.com/album/4cL1zFrvk14x1t08QcVmTQ"
+      },
+      "artists": [
+        {
+          "name": "The FifthGuys",
+          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
+        }
+      ],
+      "duration_ms": 134829,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/2HtC6KsunFKydl98AfxMze"
+    },
+    {
+      "added_at": "2024-10-23 22:00:00",
+      "album": {
         "name": "Boyz In Paris (with VINAI) (Coone Remix)",
         "url": "https://open.spotify.com/album/0l48E2jODBFaWoMjrpNyGm"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 216000,
       "name": "Boyz In Paris (with VINAI) (Coone Remix)",
       "url": "https://open.spotify.com/track/6R5ZDu7hQJqSGjJKe3J78K"
-    },
-    {
-      "added_at": "2024-10-23 22:00:00",
-      "album": {
-        "name": "Smooth Criminal",
-        "url": "https://open.spotify.com/album/4cL1zFrvk14x1t08QcVmTQ"
-      },
-      "artists": [
-        {
-          "name": "The FifthGuys",
-          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
-        }
-      ],
-      "duration_ms": 134829,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/2HtC6KsunFKydl98AfxMze"
     },
     {
       "added_at": "2024-10-23 22:00:00",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2024-10-23 22:00:00",
       "album": {
+        "name": "Daddy DJ",
+        "url": "https://open.spotify.com/album/6Fp2vEjNNadaQMw0JgbFCZ"
+      },
+      "artists": [
+        {
+          "name": "Jordiz",
+          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
+        },
+        {
+          "name": "Karlie Chui",
+          "url": "https://open.spotify.com/artist/3DRMPNs23drO22bqK9ceWA"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Daddy DJ",
+      "url": "https://open.spotify.com/track/2Rq69o9Sim7evcQ382ylPR"
+    },
+    {
+      "added_at": "2024-10-23 22:00:00",
+      "album": {
         "name": "Bitter Sweet Symphony (Hardstyle Mix)",
         "url": "https://open.spotify.com/album/7D51Z16qsQhOVhfEWubBqF"
       },
@@ -1115,22 +1135,6 @@
       "duration_ms": 180002,
       "name": "Bitter Sweet Symphony (Hardstyle Mix)",
       "url": "https://open.spotify.com/track/675uQstqHDJVNwUpMHMY4S"
-    },
-    {
-      "added_at": "2024-10-23 22:00:00",
-      "album": {
-        "name": "Axel F",
-        "url": "https://open.spotify.com/album/2J08oRYPpbgtskY3mRD1bJ"
-      },
-      "artists": [
-        {
-          "name": "Jordiz",
-          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
-        }
-      ],
-      "duration_ms": 193704,
-      "name": "Axel F",
-      "url": "https://open.spotify.com/track/4Aq5dvUPgdaEEvaEGl2NLz"
     },
     {
       "added_at": "2024-10-23 22:00:00",
@@ -1199,6 +1203,22 @@
     {
       "added_at": "2024-10-23 22:00:00",
       "album": {
+        "name": "Be My Lover",
+        "url": "https://open.spotify.com/album/4hjneqKJ7b03mh48bqlAlB"
+      },
+      "artists": [
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+        }
+      ],
+      "duration_ms": 141426,
+      "name": "Be My Lover",
+      "url": "https://open.spotify.com/track/4m5JH6q0ldwKW7s2YpcM3B"
+    },
+    {
+      "added_at": "2024-10-23 22:00:00",
+      "album": {
         "name": "I Follow Rivers (Deep Sea Baby)",
         "url": "https://open.spotify.com/album/1JLEsIAfoxoHV65Lq6NUAL"
       },
@@ -1223,54 +1243,18 @@
     {
       "added_at": "2024-10-23 22:00:00",
       "album": {
-        "name": "Be My Lover",
-        "url": "https://open.spotify.com/album/4hjneqKJ7b03mh48bqlAlB"
-      },
-      "artists": [
-        {
-          "name": "The Saints",
-          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
-        }
-      ],
-      "duration_ms": 141426,
-      "name": "Be My Lover",
-      "url": "https://open.spotify.com/track/4m5JH6q0ldwKW7s2YpcM3B"
-    },
-    {
-      "added_at": "2024-10-23 22:00:00",
-      "album": {
-        "name": "Do Whatcha Say",
-        "url": "https://open.spotify.com/album/4HX4ooRkEjEbaRDvx0beVq"
-      },
-      "artists": [
-        {
-          "name": "Mark With a K",
-          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
-        }
-      ],
-      "duration_ms": 164300,
-      "name": "Do Whatcha Say",
-      "url": "https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR"
-    },
-    {
-      "added_at": "2024-10-23 22:00:00",
-      "album": {
-        "name": "Daddy DJ",
-        "url": "https://open.spotify.com/album/6Fp2vEjNNadaQMw0JgbFCZ"
+        "name": "Axel F",
+        "url": "https://open.spotify.com/album/2J08oRYPpbgtskY3mRD1bJ"
       },
       "artists": [
         {
           "name": "Jordiz",
           "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
-        },
-        {
-          "name": "Karlie Chui",
-          "url": "https://open.spotify.com/artist/3DRMPNs23drO22bqK9ceWA"
         }
       ],
-      "duration_ms": 222400,
-      "name": "Daddy DJ",
-      "url": "https://open.spotify.com/track/2Rq69o9Sim7evcQ382ylPR"
+      "duration_ms": 193704,
+      "name": "Axel F",
+      "url": "https://open.spotify.com/track/4Aq5dvUPgdaEEvaEGl2NLz"
     },
     {
       "added_at": "2024-10-23 22:00:00",
@@ -1291,6 +1275,22 @@
       "duration_ms": 174400,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0"
+    },
+    {
+      "added_at": "2024-10-23 22:00:00",
+      "album": {
+        "name": "Do Whatcha Say",
+        "url": "https://open.spotify.com/album/4HX4ooRkEjEbaRDvx0beVq"
+      },
+      "artists": [
+        {
+          "name": "Mark With a K",
+          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
+        }
+      ],
+      "duration_ms": 164300,
+      "name": "Do Whatcha Say",
+      "url": "https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR"
     },
     {
       "added_at": "2024-10-23 22:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-10-23 22:00:00",
       "album": {
-        "name": "He's a Pirate",
-        "url": "https://open.spotify.com/album/3GPUFw0s4ng41t0YRxiI36"
-      },
-      "artists": [
-        {
-          "name": "TCM",
-          "url": "https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp"
-        }
-      ],
-      "duration_ms": 194824,
-      "name": "He's a Pirate",
-      "url": "https://open.spotify.com/track/1rSENjsUV5v8OiRrjxTyhX"
-    },
-    {
-      "added_at": "2024-10-23 22:00:00",
-      "album": {
         "name": "Euphoria (Hardstyle Edit)",
         "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 214546,
       "name": "Euphoria - Hardstyle Edit",
       "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
+    },
+    {
+      "added_at": "2024-10-23 22:00:00",
+      "album": {
+        "name": "He's a Pirate",
+        "url": "https://open.spotify.com/album/3GPUFw0s4ng41t0YRxiI36"
+      },
+      "artists": [
+        {
+          "name": "TCM",
+          "url": "https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp"
+        }
+      ],
+      "duration_ms": 194824,
+      "name": "He's a Pirate",
+      "url": "https://open.spotify.com/track/1rSENjsUV5v8OiRrjxTyhX"
     },
     {
       "added_at": "2024-10-23 22:00:00",

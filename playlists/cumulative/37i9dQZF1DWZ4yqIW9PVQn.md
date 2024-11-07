@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZ4yqIW9PVQn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZ4yqIW9PVQn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ4yqIW9PVQn)
 
-### [노을\_](https://open.spotify.com/playlist/37i9dQZF1DWZ4yqIW9PVQn)
+### [가을가을해](https://open.spotify.com/playlist/37i9dQZF1DWZ4yqIW9PVQn)
 
-> 해질녘 감성이 담긴 노래들과 함께 감상에 젖어보세요.
+> 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요\. \(Listen to K\-Pop autumn songs\)
 
-174 songs - 10 hr 30 min
+175 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Sunshine of June](https://open.spotify.com/track/6BVY60lo3QaL6TSgBwKzgM) | [Dailylab](https://open.spotify.com/artist/4by96utXSeGTsQSfR16Olh) | [Sunshine of June](https://open.spotify.com/album/4ziHz60Ut95gknIzloSxhf) | 4:12 | 2022-07-04 |  |
 | [SUPERCAR](https://open.spotify.com/track/49OWLslwYgeMZlTflhmgzR) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:42 | 2022-07-04 |  |
 | [That was all of my love](https://open.spotify.com/track/45KeCqGOeUD35pd9efWwEn) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [That was all of my love](https://open.spotify.com/album/5OB1KoVn46VYQOpXqAJh1k) | 3:56 | 2022-07-04 |  |
+| [The Autumn of Farewell](https://open.spotify.com/track/5RifBqzPky4wO1fJmKhLFQ) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [The Autumn of Farewell](https://open.spotify.com/album/0w9zxIwJ1hi9lYlGAknEyk) | 3:27 | 2024-11-06 |  |
 | [The Elephant](https://open.spotify.com/track/1JTTM8rBsNLiem0GCMP24a) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest](https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR) | 4:36 | 2022-11-03 | 2024-04-19 |
 | [The Elephant](https://open.spotify.com/track/6WbNIhdOsC0rngXTXm2cXv) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest part.1](https://open.spotify.com/album/3LlQxI5sqj7SGKwWGKtbMA) | 4:36 | 2024-03-08 |  |
 | [The Elephant](https://open.spotify.com/track/72rOtWVtQQtbXrEfLbMONZ) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest](https://open.spotify.com/album/1WjSq9kkrkKU1on2PT18Wh) | 4:36 | 2022-07-04 | 2022-12-04 |

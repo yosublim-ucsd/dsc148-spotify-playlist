@@ -72,7 +72,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 216874,
       "name": "10 Outta 10",
       "url": "https://open.spotify.com/track/6QKveURtqwxUSX7XUEbEXN"
@@ -30158,6 +30158,28 @@
       "duration_ms": 128223,
       "name": "Something In Your Eyes",
       "url": "https://open.spotify.com/track/5vr8JEu7dWxm6p1IXBGEbH"
+    },
+    {
+      "album": {
+        "name": "Something Real",
+        "url": "https://open.spotify.com/album/3H46xPl7qcJIeFy6yugMAm"
+      },
+      "artists": [
+        {
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226874,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/7aQj2ocqPu5LuoQIJmbbeu"
     },
     {
       "album": {

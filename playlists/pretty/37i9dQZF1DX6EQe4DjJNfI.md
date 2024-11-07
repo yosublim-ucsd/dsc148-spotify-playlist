@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Cryzin
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,989 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,025 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 39 | [Mais Um Pouco](https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh) | [Murilo Magalhães](https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A), [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Mais Um Pouco](https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs) | 3:05 |
 | 40 | [Sozinho](https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j) | [Tállia](https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj), [Klismman](https://open.spotify.com/artist/3jZdI7WRp6aZdMA6OgvVxJ) | [Sozinho](https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d) | 2:31 |
 | 41 | [Blusa da High](https://open.spotify.com/track/7b0W2ljnfWlIDhCTVxWJVZ) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Drew](https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV) | [Blusa da High](https://open.spotify.com/album/5uz1PqQfPIylWKvdomw4SG) | 2:40 |
-| 42 | [Hortelã](https://open.spotify.com/track/05t97ZnuDXGICqKvbJYjyd) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Hortelã](https://open.spotify.com/album/3IPqpPELZJMgd14mUehGug) | 2:35 |
-| 43 | [1001 Roteiros](https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV), [Black](https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2) | [1001 Roteiros](https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm) | 2:41 |
+| 42 | [1001 Roteiros](https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV), [Black](https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2) | [1001 Roteiros](https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm) | 2:41 |
+| 43 | [Hortelã](https://open.spotify.com/track/05t97ZnuDXGICqKvbJYjyd) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Hortelã](https://open.spotify.com/album/3IPqpPELZJMgd14mUehGug) | 2:35 |
 | 44 | [Daqui pra Frente \- Dread Session, Vol\. 1](https://open.spotify.com/track/439RsYapYgE3f29yZCrgnn) | [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Daqui pra Frente \- Dread Session, Vol\. 1](https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY) | 3:01 |
 | 45 | [Real \(Citando Djonga\)](https://open.spotify.com/track/04WuhfAZ2E2pOsT6MjfHOS) | [Eric](https://open.spotify.com/artist/2fcyt54Qa9MnroxsOJkSeT), [MofoRec](https://open.spotify.com/artist/68Qpumlcdj1323iyuotmLn) | [Real \(Citando Djonga\)](https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb) | 3:25 |
 | 46 | [perco o ar](https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Drew](https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV) | [perco o ar](https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z) | 3:24 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 56 | [Ventilador](https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM) | [Nagy](https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv) | [Ventilador](https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs) | 2:59 |
 | 57 | [ESCOLHAS](https://open.spotify.com/track/5l4yvhKkTcosuRuOaF5Kcx) | [VÉRTICE](https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm) | [ESCOLHAS](https://open.spotify.com/album/03pGiKAx5rT7nBELKTZ7Ot) | 3:41 |
 | 58 | [Novela](https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Novela](https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh) | 2:24 |
-| 59 | [Lingerie Branca](https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS) | [Motico Money](https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA) | [Lingerie Branca](https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z) | 3:59 |
-| 60 | [Sobrenome](https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT), [Dodoin](https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1) | [Sobrenome](https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7) | 2:14 |
+| 59 | [Sobrenome](https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT), [Dodoin](https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1) | [Sobrenome](https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7) | 2:14 |
+| 60 | [Lingerie Branca](https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS) | [Motico Money](https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA) | [Lingerie Branca](https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z) | 3:59 |
 | 61 | [Porto Seguro](https://open.spotify.com/track/1IIHlKoLG8gXpWLpV2lwu8) | [Caio G](https://open.spotify.com/artist/3V8qdGjoSZgAWAXVmyICQ5), [Netto Galdino](https://open.spotify.com/artist/6CzUN6an7YuDEfkHtJ1NmS) | [Porto Seguro](https://open.spotify.com/album/45hp0Mg2byL1M36ROGAzMJ) | 2:48 |
 | 62 | [Louco inconsequente](https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1) | [Kid Lovi](https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG) | [Louco inconsequente](https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J) | 3:18 |
 | 63 | [tô por você](https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc) | [NEM TUDO É AMOR](https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv) | 2:53 |

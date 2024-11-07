@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 84041,
+  "num_followers": 84198,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "What Do You Believe In?",
-        "url": "https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 190474,
-      "name": "What Do You Believe In?",
-      "url": "https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "USB",
         "url": "https://open.spotify.com/album/7ibCW271bXBi24a6YGfsDz"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 327508,
       "name": "ItsNotREEAALLLLLLLL",
       "url": "https://open.spotify.com/track/7ijuKZ7TRWKOprJTbTK0Q1"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "What Do You Believe In?",
+        "url": "https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 190474,
+      "name": "What Do You Believe In?",
+      "url": "https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "King of Sweden",
-        "url": "https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "King of Sweden",
-      "url": "https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/7rmPhckC8SMZBnA12dbAWz"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 200277,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/1tuAG0SRJUvRCUEU3O7c3j"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "King of Sweden",
+        "url": "https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "King of Sweden",
+      "url": "https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1071,26 +1071,18 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Gangsta",
-        "url": "https://open.spotify.com/album/0200qF0LcG1Sr2f9aVfdsG"
+        "name": "Cartwheels",
+        "url": "https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN"
       },
       "artists": [
         {
-          "name": "Free Nationals",
-          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
         }
       ],
-      "duration_ms": 194520,
-      "name": "Gangsta",
-      "url": "https://open.spotify.com/track/6KuAG2WahfdjpUm6ZU1y4v"
+      "duration_ms": 124013,
+      "name": "Cartwheels",
+      "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1115,18 +1107,26 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Cartwheels",
-        "url": "https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN"
+        "name": "Gangsta",
+        "url": "https://open.spotify.com/album/0200qF0LcG1Sr2f9aVfdsG"
       },
       "artists": [
         {
-          "name": "Soft Launch",
-          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 124013,
-      "name": "Cartwheels",
-      "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
+      "duration_ms": 194520,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/6KuAG2WahfdjpUm6ZU1y4v"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Prove It To You",
-      "url": "https://open.spotify.com/track/0w9eE1YhhHG4pTGK2eaWhs"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Nightmares",
         "url": "https://open.spotify.com/album/0O1cJ0KJdj78G0FKTG7bkG"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 136875,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/0y2dLd7mtSzqUVn13B1sa9"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Prove It To You",
+      "url": "https://open.spotify.com/track/0w9eE1YhhHG4pTGK2eaWhs"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Villains",
-        "url": "https://open.spotify.com/album/6P5bTg5CNgTGdECjcdUZfU"
-      },
-      "artists": [
-        {
-          "name": "Gino",
-          "url": "https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        }
-      ],
-      "duration_ms": 192685,
-      "name": "Villains",
-      "url": "https://open.spotify.com/track/3xFjz2vlzkyty4vUCs6HFo"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Wikidest DJ",
         "url": "https://open.spotify.com/album/0kbT9bsuLwT17rK9zp3Gzr"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 176205,
       "name": "Wikidest DJ",
       "url": "https://open.spotify.com/track/23Vzz30Kuo6mvtC08pTBX0"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Villains",
+        "url": "https://open.spotify.com/album/6P5bTg5CNgTGdECjcdUZfU"
+      },
+      "artists": [
+        {
+          "name": "Gino",
+          "url": "https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "duration_ms": 192685,
+      "name": "Villains",
+      "url": "https://open.spotify.com/track/3xFjz2vlzkyty4vUCs6HFo"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Roses Ether",
-        "url": "https://open.spotify.com/album/2otIbQUDCLNjKUM75j315q"
-      },
-      "artists": [
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 178032,
-      "name": "Roses Ether",
-      "url": "https://open.spotify.com/track/6Ih6oi6CkOfkFaKvcQacw6"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "DESI TRILL (Remix)",
         "url": "https://open.spotify.com/album/7GfuV0dxcEH9nXUg2rtDv4"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 160645,
       "name": "DESI TRILL (Remix)",
       "url": "https://open.spotify.com/track/0qMN3VcL0CiV369ck1IZph"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Roses Ether",
+        "url": "https://open.spotify.com/album/2otIbQUDCLNjKUM75j315q"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 178032,
+      "name": "Roses Ether",
+      "url": "https://open.spotify.com/track/6Ih6oi6CkOfkFaKvcQacw6"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/5CdmQs8HF79PNpjSLU4C4c"
+      },
+      "artists": [
+        {
+          "name": "Arka",
+          "url": "https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/61W3LCawqt9lqbuYHXivoy"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "Esc\u00e1ndalo",
         "url": "https://open.spotify.com/album/6Mp58UKdaVCgx0q2QzT3p4"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 151280,
       "name": "Esc\u00e1ndalo",
       "url": "https://open.spotify.com/track/5rZ4PCqytdmyY44GmUP04w"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/5CdmQs8HF79PNpjSLU4C4c"
-      },
-      "artists": [
-        {
-          "name": "Arka",
-          "url": "https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Soul",
-      "url": "https://open.spotify.com/track/61W3LCawqt9lqbuYHXivoy"
     },
     {
       "added_at": "2024-09-16 11:00:00",

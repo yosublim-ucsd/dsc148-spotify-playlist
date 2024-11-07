@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most viral tracks right now - Mexico.",
-  "num_followers": 216161,
+  "num_followers": 216167,
   "original_name": "Viral 50 - Mexico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lr2HyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lr7ZSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
+      "album": {
+        "name": "Tumbayork",
+        "url": "https://open.spotify.com/album/3Yvc0qZdCKDR3GIxXPLRSY"
+      },
+      "artists": [
+        {
+          "name": "Emipaiy",
+          "url": "https://open.spotify.com/artist/1aBZltZh7kyl4rUGSYRXLx"
+        }
+      ],
+      "duration_ms": 127824,
+      "name": "Tumbayork",
+      "url": "https://open.spotify.com/track/3Fxc8r8XAhIBNhXvPy2Ylj"
+    },
+    {
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "Tu Boda",
         "url": "https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA"
@@ -29,23 +45,7 @@
       "url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
-      "album": {
-        "name": "Tumbayork",
-        "url": "https://open.spotify.com/album/3Yvc0qZdCKDR3GIxXPLRSY"
-      },
-      "artists": [
-        {
-          "name": "Emipaiy",
-          "url": "https://open.spotify.com/artist/1aBZltZh7kyl4rUGSYRXLx"
-        }
-      ],
-      "duration_ms": 127824,
-      "name": "Tumbayork",
-      "url": "https://open.spotify.com/track/3Fxc8r8XAhIBNhXvPy2Ylj"
-    },
-    {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "En Otra Vida",
         "url": "https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "Robando",
         "url": "https://open.spotify.com/album/3THX56YH25ji2EdppRaPdd"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/5YLZf2p3TZc4R6sUYZTrGV"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "Lejos De La Ciudad",
         "url": "https://open.spotify.com/album/4JAk0mbWKQjrUATbfDjpRf"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/6ZPx4OfYVHv7FkPAF2Khbm"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "Idolos del Rock & Roll",
         "url": "https://open.spotify.com/album/7BI6FgfgfYaWaOZo6phWBC"
@@ -137,39 +137,23 @@
       "url": "https://open.spotify.com/track/6KDhsk7r8TaY4nPZskGd5p"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
-        "name": "Anita y los Peleles Bailan el Hanky Panky",
-        "url": "https://open.spotify.com/album/60x9ezMezZv59zB4ysxKFx"
+        "name": "Tacara",
+        "url": "https://open.spotify.com/album/7FefejvIH4Yn9AYAPYS7V9"
       },
       "artists": [
         {
-          "name": "Anita y los Peleles",
-          "url": "https://open.spotify.com/artist/4CcBL0FelHrO238mvIKJtk"
+          "name": "Gala Montes",
+          "url": "https://open.spotify.com/artist/0qcbuRzAu4q1oHX66qFlPJ"
         }
       ],
-      "duration_ms": 119225,
-      "name": "El Twist del Esqueleto",
-      "url": "https://open.spotify.com/track/6r3JeSUyr2wfsGFwftdd4t"
+      "duration_ms": 183256,
+      "name": "Tacara",
+      "url": "https://open.spotify.com/track/3SxhPl7QmokkFuhx0nyvMm"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
-      "album": {
-        "name": "Tumbas por Aqu\u00ed",
-        "url": "https://open.spotify.com/album/4b4HhNhq6emVsaq7dwujBh"
-      },
-      "artists": [
-        {
-          "name": "Adriana Ledesma Ross",
-          "url": "https://open.spotify.com/artist/0DUm614LecYd6EeeY3DD5o"
-        }
-      ],
-      "duration_ms": 151152,
-      "name": "Tumbas por Aqu\u00ed",
-      "url": "https://open.spotify.com/track/0MXtV4T61W9ljR0Kw4fIbZ"
-    },
-    {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "Mondo Zombie Boogaloo",
         "url": "https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2"
@@ -197,23 +181,7 @@
       "url": "https://open.spotify.com/track/45PmtkNbgCun4GPphHVzvi"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
-      "album": {
-        "name": "Tacara",
-        "url": "https://open.spotify.com/album/7FefejvIH4Yn9AYAPYS7V9"
-      },
-      "artists": [
-        {
-          "name": "Gala Montes",
-          "url": "https://open.spotify.com/artist/0qcbuRzAu4q1oHX66qFlPJ"
-        }
-      ],
-      "duration_ms": 183256,
-      "name": "Tacara",
-      "url": "https://open.spotify.com/track/3SxhPl7QmokkFuhx0nyvMm"
-    },
-    {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "La Llorona",
         "url": "https://open.spotify.com/album/4M7yln2ZtrETNYYp3bUDeK"
@@ -229,7 +197,55 @@
       "url": "https://open.spotify.com/track/6jx0vGHHRI7iOBkiXEdgXq"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
+      "album": {
+        "name": "Tumbas por Aqu\u00ed",
+        "url": "https://open.spotify.com/album/4b4HhNhq6emVsaq7dwujBh"
+      },
+      "artists": [
+        {
+          "name": "Adriana Ledesma Ross",
+          "url": "https://open.spotify.com/artist/0DUm614LecYd6EeeY3DD5o"
+        }
+      ],
+      "duration_ms": 151152,
+      "name": "Tumbas por Aqu\u00ed",
+      "url": "https://open.spotify.com/track/0MXtV4T61W9ljR0Kw4fIbZ"
+    },
+    {
+      "added_at": "2024-11-06 14:20:37",
+      "album": {
+        "name": "Tattoo (Spanish Version)",
+        "url": "https://open.spotify.com/album/5Sxoet3bM8FJeRK2J1us86"
+      },
+      "artists": [
+        {
+          "name": "Kevz",
+          "url": "https://open.spotify.com/artist/1bACqFgiKE47Y61x3I8wdg"
+        }
+      ],
+      "duration_ms": 152957,
+      "name": "Tattoo - Spanish Version",
+      "url": "https://open.spotify.com/track/6gP0cvDaIOwiCdaOd1bmcW"
+    },
+    {
+      "added_at": "2024-11-06 14:20:37",
+      "album": {
+        "name": "Anita y los Peleles Bailan el Hanky Panky",
+        "url": "https://open.spotify.com/album/60x9ezMezZv59zB4ysxKFx"
+      },
+      "artists": [
+        {
+          "name": "Anita y los Peleles",
+          "url": "https://open.spotify.com/artist/4CcBL0FelHrO238mvIKJtk"
+        }
+      ],
+      "duration_ms": 119225,
+      "name": "El Twist del Esqueleto",
+      "url": "https://open.spotify.com/track/6r3JeSUyr2wfsGFwftdd4t"
+    },
+    {
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "The Original Monster Mash",
         "url": "https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
@@ -265,23 +281,7 @@
       "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
-      "album": {
-        "name": "Canciones de D\u00eda de Muertos",
-        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
-      },
-      "artists": [
-        {
-          "name": "CARLOS AZCUAGA",
-          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "Calaverita de Az\u00facar",
-      "url": "https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun"
-    },
-    {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
         "url": "https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H"
@@ -297,7 +297,23 @@
       "url": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
+      "album": {
+        "name": "Canciones de D\u00eda de Muertos",
+        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
+      },
+      "artists": [
+        {
+          "name": "CARLOS AZCUAGA",
+          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "Calaverita de Az\u00facar",
+      "url": "https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun"
+    },
+    {
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "Hecha Pa' M\u00ed",
         "url": "https://open.spotify.com/album/3Z9jjBDBjKUkf7CXPm5aSF"
@@ -313,39 +329,7 @@
       "url": "https://open.spotify.com/track/1uGUbgZuO1kD1JZ0UeFupN"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
-      "album": {
-        "name": "Ronda Musical Infantil",
-        "url": "https://open.spotify.com/album/0sJyrcUs0wpott1tvJvNXj"
-      },
-      "artists": [
-        {
-          "name": "Felix Canales",
-          "url": "https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx"
-        }
-      ],
-      "duration_ms": 205220,
-      "name": "Las Calaveras Salen de Su Tumba",
-      "url": "https://open.spotify.com/track/4M8GWjD4XlSvfvBl6ndxoV"
-    },
-    {
-      "added_at": "2024-11-05 13:48:52",
-      "album": {
-        "name": "\"Por Siempre\" Lo Mejor de Amparo Ochoa (Remasterizada 2006)",
-        "url": "https://open.spotify.com/album/1H9VCendIQLE3QFcKDwQ5Q"
-      },
-      "artists": [
-        {
-          "name": "Amparo Ochoa",
-          "url": "https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8"
-        }
-      ],
-      "duration_ms": 310013,
-      "name": "La Calaca - Remasterizada 2006",
-      "url": "https://open.spotify.com/track/7hmDplqSftS7uQMxsEY9BU"
-    },
-    {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -365,7 +349,39 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
+      "album": {
+        "name": "\"Por Siempre\" Lo Mejor de Amparo Ochoa (Remasterizada 2006)",
+        "url": "https://open.spotify.com/album/1H9VCendIQLE3QFcKDwQ5Q"
+      },
+      "artists": [
+        {
+          "name": "Amparo Ochoa",
+          "url": "https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8"
+        }
+      ],
+      "duration_ms": 310013,
+      "name": "La Calaca - Remasterizada 2006",
+      "url": "https://open.spotify.com/track/7hmDplqSftS7uQMxsEY9BU"
+    },
+    {
+      "added_at": "2024-11-06 14:20:37",
+      "album": {
+        "name": "Ronda Musical Infantil",
+        "url": "https://open.spotify.com/album/0sJyrcUs0wpott1tvJvNXj"
+      },
+      "artists": [
+        {
+          "name": "Felix Canales",
+          "url": "https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx"
+        }
+      ],
+      "duration_ms": 205220,
+      "name": "Las Calaveras Salen de Su Tumba",
+      "url": "https://open.spotify.com/track/4M8GWjD4XlSvfvBl6ndxoV"
+    },
+    {
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "Veracruz Son y Huapango",
         "url": "https://open.spotify.com/album/7nrQ2LRqb5N0fFtW4rrPJD"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/4hM0H2SupXsTkcQnSchNz5"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4"
@@ -401,27 +417,7 @@
       "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
-      "album": {
-        "name": "Calaveritas",
-        "url": "https://open.spotify.com/album/5fpncon9GYSQJ9EdaoQXQN"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        },
-        {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6w2g4b1Tn0ltVEiO0D3PEM"
-        }
-      ],
-      "duration_ms": 260974,
-      "name": "Calaveritas",
-      "url": "https://open.spotify.com/track/1BmNqkmLmBqIU5ToPdbnnw"
-    },
-    {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "Abr\u00e1zame",
         "url": "https://open.spotify.com/album/2YZnqChmcKcsTS6tTg0fuL"
@@ -441,23 +437,7 @@
       "url": "https://open.spotify.com/track/5RvmmRCoZY1Yupl3PXgZm4"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2bzvRIU2dVDWb3J9khpkxo"
-      },
-      "artists": [
-        {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/6thXB4RmajS4oZPNiBAKy0"
-    },
-    {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
@@ -473,23 +453,43 @@
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
-        "name": "October Country (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5iKomMyesK7JZtbNIecTGX"
+        "name": "Calaveritas",
+        "url": "https://open.spotify.com/album/5RL8kn7xV8ivinDYDra4Uh"
       },
       "artists": [
         {
-          "name": "October Country",
-          "url": "https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9"
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        },
+        {
+          "name": "Celso Pi\u00f1a Arvizu",
+          "url": "https://open.spotify.com/artist/4UKzuqzO8CEbT4LueIsdIF"
         }
       ],
-      "duration_ms": 126840,
-      "name": "My Girlfriend Is a Witch",
-      "url": "https://open.spotify.com/track/39PWLJrvfBCrfe4NX9aGZD"
+      "duration_ms": 260974,
+      "name": "Calaveritas",
+      "url": "https://open.spotify.com/track/1rfOVVrDPHouBZhiTL3kzs"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
+    },
+    {
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "DURO",
         "url": "https://open.spotify.com/album/7s3uEJa4VwAiij9v3N0DMW"
@@ -513,7 +513,23 @@
       "url": "https://open.spotify.com/track/7D2pw1k24KdVVRkD2RzXoV"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
+      "album": {
+        "name": "AMERI",
+        "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 201052,
+      "name": "Barro",
+      "url": "https://open.spotify.com/track/131d6Ui0C7bsQPeprvawCy"
+    },
+    {
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "PRIMERA MUSA",
         "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
@@ -533,87 +549,23 @@
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
-        "name": "\u00a1Que Te Pasa!",
-        "url": "https://open.spotify.com/album/0foM1ZTpWCkcv8fkm52cUB"
+        "name": "October Country (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5iKomMyesK7JZtbNIecTGX"
       },
       "artists": [
         {
-          "name": "grupo linea sierre\u00f1a",
-          "url": "https://open.spotify.com/artist/5Ar9OdmLFyuloqjh25NIri"
+          "name": "October Country",
+          "url": "https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9"
         }
       ],
-      "duration_ms": 129127,
-      "name": "\u00a1Que Te Pasa!",
-      "url": "https://open.spotify.com/track/1mq4xn6qZbuIqJ1es363iH"
+      "duration_ms": 126840,
+      "name": "My Girlfriend Is a Witch",
+      "url": "https://open.spotify.com/track/39PWLJrvfBCrfe4NX9aGZD"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
-      "album": {
-        "name": "El Esqueleto",
-        "url": "https://open.spotify.com/album/0SY9BSzGpcohHMNKnXd5H8"
-      },
-      "artists": [
-        {
-          "name": "Miguel Angel",
-          "url": "https://open.spotify.com/artist/7b44hAQm65hOYcsiesm3zc"
-        }
-      ],
-      "duration_ms": 165227,
-      "name": "El Esqueleto",
-      "url": "https://open.spotify.com/track/3WLf5aW48LL1FFS4UrdthD"
-    },
-    {
-      "added_at": "2024-11-05 13:48:52",
-      "album": {
-        "name": "AMERI",
-        "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 201052,
-      "name": "Barro",
-      "url": "https://open.spotify.com/track/131d6Ui0C7bsQPeprvawCy"
-    },
-    {
-      "added_at": "2024-11-05 13:48:52",
-      "album": {
-        "name": "Coco (Banda Sonora Original en Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI"
-      },
-      "artists": [
-        {
-          "name": "Luis \u00c1ngel G\u00f3mez Jaramillo",
-          "url": "https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5"
-        }
-      ],
-      "duration_ms": 121670,
-      "name": "El Latido de mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5GqGavoD0DCHBcRxfRK7v1"
-    },
-    {
-      "added_at": "2024-11-05 13:48:52",
-      "album": {
-        "name": "Manuel Loco Valdes",
-        "url": "https://open.spotify.com/album/1UgZCihTRtUr7kTgK1sJBr"
-      },
-      "artists": [
-        {
-          "name": "Manuel Loco Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0jgf6PnmEhXnLqORB50vYk"
-        }
-      ],
-      "duration_ms": 143360,
-      "name": "Medico Brujo",
-      "url": "https://open.spotify.com/track/7z3MwI69jrhDrMZ1OG77jx"
-    },
-    {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "SI NO ES CONTIGO (REMIX)",
         "url": "https://open.spotify.com/album/6ilRhpB01gqO1lI9OtGmGj"
@@ -637,7 +589,91 @@
       "url": "https://open.spotify.com/track/4MAv7MqIlcaTBHGiUXIWiw"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
+      "album": {
+        "name": "INC\u00d3MODO",
+        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 153928,
+      "name": "DOS D\u00cdAS",
+      "url": "https://open.spotify.com/track/5lKFO0PrOC9jmOlPEdjHsL"
+    },
+    {
+      "added_at": "2024-11-06 14:20:37",
+      "album": {
+        "name": "\u00a1Que Te Pasa!",
+        "url": "https://open.spotify.com/album/0foM1ZTpWCkcv8fkm52cUB"
+      },
+      "artists": [
+        {
+          "name": "grupo linea sierre\u00f1a",
+          "url": "https://open.spotify.com/artist/5Ar9OdmLFyuloqjh25NIri"
+        }
+      ],
+      "duration_ms": 129127,
+      "name": "\u00a1Que Te Pasa!",
+      "url": "https://open.spotify.com/track/1mq4xn6qZbuIqJ1es363iH"
+    },
+    {
+      "added_at": "2024-11-06 14:20:37",
+      "album": {
+        "name": "Manuel Loco Valdes",
+        "url": "https://open.spotify.com/album/1UgZCihTRtUr7kTgK1sJBr"
+      },
+      "artists": [
+        {
+          "name": "Manuel Loco Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0jgf6PnmEhXnLqORB50vYk"
+        }
+      ],
+      "duration_ms": 143360,
+      "name": "Medico Brujo",
+      "url": "https://open.spotify.com/track/7z3MwI69jrhDrMZ1OG77jx"
+    },
+    {
+      "added_at": "2024-11-06 14:20:37",
+      "album": {
+        "name": "Coco (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI"
+      },
+      "artists": [
+        {
+          "name": "Luis \u00c1ngel G\u00f3mez Jaramillo",
+          "url": "https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5"
+        }
+      ],
+      "duration_ms": 121670,
+      "name": "El Latido de mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5GqGavoD0DCHBcRxfRK7v1"
+    },
+    {
+      "added_at": "2024-11-06 14:20:37",
+      "album": {
+        "name": "Que Sigan Llegando Las Pacas (Extended)",
+        "url": "https://open.spotify.com/album/0IeCqguWKSslODbwnrelhq"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 178336,
+      "name": "Morena Canela",
+      "url": "https://open.spotify.com/track/0NsGFMIo2aNbAkJu48ndaf"
+    },
+    {
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "Halloween (Original 2018 Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5CKWm3CJVrTSttgNyX90LM"
@@ -661,91 +697,23 @@
       "url": "https://open.spotify.com/track/6Z36wt7oo6xm2uGN00PnTq"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
-        "name": "INC\u00d3MODO",
-        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
+        "name": "El Esqueleto",
+        "url": "https://open.spotify.com/album/0SY9BSzGpcohHMNKnXd5H8"
       },
       "artists": [
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Miguel Angel",
+          "url": "https://open.spotify.com/artist/7b44hAQm65hOYcsiesm3zc"
         }
       ],
-      "duration_ms": 153928,
-      "name": "DOS D\u00cdAS",
-      "url": "https://open.spotify.com/track/5lKFO0PrOC9jmOlPEdjHsL"
+      "duration_ms": 165227,
+      "name": "El Esqueleto",
+      "url": "https://open.spotify.com/track/3WLf5aW48LL1FFS4UrdthD"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
-      "album": {
-        "name": "Un, dos, tres, por m\u00ed y por todos",
-        "url": "https://open.spotify.com/album/0erkJ4aigti7prmSnfxSEu"
-      },
-      "artists": [
-        {
-          "name": "Cantoalegre",
-          "url": "https://open.spotify.com/artist/4UKb01orqntSwUPAWNv668"
-        }
-      ],
-      "duration_ms": 93596,
-      "name": "Baile de los esqueletos",
-      "url": "https://open.spotify.com/track/3O1OsRHMbAMC3BEb9krqS8"
-    },
-    {
-      "added_at": "2024-11-05 13:48:52",
-      "album": {
-        "name": "Halloween Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
-      },
-      "artists": [
-        {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Halloween Theme - Main Title",
-      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
-    },
-    {
-      "added_at": "2024-11-05 13:48:52",
-      "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 284363,
-      "name": "Noid",
-      "url": "https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41"
-    },
-    {
-      "added_at": "2024-11-05 13:48:52",
-      "album": {
-        "name": "Goosebumps (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7vqZjtCd0D9jfk5WlZ95KD"
-      },
-      "artists": [
-        {
-          "name": "Jack Lenz",
-          "url": "https://open.spotify.com/artist/3LzSjgXJnvwHq4w9aN2uwA"
-        }
-      ],
-      "duration_ms": 64525,
-      "name": "Goosebumps Original Theme Song",
-      "url": "https://open.spotify.com/track/0gs6G0qcP6yXVBntg8PC3L"
-    },
-    {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "Rich Mafia Vol. 1",
         "url": "https://open.spotify.com/album/64esOhbm4ceNKRyjm4iQhj"
@@ -765,23 +733,23 @@
       "url": "https://open.spotify.com/track/1Swd8UbwQki9BK5zDFhflv"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
-        "name": "El Diablito Loco",
-        "url": "https://open.spotify.com/album/3IYh2snfaDTZY9GO0UKnWP"
+        "name": "Halloween Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
       },
       "artists": [
         {
-          "name": "Leda Moreno",
-          "url": "https://open.spotify.com/artist/5zwnyjAYKiyVoXPMtfdcXd"
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
         }
       ],
-      "duration_ms": 147906,
-      "name": "El Diablito Loco",
-      "url": "https://open.spotify.com/track/1VrjnASRwJ4MTHz5HtyGAq"
+      "duration_ms": 175333,
+      "name": "Halloween Theme - Main Title",
+      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "BA\u00d1O MAR\u00cdA",
         "url": "https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2"
@@ -805,7 +773,7 @@
       "url": "https://open.spotify.com/track/2wuZ3kg5ChBjRKqBYfJ9H7"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "INC\u00d3MODO",
         "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
@@ -821,39 +789,23 @@
       "url": "https://open.spotify.com/track/6X6m4xmdFcz31p1h7Qg68c"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
-        "name": "Somebody\u2019s Watching Me (Sped Up)",
-        "url": "https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT"
+        "name": "Goosebumps (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7vqZjtCd0D9jfk5WlZ95KD"
       },
       "artists": [
         {
-          "name": "Rockwell",
-          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+          "name": "Jack Lenz",
+          "url": "https://open.spotify.com/artist/3LzSjgXJnvwHq4w9aN2uwA"
         }
       ],
-      "duration_ms": 238786,
-      "name": "Somebody's Watching Me - Single Version",
-      "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
+      "duration_ms": 64525,
+      "name": "Goosebumps Original Theme Song",
+      "url": "https://open.spotify.com/track/0gs6G0qcP6yXVBntg8PC3L"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
-      "album": {
-        "name": "Que Sigan Llegando Las Pacas (Extended)",
-        "url": "https://open.spotify.com/album/0IeCqguWKSslODbwnrelhq"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 178336,
-      "name": "Morena Canela",
-      "url": "https://open.spotify.com/track/0NsGFMIo2aNbAkJu48ndaf"
-    },
-    {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "BA\u00d1O MAR\u00cdA",
         "url": "https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2"
@@ -877,7 +829,39 @@
       "url": "https://open.spotify.com/track/2Fi6RtngvStwsjskvwabVT"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
+      "album": {
+        "name": "Somebody\u2019s Watching Me (Sped Up)",
+        "url": "https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "duration_ms": 238786,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
+    },
+    {
+      "added_at": "2024-11-06 14:20:37",
+      "album": {
+        "name": "El Diablito Loco",
+        "url": "https://open.spotify.com/album/3IYh2snfaDTZY9GO0UKnWP"
+      },
+      "artists": [
+        {
+          "name": "Leda Moreno",
+          "url": "https://open.spotify.com/artist/5zwnyjAYKiyVoXPMtfdcXd"
+        }
+      ],
+      "duration_ms": 147906,
+      "name": "El Diablito Loco",
+      "url": "https://open.spotify.com/track/1VrjnASRwJ4MTHz5HtyGAq"
+    },
+    {
+      "added_at": "2024-11-06 14:20:37",
       "album": {
         "name": "Igual No Debo",
         "url": "https://open.spotify.com/album/39YHoq7K8WI7TZpCi4GFso"
@@ -893,20 +877,40 @@
       "url": "https://open.spotify.com/track/1xgEvJ6oPN3mTd99tY6RQ5"
     },
     {
-      "added_at": "2024-11-05 13:48:52",
+      "added_at": "2024-11-06 14:20:37",
       "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+        "name": "INC\u00d3MODO",
+        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 136627,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+      "duration_ms": 163031,
+      "name": "AY MAM\u00c1",
+      "url": "https://open.spotify.com/track/2lAUq68F2bt7Kc218n9FPp"
+    },
+    {
+      "added_at": "2024-11-06 14:20:37",
+      "album": {
+        "name": "Atento Aviso ... Rey Sin Reina",
+        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 150523,
+      "name": "Rey Sin Reina",
+      "url": "https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3"
     }
   ],
   "unique_name": "Viral 50 - Mexico",

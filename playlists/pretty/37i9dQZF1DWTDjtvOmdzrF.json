@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 556635,
+  "num_followers": 556658,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-11-04 04:15:32",
       "album": {
-        "name": "Terlintas",
-        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 235643,
-      "name": "Terlintas",
-      "url": "https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1"
-    },
-    {
-      "added_at": "2024-11-04 04:15:32",
-      "album": {
         "name": "Surat Cinta Untuk Starla",
         "url": "https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 308036,
       "name": "Surat Cinta Untuk Starla",
       "url": "https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310"
+    },
+    {
+      "added_at": "2024-11-04 04:15:32",
+      "album": {
+        "name": "Terlintas",
+        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 235643,
+      "name": "Terlintas",
+      "url": "https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1"
     },
     {
       "added_at": "2024-11-04 04:15:32",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-11-04 04:15:32",
       "album": {
-        "name": "Apa Mungkin (Demo Version)",
-        "url": "https://open.spotify.com/album/6tR9LzZ03VCSXMjhrzl1Jf"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Apa Mungkin - Demo Version",
-      "url": "https://open.spotify.com/track/5RveogdH4YRFlW2kdGT0vA"
-    },
-    {
-      "added_at": "2024-11-04 04:15:32",
-      "album": {
         "name": "Riuh",
         "url": "https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 240882,
       "name": "Resah",
       "url": "https://open.spotify.com/track/1k5vv2ood14aa5uBYWBlWh"
+    },
+    {
+      "added_at": "2024-11-04 04:15:32",
+      "album": {
+        "name": "Apa Mungkin (Demo Version)",
+        "url": "https://open.spotify.com/album/6tR9LzZ03VCSXMjhrzl1Jf"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Apa Mungkin - Demo Version",
+      "url": "https://open.spotify.com/track/5RveogdH4YRFlW2kdGT0vA"
     },
     {
       "added_at": "2024-11-04 04:15:32",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-11-04 04:15:32",
       "album": {
-        "name": "Melukis Senja",
-        "url": "https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn"
-      },
-      "artists": [
-        {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
-        }
-      ],
-      "duration_ms": 251119,
-      "name": "Melukis Senja",
-      "url": "https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA"
-    },
-    {
-      "added_at": "2024-11-04 04:15:32",
-      "album": {
         "name": "Tresno liyane",
         "url": "https://open.spotify.com/album/1HGbZYI4A31w3hBtXsQ3FE"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 290000,
       "name": "Tresno liyane",
       "url": "https://open.spotify.com/track/528jcoA4DKyxBAHlmCU8je"
+    },
+    {
+      "added_at": "2024-11-04 04:15:32",
+      "album": {
+        "name": "Melukis Senja",
+        "url": "https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "duration_ms": 251119,
+      "name": "Melukis Senja",
+      "url": "https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA"
     },
     {
       "added_at": "2024-11-04 04:15:32",
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
         }
       ],
-      "duration_ms": 306428,
-      "name": "Menuju Senja",
-      "url": "https://open.spotify.com/track/6ctfCjsLBJfadmBH41SFkl"
+      "duration_ms": 267000,
+      "name": "Berdua Saja",
+      "url": "https://open.spotify.com/track/7tZ69fC235bauF9Dyxk8Ps"
     },
     {
       "added_at": "2024-11-04 04:15:32",
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Berdua Saja",
-      "url": "https://open.spotify.com/track/7tZ69fC235bauF9Dyxk8Ps"
+      "duration_ms": 306428,
+      "name": "Menuju Senja",
+      "url": "https://open.spotify.com/track/6ctfCjsLBJfadmBH41SFkl"
     },
     {
       "added_at": "2024-11-04 04:15:32",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-11-04 04:15:32",
       "album": {
-        "name": "Lihatlah Lebih Dekat",
-        "url": "https://open.spotify.com/album/0CldqsbNN45kEsKJl3PP4k"
-      },
-      "artists": [
-        {
-          "name": "Yura Yunita",
-          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
-        }
-      ],
-      "duration_ms": 264738,
-      "name": "Lihatlah Lebih Dekat",
-      "url": "https://open.spotify.com/track/25A5aUq56zPyiw583hOb5z"
-    },
-    {
-      "added_at": "2024-11-04 04:15:32",
-      "album": {
         "name": "Sekilas Info",
         "url": "https://open.spotify.com/album/4TwZfsV3Rrj1XMbqMkTfxh"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 350626,
       "name": "Lagunya Begini, Nadanya Begitu",
       "url": "https://open.spotify.com/track/4YVBE2CDqxtNRGTPEMOQet"
+    },
+    {
+      "added_at": "2024-11-04 04:15:32",
+      "album": {
+        "name": "Lihatlah Lebih Dekat",
+        "url": "https://open.spotify.com/album/0CldqsbNN45kEsKJl3PP4k"
+      },
+      "artists": [
+        {
+          "name": "Yura Yunita",
+          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
+        }
+      ],
+      "duration_ms": 264738,
+      "name": "Lihatlah Lebih Dekat",
+      "url": "https://open.spotify.com/track/25A5aUq56zPyiw583hOb5z"
     }
   ],
   "unique_name": "Kopikustik",

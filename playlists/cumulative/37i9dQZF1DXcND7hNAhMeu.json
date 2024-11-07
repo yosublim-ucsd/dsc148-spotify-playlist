@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Kap\u0131l Pe\u015fime",
+        "url": "https://open.spotify.com/album/554EsqWUf1JqFfyQAGncud"
+      },
+      "artists": [
+        {
+          "name": "Lotusx",
+          "url": "https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163278,
+      "name": "Kap\u0131l Pe\u015fime",
+      "url": "https://open.spotify.com/track/2f1MbASESNvydeOfuVhNKc"
+    },
+    {
+      "album": {
         "name": "Kara Kedi",
         "url": "https://open.spotify.com/album/3y98IhwFFEpQUkBgvAL17A"
       },
@@ -964,7 +982,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 141913,
       "name": "Sen ve Ben",
       "url": "https://open.spotify.com/track/10TKNOLu0bNFmOSTOJw2fq"

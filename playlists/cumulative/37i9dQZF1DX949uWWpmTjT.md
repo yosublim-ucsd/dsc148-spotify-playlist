@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-1,101 songs - 2 day 22 hr 56 min
+1,102 songs - 2 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,6 +592,7 @@
 | [Mellow Land](https://open.spotify.com/track/4wNAfrYmUeY4ZDapjxYGiZ) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Mellow Land](https://open.spotify.com/album/7v2P7GKG4LZ83jbFreDMqY) | 3:36 | 2023-06-15 | 2024-02-04 |
 | [Mellow Moments](https://open.spotify.com/track/3YGVTfSxTCuDykWrENqmGp) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Mellow Moments](https://open.spotify.com/album/1ewVy7oBv5CLUM7htj4oFk) | 3:08 | 2023-04-27 |  |
 | [Melody](https://open.spotify.com/track/7Djo7DXnbmp5MBsWPr4go0) | [Tom Oren](https://open.spotify.com/artist/4rWD6FNjhXrLX6qoAlTbyx) | [Melody](https://open.spotify.com/album/5VLQ2inXkEkxBAt5Eul1Hp) | 3:54 | 2021-12-03 | 2024-02-06 |
+| [Memories in Motion](https://open.spotify.com/track/7EEmq8RMAdBsZRY6uLBqS8) | [The Grace Smith Gang](https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv) | [Memories in Motion](https://open.spotify.com/album/4GxLMPI1EoiD08UGLBBFAZ) | 3:42 | 2024-11-05 |  |
 | [Memories Of Her Music](https://open.spotify.com/track/11Ya486KvEdIaYgsT8cwsw) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Memories Of Her Music](https://open.spotify.com/album/0ae4cJFhCtFf2ZSO4UMewV) | 3:33 | 2023-02-02 |  |
 | [Memories of Yesterday](https://open.spotify.com/track/6Ccr8bF355Uab89QUH1OPY) | [Rob Barron](https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd) | [Memories of Yesterday](https://open.spotify.com/album/3IhcB4W5FZW4bAW9Vhp7Uj) | 5:27 | 2023-06-15 | 2024-02-05 |
 | [Merry Monday](https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday](https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y) | 3:10 | 2022-12-08 |  |
@@ -922,7 +923,7 @@
 | [The Light Over Chesapeake Bay](https://open.spotify.com/track/1O8ViqXWjVY5e6vOuR2xd8) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [The Light Over Chesapeake Bay](https://open.spotify.com/album/7BB0MZIPtkhhHUMIVWYBeh) | 4:44 | 2023-06-15 | 2024-03-13 |
 | [The Lights](https://open.spotify.com/track/2UmLEYGqKbIjahx7v1EFIa) | [Anthony Hide Trio](https://open.spotify.com/artist/0vF49H73xGuKS1vRSNN3av) | [The Lights](https://open.spotify.com/album/51rjVgDAsjL0BFbhnbo7a4) | 3:35 | 2024-03-22 |  |
 | [The Lights of Macau](https://open.spotify.com/track/2ftsIBsirQonhMxCHsn52l) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [The Lights of Macau](https://open.spotify.com/album/1GwNlrl01klcC23K1fTWHR) | 2:56 | 2024-04-10 |  |
-| [The Man I Love](https://open.spotify.com/track/0x7AuKGrSgX7rtBeTzOFo5) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Enzo Pietropaoli](https://open.spotify.com/artist/27FjuGipZTfChHi78XQWzZ), [Francesco Petreni](https://open.spotify.com/artist/4yCUj0eTsdTS2x64VaPLi5) | [Suite for Siena](https://open.spotify.com/album/6wIv7o5ju9r6mZU9qDnchx) | 6:27 | 2024-01-26 | 2024-03-10 |
+| [The Man I Love](https://open.spotify.com/track/0x7AuKGrSgX7rtBeTzOFo5) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Enzo Pietropaoli](https://open.spotify.com/artist/27FjuGipZTfChHi78XQWzZ), [Francesco Petreni](https://open.spotify.com/artist/4yCUj0eTsdTS2x64VaPLi5) | [Suite for Siena](https://open.spotify.com/album/6wIv7o5ju9r6mZU9qDnchx) | 6:27 | 2024-01-26 |  |
 | [The Meadows](https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [The Meadows](https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6) | 3:15 | 2023-02-16 |  |
 | [The Midnight Sun Never Sets](https://open.spotify.com/track/4uyCtvsYBPz8nE7yA5sbnl) | [Webb Trio](https://open.spotify.com/artist/2sCB8fxXchR8s1mnHghn6y) | [The Midnight Sun Never Sets](https://open.spotify.com/album/19ThYZTl9MmtvEvqSGfv3h) | 3:59 | 2024-05-10 |  |
 | [The Molly Pitchers](https://open.spotify.com/track/1Ay5Hj5kXH5TUWzAJF1epY) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [The Molly Pitchers](https://open.spotify.com/album/6Ey92khwHvKwIyzRC87n38) | 2:36 | 2023-02-23 |  |
@@ -971,7 +972,7 @@
 | [Through The Raindrops](https://open.spotify.com/track/1w4KVyPxw91ce1Fut6e5DI) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Through The Raindrops](https://open.spotify.com/album/3GnhjFhG9GtAXUkxwxYGNG) | 3:43 | 2023-06-01 |  |
 | [Throughout](https://open.spotify.com/track/3CzfCEu7xH7dDDD1MreOz0) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [Throughout](https://open.spotify.com/album/0vLAIDSbyeYbuaKPkaIDUm) | 5:24 | 2023-11-24 | 2024-02-05 |
 | [Thursday Afternoon](https://open.spotify.com/track/0OxIW2YPKXFNkskaZfNFk5) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Thursday Afternoon](https://open.spotify.com/album/7mLrCwcnBKZgY7YcedbkW1) | 3:18 | 2024-05-10 |  |
-| [Tideaway](https://open.spotify.com/track/7vffwkV7miOu7Sxz75pSuY) | [Emergence Quartet](https://open.spotify.com/artist/0VzjGHBEq1AjqXabKQIRUm) | [Forest Green](https://open.spotify.com/album/7plhGaXJdEwRsJkBr15KIb) | 3:29 | 2023-09-29 |  |
+| [Tideaway](https://open.spotify.com/track/7vffwkV7miOu7Sxz75pSuY) | [Emergence Quartet](https://open.spotify.com/artist/0VzjGHBEq1AjqXabKQIRUm) | [Forest Green](https://open.spotify.com/album/7plhGaXJdEwRsJkBr15KIb) | 3:29 | 2023-09-29 | 2024-11-07 |
 | [Till There Was You](https://open.spotify.com/track/3FpMFIImpOZfAXQjsOBmkh) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Till There Was You](https://open.spotify.com/album/0ab5U3SnyooRTgP2uFXejL) | 2:35 | 2023-08-10 |  |
 | [Time After Time](https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt) | [Urban Jazz Junction](https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd) | [Time After Time](https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6) | 3:20 | 2024-02-02 |  |
 | [Time For Us All](https://open.spotify.com/track/3qkps5sd1PZ16qddlIiA28) | [Shay Walsh](https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N) | [Time For Us All](https://open.spotify.com/album/1vDWKR0MtOjAGZkNLxU1IV) | 3:17 | 2023-08-10 |  |
@@ -984,7 +985,7 @@
 | [To the Moon and Back](https://open.spotify.com/track/1kbVkvLiWNDF7J4zMPtwv7) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [To the Moon and Back](https://open.spotify.com/album/4FjAzBoqC16rVfrMgEFujB) | 2:39 | 2023-02-16 |  |
 | [To the Moon and Back](https://open.spotify.com/track/5SavKywZ8Mzwb0PppxJf9E) | [Nicholas Fischer](https://open.spotify.com/artist/23xwLdy4T9jEB9igNfXBIb) | [To the Moon and Back](https://open.spotify.com/album/35ijXUqgREKtH2X21SsHwN) | 3:27 | 2024-03-22 |  |
 | [To the Place I Once Knew](https://open.spotify.com/track/6fXetLQlQZflyUCkK41EJs) | [Basinettes](https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ) | [To the Place I Once Knew](https://open.spotify.com/album/6n0zSi5tLfnjylSuZeyh28) | 2:50 | 2024-02-23 |  |
-| [Too Late Now](https://open.spotify.com/track/5MSV42dMBJZ21P8BxLCxum) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Notes From New York](https://open.spotify.com/album/1ljvVXm0WO7HVvc64AESd5) | 8:54 | 2021-12-03 |  |
+| [Too Late Now](https://open.spotify.com/track/5MSV42dMBJZ21P8BxLCxum) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Notes From New York](https://open.spotify.com/album/1ljvVXm0WO7HVvc64AESd5) | 8:54 | 2021-12-03 | 2024-11-07 |
 | [Too Young To Go Steady](https://open.spotify.com/track/23yV324zCQ7eARFz6qZxxt) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Too Young To Go Steady](https://open.spotify.com/album/2sba5NbOxg0eaGQGXNgjTh) | 2:26 | 2023-04-14 |  |
 | [Torresdale](https://open.spotify.com/track/2K8Q1GWnm5hmK9J0Af64J1) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Torresdale](https://open.spotify.com/album/5BNKfCWraYs5eJIOW6PmiE) | 3:54 | 2024-04-10 |  |
 | [Touch the Rain](https://open.spotify.com/track/3GfhoIHnXnpJpdkcIlbYMW) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Touch the Rain](https://open.spotify.com/album/2F22CZYdMUPlJewidsKPi7) | 3:41 | 2024-02-23 |  |

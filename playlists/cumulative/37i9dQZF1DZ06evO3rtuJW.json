@@ -784,7 +784,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 183529,
       "name": "Equilibrium (with BabyTron & G Herbo)",
       "url": "https://open.spotify.com/track/3ZrobdWN5kvgpPlwpzCvTt"
@@ -3068,6 +3068,28 @@
       "duration_ms": 155773,
       "name": "Up Next 3",
       "url": "https://open.spotify.com/track/2uCncSbMLOMF6rlA2ThdGO"
+    },
+    {
+      "album": {
+        "name": "Vegeta",
+        "url": "https://open.spotify.com/album/4UWA4i4rWJZgNwNhJpyQNE"
+      },
+      "artists": [
+        {
+          "name": "M Row",
+          "url": "https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127406,
+      "name": "Vegeta",
+      "url": "https://open.spotify.com/track/2f8ySocT3A14p39nM0UvyP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to women at full volume\. Cover: Larissa Lambert
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,662 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,667 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 64 | [Fruition \(feat\. Minty\)](https://open.spotify.com/track/02XOUswLfdEAm7qaDljKt9) | [Barkaa](https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr), [MINTY](https://open.spotify.com/artist/3YMnVKWOJZshs8ulP06gVu) | [Big Tidda](https://open.spotify.com/album/5RtZSqc8hYnrzhhq0wMKhI) | 3:13 |
 | 65 | [Gasoline](https://open.spotify.com/track/6IDLNQc4S4GvXssvZz9BVI) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [Gasoline](https://open.spotify.com/album/1SZOOXspz9RCwXmYHtAKMx) | 4:05 |
 | 66 | [WHY DO YOU HATE ME?](https://open.spotify.com/track/4zuEIiREfhd0nWrWKUkwmz) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [WHY DO YOU HATE ME?](https://open.spotify.com/album/1JUucwGCSxaYw87tnPXtSy) | 2:12 |
-| 67 | [Bleed But Never Die](https://open.spotify.com/track/1ZTV0DR29Kw0ImAHnIHe5W) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [Bleed But Never Die](https://open.spotify.com/album/625mKCJ7AWHexgVGAbGYk6) | 2:52 |
+| 67 | [BLEED BUT NEVER DIE](https://open.spotify.com/track/1ZTV0DR29Kw0ImAHnIHe5W) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [BLEED BUT NEVER DIE](https://open.spotify.com/album/625mKCJ7AWHexgVGAbGYk6) | 2:52 |
 | 68 | [We Be Killing it](https://open.spotify.com/track/220vekezDsEdQz8PZrmfCn) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Safar](https://open.spotify.com/album/1XknSuKMvGyfUWEf1TrrsO) | 2:45 |
 | 69 | [A Complicated Truth](https://open.spotify.com/track/7liP5U5gYOIb1yjjpP30dZ) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [A Complicated Truth](https://open.spotify.com/album/3m7GBpcTbTX4Oamc6oeHsj) | 5:05 |
 | 70 | [Goner](https://open.spotify.com/track/2i9roYw0YsShhe1BBSGzxA) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Real Life](https://open.spotify.com/album/6aFmpWv1BgzBpJ358C86zc) | 3:11 |

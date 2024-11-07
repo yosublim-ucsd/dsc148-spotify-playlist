@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "Auld Lang Syne",
+        "url": "https://open.spotify.com/album/76QTcSq6gmc4VnilZLoBvQ"
+      },
+      "artists": [
+        {
+          "name": "Dieter Huber",
+          "url": "https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110956,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/17gGsDRMXtLr0At51RMSMa"
+    },
+    {
+      "album": {
         "name": "Holiday Guitar - The Christmas Song",
         "url": "https://open.spotify.com/album/2sWZwYz3Wn48pEwHcUOW2K"
       },
@@ -625,6 +643,24 @@
     },
     {
       "album": {
+        "name": "Underneath the Holly\u2019s Glow (Acoustic Guitar)",
+        "url": "https://open.spotify.com/album/1XmYuCkBCRH46uLCarDdUF"
+      },
+      "artists": [
+        {
+          "name": "Thomas McLaughlin",
+          "url": "https://open.spotify.com/artist/1Qh7yyJd7zVC83RQ8DIS1u"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Frosty The Snowman - Acoustic Guitar",
+      "url": "https://open.spotify.com/track/06h4QVTvmFkOYImjx02cLg"
+    },
+    {
+      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3jCdodm7JBGES6ztXNXnEk"
       },
@@ -694,6 +730,24 @@
       "duration_ms": 93551,
       "name": "Good Christian Men, Rejoice",
       "url": "https://open.spotify.com/track/2LRzuinretZqxhD3wkvOp9"
+    },
+    {
+      "album": {
+        "name": "Good King Wenceslas",
+        "url": "https://open.spotify.com/album/0UhTOaMeQH5YVujEX2urR4"
+      },
+      "artists": [
+        {
+          "name": "Cash Norman",
+          "url": "https://open.spotify.com/artist/6LdB2jzMia11iN9OiEC8Qv"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153124,
+      "name": "Good King Wenceslas",
+      "url": "https://open.spotify.com/track/3MaQ4eSMs8A8SK8vXwqVLt"
     },
     {
       "album": {
@@ -784,6 +838,24 @@
       "duration_ms": 134918,
       "name": "Hark! The Angels Sing",
       "url": "https://open.spotify.com/track/6JrtbTlRGhJN06sQseKaJU"
+    },
+    {
+      "album": {
+        "name": "Hark! The Herald Angels Sing",
+        "url": "https://open.spotify.com/album/7MRGci3cNYFt4wtWRT3vAw"
+      },
+      "artists": [
+        {
+          "name": "Tones From Samwell",
+          "url": "https://open.spotify.com/artist/6Iz6MEdFyo1ggJmBoPXaKD"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153791,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/1gCzxh4HIZIIG9sM7pDemN"
     },
     {
       "album": {
@@ -1237,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Home For The Holidays (Acoustic Guitar)",
+        "url": "https://open.spotify.com/album/0FsvvymDjPfsKaDNvmYVQk"
+      },
+      "artists": [
+        {
+          "name": "Merry Pines",
+          "url": "https://open.spotify.com/artist/5R2MLk0AVIoRCxZ6JvamzW"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203365,
+      "name": "Joy To The World - Acoustic Guitar",
+      "url": "https://open.spotify.com/track/6SKzR8spoKFfgeNPNcOLxe"
+    },
+    {
+      "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/7c8HuqoBKlSFFIDhJS1ehD"
       },
@@ -1407,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "Mistletoe and Holly",
+        "url": "https://open.spotify.com/album/3pTpmaTiQ2PBTtBg39AOyG"
+      },
+      "artists": [
+        {
+          "name": "Armand Beck",
+          "url": "https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106962,
+      "name": "Mistletoe and Holly",
+      "url": "https://open.spotify.com/track/5ha8skrOnyxBU6Uf2nkVqh"
+    },
+    {
+      "album": {
         "name": "My Christmas Tree",
         "url": "https://open.spotify.com/album/3KWxsOhFfc59PpkRbdYYiY"
       },
@@ -1569,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/6f7mVDqYRK8nAUF7qhaPDT"
+      },
+      "artists": [
+        {
+          "name": "Malik Ramirez",
+          "url": "https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135315,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/2rvx9qwjwMWuMWvESqawdd"
+    },
+    {
+      "album": {
         "name": "O Holy Night (Guitar)",
         "url": "https://open.spotify.com/album/01GvSNKgaQ9x2hJLV9tA48"
       },
@@ -1602,6 +1728,24 @@
       "duration_ms": 125847,
       "name": "O Little Town Of Betlehem",
       "url": "https://open.spotify.com/track/1gheU3qwojggarqd8EykOv"
+    },
+    {
+      "album": {
+        "name": "Oh Christmas Tree",
+        "url": "https://open.spotify.com/album/3YlVYVVYDgVSr3GxGzvs50"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102150,
+      "name": "Oh Christmas Tree",
+      "url": "https://open.spotify.com/track/74tw0bOTkQxx8VcUcEz9ec"
     },
     {
       "album": {
@@ -1692,6 +1836,24 @@
       "duration_ms": 91090,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/0RLU4TvqviwS2f1KkU34DK"
+    },
+    {
+      "album": {
+        "name": "Rockin' Around The Christmas Tree (Acoustic Guitar)",
+        "url": "https://open.spotify.com/album/338Xrr0xz8becYpUOZM1bm"
+      },
+      "artists": [
+        {
+          "name": "Anders Roy",
+          "url": "https://open.spotify.com/artist/0GLWOkUqKDMF6foWDMzOy0"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180882,
+      "name": "Rockin' Around The Christmas Tree - Acoustic Guitar",
+      "url": "https://open.spotify.com/track/5BRPS39y0IsB5ViInBUh0K"
     },
     {
       "album": {
@@ -2032,6 +2194,24 @@
       "duration_ms": 78698,
       "name": "We Wish You a Merry Christmas",
       "url": "https://open.spotify.com/track/6Mb7k64S5fykoR1KGzUnHk"
+    },
+    {
+      "album": {
+        "name": "We Wish You a Merry Christmas",
+        "url": "https://open.spotify.com/album/6mBake5QclVU9h2fy5mo82"
+      },
+      "artists": [
+        {
+          "name": "Steve Harris",
+          "url": "https://open.spotify.com/artist/6O4Mp6UzqdDpXSVA3tUHTK"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95131,
+      "name": "We Wish You a Merry Christmas",
+      "url": "https://open.spotify.com/track/7wY1Zp4zKzvTn8zQlbtxHA"
     },
     {
       "album": {

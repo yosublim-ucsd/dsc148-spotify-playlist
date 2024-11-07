@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 215384,
       "name": "Absence (\u0e0a\u0e48\u0e2d\u0e07\u0e27\u0e48\u0e32\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08)",
       "url": "https://open.spotify.com/track/5z6QCQ55sTrpQnzlqD4s61"
@@ -8736,6 +8736,24 @@
       "duration_ms": 252863,
       "name": "\u0e2d\u0e4b\u0e2d\u0e04\u0e48\u0e30",
       "url": "https://open.spotify.com/track/1XlaKSyICVO45By6Gf1CjM"
+    },
+    {
+      "album": {
+        "name": "\u0e2e\u0e35\u0e25\u0e43\u0e08 (Here For You)",
+        "url": "https://open.spotify.com/album/2LvIsQRWHQOPjKUyWIPh1p"
+      },
+      "artists": [
+        {
+          "name": "Butterbear",
+          "url": "https://open.spotify.com/artist/7bDJAhi2Egiu9bGQq91Qkr"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182045,
+      "name": "\u0e2e\u0e35\u0e25\u0e43\u0e08 (Here For You)",
+      "url": "https://open.spotify.com/track/2jMxARZO1H1CNDyApCpwNr"
     },
     {
       "album": {

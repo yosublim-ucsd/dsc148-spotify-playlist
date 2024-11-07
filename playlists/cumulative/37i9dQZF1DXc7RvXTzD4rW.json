@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover:\u30ec\u30f3 (CV:\u6960\u6728\u3068\u3082\u308a)",
+  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover:\u7acb\u82b1\u65e5\u83dc",
   "name": "\u58f0\u512a\u3001\u6b4c\u3046 -Sing Like Talking-",
   "tracks": [
     {
@@ -975,6 +975,24 @@
     },
     {
       "album": {
+        "name": "Determination",
+        "url": "https://open.spotify.com/album/2AxafAVGNbpEGIm067JQUt"
+      },
+      "artists": [
+        {
+          "name": "\u524d\u5cf6\u4e9c\u7f8e",
+          "url": "https://open.spotify.com/artist/61aT3A72eeItBBYdH9kIUP"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243903,
+      "name": "Determination",
+      "url": "https://open.spotify.com/track/7A4KgJUEPYStTnP5dDIVjv"
+    },
+    {
+      "album": {
         "name": "Dgaf (S-quad)",
         "url": "https://open.spotify.com/album/25GeWfdU4YzEVh9IiedLSt"
       },
@@ -1404,7 +1422,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 236833,
       "name": "Flowery",
       "url": "https://open.spotify.com/track/4KluGZwtvUtcSP1fYOSsfd"
@@ -1754,7 +1772,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 229506,
       "name": "Growing Up",
       "url": "https://open.spotify.com/track/64q5oxmMOMalIqPGII5z4N"
@@ -2524,7 +2542,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 256746,
       "name": "KOUTOU TIGER",
       "url": "https://open.spotify.com/track/26DFsek6vRwqnEYgB4wxjO"
@@ -3656,6 +3674,28 @@
     {
       "album": {
         "name": "ROCK ME KISS ME (feat. MOTSU)",
+        "url": "https://open.spotify.com/album/6iNWWaLZ2hzE32Q6pz9v73"
+      },
+      "artists": [
+        {
+          "name": "Yu Serizawa",
+          "url": "https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP"
+        },
+        {
+          "name": "motsu",
+          "url": "https://open.spotify.com/artist/0pZo9IfX38NN78vI3ru3Lk"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235266,
+      "name": "ROCK ME KISS ME - feat. MOTSU",
+      "url": "https://open.spotify.com/track/05c8r0XCGanGXhWkBwd6O7"
+    },
+    {
+      "album": {
+        "name": "ROCK ME KISS ME (feat. MOTSU)",
         "url": "https://open.spotify.com/album/7vuwwNArX7RXXYbzNDawt0"
       },
       "artists": [
@@ -3670,7 +3710,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 235266,
       "name": "ROCK ME KISS ME - feat. MOTSU",
       "url": "https://open.spotify.com/track/35GWJ7WAeSsMHDDpFvJYYK"
@@ -4644,7 +4684,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 228080,
       "name": "UNION",
       "url": "https://open.spotify.com/track/1ir9EBPJqpMPAdXFQrhBgo"
@@ -5019,6 +5059,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3093\u305f\u306a\u3093\u3066\u3002 - EP",
+        "url": "https://open.spotify.com/album/0HYREs94xuW0BhUMyIg9yd"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u9053\u3042\u304b\u306d(CV\uff1a\u65e5\u9ad9\u306e\u308a\u5b50)",
+          "url": "https://open.spotify.com/artist/1p40i7hBwc7MT97FezFckF"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242266,
+      "name": "\u3042\u3093\u305f\u306a\u3093\u3066\u3002",
+      "url": "https://open.spotify.com/track/3CHSoTSNPArL4vm8UW79Yg"
+    },
+    {
+      "album": {
         "name": "\u3042\u3093\u306a\u306b\u4e00\u7dd2\u3060\u3063\u305f\u306e\u306b - from CrosSing",
         "url": "https://open.spotify.com/album/2uFH0ZOodY4NJ7iqOs5CQW"
       },
@@ -5160,7 +5218,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 187506,
       "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002 - from CrosSing",
       "url": "https://open.spotify.com/track/08Fm1W9xau49K2xotaMYsx"
@@ -5254,6 +5312,42 @@
       "duration_ms": 283111,
       "name": "\u306f\u3058\u3081\u3061\u307e\u3063\u305f\u3093\u3060",
       "url": "https://open.spotify.com/track/08rwyzt6FhIMuHQMQrLE88"
+    },
+    {
+      "album": {
+        "name": "\u306f\u3064\u3053\u3044 - from CrosSing",
+        "url": "https://open.spotify.com/album/5SWIdeEeTt8AxOuXKCWkbp"
+      },
+      "artists": [
+        {
+          "name": "Ayana Taketatsu",
+          "url": "https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313720,
+      "name": "\u306f\u3064\u3053\u3044 - from CrosSing",
+      "url": "https://open.spotify.com/track/5TcpYosZs9TVEKshXMrAgq"
+    },
+    {
+      "album": {
+        "name": "\u3070\u3063\u304b\u3060\u306a",
+        "url": "https://open.spotify.com/album/253UZn35MBNSpTGIcInLkd"
+      },
+      "artists": [
+        {
+          "name": "\u76f4\u7530\u59eb\u5948",
+          "url": "https://open.spotify.com/artist/7yVbYbyIiTFWEb6gOBUFES"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289266,
+      "name": "\u3070\u3063\u304b\u3060\u306a",
+      "url": "https://open.spotify.com/track/7H4N77wXKPHIujGgTgiIDs"
     },
     {
       "album": {
@@ -5650,7 +5744,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 288653,
       "name": "\u30ab\u30ca\u30bf\u30dc\u30b7",
       "url": "https://open.spotify.com/track/26QB6xIyqbtwq7FxR8dTJc"
@@ -5820,6 +5914,24 @@
       "duration_ms": 232301,
       "name": "\u30b3\u30b3\u30ed\u30c8\u30e9\u30d9\u30eb",
       "url": "https://open.spotify.com/track/0DOVx6G53HGJ1ZduLJUxg0"
+    },
+    {
+      "album": {
+        "name": "Miho Okasaki 2nd LIVE 2024 \uff5e\u30cf\u30c3\u30d4\u30fc\u30e1\u30e2\u30ea\u30fc\uff5e",
+        "url": "https://open.spotify.com/album/6r8mWYyaercHdyMSRBwhmp"
+      },
+      "artists": [
+        {
+          "name": "Miho Okasaki",
+          "url": "https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232066,
+      "name": "\u30b3\u30b3\u30ed\u30c8\u30e9\u30d9\u30eb \u30cf\u30c3\u30d4\u30fc\u30e1\u30e2\u30ea\u30fcver.",
+      "url": "https://open.spotify.com/track/1wSbQ3Q5HuH8r1hl3HYELn"
     },
     {
       "album": {
@@ -6385,6 +6497,24 @@
     },
     {
       "album": {
+        "name": "\u30d8\u30eb\u30d7!!",
+        "url": "https://open.spotify.com/album/0HDj4pRVrijU7W7mcr3RmJ"
+      },
+      "artists": [
+        {
+          "name": "\u5185\u7530\u5f69",
+          "url": "https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235013,
+      "name": "\u30d8\u30eb\u30d7!!",
+      "url": "https://open.spotify.com/track/4KZL802dXoQYrAVHSkif7l"
+    },
+    {
+      "album": {
         "name": "\u30db\u30db\u30a8\u30df\u30ce\u30aa\u30c8",
         "url": "https://open.spotify.com/album/1vpm8ZmlrelreGQKIpL1i1"
       },
@@ -6468,7 +6598,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 210206,
       "name": "\u30e1\u30ea\u30c8\u30af\u30e9\u30b7\u30fc",
       "url": "https://open.spotify.com/track/58YNC52MIqpH5l4p1cDF2R"
@@ -6634,6 +6764,24 @@
       "duration_ms": 249680,
       "name": "\u4e94\u7b49\u5206\u306e\u8ecc\u8de1",
       "url": "https://open.spotify.com/track/2x8LTwwFltPH8kjOThZaWu"
+    },
+    {
+      "album": {
+        "name": "\u4eba\u751f\u306f\u611b\u3068\u5922\u3068\u5192\u967a\u3060",
+        "url": "https://open.spotify.com/album/2Qmym4EQZE6KLtAjzWHU9O"
+      },
+      "artists": [
+        {
+          "name": "Sae Otsuka",
+          "url": "https://open.spotify.com/artist/5GRsTGu3LNc4NlgG5Osobv"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259133,
+      "name": "\u4eba\u751f\u306f\u611b\u3068\u5922\u3068\u5192\u967a\u3060",
+      "url": "https://open.spotify.com/track/1LTfIVUhkbwVkAbPEYAjkS"
     },
     {
       "album": {
@@ -6868,7 +7016,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 309791,
       "name": "\u5728\u308a\u3057\u65e5",
       "url": "https://open.spotify.com/track/29LIz9Sym4N4g2wJFySxVC"
@@ -7070,7 +7218,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 221017,
       "name": "\u5e38\u8b58\u5916\u308c\u30d2\u30e5\u30fc\u30de\u30f3",
       "url": "https://open.spotify.com/track/4IsIln6tmEE4S2xYHf9n63"
@@ -7185,6 +7333,24 @@
     },
     {
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u661f\u964d\u308b\u738b\u56fd\u306e\u30cb\u30ca\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u3000\u661f\u306e\u4f1d\u8a00\uff08Special Edition\uff09",
+        "url": "https://open.spotify.com/album/6MBdDIsf7DdU2lGldikwss"
+      },
+      "artists": [
+        {
+          "name": "Nao Toyama",
+          "url": "https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242800,
+      "name": "\u661f\u306e\u4f1d\u8a00",
+      "url": "https://open.spotify.com/track/55IpkZt7ODpZmQPFjAiLPS"
+    },
+    {
+      "album": {
         "name": "\u6625\u5f85\u6b4c",
         "url": "https://open.spotify.com/album/0mCMVrSCevXIO2rJpfX8VH"
       },
@@ -7254,6 +7420,24 @@
       "duration_ms": 182800,
       "name": "\u6708\u3068\u30ab\u30a8\u30eb",
       "url": "https://open.spotify.com/track/2AC2a8IVi96iXdgtipWdJG"
+    },
+    {
+      "album": {
+        "name": "\u6709\u9802\u5929",
+        "url": "https://open.spotify.com/album/6rhHk4jtz7CBiWhQVpQOxJ"
+      },
+      "artists": [
+        {
+          "name": "Machico",
+          "url": "https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208767,
+      "name": "\u6709\u9802\u5929",
+      "url": "https://open.spotify.com/track/0Am2KaJAD9W6Xk7S8vBYCX"
     },
     {
       "album": {

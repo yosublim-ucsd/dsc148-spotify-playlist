@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-394 songs - 17 hr 32 min
+396 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Driving Alongside](https://open.spotify.com/track/3OAPa9BnaZoHYbDvaa952w) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Driving Alongside](https://open.spotify.com/album/5i4GPhiFsiEmNxgrFITm5D) | 2:29 | 2023-12-15 |  |
 | [Droplets](https://open.spotify.com/track/5dqXVZIkN8zzWQTStYGr0i) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [Droplets](https://open.spotify.com/album/3hgVEb5uOhSbwPnosbYMZt) | 2:22 | 2022-11-25 |  |
 | [Dulces Sueños](https://open.spotify.com/track/0sNwS8yvAm4qiDt5wxMQqJ) | [Lullaby Texture](https://open.spotify.com/artist/1nniTSIKfKilcQ0gdDTsvW) | [Dulces Sueños](https://open.spotify.com/album/0Z0MbM8YTWu2BzoqZymHff) | 2:36 | 2022-05-27 | 2022-07-22 |
+| [Dupont](https://open.spotify.com/track/6f0VxCNrBs7o5LBT6Luebr) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Dupont](https://open.spotify.com/album/5fTiqtcjhTiD8gVzaPw98f) | 2:28 | 2024-11-06 |  |
 | [Dusk](https://open.spotify.com/track/0dsETyiKlFL83feD6wNHl2) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Dusk](https://open.spotify.com/album/6alx16iPXm9cGR5w7fuGJj) | 2:34 | 2023-09-29 |  |
 | [East](https://open.spotify.com/track/0EXR9AfcquwLS4yksMql29) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [North](https://open.spotify.com/album/7aK3SFbPLVvrsL62GGOjxF) | 2:38 | 2022-04-05 | 2024-01-12 |
 | [Easy On The Road Ahead](https://open.spotify.com/track/1bEeNRyUZ236ES8UyPSJxF) | [Woodfray](https://open.spotify.com/artist/1oMo7wloYRSjSQNKgnJlRc) | [Waitwall Mountain](https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX) | 2:30 | 2021-12-10 | 2022-07-22 |
@@ -131,6 +132,7 @@
 | [Follow Me](https://open.spotify.com/track/3mcnh0DtILL5mjk0dwR3oD) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Follow Me](https://open.spotify.com/album/0a6JQdPkBBa0mIYBVe7qj2) | 3:20 | 2022-03-03 | 2022-07-22 |
 | [For Far Too Long](https://open.spotify.com/track/4bxljmuDdjLpfXRM98FFl3) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [For Far Too Long](https://open.spotify.com/album/5MwHzCqgiHv2Pue2ov9y6z) | 4:56 | 2021-12-10 | 2024-04-06 |
 | [Fortified Heart](https://open.spotify.com/track/4nr0dChikzW0GQM7m1e0r8) | [Elsa Pelling](https://open.spotify.com/artist/6m3MUFzflTDG8M0r7Isk9U) | [Fortified Heart](https://open.spotify.com/album/6QluqiIXnhbDfhsNd44AGk) | 3:21 | 2021-12-10 | 2023-05-27 |
+| [Free in Spirit](https://open.spotify.com/track/6VaX2PNwrctPcGr8hgXYyV) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Free in Spirit](https://open.spotify.com/album/2A91Ozy0QhTwYdJUOj4mOc) | 2:32 | 2024-11-06 |  |
 | [French Town](https://open.spotify.com/track/4KVbd3DdAlN6soY6VlsyQm) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [French Town](https://open.spotify.com/album/0GtfbWiV49Sk0KPFKy4E0z) | 2:22 | 2024-05-24 |  |
 | [Full Bloom](https://open.spotify.com/track/6WiykMhEcWvMzL5SQhtdrY) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [Soul Odyssey](https://open.spotify.com/album/655DVNIphpZShWuF9Ejmfc) | 2:42 | 2021-12-10 | 2023-03-10 |
 | [Gently](https://open.spotify.com/track/2J0RzVJwZY4wa0Yz7Lw1av) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Gently](https://open.spotify.com/album/420Td1UnPDoBlZ56t3sVDl) | 2:02 | 2023-05-26 | 2023-06-16 |
@@ -214,7 +216,7 @@
 | [Minore Sostenuto, Op\. 107](https://open.spotify.com/track/7xyK7jldqjNERe6RP0DWuZ) | [Mauro Giuliani](https://open.spotify.com/artist/4qXtGiJP51BsAIi4bJNeir), [Bill Russell](https://open.spotify.com/artist/7ilKUFoBWbdNujwb6t0PKe) | [Minore Sostenuto, Op\. 107](https://open.spotify.com/album/3AegI4cYed4MJCAF39DqQC) | 3:16 | 2022-11-18 | 2023-05-27 |
 | [Misspent Life](https://open.spotify.com/track/3ktxKAEJ3WvNezNl00O041) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Misspent Life](https://open.spotify.com/album/4dFszxldPJd0l36xuAXPu2) | 2:48 | 2022-12-09 | 2024-07-18 |
 | [Moments](https://open.spotify.com/track/1GgytkMdKCMIhzDcPHTJMX) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Moments](https://open.spotify.com/album/0841nT5RLsINf4vERrhMrB) | 2:19 | 2024-01-12 |  |
-| [Moments with you](https://open.spotify.com/track/3p9wB5uVvsf0BzqY8y0W3X) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Moments with you](https://open.spotify.com/album/6ozrFm4mb8spn0V08f3GHi) | 2:29 | 2023-11-24 |  |
+| [Moments with you](https://open.spotify.com/track/3p9wB5uVvsf0BzqY8y0W3X) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Moments with you](https://open.spotify.com/album/6ozrFm4mb8spn0V08f3GHi) | 2:29 | 2023-11-24 | 2024-11-07 |
 | [Montes Claros](https://open.spotify.com/track/2DwZFuh7xnuEDvNwz4mAMi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Montes Claros](https://open.spotify.com/album/4xouEO0NJWhJswiV2Qofy8) | 2:45 | 2023-10-13 |  |
 | [Moondust](https://open.spotify.com/track/4f4IeJgCi2IVwmjqbDzDON) | [Gabriel Femi](https://open.spotify.com/artist/5TfOpr1QMPSdpygmQvf1qX) | [Moondust](https://open.spotify.com/album/1qZvjFoXmGVvCTWNd9YPef) | 2:09 | 2022-12-09 | 2024-06-07 |
 | [More than this](https://open.spotify.com/track/4mnfj436ikMOudVg4QEPsj) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [More than this](https://open.spotify.com/album/5u06wlVmeF3Zl6NJReboo8) | 2:39 | 2024-01-12 |  |
@@ -247,7 +249,7 @@
 | [Peace](https://open.spotify.com/track/6F0EP7RuYpUsIvppMg4NvY) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Peace](https://open.spotify.com/album/6mwJ5ErXnK8ylr8AidBzsR) | 2:45 | 2022-03-03 | 2022-07-29 |
 | [Photos of the Sun](https://open.spotify.com/track/6pnuVKbhK0ROctyEzFpz5G) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Photos of the Sun](https://open.spotify.com/album/6rKBI95x3OvQyTnyuNYXeH) | 2:53 | 2021-12-10 | 2024-04-06 |
 | [Pinus Halepensis](https://open.spotify.com/track/5vHDaXBGHiN5AroXmGjucE) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 2:35 | 2021-12-10 | 2022-05-27 |
-| [Pitaya](https://open.spotify.com/track/0qkLFOcaTCaFFwxh1uk9Mr) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Pitaya](https://open.spotify.com/album/4hCqAS4S5aVEROwsfbiAXr) | 2:57 | 2023-10-27 |  |
+| [Pitaya](https://open.spotify.com/track/0qkLFOcaTCaFFwxh1uk9Mr) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Pitaya](https://open.spotify.com/album/4hCqAS4S5aVEROwsfbiAXr) | 2:57 | 2023-10-27 | 2024-11-07 |
 | [Piumata](https://open.spotify.com/track/0SwMXhWI9pZO0lroyyjfCl) | [Briana Courtois](https://open.spotify.com/artist/16zv8egdYW4tjmgK2JqIwV) | [Piumata](https://open.spotify.com/album/3oKBrqXfzKn8vYJwAra3T1) | 2:13 | 2023-01-06 |  |
 | [Poesia](https://open.spotify.com/track/5bhYob3MDA4aVNPxZkUVGi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Poesia](https://open.spotify.com/album/5cOQkSQH87sWJdATlUvvVs) | 2:20 | 2023-09-08 |  |
 | [Porto Fino](https://open.spotify.com/track/3GflHrUfFb7mQi5GYsQ1i5) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Porto Fino](https://open.spotify.com/album/08FqjkBw2J8PNV86G1o3Vf) | 2:35 | 2022-10-07 |  |
@@ -264,14 +266,14 @@
 | [Quiver and Wince](https://open.spotify.com/track/06lkOWre18zq2lSEX23pzb) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Quiver and Wince](https://open.spotify.com/album/6w3OZdViK1m8vmZSGZNGAH) | 2:19 | 2023-03-10 | 2023-08-26 |
 | [Raconteur](https://open.spotify.com/track/06qPEPcQwF1tZWWxRvDVPI) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Raconteur](https://open.spotify.com/album/3XWGX9Y84mIXoSYAUXRN0u) | 2:17 | 2022-05-27 | 2024-05-10 |
 | [Recuerdos De La Alhambra](https://open.spotify.com/track/7Ahed5NrDuiMeq16Y7LxvI) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Christopher Parkening](https://open.spotify.com/artist/2e3OImB8yCNVk1SppFne96) | [In The Spanish Style](https://open.spotify.com/album/2ylRlmfvJD3TZ3t6kt9Rkw) | 3:56 | 2022-11-25 | 2023-03-10 |
-| [Red Fir](https://open.spotify.com/track/5Wrj84CT8f8eVf2Dr9DfLV) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Esperanza](https://open.spotify.com/album/2TcqC96KU39tGmStFfx4AT) | 2:41 | 2022-03-03 |  |
+| [Red Fir](https://open.spotify.com/track/5Wrj84CT8f8eVf2Dr9DfLV) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Esperanza](https://open.spotify.com/album/2TcqC96KU39tGmStFfx4AT) | 2:41 | 2022-03-03 | 2024-11-07 |
 | [Remaining Link](https://open.spotify.com/track/3THjDQSoQoBoeqT71CdUeG) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Remaining Link](https://open.spotify.com/album/0BEE1YWLyPm6kFnVEL9LN9) | 2:18 | 2024-02-02 |  |
 | [Resolve](https://open.spotify.com/track/6YKeEQOMBRxrv9kY5A4pON) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Resolve](https://open.spotify.com/album/7CFTnTVuiu6Bz3iupotMsN) | 2:40 | 2024-03-29 |  |
 | [Rialto](https://open.spotify.com/track/6x1IIozbhUKLHu0a024rDt) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Rialto](https://open.spotify.com/album/5IdiH14XYSAeS7DC33wFtO) | 2:25 | 2024-05-24 |  |
 | [Rickover's Dream](https://open.spotify.com/track/3rbanyAxECNBbFFi2IM0S2) | [Michael Hedges](https://open.spotify.com/artist/3IqoFUpoJi1qvebL8Vi2aK) | [Aerial Boundaries](https://open.spotify.com/album/2hgrTinAeHSNaSPzLFoamH) | 4:50 | 2021-12-10 | 2023-03-10 |
 | [Rio De Los Sauces](https://open.spotify.com/track/693lY3L3XadRUYWEQoYHtb) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Rio De Los Sauces](https://open.spotify.com/album/3rW87wBuoMnxn5CIdesQ7I) | 2:49 | 2021-12-23 | 2024-04-06 |
 | [Rio Segundo](https://open.spotify.com/track/5jBlWBEf1MI1R2SasOZsuL) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Rio Segundo](https://open.spotify.com/album/3gLjkFuD4BrEWG1AbScPaU) | 2:49 | 2021-12-23 | 2024-04-06 |
-| [Ripples in the sand](https://open.spotify.com/track/5QZVpjifzC8k1h4f37ro4B) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Ripples in the sand](https://open.spotify.com/album/4a6ck1QSXNh1mk1LEyI57L) | 3:06 | 2024-02-02 |  |
+| [Ripples in the sand](https://open.spotify.com/track/5QZVpjifzC8k1h4f37ro4B) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Ripples in the sand](https://open.spotify.com/album/4a6ck1QSXNh1mk1LEyI57L) | 3:06 | 2024-02-02 | 2024-11-07 |
 | [Rippling Waters](https://open.spotify.com/track/2CJYWfBlOJ9WWoi5ynPMDf) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Rippling Waters](https://open.spotify.com/album/6vbPmAiYbJaGwsE3Ieli13) | 2:23 | 2023-10-13 |  |
 | [Road To Pappy's](https://open.spotify.com/track/4e9rBrNPDRoXqlT2anxvmu) | [Jaimie Escalera](https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B) | [Road To Pappy's](https://open.spotify.com/album/17n0YzedIGhgxEKFgvNZmf) | 2:33 | 2023-05-26 | 2023-06-16 |
 | [Saint Michel](https://open.spotify.com/track/1vx0RMtjAs0ZiLKXTsIxzA) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Saint Michel](https://open.spotify.com/album/5B6U8Kx1LppXVW0FivQdLS) | 2:47 | 2024-02-23 |  |

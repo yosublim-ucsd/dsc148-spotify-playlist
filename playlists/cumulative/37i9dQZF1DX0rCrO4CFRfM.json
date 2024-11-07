@@ -582,7 +582,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 238003,
       "name": "Chocolate - Acoustic Version",
       "url": "https://open.spotify.com/track/2yyj5YLcGKcddBaQBNsulz"
@@ -766,6 +766,24 @@
       "duration_ms": 194533,
       "name": "Dirty Little Secret - Acoustic",
       "url": "https://open.spotify.com/track/1FTplvsC8qcmpbgMGIX1uI"
+    },
+    {
+      "album": {
+        "name": "Siamese Dream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198560,
+      "name": "Disarm - Acoustic",
+      "url": "https://open.spotify.com/track/1CfFF36728zzSOcSLzj74U"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14651,
+  "num_followers": 14657,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "OMEN",
-        "url": "https://open.spotify.com/album/0kK9SKko1fs7wDayiYv4mD"
-      },
-      "artists": [
-        {
-          "name": "Kasia Lins",
-          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
-        }
-      ],
-      "duration_ms": 178853,
-      "name": "Nieba nie ma",
-      "url": "https://open.spotify.com/track/2DSZJstkmFvGHA8iQO0b9G"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "przestrze\u0144",
         "url": "https://open.spotify.com/album/6vd5tpfLPPJ3Bo2VyStDqA"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 217245,
       "name": "lekka jak powietrze",
       "url": "https://open.spotify.com/track/5CKxg5M0vYrRqekWveuSbl"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "OMEN",
+        "url": "https://open.spotify.com/album/0kK9SKko1fs7wDayiYv4mD"
+      },
+      "artists": [
+        {
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
+        }
+      ],
+      "duration_ms": 178853,
+      "name": "Nieba nie ma",
+      "url": "https://open.spotify.com/track/2DSZJstkmFvGHA8iQO0b9G"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Frukstrakt",
-        "url": "https://open.spotify.com/album/5c3QN5r2Z8rpafADwmhjCn"
-      },
-      "artists": [
-        {
-          "name": "Micha\u0142 Aftyka Quintet",
-          "url": "https://open.spotify.com/artist/2xS21KB9yVv474txV9ODfT"
-        }
-      ],
-      "duration_ms": 211047,
-      "name": "Serce Otwarte Na P\u00f3\u0142",
-      "url": "https://open.spotify.com/track/3XywU8Sg5a5VKT2jROPisX"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "TiriTaka (Polish Jazz, Vol. 62)",
         "url": "https://open.spotify.com/album/2nDgX64PdLDyHtOX4nEHJf"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 369013,
       "name": "Tiritaka",
       "url": "https://open.spotify.com/track/55krx4SNu1AJ6vwrqxdpsq"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Frukstrakt",
+        "url": "https://open.spotify.com/album/5c3QN5r2Z8rpafADwmhjCn"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Aftyka Quintet",
+          "url": "https://open.spotify.com/artist/2xS21KB9yVv474txV9ODfT"
+        }
+      ],
+      "duration_ms": 211047,
+      "name": "Serce Otwarte Na P\u00f3\u0142",
+      "url": "https://open.spotify.com/track/3XywU8Sg5a5VKT2jROPisX"
     },
     {
       "added_at": "2024-03-25 08:52:09",

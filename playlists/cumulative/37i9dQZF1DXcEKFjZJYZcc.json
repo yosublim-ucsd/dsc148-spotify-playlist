@@ -1367,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "Evenly Balanced",
+        "url": "https://open.spotify.com/album/6jMkqhISeUr6pPAZFjjKAM"
+      },
+      "artists": [
+        {
+          "name": "Algot Aelster",
+          "url": "https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124903,
+      "name": "Evenly Balanced",
+      "url": "https://open.spotify.com/track/4m3u1eHjGKnA3GPgjBd7Cb"
+    },
+    {
+      "album": {
         "name": "Sonnenkind",
         "url": "https://open.spotify.com/album/0hTN8NbBKPGhbtUSrCzLgj"
       },

@@ -1,15 +1,31 @@
 {
   "description": "Le cin\u00e9ma \u00e7a s'\u00e9coute aussi.",
-  "num_followers": 66607,
+  "num_followers": 66631,
   "original_name": "BO & Pop Corn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn7ybAAAAAABVt+8pb9qSJbAlixYjYRk",
+  "snapshot_id": "Zys96QAAAADFDI+1LP0QBe0tLylS42+m",
   "tracks": [
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
+      "album": {
+        "name": "Staring At The Sea - The Singles",
+        "url": "https://open.spotify.com/album/5JLKZcOSNXcm6xaX1vI7nB"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 294626,
+      "name": "A Forest - Edit",
+      "url": "https://open.spotify.com/track/5m086uWfVJSd9eg0m5jAkN"
+    },
+    {
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Le fabuleux destin d'Am\u00e9lie Poulain (Bande originale de film)",
         "url": "https://open.spotify.com/album/3HJyNEMgfUh37Q6wpmtXL0"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/1Re30B3AC2Ra8n4f2xsDW3"
     },
     {
-      "added_at": "2023-07-27 21:17:47",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Arizona Dream (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3JOFv28xH21bzQdFuf4Y5F"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/1Tqz4XfxXPeZ2lbk8MBlzY"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "What a Feelin'",
         "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Staying Alive (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6iqFb4EhmlHHjJGFcRgJmQ"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/4UDmDIqJIbrW0hMBQMFOsM"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "The Blues Brothers Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/4cO51KBYsdsbmSZleoNEGH"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/1CtKHwDqsH3ctcCCI18N0g"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Kill Bill Vol. 1 Original Soundtrack (PA Version)",
         "url": "https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/1s2I9Q7zAE78m7aVZOq3ug"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Nightcall",
         "url": "https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Le Grand Bleu (Remastered) [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/5wysmoeMWHO73MUJOgRcaD"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/7so9FgbKE1tR1hZv6CsQru"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Comme un boomerang",
         "url": "https://open.spotify.com/album/7IoGi1b3jxA6FXOaoa66iK"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/6aJm7Q98ZFmGNYFWd3coJF"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Made In France",
         "url": "https://open.spotify.com/album/6i5Nnj3Hq4PqL5JdKTdCwP"
@@ -201,7 +217,7 @@
       "url": "https://open.spotify.com/track/1JFrbhU6IDAvHtUbmYayEW"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Bohemian Rhapsody (The Original Soundtrack)",
         "url": "https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/6AWe04n4zsYkGKb3Pf7LMk"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
         "url": "https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Le tourbillon de ma vie (Best Of 2017)",
         "url": "https://open.spotify.com/album/6gRQtl64VsWWTh26IuNoGP"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/0ZRnvyA5MxbgTCfWRw3YU4"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Subway (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4ANBL8v09CCeAvEgZSarT3"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/63ateUylxJ1MdQMl9tDjid"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Back To The Future (Original Motion Picture Soundtrack / Expanded Edition)",
         "url": "https://open.spotify.com/album/0ljBxAkQyTKVXudfE34wAL"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/1QV4g4uyxy8Xdl7tk0dnDv"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Ghostbusters (Original Motion Picture Soundtrack) [2016]",
         "url": "https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Rocky IV",
         "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Les bronz\u00e9s & les bronz\u00e9s font du ski (Bande originale du film)",
         "url": "https://open.spotify.com/album/0SbjpPx9uYBTAkNTozG8OT"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/3ayoJTOXuq9HKlWStM8KVV"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1yETyUdM0HxBFy8MHdSsYW"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/7FKsfPuxRLpar9enQ7LmtA"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "La La Land (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5p0H50uFCdWTpLY640HoPc"
@@ -389,7 +405,7 @@
       "url": "https://open.spotify.com/track/6s9LhJVqxnTjmUJHOeawnU"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "No Time To Die (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2xgi7tCocjnULdraqmheR1"
@@ -405,7 +421,7 @@
       "url": "https://open.spotify.com/track/527BVezmvYjbc4JlVJW4Xj"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Philadelphia - Music From The Motion Picture",
         "url": "https://open.spotify.com/album/5HL1JjJ2aiKNfsZ29YWyiM"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/6WgBIPHwkQhCqMNnR5hQCN"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Mission Impossible (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0L8rFdurVz1JdbkK2gFLUN"
@@ -437,7 +453,7 @@
       "url": "https://open.spotify.com/track/6PzHOn4LPd44RUCUShf4rl"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Le Roi Lion (Bande Originale Fran\u00e7aise du Film)",
         "url": "https://open.spotify.com/album/40YiN3kE9hCzPh86FAMVVg"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/3nDpT4CRyVhnkGcJ0LdbqA"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/6W7ztLBiRzBN46ZaPAcQ0F"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Stull",
         "url": "https://open.spotify.com/album/07gzuMURkIJ7Iatsz3Uqw0"
@@ -493,7 +509,7 @@
       "url": "https://open.spotify.com/track/1mSzuXVjjKC0bPh6iG6xjy"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Singin'in the Rain (Original Soudtrack from ''Clockwork Orange'')",
         "url": "https://open.spotify.com/album/2OHAaduh0bpLwlzpSrQgEc"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/5uWCgckWjHVqsfgp4dTpyF"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Jurassic Park (Soundtrack)",
         "url": "https://open.spotify.com/album/1PgeYPKQY9H5pxHGJa5izY"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/72VjtouKhCbaBol2e7tsaQ"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "OSS 117: Le Caire, nid d'espions (Bande originale du film)",
         "url": "https://open.spotify.com/album/3wiE2l6aNNoAYYKSQjcYUh"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/4EDlZc7p6aOCuymmnQa5OJ"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "The Virgin Suicides (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Titanic: Original Motion Picture Soundtrack - Collector's Anniversary Edition",
         "url": "https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/7F1yVPuJ4xRdrDvf8OL0HF"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Scarface (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2fQnoECWjksEvAI57pCMeh"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/5EKXdvBvnvMaX3b3Al5LRq"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "8 Mile (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/353HFOqGHySp027oyr3aGs"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/6GkTKjv1XbFVdI2D8vvDPu"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "37\u00b02 le matin (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2pIZNnAgeWIrWGyZb3Etrt"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/6vHmR3htXYkcXoKf6ktNfu"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Grease",
         "url": "https://open.spotify.com/album/3ku54lKW19XjXwhNkNdtzZ"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/0ej0YkMM8E0WOWuWVZliDh"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "The Godfather (Soundtrack)",
         "url": "https://open.spotify.com/album/1omMQEIiKOo8NwtYD6dJai"
@@ -689,7 +705,7 @@
       "url": "https://open.spotify.com/track/7Es2gcDpA0ma6zEqgP6Wuc"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "The Best of Bond...James Bond",
         "url": "https://open.spotify.com/album/2lHvf04m2IO93HC7PNdkfL"
@@ -705,7 +721,7 @@
       "url": "https://open.spotify.com/track/5OMdH6KUl5VcMnAkqOYNJ7"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "THE GRADUATE Original Sound Track Recording",
         "url": "https://open.spotify.com/album/0BvYkLMNRZB56v9bE9Pld2"
@@ -721,7 +737,7 @@
       "url": "https://open.spotify.com/track/7pJbymTE8JYy7QmGYFVx3P"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
@@ -737,7 +753,7 @@
       "url": "https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Les demoiselles de Rochefort (Bande originale du film)",
         "url": "https://open.spotify.com/album/3LVSvbwZ01FFHFqRbNeGaL"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/4NG4Ugserf2ocBe4eqKPli"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Annette (Unlimited Edition) [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/1qqZSTptKt9zXK4zJkkNPf"
@@ -789,7 +805,7 @@
       "url": "https://open.spotify.com/track/1FZ6wsqNIEiAGQLhpPQ5El"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "The Beach (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5B6nt2q83Zxyz7FACDzRsU"
@@ -805,7 +821,7 @@
       "url": "https://open.spotify.com/track/5uHnDHx5J48FdT6FjwA7Z8"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Dr. No (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Dp4VgGFm2TTcLZABnHPWz"
@@ -821,7 +837,7 @@
       "url": "https://open.spotify.com/track/7JlloKiG2pSNmRfpoB7kUD"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Nous irons tous au paradis (Bande originale du film d'Yves Robert)",
         "url": "https://open.spotify.com/album/1TKvJAdscO5z0F0LOti08t"
@@ -837,7 +853,7 @@
       "url": "https://open.spotify.com/track/39x7CP49QlOrPJmJArBS9L"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Once Upon A Time (Super Deluxe)",
         "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
@@ -853,7 +869,7 @@
       "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "120 Battements Par Minute - Original Soundtrack",
         "url": "https://open.spotify.com/album/49rCXCLvUAX3JSC7uM5b94"
@@ -873,7 +889,7 @@
       "url": "https://open.spotify.com/track/69FeytZ9qPT1fw2XclVlMz"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
@@ -889,7 +905,7 @@
       "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Once Upon a Time in the West (Original Motion Picture Soundtrack) [Remastered]",
         "url": "https://open.spotify.com/album/1mLXrA8oEtzeH6D45Zx4Bt"
@@ -905,7 +921,7 @@
       "url": "https://open.spotify.com/track/0c89GbbUO3degznx9eYrq0"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "The Never Ending Story",
         "url": "https://open.spotify.com/album/6ufy7fmrQRv2sh2cJI5GES"
@@ -921,7 +937,7 @@
       "url": "https://open.spotify.com/track/2IAQnOWKWjj1iA166KznVd"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Tout ce qui brille (Bande originale du film)",
         "url": "https://open.spotify.com/album/5THGRTWYfqHjw8DfD9tAHF"
@@ -941,7 +957,7 @@
       "url": "https://open.spotify.com/track/12zakSjWxrohomLLgxTkCR"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "E.T. The Extra Terrestrial (Original Soundtrack - 20th Anniversary Remaster)",
         "url": "https://open.spotify.com/album/6qbtlYI0l4Fpj3hJ7e9jGY"
@@ -957,7 +973,7 @@
       "url": "https://open.spotify.com/track/49kKT4dFOjFSMmQ0KIpfeY"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Footloose (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Tx8adY1323eMrMuvPILpl"
@@ -973,7 +989,7 @@
       "url": "https://open.spotify.com/track/4lUquPSQVHZv1eKuswOLsG"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Bagdad Cafe",
         "url": "https://open.spotify.com/album/7mWCUfRFz4lmttQsDo56BK"
@@ -989,7 +1005,7 @@
       "url": "https://open.spotify.com/track/0TwsjNAtErKrdFImpIg9To"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "L'aile ou la cuisse (Bande originale du film de Claude Zidi)",
         "url": "https://open.spotify.com/album/24iTJqS3twJ44tRpOUGvZp"
@@ -1005,7 +1021,7 @@
       "url": "https://open.spotify.com/track/3312vCIRGN7Z7Zg7QuAa57"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Flashdance (Original Soundtrack From The Motion Picture)",
         "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
@@ -1021,7 +1037,7 @@
       "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Star Wars: Le R\u00e9veil de la Force (Bande Originale du Film)",
         "url": "https://open.spotify.com/album/7knoeUJDdVvPCB2MMYX2Qq"
@@ -1037,7 +1053,7 @@
       "url": "https://open.spotify.com/track/0BiFcAoDxHCpsdEfgPvufT"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Les Choristes (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4myS6r9KjqGHZTU4WNYtwZ"
@@ -1057,7 +1073,7 @@
       "url": "https://open.spotify.com/track/2C2plcQ9V07Rg5OQZqezNa"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "2001 - A Space Odyssey",
         "url": "https://open.spotify.com/album/3AzJfHje1Uym5QC5vt7WKK"
@@ -1081,7 +1097,7 @@
       "url": "https://open.spotify.com/track/5siXMmAafNxDlgcsLsqL9R"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Juno (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/5QLWzI3zMjxnI4ry0Wu6IS"
@@ -1101,31 +1117,7 @@
       "url": "https://open.spotify.com/track/7mOYvqE4mvNWW0Oe3O9DxG"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
-      "album": {
-        "name": "Classics at the Movies: Adventure",
-        "url": "https://open.spotify.com/album/4Ni99xL6RBog7Z1xpdKZCk"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Philharmonic Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/3KVFlfZ7gBNLbGMXp0efKH"
-        },
-        {
-          "name": "Richard Hayman",
-          "url": "https://open.spotify.com/artist/68tBK9r9zdViB8V73G5SA9"
-        }
-      ],
-      "duration_ms": 335506,
-      "name": "Indiana Jones Theme",
-      "url": "https://open.spotify.com/track/60ZYLVPmSNY9r0Uquaivvs"
-    },
-    {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "La cit\u00e9 de la peur (Bande originale du film)",
         "url": "https://open.spotify.com/album/2LEh0ccOvIlNdg8BUcDD6o"
@@ -1149,7 +1141,7 @@
       "url": "https://open.spotify.com/track/7jVR2gSVYg6GNwbE4FbI33"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Once Upon a Time in the West - Ennio Morricone Music Collection (The Complete Edition)",
         "url": "https://open.spotify.com/album/2tEHkzwQcKi1B0h0QXVv7P"
@@ -1165,7 +1157,7 @@
       "url": "https://open.spotify.com/track/150bCeASorH3nlZHCrWWz9"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
@@ -1185,7 +1177,7 @@
       "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Soundtrack From Twin Peaks",
         "url": "https://open.spotify.com/album/6iGX2bbzKEocRY0HzdQ9zX"
@@ -1201,7 +1193,7 @@
       "url": "https://open.spotify.com/track/7FO7BolIZsl1o8DDSjeOph"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "Into The Wild (Music For The Motion Picture)",
         "url": "https://open.spotify.com/album/4kgUVxCBvTnJIeyHpclrNl"
@@ -1217,7 +1209,7 @@
       "url": "https://open.spotify.com/track/1gqsdl891sEVlHjaV1bTR6"
     },
     {
-      "added_at": "2023-02-24 16:47:02",
+      "added_at": "2024-11-06 09:59:05",
       "album": {
         "name": "La boum (Bande originale du film de Claude Pinoteau)",
         "url": "https://open.spotify.com/album/57piLRISNJFwpMwXfWC5kL"

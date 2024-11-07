@@ -7009,6 +7009,24 @@
     },
     {
       "album": {
+        "name": "Cow Fingers and Mosquito Pie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7iqV06s6GOh88Y1f9cgEud"
+      },
+      "artists": [
+        {
+          "name": "Screamin' Jay Hawkins",
+          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160240,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/3C2HSGEUxEd9tXCsuzdSPL"
+    },
+    {
+      "album": {
         "name": "Voodoo Man",
         "url": "https://open.spotify.com/album/03iwOF2N5jXlXVchecaphc"
       },
@@ -7020,7 +7038,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 165706,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/4eAo5CTR5HyKiOXlwZZ5KC"

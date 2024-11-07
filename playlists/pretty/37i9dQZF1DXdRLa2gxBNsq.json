@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: La Polla Records.",
-  "num_followers": 108212,
+  "num_followers": 108249,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Nino Gramo",
-        "url": "https://open.spotify.com/album/67N6UuebvuJ8fxkAAI15SF"
-      },
-      "artists": [
-        {
-          "name": "Manolo Kabezabolo",
-          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
-        }
-      ],
-      "duration_ms": 89999,
-      "name": "Nino Gramo",
-      "url": "https://open.spotify.com/track/4ZBYc1udmmLy6INoqUyIcf"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Confrontaci\u00f3n",
         "url": "https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 195049,
       "name": "Enemigo a las Puertas",
       "url": "https://open.spotify.com/track/4Ek4wT7LeCVgAskl466yd8"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Nino Gramo",
+        "url": "https://open.spotify.com/album/67N6UuebvuJ8fxkAAI15SF"
+      },
+      "artists": [
+        {
+          "name": "Manolo Kabezabolo",
+          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
+        }
+      ],
+      "duration_ms": 89999,
+      "name": "Nino Gramo",
+      "url": "https://open.spotify.com/track/4ZBYc1udmmLy6INoqUyIcf"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Vieja Guardia",
-        "url": "https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl"
-      },
-      "artists": [
-        {
-          "name": "Karne Cruda",
-          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
-        }
-      ],
-      "duration_ms": 170585,
-      "name": "Vieja Guardia",
-      "url": "https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Camino hacia la ruina",
         "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 217130,
       "name": "Ke Felicidad!",
       "url": "https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Vieja Guardia",
+        "url": "https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl"
+      },
+      "artists": [
+        {
+          "name": "Karne Cruda",
+          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
+        }
+      ],
+      "duration_ms": 170585,
+      "name": "Vieja Guardia",
+      "url": "https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Pudredumbre",
-        "url": "https://open.spotify.com/album/5mdIYVaHslsllN0EcvmxLr"
-      },
-      "artists": [
-        {
-          "name": "Opus Pain",
-          "url": "https://open.spotify.com/artist/011c1z4h5qXlPlhpQ6NKj8"
-        }
-      ],
-      "duration_ms": 125727,
-      "name": "Pudredumbre",
-      "url": "https://open.spotify.com/track/37jtZC34k0gkAaoI5g7a5v"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Asesinos",
         "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 176117,
       "name": "Asesinos",
       "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Pudredumbre",
+        "url": "https://open.spotify.com/album/5mdIYVaHslsllN0EcvmxLr"
+      },
+      "artists": [
+        {
+          "name": "Opus Pain",
+          "url": "https://open.spotify.com/artist/011c1z4h5qXlPlhpQ6NKj8"
+        }
+      ],
+      "duration_ms": 125727,
+      "name": "Pudredumbre",
+      "url": "https://open.spotify.com/track/37jtZC34k0gkAaoI5g7a5v"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Love the Antros",
-        "url": "https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv"
-      },
-      "artists": [
-        {
-          "name": "Karne Cruda",
-          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
-        }
-      ],
-      "duration_ms": 155469,
-      "name": "Love the Antros",
-      "url": "https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Arder\u00e1n",
         "url": "https://open.spotify.com/album/2pxQN0Uj57ZfwsqIB02okC"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 182335,
       "name": "Arder\u00e1n",
       "url": "https://open.spotify.com/track/1osGlQ2CrQeIvlEaIUOjzO"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Love the Antros",
+        "url": "https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv"
+      },
+      "artists": [
+        {
+          "name": "Karne Cruda",
+          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
+        }
+      ],
+      "duration_ms": 155469,
+      "name": "Love the Antros",
+      "url": "https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Basura",
-        "url": "https://open.spotify.com/album/1hSJoS6GhfnxqtJabaTXhg"
+        "name": "Influencers",
+        "url": "https://open.spotify.com/album/0aLb1OseJN1zVxtXTS84r2"
       },
       "artists": [
         {
-          "name": "Pota en la Sopa",
-          "url": "https://open.spotify.com/artist/4fOyA8pQ1Td1iE1kCPKCOO"
+          "name": "\u00daltimo Rekurso",
+          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
         }
       ],
-      "duration_ms": 170453,
-      "name": "Basura",
-      "url": "https://open.spotify.com/track/2Lwyx3R8KUFq2bHuiwccty"
+      "duration_ms": 246493,
+      "name": "Influencers",
+      "url": "https://open.spotify.com/track/3QeyHS6OYXDuoNXeePq2TG"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Influencers",
-        "url": "https://open.spotify.com/album/0aLb1OseJN1zVxtXTS84r2"
+        "name": "Basura",
+        "url": "https://open.spotify.com/album/1hSJoS6GhfnxqtJabaTXhg"
       },
       "artists": [
         {
-          "name": "\u00daltimo Rekurso",
-          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
+          "name": "Pota en la Sopa",
+          "url": "https://open.spotify.com/artist/4fOyA8pQ1Td1iE1kCPKCOO"
         }
       ],
-      "duration_ms": 246493,
-      "name": "Influencers",
-      "url": "https://open.spotify.com/track/3QeyHS6OYXDuoNXeePq2TG"
+      "duration_ms": 170453,
+      "name": "Basura",
+      "url": "https://open.spotify.com/track/2Lwyx3R8KUFq2bHuiwccty"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Hace falta\u2026?",
+        "url": "https://open.spotify.com/album/5t0HwnzCCMGcMmervnzQRY"
+      },
+      "artists": [
+        {
+          "name": "Parabellum",
+          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "La locura - original",
+      "url": "https://open.spotify.com/track/4qoiW7KuyMkiShQgZkRGc6"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "J\u00f3dete",
         "url": "https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 142373,
       "name": "Las Drogas",
       "url": "https://open.spotify.com/track/12UZTr5xsKm79TzQkmYRUf"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Hace falta\u2026?",
-        "url": "https://open.spotify.com/album/5t0HwnzCCMGcMmervnzQRY"
-      },
-      "artists": [
-        {
-          "name": "Parabellum",
-          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "La locura - original",
-      "url": "https://open.spotify.com/track/4qoiW7KuyMkiShQgZkRGc6"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "No Te Muevas y Zona Especial Norte",
-        "url": "https://open.spotify.com/album/37R9s562KSQPqUm2TYWe7h"
+        "name": "Envenenado",
+        "url": "https://open.spotify.com/album/5GO7H2fSWsSs8QA7ahTcsK"
       },
       "artists": [
         {
-          "name": "RIP",
-          "url": "https://open.spotify.com/artist/4P40mhKEotTwKd3cFNtwG4"
+          "name": "Parabellum",
+          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
         }
       ],
-      "duration_ms": 226093,
-      "name": "Enamorado de la Muerte",
-      "url": "https://open.spotify.com/track/4en5NpD2ZD6CpHeHIFTbzp"
+      "duration_ms": 186493,
+      "name": "Nos Enga\u00f1an - original",
+      "url": "https://open.spotify.com/track/0WFeE2O8RI03RheJ4PPbDr"
     }
   ],
   "unique_name": "Punk Espa\u00f1ol",

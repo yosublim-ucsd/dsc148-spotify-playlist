@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-618 songs - 2 day 1 hr 9 min
+619 songs - 2 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Eternity](https://open.spotify.com/track/4XzeThE3txvCBIrP40tj85) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Eternity](https://open.spotify.com/album/0U7a7nBQGHhDyDuhBxc3mw) | 3:06 | 2023-02-10 | 2023-03-11 |
 | [Eternity](https://open.spotify.com/track/1qolXijooNmOF6qs5Jz7Aq) | [Matador](https://open.spotify.com/artist/1UcYY5JDPe05nqjODiVkx1), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Eternity](https://open.spotify.com/album/0PUSgcVtMYG0RkeE6IQyxC) | 6:56 | 2022-11-23 | 2023-01-28 |
 | [Ethereal](https://open.spotify.com/track/1DRWVug99sP9SfkqZDQySd) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Ethereal](https://open.spotify.com/album/6q5svHlasvR7X9xfj911kL) | 3:52 | 2024-09-26 | 2024-10-11 |
+| [Euphoria](https://open.spotify.com/track/6m1B316ZF6UpDQwhz34Zfr) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Euphoria](https://open.spotify.com/album/1SL5y9nXB0monY11oF6x4u) | 3:58 | 2024-10-31 |  |
 | [Euphoria](https://open.spotify.com/track/29bvDzVtefT0PDoC4BDUpQ) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Euphoria \| Tanz der Planeten](https://open.spotify.com/album/4DRNTwsmWHDch8Sizreid3) | 7:32 | 2023-09-01 | 2023-09-30 |
 | [Every Breath](https://open.spotify.com/track/6mTWTcuOnCGktsCXeCEEjK) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Every Breath](https://open.spotify.com/album/4UUnFvSEbJhp6Tyuut9ncu) | 3:25 | 2024-07-25 |  |
 | [Exploration](https://open.spotify.com/track/5F1zvhsJgKnoQ0SsHXYFcs) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Exploration](https://open.spotify.com/album/3tgWHAwuMFYX4Bv1KhW4yx) | 6:47 | 2023-11-09 | 2024-07-13 |
@@ -460,7 +461,7 @@
 | [RITMO](https://open.spotify.com/track/3ifvaAvaSYo1WDWXxAiv2A) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [RITMO](https://open.spotify.com/album/0OD7izYJwTmirMdqjOS43Q) | 3:13 | 2024-10-31 |  |
 | [Rituals](https://open.spotify.com/track/4AgbFfaJGqz7vBCpmapJQO) | [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI), [Andy Kulter](https://open.spotify.com/artist/2wHIfsNcNgN0dKxYa2XOF6) | [Rituals](https://open.spotify.com/album/6aPY8GoHHfEUv1aVMMf58J) | 5:57 | 2022-12-28 | 2023-01-06 |
 | [Robotic Arms](https://open.spotify.com/track/6FS5LBxQT7AfvcGzewS97H) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Robotic Arms](https://open.spotify.com/album/1znZNepyc0BEmAqyhPXTUR) | 3:50 | 2023-08-04 | 2024-01-06 |
-| [Rondo](https://open.spotify.com/track/6CwxmhlcNrTpyM2GyhyUp3) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Rondo](https://open.spotify.com/album/3BR2YAI30QHuaYx95WWlZD) | 2:26 | 2024-04-04 |  |
+| [Rondo](https://open.spotify.com/track/6CwxmhlcNrTpyM2GyhyUp3) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Rondo](https://open.spotify.com/album/3BR2YAI30QHuaYx95WWlZD) | 2:26 | 2024-04-04 | 2024-11-07 |
 | [Run & Hide \- Ae:ther Remix](https://open.spotify.com/track/1vPsTGsRfdTRhzUHG7kTLF) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Run & Hide \(Ae:ther Remix\)](https://open.spotify.com/album/1YfMh6jxGPAdTxuRIYESMS) | 7:02 | 2022-12-02 | 2023-02-04 |
 | [Running](https://open.spotify.com/track/1UK6MLsIj7Ioj0BlXl2T8f) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [By My Side](https://open.spotify.com/album/0qpTdZu8Wd1kTdHzYfk5cK) | 6:46 | 2024-02-01 | 2024-03-23 |
 | [Running Man](https://open.spotify.com/track/7irrCOHmsuQve6JLGCMB0w) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Running Man](https://open.spotify.com/album/5f97vFiQaKNaPWJmm7wsCf) | 3:11 | 2024-01-12 | 2024-10-11 |

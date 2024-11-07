@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 292194,
+  "num_followers": 292207,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZygOgAAAAAAsTLakHPZ3KOP4A/7nXtPq",
+  "snapshot_id": "ZylgAAAAAAAF9D9KOoLLqz79mcwCDsvb",
   "tracks": [
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Book of Taliesyn",
-        "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
+        "name": "Who Do We Think We Are (Remastered)",
+        "url": "https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 283173,
-      "name": "Kentucky Woman - 1998 Remaster",
-      "url": "https://open.spotify.com/track/3rI5e4tFTlWEwJi4TjLeGT"
+      "duration_ms": 326906,
+      "name": "Rat Bat Blue - Remastered",
+      "url": "https://open.spotify.com/track/7eUDIVvnoFyhkNqxXsmaqr"
     },
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Do We Think We Are (Remastered)",
-        "url": "https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y"
+        "name": "The Book of Taliesyn",
+        "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 326906,
-      "name": "Rat Bat Blue - Remastered",
-      "url": "https://open.spotify.com/track/7eUDIVvnoFyhkNqxXsmaqr"
+      "duration_ms": 283173,
+      "name": "Kentucky Woman - 1998 Remaster",
+      "url": "https://open.spotify.com/track/3rI5e4tFTlWEwJi4TjLeGT"
     }
   ],
   "unique_name": "This Is Deep Purple",

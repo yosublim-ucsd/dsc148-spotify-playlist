@@ -1,12 +1,12 @@
 {
   "description": "\u201cWith summer winding down, I wanted to share some songs that I\u2019ve been listening to lately \u2013 and it wouldn\u2019t be my playlist if it didn\u2019t include an eclectic mix,\u201d.  Includes Summer 23 edition &amp; bonus tracks.",
-  "num_followers": 131780,
+  "num_followers": 131765,
   "original_name": "Obama\u2019s Summer Playlist 2024",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAAp2sh4IvkBnnlMmsotz/X7yP2K8b+o",
+  "snapshot_id": "AAAp5DghTY2xwYEko9SDGukDrFcZEBbK",
   "tracks": [
     {
       "added_at": "2024-08-12 20:19:27",
@@ -25,20 +25,36 @@
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
-      "added_at": "2024-11-05 23:29:04",
+      "added_at": "2024-11-06 23:31:21",
       "album": {
-        "name": "The Local",
-        "url": "https://open.spotify.com/album/6trJOo0qr91FVN7GLa8SzL"
+        "name": "Those Were The Days",
+        "url": "https://open.spotify.com/album/6Vr6CdKIwoUJ1Kgrk6xbY7"
       },
       "artists": [
         {
-          "name": "Jody Glenham",
-          "url": "https://open.spotify.com/artist/4yC5LRKMoOFedYvLJKhiYW"
+          "name": "Calabasas",
+          "url": "https://open.spotify.com/artist/1hTxTWi0qO9VGuG9elXEcZ"
         }
       ],
-      "duration_ms": 151581,
-      "name": "The Local",
-      "url": "https://open.spotify.com/track/3onJ6ztBx5RI9BzdKW0kez"
+      "duration_ms": 173990,
+      "name": "Those Were The Days",
+      "url": "https://open.spotify.com/track/6I7rpQAaymiIZFnIpTOOhH"
+    },
+    {
+      "added_at": "2024-11-06 23:24:51",
+      "album": {
+        "name": "Speed of Light",
+        "url": "https://open.spotify.com/album/0xd5uUnMCNy1TY5ToyL2Mu"
+      },
+      "artists": [
+        {
+          "name": "Mahdi",
+          "url": "https://open.spotify.com/artist/1OkLHAfHm0bWtdaYGCuARa"
+        }
+      ],
+      "duration_ms": 165117,
+      "name": "Speed of Light",
+      "url": "https://open.spotify.com/track/0Dl2nrGqxIEh2zmWnXn9Q3"
     },
     {
       "added_at": "2024-08-12 20:20:17",
@@ -87,26 +103,6 @@
       "duration_ms": 178041,
       "name": "Love Me JeJe",
       "url": "https://open.spotify.com/track/1eDI5oU04SLsXl0TfxfwYf"
-    },
-    {
-      "added_at": "2024-11-05 23:22:49",
-      "album": {
-        "name": "LONG DRIVE (stripped)",
-        "url": "https://open.spotify.com/album/2rpWGNWeKwAdKMAzzsjbCk"
-      },
-      "artists": [
-        {
-          "name": "Chris DuPont",
-          "url": "https://open.spotify.com/artist/3yRhMwMkm2gWO27hxRzHZA"
-        },
-        {
-          "name": "Nate Veldhoff",
-          "url": "https://open.spotify.com/artist/5UAJzsobfXFgNItXHbraXQ"
-        }
-      ],
-      "duration_ms": 298500,
-      "name": "LONG DRIVE (stripped)",
-      "url": "https://open.spotify.com/track/1bQiY1zmmRCZCuVC9jRFGa"
     },
     {
       "added_at": "2024-08-12 20:21:38",
@@ -347,6 +343,38 @@
       "duration_ms": 340360,
       "name": "Unsuffer Me",
       "url": "https://open.spotify.com/track/3tJvIep0xivOdA6xCjGVQS"
+    },
+    {
+      "added_at": "2024-11-06 23:32:12",
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/6ezAMUKxAeflPDY2snEV86"
+      },
+      "artists": [
+        {
+          "name": "EDGAR",
+          "url": "https://open.spotify.com/artist/39xSftp91F9zeLu20DMwLc"
+        }
+      ],
+      "duration_ms": 131625,
+      "name": "MAD",
+      "url": "https://open.spotify.com/track/6zgvXX52nlSRVsY5mfkT8u"
+    },
+    {
+      "added_at": "2024-11-06 23:30:34",
+      "album": {
+        "name": "Fine Lines",
+        "url": "https://open.spotify.com/album/4QA7APL1546g4NO0SvoUD4"
+      },
+      "artists": [
+        {
+          "name": "SummersEnd",
+          "url": "https://open.spotify.com/artist/3Y4kzRSDDPOxV8pWr1j5EB"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Fine Lines",
+      "url": "https://open.spotify.com/track/6CdJA3CP9fOrb1kJiN26Ed"
     },
     {
       "added_at": "2024-08-12 20:30:11",
@@ -1505,22 +1533,6 @@
       "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
     },
     {
-      "added_at": "2024-10-31 12:55:27",
-      "album": {
-        "name": "Give Me A Sign?",
-        "url": "https://open.spotify.com/album/60YXL5gJybKpZiZrTxYe6X"
-      },
-      "artists": [
-        {
-          "name": "Ayla Tesler-Mab\u00e9",
-          "url": "https://open.spotify.com/artist/3BEEiUnWFsmP8EbK0QCe1O"
-        }
-      ],
-      "duration_ms": 236615,
-      "name": "Give Me A Sign?",
-      "url": "https://open.spotify.com/track/7pccPyIVWGHZ7LF9V7FdTK"
-    },
-    {
       "added_at": "2024-10-18 15:25:31",
       "album": {
         "name": "Spells Me Under",
@@ -1535,6 +1547,22 @@
       "duration_ms": 286000,
       "name": "Spells Me Under",
       "url": "https://open.spotify.com/track/5W6fuhOICEbXmHzJK6sKuX"
+    },
+    {
+      "added_at": "2024-10-31 12:55:27",
+      "album": {
+        "name": "Give Me A Sign?",
+        "url": "https://open.spotify.com/album/60YXL5gJybKpZiZrTxYe6X"
+      },
+      "artists": [
+        {
+          "name": "Ayla Tesler-Mab\u00e9",
+          "url": "https://open.spotify.com/artist/3BEEiUnWFsmP8EbK0QCe1O"
+        }
+      ],
+      "duration_ms": 236615,
+      "name": "Give Me A Sign?",
+      "url": "https://open.spotify.com/track/7pccPyIVWGHZ7LF9V7FdTK"
     },
     {
       "added_at": "2024-11-01 12:47:39",
@@ -1601,22 +1629,6 @@
       "url": "https://open.spotify.com/track/4uCSvw3WJD0lWjm3Rp5knF"
     },
     {
-      "added_at": "2024-10-25 12:58:19",
-      "album": {
-        "name": "miss my flight",
-        "url": "https://open.spotify.com/album/5NAi7nNYLEx4KuGCs7ctUt"
-      },
-      "artists": [
-        {
-          "name": "Yana Rose",
-          "url": "https://open.spotify.com/artist/5pC28dnohJ0RhlvlZkYJQ5"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "miss my flight",
-      "url": "https://open.spotify.com/track/5nE25XQ9GiS0JxhoSBkZ8q"
-    },
-    {
       "added_at": "2024-10-30 13:29:36",
       "album": {
         "name": "The Devil Knows",
@@ -1663,22 +1675,6 @@
       "duration_ms": 240000,
       "name": "Golden Day",
       "url": "https://open.spotify.com/track/6Y6P1CK1E6awpyT3TeyQaD"
-    },
-    {
-      "added_at": "2024-10-25 12:48:01",
-      "album": {
-        "name": "Summerset, Vol. 2",
-        "url": "https://open.spotify.com/album/58lz7FZHQmif63Pd5s7mg7"
-      },
-      "artists": [
-        {
-          "name": "J. Paris",
-          "url": "https://open.spotify.com/artist/1J6V86xKTSp4vPkNuR0Asx"
-        }
-      ],
-      "duration_ms": 204210,
-      "name": "once again",
-      "url": "https://open.spotify.com/track/7zSbSZnW57BZWeSpuwezdn"
     },
     {
       "added_at": "2024-10-27 14:23:23",
@@ -1765,56 +1761,40 @@
       "url": "https://open.spotify.com/track/2aJpaLsXhdHv6a8Pzw7vZG"
     },
     {
-      "added_at": "2024-10-26 06:01:34",
+      "added_at": "2024-11-05 23:29:04",
       "album": {
-        "name": "Firefly",
-        "url": "https://open.spotify.com/album/6s9erImz1DedV4pU7LFlq4"
+        "name": "The Local",
+        "url": "https://open.spotify.com/album/6trJOo0qr91FVN7GLa8SzL"
       },
       "artists": [
         {
-          "name": "Arianna Tsar",
-          "url": "https://open.spotify.com/artist/5kui2MaTfVCYOyaLdE0iFV"
+          "name": "Jody Glenham",
+          "url": "https://open.spotify.com/artist/4yC5LRKMoOFedYvLJKhiYW"
         }
       ],
-      "duration_ms": 175955,
-      "name": "Firefly",
-      "url": "https://open.spotify.com/track/0pn19uG6B1oU4YOOYe63O2"
+      "duration_ms": 151581,
+      "name": "The Local",
+      "url": "https://open.spotify.com/track/3onJ6ztBx5RI9BzdKW0kez"
     },
     {
-      "added_at": "2024-10-26 12:01:17",
+      "added_at": "2024-11-05 23:22:49",
       "album": {
-        "name": "Stay the Night",
-        "url": "https://open.spotify.com/album/78XE8tp5b3cM8S6LJxp7fG"
+        "name": "LONG DRIVE (stripped)",
+        "url": "https://open.spotify.com/album/2rpWGNWeKwAdKMAzzsjbCk"
       },
       "artists": [
         {
-          "name": "Davis & The Love",
-          "url": "https://open.spotify.com/artist/2McDkoUAzi43Yzhf6D27wB"
-        }
-      ],
-      "duration_ms": 189098,
-      "name": "Stay the Night",
-      "url": "https://open.spotify.com/track/4XTc27fFhOXrHgIYDlDRc9"
-    },
-    {
-      "added_at": "2024-10-26 12:01:07",
-      "album": {
-        "name": "Too Tired To Cry",
-        "url": "https://open.spotify.com/album/7Gcb2tesZIUCWs79YOqASu"
-      },
-      "artists": [
-        {
-          "name": "Deya",
-          "url": "https://open.spotify.com/artist/6dwnZ7QgMyiu6uUt2w1ptk"
+          "name": "Chris DuPont",
+          "url": "https://open.spotify.com/artist/3yRhMwMkm2gWO27hxRzHZA"
         },
         {
-          "name": "Cassidy McCartney",
-          "url": "https://open.spotify.com/artist/3aMvV09fqmsTqo9Oa99OZe"
+          "name": "Nate Veldhoff",
+          "url": "https://open.spotify.com/artist/5UAJzsobfXFgNItXHbraXQ"
         }
       ],
-      "duration_ms": 212706,
-      "name": "Too Tired To Cry",
-      "url": "https://open.spotify.com/track/2NwK93uuqxfIzA16nqfPF5"
+      "duration_ms": 298500,
+      "name": "LONG DRIVE (stripped)",
+      "url": "https://open.spotify.com/track/1bQiY1zmmRCZCuVC9jRFGa"
     },
     {
       "added_at": "2024-11-02 18:00:25",
@@ -2055,138 +2035,6 @@
       "duration_ms": 167696,
       "name": "Love Wins",
       "url": "https://open.spotify.com/track/5QLGV9GErpmCLZ9W64JUIH"
-    },
-    {
-      "added_at": "2024-10-26 23:09:35",
-      "album": {
-        "name": "Better Than Your Ex",
-        "url": "https://open.spotify.com/album/7g0TqhnnfJM4c0nkXCdC5R"
-      },
-      "artists": [
-        {
-          "name": "Twinkie",
-          "url": "https://open.spotify.com/artist/1neFhq7yHQHSgTkJQfy21H"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "Better Than Your Ex",
-      "url": "https://open.spotify.com/track/6YL9N0JiSMGYbXDZ3w6D4m"
-    },
-    {
-      "added_at": "2024-10-26 23:07:23",
-      "album": {
-        "name": "Hood Boy Blues",
-        "url": "https://open.spotify.com/album/0SvHUIWaTmwacy2EsyAznf"
-      },
-      "artists": [
-        {
-          "name": "Xero Music",
-          "url": "https://open.spotify.com/artist/4XWdJYXmR4TY2gwnapByZd"
-        }
-      ],
-      "duration_ms": 202956,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/2q1ZYPHZXnmI3nLkJpHFb3"
-    },
-    {
-      "added_at": "2024-10-26 23:09:17",
-      "album": {
-        "name": "Come Back Home",
-        "url": "https://open.spotify.com/album/05HuSBfw3cZuL9gNhIwQPy"
-      },
-      "artists": [
-        {
-          "name": "Meeting of the Mimes",
-          "url": "https://open.spotify.com/artist/2uRJUGXt7p1rtEdPySZ8nh"
-        }
-      ],
-      "duration_ms": 252633,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/6UGP7Qli0iil3p7mH8Fi9H"
-    },
-    {
-      "added_at": "2024-10-26 23:08:07",
-      "album": {
-        "name": "Distraction",
-        "url": "https://open.spotify.com/album/4Ccu4orBf3E20YBljH6bCr"
-      },
-      "artists": [
-        {
-          "name": "Carlton Garceleon",
-          "url": "https://open.spotify.com/artist/2u3H0v6ocq44i6l3QVCoRA"
-        }
-      ],
-      "duration_ms": 247918,
-      "name": "Distraction",
-      "url": "https://open.spotify.com/track/3sfOHs2uLif4Z1Lk4mNewQ"
-    },
-    {
-      "added_at": "2024-10-26 23:09:22",
-      "album": {
-        "name": "Pose",
-        "url": "https://open.spotify.com/album/3Ci23o9DJB7nbRVoKbMOz2"
-      },
-      "artists": [
-        {
-          "name": "Miranda Writes",
-          "url": "https://open.spotify.com/artist/59gsvMbsZ0nMcn3xTFTxrK"
-        }
-      ],
-      "duration_ms": 143606,
-      "name": "Pose",
-      "url": "https://open.spotify.com/track/6XBHklgv9TopiuJk3qFO1q"
-    },
-    {
-      "added_at": "2024-10-26 23:09:15",
-      "album": {
-        "name": "Pr\u00e8s de toi (Radio Edit)",
-        "url": "https://open.spotify.com/album/73lrvC7EyizzLj5NWuf38W"
-      },
-      "artists": [
-        {
-          "name": "Florine Hautier",
-          "url": "https://open.spotify.com/artist/4TytLSINCNqWMdDI3CpKe4"
-        }
-      ],
-      "duration_ms": 159359,
-      "name": "Pr\u00e8s de toi - Radio Edit",
-      "url": "https://open.spotify.com/track/6QLx6OD4BwlwoXd4SMeAhA"
-    },
-    {
-      "added_at": "2024-10-26 23:06:32",
-      "album": {
-        "name": "Propane",
-        "url": "https://open.spotify.com/album/14sJT7l0Gq2vh8dfTmvAj8"
-      },
-      "artists": [
-        {
-          "name": "Bugz Ronin",
-          "url": "https://open.spotify.com/artist/3Qc7UE4wOXiNXi8vidQb2r"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 173172,
-      "name": "Propane",
-      "url": "https://open.spotify.com/track/0lUfnPwPxKrXD8Nby2sef2"
-    },
-    {
-      "added_at": "2024-10-26 23:08:57",
-      "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/5h6OGZIm80BtGbDTopuPuv"
-      },
-      "artists": [
-        {
-          "name": "Elline Day",
-          "url": "https://open.spotify.com/artist/0iClslv1V4PdKWLVzXyn2g"
-        }
-      ],
-      "duration_ms": 137902,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/5xIy9cysQ2zQ2VPlKxs1wk"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2024",

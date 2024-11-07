@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 82287,
+  "num_followers": 82336,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "Zapatear",
+        "url": "https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s"
+      },
+      "artists": [
+        {
+          "name": "Los Dutis",
+          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+        }
+      ],
+      "duration_ms": 162049,
+      "name": "Zapatear",
+      "url": "https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "Tus Besos",
         "url": "https://open.spotify.com/album/5eUI4VKc1cHEMTuIOBM2kg"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 180009,
       "name": "Tus Besos",
       "url": "https://open.spotify.com/track/1wbIYS28OVIKPPhgqJ2bFn"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Zapatear",
-        "url": "https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s"
-      },
-      "artists": [
-        {
-          "name": "Los Dutis",
-          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
-        }
-      ],
-      "duration_ms": 162049,
-      "name": "Zapatear",
-      "url": "https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -690,15 +690,11 @@
         {
           "name": "Alan Rosales",
           "url": "https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs"
-        },
-        {
-          "name": "Dj Otto",
-          "url": "https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK"
         }
       ],
-      "duration_ms": 202272,
-      "name": "Alegr\u00eda",
-      "url": "https://open.spotify.com/track/1Ktzh5ku3Uej6jKls3cNWN"
+      "duration_ms": 196363,
+      "name": "Ritmo Suelto",
+      "url": "https://open.spotify.com/track/6ykJqXUYnMKFQyN10mRYWT"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -786,11 +782,15 @@
         {
           "name": "Alan Rosales",
           "url": "https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs"
+        },
+        {
+          "name": "Dj Otto",
+          "url": "https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK"
         }
       ],
-      "duration_ms": 196363,
-      "name": "Ritmo Suelto",
-      "url": "https://open.spotify.com/track/6ykJqXUYnMKFQyN10mRYWT"
+      "duration_ms": 202272,
+      "name": "Alegr\u00eda",
+      "url": "https://open.spotify.com/track/1Ktzh5ku3Uej6jKls3cNWN"
     },
     {
       "added_at": "2024-07-05 22:41:57",

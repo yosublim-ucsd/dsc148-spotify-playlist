@@ -4,7 +4,7 @@
 
 > ONE DREAM with TXT!
 
-132 songs - 7 hr 1 min
+133 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Our Summer \(Acoustic Mix\)](https://open.spotify.com/track/5FFtpF6rg5xdz3EwGFbUMg) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Our Summer \(Acoustic Mix\)](https://open.spotify.com/album/0fA75IiylPro5rHnIiD2mf) | 3:41 | 2022-05-12 | 2024-04-19 |
 | [Our Summer \- Acoustic Mix](https://open.spotify.com/track/1NsXtssC26w1hFeab76vg9) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Our Summer \(Acoustic Mix\)](https://open.spotify.com/album/6c79TLjIhBBVSeJ6QtpVJK) | 3:41 | 2022-05-12 |  |
 | [Outro : FALLING](https://open.spotify.com/track/4e6VsQ4MBI6hAFXMrEFSUV) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [SWEET](https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy) | 2:09 | 2023-08-17 |  |
+| [Over The Moon](https://open.spotify.com/track/3BQeCOUf7M9B7NEpx9r4qj) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: SANCTUARY](https://open.spotify.com/album/72JboNccBYyXR676YNfcYE) | 2:37 | 2024-11-06 |  |
 | [Poppin' Star](https://open.spotify.com/track/0Uzy6FHTYob2CbWisMz4Ap) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) | 3:13 | 2022-05-12 | 2024-04-19 |
 | [Poppin' Star](https://open.spotify.com/track/3lsZoIoCmuFfU07hkRMlnP) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv) | 3:13 | 2022-05-12 |  |
 | [PS5](https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [\(MORE\) Unsponsored Content](https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye) | 2:32 | 2023-09-27 | 2024-04-19 |

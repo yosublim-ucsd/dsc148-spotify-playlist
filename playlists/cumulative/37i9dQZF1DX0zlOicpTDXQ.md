@@ -2,7 +2,7 @@
 
 ### [Netflix Holidays Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX0zlOicpTDXQ)
 
-> Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Brandy in Best\. Christmas\. Ever.
+> Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Pentatonix in Meet Me Next Christmas
 
 84 songs - 4 hr 13 min
 

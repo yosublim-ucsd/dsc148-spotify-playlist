@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Tyler, The Creator
 
-2,774 songs - 6 day 11 hr 16 min
+2,776 songs - 6 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,6 +616,7 @@
 | [Dark \(feat\. Greentea Peng\)](https://open.spotify.com/track/3xePjjNarqGa0Gn4XnkUmu) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [James Davidson](https://open.spotify.com/artist/1eyorkwMy8ypw2tA5SzIXy), [Subjective](https://open.spotify.com/artist/4klCXFX14JSVZNQ2vEaLwH), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Dark \(feat\. Greentea Peng\)](https://open.spotify.com/album/0YBlt6P06C3fJ2OOJiBywd) | 3:57 | 2022-01-28 | 2022-03-26 |
 | [Dark Gethsemane](https://open.spotify.com/track/1xPJ0SgzhaFllWByZ3HHtp) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Shock Power of Love EP](https://open.spotify.com/album/5FiCfm0YiBWmgJ8zU8DvZy) | 9:59 | 2021-04-30 | 2022-01-15 |
 | [Darlin'](https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:28 | 2024-10-18 |  |
+| [Darling, I \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 | 2024-11-06 |  |
 | [Day Dreaming](https://open.spotify.com/track/4SD9La0LQOeWgxdmWU1g43) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Day Dreaming](https://open.spotify.com/album/4cZS7wksFqyCGblehHhhep) | 3:09 | 2020-11-14 | 2021-02-18 |
 | [day to day](https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [CROSSOVER \(Deluxe\)](https://open.spotify.com/album/3blh2LrECEQA15PwechWtO) | 2:57 | 2022-09-23 | 2022-11-12 |
 | [DAYDREAM](https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 3:01 | 2023-02-17 | 2023-03-25 |
@@ -1042,6 +1043,7 @@
 | [Gutter! \(feat\. WARA\)](https://open.spotify.com/track/61n83joQqg4x2cXXWi9jkm) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP), [WARA](https://open.spotify.com/artist/2Ht07O62G5N6LTqguC92qG) | [Gutter! \(feat\. WARA\)](https://open.spotify.com/album/6owqbAiaZ8txCMgYqWu8ve) | 2:56 | 2021-07-02 | 2021-09-09 |
 | [H34T RISES](https://open.spotify.com/track/3RyYEO5TEyTUP4t8fFDMzk) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [H34T RISES](https://open.spotify.com/album/236UmP2YMSjpGVRSJNl9Ce) | 2:50 | 2019-10-11 | 2020-01-28 |
 | [Habla Con Ella](https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 3:24 | 2023-10-27 | 2023-12-16 |
+| [Hacker](https://open.spotify.com/track/7yokdvwHVF5Ejp5iqP4FhY) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Hacker](https://open.spotify.com/album/0S7e6QKCfYDmvIVujOC9S8) | 2:59 | 2024-11-06 |  |
 | [Had Enough](https://open.spotify.com/track/1SYAIGgec3CYyBVEx54yPV) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Had Enough](https://open.spotify.com/album/1MK61U71q2xC6VXFR8D4X2) | 3:33 | 2024-09-13 |  |
 | [HAHA \(feat\. Pusha T\)](https://open.spotify.com/track/2H01cB8CXFLRc4TriH5UYW) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [HAHA \(feat\. Pusha T\)](https://open.spotify.com/album/01dfvcwL8PhZ9IDlzjBO4M) | 2:09 | 2022-09-23 | 2022-10-08 |
 | [Hair Down \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6sq5mqtS3jwJjvBHALknJH) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Hair Down \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/5w27XydFTwAPV5GjsWya37) | 3:37 | 2019-08-09 | 2020-07-10 |

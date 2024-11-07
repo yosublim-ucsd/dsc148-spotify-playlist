@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 69813,
+  "num_followers": 69822,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -551,18 +551,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "S\u00e5 nice",
-        "url": "https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y"
+        "name": "Baluns",
+        "url": "https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN"
       },
       "artists": [
         {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        },
+        {
+          "name": "Dirty Jens",
+          "url": "https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7"
         }
       ],
-      "duration_ms": 169500,
-      "name": "S\u00e5 nice",
-      "url": "https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO"
+      "duration_ms": 155294,
+      "name": "Baluns",
+      "url": "https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -607,22 +611,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Baluns",
-        "url": "https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN"
+        "name": "S\u00e5 nice",
+        "url": "https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y"
       },
       "artists": [
         {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
-        },
-        {
-          "name": "Dirty Jens",
-          "url": "https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7"
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
         }
       ],
-      "duration_ms": 155294,
-      "name": "Baluns",
-      "url": "https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3"
+      "duration_ms": 169500,
+      "name": "S\u00e5 nice",
+      "url": "https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "Pirret",
+        "url": "https://open.spotify.com/album/5zvIrBTquTxatX4YerGuzM"
+      },
+      "artists": [
+        {
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        }
+      ],
+      "duration_ms": 260079,
+      "name": "Pirret",
+      "url": "https://open.spotify.com/track/5ign6ygkGPmRsfJiRnU84g"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "\u00d6PPNA D\u00d6RREN NU",
         "url": "https://open.spotify.com/album/5HRiXThDZ9KwAxUqexOM5n"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 200000,
       "name": "\u00d6PPNA D\u00d6RREN NU",
       "url": "https://open.spotify.com/track/6QiJCelGcYup3VbxK0tYc1"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
-        "url": "https://open.spotify.com/album/1jFdSfYFWx0qE3OsZ4iPjG"
-      },
-      "artists": [
-        {
-          "name": "Promoe",
-          "url": "https://open.spotify.com/artist/6tbXwhqy3WAFqanusCLvEU"
-        }
-      ],
-      "duration_ms": 206853,
-      "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
-      "url": "https://open.spotify.com/track/14MW91DLP58duFYEGP8q7b"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -795,18 +795,38 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Pirret",
-        "url": "https://open.spotify.com/album/5zvIrBTquTxatX4YerGuzM"
+        "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
+        "url": "https://open.spotify.com/album/1jFdSfYFWx0qE3OsZ4iPjG"
+      },
+      "artists": [
+        {
+          "name": "Promoe",
+          "url": "https://open.spotify.com/artist/6tbXwhqy3WAFqanusCLvEU"
+        }
+      ],
+      "duration_ms": 206853,
+      "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
+      "url": "https://open.spotify.com/track/14MW91DLP58duFYEGP8q7b"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Fr\u00e5n och med Du",
+        "url": "https://open.spotify.com/album/4roiBkmOkDwfZHpI6spw6G"
       },
       "artists": [
         {
           "name": "Antonio D",
           "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        },
+        {
+          "name": "Wha Gwaan Band",
+          "url": "https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG"
         }
       ],
-      "duration_ms": 260079,
-      "name": "Pirret",
-      "url": "https://open.spotify.com/track/5ign6ygkGPmRsfJiRnU84g"
+      "duration_ms": 260000,
+      "name": "Fr\u00e5n och med Du",
+      "url": "https://open.spotify.com/track/2wStsM878RWyPXv0yMfpca"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -847,22 +867,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Kommunikation",
-        "url": "https://open.spotify.com/album/6BQRiqwjB5mCHw9KRPi8hV"
-      },
-      "artists": [
-        {
-          "name": "WillMan",
-          "url": "https://open.spotify.com/artist/6lBmkgJlLqV4FXbb2JFMXu"
-        }
-      ],
-      "duration_ms": 161098,
-      "name": "Kommunikation",
-      "url": "https://open.spotify.com/track/1hvDqEicCytaKVoxyuw8XH"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Back on track",
         "url": "https://open.spotify.com/album/79ja6VUuZvbr0g7POJ1Xb1"
       },
@@ -887,22 +891,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "L\u00e5t oss leva",
-        "url": "https://open.spotify.com/album/7eZiMT7X683E3WsO5PoMOk"
+        "name": "Kommunikation",
+        "url": "https://open.spotify.com/album/6BQRiqwjB5mCHw9KRPi8hV"
       },
       "artists": [
         {
-          "name": "Lani Mo",
-          "url": "https://open.spotify.com/artist/45hO5u8evtwIpSYefQHW8P"
-        },
-        {
-          "name": "Allyawan",
-          "url": "https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f"
+          "name": "WillMan",
+          "url": "https://open.spotify.com/artist/6lBmkgJlLqV4FXbb2JFMXu"
         }
       ],
-      "duration_ms": 220527,
-      "name": "L\u00e5t oss leva",
-      "url": "https://open.spotify.com/track/30rJhrVMHZtStKYxWoJfZf"
+      "duration_ms": 161098,
+      "name": "Kommunikation",
+      "url": "https://open.spotify.com/track/1hvDqEicCytaKVoxyuw8XH"
     }
   ],
   "unique_name": "Svensk Reggae",

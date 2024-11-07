@@ -137,6 +137,24 @@
     },
     {
       "album": {
+        "name": "Brintex Collective",
+        "url": "https://open.spotify.com/album/5ZF3L4OqPNuZUagTWHFlmC"
+      },
+      "artists": [
+        {
+          "name": "Brintex Collective",
+          "url": "https://open.spotify.com/artist/5jS72nZgNklECz7m1Lj7zR"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 603929,
+      "name": "After Twelve",
+      "url": "https://open.spotify.com/track/0o82woRF9nuEMhpxZF89Cd"
+    },
+    {
+      "album": {
         "name": "Ain't That Somethin'",
         "url": "https://open.spotify.com/album/6RlS5tZbxU06yoAxpQiKoE"
       },
@@ -1538,7 +1556,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 341826,
       "name": "Gravitate",
       "url": "https://open.spotify.com/track/3i97OJms85ExXn3lf9cHF2"

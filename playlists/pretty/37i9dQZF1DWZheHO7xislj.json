@@ -1,6 +1,6 @@
 {
   "description": "Perfect music for perfect food.",
-  "num_followers": 141086,
+  "num_followers": 141089,
   "original_name": "Soul Cuisine",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
-        "name": "If That's What It Takes",
-        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
-      },
-      "artists": [
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        }
-      ],
-      "duration_ms": 222280,
-      "name": "I Keep Forgettin' (Every Time You're Near)",
-      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
         "name": "Back Stabbers",
         "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 178400,
       "name": "Love Train",
       "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
+        "name": "If That's What It Takes",
+        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
+      },
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 222280,
+      "name": "I Keep Forgettin' (Every Time You're Near)",
+      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "I Never Loved a Man (The Way I Love You)",
-      "url": "https://open.spotify.com/track/1hES47PrbU8GPTI5A9lsr0"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
         "name": "I Love The Way You Love",
         "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 169533,
       "name": "Clean up Woman",
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "I Never Loved a Man (The Way I Love You)",
+      "url": "https://open.spotify.com/track/1hES47PrbU8GPTI5A9lsr0"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
-        "name": "The Essentials: Ruth Brown",
-        "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
         "name": "Black Radio",
         "url": "https://open.spotify.com/album/1yqUCdbw73DpnHBVDwNa3X"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
+        "name": "The Essentials: Ruth Brown",
+        "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
         "name": "The George Benson Collection",
         "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
       },
@@ -567,6 +567,26 @@
       "duration_ms": 316160,
       "name": "On Broadway",
       "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
+        "name": "It's Your Night",
+        "url": "https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs"
+      },
+      "artists": [
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        },
+        {
+          "name": "Patti Austin",
+          "url": "https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd"
+        }
+      ],
+      "duration_ms": 254880,
+      "name": "How Do You Keep The Music Playing",
+      "url": "https://open.spotify.com/track/3lrpllvYQtR0WxSe5PLVLG"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -619,26 +639,6 @@
       "duration_ms": 413773,
       "name": "The Ghetto",
       "url": "https://open.spotify.com/track/1yeIxOEFmpQ3qlOb2R3g2m"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
-        "name": "It's Your Night",
-        "url": "https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs"
-      },
-      "artists": [
-        {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
-        },
-        {
-          "name": "Patti Austin",
-          "url": "https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd"
-        }
-      ],
-      "duration_ms": 254880,
-      "name": "How Do You Keep The Music Playing",
-      "url": "https://open.spotify.com/track/3lrpllvYQtR0WxSe5PLVLG"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/3HvP4iWWHOzRNCJSPQU7Ng"
-      },
-      "artists": [
-        {
-          "name": "Gil Scott-Heron",
-          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "Gun",
-      "url": "https://open.spotify.com/track/0MCEM7WuIw4tS9ih4HGE1S"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
         "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
         "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 210280,
       "name": "Wonderful World",
       "url": "https://open.spotify.com/track/61xW0GqeX38uF0elO3jjql"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/3HvP4iWWHOzRNCJSPQU7Ng"
+      },
+      "artists": [
+        {
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+        }
+      ],
+      "duration_ms": 239906,
+      "name": "Gun",
+      "url": "https://open.spotify.com/track/0MCEM7WuIw4tS9ih4HGE1S"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
+        "name": "Rejuvenation",
+        "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
+      },
+      "artists": [
+        {
+          "name": "The Meters",
+          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
+        }
+      ],
+      "duration_ms": 318800,
+      "name": "People Say",
+      "url": "https://open.spotify.com/track/746CCMLis8SK64lLVXMF1d"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
         "name": "Been and Gone",
         "url": "https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 280218,
       "name": "Been and Gone",
       "url": "https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
-        "name": "Rejuvenation",
-        "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
-      },
-      "artists": [
-        {
-          "name": "The Meters",
-          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
-        }
-      ],
-      "duration_ms": 318800,
-      "name": "People Say",
-      "url": "https://open.spotify.com/track/746CCMLis8SK64lLVXMF1d"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
-        "name": "Be Thankful for What You Got",
-        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
-      },
-      "artists": [
-        {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
-        }
-      ],
-      "duration_ms": 429371,
-      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
-      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
         "name": "Family Dinner - Vol. 1",
         "url": "https://open.spotify.com/album/7uveEcuLgfEecFLxABRKnO"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 455640,
       "name": "Something",
       "url": "https://open.spotify.com/track/2U52Hp8zYnG2kvt2de0M2L"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
+        "name": "Be Thankful for What You Got",
+        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
+      },
+      "artists": [
+        {
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+        }
+      ],
+      "duration_ms": 429371,
+      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
+      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -1719,22 +1719,6 @@
       "duration_ms": 144826,
       "name": "(Sweet Sweet Baby) Since You've Been Gone",
       "url": "https://open.spotify.com/track/2TDtmu5mxyTKVq9fHBfREV"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
-        "name": "Can't Stop Dancing, Vol. 6",
-        "url": "https://open.spotify.com/album/67Za0D5XluGk4Bm1WlQrIc"
-      },
-      "artists": [
-        {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
-        }
-      ],
-      "duration_ms": 416626,
-      "name": "Be Thankful for What You've Got - David Todd Remix",
-      "url": "https://open.spotify.com/track/2TKt71TTe2CZCFsphbIZEs"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -1815,6 +1799,22 @@
       "duration_ms": 138426,
       "name": "100 Yard Dash",
       "url": "https://open.spotify.com/track/7jFwAShOiIVSva2rrXbzpr"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
+        "name": "Can't Stop Dancing, Vol. 6",
+        "url": "https://open.spotify.com/album/67Za0D5XluGk4Bm1WlQrIc"
+      },
+      "artists": [
+        {
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+        }
+      ],
+      "duration_ms": 416626,
+      "name": "Be Thankful for What You've Got - David Todd Remix",
+      "url": "https://open.spotify.com/track/2TKt71TTe2CZCFsphbIZEs"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
+        "name": "The Complete Hill Records Collection/United Artists Recordings, 1972-1975",
+        "url": "https://open.spotify.com/album/38gFdPttguW1vo0xaYnYYu"
+      },
+      "artists": [
+        {
+          "name": "Z.Z. Hill",
+          "url": "https://open.spotify.com/artist/1gdaEBrH99AfhsiQNbaSBp"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Clean Up America",
+      "url": "https://open.spotify.com/track/13vU04HyQYUs9zKumjcXAk"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
         "name": "Sunday's Best",
         "url": "https://open.spotify.com/album/1fve3JXTenvbGiZEodDqgK"
       },
@@ -1959,22 +1975,6 @@
       "duration_ms": 166816,
       "name": "Ooo Baby Baby",
       "url": "https://open.spotify.com/track/7q3jpZxhLMt5YQO54zzPbB"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
-        "name": "The Complete Hill Records Collection/United Artists Recordings, 1972-1975",
-        "url": "https://open.spotify.com/album/38gFdPttguW1vo0xaYnYYu"
-      },
-      "artists": [
-        {
-          "name": "Z.Z. Hill",
-          "url": "https://open.spotify.com/artist/1gdaEBrH99AfhsiQNbaSBp"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Clean Up America",
-      "url": "https://open.spotify.com/track/13vU04HyQYUs9zKumjcXAk"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -2011,18 +2011,18 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
-        "name": "Sing Me a Song",
-        "url": "https://open.spotify.com/album/0N6sFugBivjG1IEUlriDHN"
+        "name": "I'll Come Running Back (Mr Scruff Edit) - Single",
+        "url": "https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl"
       },
       "artists": [
         {
-          "name": "Sherry Dyanne",
-          "url": "https://open.spotify.com/artist/2JACl2MnidXPb6QeRrsaVB"
+          "name": "Sandra Wright",
+          "url": "https://open.spotify.com/artist/7ljM9d3lbU9yR0NN8z18ER"
         }
       ],
-      "duration_ms": 244586,
-      "name": "Lift My Blues",
-      "url": "https://open.spotify.com/track/0OKGYoLV41gGrNyfNpWlsa"
+      "duration_ms": 125040,
+      "name": "I'll Come Running Back (Mr Scruff Edit)",
+      "url": "https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -2043,18 +2043,18 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
-        "name": "I'll Come Running Back (Mr Scruff Edit) - Single",
-        "url": "https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl"
+        "name": "Sing Me a Song",
+        "url": "https://open.spotify.com/album/0N6sFugBivjG1IEUlriDHN"
       },
       "artists": [
         {
-          "name": "Sandra Wright",
-          "url": "https://open.spotify.com/artist/7ljM9d3lbU9yR0NN8z18ER"
+          "name": "Sherry Dyanne",
+          "url": "https://open.spotify.com/artist/2JACl2MnidXPb6QeRrsaVB"
         }
       ],
-      "duration_ms": 125040,
-      "name": "I'll Come Running Back (Mr Scruff Edit)",
-      "url": "https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj"
+      "duration_ms": 244586,
+      "name": "Lift My Blues",
+      "url": "https://open.spotify.com/track/0OKGYoLV41gGrNyfNpWlsa"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
-        "name": "Lean On Me - The Songs Of Bill Withers (Bonustrack Edition)",
-        "url": "https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
-        }
-      ],
-      "duration_ms": 254040,
-      "name": "Kissing My Love",
-      "url": "https://open.spotify.com/track/7fljysjck4bLIJrJihDngN"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1fvAt6txgwrzz0ULXhARpT"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 243426,
       "name": "Tender",
       "url": "https://open.spotify.com/track/6xd6wN0uNxx1YMOv1BwHNm"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
+        "name": "Lean On Me - The Songs Of Bill Withers (Bonustrack Edition)",
+        "url": "https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        }
+      ],
+      "duration_ms": 254040,
+      "name": "Kissing My Love",
+      "url": "https://open.spotify.com/track/7fljysjck4bLIJrJihDngN"
     },
     {
       "added_at": "2024-10-25 07:46:43",
@@ -2583,6 +2583,22 @@
     {
       "added_at": "2024-10-25 07:46:43",
       "album": {
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/3k6u76lSaKt4FrxSphXPRj"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/3AR9uXc8JbOVfe92kzmJTH"
+    },
+    {
+      "added_at": "2024-10-25 07:46:43",
+      "album": {
         "name": "The Best Of Harold Melvin & The Blue Notes: If You Don't Know Me By Now (Featuring Teddy Pendergrass) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/4FyAsercGqajQeEdk2Isj6"
       },
@@ -2743,22 +2759,6 @@
       "duration_ms": 411360,
       "name": "Papa Was A Rollin' Stone - Single Version",
       "url": "https://open.spotify.com/track/5qf5RkyeFIwPdHrftXnOLq"
-    },
-    {
-      "added_at": "2024-10-25 07:46:43",
-      "album": {
-        "name": "Going To A Go-Go",
-        "url": "https://open.spotify.com/album/3k6u76lSaKt4FrxSphXPRj"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "The Tracks Of My Tears",
-      "url": "https://open.spotify.com/track/3AR9uXc8JbOVfe92kzmJTH"
     },
     {
       "added_at": "2024-10-25 07:46:43",

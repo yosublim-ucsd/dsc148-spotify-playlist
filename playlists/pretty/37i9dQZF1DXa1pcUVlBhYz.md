@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Jazzy & KILIMANJARO
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,554 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,582 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 19 | [Places](https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Places](https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM) | 3:31 |
 | 20 | [King Of My Castle \(feat\. Kali Mija\) \- Hypaphonik Derived Mix](https://open.spotify.com/track/1lJOyFAgSx5qORyC6tLEeF) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP), [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io) | [King Of My Castle \(feat\. Kali Mija\) \[Hypaphonik Remixes\]](https://open.spotify.com/album/6fWb0AIOfAXLj54KelcKmP) | 5:43 |
 | 21 | [Keep Dancing \(4Korners Remix\)](https://open.spotify.com/track/3fQWjVDJXdrvzNNkJ1DyUI) | [Aliya Janell](https://open.spotify.com/artist/5hLxDgnestofBUnhBoOkjI), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab) | [Keep Dancing \(4Korners Remix\)](https://open.spotify.com/album/4G9jyZ2oouNqKbFrtT46Fw) | 4:05 |
-| 22 | [Big Bag Bounce](https://open.spotify.com/track/6AMLDi1PdJgrWuHCS4qVfk) | [AQUTIE](https://open.spotify.com/artist/5cLrXNIHIhgtTFgrsYXTXF), [Paulina Singer](https://open.spotify.com/artist/3iFyOMYm2fhl5ZM0guEzK6) | [Coolest In The City](https://open.spotify.com/album/0QGXEwAUfWpUIPE5AR6TBM) | 5:12 |
+| 22 | [Big Bag Bounce](https://open.spotify.com/track/6AMLDi1PdJgrWuHCS4qVfk) | [AQUTIE](https://open.spotify.com/artist/5cLrXNIHIhgtTFgrsYXTXF), [Zuzu Silk](https://open.spotify.com/artist/04BCKgFQYPrONAk85R7CeP) | [Coolest In The City](https://open.spotify.com/album/0QGXEwAUfWpUIPE5AR6TBM) | 5:12 |
 | 23 | [High](https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI) | 3:16 |
 | 24 | [Turn it up](https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Turn it up](https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0) | 2:27 |
 | 25 | [lift off!](https://open.spotify.com/track/1lsuQNbQXg0smdcAaRpmja) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [lift off!](https://open.spotify.com/album/5PCGG2ken65WpPN06uqa08) | 3:34 |

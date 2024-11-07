@@ -8633,6 +8633,24 @@
     },
     {
       "album": {
+        "name": "The Weaver",
+        "url": "https://open.spotify.com/album/23zWzkzL1LknfgpcwYbTH8"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Meir",
+          "url": "https://open.spotify.com/artist/7oRlC8DQY3Xj6KAj8KVWft"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219602,
+      "name": "The Weaver",
+      "url": "https://open.spotify.com/track/2LxVm0nL8MOuJd6CtWpaKM"
+    },
+    {
+      "album": {
         "name": "The wind",
         "url": "https://open.spotify.com/album/4veQnMsuik4JKs5msFYX94"
       },

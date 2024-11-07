@@ -4,7 +4,7 @@
 
 > Real nasty house 😈😈 featuring Steve Angello
 
-894 songs - 1 day 22 hr 5 min
+895 songs - 1 day 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,7 +468,7 @@
 | [Lies](https://open.spotify.com/track/6Il5epZuJzpHVNVjYXrYIT) | [Brandon Mints](https://open.spotify.com/artist/5YjfNaHq05WrwldRe1QSBc) | [Lies](https://open.spotify.com/album/1c0Uiksf8eCx8QeRh4WhPC) | 2:47 | 2022-05-27 | 2023-07-08 |
 | [Lies](https://open.spotify.com/track/3Hw3X9x03ygMNG4UvnRwtD) | [G\-POL](https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM), [Nkzz](https://open.spotify.com/artist/0ZMJzuOlzlup9qPQ4lFi8Z) | [Lies](https://open.spotify.com/album/5EOqu8PShLD59wX0NADkD8) | 4:01 | 2022-03-18 | 2022-09-05 |
 | [Lift](https://open.spotify.com/track/2dQYULMxZEMtMYpQ9j7hZz) | [Conor Ross](https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS) | [Lift](https://open.spotify.com/album/6GgFm8wYjyE2GOR1FLwmQB) | 2:50 | 2021-10-29 | 2022-01-22 |
-| [Lift Off](https://open.spotify.com/track/2YfTrcUHlcOCoY2LJzga6H) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [Lift Off](https://open.spotify.com/album/63PEpI6Ip1Mc9fldkuEkbY) | 2:15 | 2024-08-23 |  |
+| [Lift Off](https://open.spotify.com/track/2YfTrcUHlcOCoY2LJzga6H) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [Lift Off](https://open.spotify.com/album/63PEpI6Ip1Mc9fldkuEkbY) | 2:15 | 2024-08-23 | 2024-11-07 |
 | [Light](https://open.spotify.com/track/4GSw4yF9VovMBsegcAnLZy) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Pastello](https://open.spotify.com/artist/613f3U6uFS1jmo5NNvnle7) | [Light](https://open.spotify.com/album/49GE9dJiS2eMaxHhGYUNwn) | 2:37 | 2022-03-18 | 2022-07-24 |
 | [Light Show](https://open.spotify.com/track/5vCQx3NZg5e54gMgprzYqG) | [Halogen](https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e) | [Light Show](https://open.spotify.com/album/5AejAkCVG5O9NpfMLKA1SH) | 2:40 | 2021-10-29 | 2022-01-05 |
 | [Lights On](https://open.spotify.com/track/6D5a5CV8ARtijH5pLUKEuK) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Eloise Keeble](https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9) | [Lights On](https://open.spotify.com/album/3FjIckpnCLd0sfOb6GQ4fD) | 3:13 | 2024-07-26 |  |
@@ -544,6 +544,7 @@
 | [Needle On The Record](https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record](https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ) | 3:06 | 2023-11-10 | 2024-10-05 |
 | [Nervous](https://open.spotify.com/track/3pmvlaUJyRWNQvDWpKMymy) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Nervous](https://open.spotify.com/album/7vCX3NRICUJi7YpntCds1R) | 2:52 | 2023-12-08 | 2024-01-30 |
 | [Neurose 2.0](https://open.spotify.com/track/6p0w8fIsPUNk6kVHCxNqvn) | [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Neurose 2.0](https://open.spotify.com/album/6VSMvcgi4WWfWBY8yKJoe5) | 2:26 | 2023-06-23 | 2023-12-30 |
+| [NEVER STOPPIN'](https://open.spotify.com/track/5KZUcvttKBPePQjLPCl3Rl) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Nouni](https://open.spotify.com/artist/4QujGIlqVG7lX2MjyJKWww) | [NEVER STOPPIN'](https://open.spotify.com/album/6PlQYo9TonGHnlaWNVQaFg) | 2:23 | 2024-11-06 |  |
 | [New Hype](https://open.spotify.com/track/4bnXaaByV6Aj1peaDFgXom) | [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [New Hype](https://open.spotify.com/album/4eZDYWfC6hqvN4unldG8Eu) | 2:55 | 2023-06-09 | 2023-11-25 |
 | [New Sound](https://open.spotify.com/track/6KnmmjS3EvQYJcKRR6PpVi) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [New Sound](https://open.spotify.com/album/7I255LigkzYYG82RD8sd8K) | 2:51 | 2024-07-12 | 2024-10-06 |
 | [Next Level \- Habstrakt Remix](https://open.spotify.com/track/34r29cNzzV4elD0XTz1ihT) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [iScreaM Vol.10 : Next Level Remixes](https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY) | 3:20 | 2021-10-29 | 2023-03-04 |

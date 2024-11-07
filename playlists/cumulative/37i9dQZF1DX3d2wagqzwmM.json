@@ -31,6 +31,32 @@
     },
     {
       "album": {
+        "name": "2 Night",
+        "url": "https://open.spotify.com/album/1LcvpvND8bNNWp4E5o34UC"
+      },
+      "artists": [
+        {
+          "name": "Frankyeffe",
+          "url": "https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O"
+        },
+        {
+          "name": "MOTVS",
+          "url": "https://open.spotify.com/artist/11jBSslmTEkEGXxpFfy91F"
+        },
+        {
+          "name": "Njira",
+          "url": "https://open.spotify.com/artist/6aCja1B7FeanWzEfEUUc9Q"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167200,
+      "name": "2 Night",
+      "url": "https://open.spotify.com/track/3IHBOimY7pTnckKkRgrCQt"
+    },
+    {
+      "album": {
         "name": "Forget",
         "url": "https://open.spotify.com/album/0fwZXdYLVaAUP4xushrwjP"
       },
@@ -1043,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "Blade",
+        "url": "https://open.spotify.com/album/0Knz2xzbB2dkdjxDcJvNaY"
+      },
+      "artists": [
+        {
+          "name": "D'Angello & Francis",
+          "url": "https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Blade",
+      "url": "https://open.spotify.com/track/1wQwTyocYlAE27QEk8BQXa"
+    },
+    {
+      "album": {
         "name": "Blink 2022",
         "url": "https://open.spotify.com/album/3KQQcrP3wiHcZb8YfxXoFQ"
       },
@@ -1392,7 +1436,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 243529,
       "name": "Cannonball - Will Sparks Remix",
       "url": "https://open.spotify.com/track/4wRKAezWo1oLA0g2fw0XE9"
@@ -1652,7 +1696,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 175781,
       "name": "Control",
       "url": "https://open.spotify.com/track/0A0CZzjON3WXZvEyPoA6GQ"
@@ -1864,7 +1908,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 161029,
       "name": "Dance To The Beat (Pitchin')",
       "url": "https://open.spotify.com/track/5swGONEYPfI5mEG7clVsRj"
@@ -2262,7 +2306,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 133764,
       "name": "Dieser Harte",
       "url": "https://open.spotify.com/track/6RqM6F2jq0nfaItdzIkpb6"
@@ -3084,7 +3128,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 154160,
       "name": "Flight 303",
       "url": "https://open.spotify.com/track/3VSwrup744za8NcJwdlbbL"
@@ -4213,6 +4257,24 @@
     },
     {
       "album": {
+        "name": "HYPOMANIA",
+        "url": "https://open.spotify.com/album/46vJOsJ5TqIX9SQTU7lMOh"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197391,
+      "name": "HYPOMANIA",
+      "url": "https://open.spotify.com/track/4rVmpjKfDSahUHEp97K34S"
+    },
+    {
+      "album": {
         "name": "I Don't Wanna Know",
         "url": "https://open.spotify.com/album/5ZojN7FtyFSGuNhTamRzOw"
       },
@@ -4406,7 +4468,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 198571,
       "name": "In My Bones",
       "url": "https://open.spotify.com/track/005Tc9RHU1uHpjutQrXrk7"
@@ -6109,6 +6171,36 @@
     },
     {
       "album": {
+        "name": "Nessun Dorma (feat. Luciano Pavarotti)",
+        "url": "https://open.spotify.com/album/0xQzA4AYTp21tB2mOdSg0t"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "3rd Wall",
+          "url": "https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181600,
+      "name": "Nessun Dorma (feat. Luciano Pavarotti)",
+      "url": "https://open.spotify.com/track/3cCPoDrYGpqtTvBcWM0eHL"
+    },
+    {
+      "album": {
         "name": "Never Be Alone",
         "url": "https://open.spotify.com/album/3K8MJLnd39gLaoFCZZwVxx"
       },
@@ -6380,6 +6472,36 @@
       "duration_ms": 129328,
       "name": "Now",
       "url": "https://open.spotify.com/track/4rfuPXxGqm8a3OE6UNnU0n"
+    },
+    {
+      "album": {
+        "name": "Now We Are Free",
+        "url": "https://open.spotify.com/album/6iSF6ZrrJkcxrmHtPOtiJt"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "1 World",
+          "url": "https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa"
+        },
+        {
+          "name": "AntoNetta",
+          "url": "https://open.spotify.com/artist/2AtZ6NmtS2BO2GgUTIw3aL"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Now We Are Free",
+      "url": "https://open.spotify.com/track/0spV7kRavzOYJYKzOf8zSl"
     },
     {
       "album": {
@@ -9118,7 +9240,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 206068,
       "name": "Tamara",
       "url": "https://open.spotify.com/track/0iXHcWtw4npb2FPf6Gh5js"
@@ -9144,6 +9266,24 @@
       "duration_ms": 264374,
       "name": "TARAKA - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/3tDhrE0UftmIEuPwBLUf7d"
+    },
+    {
+      "album": {
+        "name": "Technica 101",
+        "url": "https://open.spotify.com/album/05ERX6bkzCa7CWnQwtJ8xM"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Helmy",
+          "url": "https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "Technica 101",
+      "url": "https://open.spotify.com/track/2PuiRdNrhoAttajRBXQ2TL"
     },
     {
       "album": {
@@ -9202,7 +9342,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 202421,
       "name": "Techno Syndrome (Mortal Kombat)",
       "url": "https://open.spotify.com/track/6xKm0KcYuXy41P8b3yzXZg"
@@ -9776,6 +9916,32 @@
       "duration_ms": 154400,
       "name": "The Underground",
       "url": "https://open.spotify.com/track/0RzqiT9MYfetkgcd7XUk7b"
+    },
+    {
+      "album": {
+        "name": "The Underground",
+        "url": "https://open.spotify.com/album/4RhJ8QBrmgS1PeWrtknt2b"
+      },
+      "artists": [
+        {
+          "name": "NIVIRO",
+          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
+        },
+        {
+          "name": "Wyko",
+          "url": "https://open.spotify.com/artist/01lJ7aW7Z1NAZxIPc50x7N"
+        },
+        {
+          "name": "SixCap",
+          "url": "https://open.spotify.com/artist/1Q4td6MS7PJuJeNyjzmh8s"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "The Underground",
+      "url": "https://open.spotify.com/track/3IvclwTmYRjCIVjECepbBQ"
     },
     {
       "album": {
@@ -10372,6 +10538,24 @@
       "duration_ms": 199687,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/17IEdpDXGZdtrJxjTWoZIL"
+    },
+    {
+      "album": {
+        "name": "Wake The F Up",
+        "url": "https://open.spotify.com/album/3qCJzQQ7aRlZrpwwrdZVIj"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Wake The F Up",
+      "url": "https://open.spotify.com/track/36eWeCqpNGHTiZfTSbScIY"
     },
     {
       "album": {

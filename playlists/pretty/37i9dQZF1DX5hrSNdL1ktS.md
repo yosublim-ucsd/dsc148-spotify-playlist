@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Yeyo, tu obsesión, bebé en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,632 likes - 69 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,398 likes - 69 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 4 | [Mali Sácatela](https://open.spotify.com/track/4522fyQXMF4dpQ5tTOKgui) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [Mali Sácatela](https://open.spotify.com/album/7b6q8q4NOXpUFIzObsnrKE) | 2:23 |
 | 5 | [Bebeleche](https://open.spotify.com/track/0J5YqCE1BvRL7DioJLDVzs) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Alnz G](https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf), [Tensec](https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB) | [Bebeleche](https://open.spotify.com/album/01dKV7desYlKi5YXBCDfdw) | 2:55 |
 | 6 | [SAN TURRONA REMIX](https://open.spotify.com/track/59aD6M6ZIZF5sYRDqymT32) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [SAN TURRONA REMIX](https://open.spotify.com/album/1LQ9PrZ8uGkKf5xBXB8tlY) | 3:02 |
-| 7 | [Waxxxita](https://open.spotify.com/track/1ORMBAceT0Y5LCUNcbLGSD) | [Cool Kids](https://open.spotify.com/artist/5RFqLdpN2yvT7YbjrAv6TV) | [Waxxxita](https://open.spotify.com/album/4jAJWhLbt3gNN081EkRhJR) | 2:53 |
+| 7 | [Waxxxita](https://open.spotify.com/track/1ORMBAceT0Y5LCUNcbLGSD) | [Cool Kids](https://open.spotify.com/artist/5RFqLdpN2yvT7YbjrAv6TV), [Nova7siete](https://open.spotify.com/artist/1nfCvF6DEzRQaHckJosWkq), [Sleezy O](https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n) | [Waxxxita](https://open.spotify.com/album/4jAJWhLbt3gNN081EkRhJR) | 2:53 |
 | 8 | [V16 TURBO REMIX](https://open.spotify.com/track/3aQ1BgbYbfIGSrfLKiWika) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [V16 TURBO REMIX](https://open.spotify.com/album/7oTTfEmS9Djw8f96e05oVd) | 3:11 |
 | 9 | [PUCHI](https://open.spotify.com/track/7dIm7p3VoCQ2DoabBCgny5) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC) | [PUCHI](https://open.spotify.com/album/4OEdq5LxzLkWvTD1NOSdDh) | 2:22 |
 | 10 | [Vaquero \- Remix](https://open.spotify.com/track/7l3UuUZEqvxjhKYD2QBxOU) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Andres Castillo](https://open.spotify.com/artist/6swtbYCVvjJIjCb5MWaIT2), [La Dinastia](https://open.spotify.com/artist/4HUY0hELnxz4RC6VvJzRyc), [Riky Produce](https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c) | [Vaquero \(Remix\)](https://open.spotify.com/album/6BmfAaHoSJ7efARgJTLrAt) | 5:00 |

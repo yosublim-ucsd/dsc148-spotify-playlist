@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-415 songs - 22 hr 16 min
+416 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,8 @@
 | [Vattene](https://open.spotify.com/track/0YOvbpab87NG3SNcDdDvHi) | [Caterina Valente](https://open.spotify.com/artist/6U43w7qaIwFTlbJWuLiBrf) | [Senorita Personalita](https://open.spotify.com/album/2Rsyr7RnIHQPQyKL2fMWKF) | 2:20 | 2024-07-24 |  |
 | [Veneno para el Corazón](https://open.spotify.com/track/6EzYRxUF3dZfYb6TtF96i7) | [Orquesta Music Hall](https://open.spotify.com/artist/5qtF6rU7NySy0pLtNAU2GM) | [Emociones](https://open.spotify.com/album/24vzu4AEvkGUmBYjleFPcD) | 3:38 | 2024-07-24 |  |
 | [Visit Panama](https://open.spotify.com/track/4EE4oqFo0wxD8mrQDPiwyl) | [Xavier Cugat](https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R) | [Rhumba and Conga with Cugat](https://open.spotify.com/album/5Xu4nuEFz1Jx3nZ1LgJWGp) | 3:24 | 2024-07-24 |  |
-| [Voodoo](https://open.spotify.com/track/4eAo5CTR5HyKiOXlwZZ5KC) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [Voodoo Man](https://open.spotify.com/album/03iwOF2N5jXlXVchecaphc) | 2:45 | 2024-07-24 |  |
+| [Voodoo](https://open.spotify.com/track/3C2HSGEUxEd9tXCsuzdSPL) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [Cow Fingers and Mosquito Pie \(Expanded Edition\)](https://open.spotify.com/album/7iqV06s6GOh88Y1f9cgEud) | 2:40 | 2024-11-06 |  |
+| [Voodoo](https://open.spotify.com/track/4eAo5CTR5HyKiOXlwZZ5KC) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [Voodoo Man](https://open.spotify.com/album/03iwOF2N5jXlXVchecaphc) | 2:45 | 2024-07-24 | 2024-11-07 |
 | [Vous Faites Partie De Moi](https://open.spotify.com/track/5V86dw7gDcAhagp0i0y9av) | [Josephine Baker](https://open.spotify.com/artist/3u2id3WhQmBnU6ppSQj23X) | [Best French Chansons: Josephine Baker and Various Artists Vol\. 01](https://open.spotify.com/album/57VD7tSbKOFlBVcXz5kMoa) | 3:06 | 2024-07-24 |  |
 | [Waltz Down the Aisle](https://open.spotify.com/track/5yVd5RaMGMwQhCasnMKxIU) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Xavier Cugat Orchestra](https://open.spotify.com/artist/0GywhPccRQuGztB35ZnE0Z) | [Porter, Cole: Let's Misbehave! \(1927\-1940\)](https://open.spotify.com/album/7DsbZB88NYHjCpOZBvrx4m) | 3:06 | 2024-07-24 |  |
 | [We Are Getting Married](https://open.spotify.com/track/2Eva3o61RrvfW71fImfPKx) | [Cole Porter \(composer\), The MGM Studio Orchestra](https://open.spotify.com/artist/10DmwGZhrgdeAaxPIx4y2O) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 1:53 | 2024-07-24 |  |

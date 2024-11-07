@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-272 songs - 11 hr 32 min
+274 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bring Me Back](https://open.spotify.com/track/4IjmclhUwmI4NnitZZkfUb) | [Olivia Simons](https://open.spotify.com/artist/1cl0u4oWyjqmcGDpqDnMns) | [Leblon](https://open.spotify.com/album/7AhsKoAuzmTqKXQap5IMUn) | 3:01 | 2021-12-09 | 2022-06-10 |
 | [Bryggen](https://open.spotify.com/track/6yCBCG8UJGfcyk70Fdau8j) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [Bryggen](https://open.spotify.com/album/2dKG2i568Thxq3kFgwHiEF) | 2:54 | 2024-04-19 |  |
 | [Cadaques](https://open.spotify.com/track/5W3UaSyEgTVZHA7OrGffPH) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Cadaques](https://open.spotify.com/album/6pVPsVMUDfwtcrU32LSqbH) | 2:55 | 2021-12-23 | 2024-04-05 |
+| [Calming Thoughts](https://open.spotify.com/track/7n6mbAW4L5X6528iuau11O) | [In Stars Above](https://open.spotify.com/artist/1FxVcJX21nISmUFSvaE9fh) | [Calming Thoughts](https://open.spotify.com/album/0h3nDekkuh2ofpgbn4SbDY) | 3:57 | 2024-11-06 |  |
 | [Calvanda](https://open.spotify.com/track/0TTOjbZ7i9aA0zphN18jBu) | [Patrick Prescott](https://open.spotify.com/artist/4axTAgIeRFIlRTV9EoxLIu) | [Calvanda](https://open.spotify.com/album/6aagZIFwnFJbBnEq0E6csO) | 3:05 | 2021-12-09 | 2024-04-05 |
 | [Caminando en junio](https://open.spotify.com/track/7ztkI6pDauyqnIwBhLvWnm) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Compañero de vida](https://open.spotify.com/album/7790K3EuMhGdVZYPGErxVD) | 1:54 | 2021-12-09 | 2022-05-27 |
 | [Caminos de Paz](https://open.spotify.com/track/1RcREfX9ouhWhsTaWR3rgK) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Caminos de Paz](https://open.spotify.com/album/3LoHJJWcBwSpKuzE0AeroE) | 2:46 | 2024-10-15 |  |
@@ -74,6 +75,7 @@
 | [Ephemeral](https://open.spotify.com/track/3K6gdJlyZHsaYktMMHZo95) | [Ale Imke](https://open.spotify.com/artist/3zs6LXRTOTwSP8r38kQxSy) | [Ephemeral](https://open.spotify.com/album/2nrjemHCDyyVFdL054h0km) | 2:56 | 2021-12-09 | 2023-02-25 |
 | [Españoleta](https://open.spotify.com/track/49TT0zKYwZerufoxgYiohS) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [Classical Guitar Music for Sleep and Relaxation](https://open.spotify.com/album/6GHknBEoAGG3UmypRtRLRy) | 2:05 | 2021-12-09 | 2023-03-18 |
 | [Estrella clara](https://open.spotify.com/track/7IJ4FPYqUabB1cbWrMYn0q) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Estrella clara](https://open.spotify.com/album/761mDMnpM2KsejP3TuTtUn) | 1:37 | 2022-10-07 | 2023-08-26 |
+| [Evening Journey](https://open.spotify.com/track/4ForBTWXJeVh21NIkHIKIb) | [Rua Do Sol](https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4) | [Evening Journey](https://open.spotify.com/album/6ollQ0gNM6L3TqEb3tfAQw) | 3:42 | 2024-11-06 |  |
 | [Eventide](https://open.spotify.com/track/63Zw5WXjM3OWMu0m6wRtk8) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Eventide](https://open.spotify.com/album/0KLP3M9mwfduSGbhX1ypyB) | 2:34 | 2022-11-18 |  |
 | [Everytime](https://open.spotify.com/track/3A4LIH23q9wvMPbeXqqM0p) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Everytime](https://open.spotify.com/album/0GyjxgnC0a3HuoR7Gu5L48) | 2:16 | 2024-05-03 |  |
 | [Ewigkeit](https://open.spotify.com/track/5fIrdZt2rk3TSmvogAo8vj) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Ewigkeit](https://open.spotify.com/album/5G2pAHBGgJMnoasJSrxCmW) | 2:40 | 2022-10-14 | 2024-05-24 |

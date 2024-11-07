@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Yovie & Nuno
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,778 likes - 144 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,804 likes - 144 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

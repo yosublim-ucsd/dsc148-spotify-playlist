@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻
 
-326 songs - 17 hr 20 min
+327 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Groove Con Clase](https://open.spotify.com/track/7gCDFGLVES145SCNMTSwEv) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Cameron Jack](https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH) | [Groove Con Clase](https://open.spotify.com/album/00yyKypLfSiHZQsCakCXbz) | 3:02 | 2024-10-11 |  |
 | [Guataqui](https://open.spotify.com/track/1j5ocYQRNSZRoj7L5ekkqn) | [Jimmi Rider](https://open.spotify.com/artist/1cd0IMgYU4aMsi2fSh8jJV) | [Guataqui](https://open.spotify.com/album/6JfaLOnI9Q6K31FoHPADyY) | 2:16 | 2024-03-22 | 2024-10-26 |
 | [Hagüe](https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Hagüe](https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH) | 2:57 | 2023-11-10 | 2023-12-09 |
-| [HAHAHA](https://open.spotify.com/track/4MBcx34MIGhVcjbjUb5WAs) | [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [bewav](https://open.spotify.com/artist/7mQScd8jtZwkokSos5T3RM), [Stizi](https://open.spotify.com/artist/7moIdr6bVKI6UGneM3OV42) | [HAHAHA EP](https://open.spotify.com/album/5xE9VX43NpuQEmAh94aUZC) | 2:36 | 2024-07-26 |  |
+| [HAHAHA](https://open.spotify.com/track/4MBcx34MIGhVcjbjUb5WAs) | [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [bewav](https://open.spotify.com/artist/7mQScd8jtZwkokSos5T3RM), [Stizi](https://open.spotify.com/artist/7moIdr6bVKI6UGneM3OV42) | [HAHAHA EP](https://open.spotify.com/album/5xE9VX43NpuQEmAh94aUZC) | 2:36 | 2024-07-26 | 2024-11-07 |
 | [HAVANA](https://open.spotify.com/track/1okjg2DZKCyA0w0iCDd10s) | [Vince Morgana](https://open.spotify.com/artist/3OSIswp0zBG2rR96q1Rwp8), [GLADYS](https://open.spotify.com/artist/1Prt0hPO7hG4KRGs9DPpDf) | [HAVANA](https://open.spotify.com/album/4a01OCAe3GzRCRpx67bXFN) | 2:26 | 2024-01-05 | 2024-05-27 |
 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-11-10 |  |
 | [Hombres y Mujeres](https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Hombres y Mujeres](https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI) | 2:28 | 2023-11-10 |  |
@@ -276,6 +276,7 @@
 | [Sima Agua \(feat\. Mayra Andrade\)](https://open.spotify.com/track/7gpFZiYUxTQUu5iyUB7k78) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Sima Agua \(feat\. Mayra Andrade\)](https://open.spotify.com/album/0lHeNyUgnHnQkC3dNqIt0A) | 3:47 | 2024-09-20 |  |
 | [Sin Nada](https://open.spotify.com/track/6gzSd5XFpIWXWoVbS3V9ow) | [MelyJones](https://open.spotify.com/artist/3vsmaQBqqp770E9fi4hQqG), [Juan Dileju](https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0) | [Sin Nada](https://open.spotify.com/album/2KJB4mcVhzudkb8epTJwWT) | 3:19 | 2024-05-10 |  |
 | [Solo Se Vive Una Vez](https://open.spotify.com/track/1aVWueLqzo5cVtxEYkhVYi) | [Yas Cepeda](https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP), [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Solo Se Vive Una Vez](https://open.spotify.com/album/6YTklleoAqtGCag9H07M8u) | 2:27 | 2024-09-06 |  |
+| [Sombras](https://open.spotify.com/track/1ujnqItR6qmrowmlBucSLQ) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Sombras](https://open.spotify.com/album/5eqIgU8H7RVxr5HHnmoodF) | 5:51 | 2024-11-04 |  |
 | [Sombrerito Blanco](https://open.spotify.com/track/4cjmKKcFPKflJQzXQUa1dp) | [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Sombrerito Blanco](https://open.spotify.com/album/5PKL9k6BGnnjTdPQ8aRJfu) | 2:07 | 2024-04-05 |  |
 | [Somos Libres](https://open.spotify.com/track/206DRsL52r4kSdbuDmrkDh) | [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW) | [Somos Libres](https://open.spotify.com/album/4pIOINBVEbIBFLMMTWK3QV) | 3:10 | 2024-05-24 | 2024-07-12 |
 | [Sopa De Caracol](https://open.spotify.com/track/1xpetlV1yoslzfKoNy7m6h) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Pilo Tejeda](https://open.spotify.com/artist/0XVYCj51XvKccyphzKQOAc) | [Sopa De Caracol](https://open.spotify.com/album/171b6SxgLjbKiJMfeJ0120) | 2:34 | 2024-09-30 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I\">wiesner</a>",
-  "num_followers": 20684,
+  "num_followers": 20699,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Penny Sleeps",
-        "url": "https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 174974,
-      "name": "Penny Sleeps",
-      "url": "https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
         "name": "Long Live Tonight",
         "url": "https://open.spotify.com/album/1SrN5UhQ6uqqkFhMlsQwNo"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 244333,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/0PZGBkKhUJfPt6kUYE9SPd"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "Penny Sleeps",
+        "url": "https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 174974,
+      "name": "Penny Sleeps",
+      "url": "https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd"
     },
     {
       "added_at": "2024-10-04 04:33:39",
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/3kUB0uomWGCHUtGDi7TEzp"
     },
     {
-      "added_at": "2024-10-04 04:33:39",
-      "album": {
-        "name": "WEATHER REPORT",
-        "url": "https://open.spotify.com/album/2KDF4mRNVa5KfE70Rhv4sT"
-      },
-      "artists": [
-        {
-          "name": "Loveth Besamoh",
-          "url": "https://open.spotify.com/artist/1VFftaa0TUrjjQ1bhpBCvX"
-        }
-      ],
-      "duration_ms": 238005,
-      "name": "Pandemonium",
-      "url": "https://open.spotify.com/track/6yQsiNWGoYcNrhqsEtSC4S"
-    },
-    {
       "added_at": "2024-07-28 19:12:15",
       "album": {
         "name": "The Romantic Lure of Possum Worship",
@@ -719,6 +703,22 @@
       "duration_ms": 189973,
       "name": "Birthday Card",
       "url": "https://open.spotify.com/track/1owGgt0obwlyfCXHreFTFc"
+    },
+    {
+      "added_at": "2024-10-04 04:33:39",
+      "album": {
+        "name": "WEATHER REPORT",
+        "url": "https://open.spotify.com/album/2KDF4mRNVa5KfE70Rhv4sT"
+      },
+      "artists": [
+        {
+          "name": "Loveth Besamoh",
+          "url": "https://open.spotify.com/artist/1VFftaa0TUrjjQ1bhpBCvX"
+        }
+      ],
+      "duration_ms": 238005,
+      "name": "Pandemonium",
+      "url": "https://open.spotify.com/track/6yQsiNWGoYcNrhqsEtSC4S"
     },
     {
       "added_at": "2024-07-28 19:12:15",

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 410661,
+  "num_followers": 410751,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -147,18 +147,18 @@
     {
       "added_at": "2024-10-24 09:28:22",
       "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
+        "name": "Love Is a Four Letter Word (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
         }
       ],
-      "duration_ms": 152239,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
+      "duration_ms": 240165,
+      "name": "I Won't Give Up",
+      "url": "https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6"
     },
     {
       "added_at": "2024-10-24 09:28:22",
@@ -195,18 +195,18 @@
     {
       "added_at": "2024-10-24 09:28:22",
       "album": {
-        "name": "Love Is a Four Letter Word (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b"
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
       },
       "artists": [
         {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 240165,
-      "name": "I Won't Give Up",
-      "url": "https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6"
+      "duration_ms": 152239,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
     },
     {
       "added_at": "2024-10-24 09:28:22",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-10-24 09:28:22",
       "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
-    },
-    {
-      "added_at": "2024-10-24 09:28:22",
-      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 238666,
       "name": "Song For You",
       "url": "https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv"
+    },
+    {
+      "added_at": "2024-10-24 09:28:22",
+      "album": {
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-10-24 09:28:22",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-10-24 09:28:22",
       "album": {
-        "name": "mami let go",
-        "url": "https://open.spotify.com/album/0hL0rgPIY2rYTn0ldVihM4"
-      },
-      "artists": [
-        {
-          "name": "Guzmen",
-          "url": "https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd"
-        }
-      ],
-      "duration_ms": 139393,
-      "name": "mami let go",
-      "url": "https://open.spotify.com/track/1mYYOEfTcFzlc3fGDkoQ9I"
-    },
-    {
-      "added_at": "2024-10-24 09:28:22",
-      "album": {
         "name": "Les jolies choses",
         "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 222373,
       "name": "Les jolies choses",
       "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2024-10-24 09:28:22",
+      "album": {
+        "name": "mami let go",
+        "url": "https://open.spotify.com/album/0hL0rgPIY2rYTn0ldVihM4"
+      },
+      "artists": [
+        {
+          "name": "Guzmen",
+          "url": "https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd"
+        }
+      ],
+      "duration_ms": 139393,
+      "name": "mami let go",
+      "url": "https://open.spotify.com/track/1mYYOEfTcFzlc3fGDkoQ9I"
     },
     {
       "added_at": "2024-10-24 09:28:22",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-10-24 09:28:22",
       "album": {
+        "name": "We Were Here",
+        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 149013,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
+    },
+    {
+      "added_at": "2024-10-24 09:28:22",
+      "album": {
         "name": "I Think I Like You",
         "url": "https://open.spotify.com/album/1uyTVHINj1D2BfyCid3L27"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 146471,
       "name": "I Think I Like You",
       "url": "https://open.spotify.com/track/2Rf33E2vpnJsIV5DpHCC6Y"
-    },
-    {
-      "added_at": "2024-10-24 09:28:22",
-      "album": {
-        "name": "We Were Here",
-        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 149013,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
     },
     {
       "added_at": "2024-10-24 09:28:22",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-10-24 09:28:22",
       "album": {
+        "name": "Cruzando el Charco",
+        "url": "https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N"
+      },
+      "artists": [
+        {
+          "name": "Marilia Monz\u00f3n",
+          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+        }
+      ],
+      "duration_ms": 190502,
+      "name": "Cruzando el Charco",
+      "url": "https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO"
+    },
+    {
+      "added_at": "2024-10-24 09:28:22",
+      "album": {
         "name": "reverie",
         "url": "https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 236462,
       "name": "Equilibri",
       "url": "https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp"
-    },
-    {
-      "added_at": "2024-10-24 09:28:22",
-      "album": {
-        "name": "Cruzando el Charco",
-        "url": "https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N"
-      },
-      "artists": [
-        {
-          "name": "Marilia Monz\u00f3n",
-          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
-        }
-      ],
-      "duration_ms": 190502,
-      "name": "Cruzando el Charco",
-      "url": "https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO"
     },
     {
       "added_at": "2024-10-24 09:28:22",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-10-24 09:28:22",
       "album": {
-        "name": "Si somos amigos",
-        "url": "https://open.spotify.com/album/3tFWLs9h8tyaEyTMnmYRCJ"
-      },
-      "artists": [
-        {
-          "name": "Juan Fco. Bueno",
-          "url": "https://open.spotify.com/artist/4mqwo7jQBXYtjqLPVLtJnb"
-        }
-      ],
-      "duration_ms": 268624,
-      "name": "Si somos amigos",
-      "url": "https://open.spotify.com/track/6d2xG4QR1x6khht42S6Ntw"
-    },
-    {
-      "added_at": "2024-10-24 09:28:22",
-      "album": {
         "name": "Tu",
         "url": "https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 220031,
       "name": "Dos L\u00e1grimas, Dos Peces",
       "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
+    },
+    {
+      "added_at": "2024-10-24 09:28:22",
+      "album": {
+        "name": "Si somos amigos",
+        "url": "https://open.spotify.com/album/3tFWLs9h8tyaEyTMnmYRCJ"
+      },
+      "artists": [
+        {
+          "name": "Juan Fco. Bueno",
+          "url": "https://open.spotify.com/artist/4mqwo7jQBXYtjqLPVLtJnb"
+        }
+      ],
+      "duration_ms": 268624,
+      "name": "Si somos amigos",
+      "url": "https://open.spotify.com/track/6d2xG4QR1x6khht42S6Ntw"
     },
     {
       "added_at": "2024-10-24 09:28:22",

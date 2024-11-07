@@ -1439,6 +1439,36 @@
     },
     {
       "album": {
+        "name": "Dil Kuch Hor Ni Mangda",
+        "url": "https://open.spotify.com/album/1liP2ae3tnMF5SrwSUljJq"
+      },
+      "artists": [
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        },
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        },
+        {
+          "name": "Rooh Sandhu",
+          "url": "https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215178,
+      "name": "Dil Kuch Hor Ni Mangda",
+      "url": "https://open.spotify.com/track/4h0eadqwYscU7J8YWcq86c"
+    },
+    {
+      "album": {
         "name": "Salaam-E-Ishq",
         "url": "https://open.spotify.com/album/2AYTX7A8GfZrlVwRTdt3QZ"
       },

@@ -4,13 +4,13 @@
 
 > La banda sonora de tu orgullo\. Foto: Jordana B.
 
-114 songs - 5 hr 33 min
+115 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 AMIGAS TUYAS](https://open.spotify.com/track/45fYscRYuzAX226WjBnE3S) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [EDDI CIRCA](https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa) | [3 AMIGAS TUYAS](https://open.spotify.com/album/4ifITgh9n4HwL3kwAFqNlv) | 3:04 | 2024-06-05 | 2024-11-01 |
 | [33](https://open.spotify.com/track/5JBtPAHeH3p2q7w0p14TJ3) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [33](https://open.spotify.com/album/0MrBdxJiBDtIPyujW0nGzT) | 3:39 | 2024-06-05 | 2024-08-07 |
-| [A Japón](https://open.spotify.com/track/0DbvZpbDwdXCWdPbPzTBGh) | [Janire](https://open.spotify.com/artist/4sD4ggYulUsZmOxGyQK0Sj) | [A Japón](https://open.spotify.com/album/27GSkS0XQsdiwRJePKngZA) | 2:51 | 2024-10-01 |  |
+| [A Japón](https://open.spotify.com/track/0DbvZpbDwdXCWdPbPzTBGh) | [Janire](https://open.spotify.com/artist/4sD4ggYulUsZmOxGyQK0Sj) | [A Japón](https://open.spotify.com/album/27GSkS0XQsdiwRJePKngZA) | 2:51 | 2024-10-01 | 2024-11-07 |
 | [A PLENO PULMÓN](https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [entre cuatro paredes y una verdad](https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV) | 2:49 | 2024-11-05 |  |
 | [A QUIÉN LE IMPORTA](https://open.spotify.com/track/4pLgFeI4hteh9DsJ1TncM7) | [Ana Farelo](https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm), [Marta Melle](https://open.spotify.com/artist/0Db1dQofqP6OWjXzrv7PPk), [GALICIAN](https://open.spotify.com/artist/5suQqERMjWkkZlcYxzJxcr) | [A QUIÉN LE IMPORTA](https://open.spotify.com/album/5jKiXQcmCtIsxB6K2vaYcB) | 2:49 | 2024-06-05 | 2024-07-03 |
 | [ADICCIÓN](https://open.spotify.com/track/5iG9KI3KT20unk2NwfToWi) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [ADICCIÓN](https://open.spotify.com/album/3Gl9bJ1Q1w7vzQIfoL6qiU) | 2:57 | 2024-06-05 | 2024-08-07 |
@@ -18,6 +18,7 @@
 | [Aitana O'Caña](https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7) | [Aitana O'Caña](https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u) | 2:52 | 2024-06-05 |  |
 | [Al Gimnasio en Tacones](https://open.spotify.com/track/0iuELyy8xVOcTrkjOik3J3) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST) | [Al Gimnasio en Tacones](https://open.spotify.com/album/54X85mt7PkHbR66bvx7YO2) | 2:33 | 2024-06-05 | 2024-07-04 |
 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 | 2024-06-05 |  |
+| [Amapiola](https://open.spotify.com/track/5qbQH9J0JEuihAkDeDRzBm) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Llanto de Secano](https://open.spotify.com/album/0FypKBYPqPO59hA4unLmGc) | 3:59 | 2024-11-05 |  |
 | [AMOR MALDITO](https://open.spotify.com/track/0TS5CAQIJwww9g29AFHvXP) | [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6), [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [AMOR MALDITO](https://open.spotify.com/album/0cFVXOmtqkTd51GPBLIcAl) | 2:34 | 2024-08-06 | 2024-09-04 |
 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 | 2024-06-05 |  |
 | [Arboleda Bien Plantada](https://open.spotify.com/track/7DQSEa2uqg5QsiIIMT91Ev) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [Raül Refree](https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy) | [Manual de Cortejo](https://open.spotify.com/album/1g0iT6TvvvVFfheThXR0Dk) | 3:38 | 2024-06-05 | 2024-10-02 |

@@ -4,7 +4,7 @@
 
 > Geleceğin seslerini dinle! Kapak: <a href="spotify:artist:07eEGn8bSAJF9sUqeTtAmN">Baran Mengüç</a>, <a href="spotify:artist:4F85cxjAmlT0r7DZKu3ABX">Ceren Sagu</a>, <a href="spotify:artist:0nllPfFG95RzZnqdWLLDCD">Lotusx</a>, <a href="spotify:artist:2FkaZzzDTwnz1l1mK9DoT6">TUANA</a>, <a href="spotify:artist:71B1UV4HrPQk6TdNHM3h9h">Rana Türkyılmaz</a>
 
-80 songs - 3 hr 51 min
+81 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Işığım Sensin](https://open.spotify.com/track/42bG1UIJfAhmZsmO4ekea6) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Işığım Sensin](https://open.spotify.com/album/79egQyuz9OZu00HAHs7R77) | 2:18 | 2024-10-23 |  |
 | [İHYA](https://open.spotify.com/track/45my9isZJ6wUxDnUWUL8WL) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [İHYA](https://open.spotify.com/album/2fg6JIB8A8NuyUEzybDFrV) | 3:28 | 2024-06-20 | 2024-10-24 |
 | [İstemedim Hiç](https://open.spotify.com/track/2BEjilqxCgQi6W9tnwoSsW) | [Soner Han](https://open.spotify.com/artist/6rwdqGbhoOisi9wCeLKJs8) | [İstemedim Hiç](https://open.spotify.com/album/14NEYnXSR1wEJQYebUlGY5) | 2:53 | 2024-06-20 |  |
+| [Kapıl Peşime](https://open.spotify.com/track/2f1MbASESNvydeOfuVhNKc) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Kapıl Peşime](https://open.spotify.com/album/554EsqWUf1JqFfyQAGncud) | 2:43 | 2024-11-06 |  |
 | [Kara Kedi](https://open.spotify.com/track/0WpNYQlysYRiEyLj7oq9n8) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [Kara Kedi](https://open.spotify.com/album/3y98IhwFFEpQUkBgvAL17A) | 2:59 | 2024-06-20 | 2024-10-24 |
 | [kelepçe](https://open.spotify.com/track/0m6ph12BbDXzfgNPwA83ne) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W), [Reflectionz](https://open.spotify.com/artist/5r0ab3bcrUY6uixHCr28Xo) | [kelepçe](https://open.spotify.com/album/0VVAz2skQSINs9D64ODr6w) | 2:19 | 2024-06-20 | 2024-10-24 |
 | [Kimim Ben?](https://open.spotify.com/track/02XoDvTkJkMAJ1T40Rf0pp) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Kimim Ben?](https://open.spotify.com/album/6hoMnFmrKEwaBzgoDQFehO) | 2:25 | 2024-06-20 | 2024-10-24 |
@@ -60,7 +61,7 @@
 | [Queen](https://open.spotify.com/track/3v3KYv6tGttYAwLpVKfZ5f) | [Nihan Çelik](https://open.spotify.com/artist/2sJhBSO8uHc9oGynn8BkyW) | [Queen](https://open.spotify.com/album/1b0EJhpQg6n4JRS1basYCG) | 2:00 | 2024-06-20 | 2024-10-24 |
 | [Sandım Ki](https://open.spotify.com/track/43UixOA06v0QNlb9Q0YWBX) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Sandım Ki](https://open.spotify.com/album/24eHoKCFb3QWoi6wQlbIX1) | 4:06 | 2024-06-20 |  |
 | [Sen Bilirsin](https://open.spotify.com/track/3yAhJkby5L1G6yCoYi7HY4) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Sen Bilirsin](https://open.spotify.com/album/56tllXQ5KPMWyjnoqx5vW4) | 2:37 | 2024-06-20 | 2024-10-24 |
-| [Sen ve Ben](https://open.spotify.com/track/10TKNOLu0bNFmOSTOJw2fq) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Sen ve Ben](https://open.spotify.com/album/35XqaJeYU2F3dVg2GgP04e) | 2:21 | 2024-10-23 |  |
+| [Sen ve Ben](https://open.spotify.com/track/10TKNOLu0bNFmOSTOJw2fq) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Sen ve Ben](https://open.spotify.com/album/35XqaJeYU2F3dVg2GgP04e) | 2:21 | 2024-10-23 | 2024-11-07 |
 | [Senin Yüzünden](https://open.spotify.com/track/2WPDvv1Mew0mcnh68D1LSG) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [Senin Yüzünden](https://open.spotify.com/album/2WobQE09DjAqAOVne4Q4j1) | 2:56 | 2024-06-20 |  |
 | [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/track/5hyYCEaC704WXeb4saAim4) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/album/4b91E9t6JFljmPckcteTLi) | 3:14 | 2024-07-29 | 2024-10-24 |
 | [Son](https://open.spotify.com/track/2v79MkUBoTJUm7etERkbPh) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN), [Aerro](https://open.spotify.com/artist/1pJzB49ODjAOHUBRtKQK6A) | [Son](https://open.spotify.com/album/6c6bPHFCEA3wc4nkJ8Lke6) | 2:35 | 2024-10-23 |  |

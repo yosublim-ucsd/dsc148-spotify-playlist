@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว อัปเดตทุกสัปดาห์\. ศิลปิน: PP Krit
 
-596 songs - 1 day 11 hr 24 min
+597 songs - 1 day 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [17 นาที](https://open.spotify.com/track/1CfKHIQhgKrUMAkj4VwI4J) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [mints](https://open.spotify.com/artist/6mehI8OceoNGRHfevtc4l0) | [17 นาที](https://open.spotify.com/album/5SJUJTC3angIZd2p8kmBUR) | 3:35 | 2022-05-26 | 2022-12-16 |
 | [1987](https://open.spotify.com/track/5xKPYDrSEwyRRtlxEOi0lQ) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [1987](https://open.spotify.com/album/1cxw73GpBf6KWNYQxqiH5D) | 4:16 | 2023-11-02 | 2023-11-10 |
 | [247](https://open.spotify.com/track/7AQFhodzN09DtXGiIDtFrd) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [247](https://open.spotify.com/album/0Y9jkFL7qITGFYxPIzzqi4) | 3:18 | 2022-05-26 | 2022-07-31 |
-| [Absence \(ช่องว่างหัวใจ\)](https://open.spotify.com/track/5z6QCQ55sTrpQnzlqD4s61) | [Mew Suppasit](https://open.spotify.com/artist/78u00MLyG46IkmM8HC6H0l) | [Absence \(ช่องว่างหัวใจ\)](https://open.spotify.com/album/5kPWSqBaaiSxbvrzslwcqV) | 3:35 | 2024-10-24 |  |
+| [Absence \(ช่องว่างหัวใจ\)](https://open.spotify.com/track/5z6QCQ55sTrpQnzlqD4s61) | [Mew Suppasit](https://open.spotify.com/artist/78u00MLyG46IkmM8HC6H0l) | [Absence \(ช่องว่างหัวใจ\)](https://open.spotify.com/album/5kPWSqBaaiSxbvrzslwcqV) | 3:35 | 2024-10-24 | 2024-11-07 |
 | [ACHOO!](https://open.spotify.com/track/05zDlZ0l2C458XxmxsDqEG) | [Pimma PiXXiE](https://open.spotify.com/artist/0uDmGfh8e3dXJEmJ6jKQXg) | [ACHOO!](https://open.spotify.com/album/4nMd8PPdDUcnT2uyJJ8Oxe) | 3:08 | 2024-10-10 | 2024-10-25 |
 | [ACTION](https://open.spotify.com/track/2MaB2AGKCvcwhF7A7WPaae) | [AR3NA](https://open.spotify.com/artist/3Z1xhsM4bQE28mcnQhiOJA) | [ACTION](https://open.spotify.com/album/6rHZhVtDDMBPhDyQ4n4Ydx) | 3:25 | 2023-12-07 | 2023-12-15 |
 | [Aftercry](https://open.spotify.com/track/0lWlgVOKrCpa1AQfvlIZqM) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Aftercry](https://open.spotify.com/album/0EzeQWsY83xRG35HMF1wsG) | 3:51 | 2024-07-29 | 2024-08-23 |
@@ -471,6 +471,7 @@
 | [อีกนิดเดียว](https://open.spotify.com/track/4ixPZeYNdk0eMTQGZxRPsr) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [อีกนิดเดียว](https://open.spotify.com/album/3YcZNdrjPP6AeFhazOcSab) | 3:41 | 2022-05-26 | 2022-06-03 |
 | [อุ๊ย คุณพระ! \(OMG\) \- เพลงจากละคร พระนคร ๒๔๑๐](https://open.spotify.com/track/7lot4QSMg4UH0xXRwAov6S) | [LAZ1](https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz) | [เพลงจากละคร พระนคร ๒๔๑๐](https://open.spotify.com/album/5zDrzXuzn43wPVBHP1RgWz) | 3:19 | 2023-02-10 | 2023-02-24 |
 | [อ๋อค่ะ](https://open.spotify.com/track/1XlaKSyICVO45By6Gf1CjM) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [อ๋อค่ะ](https://open.spotify.com/album/7CEY36trH9lWieeGRzTOgb) | 4:12 | 2022-07-10 | 2022-08-26 |
+| [ฮีลใจ \(Here For You\)](https://open.spotify.com/track/2jMxARZO1H1CNDyApCpwNr) | [Butterbear](https://open.spotify.com/artist/7bDJAhi2Egiu9bGQq91Qkr) | [ฮีลใจ \(Here For You\)](https://open.spotify.com/album/2LvIsQRWHQOPjKUyWIPh1p) | 3:02 | 2024-11-06 |  |
 | [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 | 2022-05-26 | 2024-06-01 |
 | [เกินปุยมุ้ย!](https://open.spotify.com/track/2nhI5HdE2iZ39rgJjHOQvG) | [เอ้ย จิรัช](https://open.spotify.com/artist/57LTnxDtihPVR9HlkAN3OY) | [เกินปุยมุ้ย!](https://open.spotify.com/album/2VuEAib3nbCqK58hcIaKSV) | 3:11 | 2022-06-23 | 2022-09-24 |
 | [เกือบดี \(Almost\)](https://open.spotify.com/track/6uAOfFXRlD1TFfX3IAAgrw) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [เกือบดี \(Almost\)](https://open.spotify.com/album/1iuK7F5XHxGOcCuAnhcvTZ) | 3:40 | 2022-08-18 | 2022-09-01 |

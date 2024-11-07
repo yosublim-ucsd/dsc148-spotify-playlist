@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 200363,
+  "num_followers": 200374,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZygOgAAAAABqPgGTsdy9ojS2fbB5hfzh",
+  "snapshot_id": "ZylgAAAAAAAPwcyySblk3DxrtWwrjC59",
   "tracks": [
     {
       "added_at": null,
@@ -995,18 +995,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Steppas",
-        "url": "https://open.spotify.com/album/5EFWc59llfnLab6hpjJBkX"
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
       "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Steppas",
-      "url": "https://open.spotify.com/track/1NIYStZPXSEwxoeX28lK5e"
+      "duration_ms": 185806,
+      "name": "Tip Toe (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/6ztvsy3C6hPjVg9j4x1XKJ"
     },
     {
       "added_at": null,

@@ -717,6 +717,28 @@
     },
     {
       "album": {
+        "name": "Unpack",
+        "url": "https://open.spotify.com/album/4xOYWfQHQ67I8OJrBIvLhN"
+      },
+      "artists": [
+        {
+          "name": "Shigge",
+          "url": "https://open.spotify.com/artist/7rZcAJNx9WPPw8ti31isbv"
+        },
+        {
+          "name": "Nenashi",
+          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Another Side (feat. Nenashi)",
+      "url": "https://open.spotify.com/track/0R6uVOK29yCQg4K1ILmX7m"
+    },
+    {
+      "album": {
         "name": "Antidote",
         "url": "https://open.spotify.com/album/0MnfNB3z2eK1gPvk5QWNtB"
       },
@@ -1710,7 +1732,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 136426,
       "name": "Broke Boy Rich",
       "url": "https://open.spotify.com/track/0dSbZGtxtsbvB6SQNafgmG"
@@ -5098,7 +5120,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 194550,
       "name": "Good Care",
       "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
@@ -6685,6 +6707,28 @@
     },
     {
       "album": {
+        "name": "Hosono House Revisited",
+        "url": "https://open.spotify.com/album/0YbvbjeWwBhgeGfaiuEbAj"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        },
+        {
+          "name": "mei ehara",
+          "url": "https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203175,
+      "name": "Jusho Futei Mushoku Tei Shunyu",
+      "url": "https://open.spotify.com/track/47tXtqlDHBM6uCLyuK1lvd"
+    },
+    {
+      "album": {
         "name": "Just a Dance",
         "url": "https://open.spotify.com/album/39ZiNIvTOozeE4EcV0Ax5e"
       },
@@ -7434,7 +7478,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 224000,
       "name": "Lil Bit (feat. Asako Toki)",
       "url": "https://open.spotify.com/track/5B9pSYUOuY2CMaLedqpvXI"
@@ -7994,7 +8038,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 268799,
       "name": "Luv Myself (feat. AKLO & KEIJU)",
       "url": "https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx"
@@ -9215,6 +9259,32 @@
     },
     {
       "album": {
+        "name": "Liquid Yellow Portraits",
+        "url": "https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk"
+      },
+      "artists": [
+        {
+          "name": "Shingo Suzuki",
+          "url": "https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf"
+        },
+        {
+          "name": "5lack",
+          "url": "https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI"
+        },
+        {
+          "name": "Nenashi",
+          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239057,
+      "name": "New Morning",
+      "url": "https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8"
+    },
+    {
+      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -10052,6 +10122,24 @@
       "duration_ms": 199333,
       "name": "on our journey feat.Shingo Sekiguchi",
       "url": "https://open.spotify.com/track/3CbnAD1zSEGhmrYpvJoEdd"
+    },
+    {
+      "album": {
+        "name": "ON THE ISLAND",
+        "url": "https://open.spotify.com/album/3gREMxCqs0lnzPgBcazdmy"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157222,
+      "name": "ON THE ISLAND",
+      "url": "https://open.spotify.com/track/2k1fUk8E4SBPpkwTUQ46ek"
     },
     {
       "album": {
@@ -13643,6 +13731,28 @@
     },
     {
       "album": {
+        "name": "Tell Me (feat. ikkubaru)",
+        "url": "https://open.spotify.com/album/1GXu9yIAipEhNmkJNU0tzq"
+      },
+      "artists": [
+        {
+          "name": "lightcraft",
+          "url": "https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3"
+        },
+        {
+          "name": "ikkubaru",
+          "url": "https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200926,
+      "name": "Tell Me (feat. ikkubaru)",
+      "url": "https://open.spotify.com/track/0CADqD68QbiDuGkIGBusP4"
+    },
+    {
+      "album": {
         "name": "Temperature High",
         "url": "https://open.spotify.com/album/6KOHE7segw0upBTSCpWELD"
       },
@@ -14426,7 +14536,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 206571,
       "name": "Trust",
       "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
@@ -15568,7 +15678,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 164021,
       "name": "WHITNEY",
       "url": "https://open.spotify.com/track/5bYCfnU4JbAANFkxpbAbhR"
@@ -17058,6 +17168,24 @@
       "duration_ms": 154528,
       "name": "\u5343\u9ce5\u8db3\u3067\u3086\u3051",
       "url": "https://open.spotify.com/track/5J2vkocgnJvBWSf7U6flgb"
+    },
+    {
+      "album": {
+        "name": "\u53cb\u9054\u3055",
+        "url": "https://open.spotify.com/album/5BOiW920qSofYvKGfM6zpP"
+      },
+      "artists": [
+        {
+          "name": "Yuma Abe",
+          "url": "https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150885,
+      "name": "\u53cb\u9054\u3055",
+      "url": "https://open.spotify.com/track/5vGQOBvW6CjTURv0eWzRD5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-779 songs - 1 day 9 hr 52 min
+782 songs - 1 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Bleakening Mood](https://open.spotify.com/track/0tMQKdAXIBidpkrNDEPm1y) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Bleakening Mood](https://open.spotify.com/album/21croP4dvlmwfLdymBKl29) | 2:43 | 2023-01-06 |  |
 | [Blissfully](https://open.spotify.com/track/7htKUpIce6DxgjJhOd4xoX) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Blissfully](https://open.spotify.com/album/4sFH3eqtmKVo0HVlyA8hnm) | 3:16 | 2023-12-15 | 2024-06-15 |
 | [Bloom](https://open.spotify.com/track/1ZF4Elt0Sxg8UrQ186jbXn) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Bloom](https://open.spotify.com/album/2VsnPobiX8U8SzIuII5hI8) | 2:46 | 2023-09-29 |  |
+| [Bloomington](https://open.spotify.com/track/682NdyYjynX5LkBuVdFInr) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Bloomington](https://open.spotify.com/album/6CGG7yLH9nWD746WcQtZ7D) | 2:29 | 2024-11-06 |  |
 | [Blossom on the Bush](https://open.spotify.com/track/5wo2ihBwsQ6Kf4PP15XZgA) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Blossom on the Bush](https://open.spotify.com/album/4aZP7ZkBYWRtTJRXfJhy0J) | 1:56 | 2022-11-18 | 2023-08-19 |
 | [Blue Bird](https://open.spotify.com/track/2QHSfJCTIE3xjA1zTPy5ka) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Blue Bird](https://open.spotify.com/album/5SXq73X3KJcrUIUU1t0JEa) | 2:44 | 2023-06-02 | 2024-04-05 |
 | [Blue Dreams](https://open.spotify.com/track/2dmBK2WqOlTk39HAs9ghBS) | [Lucas Van Houten](https://open.spotify.com/artist/17Kex2gSw0cTJc6YsDJSCK) | [Blue Dreams](https://open.spotify.com/album/2ohuQT9emUQocJPvKGYBho) | 2:51 | 2021-12-08 | 2024-06-07 |
@@ -381,7 +382,7 @@
 | [Leme](https://open.spotify.com/track/1B5el46SxWXSGfI7Lsn5g4) | [Oliver Leonardo](https://open.spotify.com/artist/2tn2eGCJFEG139hn8b1UIj) | [Leme](https://open.spotify.com/album/2N7E7yXlRKE3pwFMmspN1z) | 2:53 | 2021-12-08 | 2024-03-29 |
 | [Lento](https://open.spotify.com/track/0gpSLKKUeEeD5QxpxJDrMP) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Lento](https://open.spotify.com/album/7d7LdZLRTgvHEHXTHdFQ88) | 2:00 | 2023-08-17 |  |
 | [Les Ondes](https://open.spotify.com/track/06vt7BIMyVW3CrvWNQ5vCx) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Les Ondes](https://open.spotify.com/album/47iTH8q00rx6DxOhU6UQcp) | 1:44 | 2022-06-10 | 2023-08-19 |
-| [Les Étoiles](https://open.spotify.com/track/0ScIojb6Imo343SGP7yEQa) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Les Étoiles](https://open.spotify.com/album/5NWKDyiupZHkpMzwHO2wwp) | 2:34 | 2023-01-20 |  |
+| [Les Étoiles](https://open.spotify.com/track/0ScIojb6Imo343SGP7yEQa) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Les Étoiles](https://open.spotify.com/album/5NWKDyiupZHkpMzwHO2wwp) | 2:34 | 2023-01-20 | 2024-11-07 |
 | [Let Hope Be Your Anchor](https://open.spotify.com/track/2mfr6qiU7oYNge4Ar0P6XI) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Let Hope Be Your Anchor](https://open.spotify.com/album/0ec0mMBEPa6EAqDi0Wgh3g) | 3:23 | 2022-06-24 | 2024-04-05 |
 | [Let there be dusk](https://open.spotify.com/track/2vAwGQP1uwWbntjDBI7zqE) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Let there be dusk](https://open.spotify.com/album/0pJ3iGzScpSKx0d0YAuxjg) | 2:53 | 2021-12-08 | 2022-10-14 |
 | [Levitating](https://open.spotify.com/track/49SUqwYACakEEvO20DcLlt) | [Josiah Mitchell](https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ) | [Levitating](https://open.spotify.com/album/565nU3fGdYAnH8eH7gOuZc) | 4:18 | 2021-12-08 | 2022-05-27 |
@@ -498,6 +499,7 @@
 | [Other Days](https://open.spotify.com/track/3lLdHVyx76OUJtG9S9pJkW) | [Aaron Reid](https://open.spotify.com/artist/1ie0JBUOVxOoaVsQkuIsuG) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:24 | 2021-12-08 | 2022-07-01 |
 | [Our Corner Of The World](https://open.spotify.com/track/6fuQyoZURai0hV2js4AhHT) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Our Corner Of The World](https://open.spotify.com/album/6PlkLwoz58spqC90qxokN9) | 1:57 | 2021-12-08 | 2022-06-03 |
 | [Over the Sunset](https://open.spotify.com/track/3MWQHYACLVk2rDnEEHp2XU) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Over the Sunset](https://open.spotify.com/album/2Y64wPIAgv4EG7dP2rJtff) | 2:47 | 2024-09-03 |  |
+| [Palermo](https://open.spotify.com/track/1xXbu3j1JPlMOLpfo6aVPJ) | [Lorenzo Campagnoli](https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc) | [Palermo](https://open.spotify.com/album/3LpA8GNdQmLhpmgUf5rRda) | 1:46 | 2024-11-06 |  |
 | [Pali Hale](https://open.spotify.com/track/23KFTdPnG5SVo3UMNoI7BC) | [Lukas Holsen](https://open.spotify.com/artist/0k6bekZzPKdDnAcDbRqYgO) | [Pali Hale](https://open.spotify.com/album/17gtmAUDxphDXbzKo1lBtE) | 2:50 | 2021-12-08 | 2022-09-03 |
 | [Pampas](https://open.spotify.com/track/69mjMThxmO77svcQG5jv9s) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Pampas](https://open.spotify.com/album/24ZUuBk8JknWaAalkgC2ZO) | 2:43 | 2023-09-29 | 2024-05-24 |
 | [Passage](https://open.spotify.com/track/5QpR40FJQcO0dU4ygdQuIm) | [Carol Poole](https://open.spotify.com/artist/02I1DT5QQhN18VH7MYEsSv) | [Passage](https://open.spotify.com/album/6eVfefPBUUxftPxKDlxLjE) | 2:30 | 2021-12-08 | 2022-06-10 |
@@ -555,6 +557,7 @@
 | [Roses](https://open.spotify.com/track/29rFbzOew6wFUm29ZEtXIl) | [Victor Santos](https://open.spotify.com/artist/1VIfeRsZv9cw7shAwqBDOW) | [Roses](https://open.spotify.com/album/09p5h5U8OsTHA9dIaXGVes) | 3:51 | 2021-12-08 | 2022-07-01 |
 | [Sail For Toumain](https://open.spotify.com/track/1WFdNNCiWcNFnL45R08pou) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Sail For Toumain](https://open.spotify.com/album/4qEH9vdWvau9XxXhlBi3q1) | 2:26 | 2022-08-19 | 2023-03-25 |
 | [Saint Placide](https://open.spotify.com/track/3pdhKb8GivqG4PVhNujVu8) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Saint Placide](https://open.spotify.com/album/3b247w7f2QfCQgTMpuppup) | 2:35 | 2024-09-03 |  |
+| [San Andrés](https://open.spotify.com/track/0FxmuMmhGvyYmcRALNM816) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [San Andrés](https://open.spotify.com/album/4HCYIn19wcHOBuy1wvnpm5) | 2:35 | 2024-11-06 |  |
 | [San Juan](https://open.spotify.com/track/3LJc8MWjahc3VNp3JGKrwX) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [San Juan](https://open.spotify.com/album/5cDGufFIZdvK1n8piyum2Z) | 2:25 | 2021-12-08 | 2024-05-04 |
 | [san luca](https://open.spotify.com/track/5HBOzyGyihD8KEptCOoxxu) | [Valery Isabel](https://open.spotify.com/artist/4QYwsnE0bbhWxuyUbSFnZR) | [purple dreams](https://open.spotify.com/album/3ofKSAH3DgolDBcU1IaWCs) | 3:06 | 2021-12-08 | 2024-04-19 |
 | [San Sebastian](https://open.spotify.com/track/6r9LaBQgUkbQzqjxCFQRVO) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [San Sebastian](https://open.spotify.com/album/0bCjvoW1iidtDENdbN0z1x) | 2:25 | 2024-07-19 |  |
@@ -635,7 +638,7 @@
 | [Strada Nuova](https://open.spotify.com/track/45EsspfzGgIN8Ny4b9baQr) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Strada Nuova](https://open.spotify.com/album/1eA4Mfi8x3auSnR5EJ6pMA) | 2:18 | 2022-07-08 | 2024-05-04 |
 | [Strange Encounter](https://open.spotify.com/track/0wy7FZ340c8LFHbbu07od2) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Strange Encounter](https://open.spotify.com/album/1gPHMceOELyRK5Sc7sbX4m) | 2:20 | 2023-03-24 |  |
 | [Strange Trails](https://open.spotify.com/track/5T59Qef05DQSA32kj2mw7t) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Strange Trails](https://open.spotify.com/album/2vhSHo4z27kq67g7MUfDau) | 2:01 | 2022-04-22 | 2023-06-03 |
-| [Strawberry Dreams](https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Strawberry Dreams](https://open.spotify.com/album/1MOCesaJVnxOgVz3iyIzvp) | 2:35 | 2023-05-12 |  |
+| [Strawberry Dreams](https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Strawberry Dreams](https://open.spotify.com/album/1MOCesaJVnxOgVz3iyIzvp) | 2:35 | 2023-05-12 | 2024-11-07 |
 | [Strawberry Dreams](https://open.spotify.com/track/6VmmaKQk2QRX4Fz3k7RQIy) | [Rua Do Sol](https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4) | [Strawberry Dreams](https://open.spotify.com/album/6halbltGTQuauVqk6ZVxr8) | 2:59 | 2024-05-03 |  |
 | [Summer Love](https://open.spotify.com/track/7iGZjJTIxc3nU5KQ3LlCdI) | [Maia](https://open.spotify.com/artist/4RW9d3d203cf98WetcAbIj) | [Summer Love](https://open.spotify.com/album/6cY5l2Q1CiRpJm301q756l) | 2:07 | 2023-08-10 |  |
 | [Summer Nights](https://open.spotify.com/track/1mh5h5oMEhnYdv5kZPF7yS) | [Olivia Simons](https://open.spotify.com/artist/1cl0u4oWyjqmcGDpqDnMns) | [Summer Nights](https://open.spotify.com/album/1nZAeaNI9CR4D81bxSH7f5) | 3:15 | 2021-12-08 | 2022-08-05 |

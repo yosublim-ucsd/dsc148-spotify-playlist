@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : Jean-Jacques Goldman",
-  "num_followers": 481889,
+  "num_followers": 481918,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Paradize",
-        "url": "https://open.spotify.com/album/0YiSd3JeGUX4VIO8Po9TD4"
+        "name": "Les chemins de traverse (Remastered)",
+        "url": "https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x"
       },
       "artists": [
         {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
         }
       ],
-      "duration_ms": 209413,
-      "name": "J'ai demand\u00e9 \u00e0 la lune",
-      "url": "https://open.spotify.com/track/2QSAj76Ba6aMFX9RlXdUdO"
+      "duration_ms": 163466,
+      "name": "Je l'aime \u00e0 mourir - Remastered",
+      "url": "https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Les chemins de traverse (Remastered)",
-        "url": "https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x"
+        "name": "Paradize",
+        "url": "https://open.spotify.com/album/0YiSd3JeGUX4VIO8Po9TD4"
       },
       "artists": [
         {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
         }
       ],
-      "duration_ms": 163466,
-      "name": "Je l'aime \u00e0 mourir - Remastered",
-      "url": "https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO"
+      "duration_ms": 209413,
+      "name": "J'ai demand\u00e9 \u00e0 la lune",
+      "url": "https://open.spotify.com/track/2QSAj76Ba6aMFX9RlXdUdO"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Alors regarde",
-        "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bruel",
-          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
-        }
-      ],
-      "duration_ms": 268746,
-      "name": "Place des grands hommes",
-      "url": "https://open.spotify.com/track/20RHWjtCLr7ODGQEItdZXg"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
         "name": "Tout pour la musique (Remasteris\u00e9 en 2004)",
         "url": "https://open.spotify.com/album/0IePUOxaLDrCmaB6r7JyVl"
       },
@@ -823,18 +807,34 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Cure",
-        "url": "https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw"
+        "name": "Alors regarde",
+        "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
       },
       "artists": [
         {
-          "name": "Eddy de Pretto",
-          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+          "name": "Patrick Bruel",
+          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
         }
       ],
-      "duration_ms": 184840,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe"
+      "duration_ms": 268746,
+      "name": "Place des grands hommes",
+      "url": "https://open.spotify.com/track/20RHWjtCLr7ODGQEItdZXg"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "Grain de sable",
+        "url": "https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw"
+      },
+      "artists": [
+        {
+          "name": "Tryo",
+          "url": "https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "D\u00e9sol\u00e9 pour hier soir",
+      "url": "https://open.spotify.com/track/1OPUGXvJXEWZu6qqBr0VTF"
     }
   ],
   "unique_name": "Culture Tubes",

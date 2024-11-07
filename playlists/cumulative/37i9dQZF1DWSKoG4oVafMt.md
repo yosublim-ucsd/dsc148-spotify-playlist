@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-945 songs - 2 day 3 hr 3 min
+946 songs - 2 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [Like Karda](https://open.spotify.com/track/1JuSXMxHuRiVaHFN3z380v) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [The Boss Lady](https://open.spotify.com/album/6RIkd4UrDkJ1N0BUvtuhy3) | 2:26 | 2022-08-04 | 2022-08-18 |
 | [Like Me](https://open.spotify.com/track/2K1Drq6wbuLJ994USxQBFt) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [5 Diamonds](https://open.spotify.com/album/3nULLU4gQASy6xcbCnoTrh) | 2:58 | 2024-01-15 | 2024-02-22 |
 | [Like Moon](https://open.spotify.com/track/7H0F4B8lh7pG2A1U2H6m2O) | [The Koko](https://open.spotify.com/artist/5fdZP1hlx6kNQlOVVunTi3) | [Like Moon](https://open.spotify.com/album/1QKhydtnWNeOD2G3DyP0NJ) | 3:31 | 2022-03-16 | 2022-04-06 |
+| [Loafer](https://open.spotify.com/track/1Ha1bzCgyyZbhiSHygtTKs) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [Babbu](https://open.spotify.com/artist/5i2ZfWkVWCMNjUFHyHMuPw), [Trip Beats](https://open.spotify.com/artist/7tDPPascbZXHqvtye9tXrb) | [Loafer](https://open.spotify.com/album/468GTdce4X0z4lrsmo81Zz) | 2:52 | 2024-11-06 |  |
 | [LOML \(Sifta\)](https://open.spotify.com/track/4dCJsmrfZK6md1KM3ZK1Zk) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Sensational](https://open.spotify.com/album/7BbuSjeZmKAaXYt22Av57u) | 2:16 | 2024-10-10 |  |
 | [London Bridge](https://open.spotify.com/track/7iSITFbbFsBP5vfZH2BSdY) | [Sarmad Qadeer](https://open.spotify.com/artist/6Eh92TEgarADIOborTEsDJ) | [London Bridge](https://open.spotify.com/album/28356uvnBo5DfxR8u1hPhc) | 2:30 | 2022-12-06 | 2022-12-24 |
 | [London Da Lakk](https://open.spotify.com/track/6KFjOVXJR7WC8egwepPJTw) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Meet Sehra](https://open.spotify.com/artist/3yHKjwbYaj7IvSX7qjSI1l) | [London Da Lakk](https://open.spotify.com/album/1HOy4MTSYqJjqyjWdc925z) | 2:53 | 2022-05-06 | 2022-05-20 |
@@ -706,7 +707,7 @@
 | [Rutba](https://open.spotify.com/track/1VtoihGms5WJk85W2OLqeP) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Kali Jotta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PX3Pa8S9mb76rDis21Ljc) | 6:44 | 2024-04-08 | 2024-08-27 |
 | [Rutba](https://open.spotify.com/track/4EvaQx8uREbHOHM3SdCRCe) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Kali Jotta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55iA8nuzIEjLxK82lzhgyi) | 6:44 | 2023-02-09 | 2024-04-19 |
 | [Saada Pyaar](https://open.spotify.com/track/5gSVKG0R4xc8qtDIoyDNy8) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Money Musik](https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o) | [Not by Chance](https://open.spotify.com/album/3Msv5MSxcayA4sbQpQhXzu) | 3:33 | 2021-12-02 | 2022-07-06 |
-| [Saadhni](https://open.spotify.com/track/0v6E0NDLet0SqyuSMbf2Ec) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Saadhni](https://open.spotify.com/album/65k3KZdNSFdhTBZzOVRCIa) | 2:42 | 2024-10-16 |  |
+| [Saadhni](https://open.spotify.com/track/0v6E0NDLet0SqyuSMbf2Ec) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Saadhni](https://open.spotify.com/album/65k3KZdNSFdhTBZzOVRCIa) | 2:42 | 2024-10-16 | 2024-11-07 |
 | [Saadi Yaad](https://open.spotify.com/track/2lQKUDOOg4TELqOacnHwDt) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Saadi Yaad](https://open.spotify.com/album/4y0IjnVoYUKqJIr2uhtff6) | 2:40 | 2022-03-07 | 2022-04-06 |
 | [Saah](https://open.spotify.com/track/7HffX1reE0a6KPbiAndrZ4) | [Kevvy Saage](https://open.spotify.com/artist/7lPPioms8qtMrlwBjCVhhi) | [Saah](https://open.spotify.com/album/20S28a9GLuSxQu66IVZ5HE) | 2:46 | 2022-02-18 | 2022-03-11 |
 | [Saari Duniya Jalaa Denge](https://open.spotify.com/track/0YxKKO272sacGBJKjf6FnB) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [ANIMAL](https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO) | 3:02 | 2023-11-25 | 2024-08-27 |

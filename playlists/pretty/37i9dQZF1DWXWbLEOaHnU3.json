@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 556631,
+  "num_followers": 556707,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -703,18 +703,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "I Want Your Soul",
-        "url": "https://open.spotify.com/album/4wXLChVEExhDz4PQ37V8yx"
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/5BRloFEHPzJozlMlwV6HhB"
       },
       "artists": [
         {
-          "name": "Naturalize",
-          "url": "https://open.spotify.com/artist/0fzvJQrOtf2nhtgNCRZ022"
+          "name": "Sighter",
+          "url": "https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM"
+        },
+        {
+          "name": "Vegas (Brazil)",
+          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
         }
       ],
-      "duration_ms": 420872,
-      "name": "I Want Your Soul",
-      "url": "https://open.spotify.com/track/1jRBWD3P86rcJi2AAONZdz"
+      "duration_ms": 349014,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/5y8drYVT8SGRPxEQEEjSts"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -743,22 +747,18 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/5BRloFEHPzJozlMlwV6HhB"
+        "name": "I Want Your Soul",
+        "url": "https://open.spotify.com/album/4wXLChVEExhDz4PQ37V8yx"
       },
       "artists": [
         {
-          "name": "Sighter",
-          "url": "https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM"
-        },
-        {
-          "name": "Vegas (Brazil)",
-          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
+          "name": "Naturalize",
+          "url": "https://open.spotify.com/artist/0fzvJQrOtf2nhtgNCRZ022"
         }
       ],
-      "duration_ms": 349014,
-      "name": "Flame",
-      "url": "https://open.spotify.com/track/5y8drYVT8SGRPxEQEEjSts"
+      "duration_ms": 420872,
+      "name": "I Want Your Soul",
+      "url": "https://open.spotify.com/track/1jRBWD3P86rcJi2AAONZdz"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "Shroomeez",
+        "url": "https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        }
+      ],
+      "duration_ms": 390011,
+      "name": "You Wanna Stay",
+      "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Sun & Moon (Blastoyz Remix)",
         "url": "https://open.spotify.com/album/7ySVLJX79BVx2eCAu0oUQG"
       },
@@ -1119,42 +1135,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Shroomeez",
-        "url": "https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ"
-      },
-      "artists": [
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        }
-      ],
-      "duration_ms": 390011,
-      "name": "You Wanna Stay",
-      "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Music Is My Remedy",
-        "url": "https://open.spotify.com/album/4BXnjRvqUm9CD8DL7VoU7v"
-      },
-      "artists": [
-        {
-          "name": "Fabio Fusco",
-          "url": "https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7"
-        },
-        {
-          "name": "livicious",
-          "url": "https://open.spotify.com/artist/02nXRBdOSxeWufeaydQITx"
-        }
-      ],
-      "duration_ms": 306857,
-      "name": "Music Is My Remedy",
-      "url": "https://open.spotify.com/track/6jzgprpVQTyDlNHD8E8jEI"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "The Hook",
         "url": "https://open.spotify.com/album/6eKYwQDPRKIdZQnC5K1r1Q"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 285217,
       "name": "The Hook",
       "url": "https://open.spotify.com/track/2KJc0tlouvIy4xwwlp40Hr"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Music Is My Remedy",
+        "url": "https://open.spotify.com/album/4BXnjRvqUm9CD8DL7VoU7v"
+      },
+      "artists": [
+        {
+          "name": "Fabio Fusco",
+          "url": "https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7"
+        },
+        {
+          "name": "livicious",
+          "url": "https://open.spotify.com/artist/02nXRBdOSxeWufeaydQITx"
+        }
+      ],
+      "duration_ms": 306857,
+      "name": "Music Is My Remedy",
+      "url": "https://open.spotify.com/track/6jzgprpVQTyDlNHD8E8jEI"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "Carmen",
+        "url": "https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF"
+      },
+      "artists": [
+        {
+          "name": "Skazi",
+          "url": "https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3"
+        },
+        {
+          "name": "Invisible Reality",
+          "url": "https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An"
+        }
+      ],
+      "duration_ms": 243428,
+      "name": "Carmen",
+      "url": "https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Shiva Style, Pt. 2",
         "url": "https://open.spotify.com/album/6CZaPBFfSRM0uDuTSAUCKa"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 349764,
       "name": "Shiva Style, Pt. 2",
       "url": "https://open.spotify.com/track/0WLTMOUNg6zHjSlFR4Hv3m"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Carmen",
-        "url": "https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF"
-      },
-      "artists": [
-        {
-          "name": "Skazi",
-          "url": "https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3"
-        },
-        {
-          "name": "Invisible Reality",
-          "url": "https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An"
-        }
-      ],
-      "duration_ms": 243428,
-      "name": "Carmen",
-      "url": "https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1427,30 +1427,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Stupid as Fvck (Physis Remix)",
-        "url": "https://open.spotify.com/album/5rKCuh31YA9TKTnt4u5cSD"
-      },
-      "artists": [
-        {
-          "name": "Neelix",
-          "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
-        },
-        {
-          "name": "Symphonix",
-          "url": "https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm"
-        },
-        {
-          "name": "Physis",
-          "url": "https://open.spotify.com/artist/1IM0Mnml2ITEkXZoULnu6Z"
-        }
-      ],
-      "duration_ms": 329565,
-      "name": "Stupid as Fvck (Physis Remix)",
-      "url": "https://open.spotify.com/track/7sR7TTMwNmLvQWSMgAr16f"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Remixes",
         "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
       },
@@ -1491,6 +1467,30 @@
       "duration_ms": 149617,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/4zc3rzC5FsX1NXF3EZwP2r"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Stupid as Fvck (Physis Remix)",
+        "url": "https://open.spotify.com/album/5rKCuh31YA9TKTnt4u5cSD"
+      },
+      "artists": [
+        {
+          "name": "Neelix",
+          "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
+        },
+        {
+          "name": "Symphonix",
+          "url": "https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm"
+        },
+        {
+          "name": "Physis",
+          "url": "https://open.spotify.com/artist/1IM0Mnml2ITEkXZoULnu6Z"
+        }
+      ],
+      "duration_ms": 329565,
+      "name": "Stupid as Fvck (Physis Remix)",
+      "url": "https://open.spotify.com/track/7sR7TTMwNmLvQWSMgAr16f"
     },
     {
       "added_at": "2024-09-27 04:00:00",

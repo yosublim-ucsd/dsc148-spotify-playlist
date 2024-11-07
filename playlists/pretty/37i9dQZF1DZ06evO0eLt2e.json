@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 29330,
+  "num_followers": 29335,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZygOgAAAAAA9dLf0bJO1QBYM51BJYjio",
+  "snapshot_id": "ZylgAAAAAAB6wDbfdBK7ERumuT9HoTil",
   "tracks": [
     {
       "added_at": null,
@@ -915,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Closer to the Bone",
-        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 170920,
-      "name": "Good Morning John",
-      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Star Is Born",
         "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
       },
@@ -951,8 +935,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo"
+        "name": "Closer to the Bone",
+        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
       },
       "artists": [
         {
@@ -960,9 +944,29 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 170093,
-      "name": "Once More With Feeling",
-      "url": "https://open.spotify.com/track/609YKrV5yz6V9e876motcJ"
+      "duration_ms": 170920,
+      "name": "Good Morning John",
+      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Rita Coolidge",
+          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
+        }
+      ],
+      "duration_ms": 190240,
+      "name": "I'd Rather Be Sorry - duet with Rita Coolidge",
+      "url": "https://open.spotify.com/track/05v0aaMIOZvbo43TBqlUgC"
     },
     {
       "added_at": null,
@@ -1026,15 +1030,11 @@
         {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Rita Coolidge",
-          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
         }
       ],
-      "duration_ms": 190240,
-      "name": "I'd Rather Be Sorry - duet with Rita Coolidge",
-      "url": "https://open.spotify.com/track/05v0aaMIOZvbo43TBqlUgC"
+      "duration_ms": 170093,
+      "name": "Once More With Feeling",
+      "url": "https://open.spotify.com/track/609YKrV5yz6V9e876motcJ"
     },
     {
       "added_at": null,

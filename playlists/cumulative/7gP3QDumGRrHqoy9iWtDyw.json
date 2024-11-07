@@ -799,6 +799,24 @@
     },
     {
       "album": {
+        "name": "Havwest EP",
+        "url": "https://open.spotify.com/album/0nrOaSQeG5YGwWUuQJnGZ6"
+      },
+      "artists": [
+        {
+          "name": "Danny Howard",
+          "url": "https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208890,
+      "name": "Cosmic Girl",
+      "url": "https://open.spotify.com/track/7bfXdIsRCEVO6kArG49pjo"
+    },
+    {
+      "album": {
         "name": "Costa",
         "url": "https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7"
       },
@@ -4662,12 +4680,12 @@
           "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         },
         {
-          "name": "Rivo",
-          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
-        },
-        {
           "name": "Eliza Doolittle",
           "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+        },
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
         }
       ],
       "date_added": "2024-01-19",

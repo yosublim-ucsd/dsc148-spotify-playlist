@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 63095,
+  "num_followers": 63126,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -411,18 +411,22 @@
     {
       "added_at": "2024-11-04 16:40:19",
       "album": {
-        "name": "93",
-        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
+        "name": "Neverl\u00e2ndia Sessions (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT"
       },
       "artists": [
         {
-          "name": "Kynnie",
-          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        },
+        {
+          "name": "NUNES",
+          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
         }
       ],
-      "duration_ms": 226073,
-      "name": "Me Curar",
-      "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
+      "duration_ms": 206000,
+      "name": "Vai dar Bom (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ"
     },
     {
       "added_at": "2024-11-04 16:40:19",
@@ -451,22 +455,18 @@
     {
       "added_at": "2024-11-04 16:40:19",
       "album": {
-        "name": "Neverl\u00e2ndia Sessions (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT"
+        "name": "93",
+        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
       },
       "artists": [
         {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        },
-        {
-          "name": "NUNES",
-          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
+          "name": "Kynnie",
+          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Vai dar Bom (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ"
+      "duration_ms": 226073,
+      "name": "Me Curar",
+      "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
     },
     {
       "added_at": "2024-11-04 16:40:19",
@@ -559,18 +559,22 @@
     {
       "added_at": "2024-11-04 16:40:19",
       "album": {
-        "name": "amor n\u00e3o \u00e9 suficiente",
-        "url": "https://open.spotify.com/album/5lJ3be5dBEoJHnyprHg4mF"
+        "name": "Labirinto",
+        "url": "https://open.spotify.com/album/1p9ksUAGTlV9BPI7fqs5j2"
       },
       "artists": [
         {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        },
+        {
+          "name": "Rodd",
+          "url": "https://open.spotify.com/artist/45lSKyZgKW2bdvoi3KyAFT"
         }
       ],
-      "duration_ms": 160000,
-      "name": "amor n\u00e3o \u00e9 suficiente",
-      "url": "https://open.spotify.com/track/0mhohS3IL2uHRQHhRu36JW"
+      "duration_ms": 239363,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/1cCFfCSdS0eHrUBq3l9djO"
     },
     {
       "added_at": "2024-11-04 16:40:19",
@@ -591,22 +595,18 @@
     {
       "added_at": "2024-11-04 16:40:19",
       "album": {
-        "name": "Labirinto",
-        "url": "https://open.spotify.com/album/1p9ksUAGTlV9BPI7fqs5j2"
+        "name": "amor n\u00e3o \u00e9 suficiente",
+        "url": "https://open.spotify.com/album/5lJ3be5dBEoJHnyprHg4mF"
       },
       "artists": [
         {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        },
-        {
-          "name": "Rodd",
-          "url": "https://open.spotify.com/artist/45lSKyZgKW2bdvoi3KyAFT"
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
         }
       ],
-      "duration_ms": 239363,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/1cCFfCSdS0eHrUBq3l9djO"
+      "duration_ms": 160000,
+      "name": "amor n\u00e3o \u00e9 suficiente",
+      "url": "https://open.spotify.com/track/0mhohS3IL2uHRQHhRu36JW"
     },
     {
       "added_at": "2024-11-04 16:40:19",
@@ -719,6 +719,26 @@
     {
       "added_at": "2024-11-04 16:40:19",
       "album": {
+        "name": "Selene",
+        "url": "https://open.spotify.com/album/71izF9Onm4qAlIhoekpKTX"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "Dudah",
+          "url": "https://open.spotify.com/artist/5ltQoJgmfXPVL8dUkgTViq"
+        }
+      ],
+      "duration_ms": 205553,
+      "name": "Lendas",
+      "url": "https://open.spotify.com/track/6rJLsNAal1Pg6T5N7icanj"
+    },
+    {
+      "added_at": "2024-11-04 16:40:19",
+      "album": {
         "name": "Doug O. no est\u00fadio Showlivre",
         "url": "https://open.spotify.com/album/5yUhko9VWWdbBxX8IaopRK"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 261000,
       "name": "SEM SER AMOR",
       "url": "https://open.spotify.com/track/5EcPkD6RBNf4H6H02rcnIr"
-    },
-    {
-      "added_at": "2024-11-04 16:40:19",
-      "album": {
-        "name": "Selene",
-        "url": "https://open.spotify.com/album/71izF9Onm4qAlIhoekpKTX"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        },
-        {
-          "name": "Dudah",
-          "url": "https://open.spotify.com/artist/5ltQoJgmfXPVL8dUkgTViq"
-        }
-      ],
-      "duration_ms": 205553,
-      "name": "Lendas",
-      "url": "https://open.spotify.com/track/6rJLsNAal1Pg6T5N7icanj"
     },
     {
       "added_at": "2024-11-04 16:40:19",

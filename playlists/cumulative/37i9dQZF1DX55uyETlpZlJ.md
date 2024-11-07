@@ -2,9 +2,9 @@
 
 ### [Kannada Indie](https://open.spotify.com/playlist/37i9dQZF1DX55uyETlpZlJ)
 
-> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasu Dixit, Manuality, Joel Sakkari
+> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde,  Sonu Nigam
 
-403 songs - 22 hr 2 min
+404 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Alladsro](https://open.spotify.com/track/5VcLXHP9BQXJpxKYRLLe5E) | [PS Praveen](https://open.spotify.com/artist/2Dl133Jk9EdG3Z8lKbTMle) | [Alladsro](https://open.spotify.com/album/1Xxq3dTXHid0SEifag64gu) | 3:56 | 2023-08-25 | 2023-09-22 |
 | [AMADA](https://open.spotify.com/track/5hyRMNjIVnHK4cvkjddsCG) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Sukeerth Shetty](https://open.spotify.com/artist/6uqYgNPvEW86Ek9oVLXOlo), [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr) | [AMADA](https://open.spotify.com/album/12q9qvqT21dpZAr3z4sMY3) | 4:24 | 2024-04-01 | 2024-10-02 |
 | [Amalu](https://open.spotify.com/track/6wQcIY7csh8pNjdRIPpGsS) | [Nayan Meti](https://open.spotify.com/artist/6nwWvk6JlBmwe4jCnkimnd), [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr) | [Amalu](https://open.spotify.com/album/28JRQOBgS56TdjewpaFYk9) | 2:16 | 2024-07-11 |  |
-| [Amma](https://open.spotify.com/track/1cknWsTf04j4n2FoGUV7DS) | [Pavana V Kashyap](https://open.spotify.com/artist/1KqqYAhcih9exiT1rEUQlQ), [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Amma](https://open.spotify.com/album/6LoIoj7lzUFF4lNld1TQWQ) | 2:06 | 2024-05-02 |  |
+| [Amma](https://open.spotify.com/track/1cknWsTf04j4n2FoGUV7DS) | [Pavana V Kashyap](https://open.spotify.com/artist/1KqqYAhcih9exiT1rEUQlQ), [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Amma](https://open.spotify.com/album/6LoIoj7lzUFF4lNld1TQWQ) | 2:06 | 2024-05-02 | 2024-11-07 |
 | [Amma \- Amma enda aa kshana](https://open.spotify.com/track/4fLupNE2qawIX7d146Wj9t) | [Pushpa Aradhya](https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i), [Giridhar Divan](https://open.spotify.com/artist/0fj18YwFnSMUQ7xlrOIWVz), [Bagur Markadeya](https://open.spotify.com/artist/5v2JYszdVFwmkDBX0iQOPL) | [Amma \(Amma enda aa kshana\)](https://open.spotify.com/album/4XY7NzBNYyhP9KcJViDWKo) | 4:07 | 2023-05-16 | 2023-06-08 |
 | [AMMA \- Kaanada Daiva](https://open.spotify.com/track/6arwgiW6iaxM21qKWoRq7R) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Vishnu K N](https://open.spotify.com/artist/2xuE6nX0KkyCECdmfnqyZX) | [AMMA \(Kaanada Daiva\)](https://open.spotify.com/album/4yO2V101zBfVyWUDnLlW3w) | 3:24 | 2023-05-16 | 2023-06-17 |
 | [Amma \- The Kodava Song](https://open.spotify.com/track/0khDuovSKj6pD4QHqAUoZa) | [Pop\-J Prajeeth](https://open.spotify.com/artist/23tu7tlPGRa9m21gycHy3p), [Karan Kaverappa](https://open.spotify.com/artist/6RZUmMeOOq7bgEWC6nyps7) | [Amma \- The Kodava Song](https://open.spotify.com/album/6Ev8CV3skVwb6duG5nqg2b) | 3:27 | 2024-01-22 | 2024-02-17 |
@@ -221,6 +221,7 @@
 | [MATHU KATHE](https://open.spotify.com/track/42QHzIkKyTiOkM8DMmeTXM) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [MATHU KATHE](https://open.spotify.com/album/0P5SJYCQ3cvJqBjYv0spUI) | 1:35 | 2024-06-21 |  |
 | [Matte bhandidhini](https://open.spotify.com/track/19xxlcCzShEhzAtrBn8mFA) | [It's me plk](https://open.spotify.com/artist/5MzgfdVaUb1uux2LZBahP3) | [Matte bhandidhini](https://open.spotify.com/album/2pJVV5Oi68mN4qdaAJb1vp) | 2:08 | 2024-02-16 | 2024-07-15 |
 | [Matthe Meravanige](https://open.spotify.com/track/61JVZE02xZy5l2XJkIczfQ) | [KP Milan Kumar](https://open.spotify.com/artist/2zig6tnmiGy9rjVlXRoIa4), [Anusha Jane D'Souza](https://open.spotify.com/artist/14n1m18TW4XpYiJIAKNAvN) | [Matthe Meravanige](https://open.spotify.com/album/7fsTVJMKeGFIbXixpP2HLM) | 4:23 | 2023-03-08 | 2023-11-29 |
+| [Mayavi \(From "Bhoomi 2024"\)](https://open.spotify.com/track/5FpUYrZWcFcuQMX4lDQqrf) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Nagarjun Sharma](https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk) | [Mayavi \(From "Bhoomi 2024"\)](https://open.spotify.com/album/12WRdvgLyCdAZJXOw1xQxs) | 4:18 | 2024-11-06 |  |
 | [Maḷe Banthu Maḷe](https://open.spotify.com/track/57TPkV7QunC4b8zkAuVakD) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [ART OF WAVES](https://open.spotify.com/album/0RjvS9LHtU7dhFbppc84yw) | 4:05 | 2024-01-30 | 2024-07-09 |
 | [Meghave](https://open.spotify.com/track/2ht1eT798Q3WvZqkanpdEN) | [Sumedh K](https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz), [Aditi Prahalad](https://open.spotify.com/artist/2WQSmxEh1TrVQA9RXSgp6a), [Ashwin Mandoth](https://open.spotify.com/artist/5SVLRs2bcPJCzjU3r6Vl1w), [Mitra Hegde](https://open.spotify.com/artist/3boqeGhnLs24Kw3k7wybcN) | [Meghave](https://open.spotify.com/album/7m9qZKWRJ8SiwtSQg6R33E) | 3:29 | 2023-09-29 | 2024-04-17 |
 | [Mellane Mellane](https://open.spotify.com/track/4MZ1HR436Wq3sbQhswiHkq) | [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Mellane Mellane](https://open.spotify.com/album/1k1pXgm3CWheQGcu2UQByY) | 3:36 | 2024-03-19 | 2024-08-20 |

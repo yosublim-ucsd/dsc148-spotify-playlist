@@ -4,7 +4,7 @@
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-209 songs - 10 hr 32 min
+210 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Pind Da Riwaaz](https://open.spotify.com/track/0OvC1QkWdBI3ORrp2lEhNO) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Azaad](https://open.spotify.com/artist/1OyC6DVO89fCq0vDtDwBj4) | [Keep It Gangsta](https://open.spotify.com/album/2yLZX2MHdXJK8nyFUmFGvW) | 3:08 | 2023-03-18 | 2024-08-28 |
 | [Problems Over Peace](https://open.spotify.com/track/7ups0PLQ1oiRnkneh3SQSD) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Problems Over Peace](https://open.spotify.com/album/7hXz1jeclKqFSWwl2QjN5w) | 2:38 | 2024-04-05 | 2024-05-17 |
 | [PROCESS](https://open.spotify.com/track/3AaFwooS6oMDJZfHqnL9aX) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [GLOBAL WARNING](https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p) | 2:38 | 2023-07-31 | 2024-01-06 |
-| [Pull Up](https://open.spotify.com/track/3wCtifICYXojhVPSYUkR7O) | [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Big Boi Deep](https://open.spotify.com/artist/22xy6sNTr6YjtsoV9Mh6S6), [Baaghi](https://open.spotify.com/artist/5BrUvwny26mMtvSDXCLxwo) | [Pull Up](https://open.spotify.com/album/247lhJLI8NgHu9Kk00V2ec) | 3:21 | 2024-09-06 |  |
+| [Pull Up](https://open.spotify.com/track/3wCtifICYXojhVPSYUkR7O) | [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Big Boi Deep](https://open.spotify.com/artist/22xy6sNTr6YjtsoV9Mh6S6), [Baaghi](https://open.spotify.com/artist/5BrUvwny26mMtvSDXCLxwo) | [Pull Up](https://open.spotify.com/album/247lhJLI8NgHu9Kk00V2ec) | 3:21 | 2024-09-06 | 2024-11-07 |
 | [Puppy Eyes Freestyle](https://open.spotify.com/track/2HbB9fOd7J4NalwFAVAT6M) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Puppy Eyes Freestyle](https://open.spotify.com/album/34K9SvekBivdj94e5Ovexv) | 1:24 | 2024-03-27 | 2024-04-11 |
 | [Rap God](https://open.spotify.com/track/7E7Qr1dkP0tZytL0EjLD6e) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Handles Tdnb](https://open.spotify.com/artist/4MgIiRaYRGgOEpz8DUut6Q), [Marvi\-Sahiban](https://open.spotify.com/artist/7pxPWe5e97S33DsFfdyz7R) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:23 | 2024-08-26 | 2024-10-25 |
 | [Real Talk](https://open.spotify.com/track/4mPtl3xcn3YForEsRWIsAT) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Real Talk](https://open.spotify.com/album/4Bor4XW3CmFk3tyF19Ysxt) | 2:38 | 2024-03-15 | 2024-05-17 |
@@ -212,6 +212,7 @@
 | [We Different](https://open.spotify.com/track/0NUFlsE6MRFRc0qJs2ljPB) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [We Different](https://open.spotify.com/album/2kgj5kqtOqe0xQ0sX3qt9e) | 2:25 | 2024-05-16 | 2024-09-07 |
 | [WE ROLLIN](https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [WE ROLLIN](https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO) | 3:19 | 2024-04-10 | 2024-10-17 |
 | [We Rollin](https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [We Rollin](https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf) | 3:19 | 2023-03-18 | 2024-04-19 |
+| [What We Do](https://open.spotify.com/track/10Pjg6e1n3KdNfRryu5j8F) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Breakin Boundaries](https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e) | 2:36 | 2024-11-06 |  |
 | [WHO THEY?](https://open.spotify.com/track/33FtExk8Vj24Zmxu0IPnRa) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Four Me](https://open.spotify.com/album/09LRfKybx7mDRlMtysHrcX) | 3:23 | 2024-07-03 | 2024-07-19 |
 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 | 2024-05-16 |  |
 | [WYS](https://open.spotify.com/track/5GG8UKvp8FzRSM21DSNl5M) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [WHEN WE RIDE](https://open.spotify.com/album/2x1eisYz2DSHg76V6HkaH5) | 2:57 | 2024-03-04 |  |

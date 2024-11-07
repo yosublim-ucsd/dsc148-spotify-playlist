@@ -4,7 +4,7 @@
 
 > All the highlights from the world of indie! Cover: Gigi Perez
 
-365 songs - 21 hr 7 min
+365 songs - 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Anger](https://open.spotify.com/track/4eZK7n4GZ1nDOzHZgSmLyt) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 2:57 | 2024-08-08 | 2024-09-13 |
 | [Anhedonia II](https://open.spotify.com/track/68wV6l0woKlHHGiZ9hdhxz) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh), [Dirty Art Club](https://open.spotify.com/artist/2DcAdoxP41GECOfZt2MhQL) | [Anhedonia II b/w Ecstasy Cowgirl](https://open.spotify.com/album/2Y0HcZRxb8s0GRXa8EeQCg) | 2:39 | 2024-08-15 | 2024-09-06 |
 | [Animated Heart](https://open.spotify.com/track/6Yq5mrFGjHhg6YtWiZFif3) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU), [Sønderjysk Pigekor](https://open.spotify.com/artist/0OYX2MQG7fkZ5eaSA9ZC09) | [Animated Heart](https://open.spotify.com/album/7oJULmkpHNfusaAyC48Ax7) | 4:36 | 2024-06-27 | 2024-08-09 |
-| [Antidote to Heaven](https://open.spotify.com/track/5hRfnPIy63J6k1AlJA3Avp) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw) | [Antidote to Heaven](https://open.spotify.com/album/2Lkj7EcrqwnPOO4nIHf4tD) | 2:37 | 2024-09-26 |  |
+| [Antidote to Heaven](https://open.spotify.com/track/5hRfnPIy63J6k1AlJA3Avp) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw) | [Antidote to Heaven](https://open.spotify.com/album/2Lkj7EcrqwnPOO4nIHf4tD) | 2:05 | 2024-09-26 |  |
 | [Antikens Under](https://open.spotify.com/track/0NjXIUaR5epf2jmOOUV5fD) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Antikens Under](https://open.spotify.com/album/4JZT3spMaO9JZv83nr3hfy) | 4:05 | 2024-10-24 |  |
 | [Any Way \(feat\. Maggie Rogers\)](https://open.spotify.com/track/2NvYdollt2CTUJYn66OBt9) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Any Way \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Qc9dnPXbHlfB2eXZoDPlF) | 5:09 | 2024-06-27 | 2024-08-02 |
 | [Anymore](https://open.spotify.com/track/3K24ijM6H0WiL8mdwNzpib) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Anymore](https://open.spotify.com/album/0ZOLG8MyLqmC3YriQ14my6) | 3:17 | 2024-10-17 |  |

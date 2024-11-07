@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2034833,
+  "num_followers": 2034853,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "AAA5p0NDKn/rMyMyIjvjPd+CDFPAaARR",
+  "snapshot_id": "AAA5yO4uGsRXU1T4t4sCxVrguA/HWq54",
   "tracks": [
     {
       "added_at": "2024-01-29 22:53:51",
@@ -65,46 +65,6 @@
       "url": "https://open.spotify.com/track/32Mh7kOCWmNTZgre0cGvCV"
     },
     {
-      "added_at": "2024-09-30 21:00:35",
-      "album": {
-        "name": "Bad Karma (MEMBA Remix)",
-        "url": "https://open.spotify.com/album/7ajmIWq3o3ef9qyBkFeF1w"
-      },
-      "artists": [
-        {
-          "name": "Axel Thesleff",
-          "url": "https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG"
-        },
-        {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "Bad Karma - MEMBA Remix",
-      "url": "https://open.spotify.com/track/0glpPo7l3lxTzNRMimvhG8"
-    },
-    {
-      "added_at": "2024-05-10 21:40:09",
-      "album": {
-        "name": "The Machine (Sped Up)",
-        "url": "https://open.spotify.com/album/4Qj1YaiObeQCrksCZ1b2dY"
-      },
-      "artists": [
-        {
-          "name": "Reed Wonder",
-          "url": "https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv"
-        },
-        {
-          "name": "Aurora Olivas",
-          "url": "https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo"
-        }
-      ],
-      "duration_ms": 154208,
-      "name": "The Machine - Sped Up",
-      "url": "https://open.spotify.com/track/44OuxVAGgMvw1J9jn4lFt3"
-    },
-    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "Providence",
@@ -119,6 +79,26 @@
       "duration_ms": 131271,
       "name": "Devil Eyes",
       "url": "https://open.spotify.com/track/7MiZjKawmXTsTNePyTfPyL"
+    },
+    {
+      "added_at": "2024-01-29 22:53:51",
+      "album": {
+        "name": "The Machine",
+        "url": "https://open.spotify.com/album/0cDcH04KfQpQe5cEo6agvL"
+      },
+      "artists": [
+        {
+          "name": "Reed Wonder",
+          "url": "https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv"
+        },
+        {
+          "name": "Aurora Olivas",
+          "url": "https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "The Machine",
+      "url": "https://open.spotify.com/track/19ItuvrZfTudwC6S5lkDH3"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -141,22 +121,6 @@
       "url": "https://open.spotify.com/track/3UEnF6y5tyHVtMzldS3svp"
     },
     {
-      "added_at": "2024-08-13 22:54:13",
-      "album": {
-        "name": "we r who we r (glitter on my eyes)",
-        "url": "https://open.spotify.com/album/1f8xq5C1WDAbmKVAlZCQnj"
-      },
-      "artists": [
-        {
-          "name": "pk",
-          "url": "https://open.spotify.com/artist/2sdEBoxNYMB610EyPA0CcS"
-        }
-      ],
-      "duration_ms": 211073,
-      "name": "we r who we r (glitter on my eyes)",
-      "url": "https://open.spotify.com/track/3hPlTosFqmAbiagWiUXXMz"
-    },
-    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "We Rise",
@@ -171,6 +135,22 @@
       "duration_ms": 266482,
       "name": "We Rise",
       "url": "https://open.spotify.com/track/7uSZPbd8DxdkmSauCKnITY"
+    },
+    {
+      "added_at": "2024-08-13 22:54:13",
+      "album": {
+        "name": "we r who we r (glitter on my eyes)",
+        "url": "https://open.spotify.com/album/1f8xq5C1WDAbmKVAlZCQnj"
+      },
+      "artists": [
+        {
+          "name": "pk",
+          "url": "https://open.spotify.com/artist/2sdEBoxNYMB610EyPA0CcS"
+        }
+      ],
+      "duration_ms": 211073,
+      "name": "we r who we r (glitter on my eyes)",
+      "url": "https://open.spotify.com/track/3hPlTosFqmAbiagWiUXXMz"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -525,30 +505,6 @@
       "url": "https://open.spotify.com/track/4kupKSEh2N586EvBClD0wi"
     },
     {
-      "added_at": "2024-08-20 18:43:49",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2CXoSi2bLD1vlydfdFSskL"
-      },
-      "artists": [
-        {
-          "name": "Slowboy",
-          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
-        },
-        {
-          "name": "Sublab",
-          "url": "https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx"
-        },
-        {
-          "name": "Danni Carra",
-          "url": "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/54kWlu1U9fphJ8VuNA39U9"
-    },
-    {
       "added_at": "2024-06-13 20:32:39",
       "album": {
         "name": "Hope",
@@ -585,6 +541,26 @@
       "url": "https://open.spotify.com/track/5iRVNYbhfWNO2VzBykX7GS"
     },
     {
+      "added_at": "2024-11-06 20:40:03",
+      "album": {
+        "name": "master",
+        "url": "https://open.spotify.com/album/7bSefD3NxKy6QDXEAMwhMK"
+      },
+      "artists": [
+        {
+          "name": "vowl.",
+          "url": "https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL"
+        },
+        {
+          "name": "Kol",
+          "url": "https://open.spotify.com/artist/0U6V8CeBBv9tQPBLBCircp"
+        }
+      ],
+      "duration_ms": 80950,
+      "name": "master",
+      "url": "https://open.spotify.com/track/6bEVJYAVHsoqV080lv8RG5"
+    },
+    {
       "added_at": "2024-03-19 18:02:44",
       "album": {
         "name": "I Miss You, I Don't",
@@ -599,30 +575,6 @@
       "duration_ms": 121904,
       "name": "I Miss You, I Don't",
       "url": "https://open.spotify.com/track/3FtxHC0IjW4tIynPu7lvzx"
-    },
-    {
-      "added_at": "2024-07-26 17:42:31",
-      "album": {
-        "name": "Montagem Bibi Game",
-        "url": "https://open.spotify.com/album/1rfgnzUKn2OIjMDeHivXot"
-      },
-      "artists": [
-        {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        },
-        {
-          "name": "Slowboy",
-          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
-        },
-        {
-          "name": "Bibi Babydoll",
-          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
-        }
-      ],
-      "duration_ms": 96230,
-      "name": "Montagem Bibi Game",
-      "url": "https://open.spotify.com/track/7ag4RgJ24JDC4Eg4JEmW42"
     },
     {
       "added_at": "2024-07-26 17:43:20",
@@ -665,22 +617,6 @@
       "url": "https://open.spotify.com/track/1DBra8wN9Gh9emkHot3FXk"
     },
     {
-      "added_at": "2024-06-19 23:11:26",
-      "album": {
-        "name": "Pop like this Pt. 2 (Slowed)",
-        "url": "https://open.spotify.com/album/7AxvdeyukmAFes9SBWYE6x"
-      },
-      "artists": [
-        {
-          "name": "prodbycpkshawn",
-          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
-        }
-      ],
-      "duration_ms": 122187,
-      "name": "Pop like this Pt. 2 - Slowed",
-      "url": "https://open.spotify.com/track/3xvzR05d6KgexfzjJgDRDl"
-    },
-    {
       "added_at": "2024-04-09 18:13:50",
       "album": {
         "name": "x64",
@@ -701,42 +637,6 @@
       "url": "https://open.spotify.com/track/7ctc71EmaCvC4fP6524f4T"
     },
     {
-      "added_at": "2024-02-02 20:11:19",
-      "album": {
-        "name": "Montagem Euphoria Game",
-        "url": "https://open.spotify.com/album/1M7M3rVXKfP2zk23fvlVPD"
-      },
-      "artists": [
-        {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        }
-      ],
-      "duration_ms": 81379,
-      "name": "Montagem Euphoria Game",
-      "url": "https://open.spotify.com/track/0CJ6EVnM3df8fzMcDROVmN"
-    },
-    {
-      "added_at": "2024-01-29 22:53:51",
-      "album": {
-        "name": "The Machine",
-        "url": "https://open.spotify.com/album/0cDcH04KfQpQe5cEo6agvL"
-      },
-      "artists": [
-        {
-          "name": "Reed Wonder",
-          "url": "https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv"
-        },
-        {
-          "name": "Aurora Olivas",
-          "url": "https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "The Machine",
-      "url": "https://open.spotify.com/track/19ItuvrZfTudwC6S5lkDH3"
-    },
-    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "Light",
@@ -753,40 +653,24 @@
       "url": "https://open.spotify.com/track/6jq6rcOikCZAmjliAgAmfT"
     },
     {
-      "added_at": "2024-03-15 15:51:00",
+      "added_at": "2024-05-10 21:40:09",
       "album": {
-        "name": "LEMME TALK TO EM",
-        "url": "https://open.spotify.com/album/4I1tksjL4bIIw5Yij7O9NW"
+        "name": "The Machine (Sped Up)",
+        "url": "https://open.spotify.com/album/4Qj1YaiObeQCrksCZ1b2dY"
       },
       "artists": [
         {
-          "name": "Bryansanon",
-          "url": "https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s"
-        }
-      ],
-      "duration_ms": 132310,
-      "name": "LEMME TALK TO EM",
-      "url": "https://open.spotify.com/track/3TaAdsINVhN5Zmt5kaXQFx"
-    },
-    {
-      "added_at": "2024-02-02 20:11:24",
-      "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/1ILssfrknV8cQv5QvwBGUY"
-      },
-      "artists": [
-        {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+          "name": "Reed Wonder",
+          "url": "https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv"
         },
         {
-          "name": "VISXGE",
-          "url": "https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE"
+          "name": "Aurora Olivas",
+          "url": "https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo"
         }
       ],
-      "duration_ms": 88740,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/3i6tlvYU1BSAM3yGQNemtM"
+      "duration_ms": 154208,
+      "name": "The Machine - Sped Up",
+      "url": "https://open.spotify.com/track/44OuxVAGgMvw1J9jn4lFt3"
     },
     {
       "added_at": "2024-07-13 21:10:28",
@@ -803,6 +687,46 @@
       "duration_ms": 100008,
       "name": "Whine in Brazil",
       "url": "https://open.spotify.com/track/5yudLBaBLfvWu6YjqmTWuB"
+    },
+    {
+      "added_at": "2024-11-06 20:40:11",
+      "album": {
+        "name": "miss you",
+        "url": "https://open.spotify.com/album/11mHHrvQZmGgIAWPK43nKU"
+      },
+      "artists": [
+        {
+          "name": "vowl.",
+          "url": "https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL"
+        },
+        {
+          "name": "Kol",
+          "url": "https://open.spotify.com/artist/0U6V8CeBBv9tQPBLBCircp"
+        }
+      ],
+      "duration_ms": 100819,
+      "name": "miss you",
+      "url": "https://open.spotify.com/track/565VLmlYEYD0kt4QTdmybR"
+    },
+    {
+      "added_at": "2024-11-06 20:46:40",
+      "album": {
+        "name": "I'm All In",
+        "url": "https://open.spotify.com/album/1PZFdSAn2YYnzHMPFRown6"
+      },
+      "artists": [
+        {
+          "name": "Reed Wonder",
+          "url": "https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv"
+        },
+        {
+          "name": "Aurora Olivas",
+          "url": "https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo"
+        }
+      ],
+      "duration_ms": 173016,
+      "name": "I'm All In",
+      "url": "https://open.spotify.com/track/0mOX7j9WeCohrAiHjwlVFR"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -1001,6 +925,22 @@
       "url": "https://open.spotify.com/track/6xQpnKc8pxK1cfM6DAgySh"
     },
     {
+      "added_at": "2024-11-06 20:36:30",
+      "album": {
+        "name": "Brain Tickler - VIP",
+        "url": "https://open.spotify.com/album/6fvNLlMgv6hvUEdk4V8Zv8"
+      },
+      "artists": [
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "Brain Tickler - VIP",
+      "url": "https://open.spotify.com/track/56wrLGLuElNjSQoidUHgCV"
+    },
+    {
       "added_at": "2024-02-26 22:43:01",
       "album": {
         "name": "cry",
@@ -1193,50 +1133,6 @@
       "url": "https://open.spotify.com/track/0Y45CwcVePrBc7Cfj0kz5f"
     },
     {
-      "added_at": "2024-02-23 17:26:01",
-      "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/6jTMBm7ljgdZk5hYdrhPmd"
-      },
-      "artists": [
-        {
-          "name": "SAGE",
-          "url": "https://open.spotify.com/artist/5Hrr2Bao1LAeHZ5n5kARe4"
-        },
-        {
-          "name": "haydys",
-          "url": "https://open.spotify.com/artist/09iMbK0vXfdVmZpyVp06If"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/2IKRAHdVf29dxXYw0TYIqF"
-    },
-    {
-      "added_at": "2024-02-23 17:26:24",
-      "album": {
-        "name": "Running Up That Hill",
-        "url": "https://open.spotify.com/album/1YJBiCjVbGNvG0ltBmok5v"
-      },
-      "artists": [
-        {
-          "name": "pale fortress",
-          "url": "https://open.spotify.com/artist/1j34wbS4gwSUjpvrik7epS"
-        },
-        {
-          "name": "Kareful",
-          "url": "https://open.spotify.com/artist/7y4breKexfBWgdyMgHMEHK"
-        },
-        {
-          "name": "Mannequin",
-          "url": "https://open.spotify.com/artist/3btewOJD9jMKKrn5IV7nFj"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Running Up That Hill",
-      "url": "https://open.spotify.com/track/3IwTbRnQp6LkfjqL6libYk"
-    },
-    {
       "added_at": "2024-03-15 15:50:26",
       "album": {
         "name": "HIGHER",
@@ -1425,26 +1321,6 @@
       "url": "https://open.spotify.com/track/1BhqZEEFaf4b2OcG5pgenG"
     },
     {
-      "added_at": "2024-02-07 17:37:59",
-      "album": {
-        "name": "Feel Alive",
-        "url": "https://open.spotify.com/album/1fbs2gSER5dXk5WvTYPtBn"
-      },
-      "artists": [
-        {
-          "name": "Vince Blais",
-          "url": "https://open.spotify.com/artist/10gKXDvHvRN9O9VjYbR1zu"
-        },
-        {
-          "name": "Brittney Bouchard",
-          "url": "https://open.spotify.com/artist/4iyRlrtLkoUNq48bOWdyqm"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Feel Alive",
-      "url": "https://open.spotify.com/track/6yP4eS9HGqISbgPYDH2Uox"
-    },
-    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "Shift",
@@ -1577,26 +1453,6 @@
       "url": "https://open.spotify.com/track/03o5rOWq2f6gFWjKGH6yFZ"
     },
     {
-      "added_at": "2024-02-05 20:00:19",
-      "album": {
-        "name": "Way Down We Go",
-        "url": "https://open.spotify.com/album/0HZ9SNLDKc0THEKsQA3Yvb"
-      },
-      "artists": [
-        {
-          "name": "Mandrazo",
-          "url": "https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0"
-        },
-        {
-          "name": "DEspaux",
-          "url": "https://open.spotify.com/artist/5lh1bq69nZxIirIH2TLqon"
-        }
-      ],
-      "duration_ms": 151111,
-      "name": "Way Down We Go",
-      "url": "https://open.spotify.com/track/2AsFzfU7hUCtMGOYJWspub"
-    },
-    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "Ashes (Remixes)",
@@ -1707,70 +1563,6 @@
       "duration_ms": 202714,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/3AsCaUpOdqmQYtNsEonbvx"
-    },
-    {
-      "added_at": "2024-05-14 18:14:40",
-      "album": {
-        "name": "WYM!",
-        "url": "https://open.spotify.com/album/4YQujOzblBgteIsPIKCMay"
-      },
-      "artists": [
-        {
-          "name": "Yb Wasg'ood",
-          "url": "https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE"
-        },
-        {
-          "name": "SXCREDMANE",
-          "url": "https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9"
-        },
-        {
-          "name": "fkbambam",
-          "url": "https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6"
-        }
-      ],
-      "duration_ms": 101745,
-      "name": "WYM!",
-      "url": "https://open.spotify.com/track/3iSNtpcu9HNwdSVsIztE31"
-    },
-    {
-      "added_at": "2024-05-14 18:14:40",
-      "album": {
-        "name": "HEY HEY",
-        "url": "https://open.spotify.com/album/2PCeDB701jViNYJIV5dSvP"
-      },
-      "artists": [
-        {
-          "name": "WZ Beat",
-          "url": "https://open.spotify.com/artist/7hL2l7lWkA75BpTp7bPEt9"
-        },
-        {
-          "name": "HISTED",
-          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
-        }
-      ],
-      "duration_ms": 92769,
-      "name": "HEY HEY",
-      "url": "https://open.spotify.com/track/2ogjIP2yhAgRpFVlolez0Z"
-    },
-    {
-      "added_at": "2024-05-15 18:56:14",
-      "album": {
-        "name": "X-SLIDE",
-        "url": "https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32"
-      },
-      "artists": [
-        {
-          "name": "2KE",
-          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
-        },
-        {
-          "name": "808iuli",
-          "url": "https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li"
-        }
-      ],
-      "duration_ms": 79452,
-      "name": "X-SLIDE",
-      "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
     },
     {
       "added_at": "2024-05-15 18:56:35",
@@ -1913,6 +1705,26 @@
       "url": "https://open.spotify.com/track/2bCjaF7cRm53Wdq9RtkYJu"
     },
     {
+      "added_at": "2024-11-06 20:39:29",
+      "album": {
+        "name": "Goons",
+        "url": "https://open.spotify.com/album/7vf6ZFzqAhOMH35zVNVt5r"
+      },
+      "artists": [
+        {
+          "name": "So Sus",
+          "url": "https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A"
+        },
+        {
+          "name": "Quackson",
+          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Goons",
+      "url": "https://open.spotify.com/track/25P31QyaHp71BqA3jhxAb2"
+    },
+    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "Peace Is The Mission (Extended)",
@@ -1993,22 +1805,6 @@
       "url": "https://open.spotify.com/track/7Esv32DsoH0GlAm42R4eXD"
     },
     {
-      "added_at": "2024-03-15 15:55:12",
-      "album": {
-        "name": "nas ne dogonyat",
-        "url": "https://open.spotify.com/album/0bsRTR0ZwJgJjmO2yLcw9X"
-      },
-      "artists": [
-        {
-          "name": "Tatli",
-          "url": "https://open.spotify.com/artist/0Nn1YLqJpJVzJ5B21JWpLA"
-        }
-      ],
-      "duration_ms": 194179,
-      "name": "nas ne dogonyat",
-      "url": "https://open.spotify.com/track/2JTgn48qg0Q8UBXXUwj5KE"
-    },
-    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "Alone",
@@ -2079,6 +1875,22 @@
       "duration_ms": 216000,
       "name": "Want It",
       "url": "https://open.spotify.com/track/3oImOUmlh3VnTc0saqOqVG"
+    },
+    {
+      "added_at": "2024-11-06 20:39:42",
+      "album": {
+        "name": "Speakers on Blast",
+        "url": "https://open.spotify.com/album/2ASCvVQWdFTaJCFzO9PudN"
+      },
+      "artists": [
+        {
+          "name": "Defunk",
+          "url": "https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF"
+        }
+      ],
+      "duration_ms": 251679,
+      "name": "Speakers on Blast",
+      "url": "https://open.spotify.com/track/3Djj5Pg31kn6V8NLHVKWPQ"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -2243,30 +2055,6 @@
       "duration_ms": 190344,
       "name": "BREATHLESS",
       "url": "https://open.spotify.com/track/4jAfYYoloWzM9E7Zmej5uq"
-    },
-    {
-      "added_at": "2024-01-29 22:53:51",
-      "album": {
-        "name": "Etazhi - Remix",
-        "url": "https://open.spotify.com/album/0Ouip98HsB43MlCB5yQVsa"
-      },
-      "artists": [
-        {
-          "name": "ANGUISH",
-          "url": "https://open.spotify.com/artist/1oAtPfjSyQWY7rERuiYnpl"
-        },
-        {
-          "name": "\u0434\u0438\u043f\u0438\u043d\u0441",
-          "url": "https://open.spotify.com/artist/2cl1ge5wteXTbAr0S4HPAI"
-        },
-        {
-          "name": "ily",
-          "url": "https://open.spotify.com/artist/58V1mBG998BXT4jR5YvIGt"
-        }
-      ],
-      "duration_ms": 100205,
-      "name": "Etazhi - Remix",
-      "url": "https://open.spotify.com/track/5qgsP3VphQxRp3WpSVSeIp"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -2759,26 +2547,6 @@
       "duration_ms": 254896,
       "name": "Limelight (NGHTMRE Remix)",
       "url": "https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank"
-    },
-    {
-      "added_at": "2024-03-23 20:23:58",
-      "album": {
-        "name": "SAXO FUNK",
-        "url": "https://open.spotify.com/album/0ROadDFBk9rZyvNRMcLNuP"
-      },
-      "artists": [
-        {
-          "name": "808iuli",
-          "url": "https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li"
-        },
-        {
-          "name": "S3BZS",
-          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
-        }
-      ],
-      "duration_ms": 105644,
-      "name": "SAXO FUNK",
-      "url": "https://open.spotify.com/track/3mX7vRytOrduB8IysTVvhO"
     },
     {
       "added_at": "2024-06-13 20:32:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,762 likes - 96 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,787 likes - 96 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 | 46 | [Non sweet song \(Feat\. nov\)](https://open.spotify.com/track/1NpebdfxCXA3hZcsA0BQZI) | [HAN HEEJUN](https://open.spotify.com/artist/3XMcOeSNjiIPC033PUTSbi), [nov](https://open.spotify.com/artist/3gyUm6cPk4sChNCVb3fFaC) | [Non sweet song](https://open.spotify.com/album/51ZuKOoWVjHAB2qWvzm05X) | 3:17 |
 | 47 | [Into You](https://open.spotify.com/track/6BWj5TuwDnHyyvLii4T6R4) | [Anoc](https://open.spotify.com/artist/0mOPxa6cfGNqcVjKQlFnAo) | [Into You](https://open.spotify.com/album/6QbzRMwrWhL4xnMqDpgrNy) | 3:08 |
 | 48 | [GOOD DAY](https://open.spotify.com/track/22TruoFI39QbtdjeLMyCZE) | [Osole](https://open.spotify.com/artist/2MvwNqaFxSXxeyLKOrINRR) | [GOOD DAY](https://open.spotify.com/album/3rGn47PdNXu28HVHcGbWOG) | 3:00 |
-| 49 | [나는 내가 정말 무사히 도착하길 바라](https://open.spotify.com/track/3piwqVj20tNee8yH6C8CE7) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [나는 내가 정말 무사히 도착하길 바라](https://open.spotify.com/album/6ywJh5N1WfqAQ5HAuJvohk) | 4:52 |
+| 49 | [나는 내가 정말 무사히 도착하길 바라](https://open.spotify.com/track/3piwqVj20tNee8yH6C8CE7) | [DASUTT](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [나는 내가 정말 무사히 도착하길 바라](https://open.spotify.com/album/6ywJh5N1WfqAQ5HAuJvohk) | 4:52 |
 | 50 | [Get That Money](https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS) | 3:13 |
 | 51 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 |
 | 52 | [Lost in the City](https://open.spotify.com/track/5tZFCjvVbOuEKkeOi6GWZd) | [Ashmute](https://open.spotify.com/artist/7EYwKfQY1bAfLr2EUPOL0h) | [Lost in the City](https://open.spotify.com/album/4cN9wky9XIVZqrAKTASmTe) | 3:23 |

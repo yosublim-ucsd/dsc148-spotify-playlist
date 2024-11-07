@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr?si=snNWeXWATZuP\_5dhnsEmwA">Emtee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,436 likes - 59 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,507 likes - 59 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 30 | [Nobody Cares](https://open.spotify.com/track/1h5Ds9SNjbVIu0qMXs723B) | [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Fractured Reflections](https://open.spotify.com/album/7i6HU97dbHiVlKeRvklH1T) | 5:58 |
 | 31 | [Welile \(cula\) \(feat\. Leemckrazy\)](https://open.spotify.com/track/473GvSMfCtdNjEWzczJ3i1) | [ShaunMusiq & Ftears](https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd), [Tracy](https://open.spotify.com/artist/0IpOY8gjWvqTFPzdJAzv08), [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg) | [Welile](https://open.spotify.com/album/238Qm11jwwtUYDp5PlmuIJ) | 6:56 |
 | 32 | [Come Duze \(feat\. Sly\)](https://open.spotify.com/track/1VpdKiq1sUPoYyijtDh4V7) | [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc), [Sly](https://open.spotify.com/artist/77o0pvX2EnC66Zw0nqsJmA) | [Softer](https://open.spotify.com/album/2mpU6SsvfzoBuprOlIQJKq) | 6:58 |
-| 33 | [Imizwilili](https://open.spotify.com/track/2KundvuHAQf6MaDRrV39wp) | [Theology HD](https://open.spotify.com/artist/06xHyUrgB95PtkQLX5vmnH), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI) | [Imizwilili](https://open.spotify.com/album/12MiX2zuVymxPufzdJ2UHj) | 4:20 |
+| 33 | [Imizwilili \(feat\. Sino Msolo\)](https://open.spotify.com/track/2KundvuHAQf6MaDRrV39wp) | [Theology HD](https://open.spotify.com/artist/06xHyUrgB95PtkQLX5vmnH), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI) | [Imizwilili \(feat\. Sino Msolo\)](https://open.spotify.com/album/12MiX2zuVymxPufzdJ2UHj) | 4:20 |
 | 34 | [Dubai 2.0](https://open.spotify.com/track/7Bi0Rt3lUshalz9sHFunqf) | [Aya Msani](https://open.spotify.com/artist/4msIq1xJndm9p6DE6nBSKB), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Dubai 2.0](https://open.spotify.com/album/4h79EIDCtBOnVrH7fO8f5x) | 4:09 |
 | 35 | [Sip](https://open.spotify.com/track/1CMQQtOD2tAwCp0vtuOxIX) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sip](https://open.spotify.com/album/3rdm30kSOOJm3SDxcoVAs0) | 2:52 |
 | 36 | [Midnight Drive](https://open.spotify.com/track/4QWokxtMITQncRU8Hac9Eh) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Midnight Drive](https://open.spotify.com/album/2wygGK5lNEP9y2VubzFs7Z) | 3:52 |

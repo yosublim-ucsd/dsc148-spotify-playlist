@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 
 > The best in romantic tunes from Tamil cinema.<br/>Cover : Raayan
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,546 likes - 75 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,690 likes - 75 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 | 49 | [Kaalathukkum Nee Venum \- From "Vendhu Thanindhathu Kaadu"](https://open.spotify.com/track/1NoaJoxPKQr9XNLOuKTyNV) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kaalathukkum Nee Venum \(From "Vendhu Thanindhathu Kaadu"\)](https://open.spotify.com/album/3RVPCp07qm53ACN2rq6SqP) | 4:53 |
 | 50 | [Mudhal Nee Mudivum Nee Title Track](https://open.spotify.com/track/4oNVmnywnXguyk76wkMuIb) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Mudhal Nee Mudivum Nee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3r6JhF3T7IkDvhWWJSux9y) | 5:32 |
 | 51 | [Yaaro Ivan](https://open.spotify.com/track/4LIJn3SG7mCCNKQc6vyy5S) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit) | [Udhayam NH4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jzgxRw8bNWoCXUxKWqERO) | 4:43 |
-| 52 | [Kaathalae Kaathalae \- From "96"](https://open.spotify.com/track/09d7oLdf8yepEkOh6XXRf3) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Kaathalae Kaathalae \(From "96"\)](https://open.spotify.com/album/0mt4EMEMuKVzTtZoCWKb8G) | 3:13 |
-| 53 | [Mehabooba](https://open.spotify.com/track/6y6zXps3xIZ7Fw8ykuwWPY) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Kgf Chapter 2](https://open.spotify.com/album/1CdnFGEFzIpGRzpEL1qNub) | 3:32 |
+| 52 | [Mehabooba](https://open.spotify.com/track/6y6zXps3xIZ7Fw8ykuwWPY) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Kgf Chapter 2](https://open.spotify.com/album/1CdnFGEFzIpGRzpEL1qNub) | 3:32 |
+| 53 | [Kaathalae Kaathalae \- From "96"](https://open.spotify.com/track/09d7oLdf8yepEkOh6XXRf3) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Kaathalae Kaathalae \(From "96"\)](https://open.spotify.com/album/0mt4EMEMuKVzTtZoCWKb8G) | 3:13 |
 | 54 | [Oru Kili Oru Kili](https://open.spotify.com/track/4KeY07xAKNv7hftaTRaqy4) | [Satish Chakravarthy](https://open.spotify.com/artist/6X912it5oit8KiBQ1PeZ81), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Leelai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DcXuSgN8xrSaTzUJBHPUy) | 5:41 |
 | 55 | [Yaar Azhaippadhu \- From "Maara"](https://open.spotify.com/track/5kByOzRm7KpgFUOeClZbek) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Yaar Azhaippadhu \(From "Maara"\)](https://open.spotify.com/album/6fzTq7MV4KcGditF41bsWe) | 4:10 |
 | 56 | [Kaattu Payale \(From "Soorarai Pottru"\)](https://open.spotify.com/track/2b4nWymybHj38A6XtQijiA) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Kaattu Payale \(From "Soorarai Pottru"\)](https://open.spotify.com/album/2tWMHOkDRvyWN6yY57limX) | 4:06 |

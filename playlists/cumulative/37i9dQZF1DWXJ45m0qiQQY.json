@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Behind the Mirror",
+        "url": "https://open.spotify.com/album/46CflqCiXCUihiQ3GRCvYf"
+      },
+      "artists": [
+        {
+          "name": "Nightharmonic",
+          "url": "https://open.spotify.com/artist/763HCc20uX06T8teSRlQrX"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107000,
+      "name": "Behind the Mirror",
+      "url": "https://open.spotify.com/track/6fdxImevDNhl1hwAVpCCM3"
+    },
+    {
+      "album": {
         "name": "A Symphony of Screams Vol.1",
         "url": "https://open.spotify.com/album/1Un1x4VOQ8qdQ6UevBkuHS"
       },
@@ -89,6 +107,24 @@
     },
     {
       "album": {
+        "name": "Carnival of Lost Souls",
+        "url": "https://open.spotify.com/album/49uCJT5xqB3Ub7i0nfepVc"
+      },
+      "artists": [
+        {
+          "name": "Veilphonic",
+          "url": "https://open.spotify.com/artist/4Xoed9XnRfjYW7lQu6GfFg"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143583,
+      "name": "Carnival of Lost Souls",
+      "url": "https://open.spotify.com/track/1UrOa5hQBSHZSxgoUGvcLc"
+    },
+    {
+      "album": {
         "name": "Casper's Labyrinth",
         "url": "https://open.spotify.com/album/5kFRGjRqJjQ1OtzEvZouo5"
       },
@@ -122,6 +158,24 @@
       "duration_ms": 137142,
       "name": "Casper's Labyrinth",
       "url": "https://open.spotify.com/track/7reiBbBG2c1BZEirO0Wo3h"
+    },
+    {
+      "album": {
+        "name": "Coffin Break",
+        "url": "https://open.spotify.com/album/7jBQcytg4cJF7s78sVPlMc"
+      },
+      "artists": [
+        {
+          "name": "Rook & Reverie",
+          "url": "https://open.spotify.com/artist/0G28qJWixkARiT2Nwz3VF4"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Coffin Break",
+      "url": "https://open.spotify.com/track/3ahSMFA5UU7pUyuIIXCFyu"
     },
     {
       "album": {
@@ -475,6 +529,24 @@
     },
     {
       "album": {
+        "name": "skeletons rising",
+        "url": "https://open.spotify.com/album/4R3fFGf4nfo6tTBK9tNSlC"
+      },
+      "artists": [
+        {
+          "name": "hope mona",
+          "url": "https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "ghouls",
+      "url": "https://open.spotify.com/track/0Juh1gUqeZGCLbOz9B27ed"
+    },
+    {
+      "album": {
         "name": "gloomy corridor",
         "url": "https://open.spotify.com/album/3DRHu3jScOUZY4GtXjwmdL"
       },
@@ -512,6 +584,24 @@
       "duration_ms": 113108,
       "name": "Glowing Pumpkins",
       "url": "https://open.spotify.com/track/6vGenQAhPjefKWHZzTwch2"
+    },
+    {
+      "album": {
+        "name": "Graveyard Chill",
+        "url": "https://open.spotify.com/album/13B5yiBoAuooEB9TLgrLsS"
+      },
+      "artists": [
+        {
+          "name": "Odd Shapes",
+          "url": "https://open.spotify.com/artist/7u2gQnpI4PGGcY4PvIe1Xj"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166829,
+      "name": "Graveyard Chill",
+      "url": "https://open.spotify.com/track/6aKK9PvHTyZRlF1UYc0iK3"
     },
     {
       "album": {
@@ -1283,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "The Attic Doll",
+        "url": "https://open.spotify.com/album/3iVW2aabGoEk2moFVkBRaI"
+      },
+      "artists": [
+        {
+          "name": "Duskveil",
+          "url": "https://open.spotify.com/artist/1hwYvsvqM4CmtDuD4uU6VS"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90624,
+      "name": "The Attic Doll",
+      "url": "https://open.spotify.com/track/0fCbIh9oLs5kEfmIgVhMn0"
+    },
+    {
+      "album": {
         "name": "The Haunted Kennel",
         "url": "https://open.spotify.com/album/3Z1HNwhzZtTcKsppGnPMQu"
       },
@@ -1350,6 +1458,24 @@
       "duration_ms": 113333,
       "name": "Trick or Treats",
       "url": "https://open.spotify.com/track/090ynlUUvHNeUFv1oOGwp3"
+    },
+    {
+      "album": {
+        "name": "Under The Pumpkin Moon",
+        "url": "https://open.spotify.com/album/3ORVRZgFR9EAYllEAbU6sz"
+      },
+      "artists": [
+        {
+          "name": "Bewilder Beats",
+          "url": "https://open.spotify.com/artist/1EtWZEN5E5vHJPrnYHvSv5"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120769,
+      "name": "Under The Pumpkin Moon",
+      "url": "https://open.spotify.com/track/2AxVEisUzoRdr8hLvVywyW"
     },
     {
       "album": {

@@ -4,11 +4,12 @@
 
 > Warm instrumental guitar for a gentle start.
 
-369 songs - 15 hr 52 min
+373 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [13 de Julio](https://open.spotify.com/track/2htFLReJu6umNjsW1jAsMM) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Pampa y Misterio](https://open.spotify.com/album/0l517ILh9o9JHdRw7WsrrX) | 1:51 | 2023-01-20 | 2023-08-26 |
+| [A Marshmellow World](https://open.spotify.com/track/4TezFmLWnhe2gmwSg9oBgN) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [A Marshmellow World](https://open.spotify.com/album/06EGglJ1g08GNBiSEdzctZ) | 1:46 | 2024-11-06 |  |
 | [A place to go](https://open.spotify.com/track/7oFm6C4wxkkVM1t1Via4mu) | [KORIBA](https://open.spotify.com/artist/0ttPJjx1cSyAn4CNVPNpEJ) | [Lonely Trip](https://open.spotify.com/album/2ezeL6Yi22qbpZnPgjU9nf) | 2:15 | 2023-03-24 | 2024-05-24 |
 | [A Quiet Message](https://open.spotify.com/track/71cuAghXvaIQVBKGRwPDcK) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [A Quiet Message](https://open.spotify.com/album/2oXytMuBdpnQjKnqnSgqdT) | 2:45 | 2023-05-09 | 2023-06-14 |
 | [A Sweet Portrait](https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [A Sweet Portrait](https://open.spotify.com/album/1BbCTjpeM7eKKLQwpNUzDl) | 2:27 | 2023-03-24 |  |
@@ -44,6 +45,7 @@
 | [Better Here](https://open.spotify.com/track/2xMK2XVpe7mOFMjaI1ZPGh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Better Here](https://open.spotify.com/album/6PJhbCAzc2w4edtE6ay57F) | 2:23 | 2022-06-17 | 2023-05-10 |
 | [Blank Stare Happy](https://open.spotify.com/track/2Vqg7SshnMUZJskFoxcYSE) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Seeking Song](https://open.spotify.com/album/1iIIoca3SIMmfa4hqgeyod) | 2:56 | 2023-08-24 | 2024-05-24 |
 | [Bliss](https://open.spotify.com/track/6wAqgXF6Ev4V1Fd2EhZ03e) | [Josiah Mitchell](https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ) | [Portalegre](https://open.spotify.com/album/5HJun0OOsQdgTZt5ixK5K6) | 3:24 | 2022-03-04 | 2023-09-01 |
+| [Bloomington](https://open.spotify.com/track/682NdyYjynX5LkBuVdFInr) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Bloomington](https://open.spotify.com/album/6CGG7yLH9nWD746WcQtZ7D) | 2:29 | 2024-11-06 |  |
 | [Blue Saints](https://open.spotify.com/track/4xGURmgS8X18XGw07hK9OQ) | [Paris Pompey](https://open.spotify.com/artist/2Kt6borByO4ARxCSf9hOfq) | [Blue Saints](https://open.spotify.com/album/4kLAWZXLS2h4IyfGSq9qp8) | 2:00 | 2022-07-08 | 2022-11-18 |
 | [Blurring Lines](https://open.spotify.com/track/33CVcdWsRzp4E8CQoGlAJy) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Blurring Lines](https://open.spotify.com/album/0OJ6PKcMpAFSFL2usHm1v4) | 2:06 | 2024-03-08 |  |
 | [Blush](https://open.spotify.com/track/02lN91c8sceWQBD7JVhYaz) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Blush](https://open.spotify.com/album/6Gcvlj6eQHvDSpU9nMM3M2) | 2:29 | 2023-04-21 | 2024-07-19 |
@@ -135,6 +137,7 @@
 | [From Me To You](https://open.spotify.com/track/6KvEQQkHCAiIQRr75ZgiV7) | [Jason Lumen](https://open.spotify.com/artist/071OvtGYQ4tEbj8YMxN0du) | [Blackbird](https://open.spotify.com/album/0W4qzJ4avPABJU3IV2jmeP) | 2:45 | 2022-12-23 | 2023-03-10 |
 | [From Time Before](https://open.spotify.com/track/6ZyJ4KBxjPg9bsem6xicGH) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [From Time Before](https://open.spotify.com/album/1XXbpGYdc9V9M72XNKKDXy) | 2:50 | 2024-10-09 |  |
 | [Frühlingsgefühle](https://open.spotify.com/track/4h0QLxUzVqQ7QKFSnWjvdu) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Frühlingsgefühle](https://open.spotify.com/album/7M5trxxK8lsEExyuBP1Au8) | 2:16 | 2023-09-29 |  |
+| [Full Of Life](https://open.spotify.com/track/3J27JxJCR0M6KgacpLfVAC) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Full Of Life](https://open.spotify.com/album/2TNQtjdGUSaiq5FIA2ZL1p) | 2:23 | 2024-11-06 |  |
 | [Geiranger](https://open.spotify.com/track/00VfPleq7One3xcddII48n) | [Felix Day](https://open.spotify.com/artist/1nNLAz1wsnh8FfcdeBYWEF) | [Geiranger](https://open.spotify.com/album/2pSJ62moAENPpLP5Ge4rQf) | 2:19 | 2023-06-02 |  |
 | [Gentle Stream](https://open.spotify.com/track/7xV7FTZ8rvSco3lZRxF3rt) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD), [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Gentle Stream](https://open.spotify.com/album/2ZiJsj9Wp3f7UTDgoVcVHN) | 2:40 | 2022-09-02 |  |
 | [Georgia](https://open.spotify.com/track/5WuytpdrS1L3JFGxZsT4mi) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Georgia](https://open.spotify.com/album/73fRkeHZHcw2K7PhLEz67y) | 2:21 | 2022-10-28 | 2023-02-25 |
@@ -347,6 +350,7 @@
 | [Valle](https://open.spotify.com/track/5mXnKbqYinLRA5SRD9KNjY) | [Tones Of Essence](https://open.spotify.com/artist/0o4w1evQJCmD1a4YCwU9oA) | [Valle](https://open.spotify.com/album/2QSWVrj5I0tIOTb39jgQZA) | 2:22 | 2022-06-10 | 2022-07-22 |
 | [Vanek](https://open.spotify.com/track/7maiFElZYEyuvBjuxl6Whr) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Vanek](https://open.spotify.com/album/08u0Dbk7cWg2JSDj01K5Gy) | 2:33 | 2022-03-04 | 2022-07-08 |
 | [Vedana](https://open.spotify.com/track/1DxPQ0ZGbg6uJyBApXwYRP) | [Eugenia Russo](https://open.spotify.com/artist/1ozt8bFZUS8nHkKQ5eMr4O) | [Vedana](https://open.spotify.com/album/2VSWEzLFtAmsDUgeb9fEPM) | 2:33 | 2022-05-27 | 2022-12-10 |
+| [Venus](https://open.spotify.com/track/0vJcsc5CyzJY84thrAprTO) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Venus](https://open.spotify.com/album/6jCH3155IqsgOfahqDnMic) | 2:40 | 2024-11-06 |  |
 | [View of the Park](https://open.spotify.com/track/61RiC53XYBjZmyW6u081HC) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Letting the Light In](https://open.spotify.com/album/1eGxXdtkKb0os4MUacj89J) | 3:14 | 2023-08-31 |  |
 | [Virginia \- Acoustic Guitar](https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Virginia \(Acoustic Guitar\)](https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns) | 2:20 | 2022-03-04 | 2023-09-01 |
 | [Visions](https://open.spotify.com/track/6vI1mGiTj4D8Lbi0G3Jl0z) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Visions](https://open.spotify.com/album/04JtQI5Xil1h3GCx8MyJJ8) | 2:02 | 2024-01-12 |  |

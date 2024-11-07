@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O7LMRollp1.md) - [plain]
 
 > Listen to the soundtracks of the drama Revenant\. \(드라마 악귀의 사운드 트랙들을 즐겨보세요!\) You can also listen to thriller music that makes you cool on a summer night\. \(여름밤을 시원하게 만드는 스릴러 음악도 즐겨보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,341 likes - 21 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,348 likes - 21 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The breath](https://open.spotify.com/track/0ueGZc0MRyHtYtIDIHUXKT) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Revenant \(Original Soundtrack\) Pt.4](https://open.spotify.com/album/1YBoX5Ch2K3W0qbBNqSs5R) | 3:33 |
 | 2 | [The door](https://open.spotify.com/track/3jOmQxYDgwhygI9QKXGqMO) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Revenant \(Original Soundtrack\) Pt.3](https://open.spotify.com/album/6zs7BgVQ1EuROfYDrAzWRl) | 3:04 |
-| 3 | [Lonely night](https://open.spotify.com/track/0zXc2LsLvQ60jDNObvqTRk) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Revenant \(Original Soundtrack\), Pt.2](https://open.spotify.com/album/74CGZ2pNfAzzGhLKVyteAS) | 3:54 |
+| 3 | [Lonely night](https://open.spotify.com/track/0zXc2LsLvQ60jDNObvqTRk) | [DASUTT](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Revenant \(Original Soundtrack\), Pt.2](https://open.spotify.com/album/74CGZ2pNfAzzGhLKVyteAS) | 3:54 |
 | 4 | [Revenant](https://open.spotify.com/track/3o9rRhf41DTyxSnUtsOw3I) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [Revenant \(Original Soundtrack\) Pt.1](https://open.spotify.com/album/6LZvcf7kGtjnbI7RckHFlR) | 3:06 |
 | 5 | [Again](https://open.spotify.com/track/5E7bBIgyus8yHpcRRP6DcZ) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [리턴, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/7pgky5mMJtFvOmZdXVevCf) | 3:20 |
 | 6 | [검은 해](https://open.spotify.com/track/6BiPVxqLLFuN09oHs6q9Gi) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [리턴 \(Original Television Soundtrack\)](https://open.spotify.com/album/4hPxrrZwxYPAyUJb4rEq0N) | 3:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Wisp
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,280,596 likes - 175 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,280,694 likes - 175 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

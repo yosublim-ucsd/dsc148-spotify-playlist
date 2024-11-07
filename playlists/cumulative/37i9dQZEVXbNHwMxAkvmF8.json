@@ -3017,6 +3017,28 @@
     },
     {
       "album": {
+        "name": "HA MEG\u00c9RKEZEL",
+        "url": "https://open.spotify.com/album/0Pr7RO2APWS9vip0G4n8HS"
+      },
+      "artists": [
+        {
+          "name": "D\u00c1NIELFY",
+          "url": "https://open.spotify.com/artist/4imSxhDqtkiuKUamV1AL2l"
+        },
+        {
+          "name": "Parno Graszt",
+          "url": "https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191687,
+      "name": "Boldog igaz\u00e1n",
+      "url": "https://open.spotify.com/track/335Wifss6mmpkiypUEnsIA"
+    },
+    {
+      "album": {
         "name": "Boldogtalans\u00e1g",
         "url": "https://open.spotify.com/album/61nJQwXqRRvAcvWWsclK18"
       },
@@ -11176,7 +11198,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 160534,
       "name": "J\u00e9zus k\u00e9rlek h\u00edvj\u00e1l fel",
       "url": "https://open.spotify.com/track/5iAfEsRxQ6LjMZ7p2cWeOJ"
@@ -11770,7 +11792,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 157408,
       "name": "Krisz x Jaki-Prikezsia",
       "url": "https://open.spotify.com/track/2rIK6WWOpGJY2uqXd0ejIa"
@@ -12900,7 +12922,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "lost tiki",
       "url": "https://open.spotify.com/track/1VPU7SKdABCb3gNCNjMFIZ"

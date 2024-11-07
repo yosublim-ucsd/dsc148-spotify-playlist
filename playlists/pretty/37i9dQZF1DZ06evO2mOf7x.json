@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 44417,
+  "num_followers": 44421,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZygOgAAAAABcBSRnOZa8E1GqhB7/4A1D",
+  "snapshot_id": "ZylgAAAAAACDdQ9aMhC004EdhB3WyY11",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Regalo La Lluvia",
-        "url": "https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "Eso No Es De Hombres",
-      "url": "https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo M\u00e1s Escuchado De",
         "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 189040,
       "name": "Enga\u00f1ada",
       "url": "https://open.spotify.com/track/7fK66suUITQzGu4zynSEBE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Regalo La Lluvia",
+        "url": "https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "Eso No Es De Hombres",
+      "url": "https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Soy La Mujer",
-        "url": "https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 198853,
-      "name": "Tu Ingratitud",
-      "url": "https://open.spotify.com/track/6kwg6ENvPRdscevp2XE8cR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo M\u00e1s Escuchado De",
         "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 212666,
       "name": "No Se Que Voy A Hacer",
       "url": "https://open.spotify.com/track/6dO6WZpobtvRNsvHuOfRRH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Soy La Mujer",
+        "url": "https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 198853,
+      "name": "Tu Ingratitud",
+      "url": "https://open.spotify.com/track/6kwg6ENvPRdscevp2XE8cR"
     },
     {
       "added_at": null,
@@ -847,26 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Olv\u00eddala",
-        "url": "https://open.spotify.com/album/4ZowiypZomVYtSJ46ArTGJ"
+        "name": "Los Besos No Se Dan En La Camisa",
+        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
       },
       "artists": [
         {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        },
-        {
-          "name": "Vallenatos Norte\u00f1os",
-          "url": "https://open.spotify.com/artist/6XfjRUwgJpsY7UfUdIjc98"
         }
       ],
-      "duration_ms": 276000,
-      "name": "Olv\u00eddala",
-      "url": "https://open.spotify.com/track/39NILND6Hwmj28GJpfU8Cq"
+      "duration_ms": 224666,
+      "name": "Los Besos No Se Dan En La Camisa",
+      "url": "https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc"
     },
     {
       "added_at": null,
@@ -911,18 +903,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Besos No Se Dan En La Camisa",
-        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
+        "name": "Olv\u00eddala",
+        "url": "https://open.spotify.com/album/4ZowiypZomVYtSJ46ArTGJ"
       },
       "artists": [
         {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Vallenatos Norte\u00f1os",
+          "url": "https://open.spotify.com/artist/6XfjRUwgJpsY7UfUdIjc98"
         }
       ],
-      "duration_ms": 224666,
-      "name": "Los Besos No Se Dan En La Camisa",
-      "url": "https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc"
+      "duration_ms": 276000,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/39NILND6Hwmj28GJpfU8Cq"
     },
     {
       "added_at": null,

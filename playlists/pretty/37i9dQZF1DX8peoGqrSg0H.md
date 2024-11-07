@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว อัปเดตทุกสัปดาห์\. ศิลปิน: PP Krit
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,397 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,459 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,21 +12,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 2 | [Golden Hour](https://open.spotify.com/track/72Jc8BV2cEQAOuVoHVTJy3) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Golden Hour](https://open.spotify.com/album/4QTIX97bM4K457krl2S4eB) | 3:44 |
 | 3 | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 |
 | 4 | [หยอกไม่หลอก \(TRICK OR TREAT\)](https://open.spotify.com/track/1QJpqMMm9kB8IcmZHtHPNR) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj), [Chrrissa](https://open.spotify.com/artist/3HbdAO1uUXLMo1FRXJWdYt) | [หยอกไม่หลอก \(TRICK OR TREAT\) \- Single](https://open.spotify.com/album/0KX3FdLHvQZtbKwri44BmX) | 3:37 |
-| 5 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
-| 6 | [TRAFFIC](https://open.spotify.com/track/2fChLz9Gp6tl5gTEiOuywH) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [TRAFFIC](https://open.spotify.com/album/3vqZjXdm32aotxndvwr8FT) | 2:42 |
-| 7 | [อย่าตอบ \(Drunk Text\)](https://open.spotify.com/track/34sbuqIjki92FozLCtR9yW) | [JAYLERR](https://open.spotify.com/artist/72eVco16BxQJe5nE1vY72F) | [อย่าตอบ \(Drunk Text\)](https://open.spotify.com/album/2vAS6XWgumbA6MuwhSPgsj) | 3:12 |
-| 8 | [TEEDEE TADA](https://open.spotify.com/track/4hN87QuWWKwxL6xDxKXsn2) | [ไดมอนด์ ณรกร](https://open.spotify.com/artist/44FGhaMh5nti2pR36PHZ6z) | [TEEDEE TADA \- Single](https://open.spotify.com/album/2lJnxIfxZfmchF0XyDTeML) | 3:15 |
-| 9 | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt) | 4:38 |
-| 10 | [ฝนดาวตก](https://open.spotify.com/track/4cwPcUeVHICTN9PN8EvNoa) | [TYTAN](https://open.spotify.com/artist/5fTJwRSBleAeLkLivVLDZ4) | [ฝนดาวตก](https://open.spotify.com/album/5WLrhrVLL20txhJZyLZJls) | 3:49 |
-| 11 | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw) | 3:15 |
-| 12 | [ส่วนลึก](https://open.spotify.com/track/0pTVv3OK76OpnISr7hTlUn) | [Ice Paris](https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n) | [MINE](https://open.spotify.com/album/5Jumy6sJNFo2F6cFacLs7k) | 3:54 |
-| 13 | [ฉันคนเก่า \(Let Me Try Again\)](https://open.spotify.com/track/695OTeJR2N7eaOCN9mdCou) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [ฉันคนเก่า \(Let Me Try Again\)](https://open.spotify.com/album/5rJUY4kiAfnL5ppIZjOk5S) | 4:00 |
-| 14 | [CHOP CHOP](https://open.spotify.com/track/6MddYU6NXdECFYsShs6q5L) | [VIIS \(วิส\)](https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au) | [CHOP CHOP \- Single](https://open.spotify.com/album/1Kfkj5kbTspOsC7iaBAK3o) | 3:18 |
-| 15 | [BODYGUARD](https://open.spotify.com/track/6zb8KlBjdh0CgJch2zic8E) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [BODYGUARD \- Single](https://open.spotify.com/album/0djSHy4lxpLZCznzQyPqRW) | 3:05 |
-| 16 | [นักศึกษา](https://open.spotify.com/track/2X4c3TPBqmao4v69tpn7OC) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [นักศึกษา](https://open.spotify.com/album/0UvEI70n7JYXDmnalLeyCz) | 3:13 |
-| 17 | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/track/4kE80JWRissrodmXuo0xYi) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/album/3c507rxKQ6lmPMw7l3Ut6r) | 3:48 |
-| 18 | [ใกล้เกิน \(TOO CLOSE TO HANDLE\)](https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ใกล้เกิน \(TOO CLOSE TO HANDLE\) \- Single](https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj) | 3:37 |
-| 19 | [Absence \(ช่องว่างหัวใจ\)](https://open.spotify.com/track/5z6QCQ55sTrpQnzlqD4s61) | [Mew Suppasit](https://open.spotify.com/artist/78u00MLyG46IkmM8HC6H0l) | [Absence \(ช่องว่างหัวใจ\)](https://open.spotify.com/album/5kPWSqBaaiSxbvrzslwcqV) | 3:35 |
+| 5 | [ฮีลใจ \(Here For You\)](https://open.spotify.com/track/2jMxARZO1H1CNDyApCpwNr) | [Butterbear](https://open.spotify.com/artist/7bDJAhi2Egiu9bGQq91Qkr) | [ฮีลใจ \(Here For You\)](https://open.spotify.com/album/2LvIsQRWHQOPjKUyWIPh1p) | 3:02 |
+| 6 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
+| 7 | [TRAFFIC](https://open.spotify.com/track/2fChLz9Gp6tl5gTEiOuywH) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [TRAFFIC](https://open.spotify.com/album/3vqZjXdm32aotxndvwr8FT) | 2:42 |
+| 8 | [อย่าตอบ \(Drunk Text\)](https://open.spotify.com/track/34sbuqIjki92FozLCtR9yW) | [JAYLERR](https://open.spotify.com/artist/72eVco16BxQJe5nE1vY72F) | [อย่าตอบ \(Drunk Text\)](https://open.spotify.com/album/2vAS6XWgumbA6MuwhSPgsj) | 3:12 |
+| 9 | [TEEDEE TADA](https://open.spotify.com/track/4hN87QuWWKwxL6xDxKXsn2) | [ไดมอนด์ ณรกร](https://open.spotify.com/artist/44FGhaMh5nti2pR36PHZ6z) | [TEEDEE TADA \- Single](https://open.spotify.com/album/2lJnxIfxZfmchF0XyDTeML) | 3:15 |
+| 10 | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt) | 4:38 |
+| 11 | [ฝนดาวตก](https://open.spotify.com/track/4cwPcUeVHICTN9PN8EvNoa) | [TYTAN](https://open.spotify.com/artist/5fTJwRSBleAeLkLivVLDZ4) | [ฝนดาวตก](https://open.spotify.com/album/5WLrhrVLL20txhJZyLZJls) | 3:49 |
+| 12 | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw) | 3:15 |
+| 13 | [ส่วนลึก](https://open.spotify.com/track/0pTVv3OK76OpnISr7hTlUn) | [Ice Paris](https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n) | [MINE](https://open.spotify.com/album/5Jumy6sJNFo2F6cFacLs7k) | 3:54 |
+| 14 | [ฉันคนเก่า \(Let Me Try Again\)](https://open.spotify.com/track/695OTeJR2N7eaOCN9mdCou) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [ฉันคนเก่า \(Let Me Try Again\)](https://open.spotify.com/album/5rJUY4kiAfnL5ppIZjOk5S) | 4:00 |
+| 15 | [CHOP CHOP](https://open.spotify.com/track/6MddYU6NXdECFYsShs6q5L) | [VIIS \(วิส\)](https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au) | [CHOP CHOP \- Single](https://open.spotify.com/album/1Kfkj5kbTspOsC7iaBAK3o) | 3:18 |
+| 16 | [BODYGUARD](https://open.spotify.com/track/6zb8KlBjdh0CgJch2zic8E) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [BODYGUARD \- Single](https://open.spotify.com/album/0djSHy4lxpLZCznzQyPqRW) | 3:05 |
+| 17 | [นักศึกษา](https://open.spotify.com/track/2X4c3TPBqmao4v69tpn7OC) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [นักศึกษา](https://open.spotify.com/album/0UvEI70n7JYXDmnalLeyCz) | 3:13 |
+| 18 | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/track/4kE80JWRissrodmXuo0xYi) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/album/3c507rxKQ6lmPMw7l3Ut6r) | 3:48 |
+| 19 | [ใกล้เกิน \(TOO CLOSE TO HANDLE\)](https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ใกล้เกิน \(TOO CLOSE TO HANDLE\) \- Single](https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj) | 3:37 |
 | 20 | [ไม่ก้าวผ่าน](https://open.spotify.com/track/3OEd6Z88K4jv0G9aeHGhGN) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [SWEET AND SOUR](https://open.spotify.com/album/7eKgeHEzVE1kJ22WLTigYh) | 3:33 |
 | 21 | [จำนน](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 |
 | 22 | [ก้าวก่าย](https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ก้าวก่าย](https://open.spotify.com/album/4BFAsh0aHyHFlRexQe5NRx) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 49 | [รักแค่ไหน](https://open.spotify.com/track/1jDtb5VfsCC0Uoipn641qB) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr) | [รักแค่ไหน](https://open.spotify.com/album/6mf2j6MQai90zgSl0hTYbn) | 3:37 |
 | 50 | [เพื่อนเตือนแล้ว \(Ignore\)](https://open.spotify.com/track/0MEYCRC6mdoKNPkkVAR5k6) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [เพื่อนเตือนแล้ว \(Ignore\)](https://open.spotify.com/album/1lx08G8uQTWeX1hYy3rgWb) | 3:16 |
 
-Snapshot ID: `ZyPQwgAAAAAUL7xtPpY2u/mpuQmU4DXe`
+Snapshot ID: `Zys2fgAAAACtNWVz9KHTPCkoNG6CfreP`

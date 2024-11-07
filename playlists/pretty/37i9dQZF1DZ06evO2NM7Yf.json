@@ -1,12 +1,12 @@
 {
   "description": "This is Meg Smith. The essential tracks, all in one playlist.",
-  "num_followers": 331,
+  "num_followers": 333,
   "original_name": "This Is Meg Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZygOgAAAAADU1Vkyns/6uRx3FlC4KyA6",
+  "snapshot_id": "ZylgAAAAAAAa9+gw8P9KVn6iHWgZrYeq",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "emotional affair",
-        "url": "https://open.spotify.com/album/2OE6A20vXzzFh66WJ23Xmu"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 181749,
-      "name": "emotional affair",
-      "url": "https://open.spotify.com/track/7IILWCwr8Tgw6lXxjXriT2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nosebleeds: Encore",
         "url": "https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 164213,
       "name": "Sideways (feat. Meg Smith)",
       "url": "https://open.spotify.com/track/5XnHGjcnDMw0KWe4lJzqSD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "emotional affair",
+        "url": "https://open.spotify.com/album/2OE6A20vXzzFh66WJ23Xmu"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 181749,
+      "name": "emotional affair",
+      "url": "https://open.spotify.com/track/7IILWCwr8Tgw6lXxjXriT2"
     },
     {
       "added_at": null,

@@ -4351,6 +4351,24 @@
     },
     {
       "album": {
+        "name": "Renascer",
+        "url": "https://open.spotify.com/album/7k5IGzWriBule5D6Guze1h"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213832,
+      "name": "Renascer",
+      "url": "https://open.spotify.com/track/52G5BtKvxEZ7DdfgiOdQTz"
+    },
+    {
+      "album": {
         "name": "Rest Sea",
         "url": "https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq"
       },

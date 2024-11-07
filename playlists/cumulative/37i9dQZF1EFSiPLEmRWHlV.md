@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-129 songs - 7 hr 29 min
+131 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,10 +132,12 @@
 | [Think It Over](https://open.spotify.com/track/3o5Np7dRn95xMVeLc4xSc3) | [Toyboy & Robin](https://open.spotify.com/artist/5vJKpAzRCVrkjgTYKy1fDG) | [Think It Over](https://open.spotify.com/album/0YR2su2ee5ZoteRQAUESYj) | 2:40 | 2024-06-13 |  |
 | [This Moment](https://open.spotify.com/track/1rVZhssI5CYGxv8WHs3JAu) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [This Moment](https://open.spotify.com/album/1bwuwqMc5bESJgVQ1SKQKn) | 3:37 | 2024-06-13 |  |
 | [Train to Catch](https://open.spotify.com/track/5VVZw2RLNNNvyIM7Sfa5UH) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Train to Catch](https://open.spotify.com/album/6nV3RuvxjyAJcl0GDOTlTu) | 3:05 | 2024-06-13 |  |
+| [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 | 2024-11-06 |  |
 | [Under Your Spell \(feat\. Clementine Douglas\)](https://open.spotify.com/track/58TtCuz5DDLeFZq0otJrMV) | [Trutopia](https://open.spotify.com/artist/5DiMSJgUwT3jluRsGj4h4o), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Under Your Spell \(feat\. Clementine Douglas\)](https://open.spotify.com/album/2wWHLHlI3xNVz9M5gOVi4U) | 3:39 | 2024-06-13 |  |
 | [Untold Business](https://open.spotify.com/track/6t0kYXM5ng8Pc4twDZjHoF) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Untold Business](https://open.spotify.com/album/186HTycU1jAk9PociChcpO) | 4:00 | 2024-06-13 |  |
 | [When I'm Alone](https://open.spotify.com/track/5Dk6mLcQ5EKYEkWSmLgQb5) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY), [Joston](https://open.spotify.com/artist/7BZRNGgJbXaXPxtCQp3eSV), [Clementine Douglas](https://open.spotify.com/artist/5JK1Ax0uAufztPzZB0WqHa) | [Find the Sunrise](https://open.spotify.com/album/1WCqIa46hsuHtjhiFGT2ln) | 3:40 | 2024-06-13 |  |
 | [When the Night Is Over](https://open.spotify.com/track/3u5JhMHnFrkNlROhDYgqSP) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:37 | 2024-06-13 |  |
+| [Who Said](https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Who Said](https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM) | 3:07 | 2024-11-06 |  |
 | [You Could Be The One](https://open.spotify.com/track/0VOL1UznKwKTTbAqNsG3pM) | [Tagavaka](https://open.spotify.com/artist/6r9d7O0TN4AZoM5AK4CmRy) | [Extrapolate EP](https://open.spotify.com/album/3g9sgL0uyNptqTgNowIF3R) | 3:15 | 2024-06-13 |  |
 
 \*This playlist was first scraped on 2024-06-14. Prior content cannot be recovered.

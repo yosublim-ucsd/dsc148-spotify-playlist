@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 129301,
+  "num_followers": 129439,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZygOgAAAAAAPPCWH2YVsGao0AiZkvs5C",
+  "snapshot_id": "ZylgAAAAAADYthrvINit279ctApslcsV",
   "tracks": [
     {
       "added_at": null,
@@ -975,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonus Track",
-        "url": "https://open.spotify.com/album/3bUsse7frBcdUvK2NoRrFc"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 191432,
-      "name": "Bonus Track",
-      "url": "https://open.spotify.com/track/4AX8qwSxfmLjargXeKBTqI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seguimos Bateando (En Vivo)",
         "url": "https://open.spotify.com/album/7gKqDEqMU5BAbZQ7gQh31p"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 144917,
       "name": "Seguimos Bateando (En Vivo)",
       "url": "https://open.spotify.com/track/1zE5vlYuew17I26BH5IXjz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bonus Track",
+        "url": "https://open.spotify.com/album/3bUsse7frBcdUvK2NoRrFc"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 191432,
+      "name": "Bonus Track",
+      "url": "https://open.spotify.com/track/4AX8qwSxfmLjargXeKBTqI"
     },
     {
       "added_at": null,

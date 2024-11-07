@@ -4,7 +4,7 @@
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Hipergéminis.
 
-5,619 songs - 11 day 23 hr 22 min
+5,621 songs - 11 day 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [Amor??? del bueno](https://open.spotify.com/track/5nCB4Ml9AbCcbi16M73Phg) | [Farren HYB](https://open.spotify.com/artist/3lCPDjN2sPviNQl8OBhETR), [veldu](https://open.spotify.com/artist/2NyJ5yRORiVqRD0E0rWVGk) | [Amor??? del bueno](https://open.spotify.com/album/6OVyxRTa7WUIM3khSbqDFe) | 3:18 | 2024-05-21 | 2024-05-29 |
 | [Amores perros](https://open.spotify.com/track/6jMOa1wzsmiqdwQ7Ll0GYh) | [Amigas Íntimas](https://open.spotify.com/artist/3UUAW3F5qqRQrTvAHuAarw) | [Amigas Íntimas](https://open.spotify.com/album/5LtPcKi0s2z0HZG037p4qB) | 1:35 | 2023-05-02 | 2023-05-10 |
 | [Amores Rusos](https://open.spotify.com/track/1s5EfswaMxbcq2kUIRfFi2) | [Catuxa Salom](https://open.spotify.com/artist/7pNENbSuiojM2b6ae53ecA) | [Amores Rusos](https://open.spotify.com/album/0Zyw5VuUY7mGdrEpXGlse0) | 2:40 | 2024-10-01 | 2024-10-09 |
+| [AMORKT](https://open.spotify.com/track/4x6AZdqs0jdvLF5jSind6j) | [W.A.H.](https://open.spotify.com/artist/5keKPrJcSL0pAmEyL9ArQN), [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS) | [LA NUEVA MÚSICA](https://open.spotify.com/album/7fzzqaRvRqBbOrLEssJwZ1) | 2:19 | 2024-11-06 |  |
 | [Amuleto](https://open.spotify.com/track/4vd0ULtqKYbU0CVDsZAtn4) | [New Boix](https://open.spotify.com/artist/4IACNJzFCAIe9W5lVBUsvI) | [Amuleto](https://open.spotify.com/album/3G2BYyGdCe2VBwtw7bJpkm) | 1:47 | 2023-10-03 | 2023-10-18 |
 | [AMÉ](https://open.spotify.com/track/1SFxf3rAJXABlo9IQYY7ED) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [AMÉ](https://open.spotify.com/album/6unj06Yig8gkRI9J0khrfL) | 2:11 | 2024-07-30 | 2024-08-07 |
 | [América](https://open.spotify.com/track/3Tv46FFihxZnIkywn72MoT) | [GARCÍA Picasso](https://open.spotify.com/artist/7bmCrd2Hv5prpHeyTbGx0L) | [América](https://open.spotify.com/album/0qshqiEaFjLf9QNoljGSvS) | 3:20 | 2023-06-13 | 2023-06-21 |
@@ -4473,6 +4474,7 @@
 | [Sayek](https://open.spotify.com/track/0yPR8PjQcwjLK5m3rJzP7c) | [Bengo](https://open.spotify.com/artist/6dNHiPEIu6X3UrneNMX4EK) | [Sayek](https://open.spotify.com/album/4upmff4ATQW4GOiRnijwA1) | 2:33 | 2022-10-05 | 2022-10-19 |
 | [School Shooter](https://open.spotify.com/track/733E9zZIyBWBTCcrTAeXNd) | [Aless Motta](https://open.spotify.com/artist/6R7AQLaSiC33LsfUwTLoKc) | [School Shooter](https://open.spotify.com/album/65gBkUOt2AS4WwAycM8u7i) | 2:37 | 2023-11-07 | 2023-11-16 |
 | [Se Acabó la Broma](https://open.spotify.com/track/6iAbbG1XIlwv3RXQhdldQD) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [Se Acabó la Broma](https://open.spotify.com/album/5RTSC9BWKK9NfYyUK7b6j5) | 2:13 | 2022-10-25 | 2022-11-09 |
+| [Se Acabó...](https://open.spotify.com/track/0nBwiqpjIhQbsAII8arbgp) | [Thianseich](https://open.spotify.com/artist/3KjltT8SGpllhgDt2voKqb) | [Se Acabó...](https://open.spotify.com/album/6jTpvda6lPGVry3IggWc92) | 3:26 | 2024-11-06 |  |
 | [Se Acuerda De Mí](https://open.spotify.com/track/3EiB4AH1XHJmxqNlQaFXhc) | [Alja](https://open.spotify.com/artist/4cjTIWxQYfsQIgSGQcp4RJ), [Zeta](https://open.spotify.com/artist/6JijuoHAJx9fYUEaN5yX2i) | [Se Acuerda De Mí](https://open.spotify.com/album/5Arldt8ECOLVDKkPmkWbOJ) | 2:48 | 2024-08-20 | 2024-08-28 |
 | [SE MATA](https://open.spotify.com/track/3rIhIeKrk1XPwCNF5grTRE) | [Cristina Len](https://open.spotify.com/artist/5lgIxzmjmsIDKBOUs999xD) | [SE MATA](https://open.spotify.com/album/5RFU77ZSgujGuCnqHD7RCz) | 2:51 | 2023-10-17 | 2023-10-25 |
 | [Se me apuras](https://open.spotify.com/track/014cgyO8lvYraD5y8ML7n5) | [A Pedreira](https://open.spotify.com/artist/5pI0q1q2mg7DUPFPAKbNYk) | [Se me apuras](https://open.spotify.com/album/2pkIAWEcHv0b2JTVGemMK0) | 3:35 | 2024-04-30 | 2024-05-09 |

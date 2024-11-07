@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,981 likes - 32 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,985 likes - 32 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 | 15 | [All I Need \- Brenmar Remix](https://open.spotify.com/track/6N9TroDEQeSsVnWdK6y7F5) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM), [IS U IS U](https://open.spotify.com/artist/6zH8urr3XDDM0rZpLRtxRX), [Brenmar](https://open.spotify.com/artist/713RoDl16muftBPRdCXGAX) | [Melter \(Remixes\)](https://open.spotify.com/album/2QkC1yQIFbDVusHxd0D2UK) | 4:47 |
 | 16 | [Trax 4 Da Women](https://open.spotify.com/track/6Saar7rLlWCYYzulCYVwMI) | [Garneau](https://open.spotify.com/artist/2auOV5mY2iK1cJ4XmHXynL), [DJ Lil'Tal](https://open.spotify.com/artist/0EdnLJfOLM2o3NysS4crGP) | [Trax 4 Da Women](https://open.spotify.com/album/66WaxrGmpMb6iHPYYtAo5v) | 4:47 |
 | 17 | [Go Crazy](https://open.spotify.com/track/6mH4rmjZg4jC0ONIqTWDnU) | [Blck Mamba](https://open.spotify.com/artist/7IY7Mk9PhK0ttxbkdAUDhC), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr) | [Fragments](https://open.spotify.com/album/2qj7qjzvBiSTCNSvNb6wFP) | 3:37 |
-| 18 | [Big Bag Bounce](https://open.spotify.com/track/6AMLDi1PdJgrWuHCS4qVfk) | [AQUTIE](https://open.spotify.com/artist/5cLrXNIHIhgtTFgrsYXTXF), [Paulina Singer](https://open.spotify.com/artist/3iFyOMYm2fhl5ZM0guEzK6) | [Coolest In The City](https://open.spotify.com/album/0QGXEwAUfWpUIPE5AR6TBM) | 5:12 |
+| 18 | [Big Bag Bounce](https://open.spotify.com/track/6AMLDi1PdJgrWuHCS4qVfk) | [AQUTIE](https://open.spotify.com/artist/5cLrXNIHIhgtTFgrsYXTXF), [Zuzu Silk](https://open.spotify.com/artist/04BCKgFQYPrONAk85R7CeP) | [Coolest In The City](https://open.spotify.com/album/0QGXEwAUfWpUIPE5AR6TBM) | 5:12 |
 | 19 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 |
 | 20 | [Or What](https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Or What](https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2) | 3:19 |
 | 21 | [Bailando](https://open.spotify.com/track/4wrMjkv0phLk5bEiSKvTCn) | [Dos Flakos](https://open.spotify.com/artist/7e0d8Rr8wnZlu4CvQU5eHU), [FIGHT CLVB](https://open.spotify.com/artist/7d6RF1h3kPu6Ij0RXcTeJg), [BIG KAPOH](https://open.spotify.com/artist/1aCqNMQTutPOigRS3vkDH8) | [Bailando](https://open.spotify.com/album/56AxRp7nmvF755RKQVaDwl) | 3:48 |

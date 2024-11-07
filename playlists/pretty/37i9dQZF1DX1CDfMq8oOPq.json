@@ -1,6 +1,6 @@
 {
   "description": "a verdadeira bandida seu fechamento, j\u00e1 pensou \ud83e\udd2f",
-  "num_followers": 59756,
+  "num_followers": 59826,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -811,8 +811,8 @@
     {
       "added_at": "2024-11-04 20:39:55",
       "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
       },
       "artists": [
         {
@@ -820,17 +820,13 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
         }
       ],
-      "duration_ms": 118153,
-      "name": "Cartas a uma Garota Negra",
-      "url": "https://open.spotify.com/track/2DkfARxo3B9gzoFRzB1OFf"
+      "duration_ms": 187350,
+      "name": "Maldita",
+      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
     },
     {
       "added_at": "2024-11-04 20:39:55",
@@ -855,50 +851,6 @@
       "duration_ms": 142500,
       "name": "Hentai",
       "url": "https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8"
-    },
-    {
-      "added_at": "2024-11-04 20:39:55",
-      "album": {
-        "name": "Perfil #89 - Sapi\u00eancia",
-        "url": "https://open.spotify.com/album/0WSNvJv1ZQqqwa8CISl1tQ"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 232746,
-      "name": "Perfil #89 - Sapi\u00eancia",
-      "url": "https://open.spotify.com/track/5a1cIb0jtkhrNTLxQ8Hu2z"
-    },
-    {
-      "added_at": "2024-11-04 20:39:55",
-      "album": {
-        "name": "Nega Doce",
-        "url": "https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ"
-      },
-      "artists": [
-        {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
-        },
-        {
-          "name": "xochuo",
-          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
-        }
-      ],
-      "duration_ms": 136888,
-      "name": "Nega Doce",
-      "url": "https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR"
     },
     {
       "added_at": "2024-11-04 20:39:55",
@@ -939,6 +891,50 @@
       "duration_ms": 182400,
       "name": "Flores",
       "url": "https://open.spotify.com/track/35ZQhvGer4YLCx4ri4CzQ8"
+    },
+    {
+      "added_at": "2024-11-04 20:39:55",
+      "album": {
+        "name": "Nega Doce",
+        "url": "https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ"
+      },
+      "artists": [
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        },
+        {
+          "name": "xochuo",
+          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
+        }
+      ],
+      "duration_ms": 136888,
+      "name": "Nega Doce",
+      "url": "https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR"
+    },
+    {
+      "added_at": "2024-11-04 20:39:55",
+      "album": {
+        "name": "Perfil #89 - Sapi\u00eancia",
+        "url": "https://open.spotify.com/album/0WSNvJv1ZQqqwa8CISl1tQ"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 232746,
+      "name": "Perfil #89 - Sapi\u00eancia",
+      "url": "https://open.spotify.com/track/5a1cIb0jtkhrNTLxQ8Hu2z"
     },
     {
       "added_at": "2024-11-04 20:39:55",
@@ -1099,8 +1095,8 @@
     {
       "added_at": "2024-11-04 20:39:55",
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
       },
       "artists": [
         {
@@ -1108,13 +1104,17 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
         }
       ],
-      "duration_ms": 187350,
-      "name": "Maldita",
-      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
+      "duration_ms": 118153,
+      "name": "Cartas a uma Garota Negra",
+      "url": "https://open.spotify.com/track/2DkfARxo3B9gzoFRzB1OFf"
     },
     {
       "added_at": "2024-11-04 20:39:55",

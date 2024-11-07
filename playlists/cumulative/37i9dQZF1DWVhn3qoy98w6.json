@@ -7193,6 +7193,28 @@
     },
     {
       "album": {
+        "name": "LA NUEVA M\u00daSICA",
+        "url": "https://open.spotify.com/album/7fzzqaRvRqBbOrLEssJwZ1"
+      },
+      "artists": [
+        {
+          "name": "W.A.H.",
+          "url": "https://open.spotify.com/artist/5keKPrJcSL0pAmEyL9ArQN"
+        },
+        {
+          "name": "valverdina",
+          "url": "https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139780,
+      "name": "AMORKT",
+      "url": "https://open.spotify.com/track/4x6AZdqs0jdvLF5jSind6j"
+    },
+    {
+      "album": {
         "name": "Amuleto",
         "url": "https://open.spotify.com/album/3G2BYyGdCe2VBwtw7bJpkm"
       },
@@ -84832,6 +84854,24 @@
       "duration_ms": 133282,
       "name": "Se Acab\u00f3 la Broma",
       "url": "https://open.spotify.com/track/6iAbbG1XIlwv3RXQhdldQD"
+    },
+    {
+      "album": {
+        "name": "Se Acab\u00f3...",
+        "url": "https://open.spotify.com/album/6jTpvda6lPGVry3IggWc92"
+      },
+      "artists": [
+        {
+          "name": "Thianseich",
+          "url": "https://open.spotify.com/artist/3KjltT8SGpllhgDt2voKqb"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206258,
+      "name": "Se Acab\u00f3...",
+      "url": "https://open.spotify.com/track/0nBwiqpjIhQbsAII8arbgp"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Rock Barrial](https://open.spotify.com/playlist/37i9dQZF1DXb9ynY7YLqCC)
 
-> Canciones directas y banderas al viento\. Foto: La 25.
+> Canciones directas y banderas al viento\. Foto: Dillom
 
-191 songs - 13 hr 8 min
+192 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Salgo A Recorrer](https://open.spotify.com/track/5Wq9FCjJFuJ34L49a98Nlr) | [Gabriel Carámbula](https://open.spotify.com/artist/5B5uB2qgf8cY4j5n9FdMNV), [Nigel Walker](https://open.spotify.com/artist/1wdOYq4dlX4EhFcrFtX4Xi) | [Carámbula](https://open.spotify.com/album/4Da8L42GmoNpAmNfdbEBja) | 3:22 | 2022-07-08 | 2022-07-16 |
 | [Sangrecaliente](https://open.spotify.com/track/6fkCxYCuTdwS9vAmGE9TYy) | [Revanchistas](https://open.spotify.com/artist/0doxvsFqliwpll9oqvUGEQ) | [De Sangre Caliente](https://open.spotify.com/album/54L6YD2YIuEGajL1v3RIs1) | 4:26 | 2024-01-03 |  |
 | [Sapo de Otro Pozo](https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fulanos de Nadie](https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB) | 4:19 | 2022-04-01 |  |
-| [Se Viene](https://open.spotify.com/track/50ub3uFroRYynQRez4AKrq) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/07VQy3WNlaYt8WBJvdGLuy) | 3:25 | 2022-04-01 |  |
+| [Se Viene](https://open.spotify.com/track/50ub3uFroRYynQRez4AKrq) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/07VQy3WNlaYt8WBJvdGLuy) | 3:25 | 2022-04-01 | 2024-11-07 |
 | [Se Viene](https://open.spotify.com/track/3sDmwlRdEdsb1BLDChJSJV) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 3:25 | 2022-07-08 | 2024-04-19 |
 | [Seremos](https://open.spotify.com/track/0AtNtseGriGF4sUXaVxBwq) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [Seremos](https://open.spotify.com/album/7a5hpHnoee3uX6rfOega5S) | 3:28 | 2022-04-01 |  |
 | [Seremos](https://open.spotify.com/track/2PEiV0Dl5Z70afQEW2wxDg) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [Seremos](https://open.spotify.com/album/1FiHP8cmZtVmK74SqjEdop) | 3:28 | 2022-07-08 | 2024-04-19 |
@@ -198,6 +198,7 @@
 | [Voy A Bailar A La Nave Del Olvido \- Live](https://open.spotify.com/track/3JHwgLLYViFdF1LvXAIHuu) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Locura de Tramites: ROCK](https://open.spotify.com/album/1dcK7m7LnJYfXN3rJIE0xf) | 5:06 | 2024-01-03 | 2024-01-27 |
 | [Voy A Bailar A La Nave Del Olvido \- Live](https://open.spotify.com/track/3K4HPBlXfIhFaWRqpFQ1lP) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Bailando En Una Pata \(Live\)](https://open.spotify.com/album/1OvwfF3Eb66k29nZHkn7qB) | 5:06 | 2022-04-01 | 2024-08-30 |
 | [Zafar](https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:22 | 2022-04-01 |  |
+| [¿Qué Vas A Hacer Tan Sola Hoy? \- Spotify Singles](https://open.spotify.com/track/65Qjvcf4RFQPwwkz7T6l76) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [¿Qué Vas A Hacer Tan Sola Hoy? \- Spotify Singles](https://open.spotify.com/album/0pz6Qn6QKcJmdTwsGDcVBW) | 3:11 | 2024-11-07 |  |
 | [Ángeles del olvido](https://open.spotify.com/track/5nNkZFyHYrZs4a2H8WcYQ6) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Seguir latiendo](https://open.spotify.com/album/336IbTTfWkU9S5yqEEaTPa) | 4:05 | 2022-04-01 | 2022-07-06 |
 
 \*This playlist was first scraped on 2022-06-30. Prior content cannot be recovered.

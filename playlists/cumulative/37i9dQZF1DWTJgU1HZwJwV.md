@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-520 songs - 22 hr 3 min
+523 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Dois Mundos](https://open.spotify.com/track/4Ls25DZAykE5rhatYaFivp) | [Derek Shearer](https://open.spotify.com/artist/3W51gb95wAmpctfOfM9no0) | [Clinton Hill](https://open.spotify.com/album/6TNK5hsPc9fZbRSnAejZeI) | 2:46 | 2022-06-17 | 2024-06-28 |
 | [Donegal](https://open.spotify.com/track/51760UCr1H0wFGIeNlZg2F) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Donegal](https://open.spotify.com/album/4aPfvkL9aJn4yozAV8Hift) | 2:36 | 2023-10-13 |  |
 | [Douro River](https://open.spotify.com/track/37TGZZSvrKbQ0iH1Xo53Gm) | [Vito Cantador](https://open.spotify.com/artist/7hh6PFK9DC1ZNhtXx5457U) | [No Words Can Say](https://open.spotify.com/album/03pQM7svs024WrROfEi4j3) | 3:18 | 2022-06-17 | 2022-09-09 |
+| [Drawing Closer](https://open.spotify.com/track/3myvIlG3aFRqcSVHAxaBit) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Drawing Closer](https://open.spotify.com/album/6PrqEz12w00yuRwGBFMjJ7) | 2:37 | 2024-11-06 |  |
 | [Dream Sweet Dreams](https://open.spotify.com/track/4NgP1eBz1VPVKWDDIgsDvW) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [Dream Sweet Dreams](https://open.spotify.com/album/4gWqNj16uzmwC4VglSdtFt) | 1:40 | 2023-02-24 | 2023-06-23 |
 | [Dreams Forever](https://open.spotify.com/track/4jC1oGON5Oei2Gm80RRej5) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Dreams Forever](https://open.spotify.com/album/5yfv3WJqhIjuYo0HxGpxVZ) | 2:18 | 2023-03-24 | 2023-06-23 |
 | [Dreamy Meadows](https://open.spotify.com/track/1rUJumpgrhAbL0PfhbTX7z) | [Timothy Hall](https://open.spotify.com/artist/5WQIOA7Nu5yv3EVY7a6ot2) | [Dreamy Meadows](https://open.spotify.com/album/0xefdrtyuO0gIAPhzePx5c) | 2:31 | 2024-05-24 |  |
@@ -358,6 +359,7 @@
 | [Porto Cervo](https://open.spotify.com/track/7GxkKrjP9Mt8Wizi0YmjfX) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Porto Cervo](https://open.spotify.com/album/0CpRpMXCgd0TvUup9IoPz2) | 2:39 | 2024-05-10 |  |
 | [Porto Salvo](https://open.spotify.com/track/09Z2QZNcoyz6hxQPfGSwd4) | [Clotho](https://open.spotify.com/artist/47BxCwdoIB8uBDUY6KktXs) | [Ericeira](https://open.spotify.com/album/32NGueMRUQl0zGowxzQIbG) | 2:54 | 2022-06-17 | 2023-05-20 |
 | [Portobello Road](https://open.spotify.com/track/0ClM18qxHioIY0hT6PkxAv) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Portobello Road](https://open.spotify.com/album/4GEqERwesA2Vsnx6Vhq4Ms) | 2:28 | 2024-02-02 |  |
+| [Post for Mike](https://open.spotify.com/track/7u9DJQwaQsBxPQK8bZtVBh) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Post for Mike](https://open.spotify.com/album/0FwJmmmyBhWsa7PW9Z8r5y) | 2:13 | 2024-11-06 |  |
 | [Prelude No\. 22](https://open.spotify.com/track/5GQMvgcBHqQmiz3ZsU2apw) | [Arnaud Dumond](https://open.spotify.com/artist/1BbOqTsLJ2L0VAnT0PVVRL) | [Prelude No\. 22](https://open.spotify.com/album/6vz3YMF0T9VYiYqCbGWjNL) | 2:16 | 2022-11-18 | 2023-08-25 |
 | [Preludio, Op\. 26](https://open.spotify.com/track/7phkF9WGZC8CoPKrQdv24D) | [Ernesto García de León](https://open.spotify.com/artist/7khoscfcFr6vJQCBWxXAEn), [Ricardo Salinas](https://open.spotify.com/artist/27z2RO8YOHjNquoZfAfHse) | [Preludio, Op\. 26](https://open.spotify.com/album/0qwyKk8uTrRO8Y4DpO4mNp) | 2:54 | 2022-06-17 | 2023-09-08 |
 | [Presence](https://open.spotify.com/track/65PwJhpGEDq3T9ifVlSM4r) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Presence](https://open.spotify.com/album/7spT1eTyS8gj0L8MHBX69x) | 2:27 | 2024-05-24 |  |
@@ -419,6 +421,7 @@
 | [Sleeping In](https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Sleeping In](https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG) | 3:00 | 2023-03-10 | 2023-06-23 |
 | [Slowly Dreaming Away](https://open.spotify.com/track/1Q91XhVR27Sl9t5se58PfG) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Slowly Dreaming Away](https://open.spotify.com/album/3eoR8gGsTOFQ9Su6w1sbtk) | 1:58 | 2022-06-17 | 2023-09-14 |
 | [Slowmood](https://open.spotify.com/track/2uBdx5OBEQmRIBcM7FSnSB) | [Mike Duff](https://open.spotify.com/artist/3CCA4rgJaywSdKgYyuBzQy) | [Slowmood](https://open.spotify.com/album/5E4adlY3rgcjvPrA3jqE0L) | 2:15 | 2023-02-24 | 2023-06-23 |
+| [Smiled Upon](https://open.spotify.com/track/3LkFqXeJ7HFsQBBDgZ3ay1) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Smiled Upon](https://open.spotify.com/album/2ScFSQPRG8cYlX90aTbbpt) | 2:13 | 2024-11-06 |  |
 | [Sol](https://open.spotify.com/track/7iySYm4OYpamlQbv1CcoXj) | [Maitre](https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe) | [Sol](https://open.spotify.com/album/16QpKi6zRqxJxKVGjf3gOH) | 2:05 | 2023-09-08 |  |
 | [Solitaire](https://open.spotify.com/track/78z9A93mkKiW9QyhWazsli) | [Anayah Burke](https://open.spotify.com/artist/56snJZ1Nb0tP4197xTHV68) | [Solitaire](https://open.spotify.com/album/4pgQkUGJx1hijH9zqfun2f) | 3:01 | 2022-06-17 | 2024-05-10 |
 | [Solitude](https://open.spotify.com/track/7j0CIdk9sYC3PAjpYXTSq5) | [Casper Hatlestad](https://open.spotify.com/artist/7D7NbqWGN2AYy4zLHxcvLU) | [Solitude](https://open.spotify.com/album/7KEgObSmwqkN9ByjXvAVhL) | 2:24 | 2024-05-10 |  |

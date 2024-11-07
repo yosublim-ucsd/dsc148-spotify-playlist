@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 
 > This year's new country holiday songs! Cover: Dan + Shay
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,270 likes - 43 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,284 likes - 43 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 | 31 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0sWdvAS5A2CP2rCHEBe45J) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7Aot2bMAZtbbNU1PF8l8kB) | 3:27 |
 | 32 | [Who Will You Be Kissing on New Year's Eve? \(feat\. Idarose\)](https://open.spotify.com/track/3DEe8XmOO61T2CI07uxGrY) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Idarose](https://open.spotify.com/artist/1KtWTt471icGsQwTn6z9ls) | [Merry Christmas \(Welcome to the Family\)](https://open.spotify.com/album/0E0pHnydub2gfVIUr8Cyi3) | 3:10 |
 | 33 | [Blue Christmas](https://open.spotify.com/track/0URDPKwJPDBxArWaCpl1yM) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Blue Christmas](https://open.spotify.com/album/5j6ScOsf4Gdg2lwOiUHAft) | 3:12 |
-| 34 | [All Want For Christmas Is You](https://open.spotify.com/track/1gQy79tfOYkS0Qi3RTbwU2) | [Will Moseley](https://open.spotify.com/artist/27xQuXlRNt5dlQ4ripYabX) | [All Want For Christmas Is You](https://open.spotify.com/album/62mMyseL69yhCM5Ot6yFyE) | 4:10 |
+| 34 | [All I Want For Christmas Is You](https://open.spotify.com/track/1gQy79tfOYkS0Qi3RTbwU2) | [Will Moseley](https://open.spotify.com/artist/27xQuXlRNt5dlQ4ripYabX) | [All I Want For Christmas Is You](https://open.spotify.com/album/62mMyseL69yhCM5Ot6yFyE) | 4:10 |
 | 35 | [I'll Be Home for Christmas](https://open.spotify.com/track/7zNeDg8NYqlYTZZIvQN4SA) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [I'll Be Home for Christmas](https://open.spotify.com/album/2uNtbFRwfyGWcAfA0mq6j5) | 2:28 |
 | 36 | [Blue Christmas](https://open.spotify.com/track/666HjMnp4A48UROUMcnXo5) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Children Go / Blue Christmas](https://open.spotify.com/album/5hkJRQ20kibcpZqD7lTgju) | 3:13 |
 | 37 | [Christmas Morning](https://open.spotify.com/track/2bR53pmpvtOS1hMjwxq6hd) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Blue Christmas ...duh](https://open.spotify.com/album/2jAxdB4oHVxoEnqoEYbcOl) | 4:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: NTG
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,111 likes - 54 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,236 likes - 54 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 21 | [Mucha Letra Mucha Clave](https://open.spotify.com/track/35eXKEXBtktSNNyyhiFbe7) | [Ator Untela](https://open.spotify.com/artist/6okWJ07kcCwzho1xSsykc4), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Mucha Letra Mucha Clave](https://open.spotify.com/album/1v5CQSsNFyw0aJZ0Qq6DTg) | 2:34 |
 | 22 | [Ahora Soy Adicto](https://open.spotify.com/track/3vDpT45rMxGPj6VBzEPthM) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Ahora Soy Adicto](https://open.spotify.com/album/4FkLsuHSItVHILvbvLe6ul) | 2:49 |
 | 23 | [Si Tu Quieres](https://open.spotify.com/track/4h3XCMbwm3rR1PTYcT336q) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Si Tu Quieres](https://open.spotify.com/album/5B24tq54Yl9gCYrqHW0Idz) | 2:30 |
-| 24 | [Ponte Linda](https://open.spotify.com/track/7r3bUvESedWExPuaqS7caU) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Ponte Linda](https://open.spotify.com/album/15IPDipfRj9j5Q2gDGjcTf) | 3:08 |
+| 24 | [Ponte Linda](https://open.spotify.com/track/7r3bUvESedWExPuaqS7caU) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Ponte Linda](https://open.spotify.com/album/15IPDipfRj9j5Q2gDGjcTf) | 3:00 |
 | 25 | [Klk El Dice](https://open.spotify.com/track/2exlALY8rkH2GyS0ETqfI5) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo) | [Klk El Dice](https://open.spotify.com/album/3q4IaAfmfYZLrUdoWvbuOI) | 3:06 |
 | 26 | [Me Hace Falta](https://open.spotify.com/track/0bc6usCdraQ0M3tXqemELa) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Me Hace Falta](https://open.spotify.com/album/6iJEthERxJCwolggfRnGMO) | 3:01 |
 | 27 | [Soltera](https://open.spotify.com/track/5tzUJfMnLfAsjliIvdQl7Y) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Soltera](https://open.spotify.com/album/4BrGUL0D3eHAvh1Xc3btqP) | 2:26 |

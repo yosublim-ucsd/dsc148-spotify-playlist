@@ -1419,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "Evenly Balanced",
+        "url": "https://open.spotify.com/album/6jMkqhISeUr6pPAZFjjKAM"
+      },
+      "artists": [
+        {
+          "name": "Algot Aelster",
+          "url": "https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124903,
+      "name": "Evenly Balanced",
+      "url": "https://open.spotify.com/track/4m3u1eHjGKnA3GPgjBd7Cb"
+    },
+    {
+      "album": {
         "name": "Everything Is You",
         "url": "https://open.spotify.com/album/5Du2iKqG8PpScVLlGXJ6cY"
       },
@@ -5030,6 +5048,24 @@
       "duration_ms": 141495,
       "name": "When Day Breaks",
       "url": "https://open.spotify.com/track/3khZkLeb8AAnz86WhmbfXa"
+    },
+    {
+      "album": {
+        "name": "White wings",
+        "url": "https://open.spotify.com/album/3RvRZdW1r1HjySuqAoDLX3"
+      },
+      "artists": [
+        {
+          "name": "Lester Dann",
+          "url": "https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158360,
+      "name": "White wings",
+      "url": "https://open.spotify.com/track/3s886lrKl2lG3g0BF7lXCE"
     },
     {
       "album": {

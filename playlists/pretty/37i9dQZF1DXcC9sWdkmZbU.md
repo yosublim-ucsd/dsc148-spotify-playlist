@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Worship songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,185 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,218 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 9 | [Joy \(What The World Calls Foolish\)](https://open.spotify.com/track/7q2ep30quuMk65efgKraiC) | [Gateway Kids Worship](https://open.spotify.com/artist/5spb8btR2z1lSREzcyg56E), [Gabrielle James](https://open.spotify.com/artist/2AmVtENys41Ue1GzSu4aCZ) | [Child Of God](https://open.spotify.com/album/1s9T5jixLog9YsakZZJNFS) | 4:43 |
 | 10 | [God's Not Dead \(Like A Lion\)](https://open.spotify.com/track/78ZVdXS1Ow5ztK5oeTgdbz) | [Capitol Kids!](https://open.spotify.com/artist/2R5LUhq3xVJxlh52uh4szt) | [Capitol Kids! Hits](https://open.spotify.com/album/0NYwFMOCc1aQjeXtZ2L3T3) | 4:14 |
 | 11 | [He's Got The Whole World](https://open.spotify.com/track/2EKmcipc4bfMJjCzGnZupr) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Sunday School Songs](https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX) | 1:53 |
-| 12 | [Do Not Fear \- Kids Worship Edition](https://open.spotify.com/track/6cYB5DbQPghcNKYVKU8asy) | [Seeds Kids Worship](https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS) | [Do Not Fear \(Kids Worship Edition\)](https://open.spotify.com/album/4a20tlmhtbo5U4MTzxyd4n) | 2:38 |
+| 12 | [Do Not Fear \(Isaiah 41:10\) \- Kids Worship Edition](https://open.spotify.com/track/6cYB5DbQPghcNKYVKU8asy) | [Seeds Kids Worship](https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS) | [Do Not Fear \(Isaiah 41:10\) \[Kids Worship Edition\]](https://open.spotify.com/album/4a20tlmhtbo5U4MTzxyd4n) | 2:38 |
 | 13 | [He Is the Light](https://open.spotify.com/track/7Bi1ZbcjXppd20X6IyldE7) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Pop Praise: Jump for Joy](https://open.spotify.com/album/6RHcD6hREYs81gJahZIn1y) | 2:44 |
 | 14 | [Your Ways \(Isaiah 55\) \- Live](https://open.spotify.com/track/3jmXhvsA6Y9SQX5HohC26n) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Your Ways \(Isaiah 55\) \[Live\]](https://open.spotify.com/album/6h3ij29LgLW3qannd61h1Q) | 4:02 |
 | 15 | [Power \(Acts 1:8 Esv\)](https://open.spotify.com/track/5TWNtcnXBFKOD6J6ZMH2Cm) | [Seeds Kids Worship](https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS) | [Power, Vol.15](https://open.spotify.com/album/0SsqF3EDjThol2LBiHEgTk) | 3:13 |

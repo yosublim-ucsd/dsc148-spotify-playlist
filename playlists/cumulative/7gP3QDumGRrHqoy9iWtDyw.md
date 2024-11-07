@@ -4,7 +4,7 @@
 
 > 
 
-236 songs - 15 hr 13 min
+237 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Coachella \(No Ticket, No Money\) \[Edit\]](https://open.spotify.com/track/5GKt9AP8XzXffZOg6fx3Tw) | [Andy Santangeli](https://open.spotify.com/artist/2Ffdrflit5SAmB6E2T0PQf), [Coppa](https://open.spotify.com/artist/0rkBb19hZKPCrXugecfokF) | [Coachella](https://open.spotify.com/album/7z1fUfzjLaMX2JpyNppICR) | 3:02 | 2023-05-05 |  |
 | [Control](https://open.spotify.com/track/20bxwqf1CQbZxKmq50q8gn) | [Disco Dom](https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004), [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Inferno \(No\. 1\)](https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG) | 4:51 | 2023-07-21 |  |
 | [Controller \- Walker & Royce Remix](https://open.spotify.com/track/2h1a5N6j2o6AYATr89sYIb) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV) | [Controller \(Walker & Royce Remix\)](https://open.spotify.com/album/2f9e2EJmAMDnRo1q83mfqk) | 6:14 | 2023-02-02 |  |
+| [Cosmic Girl](https://open.spotify.com/track/7bfXdIsRCEVO6kArG49pjo) | [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK) | [Havwest EP](https://open.spotify.com/album/0nrOaSQeG5YGwWUuQJnGZ6) | 3:28 | 2024-11-06 |  |
 | [Costa](https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Costa](https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7) | 3:36 | 2024-03-12 |  |
 | [Could Heaven Ever Be Like This \- Walker & Royce and Chris Lorenzo Remix](https://open.spotify.com/track/7z3n0JoDK9DoWjiuaKaX6O) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Could Heaven Ever Be Like This \(Walker & Royce and Chris Lorenzo Remix\)](https://open.spotify.com/album/7pPOIeKfV4bsVWO8zDyRfV) | 3:41 | 2023-02-02 |  |
 | [Country Life \- Sosa UK Remix](https://open.spotify.com/track/04rMkHgKEFa7ipvuGOs4Ti) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Country Life \(Sosa UK Remix\)](https://open.spotify.com/album/19guSndSzg8Y6TXWZExmHj) | 4:56 | 2023-07-03 |  |
@@ -240,7 +241,7 @@
 | [Work \- Franky Rizardo Remix](https://open.spotify.com/track/7lBcBg4THRZgzj4zczNvOS) | [The 2 Bears](https://open.spotify.com/artist/0tCMgjr8y7UKNmE3B1Uwbl), [Franky Rizardo Remix](https://open.spotify.com/artist/5n6Cdis4xlORQgfih56nnW) | [Work](https://open.spotify.com/album/5BQA0Mz8d7GA8dEYyF0B2Y) | 6:18 | 2017-08-12 |  |
 | [Yes Man \- Radio Edit](https://open.spotify.com/track/47xypX1JI0skOo1wrqJpOP) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Yes Man](https://open.spotify.com/album/7kdcsS4EJ0lXtIS9kLhpqg) | 3:50 | 2023-01-05 |  |
 | [Yo Yo Get Funky \- Andre Zimmer Remix](https://open.spotify.com/track/5j1y2im0leY3lJlcxLFx1B) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv), [Andre Zimmer](https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA) | [Yo Yo Get Funky \(Andre Zimmer Remix\)](https://open.spotify.com/album/20wZYUzsZfPHscp0kiPzZY) | 3:30 | 2024-03-11 |  |
-| [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2024-01-19 |  |
+| [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2024-01-19 |  |
 | [You Know](https://open.spotify.com/track/1xB5gt3cDATes2HlVs3ICe) | [Dario Nunez](https://open.spotify.com/artist/2xjAjRLHCAgqazA88wwDLh) | [You Know](https://open.spotify.com/album/5WIcuwJXPhM2iutKiMOcyQ) | 3:04 | 2024-06-10 |  |
 | [You Know Where The Floor Is](https://open.spotify.com/track/1RnEVv1M950IEiklbd01j1) | [Bad Intentions](https://open.spotify.com/artist/1EJZkoVUvWhgY0OJvdAXHw), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [You Know Where The Floor Is](https://open.spotify.com/album/1mvKgax9KJhxdNRrVjtFyQ) | 3:48 | 2023-12-26 |  |
 | [You On My Mind A Lot](https://open.spotify.com/track/1J4H1G61STqSy3G6gQ1M0r) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [You On My Mind A Lot](https://open.spotify.com/album/7rW4yWJuSxMAAKAE8VWKNs) | 3:04 | 2024-03-18 |  |

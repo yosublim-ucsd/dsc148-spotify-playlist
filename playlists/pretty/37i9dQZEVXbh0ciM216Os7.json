@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACX087AsH82FEDu1kIoRqy0",
+  "snapshot_id": "AAAAAAAAAAAwtjWyE+8m0j/HwzY0YfCt",
   "tracks": [
     {
       "added_at": "2024-11-01 05:00:00",
@@ -87,6 +87,26 @@
     {
       "added_at": "2024-11-01 05:00:00",
       "album": {
+        "name": "The Workload",
+        "url": "https://open.spotify.com/album/1Y8hWm20UTS2V3IvmWK0DY"
+      },
+      "artists": [
+        {
+          "name": "Skyzoo",
+          "url": "https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 191445,
+      "name": "The Workload",
+      "url": "https://open.spotify.com/track/6IrG5DFdKKotGMbkg4Qoow"
+    },
+    {
+      "added_at": "2024-11-01 05:00:00",
+      "album": {
         "name": "Smoke Stain's, Pt.2",
         "url": "https://open.spotify.com/album/5mEef2rDgo4KgK1X4XzbF3"
       },
@@ -107,26 +127,6 @@
       "duration_ms": 194783,
       "name": "Smoke Stain's, Pt.2",
       "url": "https://open.spotify.com/track/1ezZkIEV8P5tjNtOXPKlSN"
-    },
-    {
-      "added_at": "2024-11-01 05:00:00",
-      "album": {
-        "name": "The Workload",
-        "url": "https://open.spotify.com/album/1Y8hWm20UTS2V3IvmWK0DY"
-      },
-      "artists": [
-        {
-          "name": "Skyzoo",
-          "url": "https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 191445,
-      "name": "The Workload",
-      "url": "https://open.spotify.com/track/6IrG5DFdKKotGMbkg4Qoow"
     },
     {
       "added_at": "2024-11-01 05:00:00",
@@ -340,7 +340,7 @@
       "added_at": "2024-11-01 05:00:00",
       "album": {
         "name": "Passenger Princess / Adam",
-        "url": "https://open.spotify.com/album/1HXe3FTrZebk2vesO7Vshk"
+        "url": "https://open.spotify.com/album/6eszObM49D1h61rbPxS7po"
       },
       "artists": [
         {
@@ -354,7 +354,7 @@
       ],
       "duration_ms": 147961,
       "name": "Passenger Princess (feat. Smino)",
-      "url": "https://open.spotify.com/track/2umsnslJOVbg2BHwi42H39"
+      "url": "https://open.spotify.com/track/4XXARhW0U9SKGQJcnYIDAC"
     },
     {
       "added_at": "2024-11-01 05:00:00",
@@ -555,22 +555,18 @@
     {
       "added_at": "2024-11-01 05:00:00",
       "album": {
-        "name": "The Kickflip",
-        "url": "https://open.spotify.com/album/7qeYu5SHMSBsNWMa2kdz30"
+        "name": "Warm Beers",
+        "url": "https://open.spotify.com/album/00L7SMZVEF6kj8QyLIe82E"
       },
       "artists": [
         {
-          "name": "Damn Skippy",
-          "url": "https://open.spotify.com/artist/2uVoa0d4dequ0RVIR77R1h"
-        },
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
         }
       ],
-      "duration_ms": 171105,
-      "name": "Beat the Bass up",
-      "url": "https://open.spotify.com/track/0VlL5Cr6q7c9vptbS8A5lB"
+      "duration_ms": 216067,
+      "name": "Warm Beers",
+      "url": "https://open.spotify.com/track/3sbdqZVzWv5amY4iQXqo8Y"
     },
     {
       "added_at": "2024-11-01 05:00:00",
@@ -591,18 +587,22 @@
     {
       "added_at": "2024-11-01 05:00:00",
       "album": {
-        "name": "Warm Beers",
-        "url": "https://open.spotify.com/album/1mIdRCx9KImyMAu2buKWX5"
+        "name": "The Kickflip",
+        "url": "https://open.spotify.com/album/7qeYu5SHMSBsNWMa2kdz30"
       },
       "artists": [
         {
-          "name": "ALEXSUCKS",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+          "name": "Damn Skippy",
+          "url": "https://open.spotify.com/artist/2uVoa0d4dequ0RVIR77R1h"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
         }
       ],
-      "duration_ms": 216067,
-      "name": "Warm Beers",
-      "url": "https://open.spotify.com/track/2TeZBRA9l5ueios4jpCbf6"
+      "duration_ms": 171105,
+      "name": "Beat the Bass up",
+      "url": "https://open.spotify.com/track/0VlL5Cr6q7c9vptbS8A5lB"
     },
     {
       "added_at": "2024-11-01 05:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-11-01 05:00:00",
       "album": {
+        "name": "La Llorona (Live)",
+        "url": "https://open.spotify.com/album/0LOyDx7OgxfIeg2EcQb8y8"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 384840,
+      "name": "La Llorona - Live",
+      "url": "https://open.spotify.com/track/3gaqCLLFkQor7HDgZ7uMns"
+    },
+    {
+      "added_at": "2024-11-01 05:00:00",
+      "album": {
         "name": "Recurring (Live At King's Place)",
         "url": "https://open.spotify.com/album/4G5Y3m4KL3OhS6CZyBLR9Y"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 320826,
       "name": "Decay",
       "url": "https://open.spotify.com/track/0ITNLAeEu0F0aZWTnFaTxd"
-    },
-    {
-      "added_at": "2024-11-01 05:00:00",
-      "album": {
-        "name": "The Essential Melody Gardot",
-        "url": "https://open.spotify.com/album/7wrIaVOzLdLi6kao638zAY"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 384827,
-      "name": "La Llorona - Live",
-      "url": "https://open.spotify.com/track/0yrzo7DTvSa21L2rGyafdT"
     },
     {
       "added_at": "2024-11-01 05:00:00",

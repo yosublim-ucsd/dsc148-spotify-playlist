@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Mujeres a todo volumen. \nFoto: Mariana Bfly.",
+  "description": "Mujeres a todo volumen. \nFoto: KUINA",
   "name": "EQUAL Chile",
   "tracks": [
     {
@@ -2713,6 +2713,28 @@
     },
     {
       "album": {
+        "name": "Caviar",
+        "url": "https://open.spotify.com/album/3h6q0WLbND9uWwQkia17s4"
+      },
+      "artists": [
+        {
+          "name": "Bby Lean",
+          "url": "https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157307,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/2C4gQxlBcMwquflohm94Xr"
+    },
+    {
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1"
       },
@@ -5089,6 +5111,28 @@
     },
     {
       "album": {
+        "name": "El Ultimo",
+        "url": "https://open.spotify.com/album/4nLe8Q4Hc6mCIJBpIDpS3z"
+      },
+      "artists": [
+        {
+          "name": "Bby Lean",
+          "url": "https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182388,
+      "name": "El Ultimo",
+      "url": "https://open.spotify.com/track/0EYdD1EU7sFUkZM85GTB6f"
+    },
+    {
+      "album": {
         "name": "Ella",
         "url": "https://open.spotify.com/album/5kOhw1gRVcgKYN3allQZW0"
       },
@@ -7171,6 +7215,24 @@
     },
     {
       "album": {
+        "name": "inmortal",
+        "url": "https://open.spotify.com/album/3VEKoNYDQgGUoQVADy6xuu"
+      },
+      "artists": [
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155601,
+      "name": "inmortal",
+      "url": "https://open.spotify.com/track/5fbWIu80QFDqcZV86kTnZj"
+    },
+    {
+      "album": {
         "name": "Universando",
         "url": "https://open.spotify.com/album/3StI1ax0T9EllHaRek7pzI"
       },
@@ -7443,6 +7505,28 @@
     },
     {
       "album": {
+        "name": "SOLO ESTOY JUGANDO MIXXXTAPE",
+        "url": "https://open.spotify.com/album/3Xp05lTrokyNhmksd0knNL"
+      },
+      "artists": [
+        {
+          "name": "KUINA",
+          "url": "https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb"
+        },
+        {
+          "name": "Viangogh",
+          "url": "https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134981,
+      "name": "KARTIER",
+      "url": "https://open.spotify.com/track/1tRdcf3UdVArra9G9rMDxH"
+    },
+    {
+      "album": {
         "name": "KATANA",
         "url": "https://open.spotify.com/album/5OOFz37iRTtEwoYYf2bMbg"
       },
@@ -7564,6 +7648,36 @@
       "duration_ms": 195000,
       "name": "Kintsugi",
       "url": "https://open.spotify.com/track/6wKI2NwASglOeCVimzdeD6"
+    },
+    {
+      "album": {
+        "name": "SOLO ESTOY JUGANDO MIXXXTAPE",
+        "url": "https://open.spotify.com/album/3Xp05lTrokyNhmksd0knNL"
+      },
+      "artists": [
+        {
+          "name": "KUINA",
+          "url": "https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb"
+        },
+        {
+          "name": "HELLOLOLA",
+          "url": "https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7"
+        },
+        {
+          "name": "Viangogh",
+          "url": "https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ"
+        },
+        {
+          "name": "Hielo",
+          "url": "https://open.spotify.com/artist/5VZOyRwZRgK3fC3sYRvuXh"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "KO\u00d1AK",
+      "url": "https://open.spotify.com/track/6TDoN7ziq3r6wb5ct4ZySr"
     },
     {
       "album": {
@@ -7788,6 +7902,24 @@
       "duration_ms": 189400,
       "name": "La isla de Lesbos",
       "url": "https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR"
+    },
+    {
+      "album": {
+        "name": "LA CLASSE",
+        "url": "https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT"
+      },
+      "artists": [
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180355,
+      "name": "LA JEFA",
+      "url": "https://open.spotify.com/track/4TMVyMhuxHa9rfCQkoiWI6"
     },
     {
       "album": {
@@ -12713,6 +12845,50 @@
     },
     {
       "album": {
+        "name": "epistolares",
+        "url": "https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110141,
+      "name": "POPPER!",
+      "url": "https://open.spotify.com/track/41P9Z83VHtkpVYfpmDlkAA"
+    },
+    {
+      "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/5s4MAZJmHwfEOjSuYNe7mM"
+      },
+      "artists": [
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/73wXBokdlBHMUchOdiphB3"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151071,
+      "name": "POPSTAR",
+      "url": "https://open.spotify.com/track/0stdxcz4SgxqQrrN2mV5Hp"
+    },
+    {
+      "album": {
         "name": "Abril",
         "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
       },
@@ -15520,7 +15696,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 196624,
       "name": "Te Fuiste",
       "url": "https://open.spotify.com/track/2Zdi36ph1ngwW5pCRjjz8u"
@@ -15596,7 +15772,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 184104,
       "name": "Te Solt\u00e9",
       "url": "https://open.spotify.com/track/1RrhDIIjSVrW2K2WpT3XOO"
@@ -17182,7 +17358,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 130045,
       "name": "waKe n baKe",
       "url": "https://open.spotify.com/track/7dGaP7TMfrMdq7tm7A2wqC"

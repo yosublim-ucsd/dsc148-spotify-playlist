@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: UZUM3 x Robin Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,062 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,073 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 7 | [Yamyam](https://open.spotify.com/track/0Kzs4G2FAyJ69XjklMfiVe) | [ARKADAŞ](https://open.spotify.com/artist/2acae8AE80hjsa8PICuc2V) | [Yamyam](https://open.spotify.com/album/4rbZssyBoPrXkxkKHIPNd7) | 2:12 |
 | 8 | [SORDUĞU KADAR](https://open.spotify.com/track/5iWII4xRXqnUwwsQdzBZ5A) | [Bîdar](https://open.spotify.com/artist/7jOk8UWLjN0boLFk0q9RgT) | [SORDUĞU KADAR](https://open.spotify.com/album/0dAKCAwONzVxKCuxqPYNgF) | 3:22 |
 | 9 | [Evdekiler](https://open.spotify.com/track/4ZiFyCXYRlkAQ5w6iitCgO) | [Selût](https://open.spotify.com/artist/1HqUargxLzVB1RdGcFYZJd) | [Evdekiler](https://open.spotify.com/album/7qQ8oJIcVEXHJ02iI0qoLT) | 4:29 |
-| 10 | [Darmadağın](https://open.spotify.com/track/4YgB3kORlmnbttL9D0eVDE) | [bilgeteker](https://open.spotify.com/artist/4rD6EbWSKCTd59j1B7U7MI) | [Darmadağın](https://open.spotify.com/album/7cEa03nbP6BS052HD2RiIJ) | 2:33 |
-| 11 | [Bakmadan Geriye](https://open.spotify.com/track/36Ca2HN3q2zI6BRIZFX5an) | [burak](https://open.spotify.com/artist/2SzwJY5oit9qle3c52A2jQ) | [Bakmadan Geriye](https://open.spotify.com/album/2O2U5cBSfnuHwm17NhOHbT) | 4:36 |
-| 12 | [Söyle](https://open.spotify.com/track/3GJtSiuMC5cGk2d3tYKPEy) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj) | [Söyle](https://open.spotify.com/album/3072jVrXZMpKPdHaNUyR3S) | 2:32 |
-| 13 | [Sarı Bülbül](https://open.spotify.com/track/1MDkKptboJuRViCpa0BGT0) | [İbrahim Sarıpınar](https://open.spotify.com/artist/36XOzpht2ZU5nXC77HodnG) | [Sarı Bülbül](https://open.spotify.com/album/0AZlNc6VDPvz9hvhSI6DSf) | 3:19 |
-| 14 | [dans ettim](https://open.spotify.com/track/0Z9kzPWEbQ7GsN20IDqTTt) | [dilan filiz](https://open.spotify.com/artist/6dXoGHRx8LtLORwftvlImh) | [dans ettim](https://open.spotify.com/album/4FjUgnAAyaiU7wGLMCQDMH) | 3:42 |
-| 15 | [Gece Bekçisi](https://open.spotify.com/track/2b4OhlFaWxKUUsHcu2tsVV) | [Hazar Altın](https://open.spotify.com/artist/63N38NNRbX8bafUq5SjVpQ) | [Gece Bekçisi](https://open.spotify.com/album/6KbmkibgplFcWjSNMRmKCy) | 3:22 |
-| 16 | [I Don’t Want To!](https://open.spotify.com/track/2XFcfeNnmjYxbKT0lT0cyh) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I Don’t Want To!](https://open.spotify.com/album/5WsRz6HtJrqC5g2IPxomv1) | 2:59 |
+| 10 | [I Don’t Want To!](https://open.spotify.com/track/2XFcfeNnmjYxbKT0lT0cyh) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I Don’t Want To!](https://open.spotify.com/album/5WsRz6HtJrqC5g2IPxomv1) | 2:59 |
+| 11 | [Darmadağın](https://open.spotify.com/track/4YgB3kORlmnbttL9D0eVDE) | [bilgeteker](https://open.spotify.com/artist/4rD6EbWSKCTd59j1B7U7MI) | [Darmadağın](https://open.spotify.com/album/7cEa03nbP6BS052HD2RiIJ) | 2:33 |
+| 12 | [Bakmadan Geriye](https://open.spotify.com/track/36Ca2HN3q2zI6BRIZFX5an) | [burak](https://open.spotify.com/artist/2SzwJY5oit9qle3c52A2jQ) | [Bakmadan Geriye](https://open.spotify.com/album/2O2U5cBSfnuHwm17NhOHbT) | 4:36 |
+| 13 | [Söyle](https://open.spotify.com/track/3GJtSiuMC5cGk2d3tYKPEy) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj) | [Söyle](https://open.spotify.com/album/3072jVrXZMpKPdHaNUyR3S) | 2:32 |
+| 14 | [Sarı Bülbül](https://open.spotify.com/track/1MDkKptboJuRViCpa0BGT0) | [İbrahim Sarıpınar](https://open.spotify.com/artist/36XOzpht2ZU5nXC77HodnG) | [Sarı Bülbül](https://open.spotify.com/album/0AZlNc6VDPvz9hvhSI6DSf) | 3:19 |
+| 15 | [dans ettim](https://open.spotify.com/track/0Z9kzPWEbQ7GsN20IDqTTt) | [dilan filiz](https://open.spotify.com/artist/6dXoGHRx8LtLORwftvlImh) | [dans ettim](https://open.spotify.com/album/4FjUgnAAyaiU7wGLMCQDMH) | 3:42 |
+| 16 | [Gece Bekçisi](https://open.spotify.com/track/2b4OhlFaWxKUUsHcu2tsVV) | [Hazar Altın](https://open.spotify.com/artist/63N38NNRbX8bafUq5SjVpQ) | [Gece Bekçisi](https://open.spotify.com/album/6KbmkibgplFcWjSNMRmKCy) | 3:22 |
 | 17 | [Tekinsiz](https://open.spotify.com/track/0Potnsl8fKIcc3lGzO38mb) | [Beliz](https://open.spotify.com/artist/12QL4EXEXsPTOVjXBc8BD4) | [Tekinsiz](https://open.spotify.com/album/522qB3COlzJzTsMBBKAKkI) | 2:41 |
 | 18 | [Bugün](https://open.spotify.com/track/3qUF7jLLJerSSPbIFWLo9n) | [Maç Fazlasıyla Lider](https://open.spotify.com/artist/4LE2UABkviK9ZZitwcQTD5) | [Bugün](https://open.spotify.com/album/1W0tyRrGzwK0EB7UCB3Adk) | 1:57 |
 | 19 | [Uzak Kaldım](https://open.spotify.com/track/6NTxZ9yGYefrW3INUO5pTy) | [Nabıcaz](https://open.spotify.com/artist/78k8fo1xwd4ec0telN59Lu) | [Uzak Kaldım](https://open.spotify.com/album/5sNWUuiXXkpZTHwvNsdfey) | 4:12 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 48 | [Kumdan Kale](https://open.spotify.com/track/3VPltfpSoEr4mRCdfQWwLS) | [Uçaksavar](https://open.spotify.com/artist/2qNb7jITPdb2TlMYNgEqF3), [Candaş Öztürk](https://open.spotify.com/artist/3h6Ajn47XzpHygEV31dhrn) | [Kumdan Kale](https://open.spotify.com/album/76nNZ7oKpSxDXVf9XsCTx2) | 4:02 |
 | 49 | [Duvarlar](https://open.spotify.com/track/4ASfk0oaG3A2NWsZNuf11n) | [Elif Işık](https://open.spotify.com/artist/7FB2UZiSTRXRHcgRRVnrti) | [Boşlukları Doldurun](https://open.spotify.com/album/3aYij959kgBNlsDYRl1x1h) | 3:10 |
 
-Snapshot ID: `Zync/wAAAABM5JHwV79BPhWWpcLPpPHl`
+Snapshot ID: `Zys8qwAAAAAjWuhC2xld4ftEsOPqpdrO`

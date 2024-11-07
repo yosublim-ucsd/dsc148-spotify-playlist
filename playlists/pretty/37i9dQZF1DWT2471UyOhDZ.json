@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Bon Iver",
-  "num_followers": 91071,
+  "num_followers": 91099,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "Bodies Laughing",
-        "url": "https://open.spotify.com/album/57MazNcT8V1wYpLB7lkMwH"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 297866,
-      "name": "Bodies Laughing",
-      "url": "https://open.spotify.com/track/3yEDXBjgKahj3mKHmyNHcf"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
         "name": "Docket (feat. Bully)",
         "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 210493,
       "name": "Docket (feat. Bully)",
       "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
+        "name": "Bodies Laughing",
+        "url": "https://open.spotify.com/album/57MazNcT8V1wYpLB7lkMwH"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 297866,
+      "name": "Bodies Laughing",
+      "url": "https://open.spotify.com/track/3yEDXBjgKahj3mKHmyNHcf"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
+        "name": "Waxwing",
+        "url": "https://open.spotify.com/album/49vsrHjBAKKFj6PMjwQu6h"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "duration_ms": 215369,
+      "name": "Waxwing",
+      "url": "https://open.spotify.com/track/4gGh7b3nKa4rlxyPLWcfTd"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
         "name": "The Silence That Remains",
         "url": "https://open.spotify.com/album/4hEx4JzgPX0DxMZ0OA5Y95"
       },
@@ -591,38 +607,6 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "Wall Of Eyes",
-        "url": "https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 314440,
-      "name": "Read The Room",
-      "url": "https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
-        "name": "Waxwing",
-        "url": "https://open.spotify.com/album/49vsrHjBAKKFj6PMjwQu6h"
-      },
-      "artists": [
-        {
-          "name": "Sorry",
-          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
-        }
-      ],
-      "duration_ms": 215369,
-      "name": "Waxwing",
-      "url": "https://open.spotify.com/track/4gGh7b3nKa4rlxyPLWcfTd"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 153266,
       "name": "Mood Swings - Spotify Singles",
       "url": "https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
+        "name": "Wall Of Eyes",
+        "url": "https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 314440,
+      "name": "Read The Room",
+      "url": "https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -735,38 +735,6 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "Long Dark Night",
-        "url": "https://open.spotify.com/album/692UfApwZN5hJ7rRIfcSde"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 213240,
-      "name": "Long Dark Night",
-      "url": "https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
-        "name": "Mountain out of a Molehill",
-        "url": "https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 205330,
-      "name": "Mountain out of a Molehill",
-      "url": "https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
         "name": "awe",
         "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
       },
@@ -799,6 +767,38 @@
       "duration_ms": 367954,
       "name": "Empty And Silent (feat. King Krule)",
       "url": "https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
+        "name": "Long Dark Night",
+        "url": "https://open.spotify.com/album/692UfApwZN5hJ7rRIfcSde"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 213240,
+      "name": "Long Dark Night",
+      "url": "https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
+        "name": "Mountain out of a Molehill",
+        "url": "https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 205330,
+      "name": "Mountain out of a Molehill",
+      "url": "https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "Shirt",
-        "url": "https://open.spotify.com/album/2Z3KozCg7LVVLSEE0yXUod"
-      },
-      "artists": [
-        {
-          "name": "Porches",
-          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
-        }
-      ],
-      "duration_ms": 161833,
-      "name": "Bread Believer",
-      "url": "https://open.spotify.com/track/3ZyMkTinkvEAfQhj1cSzDG"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
         "name": "Headliner",
         "url": "https://open.spotify.com/album/6JcCv9NZt9eqxPHtO9hnjl"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 192000,
       "name": "Headliner",
       "url": "https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
+        "name": "Shirt",
+        "url": "https://open.spotify.com/album/2Z3KozCg7LVVLSEE0yXUod"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "duration_ms": 161833,
+      "name": "Bread Believer",
+      "url": "https://open.spotify.com/track/3ZyMkTinkvEAfQhj1cSzDG"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "Black Poppies",
-        "url": "https://open.spotify.com/album/5fCUtI8PdXP8uzxMLURH2n"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Black Poppies",
-      "url": "https://open.spotify.com/track/3txBT43QunqzMHvsifpxrT"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
         "name": "Yummy",
         "url": "https://open.spotify.com/album/1r2lI54enVHBTHDdFS2DUY"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 258493,
       "name": "Way Over Your Head",
       "url": "https://open.spotify.com/track/0BrlNgoHkld65rRAosLY3h"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
+        "name": "Black Poppies",
+        "url": "https://open.spotify.com/album/5fCUtI8PdXP8uzxMLURH2n"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Black Poppies",
+      "url": "https://open.spotify.com/track/3txBT43QunqzMHvsifpxrT"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "July",
-        "url": "https://open.spotify.com/album/2UnzvLOwGcjqbIv5hajlvC"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "July",
-      "url": "https://open.spotify.com/track/4UE79bkqivVpD66r4ocJjN"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 233320,
       "name": "Grace",
       "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
+        "name": "July",
+        "url": "https://open.spotify.com/album/2UnzvLOwGcjqbIv5hajlvC"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "July",
+      "url": "https://open.spotify.com/track/4UE79bkqivVpD66r4ocJjN"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "Yummy",
-        "url": "https://open.spotify.com/album/1r2lI54enVHBTHDdFS2DUY"
-      },
-      "artists": [
-        {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/7bxjmDPRthE1WDyNlU6WH1"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
         "name": "Light Sleeper",
         "url": "https://open.spotify.com/album/4wmalPtenCERnePwFsCD99"
       },
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
+        "name": "Yummy",
+        "url": "https://open.spotify.com/album/1r2lI54enVHBTHDdFS2DUY"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/7bxjmDPRthE1WDyNlU6WH1"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
         "name": "I Wanna Live With You",
         "url": "https://open.spotify.com/album/7qAkVUXr3P9Cb1i9D6lR7L"
       },
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "God Of Everything Else",
-        "url": "https://open.spotify.com/album/0DR9Msk0sSnmxlVN52exYN"
-      },
-      "artists": [
-        {
-          "name": "Porridge Radio",
-          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "God Of Everything Else",
-      "url": "https://open.spotify.com/track/1FdNGkakDRkiySWwQMhn35"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
         "name": "Rumble Strip",
         "url": "https://open.spotify.com/album/0DCZGmIVHuc7p33ECSayvf"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 180240,
       "name": "Rumble Strip",
       "url": "https://open.spotify.com/track/1FSS2KFXMpXYmfWga8gDxZ"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
+        "name": "God Of Everything Else",
+        "url": "https://open.spotify.com/album/0DR9Msk0sSnmxlVN52exYN"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "God Of Everything Else",
+      "url": "https://open.spotify.com/track/1FdNGkakDRkiySWwQMhn35"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "QWERTY II",
-        "url": "https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO"
-      },
-      "artists": [
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 289760,
-      "name": "2 2 BOOTLEG",
-      "url": "https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
         "name": "Floating On A Moment",
         "url": "https://open.spotify.com/album/6WnQZyGXl3oKTsWmRLMqgY"
       },
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "66",
-        "url": "https://open.spotify.com/album/1Mjh8aa3oKEaDO9U1uwhEp"
+        "name": "QWERTY II",
+        "url": "https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO"
       },
       "artists": [
         {
-          "name": "Paul Weller",
-          "url": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
         }
       ],
-      "duration_ms": 281819,
-      "name": "Flying Fish",
-      "url": "https://open.spotify.com/track/20UXHfP8HY1Wau8l2cEP9E"
+      "duration_ms": 289760,
+      "name": "2 2 BOOTLEG",
+      "url": "https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
+        "name": "66",
+        "url": "https://open.spotify.com/album/1Mjh8aa3oKEaDO9U1uwhEp"
+      },
+      "artists": [
+        {
+          "name": "Paul Weller",
+          "url": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+        }
+      ],
+      "duration_ms": 281819,
+      "name": "Flying Fish",
+      "url": "https://open.spotify.com/track/20UXHfP8HY1Wau8l2cEP9E"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
         "name": "When You Gonna Tell 'Em the Truth, Aaron?",
         "url": "https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba"
       },
@@ -1535,22 +1535,6 @@
       "duration_ms": 233513,
       "name": "Feral Guest",
       "url": "https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
-        "name": "Real Power",
-        "url": "https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 175117,
-      "name": "Give It Up For Love",
-      "url": "https://open.spotify.com/track/2L5fTA7BBgL70AjMYq0sfI"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "Brown Paper Bag",
-        "url": "https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY"
+        "name": "Real Power",
+        "url": "https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
         }
       ],
-      "duration_ms": 265000,
-      "name": "Brown Paper Bag",
-      "url": "https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu"
+      "duration_ms": 175117,
+      "name": "Give It Up For Love",
+      "url": "https://open.spotify.com/track/2L5fTA7BBgL70AjMYq0sfI"
     },
     {
       "added_at": "2024-10-17 23:36:56",
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
+        "name": "Brown Paper Bag",
+        "url": "https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Brown Paper Bag",
+      "url": "https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
         "name": "Flea",
         "url": "https://open.spotify.com/album/74lpr1ZRBpTMV7dU5qyjTN"
       },
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-10-17 23:36:56",
       "album": {
-        "name": "Bells and Whistles",
-        "url": "https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Bells and Whistles",
-      "url": "https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb"
-    },
-    {
-      "added_at": "2024-10-17 23:36:56",
-      "album": {
         "name": "Gears",
         "url": "https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 155874,
       "name": "Gears",
       "url": "https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky"
+    },
+    {
+      "added_at": "2024-10-17 23:36:56",
+      "album": {
+        "name": "Bells and Whistles",
+        "url": "https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Bells and Whistles",
+      "url": "https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb"
     }
   ],
   "unique_name": "The Listening Post",

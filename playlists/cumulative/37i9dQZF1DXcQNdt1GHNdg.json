@@ -537,6 +537,32 @@
     },
     {
       "album": {
+        "name": "COOLIN",
+        "url": "https://open.spotify.com/album/1MBMMMWRVog86eyr248GlH"
+      },
+      "artists": [
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        },
+        {
+          "name": "Jazzy B",
+          "url": "https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY"
+        },
+        {
+          "name": "Inderpal Moga",
+          "url": "https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "COOLIN",
+      "url": "https://open.spotify.com/track/4JtT28isAsPL7sznEbybpO"
+    },
+    {
+      "album": {
         "name": "Court",
         "url": "https://open.spotify.com/album/1sWveBnE9UEJXH3rlFqulY"
       },
@@ -948,7 +974,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 168000,
       "name": "Gangland",
       "url": "https://open.spotify.com/track/4UY2GSXlMHfrfvPbBdlRDv"
@@ -2106,7 +2132,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 171911,
       "name": "Sher Hood",
       "url": "https://open.spotify.com/track/3KEO9vGYipfIVHN6IPF2UX"
@@ -2472,6 +2498,32 @@
       "duration_ms": 227441,
       "name": "Winning Speech",
       "url": "https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/0zlxA5zhujNqOVerHKI9zN"
+      },
+      "artists": [
+        {
+          "name": "Ali Brothers",
+          "url": "https://open.spotify.com/artist/7j4bvaxcXA4ShJitAHfuBt"
+        },
+        {
+          "name": "Kartik Dev",
+          "url": "https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz"
+        },
+        {
+          "name": "Shah Ali",
+          "url": "https://open.spotify.com/artist/1akQWAZNKrFJWxqVQDiTa4"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207375,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6WAe9XRAVyTzPjIAi6mQin"
     },
     {
       "album": {

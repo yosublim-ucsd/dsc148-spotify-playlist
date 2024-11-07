@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-764 songs - 1 day 5 hr 52 min
+767 songs - 1 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Makes me smile](https://open.spotify.com/track/2zrVLM8J5exaoXrrKmRQWy) | [Jerrick Lamar](https://open.spotify.com/artist/2xhhQBn6RvsBDYNwON3bN5) | [You Can´t See](https://open.spotify.com/album/6jTus5QZtP1MjvsChDmtBJ) | 1:38 | 2023-01-13 | 2023-12-22 |
 | [Malibu Beach](https://open.spotify.com/track/1ArKZD80jzua2wUN4s2x9k) | [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ), [Aerow](https://open.spotify.com/artist/5BiHAcaswpfTQ4CQLQnGI5) | [Malibu Beach](https://open.spotify.com/album/4Lebroomej0ECH0FE4dmTD) | 2:02 | 2023-01-13 | 2023-09-22 |
 | [manuela](https://open.spotify.com/track/2qOe8xGW1mKROLBK0o4kuR) | [Nazaha](https://open.spotify.com/artist/2sLHWzSi6dSE8C5GdHwNtD) | [manuela](https://open.spotify.com/album/0SjtFUWaYgXwgqeSBk47C6) | 1:50 | 2023-01-13 |  |
+| [Marigold Twilight](https://open.spotify.com/track/6tzPfwVpTMwZqnDGLAkQeJ) | [botanical alchemy](https://open.spotify.com/artist/66f4PoIR3xXkcFuciZNBdv) | [Marigold Twilight](https://open.spotify.com/album/64rnnkfH3t2rROJCc0UMd5) | 2:05 | 2024-11-06 |  |
 | [maseru](https://open.spotify.com/track/1OqjCvgq2huHFm5YuL6A8G) | [haki donzo](https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b) | [maseru](https://open.spotify.com/album/15h3ZjC8ZpBiDyWuJGap7f) | 1:53 | 2023-01-13 |  |
 | [Maybe Tomorrow](https://open.spotify.com/track/0m5yHDR4kne7o4ncHfaqKi) | [downstreamdream](https://open.spotify.com/artist/3C1jiA2XGYEbXdJtAUpmVO) | [Maybe Tomorrow](https://open.spotify.com/album/18fua0f7BAgN0WbqBHAZxn) | 2:34 | 2023-01-13 |  |
 | [measure](https://open.spotify.com/track/6Xgh67TMWtXrKfeAVSDYBA) | [Mo Rana](https://open.spotify.com/artist/5ZQEuLlGt1sfPoZIqFyKG9) | [measure](https://open.spotify.com/album/0gQG0fIyasBTSdPCC9yQuO) | 2:27 | 2023-01-13 |  |
@@ -418,6 +419,7 @@
 | [Mixed Feelings](https://open.spotify.com/track/79RFM7SALr0Sv1qEd3iLBv) | [ZeDe](https://open.spotify.com/artist/0xtxiEdr8VEnERqcadfVNK) | [Mixed Feelings](https://open.spotify.com/album/5NxHvza5X6H8pjspvXliUP) | 2:30 | 2023-01-13 | 2023-09-29 |
 | [miyu](https://open.spotify.com/track/5Manub8VP5SyKpJ9kcKSTD) | [yudaii](https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv) | [ambassing](https://open.spotify.com/album/7dTO5q5UVSUOZh7YKwCWvC) | 2:14 | 2023-01-13 |  |
 | [monica](https://open.spotify.com/track/70LVWyb9Z0oJrlPtYekQ48) | [Joongle](https://open.spotify.com/artist/5NChOzODHzPYNB4iho8Zcy) | [monica](https://open.spotify.com/album/4KOzxqeAafQ5lcJvrUMreY) | 2:00 | 2023-01-13 |  |
+| [Monterey Bay](https://open.spotify.com/track/7LRNS0jnlKe7zdoepaNzWN) | [SASAF](https://open.spotify.com/artist/3mL9nuRLzQ6GNwrrPIxShl) | [Monterey Bay](https://open.spotify.com/album/57vSb76XNC1q9f9v4tL3lM) | 3:20 | 2024-11-06 |  |
 | [Moonglow](https://open.spotify.com/track/6LAxJILLYSDk45IUYTkSXM) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Moonglow](https://open.spotify.com/album/71WcpzKpM2YSaHj7s8aLhP) | 2:51 | 2023-01-13 | 2023-09-16 |
 | [Moonlight](https://open.spotify.com/track/5NdhJ6vW2AUhMWkG5RMbSG) | [Beatriction](https://open.spotify.com/artist/4SSr3iApVhqgPLhIKOjrRs) | [Moonlight](https://open.spotify.com/album/38tPvujZYCar88fM5CVhqi) | 2:14 | 2024-07-26 |  |
 | [Moonlight Kite](https://open.spotify.com/track/0s1qfJj2RT5O5FKXYWpcKu) | [Bnjo](https://open.spotify.com/artist/2ypA9JtiknHFRxTq1X36ry) | [Low Gear](https://open.spotify.com/album/37c24i7QFE72G8Aj1g1hWK) | 2:37 | 2023-01-13 |  |
@@ -673,6 +675,7 @@
 | [The Return](https://open.spotify.com/track/6plHV3oQN20BmAracIOUe5) | [Nishimura Blaze](https://open.spotify.com/artist/0UkVabqymwYoKqA9FtrTYa) | [The Return](https://open.spotify.com/album/7iR2WVooAnVND6Ho31wMxa) | 2:36 | 2024-02-09 |  |
 | [The Understudy](https://open.spotify.com/track/7GmbbEqIR30e3kUYNh23m8) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [The Understudy](https://open.spotify.com/album/0guZjSwqWuFMigag0dK7Zw) | 2:14 | 2023-01-13 | 2023-10-20 |
 | [Their Name Is Jazz](https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Their Name Is Jazz](https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj) | 2:15 | 2023-09-29 |  |
+| [Third Floor](https://open.spotify.com/track/2PHMWIqayTpFu9wyejvKrj) | [Choftus Leek](https://open.spotify.com/artist/5oc0NyRrTn4F7cVJg1rTdl) | [Third Floor](https://open.spotify.com/album/6gnK05Fsh3NvLmXgz4jiV7) | 2:28 | 2024-11-06 |  |
 | [Thoughts](https://open.spotify.com/track/5A9BhOGp4Xz71QwcXRpef3) | [anbuu](https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q) | [Thoughts](https://open.spotify.com/album/5RwYUk1Uh68n1DkauBHmQf) | 2:54 | 2023-01-13 |  |
 | [Thoughts](https://open.spotify.com/track/09RjwDBWL5eM9LI2VVzcKn) | [Touri Fjell](https://open.spotify.com/artist/6WjVgq5WhsDumuVhwfKf5I) | [Thoughts](https://open.spotify.com/album/0uJfLdYRrEz5FSeyyNulr9) | 3:10 | 2023-01-13 |  |
 | [Three Day Weekend](https://open.spotify.com/track/159XOtjNNlAxaEJthLQpiB) | [Dippie Moon](https://open.spotify.com/artist/5c764NOMWRwarAlKX2Dd8L) | [Three Day Weekend](https://open.spotify.com/album/5xHb6NKdKBLJobMavx7IjV) | 2:30 | 2024-06-21 |  |

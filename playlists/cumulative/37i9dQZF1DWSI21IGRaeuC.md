@@ -2,9 +2,9 @@
 
 ### [Minimal Tech](https://open.spotify.com/playlist/37i9dQZF1DWSI21IGRaeuC)
 
-> Dive into the deep end of the tech house spectrum.
+> Dive into the deep & minimal end of the tech house spectrum 🕊️🕊️ with Michael Bibi
 
-416 songs - 1 day 9 hr 35 min
+417 songs - 1 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Downstream](https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Downstream](https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z) | 2:55 | 2023-08-25 |  |
 | [Dusty Showbiz](https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Dusty Showbiz](https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb) | 2:58 | 2023-08-04 | 2024-08-24 |
 | [Dynasty](https://open.spotify.com/track/21ybzGn5sHmDl72e5nTmgF) | [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Dynasty](https://open.spotify.com/album/2SWeo6mxvuaZ1AYMxXkapY) | 6:36 | 2023-11-24 |  |
-| [Electrowise](https://open.spotify.com/track/3uQXBZtZqMmglZ9Txe52aK) | [Jesse Maas](https://open.spotify.com/artist/2eprK9dqUOpKRzI18r7e8G) | [Electrowise](https://open.spotify.com/album/6CKbxFs4VoTe1htqCpndrL) | 2:56 | 2024-08-30 |  |
+| [Electrowise](https://open.spotify.com/track/3uQXBZtZqMmglZ9Txe52aK) | [Jesse Maas](https://open.spotify.com/artist/2eprK9dqUOpKRzI18r7e8G) | [Electrowise](https://open.spotify.com/album/6CKbxFs4VoTe1htqCpndrL) | 2:56 | 2024-08-30 | 2024-11-07 |
 | [Encoding](https://open.spotify.com/track/2fnS9uEeunmh1NwlkmSGqb) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu) | [Encoding EP](https://open.spotify.com/album/7m526KE380DYpcaItIMVad) | 6:03 | 2022-06-03 | 2022-07-29 |
 | [Energy](https://open.spotify.com/track/3h2DNWJn3GLNVhBQKpgxpK) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [YM006](https://open.spotify.com/album/0UtLUMq1i1r8nwbYNTkO3V) | 6:31 | 2022-06-03 | 2022-07-22 |
 | [Energy Cycle \- Original Mix](https://open.spotify.com/track/1HXgcCM0nzG8PVA2frKZC7) | [Funk Cartel](https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0) | [Energy Cycle EP](https://open.spotify.com/album/2g69nxboMvYo8zUmotb8dz) | 6:33 | 2024-10-18 |  |
@@ -138,6 +138,7 @@
 | [Get Ur Freak On](https://open.spotify.com/track/6FSY2EEtEfW8Xj95dqw3UC) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Freak With Us](https://open.spotify.com/album/5C6ite2nuxQ3FSKc161KAa) | 3:17 | 2022-09-16 | 2022-11-12 |
 | [Ghetto](https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI) | [Ghetto EP](https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev) | 3:34 | 2024-04-19 |  |
 | [GLORY](https://open.spotify.com/track/46Rcl7WOEmG46wTSU02w0X) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [GLORY](https://open.spotify.com/album/643cjCm4avt06CjUam9HGK) | 3:11 | 2024-08-12 |  |
+| [Go](https://open.spotify.com/track/1EFyjeVs4hetSVMc28Y9r6) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Go](https://open.spotify.com/album/4Zzp3MGr2M5rMF1oDxZ8mz) | 3:16 | 2024-11-06 |  |
 | [Go Deeper](https://open.spotify.com/track/3HSWzairvuzDBC0A6dEDXR) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Go Deeper EP](https://open.spotify.com/album/0G7HUh5d6DtrvmiJRw8mFo) | 3:22 | 2024-09-30 |  |
 | [Go Go](https://open.spotify.com/track/4RAlMHBv3VGJBxRczuIpQz) | [Yerik US](https://open.spotify.com/artist/1X7Dv6dJHi9FAlsLEhwok8) | [Under One Roof, Vol\. 1](https://open.spotify.com/album/5lCxH9j5oZovPEzHJxiJ5L) | 5:47 | 2024-06-17 |  |
 | [Go To Sleep](https://open.spotify.com/track/1hgRPboYDiw2HYC4BOmuGp) | [Alexander Aurel](https://open.spotify.com/artist/6IISWtCeUiNuQ7jnsknnGF) | [Fall in Love EP](https://open.spotify.com/album/2h67Mn5VvLUWVNQnkUcTXg) | 6:25 | 2022-06-03 | 2022-06-12 |

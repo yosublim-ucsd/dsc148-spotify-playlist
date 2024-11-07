@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di  Kid Yugi, Tredici Pietro, Don Joe e tanti altri! 🔥
 
-4,372 songs - 8 day 4 hr 16 min
+4,373 songs - 8 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3711,6 +3711,7 @@
 | [SOS](https://open.spotify.com/track/5WOpY1zsEVZHJMHTftuIzw) | [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [SOS](https://open.spotify.com/album/28KZcEMzj3R0f0jSmuO6Bc) | 2:27 | 2022-11-10 | 2022-11-26 |
 | [SOS \(feat\. Don Pero\)](https://open.spotify.com/track/60ioEgP8cdoC5OrxlKAjn5) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [SOS \(feat\. Don Pero\)](https://open.spotify.com/album/6ua3Ey0s26gMEu3lQ7lssD) | 2:53 | 2024-06-06 | 2024-06-28 |
 | [SOS BOYZ FREESTYLE](https://open.spotify.com/track/4GgqhM3m8vGOmqABkn2uBk) | [SixOneSix](https://open.spotify.com/artist/5QK6u3vdOJBt4hJjJoYCLd), [Young AM](https://open.spotify.com/artist/2upvuqOIxuRf1vq9KsojFJ) | [SOS BOYZ FREESTYLE](https://open.spotify.com/album/6L26tJBcDsUct1wqUxDbsH) | 2:13 | 2022-09-29 | 2022-10-14 |
+| [Sostanza \(feat\. Kilimoney\)](https://open.spotify.com/track/7cJATSQkjhY0EyHRCsy2Kz) | [Kero](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6), [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG) | [Sostanza \(feat\. Kilimoney\)](https://open.spotify.com/album/39yaroIzHnNUicxTnbFWcp) | 2:20 | 2024-11-01 |  |
 | [SOTT 'A LUNA \(con O'Tsunami\) \- Quedate Remix](https://open.spotify.com/track/54YVK9O8TRnj9nYaXexkWA) | [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [SOTT 'A LUNA \(con O'Tsunami\) \[Quedate Remix\]](https://open.spotify.com/album/1DgDfGDwjWMoiPqpscUSpo) | 3:23 | 2022-12-01 | 2023-01-13 |
 | [SOTT'ACQUA](https://open.spotify.com/track/5BQGrDpLBugAipX6GSKO8X) | [Ga](https://open.spotify.com/artist/6luz0TrzyU4La1oSQhoxAj) | [SOTT'ACQUA](https://open.spotify.com/album/0dPGoLIBsYvAQwKVvvgYsW) | 2:28 | 2023-08-31 | 2023-09-15 |
 | [Sotto la mole](https://open.spotify.com/track/4Q9dh5PMY7SlDNnqCdIoro) | [CHA CHA](https://open.spotify.com/artist/1WAaVzkzuU1InRBcl5KGOi), [Angelino Panebianco](https://open.spotify.com/artist/0kDxfqbKHIyyCe1XhEiGaW), [BR1](https://open.spotify.com/artist/1qdRRr53OI85dJznzTaFWp) | [Sotto la mole](https://open.spotify.com/album/7scd1MdLXdRanvlBp1NQru) | 3:12 | 2022-09-22 | 2022-10-07 |

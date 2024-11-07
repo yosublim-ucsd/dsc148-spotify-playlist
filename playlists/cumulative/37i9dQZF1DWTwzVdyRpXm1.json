@@ -3931,6 +3931,32 @@
     },
     {
       "album": {
+        "name": "Jugni (Maati S1)",
+        "url": "https://open.spotify.com/album/0uu5wDJSQZuBBVjXq7n5TN"
+      },
+      "artists": [
+        {
+          "name": "Achint",
+          "url": "https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Varun Grover",
+          "url": "https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198666,
+      "name": "Jugni - Maati S1",
+      "url": "https://open.spotify.com/track/4z0sG2o5tIfZYRVc7oYoR1"
+    },
+    {
+      "album": {
         "name": "Jugnu",
         "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
       },

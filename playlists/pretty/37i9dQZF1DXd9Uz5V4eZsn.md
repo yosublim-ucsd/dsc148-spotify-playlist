@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9Uz5V4eZsn.md) - [plain]
 
 > Ambient Indian sounds for your daily Yoga practise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,547 likes - 60 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,557 likes - 60 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9Uz5V4eZsn.md) - [plain]
 | 56 | [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/2SxQ32cI3A8XBH4535QnwJ) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/5IZZ9OprXmK2qYkMm11QnB) | 5:59 |
 | 57 | [Heaven](https://open.spotify.com/track/2aNISqHFs3s2JXf2b6buIb) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Vira](https://open.spotify.com/album/25FqK9OvigzpudKNfrRkZO) | 5:28 |
 | 58 | [OM CHANTS](https://open.spotify.com/track/4M0HVS8WwKyPlEgLUJZ8wU) | [Rajkumar Bharathi](https://open.spotify.com/artist/7qmDhVWCrIHIvIAo7b7KTa) | [DIVINE CHANTS](https://open.spotify.com/album/5BYvQ5dsJXnSBpTnoGldOf) | 5:10 |
-| 59 | [Surrender To The Supreme](https://open.spotify.com/track/6thuYcDe02vdRQIIuY4g3g) | [Vamanan](https://open.spotify.com/artist/50D5QNIcqU50fStd2PrZ7y) | [Meditation Music](https://open.spotify.com/album/4XUESTVzfg5sEj7DjPCuZL) | 17:22 |
+| 59 | [Surrender to the Supreme](https://open.spotify.com/track/6thuYcDe02vdRQIIuY4g3g) | [Vamanan](https://open.spotify.com/artist/50D5QNIcqU50fStd2PrZ7y) | [Meditation Music](https://open.spotify.com/album/4XUESTVzfg5sEj7DjPCuZL) | 17:22 |
 | 60 | [Earth in Space](https://open.spotify.com/track/3d4lrPfdFxvtONXc0fbRec) | [Raajeev V Bhalla](https://open.spotify.com/artist/3M3uBX6WMgpjbX3Z8mPMax) | [Healing \(Vol 1\)](https://open.spotify.com/album/49vsK5SdsNgFzg73orXx7Z) | 10:17 |
 
 Snapshot ID: `ZxNM2gAAAABJI+2CkI5hDSUO60OlIseI`

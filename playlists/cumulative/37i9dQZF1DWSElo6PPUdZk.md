@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
 
-138 songs - 7 hr 9 min
+139 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [License](https://open.spotify.com/track/0sZMzHirZ6Iw4Zpg7K67nX) | [Barbie Maan](https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [License](https://open.spotify.com/album/0yDxXtnTfsajw6L4idWi4Q) | 2:34 | 2023-09-15 | 2024-10-24 |
 | [Life](https://open.spotify.com/track/2W1iYW6m4hW9EOApubE9Tf) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Life](https://open.spotify.com/album/6ezeADqN6YlvTaG5w5Cmv5) | 3:18 | 2023-03-18 | 2024-09-04 |
 | [Like Me](https://open.spotify.com/track/2K1Drq6wbuLJ994USxQBFt) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [5 Diamonds](https://open.spotify.com/album/3nULLU4gQASy6xcbCnoTrh) | 2:58 | 2024-01-30 | 2024-10-04 |
-| [Limitless Pyar \- Live](https://open.spotify.com/track/1EIRP3SLryo1HoDhdHUsnn) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [KAURA \(Live\)](https://open.spotify.com/album/3UkkmmklJZzgDr4tRcMQhP) | 3:42 | 2024-10-21 |  |
+| [Limitless Pyar \- Live](https://open.spotify.com/track/1EIRP3SLryo1HoDhdHUsnn) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [KAURA \(Live\)](https://open.spotify.com/album/3UkkmmklJZzgDr4tRcMQhP) | 3:42 | 2024-10-21 | 2024-11-07 |
 | [Main Bandey](https://open.spotify.com/track/1GgQk7wSLTalLVZfivdiHo) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Main Bandey](https://open.spotify.com/album/1gjsHHeXtPmFg55MwzONLV) | 2:17 | 2024-04-24 | 2024-05-10 |
 | [Main Tenu](https://open.spotify.com/track/6my9ChoBE2Ozs6oVerPzbX) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Main Tenu](https://open.spotify.com/album/4NlsZkgeJsvykk2EhCv3ko) | 2:31 | 2023-10-03 | 2024-10-09 |
 | [Main Teri Hoyi](https://open.spotify.com/track/3ZUzmgQmdAgdiCbVSotcsO) | [Amaan Bhullar](https://open.spotify.com/artist/3k6eT2Sr5ov9qiwZZ7i9wK) | [Main Teri Hoyi](https://open.spotify.com/album/4t3wYh3M30mRw48ZFYYqPj) | 3:16 | 2024-09-11 |  |
@@ -100,6 +100,7 @@
 | [Motti Motti Akh](https://open.spotify.com/track/0v3H1kONrK6OKwE1elBYhZ) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Motti Motti Akh](https://open.spotify.com/album/54Ae2VjBhWonYo029f32Rb) | 4:31 | 2023-03-18 |  |
 | [Munda Karke +2 Aaya](https://open.spotify.com/track/483jHkv9kpwujhk9ZHBxlH) | [Sofia Inder](https://open.spotify.com/artist/04T6LAjLQUxF7JCqclfr5F), [Asmeet Sehra](https://open.spotify.com/artist/2lgc3rdVbTxyM5x4NhCXUs), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Munda Karke +2 Aaya](https://open.spotify.com/album/5gy6Gqn41X7wT7MysEocHl) | 2:47 | 2023-10-03 | 2023-10-10 |
 | [Na Na Na](https://open.spotify.com/track/6BXzT27RykmZwNSXDffi7j) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd) | [Na Na Na](https://open.spotify.com/album/1uVZpHsFhGt48a5b8awBPm) | 2:59 | 2023-03-18 | 2023-10-10 |
+| [Naal Naal](https://open.spotify.com/track/5oS0I3HkOPsr39H4JEEvGh) | [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc), [Preet Ahluwalia](https://open.spotify.com/artist/1TKw4lrjy1H3kIS6Tkmm5Q), [Real Sach](https://open.spotify.com/artist/3SaiIyh09WpsbDlMFPz3ix) | [Naal Naal](https://open.spotify.com/album/4iEbTYxyRl0hlRvs9TkoMl) | 2:53 | 2024-11-06 |  |
 | [Nakhro](https://open.spotify.com/track/1dEEx1rJw08XcH9nbWs35B) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:26 | 2024-10-10 | 2024-10-19 |
 | [Nattiyaan](https://open.spotify.com/track/1oEczJPtEiZb1RfJDDdZ16) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Kavvy Riyaaz](https://open.spotify.com/artist/4NQtFuGJoyFup7YPfqOInx), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Nattiyaan](https://open.spotify.com/album/1uohMZNC2AJ0AsjHyKbB7w) | 3:30 | 2024-09-28 |  |
 | [Nepal](https://open.spotify.com/track/2S371A2FhkVALcLr8uMRMv) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Mankirt Aulakh Vol\. 1](https://open.spotify.com/album/1LzjSBsrxFGlhHTjvTNtP8) | 3:26 | 2024-10-18 |  |

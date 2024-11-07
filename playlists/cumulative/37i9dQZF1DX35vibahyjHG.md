@@ -2,7 +2,7 @@
 
 ### [EQUAL Africa](https://open.spotify.com/playlist/37i9dQZF1DX35vibahyjHG)
 
-> Listen to African women at full volume\. Cover: <a href="https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx?si=GxrsgSuqTnKk7kjUlnUu3Q"> Elaine</a>
+> Listen to African women at full volume\. Cover: <a href="https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG?si=BCNhu4HEQr\-t2n0APnMH\-Q"> Fave</a>
 
 395 songs - 22 hr 11 min
 

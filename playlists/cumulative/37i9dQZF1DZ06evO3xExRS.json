@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 196813,
       "name": "Amos del Piano Bar (feat. Hombres G)",
       "url": "https://open.spotify.com/track/68xGtXidF9kdGOoKc5R4yd"
@@ -225,7 +225,7 @@
         },
         {
           "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+          "url": "https://open.spotify.com/artist/1rzCNvoVbMC1MKU21rqtGS"
         },
         {
           "name": "Funzo & Baby Loud",
@@ -270,7 +270,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 238479,
       "name": "Dos imanes",
       "url": "https://open.spotify.com/track/3mm5ug2SRIATyOG0ea0PXt"
@@ -1161,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "La Cagaste... Burt Lancaster",
+        "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225080,
+      "name": "Te quiero",
+      "url": "https://open.spotify.com/track/5ULNuAoAozLAc721tRcPbX"
+    },
+    {
+      "album": {
         "name": "Las baladas (Los singles vol II)",
         "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
       },
@@ -1172,7 +1190,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 225080,
       "name": "Te quiero",
       "url": "https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ"

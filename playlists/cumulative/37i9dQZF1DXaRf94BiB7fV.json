@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Arya Salvi, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Queendom, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -3421,6 +3421,32 @@
     },
     {
       "album": {
+        "name": "Blush Karenge",
+        "url": "https://open.spotify.com/album/7ct9TceZZ0sLQ7nqaCqGK6"
+      },
+      "artists": [
+        {
+          "name": "Ruchika Chauhan",
+          "url": "https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1"
+        },
+        {
+          "name": "Yash Chauhan",
+          "url": "https://open.spotify.com/artist/7u4CRpjxYWF5YySi6vNmlm"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163754,
+      "name": "Blush Karenge",
+      "url": "https://open.spotify.com/track/6ojxeNEVcbxpXQDHQZagU1"
+    },
+    {
+      "album": {
         "name": "Boat Song",
         "url": "https://open.spotify.com/album/674ch2duXkPku8gPHxcLP3"
       },
@@ -5318,7 +5344,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 244440,
       "name": "Dheere",
       "url": "https://open.spotify.com/track/3LQTxhCQUNGhlpUpXYmgwE"
@@ -8433,6 +8459,24 @@
     },
     {
       "album": {
+        "name": "Hair on my legs",
+        "url": "https://open.spotify.com/album/0pc3Bg9h88hPNVuPUlmd16"
+      },
+      "artists": [
+        {
+          "name": "Tshering Bhutia",
+          "url": "https://open.spotify.com/artist/0BMwQ0gDO34K4Rouv5YwhF"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175579,
+      "name": "Hair on my legs",
+      "url": "https://open.spotify.com/track/5qjQfqecOCAwtX3JjIHRuQ"
+    },
+    {
+      "album": {
         "name": "halo in the dark.",
         "url": "https://open.spotify.com/album/29Jyi7q0DmmSJdFKQWqjcM"
       },
@@ -8574,7 +8618,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 154028,
       "name": "Hasina",
       "url": "https://open.spotify.com/track/2yT0VSSsGRGxyEkTODHsUu"
@@ -8844,7 +8888,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 258005,
       "name": "Here",
       "url": "https://open.spotify.com/track/0gk28BM7PkNoR33i2pM1PE"
@@ -9486,6 +9530,24 @@
       "duration_ms": 255131,
       "name": "I Believe In You",
       "url": "https://open.spotify.com/track/5sz7xhu6LxJnRjomGlosZb"
+    },
+    {
+      "album": {
+        "name": "I Can Fly",
+        "url": "https://open.spotify.com/album/1bbCLQQ9EyB8SGyMTH75mK"
+      },
+      "artists": [
+        {
+          "name": "All The Fat Children",
+          "url": "https://open.spotify.com/artist/4JhgzR1LNZYJSXje04ZEjc"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168646,
+      "name": "I Can Fly",
+      "url": "https://open.spotify.com/track/7jmAETGAzj8OTejKWLaqrX"
     },
     {
       "album": {
@@ -10824,7 +10886,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 218255,
       "name": "Jab Bhi Tum Aati Hoo",
       "url": "https://open.spotify.com/track/2P0TRfPol7rjE48d1WWF2h"
@@ -11246,7 +11308,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 181301,
       "name": "Jee Nahi Lagta",
       "url": "https://open.spotify.com/track/2EzpFcprNqwtuylhKMblwK"
@@ -13210,6 +13272,24 @@
       "duration_ms": 207960,
       "name": "Khota Pyaar",
       "url": "https://open.spotify.com/track/4QVAmvwc4vuTlstTFoNUEa"
+    },
+    {
+      "album": {
+        "name": "Khoya",
+        "url": "https://open.spotify.com/album/2WiWp5jnZd9ToQvNoq6I7F"
+      },
+      "artists": [
+        {
+          "name": "Sayan",
+          "url": "https://open.spotify.com/artist/6yTGw1Qepa2RxjuirRfbza"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Khoya",
+      "url": "https://open.spotify.com/track/0xnRFkue4dSRDZvZRTqSex"
     },
     {
       "album": {
@@ -17637,6 +17717,32 @@
     },
     {
       "album": {
+        "name": "Narazgi",
+        "url": "https://open.spotify.com/album/0JMtuM3Py8jkaP5Qk9MYKi"
+      },
+      "artists": [
+        {
+          "name": "Rajkumar Sengupta",
+          "url": "https://open.spotify.com/artist/12jDUpZDK4iBcZPdYPZtqM"
+        },
+        {
+          "name": "Amarabha Banerjee",
+          "url": "https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw"
+        },
+        {
+          "name": "Saswata Ray",
+          "url": "https://open.spotify.com/artist/7MRH5ZNOttis0Fna2tWHJq"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199314,
+      "name": "Narazgi",
+      "url": "https://open.spotify.com/track/3qE6eTsDfBEOTSoUzDE3NE"
+    },
+    {
+      "album": {
         "name": "Nargis",
         "url": "https://open.spotify.com/album/2eP2Yv4L3mtb3mdmPFbp9B"
       },
@@ -19153,6 +19259,24 @@
     },
     {
       "album": {
+        "name": "Pehli Baarish Aur Tum",
+        "url": "https://open.spotify.com/album/5qUvbFAvgrmSoklz3iylWI"
+      },
+      "artists": [
+        {
+          "name": "Annkur R Pathakk",
+          "url": "https://open.spotify.com/artist/52qnwlT8n9v57lj1Q1cK3J"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250344,
+      "name": "Pehli Baarish Aur Tum",
+      "url": "https://open.spotify.com/track/0juYC0lBdGmbn8960CbKm6"
+    },
+    {
+      "album": {
         "name": "Pehra",
         "url": "https://open.spotify.com/album/2WsORAvfZc4ZwotHyQ6vOK"
       },
@@ -19498,6 +19622,24 @@
       "duration_ms": 280175,
       "name": "Premika",
       "url": "https://open.spotify.com/track/13jXWUm1P5XIkN1UR476lD"
+    },
+    {
+      "album": {
+        "name": "Pussytalk",
+        "url": "https://open.spotify.com/album/2vwzIbn4MbikUCqMURNWGL"
+      },
+      "artists": [
+        {
+          "name": "Queendom",
+          "url": "https://open.spotify.com/artist/5Hg2veDKwMz817sPZWr6GI"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286206,
+      "name": "Pussytalk",
+      "url": "https://open.spotify.com/track/5J2o3IGExL31SgznupTXgL"
     },
     {
       "album": {
@@ -20176,7 +20318,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 185360,
       "name": "Reflection of Us",
       "url": "https://open.spotify.com/track/30JnivKjbkCZKZCOKtxOb4"
@@ -23647,6 +23789,24 @@
     },
     {
       "album": {
+        "name": "A Junkyard Wonder",
+        "url": "https://open.spotify.com/album/3w9Rxw0Et7E3XaBkNpbU7U"
+      },
+      "artists": [
+        {
+          "name": "Ananya Sharma",
+          "url": "https://open.spotify.com/artist/1g7hIOtbH21UyyMwyBoxo8"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338730,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/6TJh01FxjA2A1G0jKUZiYP"
+    },
+    {
+      "album": {
         "name": "Tell me",
         "url": "https://open.spotify.com/album/2jUxHE8xTJOtE2jeYdGHju"
       },
@@ -24344,7 +24504,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 211626,
       "name": "The Quest",
       "url": "https://open.spotify.com/track/41JtmcbW1AFOal28kDYtVr"
@@ -24866,7 +25026,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 72666,
       "name": "Together as One",
       "url": "https://open.spotify.com/track/0LPhmY3v2i5JDfUn1s1gUK"

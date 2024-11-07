@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 362516,
+  "num_followers": 362548,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZygOgAAAAABIfOGIfV9Y4PjzAveP5xBv",
+  "snapshot_id": "ZylgAAAAAACJBBNG3E5QMIdtaYlajMEZ",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Alive: Live from the CentricWorship Retreat",
-        "url": "https://open.spotify.com/album/0xykGjnTLmnd9DfMTTkJ12"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 225680,
-      "name": "You Have My Surrender (Live)",
-      "url": "https://open.spotify.com/track/3PJQp0I22d2k12pnrLMRQ9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Light of the World",
         "url": "https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 259720,
       "name": "Light of the World",
       "url": "https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Alive: Live from the CentricWorship Retreat",
+        "url": "https://open.spotify.com/album/0xykGjnTLmnd9DfMTTkJ12"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 225680,
+      "name": "You Have My Surrender (Live)",
+      "url": "https://open.spotify.com/track/3PJQp0I22d2k12pnrLMRQ9"
     },
     {
       "added_at": null,

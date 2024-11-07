@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Jukjae\(적재\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-539 songs - 1 day 8 hr 0 min
+541 songs - 1 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Keep This Moment](https://open.spotify.com/track/0ykk20f023G61Ds0IeF4KB) | [JINHO](https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0) | [Keep This Moment \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.4](https://open.spotify.com/album/5j7JmzdgWs2VSyGLod2VKs) | 3:20 | 2022-05-13 | 2022-05-31 |
 | [Kim Cheolsu Story](https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Kim Cheolsu Story](https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2) | 4:08 | 2022-01-13 |  |
 | [knock \(Vocal by YOONA\)](https://open.spotify.com/track/7tARXrGfGoujF5wjwHYSW1) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [knock](https://open.spotify.com/album/1esBidl6GhZiW8qpsejsXT) | 3:17 | 2023-11-16 | 2023-12-06 |
-| [La Danse De La Joie](https://open.spotify.com/track/1PesmnG3M2KOjYnaq3ppR5) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [LOVE in the BIG CITY \(Special pre\-release \- Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7KkI5zdnZdJufxzDW1aGWp) | 2:28 | 2024-10-04 |  |
+| [La Danse De La Joie](https://open.spotify.com/track/1PesmnG3M2KOjYnaq3ppR5) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [LOVE in the BIG CITY \(Special pre\-release \- Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7KkI5zdnZdJufxzDW1aGWp) | 2:28 | 2024-10-04 | 2024-11-07 |
 | [laputa](https://open.spotify.com/track/6mWT5oEv9Wzo1KS6jKKv63) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [laputa](https://open.spotify.com/album/4D9zbUsH9mRlf5prtdu5fQ) | 3:02 | 2022-03-31 | 2022-04-21 |
 | [Last](https://open.spotify.com/track/2ZrKUv6I0r52XuDNYPULps) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Miles Apart](https://open.spotify.com/album/1OmyHS4uPSMbqeHWw2G5CK) | 4:06 | 2022-03-31 | 2022-04-13 |
 | [Late Night Walk](https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.6 \[Late Night Walk\]](https://open.spotify.com/album/5IP9ctHpvSgG0YmR2Y5rAg) | 3:54 | 2024-04-26 |  |
@@ -248,6 +248,7 @@
 | [Letter](https://open.spotify.com/track/0eXC86UwZ4idh8Gdliguce) | [Sung Haebin](https://open.spotify.com/artist/0tq4WWL39Wk9b1xIKAhS86) | [Letter](https://open.spotify.com/album/7ktYYaSffu0Vq4xkuPKnl4) | 3:31 | 2024-02-01 | 2024-02-08 |
 | [Life goes on](https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Journey](https://open.spotify.com/album/2ZiNV3uCWEno9JIDtCaSaP) | 3:43 | 2022-01-13 | 2022-07-27 |
 | [Like a Dream \(feat\. Ashley Alisha, kelsey kuan & Nicholas Roberts\)](https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Nicholas Roberts](https://open.spotify.com/artist/5AzZFipQtJEUXeQ3JJzMX4), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [About You](https://open.spotify.com/album/0LP2w2lrfCVm4goQqyJBRb) | 3:12 | 2022-08-09 |  |
+| [Like a tree](https://open.spotify.com/track/5TeloOVkGGz2LJ9l70i8Zx) | [YE ON](https://open.spotify.com/artist/0vbHZmdDC5FcQagW7WPBci) | [Like a tree](https://open.spotify.com/album/6Ofucyh6nAL0ZMEWQxzprW) | 4:55 | 2024-11-06 |  |
 | [Like Us](https://open.spotify.com/track/5HvwHlHx4eyYh7cmI8xr64) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:30 | 2021-12-10 | 2022-05-09 |
 | [Like you](https://open.spotify.com/track/1QSkVgau9cQJ4OgrLoDpi1) | [Gavy NJ](https://open.spotify.com/artist/6Iyc2IvCGBNStXUmPa8hmu) | [People said break it up](https://open.spotify.com/album/0uyQDNFg7AdQ25hznC9UD5) | 3:46 | 2022-03-31 | 2022-04-19 |
 | [Little By Little](https://open.spotify.com/track/1CuwvRM23gfdvfz4Dpn6Ua) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Begin Again Open MIC EPISODE\. 14](https://open.spotify.com/album/6LNVvZVEtWbVy6PfhaqKwQ) | 3:12 | 2022-01-13 | 2022-04-08 |
@@ -421,7 +422,7 @@
 | [The end](https://open.spotify.com/track/1YtcUMj2HBDcD0wgNFGCAW) | [ONL](https://open.spotify.com/artist/0liJPOMxnzqzSVesgtun1D) | [Be opposite](https://open.spotify.com/album/7FxTHRGeQdiJSIaERNzWMZ) | 4:47 | 2023-01-25 | 2023-02-25 |
 | [The Fool](https://open.spotify.com/track/1FheANRtzXpettNJ5cK7O8) | [Hebron](https://open.spotify.com/artist/2qthTndkpNYZpgngO0yrYV) | [The Fool](https://open.spotify.com/album/2a71guGlU9TApuOxrB8cod) | 3:22 | 2024-02-07 | 2024-02-14 |
 | [The Galaxy](https://open.spotify.com/track/5NFLTPYWlGDYAtVGwRiZK6) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Natural II](https://open.spotify.com/album/6BZ0Ush9k3SSeUcZTuEgs2) | 4:26 | 2024-03-28 | 2024-04-10 |
-| [The Light and Dance Within Us](https://open.spotify.com/track/7o9tc25rXr8AJ0OKr2hlUJ) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7) | [The Light and Dance Within Us](https://open.spotify.com/album/7xGIdGeWZTxKTBsADPBI9P) | 3:40 | 2024-10-25 |  |
+| [The Light and Dance Within Us](https://open.spotify.com/track/7o9tc25rXr8AJ0OKr2hlUJ) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7) | [The Light and Dance Within Us](https://open.spotify.com/album/7xGIdGeWZTxKTBsADPBI9P) | 3:40 | 2024-10-25 | 2024-11-07 |
 | [The Night](https://open.spotify.com/track/2ltohL0UlAkNcjImnOggs8) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [O1NE](https://open.spotify.com/album/4wIYn2e6gZ4nRGCnzs1qxZ) | 3:43 | 2022-03-31 | 2022-04-20 |
 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 | 2021-12-10 |  |
 | [The Night With You](https://open.spotify.com/track/5V8x6nU0JEFL6qfbct7P2p) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [The Night With You](https://open.spotify.com/album/1QdF5rkC4uNYWkGqFhGgQQ) | 3:56 | 2022-04-12 | 2022-04-17 |
@@ -447,6 +448,7 @@
 | [To You](https://open.spotify.com/track/3opoCKM7OSYocDSwAdDS0m) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:13 | 2022-03-31 | 2022-04-13 |
 | [To you, dear](https://open.spotify.com/track/4T64VKmcDdr6a6idK97103) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [To you, dear](https://open.spotify.com/album/6UXcVnWn5mY8eHrfTIkEXZ) | 3:25 | 2022-02-18 | 2022-04-17 |
 | [To\. the Moon](https://open.spotify.com/track/25br9uGcaMMLu6YTl2xF00) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [To\. the Moon](https://open.spotify.com/album/2BURnvXS4WlAgj7IsTuc7D) | 3:08 | 2024-06-19 | 2024-10-26 |
+| [Today](https://open.spotify.com/track/3f79GGIETMKipouU03d3Be) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [BREWING LOVE, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/59T2rZS0qx9lzvRzkcMSHy) | 3:08 | 2024-11-06 |  |
 | [Tomorrow](https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Tomorrow \- SM STATION](https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm) | 2:25 | 2021-12-10 |  |
 | [TOO BAD](https://open.spotify.com/track/0yhDAYlysiK5lq9ySgn4dN) | [Oat](https://open.spotify.com/artist/4NkRzcwVz9DvvwZZ5GSSkV) | [TOO BAD](https://open.spotify.com/album/2kFqO3w4k7VrSfjoaniaeQ) | 3:11 | 2022-01-13 | 2022-04-20 |
 | [TOY \(feat\. siso\)](https://open.spotify.com/track/6Bx7apRrdwLAKycZ7EOVi7) | [Choi Nakta](https://open.spotify.com/artist/2c4q6Dkm6fPxNPYD22R3yr), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [TOY](https://open.spotify.com/album/3PNZqV1nTzc5oaFIZS0Igj) | 3:11 | 2023-12-20 | 2024-01-05 |

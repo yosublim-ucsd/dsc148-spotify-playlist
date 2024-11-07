@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125730,
+  "num_followers": 125731,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATQ33cYFccK4HedqW1ExvWoyJVLwl2",
+  "snapshot_id": "AAATRdRk7S1CSCJ829Iuz/LJScJcmxts",
   "tracks": [
+    {
+      "added_at": "2024-11-06 14:36:36",
+      "album": {
+        "name": "if you wanna",
+        "url": "https://open.spotify.com/album/5z7iWCWjQ118YggyhVsfSE"
+      },
+      "artists": [
+        {
+          "name": "BARELY ALIVE",
+          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+        },
+        {
+          "name": "Skyelle",
+          "url": "https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "if you wanna",
+      "url": "https://open.spotify.com/track/6E3rVTQWxbSBhSDqclngEy"
+    },
     {
       "added_at": "2024-11-05 15:35:52",
       "album": {
@@ -1139,46 +1159,6 @@
       "duration_ms": 176363,
       "name": "Have It All",
       "url": "https://open.spotify.com/track/6hR4plghLBRSbXEf2wNvsX"
-    },
-    {
-      "added_at": "2024-08-15 14:29:52",
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/6WgfCROBO4a8fovO886AZ0"
-      },
-      "artists": [
-        {
-          "name": "Jason Ross",
-          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
-        },
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        }
-      ],
-      "duration_ms": 189743,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/5S8QwjM8mrw3E5hk03PiJY"
-    },
-    {
-      "added_at": "2024-08-14 14:09:26",
-      "album": {
-        "name": "Euphoria Rush",
-        "url": "https://open.spotify.com/album/7a3WhUPay2Vg17GgIkmnYt"
-      },
-      "artists": [
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        },
-        {
-          "name": "Skybreak",
-          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
-        }
-      ],
-      "duration_ms": 236133,
-      "name": "Euphoria Rush",
-      "url": "https://open.spotify.com/track/1OUBfd2vYvT6w8ghwbncOq"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

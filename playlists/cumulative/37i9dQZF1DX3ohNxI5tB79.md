@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-256 songs - 16 hr 25 min
+257 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Storm On A Summers Day](https://open.spotify.com/track/37jMCyGpHpwvv8ePVReFGl) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Still Growing](https://open.spotify.com/album/4yNBRf4JRiowAEoyhrxSQ0) | 2:58 | 2021-12-13 | 2024-02-24 |
 | [A Thousand Things That Were You](https://open.spotify.com/track/7cRhOk7j7jxXZpsX0s3TA5) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Everchanging Times](https://open.spotify.com/album/09UhH5tXg4GPRG38bsD7yd) | 4:15 | 2021-12-13 | 2022-05-18 |
 | [ADULTHOOD](https://open.spotify.com/track/4FblU56VwlVyJuvq4H6GRv) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:41 | 2022-04-05 |  |
+| [After Twelve](https://open.spotify.com/track/0o82woRF9nuEMhpxZF89Cd) | [Brintex Collective](https://open.spotify.com/artist/5jS72nZgNklECz7m1Lj7zR) | [Brintex Collective](https://open.spotify.com/album/5ZF3L4OqPNuZUagTWHFlmC) | 10:03 | 2024-11-06 |  |
 | [Ain't That Somethin'](https://open.spotify.com/track/0UD3irWPjn3FrropsoPsW2) | [Fabrecollectiv.](https://open.spotify.com/artist/3p7zvGloecJJK4TfTyOfqK) | [Ain't That Somethin'](https://open.spotify.com/album/6RlS5tZbxU06yoAxpQiKoE) | 3:45 | 2021-12-13 | 2022-05-18 |
 | [Alibi](https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4VQebFp9TEuKOaCu5lUUrC) | 3:48 | 2022-04-28 |  |
 | [Alibi](https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR) | 3:48 | 2022-10-10 | 2024-04-19 |
@@ -85,7 +86,7 @@
 | [Gotta Go Fast](https://open.spotify.com/track/0yllAviuNZVu1s1HPC7uhV) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Poppy Daniels](https://open.spotify.com/artist/5p4U401vBELQ6nbYLJHm3Z) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:50 | 2022-12-05 |  |
 | [Grace](https://open.spotify.com/track/3JLzTwLuKBTcxrua5PeLfV) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Grace](https://open.spotify.com/album/4THpDYXZbqfMLYnQvoPs1t) | 3:25 | 2021-12-13 | 2022-07-29 |
 | [Grace](https://open.spotify.com/track/5RNALwTBXcWvRek9SFDsWM) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Grace](https://open.spotify.com/album/65zVSQMZx5QUNzKtjhevRX) | 3:25 | 2022-07-05 | 2023-10-04 |
-| [Gravitate](https://open.spotify.com/track/3i97OJms85ExXn3lf9cHF2) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Gravitate](https://open.spotify.com/album/10R8zdN5rOJQGSkXuKuTfb) | 5:41 | 2022-12-05 |  |
+| [Gravitate](https://open.spotify.com/track/3i97OJms85ExXn3lf9cHF2) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Gravitate](https://open.spotify.com/album/10R8zdN5rOJQGSkXuKuTfb) | 5:41 | 2022-12-05 | 2024-11-07 |
 | [Hands Up](https://open.spotify.com/track/15VZAEqTSjheNR2XdyMLuc) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Hands Up](https://open.spotify.com/album/0Bwu8g04lF4mEIvoSMNeD4) | 4:12 | 2022-12-02 | 2024-02-24 |
 | [Hangmat](https://open.spotify.com/track/4Fe4a65JErIRywwlm2x5ob) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO) | [Livingstone](https://open.spotify.com/album/7BJvFHKl7SQDoVmi3PRuVu) | 6:22 | 2021-12-13 | 2022-01-11 |
 | [Hardest Part \- Single Edit](https://open.spotify.com/track/3dX71ItEWpeEZxy7IgJ2RB) | [Benjamin Fro](https://open.spotify.com/artist/0O9dDLVIaf3EA0HlMjant6) | [Hardest Part](https://open.spotify.com/album/0WqJtWa0g9UOfNTrf6ZCnO) | 3:03 | 2024-08-02 |  |

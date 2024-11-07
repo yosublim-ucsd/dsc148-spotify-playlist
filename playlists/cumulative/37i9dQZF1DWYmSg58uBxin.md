@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-284 songs - 13 hr 6 min
+286 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Eternity](https://open.spotify.com/track/0ZTkd15cwmZiOmtb8Gg3q5) | [String Astronauts](https://open.spotify.com/artist/3uesHPllAYmqsy4sdQqFJr) | [Eternity](https://open.spotify.com/album/5F9HeSB4R2MUHZ9IUPC0ry) | 2:50 | 2020-10-20\* | 2023-09-09 |
 | [Evening Kiss](https://open.spotify.com/track/7oRhmSpKMqtKiwehArtSuV) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Evening Kiss](https://open.spotify.com/album/1Np1NDLsb96CWB9xBnOHiR) | 3:16 | 2024-03-20 |  |
 | [Evening Tide](https://open.spotify.com/track/3IVpqqweRwUvQ49ovda18Y) | [Catherine Holm](https://open.spotify.com/artist/4L8nmO7kqdX1K9ydfCfbh7) | [Evening Tide](https://open.spotify.com/album/5DMLJNgADhisXz3RpXQO9v) | 2:01 | 2020-10-20\* | 2023-09-09 |
+| [Evenly Balanced](https://open.spotify.com/track/4m3u1eHjGKnA3GPgjBd7Cb) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [Evenly Balanced](https://open.spotify.com/album/6jMkqhISeUr6pPAZFjjKAM) | 2:04 | 2024-11-06 |  |
 | [Everything Is You](https://open.spotify.com/track/6LU350ky5JGQ4VwJsTfIq9) | [Chris Island](https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His) | [Everything Is You](https://open.spotify.com/album/5Du2iKqG8PpScVLlGXJ6cY) | 3:22 | 2023-09-08 |  |
 | [evolutions](https://open.spotify.com/track/1YMG8eqZVOstN5Yw6SBGeX) | [Julian Luger](https://open.spotify.com/artist/6PxHwSZFaidQkagrCE3LlA) | [evolutions](https://open.spotify.com/album/7dxngiRlQql8lyVPsYduHa) | 2:00 | 2022-06-10 | 2023-09-09 |
 | [Fabula](https://open.spotify.com/track/2jiWlVsc1MslHMKYIrf2Tp) | [Baltasar Thorgrimson](https://open.spotify.com/artist/0wyQQ5R0rWiaT1g8GUEDBC) | [Fabula](https://open.spotify.com/album/7h24RWCo6tYMtvBXYfBdln) | 3:07 | 2020-10-20\* |  |
@@ -284,6 +285,7 @@
 | [Water](https://open.spotify.com/track/15aAIdzt0xxazdV6abyGBC) | [Roger Reuse](https://open.spotify.com/artist/6t5dwOvjZLh3OupwyoT1z4) | [Water](https://open.spotify.com/album/2iqpzaEFsjiuD4HJzu0nJw) | 2:14 | 2020-10-20\* | 2024-09-11 |
 | [Water Lilies](https://open.spotify.com/track/2aYkMhQCtzhfTtUfydibE3) | [Noah Hart](https://open.spotify.com/artist/774mkzUMjSY8lZyRwVJqen) | [Water Lilies](https://open.spotify.com/album/6PcpSQ8kNsSGVyXH0ZY9JJ) | 3:20 | 2023-09-26 |  |
 | [When Day Breaks](https://open.spotify.com/track/3khZkLeb8AAnz86WhmbfXa) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [When Day Breaks](https://open.spotify.com/album/2xgEH5nrfXUE3RIYUQQTuf) | 2:21 | 2024-10-22 |  |
+| [White wings](https://open.spotify.com/track/3s886lrKl2lG3g0BF7lXCE) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [White wings](https://open.spotify.com/album/3RvRZdW1r1HjySuqAoDLX3) | 2:38 | 2024-11-06 |  |
 | [Willow](https://open.spotify.com/track/32wkxIedt5jMtJnwTP9p1l) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Willow](https://open.spotify.com/album/5GYYbZtBySsiqBAspjHVPK) | 2:28 | 2024-08-13 |  |
 | [Winding Trails](https://open.spotify.com/track/5X3hvz25Pyqgtj1jF3HX4V) | [Cara Wolff](https://open.spotify.com/artist/4awzT4TfiIuWgss8saWodD) | [Winding Trails](https://open.spotify.com/album/6pVYhysoA5VGngRzATX4bo) | 2:02 | 2020-10-20\* | 2023-09-09 |
 | [Wkrótce](https://open.spotify.com/track/4Tqc20K1sAMwYogL1wFW0R) | [Zygmunt Czarnecki](https://open.spotify.com/artist/1uKeHKFusnucKrl8BLDoXM) | [Wkrótce](https://open.spotify.com/album/5RYb6RC5zwnM15kJoKKJd7) | 2:14 | 2023-09-08 |  |

@@ -4,7 +4,7 @@
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: MARO, NASAYA
 
-148 songs - 8 hr 25 min
+149 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2024-06-20 |  |
 | [All](https://open.spotify.com/track/4ma7pLckA3BHTb2STtAMrc) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [All](https://open.spotify.com/album/708D6WkdNPfM91oo4dbZWp) | 4:18 | 2024-08-08 | 2024-10-22 |
 | [Amanhã Tou Melhor](https://open.spotify.com/track/3I0w0pdn5s2W44gGmBxsa0) | [Capitão Fausto](https://open.spotify.com/artist/5CoXKGQeOWgWi8koTZh07b) | [Capitão Fausto Têm os Dias Contados](https://open.spotify.com/album/7iXoMNx0O5wa0gQ1iRE6Xp) | 3:26 | 2024-06-20 | 2024-07-19 |
+| [Amor De Ganga](https://open.spotify.com/track/2y5mEYDDPoQCgz55sP3eUz) | [Miguel Luz](https://open.spotify.com/artist/1jE8NLRTyT22UKfZ8AGRDm) | [Amor De Ganga](https://open.spotify.com/album/2RzgoRYV8G4b2caFS030UT) | 3:26 | 2024-10-24 |  |
 | [Any Way \(feat\. Maggie Rogers\)](https://open.spotify.com/track/2NvYdollt2CTUJYn66OBt9) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Any Way \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Qc9dnPXbHlfB2eXZoDPlF) | 5:09 | 2024-06-20 | 2024-08-09 |
 | [Are You Looking Up](https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:46 | 2024-06-20 |  |
 | [Aroeira](https://open.spotify.com/track/3NVAWFh6N9cbjd8u1hyYG4) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5) | [Soma ∞](https://open.spotify.com/album/24adU6V64L9R5ao5XYnKOH) | 2:24 | 2024-10-17 |  |
@@ -113,7 +114,7 @@
 | [Primavera](https://open.spotify.com/track/38a6BwqDanayW8iISyM4a3) | [Cassete Pirata](https://open.spotify.com/artist/2VQ14XaMYiXOr7lLePbZrf) | [A Família](https://open.spotify.com/album/0IFYHsfU1eP7rNAGIAmzhM) | 4:39 | 2024-06-20 | 2024-07-05 |
 | [Reverie](https://open.spotify.com/track/1xSQ5EbTMu1kFWmwWqF3Xi) | [J.MYSTERY](https://open.spotify.com/artist/040pAxwmzfGBFre2u9Pjdz) | [Reverie](https://open.spotify.com/album/03R3cFsGveUn3xrsCqueBa) | 3:24 | 2024-08-08 | 2024-09-21 |
 | [Ritmo da Procura](https://open.spotify.com/track/3Wfevt5w8000Ho7RjPZS0V) | [CAIO](https://open.spotify.com/artist/7L9u5BLeFDSbRy6w2cz4KE), [Afonso Sêrro](https://open.spotify.com/artist/00GVqDl8rRlWwoEtgXJO37) | [Ritmo da Procura](https://open.spotify.com/album/4gkPRrxCsAgbkgiEKactpo) | 3:25 | 2024-10-17 |  |
-| [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-06-20 |  |
+| [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-06-20 | 2024-11-07 |
 | [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 | 2024-06-20 |  |
 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-09-20 |  |
 | [Savage](https://open.spotify.com/track/1mq8wH5sWqjzwvRIHxdlHN) | [LEROCQUE](https://open.spotify.com/artist/4BI5i3MlNaNIi5BPby3r3O) | [Savage](https://open.spotify.com/album/7Ch9Q8EBf6v2eKP3OItSEV) | 3:32 | 2024-07-25 | 2024-08-09 |

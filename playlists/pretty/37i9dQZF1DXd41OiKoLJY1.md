@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: BJ Esporma Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,341 likes - 108 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,348 likes - 108 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

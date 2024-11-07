@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,005 likes - 82 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,009 likes - 82 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 | 9 | [Cactus Water](https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cactus Water](https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR) | 3:24 |
 | 10 | [Impossible \- Jax Jones Remix](https://open.spotify.com/track/2wIOPCQd8yC90Xxbwo6w0B) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Impossible \(Remixes\)](https://open.spotify.com/album/3MadsCbTHSp47zATZr1wdJ) | 3:54 |
 | 11 | [Bad B\*tch](https://open.spotify.com/track/515DlGs3ur3soKeIomMFbL) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Eurostar](https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m) | 1:31 |
-| 12 | [Big Bag Bounce](https://open.spotify.com/track/6AMLDi1PdJgrWuHCS4qVfk) | [AQUTIE](https://open.spotify.com/artist/5cLrXNIHIhgtTFgrsYXTXF), [Paulina Singer](https://open.spotify.com/artist/3iFyOMYm2fhl5ZM0guEzK6) | [Coolest In The City](https://open.spotify.com/album/0QGXEwAUfWpUIPE5AR6TBM) | 5:12 |
+| 12 | [Big Bag Bounce](https://open.spotify.com/track/6AMLDi1PdJgrWuHCS4qVfk) | [AQUTIE](https://open.spotify.com/artist/5cLrXNIHIhgtTFgrsYXTXF), [Zuzu Silk](https://open.spotify.com/artist/04BCKgFQYPrONAk85R7CeP) | [Coolest In The City](https://open.spotify.com/album/0QGXEwAUfWpUIPE5AR6TBM) | 5:12 |
 | 13 | [Sweet Bebe](https://open.spotify.com/track/1hjrRCJafMYDWrjZT6u0sf) | [Swordman Kitala](https://open.spotify.com/artist/58JJJyz6aYl9nRkTWSzH1c), [Burland](https://open.spotify.com/artist/5I3pGI4XlZf4ZTfa0HUk5w) | [Sweet Bebe](https://open.spotify.com/album/371cdPs6Hx59TW198dnhwi) | 5:12 |
 | 14 | [Stick With Me \(like you said you would\)](https://open.spotify.com/track/0nzDvzu4TOFkI4PKC6MI6t) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn), [Pixie Cola](https://open.spotify.com/artist/50vL1eTCa1R40d6BMCkX4G) | [Stick With Me \(like you said you would\)](https://open.spotify.com/album/7MvpORytEWSUP9yf2i1ODM) | 3:35 |
 | 15 | [Whip It Up](https://open.spotify.com/track/1dUnXEhm7ShBQYb0qbwtSl) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Whip It Up](https://open.spotify.com/album/3S4fDwnkGpQjGFgESE3afw) | 2:10 |

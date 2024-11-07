@@ -4,7 +4,7 @@
 
 > Chestnuts roasting on the open fire..\. Christmas ambience and cozy piano by the fireside.
 
-58 songs - 2 hr 31 min
+59 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Hallelujah](https://open.spotify.com/track/5pmylV1GXFlVOpd2usdcNR) | [Kathrine Abelsen](https://open.spotify.com/artist/02ncYGUuJcyHP5Ku80sjOJ) | [Hallelujah](https://open.spotify.com/album/2Cv6rKJ6iHLYaiYi9IdGuD) | 2:56 | 2023-11-21 |  |
 | [Hark! The Herald Angels Sing \- Christmas Cosy](https://open.spotify.com/track/7CbsuNnbMf53HTPqmgxV3O) | [Donald Shoenberg](https://open.spotify.com/artist/7nOXih1DNL8bKeWIgo65Bj) | [Christmas Cosy](https://open.spotify.com/album/6zAVrWfpCx1VNcsUrA4pKS) | 2:06 | 2023-11-21 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/23IyjxZ8e9nRxHeeC2qnbg) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3Eu9NyeDamhd8m0EDnKOpD) | 3:09 | 2023-11-21 |  |
+| [I Heard the Bells on Christmas Day](https://open.spotify.com/track/4BT4Wk0PWYFSoJdiBzZPqU) | [The Guy Downstairs](https://open.spotify.com/artist/4xE3jQ2KgDqoKkz4F4GFud) | [I Heard the Bells on Christmas Day](https://open.spotify.com/album/09SAMjkZHbIuK3QGmBH4fE) | 2:50 | 2024-11-06 |  |
 | [I Heard The Bells On Christmas Day \- Fireplace](https://open.spotify.com/track/5MXMACwSgfDLN5uX8B7ut2) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [Do You Hear What I Hear](https://open.spotify.com/album/5211ajJwXcxcWkP9gX0sKf) | 2:06 | 2023-11-21 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/06U6JHJdJzblXO2xlWsqRu) | [Kaelyn Aitken](https://open.spotify.com/artist/1PK1Qzjcr6QYgBy1linRrY) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/4RQ3ioyZK5ly2mm7vyt3e5) | 1:52 | 2023-11-21 |  |
 | [I Saw Three Ships](https://open.spotify.com/track/7JsHhz4CdAXQ7Xdc6geA6W) | [Marika Miklos](https://open.spotify.com/artist/40ojVTGr5E5WA9QeAZp6wm) | [I Saw Three Ships](https://open.spotify.com/album/4azgQ5dDrHVqu0paYV9r0G) | 1:56 | 2023-11-21 |  |

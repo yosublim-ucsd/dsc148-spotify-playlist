@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "'Til I Come Around",
+        "url": "https://open.spotify.com/album/3M9J7HOHDNf0CboCMSpOdi"
+      },
+      "artists": [
+        {
+          "name": "Clara Mann",
+          "url": "https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182840,
+      "name": "'Til I Come Around",
+      "url": "https://open.spotify.com/track/02LqtUPTOQ8wcouIumUKQM"
+    },
+    {
+      "album": {
         "name": "10,000 Hours",
         "url": "https://open.spotify.com/album/3oJRcRPY8CYVyr4BelEzht"
       },
@@ -2388,7 +2406,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 342734,
       "name": "Blues",
       "url": "https://open.spotify.com/track/7Dd6g7T930jxR3NcQnJjwp"
@@ -4888,6 +4906,24 @@
       "duration_ms": 263551,
       "name": "Doomscrollers",
       "url": "https://open.spotify.com/track/65TxQkmxPrkLujVZjjWLj8"
+    },
+    {
+      "album": {
+        "name": "Heavy Glory",
+        "url": "https://open.spotify.com/album/2zh8YLgTukVMhUzLSRbNPd"
+      },
+      "artists": [
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237125,
+      "name": "Doomsday Childsplay",
+      "url": "https://open.spotify.com/track/0kNLf4wE1aLe2zL9n4TwBX"
     },
     {
       "album": {
@@ -8147,6 +8183,24 @@
     },
     {
       "album": {
+        "name": "Dreamstate",
+        "url": "https://open.spotify.com/album/4OL7O0xoj0xjyRrTA3clwd"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218450,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/3irMUSoDur3DQylLZwrZHM"
+    },
+    {
+      "album": {
         "name": "Highgrade",
         "url": "https://open.spotify.com/album/265QPtbwG6htcTXh3GBk9z"
       },
@@ -8502,7 +8556,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 206500,
       "name": "Human Frailty",
       "url": "https://open.spotify.com/track/0CnWLDcUZgOzZMrYLXsWAI"
@@ -12878,7 +12932,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 330580,
       "name": "Neptunes",
       "url": "https://open.spotify.com/track/2Xrbukz6tXgmSS0K7l7kYV"
@@ -15161,6 +15215,32 @@
     },
     {
       "album": {
+        "name": "Rapid Fire / Kaitlyn Aurelia Smith Remix",
+        "url": "https://open.spotify.com/album/4fhjIERJZDttnJmT9W53f2"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Laima",
+          "url": "https://open.spotify.com/artist/1BsnJdQKuN4OUlLLYTx6gr"
+        },
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256318,
+      "name": "Rapid Fire - Kaitlyn Aurelia Smith Remix",
+      "url": "https://open.spotify.com/track/2omeJgC9hH7hinmReYlnpx"
+    },
+    {
+      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/1ZsgV2rrIt0wXzWfaJnMI1"
       },
@@ -16728,7 +16808,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 188266,
       "name": "Snow Angel",
       "url": "https://open.spotify.com/track/6NSpxT7HeaSWm4rZFilsRs"
@@ -16764,7 +16844,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 291807,
       "name": "Soft School",
       "url": "https://open.spotify.com/track/3Y5D31GMKrac4o1IEV37xJ"
@@ -18266,7 +18346,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 362833,
       "name": "The Divine Line",
       "url": "https://open.spotify.com/track/1YtxZngbalxF24msef3EXl"
@@ -21406,6 +21486,24 @@
       "duration_ms": 184000,
       "name": "Yer Da",
       "url": "https://open.spotify.com/track/7gw4Gqbl1CwUsvsxSR295o"
+    },
+    {
+      "album": {
+        "name": "Sa\u00e2da Bonaire",
+        "url": "https://open.spotify.com/album/0POnlLnYjmV7QIGKgmx1W8"
+      },
+      "artists": [
+        {
+          "name": "Sa\u00e2da Bonaire",
+          "url": "https://open.spotify.com/artist/7y1XjJQEGtFmh1MNyWU6cg"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356613,
+      "name": "You Could Be More As You Are",
+      "url": "https://open.spotify.com/track/1z4wF1YNe3FphOqyD2eRqY"
     },
     {
       "album": {

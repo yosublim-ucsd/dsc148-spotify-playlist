@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Another Love",
+        "url": "https://open.spotify.com/album/3PIURc7CKch3smMnj221og"
+      },
+      "artists": [
+        {
+          "name": "Darius Holland",
+          "url": "https://open.spotify.com/artist/2LuKu3ADzYNgrpnLwJCiFU"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145362,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/3q53Qumo5wm3B5nquuAtM9"
+    },
+    {
+      "album": {
         "name": "Anti-Hero",
         "url": "https://open.spotify.com/album/10TQNCLR0xgqTkHfUqRaGj"
       },
@@ -2041,6 +2059,24 @@
     },
     {
       "album": {
+        "name": "I Want It That Way",
+        "url": "https://open.spotify.com/album/2wJVSaCsCjUhFY4tyNraAj"
+      },
+      "artists": [
+        {
+          "name": "DisCovered",
+          "url": "https://open.spotify.com/artist/07FxfwSU3s0RwrN5ooGt8y"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116995,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/6vLwopf1erdW3XoCfz6TIX"
+    },
+    {
+      "album": {
         "name": "I'm on fire",
         "url": "https://open.spotify.com/album/0POCGgHFs2K1i6MepPaK6t"
       },
@@ -2524,6 +2560,24 @@
       "duration_ms": 213373,
       "name": "Minerva",
       "url": "https://open.spotify.com/track/0WBYXkgh8c40tU8kpHuCg5"
+    },
+    {
+      "album": {
+        "name": "Mistletoe",
+        "url": "https://open.spotify.com/album/5qftcrJwIld5dEVEWiSaA1"
+      },
+      "artists": [
+        {
+          "name": "Melody Spencer",
+          "url": "https://open.spotify.com/artist/0XKEbFGTqHAajz2lusK4dM"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/10wIsjWouNqeMlOAGFYPTD"
     },
     {
       "album": {
@@ -3194,6 +3248,24 @@
       "duration_ms": 214080,
       "name": "Silent Lucidity",
       "url": "https://open.spotify.com/track/405UQdWBjsxAjYyHRPVaDM"
+    },
+    {
+      "album": {
+        "name": "Since U Been Gone",
+        "url": "https://open.spotify.com/album/3xnLz6Dy1BngDx32GTx0Yq"
+      },
+      "artists": [
+        {
+          "name": "Jaque Dylan",
+          "url": "https://open.spotify.com/artist/1C4O2dXmCudFHkn9Zw8Kml"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128983,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/7jz9dh9vzWTJXILKaUY0q6"
     },
     {
       "album": {

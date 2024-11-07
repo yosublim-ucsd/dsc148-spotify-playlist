@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 607,
+  "num_followers": 608,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZygOgAAAAACrcWig1XQ1Klze27Phqmhu",
+  "snapshot_id": "ZylgAAAAAADKdpRmyTsXUv+EZf0FXkpg",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monsieur Spade (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 147973,
-      "name": "Sam Spade",
-      "url": "https://open.spotify.com/track/27vtIAcLqCDrwQ5jkyDDrY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
         "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
       },
@@ -119,22 +103,6 @@
       "duration_ms": 60983,
       "name": "Science",
       "url": "https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hacks: Season 1 (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/5UvGy41xXQxYWguXtHMHoI"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 124424,
-      "name": "Young Deb When She Was Happy",
-      "url": "https://open.spotify.com/track/2VMMFfvVst1NTkjCSX63cD"
     },
     {
       "added_at": null,

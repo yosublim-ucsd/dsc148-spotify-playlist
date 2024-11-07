@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: G\-DRAGON
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,292 likes - 83 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,326 likes - 83 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 15 | [Walau Berantakan](https://open.spotify.com/track/075jBu0heVKJ5xjmdhVSqk) | [Prince Husein](https://open.spotify.com/artist/3JzIIqZI9biLWd2LyC6lus) | [Walau Berantakan](https://open.spotify.com/album/2CExf3NHmx6kvunHhck1QP) | 3:12 |
 | 16 | [Oopsie](https://open.spotify.com/track/136rPec46FEDVHD0uEESgj) | [V1RST](https://open.spotify.com/artist/2kTWDbs4Ve7BgSKhNsWHGx) | [Oopsie](https://open.spotify.com/album/2AOqjy8N3whvR6U12Nkk4c) | 3:49 |
 | 17 | [Bila Memang Kamu](https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr) | [Betrand Putra Onsu](https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c) | [Bila Memang Kamu](https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB) | 3:51 |
-| 18 | [Gadisku](https://open.spotify.com/track/4cJ0rC60m1KNCq9Ie0rGje) | [Mike Mohede](https://open.spotify.com/artist/0uGUpFXAdhKMgiHwbueiuf), [AndiRianto](https://open.spotify.com/artist/51fimFNZRDagysW0oWhWdl) | [Gadisku](https://open.spotify.com/album/6WbER6eqWKwSJCP2Tt1Cs9) | 3:29 |
+| 18 | [Gadisku](https://open.spotify.com/track/4cJ0rC60m1KNCq9Ie0rGje) | [Mike Mohede](https://open.spotify.com/artist/0uGUpFXAdhKMgiHwbueiuf), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Gadisku](https://open.spotify.com/album/6WbER6eqWKwSJCP2Tt1Cs9) | 3:29 |
 | 19 | [St\. Chroma \(feat\. Daniel Caesar\)](https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 3:17 |
 | 20 | [GPT](https://open.spotify.com/track/36qXU2yyq1JtGp05omV7bu) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [...l](https://open.spotify.com/album/3mOHNMIoQXQfux8b0pgQI0) | 3:08 |
 | 21 | [TIPI\-TAP](https://open.spotify.com/track/0SCHvh0ZqVd2Wcq2l4kzai) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1er The 6th Mini Album 〈TIPI\-TAP〉](https://open.spotify.com/album/1oHK6dDixDIjnMB03DIeZM) | 2:52 |

@@ -4383,6 +4383,24 @@
     },
     {
       "album": {
+        "name": "White wings",
+        "url": "https://open.spotify.com/album/3RvRZdW1r1HjySuqAoDLX3"
+      },
+      "artists": [
+        {
+          "name": "Lester Dann",
+          "url": "https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158360,
+      "name": "White wings",
+      "url": "https://open.spotify.com/track/3s886lrKl2lG3g0BF7lXCE"
+    },
+    {
+      "album": {
         "name": "Wieder Zusammen",
         "url": "https://open.spotify.com/album/7HI3M3BnOgeumeF5sfwo6j"
       },

@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-620 songs - 1 day 13 hr 25 min
+621 songs - 1 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Don't Pretend \- Acoustic](https://open.spotify.com/track/2sWL4tq39W5EMdC0ItdPTy) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Don't Pretend \(Acoustic\)](https://open.spotify.com/album/1EVSU42vLvFmSjHt3TGmx1) | 2:21 | 2023-06-16 |  |
 | [Don't Sleep \(feat\. Thundercat\)](https://open.spotify.com/track/3p0xEoo2jRjshhCplkF8S5) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [JAGUAR II : Deluxe](https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn) | 3:48 | 2024-10-04 |  |
 | [Don't Think You Ever Loved Me](https://open.spotify.com/track/3fMDMQEcEFW4LV7P6oay3b) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Don't Think You Ever Loved Me](https://open.spotify.com/album/7LFx0rToSRheeuvNMdjovz) | 6:36 | 2023-03-10 | 2024-02-24 |
-| [Don't Turn The Music Down](https://open.spotify.com/track/5oCRONUj1i5wNH4XM5lPSl) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN), [Jus Lovehall](https://open.spotify.com/artist/4ZOPuDsefk2ZNBYUJfSXR5) | [Welcome Home](https://open.spotify.com/album/2eDPUEKbqGcVlprMxu3n8P) | 3:43 | 2023-08-25 |  |
+| [Don't Turn The Music Down](https://open.spotify.com/track/5oCRONUj1i5wNH4XM5lPSl) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN), [Jus Lovehall](https://open.spotify.com/artist/4ZOPuDsefk2ZNBYUJfSXR5) | [Welcome Home](https://open.spotify.com/album/2eDPUEKbqGcVlprMxu3n8P) | 3:43 | 2023-08-25 | 2024-11-07 |
 | [Don't Wanna Be A Fool](https://open.spotify.com/track/41PN50VXHcaJudkNPwAGZI) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [This Close To You](https://open.spotify.com/album/3cxPGZ0ES2lA2zG8rIiTaF) | 3:21 | 2024-06-07 | 2024-07-27 |
 | [Don't You Forget](https://open.spotify.com/track/6QafQW90SRQSC3ZTFg4pGt) | [Louis York](https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb) | [Don't You Forget](https://open.spotify.com/album/7pY34q52m9JmtddVGL8UZx) | 5:18 | 2021-12-03 | 2022-07-29 |
 | [Don’t Lie \[Feat\. Malaya\]](https://open.spotify.com/track/6xVgDPrFSlBinlx7lRzI1S) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb) | [Don’t Lie \[Feat\. Malaya\]](https://open.spotify.com/album/1JUxXtOkoLUgwHN7dfb2ML) | 4:21 | 2023-08-04 | 2023-10-09 |
@@ -399,6 +399,7 @@
 | [No Particulars](https://open.spotify.com/track/3wF0M5BsOWABoOV4vr3wCr) | [Shafiq Husayn](https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Didda Joe](https://open.spotify.com/artist/6RiH4it36bTUNBvUjPH2DP), [August Rose](https://open.spotify.com/artist/4cGbWF0MMhak6Ws9ROGC44) | [So Gold](https://open.spotify.com/album/2n8xGkaNui2V7g59g9EAjC) | 4:23 | 2023-06-09 | 2023-09-02 |
 | [no spine](https://open.spotify.com/track/1YHB8m41zFD61dCHy96BFI) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [crumbs in my bed](https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh) | 3:02 | 2023-09-01 |  |
 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 | 2022-01-28 | 2022-09-10 |
+| [Nobody’s Perfect](https://open.spotify.com/track/4gGuLljBIa0c3Buk4aGT0H) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Suite Escape](https://open.spotify.com/album/5o6C3eDwWn5GJN0DKZN45i) | 4:00 | 2024-10-25 |  |
 | [Not Today](https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Not Today](https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN) | 3:06 | 2024-07-26 | 2024-10-12 |
 | [NOTHING COMPARES \(feat\. Emmavie & Theophonixx\)](https://open.spotify.com/track/3iJUTbFJBKOOoGvtbfXAoz) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Theophonixx](https://open.spotify.com/artist/7cd3zVL8BqvScMLSORiele) | [Paradigm Shift](https://open.spotify.com/album/5uEbP31l5YIIzRWsGqCd6b) | 4:29 | 2024-04-12 | 2024-06-08 |
 | [Nowhere](https://open.spotify.com/track/3lHp0poD3gdNg3uhaxodn5) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp), [Pitch 92](https://open.spotify.com/artist/0LjApYPFAPUvMYMb1gFJrc) | [Submerge](https://open.spotify.com/album/33U1cvheAyAUQnXoanTKj4) | 3:52 | 2024-07-19 | 2024-08-10 |

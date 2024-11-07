@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "36.5 (Summer without you)",
+        "url": "https://open.spotify.com/album/0MdwGsLpCn0fDFksq5Bqvz"
+      },
+      "artists": [
+        {
+          "name": "SOONHO",
+          "url": "https://open.spotify.com/artist/2UqlLjKZ5xxvBO6tmYMAp4"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224630,
+      "name": "36.5 (Summer without you)",
+      "url": "https://open.spotify.com/track/2iDnAtbo9PJCezRvVYjw5i"
+    },
+    {
+      "album": {
         "name": "Doctor Cha (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/3CGiV1dCJ0v7p2urd4vAuU"
       },
@@ -460,7 +478,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 191375,
       "name": "Cat's Nap zzZ (feat. Utopi)",
       "url": "https://open.spotify.com/track/1lfmSCkroWDyBXJsdcRW3H"
@@ -1251,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/6OdmwetSmFXZhBrNJFKvay"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181677,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/2Qcbspnftnon37jibwyvMU"
+    },
+    {
+      "album": {
         "name": "I can't tell you everything",
         "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
       },
@@ -1518,7 +1554,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 227866,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE"

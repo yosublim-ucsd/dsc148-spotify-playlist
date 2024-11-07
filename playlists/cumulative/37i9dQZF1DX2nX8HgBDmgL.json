@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Out of Control",
+        "url": "https://open.spotify.com/album/7bght7slNBH8AuYHdIlvYf"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194407,
+      "name": "Batao Zara",
+      "url": "https://open.spotify.com/track/0gJvdpmfUYTksHzTptBQew"
+    },
+    {
+      "album": {
         "name": "Bella (Remix)",
         "url": "https://open.spotify.com/album/6peugWzEh178js54Sqzf8G"
       },
@@ -1068,6 +1086,32 @@
       "duration_ms": 167836,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/3Owi1WFOGSbb8rqspfVEO4"
+    },
+    {
+      "album": {
+        "name": "Chhaila (From \"Bhoomi 2024\")",
+        "url": "https://open.spotify.com/album/7jt9ta30emHh5myR2YButg"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230192,
+      "name": "Chhaila (From \"Bhoomi 2024\")",
+      "url": "https://open.spotify.com/track/5AI0ggBid3MhMhsFQDyRwk"
     },
     {
       "album": {
@@ -2534,6 +2578,24 @@
       "duration_ms": 181637,
       "name": "Jeeja",
       "url": "https://open.spotify.com/track/31DFOzgOdnouxpEMkGxqLj"
+    },
+    {
+      "album": {
+        "name": "Out of Control",
+        "url": "https://open.spotify.com/album/7bght7slNBH8AuYHdIlvYf"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181637,
+      "name": "Jeeja",
+      "url": "https://open.spotify.com/track/50Tnv26RDHddH0mXi1vgfU"
     },
     {
       "album": {

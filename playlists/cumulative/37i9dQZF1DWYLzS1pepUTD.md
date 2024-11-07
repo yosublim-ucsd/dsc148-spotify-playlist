@@ -4,7 +4,7 @@
 
 > The essential entrance themes for the Superstars of <a href="https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX">WWE</a>\. \#MakeAnEntrance
 
-98 songs - 4 hr 49 min
+98 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [WWE: Hands Of Fate \(Oba Femi\)](https://open.spotify.com/track/2JsnG08UfdFsYRYt0j1i7P) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Hands Of Fate \(Oba Femi\)](https://open.spotify.com/album/5PBtuJ1YG3igOJ9gIg2LmW) | 2:53 | 2024-04-01 |  |
 | [WWE: Head of the Table \(Roman Reigns\)](https://open.spotify.com/track/6uDbAF84weCrivI4T0QXbx) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Head of the Table \(Roman Reigns\)](https://open.spotify.com/album/4nOkHuvHXSQFc2VY6QtNJw) | 2:56 | 2024-04-01 |  |
 | [WWE: Hellfire \(Sheamus\)](https://open.spotify.com/track/75ZsXuef7vnxkvhsXO3bqf) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [CFO$](https://open.spotify.com/artist/4aemlCxfmvFjJa8YKvaiJI) | [WWE: Hellfire \(Sheamus\)](https://open.spotify.com/album/5K9wJcOEzVawDVDnPuOTtU) | 4:27 | 2024-04-01 | 2024-07-30 |
-| [WWE: Hot Mess \(Chelsea Green\)](https://open.spotify.com/track/18oLIhHW9TBsCP3WifYgcd) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Hot Mess \(Chelsea Green\)](https://open.spotify.com/album/0Oy5oIJNLiUwo6AkYqsCE5) | 2:27 | 2024-04-01 |  |
+| [WWE: Hot Mess \(Chelsea Green\)](https://open.spotify.com/track/18oLIhHW9TBsCP3WifYgcd) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Hot Mess \(Chelsea Green\)](https://open.spotify.com/album/0Oy5oIJNLiUwo6AkYqsCE5) | 2:58 | 2024-04-01 |  |
 | [WWE: I Am A Psycho \(Shotzi\)](https://open.spotify.com/track/463ybNbB3xgRel2gOS0C3X) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: I Am A Psycho \(Shotzi\)](https://open.spotify.com/album/3K2OAWPu5k1Rx8NkWFq5K1) | 2:45 | 2024-04-01 | 2024-04-19 |
 | [WWE: I AM DANGER \(Finn Bálor\)](https://open.spotify.com/track/45G4QkIjK4Oob3K3arZxFG) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: I AM DANGER \(Finn Bálor\)](https://open.spotify.com/album/155GrLDub8fOPCKGB8iAYs) | 2:29 | 2024-04-01 |  |
 | [WWE: I Came To Play \(The Miz\)](https://open.spotify.com/track/0VMqWQGY5xb2yi98bS6z2b) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Downstait](https://open.spotify.com/artist/4g6EnIPhmYBTZ7vsmxDkxH) | [WWE: I Came To Play \(The Miz\)](https://open.spotify.com/album/32niZysz2D9Kn2poOejBfw) | 4:56 | 2024-04-01 |  |

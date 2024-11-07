@@ -4,7 +4,7 @@
 
 > Beach vibes and summer jams only.
 
-607 songs - 23 hr 26 min
+609 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Evening Cool](https://open.spotify.com/track/76PWGkQYyMhz4TlGuDkb75) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Evening Cool](https://open.spotify.com/album/3XOAlDXBSqPhlETWq4ho7x) | 3:00 | 2024-08-09 |  |
 | [Falling Leaves](https://open.spotify.com/track/1LpLdL8nYXqSwaGOcx1CDo) | [Major 7th](https://open.spotify.com/artist/1eKUGFWkjbCNgqzmEkUpq4) | [Falling Leaves](https://open.spotify.com/album/0uDA4G2xvMChwOwyXZb4ey) | 2:30 | 2022-05-20 |  |
 | [Fandango](https://open.spotify.com/track/69Q3BvKjpIeCJkCcvPxs7R) | [MAGICMINT](https://open.spotify.com/artist/7j9F86nfXHaXafSysyXi2w) | [Fandango](https://open.spotify.com/album/4cZZmm6GTU65XQGffLWeaS) | 2:07 | 2022-05-20 |  |
-| [Faster](https://open.spotify.com/track/74HsEuxWpgnH0osQ3LT7UP) | [LelleXCX](https://open.spotify.com/artist/0fjlNlZw225NEmBfLcYg6t) | [Youth](https://open.spotify.com/album/6EsM3MnrEP0kcCf73zoHlF) | 2:29 | 2022-05-20 |  |
+| [Faster](https://open.spotify.com/track/74HsEuxWpgnH0osQ3LT7UP) | [LelleXCX](https://open.spotify.com/artist/0fjlNlZw225NEmBfLcYg6t) | [Youth](https://open.spotify.com/album/6EsM3MnrEP0kcCf73zoHlF) | 2:29 | 2022-05-20 | 2024-11-07 |
 | [Feeling Good](https://open.spotify.com/track/5woq04bPb5fZ4bB8wfOkuC) | [Leo Motta](https://open.spotify.com/artist/6ugB87XnwqEwHL5s6ovPAP), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Feeling Good](https://open.spotify.com/album/04KGyqHLNP0cl3rjshLuOo) | 2:36 | 2022-08-19 | 2024-09-07 |
 | [feeling tropical](https://open.spotify.com/track/7Gob0f79Tu0ZmguwVXhMHP) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [feeling tropical](https://open.spotify.com/album/1jsJNt80DVzl4dKWcz5HqL) | 2:09 | 2022-10-14 | 2024-08-10 |
 | [Feels Like Home](https://open.spotify.com/track/58XGuacTUZLerQAbrOLFHe) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk), [Smith Beats](https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Feels Like Home](https://open.spotify.com/album/4vfuToHZU1hHblhJbYZ22S) | 1:50 | 2024-08-30 |  |
@@ -232,6 +232,7 @@
 | [Green Papaya](https://open.spotify.com/track/6Yxr92emQ8EtwDXmtmCjkc) | [Slo Five](https://open.spotify.com/artist/5irIh5qdcXwDG9p7EWegeN) | [Green Papaya](https://open.spotify.com/album/1VckGJVrcsetxNEZnIDRvG) | 2:53 | 2022-07-22 | 2022-10-14 |
 | [Group Study](https://open.spotify.com/track/5OxxVnONU85inGDHoRBs2M) | [Maoen](https://open.spotify.com/artist/1bKSEAwS6nhv0kTYWfRkZK), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Group Study](https://open.spotify.com/album/1cUyNhvm1u0k9TKeIswkoq) | 1:30 | 2022-05-20 | 2022-11-26 |
 | [Guanabara Bay](https://open.spotify.com/track/0m6D9IkrHoqB0mNSjK13VB) | [Leo Motta](https://open.spotify.com/artist/6ugB87XnwqEwHL5s6ovPAP), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Guanabara Bay](https://open.spotify.com/album/5iNnZfkQ0VxtfMFpwlWxax) | 1:45 | 2022-07-22 | 2022-09-09 |
+| [Gyrate](https://open.spotify.com/track/1JeftR8QWUfMGCM0VLp1Jz) | [Glow Down](https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn) | [Gyrate](https://open.spotify.com/album/4xYrTWOH9flRKzlbi5cFXE) | 2:23 | 2024-11-06 |  |
 | [Habana Vieja](https://open.spotify.com/track/1mI09jvN78SzxAk3pvHmiD) | [Yumas](https://open.spotify.com/artist/3xmU1hRg5TC6koUJ24CRBv) | [¿Qué bolá?](https://open.spotify.com/album/2IVF0eGQmUwWVHRZ5sBtZg) | 3:06 | 2022-05-20 |  |
 | [Hammer](https://open.spotify.com/track/5tLMIpf7vZrIuRZPdh243H) | [Loyla Lo](https://open.spotify.com/artist/64Xx19yQZ3j5RzbTIG7Yl7) | [Sun Study](https://open.spotify.com/album/3vWeMRKNEpdkaJJPEDcFJX) | 1:43 | 2022-05-20 | 2022-09-09 |
 | [Hang Loose](https://open.spotify.com/track/3L6JCDBBjN9i0uyoUbfoFv) | [evans](https://open.spotify.com/artist/3Dm30k7Otucd2Yfq7V1mQ6), [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x) | [Hang Loose](https://open.spotify.com/album/3jFrUE9Uw1V7XsqPJa70bZ) | 1:46 | 2022-05-20 | 2022-11-20 |
@@ -470,6 +471,7 @@
 | [Smelling the Roses](https://open.spotify.com/track/493d6uVigrpHLvzElL5eEd) | [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf), [Igor Utzig](https://open.spotify.com/artist/0SK3nj1aKuSNtBRvEow982) | [Smelling the Roses](https://open.spotify.com/album/3zuraDIrNwYLQE5XLA3xDb) | 2:17 | 2022-08-19 |  |
 | [So Seductive](https://open.spotify.com/track/2BDKKL4We7h8JwGk4NWpE5) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [So Seductive](https://open.spotify.com/album/5YoehEM1Hr5aE4gtrkN95m) | 3:12 | 2022-05-27 | 2024-06-15 |
 | [Soft Slap](https://open.spotify.com/track/3umoNiC2gyJ4oaGj7t74Zk) | [Dream Web](https://open.spotify.com/artist/0xhiRy2F05NVIpB4GKReES) | [Soft Slap](https://open.spotify.com/album/4KZNYiyOffr0ugdRRcgFMK) | 4:03 | 2022-05-20 |  |
+| [Soft Sunsets](https://open.spotify.com/track/1ChQHADZfxqbO1IvWDIqAd) | [Guiseppe](https://open.spotify.com/artist/4HP2Lyk5M4bEADiSVz2tbt) | [Soft Sunsets](https://open.spotify.com/album/0csztTNlDcDqKG6UVjzKLK) | 2:33 | 2024-11-06 |  |
 | [Soleil](https://open.spotify.com/track/2LTcqJRepokYQMofS53rjt) | [Geezmo](https://open.spotify.com/artist/4WeV818vJ6dSmgg6c8VA49) | [Soleil](https://open.spotify.com/album/4LUbRwvbihVlvuo2t7b5v5) | 1:52 | 2022-07-01 | 2023-10-23 |
 | [Solution](https://open.spotify.com/track/59KFxZW9JsG5ZCImfl037l) | [slvmdunk](https://open.spotify.com/artist/6xWPNNIPMMeXMqzJ8o0T3w) | [Solution](https://open.spotify.com/album/0JeowS9xwEgfLOdORmWc5l) | 2:54 | 2022-05-20 | 2022-07-01 |
 | [Something Has Happened](https://open.spotify.com/track/5irlm4HR7wslp9BTuMlLQo) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi), [Hippo Dreams](https://open.spotify.com/artist/7d1hAWnZ7H67F3aarrkr9H), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Artifacts](https://open.spotify.com/album/5J0M15urtyOM5CxTjtgT8F) | 1:56 | 2022-05-20 |  |

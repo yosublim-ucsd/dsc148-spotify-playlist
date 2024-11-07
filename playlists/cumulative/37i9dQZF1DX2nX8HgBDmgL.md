@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: AP Dhillon
 
-277 songs - 14 hr 57 min
+280 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Balo Batiyan \(feat\. Atta Ullah Khan Esakhelvi\)](https://open.spotify.com/track/5qxSNZz2m8wNH61JYo7bVL) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ), [Atta Ullah Khan Esakhelvi](https://open.spotify.com/artist/5goEfEtiQpnBEZBfGGeCrL) | [Balo Batiyan \(feat\. Atta Ullah Khan Esakhelvi\)](https://open.spotify.com/album/22RiQmJXIj68bbqOUNlVAm) | 3:22 | 2024-04-11 | 2024-09-10 |
 | [Barood Wargi](https://open.spotify.com/track/5BWIrdXMuMewFbyXBntyjA) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [San\-B](https://open.spotify.com/artist/5F5Gjm7dSLUY66aTEUR1pD), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Barood Wargi](https://open.spotify.com/album/3mELIQNKJF2jSZmPL086Jm) | 3:51 | 2022-07-18 | 2024-02-23 |
 | [Bas Tu](https://open.spotify.com/track/2xo3oFUXpZy5mgVyj0qYSB) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt) | [Arrival](https://open.spotify.com/album/656ie0ZaD1avko2b4WpwOD) | 2:59 | 2021-11-11 | 2022-07-19 |
+| [Batao Zara](https://open.spotify.com/track/0gJvdpmfUYTksHzTptBQew) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Out of Control](https://open.spotify.com/album/7bght7slNBH8AuYHdIlvYf) | 3:14 | 2024-11-06 |  |
 | [Bella \- Remix](https://open.spotify.com/track/08tD6v1NxBVogoCMEAjfcy) | [RUGGED](https://open.spotify.com/artist/7HVtSgsv5Ye0Y6ntC97jbW), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Bella \(Remix\)](https://open.spotify.com/album/6peugWzEh178js54Sqzf8G) | 2:51 | 2021-11-11 | 2022-07-19 |
 | [Bematlab](https://open.spotify.com/track/1p6AnftoxhGTuei5RnsvIy) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [BEMATLAB](https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es) | 3:48 | 2024-04-29 | 2024-06-14 |
 | [Beqadra](https://open.spotify.com/track/4LIQacKPUjto8rVlVuY09O) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Beqadra](https://open.spotify.com/album/5SGHD9oHkRZ2zkYDcfGqq5) | 3:03 | 2024-02-22 |  |
@@ -57,6 +58,7 @@
 | [Chan Kithan](https://open.spotify.com/track/7A5AXwJZ6DRVSGgHk82ww6) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Chan Kithan](https://open.spotify.com/album/3uT8TZPflh9SQBQw7tZoeH) | 3:53 | 2024-02-22 | 2024-03-20 |
 | [Changes](https://open.spotify.com/track/1vu9t6ctWcJyp05cyYSPzC) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Arrival](https://open.spotify.com/album/656ie0ZaD1avko2b4WpwOD) | 3:19 | 2021-11-11 | 2022-07-19 |
 | [Chemistry](https://open.spotify.com/track/3Owi1WFOGSbb8rqspfVEO4) | [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [H\-Dhami](https://open.spotify.com/artist/0GgtsI54TB5WM3350rYpvK) | [Chemistry](https://open.spotify.com/album/3cx7Q9tJE4JZVWF9pghpAn) | 2:47 | 2021-11-11 | 2022-07-19 |
+| [Chhaila \(From "Bhoomi 2024"\)](https://open.spotify.com/track/5AI0ggBid3MhMhsFQDyRwk) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Chhaila \(From "Bhoomi 2024"\)](https://open.spotify.com/album/7jt9ta30emHh5myR2YButg) | 3:50 | 2024-11-06 |  |
 | [Chidiya](https://open.spotify.com/track/0aoN9BQostK81IFddJn8Ej) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Chidiya](https://open.spotify.com/album/6xecxwI17jdNrGKvHPIqVc) | 4:13 | 2024-02-22 |  |
 | [Chori Chori](https://open.spotify.com/track/06gywLVa2SQz9lqlDEOpy3) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Chori Chori](https://open.spotify.com/album/4CXtHDOWbfetK0RWxA2KV4) | 2:37 | 2024-03-08 | 2024-03-20 |
 | [Cleopatra](https://open.spotify.com/track/0YIS5mqANRBYctDGoT48n7) | [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [SKYPEARL](https://open.spotify.com/album/4QJAdeUYpNo8d4Xcsc5q23) | 3:10 | 2022-07-18 | 2024-02-23 |
@@ -124,6 +126,7 @@
 | [Jama Kar](https://open.spotify.com/track/0zyMXraAjJoqD7EWSnRqHS) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Jama Kar](https://open.spotify.com/album/63zSAE7el24bx7PvQKex5B) | 3:27 | 2022-07-18 | 2024-02-23 |
 | [Jatt Mehkma](https://open.spotify.com/track/61R3DMR4U2n25qgX9ryciJ) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:15 | 2024-08-26 | 2024-09-10 |
 | [Jeeja](https://open.spotify.com/track/31DFOzgOdnouxpEMkGxqLj) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Jeeja](https://open.spotify.com/album/67f7Y1eC1AJkYAO4rBiJlz) | 3:01 | 2024-08-09 | 2024-09-10 |
+| [Jeeja](https://open.spotify.com/track/50Tnv26RDHddH0mXi1vgfU) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Out of Control](https://open.spotify.com/album/7bght7slNBH8AuYHdIlvYf) | 3:01 | 2024-11-06 |  |
 | [Jhol](https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Jhol](https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y) | 4:25 | 2024-08-09 |  |
 | [Jo Tu Na Mila](https://open.spotify.com/track/6DefzsWqnwrFrmNVnJxWkS) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Jo Tu Na Mila](https://open.spotify.com/album/4KSvSqPJwTo7qMxP4XyIaH) | 3:54 | 2024-02-22 |  |
 | [Jo Tum Mere Ho](https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Jo Tum Mere Ho](https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW) | 4:11 | 2024-08-09 |  |

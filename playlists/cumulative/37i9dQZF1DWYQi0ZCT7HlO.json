@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "I Heard the Bells on Christmas Day",
+        "url": "https://open.spotify.com/album/09SAMjkZHbIuK3QGmBH4fE"
+      },
+      "artists": [
+        {
+          "name": "The Guy Downstairs",
+          "url": "https://open.spotify.com/artist/4xE3jQ2KgDqoKkz4F4GFud"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170443,
+      "name": "I Heard the Bells on Christmas Day",
+      "url": "https://open.spotify.com/track/4BT4Wk0PWYFSoJdiBzZPqU"
+    },
+    {
+      "album": {
         "name": "Do You Hear What I Hear",
         "url": "https://open.spotify.com/album/5211ajJwXcxcWkP9gX0sKf"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 7513,
+  "num_followers": 7524,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -95,18 +95,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv"
+        "name": "Onyame Boafuo",
+        "url": "https://open.spotify.com/album/3A9h6NBLzC7335Gfj26VXg"
       },
       "artists": [
         {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+          "name": "Esther Smith",
+          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
         }
       ],
-      "duration_ms": 269169,
-      "name": "Mo Ne Yo",
-      "url": "https://open.spotify.com/track/2dopQvR9fcAJwlR40o3yLD"
+      "duration_ms": 316055,
+      "name": "Nipa",
+      "url": "https://open.spotify.com/track/0XJE7VhpUDo9i1bVi94Kgt"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -127,18 +127,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Onyame Boafuo",
-        "url": "https://open.spotify.com/album/3A9h6NBLzC7335Gfj26VXg"
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv"
       },
       "artists": [
         {
-          "name": "Esther Smith",
-          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
         }
       ],
-      "duration_ms": 316055,
-      "name": "Nipa",
-      "url": "https://open.spotify.com/track/0XJE7VhpUDo9i1bVi94Kgt"
+      "duration_ms": 269169,
+      "name": "Mo Ne Yo",
+      "url": "https://open.spotify.com/track/2dopQvR9fcAJwlR40o3yLD"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -207,30 +207,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "A Sound from Heaven",
-        "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
+        "name": "Onyame Wo Ho",
+        "url": "https://open.spotify.com/album/2DPjutXnhem2N3yTQfnFMo"
       },
       "artists": [
         {
-          "name": "Denzel Prempeh",
-          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
-        },
-        {
-          "name": "Naa Mercy",
-          "url": "https://open.spotify.com/artist/21ARrGfmU7xp92nCM0N4ib"
-        },
-        {
-          "name": "Calvis Hammond",
-          "url": "https://open.spotify.com/artist/7BtTdyh7xO8z4T7gpXA6Hh"
-        },
-        {
-          "name": "Negar Wujanji",
-          "url": "https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi"
+          "name": "Esther Smith",
+          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
         }
       ],
-      "duration_ms": 977893,
-      "name": "Ghana Local Worship",
-      "url": "https://open.spotify.com/track/3ckzZvKEnsIa9kWrXrQMlK"
+      "duration_ms": 302628,
+      "name": "Me Da Wase",
+      "url": "https://open.spotify.com/track/0GWEgzFgCq4lHxQ1kRg5Om"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -283,6 +271,34 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "A Sound from Heaven",
+        "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
+      },
+      "artists": [
+        {
+          "name": "Denzel Prempeh",
+          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
+        },
+        {
+          "name": "Naa Mercy",
+          "url": "https://open.spotify.com/artist/21ARrGfmU7xp92nCM0N4ib"
+        },
+        {
+          "name": "Calvis Hammond",
+          "url": "https://open.spotify.com/artist/7BtTdyh7xO8z4T7gpXA6Hh"
+        },
+        {
+          "name": "Negar Wujanji",
+          "url": "https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi"
+        }
+      ],
+      "duration_ms": 977893,
+      "name": "Ghana Local Worship",
+      "url": "https://open.spotify.com/track/3ckzZvKEnsIa9kWrXrQMlK"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Akristofoo Adooso",
         "url": "https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 307173,
       "name": "Meda Wase",
       "url": "https://open.spotify.com/track/70KR4uRhhDOjBYv8fK50SL"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Onyame Wo Ho",
-        "url": "https://open.spotify.com/album/2DPjutXnhem2N3yTQfnFMo"
-      },
-      "artists": [
-        {
-          "name": "Esther Smith",
-          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
-        }
-      ],
-      "duration_ms": 302628,
-      "name": "Me Da Wase",
-      "url": "https://open.spotify.com/track/0GWEgzFgCq4lHxQ1kRg5Om"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Obi Nyanime",
-        "url": "https://open.spotify.com/album/529oA87giAzWVG0dCQfOaZ"
-      },
-      "artists": [
-        {
-          "name": "Patience Nyarko",
-          "url": "https://open.spotify.com/artist/1PN3MECm6tJsYl7UB9wiYI"
-        }
-      ],
-      "duration_ms": 374230,
-      "name": "Obi Nyanime",
-      "url": "https://open.spotify.com/track/2viwGf2amzhI31dEOx9Zc5"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Akristofoo Adooso",
         "url": "https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 442409,
       "name": "Akristofoo Adooso",
       "url": "https://open.spotify.com/track/7E889Da9t6o7vx8HdaDryH"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Obi Nyanime",
+        "url": "https://open.spotify.com/album/529oA87giAzWVG0dCQfOaZ"
+      },
+      "artists": [
+        {
+          "name": "Patience Nyarko",
+          "url": "https://open.spotify.com/artist/1PN3MECm6tJsYl7UB9wiYI"
+        }
+      ],
+      "duration_ms": 374230,
+      "name": "Obi Nyanime",
+      "url": "https://open.spotify.com/track/2viwGf2amzhI31dEOx9Zc5"
     },
     {
       "added_at": "2024-05-22 11:00:00",

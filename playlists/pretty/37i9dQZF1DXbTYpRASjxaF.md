@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Todos pro alto, cada um com o seu\. Foto: Abbot
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,341 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,364 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 38 | [Caninana](https://open.spotify.com/track/1XnpXcjzsRfrnJ8C3A8gwz) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Caninana](https://open.spotify.com/album/6d9BZBis5P7afGnwxPMA4n) | 3:10 |
 | 39 | [Sorento](https://open.spotify.com/track/2rOqtBzFO9jNj9PH7NV7U6) | [Kroos](https://open.spotify.com/artist/6DhuCfHKjbit0qhjMripJT), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS) | [Sorento](https://open.spotify.com/album/0cH0pjhCL9u5qJHkACqQCu) | 2:38 |
 | 40 | [Flerte](https://open.spotify.com/track/2psH9Fga5Tzmv56JlubiNn) | [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1), [A$TRO PITBULL](https://open.spotify.com/artist/2rhPASsMJ3MBzKdbrF9UMJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Mixtape Novset, Vol\. 1](https://open.spotify.com/album/7kcsgu8mvNtnM9DUoMg2U6) | 2:51 |
-| 41 | [Viajando no Drink](https://open.spotify.com/track/0ngPNTMc61IXHjXfICELOG) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW) | [Viajando no Drink](https://open.spotify.com/album/1dfKhQbzAcaY78lVm4eUDq) | 3:36 |
-| 42 | [Date](https://open.spotify.com/track/51TPPeZpsia4O6EGhFXrYP) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Date](https://open.spotify.com/album/3WAICN4NCMJpkY7uG1DcIK) | 2:40 |
+| 41 | [Date](https://open.spotify.com/track/51TPPeZpsia4O6EGhFXrYP) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Date](https://open.spotify.com/album/3WAICN4NCMJpkY7uG1DcIK) | 2:40 |
+| 42 | [Viajando no Drink](https://open.spotify.com/track/0ngPNTMc61IXHjXfICELOG) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW) | [Viajando no Drink](https://open.spotify.com/album/1dfKhQbzAcaY78lVm4eUDq) | 3:36 |
 | 43 | [Remessa Estrangeira \- Remix](https://open.spotify.com/track/7uAJuitwU51BhTzlTIIsKN) | [2HEAVY BEATS](https://open.spotify.com/artist/2of4ilOUWTaYTqy3qgnUQQ), [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1) | [Remessa Estrangeira \(Remix\)](https://open.spotify.com/album/5ZbWv2KbDYbhZTLcLrlBPr) | 1:57 |
 | 44 | [Thanos](https://open.spotify.com/track/4Eku46SnDjAzqoJNN3a99T) | [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS) | [Thanos](https://open.spotify.com/album/7Al64HfSoM38DMI3qu0jy9) | 2:15 |
 | 45 | [Ambições E Vícios](https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Real Bege](https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 2:01 |

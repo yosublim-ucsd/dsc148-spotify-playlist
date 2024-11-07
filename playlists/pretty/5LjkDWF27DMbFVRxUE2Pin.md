@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LjkDWF27DMbFVRxUE2Pin.md) - [plain]
 
 > 
 
-[Arran Ross\-Paterson](https://open.spotify.com/user/arranrp) - 10 likes - 420 songs - 1 day 3 hr 22 min
+[Arran Ross\-Paterson](https://open.spotify.com/user/arranrp) - 10 likes - 425 songs - 1 day 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -428,5 +428,10 @@ pretty - [cumulative](/playlists/cumulative/5LjkDWF27DMbFVRxUE2Pin.md) - [plain]
 | 418 | [The Weather Left To Go](https://open.spotify.com/track/2kF5FIyyMDvKUuEnz7IwjD) | [Far From Saints](https://open.spotify.com/artist/4EEgkAsMjvBxu9iSHS3j7r) | [The Weather Left To Go](https://open.spotify.com/album/5vD3vIPyJkgDy672uqR9Fm) | 3:15 |
 | 419 | [A Martyr for My Love for You](https://open.spotify.com/track/1JiA9BE3iRNzU2BJG0UHgs) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/1Mu6HgmdfdiQTOZ8mPEyFU) | 4:18 |
 | 420 | [Hi Ren](https://open.spotify.com/track/0FLwYQoXvX8q5iRZnFX59u) | [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM) | [Hi Ren](https://open.spotify.com/album/2wXIwZRV93MS5en0FQuDMA) | 8:35 |
+| 421 | [Mary On A Cross](https://open.spotify.com/track/2wBnZdVWa5jVpvYRfGU7rP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches of Satanic Panic](https://open.spotify.com/album/0dfSsZm64lSVeIcbcS2cYi) | 4:04 |
+| 422 | [Square Hammer](https://open.spotify.com/track/5TNhjanmvwvmjCz2WYwSAv) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN) | 3:59 |
+| 423 | [Dance Macabre](https://open.spotify.com/track/4pIKFpwflOdhYNIRmPTj3E) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 3:39 |
+| 424 | [Life Eternal](https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 3:27 |
+| 425 | [The Future Is A Foreign Land](https://open.spotify.com/track/2KGCpxjbU3Mqf1elFvVabE) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Rite Here Rite Now \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi) | 3:45 |
 
-Snapshot ID: `AAAB+Qoy/fmgBgfjNUbY2Mo9aWf7+5C+`
+Snapshot ID: `AAAB/iSR8p7IQeyexWSSXpv8tX8ND27W`

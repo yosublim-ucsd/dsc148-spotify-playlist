@@ -1,6 +1,6 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 177444,
+  "num_followers": 177509,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2024-05-28 16:28:00",
       "album": {
-        "name": "The Green Light (The Great Gatsby) [Piano Version]",
-        "url": "https://open.spotify.com/album/63hveeHmbv5Kb1sRK1rIsd"
-      },
-      "artists": [
-        {
-          "name": "Je Suis Parte",
-          "url": "https://open.spotify.com/artist/0CAXDOuageq5zwYSpTqe63"
-        }
-      ],
-      "duration_ms": 137560,
-      "name": "The Green Light (The Great Gatsby) - Piano Version",
-      "url": "https://open.spotify.com/track/1JrIcQ0MzD0B6OddEflF0U"
-    },
-    {
-      "added_at": "2024-05-28 16:28:00",
-      "album": {
         "name": "Steady, Thyself (Piano Version)",
         "url": "https://open.spotify.com/album/3CrQl35Gjn3Qg9xuodrCbi"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 185387,
       "name": "Steady, Thyself (Piano Version)",
       "url": "https://open.spotify.com/track/4bl7oOOlzQEQnhxlY6298O"
+    },
+    {
+      "added_at": "2024-05-28 16:28:00",
+      "album": {
+        "name": "The Green Light (The Great Gatsby) [Piano Version]",
+        "url": "https://open.spotify.com/album/63hveeHmbv5Kb1sRK1rIsd"
+      },
+      "artists": [
+        {
+          "name": "Je Suis Parte",
+          "url": "https://open.spotify.com/artist/0CAXDOuageq5zwYSpTqe63"
+        }
+      ],
+      "duration_ms": 137560,
+      "name": "The Green Light (The Great Gatsby) - Piano Version",
+      "url": "https://open.spotify.com/track/1JrIcQ0MzD0B6OddEflF0U"
     },
     {
       "added_at": "2024-05-28 16:28:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-05-28 16:28:00",
       "album": {
+        "name": "Everything Is Everything Else",
+        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
+      },
+      "artists": [
+        {
+          "name": "Luke Duffy",
+          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
+        }
+      ],
+      "duration_ms": 281841,
+      "name": "Everything Is Everything Else",
+      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
+    },
+    {
+      "added_at": "2024-05-28 16:28:00",
+      "album": {
         "name": "Swan Lake Story",
         "url": "https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 170375,
       "name": "Swan Lake Story, Op. 1",
       "url": "https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU"
-    },
-    {
-      "added_at": "2024-05-28 16:28:00",
-      "album": {
-        "name": "Everything Is Everything Else",
-        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
-      },
-      "artists": [
-        {
-          "name": "Luke Duffy",
-          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
-        }
-      ],
-      "duration_ms": 281841,
-      "name": "Everything Is Everything Else",
-      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
     },
     {
       "added_at": "2024-05-28 16:28:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-05-28 16:28:00",
       "album": {
+        "name": "How Time Works",
+        "url": "https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE"
+      },
+      "artists": [
+        {
+          "name": "Eric Carlson",
+          "url": "https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "How Time Works",
+      "url": "https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh"
+    },
+    {
+      "added_at": "2024-05-28 16:28:00",
+      "album": {
         "name": "First Time Of Heaven (Piano and Strings)",
         "url": "https://open.spotify.com/album/5J4JVqt7PgLD5RzwYt5FjG"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 136521,
       "name": "First Time Of Heaven - Piano and Strings",
       "url": "https://open.spotify.com/track/28xXlF8sz0TgNL52WI7VkT"
-    },
-    {
-      "added_at": "2024-05-28 16:28:00",
-      "album": {
-        "name": "How Time Works",
-        "url": "https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE"
-      },
-      "artists": [
-        {
-          "name": "Eric Carlson",
-          "url": "https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "How Time Works",
-      "url": "https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh"
     },
     {
       "added_at": "2024-05-28 16:28:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-05-28 16:28:00",
       "album": {
-        "name": "Be Here Now",
-        "url": "https://open.spotify.com/album/5uXs3lwuibE9vUFisIoGmH"
-      },
-      "artists": [
-        {
-          "name": "Norman D\u00fcck",
-          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
-        }
-      ],
-      "duration_ms": 136932,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/6FC7o2qC7oU1Aa6qJAnptQ"
-    },
-    {
-      "added_at": "2024-05-28 16:28:00",
-      "album": {
         "name": "Adventure",
         "url": "https://open.spotify.com/album/5AuYjfOuvm2mcAoJiQV0Sn"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 222909,
       "name": "Adventure",
       "url": "https://open.spotify.com/track/6hAQReL2lY2ygoJF0nXQic"
+    },
+    {
+      "added_at": "2024-05-28 16:28:00",
+      "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/5uXs3lwuibE9vUFisIoGmH"
+      },
+      "artists": [
+        {
+          "name": "Norman D\u00fcck",
+          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
+        }
+      ],
+      "duration_ms": 136932,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/6FC7o2qC7oU1Aa6qJAnptQ"
     },
     {
       "added_at": "2024-05-28 16:28:00",

@@ -1,6 +1,6 @@
 {
   "description": "Les sons les plus frais du Rap Tunisien sont ici. Cover : A.L.A",
-  "num_followers": 53964,
+  "num_followers": 53977,
   "original_name": "RapTounsi",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "ZyNc4wAAAABsSb+5Ouh3DUo09d2I6ZGm",
   "tracks": [
+    {
+      "added_at": "2024-10-31 10:33:07",
+      "album": {
+        "name": "Hybrid",
+        "url": "https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe"
+      },
+      "artists": [
+        {
+          "name": "A.L.A",
+          "url": "https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Ya Ghali",
+      "url": "https://open.spotify.com/track/1yNQQl0pUxWwJcy2Uhln0Q"
+    },
     {
       "added_at": "2024-10-31 10:33:07",
       "album": {

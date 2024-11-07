@@ -1926,6 +1926,24 @@
     {
       "album": {
         "name": "Wirang",
+        "url": "https://open.spotify.com/album/1Jx1rCdsljF4gOMxPuhDsR"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318242,
+      "name": "Wirang",
+      "url": "https://open.spotify.com/track/5MxlCCea2uHpVk8t8n8sj3"
+    },
+    {
+      "album": {
+        "name": "Wirang",
         "url": "https://open.spotify.com/album/1OdvMWMKFQGzLJ92gU8Atc"
       },
       "artists": [

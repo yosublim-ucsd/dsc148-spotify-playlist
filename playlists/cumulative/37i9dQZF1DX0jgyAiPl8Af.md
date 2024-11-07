@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-816 songs - 1 day 11 hr 14 min
+819 songs - 1 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Fortnight ago](https://open.spotify.com/track/2WjxJuMb7Fl3wi0hQtnkFA) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Fortnight ago](https://open.spotify.com/album/2pDbN5sRfuZUA7W7gCAciD) | 2:03 | 2023-05-12 |  |
 | [Frelsien](https://open.spotify.com/track/3FyCPb0sXgPpBnsvIosqAZ) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Frelsien](https://open.spotify.com/album/2xX3upugD201f0C2N2AsPr) | 2:10 | 2023-05-26 |  |
 | [French Town](https://open.spotify.com/track/4KVbd3DdAlN6soY6VlsyQm) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [French Town](https://open.spotify.com/album/0GtfbWiV49Sk0KPFKy4E0z) | 2:22 | 2024-05-24 |  |
+| [Full Of Life](https://open.spotify.com/track/3J27JxJCR0M6KgacpLfVAC) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Full Of Life](https://open.spotify.com/album/2TNQtjdGUSaiq5FIA2ZL1p) | 2:23 | 2024-11-06 |  |
 | [Gabriel's Oboe](https://open.spotify.com/track/6DFN75dhFdP6DAoN825wnA) | [Jürg Kindle](https://open.spotify.com/artist/5vmlpBR3GPFV5vYLSIZ7Tm) | [Once Upon A Time \(Great Movie Melodies by Ennio Morricone\)](https://open.spotify.com/album/3oAzWbsDHCeNDd4GlBzusG) | 2:59 | 2022-06-03 | 2022-06-17 |
 | [Galtymore](https://open.spotify.com/track/4NkVCOn4HmV6EvxIpAjInt) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Galtymore](https://open.spotify.com/album/52jTyKeU3kMpaUYrOyHaW2) | 1:57 | 2022-03-18 | 2023-08-19 |
 | [Gambrels of the Sky](https://open.spotify.com/track/6AYKnVV6OEgnOreURn48Kt) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Gambrels of the Sky](https://open.spotify.com/album/4UwgahnCyZDBe2L0jJLGGR) | 2:09 | 2022-12-16 | 2024-05-04 |
@@ -289,6 +290,7 @@
 | [Guarisci il mio Cuore](https://open.spotify.com/track/7EaZOfcQgKj53K2FPKWpIk) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Savoca](https://open.spotify.com/album/2slTVldYU5nAHltkYsEyS0) | 3:09 | 2021-12-08 | 2024-04-05 |
 | [Guitar Serenade](https://open.spotify.com/track/3BhgiGAwSs7PLGyW0ErORB) | [Samuel T\. Wesley](https://open.spotify.com/artist/5v9utvxIaiOg8XKnUge42h) | [Guitar Serenade](https://open.spotify.com/album/3X86hB3CyzqmkWP18Gp0jJ) | 1:28 | 2022-02-01 | 2023-08-19 |
 | [Hallelujah](https://open.spotify.com/track/7uhgHXvl8iluHcOm7MoP77) | [Mike Ilyas](https://open.spotify.com/artist/2owXblciNaXXMUdm6nNfDe) | [Hallelujah](https://open.spotify.com/album/4VCVGxXhgcBjPROtRoeTNz) | 3:32 | 2022-09-16 | 2022-11-26 |
+| [Harbor Light](https://open.spotify.com/track/4IsEpm8Krhp2eyyu7wsooI) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Harbor Light](https://open.spotify.com/album/3SuzrVzAA7XHa5oSFgMEoZ) | 2:52 | 2024-11-06 |  |
 | [Harvest](https://open.spotify.com/track/3cx5cOuPaj3Yi0rRA5qSeu) | [Esther Lopez](https://open.spotify.com/artist/0Lt4RoVhvgZx1byuzqMAQc) | [Harvest](https://open.spotify.com/album/5b7JGt4Rm4J5OLwg0vN5Mc) | 2:19 | 2023-08-10 |  |
 | [Haute Garonne](https://open.spotify.com/track/76loNX1slkkTetxZZQ183q) | [Christopher Renault](https://open.spotify.com/artist/3QrTQRLyYqfw8K2zzFsEn4) | [back in time](https://open.spotify.com/album/1iZlR1EQhzM6itJ396l41C) | 3:18 | 2021-12-08 | 2022-07-08 |
 | [Havana Vieja](https://open.spotify.com/track/5ykTeQ3ky7XyS7js8jqRNW) | [Lester Hope](https://open.spotify.com/artist/3tgc4N85veoQX4jjx62ivq) | [Havana Vieja](https://open.spotify.com/album/4G5bMXtQj8ZR99j6QU1Oqf) | 2:51 | 2022-03-04 | 2024-06-01 |
@@ -469,7 +471,7 @@
 | [Moon Hearts](https://open.spotify.com/track/6iC68UqmwcLfceDrhFdE69) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Moon Hearts](https://open.spotify.com/album/4m6Vz7DuJL1u4ezzqHZbOt) | 2:48 | 2022-10-28 | 2024-04-05 |
 | [Moon River](https://open.spotify.com/track/68TB2FZJMOpnb7ZCypjxOv) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Moon River](https://open.spotify.com/album/1laCd0yZoeEPJTkVz880fv) | 4:55 | 2022-08-05 | 2022-09-23 |
 | [Moondust](https://open.spotify.com/track/4f4IeJgCi2IVwmjqbDzDON) | [Gabriel Femi](https://open.spotify.com/artist/5TfOpr1QMPSdpygmQvf1qX) | [Moondust](https://open.spotify.com/album/1qZvjFoXmGVvCTWNd9YPef) | 2:09 | 2022-12-09 | 2023-03-25 |
-| [More than this](https://open.spotify.com/track/4mnfj436ikMOudVg4QEPsj) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [More than this](https://open.spotify.com/album/5u06wlVmeF3Zl6NJReboo8) | 2:39 | 2024-01-12 |  |
+| [More than this](https://open.spotify.com/track/4mnfj436ikMOudVg4QEPsj) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [More than this](https://open.spotify.com/album/5u06wlVmeF3Zl6NJReboo8) | 2:39 | 2024-01-12 | 2024-11-07 |
 | [Morgensonne](https://open.spotify.com/track/3ozSKHP42w2mYbkmqEnfOq) | [Aurelius Schmidt](https://open.spotify.com/artist/4DRJD1JI9CaeeHH9LrkzbY) | [Sandrina](https://open.spotify.com/album/6Is2bPoXegoPbnYTzVD7nB) | 2:26 | 2021-12-08 | 2024-04-05 |
 | [Morgensonne](https://open.spotify.com/track/1DVehVLP2YEOGjFgUl4DE0) | [Dominik Buchheim](https://open.spotify.com/artist/7e8fzJdZ6xHzokB2aGULSA) | [Morgensonne](https://open.spotify.com/album/1oAeUw1cBcoek76UVXFRer) | 3:03 | 2021-12-08 | 2022-05-11 |
 | [Morning Dew](https://open.spotify.com/track/0dhPf7uQVTl63JOFCaYsJD) | [Dorothy Laddland](https://open.spotify.com/artist/4faFJj7Vro57tVaN6Q8p3I) | [Morning Dew](https://open.spotify.com/album/1ycPHmmIrXmVYkpdOtKQU9) | 1:52 | 2023-05-26 | 2023-06-16 |
@@ -664,6 +666,7 @@
 | [Someday](https://open.spotify.com/track/40Prhj76wY4JkKWl130prE) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [Someday](https://open.spotify.com/album/6z07JJdKjK6KQTLdc4Abw6) | 2:34 | 2022-09-09 | 2024-06-15 |
 | [Somerset Plains](https://open.spotify.com/track/4luPpryRb3YBh7EJVasSEa) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Somerset Plains](https://open.spotify.com/album/1XjHghFs6aOY6jZ7t0Dm2q) | 2:52 | 2024-10-09 |  |
 | [Something For You](https://open.spotify.com/track/6oqZPFJ1LM1hokfEdUBPxp) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Something For You](https://open.spotify.com/album/2RZsThQXub83Rxjrxo0qvd) | 2:49 | 2024-03-29 | 2024-07-18 |
+| [Song for M](https://open.spotify.com/track/4rJHvUKN1s4Pqg3LuBdodv) | [Leo Ek](https://open.spotify.com/artist/0X9FoBNRpQYrWqcDPVBtRm) | [Song for M](https://open.spotify.com/album/23duHRgcP6eXViGpdDC1RZ) | 1:59 | 2024-11-06 |  |
 | [Song for Solomon](https://open.spotify.com/track/65ecJZz4yOi2J0zvnHWCCL) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Song for Solomon](https://open.spotify.com/album/1HGnVzzqfxxIKARTUW1LBb) | 1:53 | 2022-10-28 | 2023-08-19 |
 | [Sonnen Diamant](https://open.spotify.com/track/5QSUroBMs5XaGfNqzObDEs) | [Vandenberg](https://open.spotify.com/artist/5YCtylTmw5A39uy1jP36Wi) | [Sonnen Diamant](https://open.spotify.com/album/62sKHUtfxZbVkZPe1TKqbT) | 2:34 | 2021-12-08 | 2023-03-10 |
 | [Sonora Sunshine](https://open.spotify.com/track/0BT47n9p88wIwm7yNPvvLN) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [Sonora Sunshine](https://open.spotify.com/album/6Q48kfNKXooTHk6T5DLWCT) | 1:51 | 2023-08-24 | 2024-02-23 |

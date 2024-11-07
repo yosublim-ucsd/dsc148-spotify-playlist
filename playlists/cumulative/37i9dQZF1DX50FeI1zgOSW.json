@@ -2209,6 +2209,28 @@
     },
     {
       "album": {
+        "name": "ITHIHASAM",
+        "url": "https://open.spotify.com/album/7u1VQppoBE94YpVlgrWVVp"
+      },
+      "artists": [
+        {
+          "name": "Iykki Berry",
+          "url": "https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD"
+        },
+        {
+          "name": "Dev Major",
+          "url": "https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208571,
+      "name": "ITHIHASAM",
+      "url": "https://open.spotify.com/track/6raLTHOzFZxCubRSJtiKH9"
+    },
+    {
+      "album": {
         "name": "Jiginnu Jilla",
         "url": "https://open.spotify.com/album/38EHQYrl4YMz9wpDwTC0dc"
       },
@@ -2914,7 +2936,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 227687,
       "name": "KANAVINIL KANDEN",
       "url": "https://open.spotify.com/track/775KkS3dsQanEqCXG7CHc7"
@@ -7560,6 +7582,32 @@
       "duration_ms": 201411,
       "name": "Uyire Urave",
       "url": "https://open.spotify.com/track/4xtSrcg87lOmRLEsqISBVj"
+    },
+    {
+      "album": {
+        "name": "Uyirin Uyiraaga (From \"Soul of Promise\")",
+        "url": "https://open.spotify.com/album/28zJAr46H8CIf0lZp18zQ1"
+      },
+      "artists": [
+        {
+          "name": "Deri Lorus",
+          "url": "https://open.spotify.com/artist/5XVT4JCh2JJXmK56tF3hyx"
+        },
+        {
+          "name": "Kamalaja Rajagopal",
+          "url": "https://open.spotify.com/artist/5GA1b7IUk3ThudtQ4N35qf"
+        },
+        {
+          "name": "Manoj Muralidharan",
+          "url": "https://open.spotify.com/artist/03sc6Jb6d3C4euBZzpcVW4"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194911,
+      "name": "Uyirin Uyiraaga - From \"Soul of Promise\"",
+      "url": "https://open.spotify.com/track/5zSP9JTn74UBHRD4YgqQFZ"
     },
     {
       "album": {

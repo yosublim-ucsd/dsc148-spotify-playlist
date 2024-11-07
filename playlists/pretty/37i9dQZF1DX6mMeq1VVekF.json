@@ -1,6 +1,6 @@
 {
   "description": "No tags, no labels - just free form. Cover: BINA. ",
-  "num_followers": 178215,
+  "num_followers": 178226,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
@@ -243,38 +243,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 182330,
-      "name": "It\u2019s Gonna\u2019 Cost You",
-      "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "Comma, Fullstop.",
-        "url": "https://open.spotify.com/album/6Uf0LdHwZCaGJUyAel8KjY"
-      },
-      "artists": [
-        {
-          "name": "Ahmed, With Love.",
-          "url": "https://open.spotify.com/artist/1qYmvB1zTqFQRaRL6j2ZuK"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "GeorgianFlip.",
-      "url": "https://open.spotify.com/track/7Jnxzeve7pgo0TG6ErcYar"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "AUCTION",
         "url": "https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU"
       },
@@ -295,22 +263,58 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Hold You Down",
-        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
+        "name": "Comma, Fullstop.",
+        "url": "https://open.spotify.com/album/6Uf0LdHwZCaGJUyAel8KjY"
       },
       "artists": [
         {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Ahmed, With Love.",
+          "url": "https://open.spotify.com/artist/1qYmvB1zTqFQRaRL6j2ZuK"
         }
       ],
-      "duration_ms": 158069,
-      "name": "Hold You Down",
-      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
+      "duration_ms": 138600,
+      "name": "GeorgianFlip.",
+      "url": "https://open.spotify.com/track/7Jnxzeve7pgo0TG6ErcYar"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 182330,
+      "name": "It\u2019s Gonna\u2019 Cost You",
+      "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "PERFECT FANTASY",
+        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 180014,
+      "name": "U GOTTA (feat. Pharrell)",
+      "url": "https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -371,6 +375,26 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
+        "name": "Hold You Down",
+        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 158069,
+      "name": "Hold You Down",
+      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
         "name": "Higher Life",
         "url": "https://open.spotify.com/album/3lhwBOftasfbBakMOQOAzX"
       },
@@ -407,26 +431,18 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "PERFECT FANTASY",
-        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
+        "name": "NO MANNERS",
+        "url": "https://open.spotify.com/album/2u9XbBgvH6M2YIkUh6swAX"
       },
       "artists": [
         {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "MGEE",
+          "url": "https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC"
         }
       ],
-      "duration_ms": 180014,
-      "name": "U GOTTA (feat. Pharrell)",
-      "url": "https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD"
+      "duration_ms": 138591,
+      "name": "NO MANNERS",
+      "url": "https://open.spotify.com/track/6ZwndlSxLb1QlzQxbMcWjO"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -459,22 +475,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "NO MANNERS",
-        "url": "https://open.spotify.com/album/2u9XbBgvH6M2YIkUh6swAX"
-      },
-      "artists": [
-        {
-          "name": "MGEE",
-          "url": "https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC"
-        }
-      ],
-      "duration_ms": 138591,
-      "name": "NO MANNERS",
-      "url": "https://open.spotify.com/track/6ZwndlSxLb1QlzQxbMcWjO"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "Counterfeit",
         "url": "https://open.spotify.com/album/30JIhqDMtrOsbWDrDwdfyo"
       },
@@ -487,6 +487,26 @@
       "duration_ms": 192106,
       "name": "Counterfeit",
       "url": "https://open.spotify.com/track/6h1dtfc7PrKnpjIUAtZFR9"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "Spirit Box",
+        "url": "https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        }
+      ],
+      "duration_ms": 172338,
+      "name": "Let Me Cook",
+      "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -511,26 +531,6 @@
       "duration_ms": 177782,
       "name": "my way (w/ Rico Nasty & Kanii)",
       "url": "https://open.spotify.com/track/0MIJyhl23TYo8HBVcLxx0Y"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "Spirit Box",
-        "url": "https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja"
-      },
-      "artists": [
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
-        }
-      ],
-      "duration_ms": 172338,
-      "name": "Let Me Cook",
-      "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "React",
-        "url": "https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 161034,
-      "name": "React",
-      "url": "https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "ALL THE GIRLS",
         "url": "https://open.spotify.com/album/2WHnp1HHVNtnPBRRy24oTa"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 109411,
       "name": "ALL THE GIRLS",
       "url": "https://open.spotify.com/track/43pMdjwekH6xVSwSO9MmJT"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "React",
+        "url": "https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 161034,
+      "name": "React",
+      "url": "https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -835,6 +835,26 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
+        "name": "PHANTOM OF THE AFTERS",
+        "url": "https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy"
+      },
+      "artists": [
+        {
+          "name": "Kojaque",
+          "url": "https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY"
+        },
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        }
+      ],
+      "duration_ms": 188006,
+      "name": "BAMBI",
+      "url": "https://open.spotify.com/track/47CXk0Q9bAMbraj2WZHLQu"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
         "name": "Instantly",
         "url": "https://open.spotify.com/album/1W9MbesLzpo7CrvWMANJcU"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 220285,
       "name": "Precious",
       "url": "https://open.spotify.com/track/74unlrFwLX4BfTqchKc7BV"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "PHANTOM OF THE AFTERS",
-        "url": "https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy"
-      },
-      "artists": [
-        {
-          "name": "Kojaque",
-          "url": "https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY"
-        },
-        {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        }
-      ],
-      "duration_ms": 188006,
-      "name": "BAMBI",
-      "url": "https://open.spotify.com/track/47CXk0Q9bAMbraj2WZHLQu"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
+        "name": "Boss B*tch",
+        "url": "https://open.spotify.com/album/61IbVta6kRXQBoqEdVeizJ"
+      },
+      "artists": [
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        }
+      ],
+      "duration_ms": 147605,
+      "name": "Boss B*tch",
+      "url": "https://open.spotify.com/track/0uMk3cDDhfJySp5tjoZ9fW"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
         "name": "MASHUP",
         "url": "https://open.spotify.com/album/4Wv59sKVFaUyJESv5EW9Mj"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 137126,
       "name": "MASHUP",
       "url": "https://open.spotify.com/track/3n1rNdl7nDbZVJ8JkmA2Xo"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "Boss B*tch",
-        "url": "https://open.spotify.com/album/61IbVta6kRXQBoqEdVeizJ"
-      },
-      "artists": [
-        {
-          "name": "Ms Banks",
-          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
-        }
-      ],
-      "duration_ms": 147605,
-      "name": "Boss B*tch",
-      "url": "https://open.spotify.com/track/0uMk3cDDhfJySp5tjoZ9fW"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
+        "name": "Wagashi",
+        "url": "https://open.spotify.com/album/3Izy2Hdi68EcgQScKajavq"
+      },
+      "artists": [
+        {
+          "name": "BXKS",
+          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
+        }
+      ],
+      "duration_ms": 116879,
+      "name": "Wagashi",
+      "url": "https://open.spotify.com/track/5ifi0DNboZVQjOgZrZyDpB"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
         "name": "what it is & what it ain't",
         "url": "https://open.spotify.com/album/5Eb8AoIz91S3tOvJAFgIqD"
       },
@@ -1047,6 +1063,26 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
+        "name": "How Far",
+        "url": "https://open.spotify.com/album/4hATb85jEAQV5zs1dPVDAg"
+      },
+      "artists": [
+        {
+          "name": "Jay Prince",
+          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
+        },
+        {
+          "name": "Sam Wise",
+          "url": "https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P"
+        }
+      ],
+      "duration_ms": 189781,
+      "name": "How Far",
+      "url": "https://open.spotify.com/track/0brMxO7UrJkplRm1JhHhw8"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
         "name": "Jam Toast",
         "url": "https://open.spotify.com/album/5H0UAwmSaSsgLcpdhkgAqt"
       },
@@ -1059,46 +1095,6 @@
       "duration_ms": 154666,
       "name": "Jam Toast",
       "url": "https://open.spotify.com/track/7kE2lk45qdnPKccuIhWkqE"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "Everytime",
-        "url": "https://open.spotify.com/album/1kdno9FddW1Tys8AMQ17Jy"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        },
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        }
-      ],
-      "duration_ms": 169835,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/1M90Mf0GQiVlpVL3A9ey2A"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "Off Guard",
-        "url": "https://open.spotify.com/album/406uhmvBUbpHHEcq1omyNu"
-      },
-      "artists": [
-        {
-          "name": "Branko",
-          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
-        },
-        {
-          "name": "July 7",
-          "url": "https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA"
-        }
-      ],
-      "duration_ms": 171607,
-      "name": "Off Guard",
-      "url": "https://open.spotify.com/track/5pVJ0zf2yqFYr0UbvhQDen"
     }
   ],
   "unique_name": "Free Form",

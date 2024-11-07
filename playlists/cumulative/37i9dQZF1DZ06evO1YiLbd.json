@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/4UJcmdbSQERAwTNIL0JxF4"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "PSYCHIC FEVER from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101866,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/7o7eNpioa3v4pPszRgZvqg"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u6756\u3068\u5263\u306e\u30a6\u30a3\u30b9\u30c8\u30ea\u30a2\u300f\u97f3\u697d\u6284\u9332 \u5176\u306e\u8086",
         "url": "https://open.spotify.com/album/1IxnwQ5bcezPF7fLJ7l7dR"
       },
@@ -2646,7 +2668,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 91973,
       "name": "\u9802\u306e\u666f\u8272",
       "url": "https://open.spotify.com/track/3TQq78O1tjqaAvEusTDh4s"

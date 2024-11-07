@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: IDLES
 
-1,218 songs - 3 day 1 hr 55 min
+1,221 songs - 3 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Electric Feel \- Spotify Singles](https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Electric Feel \(Spotify Singles\)](https://open.spotify.com/album/6SSUyG0rMITj4m4o1E1A8B) | 2:56 | 2024-09-18 |  |
 | [Electric Touch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4ZRWxX9gfnsfKhQDRKoCui) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:28 | 2022-01-19 |  |
 | [Electricity](https://open.spotify.com/track/0BuXUiCAw4aohFll9q6MEU) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Spotify Singles](https://open.spotify.com/album/6p3jqERMCdhHa8sanNqvUD) | 2:30 | 2022-01-19 |  |
+| [Ella Usó Mi cabeza Como Un Revólver \- Spotify Singles](https://open.spotify.com/track/046TaHr9EePc6M8NQX9vfw) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Spotify Singles](https://open.spotify.com/album/6ueXz9Wyd8wud5fBFOe6NT) | 4:19 | 2024-11-06 |  |
 | [Elvira \(feat\. The Oak Ridge Boys\) \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/4XmLGH5lm3ofjbtZTI5dAm) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Spotify Singles](https://open.spotify.com/album/3G8anIKFdjaKHRGKUWESgY) | 3:33 | 2022-01-19 |  |
 | [Emanuel \- Spotify Singles Holiday](https://open.spotify.com/track/7vy407HYIESM2x9c0xzasm) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Emanuel \- Spotify Singles Holiday](https://open.spotify.com/album/7rOamK9h6cOfjVhxk9M1K4) | 4:02 | 2024-10-15 |  |
 | [Emotions And Math \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4m3zntmU633OFa0tZMtNrH) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Spotify Singles](https://open.spotify.com/album/3JbrnUMiO5gRtb5jOxEk8r) | 3:14 | 2022-01-19 |  |
@@ -709,6 +710,7 @@
 | [Marvins Room](https://open.spotify.com/track/1iqKjVgLBY36YvY2j3A97S) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Spotify Singles](https://open.spotify.com/album/6oiAFUTlAXAA1hjpnQsK2M) | 4:06 | 2022-01-19 |  |
 | [Maybe Not \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0XoKwViOafkIMd2qE1wfqO) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Spotify Singles](https://open.spotify.com/album/0bXHx2L5JCRKG9R7jDbTd8) | 4:07 | 2022-01-19 |  |
 | [Maybe Not \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4XgfXU6b97lVkm4dKXWEKC) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Spotify Singles](https://open.spotify.com/album/1SuIxvmVbzVKyZJod2O1Dg) | 4:07 | 2022-07-05 | 2024-04-19 |
+| [Me Vuelvo Cada Día Más Loca \- Spotify Singles](https://open.spotify.com/track/1046sFKLPH5B9HefwK09FF) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Spotify Singles](https://open.spotify.com/album/2QXNLeJ8qqihAdeMSELu4W) | 2:40 | 2024-11-06 |  |
 | [Medicine \- Recorded at RAK Studios, London](https://open.spotify.com/track/1A3NiaB0GaoMEknklRTuX9) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ) | 2:51 | 2022-07-05 | 2024-04-19 |
 | [Medicine \- Recorded at RAK Studios, London](https://open.spotify.com/track/3WB3A1Et0ieNTNcq6qVNGN) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/2mFyFiDQfooOHmngJkmIXO) | 2:51 | 2022-01-19 |  |
 | [Medieval \- Spotify Singles](https://open.spotify.com/track/2WtXFUMBeHogKEMQnzQ78e) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Spotify Singles](https://open.spotify.com/album/3Cxj3L18VM6Iytn2CeQw4j) | 3:10 | 2022-03-09 |  |
@@ -1222,6 +1224,7 @@
 | [Young Dumb & Broke \- Recorded At The Colosseum, Caesars Palace, Las Vegas](https://open.spotify.com/track/28rT3OwXdw4VF1MPYIk1P6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Spotify Singles](https://open.spotify.com/album/7HNrFnh0uwG7DuXdgGEY0z) | 3:49 | 2022-01-19 |  |
 | [Yours If You Want It \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7IEKsQr25onXLLYaOyD27n) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Spotify Singles](https://open.spotify.com/album/45zKHbhnFK7yWhr3PvCwlC) | 3:25 | 2022-01-19 |  |
 | [Złamane serce jest OK \- Spotify Singles](https://open.spotify.com/track/2XQ874bVqTfbXeValJPV4Z) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [Spotify Singles](https://open.spotify.com/album/6fj664eI7LI2Ngcu76YVWq) | 3:34 | 2024-03-20 |  |
+| [¿Qué Vas A Hacer Tan Sola Hoy? \- Spotify Singles](https://open.spotify.com/track/65Qjvcf4RFQPwwkz7T6l76) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [¿Qué Vas A Hacer Tan Sola Hoy? \- Spotify Singles](https://open.spotify.com/album/0pz6Qn6QKcJmdTwsGDcVBW) | 3:11 | 2024-11-06 |  |
 | [偷偷想念你 \- Spotify Singles \(feat\. 方晨\)](https://open.spotify.com/track/5YTMxQ8Famc23QQIZizvh0) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ), [方晨](https://open.spotify.com/artist/5Nd4foqBx41TIEW2VXyENC) | [Spotify Singles](https://open.spotify.com/album/3NXaogpe3UARbAOXVzILFr) | 3:42 | 2024-10-21 |  |
 | [火柴 \- Acoustic / Spotify Singles](https://open.spotify.com/track/28F59BoXW9aXhx9TiPB1OH) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [火柴 \(Acoustic / Spotify Singles\)](https://open.spotify.com/album/0Rw8xSIqO7KCXwMXZDLXtO) | 2:52 | 2024-10-21 |  |
 | [終究還是因為愛 \- Spotify Singles](https://open.spotify.com/track/5eDqchkLCMsJCkSqGm9NyB) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [Spotify Singles](https://open.spotify.com/album/3NXaogpe3UARbAOXVzILFr) | 4:23 | 2024-10-21 |  |

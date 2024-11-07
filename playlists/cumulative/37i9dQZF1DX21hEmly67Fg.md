@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-234 songs - 13 hr 17 min
+238 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All Of Me](https://open.spotify.com/track/364awD0WkGUrHqvV92NLvd) | [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Pop Goes Classical](https://open.spotify.com/album/58i8rbysdhVemJzgFtP5Bo) | 3:18 | 2021-11-25 | 2022-07-29 |
 | [All Out of Love](https://open.spotify.com/track/1VerCkd4jQu2goYNKEQEXf) | [Darius Holland](https://open.spotify.com/artist/2LuKu3ADzYNgrpnLwJCiFU) | [All Out of Love](https://open.spotify.com/album/19Z5wENkckZoamTMCRoFeE) | 2:43 | 2024-10-21 |  |
 | [And I Love Her](https://open.spotify.com/track/0PwlcbCorgDG9SKTtWYcj2) | [Terri Matheson](https://open.spotify.com/artist/4F1qAKXP2mtfOM37s8rG5g) | [And I Love Her](https://open.spotify.com/album/7yLwYXIxV1w4DYUcllWU04) | 3:19 | 2021-11-25 |  |
+| [Another Love](https://open.spotify.com/track/3q53Qumo5wm3B5nquuAtM9) | [Darius Holland](https://open.spotify.com/artist/2LuKu3ADzYNgrpnLwJCiFU) | [Another Love](https://open.spotify.com/album/3PIURc7CKch3smMnj221og) | 2:25 | 2024-11-06 |  |
 | [Anti\-Hero](https://open.spotify.com/track/4I0Kmiieqw8EmKEbiZPQzJ) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [Anti\-Hero](https://open.spotify.com/album/10TQNCLR0xgqTkHfUqRaGj) | 2:42 | 2023-02-06 |  |
 | [Anti\-Hero](https://open.spotify.com/track/63kM4CbosJ70v25kZv19xc) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Anti\-Hero](https://open.spotify.com/album/3KwmgUnyK4ogjXVM5tF5GG) | 3:19 | 2022-11-18 | 2022-11-26 |
 | [As It Was \(arr\. string quartet\)](https://open.spotify.com/track/4HE4FZmT05tZuN9NlBeE4f) | [Music Lab Strings](https://open.spotify.com/artist/7cNAfzcs4jv8ByJvZk6gnq), [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [As It Was \(arr\. string quartet\)](https://open.spotify.com/album/4ZDNoOtzzPTMOpJlw14Bb3) | 3:51 | 2023-07-28 |  |
@@ -120,6 +121,7 @@
 | [I Can't Help Falling In Love](https://open.spotify.com/track/0SrryncWXs2idSiHSY9hdT) | [Therése Therén](https://open.spotify.com/artist/27L2UTyUaO5OCJSNPYgks6) | [I Can't Help Falling In Love](https://open.spotify.com/album/1zhVJVy42DKI8VFw60f8oN) | 2:46 | 2024-09-10 |  |
 | [I Can't Make You Love Me](https://open.spotify.com/track/0njEZi0FP5dUAXcXZqCoXG) | [Therése Therén](https://open.spotify.com/artist/27L2UTyUaO5OCJSNPYgks6) | [I Can't Make You Love Me](https://open.spotify.com/album/3LzJrPwnAKdK0CWGlFb3FM) | 3:31 | 2024-03-04 |  |
 | [I Just Can't Stop Loving You](https://open.spotify.com/track/3AEHG55q4GF9zFgtMdQMQi) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [I Just Can't Stop Loving You](https://open.spotify.com/album/0maykbcNsWHDhZ7TGMq4jn) | 3:34 | 2024-09-03 |  |
+| [I Want It That Way](https://open.spotify.com/track/6vLwopf1erdW3XoCfz6TIX) | [DisCovered](https://open.spotify.com/artist/07FxfwSU3s0RwrN5ooGt8y) | [I Want It That Way](https://open.spotify.com/album/2wJVSaCsCjUhFY4tyNraAj) | 1:56 | 2024-11-06 |  |
 | [I'm on fire](https://open.spotify.com/track/6qdtWByHjENUvfkmCCKMkt) | [Samuel Boman](https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs) | [I'm on fire](https://open.spotify.com/album/0POCGgHFs2K1i6MepPaK6t) | 2:24 | 2024-10-08 |  |
 | [I'm Yours \- Piano Version](https://open.spotify.com/track/0MXyCz754IFkMZq1I4BVaO) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/01u4d96EWX1Xk1NLtQhZNC) | 3:02 | 2022-11-25 | 2024-04-19 |
 | [I'm Yours \- Piano Version](https://open.spotify.com/track/4NqDMiBF4yLwdfJ6BDDdx2) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/50x1Jf4aVOOvpHQ2fxe71B) | 3:02 | 2022-02-25 |  |
@@ -147,6 +149,7 @@
 | [Million Reasons](https://open.spotify.com/track/6iqc5uXMFI87x4aoyk3RsV) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2017](https://open.spotify.com/album/2BMSgGCgF7q9OdtobRwhP1) | 3:26 | 2022-11-18 | 2022-11-26 |
 | [Mine](https://open.spotify.com/track/48JM5ZeFDq8fT90UWQoqlm) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2018](https://open.spotify.com/album/3mg5bKwAv9VmWE1mrxLj31) | 2:12 | 2022-11-18 | 2022-11-26 |
 | [Minerva](https://open.spotify.com/track/0WBYXkgh8c40tU8kpHuCg5) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Deftones](https://open.spotify.com/album/4Us0cxN1m9rBykK1es9tw9) | 3:33 | 2022-11-18 | 2022-11-26 |
+| [Mistletoe](https://open.spotify.com/track/10wIsjWouNqeMlOAGFYPTD) | [Melody Spencer](https://open.spotify.com/artist/0XKEbFGTqHAajz2lusK4dM) | [Mistletoe](https://open.spotify.com/album/5qftcrJwIld5dEVEWiSaA1) | 2:29 | 2024-11-06 |  |
 | [Moon River \(Arr\. for Guitar by Sérgio Assad\) \- From "Breakfast at Tiffany's"](https://open.spotify.com/track/4cUcI2A7BxkES0nOBn15pO) | [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Cinema](https://open.spotify.com/album/4b4nboVDurZKBFzaL9lJdS) | 3:24 | 2024-07-16 |  |
 | [Motion Picture Soundtrack](https://open.spotify.com/track/7CrSqDlyBY0kl9nJEKpmbq) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 2:42 | 2022-11-18 | 2022-11-26 |
 | [My Favorite Things](https://open.spotify.com/track/2sO7nF36wGywzAlM8mNsjM) | [Carlos Hof](https://open.spotify.com/artist/34Il5iurwAMrpEHqVpbYDX) | [My Favorite Things](https://open.spotify.com/album/0ssAbPbkdrAfNPMySXK3Xv) | 2:42 | 2022-09-09 |  |
@@ -184,6 +187,7 @@
 | [Shape of My Heart](https://open.spotify.com/track/1snRw3CQImnuTq7UaX6Are) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Shape of My Heart](https://open.spotify.com/album/6rpczEJb2gH66izQHWYLNj) | 5:44 | 2021-11-25 |  |
 | [She](https://open.spotify.com/track/31Eo4x87vMeuwWisGXWjIi) | [Winston Brey](https://open.spotify.com/artist/5PTB02QceIVI0Fogokj6v7) | [She](https://open.spotify.com/album/7B2u3XVEjBTonvm1shnpGy) | 2:45 | 2023-05-03 |  |
 | [Silent Lucidity](https://open.spotify.com/track/405UQdWBjsxAjYyHRPVaDM) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Power Ballads](https://open.spotify.com/album/1RGdqBZNNmAqL6jfu6HYEz) | 3:34 | 2022-11-18 | 2022-11-26 |
+| [Since U Been Gone](https://open.spotify.com/track/7jz9dh9vzWTJXILKaUY0q6) | [Jaque Dylan](https://open.spotify.com/artist/1C4O2dXmCudFHkn9Zw8Kml) | [Since U Been Gone](https://open.spotify.com/album/3xnLz6Dy1BngDx32GTx0Yq) | 2:08 | 2024-11-06 |  |
 | [Skinny Love](https://open.spotify.com/track/4m11ClVp23KZpJl7dnunv7) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Bon Iver](https://open.spotify.com/album/6UAIWIcYacQ7saZDNvk0Gs) | 3:52 | 2022-11-18 | 2022-11-26 |
 | [Somebody That I Used to Know](https://open.spotify.com/track/4C0prnOdpjkYh0cpay5sXj) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Gotye's Somebody That I Used to Know](https://open.spotify.com/album/6ItDt8bkHreshCqpX3zDhF) | 4:04 | 2022-11-18 | 2022-11-26 |
 | [Someone like you](https://open.spotify.com/track/3f87rDjNZHW38Gf03IiiyG) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Someone like you](https://open.spotify.com/album/2D59eKCt0eqXKutSEJbzJC) | 3:38 | 2023-10-10 |  |

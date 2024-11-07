@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Angels We Have Heard on High",
+        "url": "https://open.spotify.com/album/2ulYvAiM3SKoWhwKqehG4J"
+      },
+      "artists": [
+        {
+          "name": "Matthew Reid",
+          "url": "https://open.spotify.com/artist/0TrkVAcqxuyL1XWjaee9rD"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155766,
+      "name": "Angels We Have Heard on High",
+      "url": "https://open.spotify.com/track/38Lmu5jKK9tDNohHZs76to"
+    },
+    {
+      "album": {
         "name": "Piano Christmas",
         "url": "https://open.spotify.com/album/25OkVm1Yb5h1YHeChYLWhv"
       },
@@ -707,6 +725,42 @@
     },
     {
       "album": {
+        "name": "Away In A Manger",
+        "url": "https://open.spotify.com/album/5loKallqiYuONQVTBfH7C7"
+      },
+      "artists": [
+        {
+          "name": "Alva N\u00f8rgaard",
+          "url": "https://open.spotify.com/artist/7HIFfx126uBOqh9lGH8z2b"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Away In A Manger",
+      "url": "https://open.spotify.com/track/1VpAw8L4AKkXmJBQxfbLhQ"
+    },
+    {
+      "album": {
+        "name": "Away in a Manger",
+        "url": "https://open.spotify.com/album/1XhPeNwIBg1IucJhoTERaP"
+      },
+      "artists": [
+        {
+          "name": "Arielan Vide",
+          "url": "https://open.spotify.com/artist/2fvlcT93u5SQePtPugGGpz"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139026,
+      "name": "Away in a Manger",
+      "url": "https://open.spotify.com/track/0GfX4NbiEv4aWTIlYfmSwU"
+    },
+    {
+      "album": {
         "name": "Away In a Manger",
         "url": "https://open.spotify.com/album/0mFZZGJ78iYuhRxqGAZsUL"
       },
@@ -740,6 +794,24 @@
       "duration_ms": 210414,
       "name": "Away in a Manger",
       "url": "https://open.spotify.com/track/3RJt5eBJWOoK75KbPgbSoY"
+    },
+    {
+      "album": {
+        "name": "Away in a Manger (Cover)",
+        "url": "https://open.spotify.com/album/4yIp8KBfj9HXmCxC0Cuc7c"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Young",
+          "url": "https://open.spotify.com/artist/5WQMqq5sG5zabwkK07At6G"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114500,
+      "name": "Away in a Manger - Cover",
+      "url": "https://open.spotify.com/track/4OavoB3qQhOVNCnP5AGNMT"
     },
     {
       "album": {
@@ -830,6 +902,24 @@
       "duration_ms": 151724,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/2QbWGtwuWcx7xblTgVQZeL"
+    },
+    {
+      "album": {
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/4yQZZRtvEUIBgof8K8NC9w"
+      },
+      "artists": [
+        {
+          "name": "Solemn Whisper",
+          "url": "https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/3du2vdssfRZmtXvajt4zBH"
     },
     {
       "album": {
@@ -1010,6 +1100,42 @@
       "duration_ms": 83187,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/6tSvntSFjdODPTKX8G3FEi"
+    },
+    {
+      "album": {
+        "name": "Deck the Halls",
+        "url": "https://open.spotify.com/album/0CttUAMVsvU4v0SSakzYex"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Paul",
+          "url": "https://open.spotify.com/artist/4LE7Z7AiUvkJDoTw2a0N0b"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/1wXZNsRVBuH3fO9K9qFV9P"
+    },
+    {
+      "album": {
+        "name": "Deck The Halls",
+        "url": "https://open.spotify.com/album/1b4CPJfcGYkFOf7XzTOK1z"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Mind",
+          "url": "https://open.spotify.com/artist/4eixU2X2ZzzxUNiCv4OZA5"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/1Wh7xh62V00NwPugwqdy64"
     },
     {
       "album": {
@@ -1449,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Hark The Herald",
+        "url": "https://open.spotify.com/album/3B4TAUrtHxcuFVyj6kmha2"
+      },
+      "artists": [
+        {
+          "name": "Rocky Road Heaven",
+          "url": "https://open.spotify.com/artist/5Sl6AeIxVJBWaJp4kWYeQ9"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Hark The Herald",
+      "url": "https://open.spotify.com/track/5hfn8q9HJZNHXMBaEWhxit"
+    },
+    {
+      "album": {
         "name": "Hark The Herald Angels Sing",
         "url": "https://open.spotify.com/album/4Dnkr99I1KiZluOWg9z5Ai"
       },
@@ -1504,6 +1648,24 @@
       "duration_ms": 169452,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/3MzmTBYxot2d3Oox8hkIZS"
+    },
+    {
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/5XjVrMAODQG8NkOV1KRHQm"
+      },
+      "artists": [
+        {
+          "name": "Gold Axe",
+          "url": "https://open.spotify.com/artist/3Vhv6wtaE2hyhQllaBBdd2"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/7CVEXkOWffT81PhgJptwsi"
     },
     {
       "album": {
@@ -1648,6 +1810,24 @@
       "duration_ms": 105682,
       "name": "I Saw Mommy Kissing Santa Claus",
       "url": "https://open.spotify.com/track/0qfp3T2KxIUb49TsYe4jRW"
+    },
+    {
+      "album": {
+        "name": "I Saw Mommy Kissing Santa Claus",
+        "url": "https://open.spotify.com/album/2Eigklqtxd7IUn0uNhCvmg"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Friese",
+          "url": "https://open.spotify.com/artist/6YhUWOVu9JXCbtpvkeYGDT"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176750,
+      "name": "I Saw Mommy Kissing Santa Claus",
+      "url": "https://open.spotify.com/track/6O88BBlKkpv2fySVDcN71i"
     },
     {
       "album": {
@@ -2119,6 +2299,24 @@
     },
     {
       "album": {
+        "name": "Little Drummer Boy",
+        "url": "https://open.spotify.com/album/4jiceJ011VTHzIYiEWzP8o"
+      },
+      "artists": [
+        {
+          "name": "Naia Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/4j1G1plcAq3ytciWuJbhRv"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128057,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/5GarqOpqalyZuDoavwvs1d"
+    },
+    {
+      "album": {
         "name": "Piano Christmas",
         "url": "https://open.spotify.com/album/25OkVm1Yb5h1YHeChYLWhv"
       },
@@ -2188,6 +2386,24 @@
       "duration_ms": 127391,
       "name": "Maybe This Christmas",
       "url": "https://open.spotify.com/track/4i5ZpTxLoHCqeotiLOWv7K"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas Darling",
+        "url": "https://open.spotify.com/album/2Ldd7oaPiBXIGXB3YUSDjo"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Hills",
+          "url": "https://open.spotify.com/artist/4OPRPc19uzfOuVUb2Y9njY"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Merry Christmas Darling",
+      "url": "https://open.spotify.com/track/5MG6m5v9d4w6Syfsr8X9uB"
     },
     {
       "album": {
@@ -2335,6 +2551,24 @@
     },
     {
       "album": {
+        "name": "O Tannenbaum",
+        "url": "https://open.spotify.com/album/5W95KGMeUulMGXgezIaiVF"
+      },
+      "artists": [
+        {
+          "name": "Sive Holmes",
+          "url": "https://open.spotify.com/artist/1k2DVXf8G1sKF5n5d6qp5v"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131500,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/7rWxhLu8bT8Mm6DykFWnHl"
+    },
+    {
+      "album": {
         "name": "Oh Christmas Tree",
         "url": "https://open.spotify.com/album/2U3JUK5LEXsxPZ2cW32TYs"
       },
@@ -2458,6 +2692,24 @@
       "duration_ms": 161565,
       "name": "Sans Day Carol",
       "url": "https://open.spotify.com/track/17ECD7z521qoJRhO6N3iDB"
+    },
+    {
+      "album": {
+        "name": "The Joy of Christmas",
+        "url": "https://open.spotify.com/album/4GxRbhZWUu5yFL9fr6IztU"
+      },
+      "artists": [
+        {
+          "name": "Sacred Keys",
+          "url": "https://open.spotify.com/artist/5M6nB85ptAF8gjR6ivoJv7"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128570,
+      "name": "Sans Day Carol",
+      "url": "https://open.spotify.com/track/0MgmWPH6FK4xH6TEfDjsac"
     },
     {
       "album": {
@@ -2623,6 +2875,24 @@
     },
     {
       "album": {
+        "name": "Stilla Natt",
+        "url": "https://open.spotify.com/album/74hJVq66LJCVzjnyOTy0d9"
+      },
+      "artists": [
+        {
+          "name": "R. Embers",
+          "url": "https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154891,
+      "name": "Stilla Natt",
+      "url": "https://open.spotify.com/track/1afHZXcjEW4hHlFMC38rC0"
+    },
+    {
+      "album": {
         "name": "Seven Joys Of Mary",
         "url": "https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m"
       },
@@ -2656,6 +2926,24 @@
       "duration_ms": 186871,
       "name": "That's Christmas To Me",
       "url": "https://open.spotify.com/track/2RJynd5Zo2jM2uThsr0nt2"
+    },
+    {
+      "album": {
+        "name": "That's What Christmas Means to Me",
+        "url": "https://open.spotify.com/album/04avF6dTu7wmP1sSlNlg1I"
+      },
+      "artists": [
+        {
+          "name": "Aron E. Ross",
+          "url": "https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215557,
+      "name": "That's What Christmas Means to Me",
+      "url": "https://open.spotify.com/track/789xr10ZwnEighCCC6GSgk"
     },
     {
       "album": {
@@ -2746,6 +3034,24 @@
       "duration_ms": 102018,
       "name": "The Day Before Christmas",
       "url": "https://open.spotify.com/track/5Jdvuh1kRvNvkWRwxYY1sh"
+    },
+    {
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/1kFCmdwCqzf8pMDprFtyvR"
+      },
+      "artists": [
+        {
+          "name": "Fleur Bloom",
+          "url": "https://open.spotify.com/artist/0jKbA25jr47ARj2fA7CEjR"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/4xppzC7KljCXXWNFtreZMX"
     },
     {
       "album": {
@@ -2927,6 +3233,24 @@
     },
     {
       "album": {
+        "name": "The Holly and The Ivy",
+        "url": "https://open.spotify.com/album/0DuwDYQKD8odWHBIfv05fB"
+      },
+      "artists": [
+        {
+          "name": "Nature then Nurture",
+          "url": "https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "The Holly and The Ivy",
+      "url": "https://open.spotify.com/track/0jgp424vW6bkYSsuNXVwKa"
+    },
+    {
+      "album": {
         "name": "The Most Wonderful Gift",
         "url": "https://open.spotify.com/album/4YGmYz1eoA6TW6ZgjiM58V"
       },
@@ -2996,6 +3320,24 @@
       "duration_ms": 234573,
       "name": "The Wassail Song (Here We Come A-Caroling)",
       "url": "https://open.spotify.com/track/6s762qoRM0crwCOU63DLd6"
+    },
+    {
+      "album": {
+        "name": "The Wexford Carol 2024 version",
+        "url": "https://open.spotify.com/album/3UySU1aGsZGdZkUzproFBG"
+      },
+      "artists": [
+        {
+          "name": "Closed Lids",
+          "url": "https://open.spotify.com/artist/3Ikd9nfnykzwJ0f189yHtg"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133506,
+      "name": "The Wexford Carol 2024 version",
+      "url": "https://open.spotify.com/track/5CiW6ybF3sPkaU3rORji2F"
     },
     {
       "album": {
@@ -3086,6 +3428,24 @@
       "duration_ms": 112000,
       "name": "We wish you a Merry Christmas",
       "url": "https://open.spotify.com/track/24Wk61p0OEfaPdcw9xhxtY"
+    },
+    {
+      "album": {
+        "name": "We Wish You A Merry Christmas",
+        "url": "https://open.spotify.com/album/4eLVHkM1ou5ynSKdBtXu82"
+      },
+      "artists": [
+        {
+          "name": "Hidden Nat\u00far",
+          "url": "https://open.spotify.com/artist/1r3WsPkeb5nKMaRza1SBX3"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132271,
+      "name": "We Wish You A Merry Christmas",
+      "url": "https://open.spotify.com/track/33oWrOSdm08XaAUAjexoQB"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 75990,
+  "num_followers": 76063,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,18 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+        "name": "Wetin",
+        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
         }
       ],
-      "duration_ms": 247333,
-      "name": "True Love (feat. Tay Iwar & Projexx)",
-      "url": "https://open.spotify.com/track/4204hwPYuToiuSunPFUoML"
+      "duration_ms": 78946,
+      "name": "Wetin",
+      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -303,18 +295,26 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Wetin",
-        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
       "artists": [
         {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
         }
       ],
-      "duration_ms": 78946,
-      "name": "Wetin",
-      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
+      "duration_ms": 247333,
+      "name": "True Love (feat. Tay Iwar & Projexx)",
+      "url": "https://open.spotify.com/track/4204hwPYuToiuSunPFUoML"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
+        "name": "The African Gentleman",
+        "url": "https://open.spotify.com/album/3eqKQSThIM4NZYeVdJFDnz"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "duration_ms": 220505,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/4rjETY9SigSOwoIXYRQJUR"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
         "name": "Masithokoze",
         "url": "https://open.spotify.com/album/3wdbuCXkU5r760vj9gSO2c"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 427217,
       "name": "Masithokoze",
       "url": "https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
-        "name": "The African Gentleman",
-        "url": "https://open.spotify.com/album/3eqKQSThIM4NZYeVdJFDnz"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        }
-      ],
-      "duration_ms": 220505,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/4rjETY9SigSOwoIXYRQJUR"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Touch My Blood",
-        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        }
-      ],
-      "duration_ms": 304140,
-      "name": "Jika",
-      "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
         "name": "Grass 2 Grace",
         "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 269733,
       "name": "If Love Is A Crime",
       "url": "https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
+        "name": "Touch My Blood",
+        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        }
+      ],
+      "duration_ms": 304140,
+      "name": "Jika",
+      "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
+        "name": "Kulture Noir",
+        "url": "https://open.spotify.com/album/5NWVDJtZsH6eHwaBfcwC5z"
+      },
+      "artists": [
+        {
+          "name": "Simphiwe Dana",
+          "url": "https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu"
+        }
+      ],
+      "duration_ms": 426746,
+      "name": "Mayine",
+      "url": "https://open.spotify.com/track/7fFCetN4cwF4gWKIqfOFNZ"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
         "name": "Give You Love",
         "url": "https://open.spotify.com/album/26m3VR0pkxErF4DFGu95bl"
       },
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Kulture Noir",
-        "url": "https://open.spotify.com/album/5NWVDJtZsH6eHwaBfcwC5z"
-      },
-      "artists": [
-        {
-          "name": "Simphiwe Dana",
-          "url": "https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu"
-        }
-      ],
-      "duration_ms": 426746,
-      "name": "Mayine",
-      "url": "https://open.spotify.com/track/7fFCetN4cwF4gWKIqfOFNZ"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
         "name": "In The Building",
         "url": "https://open.spotify.com/album/2qOPYIXCVcL7fx0eTXx3yI"
       },
@@ -1651,6 +1651,22 @@
       "duration_ms": 173617,
       "name": "Chargie",
       "url": "https://open.spotify.com/track/3rcXrrfhDOe3kShu3uekeC"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
+        "name": "Zaneliza: How the Water Moves",
+        "url": "https://open.spotify.com/album/4Dh0JLuYLhSeoZQ2fQ3Bdm"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "duration_ms": 325433,
+      "name": "Liwa Lentliziyo",
+      "url": "https://open.spotify.com/track/0pI9v5qwiZnha3qd2VDS89"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -1671,22 +1687,6 @@
       "duration_ms": 230253,
       "name": "Eminado (feat. Don Jazzy)",
       "url": "https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
-        "name": "Zaneliza: How the Water Moves",
-        "url": "https://open.spotify.com/album/4Dh0JLuYLhSeoZQ2fQ3Bdm"
-      },
-      "artists": [
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        }
-      ],
-      "duration_ms": 325433,
-      "name": "Liwa Lentliziyo",
-      "url": "https://open.spotify.com/track/0pI9v5qwiZnha3qd2VDS89"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -1795,22 +1795,18 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Resistance (feat. SGaWD)",
-        "url": "https://open.spotify.com/album/7Mh9PHYIYq6catNcSw91ZT"
+        "name": "Puzzle",
+        "url": "https://open.spotify.com/album/5ucYzb3PiD5DSV5iPyJWYR"
       },
       "artists": [
         {
-          "name": "Jess ETA",
-          "url": "https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y"
-        },
-        {
-          "name": "SGaWD",
-          "url": "https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l"
+          "name": "K!MERA",
+          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
         }
       ],
-      "duration_ms": 213537,
-      "name": "Resistance (feat. SGaWD)",
-      "url": "https://open.spotify.com/track/3NbbpgWyyprHrllhvSp4xo"
+      "duration_ms": 243983,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/0nNryQ6LeMOsBmeloyPhWP"
     }
   ],
   "unique_name": "100 Best African Love Songs ",

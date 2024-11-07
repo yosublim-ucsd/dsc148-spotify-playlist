@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-545 songs - 21 hr 11 min
+551 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Group Study](https://open.spotify.com/track/5OxxVnONU85inGDHoRBs2M) | [Maoen](https://open.spotify.com/artist/1bKSEAwS6nhv0kTYWfRkZK), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Group Study](https://open.spotify.com/album/1cUyNhvm1u0k9TKeIswkoq) | 1:30 | 2021-11-11 | 2022-05-20 |
 | [Guava Gods](https://open.spotify.com/track/3MY68eRK74kdGZucW8d8bA) | [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH), [Just Steezy Things](https://open.spotify.com/artist/1WGInLKTtABkRppFt2637E) | [Guava Gods](https://open.spotify.com/album/1Jx6aukHSmymo0Itc8nvzn) | 1:57 | 2021-11-11 | 2022-05-27 |
 | [Guitar Vignette No\. 5](https://open.spotify.com/track/07SkTZlDrQBUThcIjAXrKJ) | [Mantetu](https://open.spotify.com/artist/29OdSwPfuMNDXd1h5R2McY) | [Guitar Vignette No\. 5](https://open.spotify.com/album/5arcu5rX3ruwpT7okhIxcG) | 2:05 | 2022-04-15 | 2023-01-13 |
+| [Gyrate](https://open.spotify.com/track/1JeftR8QWUfMGCM0VLp1Jz) | [Glow Down](https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn) | [Gyrate](https://open.spotify.com/album/4xYrTWOH9flRKzlbi5cFXE) | 2:23 | 2024-11-06 |  |
 | [Habana Vieja](https://open.spotify.com/track/1mI09jvN78SzxAk3pvHmiD) | [Yumas](https://open.spotify.com/artist/3xmU1hRg5TC6koUJ24CRBv) | [¿Qué bolá?](https://open.spotify.com/album/2IVF0eGQmUwWVHRZ5sBtZg) | 3:06 | 2021-11-11 | 2022-09-09 |
 | [Hang On](https://open.spotify.com/track/4duI476FUu6iId8JOTOk8i) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Hang On](https://open.spotify.com/album/246psBSULJ3D3tL7zwU4wO) | 1:58 | 2021-11-11 | 2022-09-09 |
 | [Happy Moments](https://open.spotify.com/track/3t6XG8oYtSiLnvERIgLBMj) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy), [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Happy Moments](https://open.spotify.com/album/1vHIDEwMySEmWCQzx8S11w) | 2:00 | 2022-07-01 |  |
@@ -280,6 +281,7 @@
 | [lustig](https://open.spotify.com/track/4PqKF4AvWgQLDh7hUYdYtc) | [Izidore x](https://open.spotify.com/artist/2z2cKX1dfFL2jBrOXRjVKd) | [lustig](https://open.spotify.com/album/0mlMroJGJndveu0n7an5ak) | 2:09 | 2021-11-11 |  |
 | [Maca](https://open.spotify.com/track/6gdDUUOVAlv1iIywKDRHZE) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Maca](https://open.spotify.com/album/7L6D24JOqqngMKQvknjWiA) | 2:25 | 2023-10-06 |  |
 | [Margarita](https://open.spotify.com/track/6DVwiQukdfBBjUf2xhJzc6) | [Jason Masoud](https://open.spotify.com/artist/2ZDVnuPd31hILsEUXMKcC1), [Torgny Elgstrand](https://open.spotify.com/artist/5bHkOOTJw2yCfHxIXtrZ7L) | [Margarita](https://open.spotify.com/album/1jfMmPZV2B0Lt2ZoO8dSxJ) | 1:56 | 2022-09-16 |  |
+| [Marigold Twilight](https://open.spotify.com/track/6tzPfwVpTMwZqnDGLAkQeJ) | [botanical alchemy](https://open.spotify.com/artist/66f4PoIR3xXkcFuciZNBdv) | [Marigold Twilight](https://open.spotify.com/album/64rnnkfH3t2rROJCc0UMd5) | 2:05 | 2024-11-06 |  |
 | [Marina](https://open.spotify.com/track/17PROObHIS1XhbbG6tRTAn) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW) | [Marina](https://open.spotify.com/album/2M8mb6VAiaOY70o0VKOYUz) | 1:51 | 2022-11-11 | 2024-04-19 |
 | [Marina](https://open.spotify.com/track/7ATlRRgDj6ZmDs3aek901j) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW) | [Marina](https://open.spotify.com/album/11DuqBOfbcqsdna5XOLsU7) | 1:51 | 2022-09-30 |  |
 | [maskros](https://open.spotify.com/track/6UFRV34euOz5X7sCfJgGyV) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [maskros](https://open.spotify.com/album/6Zhxs4RLuvK3kZ5iNOwKaM) | 3:03 | 2023-09-08 |  |
@@ -304,6 +306,7 @@
 | [Montara](https://open.spotify.com/track/49VM3vCQBFr1wJJw7xByGf) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Montara](https://open.spotify.com/album/7aIvhwqFnvV3hFp0ocKwzO) | 3:45 | 2021-11-11 | 2022-06-10 |
 | [Monte](https://open.spotify.com/track/75RVkehEjhSr3gqnFxLl56) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Monte](https://open.spotify.com/album/7AIE5vEV0UZulVSNMP0Pa9) | 1:46 | 2024-07-26 |  |
 | [Montego](https://open.spotify.com/track/3t3KBPlKEIxUtk3h0DNQJn) | [Toshdy](https://open.spotify.com/artist/55bwDdaEDVEycXFNC9Xl1D) | [Montego](https://open.spotify.com/album/12WymcJPB9GXeBsMq94NUz) | 2:27 | 2021-11-11 |  |
+| [Monterey Bay](https://open.spotify.com/track/7LRNS0jnlKe7zdoepaNzWN) | [SASAF](https://open.spotify.com/artist/3mL9nuRLzQ6GNwrrPIxShl) | [Monterey Bay](https://open.spotify.com/album/57vSb76XNC1q9f9v4tL3lM) | 3:20 | 2024-11-06 |  |
 | [Moon Lip](https://open.spotify.com/track/2vy02ol7WFVDLp9NWIRt9L) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Moon Lip](https://open.spotify.com/album/6ilV2UnlVjSvmiuOb6I8Xr) | 2:00 | 2021-11-11 | 2022-05-20 |
 | [Morning Bop](https://open.spotify.com/track/7zK6zgXTPYVpWa2W0mRghL) | [Vancgroover](https://open.spotify.com/artist/4oAJgYdsGm7zkJgZTCPA0a) | [Morning Bop](https://open.spotify.com/album/2EuhBsy4LXpc2gPZ8BJ2HJ) | 2:39 | 2021-11-11 | 2022-05-27 |
 | [Morning Breeze](https://open.spotify.com/track/3yMiFGPgp7t7xvvm84Ji4j) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Morning Breeze](https://open.spotify.com/album/5C10piHNCKZXbaOOief4Xl) | 2:21 | 2022-09-02 |  |
@@ -418,12 +421,14 @@
 | [So Good](https://open.spotify.com/track/1JSyfYEBN3eYwoaq0mum2w) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [So Good](https://open.spotify.com/album/7tzLWx2zmUYzsdURvfobxf) | 2:00 | 2023-01-13 | 2023-09-08 |
 | [Soft Shadows](https://open.spotify.com/track/7DXIGDvTUP2JO1NEh02f2h) | [Jesse Houghton](https://open.spotify.com/artist/7LuufjFkjNN1Qwol9eOBvq) | [Soft Shadows](https://open.spotify.com/album/1p1bSDLIrNgYETMjggQqzf) | 2:35 | 2024-07-05 |  |
 | [Soft Slap](https://open.spotify.com/track/3umoNiC2gyJ4oaGj7t74Zk) | [Dream Web](https://open.spotify.com/artist/0xhiRy2F05NVIpB4GKReES) | [Soft Slap](https://open.spotify.com/album/4KZNYiyOffr0ugdRRcgFMK) | 4:03 | 2021-11-11 | 2022-09-09 |
+| [Soft Sunsets](https://open.spotify.com/track/1ChQHADZfxqbO1IvWDIqAd) | [Guiseppe](https://open.spotify.com/artist/4HP2Lyk5M4bEADiSVz2tbt) | [Soft Sunsets](https://open.spotify.com/album/0csztTNlDcDqKG6UVjzKLK) | 2:33 | 2024-11-06 |  |
 | [Solution](https://open.spotify.com/track/2A2eYjmKioXlENYqs2rxB9) | [HÖNS](https://open.spotify.com/artist/7xJqZn92FHmrPc6tdWfDfu) | [Tender](https://open.spotify.com/album/5buYqNrXgQlcACaYQRwiRc) | 1:46 | 2021-11-11 | 2022-05-27 |
 | [Solution](https://open.spotify.com/track/59KFxZW9JsG5ZCImfl037l) | [slvmdunk](https://open.spotify.com/artist/6xWPNNIPMMeXMqzJ8o0T3w) | [Solution](https://open.spotify.com/album/0JeowS9xwEgfLOdORmWc5l) | 2:54 | 2021-11-11 | 2024-08-24 |
 | [Something Has Happened](https://open.spotify.com/track/5irlm4HR7wslp9BTuMlLQo) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi), [Hippo Dreams](https://open.spotify.com/artist/7d1hAWnZ7H67F3aarrkr9H), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Artifacts](https://open.spotify.com/album/5J0M15urtyOM5CxTjtgT8F) | 1:56 | 2022-04-08 | 2023-01-13 |
 | [Somewhere Else](https://open.spotify.com/track/1iZmhfieN8euwBRYq0V9aD) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f) | [Somewhere Else](https://open.spotify.com/album/0pwbJPrLHPGgeLuDAXhrvG) | 2:40 | 2023-04-11 | 2023-08-26 |
 | [Somewhere Else](https://open.spotify.com/track/2AjbijtpXLNFWjrENuM771) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f) | [Tomorrow Never Knows](https://open.spotify.com/album/7t8gMgC2JPz0letGTpOJIW) | 2:40 | 2023-07-19 | 2023-09-22 |
 | [Sorbets](https://open.spotify.com/track/0myyZ5la6POCla0TiQAlJI) | [Robertson](https://open.spotify.com/artist/2EzlZPJxXWKsLlQBJUEw28) | [Reach Out](https://open.spotify.com/album/75Scz9V5C2kpPIWAQyJT26) | 2:00 | 2021-11-11 | 2023-09-08 |
+| [Sparky](https://open.spotify.com/track/4DHcrAP5xGkdH4PIK3uXqK) | [Togo Bao](https://open.spotify.com/artist/6iLiH4i8sPHd7x1RvS5Fqn) | [Sparky](https://open.spotify.com/album/4tBhjkO30UmDThAeoqCOSq) | 2:23 | 2024-11-06 |  |
 | [special](https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [special](https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr) | 2:26 | 2021-11-11 | 2022-11-26 |
 | [spice age](https://open.spotify.com/track/12Wq2oMs3cC5X4kLib48AX) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [spice age](https://open.spotify.com/album/6H4pKjbmFUb0tvbvaTSJHr) | 1:59 | 2023-05-01 |  |
 | [Spring Cold](https://open.spotify.com/track/3lCZxVYjOpUmFKEjsKsnTU) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r) | [Spring Cold](https://open.spotify.com/album/0XL40uz5cMkTAlN25kyIm3) | 2:40 | 2024-02-23 |  |
@@ -482,6 +487,7 @@
 | [The Rooftop](https://open.spotify.com/track/3QGeVTGNN77x4oQcUneQp5) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [After Hours](https://open.spotify.com/album/6O4Lv0SRpa0P2BBh7MW6ft) | 3:32 | 2021-11-11 |  |
 | [theory](https://open.spotify.com/track/4HKdPsYjadAjbyExkfHckS) | [Dean Bowser](https://open.spotify.com/artist/2ykj8pxgT6Xyzc1gxMSe90) | [theory](https://open.spotify.com/album/3boH3lxcS1Nz9J1KuyZuRx) | 3:00 | 2023-05-01 |  |
 | [They Come In Peace](https://open.spotify.com/track/6jGjXEvaAoCkJr75Rlh6wB) | [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chillowfy](https://open.spotify.com/artist/21show38R2hYaNkEeCZNbZ) | [They Come In Peace](https://open.spotify.com/album/57AKcGeXLaplaxpdmzAaLz) | 3:25 | 2021-11-11 | 2022-11-26 |
+| [Third Floor](https://open.spotify.com/track/2PHMWIqayTpFu9wyejvKrj) | [Choftus Leek](https://open.spotify.com/artist/5oc0NyRrTn4F7cVJg1rTdl) | [Third Floor](https://open.spotify.com/album/6gnK05Fsh3NvLmXgz4jiV7) | 2:28 | 2024-11-06 |  |
 | [this feels so right](https://open.spotify.com/track/4or5RFuku3G0P1ZOLGBTLt) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [this feels so right](https://open.spotify.com/album/2VyvMQUHPp3KIcIyiWbVjv) | 1:30 | 2021-11-11 | 2022-07-29 |
 | [this feels so right](https://open.spotify.com/track/4xoZZLMFSJpBYdEb8DkcvK) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [Memories](https://open.spotify.com/album/00047joTQcCcJzrKkfumNK) | 1:30 | 2022-07-29 | 2022-09-09 |
 | [this wedding](https://open.spotify.com/track/26i9wgPx6AVjD2s4AgsJ5M) | [gnachos](https://open.spotify.com/artist/0zxfQpA423VZNWav1hgj8p) | [this wedding](https://open.spotify.com/album/4Mxl4KEcj1VOYG6P8CRxHz) | 2:43 | 2021-11-11 | 2022-08-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy trendy & chill Korean R&B music. (Cover: John Park(\uc874\ubc15))",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: John Park(\uc874\ubc15))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -368,7 +368,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 204906,
       "name": "365 (Feat. JUNNY)",
       "url": "https://open.spotify.com/track/1g44dTzKW337AAReshbgUm"
@@ -5904,7 +5904,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-21",
+      "date_removed": null,
       "duration_ms": 186773,
       "name": "Heaven (Feat. Sam Kim)",
       "url": "https://open.spotify.com/track/0ZpEiNVDCJbZBS8e9DKOUw"
@@ -8680,7 +8680,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 205393,
       "name": "Mayday (Feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/15h2NRc292HUp1XgTEnOtJ"
@@ -9396,6 +9396,28 @@
       "duration_ms": 108986,
       "name": "New Jeans",
       "url": "https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2"
+    },
+    {
+      "album": {
+        "name": "A N E W",
+        "url": "https://open.spotify.com/album/14IlHQB8I9Cbe1V6OrYpNP"
+      },
+      "artists": [
+        {
+          "name": "EJel",
+          "url": "https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183226,
+      "name": "New Reels (Feat. pH-1)",
+      "url": "https://open.spotify.com/track/3EA9QZbFscCuOByqSKOhCG"
     },
     {
       "album": {
@@ -10162,7 +10184,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 169893,
       "name": "ONCE AGAIN",
       "url": "https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn"
@@ -11268,7 +11290,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-31",
+      "date_removed": null,
       "duration_ms": 267080,
       "name": "Restless",
       "url": "https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe"
@@ -11730,7 +11752,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 134724,
       "name": "Sentimental Love",
       "url": "https://open.spotify.com/track/3AXhW63USQmXX3d4Efzmdd"
@@ -12068,7 +12090,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 214688,
       "name": "Sip Ona Lil Sum' (Feat. NINGNING of aespa)",
       "url": "https://open.spotify.com/track/1H5rqmKEhkc0ICxvRlSBhn"

@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a>  \ud83d\ude80\ud83d\ude80 with Marshmello & Hamdi",
-  "num_followers": 979739,
+  "num_followers": 979752,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1565,6 +1565,30 @@
       "url": "https://open.spotify.com/track/6OvMmEeumtCP6WgYqgA08T"
     },
     {
+      "added_at": "2024-04-05 04:00:45",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        }
+      ],
+      "duration_ms": 294857,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd"
+    },
+    {
       "added_at": "2024-07-05 04:16:33",
       "album": {
         "name": "Hoist The Colours (Excision & Sullivan King Remix)",
@@ -1615,30 +1639,6 @@
       "duration_ms": 149136,
       "name": "Hoist The Colours - Excision & Sullivan King Remix",
       "url": "https://open.spotify.com/track/6sKog4OAuRZfYmQRrLYExz"
-    },
-    {
-      "added_at": "2024-04-05 04:00:45",
-      "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "DeathbyRomy",
-          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
-        }
-      ],
-      "duration_ms": 294857,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2089,28 +2089,20 @@
       "url": "https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "SKYLINE**",
-        "url": "https://open.spotify.com/album/4iLLeBu3FMD8jTUM1J1rvo"
+        "name": "Get Wompy",
+        "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
       },
       "artists": [
         {
-          "name": "Montell2099",
-          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
-        },
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        },
-        {
-          "name": "Lucy Lucy",
-          "url": "https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs"
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
         }
       ],
-      "duration_ms": 162500,
-      "name": "SKYLINE**",
-      "url": "https://open.spotify.com/track/6uHRgUYrW8FuudgLLYydjU"
+      "duration_ms": 153600,
+      "name": "Get Wompy",
+      "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
     }
   ],
   "unique_name": "Bass Arcade",

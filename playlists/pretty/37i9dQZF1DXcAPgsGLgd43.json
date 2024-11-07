@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 61624,
+  "num_followers": 61658,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -691,30 +691,6 @@
     {
       "added_at": "2024-11-04 17:52:14",
       "album": {
-        "name": "Cafecito",
-        "url": "https://open.spotify.com/album/22APOaVCt7C6TsWH3XB3Sl"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 154710,
-      "name": "Cafecito",
-      "url": "https://open.spotify.com/track/0Jx0wecBc4647J4QMdmsY1"
-    },
-    {
-      "added_at": "2024-11-04 17:52:14",
-      "album": {
         "name": "Viagem Ao Centro Do Eu (Coragem)",
         "url": "https://open.spotify.com/album/5hxVW27RJP6u3O7XlaUjwx"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 253770,
       "name": "Viagem Ao Centro Do Eu (Coragem)",
       "url": "https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo"
+    },
+    {
+      "added_at": "2024-11-04 17:52:14",
+      "album": {
+        "name": "Cafecito",
+        "url": "https://open.spotify.com/album/22APOaVCt7C6TsWH3XB3Sl"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 154710,
+      "name": "Cafecito",
+      "url": "https://open.spotify.com/track/0Jx0wecBc4647J4QMdmsY1"
     },
     {
       "added_at": "2024-11-04 17:52:14",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-11-04 17:52:14",
       "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
-    },
-    {
-      "added_at": "2024-11-04 17:52:14",
-      "album": {
         "name": "Lo Que Soy",
         "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 170953,
       "name": "Lo Que Soy",
       "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
+    },
+    {
+      "added_at": "2024-11-04 17:52:14",
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
     },
     {
       "added_at": "2024-11-04 17:52:14",
@@ -1251,6 +1251,34 @@
     {
       "added_at": "2024-11-04 17:52:14",
       "album": {
+        "name": "Arrebatao",
+        "url": "https://open.spotify.com/album/4AHUp3FsMi7XQqiYQJz4e8"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Sebastian Ledher",
+          "url": "https://open.spotify.com/artist/6KUSLPXO8e94sZWVksv4nn"
+        },
+        {
+          "name": "Joseph Ren",
+          "url": "https://open.spotify.com/artist/0TG7p0ATDDBfhBjl9EBvIb"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "duration_ms": 167611,
+      "name": "Arrebatao (feat. Tayson Kryss)",
+      "url": "https://open.spotify.com/track/4X98vdZ7WXOCFyzC05PPOv"
+    },
+    {
+      "added_at": "2024-11-04 17:52:14",
+      "album": {
         "name": "Barah\u00fanda",
         "url": "https://open.spotify.com/album/1FQDhOTFGyuBHt3jSULiOv"
       },
@@ -1263,26 +1291,6 @@
       "duration_ms": 139082,
       "name": "Barah\u00fanda",
       "url": "https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS"
-    },
-    {
-      "added_at": "2024-11-04 17:52:14",
-      "album": {
-        "name": "Noche Y Dia",
-        "url": "https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs"
-      },
-      "artists": [
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        },
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        }
-      ],
-      "duration_ms": 152601,
-      "name": "Noche Y Dia",
-      "url": "https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa"
     },
     {
       "added_at": "2024-11-04 17:52:14",
@@ -1347,22 +1355,6 @@
     {
       "added_at": "2024-11-04 17:52:14",
       "album": {
-        "name": "Roots EP, Pt. 1",
-        "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Hijos De La Noche",
-      "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
-    },
-    {
-      "added_at": "2024-11-04 17:52:14",
-      "album": {
         "name": "Treme",
         "url": "https://open.spotify.com/album/33CF51WT0WPMD1be6qEx3P"
       },
@@ -1379,6 +1371,22 @@
       "duration_ms": 210326,
       "name": "Treme",
       "url": "https://open.spotify.com/track/4MoOnPMkm3qCWbR8FI1x1m"
+    },
+    {
+      "added_at": "2024-11-04 17:52:14",
+      "album": {
+        "name": "Roots EP, Pt. 1",
+        "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Hijos De La Noche",
+      "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
     },
     {
       "added_at": "2024-11-04 17:52:14",
@@ -1403,22 +1411,22 @@
     {
       "added_at": "2024-11-04 17:52:14",
       "album": {
-        "name": "Bullerengue",
-        "url": "https://open.spotify.com/album/5QPON1QI3Z09s01yzq5kb3"
+        "name": "Noche Y Dia",
+        "url": "https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs"
       },
       "artists": [
         {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
         },
         {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
         }
       ],
-      "duration_ms": 195121,
-      "name": "Bullerengue",
-      "url": "https://open.spotify.com/track/0wZC3aP8YeXjYvw0Ua8Qnn"
+      "duration_ms": 152601,
+      "name": "Noche Y Dia",
+      "url": "https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa"
     },
     {
       "added_at": "2024-11-04 17:52:14",
@@ -1447,30 +1455,22 @@
     {
       "added_at": "2024-11-04 17:52:14",
       "album": {
-        "name": "Arrebatao",
-        "url": "https://open.spotify.com/album/4AHUp3FsMi7XQqiYQJz4e8"
+        "name": "Bullerengue",
+        "url": "https://open.spotify.com/album/5QPON1QI3Z09s01yzq5kb3"
       },
       "artists": [
         {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
         },
         {
-          "name": "Sebastian Ledher",
-          "url": "https://open.spotify.com/artist/6KUSLPXO8e94sZWVksv4nn"
-        },
-        {
-          "name": "Joseph Ren",
-          "url": "https://open.spotify.com/artist/0TG7p0ATDDBfhBjl9EBvIb"
-        },
-        {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
         }
       ],
-      "duration_ms": 167611,
-      "name": "Arrebatao (feat. Tayson Kryss)",
-      "url": "https://open.spotify.com/track/4X98vdZ7WXOCFyzC05PPOv"
+      "duration_ms": 195121,
+      "name": "Bullerengue",
+      "url": "https://open.spotify.com/track/0wZC3aP8YeXjYvw0Ua8Qnn"
     },
     {
       "added_at": "2024-11-04 17:52:14",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2024-11-04 17:52:14",
       "album": {
+        "name": "Te Recorde",
+        "url": "https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Subelo NEO",
+          "url": "https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "Te Recorde",
+      "url": "https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur"
+    },
+    {
+      "added_at": "2024-11-04 17:52:14",
+      "album": {
         "name": "Sima Agua (feat. Mayra Andrade)",
         "url": "https://open.spotify.com/album/0lHeNyUgnHnQkC3dNqIt0A"
       },
@@ -1587,30 +1607,6 @@
       "duration_ms": 227333,
       "name": "Sima Agua (feat. Mayra Andrade)",
       "url": "https://open.spotify.com/track/7gpFZiYUxTQUu5iyUB7k78"
-    },
-    {
-      "added_at": "2024-11-04 17:52:14",
-      "album": {
-        "name": "Culo",
-        "url": "https://open.spotify.com/album/5JVaZThemCsRFGs94NnMID"
-      },
-      "artists": [
-        {
-          "name": "Mariline",
-          "url": "https://open.spotify.com/artist/3NLFKv17mDCARVJdf3a2s4"
-        },
-        {
-          "name": "Big O",
-          "url": "https://open.spotify.com/artist/4uBuaf1JOKbUdSXGw5eusl"
-        },
-        {
-          "name": "Jonfy",
-          "url": "https://open.spotify.com/artist/028DpH7rTwRlVFTXPDY3LJ"
-        }
-      ],
-      "duration_ms": 134880,
-      "name": "Culo",
-      "url": "https://open.spotify.com/track/6HD1Fez3zHqBLVAG92i06U"
     },
     {
       "added_at": "2024-11-04 17:52:14",
@@ -1635,22 +1631,26 @@
     {
       "added_at": "2024-11-04 17:52:14",
       "album": {
-        "name": "Te Recorde",
-        "url": "https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P"
+        "name": "Culo",
+        "url": "https://open.spotify.com/album/5JVaZThemCsRFGs94NnMID"
       },
       "artists": [
         {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+          "name": "Mariline",
+          "url": "https://open.spotify.com/artist/3NLFKv17mDCARVJdf3a2s4"
         },
         {
-          "name": "Subelo NEO",
-          "url": "https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv"
+          "name": "Big O",
+          "url": "https://open.spotify.com/artist/4uBuaf1JOKbUdSXGw5eusl"
+        },
+        {
+          "name": "Jonfy",
+          "url": "https://open.spotify.com/artist/028DpH7rTwRlVFTXPDY3LJ"
         }
       ],
-      "duration_ms": 167640,
-      "name": "Te Recorde",
-      "url": "https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur"
+      "duration_ms": 134880,
+      "name": "Culo",
+      "url": "https://open.spotify.com/track/6HD1Fez3zHqBLVAG92i06U"
     },
     {
       "added_at": "2024-11-04 17:52:14",
@@ -1703,6 +1703,26 @@
     {
       "added_at": "2024-11-04 17:52:14",
       "album": {
+        "name": "Tu Sabor",
+        "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of Rituals",
+          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
+        },
+        {
+          "name": "Pablo Alhach",
+          "url": "https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz"
+        }
+      ],
+      "duration_ms": 175357,
+      "name": "Tu Sabor",
+      "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
+    },
+    {
+      "added_at": "2024-11-04 17:52:14",
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/56EvRHiuKxCqqOvH7MX9z2"
       },
@@ -1735,22 +1755,22 @@
     {
       "added_at": "2024-11-04 17:52:14",
       "album": {
-        "name": "Tu Sabor",
-        "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
+        "name": "Diablo (Que Rico)",
+        "url": "https://open.spotify.com/album/60lk6qlz0jEjiXkCdUOsUl"
       },
       "artists": [
         {
-          "name": "Sounds Of Rituals",
-          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
+          "name": "Twolate",
+          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
         },
         {
-          "name": "Pablo Alhach",
-          "url": "https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz"
+          "name": "Elilluminari",
+          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
         }
       ],
-      "duration_ms": 175357,
-      "name": "Tu Sabor",
-      "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
+      "duration_ms": 151874,
+      "name": "Diablo (Que Rico)",
+      "url": "https://open.spotify.com/track/4qbjFXrNrMU4U5fvBjMUBz"
     },
     {
       "added_at": "2024-11-04 17:52:14",
@@ -1803,26 +1823,6 @@
       "duration_ms": 162000,
       "name": "Yo Contigo",
       "url": "https://open.spotify.com/track/4hxjSgsOe5hCNwFv4L2IbI"
-    },
-    {
-      "added_at": "2024-11-04 17:52:14",
-      "album": {
-        "name": "Diablo (Que Rico)",
-        "url": "https://open.spotify.com/album/60lk6qlz0jEjiXkCdUOsUl"
-      },
-      "artists": [
-        {
-          "name": "Twolate",
-          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
-        },
-        {
-          "name": "Elilluminari",
-          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "Diablo (Que Rico)",
-      "url": "https://open.spotify.com/track/4qbjFXrNrMU4U5fvBjMUBz"
     },
     {
       "added_at": "2024-11-04 17:52:14",
@@ -1947,18 +1947,22 @@
     {
       "added_at": "2024-11-04 17:52:14",
       "album": {
-        "name": "Joga Joga",
-        "url": "https://open.spotify.com/album/0KudIesJyKdAfrT1dqzkzi"
+        "name": "Sombras",
+        "url": "https://open.spotify.com/album/5eqIgU8H7RVxr5HHnmoodF"
       },
       "artists": [
         {
-          "name": "Jude & Frank",
-          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
         }
       ],
-      "duration_ms": 153999,
-      "name": "Joga Joga",
-      "url": "https://open.spotify.com/track/0R8cs8bH064hfUJO9Pmh9h"
+      "duration_ms": 351219,
+      "name": "Sombras",
+      "url": "https://open.spotify.com/track/1ujnqItR6qmrowmlBucSLQ"
     },
     {
       "added_at": "2024-11-04 17:52:14",
@@ -1983,22 +1987,18 @@
     {
       "added_at": "2024-11-04 17:52:14",
       "album": {
-        "name": "Groove Con Clase",
-        "url": "https://open.spotify.com/album/00yyKypLfSiHZQsCakCXbz"
+        "name": "Joga Joga",
+        "url": "https://open.spotify.com/album/0KudIesJyKdAfrT1dqzkzi"
       },
       "artists": [
         {
-          "name": "Mal\u00f3ne",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
-        },
-        {
-          "name": "Cameron Jack",
-          "url": "https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH"
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
         }
       ],
-      "duration_ms": 182886,
-      "name": "Groove Con Clase",
-      "url": "https://open.spotify.com/track/7gCDFGLVES145SCNMTSwEv"
+      "duration_ms": 153999,
+      "name": "Joga Joga",
+      "url": "https://open.spotify.com/track/0R8cs8bH064hfUJO9Pmh9h"
     },
     {
       "added_at": "2024-11-04 17:52:14",
@@ -2023,26 +2023,22 @@
     {
       "added_at": "2024-11-04 17:52:14",
       "album": {
-        "name": "HAHAHA EP",
-        "url": "https://open.spotify.com/album/5xE9VX43NpuQEmAh94aUZC"
+        "name": "Groove Con Clase",
+        "url": "https://open.spotify.com/album/00yyKypLfSiHZQsCakCXbz"
       },
       "artists": [
         {
-          "name": "MC Menor MT",
-          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
         },
         {
-          "name": "bewav",
-          "url": "https://open.spotify.com/artist/7mQScd8jtZwkokSos5T3RM"
-        },
-        {
-          "name": "Stizi",
-          "url": "https://open.spotify.com/artist/7moIdr6bVKI6UGneM3OV42"
+          "name": "Cameron Jack",
+          "url": "https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH"
         }
       ],
-      "duration_ms": 156923,
-      "name": "HAHAHA",
-      "url": "https://open.spotify.com/track/4MBcx34MIGhVcjbjUb5WAs"
+      "duration_ms": 182886,
+      "name": "Groove Con Clase",
+      "url": "https://open.spotify.com/track/7gCDFGLVES145SCNMTSwEv"
     }
   ],
   "unique_name": "Latin House",

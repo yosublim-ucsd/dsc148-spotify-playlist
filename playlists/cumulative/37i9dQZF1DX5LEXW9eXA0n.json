@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: Choi Yu Ree(\ucd5c\uc720\ub9ac)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: HEIZE(\ud5e4\uc774\uc988)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 217685,
       "name": "all of my love",
       "url": "https://open.spotify.com/track/3pBoyr1390kBV2MVcn5YZu"
@@ -1902,7 +1902,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 237906,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/6e2JgoDoG0ADpGKTcQ0zAB"
@@ -4086,7 +4086,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 222283,
       "name": "Delete my Instagram",
       "url": "https://open.spotify.com/track/1KXe7hvrMtKZUDUqk7ybO6"
@@ -4650,7 +4650,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 207760,
       "name": "Don\u2019t Leave Me Alone",
       "url": "https://open.spotify.com/track/5ji6bQuR4enoUilaIZyr1V"
@@ -5629,6 +5629,24 @@
     },
     {
       "album": {
+        "name": "FALLIN\u2019",
+        "url": "https://open.spotify.com/album/24QqEpbJ5la5efKymw6kcK"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200909,
+      "name": "FALLIN\u2019",
+      "url": "https://open.spotify.com/track/6SB3WxKENI2kc1rFOo2mDB"
+    },
+    {
+      "album": {
         "name": "Season Note",
         "url": "https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM"
       },
@@ -6520,7 +6538,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 275928,
       "name": "Go for a Walk",
       "url": "https://open.spotify.com/track/4VMdrHuuA2lQtP5Nyrk7dD"
@@ -7448,7 +7466,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 191866,
       "name": "Hold Me Now",
       "url": "https://open.spotify.com/track/2SiGvKZCCLMjoXnbWSsMA0"
@@ -8662,7 +8680,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 209200,
       "name": "I miss you now",
       "url": "https://open.spotify.com/track/5TgCwXtQxDTDh9AVNLDEni"
@@ -9012,7 +9030,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 233813,
       "name": "I Will",
       "url": "https://open.spotify.com/track/1FkEJePjsSTZNJbrxd2BhI"
@@ -13646,7 +13664,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 253360,
       "name": "More than yesterday",
       "url": "https://open.spotify.com/track/4A3i56Rh3sm2lzXQp3ly9U"
@@ -15708,7 +15726,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 194560,
       "name": "Out of time",
       "url": "https://open.spotify.com/track/0J4JHtige4TIAkC0oS5Wzh"
@@ -18690,7 +18708,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 216066,
       "name": "Supppperman's dream",
       "url": "https://open.spotify.com/track/5Ohuk0qPL3zvRdqT91WV58"
@@ -20944,6 +20962,24 @@
       "duration_ms": 205493,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/2rgjOD5RmUh3V6rmx3eLkm"
+    },
+    {
+      "album": {
+        "name": "TURN",
+        "url": "https://open.spotify.com/album/2LpsHc7oFPbPndYw89bRW5"
+      },
+      "artists": [
+        {
+          "name": "simaron",
+          "url": "https://open.spotify.com/artist/6h24lCuHJ3kk71eeCMxFpB"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230040,
+      "name": "Turn",
+      "url": "https://open.spotify.com/track/2YJvif30ElLKoi5ccJ9ZEE"
     },
     {
       "album": {

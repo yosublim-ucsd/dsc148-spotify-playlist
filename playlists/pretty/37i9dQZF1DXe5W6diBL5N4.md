@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: MINHO\(민호\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,291 likes - 210 songs - 11 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,337 likes - 210 songs - 11 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,14 +52,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 42 | [Dream Paradise](https://open.spotify.com/track/09ofzbiJLw57OVGpiqxUbu) | [Joe Layne](https://open.spotify.com/artist/01TdF2ZEvA91OvXXuJfQfQ) | [Dream Paradise](https://open.spotify.com/album/1X9FY8tcsPVldWBDlMiP6c) | 3:26 |
 | 43 | [Plasma](https://open.spotify.com/track/2hGfoOK9qmcNAPjYTEhw5G) | [Hangronan](https://open.spotify.com/artist/306snEmLuui267KbuZX8Fk) | [Plasma](https://open.spotify.com/album/6S2IcmJlNdlA4xBAD3lwHA) | 3:39 |
 | 44 | [now or never](https://open.spotify.com/track/185SDWIK5Ju36P1sL7ArZ4) | [$up!](https://open.spotify.com/artist/10sEMrh74j8Lt1CtGlzjMc) | [now or never](https://open.spotify.com/album/2u6u0f8NFNH56dnA0006Pt) | 3:09 |
-| 45 | [오늘은 내가 꽃일 수도 있고 \(with\. lM’s\)](https://open.spotify.com/track/0PNQPQvVVAXhTzPduxpHZV) | [임지훈](https://open.spotify.com/artist/2rs2jfteusTR1LJOpNU3Fo), [lM’s](https://open.spotify.com/artist/7qjjbn7GjXRBvcuWWEhvsG) | [40주년 기념 임지훈 \[作品集\] ‘크레용’](https://open.spotify.com/album/4MIfBdSIpIBO8cTHakvM6r) | 3:49 |
+| 45 | [오늘은 내가 꽃일 수도 있고](https://open.spotify.com/track/0PNQPQvVVAXhTzPduxpHZV) | [임지훈](https://open.spotify.com/artist/2rs2jfteusTR1LJOpNU3Fo), [임윤식](https://open.spotify.com/artist/37neXqobgQFbt6uzjG6dxH), [임현식](https://open.spotify.com/artist/3CBciFQRjyof7fm1YYR42j) | [40주년 기념 임지훈 \[作品集\] ‘크레용’](https://open.spotify.com/album/4MIfBdSIpIBO8cTHakvM6r) | 3:49 |
 | 46 | [Wish You Knew](https://open.spotify.com/track/6N6p3jJiWpJCZkjwxmioGv) | [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Wish You Knew](https://open.spotify.com/album/2m6ll1PHyDYQI0Ex2jGtKf) | 4:39 |
 | 47 | [The forgotten memories](https://open.spotify.com/track/4m1ytjci4xhxT1C0PzZHhD) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [The forgotten memories \(Hear Me: Our Summer X Shin Ye\-Young\)](https://open.spotify.com/album/4KrTuQA0afak61oe3V5ZjB) | 3:45 |
 | 48 | [Blue night](https://open.spotify.com/track/3OJzMaNPkiTXZoZ6AO3zio) | [Yeo Kyu\-ho](https://open.spotify.com/artist/1Ga0xXb5tFe3LTrYJXEgdY) | [Blue night](https://open.spotify.com/album/6KJg2x2UbYjb83ZUqvKuWS) | 3:23 |
 | 49 | [Dream](https://open.spotify.com/track/1XH0WrbaUVYcSLgB4YD1ZW) | [Enchanter](https://open.spotify.com/artist/0iyfi9W0M2a7MCKgkpkSvm) | [Incomplete](https://open.spotify.com/album/1wjmWB9BugfaJr5t1SNgbn) | 3:33 |
 | 50 | [NIGHTMARE](https://open.spotify.com/track/3LuENGtiGgiQJ9wflpFRpH) | [Kik5o](https://open.spotify.com/artist/4la6gdnmFGXMHwFuRmpCwj) | [NIGHTMARE](https://open.spotify.com/album/0M0Ran3qczUtL1Tople1l6) | 3:03 |
 | 51 | [Already](https://open.spotify.com/track/2Ackb8im4T0yUTfDgbSjyR) | [Ran](https://open.spotify.com/artist/45WeznifMIAugR9udUQTNS) | [본능적인 그대 OST Part.3 \(Soundtrack\)](https://open.spotify.com/album/5Zy5jkprY3RypxkizBQbMg) | 3:44 |
-| 52 | [Hero](https://open.spotify.com/track/7tCEjVIbICkPDNAUzBvFXe) | [GRASS](https://open.spotify.com/artist/0x2BuI7xdJj7ZBLDTiDDJt) | [Heroine](https://open.spotify.com/album/4LRjNmVLNB25SEhoQ4D5V0) | 2:42 |
+| 52 | [Hero](https://open.spotify.com/track/7tCEjVIbICkPDNAUzBvFXe) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [Heroine](https://open.spotify.com/album/4LRjNmVLNB25SEhoQ4D5V0) | 2:42 |
 | 53 | [Bomb Bomb Bomb](https://open.spotify.com/track/2rnmV5epJdodKpmFVJmbDL) | [MYTRO](https://open.spotify.com/artist/03hzPQyRS7Rd6v6oGnYTzZ) | [LOVESTRUCK SISTERS Episode 5](https://open.spotify.com/album/5bH5jDdREPIt5uxyGx955M) | 3:27 |
 | 54 | [Love and hatred](https://open.spotify.com/track/5d11BxJlxWxXQcjJILat4a) | [Kim Daol](https://open.spotify.com/artist/0wL1cnY6UYSsZkteBX2V7s) | [Love and hatred](https://open.spotify.com/album/57PQ5AG7QQo78uRqy6tjey) | 4:44 |
 | 55 | [Shall we run away](https://open.spotify.com/track/3A2PETohyQTrqXSwLQr4ob) | [RYU JIHYUN](https://open.spotify.com/artist/2gY4TLGKmjvYHZgL7Zfvt2) | [Shall we run away](https://open.spotify.com/album/76Fp11JzauWvK0pTDpwxAM) | 3:30 |
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 105 | [i](https://open.spotify.com/track/7e8VMnVeJMBvq3p7JgxDG4) | [윤민](https://open.spotify.com/artist/0nG1hgCJH4atYCc6t0BJ0v) | [DING\-DONG](https://open.spotify.com/album/3QcqGidE4Cps5u8pLfzGBw) | 2:35 |
 | 106 | [Ah\-Yeah \(feat\. Polodared\)](https://open.spotify.com/track/6RziGEwAqRmGCur6ZUz5Pc) | [Tray B](https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [Tray Show](https://open.spotify.com/album/5qhtTUHbINUWv1f1bjcL5s) | 3:04 |
 | 107 | [Son, that′s how I met your mother](https://open.spotify.com/track/0YNsd5CMM3ioyyfa4ZiZgh) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Son, that′s how I met your mother](https://open.spotify.com/album/5M5aAWZv8cMeBDDy9R8UZl) | 3:09 |
-| 108 | [The Girl Who Leapt Through Time \(feat\. tabehiro\)](https://open.spotify.com/track/45jZTd9GeJ06Tf5Dn8Bwhb) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Tabehiro](https://open.spotify.com/artist/5pgax6J28FBgiyYPFS4xJx) | [The Girl Who Leapt Through Time](https://open.spotify.com/album/21ohpNi9Lgli1jJPdabpMp) | 3:09 |
+| 108 | [The Girl Who Leapt Through Time \(feat\. tabehiro\)](https://open.spotify.com/track/45jZTd9GeJ06Tf5Dn8Bwhb) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [tabehiro](https://open.spotify.com/artist/74LzKWRK1RXCRSw4O1PHeb) | [The Girl Who Leapt Through Time](https://open.spotify.com/album/21ohpNi9Lgli1jJPdabpMp) | 3:09 |
 | 109 | [Too Late For Love](https://open.spotify.com/track/2iZpSH7bzeQTahx4C5z1vx) | [YOUNGJOO](https://open.spotify.com/artist/1nLn5ZeWUlNQuxva3WZGfp) | [Too Late For Love](https://open.spotify.com/album/6Koha0FwW4wwoJ2yR1oE1P) | 3:13 |
 | 110 | [It's You](https://open.spotify.com/track/7pYauho5v0QOoE88pwChap) | [Baby Blue](https://open.spotify.com/artist/4lPysgWv3ElxXrp6IKcJN1) | [Wicked just for you OST](https://open.spotify.com/album/6qzL9UA2qJsnUSYSBtgXqi) | 4:08 |
 | 111 | [sAd sOng](https://open.spotify.com/track/599jTszdlfQQVF4GF4Ms7D) | [Se.A](https://open.spotify.com/artist/68Jz1SO82dTTPJyfdg6MBp) | [sAd sOng](https://open.spotify.com/album/2xPoAIEpEvGZsXACSzy2dX) | 2:29 |

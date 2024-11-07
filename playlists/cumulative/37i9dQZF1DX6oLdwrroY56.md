@@ -4,13 +4,14 @@
 
 > pinoy alternative music \. Cover: Wiji Kun
 
-147 songs - 9 hr 31 min
+151 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [711](https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [711](https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL) | 3:42 | 2023-10-13 |  |
 | [\_enero \(feat\. Rreyo Obero\)](https://open.spotify.com/track/2XeqHpVslF6YNPWy5pQRk7) | [Luke April](https://open.spotify.com/artist/4HzeCMhywzJSG6uixss0rJ), [Rreyo Obero](https://open.spotify.com/artist/55mghnwb99ICUylLaN3uBs) | [\_enero](https://open.spotify.com/album/6XhmoEnRzbCUEv2Flb6OoG) | 3:35 | 2024-04-26 |  |
 | [A Way Out](https://open.spotify.com/track/7Cey4kxrNuZfFz07mFsPPE) | [Eliza Marie](https://open.spotify.com/artist/2J15J7lLY74L3uG6mvPVnc) | [A Way Out](https://open.spotify.com/album/7JRPFxQUKZGQJAmwq5FT0w) | 3:00 | 2023-10-13 | 2023-10-28 |
+| [Accidents](https://open.spotify.com/track/7lMWnmbFWP1Rg0cSICKmjx) | [Cheats](https://open.spotify.com/artist/4XUJ1FQti6aKrUrZTCBFKz) | [Cheats](https://open.spotify.com/album/7fy9ViwHRwWAEmG4upZLn9) | 3:55 | 2024-11-06 |  |
 | [Aking Araw, Araw\-Araw](https://open.spotify.com/track/4ZHwzYR9RBQN5AZhilFJUp) | [Tema](https://open.spotify.com/artist/0JHGjAEXAEzNH9nEv6Q3TB) | [Aking Araw, Araw\-Araw](https://open.spotify.com/album/013JCUPCrH1lYZZTyDWy2m) | 4:56 | 2024-06-21 | 2024-10-19 |
 | [Alitan](https://open.spotify.com/track/2Gv2G2MVmS2jejPj10SeRE) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Alitan](https://open.spotify.com/album/3fcCX9wgldCwjoP3WfXgtf) | 4:12 | 2024-10-18 |  |
 | [ANXIOUS HEART](https://open.spotify.com/track/49Izqy2bYpnFKnlGNQlRbE) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [ANXIOUS HEART](https://open.spotify.com/album/6g5Y5wbjT5tyTEPicGAL5O) | 3:26 | 2023-11-18 | 2024-04-19 |
@@ -63,10 +64,11 @@
 | [Langit at Lupa](https://open.spotify.com/track/3dvx6L3w6eJnfO9308f0ms) | [NaÏV](https://open.spotify.com/artist/09UWVORoWNvb4g6A4CBDuF) | [Langit at Lupa](https://open.spotify.com/album/0zjLI9aNRNmwY08F2p0LIx) | 4:12 | 2024-07-26 |  |
 | [Lara](https://open.spotify.com/track/6tI7QZCy2hZ9Gk2re6sB4P) | [Leona](https://open.spotify.com/artist/40ulg2TTFpUOcGVyDu6iJO) | [Lara](https://open.spotify.com/album/0zfXAtSmSitgJayVujagFB) | 3:45 | 2023-11-10 | 2024-07-19 |
 | [Lia](https://open.spotify.com/track/0bdFYK7peWdZL7WBvMMElv) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Superpower](https://open.spotify.com/album/047FChdsheEbLOQ1LzuuO8) | 4:20 | 2024-09-27 |  |
-| [Lia](https://open.spotify.com/track/6uHHGyKxMg5MOUbXsqVgxL) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Lia](https://open.spotify.com/album/4gptphn7spep2ULaykVZLp) | 4:20 | 2024-07-12 |  |
+| [Lia](https://open.spotify.com/track/6uHHGyKxMg5MOUbXsqVgxL) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Lia](https://open.spotify.com/album/4gptphn7spep2ULaykVZLp) | 4:20 | 2024-07-12 | 2024-11-07 |
 | [Lila](https://open.spotify.com/track/14Edofhd6KHcuO51WitSLV) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Lila](https://open.spotify.com/album/4QuF85jFBoM63F56LIYZCT) | 3:48 | 2024-07-19 |  |
 | [Lilly's Child](https://open.spotify.com/track/53VWrgqxMeyLvzRaPZH89K) | [Alexis Gildore](https://open.spotify.com/artist/0pie0aHWJncJV8IYRnYcD3) | [Lilly's Child](https://open.spotify.com/album/6IljuxUuJiSP87CuHpEn3E) | 2:24 | 2023-10-13 | 2024-02-10 |
-| [Lumang Gunita](https://open.spotify.com/track/6y2vT4HD1jxx4ak9zAwhWD) | [Sandiwa](https://open.spotify.com/artist/720Zve67rPRTRjyI9Qsb0q) | [Lumang Gunita](https://open.spotify.com/album/4YyUobyOK37XTX41efmYnJ) | 4:03 | 2024-07-12 |  |
+| [Liwanag](https://open.spotify.com/track/2Xvp6TOLEoYL7xBxMpCqfH) | [The Knobs](https://open.spotify.com/artist/5SChS914naD0ev5pHTFMdt) | [Liwanag](https://open.spotify.com/album/3qzGyBXcGla1MjSGS9GuhS) | 5:24 | 2024-11-06 |  |
+| [Lumang Gunita](https://open.spotify.com/track/6y2vT4HD1jxx4ak9zAwhWD) | [Sandiwa](https://open.spotify.com/artist/720Zve67rPRTRjyI9Qsb0q) | [Lumang Gunita](https://open.spotify.com/album/4YyUobyOK37XTX41efmYnJ) | 4:03 | 2024-07-12 | 2024-11-07 |
 | [Mad](https://open.spotify.com/track/12bFyPA8NKbNKrK6jjCoW6) | [aunt robert](https://open.spotify.com/artist/4FCZToYRNlXiC9nAxnnix9) | [Mad](https://open.spotify.com/album/7xr4n4xmcaLFEhlc76fjn4) | 2:34 | 2024-08-09 |  |
 | [Mahal Na Yata Kita](https://open.spotify.com/track/0lE7yCSaySzXOAYESodkJQ) | [Noah Raquel](https://open.spotify.com/artist/3cXAOAlL3hdCbm2SGTagr2) | [Mahal Na Yata Kita](https://open.spotify.com/album/33Y14HJbItjGY1UifH9dHj) | 3:07 | 2024-07-19 |  |
 | [Mahika](https://open.spotify.com/track/0oKhpGNegABcrCGJacx1rC) | [shed](https://open.spotify.com/artist/3NrtcbIz7aWDbsqvlb7mPF) | [Mahika](https://open.spotify.com/album/6xXxqw4s5LrpxUKDpI72Z3) | 3:50 | 2024-06-03 | 2024-08-31 |
@@ -93,7 +95,7 @@
 | [Panaginip](https://open.spotify.com/track/2zsztxFWctyvSj9H25ikDz) | [Yves Villamor](https://open.spotify.com/artist/2sDIod09TzBcm6mTZZyQle) | [Panaginip](https://open.spotify.com/album/2pM7n3p62ktsiAD5zYz0YO) | 5:07 | 2023-10-13 | 2024-05-09 |
 | [Panahon](https://open.spotify.com/track/7Gl40zLvOcPveQu44Zf6pL) | [Unique Salonga](https://open.spotify.com/artist/30mZI7Hw2MhoarTVYxfyZM) | [Daisy](https://open.spotify.com/album/7hGfFOoXeTlesayHsQv97C) | 4:16 | 2023-10-13 | 2024-04-27 |
 | [Pangako](https://open.spotify.com/track/37fxTC4k42nkHJep3R6lVr) | [joem](https://open.spotify.com/artist/0pUq7G8WZUhDM3hqe1fWSS) | [Pangako](https://open.spotify.com/album/1kuVZdA4fLLaBwNLwK4ElQ) | 3:19 | 2023-10-13 | 2024-02-10 |
-| [Pangalawang Ulan](https://open.spotify.com/track/2UqeYYd5gqpAgV1YOjtfeO) | [brando bal](https://open.spotify.com/artist/5PEsNoUzsAqT1INR1N4HY0) | [Pangalawang Ulan](https://open.spotify.com/album/2Zz2esghd8bhZZ4lMqn4zH) | 5:23 | 2024-05-08 |  |
+| [Pangalawang Ulan](https://open.spotify.com/track/2UqeYYd5gqpAgV1YOjtfeO) | [brando bal](https://open.spotify.com/artist/5PEsNoUzsAqT1INR1N4HY0) | [Pangalawang Ulan](https://open.spotify.com/album/2Zz2esghd8bhZZ4lMqn4zH) | 5:23 | 2024-05-08 | 2024-11-07 |
 | [Pano](https://open.spotify.com/track/6sEou6d20Y6ckzht82CTsO) | [Caren Tevanny](https://open.spotify.com/artist/3p3NIGIG5T7nlV5FIhh0M1) | [Pano](https://open.spotify.com/album/50MOgT7Zk05HfohHxIsk3b) | 3:17 | 2024-02-09 | 2024-07-19 |
 | [Panoba](https://open.spotify.com/track/4NLqgAJWgHYHMhFrLUw8wg) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Panoba](https://open.spotify.com/album/1r64cPdeRYD3buv8KH6KlI) | 2:17 | 2024-04-26 | 2024-08-31 |
 | [Paraisong Tela](https://open.spotify.com/track/15Q51jCwXAfInxMR0AFOvq) | [Hey, Billie!](https://open.spotify.com/artist/4okWmMajo5EFSMIh9YBE6Q) | [Paraisong Tela](https://open.spotify.com/album/6j7KtrNERZHjP49QxH4kIu) | 5:59 | 2023-11-18 | 2024-07-19 |
@@ -112,11 +114,13 @@
 | [Raining In Manila](https://open.spotify.com/track/0mtkRIAOueeXqHpyahIbtJ) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Raining In Manila](https://open.spotify.com/album/3F0QPdZE5LgQuJgSpiWsvy) | 4:51 | 2023-10-13 | 2023-11-11 |
 | [Roses](https://open.spotify.com/track/3tWNpUIONNXnubu8Zmg74K) | [Sansette](https://open.spotify.com/artist/2QZgUdDucCesAV9xVpZHyI) | [Roses](https://open.spotify.com/album/4epwLmoCHvomYsTwtAPvfN) | 3:02 | 2023-10-13 | 2024-07-19 |
 | [Sa Huli](https://open.spotify.com/track/0UbJwLj4ZlNps0NDocAoEw) | [Kjwan](https://open.spotify.com/artist/5kUrUkpqUuCYX0eLEhvcQ3) | [Sa Huli](https://open.spotify.com/album/3JT8gixfqepfk3PrsCKY7q) | 2:26 | 2024-10-18 |  |
+| [Sa Ilalim Ng Bituin](https://open.spotify.com/track/5ZKvWEMpk6sW68FDsEIkdR) | [Feel Day](https://open.spotify.com/artist/6X3hydoInpp3NXnkQ3V5L3) | [Sa Ilalim Ng Bituin](https://open.spotify.com/album/5ql887OnajGHP3hJL5pHmS) | 3:20 | 2024-11-06 |  |
 | [Sa Iyo Na Lang Ako](https://open.spotify.com/track/3h7L0RyN7IR3M5I6L2fObU) | [Sunset Sessions](https://open.spotify.com/artist/77EPS0bhR5i4KusgcHqN5Y), [Earth To Mars](https://open.spotify.com/artist/6vidCmEKqTVNLxalYQuskK), [Ruth Lee Resuello](https://open.spotify.com/artist/2t2lODOqTfxQh0CyN6Wx20) | [Sa Iyo Na Lang Ako](https://open.spotify.com/album/5RP6MCfIhoHQDAXBrhxRX0) | 5:03 | 2023-10-13 | 2023-10-28 |
 | [Sa Tingin Ko](https://open.spotify.com/track/5muQzF8mJCqxBreEqHSDfD) | [day one](https://open.spotify.com/artist/3rKaqZWYrUPpFo2K8Ut65H) | [Sa Tingin Ko](https://open.spotify.com/album/6py07W63ksDJ1xZsZx2dn8) | 3:18 | 2023-10-13 | 2023-11-11 |
 | [Saan?](https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Saan?](https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR) | 3:26 | 2023-10-13 | 2023-11-19 |
 | [salita](https://open.spotify.com/track/0Hyem1EubuGA0g4c6yLAD3) | [unikko ijo](https://open.spotify.com/artist/2D7VJeNRHoVQgxnNXxR9cK) | [nang makita kang muli](https://open.spotify.com/album/73mCfK4xiNVU1zXdZYXpgN) | 3:54 | 2023-10-13 | 2023-11-11 |
 | [salita](https://open.spotify.com/track/5P3aZmkWKEuG6kfpyMPll9) | [unikko ijo](https://open.spotify.com/artist/2D7VJeNRHoVQgxnNXxR9cK) | [nang makita kang muli](https://open.spotify.com/album/6feOuPZciqabV98FdRcOBi) | 3:54 | 2023-11-10 | 2023-11-19 |
+| [san juan](https://open.spotify.com/track/1NT1aQIoEz6TDf88T1mq1W) | [bird.](https://open.spotify.com/artist/5ZR9GMo2iB8nxetEtvRdey) | [oshin](https://open.spotify.com/album/4z5TSk891ox2zzk5VKZCiB) | 3:53 | 2024-11-06 |  |
 | [sana hindi na lang](https://open.spotify.com/track/1ADgl3jQmbAGi6uCC2eLbN) | [Kylu](https://open.spotify.com/artist/2zx8nVKyacp2vJXUX5S5t5), [Matt Wilson](https://open.spotify.com/artist/5xPS5Chr0YYtb1VmZJqz38) | [sana hindi na lang](https://open.spotify.com/album/1uzlXLSHMKR4lRQMJjJ0Oa) | 3:16 | 2024-07-12 |  |
 | [Sasamahan Ka](https://open.spotify.com/track/6RBjZfZNa80zJbWrWt64f2) | [Tema](https://open.spotify.com/artist/0JHGjAEXAEzNH9nEv6Q3TB) | [Sasamahan Ka](https://open.spotify.com/album/5QdEBxf1VtB8d04d8dNHwt) | 4:31 | 2023-11-18 | 2024-06-29 |
 | [Segurista](https://open.spotify.com/track/4urCXTl1AKVnETT8Lh6t4F) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Segurista](https://open.spotify.com/album/5xCU9FBN7R5cdD63zp5YiW) | 3:45 | 2024-06-21 |  |
@@ -127,7 +131,7 @@
 | [SINTA](https://open.spotify.com/track/0xuMFw8nrIsfpD3sMRwObD) | [Yves Villamor](https://open.spotify.com/artist/2sDIod09TzBcm6mTZZyQle) | [SINTA](https://open.spotify.com/album/2FLvIqldtQCpR78EgQC9kI) | 3:56 | 2024-02-09 | 2024-07-19 |
 | [Sinulit](https://open.spotify.com/track/6V76PrxuZBA9Z1NExluZKQ) | [Mint Magic](https://open.spotify.com/artist/4mg2C39tmnIPmNmn5twW9o) | [Sinulit](https://open.spotify.com/album/74fNJhK7AO8AvBQCSSf8jw) | 3:36 | 2023-10-13 | 2024-02-10 |
 | [Sinungaling Ka Nanaman](https://open.spotify.com/track/3u1LytEGN0vAS26tczBpf0) | [ST\. WOLF](https://open.spotify.com/artist/09rLA0cKyHsr41JVjhgJ2O) | [Sinungaling Ka Nanaman](https://open.spotify.com/album/31hkuIET0P8S2RqcCUjHc6) | 3:03 | 2024-09-27 |  |
-| [sirens](https://open.spotify.com/track/1oo1PbwqaA5c59xnCBreus) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [sirens](https://open.spotify.com/album/69pqIOvEK67NoO48XGErG9) | 3:20 | 2024-07-12 |  |
+| [sirens](https://open.spotify.com/track/1oo1PbwqaA5c59xnCBreus) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [sirens](https://open.spotify.com/album/69pqIOvEK67NoO48XGErG9) | 3:20 | 2024-07-12 | 2024-11-07 |
 | [SOLO](https://open.spotify.com/track/6DKHHYoy7phuVMfslvrx11) | [Timmy Albert](https://open.spotify.com/artist/4acGozsQZscrP4YKMg2Xwn) | [SOLO](https://open.spotify.com/album/3zP1wbbIaPHHT3VS3kPUSY) | 3:12 | 2024-05-03 | 2024-10-19 |
 | [Somebody’s Better](https://open.spotify.com/track/66SfXY4jUuylReAjoDS8gw) | [Mint Magic](https://open.spotify.com/artist/4mg2C39tmnIPmNmn5twW9o) | [Somebody’s Better](https://open.spotify.com/album/7JR1aiowTQ8jQy0hDMBaYz) | 4:18 | 2023-11-10 | 2024-04-27 |
 | [Soup](https://open.spotify.com/track/4VfVkUe7wRRRatavXrLo6R) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Soup](https://open.spotify.com/album/54g4fkb4VBlh4qra9Dhlla) | 4:32 | 2024-06-21 |  |

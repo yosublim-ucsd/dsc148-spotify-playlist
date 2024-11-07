@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-2,265 songs - 5 day 0 hr 7 min
+2,266 songs - 5 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -774,7 +774,7 @@
 | [Jos mä oisin sä](https://open.spotify.com/track/1gSb8215VMM7zqVq1ihvjl) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Jos mä oisin sä](https://open.spotify.com/album/2D3eZu6obirchhjctY1Oq3) | 2:08 | 2023-12-02 | 2024-04-04 |
 | [Jos puhutaan totta](https://open.spotify.com/track/4rjRfdvdlRwyAVAwwdDifd) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Jos puhutaan totta](https://open.spotify.com/album/264CvOZdO5iM2dcWxLld5h) | 2:54 | 2024-01-27 | 2024-10-19 |
 | [Jos sul ei oo mua \(feat\. F & BESS\)](https://open.spotify.com/track/39R1kVmiHKlRHQapRMyJ6G) | [Kiki](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Intuitio](https://open.spotify.com/album/0mp44eilN5zXNKzifihbkm) | 3:09 | 2023-10-28 | 2023-10-30 |
-| [Jos sä tahdot niin \(Vain elämää kausi 15\)](https://open.spotify.com/track/7HAtisoxJ9jmNud1DjvHir) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Jos sä tahdot niin \(Vain elämää kausi 15\)](https://open.spotify.com/album/7GBNdMGzuiqOC1zaoLGGIi) | 3:37 | 2024-11-03 |  |
+| [Jos sä tahdot niin \(Vain elämää kausi 15\)](https://open.spotify.com/track/7HAtisoxJ9jmNud1DjvHir) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Jos sä tahdot niin \(Vain elämää kausi 15\)](https://open.spotify.com/album/7GBNdMGzuiqOC1zaoLGGIi) | 3:37 | 2024-11-03 | 2024-11-07 |
 | [Joululaulu](https://open.spotify.com/track/18Ra4rWQdsL8ViBBj3sNas) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Joululaulu](https://open.spotify.com/album/7w6ZlRSBRQlQPkrFjUlCmX) | 2:36 | 2023-12-24 | 2023-12-27 |
 | [Joulumaa](https://open.spotify.com/track/3QqsEc7mv1Kq9aWNpQgHsU) | [Katri Helena](https://open.spotify.com/artist/2IfvzNKtnV8PTAh7H6ZVfv) | [Hiljaisuudessa 2006](https://open.spotify.com/album/48xHPaOdIKHS8mAas29K5O) | 3:26 | 2021-11-30 | 2023-12-30 |
 | [Joulun kanssas jaan \(feat\. Cantores Minores\)](https://open.spotify.com/track/3RCxl6HWK4ADOzMbY8FZCw) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s), [Cantores Minores](https://open.spotify.com/artist/6ibKc7zCn0f7pIVEXvhIJB) | [Joulun kanssas jaan \(feat\. Cantores Minores\)](https://open.spotify.com/album/4hUrMPSpOYKLtDqdi8zlOS) | 4:38 | 2021-11-28 | 2023-12-30 |
@@ -1924,6 +1924,7 @@
 | [Thank God I'm an Atheist](https://open.spotify.com/track/0XiuulxoUSD0e0uCGNIYZW) | [Olivera](https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu) | [Thank God I'm an Atheist](https://open.spotify.com/album/4m5HJ4je4cWMs4iOO48gZ8) | 3:03 | 2022-01-20 | 2022-03-04 |
 | [Thank God It's Christmas \- Non\-Album Single](https://open.spotify.com/track/2xGO2UjzxeVQSIkyg98vck) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/61foK8xa76FEOk36uOxoc9) | 4:21 | 2021-12-25 | 2021-12-27 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2022-04-10 |
+| [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-11-06 |  |
 | [The Best](https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Foreign Affair](https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G) | 5:29 | 2023-05-26 | 2023-05-28 |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-03-27\* | 2022-01-03 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:10 | 2023-12-25 | 2023-12-27 |

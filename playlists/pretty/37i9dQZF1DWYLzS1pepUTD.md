@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLzS1pepUTD.md) - [plain]
 
 > The essential entrance themes for the Superstars of <a href="https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX">WWE</a>\. \#MakeAnEntrance
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,273 likes - 85 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,285 likes - 85 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLzS1pepUTD.md) - [plain]
 | 44 | [WWE: Time To Rock & Roll \(Trish Stratus\)](https://open.spotify.com/track/7IK1m8Opt4PWip8unZabkD) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Jim Johnston](https://open.spotify.com/artist/6irRU9KRGb0cMtlsBZMg2i), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [WWE: Time To Rock & Roll \(Trish Stratus\)](https://open.spotify.com/album/0lhzAmRTRQ2HI8AxD6C11f) | 3:17 |
 | 45 | [WWE: Locked In \(Trick Williams\)](https://open.spotify.com/track/5tKDNAeKUJ7p5oRsakCjKL) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Locked In \(Trick Williams\)](https://open.spotify.com/album/60j6Hts1NieH4C8jMu0bkq) | 2:50 |
 | 46 | [WWE: Not Like Most Girls \(Nia Jax\)](https://open.spotify.com/track/3pT820a0OyX4JZg6ZIxYCL) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Not Like Most Girls \(Nia Jax\)](https://open.spotify.com/album/5gcZO2bezD2UM5hULJM0Ho) | 2:44 |
-| 47 | [WWE: Hot Mess \(Chelsea Green\)](https://open.spotify.com/track/18oLIhHW9TBsCP3WifYgcd) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Hot Mess \(Chelsea Green\)](https://open.spotify.com/album/0Oy5oIJNLiUwo6AkYqsCE5) | 2:27 |
+| 47 | [WWE: Hot Mess \(Chelsea Green\)](https://open.spotify.com/track/18oLIhHW9TBsCP3WifYgcd) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Hot Mess \(Chelsea Green\)](https://open.spotify.com/album/0Oy5oIJNLiUwo6AkYqsCE5) | 2:58 |
 | 48 | [WWE: Bad Apple \(Carlito\)](https://open.spotify.com/track/3tmdtT915BAWPyHgxLzexh) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Bad Apple \(Carlito\)](https://open.spotify.com/album/20ePTU8HSJvvuLxUy3VUH1) | 2:48 |
 | 49 | [WWE: You Can't Hide \(Asuka\)](https://open.spotify.com/track/40NjyDcecAyxFcnGCgH4UR) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: You Can't Hide \(Asuka\)](https://open.spotify.com/album/08KWH9vy4kq9C3HfKNM5sW) | 2:54 |
 | 50 | [WWE: Melo Don't Miss \(Carmelo Hayes\)](https://open.spotify.com/track/4cKzEua8il2Xb6x5VbHwtl) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Melo Don't Miss \(Carmelo Hayes\)](https://open.spotify.com/album/6oLeDz56emktRkQeRMePyl) | 2:31 |

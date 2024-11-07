@@ -1747,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "Hybrid",
+        "url": "https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe"
+      },
+      "artists": [
+        {
+          "name": "A.L.A",
+          "url": "https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Ya Ghali",
+      "url": "https://open.spotify.com/track/1yNQQl0pUxWwJcy2Uhln0Q"
+    },
+    {
+      "album": {
         "name": "Ya Rayah",
         "url": "https://open.spotify.com/album/29MjazlAIq8Jdwh61nQx9t"
       },

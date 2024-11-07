@@ -18923,6 +18923,28 @@
     },
     {
       "album": {
+        "name": "Sakurazaka",
+        "url": "https://open.spotify.com/album/5GIMmyhfjVXMvWG918WHMS"
+      },
+      "artists": [
+        {
+          "name": "\u5199\u697d",
+          "url": "https://open.spotify.com/artist/7FetTrat8sX8lzK2oqagfz"
+        },
+        {
+          "name": "Aru-2",
+          "url": "https://open.spotify.com/artist/0ubjeju4a0jxzPtHTQLWg0"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Sakurazaka",
+      "url": "https://open.spotify.com/track/1FHfiHzUtlUNjiqaSOrcn9"
+    },
+    {
+      "album": {
         "name": "SAMIDARE",
         "url": "https://open.spotify.com/album/0EHfo54F8edX4f8weTJv5x"
       },
@@ -21038,7 +21060,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 192000,
       "name": "tariki",
       "url": "https://open.spotify.com/track/2WZ5tqMgdRpVrJR7qdSQeq"
@@ -22484,6 +22506,44 @@
       "duration_ms": 168518,
       "name": "Unlucky",
       "url": "https://open.spotify.com/track/78siaxmGp6yS5un5lJbcs3"
+    },
+    {
+      "album": {
+        "name": "UP!!! (feat. eyden, Kiddy, Ron B & Jelly) [DJ RyuNosuK Remix]",
+        "url": "https://open.spotify.com/album/4fQx1p6igRpi2R8FgPyrVc"
+      },
+      "artists": [
+        {
+          "name": "DJ RyuNosuK",
+          "url": "https://open.spotify.com/artist/1BPCnHFy7S4iVVkBwzYJ3X"
+        },
+        {
+          "name": "BitchImKingBoi",
+          "url": "https://open.spotify.com/artist/56DhL7aLrNO4yVylALfVgT"
+        },
+        {
+          "name": "eyden",
+          "url": "https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj"
+        },
+        {
+          "name": "kiddy",
+          "url": "https://open.spotify.com/artist/48MOj0FSIyfQdOJvTYDFFR"
+        },
+        {
+          "name": "Ron B",
+          "url": "https://open.spotify.com/artist/1vxZVmc5juxh3Sr2hk7EHd"
+        },
+        {
+          "name": "Jelly",
+          "url": "https://open.spotify.com/artist/0ewyPyH521w9Uja7R0KZJd"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189314,
+      "name": "UP!!! - DJ RyuNosuK Remix",
+      "url": "https://open.spotify.com/track/7va6LuigW96ZXNkzz6Qx0g"
     },
     {
       "album": {
@@ -25408,7 +25468,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 256012,
       "name": "\u4e0d\u5e78\u4e2d\u306e\u5e78\u3044 (feat. kZm, PETZ, JNKMN, Awich, MonyHorse & U-Lee)",
       "url": "https://open.spotify.com/track/3Dnzk4qIp457OtCfrD0S8S"

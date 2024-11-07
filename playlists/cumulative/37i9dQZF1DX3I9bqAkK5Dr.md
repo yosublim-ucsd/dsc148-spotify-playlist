@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-303 songs - 18 hr 18 min
+304 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,10 +260,11 @@
 | [Silakole Nuvvu Raye Pilla](https://open.spotify.com/track/56ASpqiyS2jNG5B5elaPO9) | [Hanumanth Yadav](https://open.spotify.com/artist/43kJUZHwzDo9sZtO81v2zl) | [Silakole Nuvvu Raye Pilla](https://open.spotify.com/album/2SIJkXk8dUxBFP91brycuZ) | 3:27 | 2023-05-19 | 2024-02-15 |
 | [Sin Amor](https://open.spotify.com/track/0B79xEGpoO6gubw7EXdqhG) | [Palan](https://open.spotify.com/artist/3h3nSNpwp9zppXybRDEKdA) | [Sin Amor](https://open.spotify.com/album/7egkhtRNFf89hpNHU4gaRb) | 2:54 | 2023-05-31 | 2023-07-11 |
 | [Sinnadhani Soopule](https://open.spotify.com/track/2Et9hHVe8lJRrZmzIjHPGI) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [Saketh Komanduri](https://open.spotify.com/artist/3MoBedNBt9D9IRmhRJxV3L), [Dasari Meghanaa Naidu](https://open.spotify.com/artist/6nXSa59gwQArrXzEZ76jrU) | [Sinnadhani Soopule](https://open.spotify.com/album/1WSsbZdcedvuZxs8iCu4zL) | 2:42 | 2024-05-20 |  |
-| [SIT6](https://open.spotify.com/track/5ndaoJCdoTpy55Hn90OPOF) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Pandurang Mutalik](https://open.spotify.com/artist/05JPHnIGzkOlRHWAClPMzQ) | [SIT6](https://open.spotify.com/album/4hYsvraU5vUtrRMR0rt9Gn) | 4:27 | 2024-10-23 |  |
+| [SIT6](https://open.spotify.com/track/5ndaoJCdoTpy55Hn90OPOF) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Pandurang Mutalik](https://open.spotify.com/artist/05JPHnIGzkOlRHWAClPMzQ) | [SIT6](https://open.spotify.com/album/4hYsvraU5vUtrRMR0rt9Gn) | 4:27 | 2024-10-23 | 2024-11-07 |
 | [Sitaara](https://open.spotify.com/track/2KP8VAuJiugv5UTUYcYSjo) | [Jagdish Chintala](https://open.spotify.com/artist/1Ll6Pj8fy7R3e6ghT2lzVC), [Ayaan](https://open.spotify.com/artist/6spST6ycDQVKJ7ErwvDsjS), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC), [Shashank Alamuru](https://open.spotify.com/artist/1FRUQL3SPnXlce6Hqfk2eh) | [Sitaara](https://open.spotify.com/album/1NFMWGcu3uV7TtvNwStETI) | 2:45 | 2024-10-07 |  |
 | [Sitakokaciluka](https://open.spotify.com/track/0fWRLW7TcgYJ2M4vTuIzo3) | [Harsha Gannoji](https://open.spotify.com/artist/1218jZiNiuZTNiAnQ5c5hR) | [Sitakokaciluka](https://open.spotify.com/album/7yuHkxh8ZUvYEnFhw2T5Pu) | 3:57 | 2023-09-11 | 2024-04-19 |
 | [Sitakokaciluka](https://open.spotify.com/track/78qGxoitQzG6JnamlP1bjN) | [Harsha Gannoji](https://open.spotify.com/artist/1218jZiNiuZTNiAnQ5c5hR) | [Sitakokaciluka](https://open.spotify.com/album/1535QxiyC32YhsagUl8Wkm) | 3:57 | 2023-09-11 | 2024-07-02 |
+| [SMILE](https://open.spotify.com/track/0EBWSWotjdbyB719e4wXaT) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [SMILE](https://open.spotify.com/album/7baTThbApOZvuoLI7D7fYh) | 2:52 | 2024-11-06 |  |
 | [Soul Saga](https://open.spotify.com/track/6K1q7Q70tHMSREEDd76DUR) | [Hymath Mohammed](https://open.spotify.com/artist/3J1GpjoKtKt2jMkQJAeiRV) | [Soul Saga](https://open.spotify.com/album/18b6W0d45fexeM3G2ilGy1) | 3:43 | 2024-08-19 |  |
 | [Star](https://open.spotify.com/track/1XVSdHxrg2AnrTLKENA9RR) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Star](https://open.spotify.com/album/3mH1z3FmGyrrpOjMKcjDJJ) | 2:38 | 2023-03-23 | 2023-05-23 |
 | [Style \- Maati S1](https://open.spotify.com/track/19KVxEylhMbJ0tF4HSTZGs) | [Ajay Jayanthi](https://open.spotify.com/artist/3t7ETdfx920byltqt7vKI1), [Prateek Naganatham](https://open.spotify.com/artist/7x5gokOMGW3Ipsyh7AMdQT), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Style \(Maati S1\)](https://open.spotify.com/album/76lV7F4gIKw9rY14cI89FO) | 3:04 | 2024-10-16 |  |

@@ -4,7 +4,7 @@
 
 > 🇵🇭 vibin' 🥶 🔥 Cover: Matthaios
 
-296 songs - 16 hr 37 min
+299 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Before You Leave My Heart](https://open.spotify.com/track/4SGJXiT5oEXsLCusmpS849) | [ANNA](https://open.spotify.com/artist/0kdRq6M9xM5QIw0NIfyEHN) | [Before You Leave My Heart](https://open.spotify.com/album/0eEAS5alAozUiNulHgx5bm) | 4:06 | 2022-10-12 | 2023-05-03 |
 | [better for you](https://open.spotify.com/track/2fxoRz7eUFbo5RoHSvXqQh) | [siopaolo](https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf) | [better for you](https://open.spotify.com/album/19YZ17zw3p3FBz4B1eoGCm) | 4:49 | 2023-04-06 | 2023-10-14 |
 | [Better Off](https://open.spotify.com/track/4s4QkYp0sibED8wbtfYF7P) | [primo.io](https://open.spotify.com/artist/4sG37eH4v8Oi8nReR52YCB) | [Better Off](https://open.spotify.com/album/793UfdFfIk78iuqygFNlJ9) | 2:46 | 2023-10-13 | 2024-02-07 |
+| [better than he does](https://open.spotify.com/track/68fzlFxU1uUeLTK68ICK3J) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [better than he does](https://open.spotify.com/album/4FQyEFRe3Wmpm5bY9IxeJF) | 2:33 | 2024-11-06 |  |
 | [BETTERMAN](https://open.spotify.com/track/60jYOyxr1FHGFnofoIXPCq) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [GARUDA](https://open.spotify.com/album/4xyf45M38hJVUA0esmu7ks) | 4:50 | 2022-10-12 | 2023-07-29 |
 | [Bitter](https://open.spotify.com/track/0ZzK5ezcQCY5QYCa7zC7sR) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Bitter](https://open.spotify.com/album/2TmYMVMKx4Ddkeqa7SahW8) | 2:26 | 2024-06-03 | 2024-08-17 |
 | [Bodies](https://open.spotify.com/track/0sqBr3CLU0kcWiWbOHN6RB) | [Jetter](https://open.spotify.com/artist/3kOqsP3hDCWTCqhRw5MI0M) | [Bodies](https://open.spotify.com/album/0XssBa1R2KbGPfddGC5jpt) | 3:17 | 2023-08-16 | 2024-01-16 |
@@ -84,6 +85,7 @@
 | [FLYYY](https://open.spotify.com/track/0PWBx43woMnsyUC72NC1Gl) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [FLYYY](https://open.spotify.com/album/5kilQF27XttjACkkQBz0jj) | 4:20 | 2024-01-26 | 2024-07-02 |
 | [Follow](https://open.spotify.com/track/6yT9DXOOdumPMkrV0gWfHy) | [Aud](https://open.spotify.com/artist/3NMhcW66XxBDyv3AH9T23w) | [Follow](https://open.spotify.com/album/1WM1m5U1JuoUG9c7Ur9o5K) | 2:50 | 2024-05-08 | 2024-08-08 |
 | [Fuck It \(I'm in Love Again\)](https://open.spotify.com/track/3UPfHl6IoVopUu6wVHek4s) | [SHNTI](https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO) | [Fuck It \(I'm in Love Again\)](https://open.spotify.com/album/3uYvCGaqN8HgwYs4aM0nwb) | 4:20 | 2022-10-12 | 2023-07-29 |
+| [FYP LUV](https://open.spotify.com/track/7Hclwcxm8Ppba2x5fsdRCG) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [FYP LUV](https://open.spotify.com/album/1fcU63rLWeNkwA3XErDgKc) | 3:38 | 2024-11-06 |  |
 | [Galit](https://open.spotify.com/track/34WoMs2Lg6hG2VoeFehBwS) | [Jnske](https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU), [Bullet D](https://open.spotify.com/artist/5MfvrLwRcs98YwS3C9Uf1u) | [Galit](https://open.spotify.com/album/4NpsJCdOhCApSkJEuSzXSJ) | 3:05 | 2024-07-08 |  |
 | [Ganon ka rin?](https://open.spotify.com/track/2wgl2AjXAtSv0ZCBMk00lV) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO) | [Ganon ka rin?](https://open.spotify.com/album/5wz40XGa9q0pksUOPS6you) | 2:28 | 2024-03-08 | 2024-10-12 |
 | [get with u feat\. Zeke Abella](https://open.spotify.com/track/1f5M4c6EjswUWBAmWf3thL) | [davidgocray](https://open.spotify.com/artist/7IGGcRfxyZgcplCukyvWx1), [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [felt anxiety yet excited](https://open.spotify.com/album/6HF2XZzRV5Gyf811OTwuVS) | 2:36 | 2024-07-26 |  |
@@ -296,6 +298,7 @@
 | [Vibin](https://open.spotify.com/track/1foCNzIQJMA1lGYtSvBu8m) | [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [Vibin](https://open.spotify.com/album/270wSkBt06wNswRpgTWqHT) | 2:45 | 2022-10-12 | 2023-07-29 |
 | [Wag Lang Ganon](https://open.spotify.com/track/2JeXX2pbuyc5X5OUdhLi1Z) | [Matthaios](https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw), [Jiji](https://open.spotify.com/artist/0lnA5vYJqi9LAdOcmpmmw3) | [Wag Lang Ganon](https://open.spotify.com/album/6p1LtmHDDoaf4RrhAtQjJF) | 3:12 | 2024-10-11 |  |
 | [Wants](https://open.spotify.com/track/1me0Y1D0PJEJbyYMMI1Sbv) | [Psvlm](https://open.spotify.com/artist/5hAPoOZdijqwQwd8BD6OYn) | [Wants](https://open.spotify.com/album/4r6YgoipYcMSayKHP7DcsA) | 2:58 | 2022-10-12 | 2023-07-29 |
+| [West](https://open.spotify.com/track/1CxebQctjzYLp4D9oylEZy) | [La Mave](https://open.spotify.com/artist/1G1mO2mSe2pO8yIfIX7kEx) | [West](https://open.spotify.com/album/4wukwPD2soVS5RCVTkM5mR) | 2:26 | 2024-11-06 |  |
 | [WHO AM I TO YOU](https://open.spotify.com/track/29g22zgl7BL9P7LJV0yqUp) | [Kenneth Amores](https://open.spotify.com/artist/2ZNeBokyn4VOYpbQa5rcuY) | [WHO AM I TO YOU](https://open.spotify.com/album/26stt1ByhnU4KsyBvlBzM5) | 3:34 | 2022-10-12 | 2023-07-29 |
 | [Wildfire](https://open.spotify.com/track/4v0gAyFjpWihZwbT8A48BR) | [Paul Mac](https://open.spotify.com/artist/0xUzRd8sfsuuDvgzYAUXlF) | [Wildfire](https://open.spotify.com/album/2Wu7hLFHalklYvHDIiTPoZ) | 3:51 | 2023-09-15 | 2024-01-27 |
 | [WYD](https://open.spotify.com/track/0fBoM0efE81rz4zcaL2i1s) | [gab](https://open.spotify.com/artist/4tLANANLwM1pBnb7csmCSc) | [WYD](https://open.spotify.com/album/3LoPcISWck4sQVsNJ8sVj9) | 1:25 | 2024-02-06 | 2024-04-13 |

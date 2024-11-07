@@ -552,7 +552,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 143715,
       "name": "Amanecio",
       "url": "https://open.spotify.com/track/3Qa2GuL86JXNUSUKmX2tpx"
@@ -3143,6 +3143,32 @@
     },
     {
       "album": {
+        "name": "De Tiguere",
+        "url": "https://open.spotify.com/album/6UhIGabbTyqs82s34KwrjS"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        },
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212830,
+      "name": "De Tiguere",
+      "url": "https://open.spotify.com/track/1LMHMi3Ko0LpOvjDiGFRLp"
+    },
+    {
+      "album": {
         "name": "Debarata",
         "url": "https://open.spotify.com/album/0FFXbygy81oGI4k3SwDN7n"
       },
@@ -3212,6 +3238,28 @@
       "duration_ms": 203040,
       "name": "Debarata",
       "url": "https://open.spotify.com/track/2L3FEivTGfG5P0rxH4OrLv"
+    },
+    {
+      "album": {
+        "name": "Dejame Votalo",
+        "url": "https://open.spotify.com/album/6A9BMJNlUqzBX2bMTBib3B"
+      },
+      "artists": [
+        {
+          "name": "Topao A4ta",
+          "url": "https://open.spotify.com/artist/72ENTzOo6i4CvKV7tbGw37"
+        },
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148415,
+      "name": "Dejame Votalo",
+      "url": "https://open.spotify.com/track/7uiBwXmjIB6I0QlU6yqdBr"
     },
     {
       "album": {
@@ -3322,6 +3370,28 @@
       "duration_ms": 157227,
       "name": "Desacato Escolar",
       "url": "https://open.spotify.com/track/2jm33owvUVJgwbjl0VkfAB"
+    },
+    {
+      "album": {
+        "name": "Descontrol",
+        "url": "https://open.spotify.com/album/2PVtZAal74dkPKkU5rsCI3"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Alcapone",
+          "url": "https://open.spotify.com/artist/0KtMsNmF4prNnvuVZgHFWf"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "Descontrol",
+      "url": "https://open.spotify.com/track/1746C7akVEAcYsPkZCzUWn"
     },
     {
       "album": {
@@ -5165,6 +5235,32 @@
     },
     {
       "album": {
+        "name": "FIESTA Y PROBLEMA",
+        "url": "https://open.spotify.com/album/0Ot0gtFprzUV0cVaiRvO4A"
+      },
+      "artists": [
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        },
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        },
+        {
+          "name": "OG DETRUYELO",
+          "url": "https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179464,
+      "name": "FIESTA Y PROBLEMA",
+      "url": "https://open.spotify.com/track/3Nf57LXQSEhBt9dfT05wPI"
+    },
+    {
+      "album": {
         "name": "Flotaera",
         "url": "https://open.spotify.com/album/1pdt1WhLnsRZ2zZ9laqKe4"
       },
@@ -5754,6 +5850,32 @@
       "duration_ms": 105836,
       "name": "HAY LUPITA",
       "url": "https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed"
+    },
+    {
+      "album": {
+        "name": "HAY LUPITA (Spain Remix)",
+        "url": "https://open.spotify.com/album/4cDwOrlPFeCHkeRV7vL2Jl"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185887,
+      "name": "HAY LUPITA - Spain Remix",
+      "url": "https://open.spotify.com/track/6ZlZRuUYpOxR9LoR2SgBPR"
     },
     {
       "album": {
@@ -6776,7 +6898,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 184938,
       "name": "LA LECHE MATERNA",
       "url": "https://open.spotify.com/track/6HjooscdDxnbZ169Y47gAF"
@@ -11491,6 +11613,28 @@
     },
     {
       "album": {
+        "name": "Pisao Pisao (Remix)",
+        "url": "https://open.spotify.com/album/1EvzXHwHRAdbRZJqxBNu8I"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "La Makulada",
+          "url": "https://open.spotify.com/artist/0Ag9ysvWMLaQ6XEe0FMpNI"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "Pisao Pisao - Remix",
+      "url": "https://open.spotify.com/track/2EUwijnqKvE0WdnAz7L7dm"
+    },
+    {
+      "album": {
         "name": "Piso Rojo",
         "url": "https://open.spotify.com/album/6zb5Zc0MPLCx3qwN0SZHiE"
       },
@@ -12530,7 +12674,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 153160,
       "name": "Que Me Lo Toque To",
       "url": "https://open.spotify.com/track/1gyym9DVH2QOyNFWHn3f9q"
@@ -13056,7 +13200,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 108422,
       "name": "RIKITAN",
       "url": "https://open.spotify.com/track/44IP4sYV77eP2p1r5cNgwT"
@@ -13676,6 +13820,28 @@
       "duration_ms": 116351,
       "name": "Si Quiere",
       "url": "https://open.spotify.com/track/0TGEI3Q5wh7pA7D1uUutQY"
+    },
+    {
+      "album": {
+        "name": "SI, ES AS\u00cd",
+        "url": "https://open.spotify.com/album/3DZASLonCv5I6Kld58eq51"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188717,
+      "name": "Si, Es As\u00ed",
+      "url": "https://open.spotify.com/track/6r6B51W2S8BVrnhWbdSf2p"
     },
     {
       "album": {
@@ -15850,7 +16016,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 149243,
       "name": "To Eso E Mio",
       "url": "https://open.spotify.com/track/48SYktLcjvYjgj9IYdMgYP"
@@ -16056,6 +16222,24 @@
       "duration_ms": 148363,
       "name": "Toy a Mil",
       "url": "https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH"
+    },
+    {
+      "album": {
+        "name": "Toy Prendio",
+        "url": "https://open.spotify.com/album/0dZrTQcd7dE9FbW6GoQbzd"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130153,
+      "name": "Toy Prendio",
+      "url": "https://open.spotify.com/track/4ZrJKOxL0d9QljsKcLfpWH"
     },
     {
       "album": {
@@ -16356,6 +16540,44 @@
       "duration_ms": 108750,
       "name": "Truco y Problema",
       "url": "https://open.spotify.com/track/3Zi0fZ7HP6KEldbdnvzkQm"
+    },
+    {
+      "album": {
+        "name": "TU CHAPA (REMIX)",
+        "url": "https://open.spotify.com/album/5Z2vcl7zicmO31onwhLBAX"
+      },
+      "artists": [
+        {
+          "name": "La Mas Doll",
+          "url": "https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK"
+        },
+        {
+          "name": "D\u00b4Flow Aka La Maldad",
+          "url": "https://open.spotify.com/artist/5w84GjBkeOt0pRHp2nEWEG"
+        },
+        {
+          "name": "El Zombie Elite",
+          "url": "https://open.spotify.com/artist/6WxwAXoiA8E1gy5ARgjQEC"
+        },
+        {
+          "name": "John42",
+          "url": "https://open.spotify.com/artist/7IacNqyAEZu2T6P4BfCHJw"
+        },
+        {
+          "name": "Marino El Abusador",
+          "url": "https://open.spotify.com/artist/1lInNxZswHjnOdwSXpugrw"
+        },
+        {
+          "name": "EazyFilmz",
+          "url": "https://open.spotify.com/artist/6XguWuCKgC8OMrYqPUkPNH"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128584,
+      "name": "TU CHAPA - REMIX",
+      "url": "https://open.spotify.com/track/7jaL7gvBdMViOmuOWkoHjf"
     },
     {
       "album": {
@@ -17522,6 +17744,32 @@
       "duration_ms": 208129,
       "name": "VOLVIO EL KURRU",
       "url": "https://open.spotify.com/track/1uGlvEh0Sp2EuJNFwVdCXV"
+    },
+    {
+      "album": {
+        "name": "Volv\u00ed",
+        "url": "https://open.spotify.com/album/2RWJMa3SBgAQDu9lA76VKa"
+      },
+      "artists": [
+        {
+          "name": "EL YALA",
+          "url": "https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "La Gre\u00f1a",
+          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120971,
+      "name": "Volv\u00ed",
+      "url": "https://open.spotify.com/track/1ogvGl7qlMMDAxYSB1jN1C"
     },
     {
       "album": {

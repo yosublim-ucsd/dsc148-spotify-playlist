@@ -1,12 +1,12 @@
 {
   "description": "Chill to these laid-back classical covers. ",
-  "num_followers": 215326,
+  "num_followers": 215633,
   "original_name": "Chilled Classical Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxalrQAAAAAme2j5ucm5d6U7fApoWwIw",
+  "snapshot_id": "Zys0iQAAAABIXrpJqR1+DWLyht2TjbTd",
   "tracks": [
     {
       "added_at": "2024-10-21 19:04:13",
@@ -269,6 +269,22 @@
       "url": "https://open.spotify.com/track/0knSe1sGQkIyE3rTIvQRl1"
     },
     {
+      "added_at": "2024-11-06 09:19:05",
+      "album": {
+        "name": "Another Love",
+        "url": "https://open.spotify.com/album/3PIURc7CKch3smMnj221og"
+      },
+      "artists": [
+        {
+          "name": "Darius Holland",
+          "url": "https://open.spotify.com/artist/2LuKu3ADzYNgrpnLwJCiFU"
+        }
+      ],
+      "duration_ms": 145362,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/3q53Qumo5wm3B5nquuAtM9"
+    },
+    {
       "added_at": "2024-10-21 19:04:13",
       "album": {
         "name": "A Whole New World",
@@ -283,6 +299,38 @@
       "duration_ms": 94462,
       "name": "A Whole New World",
       "url": "https://open.spotify.com/track/0Wr5xMDOdKaHW3ZRI7WRCb"
+    },
+    {
+      "added_at": "2024-11-06 09:19:05",
+      "album": {
+        "name": "Mistletoe",
+        "url": "https://open.spotify.com/album/5qftcrJwIld5dEVEWiSaA1"
+      },
+      "artists": [
+        {
+          "name": "Melody Spencer",
+          "url": "https://open.spotify.com/artist/0XKEbFGTqHAajz2lusK4dM"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/10wIsjWouNqeMlOAGFYPTD"
+    },
+    {
+      "added_at": "2024-11-06 09:19:05",
+      "album": {
+        "name": "Since U Been Gone",
+        "url": "https://open.spotify.com/album/3xnLz6Dy1BngDx32GTx0Yq"
+      },
+      "artists": [
+        {
+          "name": "Jaque Dylan",
+          "url": "https://open.spotify.com/artist/1C4O2dXmCudFHkn9Zw8Kml"
+        }
+      ],
+      "duration_ms": 128983,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/7jz9dh9vzWTJXILKaUY0q6"
     },
     {
       "added_at": "2024-10-21 19:04:13",
@@ -315,6 +363,22 @@
       "duration_ms": 306861,
       "name": "Wildest Dreams (Arr. Lawson for Harp)",
       "url": "https://open.spotify.com/track/7LGBfT64FWyA89weAT04gV"
+    },
+    {
+      "added_at": "2024-11-06 09:19:05",
+      "album": {
+        "name": "I Want It That Way",
+        "url": "https://open.spotify.com/album/2wJVSaCsCjUhFY4tyNraAj"
+      },
+      "artists": [
+        {
+          "name": "DisCovered",
+          "url": "https://open.spotify.com/artist/07FxfwSU3s0RwrN5ooGt8y"
+        }
+      ],
+      "duration_ms": 116995,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/6vLwopf1erdW3XoCfz6TIX"
     },
     {
       "added_at": "2024-10-21 19:04:13",

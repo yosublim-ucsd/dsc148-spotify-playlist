@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/71L6ZAisLtzcDO2PVDXkCl">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-328 songs - 17 hr 5 min
+329 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Golden Coast](https://open.spotify.com/track/3XqQ76fVSGhb5dqYsRWIj4) | [John\-Allison Weiss](https://open.spotify.com/artist/2sUZIZiGvaHEFvLffJUwaP) | [New Love](https://open.spotify.com/album/2bIKkEAFeiVY66QcOt6E7F) | 3:33 | 2021-12-27 | 2022-08-22 |
 | [Golden Coast](https://open.spotify.com/track/2FQ0Hd6S45peO7nYHoB3ul) | [John\-Allison Weiss](https://open.spotify.com/artist/2sUZIZiGvaHEFvLffJUwaP) | [New Love](https://open.spotify.com/album/4e1rVsIf01mKaap563psbg) | 3:33 | 2022-08-21 |  |
 | [Goldenrod](https://open.spotify.com/track/6zZXMsaXU3DtpFaRrmCRyV) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Avalanche](https://open.spotify.com/album/6XP23DjYr0NNJZMjVlnPAo) | 4:25 | 2023-09-25 |  |
+| [Goldenrod \- Generationals Remix](https://open.spotify.com/track/7AZy8qLXCiFNi6dVMQdElQ) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Goldenrod \(Generationals Remix\)](https://open.spotify.com/album/0MVblOECcH4HnwLxvrxzoS) | 5:02 | 2024-11-06 |  |
 | [Gone](https://open.spotify.com/track/72xd7UNBG1IXdaZs40tequ) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 3:17 | 2021-12-27 |  |
 | [Good Way](https://open.spotify.com/track/6fDGDqFQuGmNb0Pistebne) | [John\-Allison Weiss](https://open.spotify.com/artist/2sUZIZiGvaHEFvLffJUwaP) | [New Love](https://open.spotify.com/album/4e1rVsIf01mKaap563psbg) | 3:39 | 2022-08-21 |  |
 | [Good Way](https://open.spotify.com/track/5H3xMfHwjjBoc6fkFkFBfO) | [John\-Allison Weiss](https://open.spotify.com/artist/2sUZIZiGvaHEFvLffJUwaP) | [New Love](https://open.spotify.com/album/2bIKkEAFeiVY66QcOt6E7F) | 3:39 | 2021-12-27 | 2022-08-22 |

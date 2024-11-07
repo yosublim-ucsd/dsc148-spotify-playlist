@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Central Cee 🇬🇧
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,577 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,765 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 64 | [Belly](https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Belly](https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo) | 2:56 |
 | 65 | [1 Sima \(Pt\. 3\) \[feat\. Omar Burner, Tycuun, Origen & Semenhyia\]](https://open.spotify.com/track/2Se6ILoaWW3UVgnMLAbDAH) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Omar Burner](https://open.spotify.com/artist/36eEaykWqrjcBscbnUAAZ5), [Tycuun](https://open.spotify.com/artist/1OJC3TKCt7t9tiacte2a9D), [Origen](https://open.spotify.com/artist/6cjZV5nXfB0mD8bNtm20wU), [Semenhyia](https://open.spotify.com/artist/15bNWFfSaRStflPPxM6e2w) | [Millennium 2000](https://open.spotify.com/album/0s5NbJ1rp5lrBCreaVfOki) | 4:58 |
 | 66 | [TI TI TI](https://open.spotify.com/track/6ob9uKyryapebruQXDzIlu) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [TI TI TI](https://open.spotify.com/album/4xAALJ2WaDy2IhJUaXPPfP) | 3:20 |
-| 67 | [South](https://open.spotify.com/track/1S5cdblExndcN7a22BcTYS) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [South](https://open.spotify.com/album/1J4CZxaEi6ZcbfTD98Yvnd) | 3:09 |
+| 67 | [south](https://open.spotify.com/track/1S5cdblExndcN7a22BcTYS) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [south](https://open.spotify.com/album/1J4CZxaEi6ZcbfTD98Yvnd) | 3:09 |
 | 68 | [Pray](https://open.spotify.com/track/5mkoQ2hIsPvWMuNvwt3vNw) | [Watsebha](https://open.spotify.com/artist/4NKiKE60GYOcPCe02G9Ke4), [YSTN](https://open.spotify.com/artist/6DlxuPEe1HfCO3ZiQMLvMm) | [Pray](https://open.spotify.com/album/0JAVZqnHjCVqz9EOAIzChg) | 3:06 |
 | 69 | [Gang Ties \(feat\. Headie One\)](https://open.spotify.com/track/24MvIfLvlRyemQX4ena9W6) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Gang Ties \(feat\. Headie One\)](https://open.spotify.com/album/7EoemSCOLGwqP6QwOly6eR) | 3:00 |
 | 70 | [OZEBA](https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:17 |

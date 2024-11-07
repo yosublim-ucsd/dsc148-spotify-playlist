@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-10-12",
-  "description": "\ud574\uc9c8\ub158 \uac10\uc131\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uacfc \ud568\uaed8 \uac10\uc0c1\uc5d0 \uc816\uc5b4\ubcf4\uc138\uc694.",
-  "name": "\ub178\uc744_",
+  "description": "\uac00\uc744 \uac10\uc131\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uacfc \ud568\uaed8 \uac10\uc0c1\uc5d0 \uc816\uc5b4\ubcf4\uc138\uc694. (Listen to K-Pop autumn songs)",
+  "name": "\uac00\uc744\uac00\uc744\ud574",
   "tracks": [
     {
       "album": {
@@ -2566,6 +2566,24 @@
       "duration_ms": 236613,
       "name": "That was all of my love",
       "url": "https://open.spotify.com/track/45KeCqGOeUD35pd9efWwEn"
+    },
+    {
+      "album": {
+        "name": "The Autumn of Farewell",
+        "url": "https://open.spotify.com/album/0w9zxIwJ1hi9lYlGAknEyk"
+      },
+      "artists": [
+        {
+          "name": "SBGB",
+          "url": "https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207520,
+      "name": "The Autumn of Farewell",
+      "url": "https://open.spotify.com/track/5RifBqzPky4wO1fJmKhLFQ"
     },
     {
       "album": {

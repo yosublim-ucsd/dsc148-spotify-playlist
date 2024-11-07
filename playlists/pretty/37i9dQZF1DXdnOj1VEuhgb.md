@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Motive
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,378,257 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,378,397 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kanıtlandık](https://open.spotify.com/track/5VjH7PZSH1CH0YtDSAkDk1) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kanıtlandık](https://open.spotify.com/album/17lncZtNv43ABznkL46Eia) | 2:36 |
-| 2 | [Bridges](https://open.spotify.com/track/1TP5FtFJoaQkL1k0FOfizI) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Bridges](https://open.spotify.com/album/5H6tDCCQ2QK3OftBeWT0Ze) | 2:38 |
+| 1 | [bir](https://open.spotify.com/track/1n8qmohilJOAog1PmMCTZM) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [bir](https://open.spotify.com/album/4S37FYWdzEt0yJivzUIZFg) | 3:17 |
+| 2 | [GELME İSTEMEM](https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GELME İSTEMEM](https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF) | 3:06 |
 | 3 | [Italy Forma](https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:01 |
-| 4 | [bir](https://open.spotify.com/track/1n8qmohilJOAog1PmMCTZM) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [bir](https://open.spotify.com/album/4S37FYWdzEt0yJivzUIZFg) | 3:17 |
-| 5 | [PRENSES](https://open.spotify.com/track/2Kr6T3wiXhfA4AsHisn11m) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [PRENSES](https://open.spotify.com/album/44BLCsDbownvFI59OzlBgX) | 2:09 |
-| 6 | [GELME İSTEMEM](https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GELME İSTEMEM](https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF) | 3:06 |
-| 7 | [PİŞT](https://open.spotify.com/track/2ugG3itPOpM9IANApt473B) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [PİŞT](https://open.spotify.com/album/3hnXIAnReIwV44sfj1GdO4) | 2:08 |
-| 8 | [9mm](https://open.spotify.com/track/4X5si99I9YSbJ12g2yL6gh) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [9mm](https://open.spotify.com/album/48z19Z1hAbwHucnqX1UemL) | 3:17 |
-| 9 | [Önemi Yok](https://open.spotify.com/track/5UMJHh4pgSgArc2As21D5n) | [Da Poet](https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk), [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3) | [Önemi Yok](https://open.spotify.com/album/2mQIXoB47tJoCpVvW0gbQY) | 3:29 |
-| 10 | [Sönen Sigaralar](https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:31 |
-| 11 | [HER YER FAVELA](https://open.spotify.com/track/5fuPdS5jBncmRu9uu1MLOr) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [HER YER FAVELA](https://open.spotify.com/album/3PWIyRztWQE0AICzbD3Dpb) | 3:33 |
-| 12 | [Görev Gibi Yaşa](https://open.spotify.com/track/2RATsCDoBcGqG9iZNT9qQQ) | [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS) | [Görev Gibi Yaşa](https://open.spotify.com/album/2F9y4BHmsOVHeOhddw3QqF) | 2:09 |
-| 13 | [FAMILIA FOCUS](https://open.spotify.com/track/1VLFjwYSbn8ItaRdQQg45K) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [FAMILIA FOCUS](https://open.spotify.com/album/66mMlnR0TkNu8AONRXtvow) | 2:49 |
-| 14 | [Düşmez Kalkmaz](https://open.spotify.com/track/57w7FOfLpXZ9GWlAooYrSK) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT) | [Düşmez Kalkmaz](https://open.spotify.com/album/5QQa2jAT5hnyjO4bxBYyer) | 2:35 |
+| 4 | [PİŞT](https://open.spotify.com/track/2ugG3itPOpM9IANApt473B) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [PİŞT](https://open.spotify.com/album/3hnXIAnReIwV44sfj1GdO4) | 2:08 |
+| 5 | [HER YER FAVELA](https://open.spotify.com/track/5fuPdS5jBncmRu9uu1MLOr) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [HER YER FAVELA](https://open.spotify.com/album/3PWIyRztWQE0AICzbD3Dpb) | 3:33 |
+| 6 | [9mm](https://open.spotify.com/track/4X5si99I9YSbJ12g2yL6gh) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [9mm](https://open.spotify.com/album/48z19Z1hAbwHucnqX1UemL) | 3:17 |
+| 7 | [PRENSES](https://open.spotify.com/track/2Kr6T3wiXhfA4AsHisn11m) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [PRENSES](https://open.spotify.com/album/44BLCsDbownvFI59OzlBgX) | 2:09 |
+| 8 | [Kanıtlandık](https://open.spotify.com/track/5VjH7PZSH1CH0YtDSAkDk1) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kanıtlandık](https://open.spotify.com/album/17lncZtNv43ABznkL46Eia) | 2:36 |
+| 9 | [Sönen Sigaralar](https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:31 |
+| 10 | [Düşmez Kalkmaz](https://open.spotify.com/track/57w7FOfLpXZ9GWlAooYrSK) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT) | [Düşmez Kalkmaz](https://open.spotify.com/album/5QQa2jAT5hnyjO4bxBYyer) | 2:35 |
+| 11 | [Bridges](https://open.spotify.com/track/1TP5FtFJoaQkL1k0FOfizI) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Bridges](https://open.spotify.com/album/5H6tDCCQ2QK3OftBeWT0Ze) | 2:38 |
+| 12 | [Önemi Yok](https://open.spotify.com/track/5UMJHh4pgSgArc2As21D5n) | [Da Poet](https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk), [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3) | [Önemi Yok](https://open.spotify.com/album/2mQIXoB47tJoCpVvW0gbQY) | 3:29 |
+| 13 | [Görev Gibi Yaşa](https://open.spotify.com/track/2RATsCDoBcGqG9iZNT9qQQ) | [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS) | [Görev Gibi Yaşa](https://open.spotify.com/album/2F9y4BHmsOVHeOhddw3QqF) | 2:09 |
+| 14 | [FAMILIA FOCUS](https://open.spotify.com/track/1VLFjwYSbn8ItaRdQQg45K) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [FAMILIA FOCUS](https://open.spotify.com/album/66mMlnR0TkNu8AONRXtvow) | 2:49 |
 | 15 | [ELJF](https://open.spotify.com/track/7buaashi0m3aWO90fRreVh) | [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [ELJF](https://open.spotify.com/album/1XBzpP2NxTZxBVQxGoF188) | 2:25 |
 | 16 | [DOLDURDUM TABANCAMI](https://open.spotify.com/track/6fn6Us7sHiBY2kanqgub8D) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [DOLDURDUM TABANCAMI](https://open.spotify.com/album/0JGt0C0lfBsn2hY0HZAB1J) | 2:15 |
 | 17 | [Pus\*y Magnet](https://open.spotify.com/track/7nllCYpEu99mu8T6mlqUOz) | [Stabil](https://open.spotify.com/artist/3XjAYzwW3zGIi0OetnEIvU) | [Pus\*y Magnet](https://open.spotify.com/album/1rqS6TcjErjXnddaNhfUkg) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [HANIMEFENDİ](https://open.spotify.com/track/7Ikg74SQrxu5DMpEEbestg) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:15 |
 | 50 | [Telefon](https://open.spotify.com/track/4FmvHUteJvJa0z2HjXrlRM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Telefon](https://open.spotify.com/album/6b3fi3Bmx7mJRDIbZBbyFz) | 2:48 |
 
-Snapshot ID: `ZyiK0wAAAAAlajMkNRIHeizNG+A/0bom`
+Snapshot ID: `Zys4XgAAAACWGIUySmincTfEjKDm8dbv`

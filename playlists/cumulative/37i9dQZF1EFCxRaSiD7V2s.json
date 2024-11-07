@@ -2221,6 +2221,28 @@
     },
     {
       "album": {
+        "name": "Goldenrod (Generationals Remix)",
+        "url": "https://open.spotify.com/album/0MVblOECcH4HnwLxvrxzoS"
+      },
+      "artists": [
+        {
+          "name": "Jenny Owen Youngs",
+          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
+        },
+        {
+          "name": "Generationals",
+          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302596,
+      "name": "Goldenrod - Generationals Remix",
+      "url": "https://open.spotify.com/track/7AZy8qLXCiFNi6dVMQdElQ"
+    },
+    {
+      "album": {
         "name": "Songs From Season Six",
         "url": "https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2"
       },

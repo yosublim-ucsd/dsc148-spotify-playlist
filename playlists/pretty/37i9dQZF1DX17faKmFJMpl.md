@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,957 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,963 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 29 | [The Movement](https://open.spotify.com/track/77tm4bsQ9boEXrlIOtI4eC) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:47 |
 | 30 | [Gilmak](https://open.spotify.com/track/2Au4JIm7X0xVlUQ2uP0RxY) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Last Days](https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp) | 5:02 |
 | 31 | [탄띠](https://open.spotify.com/track/4BVPrwyyitNd21QQA6jTZT) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Best of Best](https://open.spotify.com/album/2AVhUS6I0EUAVdJlwV7iZ7) | 3:08 |
-| 32 | [Watch Ya Self](https://open.spotify.com/track/7GA9RRaJrIvmT48a376CHo) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Digiri](https://open.spotify.com/artist/5AkXQoXgGrx1J1zkiyRATG), [yankie](https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a), [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd) | [Map of the Human Soul](https://open.spotify.com/album/0HOb3ypZrAVbuGYLiMhC7z) | 4:30 |
+| 32 | [피해망상 Pt.3 \(with TBNY\)](https://open.spotify.com/track/1AfSN86MB3ZUEQpGya3PRU) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [TBNY](https://open.spotify.com/artist/6j2rVUUU99PvJcHYN4G02j) | [High Society](https://open.spotify.com/album/57qISGcX0mPbwdCQ7KSOgq) | 3:56 |
 | 33 | [뛰어가 Run \(feat\. Tiger JK & Jinbo\)](https://open.spotify.com/track/7mQgW2TCcLEiJvKmnSKCjH) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [The Real Me](https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE) | 3:55 |
 | 34 | [눈을 뜨면](https://open.spotify.com/track/5KjsLl2CzFgMojgjlDYGC6) | [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Positive Mind](https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e) | 4:14 |
 | 35 | [Handalas](https://open.spotify.com/track/0VGwwzutmfWbxQfRqQnbme) | [Leo Kekoa](https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk), [MC Meta](https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Handalas](https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8) | 3:36 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 65 | [즐거운 생활](https://open.spotify.com/track/1497gstQL5iceFZJ5vb2ti) | [45RPM](https://open.spotify.com/artist/6cg6vjoGLVykkubJKlM3mL) | [품행제로 Original Motion Picture Soundtrack](https://open.spotify.com/album/4B6mtALVNEPQrFZ89u5HSl) | 3:51 |
 | 66 | [아에이오우 어 ?!](https://open.spotify.com/track/579cWJAuA8z2pC0iw3660T) | [Soul Company](https://open.spotify.com/artist/1uqY5wsMbmNuHOQQ0pD8nJ) | [The Best](https://open.spotify.com/album/0iId2qa493w4lk0LEWhy35) | 4:55 |
 | 67 | [뿌리깊은 나무](https://open.spotify.com/track/2W7KlM3CkB65v2P5pBwkqh) | [Garion](https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp) | [Garion 가리온](https://open.spotify.com/album/0NAGKYjre0MgNYdUtcBuDp) | 5:31 |
-| 68 | [History In The Making \- 2021 Remaster](https://open.spotify.com/track/4wZMRcybEBblgIIwlupPbP) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 3:42 |
+| 68 | [Drama \- 2021 Remaster](https://open.spotify.com/track/6bofFcTR5GBWTx8KszhDGB) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 3:59 |
 | 69 | [Never Give Up Ⅱ \(Feat\. 손박사, 오전도사, DJ Uzi, Rich\)](https://open.spotify.com/track/2E84dE2xWHEMKIBofKogIE) | [ZoPD](https://open.spotify.com/artist/1JIlqu7XZniSF86iMlgKHR), [Rich](https://open.spotify.com/artist/0OAPcmruJr93HIMyFgFjoP), [손박사](https://open.spotify.com/artist/7IQBTbw1x949fH2KfbHi1d), [오전도사](https://open.spotify.com/artist/1jy9lnMScttgD1RbRtKk2h), [DJ Uzi](https://open.spotify.com/artist/7tSx5FV8Ku05I1LEFDWXh7) | [조PD\. Net / Best In East](https://open.spotify.com/album/1WmWpvspnZ2DQGL4dsbdWR) | 4:16 |
 | 70 | [4 Life \(Feat\. Yuri\)](https://open.spotify.com/track/7sFUq6W4gdE4xUwA2bBy0m) | [Joosuc](https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf), [유리](https://open.spotify.com/artist/1AXNCr2bifA6kjh3nxvSo0) | [Beatz 4 Da Streetz](https://open.spotify.com/album/22IDKUmV5T4Cyd4hSKj2ri) | 4:02 |
 | 71 | [Don Quixote 돈키호테 \(feat\. Realslow\)](https://open.spotify.com/track/22ALrulRzldazLgc0Syvpg) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq), [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [HEAVY BASS](https://open.spotify.com/album/2hu45G5eFtK74ZSAHk9u2i) | 3:55 |

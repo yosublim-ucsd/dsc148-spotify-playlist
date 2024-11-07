@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 22433,
+  "num_followers": 22434,
   "original_name": "Malaa Selection ",
   "owner": {
     "name": "Ma La",
     "url": "https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy"
   },
-  "snapshot_id": "AAAJRuNDt0gzQLwiqpMTB6B5YDmwZEpv",
+  "snapshot_id": "AAAJSBmpMmWtjFjVth/f3Oz8AKJf8M6b",
   "tracks": [
     {
       "added_at": "2024-11-02 06:42:51",
@@ -23,6 +23,22 @@
       "duration_ms": 174545,
       "name": "Face Off",
       "url": "https://open.spotify.com/track/3MMRDkrBFf5hRcFaXxRvIG"
+    },
+    {
+      "added_at": "2024-11-06 05:42:21",
+      "album": {
+        "name": "Havwest EP",
+        "url": "https://open.spotify.com/album/0nrOaSQeG5YGwWUuQJnGZ6"
+      },
+      "artists": [
+        {
+          "name": "Danny Howard",
+          "url": "https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK"
+        }
+      ],
+      "duration_ms": 208890,
+      "name": "Cosmic Girl",
+      "url": "https://open.spotify.com/track/7bfXdIsRCEVO6kArG49pjo"
     },
     {
       "added_at": "2024-11-03 07:56:58",
@@ -1236,12 +1252,12 @@
           "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         },
         {
-          "name": "Rivo",
-          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
-        },
-        {
           "name": "Eliza Doolittle",
           "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+        },
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
         }
       ],
       "duration_ms": 208524,

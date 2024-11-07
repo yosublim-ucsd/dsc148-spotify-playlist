@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Montez",
-  "num_followers": 585464,
+  "num_followers": 585493,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
-        "url": "https://open.spotify.com/album/0ANGBiq4fo4acpGYXFCGTe"
-      },
-      "artists": [
-        {
-          "name": "FANJI",
-          "url": "https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy"
-        }
-      ],
-      "duration_ms": 167053,
-      "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
-      "url": "https://open.spotify.com/track/1wYdHjqYbGZW087h9lFHxX"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Do you lie",
         "url": "https://open.spotify.com/album/7rME8YpoxJ0bpSI8r8tLWI"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 155105,
       "name": "Do you lie",
       "url": "https://open.spotify.com/track/6xLxMr7gbDdz7VWSx0IBt7"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
+        "url": "https://open.spotify.com/album/0ANGBiq4fo4acpGYXFCGTe"
+      },
+      "artists": [
+        {
+          "name": "FANJI",
+          "url": "https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy"
+        }
+      ],
+      "duration_ms": 167053,
+      "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
+      "url": "https://open.spotify.com/track/1wYdHjqYbGZW087h9lFHxX"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -471,18 +471,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Liebe ist ein Dieb",
-        "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
+        "name": "Die Hoffnung klaut mir Niemand",
+        "url": "https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI"
       },
       "artists": [
         {
           "name": "Kontra K",
           "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "SANTOS",
+          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
         }
       ],
-      "duration_ms": 191640,
-      "name": "Liebe ist ein Dieb",
-      "url": "https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO"
+      "duration_ms": 174026,
+      "name": "Die Sonne",
+      "url": "https://open.spotify.com/track/1TqC60H8LMZc4Gi4M56t6m"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -627,66 +631,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "nie wieder normal",
-        "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        },
-        {
-          "name": "Blumengarten",
-          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
-        }
-      ],
-      "duration_ms": 197618,
-      "name": "nie wieder normal",
-      "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "7 LEERE ZIMMER (feat. Henning May)",
-        "url": "https://open.spotify.com/album/2qDDjSZ24ITB4ah9LCBCBc"
-      },
-      "artists": [
-        {
-          "name": "Ufo361",
-          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
-        },
-        {
-          "name": "Henning May",
-          "url": "https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay"
-        }
-      ],
-      "duration_ms": 150360,
-      "name": "7 LEERE ZIMMER (feat. Henning May)",
-      "url": "https://open.spotify.com/track/2t5zRm6bgu4TRvmELiEsDV"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Die Hoffnung klaut mir Niemand",
-        "url": "https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI"
-      },
-      "artists": [
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        },
-        {
-          "name": "SANTOS",
-          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
-        }
-      ],
-      "duration_ms": 174026,
-      "name": "Die Sonne",
-      "url": "https://open.spotify.com/track/1TqC60H8LMZc4Gi4M56t6m"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Eigentlich",
         "url": "https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ"
       },
@@ -711,6 +655,62 @@
       "duration_ms": 158895,
       "name": "Eigentlich",
       "url": "https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "7 LEERE ZIMMER (feat. Henning May)",
+        "url": "https://open.spotify.com/album/2qDDjSZ24ITB4ah9LCBCBc"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Henning May",
+          "url": "https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay"
+        }
+      ],
+      "duration_ms": 150360,
+      "name": "7 LEERE ZIMMER (feat. Henning May)",
+      "url": "https://open.spotify.com/track/2t5zRm6bgu4TRvmELiEsDV"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Liebe ist ein Dieb",
+        "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "Liebe ist ein Dieb",
+      "url": "https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "nie wieder normal",
+        "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        },
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "duration_ms": 197618,
+      "name": "nie wieder normal",
+      "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -823,6 +823,26 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Ich hass dich",
+        "url": "https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        },
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        }
+      ],
+      "duration_ms": 193024,
+      "name": "Ich hass dich",
+      "url": "https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Haare trocknen",
         "url": "https://open.spotify.com/album/7jWDv0Hnw555axkqu2LbyF"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 172065,
       "name": "Haare trocknen",
       "url": "https://open.spotify.com/track/3pumsMT8WGMx4ddvzKmAPf"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Ich hass dich",
-        "url": "https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        },
-        {
-          "name": "Chapo102",
-          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
-        }
-      ],
-      "duration_ms": 193024,
-      "name": "Ich hass dich",
-      "url": "https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Gott wei\u00df wie",
-        "url": "https://open.spotify.com/album/2S1CkjKoS2NFpx98IfoFIY"
-      },
-      "artists": [
-        {
-          "name": "C\u00c9LINE",
-          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
-        }
-      ],
-      "duration_ms": 142361,
-      "name": "Gott wei\u00df wie",
-      "url": "https://open.spotify.com/track/6Yr5PW6L7rZ47M6fzFlTTg"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Breaking your heart",
         "url": "https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 127799,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/3euFYtusViGwzX1R6wiUEx"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Gott wei\u00df wie",
+        "url": "https://open.spotify.com/album/2S1CkjKoS2NFpx98IfoFIY"
+      },
+      "artists": [
+        {
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+        }
+      ],
+      "duration_ms": 142361,
+      "name": "Gott wei\u00df wie",
+      "url": "https://open.spotify.com/track/6Yr5PW6L7rZ47M6fzFlTTg"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1287,26 +1287,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Erkl\u00e4re mir die Liebe",
-        "url": "https://open.spotify.com/album/54vtpKW0Li3YhiNi8ev1XX"
+        "name": "Let me love you",
+        "url": "https://open.spotify.com/album/7JzgE4gyrzuWpLKz9PBCJX"
       },
       "artists": [
         {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
-        },
-        {
-          "name": "Chapo102",
-          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
-        },
-        {
-          "name": "Philipp Poisel",
-          "url": "https://open.spotify.com/artist/7HkIxdAV13bOrkOhh6H3Dg"
+          "name": "EstA",
+          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
         }
       ],
-      "duration_ms": 184615,
-      "name": "Erkl\u00e4re mir die Liebe",
-      "url": "https://open.spotify.com/track/0K6QpySe2WtrAR2wXKheVh"
+      "duration_ms": 167889,
+      "name": "Let me love you",
+      "url": "https://open.spotify.com/track/5WtgFOXW3BOS8bwNcD72hw"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1327,18 +1319,26 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Let me love you",
-        "url": "https://open.spotify.com/album/7JzgE4gyrzuWpLKz9PBCJX"
+        "name": "Erkl\u00e4re mir die Liebe",
+        "url": "https://open.spotify.com/album/54vtpKW0Li3YhiNi8ev1XX"
       },
       "artists": [
         {
-          "name": "EstA",
-          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        },
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "Philipp Poisel",
+          "url": "https://open.spotify.com/artist/7HkIxdAV13bOrkOhh6H3Dg"
         }
       ],
-      "duration_ms": 167889,
-      "name": "Let me love you",
-      "url": "https://open.spotify.com/track/5WtgFOXW3BOS8bwNcD72hw"
+      "duration_ms": 184615,
+      "name": "Erkl\u00e4re mir die Liebe",
+      "url": "https://open.spotify.com/track/0K6QpySe2WtrAR2wXKheVh"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Nie wieder sehen",
-        "url": "https://open.spotify.com/album/74nmPMbAbjYQDEtwtHF5ZY"
-      },
-      "artists": [
-        {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
-        }
-      ],
-      "duration_ms": 161212,
-      "name": "Nie wieder sehen",
-      "url": "https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Kopf aus",
         "url": "https://open.spotify.com/album/12K0tzbbpEgWtjmzN31nop"
       },
@@ -1511,22 +1495,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Bis zur Spree (feat. Juju)",
-        "url": "https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7"
+        "name": "Nie wieder sehen",
+        "url": "https://open.spotify.com/album/74nmPMbAbjYQDEtwtHF5ZY"
       },
       "artists": [
-        {
-          "name": "Aylo",
-          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
-        },
         {
           "name": "Juju",
           "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
         }
       ],
-      "duration_ms": 165219,
-      "name": "Bis zur Spree (feat. Juju)",
-      "url": "https://open.spotify.com/track/46Hmjs6AR6xrxDFlFkmXHi"
+      "duration_ms": 161212,
+      "name": "Nie wieder sehen",
+      "url": "https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1543,6 +1523,26 @@
       "duration_ms": 161587,
       "name": "Bisou :*",
       "url": "https://open.spotify.com/track/7dAI9IZpHaA9Lzhd8d60Tp"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Bis zur Spree (feat. Juju)",
+        "url": "https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7"
+      },
+      "artists": [
+        {
+          "name": "Aylo",
+          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
+        },
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "duration_ms": 165219,
+      "name": "Bis zur Spree (feat. Juju)",
+      "url": "https://open.spotify.com/track/46Hmjs6AR6xrxDFlFkmXHi"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "sag was",
-        "url": "https://open.spotify.com/album/2biK8sXdAObBs6oRqNpTEs"
-      },
-      "artists": [
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
-        },
-        {
-          "name": "t-low",
-          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
-        }
-      ],
-      "duration_ms": 202657,
-      "name": "sag was",
-      "url": "https://open.spotify.com/track/1phFx4XBj9VOSV5c8s4PQr"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Panikwei\u00df",
         "url": "https://open.spotify.com/album/759SIsxU0p4v2TJ2yrplV5"
       },
@@ -1667,6 +1647,26 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "sag was",
+        "url": "https://open.spotify.com/album/2biK8sXdAObBs6oRqNpTEs"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        },
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "duration_ms": 202657,
+      "name": "sag was",
+      "url": "https://open.spotify.com/track/1phFx4XBj9VOSV5c8s4PQr"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Ende der Strasse",
         "url": "https://open.spotify.com/album/2FeJYliSXXAzXG3lO5XqFZ"
       },
@@ -1679,46 +1679,6 @@
       "duration_ms": 156200,
       "name": "Ende der Strasse",
       "url": "https://open.spotify.com/track/3fl9kXdEeCFrs9ydRkNjVF"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Helldunkel",
-        "url": "https://open.spotify.com/album/2zGXSLw6MPbYn5eyUAkbaa"
-      },
-      "artists": [
-        {
-          "name": "Chapo102",
-          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
-        },
-        {
-          "name": "102 Boyz",
-          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
-        }
-      ],
-      "duration_ms": 108915,
-      "name": "Plastikblumen",
-      "url": "https://open.spotify.com/track/3xlGxCgwVwU08zL3Hrna95"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "PAUL",
-        "url": "https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        },
-        {
-          "name": "Estikay",
-          "url": "https://open.spotify.com/artist/4DMzvwya65eu1LsYZ3BLV6"
-        }
-      ],
-      "duration_ms": 165390,
-      "name": "Gar nicht mal so gl\u00fccklich (feat. Estikay)",
-      "url": "https://open.spotify.com/track/0KujySjvlPZiC4itOukxDM"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1743,78 +1703,42 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "BOI",
-        "url": "https://open.spotify.com/album/48xBOWLlBupgfhNKkErgDJ"
+        "name": "PAUL",
+        "url": "https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D"
       },
       "artists": [
         {
-          "name": "MAJAN",
-          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
         },
         {
-          "name": "Megaloh",
-          "url": "https://open.spotify.com/artist/7M6ItqYUMPQRQQ5q54tl7G"
-        },
-        {
-          "name": "Schmyt",
-          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+          "name": "Estikay",
+          "url": "https://open.spotify.com/artist/4DMzvwya65eu1LsYZ3BLV6"
         }
       ],
-      "duration_ms": 228736,
-      "name": "Monoton",
-      "url": "https://open.spotify.com/track/6gZEyiqUvEpWpJYz7QjLjx"
+      "duration_ms": 165390,
+      "name": "Gar nicht mal so gl\u00fccklich (feat. Estikay)",
+      "url": "https://open.spotify.com/track/0KujySjvlPZiC4itOukxDM"
     },
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "trauen",
-        "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
+        "name": "Helldunkel",
+        "url": "https://open.spotify.com/album/2zGXSLw6MPbYn5eyUAkbaa"
       },
       "artists": [
         {
-          "name": "Levin Liam",
-          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
-        }
-      ],
-      "duration_ms": 164011,
-      "name": "trauen",
-      "url": "https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "1000 Sterne",
-        "url": "https://open.spotify.com/album/6v5nqgBpLAGyIWoL4KRGYc"
-      },
-      "artists": [
-        {
-          "name": "1986zig",
-          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
         },
         {
-          "name": "AYLIVA",
-          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
         }
       ],
-      "duration_ms": 123280,
-      "name": "1000 Sterne",
-      "url": "https://open.spotify.com/track/1WTWjnCrjwzktuY2UFGUx1"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "SMS",
-        "url": "https://open.spotify.com/album/1mWkEBrG6UKMnz8FOVzHRx"
-      },
-      "artists": [
-        {
-          "name": "Teven",
-          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
-        }
-      ],
-      "duration_ms": 158448,
-      "name": "SMS",
-      "url": "https://open.spotify.com/track/2IljGIvJWtgjvG4h8WUh8E"
+      "duration_ms": 108915,
+      "name": "Plastikblumen",
+      "url": "https://open.spotify.com/track/3xlGxCgwVwU08zL3Hrna95"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1859,6 +1783,82 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "1000 Sterne",
+        "url": "https://open.spotify.com/album/6v5nqgBpLAGyIWoL4KRGYc"
+      },
+      "artists": [
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        },
+        {
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+        }
+      ],
+      "duration_ms": 123280,
+      "name": "1000 Sterne",
+      "url": "https://open.spotify.com/track/1WTWjnCrjwzktuY2UFGUx1"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "SMS",
+        "url": "https://open.spotify.com/album/1mWkEBrG6UKMnz8FOVzHRx"
+      },
+      "artists": [
+        {
+          "name": "Teven",
+          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
+        }
+      ],
+      "duration_ms": 158448,
+      "name": "SMS",
+      "url": "https://open.spotify.com/track/2IljGIvJWtgjvG4h8WUh8E"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "BOI",
+        "url": "https://open.spotify.com/album/48xBOWLlBupgfhNKkErgDJ"
+      },
+      "artists": [
+        {
+          "name": "MAJAN",
+          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+        },
+        {
+          "name": "Megaloh",
+          "url": "https://open.spotify.com/artist/7M6ItqYUMPQRQQ5q54tl7G"
+        },
+        {
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+        }
+      ],
+      "duration_ms": 228736,
+      "name": "Monoton",
+      "url": "https://open.spotify.com/track/6gZEyiqUvEpWpJYz7QjLjx"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "trauen",
+        "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "duration_ms": 164011,
+      "name": "trauen",
+      "url": "https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Liebst du mich",
         "url": "https://open.spotify.com/album/2OCFALs4BTWP2Xdhdyu9pd"
       },
@@ -1875,22 +1875,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "MISSED CALLS",
-        "url": "https://open.spotify.com/album/1Y5ep8GDT8ky8wwu02coOH"
+        "name": "Mufasa",
+        "url": "https://open.spotify.com/album/7gkyr2RLvlijFDtzXtXnz1"
       },
       "artists": [
         {
-          "name": "Chapo102",
-          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
-        },
-        {
-          "name": "102 Boyz",
-          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+          "name": "METRICKZ",
+          "url": "https://open.spotify.com/artist/2P7AfQW941UU324qq2ggZf"
         }
       ],
-      "duration_ms": 132800,
-      "name": "MISSED CALLS",
-      "url": "https://open.spotify.com/track/4RHDWNlp4yrk54rQATSiQK"
+      "duration_ms": 195859,
+      "name": "W\u00fcnsch mir was",
+      "url": "https://open.spotify.com/track/01eVMUiJcYmHqy1HUURwOY"
     }
   ],
   "unique_name": "Rap in deep",

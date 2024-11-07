@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,674 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,679 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 8 | [Style \- Maati S1](https://open.spotify.com/track/19KVxEylhMbJ0tF4HSTZGs) | [Ajay Jayanthi](https://open.spotify.com/artist/3t7ETdfx920byltqt7vKI1), [Prateek Naganatham](https://open.spotify.com/artist/7x5gokOMGW3Ipsyh7AMdQT), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Style \(Maati S1\)](https://open.spotify.com/album/76lV7F4gIKw9rY14cI89FO) | 3:04 |
 | 9 | [Naa Kannula Mungitlo](https://open.spotify.com/track/0AkJ9Jxl5maFX52ObFimk4) | [Yamini Gowribhatla](https://open.spotify.com/artist/09eHXlBRFrtxi4kSKTnJUl), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [Naa Kannula Mungitlo](https://open.spotify.com/album/2bMW2uDJtNrGiHVoWxZ7OA) | 4:25 |
 | 10 | [Oopiri](https://open.spotify.com/track/3pJEDr2NKBJJR4ykXWSjjZ) | [Vamsi Kalakuntla](https://open.spotify.com/artist/2cp7HPGk7Nd28mDkwJQgkk) | [Oopiri](https://open.spotify.com/album/47VDvKGwLPielokigmZ8yK) | 3:59 |
-| 11 | [SIT6](https://open.spotify.com/track/5ndaoJCdoTpy55Hn90OPOF) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Pandurang Mutalik](https://open.spotify.com/artist/05JPHnIGzkOlRHWAClPMzQ) | [SIT6](https://open.spotify.com/album/4hYsvraU5vUtrRMR0rt9Gn) | 4:27 |
+| 11 | [SMILE](https://open.spotify.com/track/0EBWSWotjdbyB719e4wXaT) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [SMILE](https://open.spotify.com/album/7baTThbApOZvuoLI7D7fYh) | 2:52 |
 | 12 | [Cheliya](https://open.spotify.com/track/7xclHxsTj8f3dy3Lco3Az6) | [Iravu](https://open.spotify.com/artist/32gGumlFxS3I49LH5cNcrH), [Sarvari](https://open.spotify.com/artist/5uvwgTsZIeirSSpIIMvYFS), [Abhiram Lolla](https://open.spotify.com/artist/6j0aLuBGUR4MNx9HAJcrwc) | [Cheliya](https://open.spotify.com/album/58zyOpghhBrhFRud0zubO8) | 3:19 |
 | 13 | [Hate Oddhu](https://open.spotify.com/track/4RUkcsgECnfHaAk0OEjwdE) | [brownkiddreams](https://open.spotify.com/artist/2RJmN0J5H4v0i9SQ0wDrPY) | [Hate Oddhu](https://open.spotify.com/album/5AyQhXTsHcYQ502zlGZ3ct) | 2:37 |
 | 14 | [LOVE TRAP](https://open.spotify.com/track/1rhKhTvyXoT7n56sG3WeNE) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [MaaHaa](https://open.spotify.com/artist/2nON7IMoqVBIWONZabqWBC) | [LOVE TRAP](https://open.spotify.com/album/51cfMc9e1PPy0deFacw4y0) | 2:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [Naa Friendhemo Pelli](https://open.spotify.com/track/1Xdn6Jvs5Z5WntxmciIwCP) | [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk), [Jayathi](https://open.spotify.com/artist/6qcblFUBA90tZxWievgx3G) | [Naa Friendhemo Pelli](https://open.spotify.com/album/5R1mBqMQYhJRGY4ONj88Yv) | 4:43 |
 | 75 | [Kannullo Kala \- Manoharam](https://open.spotify.com/track/1GPnihVegNhrL1qbV2WMqh) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Kannullo Kala \(Manoharam\)](https://open.spotify.com/album/0vClCsoWXpytyztm9vWEcs) | 3:44 |
 
-Snapshot ID: `ZyimaQAAAABMR+e35KN/U0+7oe/cbhZl`
+Snapshot ID: `ZysdlgAAAAAlOKi+AaGGG6Dirf5oCqCU`

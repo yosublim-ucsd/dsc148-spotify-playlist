@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. <br/>Cover: Montgomery
 
-3,653 songs - 8 day 8 hr 28 min
+3,654 songs - 8 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1351,6 +1351,7 @@
 | [Hands In the Air](https://open.spotify.com/track/3165kUEhkl26eDUbkjqDCs) | [Glen S](https://open.spotify.com/artist/72J41bLRJAVBkvW56cy1KR) | [Elation Station](https://open.spotify.com/album/2DEBK27TfQNx9U2Qs2MbRJ) | 6:48 | 2023-11-15 | 2023-11-30 |
 | [Handyman](https://open.spotify.com/track/2EIFXJ7JciSywPgWvbFuOk) | [Dick Dudley](https://open.spotify.com/artist/3PoaxBXkmqOeveBpI3rND3) | [Handyman](https://open.spotify.com/album/1MgUt280TberEEvQGUmLc7) | 2:58 | 2022-03-30 | 2022-04-14 |
 | [Hanging Out The Window](https://open.spotify.com/track/3Q4x6AF5XFeBzzsiDRr2o2) | [Platonic Sex](https://open.spotify.com/artist/61hTjDPDLNpg6CPMtmLqHX) | [Hanging Out The Window](https://open.spotify.com/album/0aVvnATDq4RJAXofpwxuGJ) | 4:41 | 2024-05-21 | 2024-06-26 |
+| [Hannah](https://open.spotify.com/track/2xPC3ORH1X2bWZqa2rewJe) | [Juice Webster](https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4) | [Hannah](https://open.spotify.com/album/1Yn4AIEEgUQcKTG20EJziF) | 3:09 | 2024-11-05 |  |
 | [Happens All The Time](https://open.spotify.com/track/1HezVdieJrvo38VkRJGw3n) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Happens All The Time](https://open.spotify.com/album/4I5XTcRXTDNmE6NT0oMn2X) | 2:43 | 2022-03-16 | 2022-03-31 |
 | [Happier Now](https://open.spotify.com/track/3tq1JmfqCE0Oz1FwHC7l2q) | [Elizabeth](https://open.spotify.com/artist/4PeDuiJ3tM8So1Ai7c5szN) | [Happier Now](https://open.spotify.com/album/1omtEuill6lSCOFsikTpYH) | 3:53 | 2022-06-22 | 2022-07-14 |
 | [Happily Drowning](https://open.spotify.com/track/1hCGFa8m9fpMyjKxw3DwJx) | [Moody](https://open.spotify.com/artist/1Vu6Ckzy4K3UIl8PH3Y2se) | [Happily Drowning](https://open.spotify.com/album/1W5NCoyBJKXJMDDVLTXDSg) | 3:39 | 2023-01-25 | 2023-02-16 |

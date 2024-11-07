@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Hayato Sumino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,080 likes - 67 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,163 likes - 67 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,6 +74,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 64 | [Laudate Dominum](https://open.spotify.com/track/1sMKSkZONqaGAo7tvRPiz4) | [Brenda Portman](https://open.spotify.com/artist/3kGsXQXHX8Gi6gcODeZMEW), [Notre Dame Magnificat Choir](https://open.spotify.com/artist/19vBOhRzJU6N0t7XlhNvE1), [Patrick Kronner](https://open.spotify.com/artist/0qLFB7QxaKo21LB4Fzg6o5), [Michelle Sacco](https://open.spotify.com/artist/5H2gJlmpvzlcxgBeNadzbb) | [Brenda Portman: Laudate Dominum](https://open.spotify.com/album/4JPoOHP1W5jvzBcyCHL0uj) | 3:42 |
 | 65 | [T'filah \(Prayer\): T'filah \(Prayer\) for Violin solo, Op\. 33 Moderato\-Rubato](https://open.spotify.com/track/64EzqE5jNRXPIDc4J3kNf7) | [Lera Auerbach](https://open.spotify.com/artist/1Jcgg67DeUZgxxJR9p2sL2), [Christine Bernsted](https://open.spotify.com/artist/3YOqp8oJTLAO3FBuDsqsqv) | [T'filah \(Prayer\)](https://open.spotify.com/album/1JDh52gAh2Fb527ASLFx8B) | 5:16 |
 | 66 | [Adagio "Prayer for Peace" \- String Orchestra Version](https://open.spotify.com/track/6q2NyTAWSE4ShKgx0zAHwb) | [Sergey Akhunov](https://open.spotify.com/artist/2upGONMlbcUhDMGUdMyuL7), [OpensoundOrchestra](https://open.spotify.com/artist/5PnnooFbzaAQ5ywVYnqJ4N), [Stanislav Malyshev](https://open.spotify.com/artist/1ZLR3M5GONT0PSPAl3Z4cC) | [Prayer for Peace](https://open.spotify.com/album/3HV3sujuvqhMKGJHc01Zwh) | 11:06 |
-| 67 | [In der Farbe von Erde: I\. I \- Live](https://open.spotify.com/track/6upv91bUL1Z7elMWfh3Ne2) | [Nikolaus Brass](https://open.spotify.com/artist/7bX97zMNnyZndwJbdvrCDm), [Bavarian Radio Symphony Orchestra](https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm), [Tabea Zimmermann](https://open.spotify.com/artist/1zt1oAibJ8TuHCvnENvD4R), [Vimbayi Kaziboni](https://open.spotify.com/artist/7rHjytspFaQzwFaLR9mcbh), [Peter Eoetvoes](https://open.spotify.com/artist/5edOQivy4WRLERlV9s9oog) | [Nikolaus Brass: In der Farbe von Erde \- Der goldene Steig \- Der Garten](https://open.spotify.com/album/3Ywewgvl95A0GFneS7tCkJ) | 5:27 |
+| 67 | [In der Farbe von Erde: Beginning \- Live](https://open.spotify.com/track/6upv91bUL1Z7elMWfh3Ne2) | [Nikolaus Brass](https://open.spotify.com/artist/7bX97zMNnyZndwJbdvrCDm), [Bavarian Radio Symphony Orchestra](https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm), [Tabea Zimmermann](https://open.spotify.com/artist/1zt1oAibJ8TuHCvnENvD4R), [Vimbayi Kaziboni](https://open.spotify.com/artist/7rHjytspFaQzwFaLR9mcbh) | [Musica viva, Vol\. 45 \(Live\)](https://open.spotify.com/album/3Ywewgvl95A0GFneS7tCkJ) | 5:27 |
 
 Snapshot ID: `ZyRSQAAAAACqb8E+3DxoMepIUYWx2BcH`

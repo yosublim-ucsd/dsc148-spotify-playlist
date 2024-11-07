@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 86249,
+  "num_followers": 86250,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZygOgAAAAABJmlhZaAdvILHrkhii/9dg",
+  "snapshot_id": "ZylgAAAAAADRak0bHZ6K8DbYdKCv4Mgo",
   "tracks": [
     {
       "added_at": null,
@@ -215,26 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Past Life",
-        "url": "https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 196821,
-      "name": "Past Life",
-      "url": "https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mama (Acoustic)",
         "url": "https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 192277,
       "name": "Mama - Acoustic",
       "url": "https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Past Life",
+        "url": "https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 196821,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jonas Blue: Electronic Nature - The Mix 2017",
-        "url": "https://open.spotify.com/album/0zMLyv1kNV2B0LDGEK2RbB"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Mark Villa",
-          "url": "https://open.spotify.com/artist/5WClIOxkXF0aG93CLEC96i"
-        }
-      ],
-      "duration_ms": 163356,
-      "name": "In Your Arms Tonight",
-      "url": "https://open.spotify.com/track/1frhPzQ2B7rM62INKyuLV7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hearts Ain't Gonna Lie (Remixes, Pt. 1)",
         "url": "https://open.spotify.com/album/00wIfIEWOqJ2RFrRazVl0i"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 238451,
       "name": "Hearts Ain't Gonna Lie - Eden Prince Remix",
       "url": "https://open.spotify.com/track/6B9cqNooxIyPfr3P5EB8LA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jonas Blue: Electronic Nature - The Mix 2017",
+        "url": "https://open.spotify.com/album/0zMLyv1kNV2B0LDGEK2RbB"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Mark Villa",
+          "url": "https://open.spotify.com/artist/5WClIOxkXF0aG93CLEC96i"
+        }
+      ],
+      "duration_ms": 163356,
+      "name": "In Your Arms Tonight",
+      "url": "https://open.spotify.com/track/1frhPzQ2B7rM62INKyuLV7"
     },
     {
       "added_at": null,

@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 138461,
       "name": "Bad Karma - MEMBA Remix",
       "url": "https://open.spotify.com/track/0glpPo7l3lxTzNRMimvhG8"
@@ -2522,6 +2522,24 @@
       "duration_ms": 144134,
       "name": "Brain Tickler",
       "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
+    },
+    {
+      "album": {
+        "name": "Brain Tickler - VIP",
+        "url": "https://open.spotify.com/album/6fvNLlMgv6hvUEdk4V8Zv8"
+      },
+      "artists": [
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Brain Tickler - VIP",
+      "url": "https://open.spotify.com/track/56wrLGLuElNjSQoidUHgCV"
     },
     {
       "album": {
@@ -4832,7 +4850,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 88740,
       "name": "DNA",
       "url": "https://open.spotify.com/track/3i6tlvYU1BSAM3yGQNemtM"
@@ -5748,7 +5766,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 100205,
       "name": "Etazhi - Remix",
       "url": "https://open.spotify.com/track/5qgsP3VphQxRp3WpSVSeIp"
@@ -6584,7 +6602,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 195600,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/6yP4eS9HGqISbgPYDH2Uox"
@@ -7002,7 +7020,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 208000,
       "name": "Forever",
       "url": "https://open.spotify.com/track/54kWlu1U9fphJ8VuNA39U9"
@@ -7771,6 +7789,28 @@
     },
     {
       "album": {
+        "name": "Goons",
+        "url": "https://open.spotify.com/album/7vf6ZFzqAhOMH35zVNVt5r"
+      },
+      "artists": [
+        {
+          "name": "So Sus",
+          "url": "https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A"
+        },
+        {
+          "name": "Quackson",
+          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Goons",
+      "url": "https://open.spotify.com/track/25P31QyaHp71BqA3jhxAb2"
+    },
+    {
+      "album": {
         "name": "Got Me Feeling",
         "url": "https://open.spotify.com/album/1taoqWNz3N5zFkfxZWoWFe"
       },
@@ -8442,7 +8482,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 92769,
       "name": "HEY HEY",
       "url": "https://open.spotify.com/track/2ogjIP2yhAgRpFVlolez0Z"
@@ -9642,6 +9682,28 @@
       "duration_ms": 278400,
       "name": "I'll Be Your Home",
       "url": "https://open.spotify.com/track/4bGM1EMxc8n0AXPqlbAUff"
+    },
+    {
+      "album": {
+        "name": "I'm All In",
+        "url": "https://open.spotify.com/album/1PZFdSAn2YYnzHMPFRown6"
+      },
+      "artists": [
+        {
+          "name": "Reed Wonder",
+          "url": "https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv"
+        },
+        {
+          "name": "Aurora Olivas",
+          "url": "https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173016,
+      "name": "I'm All In",
+      "url": "https://open.spotify.com/track/0mOX7j9WeCohrAiHjwlVFR"
     },
     {
       "album": {
@@ -11220,7 +11282,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 132310,
       "name": "LEMME TALK TO EM",
       "url": "https://open.spotify.com/track/3TaAdsINVhN5Zmt5kaXQFx"
@@ -12461,6 +12523,28 @@
     },
     {
       "album": {
+        "name": "master",
+        "url": "https://open.spotify.com/album/7bSefD3NxKy6QDXEAMwhMK"
+      },
+      "artists": [
+        {
+          "name": "vowl.",
+          "url": "https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL"
+        },
+        {
+          "name": "Kol",
+          "url": "https://open.spotify.com/artist/0U6V8CeBBv9tQPBLBCircp"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80950,
+      "name": "master",
+      "url": "https://open.spotify.com/track/6bEVJYAVHsoqV080lv8RG5"
+    },
+    {
+      "album": {
         "name": "Matangi",
         "url": "https://open.spotify.com/album/4Su74MoUdMkY6EMTobRuGG"
       },
@@ -12917,6 +13001,28 @@
     },
     {
       "album": {
+        "name": "miss you",
+        "url": "https://open.spotify.com/album/11mHHrvQZmGgIAWPK43nKU"
+      },
+      "artists": [
+        {
+          "name": "vowl.",
+          "url": "https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL"
+        },
+        {
+          "name": "Kol",
+          "url": "https://open.spotify.com/artist/0U6V8CeBBv9tQPBLBCircp"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100819,
+      "name": "miss you",
+      "url": "https://open.spotify.com/track/565VLmlYEYD0kt4QTdmybR"
+    },
+    {
+      "album": {
         "name": "Missing Textures",
         "url": "https://open.spotify.com/album/2PVYt4kUAG59HcuXCBim1U"
       },
@@ -13166,7 +13272,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 96230,
       "name": "Montagem Bibi Game",
       "url": "https://open.spotify.com/track/7ag4RgJ24JDC4Eg4JEmW42"
@@ -13224,7 +13330,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 81379,
       "name": "Montagem Euphoria Game",
       "url": "https://open.spotify.com/track/0CJ6EVnM3df8fzMcDROVmN"
@@ -13610,7 +13716,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 194179,
       "name": "nas ne dogonyat",
       "url": "https://open.spotify.com/track/2JTgn48qg0Q8UBXXUwj5KE"
@@ -14428,7 +14534,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 221538,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/2IKRAHdVf29dxXYw0TYIqF"
@@ -15944,7 +16050,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 122187,
       "name": "Pop like this Pt. 2 - Slowed",
       "url": "https://open.spotify.com/track/3xvzR05d6KgexfzjJgDRDl"
@@ -17190,7 +17296,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 124000,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/3IwTbRnQp6LkfjqL6libYk"
@@ -17560,7 +17666,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 105644,
       "name": "SAXO FUNK",
       "url": "https://open.spotify.com/track/3mX7vRytOrduB8IysTVvhO"
@@ -18712,6 +18818,24 @@
       "duration_ms": 171178,
       "name": "SPAM",
       "url": "https://open.spotify.com/track/20I6rSlG7vXp1FQn5EuWQD"
+    },
+    {
+      "album": {
+        "name": "Speakers on Blast",
+        "url": "https://open.spotify.com/album/2ASCvVQWdFTaJCFzO9PudN"
+      },
+      "artists": [
+        {
+          "name": "Defunk",
+          "url": "https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251679,
+      "name": "Speakers on Blast",
+      "url": "https://open.spotify.com/track/3Djj5Pg31kn6V8NLHVKWPQ"
     },
     {
       "album": {
@@ -22348,7 +22472,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 151111,
       "name": "Way Down We Go",
       "url": "https://open.spotify.com/track/2AsFzfU7hUCtMGOYJWspub"
@@ -23114,7 +23238,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 101745,
       "name": "WYM!",
       "url": "https://open.spotify.com/track/3iSNtpcu9HNwdSVsIztE31"
@@ -23136,7 +23260,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 79452,
       "name": "X-SLIDE",
       "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"

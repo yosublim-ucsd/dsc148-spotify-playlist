@@ -1,6 +1,6 @@
 {
   "description": "Maru2D e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 374832,
+  "num_followers": 374823,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -279,26 +279,6 @@
     {
       "added_at": "2024-11-04 20:44:08",
       "album": {
-        "name": "Promessas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5rNrVJUHUAQi0NRibNMllj"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 204938,
-      "name": "Promessas - Ao Vivo",
-      "url": "https://open.spotify.com/track/5eMQVA6iz94w9D4VvRCrEy"
-    },
-    {
-      "added_at": "2024-11-04 20:44:08",
-      "album": {
         "name": "Ritmista 1.0",
         "url": "https://open.spotify.com/album/3WGjmOFzUrvNmkiiqevMbJ"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 615810,
       "name": "Ritmista 1.0",
       "url": "https://open.spotify.com/track/3ZNjlT5zR0jkEVzSSZCQeJ"
+    },
+    {
+      "added_at": "2024-11-04 20:44:08",
+      "album": {
+        "name": "Promessas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5rNrVJUHUAQi0NRibNMllj"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 204938,
+      "name": "Promessas - Ao Vivo",
+      "url": "https://open.spotify.com/track/5eMQVA6iz94w9D4VvRCrEy"
     },
     {
       "added_at": "2024-11-04 20:44:08",

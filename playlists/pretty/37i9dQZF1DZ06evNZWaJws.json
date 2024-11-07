@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 314332,
+  "num_followers": 314392,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZygOgAAAAAByovOT4asLgQA4XcrInpXJ",
+  "snapshot_id": "ZylgAAAAAAA4yG5TGwh8erFfiJZhaLYO",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mundo De Amor",
+        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "6 Pies Boca Abajo",
+      "url": "https://open.spotify.com/track/7ou8urgcLm23xBQhGfKF1g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tucanes De Plata ... Tucanazos Censurados",
         "url": "https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 207893,
       "name": "Se Desgran\u00f3 La Mazorca",
       "url": "https://open.spotify.com/track/0sjpjZQYvnssMQ34lUpfpY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fiesta En La Sierra",
-        "url": "https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 203960,
-      "name": "Hombre De Negocios",
-      "url": "https://open.spotify.com/track/1pvrqcmSWAn0qvxlpbuXvD"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mundo De Amor",
-        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
+        "name": "Fiesta En La Sierra",
+        "url": "https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 185440,
-      "name": "6 Pies Boca Abajo",
-      "url": "https://open.spotify.com/track/7ou8urgcLm23xBQhGfKF1g"
+      "duration_ms": 203960,
+      "name": "Hombre De Negocios",
+      "url": "https://open.spotify.com/track/1pvrqcmSWAn0qvxlpbuXvD"
     },
     {
       "added_at": null,

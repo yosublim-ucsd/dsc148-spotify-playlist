@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Gigi Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,305 likes - 143 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,301 likes - 143 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 94 | [deadweight](https://open.spotify.com/track/62REjGo4zteSwjoIb43D2e) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f) | [deadweight](https://open.spotify.com/album/0A10OGdu6vkcW6eybVwZhO) | 1:25 |
 | 95 | [Leading Man](https://open.spotify.com/track/05xZdt3o6H10bXWGdMFYqD) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Film Buff](https://open.spotify.com/album/2T5QLCxyHEGbph6TBNtNzZ) | 2:47 |
 | 96 | [My Forever \(feat\. Cecile Believe\)](https://open.spotify.com/track/3yWtcvy5j3kbWW2TnI4jie) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [My Forever \(feat\. Cecile Believe\)](https://open.spotify.com/album/1xvKZrXhgF6s4frK5Qb6r5) | 4:04 |
-| 97 | [Antidote to Heaven](https://open.spotify.com/track/5hRfnPIy63J6k1AlJA3Avp) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw) | [Antidote to Heaven](https://open.spotify.com/album/2Lkj7EcrqwnPOO4nIHf4tD) | 2:37 |
+| 97 | [Antidote to Heaven](https://open.spotify.com/track/5hRfnPIy63J6k1AlJA3Avp) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw) | [Antidote to Heaven](https://open.spotify.com/album/2Lkj7EcrqwnPOO4nIHf4tD) | 2:05 |
 | 98 | [Livs levande lik](https://open.spotify.com/track/4jEdKp4Tph3NlGN8OAW14Q) | [SJUK HUS](https://open.spotify.com/artist/05YXRz6lUtBwK5EqIYWZWK) | [Livs levande lik](https://open.spotify.com/album/5GKhaAG7TtE74IAy58ltGW) | 2:23 |
 | 99 | [Alone](https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Alone](https://open.spotify.com/album/5Fe0AaIdua2BPx5cTXMM4M) | 6:48 |
 | 100 | [Do you wanna \- Fine + Molina EDIT](https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Great Doubt EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 2:25 |

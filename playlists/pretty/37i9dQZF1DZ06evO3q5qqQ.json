@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 110550,
+  "num_followers": 110555,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZygOgAAAAACcZSJMOSgIXgsOR/be+wYX",
+  "snapshot_id": "ZylgAAAAAAAs27VyixMYciP9DpAWuA11",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Se\u00f1or De La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/3yJ7amzvZuunZNifBM6KNl"
+      },
+      "artists": [
+        {
+          "name": "Pityn Toys",
+          "url": "https://open.spotify.com/artist/4TtLUMMoVnPMMGZ2ljNZzF"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "KC Music",
+          "url": "https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "El Se\u00f1or De La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/1rjI7wcOffMI560HsHU5q7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Novedad",
         "url": "https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS"
       },
@@ -175,26 +199,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Se\u00f1or De La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/3yJ7amzvZuunZNifBM6KNl"
+        "name": "Modo Avion",
+        "url": "https://open.spotify.com/album/1RV8eX7Z0Prav12ViroXxd"
       },
       "artists": [
         {
-          "name": "Pityn Toys",
-          "url": "https://open.spotify.com/artist/4TtLUMMoVnPMMGZ2ljNZzF"
-        },
-        {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "KC Music",
-          "url": "https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0"
         }
       ],
-      "duration_ms": 145600,
-      "name": "El Se\u00f1or De La Monta\u00f1a",
-      "url": "https://open.spotify.com/track/1rjI7wcOffMI560HsHU5q7"
+      "duration_ms": 185888,
+      "name": "Modo Avion",
+      "url": "https://open.spotify.com/track/4pljc9DdwyxBPojzgHpoL4"
     },
     {
       "added_at": null,
@@ -211,22 +227,6 @@
       "duration_ms": 167210,
       "name": "Celos Del Viento (En vivo)",
       "url": "https://open.spotify.com/track/0tg8RppkhrRC972fm380kd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Modo Avion",
-        "url": "https://open.spotify.com/album/1RV8eX7Z0Prav12ViroXxd"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 185888,
-      "name": "Modo Avion",
-      "url": "https://open.spotify.com/track/4pljc9DdwyxBPojzgHpoL4"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/0H2PeujiXUo7qOnRLLmrKz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 189504,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/2jjrH4sgaGxgDWss3XWenX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Matitas Verdes (En Vivo)",
         "url": "https://open.spotify.com/album/6dFaDaCDQqEKfdcELahkAt"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 161906,
       "name": "Matitas Verdes (En Vivo)",
       "url": "https://open.spotify.com/track/6602oDHS6ArzmjCXUz1DeS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/0H2PeujiXUo7qOnRLLmrKz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 189504,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/2jjrH4sgaGxgDWss3XWenX"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rosas",
+        "url": "https://open.spotify.com/album/7pvRB1385axz5VoiZUyD7o"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 273920,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/1yJXjROn0qtYy05SglrXa6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jalando La Bandona (En Vivo)",
         "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 172000,
       "name": "Prohibido (En vivo)",
       "url": "https://open.spotify.com/track/1WBk7QTwuuFbBnSCEEpk8D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rosas",
-        "url": "https://open.spotify.com/album/7pvRB1385axz5VoiZUyD7o"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 273920,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/1yJXjROn0qtYy05SglrXa6"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jalando La Bandona (En Vivo)",
-        "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Los Populares Del Llano",
-          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "En La Cima (En vivo)",
-      "url": "https://open.spotify.com/track/3SCJI8X7N0RYHcCaivNa1P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gustoso Y Contento (En Vivo)",
         "url": "https://open.spotify.com/album/1hcmRYDs73U5kqweVzy7vE"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 153640,
       "name": "Gustoso Y Contento (En Vivo)",
       "url": "https://open.spotify.com/track/3vD7rRP6RitDcgJxPIOns3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jalando La Bandona (En Vivo)",
+        "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Los Populares Del Llano",
+          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "En La Cima (En vivo)",
+      "url": "https://open.spotify.com/track/3SCJI8X7N0RYHcCaivNa1P"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Las Cuartitos No Falten",
+        "url": "https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 179170,
+      "name": "Que las Cuartitos No Falten",
+      "url": "https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Mollete (En Vivo)",
         "url": "https://open.spotify.com/album/6NHKYhMdtDI52ztF4mkeBA"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Las Cuartitos No Falten",
-        "url": "https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 179170,
-      "name": "Que las Cuartitos No Falten",
-      "url": "https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Tiempos De Aguas",
         "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
       },
@@ -819,22 +819,6 @@
       "duration_ms": 184957,
       "name": "Jimenez",
       "url": "https://open.spotify.com/track/7j1Un12rLufeK7WEuTgAKe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Birria",
-        "url": "https://open.spotify.com/album/4U50pciWwb1rE8RzjIKuDM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 135220,
-      "name": "Chaparrita Batallosa",
-      "url": "https://open.spotify.com/track/1kILvuXDaiV2Li1a8fid9u"
     },
     {
       "added_at": null,
@@ -855,6 +839,22 @@
       "duration_ms": 159056,
       "name": "La Ruleta de la Vida",
       "url": "https://open.spotify.com/track/7LqZaeQLxCddAw8k0FA9T7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Birria",
+        "url": "https://open.spotify.com/album/4U50pciWwb1rE8RzjIKuDM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 135220,
+      "name": "Chaparrita Batallosa",
+      "url": "https://open.spotify.com/track/1kILvuXDaiV2Li1a8fid9u"
     },
     {
       "added_at": null,

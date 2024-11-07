@@ -1601,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "Bloomington",
+        "url": "https://open.spotify.com/album/6CGG7yLH9nWD746WcQtZ7D"
+      },
+      "artists": [
+        {
+          "name": "Adone Alleva",
+          "url": "https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149783,
+      "name": "Bloomington",
+      "url": "https://open.spotify.com/track/682NdyYjynX5LkBuVdFInr"
+    },
+    {
+      "album": {
         "name": "Blossom on the Bush",
         "url": "https://open.spotify.com/album/4aZP7ZkBYWRtTJRXfJhy0J"
       },
@@ -6758,7 +6776,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 154654,
       "name": "Les \u00c9toiles",
       "url": "https://open.spotify.com/track/0ScIojb6Imo343SGP7yEQa"
@@ -8861,6 +8879,24 @@
     },
     {
       "album": {
+        "name": "Palermo",
+        "url": "https://open.spotify.com/album/3LpA8GNdQmLhpmgUf5rRda"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Campagnoli",
+          "url": "https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106000,
+      "name": "Palermo",
+      "url": "https://open.spotify.com/track/1xXbu3j1JPlMOLpfo6aVPJ"
+    },
+    {
+      "album": {
         "name": "Pali Hale",
         "url": "https://open.spotify.com/album/17gtmAUDxphDXbzKo1lBtE"
       },
@@ -9884,6 +9920,24 @@
       "duration_ms": 155016,
       "name": "Saint Placide",
       "url": "https://open.spotify.com/track/3pdhKb8GivqG4PVhNujVu8"
+    },
+    {
+      "album": {
+        "name": "San Andr\u00e9s",
+        "url": "https://open.spotify.com/album/4HCYIn19wcHOBuy1wvnpm5"
+      },
+      "artists": [
+        {
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155909,
+      "name": "San Andr\u00e9s",
+      "url": "https://open.spotify.com/track/0FxmuMmhGvyYmcRALNM816"
     },
     {
       "album": {
@@ -11338,7 +11392,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-07",
       "duration_ms": 155827,
       "name": "Strawberry Dreams",
       "url": "https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF"

@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Approval",
+        "url": "https://open.spotify.com/album/2TduV2Na9lQiW4HmjSbc5r"
+      },
+      "artists": [
+        {
+          "name": "Fryken",
+          "url": "https://open.spotify.com/artist/5z0Fx2yg2bbV0WpHiWi4pf"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179165,
+      "name": "Approval",
+      "url": "https://open.spotify.com/track/3QzrEF8QSFkZZIJiHzhA9O"
+    },
+    {
+      "album": {
         "name": "Aquiver",
         "url": "https://open.spotify.com/album/3O0QTpArfcQTNdpVzUGVJy"
       },
@@ -650,6 +668,24 @@
       "duration_ms": 165000,
       "name": "Clear Day",
       "url": "https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70"
+    },
+    {
+      "album": {
+        "name": "Clouds Coming",
+        "url": "https://open.spotify.com/album/7IAk6YxAb3zjyOaGV0nzb0"
+      },
+      "artists": [
+        {
+          "name": "Martes Fiore",
+          "url": "https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146500,
+      "name": "Clouds Coming",
+      "url": "https://open.spotify.com/track/7bTycbdDfQELplifneZzJj"
     },
     {
       "album": {

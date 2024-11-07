@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTZMm3WdVVwc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTZMm3WdVVwc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTZMm3WdVVwc)
 
-### [Winter is Here \#真冬のサウンドトラック](https://open.spotify.com/playlist/37i9dQZF1DWTZMm3WdVVwc)
+### [Winter is Here \#冬がはじまるよ](https://open.spotify.com/playlist/37i9dQZF1DWTZMm3WdVVwc)
 
-> 本格的な冬がようやく訪れました。そんな凍える日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
+> 冬がようやく訪れました。肌寒い日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
 133 songs - 9 hr 9 min
 

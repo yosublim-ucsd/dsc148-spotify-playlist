@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,090 likes - 98 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,084 likes - 98 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 43 | [For My Head](https://open.spotify.com/track/2MctqofDb7O3NA0gpsAu3U) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0), [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [For My Head](https://open.spotify.com/album/2KWphjOXkBBrKcMA7YDHht) | 2:40 |
 | 44 | [Fear When You Fly](https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Fear When You Fly](https://open.spotify.com/album/1Dve6i5g4D9Xw2GJCb9xOZ) | 3:40 |
 | 45 | [Like Him \(feat\. Lola Young\)](https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:38 |
-| 46 | [What Would I Do Without You](https://open.spotify.com/track/0dlpod3SyWgg6xRVi4Sgtm) | [April Snow](https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ), [Sara Parkman](https://open.spotify.com/artist/3QKspYZWuPR8sJ6WW1zAdw) | [What Would I Do Without You](https://open.spotify.com/album/5hB3DhuSaOm1L1xs2nAECW) | 3:27 |
+| 46 | [What Would I Do Without You](https://open.spotify.com/track/0dlpod3SyWgg6xRVi4Sgtm) | [April Snow](https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ) | [What Would I Do Without You](https://open.spotify.com/album/5hB3DhuSaOm1L1xs2nAECW) | 3:27 |
 | 47 | [Blås på det onda](https://open.spotify.com/track/1EoA9HqmJ0NU4QFbGcOm1D) | [Arja Saijonmaa](https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK) | [Så mycket bättre 2024 \- Tolkningarna](https://open.spotify.com/album/23vxJOHOVr4qBXgG56T5QB) | 3:23 |
 | 48 | [Voodoo](https://open.spotify.com/track/4QUZHITF4AoJExhvRsUA5l) | [Charlie Baker](https://open.spotify.com/artist/4mywMzYbTPsM5gk6p28XJm) | [Voodoo](https://open.spotify.com/album/3Y8jXGJvmwlEvXXe6KHPyQ) | 2:40 |
 | 49 | [Too Much To Lose](https://open.spotify.com/track/7fPPxXA7Mt7fHuRwHJLbwV) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Too Much To Lose](https://open.spotify.com/album/5If05SDWCE0Wd9dNQXxm5P) | 2:48 |

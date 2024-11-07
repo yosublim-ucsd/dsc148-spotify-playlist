@@ -1,6 +1,6 @@
 {
   "description": "Necessities from LGBTQIA+ artists. Cover: George Michael ",
-  "num_followers": 32136,
+  "num_followers": 32149,
   "original_name": "GLOW UK & Ireland ",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "#gigi",
-        "url": "https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 142227,
-      "name": "real feel",
-      "url": "https://open.spotify.com/track/7fShwQkgkUYrL6GttNjHTb"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "Disturbing U",
         "url": "https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 151304,
       "name": "Disturbing U",
       "url": "https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "#gigi",
+        "url": "https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 142227,
+      "name": "real feel",
+      "url": "https://open.spotify.com/track/7fShwQkgkUYrL6GttNjHTb"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "It\u2019s not my fault (it\u2019s yours)",
-        "url": "https://open.spotify.com/album/2S0Plxh3vskGQBiwMkhNnL"
-      },
-      "artists": [
-        {
-          "name": "Jazmin Bean",
-          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
-        }
-      ],
-      "duration_ms": 180962,
-      "name": "It\u2019s not my fault (it\u2019s yours)",
-      "url": "https://open.spotify.com/track/4crVaiFCJJjgDl4E4E6PmW"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "Permanent Damage",
         "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 187660,
       "name": "Joe",
       "url": "https://open.spotify.com/track/4ebg7FQu7KfiVcXhi5bj0o"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "It\u2019s not my fault (it\u2019s yours)",
+        "url": "https://open.spotify.com/album/2S0Plxh3vskGQBiwMkhNnL"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "duration_ms": 180962,
+      "name": "It\u2019s not my fault (it\u2019s yours)",
+      "url": "https://open.spotify.com/track/4crVaiFCJJjgDl4E4E6PmW"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1111,38 +1111,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Believe Me Now?",
-        "url": "https://open.spotify.com/album/6YpuiWNRGcMEumvRbEuOvP"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 148135,
-      "name": "Multiply",
-      "url": "https://open.spotify.com/track/2MLkPm2w8hHjJbg4jpb5e4"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
-        "name": "Friends In Low Places",
-        "url": "https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Friends In Low Places",
-      "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "No Point Pretending (Song For Tour)",
         "url": "https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp"
       },
@@ -1163,18 +1131,18 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "The Hit",
-        "url": "https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu"
+        "name": "Friends In Low Places",
+        "url": "https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP"
       },
       "artists": [
         {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
         }
       ],
-      "duration_ms": 210826,
-      "name": "The Hit",
-      "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"
+      "duration_ms": 183826,
+      "name": "Friends In Low Places",
+      "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1191,6 +1159,38 @@
       "duration_ms": 158167,
       "name": "PROCESS",
       "url": "https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "The Hit",
+        "url": "https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 210826,
+      "name": "The Hit",
+      "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "Believe Me Now?",
+        "url": "https://open.spotify.com/album/6YpuiWNRGcMEumvRbEuOvP"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 148135,
+      "name": "Multiply",
+      "url": "https://open.spotify.com/track/2MLkPm2w8hHjJbg4jpb5e4"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "This World Fucking Sucks",
-        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 65519,
-      "name": "Sex Metal",
-      "url": "https://open.spotify.com/track/5OVGnTQ1sQDnb00RmQWkBw"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "SCUMBAG",
         "url": "https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 186910,
       "name": "SCUMBAG",
       "url": "https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "This World Fucking Sucks",
+        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 65519,
+      "name": "Sex Metal",
+      "url": "https://open.spotify.com/track/5OVGnTQ1sQDnb00RmQWkBw"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Love Second Music First",
-        "url": "https://open.spotify.com/album/0eqsGq1tUB41BqmKLsouDe"
+        "name": "Babyface",
+        "url": "https://open.spotify.com/album/6UIRVsGGnOOx2u2EsYTVWH"
       },
       "artists": [
         {
-          "name": "Self Esteem",
-          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+          "name": "Artio",
+          "url": "https://open.spotify.com/artist/0l2QxnR8KJQT4m2Ax8rhh5"
         }
       ],
-      "duration_ms": 245259,
-      "name": "Love Second Music First",
-      "url": "https://open.spotify.com/track/6RbR55jkG3YoK1SeRT5mTN"
+      "duration_ms": 206023,
+      "name": "Babyface",
+      "url": "https://open.spotify.com/track/4P8Ae6g3wIStGa9em4PbMs"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Babyface",
-        "url": "https://open.spotify.com/album/6UIRVsGGnOOx2u2EsYTVWH"
+        "name": "Love Second Music First",
+        "url": "https://open.spotify.com/album/0eqsGq1tUB41BqmKLsouDe"
       },
       "artists": [
         {
-          "name": "Artio",
-          "url": "https://open.spotify.com/artist/0l2QxnR8KJQT4m2Ax8rhh5"
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
         }
       ],
-      "duration_ms": 206023,
-      "name": "Babyface",
-      "url": "https://open.spotify.com/track/4P8Ae6g3wIStGa9em4PbMs"
+      "duration_ms": 245259,
+      "name": "Love Second Music First",
+      "url": "https://open.spotify.com/track/6RbR55jkG3YoK1SeRT5mTN"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Crush Me Up",
-        "url": "https://open.spotify.com/album/4iwkw4bGIapRyVEc0WzwBm"
-      },
-      "artists": [
-        {
-          "name": "girli",
-          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
-        }
-      ],
-      "duration_ms": 150828,
-      "name": "Crush Me Up",
-      "url": "https://open.spotify.com/track/6YFEYclecVFUsvZ4dKoqjh"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "SEWERSTAR",
         "url": "https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 244000,
       "name": "L.E.E.C.H.E.S",
       "url": "https://open.spotify.com/track/30sAUjr9XR0cp9MuILHNsL"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "Crush Me Up",
+        "url": "https://open.spotify.com/album/4iwkw4bGIapRyVEc0WzwBm"
+      },
+      "artists": [
+        {
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "duration_ms": 150828,
+      "name": "Crush Me Up",
+      "url": "https://open.spotify.com/track/6YFEYclecVFUsvZ4dKoqjh"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "idc",
-        "url": "https://open.spotify.com/album/1JfqJMtr7hhtWZ56o2Amdd"
-      },
-      "artists": [
-        {
-          "name": "Nxdia",
-          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
-        }
-      ],
-      "duration_ms": 150786,
-      "name": "idc",
-      "url": "https://open.spotify.com/track/3kx5C5gy96hofwSNdHttmu"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "Babette",
         "url": "https://open.spotify.com/album/7yk5DxilcuZft3NG3ZjzvY"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 157920,
       "name": "Hectic",
       "url": "https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "idc",
+        "url": "https://open.spotify.com/album/1JfqJMtr7hhtWZ56o2Amdd"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "duration_ms": 150786,
+      "name": "idc",
+      "url": "https://open.spotify.com/track/3kx5C5gy96hofwSNdHttmu"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
+        "name": "I Know It Happened But I Can't Explain",
+        "url": "https://open.spotify.com/album/0Qxnmt9laQJu48svYZQ6Xt"
+      },
+      "artists": [
+        {
+          "name": "Zoe Konez",
+          "url": "https://open.spotify.com/artist/56zdMqayB3Ja8iwUmdKumu"
+        }
+      ],
+      "duration_ms": 188624,
+      "name": "I Know It Happened But I Can't Explain",
+      "url": "https://open.spotify.com/track/1PRY3whxLdyRwOWROuakG8"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
         "name": "Dancing star",
         "url": "https://open.spotify.com/album/1LKkLN3lZykJ53kc4skG21"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 264446,
       "name": "HENRY'S REVENGE",
       "url": "https://open.spotify.com/track/43ibXIVa1Vz273QcmTtNEU"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
-        "name": "I Know It Happened But I Can't Explain",
-        "url": "https://open.spotify.com/album/0Qxnmt9laQJu48svYZQ6Xt"
-      },
-      "artists": [
-        {
-          "name": "Zoe Konez",
-          "url": "https://open.spotify.com/artist/56zdMqayB3Ja8iwUmdKumu"
-        }
-      ],
-      "duration_ms": 188624,
-      "name": "I Know It Happened But I Can't Explain",
-      "url": "https://open.spotify.com/track/1PRY3whxLdyRwOWROuakG8"
     }
   ],
   "unique_name": "GLOW UK & Ireland ",

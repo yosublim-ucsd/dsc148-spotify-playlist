@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Cameo Blush
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,987 likes - 211 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,980 likes - 211 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

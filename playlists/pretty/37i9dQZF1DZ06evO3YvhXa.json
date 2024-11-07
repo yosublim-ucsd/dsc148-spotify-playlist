@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 399210,
+  "num_followers": 399279,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZygOgAAAAABfhFshLbf8LCoLNyHM6iHW",
+  "snapshot_id": "ZylgAAAAAADUsnu1nK29GdV5J/ITRjak",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "High Times: Singles 1992-2006",
+        "url": "https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 226613,
+      "name": "Runaway - Remastered 2006",
+      "url": "https://open.spotify.com/track/3xfn5sOME92iUfASWC2vNJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deeper Underground",
         "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 190476,
       "name": "Deeper Underground",
       "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "High Times: Singles 1992-2006",
-        "url": "https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 226613,
-      "name": "Runaway - Remastered 2006",
-      "url": "https://open.spotify.com/track/3xfn5sOME92iUfASWC2vNJ"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 238533,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/2xT2d2PxUVKEchW64s2ff9"
+      "duration_ms": 331800,
+      "name": "Summer Girl",
+      "url": "https://open.spotify.com/track/1FEIfJgaGwiLKr4L8W5Iqj"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 331800,
-      "name": "Summer Girl",
-      "url": "https://open.spotify.com/track/1FEIfJgaGwiLKr4L8W5Iqj"
+      "duration_ms": 238533,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/2xT2d2PxUVKEchW64s2ff9"
     },
     {
       "added_at": null,

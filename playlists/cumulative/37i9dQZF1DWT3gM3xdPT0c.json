@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Marshmellow World",
+        "url": "https://open.spotify.com/album/06EGglJ1g08GNBiSEdzctZ"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106300,
+      "name": "A Marshmellow World",
+      "url": "https://open.spotify.com/track/4TezFmLWnhe2gmwSg9oBgN"
+    },
+    {
+      "album": {
         "name": "Lonely Trip",
         "url": "https://open.spotify.com/album/2ezeL6Yi22qbpZnPgjU9nf"
       },
@@ -650,6 +668,24 @@
       "duration_ms": 204116,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/6wAqgXF6Ev4V1Fd2EhZ03e"
+    },
+    {
+      "album": {
+        "name": "Bloomington",
+        "url": "https://open.spotify.com/album/6CGG7yLH9nWD746WcQtZ7D"
+      },
+      "artists": [
+        {
+          "name": "Adone Alleva",
+          "url": "https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149783,
+      "name": "Bloomington",
+      "url": "https://open.spotify.com/track/682NdyYjynX5LkBuVdFInr"
     },
     {
       "album": {
@@ -2288,6 +2324,24 @@
       "duration_ms": 136482,
       "name": "Fr\u00fchlingsgef\u00fchle",
       "url": "https://open.spotify.com/track/4h0QLxUzVqQ7QKFSnWjvdu"
+    },
+    {
+      "album": {
+        "name": "Full Of Life",
+        "url": "https://open.spotify.com/album/2TNQtjdGUSaiq5FIA2ZL1p"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Rae",
+          "url": "https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143460,
+      "name": "Full Of Life",
+      "url": "https://open.spotify.com/track/3J27JxJCR0M6KgacpLfVAC"
     },
     {
       "album": {
@@ -6116,6 +6170,24 @@
       "duration_ms": 153916,
       "name": "Vedana",
       "url": "https://open.spotify.com/track/1DxPQ0ZGbg6uJyBApXwYRP"
+    },
+    {
+      "album": {
+        "name": "Venus",
+        "url": "https://open.spotify.com/album/6jCH3155IqsgOfahqDnMic"
+      },
+      "artists": [
+        {
+          "name": "Dieter Huber",
+          "url": "https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160005,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/0vJcsc5CyzJY84thrAprTO"
     },
     {
       "album": {

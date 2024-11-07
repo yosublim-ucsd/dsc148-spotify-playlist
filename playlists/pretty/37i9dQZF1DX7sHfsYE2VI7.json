@@ -1,6 +1,6 @@
 {
   "description": "Chilled out dance classics to set the mood.",
-  "num_followers": 60242,
+  "num_followers": 60258,
   "original_name": "Chill Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-08-05 06:16:01",
       "album": {
+        "name": "Love Generation",
+        "url": "https://open.spotify.com/album/2SPdbgwHd6pgrS9yawBB5t"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        }
+      ],
+      "duration_ms": 204892,
+      "name": "Love Generation - Radio Edit",
+      "url": "https://open.spotify.com/track/77gYpyxmd4b4VXw6qeuPJR"
+    },
+    {
+      "added_at": "2024-08-05 06:16:01",
+      "album": {
         "name": "SBTRKT (Deluxe Version)",
         "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 206600,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/47GsUibP7RiUL7SQ7YFfhu"
-    },
-    {
-      "added_at": "2024-08-05 06:16:01",
-      "album": {
-        "name": "Love Generation",
-        "url": "https://open.spotify.com/album/2SPdbgwHd6pgrS9yawBB5t"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        }
-      ],
-      "duration_ms": 204892,
-      "name": "Love Generation - Radio Edit",
-      "url": "https://open.spotify.com/track/77gYpyxmd4b4VXw6qeuPJR"
     },
     {
       "added_at": "2024-08-05 06:16:01",

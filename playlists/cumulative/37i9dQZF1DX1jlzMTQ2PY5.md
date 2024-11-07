@@ -4,7 +4,7 @@
 
 > Escape with these melodic liquid drum & bass beats
 
-188 songs - 13 hr 41 min
+189 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Believe It](https://open.spotify.com/track/1jO5MOeIbsyhY9ZGlM3gWI) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Kubiks](https://open.spotify.com/artist/7aPOfpCiVKzhW7dCj16ODr), [Rebekah Fitch](https://open.spotify.com/artist/3okhrC6DbZJOUhPTiUkwM6) | [The Evolution EP](https://open.spotify.com/album/01H4MU0LTIrXnABHv8iCy9) | 5:14 | 2022-06-14 | 2022-07-29 |
 | [Bell Tune](https://open.spotify.com/track/3HWC42lGGMkjII9evepQEL) | [LSB](https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN) | [Bell Tune](https://open.spotify.com/album/0K0XuOqrJU1RtSXMDndov1) | 6:59 | 2022-06-14 | 2022-07-22 |
 | [Blank Pages](https://open.spotify.com/track/5iSyuu9IKtr8VNnyJ3apHE) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Blank Pages](https://open.spotify.com/album/7A8de4GcDNN84SD3xNI75F) | 4:59 | 2022-01-21 | 2023-09-15 |
+| [Bloomsbury](https://open.spotify.com/track/0iKXPLaJPnicbmrok1MkLG) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Bloomsbury](https://open.spotify.com/album/0CkkEvImWBgGUObR3wcVdA) | 4:30 | 2024-11-01 |  |
 | [Bold Courage](https://open.spotify.com/track/4GI3rZ9kWxD1h38r9cRz5l) | [Waeys](https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Bold Courage](https://open.spotify.com/album/4YsWa9b3mb4UdSmqEphUp5) | 4:03 | 2022-01-21 | 2022-06-03 |
 | [Broken Hearts](https://open.spotify.com/track/36BEINszOa1KYgXcnBtzsK) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Broken Hearts](https://open.spotify.com/album/68APyVqYotExPXndQ6VFRU) | 2:16 | 2024-05-16 |  |
 | [call me when it's over \- Dark Dhalia Remix](https://open.spotify.com/track/3eSsdUdz7IBN5k2ZRxS54t) | [Jetta](https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96), [Dark Dhalia](https://open.spotify.com/artist/3oIYDwz9ylnIQ1jSg5373d) | [call me when it's over \(Dark Dhalia Remix\)](https://open.spotify.com/album/5Xa7gkLZnokZhbsTJbFciL) | 3:29 | 2024-03-28 | 2024-05-24 |
@@ -129,7 +130,7 @@
 | [Never Let You Down](https://open.spotify.com/track/0gciviPVwkD0YbtJIKm1bI) | [Invadhertz](https://open.spotify.com/artist/3UqjGZR6Xz1IZesQwLJZb7) | [Never Let You Down / Cold Fluid](https://open.spotify.com/album/0lwRCOZ6FGfqUcjFwIE2DZ) | 4:25 | 2022-01-21 | 2024-11-01 |
 | [Never Made It](https://open.spotify.com/track/348lckHV37myDPmuxztghP) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Mindstate](https://open.spotify.com/artist/7wJB2NvOGLDFafWVIsziRZ) | [Light Language](https://open.spotify.com/album/179IcSz26HvgzajtOzw3kC) | 4:29 | 2022-01-21 | 2024-05-06 |
 | [Nobody Knows](https://open.spotify.com/track/2Npm9RJ2U8hhKCQonDJESq) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [In My Head](https://open.spotify.com/album/0U2QxOH1RSNhTSFPeOd8yH) | 2:52 | 2024-07-26 |  |
-| [Not Alone](https://open.spotify.com/track/2460FCYtdrrcTChzU7G7aT) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Not Alone](https://open.spotify.com/album/3uAGplw7cRRx927H35iokm) | 4:58 | 2022-10-28 |  |
+| [Not Alone](https://open.spotify.com/track/2460FCYtdrrcTChzU7G7aT) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Not Alone](https://open.spotify.com/album/3uAGplw7cRRx927H35iokm) | 4:58 | 2022-10-28 | 2024-11-07 |
 | [NOT FOR YOU](https://open.spotify.com/track/5B2xXCfmRlOlBA8YCcQzw9) | [SISICA](https://open.spotify.com/artist/6ZxNkk8ek1Ho5qNxnYNH9D) | [RECREATION](https://open.spotify.com/album/2tqqSO4VOIG6BN7xjSmemx) | 2:32 | 2023-11-17 |  |
 | [Nothing Without Your Love](https://open.spotify.com/track/5ZQWZfN28HGrXZmkZeInkG) | [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Nothing Without Your Love](https://open.spotify.com/album/0sz16rblucgQ1NpmBse1eT) | 4:10 | 2024-01-26 |  |
 | [one more time](https://open.spotify.com/track/4hz5KB4ayiYYjSZGtguEfx) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02), [Milkz0121](https://open.spotify.com/artist/6fgy4cEo36ve9kA1L2aOPN) | [one more time](https://open.spotify.com/album/6EMbSN94bAyHvF3ReDpPA4) | 3:08 | 2024-07-05 |  |

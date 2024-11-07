@@ -1,29 +1,13 @@
 {
   "description": "De nieuwste Hollandse hits. Cover: Rene Froger & Billy Dans",
-  "num_followers": 148946,
+  "num_followers": 148968,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyipMAAAAAAU7fwSc7Ids8C3DVgFOEwH",
+  "snapshot_id": "ZytiSQAAAAB+zXMDuOaUagcPCgCGmyJF",
   "tracks": [
-    {
-      "added_at": "2024-11-04 11:00:00",
-      "album": {
-        "name": "Ik Kan Je Niet Vergeten",
-        "url": "https://open.spotify.com/album/4dOZQ6p3hwXX7QzWLHmXFJ"
-      },
-      "artists": [
-        {
-          "name": "Senna",
-          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
-        }
-      ],
-      "duration_ms": 167595,
-      "name": "Ik Kan Je Niet Vergeten",
-      "url": "https://open.spotify.com/track/7J4X2uKaKvgFBYJTgccVbw"
-    },
     {
       "added_at": "2024-11-04 11:00:00",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 158857,
       "name": "De Stad",
       "url": "https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY"
+    },
+    {
+      "added_at": "2024-11-04 11:00:00",
+      "album": {
+        "name": "Ik Kan Je Niet Vergeten",
+        "url": "https://open.spotify.com/album/4dOZQ6p3hwXX7QzWLHmXFJ"
+      },
+      "artists": [
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
+        }
+      ],
+      "duration_ms": 167595,
+      "name": "Ik Kan Je Niet Vergeten",
+      "url": "https://open.spotify.com/track/7J4X2uKaKvgFBYJTgccVbw"
     },
     {
       "added_at": "2024-11-04 11:00:00",
