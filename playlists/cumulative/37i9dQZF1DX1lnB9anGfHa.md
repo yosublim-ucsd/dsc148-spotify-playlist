@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-287 songs - 19 hr 30 min
+288 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [drowning](https://open.spotify.com/track/0Te0I0OnjRbnXhXbahrN20) | [kraymira](https://open.spotify.com/artist/6SSZMkPO9imVUp2ZN9sITn) | [drowning](https://open.spotify.com/album/3uuPrpCbNKfaGqCsNqb721) | 2:18 | 2021-06-23 | 2022-11-20 |
 | [drowning](https://open.spotify.com/track/5xu47rMH8NorKBej7fWeTi) | [kraymira](https://open.spotify.com/artist/6SSZMkPO9imVUp2ZN9sITn) | [drowning](https://open.spotify.com/album/2t4svv2IxvyBnBqDaW0H1g) | 2:18 | 2021-06-23 | 2024-01-12 |
 | [drowning](https://open.spotify.com/track/7zG96zOUfMR01JKGDskylX) | [kraymira](https://open.spotify.com/artist/6SSZMkPO9imVUp2ZN9sITn) | [drowning](https://open.spotify.com/album/7onJZ3rdjU9yEjho30raQe) | 2:18 | 2021-06-23 | 2022-07-29 |
-| [Drum Jump](https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG) | [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Lucha Libre](https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA) | 4:12 | 2024-03-22 |  |
+| [Drum Jump](https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG) | [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Lucha Libre](https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA) | 4:12 | 2024-03-22 | 2024-11-08 |
 | [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 | 2023-09-21 |  |
 | [Empty space](https://open.spotify.com/track/7hctEV1xzChyXgCzzMNpth) | [Bianca Scout](https://open.spotify.com/artist/0SViH83GsqJ0GCwnmTTlep) | [The Heart of the Anchoress](https://open.spotify.com/album/3MawvDSn4MxS2a73jPe10o) | 3:47 | 2023-03-03 | 2024-05-11 |
 | [Even It Out](https://open.spotify.com/track/4RgfngxUX05xp09dNutO1O) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GCoy0h2laaZlhKhnjjRpe) | 3:07 | 2024-04-18 |  |
@@ -92,6 +92,7 @@
 | [Fimmine Fimmine](https://open.spotify.com/track/3PAxNbb4NnIJBnrH5QnFol) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Vera Di Lecce](https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ) | [Rimorso](https://open.spotify.com/album/5wuZ3RGLtu6LimxV4kU1Tc) | 4:39 | 2022-09-21 | 2023-03-29 |
 | [Fimmine Fimmine](https://open.spotify.com/track/7ANEW2g8PEhk3pLP2UxPVT) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Vera Di Lecce](https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ) | [Rimorso](https://open.spotify.com/album/35LHiySmiksIVj8dex7Xg7) | 4:39 | 2022-09-21 | 2022-11-09 |
 | [Fimmine Fimmine](https://open.spotify.com/track/7xqIXSb4H99NLZbZ15Uoac) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Vera Di Lecce](https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ) | [Fimmine Fimmine](https://open.spotify.com/album/3Zg8UYhztCXajLc8D6zMTM) | 4:39 | 2022-09-21 | 2022-11-13 |
+| [First Swim, A Water Chant](https://open.spotify.com/track/3CRLEMYQG6PMUnbTqfeKVM) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva \(Deluxe Edition\)](https://open.spotify.com/album/5RlbXZBXYwJJ8fmIysFdrV) | 3:43 | 2024-11-07 |  |
 | [For a Burning World](https://open.spotify.com/track/2zbtE3hz1Zb5chqQnw0BB0) | [Lord Of The Isles](https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru), [Ellen Renton](https://open.spotify.com/artist/1T7ltBiyXYSF6kKKdrqaGm) | [My Noise Is Nothing](https://open.spotify.com/album/7gD1HesHdAjyZU3mHBni6h) | 5:57 | 2024-09-16 | 2024-09-20 |
 | [Get Still](https://open.spotify.com/track/0lsGoFkRfl7gQm892Za3cq) | [Alan Sparhawk](https://open.spotify.com/artist/7ljTofQBh5fR5SYfGHRYs8) | [Get Still](https://open.spotify.com/album/3UrtXMTUMXR2B5CP6IOuta) | 3:42 | 2024-08-23 |  |
 | [Ghost](https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys) | [Mykalle](https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0) | [Da pacem](https://open.spotify.com/album/3J6HgjAfyIbnhT7DVgQrIK) | 4:35 | 2024-02-02 | 2024-08-08 |

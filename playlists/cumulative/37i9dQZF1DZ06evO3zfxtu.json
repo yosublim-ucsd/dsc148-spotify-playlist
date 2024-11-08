@@ -919,6 +919,36 @@
     },
     {
       "album": {
+        "name": "I Been Doing Great",
+        "url": "https://open.spotify.com/album/2tIo6Vbm8ZiQ3xWhcPuoDh"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        },
+        {
+          "name": "ILLYMINIACHI",
+          "url": "https://open.spotify.com/artist/1Ux5dcdXuI44kw0KrFqCFi"
+        },
+        {
+          "name": "Reeves Junya",
+          "url": "https://open.spotify.com/artist/71JPrkycmdLJ4Uc2UrpzmR"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Knocked Off",
+      "url": "https://open.spotify.com/track/2GmyBwj81qH2dvl7fIU75b"
+    },
+    {
+      "album": {
         "name": "line em up.",
         "url": "https://open.spotify.com/album/2EqgEU0owvPJh6wBLty1ew"
       },
@@ -1370,7 +1400,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 140835,
       "name": "QUIET",
       "url": "https://open.spotify.com/track/3Wfv17RlbuKYJq4LKX1OCR"

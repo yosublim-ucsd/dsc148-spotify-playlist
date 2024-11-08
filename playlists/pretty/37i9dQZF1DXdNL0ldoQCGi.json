@@ -1,15 +1,31 @@
 {
   "description": "aquela l\u00e1 que t\u00e1 viral no seu feed sabe",
-  "num_followers": 260142,
+  "num_followers": 260143,
   "original_name": "faz a trend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwlQaQAAAAB/3SOeLTdOZQaiO0UiSi9g",
+  "snapshot_id": "Zy0OzwAAAABKrOFplJTxyDNrOQuOiVI/",
   "tracks": [
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1TDPdTrinPDX4tZTwYOE1v"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 195794,
+      "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1YlfGwNizEKy299l1PVggn"
+    },
+    {
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Pira\u00e7\u00e3o 2.0",
         "url": "https://open.spotify.com/album/7fQ7FbXBfe2IbrSQJ0QltX"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/2SFcDfkE1MRXZfl4LIwscm"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
@@ -41,23 +57,51 @@
       "url": "https://open.spotify.com/track/6iBMj762l27f5fH6E1PUHE"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
-        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
       },
       "artists": [
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 168805,
-      "name": "Nosso Primeiro Beijo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
+      "duration_ms": 301623,
+      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
+      "album": {
+        "name": "Eu T\u00f4 Sozinho, T\u00f4 Solteiro",
+        "url": "https://open.spotify.com/album/3lDVqMcILrZuluTmF6bz96"
+      },
+      "artists": [
+        {
+          "name": "O REI DA BATIDINHA",
+          "url": "https://open.spotify.com/artist/1mwcAHaMzrUvCjVcg89lgB"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Bonde do gato preto",
+          "url": "https://open.spotify.com/artist/5A6NOdTbk43Jnr0GxFZQei"
+        }
+      ],
+      "duration_ms": 166191,
+      "name": "Eu T\u00f4 Sozinho, T\u00f4 Solteiro",
+      "url": "https://open.spotify.com/track/1jihHPjnDlipkT1iSXwEio"
+    },
+    {
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "\u00c9 o Grelo",
         "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
@@ -73,7 +117,51 @@
       "url": "https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "added_at": "2024-11-07 19:02:39",
+      "album": {
+        "name": "EU TAVA AQUI PENSANDO (VERS\u00c3O BH)",
+        "url": "https://open.spotify.com/album/1HRR7iat9PtjXAV2tnib8y"
+      },
+      "artists": [
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        },
+        {
+          "name": "TR",
+          "url": "https://open.spotify.com/artist/2CotyFTVKWR1jJLPTrrjdu"
+        },
+        {
+          "name": "Josu\u00e9 Bom de Faixa",
+          "url": "https://open.spotify.com/artist/6yEKZXXjkBPBcAQAFdvSlz"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "EU TAVA AQUI PENSANDO - VERS\u00c3O BH",
+      "url": "https://open.spotify.com/track/5Mvbg6AVUyvkRf0AzBrLY4"
+    },
+    {
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Piseiro Hawaiano",
         "url": "https://open.spotify.com/album/3MhtaWXDWaa0zX1HqmBaMS"
@@ -97,55 +185,59 @@
       "url": "https://open.spotify.com/track/4b3zlZQaDrpabJcqIo92uD"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
-        "name": "Ritmada Interestelar",
-        "url": "https://open.spotify.com/album/4yGwZSJLoBPCKQNn5zMjWR"
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
       "artists": [
         {
-          "name": "DJ DUARTE",
-          "url": "https://open.spotify.com/artist/76JV5kzmRyAtP4cmMgjMZi"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         },
         {
-          "name": "DJ Kayo Original",
-          "url": "https://open.spotify.com/artist/3XbTjpdGElxdiHzbCGn8G7"
-        },
-        {
-          "name": "MC Lipivox",
-          "url": "https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY"
-        },
-        {
-          "name": "MC Rondom",
-          "url": "https://open.spotify.com/artist/2QfGTGoOWDlLmRxUvHllCc"
-        },
-        {
-          "name": "Prime Funk",
-          "url": "https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 192461,
-      "name": "Ritmada Interestelar",
-      "url": "https://open.spotify.com/track/2i3HnfXvFT371Hbk4oZsfA"
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
-        "name": "Eu To Sozinho Eu To Solteiro, Sem Responsabilidade",
-        "url": "https://open.spotify.com/album/2BSgw8GhRzTXi11jB4upLl"
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
       },
       "artists": [
         {
-          "name": "TROPA DO MANT\u00c9M",
-          "url": "https://open.spotify.com/artist/1Cj6GYoTNXwzjCgvxTeftE"
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
         }
       ],
-      "duration_ms": 107949,
-      "name": "Eu To Sozinho Eu To Solteiro, Sem Responsabilidade",
-      "url": "https://open.spotify.com/track/0q136ECUdJJNpJ9eowozEd"
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 187146,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
+    },
+    {
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Vai Tomar Lapada",
         "url": "https://open.spotify.com/album/3IFaZOL6WN2c7I5b8TgpQ2"
@@ -165,7 +257,23 @@
       "url": "https://open.spotify.com/track/5LJZ1pYk6VqgBVnGJ76NQp"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
+      "album": {
+        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 168805,
+      "name": "Nosso Primeiro Beijo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
+    },
+    {
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Mtg Quero Te Encontrar",
         "url": "https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh"
@@ -197,7 +305,7 @@
       "url": "https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Nao Precisa Negar (Versao Bh)",
         "url": "https://open.spotify.com/album/3hSgTBraHNphRUibWxxoPr"
@@ -221,23 +329,7 @@
       "url": "https://open.spotify.com/track/608yE6rUD9cKsb7oqfRgGi"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
-      "album": {
-        "name": "Ba\u00fa 3",
-        "url": "https://open.spotify.com/album/5I8blblKf6P41iF2CseIzY"
-      },
-      "artists": [
-        {
-          "name": "Seu Desejo",
-          "url": "https://open.spotify.com/artist/71qmoLfGw4fDPJPJ2MBNax"
-        }
-      ],
-      "duration_ms": 73423,
-      "name": "Beijos, Blues e Poesia",
-      "url": "https://open.spotify.com/track/30YvX24h1Z4F1yoH4tWC54"
-    },
-    {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Bloquinho da Putaria 1.0",
         "url": "https://open.spotify.com/album/6sc5tfIJey5qTv3xOSt9w4"
@@ -253,7 +345,7 @@
       "url": "https://open.spotify.com/track/67vSuD3K3Np2H5qKo4TkjJ"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "De Volta Pra Gaiola: Amor de Verdade",
         "url": "https://open.spotify.com/album/3NCMusriPkBnIEgXY3bkI7"
@@ -273,7 +365,7 @@
       "url": "https://open.spotify.com/track/4WzqselrQ9QKdhQTvHbaWT"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Sonho Dela (Cowboy)",
         "url": "https://open.spotify.com/album/7Msie9nqF5903P39GV4lGq"
@@ -297,7 +389,7 @@
       "url": "https://open.spotify.com/track/6W196uVRkmQFHbc1XV8DNk"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "\u00c9 o Grelo",
         "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
@@ -313,7 +405,23 @@
       "url": "https://open.spotify.com/track/6m51sam9gIqRMbJEKW4ADe"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
+      "album": {
+        "name": "Ba\u00fa 3",
+        "url": "https://open.spotify.com/album/5I8blblKf6P41iF2CseIzY"
+      },
+      "artists": [
+        {
+          "name": "Seu Desejo",
+          "url": "https://open.spotify.com/artist/71qmoLfGw4fDPJPJ2MBNax"
+        }
+      ],
+      "duration_ms": 73423,
+      "name": "Beijos, Blues e Poesia",
+      "url": "https://open.spotify.com/track/30YvX24h1Z4F1yoH4tWC54"
+    },
+    {
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Medley Put4ria Avan\u00e7ada",
         "url": "https://open.spotify.com/album/58k3YgPnHa7XWEFOc4ggTd"
@@ -329,7 +437,7 @@
       "url": "https://open.spotify.com/track/47jm3FEv1cfE97ILQsqfPq"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -345,7 +453,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Batid\u00e3o Tropical Vol. 2",
         "url": "https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw"
@@ -361,7 +469,7 @@
       "url": "https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "No Bar de T\u00f5e Furico (Ao Vivo)",
         "url": "https://open.spotify.com/album/0A4m8mPzLSwJwuOAniS4KC"
@@ -377,7 +485,7 @@
       "url": "https://open.spotify.com/track/4BVL2QLF5QQLT15SpAWMVq"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Deadpool & Wolverine: Madonna's \"Like a Prayer\" EP",
         "url": "https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0"
@@ -393,7 +501,7 @@
       "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
@@ -409,7 +517,7 @@
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
@@ -433,7 +541,7 @@
       "url": "https://open.spotify.com/track/0c82YIGpQ5dCaXpTNCk4sb"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "SE ME OLVIDA",
         "url": "https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3"
@@ -453,7 +561,7 @@
       "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "That's Who I Praise",
         "url": "https://open.spotify.com/album/4xgkNyFFCIWLi8RC6dTlCR"
@@ -469,7 +577,7 @@
       "url": "https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Ontem Eu Tinha Certeza (Hoje Eu Tenho Mais)",
         "url": "https://open.spotify.com/album/20tdkGDqEJFZJs6TYEqifo"
@@ -485,7 +593,7 @@
       "url": "https://open.spotify.com/track/4n7GVLsN4FBLyKhi0BySUq"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Era uma vez",
         "url": "https://open.spotify.com/album/2b9mEfDyiEnVoIHrTBSdbL"
@@ -501,7 +609,7 @@
       "url": "https://open.spotify.com/track/42cbAqfGrflUTmn7N9jONd"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "\u00c9 o Grelo",
         "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
@@ -517,39 +625,7 @@
       "url": "https://open.spotify.com/track/4qR2qFXGphq6VW5IJIoHI1"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
-      "album": {
-        "name": "Pix ou Presente",
-        "url": "https://open.spotify.com/album/5A0eKD3Q2v0NqUbwi6M5oT"
-      },
-      "artists": [
-        {
-          "name": "MC Jvila",
-          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
-        },
-        {
-          "name": "DJ Torricelli",
-          "url": "https://open.spotify.com/artist/5DEyhfcrXFzsKDCBcTNyn3"
-        },
-        {
-          "name": "Dj Flor",
-          "url": "https://open.spotify.com/artist/4XRu9SPd5xXRdodBz66O1s"
-        },
-        {
-          "name": "DJ CARLINHOS",
-          "url": "https://open.spotify.com/artist/6FBX3c5yWFrMF2VCoMYNQ7"
-        },
-        {
-          "name": "DJ KAUE SOUZA",
-          "url": "https://open.spotify.com/artist/5ZPaotOSXiMY5Qk20xu5Ro"
-        }
-      ],
-      "duration_ms": 163141,
-      "name": "Pix ou Presente",
-      "url": "https://open.spotify.com/track/2bwEs5CP234z3SaQkqVLEL"
-    },
-    {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "A Cara das Vaquejadas 3.0",
         "url": "https://open.spotify.com/album/3LqVn74biJ7PU2vFeZTAFh"
@@ -565,7 +641,7 @@
       "url": "https://open.spotify.com/track/5mJcnekfy4DEpAZ6uAHM7Y"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Quest\u00e3o de Tempo (Ao Vivo / Vol.2)",
         "url": "https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9"
@@ -581,7 +657,7 @@
       "url": "https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Eu Vou Cair na Noite",
         "url": "https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW"
@@ -609,7 +685,7 @@
       "url": "https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Areia Branquinha 2",
         "url": "https://open.spotify.com/album/5mz3mEsgla23m8lp4kiKsy"
@@ -653,7 +729,7 @@
       "url": "https://open.spotify.com/track/4gY1DaPZjAiIv8AwSLWLkL"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Amor Na Praia",
         "url": "https://open.spotify.com/album/1AmFOS8nn7ufZ6IfxY10Zu"
@@ -669,7 +745,7 @@
       "url": "https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Unreal Unearth: Unheard",
         "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
@@ -685,7 +761,7 @@
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Dono da Porsche (Bom Dia Princesa)",
         "url": "https://open.spotify.com/album/3DJCxAao78RWA21d2LUEWD"
@@ -701,7 +777,7 @@
       "url": "https://open.spotify.com/track/6XQ87rq4dZpaNG8aVi99Jg"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Desacato",
         "url": "https://open.spotify.com/album/0pJN3wcy6eveGD29QGBJt8"
@@ -741,7 +817,7 @@
       "url": "https://open.spotify.com/track/1fzaUKQv7sgGW0udQVghSW"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Diferent\u00e3o",
         "url": "https://open.spotify.com/album/4GEKE1p87kk2tSgMAvubVl"
@@ -761,7 +837,7 @@
       "url": "https://open.spotify.com/track/6fcQIY5VSFNrK4YzDoljPQ"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Qual \u00e9 seu desejo?",
         "url": "https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs"
@@ -789,7 +865,7 @@
       "url": "https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Macetando",
         "url": "https://open.spotify.com/album/6FEJSBFIqZe9GYN2xaAP52"
@@ -809,7 +885,7 @@
       "url": "https://open.spotify.com/track/6eJUG282cUKuIoa72sEsqO"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Tem Caf\u00e9",
         "url": "https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5"
@@ -833,7 +909,7 @@
       "url": "https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
@@ -849,7 +925,7 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "V\u00f4o de Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2folhiorW4UtZhloQOUqZt"
@@ -865,7 +941,7 @@
       "url": "https://open.spotify.com/track/6qlb3j0zGqEe6uWJpQZGxP"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "10 Carros",
         "url": "https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI"
@@ -889,7 +965,7 @@
       "url": "https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Set Dj Gm 6.0",
         "url": "https://open.spotify.com/album/3PJWTYXjCCatdpiSKNUY9N"
@@ -957,7 +1033,7 @@
       "url": "https://open.spotify.com/track/4WXVqLSRHF4ypdiBngbcqU"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Pane no Sistema",
         "url": "https://open.spotify.com/album/2dmlFvtOu5sd5ktVMiNMNZ"
@@ -981,7 +1057,7 @@
       "url": "https://open.spotify.com/track/7GjAXYuxjuXPbQJzRnNdob"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "O Cara Do Momento",
         "url": "https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV"
@@ -1013,7 +1089,7 @@
       "url": "https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Halls na L\u00edngua",
         "url": "https://open.spotify.com/album/0FiyzguzViQQbVwi9QcgLl"
@@ -1041,7 +1117,7 @@
       "url": "https://open.spotify.com/track/5uTVtc2Oc93nBVqPPI8Ijj"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
@@ -1057,7 +1133,7 @@
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Sugar Papi",
         "url": "https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH"
@@ -1077,7 +1153,7 @@
       "url": "https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Furduncinho do Rogerinho",
         "url": "https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a"
@@ -1093,7 +1169,7 @@
       "url": "https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "A Internet \u00c9 Toxica",
         "url": "https://open.spotify.com/album/3PZQ1JYIh7M5QuyoK6rLYM"
@@ -1125,7 +1201,7 @@
       "url": "https://open.spotify.com/track/6Gn8SHd3RIWjOermcidCJk"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Piloto",
         "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
@@ -1141,7 +1217,7 @@
       "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9"
@@ -1157,7 +1233,7 @@
       "url": "https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Cheiro da Karolina",
         "url": "https://open.spotify.com/album/4chZNnJM7cWC49zM5Zg0lI"
@@ -1173,7 +1249,7 @@
       "url": "https://open.spotify.com/track/2M5rKoRbRzzVBSlkDN4MMh"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
@@ -1205,7 +1281,7 @@
       "url": "https://open.spotify.com/track/1Vy9Wn5sbiduZKBqBlH3Mc"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Cad\u00ea o After? Pt. 1",
         "url": "https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww"
@@ -1221,7 +1297,7 @@
       "url": "https://open.spotify.com/track/54u86CmMqGI1rRuULlTqaB"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Ritmo dos Crias",
         "url": "https://open.spotify.com/album/1rpZ5lbh30fimLCZvcyh0f"
@@ -1237,7 +1313,7 @@
       "url": "https://open.spotify.com/track/3Nvzs0cJbLwhXPPlI8xzpC"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Confia (Ao Vivo)",
         "url": "https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w"
@@ -1257,7 +1333,7 @@
       "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "Love, Love",
         "url": "https://open.spotify.com/album/1P6rGeHgiZkqO4H0fF4UaS"
@@ -1281,7 +1357,7 @@
       "url": "https://open.spotify.com/track/3P2ubMyuL9NQOVU67TVCXA"
     },
     {
-      "added_at": "2024-10-11 16:20:57",
+      "added_at": "2024-11-07 19:02:39",
       "album": {
         "name": "ENSAIO DAS MARAVILHAS",
         "url": "https://open.spotify.com/album/0WySBFNRnQ1HeXUHckbpLw"

@@ -4,7 +4,7 @@
 
 > New music by Quevedo, Maria Becerra & Yandel, Duki and more! Updates every Friday.
 
-8,245 songs - 17 day 22 hr 44 min
+8,246 songs - 17 day 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3128,6 +3128,7 @@
 | [GURÚ](https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:43 | 2022-06-24 | 2022-07-02 |
 | [GUSTOSO](https://open.spotify.com/track/6FyFJ1eaGctrKTbIoLB8eS) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [GUSTOSO](https://open.spotify.com/album/5bjaZJ1SIDCQXdQKbUt20W) | 2:17 | 2023-10-20 | 2023-10-28 |
 | [Guxxi](https://open.spotify.com/track/2XCqYrNtA5dZtP14r82mYK) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [Ballah](https://open.spotify.com/artist/6zbAKw9q6ymunp4AjySpL7), [Pardo](https://open.spotify.com/artist/1oM012tBHo8az57LFfGSpc) | [Guxxi](https://open.spotify.com/album/2oCEJLGwWEWT3g95I3UYQG) | 2:50 | 2022-03-04 | 2022-03-12 |
+| [GVNG](https://open.spotify.com/track/5uaCUNfo4nx9IEPvE1Nv6F) | [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [GVNG](https://open.spotify.com/album/5HLx7W9K35nPxxWno8c0wZ) | 2:31 | 2024-11-01 |  |
 | [Gym](https://open.spotify.com/track/7kVBOWAEm4YG9I0GRxbxxg) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Gym](https://open.spotify.com/album/5ctwyXD42GpDu6D2gktAz5) | 2:18 | 2024-07-05 | 2024-07-13 |
 | [Gymnastic \- Remix](https://open.spotify.com/track/2SBDF0oXDVl6hiin8IxzZ5) | [Jan Blakeee](https://open.spotify.com/artist/3r0kkjcXjHeym35lYmeEC6), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [Gymnastic \(Remix\)](https://open.spotify.com/album/7tlKrSyVjaQM4oxAfMoHvc) | 4:31 | 2024-04-05 | 2024-04-13 |
 | [Gárgolas](https://open.spotify.com/track/1Zmdu65XrzjM2TEwQPL3ak) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6) | [Gárgolas](https://open.spotify.com/album/1Lx9fCHf5bxeBHZrDhgenM) | 3:31 | 2023-11-17 | 2023-11-25 |

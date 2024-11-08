@@ -4,7 +4,7 @@
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: <a href="spotify:artist:2dlCuzBPpSIeyY4ZCJBKGS">Bridge Music</a>
 
-7,484 songs - 20 day 16 hr 55 min
+7,485 songs - 20 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [Awestruck \(On My Way Home\)](https://open.spotify.com/track/6NlG1GnGi3kPyu0TL8Oq0l) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE), [A New Heaven and A New Earth](https://open.spotify.com/artist/5XUqnQrZqod66E8Z1DW3MX) | [Awestruck \(On My Way Home\)](https://open.spotify.com/album/19w1ijIQtlOOMCT4qpZBO3) | 3:56 | 2024-03-08 | 2024-03-23 |
 | [AYAYAYA](https://open.spotify.com/track/1tKTY4tYK13MoGgpO3fnia) | [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [AYAYAYA](https://open.spotify.com/album/2kgt9QIKdyZjaytBs5jsA3) | 2:44 | 2024-07-19 | 2024-08-03 |
 | [AYO](https://open.spotify.com/track/7Bt3aw2viJVXQEUoA8cqbP) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO), [FIDEL E\. William](https://open.spotify.com/artist/3ZtLx9dt1d6OMirAEMMToe) | [AYO](https://open.spotify.com/album/1iHT9cEaerZ8wp90SHdIvp) | 2:03 | 2024-07-12 | 2024-07-19 |
+| [Ayo](https://open.spotify.com/track/4wbp5P1ylTdTYMtcxvcfnd) | [Lamboginny](https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF) | [Co\-Signed by God](https://open.spotify.com/album/0SW70ovSIsJPJ5B2ooA9tx) | 3:12 | 2024-11-01 |  |
 | [Azeite \- Ao Vivo](https://open.spotify.com/track/6pVm1C9RyzEZJI0o643h74) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Azeite \(Ao Vivo\)](https://open.spotify.com/album/7GnXwS8TebApYSBsIeRRnf) | 4:32 | 2024-04-19 | 2024-05-11 |
 | [Azusa](https://open.spotify.com/track/4K7SaRHg1R95srP3qkuIMc) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [CJ Emulous](https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ), [KidViz](https://open.spotify.com/artist/0zdB6fxQincSsBOLaTmpEe), [NK4](https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc) | [Azusa](https://open.spotify.com/album/1rZSR3Wyyk7ZhCJLGbvjY9) | 3:16 | 2022-09-30 | 2022-10-15 |
 | [B'ola \(Live\)](https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Sola Allyson](https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY) | [B'ola \(Live\)](https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E) | 10:50 | 2023-08-25 | 2023-09-09 |

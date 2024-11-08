@@ -1,6 +1,6 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 80626,
+  "num_followers": 80637,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-10-24 17:18:17",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r"
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/4sC2TBLprR7nOwxtG3xWMj"
       },
       "artists": [
         {
-          "name": "Class Fools",
-          "url": "https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt"
+          "name": "Eliza Legzdina",
+          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
         }
       ],
-      "duration_ms": 168188,
-      "name": "Some Nights",
-      "url": "https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv"
+      "duration_ms": 149051,
+      "name": "Composure",
+      "url": "https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu"
     },
     {
       "added_at": "2024-10-24 17:18:17",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-10-24 17:18:17",
       "album": {
-        "name": "Composure",
-        "url": "https://open.spotify.com/album/4sC2TBLprR7nOwxtG3xWMj"
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r"
       },
       "artists": [
         {
-          "name": "Eliza Legzdina",
-          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
+          "name": "Class Fools",
+          "url": "https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt"
         }
       ],
-      "duration_ms": 149051,
-      "name": "Composure",
-      "url": "https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu"
+      "duration_ms": 168188,
+      "name": "Some Nights",
+      "url": "https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv"
     },
     {
       "added_at": "2024-10-24 17:18:17",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2024-10-24 17:18:17",
       "album": {
-        "name": "Animosity (SOPHIE Remix)",
-        "url": "https://open.spotify.com/album/6uAEMEeFuJV9n0U8RRcWUh"
-      },
-      "artists": [
-        {
-          "name": "Abyss X",
-          "url": "https://open.spotify.com/artist/51ndPH5vzgLHvceXP7Ij2l"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 486760,
-      "name": "Animosity - SOPHIE Remix",
-      "url": "https://open.spotify.com/track/3fvl0xzlAeO52HpNUwtSsC"
-    },
-    {
-      "added_at": "2024-10-24 17:18:17",
-      "album": {
         "name": "Illusion Of Time",
         "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 207920,
       "name": "At First Sight",
       "url": "https://open.spotify.com/track/0kkV16AVMLlMt5tMYZEM2H"
+    },
+    {
+      "added_at": "2024-10-24 17:18:17",
+      "album": {
+        "name": "Animosity (SOPHIE Remix)",
+        "url": "https://open.spotify.com/album/6uAEMEeFuJV9n0U8RRcWUh"
+      },
+      "artists": [
+        {
+          "name": "Abyss X",
+          "url": "https://open.spotify.com/artist/51ndPH5vzgLHvceXP7Ij2l"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 486760,
+      "name": "Animosity - SOPHIE Remix",
+      "url": "https://open.spotify.com/track/3fvl0xzlAeO52HpNUwtSsC"
     },
     {
       "added_at": "2024-10-24 17:18:17",

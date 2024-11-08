@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296376,
+  "num_followers": 296383,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Let The Bad Times Roll",
-      "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Getting Away With Murder",
         "url": "https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 191372,
       "name": "Getting Away With Murder",
       "url": "https://open.spotify.com/track/40dHZ1HyySmu9FmTINRbqM"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Let The Bad Times Roll",
+      "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Too Quick to Forgive",
-        "url": "https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY"
-      },
-      "artists": [
-        {
-          "name": "Balance And Composure",
-          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
-        }
-      ],
-      "duration_ms": 261345,
-      "name": "Savior Mode",
-      "url": "https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "JOY",
         "url": "https://open.spotify.com/album/2a4MBOEXbXtV8UbrweOkDG"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy"
+        "name": "Too Quick to Forgive",
+        "url": "https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY"
       },
       "artists": [
         {
-          "name": "Money",
-          "url": "https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s"
+          "name": "Balance And Composure",
+          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
         }
       ],
-      "duration_ms": 207620,
-      "name": "Fuct",
-      "url": "https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF"
+      "duration_ms": 261345,
+      "name": "Savior Mode",
+      "url": "https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy"
+      },
+      "artists": [
+        {
+          "name": "Money",
+          "url": "https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s"
+        }
+      ],
+      "duration_ms": 207620,
+      "name": "Fuct",
+      "url": "https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
         "name": "Freak Show",
         "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
       },
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Someone's Gonna Die Tonight",
-        "url": "https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf"
-      },
-      "artists": [
-        {
-          "name": "Gin Wigmore",
-          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
-        }
-      ],
-      "duration_ms": 202169,
-      "name": "Someone's Gonna Die Tonight",
-      "url": "https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Got It Bad",
         "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 178804,
       "name": "Got It Bad",
       "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Someone's Gonna Die Tonight",
+        "url": "https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf"
+      },
+      "artists": [
+        {
+          "name": "Gin Wigmore",
+          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+        }
+      ],
+      "duration_ms": 202169,
+      "name": "Someone's Gonna Die Tonight",
+      "url": "https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "bad habit",
-        "url": "https://open.spotify.com/album/17nQCSv01Ka3wpBxp0tsUe"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 171120,
-      "name": "bad habit",
-      "url": "https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Pedals",
         "url": "https://open.spotify.com/album/65PIGYDdfNMbFwOBqUA7jO"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 209000,
       "name": "Wring It Out",
       "url": "https://open.spotify.com/track/0JCeVdVxPFsLrVj0En0R1D"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "bad habit",
+        "url": "https://open.spotify.com/album/17nQCSv01Ka3wpBxp0tsUe"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 171120,
+      "name": "bad habit",
+      "url": "https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/3dVeApQdGALyhPsRcAoC1s"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 172867,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/2qmX2TUphBTmXVHx8nbURD"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
         "name": "Jawbreaker",
         "url": "https://open.spotify.com/album/2WNj8Gr6pTbW3EVnPofLEd"
       },
@@ -1739,22 +1755,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/3dVeApQdGALyhPsRcAoC1s"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 172867,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/2qmX2TUphBTmXVHx8nbURD"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Breakfast For Pathetics",
         "url": "https://open.spotify.com/album/4cr6QE3fflOcnK8W1AWZYo"
       },
@@ -1828,9 +1828,9 @@
           "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
         }
       ],
-      "duration_ms": 212980,
-      "name": "Bruise The Sore",
-      "url": "https://open.spotify.com/track/1pOuGYBVi9BIzQHqIJXTHJ"
+      "duration_ms": 191543,
+      "name": "Ain't Hard To Tell",
+      "url": "https://open.spotify.com/track/1Oip40rPQ0RsFKL2zBdGMN"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Engage",
-        "url": "https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f"
-      },
-      "artists": [
-        {
-          "name": "Rain Check",
-          "url": "https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj"
-        }
-      ],
-      "duration_ms": 186374,
-      "name": "Engage",
-      "url": "https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 187482,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Engage",
+        "url": "https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f"
+      },
+      "artists": [
+        {
+          "name": "Rain Check",
+          "url": "https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj"
+        }
+      ],
+      "duration_ms": 186374,
+      "name": "Engage",
+      "url": "https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1899,18 +1899,18 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/31SK5RQ6OFzOjwZ5y58Zfv"
+        "name": "Melatonin (10mg)",
+        "url": "https://open.spotify.com/album/6YhWzBCmPGwn9Wg9yyJS2y"
       },
       "artists": [
         {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+          "name": "Kids Don't Float",
+          "url": "https://open.spotify.com/artist/7zkrumFBhmI2INqMP5tjNF"
         }
       ],
-      "duration_ms": 187750,
-      "name": "Try Better Next Time",
-      "url": "https://open.spotify.com/track/6CiRDtHptlmJuii4duyn2h"
+      "duration_ms": 119482,
+      "name": "Melatonin (10mg)",
+      "url": "https://open.spotify.com/track/3i9jPeo5xnb1dvcPFcSteS"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1924,25 +1924,25 @@
           "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
         }
       ],
-      "duration_ms": 191543,
-      "name": "Ain't Hard To Tell",
-      "url": "https://open.spotify.com/track/1Oip40rPQ0RsFKL2zBdGMN"
+      "duration_ms": 212980,
+      "name": "Bruise The Sore",
+      "url": "https://open.spotify.com/track/1pOuGYBVi9BIzQHqIJXTHJ"
     },
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Melatonin (10mg)",
-        "url": "https://open.spotify.com/album/6YhWzBCmPGwn9Wg9yyJS2y"
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/31SK5RQ6OFzOjwZ5y58Zfv"
       },
       "artists": [
         {
-          "name": "Kids Don't Float",
-          "url": "https://open.spotify.com/artist/7zkrumFBhmI2INqMP5tjNF"
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
         }
       ],
-      "duration_ms": 119482,
-      "name": "Melatonin (10mg)",
-      "url": "https://open.spotify.com/track/3i9jPeo5xnb1dvcPFcSteS"
+      "duration_ms": 187750,
+      "name": "Try Better Next Time",
+      "url": "https://open.spotify.com/track/6CiRDtHptlmJuii4duyn2h"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Right After I Smoke This...",
-        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
-      },
-      "artists": [
-        {
-          "name": "Webbed Wing",
-          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
-        }
-      ],
-      "duration_ms": 142760,
-      "name": "Medication",
-      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Hole",
         "url": "https://open.spotify.com/album/60mPQihGw1E84gfBo52vON"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 224838,
       "name": "Hole",
       "url": "https://open.spotify.com/track/6mJ1nbmQOm6iNClo71K5O6"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Right After I Smoke This...",
+        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
+      },
+      "artists": [
+        {
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
+        }
+      ],
+      "duration_ms": 142760,
+      "name": "Medication",
+      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Sunday / Medicine",
-        "url": "https://open.spotify.com/album/3vVBTMmnaRBkJacdaY1sl1"
-      },
-      "artists": [
-        {
-          "name": "Narrow Head",
-          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/0J2Xun0cRXE37bEzL9JQHB"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Coming Home (Deluxe)",
         "url": "https://open.spotify.com/album/31E9Vx9Il8LdlZsZYuhDVc"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 205813,
       "name": "Coming Home (feat. Patrick Miranda)",
       "url": "https://open.spotify.com/track/7rg2l98HzPTXC7yU7WeRix"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Sunday / Medicine",
+        "url": "https://open.spotify.com/album/3vVBTMmnaRBkJacdaY1sl1"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/0J2Xun0cRXE37bEzL9JQHB"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Queen",
-        "url": "https://open.spotify.com/album/3ZTodB8gVsIWAzYb6znSl7"
-      },
-      "artists": [
-        {
-          "name": "No Money Kids",
-          "url": "https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF"
-        }
-      ],
-      "duration_ms": 193770,
-      "name": "Queen",
-      "url": "https://open.spotify.com/track/6FoB7cNbQ28gsKhh24YI4I"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Static King",
         "url": "https://open.spotify.com/album/6Ff2MALnanTK465bO5rIsa"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 217600,
       "name": "Static King",
       "url": "https://open.spotify.com/track/30c7yitaxCPDer72DuJMpw"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/3ZTodB8gVsIWAzYb6znSl7"
+      },
+      "artists": [
+        {
+          "name": "No Money Kids",
+          "url": "https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF"
+        }
+      ],
+      "duration_ms": 193770,
+      "name": "Queen",
+      "url": "https://open.spotify.com/track/6FoB7cNbQ28gsKhh24YI4I"
     },
     {
       "added_at": "2024-11-04 09:28:20",

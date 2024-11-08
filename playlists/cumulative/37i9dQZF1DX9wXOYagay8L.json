@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/1RAmAUTyapevk2ViYBPcCM?si=0FgdfrUZRLmnQDyNC57oiw\">Naima Kay</a>",
+  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/1NxUAhBblIWiJcJOKw3am3?si=nt8xqm97R6-LWPMhIhuHUw\">Thabsie</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -2485,6 +2485,36 @@
     },
     {
       "album": {
+        "name": "Eyokuza (feat. Anele & Fokza Joat)",
+        "url": "https://open.spotify.com/album/7IRzQHSL5bjpymaptmkiVH"
+      },
+      "artists": [
+        {
+          "name": "Zakwethu",
+          "url": "https://open.spotify.com/artist/0ftrdf0KoMHqUtAOPNCshS"
+        },
+        {
+          "name": "Ayarhkay",
+          "url": "https://open.spotify.com/artist/1MD4g1fBpnN0xXpQiQt8pf"
+        },
+        {
+          "name": "Anele",
+          "url": "https://open.spotify.com/artist/1IuIWU8QHfaV0nqYRanJMx"
+        },
+        {
+          "name": "Fokza Joat",
+          "url": "https://open.spotify.com/artist/00t2fWgi4rJNq3xy3NcaDI"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211487,
+      "name": "Eyokuza (feat. Anele & Fokza Joat)",
+      "url": "https://open.spotify.com/track/5thG18z6SwdDWvYn86G7DI"
+    },
+    {
+      "album": {
         "name": "Ezangakini",
         "url": "https://open.spotify.com/album/1789VFrln5SlSS6XCxA06j"
       },
@@ -3404,7 +3434,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 408933,
       "name": "I Remember I Believe - Live - Melrose Arch Venue / 2024",
       "url": "https://open.spotify.com/track/3KPdnkkeeElIsrYWjAP3lx"
@@ -9478,6 +9508,24 @@
       "duration_ms": 214627,
       "name": "Samatsheketshe",
       "url": "https://open.spotify.com/track/4vNX5R4F7Z46K94XRpMgf4"
+    },
+    {
+      "album": {
+        "name": "Same Place",
+        "url": "https://open.spotify.com/album/5FuZk7vh5KVgXYKCNavfNa"
+      },
+      "artists": [
+        {
+          "name": "Thabsie",
+          "url": "https://open.spotify.com/artist/1NxUAhBblIWiJcJOKw3am3"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187457,
+      "name": "Same Place",
+      "url": "https://open.spotify.com/track/1gsyktCzmfmEqCZylx6CtC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-59 songs - 3 hr 8 min
+61 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Born Again \- Acoustic](https://open.spotify.com/track/1fQhMICbWZaN2yAwY4rPWE) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [To Be Honest \(TBH\) \(Acoustic\)](https://open.spotify.com/album/0gKuo74azjIiPGFgyNSRaR) | 2:26 | 2024-02-16 |  |
 | [Born in the Wild](https://open.spotify.com/track/6EKlFOGHGwp9S0xBAxOBRV) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:16 | 2024-06-06 |  |
 | [Contour \(Acoustic\)](https://open.spotify.com/track/26jU3i6046awcW6NAtqnqz) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour \(Acoustic\)](https://open.spotify.com/album/472q1Xw1TjH1tTZUOMzkTF) | 2:36 | 2024-02-16 |  |
-| [Deserve \- Acoustic](https://open.spotify.com/track/3TAXKzopgG2RjZTshSDqLT) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh), [Barbara Wangui](https://open.spotify.com/artist/1Q79hWCBC3dZSZmAcF5DrZ) | [Deserve \(Acoustic\)](https://open.spotify.com/album/5jy6d1Ird3zZGs5lgx48W5) | 2:57 | 2024-02-16 |  |
+| [Deserve \- Acoustic](https://open.spotify.com/track/3TAXKzopgG2RjZTshSDqLT) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh), [Barbara Wangui](https://open.spotify.com/artist/1Q79hWCBC3dZSZmAcF5DrZ) | [Deserve \(Acoustic\)](https://open.spotify.com/album/5jy6d1Ird3zZGs5lgx48W5) | 2:57 | 2024-02-16 | 2024-11-08 |
 | [Don't Keep Me Waiting Part II](https://open.spotify.com/track/2jT0uc1gDHcRHgSrQDCney) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape, Sorry 4 the Wait](https://open.spotify.com/album/4srQvUx3R9gvntOmXldBUI) | 3:13 | 2024-02-16 |  |
 | [Emiliana \- Acoustic](https://open.spotify.com/track/5o2eHgbRzQbeZKMFfgy1nn) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 3:19 | 2024-02-16 |  |
 | [Fine \- Acoustic](https://open.spotify.com/track/5XhnDZdU1oIrbbGR9p5zin) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [First Of All \(Acoustic\)](https://open.spotify.com/album/7C3XJPyTLi1edptS5bNE1x) | 4:09 | 2024-02-16 | 2024-10-04 |
@@ -42,6 +42,7 @@
 | [Look What You Made Me Do \(with Simi\) \- Acoustic](https://open.spotify.com/track/4P5lDKLKvsrVoxiXfR90KI) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Look What You Made Me Do \(Acoustic\)](https://open.spotify.com/album/3fpD30KH5gy3ytYXluMxrT) | 2:55 | 2024-02-16 |  |
 | [Love Ballad No.6](https://open.spotify.com/track/1tCzBDnOACQQxwM1YYKw3d) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Love Ballad No.6](https://open.spotify.com/album/2T2zu2SlQVmfzBGcgsV4qh) | 4:45 | 2024-10-03 |  |
 | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/track/22s7GSnCQ2DlIaeM3mR9Bt) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Love Notes](https://open.spotify.com/album/7yHniZiIQiLjnDFJ2bgMen) | 3:04 | 2024-02-16 |  |
+| [LOVE OR LAMBA \- Acoustic](https://open.spotify.com/track/0aNCTwjWBTmfwToKQOtFIW) | [Kobi Jonz](https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR) | [LOVE OR LAMBA \(Acoustic\)](https://open.spotify.com/album/2JEVnINzsISkaeOS050tUv) | 3:17 | 2024-11-07 |  |
 | [Love Riddim \- Acoustic](https://open.spotify.com/track/0AfMCPjNR3eNmgvSQUFkFz) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Unplugged Sessions](https://open.spotify.com/album/77ja6H1LpEba345VgBT9DO) | 3:10 | 2024-02-16 |  |
 | [Love Song \(Acoustic\)](https://open.spotify.com/track/4zrBLtNTCb5uja4KZGHBDt) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Happiness](https://open.spotify.com/album/5BVFDRZkkG8R3hgRdu5o3n) | 4:22 | 2024-02-16 |  |
 | [My kind Of Woman](https://open.spotify.com/track/5zG9GwLqHaA51EzVkbHxio) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [The Prince I Became](https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH) | 3:18 | 2024-02-16 |  |
@@ -61,7 +62,8 @@
 | [Sona \(feat\. Adekunle Gold\) \- Acoustic](https://open.spotify.com/track/5HsnGdAhYKo3r6Lyja1tq6) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [First Of All \(Acoustic\)](https://open.spotify.com/album/7C3XJPyTLi1edptS5bNE1x) | 2:33 | 2024-02-16 |  |
 | [THIS YEAR \(Blessings\) \- Acoustic Version](https://open.spotify.com/track/4dI7ki0nTidETF4FMik1r4) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 2:18 | 2024-02-16 |  |
 | [Time \(Acoustic Version\)](https://open.spotify.com/track/5D2vpzfDrxF2GXcnp0DQDL) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Time \(Acoustic Version\)](https://open.spotify.com/album/7CqpmpIw35kBWl2yU50txC) | 2:56 | 2024-02-16 |  |
-| [Tuwe Pamoja](https://open.spotify.com/track/0OWLsy79RwA9oU8HXOabwv) | [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Timestamp](https://open.spotify.com/album/76RvAWfB1SVkhh9mt7x8cJ) | 3:12 | 2024-05-16 |  |
+| [Tuwe Pamoja](https://open.spotify.com/track/0OWLsy79RwA9oU8HXOabwv) | [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Timestamp](https://open.spotify.com/album/76RvAWfB1SVkhh9mt7x8cJ) | 3:12 | 2024-05-16 | 2024-11-08 |
+| [uBhubesi](https://open.spotify.com/track/5lMPmfeVPO8JBrVZN3qERJ) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [uBhubesi](https://open.spotify.com/album/0RhEwNHQ4TI1iZnKLeNrjf) | 3:37 | 2024-11-07 |  |
 | [Waweza \- Acoustic](https://open.spotify.com/track/6AfPqQJSZVsNNsNXDBq0Fq) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT) | [City On A Hill](https://open.spotify.com/album/3DGmGgR6pEBaet5DnSRUtX) | 3:28 | 2024-02-16 | 2024-06-07 |
 | [Why \- Acoustic](https://open.spotify.com/track/0kucibR8w2hmkQQrebXYoI) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Why](https://open.spotify.com/album/1JR49izONyolUbhNKuEWxv) | 4:25 | 2024-02-16 |  |
 | [You \- Acoustic](https://open.spotify.com/track/3slo8zKU8F9mh8hOoKb4RR) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [You \(Acoustic\)](https://open.spotify.com/album/7n8AkKWLDDIcYeQcA3J2jD) | 3:18 | 2024-02-16 | 2024-09-27 |

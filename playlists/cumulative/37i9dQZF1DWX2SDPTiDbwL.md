@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-102 songs - 6 hr 47 min
+103 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Conke](https://open.spotify.com/track/2VCkGj73bDHaLYlfkizOSE) | [Dani de Morón](https://open.spotify.com/artist/5q5hdofWygpLCkmorAyttW) | [Creer Para Ver](https://open.spotify.com/album/2SB3XjWyiHtXwZPbnLbrwT) | 6:37 | 2023-09-01 |  |
 | [Corazón De Piedra](https://open.spotify.com/track/3odjYqGY9KdsTazd5fdwrt) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Corazón De Piedra](https://open.spotify.com/album/3jTZyRV27S9r7DpMd9WW69) | 2:18 | 2023-09-01 |  |
 | [Creer Para Ver](https://open.spotify.com/track/1Cnw5kktcV8DDqntsk8klG) | [Dani de Morón](https://open.spotify.com/artist/5q5hdofWygpLCkmorAyttW) | [Creer Para Ver](https://open.spotify.com/album/2SB3XjWyiHtXwZPbnLbrwT) | 5:57 | 2023-09-01 |  |
+| [Cuidad De Esperanza](https://open.spotify.com/track/1DaftASYoGjPZeBqLN6c7C) | [NomadsPlace](https://open.spotify.com/artist/29LPAexrNbALMSFdg58wvu) | [En Casa de Nuevo](https://open.spotify.com/album/2rJtYri3ZApxr7CvKBsBja) | 3:15 | 2024-11-07 |  |
 | [D'arie II](https://open.spotify.com/track/0nBQDNvdvzHI4axWCKqFgw) | [Ella Mikhailenko](https://open.spotify.com/artist/0ib7cieXiFElKhmVbFFzKy), [Jaume Compte](https://open.spotify.com/artist/3YYuXsiiVfHdsF6l209vCU) | [Tariq](https://open.spotify.com/album/1UZbvM45s6cZ0eeu3nLmk2) | 2:51 | 2023-09-01 | 2024-04-19 |
 | [D'arie II](https://open.spotify.com/track/3qpMDHurZmTZXz6cioYqdX) | [Ella Mikhailenko](https://open.spotify.com/artist/0ib7cieXiFElKhmVbFFzKy), [Jaume Compte](https://open.spotify.com/artist/3YYuXsiiVfHdsF6l209vCU) | [Tariq](https://open.spotify.com/album/40RV3GOzwZCOqVgQ8Fz8QY) | 2:51 | 2024-04-05 |  |
 | [Danza de la Luna Nueva](https://open.spotify.com/track/4nc2FlzwqTahLALHwLTziW) | [Saro Tribastone](https://open.spotify.com/artist/4eCn888f7lVBtW0aTgRtab) | [Fanusa](https://open.spotify.com/album/10PDcyCeLSjsNQGBAC9WI8) | 3:17 | 2024-04-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,963 likes - 159 songs - 8 hr 35 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,960 likes - 159 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 12 | [Open The Pit](https://open.spotify.com/track/1HComaUOXdl7jRuGB3KsVB) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Open The Pit](https://open.spotify.com/album/5wiAY7ul5fy4xdzfKq9BV6) | 3:46 |
 | 13 | [For Her \(Chemtrails\) \(feat\. Machinedrum\)](https://open.spotify.com/track/1YyIoXA7kggDVorrWCnyOt) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [Electric Honey \(Encore\)](https://open.spotify.com/album/1KKL3kUokquvCUJXP6AUWa) | 2:55 |
 | 14 | [Percolator \- Chris Lake Remix](https://open.spotify.com/track/058p8THgGRjrxMo3QQrIZg) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Percolator \(Chris Lake & Bontan Remixes\)](https://open.spotify.com/album/1IYBF4Hu5rdCbAZgikWs1I) | 3:19 |
-| 15 | [On My Knees](https://open.spotify.com/track/6amFqM5fXiXEdDrhV8CQtr) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [On My Knees](https://open.spotify.com/album/1VD5H2f6Es9KjaN0t3HLJo) | 4:10 |
+| 15 | [On My Knees](https://open.spotify.com/track/6amFqM5fXiXEdDrhV8CQtr) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [On My Knees](https://open.spotify.com/album/1VD5H2f6Es9KjaN0t3HLJo) | 3:41 |
 | 16 | [Autonomy](https://open.spotify.com/track/71yxI2J56U3sE4PnCbv2G7) | [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996) | [Autonomy](https://open.spotify.com/album/29Bm513T3poI1cb4zgju9N) | 3:52 |
 | 17 | [Good Time](https://open.spotify.com/track/6ZZHFLjVpsilHYyv3mLuVe) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO) | [Good Time](https://open.spotify.com/album/0YfKkkgpEUKpICb0H70acL) | 2:34 |
 | 18 | [Need I Say More](https://open.spotify.com/track/2UkRAahf0a1wvwxyfqbcLl) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Need I Say More](https://open.spotify.com/album/4s5r0xB87oOlLo9jEJ57vp) | 2:58 |

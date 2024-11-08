@@ -789,24 +789,24 @@
     },
     {
       "album": {
-        "name": "Lost in Your Eyes (Radio Edit) [feat. Norka]",
+        "name": "Lost in Your Eyes (Radio Edit)",
         "url": "https://open.spotify.com/album/6q13q5axUqE51wN1oB2GIq"
       },
       "artists": [
         {
-          "name": "Oscar Troya",
-          "url": "https://open.spotify.com/artist/1qEogEbQ167J79TjtdCFiq"
-        },
-        {
           "name": "Norka",
           "url": "https://open.spotify.com/artist/5xZ6US5f16cPzE8qMLjLf1"
+        },
+        {
+          "name": "Oscar Troya",
+          "url": "https://open.spotify.com/artist/1qEogEbQ167J79TjtdCFiq"
         }
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 257373,
-      "name": "Lost in Your Eyes (Radio Edit) [feat. Norka]",
+      "duration_ms": 257372,
+      "name": "Lost in Your Eyes (Radio Edit)",
       "url": "https://open.spotify.com/track/0nDsvBpOyXOYIs433CjmrP"
     },
     {

@@ -1,6 +1,6 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3050363,
+  "num_followers": 3050443,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
+        "name": "Mujer De Todos Mujer De Nadie",
+        "url": "https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "De Mi Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 168400,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
-        "name": "Mujer De Todos Mujer De Nadie",
-        "url": "https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK"
-      },
-      "artists": [
-        {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
-        }
-      ],
-      "duration_ms": 210440,
-      "name": "De Mi Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
+        "name": "Porque Te Vas",
+        "url": "https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy"
+      },
+      "artists": [
+        {
+          "name": "Jeanette",
+          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
+        }
+      ],
+      "duration_ms": 193133,
+      "name": "Soy rebelde",
+      "url": "https://open.spotify.com/track/1oaPnvUccVzyjsKFkuE7oA"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
         "name": "Selecao De Ouro Vol.2",
         "url": "https://open.spotify.com/album/7flgfjMt0hJLUjSm3ipdIX"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 279506,
       "name": "Y Te Vas",
       "url": "https://open.spotify.com/track/0AlxkpxyHszvNIuHxBHuDK"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
-        "name": "Porque Te Vas",
-        "url": "https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy"
-      },
-      "artists": [
-        {
-          "name": "Jeanette",
-          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
-        }
-      ],
-      "duration_ms": 193133,
-      "name": "Soy rebelde",
-      "url": "https://open.spotify.com/track/1oaPnvUccVzyjsKFkuE7oA"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Te Busco",
-      "url": "https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "La M\u00e1s Completa Colecci\u00f3n (CD1)",
         "url": "https://open.spotify.com/album/04YABmDMSBXSYQuFitSdUJ"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 218720,
       "name": "Tu Mu\u00f1eca",
       "url": "https://open.spotify.com/track/1sxwSsqFOhrmc1zl6iJyNn"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 249120,
+      "name": "Te Busco",
+      "url": "https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Cuba Classics 1: Silvio Rodriguez",
-        "url": "https://open.spotify.com/album/1sAt8XDVQbndid4MxNgTJD"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 351400,
-      "name": "La Maza",
-      "url": "https://open.spotify.com/track/2a1x7Ln27cNtsgtL26mdwi"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Un Angel",
         "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Antolog\u00eda",
-        "url": "https://open.spotify.com/album/5t6y82L4VR3GpAqPV6HWWx"
+        "name": "Cuba Classics 1: Silvio Rodriguez",
+        "url": "https://open.spotify.com/album/1sAt8XDVQbndid4MxNgTJD"
       },
       "artists": [
         {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
         }
       ],
-      "duration_ms": 208253,
-      "name": "Para Amarnos M\u00e1s",
-      "url": "https://open.spotify.com/track/55JKv6bv8vFE1X1rG4f0g9"
+      "duration_ms": 351400,
+      "name": "La Maza",
+      "url": "https://open.spotify.com/track/2a1x7Ln27cNtsgtL26mdwi"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1543,6 +1527,22 @@
       "duration_ms": 263320,
       "name": "D\u00e9jame Volver Contigo",
       "url": "https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Antolog\u00eda",
+        "url": "https://open.spotify.com/album/5t6y82L4VR3GpAqPV6HWWx"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 208253,
+      "name": "Para Amarnos M\u00e1s",
+      "url": "https://open.spotify.com/track/55JKv6bv8vFE1X1rG4f0g9"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Antologia (Volumen 2)",
-        "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
-      },
-      "artists": [
-        {
-          "name": "Nelson Ned",
-          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
-        }
-      ],
-      "duration_ms": 181906,
-      "name": "Dejenme Si Estoy Llorando",
-      "url": "https://open.spotify.com/track/2CrwFR9V6mAbDhVr3co4uT"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Amor Eterno",
         "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
       },
@@ -1607,6 +1591,38 @@
       "duration_ms": 408506,
       "name": "Amor Eterno",
       "url": "https://open.spotify.com/track/3K3wpXrbZYkXMxiA9QJwV1"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Lobo",
+        "url": "https://open.spotify.com/album/1dvU37IRV0mwL3uYn7CBgL"
+      },
+      "artists": [
+        {
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+        }
+      ],
+      "duration_ms": 186720,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/1wUQK1O1tL1UdFNw2j9Y34"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Antologia (Volumen 2)",
+        "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
+      },
+      "artists": [
+        {
+          "name": "Nelson Ned",
+          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
+        }
+      ],
+      "duration_ms": 181906,
+      "name": "Dejenme Si Estoy Llorando",
+      "url": "https://open.spotify.com/track/2CrwFR9V6mAbDhVr3co4uT"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Lobo",
-        "url": "https://open.spotify.com/album/1dvU37IRV0mwL3uYn7CBgL"
-      },
-      "artists": [
-        {
-          "name": "Dulce",
-          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
-        }
-      ],
-      "duration_ms": 186720,
-      "name": "Lobo",
-      "url": "https://open.spotify.com/track/1wUQK1O1tL1UdFNw2j9Y34"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "15 Exitos Originales Con Rocio Jurado",
         "url": "https://open.spotify.com/album/2uQ2R6i42oi4qVF4JUxlMf"
       },
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Marinero De Luces",
-        "url": "https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w"
-      },
-      "artists": [
-        {
-          "name": "Isabel Pantoja",
-          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Marinero de Luces",
-      "url": "https://open.spotify.com/track/24UBqV1xJwNUns7nJVIbDu"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Mi tributo a Juan Gabriel",
         "url": "https://open.spotify.com/album/4sCg0lGKCsg6qGbNm5X8q3"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 225533,
       "name": "\u00bfC\u00f3mo, cu\u00e1ndo y porqu\u00e9 - Why Do I Love You So",
       "url": "https://open.spotify.com/track/7x9Ow1z9x7rFwnfiNsPqx5"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Marinero De Luces",
+        "url": "https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Marinero de Luces",
+      "url": "https://open.spotify.com/track/24UBqV1xJwNUns7nJVIbDu"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1759,38 +1759,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 252666,
-      "name": "Un Ramito de Violetas",
-      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
-        "name": "Serie 3X4 (Yuri, Pandora, Daniela Roma)",
-        "url": "https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "C\u00f3mo Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/5kOaV8C3Fyts7Hreae1Lrn"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "My Life: The Greatest Hits",
         "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
       },
@@ -1803,6 +1771,22 @@
       "duration_ms": 180600,
       "name": "Soy un Truh\u00e1n, Soy un Se\u00f1or",
       "url": "https://open.spotify.com/track/07nrFSbS6ht0jMNpTpMfsg"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Un Ramito de Violetas",
+      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1823,6 +1807,22 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
+        "name": "Serie 3X4 (Yuri, Pandora, Daniela Roma)",
+        "url": "https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "C\u00f3mo Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/5kOaV8C3Fyts7Hreae1Lrn"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
         "name": "Con el Paso del Tiempo",
         "url": "https://open.spotify.com/album/3rCxaZwnmmWYhEx0QffUbx"
       },
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Marinero De Luces",
-        "url": "https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w"
-      },
-      "artists": [
-        {
-          "name": "Isabel Pantoja",
-          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "Hoy Quiero Confesarme",
-      "url": "https://open.spotify.com/track/5wI6PpGIGw25jewhrbnxWG"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Si Yo Fuera El...",
         "url": "https://open.spotify.com/album/329Lx0XCFTFb57GUvRXeu7"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 226893,
       "name": "El primer beso",
       "url": "https://open.spotify.com/track/017rrPyzoyI9ALuFW3Eh1t"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Marinero De Luces",
+        "url": "https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "Hoy Quiero Confesarme",
+      "url": "https://open.spotify.com/track/5wI6PpGIGw25jewhrbnxWG"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Solo Una Mujer",
-        "url": "https://open.spotify.com/album/2g9dQlpIYrdpe1Q6NigI5Q"
-      },
-      "artists": [
-        {
-          "name": "Luc\u00eda M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Coraz\u00f3n de Piedra",
-      "url": "https://open.spotify.com/track/4eyKVFrTZmRdGU3bNYiC6f"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Yo Mismo",
         "url": "https://open.spotify.com/album/29DAJADvZkzgHfYTPpZijS"
       },
@@ -2015,18 +1999,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Baladas De Amor",
-        "url": "https://open.spotify.com/album/3UAIOag0j4RpnVWBJzmw0h"
+        "name": "Solo Una Mujer",
+        "url": "https://open.spotify.com/album/2g9dQlpIYrdpe1Q6NigI5Q"
       },
       "artists": [
         {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+          "name": "Luc\u00eda M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
         }
       ],
-      "duration_ms": 222560,
-      "name": "Ella...Ella Ya Me Olvid\u00f3, Yo la Recuerdo Ahora",
-      "url": "https://open.spotify.com/track/5xTgIHN7yEmuOjsC1toYJq"
+      "duration_ms": 176973,
+      "name": "Coraz\u00f3n de Piedra",
+      "url": "https://open.spotify.com/track/4eyKVFrTZmRdGU3bNYiC6f"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2043,6 +2027,22 @@
       "duration_ms": 213680,
       "name": "Heridas",
       "url": "https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Baladas De Amor",
+        "url": "https://open.spotify.com/album/3UAIOag0j4RpnVWBJzmw0h"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "Ella...Ella Ya Me Olvid\u00f3, Yo la Recuerdo Ahora",
+      "url": "https://open.spotify.com/track/5xTgIHN7yEmuOjsC1toYJq"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2107,22 +2107,6 @@
       "duration_ms": 162626,
       "name": "Vuelvo A vivir, Vuelvo A Cantar",
       "url": "https://open.spotify.com/track/7vnQd31ZtmPkw4nWsHiFCz"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
-        "name": "Baladas De Amor",
-        "url": "https://open.spotify.com/album/3UAIOag0j4RpnVWBJzmw0h"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
-        }
-      ],
-      "duration_ms": 173480,
-      "name": "Fuiste M\u00eda un Verano",
-      "url": "https://open.spotify.com/track/4kCx4BO3f4tjMjIyv8ko6G"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2203,6 +2187,22 @@
       "duration_ms": 210706,
       "name": "Te Amar\u00e9",
       "url": "https://open.spotify.com/track/1GE253J05v6oCUmuav7zq2"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Baladas De Amor",
+        "url": "https://open.spotify.com/album/3UAIOag0j4RpnVWBJzmw0h"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+        }
+      ],
+      "duration_ms": 173480,
+      "name": "Fuiste M\u00eda un Verano",
+      "url": "https://open.spotify.com/track/4kCx4BO3f4tjMjIyv8ko6G"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2319,6 +2319,22 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
+        "name": "Esencial Miguel Bose",
+        "url": "https://open.spotify.com/album/2MuIm0obXc6k9nbVg6mlsK"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 248800,
+      "name": "Morir de Amor",
+      "url": "https://open.spotify.com/track/2gnqQL64mbsTnrxYXjjCsK"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
         "name": "20 Exitos Originales",
         "url": "https://open.spotify.com/album/7K29PoNitWdhxYhOTOHa35"
       },
@@ -2355,18 +2371,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Esencial Miguel Bose",
-        "url": "https://open.spotify.com/album/2MuIm0obXc6k9nbVg6mlsK"
+        "name": "Lila Deneken......Por Cobard\u00eda",
+        "url": "https://open.spotify.com/album/796ID4GjmeQOqVXWVt31TN"
       },
       "artists": [
         {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+          "name": "Lila Deneken",
+          "url": "https://open.spotify.com/artist/1ztsMJLgY2ISoHlSApijCG"
         }
       ],
-      "duration_ms": 248800,
-      "name": "Morir de Amor",
-      "url": "https://open.spotify.com/track/2gnqQL64mbsTnrxYXjjCsK"
+      "duration_ms": 284440,
+      "name": "Por Cobard\u00eda",
+      "url": "https://open.spotify.com/track/2mpbYpv7RaP3nFT7PsLev0"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2383,22 +2399,6 @@
       "duration_ms": 162186,
       "name": "El \u00faltimo beso - The Last Kiss",
       "url": "https://open.spotify.com/track/0XrGUM48yLYhS13v4NsGuj"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
-        "name": "Lila Deneken......Por Cobard\u00eda",
-        "url": "https://open.spotify.com/album/796ID4GjmeQOqVXWVt31TN"
-      },
-      "artists": [
-        {
-          "name": "Lila Deneken",
-          "url": "https://open.spotify.com/artist/1ztsMJLgY2ISoHlSApijCG"
-        }
-      ],
-      "duration_ms": 284440,
-      "name": "Por Cobard\u00eda",
-      "url": "https://open.spotify.com/track/2mpbYpv7RaP3nFT7PsLev0"
     },
     {
       "added_at": "2024-06-04 19:16:04",

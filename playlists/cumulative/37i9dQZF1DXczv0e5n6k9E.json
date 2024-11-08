@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Tsaki",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Mad Clip, Billy Sio",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 153750,
       "name": "4U",
       "url": "https://open.spotify.com/track/6Wq97Q9kQ8pioRtYQYfcNQ"
@@ -134,6 +134,32 @@
       "duration_ms": 121481,
       "name": "AEGEAN",
       "url": "https://open.spotify.com/track/1JDmUtfFSqh2KQQPPQiiKK"
+    },
+    {
+      "album": {
+        "name": "Aggelos Sti Gi",
+        "url": "https://open.spotify.com/album/23ozNzbhjBuuWTyisaxkgP"
+      },
+      "artists": [
+        {
+          "name": "Lava",
+          "url": "https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O"
+        },
+        {
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+        },
+        {
+          "name": "Paris Kalpos",
+          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163252,
+      "name": "Aggelos Sti Gi",
+      "url": "https://open.spotify.com/track/1DCCtsrcogyKEW567delN1"
     },
     {
       "album": {
@@ -573,6 +599,28 @@
     },
     {
       "album": {
+        "name": "BLACK MAGIC",
+        "url": "https://open.spotify.com/album/6c4fGGsgvibrkRswMaBuhu"
+      },
+      "artists": [
+        {
+          "name": "Venom",
+          "url": "https://open.spotify.com/artist/6CdAVuqNOSOZ9KsZXMZwFr"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152504,
+      "name": "BLACK MAGIC",
+      "url": "https://open.spotify.com/track/4zBOoOyPER0pGpfH6GwTzb"
+    },
+    {
+      "album": {
         "name": "TOPBOY 2",
         "url": "https://open.spotify.com/album/1vAde1dIOlmEuT2UqK2EyK"
       },
@@ -794,6 +842,32 @@
       "duration_ms": 151875,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/3tCqzvc2ta86sjHBDWzQsj"
+    },
+    {
+      "album": {
+        "name": "COLOMBIA",
+        "url": "https://open.spotify.com/album/3hrbYM55QkhBCIRLYR66Nl"
+      },
+      "artists": [
+        {
+          "name": "GAB",
+          "url": "https://open.spotify.com/artist/0LuYYFDRJd3PNTh1k4nFRN"
+        },
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        },
+        {
+          "name": "XRS",
+          "url": "https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196269,
+      "name": "COLOMBIA",
+      "url": "https://open.spotify.com/track/3hJKLXQm0js0n0Iym1xbcf"
     },
     {
       "album": {
@@ -1125,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "Dromologia",
+        "url": "https://open.spotify.com/album/2WGjTURDR7QaMdbhOemVxq"
+      },
+      "artists": [
+        {
+          "name": "HGEMONA$",
+          "url": "https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134959,
+      "name": "Dromologia",
+      "url": "https://open.spotify.com/track/4cVAtNCerpw4Q0sKR1AEtQ"
+    },
+    {
+      "album": {
         "name": "Metal Slang",
         "url": "https://open.spotify.com/album/4bmNVze4PROPrLse71bcjd"
       },
@@ -1332,6 +1424,28 @@
       "duration_ms": 153560,
       "name": "FANTA",
       "url": "https://open.spotify.com/track/6wx0UEozv6e3X16awO0BCS"
+    },
+    {
+      "album": {
+        "name": "Fernw Trap",
+        "url": "https://open.spotify.com/album/1QOASIAga97R98RB7aHM6r"
+      },
+      "artists": [
+        {
+          "name": "Mad Clip",
+          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
+        },
+        {
+          "name": "Billy Sio",
+          "url": "https://open.spotify.com/artist/29Bl0nvClztM0dpgY2vvcc"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214070,
+      "name": "Fernw Trap",
+      "url": "https://open.spotify.com/track/3fQpve3m3CpcRwRDUymqs0"
     },
     {
       "album": {
@@ -1668,7 +1782,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 207719,
       "name": "Grace Kelly",
       "url": "https://open.spotify.com/track/5tBpNcPoCTHYVVfOK2ZgAb"
@@ -2048,7 +2162,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 188688,
       "name": "Ke Ti Den Tha Dina",
       "url": "https://open.spotify.com/track/63BVcYK5badAGfZoUJarvK"
@@ -2140,7 +2254,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 138352,
       "name": "KRIMI 2",
       "url": "https://open.spotify.com/track/0NMilOjQW10H4gykCfrwfP"
@@ -2372,7 +2486,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 167242,
       "name": "LORA",
       "url": "https://open.spotify.com/track/2rlkf3HTKwY9UcbvhlUyiW"
@@ -2715,6 +2829,24 @@
     },
     {
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5Eh5jdzi5cXuiOOUpa43SG"
+      },
+      "artists": [
+        {
+          "name": "EPITHE",
+          "url": "https://open.spotify.com/artist/3KMRPwBUMocndx02a5QPRx"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/71miVcAEDAVBM4T0N0feTR"
+    },
+    {
+      "album": {
         "name": "Menei",
         "url": "https://open.spotify.com/album/5IVGU8Gz6jhRG5UBOTB2DV"
       },
@@ -2734,6 +2866,28 @@
       "duration_ms": 117777,
       "name": "Menei",
       "url": "https://open.spotify.com/track/6mxWs2iE5YJwO3B3I520HJ"
+    },
+    {
+      "album": {
+        "name": "Mesanyxta",
+        "url": "https://open.spotify.com/album/1cn6aLJqqHF4jZtLwOsTR6"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "Marseaux",
+          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182376,
+      "name": "Mesanyxta",
+      "url": "https://open.spotify.com/track/7k1NpTv7vNWaZbIU3UxGol"
     },
     {
       "album": {
@@ -2876,7 +3030,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 147840,
       "name": "NO COMPETITION",
       "url": "https://open.spotify.com/track/4eVLHEcnNHs8F21hmF3Smq"
@@ -2920,7 +3074,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 159000,
       "name": "O Thrasis",
       "url": "https://open.spotify.com/track/5HH5Qt2k9OVaQF6On6t4pf"
@@ -4248,6 +4402,28 @@
       "duration_ms": 195398,
       "name": "Verano",
       "url": "https://open.spotify.com/track/1iyeUhzobrowCtTwKf4BrY"
+    },
+    {
+      "album": {
+        "name": "VLEMMA",
+        "url": "https://open.spotify.com/album/7JQtiXFRV1UvS21AIPkOf4"
+      },
+      "artists": [
+        {
+          "name": "Lobo",
+          "url": "https://open.spotify.com/artist/2bI0N9ztQb3L6e9DIMdMuC"
+        },
+        {
+          "name": "Giorgos Orfanidis",
+          "url": "https://open.spotify.com/artist/6V6g5uJVLdrOUO9LLqMawh"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185934,
+      "name": "VLEMMA",
+      "url": "https://open.spotify.com/track/4s2AgjptNpVUl7xwj5yVKI"
     },
     {
       "album": {

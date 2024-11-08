@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: \u6851\u5c3c (SONNIE)",
+  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: \u9748\u9b42\u6c99\u767c (SoulFa)",
   "name": "\u7d44\u5718\u98c6\u6b4c",
   "tracks": [
     {
@@ -314,7 +314,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 182537,
       "name": "Fear - Mong Tong Remix",
       "url": "https://open.spotify.com/track/4amEFQlOmB3cJwy0CEhX5Q"
@@ -814,7 +814,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 180952,
       "name": "PA!ZUA",
       "url": "https://open.spotify.com/track/5OJ68cKJww3aMcvOdV5HME"
@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "ZOGANG",
+        "url": "https://open.spotify.com/album/1xxPBCQhLAPZO79Dnr2d40"
+      },
+      "artists": [
+        {
+          "name": "3P",
+          "url": "https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190001,
+      "name": "ZOGANG",
+      "url": "https://open.spotify.com/track/704UXFSCtUwpZYUIAj4bQT"
+    },
+    {
+      "album": {
         "name": "Diary",
         "url": "https://open.spotify.com/album/6leY9wlIyovc9h5EpXcULk"
       },
@@ -1767,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "\u5149",
+        "url": "https://open.spotify.com/album/36ILWiZpRS5KSaXNkpl3fj"
+      },
+      "artists": [
+        {
+          "name": "\u6372\u6372\u6fa1\u5802 Soul Bath",
+          "url": "https://open.spotify.com/artist/22MLKWCiyDJoKDzOq9gYOJ"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280600,
+      "name": "\u5149",
+      "url": "https://open.spotify.com/track/16Jwl6WRsN8xvjVz9Tnw7L"
+    },
+    {
+      "album": {
         "name": "\u6211\u5176\u5be6\u4e00\u9ede\u90fd\u4e0d\u9177",
         "url": "https://open.spotify.com/album/5nu65vQRCMjyc47yNLfFKa"
       },
@@ -1952,7 +1988,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 236234,
       "name": "\u5348\u591c\u7336\u660e",
       "url": "https://open.spotify.com/track/0oQeQPp8UpbjKxQDE3Mjlp"
@@ -2432,7 +2468,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 350509,
       "name": "\u5c31\u8aaa\u4f60\u60f3\u8aaa\u7684 (\u96fb\u5f71\u300a\u70ba\u6211\u8fa6\u4e00\u5834\u897f\u5f0f\u7684\u55aa\u79ae\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/1b5dVCDgYYrf61U1Ff0tmC"
@@ -2584,7 +2620,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 199424,
       "name": "\u5ee2\u7269",
       "url": "https://open.spotify.com/track/4CETShdEthAPdakDtDCctk"
@@ -2606,6 +2642,24 @@
       "duration_ms": 150313,
       "name": "\u5f71\u5b50\u7684\u5149",
       "url": "https://open.spotify.com/track/32qlAuHFqv3tDfuuvg4g9F"
+    },
+    {
+      "album": {
+        "name": "\u5f9e\u672a\u898b\u904e\u7684\u6d77",
+        "url": "https://open.spotify.com/album/5e28mgD5TjknzurCXeQU7X"
+      },
+      "artists": [
+        {
+          "name": "\u544a\u4e94\u4eba",
+          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301826,
+      "name": "\u5f9e\u672a\u898b\u904e\u7684\u6d77 (Netflix \u5f71\u96c6\u300a\u5f71\u540e\u300b\u5e8f\u66f2)",
+      "url": "https://open.spotify.com/track/3agPPRZPNOhbCwm2026EN6"
     },
     {
       "album": {
@@ -2638,7 +2692,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 262114,
       "name": "\u5fd8\u4e86\u628a\u5947\u8e5f\u5e36\u4f86",
       "url": "https://open.spotify.com/track/39wwpROjfg2jdKonvPTjmq"
@@ -2682,6 +2736,24 @@
       "duration_ms": 220494,
       "name": "\u602a\u7269",
       "url": "https://open.spotify.com/track/1uhrzbgxXLf8m2AKiWHFF1"
+    },
+    {
+      "album": {
+        "name": "\u60b2\u5287\u5927\u5e2b",
+        "url": "https://open.spotify.com/album/5W59ZjnykFi2CrdoB0urDZ"
+      },
+      "artists": [
+        {
+          "name": "\u98e2\u9913\u85dd\u8853\u5bb6",
+          "url": "https://open.spotify.com/artist/3igxgiKF6jv1STDAIeoSMV"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "\u60b2\u5287\u5927\u5e2b",
+      "url": "https://open.spotify.com/track/5pdF721luS2ffNCWG8IYUm"
     },
     {
       "album": {
@@ -3258,7 +3330,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 187250,
       "name": "\u6708\u5149\u592a\u6eab\u67d4",
       "url": "https://open.spotify.com/track/10bRM8r3J6EkT9U5kEotPm"
@@ -3316,6 +3388,42 @@
       "duration_ms": 248000,
       "name": "\u6709\u5565\u4eba\u77e5",
       "url": "https://open.spotify.com/track/6CIx3PLuHXOL38nXHKpF6P"
+    },
+    {
+      "album": {
+        "name": "\u6709\u591a\u611b",
+        "url": "https://open.spotify.com/album/4upSALU7vX0xIZXOhIzoGT"
+      },
+      "artists": [
+        {
+          "name": "FEniX",
+          "url": "https://open.spotify.com/artist/1sPms9e6GbCtTddGRsT4Fz"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178942,
+      "name": "\u6709\u591a\u611b",
+      "url": "https://open.spotify.com/track/0KtpRS0c2GPQmb46oLG8UC"
+    },
+    {
+      "album": {
+        "name": "\u6709\u59b3\u7684\u5730\u65b9",
+        "url": "https://open.spotify.com/album/3XmIJMKHNPHXYn43VgmYtj"
+      },
+      "artists": [
+        {
+          "name": "Homeless Scholars",
+          "url": "https://open.spotify.com/artist/5rirdMf17gTWSFQI8koNSA"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195681,
+      "name": "\u6709\u59b3\u7684\u5730\u65b9",
+      "url": "https://open.spotify.com/track/6d0emVSfrKmezZWF4vZ95h"
     },
     {
       "album": {
@@ -3613,6 +3721,24 @@
     },
     {
       "album": {
+        "name": "\u6c92\u6709\u5c0d\u4e0d\u5c0d",
+        "url": "https://open.spotify.com/album/61P9Wmicg80VxrvCNOIFvz"
+      },
+      "artists": [
+        {
+          "name": "The Cold Cut Duo",
+          "url": "https://open.spotify.com/artist/2DTsDKcc0bncHTxrr2WgiW"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183743,
+      "name": "\u6c92\u6709\u5c0d\u4e0d\u5c0d",
+      "url": "https://open.spotify.com/track/4rvgzOOjLVsPpU0LkO9vQf"
+    },
+    {
+      "album": {
         "name": "\u4ed9\u6e56",
         "url": "https://open.spotify.com/album/7p56xljYONLyXIN9H3vP7P"
       },
@@ -3732,7 +3858,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 230725,
       "name": "\u6f02\u6d6e\u5230",
       "url": "https://open.spotify.com/track/2tEat0o8grx2D736tA0nXa"
@@ -4247,6 +4373,24 @@
     },
     {
       "album": {
+        "name": "\u82b1\u5b63",
+        "url": "https://open.spotify.com/album/1LurLgBPoD45Myy5ml3vnn"
+      },
+      "artists": [
+        {
+          "name": "Who Cares \u80e1\u51f1\u5152",
+          "url": "https://open.spotify.com/artist/0AiFba38vwZy2L1SJGX4mW"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251624,
+      "name": "\u82b1\u5b63",
+      "url": "https://open.spotify.com/track/4meqN8UgbPZsauQRBDMqtD"
+    },
+    {
+      "album": {
         "name": "\u842c\u4e8b\u7f8e\u5999",
         "url": "https://open.spotify.com/album/5aA6tjSwLiGMWDPNx1PB9P"
       },
@@ -4435,6 +4579,24 @@
     },
     {
       "album": {
+        "name": "\u8eba\u5728\u5e8a\u4e0a",
+        "url": "https://open.spotify.com/album/4gtYvHdvoqY9OdOCtAXqjl"
+      },
+      "artists": [
+        {
+          "name": "SoulFa \u9748\u9b42\u6c99\u767c",
+          "url": "https://open.spotify.com/artist/2eJX9VONHesNkNhdVKuBTY"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284614,
+      "name": "\u8eba\u5728\u5e8a\u4e0a",
+      "url": "https://open.spotify.com/track/15UOXGkb13ZiqgjwKFqzHf"
+    },
+    {
+      "album": {
         "name": "\u8f09\u6211\u53bb\u4e0b\u661f\u671f\u4e94\u7684\u665a\u4e0a",
         "url": "https://open.spotify.com/album/0GakGg7xEBpwYja8N0WWhq"
       },
@@ -4450,7 +4612,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 226071,
       "name": "\u8f09\u6211\u53bb\u4e0b\u661f\u671f\u4e94\u7684\u665a\u4e0a",
       "url": "https://open.spotify.com/track/7FfLaPfMpPHiMRvKYcxwVZ"
@@ -4490,7 +4652,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 155999,
       "name": "\u8ff7\u5931\u7684\u8fb9\u754cLost Borders",
       "url": "https://open.spotify.com/track/6nHRNnye3jfb7KpCKBeBvq"
@@ -4526,7 +4688,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 254222,
       "name": "\u9001\u4f60\u5230\u5929\u6daf\u6d77\u89d2",
       "url": "https://open.spotify.com/track/5LofaKZaUhmkhbK5ouw7jQ"

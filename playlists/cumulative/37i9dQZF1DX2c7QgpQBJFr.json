@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gli astri nascenti del pop italiano \ud83d\udd2e Cover: Olly e Angelina Mango",
-  "name": "Caleido",
+  "description": "Gli astri nascenti del pop italiano \ud83d\udd2e Cover: Alfa",
+  "name": "nuovo pop \ud83c\uddee\ud83c\uddf9",
   "tracks": [
     {
       "album": {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 165057,
       "name": "ancora",
       "url": "https://open.spotify.com/track/31FieNBJupbKsWKW76SM9t"
@@ -799,6 +799,24 @@
     },
     {
       "album": {
+        "name": "Clerks",
+        "url": "https://open.spotify.com/album/65B0Wq250ieEW77pST8s2F"
+      },
+      "artists": [
+        {
+          "name": "Yasmina",
+          "url": "https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Clerks",
+      "url": "https://open.spotify.com/track/0Y37dZop210Tjb3yGXHJsy"
+    },
+    {
+      "album": {
         "name": "YACHT CLUB",
         "url": "https://open.spotify.com/album/7bpzUkc1uU93zlxRcloH41"
       },
@@ -868,7 +886,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 154552,
       "name": "Come Stai?",
       "url": "https://open.spotify.com/track/3HI7uWeBPv4ahPhoAMSjvs"
@@ -904,7 +922,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 190296,
       "name": "Confine",
       "url": "https://open.spotify.com/track/5sTNaylsQ7im9ixODCJ3GD"
@@ -970,7 +988,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 184941,
       "name": "croci (feat. Sally Cruz)",
       "url": "https://open.spotify.com/track/2jtoS2ttdOSeoLkweOhhkY"
@@ -1713,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "il filo rosso",
+        "url": "https://open.spotify.com/album/745x0ghuwicXeSTvOM4RX2"
+      },
+      "artists": [
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187403,
+      "name": "il filo rosso",
+      "url": "https://open.spotify.com/track/2403gCM2RluhMgBc9TSwp7"
+    },
+    {
+      "album": {
         "name": "il mio miglior nemico",
         "url": "https://open.spotify.com/album/6NdAEcBSIq2p6QMGisSCCZ"
       },
@@ -2254,7 +2290,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 138250,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/1zqsDZkYSW3uDNZ2IUajCr"
@@ -3371,6 +3407,28 @@
     },
     {
       "album": {
+        "name": "POLIGONO",
+        "url": "https://open.spotify.com/album/2BaVoNq0nqYlogPJ6qTaPI"
+      },
+      "artists": [
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137055,
+      "name": "POLIGONO",
+      "url": "https://open.spotify.com/track/26DVj8eE9JXAEezr4FX1FS"
+    },
+    {
+      "album": {
         "name": "Popstar",
         "url": "https://open.spotify.com/album/1uxauVQqGlDlwrhO3PwYEb"
       },
@@ -3552,7 +3610,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 151800,
       "name": "REQUIEM",
       "url": "https://open.spotify.com/track/329qNAEH6BYfCFC62j158Z"
@@ -3628,7 +3686,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 169148,
       "name": "Ros\u00e9 Gold",
       "url": "https://open.spotify.com/track/7kXoxdK0EHw10Q3T3ol37N"
@@ -4360,7 +4418,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 206909,
       "name": "Tonica",
       "url": "https://open.spotify.com/track/7qyFfd7nS0r6Zz3Sv2VcR1"
@@ -4385,6 +4443,24 @@
     },
     {
       "album": {
+        "name": "Tribale",
+        "url": "https://open.spotify.com/album/6cVecPpW14mhrqD8YywRRL"
+      },
+      "artists": [
+        {
+          "name": "DEN",
+          "url": "https://open.spotify.com/artist/3oWSB5GjD00qyMzxQLRkNs"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164139,
+      "name": "Tribale",
+      "url": "https://open.spotify.com/track/2tbNCOfkHmKhCoz8WuqBBO"
+    },
+    {
+      "album": {
         "name": "Tutta La Notte",
         "url": "https://open.spotify.com/album/4b9cgMhiyPQ52e7TVXriKg"
       },
@@ -4396,7 +4472,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 192786,
       "name": "Tutta La Notte",
       "url": "https://open.spotify.com/track/1UR2aaZOrbtIo9p5neDFPV"

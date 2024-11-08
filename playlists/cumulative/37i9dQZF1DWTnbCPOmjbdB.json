@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Diiya",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Pan Savyan, Julia Kami\u0144ska",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -82,6 +82,24 @@
       "duration_ms": 169600,
       "name": "5 milion\u00f3w influencerek",
       "url": "https://open.spotify.com/track/5iQbpxi3Oquf2ELA6vIFur"
+    },
+    {
+      "album": {
+        "name": "Alarm",
+        "url": "https://open.spotify.com/album/2oPJxYoXwTkirLqLrhk61k"
+      },
+      "artists": [
+        {
+          "name": "Honorata Skarbek",
+          "url": "https://open.spotify.com/artist/05Fgqq7GfWeNol1TR5H3og"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Alarm",
+      "url": "https://open.spotify.com/track/0X4jYl5ckZ7BR8243WUBL0"
     },
     {
       "album": {
@@ -248,7 +266,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 270329,
       "name": "Bez kontaktu",
       "url": "https://open.spotify.com/track/0cXARNiffujbAjlJ6K2zER"
@@ -1032,7 +1050,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 206294,
       "name": "Drzwi - single version",
       "url": "https://open.spotify.com/track/1GMs0GRw8lXdH3Zg5Qwpco"
@@ -1254,6 +1272,42 @@
       "duration_ms": 175562,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/4aoM7nMiTlGTO6yJ1WUqfB"
+    },
+    {
+      "album": {
+        "name": "Gada\u0107 albo milcze\u0107",
+        "url": "https://open.spotify.com/album/6IZBWIMJxXW3fwMbOJYAIZ"
+      },
+      "artists": [
+        {
+          "name": "Wilhelm",
+          "url": "https://open.spotify.com/artist/7jxBlr52pdoKTrrjehTunc"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "Gada\u0107 albo milcze\u0107",
+      "url": "https://open.spotify.com/track/2AtHnPQ1SoNmwTe8Ag4n8J"
+    },
+    {
+      "album": {
+        "name": "GOTIK LOLITA",
+        "url": "https://open.spotify.com/album/6C1ICbqY31hSwmGuug4Uou"
+      },
+      "artists": [
+        {
+          "name": "Mery Spolsky",
+          "url": "https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183880,
+      "name": "GOTIK LOLITA",
+      "url": "https://open.spotify.com/track/0Xxgk9nnMhIFu5zwm6XPRW"
     },
     {
       "album": {
@@ -1680,7 +1734,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 134579,
       "name": "KRYMINA\u0141",
       "url": "https://open.spotify.com/track/4CupO50phnd0GQWq7yP6qq"
@@ -2485,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "NASZ WSP\u00d3LNY \u015aWIAT",
+        "url": "https://open.spotify.com/album/0KMvGUZFed22koh2OmaDjF"
+      },
+      "artists": [
+        {
+          "name": "Justyna Steczkowska",
+          "url": "https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186296,
+      "name": "NASZ WSP\u00d3LNY \u015aWIAT",
+      "url": "https://open.spotify.com/track/03i0uVAVwtZRAON6O3F2KH"
+    },
+    {
+      "album": {
         "name": "Nasze \u015awi\u0119to",
         "url": "https://open.spotify.com/album/2E62T54J5L1oWosbl6XfOV"
       },
@@ -2594,6 +2666,24 @@
       "duration_ms": 149508,
       "name": "Nie ma Ci\u0119 tu",
       "url": "https://open.spotify.com/track/7gNGlEQQQQMlBILu3BhRuA"
+    },
+    {
+      "album": {
+        "name": "Nie ma szans",
+        "url": "https://open.spotify.com/album/25z8nfDQDGLKwSbJGOBUHB"
+      },
+      "artists": [
+        {
+          "name": "Ochman",
+          "url": "https://open.spotify.com/artist/45YERUZVQOedUFX24vFcvc"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201867,
+      "name": "Nie ma szans",
+      "url": "https://open.spotify.com/track/1kbeIj2yJYWFYD7iDEc58l"
     },
     {
       "album": {
@@ -2878,7 +2968,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 165136,
       "name": "O Tobie",
       "url": "https://open.spotify.com/track/6TIvLyLixaj9vPt3K1MSWh"
@@ -2950,7 +3040,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 176840,
       "name": "Od niekochania",
       "url": "https://open.spotify.com/track/4zsgyylzVzMQ0QYLFVnR3b"
@@ -2972,6 +3062,28 @@
       "duration_ms": 164000,
       "name": "od nowa",
       "url": "https://open.spotify.com/track/1DkUo3q5rxndilxYRMRte4"
+    },
+    {
+      "album": {
+        "name": "Odpowied\u017a",
+        "url": "https://open.spotify.com/album/5LC0YN5v8PyAXq2Oj1xwbX"
+      },
+      "artists": [
+        {
+          "name": "Sarius",
+          "url": "https://open.spotify.com/artist/3sW41aChSc5bBow0Folc1S"
+        },
+        {
+          "name": "WOLF HOUSE",
+          "url": "https://open.spotify.com/artist/3c9ZfnaIlcrOgLSZzfTdDt"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147522,
+      "name": "Odpowied\u017a",
+      "url": "https://open.spotify.com/track/1pR4TjI4X95ciHO5hqtk8f"
     },
     {
       "album": {
@@ -3371,6 +3483,24 @@
     },
     {
       "album": {
+        "name": "Heca",
+        "url": "https://open.spotify.com/album/6zLgFeNNs1JxPHawGEkU90"
+      },
+      "artists": [
+        {
+          "name": "Lanberry",
+          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233585,
+      "name": "Ratuj si\u0119 kto mo\u017ce",
+      "url": "https://open.spotify.com/track/3ngO8Qzh9c5PIE9s6IwjSu"
+    },
+    {
+      "album": {
         "name": "EPILOG",
         "url": "https://open.spotify.com/album/3mDnWhfZR7nIRquhPgChPP"
       },
@@ -3742,6 +3872,24 @@
       "duration_ms": 174374,
       "name": "taki ma\u0142y ja",
       "url": "https://open.spotify.com/track/3is9xGBEPrkLAF0fryCLK7"
+    },
+    {
+      "album": {
+        "name": "Na Dwoje Lampa \u015awieci\u0142a",
+        "url": "https://open.spotify.com/album/2BoUXwHl2EKmvS7qRWZSWn"
+      },
+      "artists": [
+        {
+          "name": "Zale\u015b",
+          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Taki plan",
+      "url": "https://open.spotify.com/track/11bS9b18NOz23W3Vwj6B9M"
     },
     {
       "album": {
@@ -4200,7 +4348,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 185471,
       "name": "Wolne duchy",
       "url": "https://open.spotify.com/track/3eNAqHexMFGCvtzaMwkjEH"
@@ -4252,6 +4400,32 @@
       "duration_ms": 172790,
       "name": "Wszystko mi jedno",
       "url": "https://open.spotify.com/track/0iPxTaRsRpdwsEujK2lTzs"
+    },
+    {
+      "album": {
+        "name": "Wynalazek Filipa Golarza",
+        "url": "https://open.spotify.com/album/3Q19KxzahiApKSwqFb1CGz"
+      },
+      "artists": [
+        {
+          "name": "Kleks",
+          "url": "https://open.spotify.com/artist/2Qk1uZpDnwDozHdxmB0dDx"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Wynalazek Filipa Golarza",
+      "url": "https://open.spotify.com/track/2PrnvpGByWnjgt5jEk7XqG"
     },
     {
       "album": {
@@ -4476,7 +4650,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 139701,
       "name": "Zdzieram G\u0142os",
       "url": "https://open.spotify.com/track/27M13ZyPMJ0cRXrI4O7OWK"
@@ -4708,7 +4882,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 148000,
       "name": "\u0141atwopalny",
       "url": "https://open.spotify.com/track/0shIWz0RsvFsxe7FGx1RtB"
@@ -4726,7 +4900,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 271294,
       "name": "\u015aciany",
       "url": "https://open.spotify.com/track/4oThaUYLnKs3ikaDpMUMt1"

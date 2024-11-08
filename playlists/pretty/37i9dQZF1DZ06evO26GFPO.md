@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,053 likes - 44 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,086 likes - 44 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 43 | [Poesia Acústica \#10 Recomeçar](https://open.spotify.com/track/2F2f4Bg37EB6vCoRIcyzCl) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Black](https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Poesia Acústica](https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z) | 11:22 |
 | 44 | [Fora de Si \- Ao Vivo](https://open.spotify.com/track/3ojDttdAfpz1UhnFVLSG3s) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:27 |
 
-Snapshot ID: `ZylgAAAAAABZvDt2cwczpzPk8RM+A5Ll`
+Snapshot ID: `ZyqxgAAAAADpUTAEzoNpdeISvoTO8QWe`

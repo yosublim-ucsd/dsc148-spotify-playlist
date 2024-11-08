@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die Playlist zur Wasserpfeife. Cover: Dardan",
+  "description": "Die Playlist zur Wasserpfeife. Cover: Jazeek",
   "name": "Shisha Club",
   "tracks": [
+    {
+      "album": {
+        "name": "100 Lieder",
+        "url": "https://open.spotify.com/album/6SLMRhvaIObL1M45i7WtPT"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157659,
+      "name": "100 Lieder",
+      "url": "https://open.spotify.com/track/3YzN8rggzWjdDEkK2WTUEx"
+    },
     {
       "album": {
         "name": "Emerald",
@@ -556,7 +574,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 151293,
       "name": "Blanco",
       "url": "https://open.spotify.com/track/4rA41YUfp4ZXdmbBoiDJhG"
@@ -792,6 +810,24 @@
       "duration_ms": 162742,
       "name": "Champions League (feat. Haaland936, Aymen & Amo)",
       "url": "https://open.spotify.com/track/7gQwzl8rXRpe0rTOTU5pyb"
+    },
+    {
+      "album": {
+        "name": "Mr. Untouchable",
+        "url": "https://open.spotify.com/album/0TCy0FRoGFO3D3VllAcaCz"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190736,
+      "name": "Chaos",
+      "url": "https://open.spotify.com/track/5o29ve21BlPkXruG8ev15n"
     },
     {
       "album": {
@@ -1296,7 +1332,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 130001,
       "name": "Hab Bock",
       "url": "https://open.spotify.com/track/6YRObRlRln6sRd7w83l67G"
@@ -1597,6 +1633,24 @@
     },
     {
       "album": {
+        "name": "Mr. Untouchable",
+        "url": "https://open.spotify.com/album/0TCy0FRoGFO3D3VllAcaCz"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136371,
+      "name": "Lamine",
+      "url": "https://open.spotify.com/track/4Fjfqk9NoOYRl1w863xrXo"
+    },
+    {
+      "album": {
         "name": "Lamine Yamal",
         "url": "https://open.spotify.com/album/10WFXYspuSRfhlGY5dUe4h"
       },
@@ -1718,6 +1772,24 @@
       "duration_ms": 164000,
       "name": "L\u00fcg mich an",
       "url": "https://open.spotify.com/track/2lckikJBGAkGIXXq6ZPjsr"
+    },
+    {
+      "album": {
+        "name": "Ma Baby",
+        "url": "https://open.spotify.com/album/4iflwnxuZ3RUUsnR2q0XzA"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Ma Baby",
+      "url": "https://open.spotify.com/track/4495xO2HkmqoYIxQO2FvAH"
     },
     {
       "album": {
@@ -2876,7 +2948,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 152454,
       "name": "WAGWAN",
       "url": "https://open.spotify.com/track/4eWo9P0bY0SniczUtzTYxu"

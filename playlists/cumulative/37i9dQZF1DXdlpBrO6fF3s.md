@@ -4,7 +4,7 @@
 
 > I'm The One! A TEEnager Z is here.
 
-151 songs - 8 hr 25 min
+158 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,8 @@
 | [Better](https://open.spotify.com/track/6di5ScYZxyg0zhToZzowol) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP\. Map To Answer](https://open.spotify.com/album/72uRjP7I54EvufnugN1z8i) | 3:35 | 2022-02-03 |  |
 | [Better](https://open.spotify.com/track/16dIxFF6tjoPSWqsNGP5tj) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Into the A to Z](https://open.spotify.com/album/4UfjyHIT2Nvb2XC7hnaPC0) | 3:36 | 2022-02-03 |  |
 | [Better \- Korean Version](https://open.spotify.com/track/4PyRAVwFRxwPESvpVKZfiJ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:34 | 2022-02-03 |  |
+| [Birthday](https://open.spotify.com/track/7251TzfUfdUfvTiEm0VrjQ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Birthday](https://open.spotify.com/album/4lgToZ6PFbsj6PpN1qfKGa) | 2:44 | 2024-11-08 |  |
+| [Birthday \- Instrumental](https://open.spotify.com/track/7owF2LySnWJ1zgnMkl7Sly) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Birthday](https://open.spotify.com/album/4lgToZ6PFbsj6PpN1qfKGa) | 2:44 | 2024-11-08 |  |
 | [Blind](https://open.spotify.com/track/3epcMWxb5Wl7r95sY9s6WO) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.1](https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU) | 3:18 | 2024-06-04 |  |
 | [Blue Summer](https://open.spotify.com/track/7oLyy8aPrMu6hka0SaUWxz) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Dreamers](https://open.spotify.com/album/1RiuAAiDFvA0sYc4MRWKvK) | 3:31 | 2022-02-03 |  |
 | [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:07 | 2023-06-21 | 2024-04-19 |
@@ -56,6 +58,8 @@
 | [FEVER](https://open.spotify.com/track/2dPETee06bbHulsABk0h7I) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:24 | 2022-02-03 |  |
 | [FIN : WILL](https://open.spotify.com/track/2Nk2AbS02HaI1tgWTApkGJ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:03 | 2023-12-07 |  |
 | [Fireworks \(I'm The One\)](https://open.spotify.com/track/0rNLaGUleZ91DXMxmZNq5v) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:29 | 2022-02-03 |  |
+| [Forevermore](https://open.spotify.com/track/0joX0qto5EPiOzxptqmirS) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Birthday](https://open.spotify.com/album/4lgToZ6PFbsj6PpN1qfKGa) | 4:47 | 2024-11-08 |  |
+| [Forevermore \- Instrumental](https://open.spotify.com/track/3MTo900y8sKsLtC7fdnlWI) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Birthday](https://open.spotify.com/album/4lgToZ6PFbsj6PpN1qfKGa) | 4:47 | 2024-11-08 |  |
 | [Golden Hour](https://open.spotify.com/track/49hiimslmi1UYZd0VOEjt4) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.1](https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU) | 1:24 | 2024-06-04 |  |
 | [Good Lil Boy](https://open.spotify.com/track/5U8pXQSdhTtQ8bp6K6vb9Y) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:25 | 2022-02-03 |  |
 | [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-07-29 |  |
@@ -98,6 +102,9 @@
 | [Promise \- Notation from Senor Juwon Park](https://open.spotify.com/track/0tAEIfNoAAf7yksns00RE1) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP\. EXTRA: Shift The Map](https://open.spotify.com/album/3uejTFamPCZuTD1HvYLqw2) | 3:25 | 2022-02-03 |  |
 | [PROPAGANDA](https://open.spotify.com/track/5DlFiQX9LUiSI0QuBi0JA7) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 1:17 | 2022-07-29 |  |
 | [ROCKY](https://open.spotify.com/track/1Idy1ndwsEhW10UlQFT0mF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:08 | 2022-02-03 |  |
+| [Royal](https://open.spotify.com/track/0NR5Ps5s2hpfZ8Ysmp3dTF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Royal](https://open.spotify.com/album/1YKSS88CPp87pKphKTZMTd) | 3:42 | 2024-11-08 |  |
+| [Royal](https://open.spotify.com/track/0253GK3ow6KXcNCTg3RRfT) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Birthday](https://open.spotify.com/album/4lgToZ6PFbsj6PpN1qfKGa) | 3:42 | 2024-11-08 |  |
+| [Royal \- Instrumental](https://open.spotify.com/track/69DkJOeNSIK1liB5bppqof) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Birthday](https://open.spotify.com/album/4lgToZ6PFbsj6PpN1qfKGa) | 3:42 | 2024-11-08 |  |
 | [Say My Name](https://open.spotify.com/track/2UP7KnRSvc4taXbjOoSX0f) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.2 : Zero To One](https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw) | 3:42 | 2022-02-03 |  |
 | [Say My Name \- Flavor of Latin with Juwon Park](https://open.spotify.com/track/7jPiCapcTtnuCP3keJkjja) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP\. EXTRA: Shift The Map](https://open.spotify.com/album/3uejTFamPCZuTD1HvYLqw2) | 3:41 | 2022-02-03 |  |
 | [Say My Name \- Japanese Ver.](https://open.spotify.com/track/4jE309OhIWZqXJUzrpkW0V) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Into the A to Z](https://open.spotify.com/album/4UfjyHIT2Nvb2XC7hnaPC0) | 3:42 | 2022-02-03 |  |

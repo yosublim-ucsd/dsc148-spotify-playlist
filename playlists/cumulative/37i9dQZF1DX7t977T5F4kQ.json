@@ -2403,6 +2403,24 @@
     },
     {
       "album": {
+        "name": "Down I'm A Rebel",
+        "url": "https://open.spotify.com/album/6dlBvqgsPhcvxgmRoA0fSl"
+      },
+      "artists": [
+        {
+          "name": "AlorG",
+          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Down I'm A Rebel",
+      "url": "https://open.spotify.com/track/0s14yljOWxYfG0Xz3iTaP9"
+    },
+    {
+      "album": {
         "name": "Eboso",
         "url": "https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP"
       },
@@ -8804,7 +8822,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 180687,
       "name": "Yenkodi",
       "url": "https://open.spotify.com/track/0XKat5BEYlRO50jFuiDDDD"

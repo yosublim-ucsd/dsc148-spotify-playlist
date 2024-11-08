@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 166400,
       "name": "Gangster Tendencies",
       "url": "https://open.spotify.com/track/5alssGGzqvPB3BsetB3dee"
@@ -1379,6 +1379,28 @@
     },
     {
       "album": {
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/0zEotmeupAaQUANpl2GBew"
+      },
+      "artists": [
+        {
+          "name": "Nay Wa Mitego",
+          "url": "https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq"
+        },
+        {
+          "name": "Darassa",
+          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222609,
+      "name": "Hustler",
+      "url": "https://open.spotify.com/track/0zgQiHa7Nz7pQeOcX2aWvf"
+    },
+    {
+      "album": {
         "name": "I Don't Give A Damn",
         "url": "https://open.spotify.com/album/6oNhNQoA1vDnVmRhm211hp"
       },
@@ -1442,6 +1464,24 @@
       "duration_ms": 348047,
       "name": "Israel & Palestine Tears - Freestyle",
       "url": "https://open.spotify.com/track/1hnL006ccbtZuepaGvfEKJ"
+    },
+    {
+      "album": {
+        "name": "It's Your Boy",
+        "url": "https://open.spotify.com/album/4DyQXOsMsTcEJRBUKeycRR"
+      },
+      "artists": [
+        {
+          "name": "Joh Makini",
+          "url": "https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235284,
+      "name": "It's Your Boy",
+      "url": "https://open.spotify.com/track/6ukYEennm4qhPWKjm1YM9d"
     },
     {
       "album": {
@@ -1774,7 +1814,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 195398,
       "name": "Loco",
       "url": "https://open.spotify.com/track/01uAcS4mXpOqstNRUKA7gs"
@@ -2773,6 +2813,24 @@
     },
     {
       "album": {
+        "name": "Not A Hero",
+        "url": "https://open.spotify.com/album/7it4TZqIGi1AiDAGHcksw8"
+      },
+      "artists": [
+        {
+          "name": "Dizasta Vina",
+          "url": "https://open.spotify.com/artist/1IC2bcgWHOl0i4YUndZLfI"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344556,
+      "name": "Not A Hero",
+      "url": "https://open.spotify.com/track/4uJgZVZzFbBTByC5Nih34o"
+    },
+    {
+      "album": {
         "name": "Nova Scotia",
         "url": "https://open.spotify.com/album/1k4A5Jq2ljXTZL184o37Op"
       },
@@ -3322,7 +3380,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 172584,
       "name": "Rum in My Cup",
       "url": "https://open.spotify.com/track/6sJgavFdnMmGY25v9gGfo8"
@@ -3586,7 +3644,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 136146,
       "name": "Snitch",
       "url": "https://open.spotify.com/track/70fQtyXgdHUsFPVMX4bp2U"
@@ -3927,6 +3985,32 @@
     },
     {
       "album": {
+        "name": "They Know",
+        "url": "https://open.spotify.com/album/2XDiCSN1OqSZLCYIsc2bF0"
+      },
+      "artists": [
+        {
+          "name": "Izzo Bizness",
+          "url": "https://open.spotify.com/artist/6W098BENpm3dJ0jmHW2tVF"
+        },
+        {
+          "name": "Salmin Swaggz",
+          "url": "https://open.spotify.com/artist/29Bao5BzmXldCACxALuPcu"
+        },
+        {
+          "name": "Dushy Boy",
+          "url": "https://open.spotify.com/artist/2PHTjvORzsXBiRhfc6HMIS"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190986,
+      "name": "They Know",
+      "url": "https://open.spotify.com/track/66K2CB2tIijk977652gDCs"
+    },
+    {
+      "album": {
         "name": "Threesome Feat. Chemical & Frida Amani",
         "url": "https://open.spotify.com/album/6ZglJvIv5Mh9U1du5mbP16"
       },
@@ -4070,7 +4154,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 158874,
       "name": "Tuna Rap Kweli",
       "url": "https://open.spotify.com/track/39lKFCVX0VFkgKrgBRBCDd"
@@ -4416,6 +4500,28 @@
       "duration_ms": 207157,
       "name": "Won't Stop",
       "url": "https://open.spotify.com/track/1gl8Eld8kB4cUS82Sd3Cd4"
+    },
+    {
+      "album": {
+        "name": "Worst Comes to Worst EP",
+        "url": "https://open.spotify.com/album/6eBrBuWdKapZ82AGzsNpJf"
+      },
+      "artists": [
+        {
+          "name": "Sela Ninja",
+          "url": "https://open.spotify.com/artist/6iqemSjNOiy7P6OEsbGTUS"
+        },
+        {
+          "name": "Billy Boi",
+          "url": "https://open.spotify.com/artist/6f0GKOWlUYFymF5fEBXUO8"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137483,
+      "name": "Worst Comes to Worst",
+      "url": "https://open.spotify.com/track/1aeCE5iZq0el5NIteGiK2z"
     },
     {
       "album": {

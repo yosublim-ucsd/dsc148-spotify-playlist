@@ -307,6 +307,24 @@
     },
     {
       "album": {
+        "name": "Autonomy",
+        "url": "https://open.spotify.com/album/29Bm513T3poI1cb4zgju9N"
+      },
+      "artists": [
+        {
+          "name": "Justin Hawkes",
+          "url": "https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232579,
+      "name": "Autonomy",
+      "url": "https://open.spotify.com/track/71yxI2J56U3sE4PnCbv2G7"
+    },
+    {
+      "album": {
         "name": "Baby G",
         "url": "https://open.spotify.com/album/2lnd0ppKdrXSCdaiAVe2EY"
       },
@@ -518,6 +536,36 @@
       "duration_ms": 266206,
       "name": "Balling (feat. Songer, Mr Traumatik, Devilman & OneDa) - Edit",
       "url": "https://open.spotify.com/track/2WObGIQXhjveq6yuXvf6VQ"
+    },
+    {
+      "album": {
+        "name": "Bang Bang (feat. Stylo G, Riko Dan & Frisco)",
+        "url": "https://open.spotify.com/album/4US7XENYjIouFj9wniTQR5"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Stylo G",
+          "url": "https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169655,
+      "name": "Bang Bang (feat. Stylo G, Riko Dan & Frisco)",
+      "url": "https://open.spotify.com/track/3jzfiKtkueyzmvWVelVwtk"
     },
     {
       "album": {
@@ -5442,7 +5490,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 192314,
       "name": "Rig Fairy (feat. Kelvin 373, Selecta J-Man and Aries) - VIP",
       "url": "https://open.spotify.com/track/5a97fAfJIHN6GfwwcVUNzA"
@@ -5760,7 +5808,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 167068,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4n92wzBjtxwFb3d0f1jbtW"

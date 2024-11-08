@@ -4,7 +4,7 @@
 
 > Mujeres a todo volumen, con La Valenti en portada.
 
-1,226 songs - 2 day 18 hr 13 min
+1,227 songs - 2 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,7 +449,7 @@
 | [Felices x Siempre](https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Felices x Siempre](https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2) | 3:19 | 2022-03-08 | 2022-04-07 |
 | [Fenty](https://open.spotify.com/track/6lwgQv2SQz5LqJ1rPDHcyz) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Fenty](https://open.spotify.com/album/2PJSIJ8hS6z6fncc8zjw6o) | 2:30 | 2022-10-06 | 2022-10-27 |
 | [Fenty](https://open.spotify.com/track/1o4DbSmhwZ08Rnq99Lhqvo) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Fenty](https://open.spotify.com/album/3Zkt2UDHWaklY7JxWnaAtp) | 2:30 | 2022-10-27 | 2022-11-08 |
-| [Feroces](https://open.spotify.com/track/3NFPbnzsFINhM05K52YlZo) | [Ine Güemes](https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR) | [Feroces](https://open.spotify.com/album/5NNuIYBBDW6kWjZ2IP7E2q) | 3:19 | 2024-11-06 |  |
+| [Feroces](https://open.spotify.com/track/3NFPbnzsFINhM05K52YlZo) | [Ine Güemes](https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR) | [Feroces](https://open.spotify.com/album/5NNuIYBBDW6kWjZ2IP7E2q) | 3:19 | 2024-11-06 | 2024-11-08 |
 | [Festejar](https://open.spotify.com/track/2Pl3nggNkBrthtJofSiPfh) | [Emme](https://open.spotify.com/artist/46V95jm2XMU8IyaKSXjSfW) | [Festejar](https://open.spotify.com/album/160XSHPMZFnnDpPH9sUxdY) | 3:48 | 2023-10-04 | 2023-11-09 |
 | [Fiebre](https://open.spotify.com/track/3pNi7px9XVXGlwqr0fZHXo) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Fiebre](https://open.spotify.com/album/5sMP31RiHju3dGZ5tPdPWj) | 2:20 | 2024-03-06 | 2024-04-04 |
 | [Fin del Mundo](https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Fin del Mundo](https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O) | 5:19 | 2023-05-03 | 2023-10-05 |
@@ -946,6 +946,7 @@
 | [Queen of Chinatown](https://open.spotify.com/track/7zWzVwMSt0UkBZqf4NQBBJ) | [Amanda Lear](https://open.spotify.com/artist/0Xkd9GsWwOYETVF0kPXZIG) | [The Collection](https://open.spotify.com/album/32wPvSGAQAI6xntLQC5SRt) | 4:16 | 2024-08-07 | 2024-09-05 |
 | [Quien](https://open.spotify.com/track/4Yggxw9G0xi3GgHrCuvAJs) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1) | [Una Linterna](https://open.spotify.com/album/1KCX4VC03LWUpHK6Pq9MYO) | 2:42 | 2022-06-01 | 2022-07-06 |
 | [Quiero Estar Entre Tus Cosas](https://open.spotify.com/track/04edngTKM9codmbw4JCkVY) | [Maria Gabriela Epumer](https://open.spotify.com/artist/0G0wjvWRWLREOBLLE1JcOQ) | [Perfume](https://open.spotify.com/album/2TwCe53zNSiW6XnnsSwafC) | 3:02 | 2022-07-06 | 2024-10-03 |
+| [Quiero irme con vos](https://open.spotify.com/track/2wDsPVbbJuA1TPBAHrS5C4) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [La Capitana](https://open.spotify.com/album/682RUQW42qEbdFZJjxovNd) | 2:28 | 2024-11-07 |  |
 | [Quiero Todo](https://open.spotify.com/track/0yRaf2zK8CtJvNyLzg9XNy) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Natalia Oreiro](https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo) | [Quiero Todo](https://open.spotify.com/album/3oRwbp1iHfkNfBQ7v6eIsU) | 3:24 | 2022-10-06 | 2024-04-04 |
 | [Quieto](https://open.spotify.com/track/47rSF9GA84zIB5Kn9SCfDC) | [Cumbia Nena](https://open.spotify.com/artist/5BNVbfGIjyuFgjnZbnUJrx) | [Quieto](https://open.spotify.com/album/5sC1aAiKcRC1skXRrpJCbt) | 2:33 | 2022-11-07 | 2022-12-01 |
 | [Quisiera](https://open.spotify.com/track/16zcfw5eT1fyYJ246Mt7Qk) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té de Tilo por Favor](https://open.spotify.com/album/5ihX5QpiBsawYdSBzzil9i) | 3:52 | 2022-08-03 | 2022-09-09 |

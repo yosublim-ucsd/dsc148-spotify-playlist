@@ -4375,6 +4375,28 @@
     },
     {
       "album": {
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/5hrnlL3rqxLrkB8UQynmxh"
+    },
+    {
+      "album": {
         "name": "Hey Hey (Da Capo & Kitty Amor Remix)",
         "url": "https://open.spotify.com/album/321dq5Ag24Jcz5e2AXHd9O"
       },
@@ -4586,6 +4608,32 @@
       "duration_ms": 246730,
       "name": "Homi Ka Ten Dinheru - Edit",
       "url": "https://open.spotify.com/track/7kbNYYCkCeg5gvfscPnhoi"
+    },
+    {
+      "album": {
+        "name": "A Life Worth Living",
+        "url": "https://open.spotify.com/album/0MC35ofBLwDfne9bhI2bvq"
+      },
+      "artists": [
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        },
+        {
+          "name": "Citizen Deep",
+          "url": "https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM"
+        },
+        {
+          "name": "Kaylow",
+          "url": "https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333559,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5pxwjmQHoVwEIwE11NNvLm"
     },
     {
       "album": {
@@ -10970,6 +11018,28 @@
       "duration_ms": 218500,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/6hqHaIC9pdRDvPtUGmjlfp"
+    },
+    {
+      "album": {
+        "name": "Simply Beautiful (M\u00d6RDA Remix)",
+        "url": "https://open.spotify.com/album/78Qrcp7JNTLC8zh4fxcBeI"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        },
+        {
+          "name": "M\u00d6RDA",
+          "url": "https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361192,
+      "name": "Simply Beautiful - M\u00d6RDA Remix",
+      "url": "https://open.spotify.com/track/1XeStmNrteKsqjfLNYkXU1"
     },
     {
       "album": {

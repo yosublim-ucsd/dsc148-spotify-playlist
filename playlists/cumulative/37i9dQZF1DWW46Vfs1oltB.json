@@ -19117,6 +19117,24 @@
     },
     {
       "album": {
+        "name": "Lucifer's Therapy",
+        "url": "https://open.spotify.com/album/1JDuTu31tWRKplO8wsBqsM"
+      },
+      "artists": [
+        {
+          "name": "Luci Gang",
+          "url": "https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "NORI",
+      "url": "https://open.spotify.com/track/5vAmgWcxiq0MdyhYT44ich"
+    },
+    {
+      "album": {
         "name": "YAINS",
         "url": "https://open.spotify.com/album/2sdAsii9EScLqXidDLmMg5"
       },
@@ -23002,7 +23020,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 205791,
       "name": "S/S",
       "url": "https://open.spotify.com/track/4fh1IH643m7h3rYt9YJvyT"

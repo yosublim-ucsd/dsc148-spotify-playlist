@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Tananai",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Holden & mew",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 164615,
       "name": "Caro Amico",
       "url": "https://open.spotify.com/track/0kSSo2duVLbK9pG5E634Wl"
@@ -3727,6 +3727,28 @@
     },
     {
       "album": {
+        "name": "GRANDINE (feat. mew)",
+        "url": "https://open.spotify.com/album/3GFXDDau3jmZ2RdrkJ3HTy"
+      },
+      "artists": [
+        {
+          "name": "Holden",
+          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
+        },
+        {
+          "name": "mew",
+          "url": "https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187520,
+      "name": "GRANDINE (feat. mew)",
+      "url": "https://open.spotify.com/track/0liQcHfCU5zKeSEdIYfGIP"
+    },
+    {
+      "album": {
         "name": "Granita",
         "url": "https://open.spotify.com/album/7wAn4PdtIwEv9dhb78Ywbj"
       },
@@ -5723,6 +5745,24 @@
     },
     {
       "album": {
+        "name": "Morire x te",
+        "url": "https://open.spotify.com/album/2MbK8XNBh27XNXeI8qNZUJ"
+      },
+      "artists": [
+        {
+          "name": "Mida",
+          "url": "https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173151,
+      "name": "Morire x te",
+      "url": "https://open.spotify.com/track/1EnlnBwni7gpQOLpqwGVki"
+    },
+    {
+      "album": {
         "name": "MOSTRO",
         "url": "https://open.spotify.com/album/21aHeeZe4eCanYhoAPuiaX"
       },
@@ -5752,7 +5792,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 182081,
       "name": "Musica Animale",
       "url": "https://open.spotify.com/track/6ELrB0W2OjbLGANsGU7gBn"
@@ -6876,7 +6916,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 162253,
       "name": "PEGGIO DI COS\u00cc",
       "url": "https://open.spotify.com/track/7x4PciuQrmMr6YW7SaUjFx"
@@ -7829,6 +7869,24 @@
     },
     {
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/4E2mpIFXDslDMo14Kp6iWr"
+      },
+      "artists": [
+        {
+          "name": "Alex Wyse",
+          "url": "https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216888,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/1Nxi3qWX2wJ08VeWiSV9By"
+    },
+    {
+      "album": {
         "name": "ROMA",
         "url": "https://open.spotify.com/album/4dW1fBOZW6iy5ndUTX5hOI"
       },
@@ -8770,6 +8828,24 @@
       "duration_ms": 207725,
       "name": "STACEY",
       "url": "https://open.spotify.com/track/0LnfEYt0a0ttklFD4mby8l"
+    },
+    {
+      "album": {
+        "name": "STANDING OVATION",
+        "url": "https://open.spotify.com/album/4nCtjuCLQipDKLVUb9jfPq"
+      },
+      "artists": [
+        {
+          "name": "Tancredi",
+          "url": "https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161351,
+      "name": "STANDING OVATION",
+      "url": "https://open.spotify.com/track/7sLuIU9m41huRHZRqxBBYI"
     },
     {
       "album": {

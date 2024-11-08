@@ -1,12 +1,12 @@
 {
   "description": "Listen to all your favorite Disney Princess songs.",
-  "num_followers": 931093,
+  "num_followers": 931300,
   "original_name": "Disney Princess",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZylK/wAAAABGsVaxvJE+cxU1y78YDHQH",
+  "snapshot_id": "Zy0jAAAAAACLSWhz0D/ipHgJ+pCpRtDx",
   "tracks": [
     {
       "added_at": "2024-08-16 20:19:47",
@@ -135,6 +135,30 @@
       "duration_ms": 214400,
       "name": "Colors of the Wind",
       "url": "https://open.spotify.com/track/1OYOLWqKmhkFIx2KC9ek1a"
+    },
+    {
+      "added_at": "2024-11-07 20:28:48",
+      "album": {
+        "name": "Beyond (End Credit Version) [From \"Moana 2\"]",
+        "url": "https://open.spotify.com/album/6uCyNThgUieE9elUSd4SuP"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Te Vaka",
+          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Beyond (End Credit Version) - From \"Moana 2\"",
+      "url": "https://open.spotify.com/track/3fzqWttckvSJS7KPGPiWAg"
     },
     {
       "added_at": "2023-10-13 12:01:00",

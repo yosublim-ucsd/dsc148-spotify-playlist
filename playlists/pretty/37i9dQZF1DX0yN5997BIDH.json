@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 567675,
+  "num_followers": 567648,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
+        "name": "American Clich\u00e9",
+        "url": "https://open.spotify.com/album/2LNj7phPxqxUhn05s0itfQ"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 203389,
+      "name": "American Clich\u00e9",
+      "url": "https://open.spotify.com/track/2IFioAFD8QEIq17UwOaSFb"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
         "name": "ok on your own",
         "url": "https://open.spotify.com/album/2UUaWZK2WP9xhzNb0kd8rK"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 208333,
       "name": "ok on your own (feat. Carly Rae Jepsen)",
       "url": "https://open.spotify.com/track/36GBFPY75lJpxk7GugxhL7"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
-        "name": "American Clich\u00e9",
-        "url": "https://open.spotify.com/album/2LNj7phPxqxUhn05s0itfQ"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 203389,
-      "name": "American Clich\u00e9",
-      "url": "https://open.spotify.com/track/2IFioAFD8QEIq17UwOaSFb"
     },
     {
       "added_at": "2024-07-11 01:17:45",

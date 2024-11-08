@@ -41447,6 +41447,28 @@
     },
     {
       "album": {
+        "name": "Love Reservoir",
+        "url": "https://open.spotify.com/album/6rEJeZWAqsnQ7AoZw29Lz3"
+      },
+      "artists": [
+        {
+          "name": "Frenchie",
+          "url": "https://open.spotify.com/artist/11RwEPDXg0xuxLmfontXCJ"
+        },
+        {
+          "name": "Frida Touray",
+          "url": "https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244933,
+      "name": "Love Reservoir",
+      "url": "https://open.spotify.com/track/0ckzBpHyjOxCwgE67V5goB"
+    },
+    {
+      "album": {
         "name": "Love Story",
         "url": "https://open.spotify.com/album/7hxnN9L47HBsqFGpUZ1SyY"
       },
@@ -51144,6 +51166,24 @@
       "duration_ms": 179387,
       "name": "Outrageous - NATIIVE Remix",
       "url": "https://open.spotify.com/track/3BBSn2r31bk0SauGi3oBXu"
+    },
+    {
+      "album": {
+        "name": "Outside of Us",
+        "url": "https://open.spotify.com/album/2U5GjrBaRcWjqoiWw6LMVy"
+      },
+      "artists": [
+        {
+          "name": "Sasha Sky",
+          "url": "https://open.spotify.com/artist/1oEWS0flnmCRKutZMCnsWX"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221269,
+      "name": "Outside of Us",
+      "url": "https://open.spotify.com/track/5Lz9hBk7YF4E52VNMcUL4S"
     },
     {
       "album": {

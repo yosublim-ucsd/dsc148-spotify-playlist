@@ -1,13 +1,29 @@
 {
   "description": "bringing you all things house!! follow me on tour <a href=\"http://www.instagram.com/curbi\">here</a> and don't forget to <a href=\"https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT\">follow my artist profile</a>..",
-  "num_followers": 4340,
+  "num_followers": 4342,
   "original_name": "ALL THINGS HOUSE - CURBI PRESENTS",
   "owner": {
     "name": "Curbi",
     "url": "https://open.spotify.com/user/curbimusic"
   },
-  "snapshot_id": "AAAH5ChBtOjr3qTvv7QLCt9DdaifXx5Y",
+  "snapshot_id": "AAAH5gkMVTzMQQfZlfAVGvmdHcgbqUAT",
   "tracks": [
+    {
+      "added_at": "2024-11-07 23:09:17",
+      "album": {
+        "name": "Don't Touch",
+        "url": "https://open.spotify.com/album/6CkdzZUFSS7TuhgbT1koT9"
+      },
+      "artists": [
+        {
+          "name": "HeyDoc!",
+          "url": "https://open.spotify.com/artist/5EwW7fH1tpfaLhv54OgneB"
+        }
+      ],
+      "duration_ms": 188307,
+      "name": "Don't Touch",
+      "url": "https://open.spotify.com/track/0o0gyBmKHpzibd45c4KmGR"
+    },
     {
       "added_at": "2024-11-05 15:09:38",
       "album": {

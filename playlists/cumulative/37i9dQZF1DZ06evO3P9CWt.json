@@ -129,6 +129,28 @@
     },
     {
       "album": {
+        "name": "Ai Que Calor",
+        "url": "https://open.spotify.com/album/6LYAs9dCuZTG9Tf7XQbXl8"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144175,
+      "name": "Ai Que Calor",
+      "url": "https://open.spotify.com/track/3NfGGLWFlqhbzy3DLmnzUF"
+    },
+    {
+      "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
       },

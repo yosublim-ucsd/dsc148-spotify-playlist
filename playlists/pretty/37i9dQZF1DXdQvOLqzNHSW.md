@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,630 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,663 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 27 | [Tangerine](https://open.spotify.com/track/700iSqwIlmgyRCiHWbRNdh) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Tangerine](https://open.spotify.com/album/3iB5mDvMeU6xgF8hLETSop) | 3:23 |
 | 28 | [All Roads](https://open.spotify.com/track/0pvgbTB2y9DNDDXb9T7FJW) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [All Roads](https://open.spotify.com/album/2Ns4jtMLkdHBrQyteocGQ9) | 3:17 |
 | 29 | [Pretty Little Thing](https://open.spotify.com/track/5C9anXz5T3PY3A5YkH66cn) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:01 |
-| 30 | [Fever](https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Sariah Mae](https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th) | [Fever](https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf) | 2:58 |
-| 31 | [Aquarium](https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Views/Octopus EP](https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU) | 3:04 |
+| 30 | [Aquarium](https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Views/Octopus EP](https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU) | 3:04 |
+| 31 | [Fever](https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Sariah Mae](https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th) | [Fever](https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf) | 2:58 |
 | 32 | [Moment](https://open.spotify.com/track/4CpqVGd8GCTFQqEifhgsTz) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [MOVIES! WORLDWIDE: PART I](https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md) | 2:12 |
 | 33 | [Humans](https://open.spotify.com/track/1F4Sia9UHvh5JuPV7bwgix) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Humans](https://open.spotify.com/album/3NBcENkuLCwmb0TSgbZvRi) | 4:11 |
 | 34 | [Ghost of Fatalia](https://open.spotify.com/track/551kejKz9qZRgGyCDa7ujF) | [Arc De Soleil](https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5) | [Last a While](https://open.spotify.com/album/73N9ZCHUsbSaIyoTyLFbcK) | 2:46 |
@@ -91,22 +91,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 81 | [Candy](https://open.spotify.com/track/15NYGHy9F4vQstNvznsTZw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:54 |
 | 82 | [Moonlight](https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Moonlight](https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN) | 3:59 |
 | 83 | [Really You](https://open.spotify.com/track/51jPeV7Ece8amGS37cBC80) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Inside](https://open.spotify.com/album/2mhUlq89PNUsG0iRweZ8no) | 3:38 |
-| 84 | [Rabid Dog](https://open.spotify.com/track/4DhufpFtJhDjlCI3vYNXRo) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Rabid Dog](https://open.spotify.com/album/2ll3i9DmecdeFcW0kUy4vw) | 3:59 |
-| 85 | [Get Well](https://open.spotify.com/track/2HL9AWMPtGWxPEYyEdpdaU) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 3:57 |
-| 86 | [Iris and I](https://open.spotify.com/track/0keKUvQlMR21BPpZfJAMlW) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Iris and I](https://open.spotify.com/album/0OF4M8g6GOgUvMUX21ypu1) | 2:45 |
-| 87 | [Pixie Dust](https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Pixie Dust](https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8) | 3:03 |
-| 88 | [Outro 4 NYC](https://open.spotify.com/track/5po3pk15QRCg1jf9thg39N) | [Vondelpark](https://open.spotify.com/artist/4W8Yz77BGq4uaiqCR2sYJ9) | [NYC Stuff and NYC Bags \- EP](https://open.spotify.com/album/2BbHRqsqZmJOkIWXlQXGsS) | 1:55 |
+| 84 | [Get Well](https://open.spotify.com/track/2HL9AWMPtGWxPEYyEdpdaU) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 3:57 |
+| 85 | [Rabid Dog](https://open.spotify.com/track/4DhufpFtJhDjlCI3vYNXRo) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Rabid Dog](https://open.spotify.com/album/2ll3i9DmecdeFcW0kUy4vw) | 3:59 |
+| 86 | [Pixie Dust](https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Pixie Dust](https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8) | 3:03 |
+| 87 | [Outro 4 NYC](https://open.spotify.com/track/5po3pk15QRCg1jf9thg39N) | [Vondelpark](https://open.spotify.com/artist/4W8Yz77BGq4uaiqCR2sYJ9) | [NYC Stuff and NYC Bags \- EP](https://open.spotify.com/album/2BbHRqsqZmJOkIWXlQXGsS) | 1:55 |
+| 88 | [Iris and I](https://open.spotify.com/track/0keKUvQlMR21BPpZfJAMlW) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Iris and I](https://open.spotify.com/album/0OF4M8g6GOgUvMUX21ypu1) | 2:45 |
 | 89 | [What Happens In Your Head?](https://open.spotify.com/track/0n0ou3PHz61mtfgnnvxA6E) | [MOSSS](https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey) | [East](https://open.spotify.com/album/7ANkteUr95wzf2nEoxKkqf) | 3:34 |
 | 90 | [Plastic Beach](https://open.spotify.com/track/6tqBvXpnAqeHTzINQlhbKp) | [TWEAKS](https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn) | [Move San, Lèt Gate](https://open.spotify.com/album/6gVG0djijF2sU0KLYFObKE) | 2:55 |
 | 91 | [good days](https://open.spotify.com/track/0bzRnAmbac20MQSkYClr8Z) | [surf bagel](https://open.spotify.com/artist/38YfrSySicHwZBiHjHcMua) | [good days](https://open.spotify.com/album/7EvSFyzwjb4ZryeC695Jh1) | 2:28 |
 | 92 | [swan hug \(feat\. jjared\)](https://open.spotify.com/track/1JTUU1q0ilxfcsqAQKh9Lm) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F), [jjared](https://open.spotify.com/artist/2lCi1gAqy8tw0g4zEZtUxp) | [Goûter](https://open.spotify.com/album/4abjv34MTztlQVxJAmcfij) | 4:32 |
 | 93 | [DD](https://open.spotify.com/track/1JHmvvbneBOS4NkEu8omQz) | [Insightful](https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z) | [33](https://open.spotify.com/album/0HuHiy3hPKuTiS0qw1lFD7) | 3:20 |
-| 94 | [Don Lemon](https://open.spotify.com/track/78qzUOwcFqXdA5npQMLwAh) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:41 |
-| 95 | [On My Way](https://open.spotify.com/track/74cDV5HXtQmQ1hMfa8JoIK) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [On My Way](https://open.spotify.com/album/1Ny40get2xI8Jrrl4MuOr4) | 3:32 |
+| 94 | [On My Way](https://open.spotify.com/track/74cDV5HXtQmQ1hMfa8JoIK) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [On My Way](https://open.spotify.com/album/1Ny40get2xI8Jrrl4MuOr4) | 3:32 |
+| 95 | [Don Lemon](https://open.spotify.com/track/78qzUOwcFqXdA5npQMLwAh) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:41 |
 | 96 | [Forget About Us](https://open.spotify.com/track/65SdUIqOkTDkVRcZSa9xAu) | [Harrison Brome](https://open.spotify.com/artist/7oJtghmTMHdQ49zN8uLSob) | [Stars at Midnight](https://open.spotify.com/album/2227pVdlLCui08gdcK3Pe0) | 4:12 |
-| 97 | [Back Then](https://open.spotify.com/track/2twsYPcDYxW85W9nVMrWAt) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 2:49 |
-| 98 | [Like a Pie](https://open.spotify.com/track/66pGB2DpupvXqTrPbOzFHh) | [Michael Benedikt](https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL), [Ursina](https://open.spotify.com/artist/2uUqs3oz9AVll8Pc1rIghY) | [No Pressure at All](https://open.spotify.com/album/22ygyKdPyUIZXtlBeLceIZ) | 2:17 |
+| 97 | [Like a Pie](https://open.spotify.com/track/66pGB2DpupvXqTrPbOzFHh) | [Michael Benedikt](https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL), [Ursina](https://open.spotify.com/artist/2uUqs3oz9AVll8Pc1rIghY) | [No Pressure at All](https://open.spotify.com/album/22ygyKdPyUIZXtlBeLceIZ) | 2:17 |
+| 98 | [Back Then](https://open.spotify.com/track/2twsYPcDYxW85W9nVMrWAt) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 2:49 |
 | 99 | [Shadowshow](https://open.spotify.com/track/5cuhNF549j5QMPhLOgMU6V) | [Jerkcurb](https://open.spotify.com/artist/2We7vKruiEweV984BdrxGA) | [Air Con Eden](https://open.spotify.com/album/486QPfqtxMumr35F75fkHU) | 5:42 |
-| 100 | [Nowhere Else To Go](https://open.spotify.com/track/6vuGONUpoMGw36V5ihXglV) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [April + VISTA](https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj) | [Slipping Into Color](https://open.spotify.com/album/6kuxykEjfFWmGv8IwXlmrO) | 3:10 |
+| 100 | [Hum](https://open.spotify.com/track/613GQvfjeHuxbXhH9Vxwpo) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Cola](https://open.spotify.com/album/5BUwu0SK4LWMKiJ5y5TF36) | 1:38 |
 
 Snapshot ID: `Zr/aDgAAAABaeeSsMa8US6haTRvmUi9d`

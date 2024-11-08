@@ -4,7 +4,7 @@
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-111 songs - 5 hr 41 min
+113 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Coisa Linda \(Solo Guitar\)](https://open.spotify.com/track/5RIBurCH73RYHD9rbNPvN2) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Coisa Linda](https://open.spotify.com/album/0nSH16JFQkqaePBZyXvcgV) | 3:25 | 2023-12-15 |  |
 | [Con Calma](https://open.spotify.com/track/3FVjQ0xvY0egkX73XwR5KF) | [Los Principes del Flamenco](https://open.spotify.com/artist/5QRBOvnAAd81MkUgB2pyzD) | [Rumba De Rambla](https://open.spotify.com/album/10pjbovsMmRO6b4YjSrqKR) | 3:11 | 2023-12-15 |  |
 | [Contigo Siempre Es Mejor](https://open.spotify.com/track/19rQxLjd9KJTmZRx9XLzac) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Contigo Siempre Es Mejor](https://open.spotify.com/album/0N1rENtPkYES0D56D2bezb) | 3:18 | 2023-12-15 |  |
+| [Cuando Brille El Sol](https://open.spotify.com/track/1ySHobU6CwzjPlcBs54bWd) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:25 | 2024-11-07 |  |
 | [Cuando Te Duermas](https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Cuando Te Duermas](https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT) | 2:42 | 2023-12-15 |  |
 | [Cuantas Amantes](https://open.spotify.com/track/009thiR2SWpG6jXqXYX2AT) | [Xavier Suarez](https://open.spotify.com/artist/4qxGMBS25xDymfWz3kkKOE) | [Cuantas Amantes](https://open.spotify.com/album/3YKLNFNyg3a1ZSYO9z3EHr) | 2:32 | 2023-12-15 |  |
 | [D' Jobi D' Joba](https://open.spotify.com/track/7LqhroAS99iurwW34veR46) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 2:46 | 2023-12-15 |  |
@@ -80,6 +81,7 @@
 | [Ora](https://open.spotify.com/track/48ZikPYw78eh61z9lTK5jL) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Ora](https://open.spotify.com/album/4QgCRsTAbAXd0mGIYOIEvc) | 2:46 | 2023-12-15 |  |
 | [Para Cuando Regreses](https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Para Cuando Regreses](https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw) | 2:20 | 2023-12-15 |  |
 | [Parisian café](https://open.spotify.com/track/5DNJ9Clp6dEnElKALIkoD6) | [Dennis Branko](https://open.spotify.com/artist/7aN5qcfrx1Jbu1bVC4Mn3j) | [train travel](https://open.spotify.com/album/6I4Kkgr7saTYxD4ahsTMuJ) | 3:26 | 2023-12-15 |  |
+| [Pedacinhos do Ceu \- Laid\-back Chorinho Cover](https://open.spotify.com/track/1RK5gURQXdDOJwr9mSmTYj) | [Sandro Rebel](https://open.spotify.com/artist/6wirKUVyFpkpWR5ZZjECq8) | [Chorinho Alegre](https://open.spotify.com/album/0XgWIggXCqXxZu6eNoewje) | 4:43 | 2024-11-07 |  |
 | [Pensando En Ti](https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Pensando En Ti](https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK) | 2:42 | 2023-12-15 |  |
 | [Perfidia](https://open.spotify.com/track/5WQ5a7ixw5DJ5uyQZGD8FP) | [Las Palmas Rosas](https://open.spotify.com/artist/5JoX8uKllGc2qsVy76rgsM) | [Las Palmas Rosas](https://open.spotify.com/album/6JhI7GjDswt6CqQi0cyyuo) | 2:58 | 2023-12-15 |  |
 | [Photograph](https://open.spotify.com/track/3V77kdKcM6fPqhMeDeGlFH) | [Son De Durango](https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6) | [Photograph](https://open.spotify.com/album/3t5RR5bjvFYCCTVC7n2q8Y) | 3:17 | 2023-12-15 |  |

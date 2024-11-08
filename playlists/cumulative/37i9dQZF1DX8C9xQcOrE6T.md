@@ -4,7 +4,7 @@
 
 > All your favorite Disney hits, including classics from Encanto, Descendants, Moana, Frozen, & The Lion King.
 
-209 songs - 10 hr 38 min
+210 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Beauty and the Beast](https://open.spotify.com/track/4dhPM05Kr49JbsvPwGROnJ) | [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty And The Beast \(Special Edition\)](https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq) | 2:45 | 2022-07-22 |  |
 | [Beauty and the Beast \- From "Beauty and the Beast"/Soundtrack Version](https://open.spotify.com/track/3jfxeTcEfcH8wNMnGNh7U1) | [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy) | [Beauty And The Beast \(Soundtrack\)](https://open.spotify.com/album/6Hzv2X1vxzbyGUv5gmaYOS) | 2:46 | 2022-04-01 | 2022-07-29 |
 | [Belle](https://open.spotify.com/track/1cPfKp9ThNZ1fez9itmUMN) | [Emma Watson](https://open.spotify.com/artist/4N3cNXg5phUzRzuJYYxQlV), [Luke Evans](https://open.spotify.com/artist/0MO42HJhUFrv078qALxpPQ), [Ensemble \- Beauty and the Beast](https://open.spotify.com/artist/530a0roPLtawMxdCfI2zrR) | [Beauty and the Beast \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc) | 5:33 | 2022-04-01 | 2024-07-11 |
+| [Beyond \(End Credit Version\) \- From "Moana 2"](https://open.spotify.com/track/3fzqWttckvSJS7KPGPiWAg) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Beyond \(End Credit Version\) \[From "Moana 2"\]](https://open.spotify.com/album/6uCyNThgUieE9elUSd4SuP) | 3:16 | 2024-11-07 |  |
 | [Bibbidi\-Bobbidi\-Boo \- From "Cinderella" Soundtrack](https://open.spotify.com/track/50ssiEHx556vul2XyUbxwU) | [Verna Felton](https://open.spotify.com/artist/7aU90hxXexP47nEeMee6xM) | [Disney's Greatest Volume 1](https://open.spotify.com/album/4xNCqk5KdkOQvdbaepGjTY) | 1:17 | 2022-04-01 |  |
 | [Can You Feel the Love Tonight \- End Title/ From "The Lion King"/Soundtrack Version](https://open.spotify.com/track/0EANX0OVKSCcmarY50Xa4p) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 4:01 | 2022-04-01 | 2023-03-12 |
 | [Can You Feel the Love Tonight \- End Title/ From "The Lion King"/Soundtrack Version](https://open.spotify.com/track/6TL9gJE5JibG8QR6n26eCS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Lion King: Special Edition](https://open.spotify.com/album/6BqcXoEgLpiGHQit2hXBIl) | 4:01 | 2023-03-11 |  |

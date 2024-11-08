@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Pola & Bryson",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Aktive",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -1371,6 +1371,36 @@
     },
     {
       "album": {
+        "name": "Bang Bang (feat. Stylo G, Riko Dan & Frisco)",
+        "url": "https://open.spotify.com/album/4US7XENYjIouFj9wniTQR5"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Stylo G",
+          "url": "https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169655,
+      "name": "Bang Bang (feat. Stylo G, Riko Dan & Frisco)",
+      "url": "https://open.spotify.com/track/3jzfiKtkueyzmvWVelVwtk"
+    },
+    {
+      "album": {
         "name": "Bassdrop",
         "url": "https://open.spotify.com/album/6rB4iHzPrkDhhrNuwsAbx5"
       },
@@ -2278,7 +2308,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 226206,
       "name": "Burn For You",
       "url": "https://open.spotify.com/track/19uyrxLPmX9sAnQC3y9EkA"
@@ -5938,7 +5968,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 244114,
       "name": "Going Up (feat. Ayah Marar)",
       "url": "https://open.spotify.com/track/5p28zZ4BeefFX1IJ7IEERK"
@@ -10185,6 +10215,28 @@
     },
     {
       "album": {
+        "name": "Never Tell",
+        "url": "https://open.spotify.com/album/602ztxO2d7gdwZKTKkqV9e"
+      },
+      "artists": [
+        {
+          "name": "Hybrid Minds",
+          "url": "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        },
+        {
+          "name": "homesick",
+          "url": "https://open.spotify.com/artist/7aExhNtzjRq6lYj7eL8pb9"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196744,
+      "name": "Never Tell",
+      "url": "https://open.spotify.com/track/4e2b9PcrsZD8z87sBJYXXO"
+    },
+    {
+      "album": {
         "name": "Inner Untitled EP",
         "url": "https://open.spotify.com/album/3f6enOUoRVqTgPf0sc0rzc"
       },
@@ -10905,6 +10957,28 @@
     },
     {
       "album": {
+        "name": "Out Of The Water",
+        "url": "https://open.spotify.com/album/4hCUOCSPDA7LQLkg6KM46e"
+      },
+      "artists": [
+        {
+          "name": "BCee",
+          "url": "https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ"
+        },
+        {
+          "name": "Makoto",
+          "url": "https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Out Of The Water",
+      "url": "https://open.spotify.com/track/3pZNAU4GZztpJE8BOdhpb0"
+    },
+    {
+      "album": {
         "name": "Over Powered (OP)",
         "url": "https://open.spotify.com/album/5C1QmB23zaTvIQwPtZrfTf"
       },
@@ -11364,7 +11438,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 172552,
       "name": "Pink Champagne",
       "url": "https://open.spotify.com/track/6JzebihEqB9eq3uMvb9v2F"
@@ -11481,6 +11555,28 @@
     },
     {
       "album": {
+        "name": "Pon Di Bill",
+        "url": "https://open.spotify.com/album/49I7wRDjGNocN5R2jIHFQ9"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Basslayerz",
+          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222171,
+      "name": "Pon Di Bill",
+      "url": "https://open.spotify.com/track/0BMVmNzlAXSjrJGk2VcEYr"
+    },
+    {
+      "album": {
         "name": "Pon Mi Side",
         "url": "https://open.spotify.com/album/0ybMzwqeW2i0qknNwGgcso"
       },
@@ -11504,6 +11600,28 @@
       "duration_ms": 267315,
       "name": "Pon Mi Side",
       "url": "https://open.spotify.com/track/58bvQzIbDmoZ0jOyHZYNzf"
+    },
+    {
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/51R8imC6KnYoe9SK0HydKP"
+      },
+      "artists": [
+        {
+          "name": "Andy C",
+          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+        },
+        {
+          "name": "whoismoli",
+          "url": "https://open.spotify.com/artist/4htty7YSmUIs1GeGBwwgRa"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158620,
+      "name": "Positions",
+      "url": "https://open.spotify.com/track/31vTFWO34LpiGka4eTuKur"
     },
     {
       "album": {
@@ -13786,7 +13904,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 187339,
       "name": "Spend The Night",
       "url": "https://open.spotify.com/track/4OoNi7RLLVKGlDcLgWPyKX"
@@ -14398,7 +14516,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 244137,
       "name": "Take Me High",
       "url": "https://open.spotify.com/track/3z8YKOIde4oDsm8KDjUlcd"

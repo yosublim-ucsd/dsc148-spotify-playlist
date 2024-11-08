@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Hubert.",
-  "num_followers": 18114,
+  "num_followers": 18115,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -303,90 +303,6 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "ZBUNTOWANI",
-        "url": "https://open.spotify.com/album/4PGVxRoEutpEMXNbqqDQ2Q"
-      },
-      "artists": [
-        {
-          "name": "Magiera",
-          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
-        },
-        {
-          "name": "BSK",
-          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "ZBUNTOWANI",
-      "url": "https://open.spotify.com/track/2gqTWssF1gWHT0SbQYoQgB"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
-        "name": "tempelhof",
-        "url": "https://open.spotify.com/album/23WBOzHYHQmXfydfkvl2ix"
-      },
-      "artists": [
-        {
-          "name": "Hubert.",
-          "url": "https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "tempelhof",
-      "url": "https://open.spotify.com/track/4lc2cq5pBsrms3JY6CS9l8"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
-        "name": "ACID MORO",
-        "url": "https://open.spotify.com/album/4bSY6sTUN5OXyNEoxtdEnz"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0142y ATZ",
-          "url": "https://open.spotify.com/artist/1PKW5LFWjU0jJGK2dYS1IE"
-        },
-        {
-          "name": "Kukon",
-          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
-        },
-        {
-          "name": "Miroff",
-          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
-        },
-        {
-          "name": "Misza",
-          "url": "https://open.spotify.com/artist/2SYfs5oBqJPZaNtSEhlt4h"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "TOP OF THE TOP",
-      "url": "https://open.spotify.com/track/39enuB5hG5KcQLOiHNb8Gn"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
-        "name": "Z\u0142ote \u0142ezki",
-        "url": "https://open.spotify.com/album/2nSAPkDSY1DuM55mUC089j"
-      },
-      "artists": [
-        {
-          "name": "Meek, Oh Why?",
-          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
-        },
-        {
-          "name": "BIESY",
-          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
-        }
-      ],
-      "duration_ms": 181973,
-      "name": "Z\u0142ote \u0142ezki",
-      "url": "https://open.spotify.com/track/6yEfNY4hAzCtckKBdLFH6f"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
         "name": "1989 Musical",
         "url": "https://open.spotify.com/album/2LeO9OHltJXAdXOzdyU4Pv"
       },
@@ -467,6 +383,90 @@
       "duration_ms": 250522,
       "name": "Zr\u00f3bmy dym",
       "url": "https://open.spotify.com/track/1NPxsoPVRggHcxXUqLovbz"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
+        "name": "tempelhof",
+        "url": "https://open.spotify.com/album/23WBOzHYHQmXfydfkvl2ix"
+      },
+      "artists": [
+        {
+          "name": "Hubert.",
+          "url": "https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "tempelhof",
+      "url": "https://open.spotify.com/track/4lc2cq5pBsrms3JY6CS9l8"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
+        "name": "ACID MORO",
+        "url": "https://open.spotify.com/album/4bSY6sTUN5OXyNEoxtdEnz"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142y ATZ",
+          "url": "https://open.spotify.com/artist/1PKW5LFWjU0jJGK2dYS1IE"
+        },
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        },
+        {
+          "name": "Miroff",
+          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
+        },
+        {
+          "name": "Misza",
+          "url": "https://open.spotify.com/artist/2SYfs5oBqJPZaNtSEhlt4h"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "TOP OF THE TOP",
+      "url": "https://open.spotify.com/track/39enuB5hG5KcQLOiHNb8Gn"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
+        "name": "ZBUNTOWANI",
+        "url": "https://open.spotify.com/album/4PGVxRoEutpEMXNbqqDQ2Q"
+      },
+      "artists": [
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+        },
+        {
+          "name": "BSK",
+          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "ZBUNTOWANI",
+      "url": "https://open.spotify.com/track/2gqTWssF1gWHT0SbQYoQgB"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
+        "name": "Z\u0142ote \u0142ezki",
+        "url": "https://open.spotify.com/album/2nSAPkDSY1DuM55mUC089j"
+      },
+      "artists": [
+        {
+          "name": "Meek, Oh Why?",
+          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
+        },
+        {
+          "name": "BIESY",
+          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
+        }
+      ],
+      "duration_ms": 181973,
+      "name": "Z\u0142ote \u0142ezki",
+      "url": "https://open.spotify.com/track/6yEfNY4hAzCtckKBdLFH6f"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
+        "name": "MUSZ\u0118 ZAWIJA\u0106",
+        "url": "https://open.spotify.com/album/5nMwW2k3AICpnFrewo07Z2"
+      },
+      "artists": [
+        {
+          "name": "North Side District",
+          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
+        }
+      ],
+      "duration_ms": 136630,
+      "name": "MUSZ\u0118 ZAWIJA\u0106",
+      "url": "https://open.spotify.com/track/7llkzwJj4QtbGBBqU9dDWA"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
         "name": "Zoo",
         "url": "https://open.spotify.com/album/7trwYuGY3gGK5dqpEZ7Bot"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 158890,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/7rG1GqSwfPCuxFAT7Kiobh"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
-        "name": "MUSZ\u0118 ZAWIJA\u0106",
-        "url": "https://open.spotify.com/album/5nMwW2k3AICpnFrewo07Z2"
-      },
-      "artists": [
-        {
-          "name": "North Side District",
-          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
-        }
-      ],
-      "duration_ms": 136630,
-      "name": "MUSZ\u0118 ZAWIJA\u0106",
-      "url": "https://open.spotify.com/track/7llkzwJj4QtbGBBqU9dDWA"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -763,22 +763,26 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "Wspania\u0142y \u015bwiat",
-        "url": "https://open.spotify.com/album/5tCV1jri0G3Mr5iQ4z2LLJ"
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/0sozO4gKD2xTGZhuHGCF6C"
       },
       "artists": [
         {
-          "name": "Meek, Oh Why?",
-          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
         },
         {
-          "name": "BIESY",
-          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
+          "name": "BRK",
+          "url": "https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n"
+        },
+        {
+          "name": "Marchew",
+          "url": "https://open.spotify.com/artist/5a8ogQC6QmFKO8O00C18mm"
         }
       ],
-      "duration_ms": 157098,
-      "name": "Wspania\u0142y \u015bwiat",
-      "url": "https://open.spotify.com/track/6Lk1PBaUq82Uu4iYhGQd0J"
+      "duration_ms": 253604,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/0OHydAhpZ3tcnvvNyG9M6C"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -835,26 +839,22 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "Sunset",
-        "url": "https://open.spotify.com/album/0sozO4gKD2xTGZhuHGCF6C"
+        "name": "Wspania\u0142y \u015bwiat",
+        "url": "https://open.spotify.com/album/5tCV1jri0G3Mr5iQ4z2LLJ"
       },
       "artists": [
         {
-          "name": "Jamal",
-          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
+          "name": "Meek, Oh Why?",
+          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
         },
         {
-          "name": "BRK",
-          "url": "https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n"
-        },
-        {
-          "name": "Marchew",
-          "url": "https://open.spotify.com/artist/5a8ogQC6QmFKO8O00C18mm"
+          "name": "BIESY",
+          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
         }
       ],
-      "duration_ms": 253604,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/0OHydAhpZ3tcnvvNyG9M6C"
+      "duration_ms": 157098,
+      "name": "Wspania\u0142y \u015bwiat",
+      "url": "https://open.spotify.com/track/6Lk1PBaUq82Uu4iYhGQd0J"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "PIEK\u0141O DLA DJ\u00d3W",
-        "url": "https://open.spotify.com/album/126knzUZMhEKx6OMvPy2qP"
-      },
-      "artists": [
-        {
-          "name": "VBS",
-          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
-        }
-      ],
-      "duration_ms": 129520,
-      "name": "PIEK\u0141O DLA DJ\u00d3W",
-      "url": "https://open.spotify.com/track/6KIFackyhwdmyYwM4JsdT9"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
         "name": "B\u0119dzie dobrze",
         "url": "https://open.spotify.com/album/3XWNKLsR1FGaJaMmsAvgJ7"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 232258,
       "name": "B\u0119dzie dobrze",
       "url": "https://open.spotify.com/track/2mNLIVvraVC5ZOgly3IcFm"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
+        "name": "PIEK\u0141O DLA DJ\u00d3W",
+        "url": "https://open.spotify.com/album/126knzUZMhEKx6OMvPy2qP"
+      },
+      "artists": [
+        {
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+        }
+      ],
+      "duration_ms": 129520,
+      "name": "PIEK\u0141O DLA DJ\u00d3W",
+      "url": "https://open.spotify.com/track/6KIFackyhwdmyYwM4JsdT9"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1339,6 +1339,30 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
+        "name": "Jasny Obraz Ciemnych Czas\u00f3w",
+        "url": "https://open.spotify.com/album/4WowdtJBbEbVEJOaywqtSh"
+      },
+      "artists": [
+        {
+          "name": "Biak",
+          "url": "https://open.spotify.com/artist/6TgOhsXlg8Lnh2ZuQtSNFf"
+        },
+        {
+          "name": "Qzyn",
+          "url": "https://open.spotify.com/artist/6j7lZDN57Q5jWzKmVpL4Ob"
+        },
+        {
+          "name": "Dizkret",
+          "url": "https://open.spotify.com/artist/5r7hanNIrLe99HTjW5ksF5"
+        }
+      ],
+      "duration_ms": 185387,
+      "name": "RMLJHF",
+      "url": "https://open.spotify.com/track/3h1VqdlbgVsW7Sbcz4ll6o"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
         "name": "ALL IN",
         "url": "https://open.spotify.com/album/3ZOnTy0OelYAp4MPhTLuJY"
       },
@@ -1423,30 +1447,6 @@
       "duration_ms": 276136,
       "name": "ALL IN",
       "url": "https://open.spotify.com/track/0jfGFAlrxBYAaebeotjeCC"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
-        "name": "Jasny Obraz Ciemnych Czas\u00f3w",
-        "url": "https://open.spotify.com/album/4WowdtJBbEbVEJOaywqtSh"
-      },
-      "artists": [
-        {
-          "name": "Biak",
-          "url": "https://open.spotify.com/artist/6TgOhsXlg8Lnh2ZuQtSNFf"
-        },
-        {
-          "name": "Qzyn",
-          "url": "https://open.spotify.com/artist/6j7lZDN57Q5jWzKmVpL4Ob"
-        },
-        {
-          "name": "Dizkret",
-          "url": "https://open.spotify.com/artist/5r7hanNIrLe99HTjW5ksF5"
-        }
-      ],
-      "duration_ms": 185387,
-      "name": "RMLJHF",
-      "url": "https://open.spotify.com/track/3h1VqdlbgVsW7Sbcz4ll6o"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "Pozdrawiam S\u0105siad\u00f3w",
-        "url": "https://open.spotify.com/album/3RzzVZX97JGXxBowLvbymC"
-      },
-      "artists": [
-        {
-          "name": "Helucze",
-          "url": "https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr"
-        }
-      ],
-      "duration_ms": 205969,
-      "name": "Pozdrawiam S\u0105siad\u00f3w",
-      "url": "https://open.spotify.com/track/15Y2BNhZ2dMyLxlbGj88Ak"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
         "name": "PROFIT",
         "url": "https://open.spotify.com/album/5UkBZRLRL0WL2dDrTLz1jD"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 156631,
       "name": "PROFIT",
       "url": "https://open.spotify.com/track/5uxvDs3CncPQaitNJcKo7d"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
+        "name": "Pozdrawiam S\u0105siad\u00f3w",
+        "url": "https://open.spotify.com/album/3RzzVZX97JGXxBowLvbymC"
+      },
+      "artists": [
+        {
+          "name": "Helucze",
+          "url": "https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr"
+        }
+      ],
+      "duration_ms": 205969,
+      "name": "Pozdrawiam S\u0105siad\u00f3w",
+      "url": "https://open.spotify.com/track/15Y2BNhZ2dMyLxlbGj88Ak"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1867,6 +1867,34 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
+        "name": "Deadpool",
+        "url": "https://open.spotify.com/album/5pj1BjV9EqCCG0xVFVWI7p"
+      },
+      "artists": [
+        {
+          "name": "Ko\u015bciey",
+          "url": "https://open.spotify.com/artist/1RH77lN0aqyLvmiiiUvkpG"
+        },
+        {
+          "name": "Boryn",
+          "url": "https://open.spotify.com/artist/5AdmifGjkkz3Bg2bK05NQq"
+        },
+        {
+          "name": "Mada",
+          "url": "https://open.spotify.com/artist/7asAvALnQz42AEYavWUZUV"
+        },
+        {
+          "name": "Dj Qmak",
+          "url": "https://open.spotify.com/artist/2LUyULm4hu6KViQeXRUAkJ"
+        }
+      ],
+      "duration_ms": 188108,
+      "name": "Deadpool",
+      "url": "https://open.spotify.com/track/5Lj9prDmsVxOVMLoksEgNl"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
         "name": "To Wydarzy\u0142o Si\u0119 Naprawd\u0119 Opr\u00f3cz Tego, Co Zmy\u015bli\u0142em (DELUXE)",
         "url": "https://open.spotify.com/album/64rUySEtui2rnmII9cKG7A"
       },
@@ -1915,34 +1943,6 @@
       "duration_ms": 147000,
       "name": "Jakby\u015b chcia\u0142 pogada\u0107",
       "url": "https://open.spotify.com/track/4ktmLRlu6kfD2dHSe5t5sX"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
-        "name": "Deadpool",
-        "url": "https://open.spotify.com/album/5pj1BjV9EqCCG0xVFVWI7p"
-      },
-      "artists": [
-        {
-          "name": "Ko\u015bciey",
-          "url": "https://open.spotify.com/artist/1RH77lN0aqyLvmiiiUvkpG"
-        },
-        {
-          "name": "Boryn",
-          "url": "https://open.spotify.com/artist/5AdmifGjkkz3Bg2bK05NQq"
-        },
-        {
-          "name": "Mada",
-          "url": "https://open.spotify.com/artist/7asAvALnQz42AEYavWUZUV"
-        },
-        {
-          "name": "Dj Qmak",
-          "url": "https://open.spotify.com/artist/2LUyULm4hu6KViQeXRUAkJ"
-        }
-      ],
-      "duration_ms": 188108,
-      "name": "Deadpool",
-      "url": "https://open.spotify.com/track/5Lj9prDmsVxOVMLoksEgNl"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -2115,30 +2115,6 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "Kolejno\u015b\u0107 wykonywania dzia\u0142a\u0144",
-        "url": "https://open.spotify.com/album/61Wdrtn1VeFmayVxE0TfrP"
-      },
-      "artists": [
-        {
-          "name": "Przyborowski",
-          "url": "https://open.spotify.com/artist/3cPZRLo3AIsDPpMPVBsfxi"
-        },
-        {
-          "name": "Guest Julka",
-          "url": "https://open.spotify.com/artist/7nmNPZucUmo9x6Mh5llOoZ"
-        },
-        {
-          "name": "TKTSB",
-          "url": "https://open.spotify.com/artist/4mSKEA07p8uMTwwuU1ER6N"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Namiary",
-      "url": "https://open.spotify.com/track/5fcWPUONboxB8YZsXbqlvC"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
         "name": "Napad",
         "url": "https://open.spotify.com/album/64LvULdyg978WFebqFmQzX"
       },
@@ -2159,6 +2135,30 @@
       "duration_ms": 135211,
       "name": "Napad",
       "url": "https://open.spotify.com/track/0Y1hSwTKDFHSgmll2o95HF"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
+        "name": "Kolejno\u015b\u0107 wykonywania dzia\u0142a\u0144",
+        "url": "https://open.spotify.com/album/61Wdrtn1VeFmayVxE0TfrP"
+      },
+      "artists": [
+        {
+          "name": "Przyborowski",
+          "url": "https://open.spotify.com/artist/3cPZRLo3AIsDPpMPVBsfxi"
+        },
+        {
+          "name": "Guest Julka",
+          "url": "https://open.spotify.com/artist/7nmNPZucUmo9x6Mh5llOoZ"
+        },
+        {
+          "name": "TKTSB",
+          "url": "https://open.spotify.com/artist/4mSKEA07p8uMTwwuU1ER6N"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Namiary",
+      "url": "https://open.spotify.com/track/5fcWPUONboxB8YZsXbqlvC"
     },
     {
       "added_at": "2024-10-25 15:02:36",

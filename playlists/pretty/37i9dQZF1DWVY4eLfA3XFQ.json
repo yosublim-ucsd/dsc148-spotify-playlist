@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Shermanology \ud83d\udc7d\ud83d\udc7d  50% techno, 50% house",
-  "num_followers": 637705,
+  "num_followers": 637767,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1733,6 +1733,26 @@
       "url": "https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di"
     },
     {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/0Ie0qpcmFC4JKfBlu6smDx"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Divolly & Markward",
+          "url": "https://open.spotify.com/artist/6CEFAXiSvUDVs26MPyic13"
+        }
+      ],
+      "duration_ms": 177096,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/3vUcG8qu1KgThYYEYHWIti"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Let's Go Dancing (Matroda Remix)",
@@ -1755,26 +1775,6 @@
       "duration_ms": 195473,
       "name": "Let's Go Dancing - Matroda Remix",
       "url": "https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/0Ie0qpcmFC4JKfBlu6smDx"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Divolly & Markward",
-          "url": "https://open.spotify.com/artist/6CEFAXiSvUDVs26MPyic13"
-        }
-      ],
-      "duration_ms": 177096,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/3vUcG8qu1KgThYYEYHWIti"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1837,20 +1837,24 @@
       "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/3RLlP4ytZHIydqb4D3CBs7"
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/4eckRviJJ9evFNBgxpOApM"
       },
       "artists": [
         {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/1InA5Yfl0vpkI4ljpiXlqt"
+      "duration_ms": 190232,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/0rb8i9s9WTj57KfdOctpq7"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1893,24 +1897,20 @@
       "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/4eckRviJJ9evFNBgxpOApM"
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/3RLlP4ytZHIydqb4D3CBs7"
       },
       "artists": [
         {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        },
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
         }
       ],
-      "duration_ms": 190232,
-      "name": "Shapeshifter",
-      "url": "https://open.spotify.com/track/0rb8i9s9WTj57KfdOctpq7"
+      "duration_ms": 185000,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/1InA5Yfl0vpkI4ljpiXlqt"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1985,30 +1985,6 @@
       "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Dominator",
-        "url": "https://open.spotify.com/album/0d24GMCqZ7kyl5Q9xtJfaH"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        },
-        {
-          "name": "Max Mylo",
-          "url": "https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK"
-        },
-        {
-          "name": "Human Resource",
-          "url": "https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t"
-        }
-      ],
-      "duration_ms": 171883,
-      "name": "Dominator",
-      "url": "https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA"
-    },
-    {
       "added_at": "2024-06-14 04:00:00",
       "album": {
         "name": "Midnight Train",
@@ -2059,6 +2035,50 @@
       "duration_ms": 187840,
       "name": "While The Record Spins",
       "url": "https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Dominator",
+        "url": "https://open.spotify.com/album/0d24GMCqZ7kyl5Q9xtJfaH"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        {
+          "name": "Max Mylo",
+          "url": "https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK"
+        },
+        {
+          "name": "Human Resource",
+          "url": "https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t"
+        }
+      ],
+      "duration_ms": 171883,
+      "name": "Dominator",
+      "url": "https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA"
+    },
+    {
+      "added_at": "2024-11-01 05:19:33",
+      "album": {
+        "name": "Something Real",
+        "url": "https://open.spotify.com/album/3H46xPl7qcJIeFy6yugMAm"
+      },
+      "artists": [
+        {
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 226874,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/7aQj2ocqPu5LuoQIJmbbeu"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -2117,38 +2137,6 @@
       "url": "https://open.spotify.com/track/01Mw7ketwRgjUxkzyFogiI"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "D.A.N.C.E",
-        "url": "https://open.spotify.com/album/4lT8F3ZtFCmtsiY206o13Y"
-      },
-      "artists": [
-        {
-          "name": "Illyus & Barrientos",
-          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
-        }
-      ],
-      "duration_ms": 157142,
-      "name": "D.A.N.C.E",
-      "url": "https://open.spotify.com/track/2mnQZtS74Agt6mJPv5eqzY"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "In The Place",
-        "url": "https://open.spotify.com/album/5UTK104Mg5ov1lBWFIirRh"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 183383,
-      "name": "In The Place",
-      "url": "https://open.spotify.com/track/74h1irRDFwE22VUTPX25oR"
-    },
-    {
       "added_at": "2024-04-26 04:01:00",
       "album": {
         "name": "The Unexplained",
@@ -2173,6 +2161,38 @@
       "url": "https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg"
     },
     {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Shaky",
+        "url": "https://open.spotify.com/album/423ScEexLkxNgdlxeFfT5L"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "Shaky",
+      "url": "https://open.spotify.com/track/4hSDDnDiSaTSqIB8u9Zoap"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "D.A.N.C.E",
+        "url": "https://open.spotify.com/album/4lT8F3ZtFCmtsiY206o13Y"
+      },
+      "artists": [
+        {
+          "name": "Illyus & Barrientos",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        }
+      ],
+      "duration_ms": 157142,
+      "name": "D.A.N.C.E",
+      "url": "https://open.spotify.com/track/2mnQZtS74Agt6mJPv5eqzY"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Tarantula (Max Styler Remix)",
@@ -2193,20 +2213,36 @@
       "url": "https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Shaky",
-        "url": "https://open.spotify.com/album/423ScEexLkxNgdlxeFfT5L"
+        "name": "In The Place",
+        "url": "https://open.spotify.com/album/5UTK104Mg5ov1lBWFIirRh"
       },
       "artists": [
         {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
         }
       ],
-      "duration_ms": 151874,
-      "name": "Shaky",
-      "url": "https://open.spotify.com/track/4hSDDnDiSaTSqIB8u9Zoap"
+      "duration_ms": 183383,
+      "name": "In The Place",
+      "url": "https://open.spotify.com/track/74h1irRDFwE22VUTPX25oR"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 153281,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2223,26 +2259,6 @@
       "duration_ms": 185624,
       "name": "Done",
       "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
-    },
-    {
-      "added_at": "2024-11-01 05:19:33",
-      "album": {
-        "name": "Something Real",
-        "url": "https://open.spotify.com/album/3H46xPl7qcJIeFy6yugMAm"
-      },
-      "artists": [
-        {
-          "name": "\u20acURO TRA$H",
-          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 226874,
-      "name": "Something Real",
-      "url": "https://open.spotify.com/track/7aQj2ocqPu5LuoQIJmbbeu"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2263,22 +2279,6 @@
       "duration_ms": 142322,
       "name": "Keep It Real",
       "url": "https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "The Edge",
-        "url": "https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 153281,
-      "name": "The Edge",
-      "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -2317,6 +2317,26 @@
       "url": "https://open.spotify.com/track/5QvM8VE7pqBn73Av704IkA"
     },
     {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "What You Looking For",
+        "url": "https://open.spotify.com/album/0xpzEqmImstaRCOo64kOta"
+      },
+      "artists": [
+        {
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 182343,
+      "name": "What You Looking For",
+      "url": "https://open.spotify.com/track/5dxiZJLeZPChBTvAbOfwXT"
+    },
+    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Rattlesnake",
@@ -2347,22 +2367,6 @@
       "duration_ms": 155156,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/6uH0UV20T1Ba38BJgcAjbL"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Freddie's Warmup",
-        "url": "https://open.spotify.com/album/00igoxLQ6l5h5fXz00No8m"
-      },
-      "artists": [
-        {
-          "name": "Vlado",
-          "url": "https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi"
-        }
-      ],
-      "duration_ms": 120930,
-      "name": "Freddie's Warmup",
-      "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
     }
   ],
   "unique_name": "Tech House Operator",

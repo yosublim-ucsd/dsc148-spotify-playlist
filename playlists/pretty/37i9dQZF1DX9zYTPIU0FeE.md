@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0?si=2m1OIjRLRFa0tE28uktFTw">Letta Mbulu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,043 likes - 51 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,052 likes - 51 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

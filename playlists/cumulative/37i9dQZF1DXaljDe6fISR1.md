@@ -2,9 +2,9 @@
 
 ### [Gigantes do Rap Nacional](https://open.spotify.com/playlist/37i9dQZF1DXaljDe6fISR1)
 
-> Ouça grandes MCs do hip hop nacional\. Foto: Racionais MC's
+> Ouça grandes MCs do hip hop nacional\. Foto: Thaíde
 
-123 songs - 9 hr 26 min
+124 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Respeito É pra Quem Tem](https://open.spotify.com/track/5yVK0yIimJJDiFkFSTgQSd) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/7f7tJ66hE6aghmPubHTqVk) | 5:29 | 2022-03-11 |  |
 | [Retrato de um Playboy \(Juventude Perdida\)](https://open.spotify.com/track/3UIgJ1731jLr1qzDZy1Ma2) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD) | [Gabriel O Pensador](https://open.spotify.com/album/6U8M46eDHMmL6TmlveNxVt) | 3:58 | 2022-03-11 |  |
 | [Retrato de um Playboy \(Juventude Perdida\)](https://open.spotify.com/track/3wtl36m4QVTlc8aUZfPWM8) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD) | [Tás A Ver \- O Melhor de Gabriel O Pensador](https://open.spotify.com/album/6hYtxwo8Fy3VFSnbJy3VqJ) | 3:58 | 2022-10-07 | 2024-04-19 |
+| [Ritmo e Poesia](https://open.spotify.com/track/5GHsxasJ4nHqiww6OrAXnZ) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Felipe Mayfield](https://open.spotify.com/artist/6WDEvdYwQU99ZiuiSnCW2W) | [Ritmo e Poesia](https://open.spotify.com/album/01S1Q6CShCwZ75DSsqWLLo) | 2:42 | 2024-11-08 |  |
 | [Rolo Compressor](https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 3:11 | 2022-03-11 |  |
 | [Sangue Do Meu Sangue](https://open.spotify.com/track/0lqfiVP5aKthtfFSTmDnuY) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [patetacodigo43](https://open.spotify.com/artist/0OMa4u0AUXZIQLnVNiIYOk), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg), [Leo Rc](https://open.spotify.com/artist/5XzyRZ2bwDvQaPDWlQ0oWg) | [Sangue Do Meu Sangue](https://open.spotify.com/album/127V5Rsf1J0kkD8E5LkB2p) | 3:20 | 2023-08-18 | 2024-08-10 |
 | [Se Escute](https://open.spotify.com/track/6dRhcpld5vzJ21gMAY7aZg) | [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [Sem Cortesia \(Vagando na Babilônia / Em Busca de Canaã\)](https://open.spotify.com/album/3Qme8XNg5l1q3sbvXueqsK) | 2:45 | 2022-03-11 |  |

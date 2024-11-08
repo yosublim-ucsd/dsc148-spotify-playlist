@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Peach Pit
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,925 likes - 104 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,924 likes - 104 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

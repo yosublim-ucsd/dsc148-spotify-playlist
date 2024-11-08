@@ -1,6 +1,6 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 711724,
+  "num_followers": 711925,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2024-07-09 14:16:39",
       "album": {
-        "name": "NASTU",
-        "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Pablo Mas",
-          "url": "https://open.spotify.com/artist/2f6TzIGIIxEuwp6o7kEbhy"
-        }
-      ],
-      "duration_ms": 168367,
-      "name": "Mami",
-      "url": "https://open.spotify.com/track/4FjkjrvfbB3C4eUqWlw3vB"
-    },
-    {
-      "added_at": "2024-07-09 14:16:39",
-      "album": {
         "name": "En Tu Cuerpo (Remix)",
         "url": "https://open.spotify.com/album/4IoXqa2p31wSTnOIYppcG3"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 310860,
       "name": "En Tu Cuerpo - Remix",
       "url": "https://open.spotify.com/track/3dEtfTtCXWW7N8WQ9FD29z"
+    },
+    {
+      "added_at": "2024-07-09 14:16:39",
+      "album": {
+        "name": "NASTU",
+        "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Pablo Mas",
+          "url": "https://open.spotify.com/artist/2f6TzIGIIxEuwp6o7kEbhy"
+        }
+      ],
+      "duration_ms": 168367,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/4FjkjrvfbB3C4eUqWlw3vB"
     },
     {
       "added_at": "2024-07-09 14:16:39",
@@ -1607,30 +1607,6 @@
     {
       "added_at": "2024-07-09 14:16:39",
       "album": {
-        "name": "Ajena",
-        "url": "https://open.spotify.com/album/09f8EgWWvka2uplSWGdIwV"
-      },
-      "artists": [
-        {
-          "name": "Dayme y El High",
-          "url": "https://open.spotify.com/artist/4JreHVYyb6GqE2BU03Kx96"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Dylan Fuentes",
-          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
-        }
-      ],
-      "duration_ms": 162901,
-      "name": "Ajena (with Myke Towers, Dylan Fuentes)",
-      "url": "https://open.spotify.com/track/4KXtFUFmPObTROXShFLHZX"
-    },
-    {
-      "added_at": "2024-07-09 14:16:39",
-      "album": {
         "name": "Club Diecis\u00e9is",
         "url": "https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU"
       },
@@ -1651,6 +1627,30 @@
       "duration_ms": 171832,
       "name": "A Mi Tambi\u00e9n ft. Alvaro Diaz, Feid",
       "url": "https://open.spotify.com/track/5Bc130ZswADfOY9bxk1y98"
+    },
+    {
+      "added_at": "2024-07-09 14:16:39",
+      "album": {
+        "name": "Ajena",
+        "url": "https://open.spotify.com/album/09f8EgWWvka2uplSWGdIwV"
+      },
+      "artists": [
+        {
+          "name": "Dayme y El High",
+          "url": "https://open.spotify.com/artist/4JreHVYyb6GqE2BU03Kx96"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Dylan Fuentes",
+          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
+        }
+      ],
+      "duration_ms": 162901,
+      "name": "Ajena (with Myke Towers, Dylan Fuentes)",
+      "url": "https://open.spotify.com/track/4KXtFUFmPObTROXShFLHZX"
     },
     {
       "added_at": "2024-07-09 14:16:39",

@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 106898,
+  "num_followers": 106896,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
+        "name": "Louvre",
+        "url": "https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP"
+      },
+      "artists": [
+        {
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+        }
+      ],
+      "duration_ms": 169002,
+      "name": "Louvre",
+      "url": "https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
         "name": "Dos Hemisferios",
         "url": "https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 215931,
       "name": "Dos Hemisferios",
       "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
-        "name": "Louvre",
-        "url": "https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP"
-      },
-      "artists": [
-        {
-          "name": "Santi Muk",
-          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
-        }
-      ],
-      "duration_ms": 169002,
-      "name": "Louvre",
-      "url": "https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "Isita Querida",
-        "url": "https://open.spotify.com/album/3DbxApzAXepZFisQtRLVqB"
-      },
-      "artists": [
-        {
-          "name": "El Chacal & Los Alpes Floreados",
-          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Isita Querida",
-      "url": "https://open.spotify.com/track/7Ga52DoqpLS1ZaGbMmBk6J"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "Conexi\u00f3n de Almas",
         "url": "https://open.spotify.com/album/2l90GlBhi3FRK5uVcOeVwQ"
       },
@@ -795,18 +779,34 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/3rjay3TC0UuyXz9jXAznhx"
+        "name": "Isita Querida",
+        "url": "https://open.spotify.com/album/3DbxApzAXepZFisQtRLVqB"
       },
       "artists": [
         {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+          "name": "El Chacal & Los Alpes Floreados",
+          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
         }
       ],
-      "duration_ms": 147000,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/3pWKmAgp9FnQCsMPvrKlTa"
+      "duration_ms": 212000,
+      "name": "Isita Querida",
+      "url": "https://open.spotify.com/track/7Ga52DoqpLS1ZaGbMmBk6J"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 209732,
+      "name": "Pedazo de Cielo",
+      "url": "https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/3rjay3TC0UuyXz9jXAznhx"
       },
       "artists": [
         {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
         }
       ],
-      "duration_ms": 209732,
-      "name": "Pedazo de Cielo",
-      "url": "https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR"
+      "duration_ms": 147000,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/3pWKmAgp9FnQCsMPvrKlTa"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "T\u00fa me quieres m\u00e1s",
-        "url": "https://open.spotify.com/album/44taB2vnpXNc6XHigGxWSW"
-      },
-      "artists": [
-        {
-          "name": "Francisco Victoria",
-          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
-        }
-      ],
-      "duration_ms": 202903,
-      "name": "T\u00fa me quieres m\u00e1s",
-      "url": "https://open.spotify.com/track/6BByot90SC8fvj9mU5xSKY"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "Tuami",
         "url": "https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 186000,
       "name": "Tuami",
       "url": "https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "T\u00fa me quieres m\u00e1s",
+        "url": "https://open.spotify.com/album/44taB2vnpXNc6XHigGxWSW"
+      },
+      "artists": [
+        {
+          "name": "Francisco Victoria",
+          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
+        }
+      ],
+      "duration_ms": 202903,
+      "name": "T\u00fa me quieres m\u00e1s",
+      "url": "https://open.spotify.com/track/6BByot90SC8fvj9mU5xSKY"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
+        "name": "Reina",
+        "url": "https://open.spotify.com/album/64uweRga2ScsdB8Nf77yjg"
+      },
+      "artists": [
+        {
+          "name": "Agua Florida",
+          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
+        }
+      ],
+      "duration_ms": 183434,
+      "name": "Reina",
+      "url": "https://open.spotify.com/track/4deE2RmG4R1N1mlHJABUeW"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
         "name": "Escorpio",
         "url": "https://open.spotify.com/album/0S59LCu434GKMKElLFd8wO"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 172000,
       "name": "John & Yoko",
       "url": "https://open.spotify.com/track/2vgAXpwMCMEx0WHBpKhy0a"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
-        "name": "Reina",
-        "url": "https://open.spotify.com/album/64uweRga2ScsdB8Nf77yjg"
-      },
-      "artists": [
-        {
-          "name": "Agua Florida",
-          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
-        }
-      ],
-      "duration_ms": 183434,
-      "name": "Reina",
-      "url": "https://open.spotify.com/track/4deE2RmG4R1N1mlHJABUeW"
     },
     {
       "added_at": "2024-10-24 20:31:41",

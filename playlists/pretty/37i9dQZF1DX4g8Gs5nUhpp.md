@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: MONO
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,774 likes - 55 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,793 likes - 55 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bình Yên](https://open.spotify.com/track/5IZDnmnMBzLnE6APoYL26d) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj) | [Bình Yên](https://open.spotify.com/album/6DeqUBJYtfvtw8pcpEJqna) | 3:21 |
+| 1 | [bình yên](https://open.spotify.com/track/5IZDnmnMBzLnE6APoYL26d) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj) | [bình yên](https://open.spotify.com/album/6DeqUBJYtfvtw8pcpEJqna) | 3:21 |
 | 2 | [Từng Quen](https://open.spotify.com/track/3un8UkiPHJjlsrTHQnisXH) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [itsnk](https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn) | [Từng Quen](https://open.spotify.com/album/2M0vYJZddXn6qRpeVtGvDZ) | 2:54 |
 | 3 | [Đừng Làm Trái Tim Anh Đau](https://open.spotify.com/track/31VNCmwspR7nVJ6kruUuJt) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [Đừng Làm Trái Tim Anh Đau](https://open.spotify.com/album/6TnmFHbUYVfe4iuQjPQB2r) | 4:39 |
 | 4 | [NGỰA Ô](https://open.spotify.com/track/4eeflgjzTF8xN8U2E0dech) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [DONAL](https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ) | [NGỰA Ô](https://open.spotify.com/album/0gkv4yJzOP4UG19rm8lumW) | 3:35 |

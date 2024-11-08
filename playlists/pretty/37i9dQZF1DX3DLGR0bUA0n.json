@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. Banda Primos de Tierra Caliente en portada. ",
-  "num_followers": 66766,
+  "num_followers": 66817,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "A Donde Vas Chiquilla",
-        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
-      },
-      "artists": [
-        {
-          "name": "La Fuerza de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "El Rengo Del Gallo Giro",
-      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
-    },
-    {
-      "added_at": "2024-10-18 15:32:46",
-      "album": {
         "name": "Camionero",
         "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 229346,
       "name": "El Camionero",
       "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
+    },
+    {
+      "added_at": "2024-10-18 15:32:46",
+      "album": {
+        "name": "A Donde Vas Chiquilla",
+        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
+      },
+      "artists": [
+        {
+          "name": "La Fuerza de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "El Rengo Del Gallo Giro",
+      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Tercia de Reyes",
-        "url": "https://open.spotify.com/album/7v4dH5m0lTN5ywngANBPJd"
-      },
-      "artists": [
-        {
-          "name": "Los hermanos Jimenez",
-          "url": "https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn"
-        }
-      ],
-      "duration_ms": 148520,
-      "name": "No Compro Amores",
-      "url": "https://open.spotify.com/track/2ueAJJVe4Lwjh4hXfdcsMh"
-    },
-    {
-      "added_at": "2024-10-18 15:32:46",
-      "album": {
         "name": "De California Te Escribo",
         "url": "https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 212040,
       "name": "El Rey Pobre",
       "url": "https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt"
+    },
+    {
+      "added_at": "2024-10-18 15:32:46",
+      "album": {
+        "name": "Tercia de Reyes",
+        "url": "https://open.spotify.com/album/7v4dH5m0lTN5ywngANBPJd"
+      },
+      "artists": [
+        {
+          "name": "Los hermanos Jimenez",
+          "url": "https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn"
+        }
+      ],
+      "duration_ms": 148520,
+      "name": "No Compro Amores",
+      "url": "https://open.spotify.com/track/2ueAJJVe4Lwjh4hXfdcsMh"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Para Toda La Vida",
-        "url": "https://open.spotify.com/album/02jK2HoW0zuWrZIhnfdNUC"
-      },
-      "artists": [
-        {
-          "name": "Severo Benito y Su Banda Cachas de Oro",
-          "url": "https://open.spotify.com/artist/6TeppE6IknfNDo3A0oHqDS"
-        }
-      ],
-      "duration_ms": 170733,
-      "name": "La Grapa",
-      "url": "https://open.spotify.com/track/2m4EVVm3PzUQX8L3GviCeH"
-    },
-    {
-      "added_at": "2024-10-18 15:32:46",
-      "album": {
         "name": "Homenaje al Rey Pobre",
         "url": "https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/02jK2HoW0zuWrZIhnfdNUC"
+      },
+      "artists": [
+        {
+          "name": "Severo Benito y Su Banda Cachas de Oro",
+          "url": "https://open.spotify.com/artist/6TeppE6IknfNDo3A0oHqDS"
+        }
+      ],
+      "duration_ms": 170733,
+      "name": "La Grapa",
+      "url": "https://open.spotify.com/track/2m4EVVm3PzUQX8L3GviCeH"
+    },
+    {
+      "added_at": "2024-10-18 15:32:46",
+      "album": {
         "name": "Al Mismo Nivel",
         "url": "https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD"
       },
@@ -1403,38 +1403,6 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Guerra De Corridos",
-        "url": "https://open.spotify.com/album/1R8RBzaqLFU7DGSbJwgqOG"
-      },
-      "artists": [
-        {
-          "name": "Banda Roja",
-          "url": "https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2"
-        }
-      ],
-      "duration_ms": 152466,
-      "name": "Mis Errores Pagando",
-      "url": "https://open.spotify.com/track/5RBst3Kt94kZApvvK2ecuS"
-    },
-    {
-      "added_at": "2024-10-18 15:32:46",
-      "album": {
-        "name": "Somos Mas Americanos",
-        "url": "https://open.spotify.com/album/21HMMgxvURhNvsJiQYX5yT"
-      },
-      "artists": [
-        {
-          "name": "Principez De Tuzantla",
-          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
-        }
-      ],
-      "duration_ms": 210092,
-      "name": "Se Termino Lo Nuestro",
-      "url": "https://open.spotify.com/track/1ehEgDAKGx25rDixKp6G7T"
-    },
-    {
-      "added_at": "2024-10-18 15:32:46",
-      "album": {
         "name": "Cu\u00e9ntale a la Gente (feat. La Leyenda De Servando Montalva)",
         "url": "https://open.spotify.com/album/0gJoiSwS7poTKJJSDUQwEC"
       },
@@ -1455,6 +1423,38 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
+        "name": "Somos Mas Americanos",
+        "url": "https://open.spotify.com/album/21HMMgxvURhNvsJiQYX5yT"
+      },
+      "artists": [
+        {
+          "name": "Principez De Tuzantla",
+          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
+        }
+      ],
+      "duration_ms": 210092,
+      "name": "Se Termino Lo Nuestro",
+      "url": "https://open.spotify.com/track/1ehEgDAKGx25rDixKp6G7T"
+    },
+    {
+      "added_at": "2024-10-18 15:32:46",
+      "album": {
+        "name": "Guerra De Corridos",
+        "url": "https://open.spotify.com/album/1R8RBzaqLFU7DGSbJwgqOG"
+      },
+      "artists": [
+        {
+          "name": "Banda Roja",
+          "url": "https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2"
+        }
+      ],
+      "duration_ms": 152466,
+      "name": "Mis Errores Pagando",
+      "url": "https://open.spotify.com/track/5RBst3Kt94kZApvvK2ecuS"
+    },
+    {
+      "added_at": "2024-10-18 15:32:46",
+      "album": {
         "name": "Mal Amor",
         "url": "https://open.spotify.com/album/68SwveWQ8tqtqrPW85wkmn"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Se Equivoco Tu Corazon",
-        "url": "https://open.spotify.com/album/0L9ukApFrYj9w8eMODlVEb"
-      },
-      "artists": [
-        {
-          "name": "La Marka",
-          "url": "https://open.spotify.com/artist/7vrH7DRYWF88rTM7YpnAIj"
-        }
-      ],
-      "duration_ms": 149693,
-      "name": "Lo Descubri En Tus Brazos",
-      "url": "https://open.spotify.com/track/5MzjN7ydAXnv7odUfl0xV7"
-    },
-    {
-      "added_at": "2024-10-18 15:32:46",
-      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/0fvLPJdXSU7YonBQNWNL4M"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 202083,
       "name": "Inolvidables",
       "url": "https://open.spotify.com/track/3wQ0hlPa8QibAudvFpmhOU"
+    },
+    {
+      "added_at": "2024-10-18 15:32:46",
+      "album": {
+        "name": "Se Equivoco Tu Corazon",
+        "url": "https://open.spotify.com/album/0L9ukApFrYj9w8eMODlVEb"
+      },
+      "artists": [
+        {
+          "name": "La Marka",
+          "url": "https://open.spotify.com/artist/7vrH7DRYWF88rTM7YpnAIj"
+        }
+      ],
+      "duration_ms": 149693,
+      "name": "Lo Descubri En Tus Brazos",
+      "url": "https://open.spotify.com/track/5MzjN7ydAXnv7odUfl0xV7"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Amores Con Mi Estilo",
-        "url": "https://open.spotify.com/album/63YNDwByneAd6pjTyC69n4"
-      },
-      "artists": [
-        {
-          "name": "La Leyenda De Servando Montalva",
-          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Amores Con Mi Estilo",
-      "url": "https://open.spotify.com/track/1ud0AROpkyiy8ze2hfY7B2"
-    },
-    {
-      "added_at": "2024-10-18 15:32:46",
-      "album": {
         "name": "Estar\u00e9 Bien",
         "url": "https://open.spotify.com/album/4DCQ9zEzZfjTLnKwAPvID3"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 223221,
       "name": "Si No Te Tengo",
       "url": "https://open.spotify.com/track/64YyId0Pl7taaQvEmeeR9A"
+    },
+    {
+      "added_at": "2024-10-18 15:32:46",
+      "album": {
+        "name": "Amores Con Mi Estilo",
+        "url": "https://open.spotify.com/album/63YNDwByneAd6pjTyC69n4"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda De Servando Montalva",
+          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Amores Con Mi Estilo",
+      "url": "https://open.spotify.com/track/1ud0AROpkyiy8ze2hfY7B2"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -1796,9 +1796,9 @@
           "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
         }
       ],
-      "duration_ms": 245690,
-      "name": "El Americano",
-      "url": "https://open.spotify.com/track/1iGDwwOVyMQJhF58cV36U0"
+      "duration_ms": 191053,
+      "name": "Con Cartitas y Palabras",
+      "url": "https://open.spotify.com/track/0U9cI8FSNxElZoc2b0Bn54"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -1964,9 +1964,9 @@
           "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
         }
       ],
-      "duration_ms": 191053,
-      "name": "Con Cartitas y Palabras",
-      "url": "https://open.spotify.com/track/0U9cI8FSNxElZoc2b0Bn54"
+      "duration_ms": 245690,
+      "name": "El Americano",
+      "url": "https://open.spotify.com/track/1iGDwwOVyMQJhF58cV36U0"
     },
     {
       "added_at": "2024-10-18 15:32:46",

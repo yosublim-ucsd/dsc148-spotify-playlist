@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring The Marías
 
-413 songs - 1 day 3 hr 41 min
+414 songs - 1 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Fire](https://open.spotify.com/track/2QUEBOSGpKpL6bzzbQiwwo) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/04HMMwLmjkftjWy7xc6Bho) | 3:37 | 2020-08-30 | 2020-09-11 |
 | [First Love/Late Spring](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 4:38 | 2022-08-26 |  |
 | [First Prize Bravery](https://open.spotify.com/track/6tyLrGQXuo4XW03ABP2tSr) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [First Prize Bravery](https://open.spotify.com/album/2vYjxxhVSixhbg1rxDKmsd) | 3:50 | 2019-10-26 | 2022-04-15 |
-| [Flightless Bird, American Mouth](https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX) | 4:01 | 2023-10-07 |  |
+| [Flightless Bird, American Mouth](https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX) | 4:01 | 2023-10-07 | 2024-11-08 |
 | [folks](https://open.spotify.com/track/1alJwHrE2dnC8QiTrnVDTk) | [doe bed](https://open.spotify.com/artist/1taZ0AU1T90fiyOzY0Lpbx) | [folks](https://open.spotify.com/album/63t0ENmlzHSXiCo45aRVP5) | 2:12 | 2020-08-30 | 2020-09-11 |
 | [Fourth of July](https://open.spotify.com/track/1LjVNoqN5YsWf9vGu2JzhF) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Fourth of July](https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL) | 4:39 | 2022-07-01 | 2024-09-14 |
 | [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 | 2022-08-26 |  |
@@ -193,6 +193,7 @@
 | [Krystal](https://open.spotify.com/track/5JJPfHpByZ66XsEyCNVi2p) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Krystal](https://open.spotify.com/album/0DMKZZanrzK36YjFyI5nfF) | 3:40 | 2024-07-08 | 2024-09-14 |
 | [Kyoto \(Copycat Killer Version\)](https://open.spotify.com/track/0WBKHgEvlu1JLTOYk7Axlr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25) | [Kyoto \(Copycat Killer Version\)](https://open.spotify.com/album/6RdU2daoKUizcKEOkliDoh) | 3:01 | 2022-07-15 | 2022-08-27 |
 | [Kyoto \(Copycat Killer Version\)](https://open.spotify.com/track/363sTxk8gw4vnCVBtEsBCP) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25) | [Kyoto \(Copycat Killer Version\)](https://open.spotify.com/album/3WTmNHBl3EJ8iLg5vggo2M) | 3:01 | 2020-11-16 | 2022-07-29 |
+| [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2024-11-07 |  |
 | [Lake Michigan Dream](https://open.spotify.com/track/3ai2YaHEaMI4oUHcbV2EqN) | [Coach Phillips](https://open.spotify.com/artist/44rWeR4SFvGjy0irbbFYVH) | [Never Is Enough](https://open.spotify.com/album/5zuDu8Q4z5cE3XggyehTds) | 3:36 | 2019-09-29\* | 2020-01-17 |
 | [Last Goodbye](https://open.spotify.com/track/4xqw8JSmfNdHLCuT23pHiv) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace \(Legacy Edition\)](https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD) | 4:35 | 2019-09-29\* | 2019-10-26 |
 | [Legs](https://open.spotify.com/track/2UVPkh6lrARjYDK42jC6kD) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 3:40 | 2020-08-30 | 2020-09-11 |

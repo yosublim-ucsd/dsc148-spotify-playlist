@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Glory (Live)",
+        "url": "https://open.spotify.com/album/0tFBkbECWVx5PF18ZNAral"
+      },
+      "artists": [
+        {
+          "name": "Oge Stan",
+          "url": "https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337031,
+      "name": "Glory (Live)",
+      "url": "https://open.spotify.com/track/0iymH5SFw2bAkOaBBoLFB2"
+    },
+    {
+      "album": {
         "name": "Goliathi (Live at Goshen City Church 2023)",
         "url": "https://open.spotify.com/album/3tprEY7g0ha2s23TvgIsy2"
       },
@@ -704,7 +722,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 409813,
       "name": "Goliathi (Live at Goshen City Church 2023)",
       "url": "https://open.spotify.com/track/5cVaaESVeWB9bTMLXaC6KZ"
@@ -780,10 +798,28 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 822857,
       "name": "Holy You Are - Live",
       "url": "https://open.spotify.com/track/5HmakaEgMBfCCaLgWtyJvc"
+    },
+    {
+      "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/5vx3A23DhGzGmF3DH5JIkJ"
+      },
+      "artists": [
+        {
+          "name": "K-Medley",
+          "url": "https://open.spotify.com/artist/4l14tKWGq5TEm5NEXvcRI6"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 679436,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/76QxXnjKzq7E1B4PoLpPFf"
     },
     {
       "album": {
@@ -1089,6 +1125,40 @@
     },
     {
       "album": {
+        "name": "Kingdom Come (Live)",
+        "url": "https://open.spotify.com/album/2qc2BQ2DpXKbChrvM02Djq"
+      },
+      "artists": [
+        {
+          "name": "Manus Akpanke",
+          "url": "https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL"
+        },
+        {
+          "name": "Hallel",
+          "url": "https://open.spotify.com/artist/46UGxcEh5kqVkGG9O09U4S"
+        },
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        },
+        {
+          "name": "CJ Nonso",
+          "url": "https://open.spotify.com/artist/5xZ3TZKzgqhGpJ65skKK8F"
+        },
+        {
+          "name": "Favvy Sings",
+          "url": "https://open.spotify.com/artist/7scyetePnpih3zaBZIZE8t"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 634500,
+      "name": "Kingdom Come - Live",
+      "url": "https://open.spotify.com/track/3Q7oyCiwMOYyUlGhYfxU2i"
+    },
+    {
+      "album": {
         "name": "Kosi (Live)",
         "url": "https://open.spotify.com/album/3wjZwWWSknWwRs2ScMNjvx"
       },
@@ -1158,7 +1228,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 561739,
       "name": "Lord You are Beautiful",
       "url": "https://open.spotify.com/track/3qaeqyOZfezV0M0dUgQJmy"
@@ -1942,7 +2012,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 429789,
       "name": "Sing For Joy",
       "url": "https://open.spotify.com/track/0cdH2VxYlwElQl4nN5DqjW"
@@ -1982,6 +2052,28 @@
       "duration_ms": 610103,
       "name": "Spirit Chant",
       "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
+    },
+    {
+      "album": {
+        "name": "Testimony (Live)",
+        "url": "https://open.spotify.com/album/563k12oxVh9CsYNOgjG6X2"
+      },
+      "artists": [
+        {
+          "name": "Dr TJ",
+          "url": "https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A"
+        },
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430434,
+      "name": "Testimony - Live",
+      "url": "https://open.spotify.com/track/5zNZsfw19X9A4dXeqBXyHl"
     },
     {
       "album": {
@@ -2246,6 +2338,28 @@
       "duration_ms": 915711,
       "name": "Volume Of The Book - Live",
       "url": "https://open.spotify.com/track/7tO8tZMxacrIjrkl7itRjx"
+    },
+    {
+      "album": {
+        "name": "Spirituals",
+        "url": "https://open.spotify.com/album/2jZxPVHjJY01qg0j9WOvCN"
+      },
+      "artists": [
+        {
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347779,
+      "name": "Walk on Water",
+      "url": "https://open.spotify.com/track/6dTGOi8FmaDDrma4GZnxRB"
     },
     {
       "album": {

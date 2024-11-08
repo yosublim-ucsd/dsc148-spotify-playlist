@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover:  COLLAR
+> 感受超級女聲力量。Cover: Jasmine Yen
 
-402 songs - 1 day 0 hr 5 min
+407 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [13歲的天堂](https://open.spotify.com/track/5LcIqdmlb3K7Ae1P4vG7SP) | [JW](https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu) | [13歲的天堂](https://open.spotify.com/album/7HFUcLKSmLAp7ack1JRlqX) | 4:07 | 2024-06-27 |  |
 | [18部半](https://open.spotify.com/track/4goaMr1lJ3h7O9VxUHUcQK) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [18部半](https://open.spotify.com/album/4mhzfALTzIkDzYBgwtK0DN) | 3:01 | 2024-06-27 |  |
 | [a little bit closer](https://open.spotify.com/track/62zNBiQDxfnSr6lDxJaF97) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [a little bit closer](https://open.spotify.com/album/7xC1krRZsKfnbNqvfXRuF9) | 2:45 | 2024-06-27 |  |
+| [AFK???](https://open.spotify.com/track/1OfUSTbVRxIUaisRxyoqCK) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [AFK???](https://open.spotify.com/album/4rCoxG3kObBdtUszHBpfKX) | 3:06 | 2024-11-07 |  |
 | [Amazing Grace](https://open.spotify.com/track/5cofkYnlrYaXesdVpP6xeP) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [Amazing Grace](https://open.spotify.com/album/74VNV5wkmqHDq3xuNLKryH) | 4:58 | 2024-06-27 |  |
 | [anything you ask](https://open.spotify.com/track/4cOWfl6IYophMuVhI6JfxY) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [anything you ask](https://open.spotify.com/album/5k7wAaARTHyyI6w0afP1GE) | 4:06 | 2024-06-27 |  |
 | [Apart, so](https://open.spotify.com/track/4q9ECX1n9i9tiSDZNg52EE) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Apart, so](https://open.spotify.com/album/4wqtBzrhuytFJoNhVmAtKy) | 3:28 | 2024-06-27 |  |
@@ -30,6 +31,7 @@
 | [CALL BACK IN 20](https://open.spotify.com/track/08H8Orz2BCwGi9u8yhHy5D) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [CALL BACK IN 20](https://open.spotify.com/album/5vUrCnv88RAr2k3eBhJifU) | 3:05 | 2024-10-31 |  |
 | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/track/33q6UPpjR3k66k1oxwFbzD) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/album/79ib7NaPeN0HwOKkq3v6Ao) | 3:30 | 2024-06-27 |  |
 | [Calm Down 練功](https://open.spotify.com/track/2gUzkd6La9jsY4JKtVlzNh) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [HATCHING](https://open.spotify.com/album/1tDBarEBsnMLa12YqDgCGR) | 3:26 | 2024-06-27 |  |
+| [Cardigan](https://open.spotify.com/track/4LsjTHKqcBJOifEcwGGtmA) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Cardigan](https://open.spotify.com/album/0wEn3maDNRTOSrHSKczgIP) | 3:51 | 2024-11-07 |  |
 | [Chosen Family](https://open.spotify.com/track/501E0fjo0yGBWmHyUh6Tvb) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Chosen Family](https://open.spotify.com/album/2Xc5OPcEckqdRFg3fjdf1j) | 3:52 | 2024-06-27 |  |
 | [CityPop](https://open.spotify.com/track/22DT55qhBCDKnPRPoZcX7n) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [CityPop](https://open.spotify.com/album/0meRRieqHjIXJCCt6KtLBZ) | 3:47 | 2024-06-27 |  |
 | [Click Me](https://open.spotify.com/track/6h4tfxlz3XAH9Zd9S2uDbp) | [曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [Click Me](https://open.spotify.com/album/6IrMlbffMmvBvTUpFuqyH9) | 3:09 | 2024-10-24 |  |
@@ -77,6 +79,7 @@
 | [INK](https://open.spotify.com/track/6QrCJeKhEMt8V0g3y3Mxvb) | [CK 黃斯琪](https://open.spotify.com/artist/71nFssyAK21hrZo32OWnkX) | [INK](https://open.spotify.com/album/4TyvcWGL2pxskuhVQDhlEj) | 2:59 | 2024-06-27 |  |
 | [Into the Forest](https://open.spotify.com/track/6XkMZzfBSUoinmgKFTW6I4) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Into the Forest](https://open.spotify.com/album/2tq5g8mDUmGGpEmL5VVyBp) | 3:31 | 2024-06-27 |  |
 | [It's not your fault](https://open.spotify.com/track/3TvkrmX72vHZ4gYeD7Qww2) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [It's not your fault](https://open.spotify.com/album/1VRnJri54pLYvaMx15f3xJ) | 3:43 | 2024-06-27 |  |
+| [IYKYK](https://open.spotify.com/track/27jwZgJ6STvpzEGgfCVxtX) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [IYKYK](https://open.spotify.com/album/2sRGfYNbBeVkEMKVgaK84P) | 2:58 | 2024-11-07 |  |
 | [kill the thought](https://open.spotify.com/track/5VWmYzMPAm3GLkYlMWT9zu) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [kill the thought](https://open.spotify.com/album/4frxdpM4eCcnLoUTlucFZe) | 3:04 | 2024-06-27 |  |
 | [Last Dance](https://open.spotify.com/track/36pgnsYrvUUHeT17OXvuhK) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT) | [Last Dance](https://open.spotify.com/album/0sIGEXqcZns2OcywMnWeTj) | 2:21 | 2024-06-27 |  |
 | [Last Letter](https://open.spotify.com/track/3o7eTQeMe2uRkXWFLKH8rC) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Last Letter](https://open.spotify.com/album/4wpU0j3dLbpPVzM4ymTtmr) | 3:17 | 2024-06-27 |  |
@@ -318,6 +321,7 @@
 | [東京人壽](https://open.spotify.com/track/1qc9E4zCJ5utXDQVIAZlkm) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [東京人壽](https://open.spotify.com/album/0w2tKyjNG1x1wgYyAnlTbG) | 4:17 | 2024-06-27 |  |
 | [樂園見](https://open.spotify.com/track/3SwJlk5W8rGPnjfgZLVqUu) | [姜穎芝 Gigi](https://open.spotify.com/artist/7xbRsyQgjHiM8EYHuMEK0p) | [樂園見](https://open.spotify.com/album/7Du8z4U9PeWF70Z45XgkCC) | 3:30 | 2024-06-27 |  |
 | [樹之呼吸](https://open.spotify.com/track/5LCP5DaNaMgVgXnoMgMSpz) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹之呼吸](https://open.spotify.com/album/4B6k5KRYNNQLRMf8KldXJm) | 2:35 | 2024-06-27 |  |
+| [次次](https://open.spotify.com/track/4y2DzgkdgNw45QMzYU78Dl) | [Jasmine Yen](https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS) | [次次](https://open.spotify.com/album/0EtJphjLYsw5xPcnWSHrnz) | 2:44 | 2024-11-07 |  |
 | [毋忘（《4拍4家族》電影主題曲）](https://open.spotify.com/track/0jQMHHTTxlSZfIYV1mu5ak) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [毋忘（《4拍4家族》電影主題曲）](https://open.spotify.com/album/2HpQFxLxiZw6GRRAylLyDh) | 3:30 | 2024-06-27 |  |
 | [每一次最後](https://open.spotify.com/track/2VfcVOCdLrBmOD8ladU1iA) | [謝雅兒](https://open.spotify.com/artist/3spApH2tC3gVmNOkW0hrZk) | [每一次最後](https://open.spotify.com/album/6GsbtG0thCH9xQ9XuAVqVM) | 4:08 | 2024-10-31 |  |
 | [比生命更大](https://open.spotify.com/track/2jMhZFeEDB85LwYeo9omz1) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [比生命更大](https://open.spotify.com/album/58QiM4it2CLAwlqVnQVECQ) | 4:31 | 2024-06-27 |  |
@@ -384,6 +388,7 @@
 | [趁你旅行時搬走](https://open.spotify.com/track/77UfzMhwaH8Nl0LuydjrHH) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [趁你旅行時搬走](https://open.spotify.com/album/7vgzAkU2PYTSsVKX71LqtH) | 3:55 | 2024-06-27 |  |
 | [跟我做自己](https://open.spotify.com/track/4qhZorxaU0fslsP6Yv72R3) | [劉雅瑟](https://open.spotify.com/artist/08F26JOMt9xbYJQscx0c5G), [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi) | [跟我做自己](https://open.spotify.com/album/7nlHO611yqxbeqvDSpBufG) | 3:05 | 2024-06-27 |  |
 | [路仍長](https://open.spotify.com/track/0xVlqxxhxKsLWythPiUsM7) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [路仍長](https://open.spotify.com/album/7jc7ZJtv12tt4P5bVbKr23) | 3:19 | 2024-06-27 |  |
+| [輪迴德己立街](https://open.spotify.com/track/0GnS1rJNpc8PEfRhIifTO2) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [輪迴德己立街](https://open.spotify.com/album/1hEqBNDQAEZNmDm3y3tsIs) | 3:04 | 2024-11-07 |  |
 | [轉個身擁抱](https://open.spotify.com/track/4Lr6oJWXDw4dH9j6Gx9DKr) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [轉個身擁抱](https://open.spotify.com/album/4Bxi1DFRqMZ4ZgZup60baS) | 3:57 | 2024-06-27 |  |
 | [逃生門](https://open.spotify.com/track/0ziKtZzRh1Hsc8JzlCOOum) | [JW](https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu) | [逃生門](https://open.spotify.com/album/1NtG7yUcB3PXsDLSARal9h) | 4:43 | 2024-06-27 |  |
 | [逃避雖可恥但有用](https://open.spotify.com/track/3QOiaqeWH44Hu1koIgdNrj) | [蘇麗珊](https://open.spotify.com/artist/2qIeMjTqaIOFJYftPN4me7) | [metamorphosis](https://open.spotify.com/album/0H8GE8cqeWl3dYUIonVTBs) | 3:55 | 2024-06-27 |  |

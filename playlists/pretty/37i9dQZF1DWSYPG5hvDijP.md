@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India\. Cover: MC INSANE
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,150 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,166 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 11 | [Flex](https://open.spotify.com/track/1uLxPLyCN67HcQwaPrabTj) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Flex](https://open.spotify.com/album/4LY72uiyZBD0JYyOhXjPod) | 3:06 |
 | 12 | [Pricey](https://open.spotify.com/track/4EFrlWcIv3A11nrtWK3dcx) | [2FISTD](https://open.spotify.com/artist/08e2eWa0q9i4FZS6n8V4Rs), [Preezol Nepali](https://open.spotify.com/artist/6rpRkfcT5gYlB0HaniKGvb) | [Pricey](https://open.spotify.com/album/5fmWJjgMVgKkus6xuINwtj) | 2:38 |
 | 13 | [ASSAULT](https://open.spotify.com/track/6pIeD35oayy0j7swdSbBnE) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [VIBIN](https://open.spotify.com/album/2GPHbR6aZ2rZooX6dF1nwB) | 1:56 |
-| 14 | [Khalbatta](https://open.spotify.com/track/3EMybAtAI2DHrC3q5gbirv) | [Dharmik](https://open.spotify.com/artist/7xIBJwhw1vA6jhGKfDRhI7), [Aditya Pushkarna](https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs) | [MTV Hustle 4](https://open.spotify.com/album/2DGTc8yczBepw1NDMsaX3V) | 2:55 |
+| 14 | [Khalbatta](https://open.spotify.com/track/3EMybAtAI2DHrC3q5gbirv) | [Dharmik](https://open.spotify.com/artist/5NeJIqji6S4Mcx3Xajkj19), [Aditya Pushkarna](https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs) | [MTV Hustle 4](https://open.spotify.com/album/2DGTc8yczBepw1NDMsaX3V) | 2:55 |
 | 15 | [Kaam bol](https://open.spotify.com/track/6pL0WTg6KZok6mSZTxAQ9D) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [WARTIME](https://open.spotify.com/album/4gsRmTAbP7Sj6pvnNDS7gW) | 2:32 |
 | 16 | [Kalam](https://open.spotify.com/track/5ZFSdOKbwWKgifU8o4puww) | [Divyansh Kacholia \(DVK\)](https://open.spotify.com/artist/4Q5YiZsfq10SLigxOjG5oV) | [Kalam](https://open.spotify.com/album/3gb3gPW63uWlOoG7siKeal) | 3:16 |
 | 17 | [What We Do](https://open.spotify.com/track/10Pjg6e1n3KdNfRryu5j8F) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Breakin Boundaries](https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e) | 2:36 |

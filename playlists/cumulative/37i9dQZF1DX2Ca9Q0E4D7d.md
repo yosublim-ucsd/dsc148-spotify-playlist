@@ -4,7 +4,7 @@
 
 > Find your flow state with Beta frequencies for increased concentration.
 
-90 songs - 4 hr 40 min
+93 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,12 +89,15 @@
 | [Realign \(Beta 130.5 Hz \- 149.1 Hz\)](https://open.spotify.com/track/2hhOdjkHZXyNnHw4nLTFM5) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Decompress & Realign \(Binaural Beta\)](https://open.spotify.com/album/33GGErLxSTSu4kMxN5A1qD) | 2:40 | 2022-11-23 | 2023-10-06 |
 | [Silver Silk C\# Beta \(73\-103hz\)](https://open.spotify.com/track/5RAcJD3t8CgedWDUP0WGTM) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Silver Silk Beta](https://open.spotify.com/album/17GFBvbCDzwuotH1jBs9Yb) | 2:30 | 2023-09-27 | 2024-02-14 |
 | [Soaring Eagle Beta Sinus 116 Hz \- 131 Hz](https://open.spotify.com/track/3qR90xoCsHQceqOGhdgPbs) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Deep Focus Beta](https://open.spotify.com/album/56bkivOwmgSzt5dHVrmcRm) | 3:13 | 2022-11-23 |  |
+| [Spirit \- Mind Games Meditation Mix / Binaural ∿Beta Waves∿ 15Hz](https://open.spotify.com/track/7iFvqFqk2Q8ebH7HTchvzG) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Mind Games \(Meditation Mixes\)](https://open.spotify.com/album/6dRXxW5ZpUy4ntfBwZCTsR) | 5:35 | 2024-11-07 |  |
 | [Surrounded Passage \(Delta Binaural\)](https://open.spotify.com/track/0gffACkxI5ABiI7Ak9Gb4R) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Surrounded Passage \(Delta Binaural\)](https://open.spotify.com/album/54uV4LPslzmKDj50ylCNYl) | 3:37 | 2024-02-14 | 2024-03-09 |
 | [Tartys \- Beta Sinus Focus Flow](https://open.spotify.com/track/5rDXovOMkiDjVobbFH2iYx) | [Lavendea](https://open.spotify.com/artist/65C8AHZg2NmgDjfkQFs3bF) | [Tartys \- Beta Sinus Focus Flow](https://open.spotify.com/album/4xjqSRTGYHmte6r1XMjGgz) | 2:39 | 2023-02-24 |  |
 | [Thoughtless Patterns Ab Beta \(77\-102hz\)](https://open.spotify.com/track/7MyYhyila8ncZVTHEd030h) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Silver Silk Beta](https://open.spotify.com/album/17GFBvbCDzwuotH1jBs9Yb) | 2:10 | 2023-09-27 |  |
 | [Time Travelling \(Beta Waves\)](https://open.spotify.com/track/5smQD23QwbJST01uYJdMAM) | [Higher Dreams](https://open.spotify.com/artist/6arzvoBgUyg7fngmLvlkcc) | [Reaching For The Stars](https://open.spotify.com/album/0CJNJFCAwOG2ifjOYsJth6) | 3:12 | 2022-09-06 |  |
 | [Total Focus \(Beta Sinus\)](https://open.spotify.com/track/55jSrZSZf4ooJxPwgFR2Hs) | [Mind Medicine](https://open.spotify.com/artist/0nTfjHvGK38IUQ0Mx1BmF5) | [Mind Medicine](https://open.spotify.com/album/0nEnQBAZdghQsCNZbKNm2B) | 3:33 | 2022-09-06 | 2024-08-28 |
 | [Treetop Sway \(Delta Binaural\)](https://open.spotify.com/track/0YaHVqzBDVho8dAiEikwng) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Treetop Sway \(Delta Binaural\)](https://open.spotify.com/album/0xy0CgF7AgZTRPovatgZ55) | 3:31 | 2024-02-14 | 2024-03-09 |
+| [Trekking On Beta 53\-77hz](https://open.spotify.com/track/4ey6ShaA9JKhHNib2I0diW) | [Dream State](https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs) | [Trekking On Beta 53\-77hz](https://open.spotify.com/album/52uBHyg8MW7fNm7QNDKtpU) | 2:45 | 2024-11-07 |  |
+| [Window Seat Alpha 50\-60hz](https://open.spotify.com/track/6pXnt3PwcY5hJw7OqS3oqh) | [Dream State](https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs) | [Window Seat Alpha 50\-60hz](https://open.spotify.com/album/3ENxexlVLVHHYSamHt2ktT) | 2:49 | 2024-11-07 |  |
 | [Wonder Falls \(Beta 100 Hz \- 117 Hz\)](https://open.spotify.com/track/6ggscQCVEcqKy92nXLlswe) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Wonder Falls & Appreciation \(Binaural Beta\)](https://open.spotify.com/album/5YyWWGxGrQDej6CanWhnsS) | 4:26 | 2023-01-13 | 2024-02-14 |
 | [Yoga: Beta Sinus 100 Hz](https://open.spotify.com/track/2fkZSejqcDkdc2rWi8vARt) | [Merpell](https://open.spotify.com/artist/4VY6NUpEqaG1ouNyNgR2VN) | [Yoga: Beta Sinus 100 Hz](https://open.spotify.com/album/4MJvd53JhkCRT9g8IS54Q2) | 2:04 | 2022-09-06 |  |
 | [Zone in Beta 73.1 Hz \- 89.6 Hz](https://open.spotify.com/track/1q0glRZ97xYFh3Vu43hb9y) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Zone in Beta 73.1 Hz \- 89.6 Hz](https://open.spotify.com/album/0nR9BiFll648hqwDkT0WVt) | 2:57 | 2022-12-09 | 2024-08-28 |

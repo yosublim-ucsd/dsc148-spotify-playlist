@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Luis Alfonso & Yeison Jiménez
 
-270 songs - 13 hr 54 min
+272 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Brillarosa](https://open.spotify.com/track/2BMlaVJaHDGd3ODSyrB2VK) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:49 | 2024-02-09 | 2024-10-18 |
 | [Busca Un Confidente \- En Vivo](https://open.spotify.com/track/5ybdHemTCDqwPOrrGNt9PB) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Busca Un Confidente \(En Vivo\)](https://open.spotify.com/album/5pjRfkF6HSgrawn27YliQd) | 4:09 | 2022-10-28 | 2022-12-17 |
 | [Bye](https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Bye](https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB) | 3:32 | 2023-05-26 | 2023-06-17 |
-| [Cacho x Cacho](https://open.spotify.com/track/6Ua4ro11UTORImQSH9qWON) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Yohan Usuga](https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ) | [Cacho x Cacho](https://open.spotify.com/album/6ZUJ5zMylfc6Vrb2l8etbM) | 2:24 | 2024-07-12 |  |
+| [Cacho x Cacho](https://open.spotify.com/track/6Ua4ro11UTORImQSH9qWON) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Yohan Usuga](https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ) | [Cacho x Cacho](https://open.spotify.com/album/6ZUJ5zMylfc6Vrb2l8etbM) | 2:24 | 2024-07-12 | 2024-11-08 |
 | [Cariñito](https://open.spotify.com/track/2YAfk5h0qctKYqVBWuwvvh) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cariñito](https://open.spotify.com/album/0ygfl7lRlhyGtLz7dF4e8q) | 3:03 | 2024-10-11 |  |
 | [Cazzualidades](https://open.spotify.com/track/1lvA3HsMSLGoFqzxzQVYdu) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP2](https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g) | 3:08 | 2023-05-26 | 2023-06-24 |
 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 | 2022-08-12 |  |
@@ -235,6 +235,7 @@
 | [Si Me Vas Abandonar \(Norteño\)](https://open.spotify.com/track/3F0M7Ug02v7jsA0WTooFHz) | [Adriana Bottina](https://open.spotify.com/artist/3CBKZfqKn3KtCO4uQXhMHO) | [Si Me Vas Abandonar \(Norteño\)](https://open.spotify.com/album/1IIkANQG0n9nmNBpeF3huX) | 2:59 | 2023-09-29 | 2023-11-05 |
 | [Si Me Vas Abandonar \(Norteño\)](https://open.spotify.com/track/5i5OIawLy7YP0mq2S8eOMN) | [Adriana Bottina](https://open.spotify.com/artist/3CBKZfqKn3KtCO4uQXhMHO) | [Si Me Vas Abandonar \(Norteño\)](https://open.spotify.com/album/5f9qt2svDGSn6zZ6bOwNaI) | 2:59 | 2023-10-18 | 2023-11-11 |
 | [Si Me Ven Llorando](https://open.spotify.com/track/5v6eE5Wn65VSoBiJnOUyTm) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Si Me Ven Llorando](https://open.spotify.com/album/7mHFFCcfWQiOQL9iRMb2g6) | 2:43 | 2022-08-12 | 2024-10-05 |
+| [Si Preguntan Por Mi](https://open.spotify.com/track/1DRB6KckMIFXPk3P0DCKfM) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Si Preguntan Por Mi](https://open.spotify.com/album/1qWVmLtOQOiFdAuwfMv6Yq) | 3:51 | 2024-11-08 |  |
 | [Si Supieras](https://open.spotify.com/track/7cZB9m0xJlmHtAPx981dsC) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [Si Supieras](https://open.spotify.com/album/0Oi2DcpQozGUnvWbx9OZA0) | 3:24 | 2022-08-26 | 2023-09-30 |
 | [Sin Ropa Eres Mía](https://open.spotify.com/track/5ByaGTrmhcpIXu6sasjagm) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Sin Ropa Eres Mía](https://open.spotify.com/album/3uAysXq7cISny7dDI93JRO) | 2:40 | 2022-08-12 |  |
 | [Sin Sentimientos](https://open.spotify.com/track/1bsNI5RBmiv9AQ8aPbl5yN) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Sin Sentimientos](https://open.spotify.com/album/55TBlsqyVYB03SrGdq3F9h) | 2:28 | 2024-04-05 |  |
@@ -248,7 +249,7 @@
 | [TE FUI A SEGUIR](https://open.spotify.com/track/2vRmz7wDDxRY4zPSzwEmIT) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 2:33 | 2023-12-01 | 2024-01-20 |
 | [Te Hice Llorar](https://open.spotify.com/track/1LUT39TVX4LAIHZLbxAVDt) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Te Hice Llorar](https://open.spotify.com/album/7H2htZEeJCoOPc3LjQK55o) | 3:34 | 2022-08-12 | 2022-09-17 |
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/0uw9huLXX2ne9bkisvYUFH) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes](https://open.spotify.com/album/6BIQDuXvqKsUb1jj6yvqFf) | 3:13 | 2022-08-12 |  |
-| [Tengo Ganas](https://open.spotify.com/track/4TiS7REpiQIaj6BJHFc05d) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Tengo Ganas](https://open.spotify.com/album/5TMdQRTAyXs6pyka3ICrtg) | 3:08 | 2024-06-21 |  |
+| [Tengo Ganas](https://open.spotify.com/track/4TiS7REpiQIaj6BJHFc05d) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Tengo Ganas](https://open.spotify.com/album/5TMdQRTAyXs6pyka3ICrtg) | 3:08 | 2024-06-21 | 2024-11-08 |
 | [TQM](https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [TQM](https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e) | 2:38 | 2023-06-02 |  |
 | [Tu Amante](https://open.spotify.com/track/0ygm6N6bwRowtuBuuBSbpH) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Tu Amante](https://open.spotify.com/album/1IF3OmJA6rQKVEof7C85us) | 3:24 | 2022-08-12 |  |
 | [Tu Forma de Amar](https://open.spotify.com/track/2BjpFeEueHgxSqnLQBrOnk) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Tu Forma de Amar](https://open.spotify.com/album/1qbnIXfdu9jhHyAKzN7dTx) | 2:30 | 2023-09-15 | 2023-09-30 |
@@ -278,5 +279,6 @@
 | [¿Culpa de Quién? \(Remix\)](https://open.spotify.com/track/5zRc8LYoCkrBp8ryT2iN60) | [Yohan Usuga](https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ), [Zion Hwang](https://open.spotify.com/artist/2dvndHOR9rTRjzHxDdgxfD), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [¿Culpa de Quién? \(Remix\)](https://open.spotify.com/album/6p1oBzyenswryLUPHYeyXA) | 2:53 | 2023-12-01 | 2024-07-06 |
 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [¿Dónde Estabas Tú?](https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N) | 2:44 | 2022-08-12 | 2022-10-29 |
 | [Ángel o Demonio](https://open.spotify.com/track/3t17siJ4pNDgSxtpcTVB1m) | [Fredy Montoya](https://open.spotify.com/artist/226KQHhYMB4ss3DyK17zk9), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [Ángel o Demonio](https://open.spotify.com/album/1XnfrUTeFCfXEFXXu4d2qM) | 3:19 | 2022-08-12 | 2024-04-19 |
+| [Échale Ganas Al Olvido](https://open.spotify.com/track/5sM5rI4R9pQflxdEO8iio3) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Yohan Usuga](https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ) | [Regional Live by Yohan Usuga \(Vol\. 2\)](https://open.spotify.com/album/4SFBBoHbLKDopGCT0GVNA5) | 3:31 | 2024-11-08 |  |
 
 \*This playlist was first scraped on 2022-09-07. Prior content cannot be recovered.

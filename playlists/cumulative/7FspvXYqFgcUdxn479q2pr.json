@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "1975",
+        "url": "https://open.spotify.com/album/29YyKDIeHCC9STNlRlJIb0"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144571,
+      "name": "1975",
+      "url": "https://open.spotify.com/track/6yWIOzRdXKHzVBOVQDsfyW"
+    },
+    {
+      "album": {
         "name": "2024 (ilizo Remix)",
         "url": "https://open.spotify.com/album/2YFQ1eG7C2tgNHp6dlL4Kg"
       },
@@ -668,7 +690,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 155076,
       "name": "Born To Love Ya",
       "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
@@ -976,7 +998,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 127714,
       "name": "Chasing Ghosts",
       "url": "https://open.spotify.com/track/5kMxyfaw9KDCyqaU0Z7QUj"
@@ -1970,10 +1992,32 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 173362,
       "name": "Fade Till Sunrise, Pt. II",
       "url": "https://open.spotify.com/track/4OetBYftRQNNjy3coOYxS0"
+    },
+    {
+      "album": {
+        "name": "Fade Till Sunrise, Pt. II (B Jones Remix)",
+        "url": "https://open.spotify.com/album/5TSRzJov3OQKoLmsdmETty"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        },
+        {
+          "name": "B Jones",
+          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197909,
+      "name": "Fade Till Sunrise, Pt. II (B Jones Remix)",
+      "url": "https://open.spotify.com/track/6jKBuPpVjzVIsdTIFchjN1"
     },
     {
       "album": {
@@ -1996,6 +2040,32 @@
       "duration_ms": 143976,
       "name": "Fall At Your Feet (with Dean Lewis)",
       "url": "https://open.spotify.com/track/0M0a2E5H8pUmqDHs0A4931"
+    },
+    {
+      "album": {
+        "name": "Famous",
+        "url": "https://open.spotify.com/album/2I0uwgE0jhsxSO5PBlxFrW"
+      },
+      "artists": [
+        {
+          "name": "Oomloud",
+          "url": "https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P"
+        },
+        {
+          "name": "Thando",
+          "url": "https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX"
+        },
+        {
+          "name": "JusSke",
+          "url": "https://open.spotify.com/artist/5izfHinGlwLVd87Lp9wOzu"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171071,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/5YeGkY9mBzAjoueyTRoYnf"
     },
     {
       "album": {
@@ -2282,7 +2352,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 140689,
       "name": "Germany & Techno (feat. Krys Tha Sis)",
       "url": "https://open.spotify.com/track/7b5Eu8Mp5uB4MPjT3Kh3WF"
@@ -3467,6 +3537,28 @@
     },
     {
       "album": {
+        "name": "Kench",
+        "url": "https://open.spotify.com/album/1ROQb64ctG2N45KG3W6StH"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "Kench",
+      "url": "https://open.spotify.com/track/5sOdcxMAWtSU0KgWtKkSjY"
+    },
+    {
+      "album": {
         "name": "Khoye Yahaan (feat. KEL) [Official Sunburn Goa 2024 Anthem]",
         "url": "https://open.spotify.com/album/2mlNgi2YyH7VU4oUeXlc25"
       },
@@ -3582,7 +3674,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 171428,
       "name": "Kolkata (Techno Version)",
       "url": "https://open.spotify.com/track/3Bk4ZohpjYTuJXbxFRSyPg"
@@ -3714,7 +3806,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 146250,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/5NMfwSnH5QarfMKiCl10GO"
@@ -5466,7 +5558,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 124900,
       "name": "Quit That Love (feat. Glacier Baby)",
       "url": "https://open.spotify.com/track/5GRqG2vmcHMdqe65cpqy1y"
@@ -5602,6 +5694,32 @@
       "duration_ms": 161803,
       "name": "Sad Love (feat. JAIKO)",
       "url": "https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt"
+    },
+    {
+      "album": {
+        "name": "Samir's Theme",
+        "url": "https://open.spotify.com/album/6WIAnmhPhEvjmcvHeeIP85"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
+        },
+        {
+          "name": "Charlie Ray",
+          "url": "https://open.spotify.com/artist/5E0lRlMBtVgbEo3gsn8UuF"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Samir's Theme",
+      "url": "https://open.spotify.com/track/3wI9OGpl6thK28PZcUgleu"
     },
     {
       "album": {
@@ -6016,10 +6134,40 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 119129,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/7l00IN1o5wQvd2GfWMbAYg"
+    },
+    {
+      "album": {
+        "name": "Sound of da Police (with DES3ETT)",
+        "url": "https://open.spotify.com/album/19tOFbOwSqZkQONwDtxss9"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "DES3ETT",
+          "url": "https://open.spotify.com/artist/2tBbq6Y0ejbtc8tNWtaMyN"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "Sound of da Police (with DES3ETT)",
+      "url": "https://open.spotify.com/track/3g3kOgJyakUFt8FClE2EbQ"
     },
     {
       "album": {
@@ -6419,6 +6567,28 @@
     },
     {
       "album": {
+        "name": "Tantalizing",
+        "url": "https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Soaky Siren",
+          "url": "https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146341,
+      "name": "Tantalizing",
+      "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"
+    },
+    {
+      "album": {
         "name": "Taste Of Summer",
         "url": "https://open.spotify.com/album/0NCqqYXAgNdHtFoPGrIDAl"
       },
@@ -6430,7 +6600,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 186478,
       "name": "Taste Of Summer",
       "url": "https://open.spotify.com/track/3566cOSTCoQmPNTn9LbX6J"
@@ -6566,7 +6736,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 153750,
       "name": "The Big Fake",
       "url": "https://open.spotify.com/track/10BpmIujqYT8HvsnNzrstN"
@@ -6808,7 +6978,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 176516,
       "name": "Transgender",
       "url": "https://open.spotify.com/track/2pgfgEF6CWsrPFF8HB6Xra"
@@ -7248,7 +7418,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 127500,
       "name": "When It Runs Out (feat. Felix Samuel)",
       "url": "https://open.spotify.com/track/4MZCttWZHqjmIefkrUiA0t"
@@ -7306,7 +7476,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 190476,
       "name": "why so scared to fall?",
       "url": "https://open.spotify.com/track/6rc2jbPZNIsJsrJ4eLBFmT"
@@ -7368,6 +7538,28 @@
       "duration_ms": 192856,
       "name": "Woof (feat. Kah-Lo)",
       "url": "https://open.spotify.com/track/7gnIOfQ05nYyHRFD7EqIbZ"
+    },
+    {
+      "album": {
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/787Fe2sF7ApgAtMfu7O30C"
+      },
+      "artists": [
+        {
+          "name": "Benji (UK)",
+          "url": "https://open.spotify.com/artist/2rktaPoxmpCqSnjH8sG9Dq"
+        },
+        {
+          "name": "Julio Ade",
+          "url": "https://open.spotify.com/artist/0aBK6w9ueJgetANKMYQvrd"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217821,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/2VGn8OmbvdSarXJV0PBauj"
     },
     {
       "album": {

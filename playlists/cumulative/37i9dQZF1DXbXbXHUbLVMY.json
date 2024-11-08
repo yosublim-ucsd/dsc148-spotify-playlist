@@ -116,7 +116,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 152586,
       "name": "2 Sider",
       "url": "https://open.spotify.com/track/5WmwECFQhBWhyWeNAo6t5m"
@@ -1937,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "Halvt mann, halvt geit",
+        "url": "https://open.spotify.com/album/1qyitc9Ke7huYPC7lTWgAv"
+      },
+      "artists": [
+        {
+          "name": "B-Boy Myhre",
+          "url": "https://open.spotify.com/artist/7H788ePZvqYPv7MxfLt3rj"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132987,
+      "name": "Halvt mann, halvt geit",
+      "url": "https://open.spotify.com/track/3sdFJGE5I2eXuxod4jhj5p"
+    },
+    {
+      "album": {
         "name": "Best\u00e4mda Kliv",
         "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
       },
@@ -3030,7 +3048,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 201079,
       "name": "Midtnytt",
       "url": "https://open.spotify.com/track/4yw7Tna6ATc5KsqJTWX3Vp"
@@ -3256,6 +3274,24 @@
       "duration_ms": 151168,
       "name": "N\u00e5nting i Luften",
       "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
+    },
+    {
+      "album": {
+        "name": "Oase",
+        "url": "https://open.spotify.com/album/7FHVC2GgZD35E7PWHxAZwe"
+      },
+      "artists": [
+        {
+          "name": "Linni",
+          "url": "https://open.spotify.com/artist/5EnyJ6QaGHnetHxAUD9Xoc"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193735,
+      "name": "Oase",
+      "url": "https://open.spotify.com/track/5FauiRFTELNpEXsIwmvchS"
     },
     {
       "album": {
@@ -3760,6 +3796,40 @@
       "duration_ms": 154793,
       "name": "SAHBI",
       "url": "https://open.spotify.com/track/7daGugofgBVQN2TGIrlFjO"
+    },
+    {
+      "album": {
+        "name": "SAHBI (Remix)",
+        "url": "https://open.spotify.com/album/2jNGBfhHe5C5CtHUqHEKy0"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        },
+        {
+          "name": "Kairo Keyz",
+          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
+        },
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        },
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169021,
+      "name": "SAHBI - Remix",
+      "url": "https://open.spotify.com/track/5zUjQeVLRZqLyEGsc56VTG"
     },
     {
       "album": {
@@ -4532,7 +4602,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 162017,
       "name": "TRILLE",
       "url": "https://open.spotify.com/track/3DEpiDGy8aebrTZrZB5CYY"

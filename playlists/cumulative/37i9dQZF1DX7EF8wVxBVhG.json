@@ -848,7 +848,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 202106,
       "name": "Alpha Sinus 100 Hz - 108 Hz",
       "url": "https://open.spotify.com/track/3amQPrutVjXI9SMrvwHDK3"
@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 158267,
       "name": "Binaural Beta Sinus 150 Hz - 158 Hz",
       "url": "https://open.spotify.com/track/3cGajN4KLwOkg14H5j9wPP"
@@ -2432,7 +2432,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 153065,
       "name": "Binaural Gamma Sinus 120 Hz - 170 Hz",
       "url": "https://open.spotify.com/track/512wHrbC0aS1A6kd6Xo33K"
@@ -2720,7 +2720,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 144892,
       "name": "Binaural Gamma Sinus 80 Hz - 120 Hz",
       "url": "https://open.spotify.com/track/6DLK0gTnZnWa1eh1oiFQri"
@@ -3228,7 +3228,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 197926,
       "name": "Crystalimbic (Beta Waves)",
       "url": "https://open.spotify.com/track/4YIUdBVmNnowkHiXLivf2c"
@@ -3768,7 +3768,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 192000,
       "name": "Gamma 300 Hz - L 350 Hz - R",
       "url": "https://open.spotify.com/track/3EsZlB4qvj5WOzM9X7h28H"
@@ -4913,6 +4913,24 @@
     },
     {
       "album": {
+        "name": "Pasadena 65Hz - 67Hz",
+        "url": "https://open.spotify.com/album/6jBVUioNs14SgxlrprDSZ1"
+      },
+      "artists": [
+        {
+          "name": "Inner Society",
+          "url": "https://open.spotify.com/artist/1eAKHzxuj5hu1fFP38wzFx"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214909,
+      "name": "Pasadena 65Hz - 67Hz",
+      "url": "https://open.spotify.com/track/2izGpvovzV40efrRgnG87o"
+    },
+    {
+      "album": {
         "name": "Binaural Peace",
         "url": "https://open.spotify.com/album/3QXYTzLcCdQHR8jY581eOw"
       },
@@ -5176,7 +5194,7 @@
       ],
       "date_added": "2020-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 208956,
       "name": "Smooth Gamma",
       "url": "https://open.spotify.com/track/0uRm6jCU2HMQmrIeqOfJC7"
@@ -5212,7 +5230,7 @@
       ],
       "date_added": "2020-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 166400,
       "name": "Solutions (Gamma Waves)",
       "url": "https://open.spotify.com/track/1vgFYFKf5GYUmHtT1mdvNv"
@@ -5320,7 +5338,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 246598,
       "name": "Stille - Alpha Sinus 134Hz - 141Hz",
       "url": "https://open.spotify.com/track/3ocQGhNuWunmbDK1IYzVBD"
@@ -5648,6 +5666,24 @@
       "duration_ms": 174000,
       "name": "Waves Of Sine - Simpler Times Alpha (62-75hz)",
       "url": "https://open.spotify.com/track/00htOkdyp9txxUKoxvx8Wt"
+    },
+    {
+      "album": {
+        "name": "Window Seat Alpha 50-60hz",
+        "url": "https://open.spotify.com/album/3ENxexlVLVHHYSamHt2ktT"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Window Seat Alpha 50-60hz",
+      "url": "https://open.spotify.com/track/6pXnt3PwcY5hJw7OqS3oqh"
     },
     {
       "album": {

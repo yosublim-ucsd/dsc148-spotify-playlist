@@ -4,7 +4,7 @@
 
 > Listen to all your favorite Disney Princess songs.
 
-62 songs - 2 hr 58 min
+63 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Beauty and the Beast](https://open.spotify.com/track/2rJFFUEl1LURkV0b0OARXx) | [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty and the Beast](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) | 2:46 | 2022-10-07 |  |
 | [Belle](https://open.spotify.com/track/1cPfKp9ThNZ1fez9itmUMN) | [Emma Watson](https://open.spotify.com/artist/4N3cNXg5phUzRzuJYYxQlV), [Luke Evans](https://open.spotify.com/artist/0MO42HJhUFrv078qALxpPQ), [Ensemble \- Beauty and the Beast](https://open.spotify.com/artist/530a0roPLtawMxdCfI2zrR) | [Beauty and the Beast \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc) | 5:33 | 2022-10-07 |  |
 | [Belle Reprise](https://open.spotify.com/track/6j7qtGY4E1XPcNB9xtXT0F) | [Paige O'Hara](https://open.spotify.com/artist/7oavKrnYbTZPAPq7zCuipM), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty And The Beast \(Special Edition\)](https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq) | 1:05 | 2022-10-07 |  |
+| [Beyond \(End Credit Version\) \- From "Moana 2"](https://open.spotify.com/track/3fzqWttckvSJS7KPGPiWAg) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Beyond \(End Credit Version\) \[From "Moana 2"\]](https://open.spotify.com/album/6uCyNThgUieE9elUSd4SuP) | 3:16 | 2024-11-07 |  |
 | [Bibbidi\-Bobbidi\-Boo \(The Magic Song\)](https://open.spotify.com/track/0tZqXCvOx44WKqcgEZtIRl) | [Helena Bonham Carter](https://open.spotify.com/artist/7gX22Ua3mEH2KXTCpIfoOP) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 1:22 | 2022-10-07 |  |
 | [Colors of the Wind](https://open.spotify.com/track/1OYOLWqKmhkFIx2KC9ek1a) | [Judy Kuhn](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) | [Pocahontas](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) | 3:34 | 2022-10-07 |  |
 | [Dig a Little Deeper](https://open.spotify.com/track/7kh64k3P9Fk4EsA6vOdwmj) | [Jenifer Lewis](https://open.spotify.com/artist/6e28WiPlKSu1ukkhHCZEnF), [The Pinnacle Gospel Choir](https://open.spotify.com/artist/4R1dpQ2VCZsEutiXZKeIzk) | [The Princess and the Frog \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) | 2:47 | 2022-10-07 |  |

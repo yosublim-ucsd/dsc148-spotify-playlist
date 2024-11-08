@@ -1403,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "In Romania",
+        "url": "https://open.spotify.com/album/44LByVLnWvFj7AUNRwU1cE"
+      },
+      "artists": [
+        {
+          "name": "Eligarf",
+          "url": "https://open.spotify.com/artist/1fSjxCfL4aaUoQ9ATRLtAq"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "In Romania",
+      "url": "https://open.spotify.com/track/7aIO2KrOoCYYEIlSA1vE0d"
+    },
+    {
+      "album": {
         "name": "Industry Plant",
         "url": "https://open.spotify.com/album/30GzP0Sof2eLSK476b4nN6"
       },

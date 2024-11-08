@@ -4,7 +4,7 @@
 
 > Las mejores canciones de Princesas de Disney.
 
-81 songs - 4 hr 2 min
+82 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Algo quiero](https://open.spotify.com/track/3Z4X358heVKuZttTdKfWFs) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 2:43 | 2024-08-09 |  |
 | [Almost There](https://open.spotify.com/track/5CNZ8lcCKd4bwsZydWwiM1) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Almost There](https://open.spotify.com/album/4AlvjBUahp8fqMwRComFi5) | 3:58 | 2024-08-09 |  |
 | [Bajo el mar](https://open.spotify.com/track/1CK7FnJxNSZrQhEPLVVa2N) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Michael Cruz](https://open.spotify.com/artist/2AGl0dUCflM3mAfFcJVq5d) | [La Sirenita \(Banda Sonora Original en Español\)](https://open.spotify.com/album/64at2CIfC4MgtN5u0HNkVw) | 3:12 | 2023-10-25 |  |
+| [Beyond \(End Credit Version\) \- From "Moana 2"](https://open.spotify.com/track/3fzqWttckvSJS7KPGPiWAg) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Beyond \(End Credit Version\) \[From "Moana 2"\]](https://open.spotify.com/album/6uCyNThgUieE9elUSd4SuP) | 3:16 | 2024-11-07 |  |
 | [Blue Bird / I Wonder](https://open.spotify.com/track/4y22ikbRHTRRkZCKsLOGe3) | [Mary Costa](https://open.spotify.com/artist/1qeo0u3hwxCBcYsn3a4kyo) | [Sleeping Beauty](https://open.spotify.com/album/6lmX98s1RHfYVXTMlplw9S) | 2:43 | 2023-08-17 |  |
 | [Brillo](https://open.spotify.com/track/4RnN3TNgEKObmmrBbbTw9w) | [Dan Osorio](https://open.spotify.com/artist/0bQBooej9K9x0aJL6HM2QK) | [Moana: un mar de aventuras \(Sonora Original en Español\)](https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX) | 3:06 | 2024-08-09 |  |
 | [Bésala](https://open.spotify.com/track/1BKNatU4cpHxUAfET1Q9Ln) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Howard Ashman](https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN), [Michael Cruz](https://open.spotify.com/artist/2AGl0dUCflM3mAfFcJVq5d) | [La Sirenita \(Banda Sonora Original en Español\)](https://open.spotify.com/album/64at2CIfC4MgtN5u0HNkVw) | 2:41 | 2024-08-09 |  |

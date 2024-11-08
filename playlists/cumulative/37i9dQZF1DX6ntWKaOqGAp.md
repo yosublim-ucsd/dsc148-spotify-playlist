@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: go!go!vanillas
 
-1,829 songs - 4 day 18 hr 59 min
+1,830 songs - 4 day 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [ALL SHIT](https://open.spotify.com/track/5zfYkGf54njt9hXFfD4MSA) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ) | [ALL SHIT](https://open.spotify.com/album/4Evb2AGXWGrwdaYvfhgHgj) | 3:26 | 2024-01-16 | 2024-01-24 |
 | [All the best to you](https://open.spotify.com/track/041iQwe6neBn6VXVSQ1yV2) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [All the best to you](https://open.spotify.com/album/712xvsOZfCsT6WqU3Uo0y7) | 4:36 | 2023-09-20 | 2023-10-13 |
 | [All the best to you](https://open.spotify.com/track/11mjDfy7LLfPCKw8HH1NwA) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [All the best to you](https://open.spotify.com/album/3M97FptKdqBzgXtzg64ALJ) | 4:36 | 2023-09-20 | 2023-09-21 |
+| [All We Have feat\. Masato\(cordrain\)](https://open.spotify.com/track/2Ie1vfWEVt63G0FIGETwe0) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb), [Masato\(coldrain\)](https://open.spotify.com/artist/4f9hD6gIbmsHoQw9MFMnP8) | [All We Have feat\. Masato\(cordrain\)](https://open.spotify.com/album/04qhwj8qQxCjnqUtDpgXM8) | 4:16 | 2024-11-07 |  |
 | [Alone](https://open.spotify.com/track/72OWeSElexd0PQCsJJsx8c) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Alone](https://open.spotify.com/album/0iRBUigZih92BXcPofuy5h) | 3:12 | 2023-04-25 | 2023-05-26 |
 | [Alone and hallway window](https://open.spotify.com/track/1HVpMLk4rsUgSqIC2KAuiK) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Tales of the Night](https://open.spotify.com/album/7qlCw6DMMLAJchFfTFjXDe) | 3:19 | 2024-09-17 |  |
 | [Along the long journey](https://open.spotify.com/track/154GAA2hbSjg5JsyVKhXZ0) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Along the long journey](https://open.spotify.com/album/15eDW5n9pntrJ5ldiLvYCb) | 4:05 | 2024-02-28 | 2024-04-05 |
@@ -925,7 +926,7 @@
 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-06-27 | 2023-09-08 |
 | [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-04-03 | 2023-08-23 |
 | [YAEN](https://open.spotify.com/track/1UDmCjvSERuwfm71qJoOqs) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [YAEN](https://open.spotify.com/album/3hZXeTpEDbl0gIRlUz6a3m) | 2:19 | 2023-07-25 | 2023-08-30 |
-| [Yeah!Muccha Mushashugyo](https://open.spotify.com/track/0cPttF1WrQma0FM5wYoWbZ) | [suxingcyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [OTODOKEI \-PM\-](https://open.spotify.com/album/6Cb6InkjRdLKHs09bd0ntB) | 2:56 | 2024-10-29 |  |
+| [Yeah!Muccha Mushashugyo](https://open.spotify.com/track/0cPttF1WrQma0FM5wYoWbZ) | [suxingcyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [OTODOKEI \-PM\-](https://open.spotify.com/album/6Cb6InkjRdLKHs09bd0ntB) | 2:56 | 2024-10-29 | 2024-11-08 |
 | [Yell](https://open.spotify.com/track/6jbW0l3nlZ3uh26p8vsC1K) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Yell](https://open.spotify.com/album/60y9C21RHhHnMMdWXunkav) | 3:23 | 2024-02-06 | 2024-04-19 |
 | [YELLOW](https://open.spotify.com/track/6pEMmnShBzHtbX4Q7vWt5e) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [YELLOW](https://open.spotify.com/album/6t8wGe0KpyRqt4PKRiaEDA) | 3:27 | 2023-10-24 | 2023-10-26 |
 | [Yellow](https://open.spotify.com/track/7pRtSBPQJ9rH0i1bcOegtc) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [Yellow](https://open.spotify.com/album/0NhUnxavKjNKP6YU1TBOoL) | 3:27 | 2023-10-24 | 2023-11-29 |

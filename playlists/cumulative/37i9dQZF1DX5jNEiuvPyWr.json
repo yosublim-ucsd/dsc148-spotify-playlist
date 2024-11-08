@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : HOUDI",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Moha MMZ",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -555,6 +555,28 @@
     },
     {
       "album": {
+        "name": "S\u0113nsus",
+        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
+      },
+      "artists": [
+        {
+          "name": "Madd",
+          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
+        },
+        {
+          "name": "Khali",
+          "url": "https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131052,
+      "name": "All You Need Is You (feat. Khali)",
+      "url": "https://open.spotify.com/track/5oN3cmVhKIeaQUX0ygMB1v"
+    },
+    {
+      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/54Ue1QVNSPkrH8Udoh3QTf"
       },
@@ -758,7 +780,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 166280,
       "name": "Aucun regret",
       "url": "https://open.spotify.com/track/04TgboOspvqaG2qSpa49pC"
@@ -2226,6 +2248,32 @@
       "duration_ms": 244395,
       "name": "Derni\u00e8re page",
       "url": "https://open.spotify.com/track/6l3HLmhZkRi80m3ymQA8U5"
+    },
+    {
+      "album": {
+        "name": "DEUX SOLEILS",
+        "url": "https://open.spotify.com/album/4ivkixGkC1ibxjTxWtSVgE"
+      },
+      "artists": [
+        {
+          "name": "Amine D1",
+          "url": "https://open.spotify.com/artist/0gBKko6ZZlbiU7aOzSifaV"
+        },
+        {
+          "name": "Leith",
+          "url": "https://open.spotify.com/artist/0DQx7HJhLzjbSQNsNhrpLT"
+        },
+        {
+          "name": "Kev 117",
+          "url": "https://open.spotify.com/artist/1cErvjqrJgKuBHJhojnjtI"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152520,
+      "name": "DEUX SOLEILS",
+      "url": "https://open.spotify.com/track/0Bg6fSiWWcU9CoScLWICVy"
     },
     {
       "album": {
@@ -4137,6 +4185,28 @@
     },
     {
       "album": {
+        "name": "La For\u00eat",
+        "url": "https://open.spotify.com/album/3T1dYDNBR756KLRdaOBn83"
+      },
+      "artists": [
+        {
+          "name": "Mac Amish",
+          "url": "https://open.spotify.com/artist/2Z1KbXZk5p5DqqvUSJVUEi"
+        },
+        {
+          "name": "Oddbox",
+          "url": "https://open.spotify.com/artist/6IjSW1JQwRHB9cPFyu2tn5"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149347,
+      "name": "La For\u00eat",
+      "url": "https://open.spotify.com/track/1NQZonbTxEZ2OuzPw3xvZ9"
+    },
+    {
+      "album": {
         "name": "MOTEL STUDIO 2",
         "url": "https://open.spotify.com/album/27bVtUy9JrOK0QCK0P7PAQ"
       },
@@ -5202,7 +5272,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 175433,
       "name": "MILLA",
       "url": "https://open.spotify.com/track/04vzFIKxbPInvQOgYoIrYS"
@@ -6335,6 +6405,24 @@
     },
     {
       "album": {
+        "name": "E-TRAP",
+        "url": "https://open.spotify.com/album/00pCPUMJXYJBCB77aC6A0c"
+      },
+      "artists": [
+        {
+          "name": "TH",
+          "url": "https://open.spotify.com/artist/4k0UwfZq3WOpZiZosq3vQC"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224626,
+      "name": "PILULE",
+      "url": "https://open.spotify.com/track/5M6EKddObIwYdo0Rt9eoDV"
+    },
+    {
+      "album": {
         "name": "High & Fines Herbes \u2013 \u00c9dition 420",
         "url": "https://open.spotify.com/album/6qu28HganG8uPu79hCSrle"
       },
@@ -7220,7 +7308,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 165000,
       "name": "Selfie",
       "url": "https://open.spotify.com/track/5hhbnXZLYjJGCmLI5AeTGj"
@@ -7712,7 +7800,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 209893,
       "name": "Suspects",
       "url": "https://open.spotify.com/track/12osSdbZiGimTHFdaLmSFS"

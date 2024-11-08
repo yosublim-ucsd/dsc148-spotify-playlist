@@ -4,7 +4,7 @@
 
 > Soft music to calm down cats, kittens and their humans.
 
-155 songs - 9 hr 29 min
+161 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Clear Mind \- 432 Hz](https://open.spotify.com/track/7w5rZvkQ9OH6aW0uKvD4xA) | [Liilia Janes](https://open.spotify.com/artist/3wJTyh4srXwp5jfld7LZ8j) | [Clear Mind \- 432 Hz](https://open.spotify.com/album/6HKa2Okr1EpZfHFBTrtqTM) | 2:51 | 2023-09-20 |  |
 | [Clear Skies Ahead](https://open.spotify.com/track/4m1wouuJbxxmeONhfmeeoV) | [Syla Lo](https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2) | [Clear Skies Ahead](https://open.spotify.com/album/5rKVWByShf5lLqfFwDBsrg) | 2:36 | 2024-07-18 |  |
 | [Coastal Route](https://open.spotify.com/track/3OKLDuEbWfQhCvS7tCoagu) | [Voices Of The Ocean](https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt) | [Coastal Route](https://open.spotify.com/album/2tqu8ABLEaQHkkyDGpu8HG) | 3:15 | 2023-08-02 | 2024-07-19 |
+| [Collapse](https://open.spotify.com/track/0iqivJVCS7xVJkIbDnHNH2) | [Northern Sirens](https://open.spotify.com/artist/5qtIa4GIOYRDRH18X2Ru1C) | [Collapse](https://open.spotify.com/album/44DVcnSfBcAHtneBoDzNN2) | 3:38 | 2024-11-07 |  |
 | [Compass of Peace 528 Hz](https://open.spotify.com/track/3DTIsjo9y5o79xgRR90i4k) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Compass of Peace 528 Hz](https://open.spotify.com/album/7467l8lrE1EvSohK7cG8Ai) | 3:21 | 2023-07-03 |  |
 | [Cozmo's Air](https://open.spotify.com/track/58VLKJL8y3FknrqLUVXPrI) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Cozmo's Air](https://open.spotify.com/album/6eBttKmf7eOaZICEyy2re8) | 4:12 | 2020-01-10 | 2023-08-03 |
 | [Deep clean your mind 741Hz](https://open.spotify.com/track/7KRNGCiycL1qhCZ7nIDsp0) | [Sienna Salvatore](https://open.spotify.com/artist/70qqsrrsnNczuDUivf3UEx) | [Deep clean your mind 741Hz](https://open.spotify.com/album/5Wur5Jj16G3Xf2mLhGTbuR) | 2:07 | 2023-12-15 |  |
@@ -69,6 +70,7 @@
 | [Ethereal in 528hz](https://open.spotify.com/track/2PiEsCiricooWn5a3CxuVU) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Ethereal in 528hz](https://open.spotify.com/album/5pqypFlXKBTOfxIxB1KrP2) | 2:50 | 2023-09-20 | 2024-08-29 |
 | [Ethernal Bliss](https://open.spotify.com/track/46A4KIikyBvPeqHbbKCgYh) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Ethernal Bliss](https://open.spotify.com/album/08XNqJbhshB27KCzV2n0xv) | 2:41 | 2024-07-18 |  |
 | [Eufor De Santos](https://open.spotify.com/track/2XDc9YHG1oa698VTc0zKh3) | [Yvon Brosseau](https://open.spotify.com/artist/3HhJCAu0uQ95w9eHjxNBt8) | [Eufor De Santos](https://open.spotify.com/album/5KjpfwAkGA9GolYiaxe3Wn) | 3:10 | 2023-11-07 |  |
+| [Floating Dreams](https://open.spotify.com/track/2SePLFRMvsL7WDBoBRRBdK) | [Blissful Heaven](https://open.spotify.com/artist/4QEyQYiRdLu1c6wzHyp0ds) | [Floating Dreams](https://open.spotify.com/album/7curM8QR09B6L2793uq76v) | 2:33 | 2024-11-07 |  |
 | [Floghera Whispers](https://open.spotify.com/track/2Iv9S3vvqjmMx9hoMg8YKE) | [Affine Art](https://open.spotify.com/artist/3AmKLzmRGL96qTjXEfUt8U) | [Floghera Whispers](https://open.spotify.com/album/3gU1bkxIBEw7l9dAZnzqln) | 3:12 | 2023-12-15 |  |
 | [For I Will Consider My Cat Jeoffry](https://open.spotify.com/track/3SqawUAmaZGwmzleROyk4E) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album Two](https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI) | 9:04 | 2020-01-10 | 2023-07-04 |
 | [Fostog's Touch](https://open.spotify.com/track/0Qp3kcosNRkoUlMmkyA9KJ) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album Two](https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI) | 11:31 | 2020-01-10 | 2023-07-04 |
@@ -98,8 +100,10 @@
 | [Le Lac](https://open.spotify.com/track/75KdZGRMOcMzDI4qS4KB3V) | [Dharma Gaia](https://open.spotify.com/artist/4zS7xfa3yRhsGysVOA8wHp) | [Le Lac](https://open.spotify.com/album/32oA5PrMStagwn9406moMO) | 2:53 | 2023-05-19 |  |
 | [Lolo's Air](https://open.spotify.com/track/6EcUEkTUH7OlAi9Uu94kbm) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album One](https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7) | 6:15 | 2020-01-10 | 2023-05-20 |
 | [Luna and June's Purrfect Harmony](https://open.spotify.com/track/7zqaY1x1PeKnFtLAhzYXtJ) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album Two](https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI) | 5:44 | 2020-01-10 | 2023-07-21 |
+| [Many Faces of Healing](https://open.spotify.com/track/5aGlPiHJjWU5KdvoXgQK8w) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Many Faces of Healing](https://open.spotify.com/album/5y54zrlm0Sf1bBcEgIxzMz) | 3:17 | 2024-11-07 |  |
 | [Maurice's Melody](https://open.spotify.com/track/2HGTsS8Yo8AorkIQT3SZog) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album Two](https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI) | 4:12 | 2020-01-10 | 2023-07-04 |
 | [Mellifluous](https://open.spotify.com/track/4gMyux4cvuN4zPPJs8Tsel) | [Degravitated](https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY) | [Mellifluous](https://open.spotify.com/album/5x02csp3kz05bloZGQw4yu) | 2:45 | 2024-07-18 |  |
+| [Meridian](https://open.spotify.com/track/6PaUgrtaPnQedfPufQhchF) | [Sand Rae](https://open.spotify.com/artist/01AXMlLHjZDPlbVBPnXb8h) | [Meridian](https://open.spotify.com/album/4YCk6dTtIkZE37NC4Ugi3q) | 2:42 | 2024-11-07 |  |
 | [Mind Oasis 432Hz](https://open.spotify.com/track/3JMQCr6GrFQJbYZ7bAhEsL) | [Inner Fields](https://open.spotify.com/artist/59lPrWSxyDbKksxOkFNRwH) | [Mind Oasis 432Hz](https://open.spotify.com/album/6T3ogTlIcadCltCM3XbznV) | 2:31 | 2024-02-13 |  |
 | [Mindful Movement](https://open.spotify.com/track/3GSm1dZSXhgZEl63Xtt9cB) | [Magnapinna](https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4) | [396 Hz Mindful Movement](https://open.spotify.com/album/7jmBp2Gm9ctKiKiBkgwDOv) | 3:35 | 2023-08-02 | 2023-08-11 |
 | [Morgensol](https://open.spotify.com/track/6aJcjGsNvyivFBeBaigFXQ) | [Bolethe Kristensen](https://open.spotify.com/artist/5FdY1HR5TdShBfxywCliMI) | [Morgensol](https://open.spotify.com/album/1CiembCAvOPBFHRbZe8cLk) | 1:45 | 2020-01-10 | 2023-10-17 |
@@ -131,6 +135,7 @@
 | [Relax My Cat](https://open.spotify.com/track/0ek9tPrHh2sZukgfv6mvkt) | [Cat Music Dreams](https://open.spotify.com/artist/47U20M8lyC5AJLNJg3laOD), [RelaxMyCat](https://open.spotify.com/artist/2uO0Hew2xpva3P9AgknpzB) | [Calming Music for Anxious Cats: Songs to Soothe Your Cat](https://open.spotify.com/album/6oJRshmkcJerjwLT6Pc8rO) | 3:01 | 2023-05-19 | 2023-08-03 |
 | [Relieving](https://open.spotify.com/track/2DWYBGBzNQKQ7sB1IJDnRz) | [Degravitated](https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY) | [Relieving](https://open.spotify.com/album/6ACa4v7ue1vczGy03tJkH0) | 3:37 | 2023-08-31 |  |
 | [Right Path 852 Hz](https://open.spotify.com/track/1rh9Aygw80WFVq70T54FcK) | [Meodna](https://open.spotify.com/artist/1acgr2GgwWnpDzCjBF9wsn) | [Right Path 852 Hz](https://open.spotify.com/album/1ionnqL9Rk1nOHUQD5xny7) | 3:01 | 2023-07-03 | 2024-08-29 |
+| [Rosemary](https://open.spotify.com/track/2ZlFfgNXTEVfqPOk20mzQ5) | [Laurence Furr](https://open.spotify.com/artist/24tme04aimWOpZKvAcKogM) | [Portraits](https://open.spotify.com/album/4OJyeOfgd44Byen2ENCjnN) | 3:21 | 2024-11-07 |  |
 | [Rusty's Ballad](https://open.spotify.com/track/2GB1uEIsHWNoXldwN6mtyI) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Rusty's Ballad](https://open.spotify.com/album/0TSPCRCHOY6rnGxcCklrxF) | 3:21 | 2020-01-10 | 2023-07-04 |
 | [Sana](https://open.spotify.com/track/63pIgIp1N1E6gMR4vPI3Qe) | [Cerulean Sky](https://open.spotify.com/artist/0vmL1scMiwQBMPeC9SSXVm) | [Sana](https://open.spotify.com/album/6d6OF37z3u4Cg02rGjqSvS) | 3:14 | 2023-05-19 |  |
 | [Scintillans](https://open.spotify.com/track/4zI7J4c58Br1tY10NDyhlR) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Yoga Gong Karma](https://open.spotify.com/album/1T9xagnSXjguJIoXiidlly) | 3:40 | 2020-01-10 | 2023-10-17 |
@@ -140,6 +145,7 @@
 | [Silent Solution](https://open.spotify.com/track/1ckaT9aUOZbUStGwWLVzQF) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Silent Solution](https://open.spotify.com/album/26PXA4uPCpyhdh6lg3zXJO) | 2:24 | 2023-08-10 |  |
 | [Simon Says](https://open.spotify.com/track/3eUde69UEDub59LN6d3V0d) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album One](https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7) | 11:47 | 2020-01-10 | 2023-05-20 |
 | [Skyrmir](https://open.spotify.com/track/5v7afdYE3EfTf1oze0I68N) | [Dormina](https://open.spotify.com/artist/2K0TPnh0rE4LeKbZXD1lG7) | [Dreaming](https://open.spotify.com/album/3JhefnvfpRy4zkVS0nxzxi) | 2:26 | 2023-08-10 |  |
+| [Slumberism](https://open.spotify.com/track/7pnr5tNNmB7EibF2ClbJ3M) | [Erastox](https://open.spotify.com/artist/3zPEKgYbraip77EsVefCbd) | [Slumberism](https://open.spotify.com/album/1czUeCsPgac17RpwBagdUq) | 3:11 | 2024-11-07 |  |
 | [Soft Light](https://open.spotify.com/track/5OQwak2SbcXhdDcB2nZJhw) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR), [Softly Drift](https://open.spotify.com/artist/59PkxjxtOeVVOBK47vR4Or) | [Soft Light](https://open.spotify.com/album/3H1q8Ma2yFWDRU7eTbsVvG) | 2:22 | 2024-07-18 |  |
 | [Soothe](https://open.spotify.com/track/1DL4f1FiSNforkp9pWBWRc) | [Damir Yamm](https://open.spotify.com/artist/1IpLgouAHJGUP94xZkXi5z) | [Soothe](https://open.spotify.com/album/1gNyZvF7PBAgWsMyW4DvTP) | 2:35 | 2023-07-03 |  |
 | [Spiritual Echoes](https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [Spiritual Echoes](https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu) | 2:44 | 2023-09-20 |  |

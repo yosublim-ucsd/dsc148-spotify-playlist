@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: Uncle Waffles",
+  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: Davido & YG Marley",
   "name": "Amapiano to the World",
   "tracks": [
     {
@@ -336,7 +336,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 148688,
       "name": "Ammunition",
       "url": "https://open.spotify.com/track/2krh7DGcbKuJ2Z0KdkONgv"
@@ -572,6 +572,28 @@
       "duration_ms": 154472,
       "name": "AWILOH",
       "url": "https://open.spotify.com/track/79aDBkQtJ7rb0nus3PlDX8"
+    },
+    {
+      "album": {
+        "name": "Awuke",
+        "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172628,
+      "name": "Awuke",
+      "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
     },
     {
       "album": {
@@ -1430,7 +1452,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 173571,
       "name": "Don't Stress Me",
       "url": "https://open.spotify.com/track/3jYMQXkFS3Ln24CrL1MSIr"
@@ -2364,6 +2386,28 @@
       "duration_ms": 186000,
       "name": "Ijo (Laba Laba)",
       "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+    },
+    {
+      "album": {
+        "name": "Informate (FYI)",
+        "url": "https://open.spotify.com/album/0eddBpoJ9TV5Efg85aBhXQ"
+      },
+      "artists": [
+        {
+          "name": "The Therapist",
+          "url": "https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2"
+        },
+        {
+          "name": "Magicsticks",
+          "url": "https://open.spotify.com/artist/1IMS1L1ZXuNhPN9HtOdtbz"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168421,
+      "name": "Informate (FYI)",
+      "url": "https://open.spotify.com/track/1O4QnFa5ykCLcOfebOlGUY"
     },
     {
       "album": {
@@ -4062,6 +4106,28 @@
       "duration_ms": 240000,
       "name": "OMALICHA",
       "url": "https://open.spotify.com/track/08oUbg2xP9viDnYcKacUd8"
+    },
+    {
+      "album": {
+        "name": "One Of Them",
+        "url": "https://open.spotify.com/album/5fEKE5MtAGoi4z6bEe8Rmo"
+      },
+      "artists": [
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219685,
+      "name": "One Of Them",
+      "url": "https://open.spotify.com/track/6NLQOu4ScjSpun8yFJyJMo"
     },
     {
       "album": {

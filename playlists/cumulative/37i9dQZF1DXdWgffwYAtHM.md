@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#05 \- Como lidar com as expectativas dos nossos pais? \- Elisama responde e\-mails de ouvintes.](https://open.spotify.com/episode/6jTSyQDFj0utu82inF7YFy) | ["Tá com Tempo?" \- Elisama Santos](https://open.spotify.com/show/0jChaPqRQFGVIjnwTqeZiD) | ["Tá com Tempo?" \- Elisama Santos](https://open.spotify.com/album/0jChaPqRQFGVIjnwTqeZiD) | 51:38 | 2024-11-04 |  |
+| [\#05 Como lidar com as expectativas dos nossos pais? \- Elisama responde e\-mails de ouvintes.](https://open.spotify.com/episode/6jTSyQDFj0utu82inF7YFy) | [Tá com Tempo? por Elisama Santos](https://open.spotify.com/show/0jChaPqRQFGVIjnwTqeZiD) | [Tá com Tempo? por Elisama Santos](https://open.spotify.com/album/0jChaPqRQFGVIjnwTqeZiD) | 51:38 | 2024-11-04 |  |
 | [\#13 \- Como retomar o rumo da vida?](https://open.spotify.com/episode/4KWMUxP2txLiEgpxxl4Bcq) | [Muito além da Checklist](https://open.spotify.com/show/6NPToOoX61E0p0YPb6KEQ1) | [Muito além da Checklist](https://open.spotify.com/album/6NPToOoX61E0p0YPb6KEQ1) | 9:47 | 2024-05-02 | 2024-06-04 |
 | [\#27 O problema sou eu](https://open.spotify.com/episode/0CVDNEZZnT1v5GbItGyc9U) | [Depois Dos Quinze](https://open.spotify.com/show/2EFPzk0g09dpP8IV8Z9BoJ) | [Depois Dos Quinze](https://open.spotify.com/album/2EFPzk0g09dpP8IV8Z9BoJ) | 34:59 | 2024-05-02 | 2024-06-04 |
 | [\#40 – Você não pode salvar seus pais](https://open.spotify.com/episode/3BVE7edLhXGJW2bnOWO3yi) | [Legalmente surtada, cansada e gostosa](https://open.spotify.com/show/7bsWtI0EjjaNrExFGvVV6w) | [Legalmente surtada, cansada e gostosa](https://open.spotify.com/album/7bsWtI0EjjaNrExFGvVV6w) | 24:41 | 2024-04-01 | 2024-05-03 |

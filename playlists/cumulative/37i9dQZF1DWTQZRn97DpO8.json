@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Ana\u00efs Cardot",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Nilusi",
   "name": "le miel",
   "tracks": [
     {
@@ -172,6 +172,28 @@
       "duration_ms": 189600,
       "name": "Ancr\u00e9",
       "url": "https://open.spotify.com/track/3zsdwhLlgpvYRDCQ5T8XTy"
+    },
+    {
+      "album": {
+        "name": "ZIKTOBER 2024",
+        "url": "https://open.spotify.com/album/2mHedwb4ZSCs02Jw4fRo2h"
+      },
+      "artists": [
+        {
+          "name": "CLEH",
+          "url": "https://open.spotify.com/artist/0VtW9WsnOqGIUlFg3qktnC"
+        },
+        {
+          "name": "Anagramms",
+          "url": "https://open.spotify.com/artist/34qei9EEgV4Pvtv1HNGtFL"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214311,
+      "name": "Anomalie",
+      "url": "https://open.spotify.com/track/0S6FEI3T21lJ49ivaBajmQ"
     },
     {
       "album": {
@@ -442,10 +464,28 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 231168,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/7pBtMjYw5KJROQpkFZL6Ta"
+    },
+    {
+      "album": {
+        "name": "Lettre \u00e0 l'Univers",
+        "url": "https://open.spotify.com/album/01wqFQmJuBRCDLAP3gvJxm"
+      },
+      "artists": [
+        {
+          "name": "Nilusi",
+          "url": "https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159585,
+      "name": "Boru Kata",
+      "url": "https://open.spotify.com/track/4l9N7iqG2TiTfMcY3CF1op"
     },
     {
       "album": {
@@ -696,7 +736,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 161310,
       "name": "Cons\u00e9quences (feat. Tuerie)",
       "url": "https://open.spotify.com/track/0TQzpIYyBIhnBjbyq5yEdf"
@@ -842,10 +882,28 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 226599,
       "name": "Dans son tel",
       "url": "https://open.spotify.com/track/45hdgr7UGtAFE8aN8aQI10"
+    },
+    {
+      "album": {
+        "name": "MIRACLES DES OMBRES",
+        "url": "https://open.spotify.com/album/5GGG4NVdjf3B6O9v2XfBjK"
+      },
+      "artists": [
+        {
+          "name": "Clara Dahlie",
+          "url": "https://open.spotify.com/artist/4a0hLw9lBcBJaNCY29o1Mz"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197122,
+      "name": "DANSER DANS LES OMBRES",
+      "url": "https://open.spotify.com/track/3QwMdvOkjr1Or4iFOduwD5"
     },
     {
       "album": {
@@ -1128,7 +1186,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 170018,
       "name": "Encore une fois",
       "url": "https://open.spotify.com/track/3jsWcQxYV4xKnCKmiF6dJE"
@@ -1211,6 +1269,28 @@
     },
     {
       "album": {
+        "name": "Finalement",
+        "url": "https://open.spotify.com/album/7I6ZSYK1TeDw7jOJBDAlBo"
+      },
+      "artists": [
+        {
+          "name": "Bluuchyd",
+          "url": "https://open.spotify.com/artist/6XNamyfKXLfPAxvkYhAAv1"
+        },
+        {
+          "name": "Angie",
+          "url": "https://open.spotify.com/artist/1reCrDItJcpmACHds2If1w"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196129,
+      "name": "Finalement",
+      "url": "https://open.spotify.com/track/1NzsLLC52w06Dln3UoXME2"
+    },
+    {
+      "album": {
         "name": "Fleur de peau",
         "url": "https://open.spotify.com/album/2d7yq2lbMNVr1bftb0DvNk"
       },
@@ -1222,7 +1302,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 213525,
       "name": "Fleur de peau",
       "url": "https://open.spotify.com/track/613IWnVUD7F3AkcDwhgmVg"
@@ -1346,6 +1426,28 @@
       "duration_ms": 191621,
       "name": "Gravit\u00e9",
       "url": "https://open.spotify.com/track/5hgixUt055yq33WAXjrhQd"
+    },
+    {
+      "album": {
+        "name": "Have We Lost It?",
+        "url": "https://open.spotify.com/album/2e1cc5owqIUDcIeEYOxEKI"
+      },
+      "artists": [
+        {
+          "name": "BonjourMatisse",
+          "url": "https://open.spotify.com/artist/5P3KiC7i8ttnTYOiRbffvj"
+        },
+        {
+          "name": "Siy\u00e9",
+          "url": "https://open.spotify.com/artist/0l4sh43GlADH6WxFw2iPwn"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105826,
+      "name": "Have We Lost It?",
+      "url": "https://open.spotify.com/track/6MXv1Vz1I7OGwMwssGHQeE"
     },
     {
       "album": {
@@ -1548,10 +1650,28 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 132500,
       "name": "HYPNOTIZE",
       "url": "https://open.spotify.com/track/70X9LqPXUPKJgvDYvzk0eJ"
+    },
+    {
+      "album": {
+        "name": "IDIU SU SUMA",
+        "url": "https://open.spotify.com/album/3BeIgcxQb3MLmZwCpKOSDj"
+      },
+      "artists": [
+        {
+          "name": "Ruthee",
+          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160776,
+      "name": "IDIU SU SUMA",
+      "url": "https://open.spotify.com/track/0WZQBp6PWfXvkmGnkwvw03"
     },
     {
       "album": {
@@ -1606,7 +1726,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 176173,
       "name": "Incompris",
       "url": "https://open.spotify.com/track/1uD6NA6JPrzPY2PSZm0XZO"
@@ -1700,7 +1820,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 200012,
       "name": "Je Te Laisse",
       "url": "https://open.spotify.com/track/5ZqdSv8fa1KQrplwlEjh2V"
@@ -1844,7 +1964,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 199714,
       "name": "La Fille Du Motel",
       "url": "https://open.spotify.com/track/502Ix88YejAD4djIdUDZQU"
@@ -2076,7 +2196,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 162560,
       "name": "Loup\u00e9",
       "url": "https://open.spotify.com/track/3AgM4kVYWIKloPx1KkTr1m"
@@ -2442,6 +2562,24 @@
       "duration_ms": 167786,
       "name": "Mortel",
       "url": "https://open.spotify.com/track/77nU8wDRYGuoIt6ryY49pz"
+    },
+    {
+      "album": {
+        "name": "Mumu",
+        "url": "https://open.spotify.com/album/26iXKODyT3nZbK37Ny4t7z"
+      },
+      "artists": [
+        {
+          "name": "Oscar Emch",
+          "url": "https://open.spotify.com/artist/07n9zp5Qfn9tIPMhQlYzqm"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214080,
+      "name": "Mumu",
+      "url": "https://open.spotify.com/track/5qwBg0MKq4VNInXqBoZQlI"
     },
     {
       "album": {
@@ -3034,7 +3172,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 214871,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/3AEJ9PoZEC6ovIv9rZy7aI"
@@ -3078,6 +3216,24 @@
       "duration_ms": 203759,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/5gWcJXR5SwxC3y8HLykCOG"
+    },
+    {
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/3rBzlvTEi3vxpZlFDdHBZx"
+      },
+      "artists": [
+        {
+          "name": "B.L.U.E.",
+          "url": "https://open.spotify.com/artist/6mkxuPlKAZtkr3LgC1Vi9G"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133928,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/782zOwE3qkVLHHMnbb1dPx"
     },
     {
       "album": {
@@ -3132,6 +3288,24 @@
       "duration_ms": 186334,
       "name": "Ride",
       "url": "https://open.spotify.com/track/10H2reZGuAG8YBly3kN447"
+    },
+    {
+      "album": {
+        "name": "Rien pour toi (Prod. Lazur)",
+        "url": "https://open.spotify.com/album/4gHFHMAHMW2LdcS5tcGzfb"
+      },
+      "artists": [
+        {
+          "name": "Squidji",
+          "url": "https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153230,
+      "name": "Rien pour toi (Prod. Lazur)",
+      "url": "https://open.spotify.com/track/7B81kQAyJ40l2946uVGPS0"
     },
     {
       "album": {
@@ -3200,7 +3374,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 211968,
       "name": "RUN OUTRO",
       "url": "https://open.spotify.com/track/7hlxoJXexx3IgQUQI7HmH8"
@@ -3346,6 +3520,24 @@
       "duration_ms": 279533,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/5JRbmX1uwh3ZgxqNo653qQ"
+    },
+    {
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/41erfshyFUBUuPPYxOzt3A"
+      },
+      "artists": [
+        {
+          "name": "Enchant\u00e9e Julia",
+          "url": "https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154068,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/1RvreQuZ1kRpuAGkUIZ2V7"
     },
     {
       "album": {
@@ -3614,6 +3806,24 @@
       "duration_ms": 159200,
       "name": "S\u00e9r\u00e9nade",
       "url": "https://open.spotify.com/track/11gx5jgG7Pm6Y5R2Ba6RDB"
+    },
+    {
+      "album": {
+        "name": "tant que tu",
+        "url": "https://open.spotify.com/album/2JAvBvIm2jodW3QPM5NNc0"
+      },
+      "artists": [
+        {
+          "name": "Malter",
+          "url": "https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200875,
+      "name": "tant que tu",
+      "url": "https://open.spotify.com/track/6YTcI8Q9Jd6gp3y2mag1PQ"
     },
     {
       "album": {
@@ -4076,6 +4286,28 @@
       "duration_ms": 205488,
       "name": "Violence & Po\u00e9sie",
       "url": "https://open.spotify.com/track/3yyGilBl0qbv0Sp2StCAC1"
+    },
+    {
+      "album": {
+        "name": "DBHZ",
+        "url": "https://open.spotify.com/album/0KZvqSlLHthn3KroPEtob4"
+      },
+      "artists": [
+        {
+          "name": "Skuna",
+          "url": "https://open.spotify.com/artist/0Su00YAdlLw2Aetn7RZLJj"
+        },
+        {
+          "name": "Fencyy",
+          "url": "https://open.spotify.com/artist/4YjYNFa9MFvUthyS1uC5Jw"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135772,
+      "name": "WHAT U WANT",
+      "url": "https://open.spotify.com/track/3oq7NseaUAz0ek6gBRBLZp"
     },
     {
       "album": {

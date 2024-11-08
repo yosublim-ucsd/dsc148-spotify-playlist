@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "a playlist without boundaries, featuring lola young  \u2601\ufe0f  art: @doolittleillustrations",
+  "description": "a playlist without boundaries, featuring kayla grace  \u2601\ufe0f  art: @doolittleillustrations",
   "name": "Our Generation",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 153637,
       "name": "2008",
       "url": "https://open.spotify.com/track/6P9k0dC9CP1g4ZlSzQn90M"
+    },
+    {
+      "album": {
+        "name": "2DK",
+        "url": "https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196343,
+      "name": "2DK",
+      "url": "https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT"
     },
     {
       "album": {
@@ -306,7 +324,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 190327,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/6PG0R5bimQ0SH4ZFI0BaTO"
@@ -328,6 +346,24 @@
       "duration_ms": 159473,
       "name": "BAD!",
       "url": "https://open.spotify.com/track/5WOyh6lYHKe2zJ3JxyRa1k"
+    },
+    {
+      "album": {
+        "name": "BAMBI",
+        "url": "https://open.spotify.com/album/7txUHYgIN0oS325vp8WseX"
+      },
+      "artists": [
+        {
+          "name": "Aziya",
+          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130673,
+      "name": "bambi",
+      "url": "https://open.spotify.com/track/5NcmR4rKdHeTf4Z1tUroHI"
     },
     {
       "album": {
@@ -862,7 +898,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 188925,
       "name": "cdjs",
       "url": "https://open.spotify.com/track/2qgmQQJRpDIIyu0bv82Szf"
@@ -1274,6 +1310,24 @@
       "duration_ms": 199477,
       "name": "dog",
       "url": "https://open.spotify.com/track/7fix6j1bLnJHcEtMB0boZ4"
+    },
+    {
+      "album": {
+        "name": "Give Up The Fear",
+        "url": "https://open.spotify.com/album/4PfN0s5linXQvTPlHpJ7De"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196680,
+      "name": "Don't Cry",
+      "url": "https://open.spotify.com/track/6gAfcLmswaho2aqeKmoFS1"
     },
     {
       "album": {
@@ -2139,6 +2193,24 @@
     },
     {
       "album": {
+        "name": "in for the kill",
+        "url": "https://open.spotify.com/album/2nVnNDYvKM2VbiorqJRw18"
+      },
+      "artists": [
+        {
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198680,
+      "name": "in for the kill",
+      "url": "https://open.spotify.com/track/3aTPG3soNZ7UImihfDABXx"
+    },
+    {
+      "album": {
         "name": "Is This What Love Is?",
         "url": "https://open.spotify.com/album/5kVea5Ulg8bpNHhRbWfAkt"
       },
@@ -2490,7 +2562,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 146060,
       "name": "Little Italy",
       "url": "https://open.spotify.com/track/7vAaKxAmT9WjALNoyySkts"
@@ -2877,6 +2949,24 @@
     },
     {
       "album": {
+        "name": "Mrs Right",
+        "url": "https://open.spotify.com/album/4j1Xj3YYKEzgVIqBIztpL3"
+      },
+      "artists": [
+        {
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186684,
+      "name": "Mrs Right",
+      "url": "https://open.spotify.com/track/0RKk4dWwGqSUPzQQLNSGYR"
+    },
+    {
+      "album": {
         "name": "mutual butterflies",
         "url": "https://open.spotify.com/album/3J7hHqMXYFJUyCZOJJ4btM"
       },
@@ -3054,7 +3144,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 160584,
       "name": "Numb 2 U",
       "url": "https://open.spotify.com/track/3siV0NUBy7HpYyL0MfuTU1"
@@ -3090,7 +3180,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 182517,
       "name": "Out In The Garden",
       "url": "https://open.spotify.com/track/3Ysqv5h7TkU12CqD2ou4kq"
@@ -3126,7 +3216,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 164730,
       "name": "Outta the Blue",
       "url": "https://open.spotify.com/track/5q9olki2PuDsu6NEFaXEKz"
@@ -3184,6 +3274,24 @@
       "duration_ms": 188005,
       "name": "PE3",
       "url": "https://open.spotify.com/track/4Zk6SD3tUXJ8ShYmvrA9ne"
+    },
+    {
+      "album": {
+        "name": "I Blow Out Big Candles",
+        "url": "https://open.spotify.com/album/2KGxa1nak2X1o3l5bqYmCA"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Piece Of Cake",
+      "url": "https://open.spotify.com/track/2bV5gCcpUl5HkRaQOz6pik"
     },
     {
       "album": {
@@ -4309,6 +4417,36 @@
     },
     {
       "album": {
+        "name": "Sure",
+        "url": "https://open.spotify.com/album/2Nz7KJZ4TSGHqWb4jGLPBA"
+      },
+      "artists": [
+        {
+          "name": "Alice Auer",
+          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
+        },
+        {
+          "name": "James Berkeley",
+          "url": "https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu"
+        },
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Margo Raats",
+          "url": "https://open.spotify.com/artist/52XA4Ccc0k7wMeLkdEsju9"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210952,
+      "name": "Unaware",
+      "url": "https://open.spotify.com/track/6QhK3GRhfNQYeHpKEx9X6Q"
+    },
+    {
+      "album": {
         "name": "Unbelievable",
         "url": "https://open.spotify.com/album/7uBzED8vXwazMC9Q3MHY0q"
       },
@@ -4602,6 +4740,32 @@
       "duration_ms": 194169,
       "name": "your street",
       "url": "https://open.spotify.com/track/7t1T1V2B6QfjVMetEnPqGi"
+    },
+    {
+      "album": {
+        "name": "about dancing",
+        "url": "https://open.spotify.com/album/3w7vFCsg2T4ft0HjvoDTdy"
+      },
+      "artists": [
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157028,
+      "name": "yoyo",
+      "url": "https://open.spotify.com/track/6DNVY8fSGfbK28aO0qhIbG"
     },
     {
       "album": {

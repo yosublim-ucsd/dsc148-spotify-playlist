@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "Editor's picks of freshest Pakistani discoveries you have not heard before. Cover: Ali Raza, AliSoomroMusic",
+  "description": "Editor's picks of freshest Pakistani discoveries you have not heard before. Cover: Ali & Shjr",
   "name": "Fresh Finds Pakistan",
   "tracks": [
     {
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 288000,
       "name": "Andaz E Karam",
       "url": "https://open.spotify.com/track/5z8KuGkXVelJFPxtpzyXJf"
@@ -1646,7 +1646,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 159571,
       "name": "Baby Do You Know",
       "url": "https://open.spotify.com/track/46PwoVq3BBBGq8I5vlnL6O"
@@ -2403,6 +2403,32 @@
     },
     {
       "album": {
+        "name": "Lost Path",
+        "url": "https://open.spotify.com/album/67clB5WzzIq1DOydWKGVIX"
+      },
+      "artists": [
+        {
+          "name": "Ali Raza",
+          "url": "https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC"
+        },
+        {
+          "name": "Shajjar Hussain",
+          "url": "https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv"
+        },
+        {
+          "name": "Ali & Shjr",
+          "url": "https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Beqadra",
+      "url": "https://open.spotify.com/track/3LBq1FeFAVg45FKQ3Jw9SI"
+    },
+    {
+      "album": {
         "name": "Beqadra",
         "url": "https://open.spotify.com/album/5SGHD9oHkRZ2zkYDcfGqq5"
       },
@@ -3020,7 +3046,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 216486,
       "name": "Can't Take It",
       "url": "https://open.spotify.com/track/1XwOrMhdZfjfm0WgYBom6I"
@@ -3546,7 +3572,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 185135,
       "name": "CITYS ON FIRE",
       "url": "https://open.spotify.com/track/6QIJb1TvLZ8wxCziqjH0YO"
@@ -3718,7 +3744,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 185810,
       "name": "Cosmic Love",
       "url": "https://open.spotify.com/track/6WZIi78MVe7k78C6rKzIia"
@@ -5887,6 +5913,28 @@
     },
     {
       "album": {
+        "name": "Fiza",
+        "url": "https://open.spotify.com/album/4Fx7HZinHEJuW9HWEsPONG"
+      },
+      "artists": [
+        {
+          "name": "HYDR",
+          "url": "https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw"
+        },
+        {
+          "name": "PDNY",
+          "url": "https://open.spotify.com/artist/2nggEHrLwzTQfv5gliPZQd"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Fiza",
+      "url": "https://open.spotify.com/track/6rq5mLyAIrPCWsjnRqDbFE"
+    },
+    {
+      "album": {
         "name": "FLY",
         "url": "https://open.spotify.com/album/5oTGWks0Ye3cW8Z8tshLut"
       },
@@ -5958,7 +6006,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 280423,
       "name": "Forlorn Stories",
       "url": "https://open.spotify.com/track/4QEX0EzExFeZr5ui8Q9aJ6"
@@ -6060,6 +6108,36 @@
       "duration_ms": 181388,
       "name": "Gallan",
       "url": "https://open.spotify.com/track/5L6BcD06ltek6LiqhV17Lh"
+    },
+    {
+      "album": {
+        "name": "Lost Path",
+        "url": "https://open.spotify.com/album/67clB5WzzIq1DOydWKGVIX"
+      },
+      "artists": [
+        {
+          "name": "Ali Raza",
+          "url": "https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC"
+        },
+        {
+          "name": "Shajjar Hussain",
+          "url": "https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv"
+        },
+        {
+          "name": "Ali & Shjr",
+          "url": "https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy"
+        },
+        {
+          "name": "Haider Ali",
+          "url": "https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203299,
+      "name": "Galliyan",
+      "url": "https://open.spotify.com/track/2Bq2c5qTMZHOLMNMOPwEEw"
     },
     {
       "album": {
@@ -6468,6 +6546,24 @@
       "duration_ms": 150595,
       "name": "Guzara",
       "url": "https://open.spotify.com/track/0KM62RV76ROu2Yo8ptZXHN"
+    },
+    {
+      "album": {
+        "name": "Haal",
+        "url": "https://open.spotify.com/album/35XPrhJtEiQzb9kM3gHsfo"
+      },
+      "artists": [
+        {
+          "name": "TAHIR ABBAS",
+          "url": "https://open.spotify.com/artist/4mBS6YbM7OV0XNIfwxaOpX"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208750,
+      "name": "Haal",
+      "url": "https://open.spotify.com/track/5h2OHZjjp8lW29ySUaUnX6"
     },
     {
       "album": {
@@ -8330,7 +8426,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 167938,
       "name": "Jhoota Saala",
       "url": "https://open.spotify.com/track/4wktM4ysPIX7uWaCWCUnCf"
@@ -9170,7 +9266,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 206060,
       "name": "Khudi",
       "url": "https://open.spotify.com/track/1oPPo0iInHz6DPp0ET9VYF"
@@ -9546,7 +9642,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 162500,
       "name": "kya karun?",
       "url": "https://open.spotify.com/track/42jn47wleNbZWTmEXPrbOj"
@@ -10032,6 +10128,28 @@
       "duration_ms": 171250,
       "name": "Laykin",
       "url": "https://open.spotify.com/track/7ACdEdtwLSywi1nkN5Xlsk"
+    },
+    {
+      "album": {
+        "name": "Laztaan",
+        "url": "https://open.spotify.com/album/4mmuYzCuexJhMeU6wV2rzs"
+      },
+      "artists": [
+        {
+          "name": "Sohail Shahzad",
+          "url": "https://open.spotify.com/artist/6KgDK2ubUwfKLwgh9uCSKb"
+        },
+        {
+          "name": "Rabi Ahmed",
+          "url": "https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193809,
+      "name": "Laztaan",
+      "url": "https://open.spotify.com/track/3EIlEq4JdWBrqxirVcZ9UM"
     },
     {
       "album": {
@@ -10551,6 +10669,32 @@
     },
     {
       "album": {
+        "name": "Lost Path",
+        "url": "https://open.spotify.com/album/67clB5WzzIq1DOydWKGVIX"
+      },
+      "artists": [
+        {
+          "name": "Ali Raza",
+          "url": "https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC"
+        },
+        {
+          "name": "Shajjar Hussain",
+          "url": "https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv"
+        },
+        {
+          "name": "Ali & Shjr",
+          "url": "https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222197,
+      "name": "Main Na Rahoon",
+      "url": "https://open.spotify.com/track/5H6EKQ9HCI3u7VH1EOxA7g"
+    },
+    {
+      "album": {
         "name": "Majboor",
         "url": "https://open.spotify.com/album/4Xf5ocDXvBffRbDCpyKo5K"
       },
@@ -10916,6 +11060,32 @@
       "duration_ms": 145423,
       "name": "Maza",
       "url": "https://open.spotify.com/track/78lG0FHBXVCc86Uaj8djb6"
+    },
+    {
+      "album": {
+        "name": "me at you",
+        "url": "https://open.spotify.com/album/6AAXQ9XKIsn1pGP8VVKxTf"
+      },
+      "artists": [
+        {
+          "name": "danish roomi",
+          "url": "https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP"
+        },
+        {
+          "name": "Wustaaz",
+          "url": "https://open.spotify.com/artist/7bp4rJQdlO2NygDPkV2ycT"
+        },
+        {
+          "name": "prodmaarij",
+          "url": "https://open.spotify.com/artist/6hKItFSn6L9rvNYiNqZ27z"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207157,
+      "name": "me at you",
+      "url": "https://open.spotify.com/track/6lNs9ybC6XqMguLfhsK9aA"
     },
     {
       "album": {
@@ -12583,6 +12753,36 @@
     },
     {
       "album": {
+        "name": "Oil Money",
+        "url": "https://open.spotify.com/album/1hSRR5o5sDJv46eHhGMkEf"
+      },
+      "artists": [
+        {
+          "name": "Hashim Ishaq",
+          "url": "https://open.spotify.com/artist/3K6IjvhAJpWRUehJ9mU0Ot"
+        },
+        {
+          "name": "DRG Musics",
+          "url": "https://open.spotify.com/artist/0bMnT7mTcQQZa1cLr7kPlW"
+        },
+        {
+          "name": "Sami Amiri",
+          "url": "https://open.spotify.com/artist/5w3TIlNEAF51Ur9xSCcBzP"
+        },
+        {
+          "name": "Shehroz",
+          "url": "https://open.spotify.com/artist/3TqqstbDuFqLxPwFcLutOE"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207230,
+      "name": "Oil Money",
+      "url": "https://open.spotify.com/track/13Y5mhkpjtjuAHdnQsAO7l"
+    },
+    {
+      "album": {
         "name": "okay",
         "url": "https://open.spotify.com/album/1PeKkVVxub4imuCxrJ6oYZ"
       },
@@ -12690,10 +12890,36 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 197647,
       "name": "Online",
       "url": "https://open.spotify.com/track/3Qsy57eEscwOPoB7zulaHr"
+    },
+    {
+      "album": {
+        "name": "Opps On Sight",
+        "url": "https://open.spotify.com/album/0zmVIJbtfONpBVNZsZ01WR"
+      },
+      "artists": [
+        {
+          "name": "AADI BEATS",
+          "url": "https://open.spotify.com/artist/7vqsjsLIlgnm8n0qrt74uT"
+        },
+        {
+          "name": "Asif Murtaza",
+          "url": "https://open.spotify.com/artist/2d9thSoUKJHZHfKHkNxg72"
+        },
+        {
+          "name": "UMAIR AFTAB",
+          "url": "https://open.spotify.com/artist/32zwON1tAfh5rVXeuiVBzK"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185767,
+      "name": "Opps On Sight",
+      "url": "https://open.spotify.com/track/0xadND2CmCqLiftPpW20xb"
     },
     {
       "album": {
@@ -14149,6 +14375,32 @@
     },
     {
       "album": {
+        "name": "Gulistan (Janoobi) / Side Down",
+        "url": "https://open.spotify.com/album/2y1DBEaQkKv8fQyhWd1mn6"
+      },
+      "artists": [
+        {
+          "name": "Zohaib Kazi",
+          "url": "https://open.spotify.com/artist/6KLLWcERsoHPN3Mu0Z20ci"
+        },
+        {
+          "name": "Shamu Bai",
+          "url": "https://open.spotify.com/artist/6ImUiMuTiMjlhRKfMCXe8Q"
+        },
+        {
+          "name": "Mustafa Kamal Khan",
+          "url": "https://open.spotify.com/artist/4PwmbOXaGlRZRzBuVZL8wV"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Retrolore (feat. Shamu Bai & Mustafa Kamal Khan)",
+      "url": "https://open.spotify.com/track/2aCSKTBHDpnbAC8AFZh45x"
+    },
+    {
+      "album": {
         "name": "Ripped",
         "url": "https://open.spotify.com/album/4WCqLRe1D6i69z1VwARPUx"
       },
@@ -14318,7 +14570,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 175210,
       "name": "Rukna Na",
       "url": "https://open.spotify.com/track/1ge2rBUvqN6LNyJGDrp1S8"
@@ -14809,6 +15061,24 @@
     },
     {
       "album": {
+        "name": "Samjhawan",
+        "url": "https://open.spotify.com/album/2dnIa9RvCHMZl2L7Brlfa5"
+      },
+      "artists": [
+        {
+          "name": "Zaira Ali",
+          "url": "https://open.spotify.com/artist/1FooeGICOzdQGc2rT7fFJ6"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163235,
+      "name": "Samjhawan",
+      "url": "https://open.spotify.com/track/1hiA4BK8Bu9Yjv9HRlVWfj"
+    },
+    {
+      "album": {
         "name": "Sanam",
         "url": "https://open.spotify.com/album/5kLSV84wUvUIPit6pSUdyR"
       },
@@ -15246,6 +15516,32 @@
       "duration_ms": 157701,
       "name": "Settle down",
       "url": "https://open.spotify.com/track/1rLZyZIJ8F3i7gMYKYCNrb"
+    },
+    {
+      "album": {
+        "name": "Sexy Sheikh",
+        "url": "https://open.spotify.com/album/51il7cYFC252GNk89ppzUH"
+      },
+      "artists": [
+        {
+          "name": "SHISHU HERRY",
+          "url": "https://open.spotify.com/artist/5xAPMFif4zPX0FcwfK74Z3"
+        },
+        {
+          "name": "Wicked Sunny",
+          "url": "https://open.spotify.com/artist/3jOWtMZBEsXsCFp4SuzlQa"
+        },
+        {
+          "name": "Sami Amiri",
+          "url": "https://open.spotify.com/artist/5w3TIlNEAF51Ur9xSCcBzP"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172442,
+      "name": "Sexy Sheikh",
+      "url": "https://open.spotify.com/track/4balFpzF3GPWrfiR1MerAG"
     },
     {
       "album": {
@@ -16802,7 +17098,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 197720,
       "name": "Tera Ishq",
       "url": "https://open.spotify.com/track/2OLRYLasE3zYwYrOyfeaXx"
@@ -17385,6 +17681,28 @@
     },
     {
       "album": {
+        "name": "They Don't Know",
+        "url": "https://open.spotify.com/album/6N7z8c6pEuO7yolHxPvvVt"
+      },
+      "artists": [
+        {
+          "name": "Sanan Khalid",
+          "url": "https://open.spotify.com/artist/0NDyAM1Wxd2yKhm5XAybTN"
+        },
+        {
+          "name": "Jayyke",
+          "url": "https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207007,
+      "name": "They Don't Know",
+      "url": "https://open.spotify.com/track/4hBMrFPUnHspcMhuw0aBoi"
+    },
+    {
+      "album": {
         "name": "Thinking about you",
         "url": "https://open.spotify.com/album/2ELlnYULZUEOuaziblhOoT"
       },
@@ -17736,7 +18054,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 135323,
       "name": "Tu Aja",
       "url": "https://open.spotify.com/track/21H0pA5BplgAi32C6wLaDm"
@@ -18266,7 +18584,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 179624,
       "name": "WAIT4U",
       "url": "https://open.spotify.com/track/4kAYBhuYdqtzQNcHgrVWfc"
@@ -18402,7 +18720,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 215862,
       "name": "Wasta",
       "url": "https://open.spotify.com/track/1sa4VjsTiP1B1JON8CvgUl"
@@ -18687,6 +19005,32 @@
     },
     {
       "album": {
+        "name": "Lost Path",
+        "url": "https://open.spotify.com/album/67clB5WzzIq1DOydWKGVIX"
+      },
+      "artists": [
+        {
+          "name": "Ali Raza",
+          "url": "https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC"
+        },
+        {
+          "name": "Shajjar Hussain",
+          "url": "https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv"
+        },
+        {
+          "name": "Ali & Shjr",
+          "url": "https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144001,
+      "name": "Wishful",
+      "url": "https://open.spotify.com/track/2e7DgiuK7mCDvYHTmMZilD"
+    },
+    {
+      "album": {
         "name": "with love.",
         "url": "https://open.spotify.com/album/0G7WvbTKRlY5BbjGAYqpvV"
       },
@@ -18710,6 +19054,24 @@
       "duration_ms": 197652,
       "name": "with love.",
       "url": "https://open.spotify.com/track/1rgjWPAzk0QkiPFN32K24r"
+    },
+    {
+      "album": {
+        "name": "Without you",
+        "url": "https://open.spotify.com/album/3mEFudSj7bQI5shv6eTv6T"
+      },
+      "artists": [
+        {
+          "name": "Salem Sandhu",
+          "url": "https://open.spotify.com/artist/0Eh7Sz5p4UQ6AfOcFu5f45"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199043,
+      "name": "Without you",
+      "url": "https://open.spotify.com/track/1axBbql8XYuqsagIv6tzza"
     },
     {
       "album": {

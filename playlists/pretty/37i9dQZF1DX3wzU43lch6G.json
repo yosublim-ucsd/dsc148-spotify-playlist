@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 111011,
+  "num_followers": 111019,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
-        "name": "Uzunlar",
-        "url": "https://open.spotify.com/album/39fSB986BtwaS4x5vXbiuo"
-      },
-      "artists": [
-        {
-          "name": "Evdeki Saat",
-          "url": "https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P"
-        }
-      ],
-      "duration_ms": 282352,
-      "name": "Uzunlar - V1",
-      "url": "https://open.spotify.com/track/1vLkBVAy8ZWrqcQjYTPP3a"
-    },
-    {
-      "added_at": "2024-07-08 08:26:10",
-      "album": {
         "name": "Ben Senin Delinim",
         "url": "https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 223854,
       "name": "Ben Senin Delinim",
       "url": "https://open.spotify.com/track/055YVbBBnytDpM9K1ruqwx"
+    },
+    {
+      "added_at": "2024-07-08 08:26:10",
+      "album": {
+        "name": "Uzunlar",
+        "url": "https://open.spotify.com/album/39fSB986BtwaS4x5vXbiuo"
+      },
+      "artists": [
+        {
+          "name": "Evdeki Saat",
+          "url": "https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P"
+        }
+      ],
+      "duration_ms": 282352,
+      "name": "Uzunlar - V1",
+      "url": "https://open.spotify.com/track/1vLkBVAy8ZWrqcQjYTPP3a"
     },
     {
       "added_at": "2024-07-08 08:26:10",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
-        "name": "Aacayipsin",
-        "url": "https://open.spotify.com/album/06EBiLh3V0q2dOUdXnic7e"
-      },
-      "artists": [
-        {
-          "name": "Tarkan",
-          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
-        }
-      ],
-      "duration_ms": 249475,
-      "name": "G\u00fcl D\u00f6kt\u00fcm Yollar\u0131na",
-      "url": "https://open.spotify.com/track/2v57dbjigdKRh7MY6ME3WB"
-    },
-    {
-      "added_at": "2024-07-08 08:26:10",
-      "album": {
         "name": "Tepeler",
         "url": "https://open.spotify.com/album/1uieUXynGKSwtAR2mBZX6Z"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 173986,
       "name": "G\u00fcne\u015fe Dokundum",
       "url": "https://open.spotify.com/track/1XSHAC96a1iNeOsq4bqe4o"
+    },
+    {
+      "added_at": "2024-07-08 08:26:10",
+      "album": {
+        "name": "Aacayipsin",
+        "url": "https://open.spotify.com/album/06EBiLh3V0q2dOUdXnic7e"
+      },
+      "artists": [
+        {
+          "name": "Tarkan",
+          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "duration_ms": 249475,
+      "name": "G\u00fcl D\u00f6kt\u00fcm Yollar\u0131na",
+      "url": "https://open.spotify.com/track/2v57dbjigdKRh7MY6ME3WB"
     },
     {
       "added_at": "2024-07-08 08:26:10",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
-        "name": "Her Yerde Sen",
-        "url": "https://open.spotify.com/album/2Ml6sEJFjQybCQ8Y4c3Gq0"
-      },
-      "artists": [
-        {
-          "name": "Zeynep Bast\u0131k",
-          "url": "https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1"
-        }
-      ],
-      "duration_ms": 219664,
-      "name": "Her Yerde Sen",
-      "url": "https://open.spotify.com/track/1L8breHwaAapLwp7tcIPF9"
-    },
-    {
-      "added_at": "2024-07-08 08:26:10",
-      "album": {
         "name": "Kuantum 51",
         "url": "https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 174315,
       "name": "Bildi\u011fim Gibi",
       "url": "https://open.spotify.com/track/1DpVhmrVGIz6y9hh9Gs3qK"
+    },
+    {
+      "added_at": "2024-07-08 08:26:10",
+      "album": {
+        "name": "Her Yerde Sen",
+        "url": "https://open.spotify.com/album/2Ml6sEJFjQybCQ8Y4c3Gq0"
+      },
+      "artists": [
+        {
+          "name": "Zeynep Bast\u0131k",
+          "url": "https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1"
+        }
+      ],
+      "duration_ms": 219664,
+      "name": "Her Yerde Sen",
+      "url": "https://open.spotify.com/track/1L8breHwaAapLwp7tcIPF9"
     },
     {
       "added_at": "2024-07-08 08:26:10",
@@ -395,38 +395,6 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
-        "name": "Turuncu",
-        "url": "https://open.spotify.com/album/1phjztIsbUr26BqjYWh2QO"
-      },
-      "artists": [
-        {
-          "name": "Sertab Erener",
-          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Kumsalda",
-      "url": "https://open.spotify.com/track/44P48IXl8neXU8K3YAKabd"
-    },
-    {
-      "added_at": "2024-07-08 08:26:10",
-      "album": {
-        "name": "\u015eark\u0131 S\u00f6ylemek Laz\u0131m",
-        "url": "https://open.spotify.com/album/1EslpWF9y4x0g6h8yfZLvU"
-      },
-      "artists": [
-        {
-          "name": "Sezen Aksu",
-          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
-        }
-      ],
-      "duration_ms": 260426,
-      "name": "\u015eark\u0131 S\u00f6ylemek Laz\u0131m",
-      "url": "https://open.spotify.com/track/3jZTq9IJuhKVbFR3GXtZ8e"
-    },
-    {
-      "added_at": "2024-07-08 08:26:10",
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/11KfFiHZxXiBoEq52HAsJi"
       },
@@ -443,6 +411,22 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
+        "name": "Turuncu",
+        "url": "https://open.spotify.com/album/1phjztIsbUr26BqjYWh2QO"
+      },
+      "artists": [
+        {
+          "name": "Sertab Erener",
+          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Kumsalda",
+      "url": "https://open.spotify.com/track/44P48IXl8neXU8K3YAKabd"
+    },
+    {
+      "added_at": "2024-07-08 08:26:10",
+      "album": {
         "name": "Hissettin mi",
         "url": "https://open.spotify.com/album/5P6RjBkDAW3VHh8tRi6Xe6"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 212608,
       "name": "Hissettin mi",
       "url": "https://open.spotify.com/track/0L4002pXxWRyo6ir6GFxyR"
+    },
+    {
+      "added_at": "2024-07-08 08:26:10",
+      "album": {
+        "name": "\u015eark\u0131 S\u00f6ylemek Laz\u0131m",
+        "url": "https://open.spotify.com/album/1EslpWF9y4x0g6h8yfZLvU"
+      },
+      "artists": [
+        {
+          "name": "Sezen Aksu",
+          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "duration_ms": 260426,
+      "name": "\u015eark\u0131 S\u00f6ylemek Laz\u0131m",
+      "url": "https://open.spotify.com/track/3jZTq9IJuhKVbFR3GXtZ8e"
     },
     {
       "added_at": "2024-07-08 08:26:10",

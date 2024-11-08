@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 178000,
       "name": "4AM",
       "url": "https://open.spotify.com/track/0irMdkppdBxssDcDPA8O4J"
@@ -1999,6 +1999,28 @@
     },
     {
       "album": {
+        "name": "Bus Stop Please",
+        "url": "https://open.spotify.com/album/06HEvSJ6i3ML7nXAiTVt94"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215300,
+      "name": "Bus Stop Please",
+      "url": "https://open.spotify.com/track/69qwWu8dQwaTABh5B9r8xn"
+    },
+    {
+      "album": {
         "name": "butterfly (so free)",
         "url": "https://open.spotify.com/album/5Q38YvTGu832sX1ZDKK2sO"
       },
@@ -2164,7 +2186,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 171620,
       "name": "Can\u2019t Walk Away",
       "url": "https://open.spotify.com/track/71SJspddigbl3qqVoMcRfJ"
@@ -6542,7 +6564,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 219648,
       "name": "heatwave",
       "url": "https://open.spotify.com/track/6wtbNTxsxH8CrZ9Whp8oBh"
@@ -6844,7 +6866,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 278840,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2qMS5qYe10o9EmEM7i5k9f"
@@ -7583,6 +7605,24 @@
     },
     {
       "album": {
+        "name": "I LOVE YOUR EVERYTHING",
+        "url": "https://open.spotify.com/album/4AjZbblZl8VQMRbPtyMebt"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "I LOVE YOUR EVERYTHING",
+      "url": "https://open.spotify.com/track/5Rc3JYlH5cTPbhxqvCQYJh"
+    },
+    {
+      "album": {
         "name": "I Missed You Too",
         "url": "https://open.spotify.com/album/3S5pxAGiUKduiJGwnEzHno"
       },
@@ -7914,6 +7954,28 @@
       "duration_ms": 212866,
       "name": "Image",
       "url": "https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp"
+    },
+    {
+      "album": {
+        "name": "Image (Grimes Special)",
+        "url": "https://open.spotify.com/album/5GrbD3XhTH6jyvLTwRJpji"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215454,
+      "name": "Image - Grimes Special",
+      "url": "https://open.spotify.com/track/6dYwNIqAYid4wRh9zdDNkT"
     },
     {
       "album": {
@@ -11231,6 +11293,28 @@
     },
     {
       "album": {
+        "name": "VOYAGE",
+        "url": "https://open.spotify.com/album/1vxNZBtADNXGZ0RaviA4Ei"
+      },
+      "artists": [
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        },
+        {
+          "name": "Boy Matthews",
+          "url": "https://open.spotify.com/artist/2jn9JOmdrR9BdiR1LTvYG4"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175826,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/6KKSj7JNdpCEmvhlvBzobD"
+    },
+    {
+      "album": {
         "name": "ep #1",
         "url": "https://open.spotify.com/album/3pieuHp0IzLYyhirANcN06"
       },
@@ -12048,7 +12132,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 227000,
       "name": "On Our Side",
       "url": "https://open.spotify.com/track/4vwqDJxQNwdGswNnygVehe"
@@ -13005,6 +13089,28 @@
     },
     {
       "album": {
+        "name": "Rapid Fire / Kaitlyn Aurelia Smith Remix",
+        "url": "https://open.spotify.com/album/4fhjIERJZDttnJmT9W53f2"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Laima",
+          "url": "https://open.spotify.com/artist/1BsnJdQKuN4OUlLLYTx6gr"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334625,
+      "name": "Rapid Fire",
+      "url": "https://open.spotify.com/track/5qSPUKlN8pGdZosV8ILYDU"
+    },
+    {
+      "album": {
         "name": "Ray of Light",
         "url": "https://open.spotify.com/album/47DlMVv64jPLw8DJJ1oqLU"
       },
@@ -13126,6 +13232,24 @@
       "duration_ms": 229960,
       "name": "Replacements (feat. La Roux)",
       "url": "https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH"
+    },
+    {
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/5o3lrb6NCyEJT65AnSmV3N"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210194,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/6wzMevey2rDXo0e1POZ67m"
     },
     {
       "album": {
@@ -14240,7 +14364,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 201123,
       "name": "Sketches Of Pain",
       "url": "https://open.spotify.com/track/2AuhHMq2vByuSmlNKbOJ1O"
@@ -15052,7 +15176,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 201933,
       "name": "Strength (R U Ready) [feat. Joy Crookes]",
       "url": "https://open.spotify.com/track/1sVWTkfmfSjcip9unXt1Wz"
@@ -17764,7 +17888,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 307190,
       "name": "Weave",
       "url": "https://open.spotify.com/track/246q6QozV9l3OKfUSnKTmu"
@@ -18008,6 +18132,28 @@
       "duration_ms": 406533,
       "name": "When You Wake up Tomorrow",
       "url": "https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY"
+    },
+    {
+      "album": {
+        "name": "Where's The Daddy?",
+        "url": "https://open.spotify.com/album/2m4Dup07tsQ28K3qWylAw0"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172859,
+      "name": "Where's The Daddy?",
+      "url": "https://open.spotify.com/track/6qhCrOuJSKn2yqXuRyPIPL"
     },
     {
       "album": {
@@ -18292,6 +18438,24 @@
       "duration_ms": 243282,
       "name": "WORRY.",
       "url": "https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf"
+    },
+    {
+      "album": {
+        "name": "x-ray eyes",
+        "url": "https://open.spotify.com/album/0NXggkTAhL1M8NOz7tfzAt"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291506,
+      "name": "x-ray eyes",
+      "url": "https://open.spotify.com/track/6vitrLyJKoMUUC87JsgIAY"
     },
     {
       "album": {

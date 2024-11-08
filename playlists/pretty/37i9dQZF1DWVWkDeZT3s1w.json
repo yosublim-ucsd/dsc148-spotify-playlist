@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 105524,
+  "num_followers": 105545,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
+        "name": "Sin Sendero",
+        "url": "https://open.spotify.com/album/2ANVtDVy4ib21lbrZJLK2C"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 213646,
+      "name": "Sin Sendero",
+      "url": "https://open.spotify.com/track/20G6EzPINihLGvToMI49Dd"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
         "name": "Cualquier Parecido con La Realidad",
         "url": "https://open.spotify.com/album/1fWIXSbLLG41HN0WFdkjGb"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 273823,
       "name": "Cuidado en Quien Confias",
       "url": "https://open.spotify.com/track/34LnKrUc7W3N9zqrdPtts3"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "Sin Sendero",
-        "url": "https://open.spotify.com/album/2ANVtDVy4ib21lbrZJLK2C"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 213646,
-      "name": "Sin Sendero",
-      "url": "https://open.spotify.com/track/20G6EzPINihLGvToMI49Dd"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -895,22 +895,22 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Hombre (One Shot) [Remix]",
-        "url": "https://open.spotify.com/album/3bCmiho1yBiqd6Udt3ayEY"
+        "name": "La Capital Del Pecado",
+        "url": "https://open.spotify.com/album/5ZhKILys7Vne4fJ1gvWZVc"
       },
       "artists": [
         {
-          "name": "Mime 871",
-          "url": "https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI"
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
         },
         {
-          "name": "Discan",
-          "url": "https://open.spotify.com/artist/7I7KLUX6kCxnrZMDJOontY"
+          "name": "Zirck Saucedo",
+          "url": "https://open.spotify.com/artist/4T69z0gm8SP5HxlUBMMXpR"
         }
       ],
-      "duration_ms": 184600,
-      "name": "Hombre (One Shot) - Remix",
-      "url": "https://open.spotify.com/track/7ClQWd6CqBYi0LZRgILUvl"
+      "duration_ms": 163266,
+      "name": "La Capital Del Pecado",
+      "url": "https://open.spotify.com/track/5sxIv3QmlnQ4u5NxPM1E7V"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -939,22 +939,22 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "La Capital Del Pecado",
-        "url": "https://open.spotify.com/album/5ZhKILys7Vne4fJ1gvWZVc"
+        "name": "Hombre (One Shot) [Remix]",
+        "url": "https://open.spotify.com/album/3bCmiho1yBiqd6Udt3ayEY"
       },
       "artists": [
         {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+          "name": "Mime 871",
+          "url": "https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI"
         },
         {
-          "name": "Zirck Saucedo",
-          "url": "https://open.spotify.com/artist/4T69z0gm8SP5HxlUBMMXpR"
+          "name": "Discan",
+          "url": "https://open.spotify.com/artist/7I7KLUX6kCxnrZMDJOontY"
         }
       ],
-      "duration_ms": 163266,
-      "name": "La Capital Del Pecado",
-      "url": "https://open.spotify.com/track/5sxIv3QmlnQ4u5NxPM1E7V"
+      "duration_ms": 184600,
+      "name": "Hombre (One Shot) - Remix",
+      "url": "https://open.spotify.com/track/7ClQWd6CqBYi0LZRgILUvl"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Tiempos Felices",
-        "url": "https://open.spotify.com/album/7AHNb6VALxScuuUYcmd90L"
-      },
-      "artists": [
-        {
-          "name": "Ximbo",
-          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
-        },
-        {
-          "name": "Nax",
-          "url": "https://open.spotify.com/artist/2tywCc8kh9RzR0XY8HYekn"
-        }
-      ],
-      "duration_ms": 201399,
-      "name": "Tiempos Felices",
-      "url": "https://open.spotify.com/track/4lS1HxKXFMinRnsz6PqywA"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Escorpi\u00f3n",
         "url": "https://open.spotify.com/album/3U0wjZVkZ7qtblFGLIzqpA"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 172925,
       "name": "Escorpi\u00f3n",
       "url": "https://open.spotify.com/track/48djoywLHuEwUlOpZP1tMR"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Tiempos Felices",
+        "url": "https://open.spotify.com/album/7AHNb6VALxScuuUYcmd90L"
+      },
+      "artists": [
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        },
+        {
+          "name": "Nax",
+          "url": "https://open.spotify.com/artist/2tywCc8kh9RzR0XY8HYekn"
+        }
+      ],
+      "duration_ms": 201399,
+      "name": "Tiempos Felices",
+      "url": "https://open.spotify.com/track/4lS1HxKXFMinRnsz6PqywA"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1587,30 +1587,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Tierra Madre",
-        "url": "https://open.spotify.com/album/1LHcXv0D9fUXR0ggFOAktv"
-      },
-      "artists": [
-        {
-          "name": "Los Cojolites",
-          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
-        },
-        {
-          "name": "Reggie Stephens",
-          "url": "https://open.spotify.com/artist/0mtOLBy0TIjoGhQXknswJ4"
-        },
-        {
-          "name": "One Drop Scott",
-          "url": "https://open.spotify.com/artist/72mXNmbTgflWnosnalErzQ"
-        }
-      ],
-      "duration_ms": 265264,
-      "name": "Tierra Madre",
-      "url": "https://open.spotify.com/track/3TH2lQ9upYttcTUpr9WfDO"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Rimas Femeninas",
         "url": "https://open.spotify.com/album/7E9X8WXowkHl9y5aBLf1Cq"
       },
@@ -1635,6 +1611,30 @@
       "duration_ms": 193952,
       "name": "Rimas Femeninas",
       "url": "https://open.spotify.com/track/5Sj6xJcaHGBmstqYjQAlo5"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Tierra Madre",
+        "url": "https://open.spotify.com/album/1LHcXv0D9fUXR0ggFOAktv"
+      },
+      "artists": [
+        {
+          "name": "Los Cojolites",
+          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
+        },
+        {
+          "name": "Reggie Stephens",
+          "url": "https://open.spotify.com/artist/0mtOLBy0TIjoGhQXknswJ4"
+        },
+        {
+          "name": "One Drop Scott",
+          "url": "https://open.spotify.com/artist/72mXNmbTgflWnosnalErzQ"
+        }
+      ],
+      "duration_ms": 265264,
+      "name": "Tierra Madre",
+      "url": "https://open.spotify.com/track/3TH2lQ9upYttcTUpr9WfDO"
     },
     {
       "added_at": "2024-09-06 06:00:00",

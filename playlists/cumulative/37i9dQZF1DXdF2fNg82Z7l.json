@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 168928,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/5mxyI5JvaxInlaZFgCLr5j"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 201720,
       "name": "CRASH DUMMY MUZIK",
       "url": "https://open.spotify.com/track/3DIgMO31zNSpR2wOZT7JcD"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 157866,
       "name": "Cupid's Guidance",
       "url": "https://open.spotify.com/track/48k4TP7v4OtZRnblRrIEQT"
@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "B4 I Breakdown",
+        "url": "https://open.spotify.com/album/2KAWX279th7yUtgVIfD6TU"
+      },
+      "artists": [
+        {
+          "name": "Ojerime",
+          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Give It Up 2 Me",
+      "url": "https://open.spotify.com/track/3X7wVYr4XpzGgoXmQVnrJo"
+    },
+    {
+      "album": {
         "name": "GOD CALLS/HEAVY FREESTYLE",
         "url": "https://open.spotify.com/album/5s0BRtii6dzwJzPsYXbC7e"
       },
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 105080,
       "name": "GOD CALLS",
       "url": "https://open.spotify.com/track/20vIk5NNFjn2EHWJNpYmVP"
@@ -1170,7 +1188,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 156888,
       "name": "High Standards",
       "url": "https://open.spotify.com/track/15TdTzxecMez1Dw6IvxhhM"
@@ -1260,6 +1278,28 @@
       "duration_ms": 210352,
       "name": "Hine Mokemoke",
       "url": "https://open.spotify.com/track/4BSAUKqRWOqa3iJOR9sMhC"
+    },
+    {
+      "album": {
+        "name": "Hmm (feat. Popcaan)",
+        "url": "https://open.spotify.com/album/4srn3PA7GARSVBnOZ9lM1c"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163369,
+      "name": "Hmm (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/6NlCxCDyNBtjwXw2sa9gkU"
     },
     {
       "album": {
@@ -1388,6 +1428,24 @@
       "duration_ms": 117976,
       "name": "I'll Call U Back",
       "url": "https://open.spotify.com/track/6zfVYM5Nne0EzpjzYfJKwp"
+    },
+    {
+      "album": {
+        "name": "Honeycomb",
+        "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204324,
+      "name": "I'm a Rock",
+      "url": "https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w"
     },
     {
       "album": {
@@ -1584,7 +1642,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 223229,
       "name": "Leave Me Low",
       "url": "https://open.spotify.com/track/5A6FXagEPwOWV6MIurNgTK"
@@ -2150,7 +2208,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 139000,
       "name": "No Peace, No Time",
       "url": "https://open.spotify.com/track/66Be4ATVoOu2JiyS2QFich"
@@ -2739,7 +2797,7 @@
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 263449,
+      "duration_ms": 262573,
       "name": "Saturday Mornings (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu"
     },
@@ -2840,6 +2898,24 @@
       "duration_ms": 215776,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB"
+    },
+    {
+      "album": {
+        "name": "Sink In",
+        "url": "https://open.spotify.com/album/6q5HmSWBX2lbGH3SCSZOIe"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136260,
+      "name": "Sink In",
+      "url": "https://open.spotify.com/track/6OiQNUMCLXJtJxOmUsoyFA"
     },
     {
       "album": {
@@ -2978,7 +3054,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 172800,
       "name": "STAY",
       "url": "https://open.spotify.com/track/3wqxUy1vzbwjTHzZV5gfzb"
@@ -3144,7 +3220,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 193650,
       "name": "Take That",
       "url": "https://open.spotify.com/track/5fnQi8JNcn8XkdQrK3RtkL"
@@ -3630,7 +3706,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-21",
+      "date_removed": null,
       "duration_ms": 268401,
       "name": "When He\u2019s Not There (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/79C5R15cOiFYUvWG4gDL10"

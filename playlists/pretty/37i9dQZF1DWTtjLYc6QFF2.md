@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Обкладинка: Маша Кондратенко
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,995 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,002 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [дим](https://open.spotify.com/track/7dvyNtjVH1utKHk2xUCmuz) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [дим](https://open.spotify.com/album/3CaSZAFIdNhOps4xwWiv6O) | 3:01 |
+| 1 | [вивчи мене](https://open.spotify.com/track/2acrRGrZ0z0uSHJnGfqvP2) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [знайшла свій щоденник](https://open.spotify.com/album/1x3jYIxhKYFyphfmYmM0HK) | 2:22 |
 | 2 | [Титанік](https://open.spotify.com/track/4BhZHhEHOPBebQiUoqJrzl) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Титанік](https://open.spotify.com/album/1PWaSmD6dd7MXU5s2DXKG2) | 2:36 |
 | 3 | [А що буде](https://open.spotify.com/track/4yxJh1ibZvXtp58HWtqBcT) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [А що буде](https://open.spotify.com/album/5vxnxBDTVAiP7fcyNja20z) | 2:53 |
 | 4 | [А якщо чесно](https://open.spotify.com/track/5MbTzZQ6X9fFXYwYSpwRQl) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [А якщо чесно](https://open.spotify.com/album/6C2eblKLTDVdytchtS2Alh) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 49 | [Тільки ти](https://open.spotify.com/track/0la7Rdsp1ddsPfdQc9Aovz) | [GLASOVA](https://open.spotify.com/artist/0iaWbkHT0UbDhOBOJY177C) | [Тільки ти](https://open.spotify.com/album/7ysgice1nSMCsEDAJqYeX1) | 2:59 |
 | 50 | [Кави чорні, турки срібні](https://open.spotify.com/track/2PUxg4jz5k1sXvvBz6Gcvs) | [Shopping Hour](https://open.spotify.com/artist/1dVLbi3cBOdwu68IX5ka3U) | [Кави чорні, турки срібні](https://open.spotify.com/album/3PR7ta2WwXFHM8hEaTLYxu) | 3:07 |
 
-Snapshot ID: `ZyqVYAAAAADRsVzqPt5SsUMu002bGwAM`
+Snapshot ID: `Zy04YAAAAAAIKct/JW7ooAucG9xo4iBM`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:0jChaPqRQFGVIjnwTqeZiD">Tá com Tempo?</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,754 likes - 11 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,755 likes - 11 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [\#05 \- Como lidar com as expectativas dos nossos pais? \- Elisama responde e\-mails de ouvintes.](https://open.spotify.com/episode/6jTSyQDFj0utu82inF7YFy) | ["Tá com Tempo?" \- Elisama Santos](https://open.spotify.com/show/0jChaPqRQFGVIjnwTqeZiD) | ["Tá com Tempo?" \- Elisama Santos](https://open.spotify.com/album/0jChaPqRQFGVIjnwTqeZiD) | 51:38 |
+| 1 | [\#05 Como lidar com as expectativas dos nossos pais? \- Elisama responde e\-mails de ouvintes.](https://open.spotify.com/episode/6jTSyQDFj0utu82inF7YFy) | [Tá com Tempo? por Elisama Santos](https://open.spotify.com/show/0jChaPqRQFGVIjnwTqeZiD) | [Tá com Tempo? por Elisama Santos](https://open.spotify.com/album/0jChaPqRQFGVIjnwTqeZiD) | 51:38 |
 | 2 | [POGRAMA DE BÊBO \- POGRAMA \#19](https://open.spotify.com/episode/1pfclYHvZK1poOQVIroVac) | [POGRAMA](https://open.spotify.com/show/4b5P4Tq5loWnl139Uw853q) | [POGRAMA](https://open.spotify.com/album/4b5P4Tq5loWnl139Uw853q) | 35:32 |
 | 3 | [Clube do Erro \#052 \- Amor ou Amizade?](https://open.spotify.com/episode/6YQk7TbOEoQ73xoiLrVFgv) | [Clube do Erro](https://open.spotify.com/show/08kk3SYhqXvEEH26Pc243s) | [Clube do Erro](https://open.spotify.com/album/08kk3SYhqXvEEH26Pc243s) | 15:33 |
 | 4 | [\#65 \- Psicólogos de Método \- Joguei No Grupo](https://open.spotify.com/episode/4n6T6kwqFAS2OCLno6JOL3) | [Joguei no Grupo](https://open.spotify.com/show/68pZRcoMuq0DTgsc0DJXB9) | [Joguei no Grupo](https://open.spotify.com/album/68pZRcoMuq0DTgsc0DJXB9) | 1:09:29 |

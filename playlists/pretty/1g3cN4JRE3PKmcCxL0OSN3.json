@@ -6,7 +6,7 @@
     "name": "charlie*",
     "url": "https://open.spotify.com/user/blank808"
   },
-  "snapshot_id": "AAAFPvgTexHirczLHTfcA6661eAZAaAd",
+  "snapshot_id": "AAAFP3HP5YHbrkcZ3IPFYLwg4S+C3jTG",
   "tracks": [
     {
       "added_at": "2024-09-16 13:04:52",
@@ -23171,6 +23171,126 @@
       "duration_ms": 261000,
       "name": "GUMMY",
       "url": "https://open.spotify.com/track/42tBlHWL3VfDkUM2iWcc5p"
+    },
+    {
+      "added_at": "2024-11-07 20:41:33",
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 147707,
+      "name": "Drip Sweat (feat. Channel Tres)",
+      "url": "https://open.spotify.com/track/5eIi76XOUB2SJ1Aev26Zjb"
+    },
+    {
+      "added_at": "2024-11-07 20:41:33",
+      "album": {
+        "name": "Husk",
+        "url": "https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 204651,
+      "name": "Husk",
+      "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
+    },
+    {
+      "added_at": "2024-11-07 20:41:33",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 206973,
+      "name": "Real Life",
+      "url": "https://open.spotify.com/track/3HVRZxCp3BWYuYe8L8BMNH"
+    },
+    {
+      "added_at": "2024-11-07 20:41:33",
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 219035,
+      "name": "Spit It Out (feat. Rochelle Jordan)",
+      "url": "https://open.spotify.com/track/3sc1W8OHwAFoPe6mS7AJUT"
+    },
+    {
+      "added_at": "2024-11-07 20:41:33",
+      "album": {
+        "name": "BRAVADO + INTiMO",
+        "url": "https://open.spotify.com/album/6QfICnbrJhdEwyM4Hd0n3R"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "duration_ms": 142095,
+      "name": "KiCKiN! (B)",
+      "url": "https://open.spotify.com/track/2HOL1tgbwCvmrmHCkHKwkL"
+    },
+    {
+      "added_at": "2024-11-07 20:41:33",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/19fKJrO9XdOf6Xla2QHecO"
+    },
+    {
+      "added_at": "2024-11-07 20:41:33",
+      "album": {
+        "name": "In the End It Always Does",
+        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Touching Yourself",
+      "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"
     }
   ],
   "unique_name": "on repeat + repeat rewind",

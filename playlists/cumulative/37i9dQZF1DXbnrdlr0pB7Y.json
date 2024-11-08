@@ -445,6 +445,28 @@
     },
     {
       "album": {
+        "name": "Alma Mexicana",
+        "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
+      },
+      "artists": [
+        {
+          "name": "Byron Brizz",
+          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
+        },
+        {
+          "name": "David Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145669,
+      "name": "Cuando Brille El Sol",
+      "url": "https://open.spotify.com/track/1ySHobU6CwzjPlcBs54bWd"
+    },
+    {
+      "album": {
         "name": "Cuando Te Duermas",
         "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
       },
@@ -1318,6 +1340,24 @@
       "duration_ms": 206541,
       "name": "Parisian cafe\u0301",
       "url": "https://open.spotify.com/track/5DNJ9Clp6dEnElKALIkoD6"
+    },
+    {
+      "album": {
+        "name": "Chorinho Alegre",
+        "url": "https://open.spotify.com/album/0XgWIggXCqXxZu6eNoewje"
+      },
+      "artists": [
+        {
+          "name": "Sandro Rebel",
+          "url": "https://open.spotify.com/artist/6wirKUVyFpkpWR5ZZjECq8"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283759,
+      "name": "Pedacinhos do Ceu - Laid-back Chorinho Cover",
+      "url": "https://open.spotify.com/track/1RK5gURQXdDOJwr9mSmTYj"
     },
     {
       "album": {

@@ -253,6 +253,32 @@
     },
     {
       "album": {
+        "name": "143 (feat. MuKuRo & 13ELL)",
+        "url": "https://open.spotify.com/album/5XF1GMZTcvLWf9hnxTY81A"
+      },
+      "artists": [
+        {
+          "name": "DJ TATSUKI",
+          "url": "https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5"
+        },
+        {
+          "name": "MuKuRo",
+          "url": "https://open.spotify.com/artist/7tTAJHjW4myAy5ivdgwhJc"
+        },
+        {
+          "name": "13ELL",
+          "url": "https://open.spotify.com/artist/5QVAFVj5ujNUpjurU1wW9s"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146319,
+      "name": "143 (feat. MuKuRo & 13ELL)",
+      "url": "https://open.spotify.com/track/3lArJXJ4aEBQGX9XSpIC3E"
+    },
+    {
+      "album": {
         "name": "180",
         "url": "https://open.spotify.com/album/6L0WrUO7vJaQowiMSNqu8C"
       },
@@ -12466,7 +12492,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 226451,
       "name": "Lost 2 (Ftheworld)",
       "url": "https://open.spotify.com/track/0nMSghvAiQBa0vqn47cCb4"

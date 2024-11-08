@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "musica da gridare \ud83d\udde3\ufe0f Sad Twins in cover",
+  "description": "musica da gridare \ud83d\udde3\ufe0f Tripolare in cover",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 144960,
       "name": "1 2 3 Fuck",
       "url": "https://open.spotify.com/track/550npfTHSazFuslIkAZ307"
@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 125161,
       "name": "anche te//come me",
       "url": "https://open.spotify.com/track/5bL4EJTKUrbE7dGUA1yOXz"
@@ -2564,6 +2564,24 @@
       "duration_ms": 153562,
       "name": "BENE DA SOLA",
       "url": "https://open.spotify.com/track/1awWd0CV6H0cm5NnZ0FAI0"
+    },
+    {
+      "album": {
+        "name": "BERGAMO",
+        "url": "https://open.spotify.com/album/4BDlQUwCXnrJwbaHueJDO3"
+      },
+      "artists": [
+        {
+          "name": "Erba",
+          "url": "https://open.spotify.com/artist/6wO3gGgeaezAmqNltspVcW"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145888,
+      "name": "BERGAMO",
+      "url": "https://open.spotify.com/track/1wPUc0Ck8OmM0GWi6YFl2N"
     },
     {
       "album": {
@@ -4252,6 +4270,24 @@
       "duration_ms": 133578,
       "name": "Come stai?",
       "url": "https://open.spotify.com/track/7MttKIl92BMe3YJefHUqVk"
+    },
+    {
+      "album": {
+        "name": "The Freak Show",
+        "url": "https://open.spotify.com/album/0ODC0hNSTpUbAGS35m6eoS"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169761,
+      "name": "Come Te",
+      "url": "https://open.spotify.com/track/3cDtXLGAb9APMbhKQd9jYx"
     },
     {
       "album": {
@@ -7447,6 +7483,24 @@
     },
     {
       "album": {
+        "name": "Vitamina Life +",
+        "url": "https://open.spotify.com/album/2NSkdzq4A0wzIde4IXIF7o"
+      },
+      "artists": [
+        {
+          "name": "Tripolare",
+          "url": "https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90159,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/1SjoSaKU4s8KXmJeqRCkyc"
+    },
+    {
+      "album": {
         "name": "fleabag",
         "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
       },
@@ -9054,6 +9108,24 @@
       "duration_ms": 166840,
       "name": "ho perso il cuore",
       "url": "https://open.spotify.com/track/28jmvssKonCcMnyBrDStYR"
+    },
+    {
+      "album": {
+        "name": "HO SBAGLIATO ANCORA",
+        "url": "https://open.spotify.com/album/05KkTlwyI1nwyfIkp5BEqA"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190449,
+      "name": "HO SBAGLIATO ANCORA",
+      "url": "https://open.spotify.com/track/33LYvdSbeXaVc5PEIsjR6Z"
     },
     {
       "album": {
@@ -12860,7 +12932,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 214650,
       "name": "MTV",
       "url": "https://open.spotify.com/track/3qnGbqeCaJbK49xVhSqRdI"
@@ -15533,6 +15605,28 @@
     },
     {
       "album": {
+        "name": "POLIGONO",
+        "url": "https://open.spotify.com/album/2BaVoNq0nqYlogPJ6qTaPI"
+      },
+      "artists": [
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137055,
+      "name": "POLIGONO",
+      "url": "https://open.spotify.com/track/26DVj8eE9JXAEezr4FX1FS"
+    },
+    {
+      "album": {
         "name": "Politically Correct",
         "url": "https://open.spotify.com/album/0mDVO5vkZxoTgVG6HCu2ZZ"
       },
@@ -17765,6 +17859,24 @@
     },
     {
       "album": {
+        "name": "seventeen",
+        "url": "https://open.spotify.com/album/1tzd5ftXur0C44WJA86auY"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219266,
+      "name": "seventeen",
+      "url": "https://open.spotify.com/track/1wJUVM97tEquQtyuwmAE9B"
+    },
+    {
+      "album": {
         "name": "Sex blues",
         "url": "https://open.spotify.com/album/7w0AI2BVNCKLPBowrnmCzz"
       },
@@ -17834,6 +17946,32 @@
       "duration_ms": 118400,
       "name": "SFIGATO",
       "url": "https://open.spotify.com/track/5uHdtDrefFozAojNJAABHE"
+    },
+    {
+      "album": {
+        "name": "Shawty",
+        "url": "https://open.spotify.com/album/17qBMuGcPEFA0pvXwe2pEL"
+      },
+      "artists": [
+        {
+          "name": "Jack Out",
+          "url": "https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI"
+        },
+        {
+          "name": "\u00cbgo",
+          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
+        },
+        {
+          "name": "Decrow",
+          "url": "https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134425,
+      "name": "Shawty",
+      "url": "https://open.spotify.com/track/6Bz2jbFKdDq55Kh6UMTPca"
     },
     {
       "album": {
@@ -21138,6 +21276,24 @@
       "duration_ms": 225490,
       "name": "Un giorno indietro",
       "url": "https://open.spotify.com/track/2Bjhc9bjOaHAkhIbogmtIl"
+    },
+    {
+      "album": {
+        "name": "GOMME DA MASTICARE",
+        "url": "https://open.spotify.com/album/6f7mUTeasKOwBBiWE5eAES"
+      },
+      "artists": [
+        {
+          "name": "Ottobre",
+          "url": "https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172066,
+      "name": "un'altra idea di merda",
+      "url": "https://open.spotify.com/track/1Py2OeeVKpZ151KedQHUYg"
     },
     {
       "album": {

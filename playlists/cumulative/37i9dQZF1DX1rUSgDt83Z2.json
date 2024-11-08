@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Tempo Giusto",
+        "url": "https://open.spotify.com/album/38I4hDn3sXGtCI8bEiL8X6"
+      },
+      "artists": [
+        {
+          "name": "Diggy Dex",
+          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257778,
+      "name": "Adem In Adem Uit",
+      "url": "https://open.spotify.com/track/6O90xKE9h8oYqW6Wm9gO3B"
+    },
+    {
+      "album": {
         "name": "All We Need",
         "url": "https://open.spotify.com/album/1cxwHJeUhCpJP7MLDY1Pw3"
       },
@@ -301,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Echte Liefde",
+        "url": "https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD"
+      },
+      "artists": [
+        {
+          "name": "Maxim Froger",
+          "url": "https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155724,
+      "name": "Echte Liefde",
+      "url": "https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2"
+    },
+    {
+      "album": {
         "name": "Fiasco",
         "url": "https://open.spotify.com/album/4OXuvQj5PiA5nwTyDvhBK2"
       },
@@ -424,7 +460,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 169787,
       "name": "Hedonism",
       "url": "https://open.spotify.com/track/2q2dQNaDVmSeLV4UgbLGtn"
@@ -731,6 +767,28 @@
     },
     {
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/4c9W7mbX8XmjIDFTI4uo89"
+      },
+      "artists": [
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        },
+        {
+          "name": "Frank Boeijen",
+          "url": "https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251040,
+      "name": "Laatste Dans Remix - Live",
+      "url": "https://open.spotify.com/track/4LTTGWgPG2076NkewIv9FP"
+    },
+    {
+      "album": {
         "name": "Let You Go",
         "url": "https://open.spotify.com/album/5f0BeyC7OKitwUPFjZl6IW"
       },
@@ -1016,7 +1074,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 168601,
       "name": "Omhoog",
       "url": "https://open.spotify.com/track/2UklSNaVRkMInzUTOEkmsM"
@@ -1294,7 +1352,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 177233,
       "name": "Still Love",
       "url": "https://open.spotify.com/track/3VN2hCxJRJEVjWwAMd10sL"

@@ -106993,6 +106993,24 @@
     },
     {
       "album": {
+        "name": "talk to me",
+        "url": "https://open.spotify.com/album/1IVucKXEFoi7YTwrBNBA9b"
+      },
+      "artists": [
+        {
+          "name": "starfall",
+          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160629,
+      "name": "talk to me",
+      "url": "https://open.spotify.com/track/4m1Qw2bLggqiXjasXVp28N"
+    },
+    {
+      "album": {
         "name": "talk to myself",
         "url": "https://open.spotify.com/album/7CMa2HAU3Lb9Cvg8VYuOvy"
       },

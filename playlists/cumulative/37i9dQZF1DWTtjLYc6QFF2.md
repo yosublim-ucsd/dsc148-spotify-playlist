@@ -4,7 +4,7 @@
 
 > Слухай українських виконавиць на повну гучність! Обкладинка: Маша Кондратенко
 
-347 songs - 16 hr 55 min
+348 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Валізи зі спогадами](https://open.spotify.com/track/7qswRAcKl9J37X2o0MuBgo) | [ANNEI](https://open.spotify.com/artist/3wD90XOIzI3qRJFmT0fJLx) | [Валізи зі спогадами](https://open.spotify.com/album/5tdGpEfNnYst8HXK2qXw6x) | 2:49 | 2024-10-01 | 2024-11-06 |
 | [Вже на ти](https://open.spotify.com/track/48OKTpGyflrtRSLBfMaNZ9) | [GRISANA](https://open.spotify.com/artist/3EO10LHXB2cF79P8rYAVHz) | [Вже на ти](https://open.spotify.com/album/0HtdGoX2fa4Mwc3NfN84Tk) | 2:12 | 2024-06-04 | 2024-07-03 |
 | [Вибачу за зиму](https://open.spotify.com/track/1KixDa13qk9CUzAfpRz23q) | [VERONIKA](https://open.spotify.com/artist/6z2HtDxhKwx2Q0YSB4ARIx) | [Вибачу за зиму](https://open.spotify.com/album/5pa6UkloTbRtVC87pZR2Jk) | 2:24 | 2024-10-01 | 2024-11-06 |
+| [вивчи мене](https://open.spotify.com/track/2acrRGrZ0z0uSHJnGfqvP2) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [знайшла свій щоденник](https://open.spotify.com/album/1x3jYIxhKYFyphfmYmM0HK) | 2:22 | 2024-11-07 |  |
 | [Вийди, вийди, Іваночку](https://open.spotify.com/track/53s4jYqCIY95cs2Tq9X8y6) | [Ніна Матвієнко](https://open.spotify.com/artist/5BX989ZF8j71wrTDqROMME), [Тріо "Золоті Ключі"](https://open.spotify.com/artist/68OibZiyz62TpyoXAURv8x) | [Українські народні пісні](https://open.spotify.com/album/1Gc1Ne3bUxiYbE0ysL1u1o) | 1:04 | 2024-07-02 | 2024-08-07 |
 | [Впізнаю](https://open.spotify.com/track/3KDkVbEmnyGf8tozAg6LFJ) | [haterappers](https://open.spotify.com/artist/1bHckzPqm3JIv1lnt7PD5N) | [Впізнаю](https://open.spotify.com/album/1iuwd1UMDuk9mhqgNgPfAW) | 3:13 | 2024-10-01 | 2024-11-06 |
 | [Вуста](https://open.spotify.com/track/1s7geeERHbzE5Bmwsv5xOo) | [Love, Mary](https://open.spotify.com/artist/7ppNgJPSCMBaqo6NBD1gvt), [на її основі](https://open.spotify.com/artist/41McSRHiLhBgkLHPJorSLy) | [Вуста](https://open.spotify.com/album/7oQoR7wIy5QcPT5ImSWdym) | 1:57 | 2024-10-01 | 2024-11-06 |
@@ -96,7 +97,7 @@
 | [Де твоя міра](https://open.spotify.com/track/1mrxlaus6DmD5gsUqgekFj) | [Kateryna Artemenko](https://open.spotify.com/artist/0NCnarys1pnYBTVzQzIC2i) | [Де твоя міра](https://open.spotify.com/album/1FWvdeDyCyXcfbyDWVu5KO) | 3:54 | 2024-08-06 | 2024-09-04 |
 | [Демони](https://open.spotify.com/track/3QKoQ9zJ5eazNCRp187BJP) | [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [Дім брехливих дзеркал](https://open.spotify.com/album/3mrYxpLLAJgJm918WFkT5C) | 3:29 | 2024-06-04 | 2024-07-03 |
 | [Дивна квітка](https://open.spotify.com/track/1FPFlaZZn2KD1v27Ty8N2A) | [Тоня Матвієнко](https://open.spotify.com/artist/6vx5nhHgobaaaRSHM9ZN1R) | [Дивна квітка](https://open.spotify.com/album/6zxwGhNjY0rqxlNamVmbGX) | 3:31 | 2024-07-02 | 2024-08-07 |
-| [дим](https://open.spotify.com/track/7dvyNtjVH1utKHk2xUCmuz) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [дим](https://open.spotify.com/album/3CaSZAFIdNhOps4xwWiv6O) | 3:01 | 2024-10-01 |  |
+| [дим](https://open.spotify.com/track/7dvyNtjVH1utKHk2xUCmuz) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [дим](https://open.spotify.com/album/3CaSZAFIdNhOps4xwWiv6O) | 3:01 | 2024-10-01 | 2024-11-08 |
 | [Дихотомія](https://open.spotify.com/track/4LdyiOJvt8wE2KVuUp3iLm) | [Тонка](https://open.spotify.com/artist/2ENRblmO6FgEs7MSj2AuWG) | [Дихотомія](https://open.spotify.com/album/1hV93flQsYV7PLABJznwYv) | 5:41 | 2024-09-03 | 2024-10-02 |
 | [До Ранку](https://open.spotify.com/track/1uiIyQg4ygKdkTJ1FF7uHs) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [До Ранку](https://open.spotify.com/album/1eUX3yrGfo8UtExXzew1mm) | 2:51 | 2024-11-05 |  |
 | [Додому](https://open.spotify.com/track/3AzAtkvu0kbzmcJSF2roAG) | [MAEVE](https://open.spotify.com/artist/6sITKCTtfpCWI71u89O5fG) | [Додому](https://open.spotify.com/album/49OzwhNattnKy2WWEyBh6Y) | 2:15 | 2024-08-06 | 2024-09-04 |

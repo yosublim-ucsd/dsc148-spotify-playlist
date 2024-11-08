@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Check out the latest hits from Sandalwood!\nCover :  Bagheera",
+  "description": "Check out the latest hits from Sandalwood!\nCover : Bhairathi Ranagal",
   "name": "Latest Kannada",
   "tracks": [
     {
@@ -900,6 +900,28 @@
       "duration_ms": 175714,
       "name": "Agali Iralareno - From \"Shakhahaari\"",
       "url": "https://open.spotify.com/track/7mjVi2K8KKADjAAJNPIYeY"
+    },
+    {
+      "album": {
+        "name": "Agnyaathavaasa (From \"Bhairathi Ranagal\")",
+        "url": "https://open.spotify.com/album/3sey98HTUIXofvpCHuENqH"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243271,
+      "name": "Agnyaathavaasa (From \"Bhairathi Ranagal\")",
+      "url": "https://open.spotify.com/track/0zYKQ1lXo7YtuKzcPGeFgQ"
     },
     {
       "album": {
@@ -2486,6 +2508,32 @@
       "duration_ms": 250670,
       "name": "Ayyo Daivave",
       "url": "https://open.spotify.com/track/70piqkMPBgUEWri7x9ZoAB"
+    },
+    {
+      "album": {
+        "name": "Ayyo Vidhiye (From \"Vidyapati\")",
+        "url": "https://open.spotify.com/album/5AKr7PbC8tmDPZa214hCZR"
+      },
+      "artists": [
+        {
+          "name": "Dossmode",
+          "url": "https://open.spotify.com/artist/1A7mR5Rc1i25LIVp8hIz4b"
+        },
+        {
+          "name": "Sujith Venkataramaiah",
+          "url": "https://open.spotify.com/artist/3sij73GdkjT4pjSWZYj1im"
+        },
+        {
+          "name": "Jaggesh",
+          "url": "https://open.spotify.com/artist/2Odsd3tl5yDSnx8OlwuJln"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253440,
+      "name": "Ayyo Vidhiye (From \"Vidyapati\")",
+      "url": "https://open.spotify.com/track/1emZxIsnIDAfLzFEZOFE3s"
     },
     {
       "album": {
@@ -4826,7 +4874,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 300611,
       "name": "Bhuvana Gagana (From \"Bhuvanam Gaganam\")",
       "url": "https://open.spotify.com/track/5ISBTbPqgZ502hx09xY8h6"
@@ -9822,7 +9870,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 252342,
       "name": "Garam Garam",
       "url": "https://open.spotify.com/track/1lXdj7LNJ5KrhQtoo6rJdS"
@@ -10114,7 +10162,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 271641,
       "name": "Giniye - From \"ARM\"",
       "url": "https://open.spotify.com/track/2U6rnuOWbSTLtav1Rpj2KO"
@@ -11288,7 +11336,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 236400,
       "name": "Helu Gelathi (From \"Ibbani Tabbida Ileyali\")",
       "url": "https://open.spotify.com/track/20TE5yIQQXnxp3qxTh1SwM"
@@ -11528,6 +11576,36 @@
       "duration_ms": 195201,
       "name": "Hey Ivan Yaro",
       "url": "https://open.spotify.com/track/2AAbCJPAwCHxElbz34ps3F"
+    },
+    {
+      "album": {
+        "name": "Hey Kogile (From \"Amaran\") (Kannada)",
+        "url": "https://open.spotify.com/album/1pjEbj9egrgq4dclWNRg6M"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Bharath Sajikumar",
+          "url": "https://open.spotify.com/artist/1p8cN7ow4EE4F0vNE1gz6i"
+        },
+        {
+          "name": "Sruthy Sivadas",
+          "url": "https://open.spotify.com/artist/2umA7zyZwVLzQuFpvYdzdQ"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229833,
+      "name": "Hey Kogile (From \"Amaran\") (Kannada)",
+      "url": "https://open.spotify.com/track/3WzVXPoetY8w66xB65TONb"
     },
     {
       "album": {
@@ -12088,7 +12166,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 234000,
       "name": "Hoovinanthe (From \"Dhruvathare\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/2xdmN0iUDRUyNZ0IfF13Wu"
@@ -15130,6 +15208,36 @@
       "duration_ms": 308944,
       "name": "Kanmani - from \"Love\"",
       "url": "https://open.spotify.com/track/5PUELtgAuAFmkWT8DENtJv"
+    },
+    {
+      "album": {
+        "name": "Kann Munde Bandu (From \"Rudhra Garuda Purana\")",
+        "url": "https://open.spotify.com/album/4pxXh7Po0q44XoCd3SFBHt"
+      },
+      "artists": [
+        {
+          "name": "KP",
+          "url": "https://open.spotify.com/artist/3obMKh0sw5H7vb9ZAFkpA7"
+        },
+        {
+          "name": "Chinmay Bhavikerie",
+          "url": "https://open.spotify.com/artist/6ihurB9SB1DzKuzrHuegWr"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223960,
+      "name": "Kann Munde Bandu (From \"Rudhra Garuda Purana\")",
+      "url": "https://open.spotify.com/track/6QwnfIRrJ4KRZhzcWE0GwF"
     },
     {
       "album": {
@@ -18427,6 +18535,32 @@
     },
     {
       "album": {
+        "name": "Mannisu (From \"Kanguva\") (Kannada)",
+        "url": "https://open.spotify.com/album/1qyXLXy7XaAevfF6PPdQNf"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316875,
+      "name": "Mannisu (From \"Kanguva\") (Kannada)",
+      "url": "https://open.spotify.com/track/4eUjuiWAWWOfXgF5bAuLHF"
+    },
+    {
+      "album": {
         "name": "Sasanasabha (Kannada)",
         "url": "https://open.spotify.com/album/0LVRpD46MslkblSSCq9yG6"
       },
@@ -19523,6 +19657,32 @@
     },
     {
       "album": {
+        "name": "Mouna (From \"Murphy\")",
+        "url": "https://open.spotify.com/album/3lkqA1UicYcaIMploPhAJC"
+      },
+      "artists": [
+        {
+          "name": "Sylvester Pradeep",
+          "url": "https://open.spotify.com/artist/63tZCDAGDGWQKfdZ0p3bL1"
+        },
+        {
+          "name": "Rajat Hegde",
+          "url": "https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW"
+        },
+        {
+          "name": "Sampath Sirimane",
+          "url": "https://open.spotify.com/artist/3KqlTzfRlVTLdHdmG21OT4"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200717,
+      "name": "Mouna (From \"Murphy\")",
+      "url": "https://open.spotify.com/track/4e4zz3JuIlZ54kHd2zo6vM"
+    },
+    {
+      "album": {
         "name": "Mounave Chenna (from \"Veeram\")",
         "url": "https://open.spotify.com/album/5tZ7RUfAWQVvGeGtBHRiUO"
       },
@@ -20562,7 +20722,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 246066,
       "name": "Nagunaguta Edebadita (From \"Tenant\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/59nurG5HKf5mWx5jn2JuZi"
@@ -22507,6 +22667,32 @@
     },
     {
       "album": {
+        "name": "Nijavaa Idoo (From \"Lucky Baskhar\")(Kannada)",
+        "url": "https://open.spotify.com/album/45GzIiGfnR8atWLnqnjR96"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Sujatha Dutt",
+          "url": "https://open.spotify.com/artist/40VWCTZWMx12YUQxBZCJrR"
+        },
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227085,
+      "name": "Nijavaa Idoo (From \"Lucky Baskhar\")(Kannada)",
+      "url": "https://open.spotify.com/track/6K24Qy0Zm1JoEDtHAUSSej"
+    },
+    {
+      "album": {
         "name": "Triple Riding",
         "url": "https://open.spotify.com/album/2UGGplfz5KPfypnEC8vIgh"
       },
@@ -22824,7 +23010,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 201443,
       "name": "Ninna Hegalu (From \"Krishnam Pranaya Sakhi\")",
       "url": "https://open.spotify.com/track/6kc8YThnO6FC7lfdh8QONk"
@@ -26420,7 +26606,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 210768,
       "name": "Raayan Rumble",
       "url": "https://open.spotify.com/track/45aY1KBMrntBeRL01WHIgH"
@@ -29991,6 +30177,28 @@
     },
     {
       "album": {
+        "name": "Teri Meri (From \"Zebra\") [Kannada]",
+        "url": "https://open.spotify.com/album/1uJyTSaiEwiwLWsxRZMNkU"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Airaa Udupi",
+          "url": "https://open.spotify.com/artist/1zlUAFoQSKwMdElF0UiiPR"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247087,
+      "name": "Teri Meri (From \"Zebra\") [Kannada]",
+      "url": "https://open.spotify.com/track/2CcYwfhqi66c3oYUPNG53c"
+    },
+    {
+      "album": {
         "name": "Text Book (From \"Interval\")",
         "url": "https://open.spotify.com/album/4iYXYq2XDKra08f2nQWe9y"
       },
@@ -31270,6 +31478,36 @@
       "duration_ms": 223648,
       "name": "Usire Usire ( From \"Mehbooba\")",
       "url": "https://open.spotify.com/track/1l5nMZQDCMzKRRMmgX4UG9"
+    },
+    {
+      "album": {
+        "name": "Usire Usire (From \"Amaran\") (Kannada)",
+        "url": "https://open.spotify.com/album/6yA5iemZ0bM9jaOQmS6kT4"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Soorya Shyam Gopal",
+          "url": "https://open.spotify.com/artist/0xrgxqJu2oaZXXqt9bVDot"
+        },
+        {
+          "name": "Swetha Ashok",
+          "url": "https://open.spotify.com/artist/2wNPaQCXOuv9uy8yoeZhIH"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Usire Usire (From \"Amaran\") (Kannada)",
+      "url": "https://open.spotify.com/track/3841sEYEo8cZqZboSmCN8W"
     },
     {
       "album": {

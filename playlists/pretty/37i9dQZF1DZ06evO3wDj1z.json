@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 101865,
+  "num_followers": 101878,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZylgAAAAAAADOjdrz3rFbl3FXxGPiy7O",
+  "snapshot_id": "ZyqxgAAAAACZGRSKZr+bGHzth7xeLWsw",
   "tracks": [
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Tuba, Guitarras y Accordeon",
-        "url": "https://open.spotify.com/album/29LRqdEVuAWaoN3adSdASE"
+        "name": "30 Anos",
+        "url": "https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 204146,
-      "name": "Contigo o Sin Ti",
-      "url": "https://open.spotify.com/track/5Wh5CjFwU85hXV41yjhRI5"
+      "duration_ms": 284238,
+      "name": "30 Anos",
+      "url": "https://open.spotify.com/track/0hSmN6ZwUx9wU7WBW0QAyz"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 Anos",
-        "url": "https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL"
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 284238,
-      "name": "30 Anos",
-      "url": "https://open.spotify.com/track/0hSmN6ZwUx9wU7WBW0QAyz"
+      "duration_ms": 199133,
+      "name": "Cosas del Amor",
+      "url": "https://open.spotify.com/track/4PkrQwJUTI6enWI3tDiJMe"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+        "name": "Con Tuba, Guitarras y Accordeon",
+        "url": "https://open.spotify.com/album/29LRqdEVuAWaoN3adSdASE"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 199133,
-      "name": "Cosas del Amor",
-      "url": "https://open.spotify.com/track/4PkrQwJUTI6enWI3tDiJMe"
+      "duration_ms": 204146,
+      "name": "Contigo o Sin Ti",
+      "url": "https://open.spotify.com/track/5Wh5CjFwU85hXV41yjhRI5"
     },
     {
       "added_at": null,

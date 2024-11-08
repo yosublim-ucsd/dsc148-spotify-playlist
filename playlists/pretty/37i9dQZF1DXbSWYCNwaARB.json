@@ -1,28 +1,44 @@
 {
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: Kep1er(\ucf00\ud50c\ub7ec)",
-  "num_followers": 864454,
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: VIVIZ (\ube44\ube44\uc9c0)",
+  "num_followers": 864519,
   "original_name": "Girl Krush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZySDbQAAAACVznEmZa+BpNmPBm3fv9UR",
+  "snapshot_id": "ZyyBkAAAAACJBA8NTGq9FNeUZIEcjH5i",
   "tracks": [
     {
-      "added_at": "2024-11-01 07:29:49",
+      "added_at": "2024-11-07 09:00:00",
       "album": {
-        "name": "Kep1er The 6th Mini Album \u3008TIPI-TAP\u3009",
-        "url": "https://open.spotify.com/album/1oHK6dDixDIjnMB03DIeZM"
+        "name": "The 5th Mini Album 'VOYAGE'",
+        "url": "https://open.spotify.com/album/7xqdkXDwZiVOkdZZlKxjEL"
       },
       "artists": [
         {
-          "name": "Kep1er",
-          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
         }
       ],
-      "duration_ms": 172670,
-      "name": "TIPI-TAP",
-      "url": "https://open.spotify.com/track/0SCHvh0ZqVd2Wcq2l4kzai"
+      "duration_ms": 194533,
+      "name": "Shhh!",
+      "url": "https://open.spotify.com/track/3L87s9RtB0V6MmcBNLY7N6"
+    },
+    {
+      "added_at": "2024-11-01 07:29:49",
+      "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 131786,
+      "name": "Igloo",
+      "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
     },
     {
       "added_at": "2024-11-01 07:29:49",
@@ -43,6 +59,22 @@
     {
       "added_at": "2024-11-01 07:29:49",
       "album": {
+        "name": "Kep1er The 6th Mini Album \u3008TIPI-TAP\u3009",
+        "url": "https://open.spotify.com/album/1oHK6dDixDIjnMB03DIeZM"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "duration_ms": 172670,
+      "name": "TIPI-TAP",
+      "url": "https://open.spotify.com/track/0SCHvh0ZqVd2Wcq2l4kzai"
+    },
+    {
+      "added_at": "2024-11-01 07:29:49",
+      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
       },
@@ -55,38 +87,6 @@
       "duration_ms": 136627,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
-    },
-    {
-      "added_at": "2024-11-01 07:29:49",
-      "album": {
-        "name": "Whiplash - The 5th Mini Album",
-        "url": "https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 183226,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV"
-    },
-    {
-      "added_at": "2024-11-01 07:29:49",
-      "album": {
-        "name": "Lose Yourself",
-        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 131786,
-      "name": "Igloo",
-      "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
     },
     {
       "added_at": "2024-11-01 07:29:49",
@@ -255,8 +255,8 @@
     {
       "added_at": "2024-11-01 07:29:49",
       "album": {
-        "name": "Drama - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
+        "name": "Whiplash - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 214973,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
+      "duration_ms": 183226,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV"
     },
     {
       "added_at": "2024-11-01 07:29:49",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-11-01 07:29:49",
       "album": {
+        "name": "Drama - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
+    },
+    {
+      "added_at": "2024-11-01 07:29:49",
+      "album": {
         "name": "BATTER UP",
         "url": "https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 188179,
       "name": "BATTER UP",
       "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
-    },
-    {
-      "added_at": "2024-11-01 07:29:49",
-      "album": {
-        "name": "SYNK : PARALLEL LINE - Special Digital Single",
-        "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Dopamine - GISELLE Solo",
-      "url": "https://open.spotify.com/track/6pIuPm3u7QgUFAX1V0D9wY"
     },
     {
       "added_at": "2024-11-01 07:29:49",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-11-01 07:29:49",
       "album": {
-        "name": "SYNK : PARALLEL LINE - Special Digital Single",
-        "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "Spark - WINTER Solo",
-      "url": "https://open.spotify.com/track/2xoA126GEgFhrYzRaTH7E4"
-    },
-    {
-      "added_at": "2024-11-01 07:29:49",
-      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 210560,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK"
+    },
+    {
+      "added_at": "2024-11-01 07:29:49",
+      "album": {
+        "name": "SYNK : PARALLEL LINE - Special Digital Single",
+        "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "Dopamine - GISELLE Solo",
+      "url": "https://open.spotify.com/track/6pIuPm3u7QgUFAX1V0D9wY"
     },
     {
       "added_at": "2024-11-01 07:29:49",

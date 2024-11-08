@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: Joesef",
+  "description": "Beyond titles, beyond genre. Cover: Nectar Woode",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 175215,
       "name": "aggressive",
       "url": "https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3"
@@ -1588,7 +1588,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 263693,
       "name": "Eusexua",
       "url": "https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V"
@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 153550,
       "name": "Girl Next Door",
       "url": "https://open.spotify.com/track/4TQCuMrqFArAVHbTgAt4GQ"
@@ -2024,7 +2024,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 163673,
       "name": "Glu",
       "url": "https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt"
@@ -2379,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "How It's Gotta Be",
+        "url": "https://open.spotify.com/album/7vNAZM6mMX2FGi0476vbYD"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221335,
+      "name": "How It's Gotta Be",
+      "url": "https://open.spotify.com/track/29TBgV8BsHPAV9F0QGBYkT"
+    },
+    {
+      "album": {
         "name": "Love Worth Believing",
         "url": "https://open.spotify.com/album/20ytKvRFBexNfIPs5s4qkM"
       },
@@ -2702,7 +2720,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 182330,
       "name": "It\u2019s Gonna\u2019 Cost You",
       "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
@@ -2792,7 +2810,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 195109,
       "name": "Juna",
       "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
@@ -2984,7 +3002,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 196960,
       "name": "Laredo",
       "url": "https://open.spotify.com/track/2dOFhIxKh4REr6WdUkeZnb"
@@ -3291,6 +3309,24 @@
     },
     {
       "album": {
+        "name": "Mafone",
+        "url": "https://open.spotify.com/album/6fqzzAnLj4amGX6xazjyCA"
+      },
+      "artists": [
+        {
+          "name": "dialE",
+          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164526,
+      "name": "Mafone",
+      "url": "https://open.spotify.com/track/0YoEZvVZLE0HoVDMNWZ7PH"
+    },
+    {
+      "album": {
         "name": "Djesse Vol. 4 (Deluxe)",
         "url": "https://open.spotify.com/album/0ieeyOsOoSmd2b906MrlRO"
       },
@@ -3422,7 +3458,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 212105,
       "name": "Midnight Shining",
       "url": "https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv"
@@ -4085,6 +4121,28 @@
     },
     {
       "album": {
+        "name": "Quick Thrill",
+        "url": "https://open.spotify.com/album/52VGb5JqftUx6tsqDBSstL"
+      },
+      "artists": [
+        {
+          "name": "Crystal Murray",
+          "url": "https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH"
+        },
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172514,
+      "name": "Quick Thrill",
+      "url": "https://open.spotify.com/track/0nb762Wwh7xIBykXuIIMzQ"
+    },
+    {
+      "album": {
         "name": "Rabbit Hole",
         "url": "https://open.spotify.com/album/6X0awUTrfO7Mx2s7SeGa3x"
       },
@@ -4356,6 +4414,28 @@
       "duration_ms": 152379,
       "name": "RUNNING FOR DAYS",
       "url": "https://open.spotify.com/track/25TXKIB0SntxnyEQnwBden"
+    },
+    {
+      "album": {
+        "name": "SAINT OR SINNER",
+        "url": "https://open.spotify.com/album/4UpL761DkEMqfa4k8MSxcA"
+      },
+      "artists": [
+        {
+          "name": "Jeshi",
+          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+        },
+        {
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227013,
+      "name": "SAINT OR SINNER",
+      "url": "https://open.spotify.com/track/5GKRgN9fK3iyJlYABVOViI"
     },
     {
       "album": {
@@ -5271,6 +5351,24 @@
     },
     {
       "album": {
+        "name": "TORMENTOR",
+        "url": "https://open.spotify.com/album/2RqLDB8NYtRMd0MoALQzEc"
+      },
+      "artists": [
+        {
+          "name": "HONESTY",
+          "url": "https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310680,
+      "name": "TORMENTOR",
+      "url": "https://open.spotify.com/track/4FcQeSZNS22TDJbjm5qw3I"
+    },
+    {
+      "album": {
         "name": "True Colours (Part 2)",
         "url": "https://open.spotify.com/album/7iGiI0NivPqFf2jlgCs5xX"
       },
@@ -5740,7 +5838,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 168600,
       "name": "WHO AM I",
       "url": "https://open.spotify.com/track/6rkW4FqJXyINF2vk6nzPBf"

@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Cameo Blush
+> Discover your new favourite artists from UK&IE\. Cover: Konyikeh
 
-286 songs - 15 hr 22 min
+287 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Pressure](https://open.spotify.com/track/1CCzCMKgPsm27LgUWhP4Up) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Someone Who Knows](https://open.spotify.com/album/5P6FYHPjKPVSVNSdWZDsfe) | 3:01 | 2022-05-19 |  |
 | [pretty](https://open.spotify.com/track/5BCaPnsHqowMxitUiMZZF2) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [pretty](https://open.spotify.com/album/0Saa8EmKCUN2EUnCy4szRc) | 2:40 | 2024-03-29 |  |
 | [Problem Child](https://open.spotify.com/track/74HpGJEl1eGyK16eOYiQFN) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Problem Child](https://open.spotify.com/album/3o4TWee7kX0DeIyHYf68XH) | 2:19 | 2024-02-23 |  |
+| [Problem with Authority](https://open.spotify.com/track/34ZpDDbEdAuBCg73CuUswf) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Problem with Authority](https://open.spotify.com/album/595Hx46iAuEmoA95uPPgee) | 2:30 | 2024-11-08 |  |
 | [Put A Record On](https://open.spotify.com/track/1cGJXDVFJVuWJEH0T64Wyi) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [NOISY\_Pre’s](https://open.spotify.com/album/4zFfnrcNmcLLyPWKg2Uboo) | 3:01 | 2024-01-19 | 2024-04-19 |
 | [Put A Record On](https://open.spotify.com/track/2IEbyYtElSG0IU0WZXFA2N) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [Put A Record On](https://open.spotify.com/album/5QAuMtvx5AKDKaqxkSmjob) | 3:01 | 2022-02-18 |  |
 | [Put A Record On](https://open.spotify.com/track/2SGCf4PBhnBf0NJex8sNyn) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [I Wish I Was A...](https://open.spotify.com/album/5Q9tbNhGMAS6IO7azxjKSx) | 3:01 | 2022-07-28 | 2024-02-12 |

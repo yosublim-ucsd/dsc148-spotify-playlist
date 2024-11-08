@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De mooiste liedjes van het moment. Cover: Dotan",
+  "description": "De mooiste liedjes van het moment. Cover: Coldplay",
   "name": "Blijf Luisteren",
   "tracks": [
     {
@@ -6070,7 +6070,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 140327,
       "name": "Pain Is Cold Water - Live From Fenway Park",
       "url": "https://open.spotify.com/track/1XUlg6YCcns9gsJAB4DoFi"
@@ -6272,7 +6272,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 205887,
       "name": "Pocket",
       "url": "https://open.spotify.com/track/4yhCi2ZN3L3OLkgipYvbkg"
@@ -6370,6 +6370,24 @@
       "duration_ms": 197203,
       "name": "Purple Moon",
       "url": "https://open.spotify.com/track/0O1S4dPj32c91BpyiHdo7L"
+    },
+    {
+      "album": {
+        "name": "Purpose",
+        "url": "https://open.spotify.com/album/08ByKuA4cV7y99FD0IUO8Q"
+      },
+      "artists": [
+        {
+          "name": "Alain Clark",
+          "url": "https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212506,
+      "name": "Purpose",
+      "url": "https://open.spotify.com/track/6jEEB0yo5OM3h1kxptUxFK"
     },
     {
       "album": {
@@ -7792,7 +7810,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 181663,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/2ComEzkj1haK6a6iUpV0kQ"
@@ -8135,6 +8153,24 @@
     },
     {
       "album": {
+        "name": "The Shadow",
+        "url": "https://open.spotify.com/album/4gFWmFcYPxPSGI3wQuGsXd"
+      },
+      "artists": [
+        {
+          "name": "Jon Allen",
+          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240097,
+      "name": "The Shadow",
+      "url": "https://open.spotify.com/track/3dk0ven4SGbWhQ5cGnwBRQ"
+    },
+    {
+      "album": {
         "name": "The Show",
         "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
       },
@@ -8320,6 +8356,24 @@
       "duration_ms": 208660,
       "name": "This Is The Moment (ft. Nile Rodgers)",
       "url": "https://open.spotify.com/track/6Va6xYjGNwbZs6tRE3cCYI"
+    },
+    {
+      "album": {
+        "name": "This Isn\u2019t Really Love",
+        "url": "https://open.spotify.com/album/3hZ4C5FqLTM9yvSxWuTTby"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204053,
+      "name": "This Isn\u2019t Really Love",
+      "url": "https://open.spotify.com/track/3WCQYl8CSsiPQxV3qWh1JK"
     },
     {
       "album": {

@@ -472,7 +472,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 161715,
       "name": "Coll\u00e9",
       "url": "https://open.spotify.com/track/1PbmgY7RtdguwYVi4su4u1"
@@ -1897,6 +1897,24 @@
     },
     {
       "album": {
+        "name": "My Woman",
+        "url": "https://open.spotify.com/album/1MGhG2rqsurrOmbiSWYPhG"
+      },
+      "artists": [
+        {
+          "name": "Goulam",
+          "url": "https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214883,
+      "name": "My Woman",
+      "url": "https://open.spotify.com/track/3s28FCYSmmdJqpZyNinZWo"
+    },
+    {
+      "album": {
         "name": "Corps \u00e0 corps",
         "url": "https://open.spotify.com/album/5d5N6iuCaYio9EGBxDkYyg"
       },
@@ -2152,7 +2170,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 273760,
       "name": "Ou f\u00e8m vakabon",
       "url": "https://open.spotify.com/track/5keJB9DEzsMnDw3kO6QmSq"
@@ -2350,6 +2368,28 @@
       "duration_ms": 210309,
       "name": "Padon\u00e9\u00b4m",
       "url": "https://open.spotify.com/track/1MK8a1kVLdzDTnmXy6goqJ"
+    },
+    {
+      "album": {
+        "name": "Parano",
+        "url": "https://open.spotify.com/album/5JN3VD2ECGpmpLddXRd71h"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "DDB",
+          "url": "https://open.spotify.com/artist/3p05QEIVkyeKjsrBkf0efS"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173250,
+      "name": "Parano",
+      "url": "https://open.spotify.com/track/42Qm5a79PiqfkzJgYyypqw"
     },
     {
       "album": {
@@ -2639,6 +2679,24 @@
     },
     {
       "album": {
+        "name": "Rappel",
+        "url": "https://open.spotify.com/album/5lo9NrxVfWLQLcQ9D8WAaX"
+      },
+      "artists": [
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147906,
+      "name": "Rappel",
+      "url": "https://open.spotify.com/track/7CjR90qslGmLW5dsnaKZay"
+    },
+    {
+      "album": {
         "name": "RDMV",
         "url": "https://open.spotify.com/album/2pJJ5RSEmFb7rl0Q9KzmA5"
       },
@@ -2913,6 +2971,28 @@
     },
     {
       "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/3G71vcAF2KHnkgsQ9Dii4q"
+      },
+      "artists": [
+        {
+          "name": "Stony",
+          "url": "https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk"
+        },
+        {
+          "name": "Kalipsxau",
+          "url": "https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211752,
+      "name": "Souvenirs",
+      "url": "https://open.spotify.com/track/0TOnPFmemQUysyQNhpkjeC"
+    },
+    {
+      "album": {
         "name": "Stop",
         "url": "https://open.spotify.com/album/1V7JUIgcybhG8s3SRzpD4V"
       },
@@ -2982,7 +3062,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 198755,
       "name": "S\u00e9 Pa Vou",
       "url": "https://open.spotify.com/track/1QEvBuSpLfy9vq6zAubQY9"
@@ -3022,7 +3102,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 179949,
       "name": "S\u00e9 Vou (Remix)",
       "url": "https://open.spotify.com/track/2JY0yzqL7IFvNUTYusENR5"
@@ -3138,6 +3218,28 @@
       "duration_ms": 206294,
       "name": "TKT PAS",
       "url": "https://open.spotify.com/track/794czLwx4ZNky1ltmguo8u"
+    },
+    {
+      "album": {
+        "name": "Tolere w",
+        "url": "https://open.spotify.com/album/5IfNKfgGX5QRWm0mK0CFz3"
+      },
+      "artists": [
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        },
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279040,
+      "name": "Tolere w",
+      "url": "https://open.spotify.com/track/2qHYQULQh8bN0bb31JKXeG"
     },
     {
       "album": {
@@ -3352,7 +3454,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 177882,
       "name": "Troph\u00e9e",
       "url": "https://open.spotify.com/track/4bMmiLEjHHhwqo8fKIRayx"

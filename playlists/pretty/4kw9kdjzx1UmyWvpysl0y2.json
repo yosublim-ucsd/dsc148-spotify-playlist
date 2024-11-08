@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125731,
+  "num_followers": 125733,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATRdRk7S1CSCJ829Iuz/LJScJcmxts",
+  "snapshot_id": "AAATR6ESFOjveFOHtIfOV3O2aLxygR4n",
   "tracks": [
+    {
+      "added_at": "2024-11-07 16:14:49",
+      "album": {
+        "name": "Endless In Between",
+        "url": "https://open.spotify.com/album/7KZR8pFGa3dyCCK0bJkwK8"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "Jonathan Mendelsohn",
+          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Endless In Between",
+      "url": "https://open.spotify.com/track/63nPbxic2qf5nA4yicN4pg"
+    },
     {
       "added_at": "2024-11-06 14:36:36",
       "album": {
@@ -1135,30 +1155,6 @@
       "duration_ms": 214326,
       "name": "Brain On Drugs",
       "url": "https://open.spotify.com/track/2VivO71UvJ6hrMEIJqQZ4Y"
-    },
-    {
-      "added_at": "2024-08-16 14:15:45",
-      "album": {
-        "name": "Have It All",
-        "url": "https://open.spotify.com/album/2YEjMz4R5PEz69Qc5b2LtY"
-      },
-      "artists": [
-        {
-          "name": "Vikkstar",
-          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
-        },
-        {
-          "name": "RetroVision",
-          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
-        },
-        {
-          "name": "Dyson",
-          "url": "https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67"
-        }
-      ],
-      "duration_ms": 176363,
-      "name": "Have It All",
-      "url": "https://open.spotify.com/track/6hR4plghLBRSbXEf2wNvsX"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

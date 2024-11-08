@@ -7223,6 +7223,24 @@
     },
     {
       "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/1MHd0KqJm5bJlcl2p9Lpww"
+      },
+      "artists": [
+        {
+          "name": "Quavo Huncho",
+          "url": "https://open.spotify.com/artist/1r1sH8nuvdrpzN61sad1hs"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250055,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6lw6iNTAl9dNRAtIlGy75r"
+    },
+    {
+      "album": {
         "name": "WITHOUT YOU (Freestyle)",
         "url": "https://open.spotify.com/album/4dvvo1D2OeEyOyuVrN69Yx"
       },

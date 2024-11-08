@@ -4,7 +4,7 @@
 
 > All the best songs from your favorite classic Disney films, TV shows and more.
 
-208 songs - 10 hr 38 min
+209 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Beauty and the Beast](https://open.spotify.com/track/3I3QV9fD0CQdnekEPNgYIk) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Beauty and the Beast: A 30th Celebration \(Original Soundtrack\)](https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N) | 2:57 | 2023-02-09 |  |
 | [Best of Friends \- From "The Fox & The Hound" / Soundtrack](https://open.spotify.com/track/3lP9eoNsz04dMCfPIG0PpK) | [Pearl Bailey](https://open.spotify.com/artist/2cskX7NGnrWMjA4PRSxVPL) | [Disney's Greatest Vol\. 3](https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh) | 2:15 | 2023-02-09 |  |
 | [Best of Friends \- From "The Fox and the Hound"](https://open.spotify.com/track/3KAXwx0pEaHtxqp0UXQ9Eu) | [Pearl Bailey](https://open.spotify.com/artist/2cskX7NGnrWMjA4PRSxVPL) | [Disney Classics](https://open.spotify.com/album/6b4nBlM4ofUKA0mcb1b9oF) | 2:14 | 2023-02-09 | 2024-06-06 |
+| [Beyond \(End Credit Version\) \- From "Moana 2"](https://open.spotify.com/track/3fzqWttckvSJS7KPGPiWAg) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Beyond \(End Credit Version\) \[From "Moana 2"\]](https://open.spotify.com/album/6uCyNThgUieE9elUSd4SuP) | 3:16 | 2024-11-07 |  |
 | [California Screamin' \- From "California Screamin'"](https://open.spotify.com/track/7H2qQ7bU8uPZziCBoR4voa) | [Gary Hoey](https://open.spotify.com/artist/1so07AHiowjXxc3KVUqp76) | [Disney Classics](https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0) | 2:33 | 2023-02-09 |  |
 | [California Screamin' \- From California Screamin'](https://open.spotify.com/track/27kN2ZJYpfYjC55ERlAqAY) | [Gary Hoey](https://open.spotify.com/artist/1so07AHiowjXxc3KVUqp76) | [Disney Classics](https://open.spotify.com/album/6b4nBlM4ofUKA0mcb1b9oF) | 2:33 | 2023-02-09 | 2024-06-06 |
 | [Canada \(You're a Lifetime Journey\)](https://open.spotify.com/track/72LV2fYwLyFFROG8fiTudk) | [Bob Moline](https://open.spotify.com/artist/3C6eGC5bzEYiHQd3tXU0W3) | [Disney Classics](https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0) | 5:50 | 2023-02-09 |  |

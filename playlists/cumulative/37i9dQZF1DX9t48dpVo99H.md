@@ -4,7 +4,7 @@
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-88 songs - 3 hr 51 min
+90 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,8 @@
 | [741 Hz Articulate Oscillation](https://open.spotify.com/track/2ckZmwE8mxknNLgwyIoRc1) | [fragile eyes](https://open.spotify.com/artist/0nM9BcwyEiW5nroAbt9tBf) | [741 Hz Articulate Oscillation](https://open.spotify.com/album/1TYzTe9q79rBlY1IkQs7wk) | 2:28 | 2024-05-11 |  |
 | [741 Hz Clear Thought Chorus](https://open.spotify.com/track/67j0AhzrXOmgB9fv7R2I3w) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [741 Hz Clear Thought Chorus](https://open.spotify.com/album/5cQPlxJkJJVC16MAAHl2YV) | 2:23 | 2024-05-11 |  |
 | [741 Hz Deepened Gaze](https://open.spotify.com/track/41ZqKmkwsLCtCCPyjfwNIv) | [Heartbeat Sirens](https://open.spotify.com/artist/2QGCx78xpOiCXoKRvJMEYY) | [741 Hz Deepened Gaze](https://open.spotify.com/album/6vgwSkTE1dgmO4WYMNBMRH) | 2:59 | 2023-11-30 |  |
+| [741 Hz Detox](https://open.spotify.com/track/60i0X2xmPVXLwanR9Fj79y) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [741 Hz Detox](https://open.spotify.com/album/3XvuwtMjebQGFL7KL97RPd) | 2:51 | 2024-11-07 |  |
+| [741 Hz Expressive Currents](https://open.spotify.com/track/3BlokUFLQCWY0p6xV8bFGW) | [Wolves Club](https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh) | [741 Hz Expressive Currents](https://open.spotify.com/album/4aHbYcpEdOGipglEJ70pr4) | 2:34 | 2024-11-07 |  |
 | [741 Hz Gentle Breathing](https://open.spotify.com/track/45mF3fxXkhXGHldyZy3k2a) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Gentle Breathing](https://open.spotify.com/album/2zpiPiyUUfFfWN6OdXeL2W) | 3:22 | 2023-03-10 | 2023-08-08 |
 | [741 Hz Libertad](https://open.spotify.com/track/2Z2m5GSKnw2Uhudg3IAwGg) | [Paz Interna](https://open.spotify.com/artist/1Btjq0uMBQTfsHKxyknM7G) | [Solfeggio Ondas](https://open.spotify.com/album/5UmaBX9C27Np8TepecsPBc) | 3:04 | 2023-03-10 |  |
 | [741 Hz Mental Clarity](https://open.spotify.com/track/0ZuKVcs48MMhBwb6stqbVo) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [741 Hz Mental Clarity](https://open.spotify.com/album/6tzfanwdAF8Px0HcJZe8yB) | 2:31 | 2023-03-10 |  |

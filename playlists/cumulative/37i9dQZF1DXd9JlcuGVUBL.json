@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1?si=pTzUURrPR56WK8mXojlYtw\">James Johnston</a>  & <a href=\"https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd?si=OuqbJY55RemWdRS7DNPZiw\">Appel</a>  ",
+  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm?si=HxIp89wkSNiu7heEdx-yTw\">BlackByrd</a>  ",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -594,7 +594,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 174412,
       "name": "First",
       "url": "https://open.spotify.com/track/0GFwR94TMOMi8ev2T39ufA"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 282000,
       "name": "Live Here To Work",
       "url": "https://open.spotify.com/track/2KV73rmqtnouraVWPnIIrc"
@@ -1645,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "Wild & Free",
+        "url": "https://open.spotify.com/album/6wsJg5FmpQdBc8rUHSzc1m"
+      },
+      "artists": [
+        {
+          "name": "Babette",
+          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176435,
+      "name": "Wild & Free",
+      "url": "https://open.spotify.com/track/7tdthZMpfMJsnKsJ6pem8t"
+    },
+    {
+      "album": {
         "name": "Beautifully Broken",
         "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
       },
@@ -1696,6 +1714,24 @@
       "duration_ms": 212739,
       "name": "Wrong side of town",
       "url": "https://open.spotify.com/track/051jHFqpoMy8L56sXzX77m"
+    },
+    {
+      "album": {
+        "name": "You Do You",
+        "url": "https://open.spotify.com/album/35Z5A8JksOQabtYl8rYcfu"
+      },
+      "artists": [
+        {
+          "name": "BlackByrd",
+          "url": "https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168261,
+      "name": "You Do You",
+      "url": "https://open.spotify.com/track/74jY5B5WMUemuNPolWOKTq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXd9JlcuGVUBL"

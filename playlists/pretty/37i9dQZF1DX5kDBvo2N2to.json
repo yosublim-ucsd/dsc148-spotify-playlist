@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59176,
+  "num_followers": 59171,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Smile Boy",
-        "url": "https://open.spotify.com/album/0GCPTSJvxI0pqUEuhOGSaS"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 144840,
-      "name": "Smile Boy",
-      "url": "https://open.spotify.com/track/686xawmVv1F1Ks5kJRkcVG"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Another Life (Marcus & Martinus vs VIZE)",
         "url": "https://open.spotify.com/album/2EYNSyGV5ScXtvwdS7hppY"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 163533,
       "name": "Another Life (Marcus & Martinus vs VIZE)",
       "url": "https://open.spotify.com/track/1qn9cTpUZiynYkFEOOnwY9"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Smile Boy",
+        "url": "https://open.spotify.com/album/0GCPTSJvxI0pqUEuhOGSaS"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 144840,
+      "name": "Smile Boy",
+      "url": "https://open.spotify.com/track/686xawmVv1F1Ks5kJRkcVG"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Persienner",
-        "url": "https://open.spotify.com/album/6u4qwlUZYZlcMP8C85vpGp"
-      },
-      "artists": [
-        {
-          "name": "FILIPPA",
-          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "Persienner",
-      "url": "https://open.spotify.com/track/7EGGNKZu6kvI683xoZjsIx"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Fortfarande du / Tills vi d\u00f6r ( Akustisk )",
         "url": "https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "DETOX",
-        "url": "https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00"
+        "name": "Persienner",
+        "url": "https://open.spotify.com/album/6u4qwlUZYZlcMP8C85vpGp"
       },
       "artists": [
         {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+          "name": "FILIPPA",
+          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
         }
       ],
-      "duration_ms": 154782,
-      "name": "DETOX",
-      "url": "https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0"
+      "duration_ms": 196640,
+      "name": "Persienner",
+      "url": "https://open.spotify.com/track/7EGGNKZu6kvI683xoZjsIx"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -755,6 +739,22 @@
       "duration_ms": 231000,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 154782,
+      "name": "DETOX",
+      "url": "https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Ditt safeword ikv\u00e4ll?",
-        "url": "https://open.spotify.com/album/0PgHmaUNcwxX4Mhxxoobjg"
-      },
-      "artists": [
-        {
-          "name": "ANJI",
-          "url": "https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25"
-        }
-      ],
-      "duration_ms": 132199,
-      "name": "Ditt safeword ikv\u00e4ll?",
-      "url": "https://open.spotify.com/track/6dFy8FGkz2B5YLOfxwecNB"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "u will be fine",
         "url": "https://open.spotify.com/album/05ak0XyoSu4PGKVRgaCEfr"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 86622,
       "name": "u will be fine",
       "url": "https://open.spotify.com/track/3QxiHZEbiztQg4ItS8oNnI"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Ditt safeword ikv\u00e4ll?",
+        "url": "https://open.spotify.com/album/0PgHmaUNcwxX4Mhxxoobjg"
+      },
+      "artists": [
+        {
+          "name": "ANJI",
+          "url": "https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25"
+        }
+      ],
+      "duration_ms": 132199,
+      "name": "Ditt safeword ikv\u00e4ll?",
+      "url": "https://open.spotify.com/track/6dFy8FGkz2B5YLOfxwecNB"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "P\u00e5 v\u00e4g",
+        "url": "https://open.spotify.com/album/7mcVMcxukeuxXEKbKf1ijG"
+      },
+      "artists": [
+        {
+          "name": "PYK",
+          "url": "https://open.spotify.com/artist/317eF06yGGhg5YgcNxDqvm"
+        }
+      ],
+      "duration_ms": 189599,
+      "name": "P\u00e5 v\u00e4g",
+      "url": "https://open.spotify.com/track/7GRJpXiYXZe4JXoUB29BzQ"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Hejd\u00e5 f\u00f6r alltid",
         "url": "https://open.spotify.com/album/6PkWYsNSD5l4lpT0x4gtzc"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 193327,
       "name": "Idioti",
       "url": "https://open.spotify.com/track/1Prntlz7zWyqTgouopKeGk"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "P\u00e5 v\u00e4g",
-        "url": "https://open.spotify.com/album/7mcVMcxukeuxXEKbKf1ijG"
-      },
-      "artists": [
-        {
-          "name": "PYK",
-          "url": "https://open.spotify.com/artist/317eF06yGGhg5YgcNxDqvm"
-        }
-      ],
-      "duration_ms": 189599,
-      "name": "P\u00e5 v\u00e4g",
-      "url": "https://open.spotify.com/track/7GRJpXiYXZe4JXoUB29BzQ"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "A Love Song",
+        "url": "https://open.spotify.com/album/6kqIcSCJZntogK5Wtc1rvp"
+      },
+      "artists": [
+        {
+          "name": "VELVET MOON",
+          "url": "https://open.spotify.com/artist/0hK1aI0UAC0cflUrMqsVjZ"
+        }
+      ],
+      "duration_ms": 139253,
+      "name": "A Love Song",
+      "url": "https://open.spotify.com/track/6pgN5BnqxYHHB9MDUc3Nij"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Fancy",
         "url": "https://open.spotify.com/album/6V42SnghxJXBlmwNfAPdfv"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 178560,
       "name": "Katterna",
       "url": "https://open.spotify.com/track/1T0lqhFOdpEQntdarVGU24"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "A Love Song",
-        "url": "https://open.spotify.com/album/6kqIcSCJZntogK5Wtc1rvp"
-      },
-      "artists": [
-        {
-          "name": "VELVET MOON",
-          "url": "https://open.spotify.com/artist/0hK1aI0UAC0cflUrMqsVjZ"
-        }
-      ],
-      "duration_ms": 139253,
-      "name": "A Love Song",
-      "url": "https://open.spotify.com/track/6pgN5BnqxYHHB9MDUc3Nij"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Klyschor",
-        "url": "https://open.spotify.com/album/2CG51w8OSpena3TWNNNhYd"
-      },
-      "artists": [
-        {
-          "name": "Nadja Evelina",
-          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
-        }
-      ],
-      "duration_ms": 153186,
-      "name": "Klyschor",
-      "url": "https://open.spotify.com/track/48FbJkI4sTkj4jbJGxqv9i"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Sockerdricka",
         "url": "https://open.spotify.com/album/4OJ1YpiBv213DlnbVmYXYf"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 202733,
       "name": "Sockerdricka",
       "url": "https://open.spotify.com/track/0BRiFaYDS7IbM2YO0DFvrP"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Klyschor",
+        "url": "https://open.spotify.com/album/2CG51w8OSpena3TWNNNhYd"
+      },
+      "artists": [
+        {
+          "name": "Nadja Evelina",
+          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
+        }
+      ],
+      "duration_ms": 153186,
+      "name": "Klyschor",
+      "url": "https://open.spotify.com/track/48FbJkI4sTkj4jbJGxqv9i"
     }
   ],
   "unique_name": "p\u00e5 repeat",

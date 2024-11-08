@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 160000,
       "name": "432 Hz Alignment",
       "url": "https://open.spotify.com/track/1c3evhN6l4JsFT3GJcEZld"
@@ -388,7 +388,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 164494,
       "name": "432 Hz Dawn of Happiness",
       "url": "https://open.spotify.com/track/4nR3X0rADY7oEXgynrjsPe"
@@ -460,7 +460,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 173400,
       "name": "432 Hz Deep Within",
       "url": "https://open.spotify.com/track/1OXVbDqYfYe7JwaDRCN4Hs"
@@ -1224,10 +1224,28 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 185393,
       "name": "432 Hz Time will tell",
       "url": "https://open.spotify.com/track/38NCufDwNH4iUEbssfqIWR"
+    },
+    {
+      "album": {
+        "name": "432 Hz Tranquility",
+        "url": "https://open.spotify.com/album/0q1zCZnbg3wIkwjrGzu9PN"
+      },
+      "artists": [
+        {
+          "name": "Calma",
+          "url": "https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156934,
+      "name": "432 Hz Tranquility",
+      "url": "https://open.spotify.com/track/4Gnc5PPMd8FOaOUJAt8FRo"
     },
     {
       "album": {
@@ -1246,6 +1264,24 @@
       "duration_ms": 169122,
       "name": "432 Hz Tranquillity",
       "url": "https://open.spotify.com/track/4mwLVYRf770wo2eyiwWeKp"
+    },
+    {
+      "album": {
+        "name": "432 Hz Transients",
+        "url": "https://open.spotify.com/album/4VZVd2t8zDXVsnf7c6mYEO"
+      },
+      "artists": [
+        {
+          "name": "Echoes of Serenity",
+          "url": "https://open.spotify.com/artist/74QzTaeZBNOEGhoE6rWemW"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169374,
+      "name": "432 Hz Transients",
+      "url": "https://open.spotify.com/track/3w8YeV6dV9G58Jia45B5T7"
     },
     {
       "album": {
@@ -1300,6 +1336,24 @@
       "duration_ms": 175200,
       "name": "432 Hz Vibrations",
       "url": "https://open.spotify.com/track/6EjoUbefyKGOmcMSfdx4g6"
+    },
+    {
+      "album": {
+        "name": "432 Hz Whispers of Life",
+        "url": "https://open.spotify.com/album/7gNsJEurZuKU34JzE1q9mk"
+      },
+      "artists": [
+        {
+          "name": "Profundum",
+          "url": "https://open.spotify.com/artist/3vMoRqV2KfqX5kxbNhBrfN"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "432 Hz Whispers of Life",
+      "url": "https://open.spotify.com/track/6HBwYLgyMdmVi5z040phmQ"
     },
     {
       "album": {
@@ -1404,7 +1458,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 181714,
       "name": "432hz Manara (Lighthouse)",
       "url": "https://open.spotify.com/track/4Q3jMkeCcW0HQlDIAzQYBN"
@@ -1610,7 +1664,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 135529,
       "name": "Amaral (432 Hz)",
       "url": "https://open.spotify.com/track/5gTeG5w5yi6O5RisBsrGbG"
@@ -1646,7 +1700,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 210000,
       "name": "Ante Meridiem (432hz)",
       "url": "https://open.spotify.com/track/7L20Kr6F8VnBMowigEQ1DH"
@@ -1869,6 +1923,24 @@
     },
     {
       "album": {
+        "name": "Bliss (432 Hz)",
+        "url": "https://open.spotify.com/album/6xbcokh72qzvNDYgZRvKHF"
+      },
+      "artists": [
+        {
+          "name": "Pathfinder",
+          "url": "https://open.spotify.com/artist/4teMSBnvZUn588FGFbu3qE"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153313,
+      "name": "Bliss (432 Hz)",
+      "url": "https://open.spotify.com/track/0tJSEWAsvfnkZaXdqbrr3Y"
+    },
+    {
+      "album": {
         "name": "Borobudur",
         "url": "https://open.spotify.com/album/4TSZkThalBsuGfabncOxtY"
       },
@@ -1920,6 +1992,24 @@
       "duration_ms": 220111,
       "name": "Cacophony A432",
       "url": "https://open.spotify.com/track/4UUY9ZUYBzZiFsYbfxXeki"
+    },
+    {
+      "album": {
+        "name": "Centering",
+        "url": "https://open.spotify.com/album/0pFQ2cbLz2htOWKzEuWENI"
+      },
+      "artists": [
+        {
+          "name": "432 Sonique",
+          "url": "https://open.spotify.com/artist/2yDUOLDQQCVOF1BM0qF0eV"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164536,
+      "name": "Centering",
+      "url": "https://open.spotify.com/track/01CJxz9Cyk2b4UetNqbcbj"
     },
     {
       "album": {
@@ -2100,6 +2190,24 @@
       "duration_ms": 167909,
       "name": "Comforting Waves 432 Hz",
       "url": "https://open.spotify.com/track/4yfdEh90AhFUE1Z46RVfrc"
+    },
+    {
+      "album": {
+        "name": "Contemplaci\u00f3n (432 Hz)",
+        "url": "https://open.spotify.com/album/4ziEmJ4jFB1CIODMS7GiPo"
+      },
+      "artists": [
+        {
+          "name": "Invocaciones",
+          "url": "https://open.spotify.com/artist/4MCeDRNQzklVuOcniBsXlJ"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180601,
+      "name": "Contemplaci\u00f3n (432 Hz)",
+      "url": "https://open.spotify.com/track/15DDXeLHYLUD4l6jIaU57i"
     },
     {
       "album": {
@@ -2546,7 +2654,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 174000,
       "name": "Ethereal 432 Hz",
       "url": "https://open.spotify.com/track/7kmb0MGFwXUevALOnkJLyc"
@@ -2924,7 +3032,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 169014,
       "name": "Inner Harmony (432Hz)",
       "url": "https://open.spotify.com/track/0Kg0vf6RBPRhFFSJr7KYIf"
@@ -2996,7 +3104,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 240000,
       "name": "Jubran's Lake (432hz) - No Ambience",
       "url": "https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL"
@@ -3072,6 +3180,24 @@
       "duration_ms": 203750,
       "name": "La Terre, Ensoleil\u00e9e 432",
       "url": "https://open.spotify.com/track/6fRO6nmjyxvkbdX3R3f664"
+    },
+    {
+      "album": {
+        "name": "Lavender 432 Hz",
+        "url": "https://open.spotify.com/album/6QQQiBWT7HdVT0yKQvfK9A"
+      },
+      "artists": [
+        {
+          "name": "Cosmazul",
+          "url": "https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174190,
+      "name": "Lavender 432 Hz",
+      "url": "https://open.spotify.com/track/47yboijmU48rNICFtG4rky"
     },
     {
       "album": {
@@ -3399,6 +3525,24 @@
     },
     {
       "album": {
+        "name": "Onthou 432 Hz",
+        "url": "https://open.spotify.com/album/6TSFGLI8KxF4KyB3oUeXXY"
+      },
+      "artists": [
+        {
+          "name": "Jasper van Dijk",
+          "url": "https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173205,
+      "name": "Onthou 432 Hz",
+      "url": "https://open.spotify.com/track/7COlRpwJZKvioLFQNTDoJr"
+    },
+    {
+      "album": {
         "name": "Paladin",
         "url": "https://open.spotify.com/album/2wa0vo8CXwffGVK8cKiATu"
       },
@@ -3615,6 +3759,24 @@
     },
     {
       "album": {
+        "name": "Regenerative State 432 Hz",
+        "url": "https://open.spotify.com/album/23NztR1U87xIgUIBX0ZyKQ"
+      },
+      "artists": [
+        {
+          "name": "Aerial Lakes",
+          "url": "https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181159,
+      "name": "Regenerative State 432 Hz",
+      "url": "https://open.spotify.com/track/7bnNyvnP25wKMGUTH0O2GS"
+    },
+    {
+      "album": {
         "name": "Remend",
         "url": "https://open.spotify.com/album/0Qk3Dm6L90ZAbdEurz2Dd9"
       },
@@ -3626,10 +3788,28 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 152307,
       "name": "Remend (432 Hz)",
       "url": "https://open.spotify.com/track/3vBUiddLohHOXs5Pgokeh0"
+    },
+    {
+      "album": {
+        "name": "Reparador (432 Hz)",
+        "url": "https://open.spotify.com/album/6kdNzhAbiZa9jMBQQJkpVz"
+      },
+      "artists": [
+        {
+          "name": "432 Sonique",
+          "url": "https://open.spotify.com/artist/2yDUOLDQQCVOF1BM0qF0eV"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "Reparador (432 Hz)",
+      "url": "https://open.spotify.com/track/2yICWKN0xcjRuQ7skfCfml"
     },
     {
       "album": {
@@ -3687,6 +3867,24 @@
     },
     {
       "album": {
+        "name": "Sadhana 432Hz",
+        "url": "https://open.spotify.com/album/58JlZVFkMIWXUfLmA8cYxf"
+      },
+      "artists": [
+        {
+          "name": "Zen Solfeggio",
+          "url": "https://open.spotify.com/artist/4vRQDCkvg34Zd5jUdZJjzq"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142764,
+      "name": "Sadhana 432Hz",
+      "url": "https://open.spotify.com/track/20sk727hAqgAmfgbKUYzWD"
+    },
+    {
+      "album": {
         "name": "Sage 432Hz",
         "url": "https://open.spotify.com/album/3JKRlE07Zcr0dJLAo5Bv0C"
       },
@@ -3738,6 +3936,24 @@
       "duration_ms": 141176,
       "name": "Serenar 432Hz",
       "url": "https://open.spotify.com/track/4Hvdi4QNs38jM1IrUUqN0S"
+    },
+    {
+      "album": {
+        "name": "Serenidad (432 Hz)",
+        "url": "https://open.spotify.com/album/7237s2tvy0Cz8qEcDYDnNW"
+      },
+      "artists": [
+        {
+          "name": "Solfeggio Verdi",
+          "url": "https://open.spotify.com/artist/0vI1CD156Rnzc4zyit5gNI"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154634,
+      "name": "Serenidad (432 Hz)",
+      "url": "https://open.spotify.com/track/1uWABzZH9fLadImifcnOTL"
     },
     {
       "album": {

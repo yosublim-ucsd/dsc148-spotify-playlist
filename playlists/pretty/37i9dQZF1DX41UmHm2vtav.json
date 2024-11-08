@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 472418,
+  "num_followers": 472476,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2024-09-20 03:03:00",
       "album": {
+        "name": "Perdi\u00e7\u00e3o (feat. L7NNON) [Remix]",
+        "url": "https://open.spotify.com/album/7nJHxArjVPTY0Kb0U94qTZ"
+      },
+      "artists": [
+        {
+          "name": "Watzgood",
+          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Perdi\u00e7\u00e3o (feat. L7NNON) - Remix",
+      "url": "https://open.spotify.com/track/2z7cpHZy0D2sEoy7n7uiVD"
+    },
+    {
+      "added_at": "2024-09-20 03:03:00",
+      "album": {
         "name": "In The End (Remix)",
         "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 164879,
       "name": "In The End - Remix",
       "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
-    },
-    {
-      "added_at": "2024-09-20 03:03:00",
-      "album": {
-        "name": "Perdi\u00e7\u00e3o (feat. L7NNON) [Remix]",
-        "url": "https://open.spotify.com/album/7nJHxArjVPTY0Kb0U94qTZ"
-      },
-      "artists": [
-        {
-          "name": "Watzgood",
-          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Perdi\u00e7\u00e3o (feat. L7NNON) - Remix",
-      "url": "https://open.spotify.com/track/2z7cpHZy0D2sEoy7n7uiVD"
     },
     {
       "added_at": "2024-09-20 03:03:00",
@@ -1507,22 +1507,22 @@
     {
       "added_at": "2024-09-20 03:03:00",
       "album": {
-        "name": "Alok Presents Brazilian Bass: Pt. 1",
-        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
+        "name": "Foreplay (Radio Edit)",
+        "url": "https://open.spotify.com/album/4ZgMwbe1DsUSI23WrtzVra"
       },
       "artists": [
         {
-          "name": "Selva",
-          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+          "name": "Flowavez",
+          "url": "https://open.spotify.com/artist/1sLWizVPX3xJrFzGuTcNSe"
         },
         {
-          "name": "Zerky",
-          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
         }
       ],
-      "duration_ms": 173114,
-      "name": "Make Me Wanna",
-      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
+      "duration_ms": 177633,
+      "name": "Foreplay - Radio Edit",
+      "url": "https://open.spotify.com/track/0ONK2veMuvNNHpaKBTiTnA"
     }
   ],
   "unique_name": "Festa na Praia",

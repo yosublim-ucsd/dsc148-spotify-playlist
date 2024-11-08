@@ -1,8 +1,54 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion en good vibes. Cover: Noano & Ronnie Flex",
+  "description": "Motion en good vibes. Cover: Broederliefde",
   "name": "La Vida Loca",
   "tracks": [
+    {
+      "album": {
+        "name": "+57",
+        "url": "https://open.spotify.com/album/5TT8KluomuelzsNF7T1U37"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298130,
+      "name": "+57",
+      "url": "https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP"
+    },
     {
       "album": {
         "name": ",Habiba",
@@ -818,6 +864,28 @@
       "duration_ms": 122946,
       "name": "Allez Allez",
       "url": "https://open.spotify.com/track/0IeRfqzN4AonzZIKaPMXtw"
+    },
+    {
+      "album": {
+        "name": "Allo Min",
+        "url": "https://open.spotify.com/album/5nJpHRMdgd7NnNJO7pSpDu"
+      },
+      "artists": [
+        {
+          "name": "Oualid",
+          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
+        },
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145378,
+      "name": "Allo Min",
+      "url": "https://open.spotify.com/track/6psaZUqCkuzZODIUEpAYYS"
     },
     {
       "album": {
@@ -2222,7 +2290,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 127000,
       "name": "Bati Sanka (feat. Saaff, Kempi & Tyrell)",
       "url": "https://open.spotify.com/track/5VPGAximLdBE9CaZdmY8bG"
@@ -5631,6 +5699,24 @@
     },
     {
       "album": {
+        "name": "Dansvloerkiller",
+        "url": "https://open.spotify.com/album/1pIFdaWneZM9kRMYDsYcxD"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Dansvloerkiller",
+      "url": "https://open.spotify.com/track/47tS35fPyJjIHLk95OBeHc"
+    },
+    {
+      "album": {
         "name": "DAN\u00c7ARINA (feat. Nicky Jam, MC Pedrinho) [Remix]",
         "url": "https://open.spotify.com/album/47F5OvdnBKsti5MNRGJ2On"
       },
@@ -5702,6 +5788,28 @@
       "duration_ms": 168750,
       "name": "Day 2 Day",
       "url": "https://open.spotify.com/track/7y4GHkYxPu0Jq57VTKvnlv"
+    },
+    {
+      "album": {
+        "name": "DA\u015e",
+        "url": "https://open.spotify.com/album/4wL4p6YgD2xfTEgi0sobl4"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131381,
+      "name": "DA\u015e",
+      "url": "https://open.spotify.com/track/64Eve3fiN4p6Zkg0rorkE4"
     },
     {
       "album": {
@@ -10502,7 +10610,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 178775,
       "name": "IN MY BED",
       "url": "https://open.spotify.com/track/0T89DfrygjPoXr6ReujDHj"
@@ -12550,7 +12658,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 173858,
       "name": "Libi",
       "url": "https://open.spotify.com/track/4S4slfIFjvdlY0II0XHadj"
@@ -13888,6 +13996,24 @@
       "duration_ms": 233240,
       "name": "MAMI WATA",
       "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
+    },
+    {
+      "album": {
+        "name": "MARADONA",
+        "url": "https://open.spotify.com/album/5tKM7AJK4KbZfvjULZWqBL"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145363,
+      "name": "MARADONA",
+      "url": "https://open.spotify.com/track/6DQP9PApwO1ytBaOOec8ap"
     },
     {
       "album": {
@@ -17836,7 +17962,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 147096,
       "name": "Personality",
       "url": "https://open.spotify.com/track/6tAvzriaoZHYQRNaWA7kwY"
@@ -18622,7 +18748,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 156000,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/1EJ3NDRdwHkwEb0PuYr54a"
@@ -19508,7 +19634,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 172346,
       "name": "SAN GOKU",
       "url": "https://open.spotify.com/track/33RwMBXnqn3V5i5uGoR1Nt"
@@ -20078,7 +20204,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 180378,
       "name": "Si Si",
       "url": "https://open.spotify.com/track/5iFu4sGrA7CqC6TYXn8sKc"
@@ -25023,6 +25149,24 @@
     },
     {
       "album": {
+        "name": "Wooii",
+        "url": "https://open.spotify.com/album/7ozM8gBireispz4IvihapX"
+      },
+      "artists": [
+        {
+          "name": "Iamroyston",
+          "url": "https://open.spotify.com/artist/2LJ7EXcNlX7Vdtd83Nrk2i"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138600,
+      "name": "Wooii",
+      "url": "https://open.spotify.com/track/396oISKdfBFNyP63Bjd7fO"
+    },
+    {
+      "album": {
         "name": "XXX",
         "url": "https://open.spotify.com/album/1zDxfWStcuzQ61UWZ6qJrX"
       },
@@ -25656,6 +25800,32 @@
       "duration_ms": 134456,
       "name": "Zonder Jou",
       "url": "https://open.spotify.com/track/4hUh1nZIF3VioqWKuGMceU"
+    },
+    {
+      "album": {
+        "name": "Zonder Mij",
+        "url": "https://open.spotify.com/album/5F7mnnPZ6eMoE1KCZsMnA3"
+      },
+      "artists": [
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        },
+        {
+          "name": "Yxng Le",
+          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203338,
+      "name": "Zonder Mij",
+      "url": "https://open.spotify.com/track/6Fws1gQYhr2S71ANIgzUxv"
     },
     {
       "album": {

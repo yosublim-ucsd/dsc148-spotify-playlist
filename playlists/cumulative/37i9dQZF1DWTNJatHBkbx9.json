@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-14",
-  "description": "From the alternative scene in Ghana. Cover: Darkovibes",
+  "description": "From the alternative scene in Ghana. Cover: Anabel Rose",
   "name": "Alt. Ghana",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 159428,
       "name": "ADRENALINE",
       "url": "https://open.spotify.com/track/4Oj4eDrQ1eDlWpkLIcEoG2"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 138591,
       "name": "Bigger & Better Than",
       "url": "https://open.spotify.com/track/0ZtxPLtxfhhC774iqK3gB6"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 149714,
       "name": "Dance",
       "url": "https://open.spotify.com/track/3JA0kbj6KphgPEEUbA0oCK"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 148023,
       "name": "Den Ntia",
       "url": "https://open.spotify.com/track/5BY8AEIgzfBrz8kF5617Et"
@@ -764,7 +764,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 172070,
       "name": "Ella",
       "url": "https://open.spotify.com/track/2cRpjkL59pu33HwixaX5VB"
@@ -822,7 +822,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 191307,
       "name": "FALLING IN LOVE",
       "url": "https://open.spotify.com/track/5MgS2ItskwZYqXjREi74n4"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 164000,
       "name": "Fortified",
       "url": "https://open.spotify.com/track/3QQI0IgPr82JQr9xRAuRE9"
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 183971,
       "name": "I Cant Think Far",
       "url": "https://open.spotify.com/track/0Dk6cFD6Fe4wcWeMulvc7S"
@@ -1156,10 +1156,32 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 142000,
       "name": "iDENTIFY",
       "url": "https://open.spotify.com/track/4UD9UEti2WwQ89ACAA7lB0"
+    },
+    {
+      "album": {
+        "name": "In Vein",
+        "url": "https://open.spotify.com/album/5N8WSGoZa3zSvRUSgicNRa"
+      },
+      "artists": [
+        {
+          "name": "Her Revenge",
+          "url": "https://open.spotify.com/artist/5SrjPqmZawRld9MZNRpmvC"
+        },
+        {
+          "name": "Harlem Richard$",
+          "url": "https://open.spotify.com/artist/0yrt5adoyJ3pKGQkf8uCaJ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120895,
+      "name": "In Vein",
+      "url": "https://open.spotify.com/track/17CD1iK9l9XPImfjLGvuz1"
     },
     {
       "album": {
@@ -1320,7 +1342,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 238273,
       "name": "Lemuella (feat. $pacely, KwakuBs, RJZ, Kwesi Arthur)",
       "url": "https://open.spotify.com/track/33YJBuPUw5QN0YANYbY5LU"
@@ -1350,10 +1372,28 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 199635,
       "name": "Liberate Woman",
       "url": "https://open.spotify.com/track/4Oof3yvBa2qUVo0uFfTTrQ"
+    },
+    {
+      "album": {
+        "name": "LIE ME",
+        "url": "https://open.spotify.com/album/48AJnztPfgA5yXMvuskrQU"
+      },
+      "artists": [
+        {
+          "name": "Wanlov The Kubolor",
+          "url": "https://open.spotify.com/artist/2XLD6g0IGqvFw7BLedIZqV"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248933,
+      "name": "LIE ME",
+      "url": "https://open.spotify.com/track/0B1mjyJLEfM9dONF0i3gJz"
     },
     {
       "album": {
@@ -1430,7 +1470,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 195428,
       "name": "Lowkey Reminder",
       "url": "https://open.spotify.com/track/0ydKDzcFE4spe1J46ru4vc"
@@ -1542,7 +1582,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 160000,
       "name": "Mon Ch\u00e9rie",
       "url": "https://open.spotify.com/track/7xgXExDMS8npvcmye92xbf"
@@ -2480,7 +2520,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 221819,
       "name": "Spaceships",
       "url": "https://open.spotify.com/track/111lORD99rTGIGgMVISJvj"
@@ -2538,7 +2578,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 192000,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0OaUj6SrBMzDZX6zxSx7M0"
@@ -2582,7 +2622,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 160000,
       "name": "sugar rush",
       "url": "https://open.spotify.com/track/3oYL2QHieHXI99OrqvLCoG"
@@ -2715,6 +2755,24 @@
     },
     {
       "album": {
+        "name": "Something About A Rose",
+        "url": "https://open.spotify.com/album/0zt1UU6Dk47u4lDpoHp9XV"
+      },
+      "artists": [
+        {
+          "name": "Anabel Rose",
+          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144705,
+      "name": "Too Friendly",
+      "url": "https://open.spotify.com/track/4BQr3DTMqO8rpC4NtLPQTm"
+    },
+    {
+      "album": {
         "name": "TOYL (Time Of Your Life)",
         "url": "https://open.spotify.com/album/1ad4lbzO6ZSQsTHMxNbvTN"
       },
@@ -2842,7 +2900,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 148241,
       "name": "Wildin' Time",
       "url": "https://open.spotify.com/track/1WCM6yyXX5BjGqxbbyUtNX"

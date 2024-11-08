@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "Before It Might Be Gone",
+        "url": "https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM"
+      },
+      "artists": [
+        {
+          "name": "The Vices",
+          "url": "https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296885,
+      "name": "Before It Might Be Gone",
+      "url": "https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92"
+    },
+    {
+      "album": {
         "name": "Talk the Talk",
         "url": "https://open.spotify.com/album/7bXOx5DSCaBsWvNpX4FoRo"
       },
@@ -324,7 +342,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 217166,
       "name": "Before Your Birth",
       "url": "https://open.spotify.com/track/5TsRbdH1kqK7wjVITG2j1k"
@@ -511,6 +529,24 @@
     },
     {
       "album": {
+        "name": "Comic Trip",
+        "url": "https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Kreusch",
+          "url": "https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189169,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/0BUXcwQFldJNJHNGoPT2Ng"
+    },
+    {
+      "album": {
         "name": "Can't Let Go",
         "url": "https://open.spotify.com/album/7GkzL6dZQiXLuveDeOKY7h"
       },
@@ -640,6 +676,24 @@
     {
       "album": {
         "name": "Comic Trip",
+        "url": "https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Kreusch",
+          "url": "https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212968,
+      "name": "Comic Trip",
+      "url": "https://open.spotify.com/track/61Xa5pBWdJm5b98IQG6kFp"
+    },
+    {
+      "album": {
+        "name": "Comic Trip",
         "url": "https://open.spotify.com/album/0u0ksyxsBdZxwNr35iKDJi"
       },
       "artists": [
@@ -650,7 +704,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 212968,
       "name": "Comic Trip",
       "url": "https://open.spotify.com/track/7uwsDqA4W8tRmG2lp7Sm7g"
@@ -697,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Comic Trip",
+        "url": "https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Kreusch",
+          "url": "https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264319,
+      "name": "Daddy's Selling Wine In A Burning House",
+      "url": "https://open.spotify.com/track/0Sc2q6szDnNf6fv26EXuaR"
+    },
+    {
+      "album": {
         "name": "Daddy's Selling Wine In A Burning House",
         "url": "https://open.spotify.com/album/7zqjNLbmzTee6fzqCTg4K1"
       },
@@ -708,7 +780,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 264319,
       "name": "Daddy's Selling Wine In A Burning House",
       "url": "https://open.spotify.com/track/6jWsP2neKDqX4YWNK46njD"
@@ -838,10 +910,28 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 196686,
       "name": "Ding Dong",
       "url": "https://open.spotify.com/track/0SSvsdk6TlKbBHGtBk4XPa"
+    },
+    {
+      "album": {
+        "name": "Comic Trip",
+        "url": "https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Kreusch",
+          "url": "https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196686,
+      "name": "Ding Dong",
+      "url": "https://open.spotify.com/track/2Wb0VFETsGsf5HUpt3lNsZ"
     },
     {
       "album": {
@@ -2702,7 +2792,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 313610,
       "name": "Ride Away",
       "url": "https://open.spotify.com/track/3LsMYyzxZhp1Fg6Ehc40nw"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-20",
-  "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj?si=ENLOgd-DQG2VmM3y2wACxA>Sinmidele",
+  "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG?si=O0kSVRpiTD2Dus8f81EHwQ>Monaze",
   "name": "Praise and Chill",
   "tracks": [
     {
@@ -658,7 +658,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 174600,
       "name": "Bank on You",
       "url": "https://open.spotify.com/track/5FtvzrbCp3iyf0zYNjDkyq"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 152737,
       "name": "Blood of Jesus",
       "url": "https://open.spotify.com/track/3ZcF9YVstzIGgpZvm1hUo3"
@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 130539,
       "name": "El Roi",
       "url": "https://open.spotify.com/track/7Asby5UHS9Abm4M4UtSEF9"
@@ -2293,6 +2293,24 @@
     },
     {
       "album": {
+        "name": "For My Sake",
+        "url": "https://open.spotify.com/album/6eKAJ4BHkyh6889fVq0ofV"
+      },
+      "artists": [
+        {
+          "name": "Mizzle",
+          "url": "https://open.spotify.com/artist/1TUfUuxqtyevGYo8jWAPkd"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "For My Sake",
+      "url": "https://open.spotify.com/track/7zMCGarwmP4zJcsBXQPkSE"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/22C8GuxjWnFDVD7XTYYtYe"
       },
@@ -2484,7 +2502,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 184273,
       "name": "Gather Dey",
       "url": "https://open.spotify.com/track/6dI8DLiMjcPT9fuD8m9Ieg"
@@ -2510,7 +2528,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 145116,
       "name": "Gathering - Special Version",
       "url": "https://open.spotify.com/track/0YKi0GV9YJ5ufYvX5aOYeK"
@@ -2558,7 +2576,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 165586,
       "name": "Glory Days! - Special Version",
       "url": "https://open.spotify.com/track/2MWzWjqbvDqGwe1nGUeaz2"
@@ -2766,7 +2784,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 180000,
       "name": "Halle",
       "url": "https://open.spotify.com/track/1bJ3uXSAmu1UXHh3yevUYN"
@@ -2914,7 +2932,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 196666,
       "name": "Hiding Place",
       "url": "https://open.spotify.com/track/4QDHniJKIohZMdCDAtA0XD"
@@ -3730,6 +3748,28 @@
       "duration_ms": 145979,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/7wTZUijBarTXSDZgi7OLY6"
+    },
+    {
+      "album": {
+        "name": "Living Water",
+        "url": "https://open.spotify.com/album/4omQ95TK1CxSMNJr9dd1YR"
+      },
+      "artists": [
+        {
+          "name": "Phrv",
+          "url": "https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq"
+        },
+        {
+          "name": "Sage L",
+          "url": "https://open.spotify.com/artist/5q1400hNymy30C4p5c4Gi8"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144285,
+      "name": "Living Water",
+      "url": "https://open.spotify.com/track/452YNTnUsyCDL01xcC6en0"
     },
     {
       "album": {
@@ -4772,7 +4812,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 199578,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/1AhlSnL6e6WP5gRBTZfru6"
@@ -5429,6 +5469,32 @@
     },
     {
       "album": {
+        "name": "PERFECT WILL",
+        "url": "https://open.spotify.com/album/6lB2NzWxMVm8GegX8wUcvZ"
+      },
+      "artists": [
+        {
+          "name": "Monaze",
+          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
+        },
+        {
+          "name": "Clinton Flames",
+          "url": "https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye"
+        },
+        {
+          "name": "Baron Jay",
+          "url": "https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "PERFECT WILL",
+      "url": "https://open.spotify.com/track/3cWnQB2CbpqF04K2kg5YuI"
+    },
+    {
+      "album": {
         "name": "Pillar",
         "url": "https://open.spotify.com/album/6sUlyjObnWxGJrlKBSGo7A"
       },
@@ -6064,7 +6130,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 162403,
       "name": "Saves Me",
       "url": "https://open.spotify.com/track/5JZrrE7Azlre5rNugfZ8xg"
@@ -6156,7 +6222,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 166596,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/1PRzn0xPFNrriZZ29K2IgD"
@@ -6336,7 +6402,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 127822,
       "name": "Superman - Remix",
       "url": "https://open.spotify.com/track/5wVX9TDYtkpwCKxHIYDExs"
@@ -6358,7 +6424,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 125823,
       "name": "SURELY - UNVL' 24",
       "url": "https://open.spotify.com/track/2zTR5has6FHGwdwoi26Apt"

@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 159562,
+  "num_followers": 159574,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZylgAAAAAACdiQqVzx/m5zVGr+7XjvzS",
+  "snapshot_id": "ZyqxgAAAAADB6DkUxxTIXJAWuu99VmWB",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+        "name": "The North Borders",
+        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
       },
       "artists": [
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Innov Gnawa",
-          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
         }
       ],
-      "duration_ms": 302428,
-      "name": "Bambro Koyo Ganda",
-      "url": "https://open.spotify.com/track/5EGJ7e7frJjYja6H4afzoT"
+      "duration_ms": 243780,
+      "name": "Ten Tigers",
+      "url": "https://open.spotify.com/track/5xz5dUtU2xooSP75BwRJ3H"
     },
     {
       "added_at": null,
@@ -523,18 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The North Borders",
-        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
       },
       "artists": [
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Innov Gnawa",
+          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
         }
       ],
-      "duration_ms": 243780,
-      "name": "Ten Tigers",
-      "url": "https://open.spotify.com/track/5xz5dUtU2xooSP75BwRJ3H"
+      "duration_ms": 302428,
+      "name": "Bambro Koyo Ganda",
+      "url": "https://open.spotify.com/track/5EGJ7e7frJjYja6H4afzoT"
     },
     {
       "added_at": null,

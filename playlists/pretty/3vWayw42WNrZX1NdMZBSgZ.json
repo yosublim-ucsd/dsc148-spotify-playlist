@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: GALE &amp; LAGOS",
-  "num_followers": 53592,
+  "num_followers": 53590,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAAS5kBMjtKgqavkva0mxRQdb5O+vVrQ",
+  "snapshot_id": "AAAS6t/G8wIZGgTki+7qMXJUtybqoQVU",
   "tracks": [
     {
       "added_at": "2024-11-01 15:27:58",
@@ -43,6 +43,26 @@
       "duration_ms": 180725,
       "name": "Palmeras en el jard\u00edn",
       "url": "https://open.spotify.com/track/5MMEQLCzl9GsknyH42xFOX"
+    },
+    {
+      "added_at": "2024-11-01 02:56:28",
+      "album": {
+        "name": "Como Pacman",
+        "url": "https://open.spotify.com/album/3xCmWwmcrk7U0PiS7iG9Ny"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 148152,
+      "name": "Como Pacman",
+      "url": "https://open.spotify.com/track/2TV1EuYnG5XqEyQSd1EB9X"
     },
     {
       "added_at": "2024-10-25 06:32:41",
@@ -2867,26 +2887,6 @@
       "duration_ms": 143935,
       "name": "DISPARA ***",
       "url": "https://open.spotify.com/track/6r0TaoZh1Oc1KkuL4rC1kB"
-    },
-    {
-      "added_at": "2024-11-01 02:56:28",
-      "album": {
-        "name": "Como Pacman",
-        "url": "https://open.spotify.com/album/3xCmWwmcrk7U0PiS7iG9Ny"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 148152,
-      "name": "Como Pacman",
-      "url": "https://open.spotify.com/track/2TV1EuYnG5XqEyQSd1EB9X"
     }
   ],
   "unique_name": "Pop Latin Hits",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Photo : Luidji",
+  "description": "Photo : Tsew The Kid",
   "name": "Vice Versa",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 92274,
       "name": "30 secondes",
       "url": "https://open.spotify.com/track/2TiyqnbzipvZDBHqRA5vTh"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 186493,
       "name": "Allo la lune",
       "url": "https://open.spotify.com/track/6cz0ynmReFlfZ3aUqiFnWo"
@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Joue le jeu",
+        "url": "https://open.spotify.com/album/4ZsLmiGSWPRBEIBNPBUvNr"
+      },
+      "artists": [
+        {
+          "name": "Spider ZED",
+          "url": "https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109423,
+      "name": "Joue le jeu",
+      "url": "https://open.spotify.com/track/6yXEFxfrBRGooBzNMkUSV3"
+    },
+    {
+      "album": {
         "name": "Cin\u00e9club",
         "url": "https://open.spotify.com/album/4Tdke5E9jlLqHM9wfqXcpO"
       },
@@ -540,6 +558,24 @@
       "duration_ms": 142133,
       "name": "La temp\u00eate approche",
       "url": "https://open.spotify.com/track/46YgUtCMfBnb2bkATxD8pX"
+    },
+    {
+      "album": {
+        "name": "La v\u00e9rit\u00e9",
+        "url": "https://open.spotify.com/album/7e8nS0AlDriC8MoE3ybRj9"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140583,
+      "name": "La v\u00e9rit\u00e9",
+      "url": "https://open.spotify.com/track/5vbWxSxdmhXpAtgw44ykAP"
     },
     {
       "album": {
@@ -666,7 +702,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 180079,
       "name": "MES RAISONS",
       "url": "https://open.spotify.com/track/4LU7DDq0gPHkQF1ORKji9Q"
@@ -1020,6 +1056,24 @@
       "duration_ms": 190947,
       "name": "TOUS CEUX",
       "url": "https://open.spotify.com/track/7pIARWN4CjFAobfxYqOcgX"
+    },
+    {
+      "album": {
+        "name": "Vampire",
+        "url": "https://open.spotify.com/album/3CdwmnTTqQqhbYjsR3S9UG"
+      },
+      "artists": [
+        {
+          "name": "Tsew The Kid",
+          "url": "https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137535,
+      "name": "Vampire",
+      "url": "https://open.spotify.com/track/45bESNPtGOmWKI6Y5AziuI"
     },
     {
       "album": {

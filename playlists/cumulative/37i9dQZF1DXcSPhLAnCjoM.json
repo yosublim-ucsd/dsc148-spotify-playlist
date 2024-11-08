@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Recommence-moi\" de Santa est le Grand Hit de la semaine.",
+  "description": "\"Tu vas me quitter encore longtemps ?\" d'Hoshi est le Grand Hit de la semaine.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 176653,
       "name": "Beau (feat. Julien Dor\u00e9)",
       "url": "https://open.spotify.com/track/7xZrirKz1fymGxGVPtRRRk"
@@ -1835,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "L'id\u00e9e de toi",
+        "url": "https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf"
+      },
+      "artists": [
+        {
+          "name": "Satine",
+          "url": "https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122117,
+      "name": "L'id\u00e9e de toi",
+      "url": "https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9"
+    },
+    {
+      "album": {
         "name": "L'intime & le monde",
         "url": "https://open.spotify.com/album/0kexPpzB8l3VZbHWY3UIba"
       },
@@ -2754,7 +2772,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 155773,
       "name": "Papa dis-moi",
       "url": "https://open.spotify.com/track/5sij5devnFg3Uf5BhSLAZS"
@@ -2989,6 +3007,24 @@
     },
     {
       "album": {
+        "name": "Il \u00e9tait une fois",
+        "url": "https://open.spotify.com/album/6C8PoyDBrHfl7DQ7ZrLo6l"
+      },
+      "artists": [
+        {
+          "name": "Ouidad",
+          "url": "https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198637,
+      "name": "Quitte",
+      "url": "https://open.spotify.com/track/0dYX1WMinCmUTwkRY7WEC4"
+    },
+    {
+      "album": {
         "name": "Recommence-moi",
         "url": "https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y"
       },
@@ -3170,6 +3206,24 @@
       "duration_ms": 181580,
       "name": "Sans toi",
       "url": "https://open.spotify.com/track/1mk9y8glt1zXx5qoHzxYvx"
+    },
+    {
+      "album": {
+        "name": "Sans toi",
+        "url": "https://open.spotify.com/album/6XRgeirorxvr1SNfZGcnVI"
+      },
+      "artists": [
+        {
+          "name": "Lenie",
+          "url": "https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214807,
+      "name": "Sans toi",
+      "url": "https://open.spotify.com/track/6o7M2MVp3DrPGJcR3ZHRsv"
     },
     {
       "album": {
@@ -3430,7 +3484,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 184640,
       "name": "Tout ce que l'on dit (Mais qu'on ne fait pas) - Edit",
       "url": "https://open.spotify.com/track/0hsCfpvzUowipx8KQcsWuu"

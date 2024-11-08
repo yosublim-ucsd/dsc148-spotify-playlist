@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-227 songs - 12 hr 16 min
+228 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Energy](https://open.spotify.com/track/6CebMvPnu1c7CPCAaSXFuY) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Energy](https://open.spotify.com/album/59T65v0ZNe7z8dDd5kR2Kq) | 2:52 | 2024-02-16 | 2024-08-20 |
 | [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 | 2023-12-15 |  |
 | [Ever Been Punched](https://open.spotify.com/track/5ImCWFZ4baU82mNbKyTxCQ) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Ever Been Punched](https://open.spotify.com/album/4dXQcKAqasUFoPzKAF1hmg) | 2:14 | 2024-07-19 |  |
-| [FE!N](https://open.spotify.com/track/5RQyf6jnaZFt0PYoTzrVqZ) | [Tavatli](https://open.spotify.com/artist/1B8akzCypOte40Fscvj968) | [FE!N](https://open.spotify.com/album/55my3C0DNaGAIvARc07VWO) | 2:55 | 2024-05-24 |  |
+| [FE!N](https://open.spotify.com/track/5RQyf6jnaZFt0PYoTzrVqZ) | [Tavatli](https://open.spotify.com/artist/1B8akzCypOte40Fscvj968) | [FE!N](https://open.spotify.com/album/55my3C0DNaGAIvARc07VWO) | 2:55 | 2024-05-24 | 2024-11-08 |
 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 | 2023-08-11 |  |
 | [Fine Night](https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fine Night](https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn) | 2:41 | 2023-08-11 |  |
 | [Gam Gam \- 2023](https://open.spotify.com/track/1mWbB1bGjvdZR3vFtaT2gL) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Mauro Pilato](https://open.spotify.com/artist/4I1iEv9ygxuMPXqbucD7MP), [Max Monti](https://open.spotify.com/artist/3H3jO2j8V6ncoQsdoLU9Sr) | [Gam Gam \(2023\)](https://open.spotify.com/album/5WEryFgo8eJNlHd6WGDh6r) | 4:08 | 2023-08-11 |  |
@@ -187,6 +187,7 @@
 | [Samba De Janeiro](https://open.spotify.com/track/00Qte4PHghHWKKX2pgQty1) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Bellini](https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6) | [Samba De Janeiro](https://open.spotify.com/album/2pXVc3TNN2OZc8ECDgOdDL) | 2:15 | 2024-09-13 |  |
 | [Say You Will](https://open.spotify.com/track/63IsPNecHLiwqMMxzeVG12) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Say You Will](https://open.spotify.com/album/1gBgLMEQraFgv7KrMQqxYV) | 2:12 | 2023-09-01 | 2023-09-30 |
 | [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2023-09-19 |  |
+| [SexyBack \- TechnoBack](https://open.spotify.com/track/5sJ6PXZEyar0VfEgBt6HnN) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mono Schwarz](https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF) | [SexyBack \(TechnoBack\)](https://open.spotify.com/album/5EGHrNs3I7o9voBxiUeWyf) | 2:26 | 2024-10-25 |  |
 | [Shadows Of The Night \- GIGI DAG Mix](https://open.spotify.com/track/5n3jPpWweeAWjSEIONrcXS) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un), [Boostedkids](https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ), [GIGI DAG](https://open.spotify.com/artist/5dnmJca9sE7eYfwKyeWVI0) | [Shadows Of The Night \(GIGI DAG Mix\)](https://open.spotify.com/album/5X1zTvAgAce4WDfP2vRBbi) | 2:42 | 2024-04-12 |  |
 | [Silence](https://open.spotify.com/track/5iXgpgzmDiafKqRk4Tl4d2) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Silence](https://open.spotify.com/album/0NWM2Hrpligv2VaMnVUX2Y) | 2:58 | 2023-11-17 | 2024-07-29 |
 | [Silver Spark](https://open.spotify.com/track/2oMMOQL2NiNC97TEDmyjMk) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Silver Spark](https://open.spotify.com/album/0SWoFlfVjModLr3r5qeVNi) | 4:21 | 2024-05-17 | 2024-07-16 |

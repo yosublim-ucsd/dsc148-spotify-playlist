@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 ### [Hip Hop Circle](https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg)
 
-> Only the hottest Hip Hop from Usimamane, KindlyNxsh, Tyler, The Creator, and more...
+> Only the hottest Hip Hop from Usimamane, DJ Slique, Tyler, The Creator, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,004 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,033 likes - 59 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 57 | [Where's Reason?](https://open.spotify.com/track/2PDA3LgLfquPTz1zgfH4Gl) | [Sizwe Alakine](https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2), [Lwamii](https://open.spotify.com/artist/5Luqa4k8lZ6rSFGcUbXfNg), [ReasonHD](https://open.spotify.com/artist/5TnRfMYYlRqpLPRRmQngDO) | [Where's Reason?](https://open.spotify.com/album/52m6hoGhYp31OhmXKEYHac) | 4:55 |
 | 58 | [Life Isn't Fair](https://open.spotify.com/track/6XrG46AvOK2C8secd8cVL7) | [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Life Isn't Fair](https://open.spotify.com/album/59nP1tGCKYPOrUQYAQiad1) | 3:12 |
 | 59 | [stoners](https://open.spotify.com/track/3tYBsGcHQS8OqkLlE72Lm7) | [Michael Tuohy](https://open.spotify.com/artist/5FeEPMjFuqvtxQzU2hl6Y5), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [worth it + stoners](https://open.spotify.com/album/3rTmgPoF2CqroawhmSIZDR) | 2:43 |
-| 60 | [Midnight](https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Bad Cameo](https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf) | 4:58 |
 
-Snapshot ID: `ZyQL8AAAAABkTnbnsdwHuNEXVAqptQOh`
+Snapshot ID: `Zy1ZjAAAAABRFtuspPjyYHbo8K0DFVXp`

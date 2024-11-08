@@ -2,15 +2,15 @@
 
 ### [Vice Versa](https://open.spotify.com/playlist/37i9dQZF1DX9h4FeDa1xsw)
 
-> Photo : Luidji
+> Photo : Tsew The Kid
 
-57 songs - 2 hr 46 min
+60 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [30 secondes](https://open.spotify.com/track/2TiyqnbzipvZDBHqRA5vTh) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [30 secondes](https://open.spotify.com/album/7o72sPlRqClFQBiYCXnr4m) | 1:32 | 2024-09-12 |  |
+| [30 secondes](https://open.spotify.com/track/2TiyqnbzipvZDBHqRA5vTh) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [30 secondes](https://open.spotify.com/album/7o72sPlRqClFQBiYCXnr4m) | 1:32 | 2024-09-12 | 2024-11-08 |
 | [A la folie](https://open.spotify.com/track/4CkPnK5pnxA5rGIgG6WmpU) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6) | [A la folie](https://open.spotify.com/album/395fRjBGn4yoTYp97mAOUq) | 3:00 | 2024-10-17 |  |
-| [Allo la lune](https://open.spotify.com/track/6cz0ynmReFlfZ3aUqiFnWo) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/2u89QX2fEHo9MaZjC1XHiw) | 3:06 | 2024-06-20 |  |
+| [Allo la lune](https://open.spotify.com/track/6cz0ynmReFlfZ3aUqiFnWo) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/2u89QX2fEHo9MaZjC1XHiw) | 3:06 | 2024-06-20 | 2024-11-08 |
 | [Bazar](https://open.spotify.com/track/4khrqV7xYJWCk0sesxhtwt) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Bazar](https://open.spotify.com/album/1N9W4DaURi0lQYOM7DpsDW) | 2:46 | 2024-09-12 |  |
 | [Bene](https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Par nous\-mêmes](https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA) | 3:13 | 2024-07-11 |  |
 | [Bisou sur la bouche](https://open.spotify.com/track/7fRoybXpkYQ7NNBjuhtEaV) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Bisou sur la bouche](https://open.spotify.com/album/7CWstAlJm1Xnhtt6GVWNzz) | 2:45 | 2024-10-03 |  |
@@ -31,19 +31,21 @@
 | [Imagine](https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine](https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6) | 2:45 | 2024-06-20 |  |
 | [J'écris](https://open.spotify.com/track/707blFQ6ZTTGSZUQCfdkIj) | [Thomas Goldberg](https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd) | [J'écris](https://open.spotify.com/album/0nqsL5Dloqn8mh1mZyOMI5) | 3:02 | 2024-06-20 | 2024-10-18 |
 | [Je parle de toi](https://open.spotify.com/track/2VzCoD6UsQBAIHkvLCQisr) | [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Alain](https://open.spotify.com/album/3FxPq5IOpgx8sCc5D1VZQY) | 3:14 | 2024-06-20 |  |
+| [Joue le jeu](https://open.spotify.com/track/6yXEFxfrBRGooBzNMkUSV3) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Joue le jeu](https://open.spotify.com/album/4ZsLmiGSWPRBEIBNPBUvNr) | 1:49 | 2024-11-07 |  |
 | [Juvénile](https://open.spotify.com/track/5rVbxvrhd0yyEvpgGOdbVY) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Cinéclub](https://open.spotify.com/album/4Tdke5E9jlLqHM9wfqXcpO) | 3:32 | 2024-06-20 | 2024-07-19 |
 | [L'élu \- Bonus Track](https://open.spotify.com/track/2I6H8HZSGuUy95q77eAIRF) | [Geoffrey](https://open.spotify.com/artist/3kB7ObACEFRh7mKeB1RstK) | [Hedonis \(Edition Deluxe\)](https://open.spotify.com/album/00GAvuxpnHHu8DjQkAYRhM) | 3:08 | 2024-06-20 |  |
 | [L.A.](https://open.spotify.com/track/0WMifeoCiWPDzQ7cglvJdl) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [+33](https://open.spotify.com/album/7lxKqKo75kR9sm2GYdmZTr) | 3:51 | 2024-07-04 |  |
 | [La nuit où](https://open.spotify.com/track/7BQWErX02AdVBgODbUglKI) | [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [La nuit où](https://open.spotify.com/album/06LTFfZ7cr6yyZbU2a5L7I) | 3:02 | 2024-07-18 |  |
 | [La suite](https://open.spotify.com/track/0sZy9xmCCfPDBr2A8oM9KT) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm), [Arzel](https://open.spotify.com/artist/1d75JyJ5GoOgPYF4p61sdX) | [La suite](https://open.spotify.com/album/7HA25SoZlf9CcPCj7JtRcl) | 3:21 | 2024-06-20 | 2024-10-04 |
 | [La tempête approche](https://open.spotify.com/track/46YgUtCMfBnb2bkATxD8pX) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [La tempête approche](https://open.spotify.com/album/2O79oOmN6J7uaRjx8V2Ux9) | 2:22 | 2024-06-20 | 2024-10-18 |
+| [La vérité](https://open.spotify.com/track/5vbWxSxdmhXpAtgw44ykAP) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [La vérité](https://open.spotify.com/album/7e8nS0AlDriC8MoE3ybRj9) | 2:20 | 2024-11-07 |  |
 | [Les restes de mon passé](https://open.spotify.com/track/1ZBL4zWtHXLC16LBJAHBWm) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [On finira peut\-être heureux](https://open.spotify.com/album/6TXAt7Cr5LrRefCBOEQJYX) | 3:20 | 2024-06-20 | 2024-08-30 |
 | [Liverpool](https://open.spotify.com/track/6yrzksrL60ODFAPUe6Wdo2) | [Brav](https://open.spotify.com/artist/7xYWMh4bNPk1VEChEwuJW9), [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q) | [Liverpool](https://open.spotify.com/album/4Ssw5w7d24FJiZDOZW0KuW) | 3:52 | 2024-08-29 |  |
 | [MAMIMAMI](https://open.spotify.com/track/0tGjmmFerDwJox0ZCPOUxw) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [MAMIMAMI](https://open.spotify.com/album/7j7XhCrbyJXkrE34jzspJC) | 1:55 | 2024-10-17 |  |
 | [MAUDIT](https://open.spotify.com/track/460uCEB54eEUyCtoApYO8b) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [MAUDIT](https://open.spotify.com/album/4WbHWg8qFWBN7m4wYbCVHt) | 3:29 | 2024-09-26 |  |
 | [Mauvais rêve](https://open.spotify.com/track/0MGgP4BHyxoW0eJw5piCX5) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mauvais rêve](https://open.spotify.com/album/5SPoEMJ0aODZHCVMos4tzv) | 2:50 | 2024-06-20 | 2024-09-27 |
 | [Mazel](https://open.spotify.com/track/1JQv5PYJLat5Ra2So7vTkI) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [KHEDMA 2](https://open.spotify.com/album/1S3jVlJByB4CzqwoVpaUAI) | 2:29 | 2024-06-20 |  |
-| [MES RAISONS](https://open.spotify.com/track/4LU7DDq0gPHkQF1ORKji9Q) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [TOUT CE QUI BRILLE](https://open.spotify.com/album/1xLmdzwAhBEiWPkotbGcRZ) | 3:00 | 2024-06-20 |  |
+| [MES RAISONS](https://open.spotify.com/track/4LU7DDq0gPHkQF1ORKji9Q) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [TOUT CE QUI BRILLE](https://open.spotify.com/album/1xLmdzwAhBEiWPkotbGcRZ) | 3:00 | 2024-06-20 | 2024-11-08 |
 | [Monde](https://open.spotify.com/track/4zD7GnXyl94mNCbyaNw6xf) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp), [Ryan Koffi](https://open.spotify.com/artist/53qGMn2ruG0oTwyGyTsBUn) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 3:36 | 2024-06-20 |  |
 | [Mytho](https://open.spotify.com/track/5XhNXFHAi60G64TB6lr666) | [Rouquine](https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ), [KIK](https://open.spotify.com/artist/3U0pUvFUMv6gJiTFnXiueY) | [Mytho](https://open.spotify.com/album/1oTCVAoOTojhlOzGskugZ2) | 2:56 | 2024-06-20 |  |
 | [Nouvelle Parisienne](https://open.spotify.com/track/4zapAHuwWQ30FI3iYIMwDF) | [Younsss](https://open.spotify.com/artist/78ZEXPRdY2LFBQW2MAO0Hp) | [Nouvelle Parisienne](https://open.spotify.com/album/4Vzp2WLzJUViQKK0UpRJS2) | 2:42 | 2024-06-20 |  |
@@ -63,6 +65,7 @@
 | [Topinambour](https://open.spotify.com/track/18YOJ0bEK8D68AJCnYEOVK) | [Ex\-Aequo](https://open.spotify.com/artist/7BCXsQgOn5a9AW2HlTd5xb) | [Topinambour](https://open.spotify.com/album/2biWJkwaSrUIn7OqKnk1ca) | 2:22 | 2024-06-20 |  |
 | [Toupie](https://open.spotify.com/track/1VzqSvUk73RGYlrppGYAVD) | [Romsii](https://open.spotify.com/artist/0ociabAWszA5gHTLfhf4Pw) | [Toupie](https://open.spotify.com/album/4V0Xs2qQHKwNefb7MpuING) | 2:45 | 2024-06-20 |  |
 | [TOUS CEUX](https://open.spotify.com/track/7pIARWN4CjFAobfxYqOcgX) | [AMO](https://open.spotify.com/artist/7ymzaplgxOHvLpqgsv0FcO) | [TOUS CEUX](https://open.spotify.com/album/2M3FSKhks3bHfgFOJq54T3) | 3:10 | 2024-06-20 | 2024-10-18 |
+| [Vampire](https://open.spotify.com/track/45bESNPtGOmWKI6Y5AziuI) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Vampire](https://open.spotify.com/album/3CdwmnTTqQqhbYjsR3S9UG) | 2:17 | 2024-11-07 |  |
 | [Very Bad Trip](https://open.spotify.com/track/7tXHLmzFH6rADej0aZRmPu) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [Very Bad Trip](https://open.spotify.com/album/6pq9OhOvQuDwUzQva73v0t) | 2:11 | 2024-06-20 | 2024-07-19 |
 | [À mes démons Pt\. 2](https://open.spotify.com/track/1RkPNKaOA4NYTj1tkR5BEx) | [An'Om](https://open.spotify.com/artist/3rF2ZcZCcwYluO3h9wRP22), [Vayn](https://open.spotify.com/artist/41CySalxZ2GST1n69SqsZ1) | [À mes démons Pt\. 2](https://open.spotify.com/album/0OLOS5tA0Uhw24QKDM542Y) | 3:13 | 2024-07-18 |  |
 

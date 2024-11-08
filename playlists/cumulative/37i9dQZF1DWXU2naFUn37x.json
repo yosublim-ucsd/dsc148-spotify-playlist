@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Il top dello street rap italiano \ud83d\udd25 Cover: Night Skinny",
+  "description": "Il top dello street rap italiano \ud83d\udd25 Cover: Kid Yugi",
   "name": "Street Culto",
   "tracks": [
     {
@@ -578,7 +578,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 200311,
       "name": "6 AM",
       "url": "https://open.spotify.com/track/42F6iAgPGmDRgPcCIdEghu"
@@ -622,7 +622,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 230965,
       "name": "64 BARRE DI VERIT\u00c0 (Red Bull 64 Bars)",
       "url": "https://open.spotify.com/track/4cMCuC4B7crtuZ7E67xsGV"
@@ -2798,7 +2798,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 119850,
       "name": "CAFF\u00c8 AMARO",
       "url": "https://open.spotify.com/track/5EPfp1edrw1vgxriqxLTlD"
@@ -3567,6 +3567,60 @@
     },
     {
       "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Rasty Kilo",
+          "url": "https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327605,
+      "name": "CNTNRS (feat. Jake La Furia, Emis Killa, Kid Yugi, Tony Boy, Rasty Kilo, Gu\u00e8, Paky, Nerissima Serpe & Papa V)",
+      "url": "https://open.spotify.com/track/4j5cQ2vydFCpmR8PnBy7yG"
+    },
+    {
+      "album": {
         "name": "DJUNGLE UNCHAINED",
         "url": "https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO"
       },
@@ -3642,6 +3696,28 @@
       "duration_ms": 233268,
       "name": "Coki (con Tony Effe, Noyz Narcos, Ketama126 & Gu\u00e8)",
       "url": "https://open.spotify.com/track/19MTV4slq11KeCGoF7RQZ6"
+    },
+    {
+      "album": {
+        "name": "Coltellino (feat. Baby Gang)",
+        "url": "https://open.spotify.com/album/2EuGU65jnjQ6DPPCK6gads"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218121,
+      "name": "Coltellino (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/7cDD6fOmjVI5NN1krdQ9U2"
     },
     {
       "album": {
@@ -5312,6 +5388,28 @@
       "duration_ms": 132413,
       "name": "Freestyle#2",
       "url": "https://open.spotify.com/track/3GWunIYzxXspSGD7lzj0F1"
+    },
+    {
+      "album": {
+        "name": "Glocky vs Kiddo",
+        "url": "https://open.spotify.com/album/53DRh8HCYyMHCyMF7HbHJe"
+      },
+      "artists": [
+        {
+          "name": "Glocky",
+          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160625,
+      "name": "Frigo Vuoto",
+      "url": "https://open.spotify.com/track/0VPnOu0TC1M8eAw0LA17x8"
     },
     {
       "album": {
@@ -7577,6 +7675,24 @@
     },
     {
       "album": {
+        "name": "Tutti i Nomi del Diavolo",
+        "url": "https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172384,
+      "name": "Loki",
+      "url": "https://open.spotify.com/track/5NixWTjP1VXRNsePx6mr4o"
+    },
+    {
+      "album": {
         "name": "LOS DIABLOS (feat. Artie 5ive & 167 Gang)",
         "url": "https://open.spotify.com/album/6DFq4pWC0H3MvmwR99Ke5V"
       },
@@ -8484,6 +8600,28 @@
       "duration_ms": 185041,
       "name": "Milly (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/0ksqA7waEGNDkGkmRz0Gwj"
+    },
+    {
+      "album": {
+        "name": "GOBLIN",
+        "url": "https://open.spotify.com/album/02RzOO14ybPB0mGrfdjkX4"
+      },
+      "artists": [
+        {
+          "name": "DrefGold",
+          "url": "https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158518,
+      "name": "MILLY ROCK (feat. Tony Boy)",
+      "url": "https://open.spotify.com/track/5TFMwSpK4JSx4XMjZypln7"
     },
     {
       "album": {
@@ -11110,7 +11248,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 147906,
       "name": "Rito breve (feat. Noyz Narcos, Simba La Rue & Geolier)",
       "url": "https://open.spotify.com/track/3IecTeGpGfTm0fRvswncwp"
@@ -13256,7 +13394,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 146400,
       "name": "TRAPSTAR",
       "url": "https://open.spotify.com/track/6twvGhYeRiinaHcKq2wUI0"

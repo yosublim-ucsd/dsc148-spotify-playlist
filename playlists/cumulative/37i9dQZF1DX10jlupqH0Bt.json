@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "852 Hz Regeneration",
+        "url": "https://open.spotify.com/album/2WnlkqIZ9HNb3GmFRrDDbf"
+      },
+      "artists": [
+        {
+          "name": "Ookean",
+          "url": "https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181046,
+      "name": "852 Hz Regeneration",
+      "url": "https://open.spotify.com/track/0JtEglAAtgmEN7UMTZDBED"
+    },
+    {
+      "album": {
         "name": "Release (Solfeggio Frequencies)",
         "url": "https://open.spotify.com/album/0TrfvDeHiLuaCQcse8GVjf"
       },

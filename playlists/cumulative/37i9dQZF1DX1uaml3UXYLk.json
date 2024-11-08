@@ -2472,7 +2472,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 192500,
       "name": "DELI",
       "url": "https://open.spotify.com/track/02lzHihYd4L7OEu6hz414D"
@@ -2868,7 +2868,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 280320,
       "name": "Dream",
       "url": "https://open.spotify.com/track/4PRpkjyClXZRRbErTzpxrm"
@@ -3816,7 +3816,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 192510,
       "name": "getting ideas",
       "url": "https://open.spotify.com/track/4g5zahq9MIoBxji1q0YF5F"
@@ -5756,7 +5756,7 @@
       ],
       "date_added": "2021-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 261048,
       "name": "Mediterranea",
       "url": "https://open.spotify.com/track/6WyxIRWwje9OjziaplhUVJ"
@@ -6808,7 +6808,7 @@
       ],
       "date_added": "2021-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 217338,
       "name": "Oh Baby...",
       "url": "https://open.spotify.com/track/6vB1aSBFevopVN93x8AKsX"
@@ -7168,7 +7168,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 173367,
       "name": "physalis",
       "url": "https://open.spotify.com/track/2MmIwBMgQRMlsEcOe0xgyj"
@@ -8537,6 +8537,24 @@
     },
     {
       "album": {
+        "name": "Shades of pink",
+        "url": "https://open.spotify.com/album/6FNjo7i682pKcPoFfslGF2"
+      },
+      "artists": [
+        {
+          "name": "Himari Aoki",
+          "url": "https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172871,
+      "name": "Shades of pink",
+      "url": "https://open.spotify.com/track/3WDarlszt1HG9gUVHUInl0"
+    },
+    {
+      "album": {
         "name": "Shadows - Glizzinger Edit",
         "url": "https://open.spotify.com/album/17aQXGOQLHfg72KYwOe8yp"
       },
@@ -8584,7 +8602,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 166000,
       "name": "Shine",
       "url": "https://open.spotify.com/track/4tAKd6ouFGZMGcU4CQvtH7"
@@ -10340,7 +10358,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 198807,
       "name": "Tracer Arcs",
       "url": "https://open.spotify.com/track/0f8LcCSouQTN5iE8qVrHsp"

@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Lia Almeida",
+  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Leo e Matheus",
   "name": "Gera\u00e7\u00e3o Sertaneja",
   "tracks": [
+    {
+      "album": {
+        "name": "2000 e sempre (olha pro c\u00e9u)",
+        "url": "https://open.spotify.com/album/4B2fwvEqo2leH8E5vBtQY1"
+      },
+      "artists": [
+        {
+          "name": "Gabi Oficial",
+          "url": "https://open.spotify.com/artist/6qdg35yDoPZ0dXIZSD5b4n"
+        },
+        {
+          "name": "Juan Marcus & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177368,
+      "name": "2000 e sempre (olha pro c\u00e9u)",
+      "url": "https://open.spotify.com/track/5nkllxo33U0my83wL3VqEI"
+    },
     {
       "album": {
         "name": "40 Garrafas",
@@ -508,7 +530,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 163525,
       "name": "Charme Demais - Ao Vivo",
       "url": "https://open.spotify.com/track/50frgWSf4qigDoDXZ91zTE"
@@ -708,7 +730,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 204066,
       "name": "Credencial, Quando \u00e9 Amor",
       "url": "https://open.spotify.com/track/535DDAFoAl2PLIIbuD6Gnl"
@@ -1550,7 +1572,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 171707,
       "name": "Haja Luz - Ao Vivo",
       "url": "https://open.spotify.com/track/3nlnQoON0vqQki5nB4kHTM"
@@ -1728,7 +1750,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 178233,
       "name": "Mensagem de Paz - Ao Vivo",
       "url": "https://open.spotify.com/track/1P2KMn60eCaNGW3qMIsBA6"
@@ -1979,6 +2001,24 @@
     },
     {
       "album": {
+        "name": "360\u00b0, Ep. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2Zms3MH9turOW2EfTiJtU7"
+      },
+      "artists": [
+        {
+          "name": "Rick & Nogueira",
+          "url": "https://open.spotify.com/artist/0MZjTmgoSErzmMapfREhGv"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155524,
+      "name": "Ningu\u00e9m Liga - Ao Vivo",
+      "url": "https://open.spotify.com/track/0NMMSU8cEOXwEyB1ngyeYj"
+    },
+    {
+      "album": {
         "name": "No Sigilo (Ao Vivo)",
         "url": "https://open.spotify.com/album/127MLLdBnGLkOfRiUDImBL"
       },
@@ -1990,7 +2030,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 152398,
       "name": "No Sigilo - Ao Vivo",
       "url": "https://open.spotify.com/track/5VFU5CR4SLcazLMqoxpQQQ"
@@ -2142,7 +2182,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 155742,
       "name": "O Meu Te Amo",
       "url": "https://open.spotify.com/track/6P2yv13RKXmbPSn21Ym3od"
@@ -2607,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "Ao Vivo Em Rio Preto",
+        "url": "https://open.spotify.com/album/7wB0kJ81KPQGIrO90qQCMo"
+      },
+      "artists": [
+        {
+          "name": "Leo e Matheus",
+          "url": "https://open.spotify.com/artist/6Ezj2v8IDNB9UllAtaNpma"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142742,
+      "name": "Quem Fica Lembra - Ao Vivo",
+      "url": "https://open.spotify.com/track/3jC7Z3Af8zdj95Vd1j5TyO"
+    },
+    {
+      "album": {
         "name": "Quer Largar",
         "url": "https://open.spotify.com/album/6slVe3jfiWDexWlRzr6ktN"
       },
@@ -2710,6 +2768,28 @@
       "duration_ms": 146564,
       "name": "Roxo Novo",
       "url": "https://open.spotify.com/track/6dV91iaRfborYMJ4fIHGzW"
+    },
+    {
+      "album": {
+        "name": "Sangue de Bruta",
+        "url": "https://open.spotify.com/album/6mMOtn9D9nBPUXAu93pjZV"
+      },
+      "artists": [
+        {
+          "name": "Eduarda Constantino",
+          "url": "https://open.spotify.com/artist/44cCRIDY1ciF41nsdTLzqq"
+        },
+        {
+          "name": "Gaveta Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/2sw453nFBZIWyvkOHbMKcZ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153956,
+      "name": "Sangue de Bruta",
+      "url": "https://open.spotify.com/track/2WH1vUGHRgr2ziNai6sXMY"
     },
     {
       "album": {

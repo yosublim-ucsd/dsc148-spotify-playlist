@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Tássia Reis e mais mulheres no volume máximo! Co\-curadoria com  <a href="spotify:artist:0kc1BjcLHaXhZVzCp0HeAl">Tássia Reis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,052 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,056 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 20 | [PROFESSORA](https://open.spotify.com/track/60eDrFcc9Rmj91W3NTdByE) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [BRUNE](https://open.spotify.com/artist/6LFvBfpdorzVD0EH2ljTZY), [Hadockhouse](https://open.spotify.com/artist/6lTQ3q3T4dJaaGbGINUmgh) | [PROFESSORA](https://open.spotify.com/album/0jQRQtskkBvQKBosVV1LD2) | 2:38 |
 | 21 | [Eu Gosto Assim](https://open.spotify.com/track/6PwDytZpnQNEy87nvCjZYQ) | [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv) | [Anelis Assumpção e os Amigos Imaginários](https://open.spotify.com/album/72W78DmbgOKTPm23aVMO01) | 3:55 |
 | 22 | [Rara](https://open.spotify.com/track/6d56K6gOxuJ2hxLqNAOYsZ) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [b o u t](https://open.spotify.com/artist/3djiMLvUhyywlWQgpYDR41) | [Rara](https://open.spotify.com/album/64zU5fHHUQ0BF3BI0q91r4) | 3:35 |
-| 23 | [Perfeito É o Mar](https://open.spotify.com/track/6KLaWP1J5jjCHYCdVaLm7R) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:09 |
-| 24 | [PRIMAVERA NA SELVA](https://open.spotify.com/track/2uutN6hM3ZuZOvu7OoowRo) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [TRÓPICO 96](https://open.spotify.com/album/7HVwretLZVvhXb2gApReVS) | 2:36 |
+| 23 | [PRIMAVERA NA SELVA](https://open.spotify.com/track/2uutN6hM3ZuZOvu7OoowRo) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [TRÓPICO 96](https://open.spotify.com/album/7HVwretLZVvhXb2gApReVS) | 2:36 |
+| 24 | [Perfeito É o Mar](https://open.spotify.com/track/6KLaWP1J5jjCHYCdVaLm7R) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:09 |
 | 25 | [Na Rua](https://open.spotify.com/track/6TwXnsObSHGAOKUbhxGmfC) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Versos e Voos](https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ) | 3:07 |
 | 26 | [Às Vezes](https://open.spotify.com/track/2YzH4Wg1ODbex0a1lxuZlY) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Ryam Beatz](https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY) | [Quase Pronta Mixtape](https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq) | 2:28 |
 | 27 | [Fé no caminho](https://open.spotify.com/track/6zVcsaPAIqzS6ykbxCHFb6) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Um Pouco de Mim](https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv) | 2:54 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 38527,
+  "num_followers": 38541,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZylgAAAAAABnNa9OiKMeS90IfLKz8W8v",
+  "snapshot_id": "ZyqxgAAAAADx0/mU+pPLCNfD6Ye3ATNU",
   "tracks": [
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Healer",
-        "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 223893,
-      "name": "Anything But Easy",
-      "url": "https://open.spotify.com/track/2D7d85KIN7zckN4g177TGE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Healer (Deluxe)",
         "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 192613,
       "name": "No Hurt",
       "url": "https://open.spotify.com/track/2GhHGQlN5X0KflaSxAuMZf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 223893,
+      "name": "Anything But Easy",
+      "url": "https://open.spotify.com/track/2D7d85KIN7zckN4g177TGE"
     },
     {
       "added_at": null,

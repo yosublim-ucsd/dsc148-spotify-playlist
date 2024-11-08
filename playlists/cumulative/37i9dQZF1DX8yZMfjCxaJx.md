@@ -4,7 +4,7 @@
 
 > Las favoritas de los patrones\. Tomás Ballardo en portada.
 
-198 songs - 10 hr 17 min
+199 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Desde La Prisión 19](https://open.spotify.com/track/5WKa58Z9qiOYdOwKw52KUg) | [Grupo Cartel](https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J) | [Desde La Prisión 19](https://open.spotify.com/album/1kdG9DtGQoZGHAEFd4lLQj) | 2:55 | 2024-04-26 |  |
 | [Desde Topo Hasta La Sierra](https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro), [Los Torrenciales de la Sierra](https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn) | [Desde Topo Hasta La Sierra](https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F) | 3:38 | 2024-01-26 |  |
 | [Don Cheyo Imperial](https://open.spotify.com/track/6bUi10rGDo5g2FKSPUUBmY) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Don Cheyo Imperial](https://open.spotify.com/album/6FMWZ9K8YlljAxvWdLBYOn) | 2:57 | 2024-02-09 | 2024-11-02 |
-| [Don Ismael](https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Don Ismael](https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj) | 2:38 | 2024-01-26 |  |
+| [Don Ismael](https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Don Ismael](https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj) | 2:38 | 2024-01-26 | 2024-11-08 |
 | [Don Mayo](https://open.spotify.com/track/7m6bPXQpytQk3Iyf5w1tbQ) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Don Mayo](https://open.spotify.com/album/61n5k372HW6UrPqiv9m7g5) | 3:11 | 2024-08-02 | 2024-09-14 |
 | [Déjenlos Pasar](https://open.spotify.com/track/0qsvu01LWI7F2MIVA0kjQm) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Déjenlos Pasar](https://open.spotify.com/album/4P66jwFhheR29rXvoV6fZO) | 2:04 | 2024-07-12 |  |
 | [El 4 a Arturo](https://open.spotify.com/track/0e2SmXRTe2sjGRlJSRZXPP) | [La Bertiniza De Culiacan](https://open.spotify.com/artist/7ky1WrqzDILf6obnwFMc8J), [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [El 4 a Arturo](https://open.spotify.com/album/6O9Fc8ghm8CmlRUy7XGe4k) | 3:57 | 2024-04-12 |  |
@@ -181,6 +181,7 @@
 | [Porte de Scarface](https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp) | 2:52 | 2024-02-23 | 2024-07-19 |
 | [Porto un Mini Draco](https://open.spotify.com/track/2LUP42XYxuMUa4T4RnVX4s) | [Diego DeLa Rosca](https://open.spotify.com/artist/5sEu1N2B7Y1VCPU8R4zmx6), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Porto un Mini Draco](https://open.spotify.com/album/6muXGSXytNzN9m3ppsAu0E) | 2:41 | 2024-10-18 |  |
 | [Que Empiece El Juego](https://open.spotify.com/track/6d4we28oTHN8qrkJXkZwrS) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Que Empiece El Juego](https://open.spotify.com/album/4b1B9h0jg1yaWQHkO9fdcf) | 2:29 | 2024-02-23 |  |
+| [R1](https://open.spotify.com/track/6wWU9kWh5wKjQv5QVuPyFn) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [MALA FAMA](https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7) | 1:56 | 2024-11-01 |  |
 | [Rugrats](https://open.spotify.com/track/5K9DHIEhqVe0S9hSkpePzg) | [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew), [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r), [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm) | [Rugrats](https://open.spotify.com/album/6DOhBzQidUt8NmzjGhUYf3) | 3:55 | 2024-04-26 |  |
 | [Se Nos Fue El 2](https://open.spotify.com/track/3FQto4FOM3TBDKSvSSXgEW) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 3:25 | 2024-11-01 |  |
 | [Serafín](https://open.spotify.com/track/7s9pcSenofBwaNfI0vjisP) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 3:09 | 2024-01-26 |  |

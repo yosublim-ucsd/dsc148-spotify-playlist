@@ -141,6 +141,28 @@
     },
     {
       "album": {
+        "name": "Afreen Afreen - Chillout Mix",
+        "url": "https://open.spotify.com/album/7yd19buyX1hHoL2elpoOYu"
+      },
+      "artists": [
+        {
+          "name": "Harshal Rajput",
+          "url": "https://open.spotify.com/artist/5zoUMrQEbTPTnFKgO8Xd6a"
+        },
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174489,
+      "name": "Afreen Afreen - Chillout Mix",
+      "url": "https://open.spotify.com/track/3JGZmr9lA9RlkLpVBRytbc"
+    },
+    {
+      "album": {
         "name": "Akhiyaan",
         "url": "https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL"
       },

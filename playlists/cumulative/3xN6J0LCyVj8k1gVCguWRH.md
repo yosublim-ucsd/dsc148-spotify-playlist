@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,128 songs - 9 day 15 hr 49 min
+4,130 songs - 9 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2181,6 +2181,7 @@
 | [Love Me Right](https://open.spotify.com/track/2FjJvbdHh8qMWcqTiI3d5o) | [Theresia Serena](https://open.spotify.com/artist/7C9CFrbBSANJZz3LYLFvOF) | [Love Me Right](https://open.spotify.com/album/1DY8rBBX7D0wuQj5AYccFc) | 2:34 | 2024-03-20 | 2024-06-19 |
 | [Love On](https://open.spotify.com/track/2jbINQDW1Us4NZdAfJXjmx) | [Lxy](https://open.spotify.com/artist/3wjJUzRPgTBE2iYar32TU0), [Jizoo](https://open.spotify.com/artist/3ZeIhB1kBwm2HvhFH3WNrg) | [Love On](https://open.spotify.com/album/16EoSKJjQNH7Ts863JLxB0) | 2:55 | 2023-08-16 | 2023-08-28 |
 | [Love On Me](https://open.spotify.com/track/5s6bFFN0SnAFy1TGLLr6gI) | [JAWACHI](https://open.spotify.com/artist/6PfaEYEkqN62IdEkM9FXe7), [Richie Volvo](https://open.spotify.com/artist/2A7hdBP0n9sKZWkVxeDhat) | [Love On Me](https://open.spotify.com/album/1fw7DWe1iOHWywPuEIWDtM) | 2:31 | 2024-06-28 | 2024-07-10 |
+| [Love Reservoir](https://open.spotify.com/track/0ckzBpHyjOxCwgE67V5goB) | [Frenchie](https://open.spotify.com/artist/11RwEPDXg0xuxLmfontXCJ), [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [Love Reservoir](https://open.spotify.com/album/6rEJeZWAqsnQ7AoZw29Lz3) | 4:04 | 2024-11-07 |  |
 | [Love Story](https://open.spotify.com/track/30uFI1KICQnH4N7wv0UQIh) | [JoiStaRR](https://open.spotify.com/artist/1IqGEfjh8ScdSV8jaHzHxN) | [Love Story](https://open.spotify.com/album/7hxnN9L47HBsqFGpUZ1SyY) | 3:36 | 2024-06-22 | 2024-07-03 |
 | [Love Takes Time](https://open.spotify.com/track/2ZFFCleIGb9a7sUe7wmJnO) | [Trevious](https://open.spotify.com/artist/2IsNkAtiS5MtqcOa1EFHZV), [Alexis Branch](https://open.spotify.com/artist/5gj32cR6y0FvOFiLY1R1qC) | [Special Delivery](https://open.spotify.com/album/583tJiSiBT4NluruEWXKqM) | 4:00 | 2020-03-09 | 2020-04-04 |
 | [Love Therapy](https://open.spotify.com/track/0uquBY5npv7rPcrQuJSIgu) | [Kei Taylor](https://open.spotify.com/artist/32sD3Ad4v0ty1Ykx3vL66Q) | [9pm: No Longer Dreaming](https://open.spotify.com/album/6MZ9mXRiH0bUHkDgn5A5dj) | 3:06 | 2023-02-24 | 2023-03-20 |
@@ -2689,6 +2690,7 @@
 | [Out On The Run](https://open.spotify.com/track/6hq2YzBeQENII2L7aCecCG) | [Jacob McCurdy](https://open.spotify.com/artist/0yA6Qdw3Ntzr0zhAo7T5Yx) | [Out On The Run](https://open.spotify.com/album/4yNGaYfvRtIDFzkBU7mbS5) | 4:31 | 2023-06-23 | 2023-07-14 |
 | [Outrageous](https://open.spotify.com/track/2DA5ttNg4GagqYheWK3idj) | [ZØYA ](https://open.spotify.com/artist/7l78f3ti1vKrEORMmQV3fg) | [Outrageous](https://open.spotify.com/album/3zEWdbQODUN0Tl9oqXaxnD) | 3:26 | 2020-11-06 | 2021-03-20 |
 | [Outrageous \- NATIIVE Remix](https://open.spotify.com/track/3BBSn2r31bk0SauGi3oBXu) | [ZØYA ](https://open.spotify.com/artist/7l78f3ti1vKrEORMmQV3fg), [NATIIVE](https://open.spotify.com/artist/7iHTJPF1k1e9SF1BwqbAe0) | [Outrageous \(NATIIVE Remix\)](https://open.spotify.com/album/6Zm0xi9FBm1cPvN19xxDUy) | 2:59 | 2020-11-06 | 2020-11-21 |
+| [Outside of Us](https://open.spotify.com/track/5Lz9hBk7YF4E52VNMcUL4S) | [Sasha Sky](https://open.spotify.com/artist/1oEWS0flnmCRKutZMCnsWX) | [Outside of Us](https://open.spotify.com/album/2U5GjrBaRcWjqoiWw6LMVy) | 3:41 | 2024-11-07 |  |
 | [Outta My Head](https://open.spotify.com/track/6hYsdQ4Ud56goejoqZSj3L) | [Rawdolff](https://open.spotify.com/artist/1uOdznwRu5THtldbzDFTGX), [Tara Mcdonald](https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct) | [Outta My Head](https://open.spotify.com/album/40v4LbJn8Vi7iCMlNspM7v) | 2:52 | 2021-05-21 | 2021-06-06 |
 | [Over and Over](https://open.spotify.com/track/2BODXOk8X37RsVZYJd8FXr) | [Anchored Collective](https://open.spotify.com/artist/5V0Y3BgVcnrxJCioMr1mvw), [Arsnøvä](https://open.spotify.com/artist/3vhqqkOtusdgbpr9336aFA), [Jordan Michael](https://open.spotify.com/artist/6l2M8zaAX04yO8DdayNVEP) | [Over and Over](https://open.spotify.com/album/6Ei8dCF1Pu6ehVKdKEDH5f) | 2:29 | 2023-06-22 | 2023-07-15 |
 | [Over The Wall](https://open.spotify.com/track/4PFnY7QyjyB6pMz77LjwUX) | [Jordana Talsky](https://open.spotify.com/artist/2wTLyQmAsnN2DsWDgwAQqC) | [Zahava](https://open.spotify.com/album/5Z4776irHlvg0n8aLGhTYU) | 4:20 | 2021-10-22 | 2021-11-07 |

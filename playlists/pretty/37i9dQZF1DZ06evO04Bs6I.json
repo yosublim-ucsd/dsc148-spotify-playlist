@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 110450,
+  "num_followers": 110483,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZylgAAAAAABr8iss4+Br98cyw4Mn18xU",
+  "snapshot_id": "ZyqxgAAAAABspQUSBwZoIGllfVfN/AZR",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Processo",
-        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "Em Troca",
-      "url": "https://open.spotify.com/track/0cYuoo4STj8htZVrh5w91U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bra\u00e7os de Amor",
         "url": "https://open.spotify.com/album/7DAsKDdhuzSZynB1fsCpig"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 332333,
       "name": "Bra\u00e7os de Amor",
       "url": "https://open.spotify.com/track/4ukZTbuGOaOhn0npxg2aQS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Processo",
+        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "Em Troca",
+      "url": "https://open.spotify.com/track/0cYuoo4STj8htZVrh5w91U"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bem Perto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2yBnldCguXVLd6kd78B4Xq"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 426318,
-      "name": "Bem Perto - Ao Vivo",
-      "url": "https://open.spotify.com/track/4KE3EfxxvBZwoLVB3gHCc2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seu Amor",
         "url": "https://open.spotify.com/album/08J3DhJqaCRwIGeIZL7FBl"
       },
@@ -715,26 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Faz Viver",
-        "url": "https://open.spotify.com/album/2BKs37OkjYgVvrzDnhxXqN"
+        "name": "Bem Perto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2yBnldCguXVLd6kd78B4Xq"
       },
       "artists": [
         {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
         },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 191552,
-      "name": "Eu Tenho Voc\u00ea (Remix)",
-      "url": "https://open.spotify.com/track/6scM0ZJ4QxPaAXkl7OCxcl"
+      "duration_ms": 426318,
+      "name": "Bem Perto - Ao Vivo",
+      "url": "https://open.spotify.com/track/4KE3EfxxvBZwoLVB3gHCc2"
     },
     {
       "added_at": null,
@@ -755,6 +731,30 @@
       "duration_ms": 487384,
       "name": "A Casa \u00e9 Sua + Labareda",
       "url": "https://open.spotify.com/track/5C4touLyxRJB5ES63KyX6r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Faz Viver",
+        "url": "https://open.spotify.com/album/2BKs37OkjYgVvrzDnhxXqN"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 191552,
+      "name": "Eu Tenho Voc\u00ea (Remix)",
+      "url": "https://open.spotify.com/track/6scM0ZJ4QxPaAXkl7OCxcl"
     },
     {
       "added_at": null,

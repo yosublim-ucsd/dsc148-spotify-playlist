@@ -1,6 +1,6 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 902583,
+  "num_followers": 902600,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Otro Lado",
-        "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
-      },
-      "artists": [
-        {
-          "name": "Rosario Ortega",
-          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
-        },
-        {
-          "name": "Nahuel Barbero",
-          "url": "https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I"
-        }
-      ],
-      "duration_ms": 231936,
-      "name": "Hablo Con Vos (feat. Nahuel Barbero)",
-      "url": "https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "cuarto pa' las doce",
         "url": "https://open.spotify.com/album/2ReN9ssYYTNOW3irKf5XB1"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 144255,
       "name": "cuarto pa' las doce",
       "url": "https://open.spotify.com/track/7ueobUrOSSrdjS8Jdjx5rx"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Otro Lado",
+        "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
+      },
+      "artists": [
+        {
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        },
+        {
+          "name": "Nahuel Barbero",
+          "url": "https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I"
+        }
+      ],
+      "duration_ms": 231936,
+      "name": "Hablo Con Vos (feat. Nahuel Barbero)",
+      "url": "https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "beat relajado para estudiar",
+        "url": "https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 250160,
+      "name": "beat relajado para estudiar",
+      "url": "https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Aqu\u00ed Estoy",
         "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 176033,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/22FInoTbMz4v3xGdZThI5p"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "demasiado poco (demasiado tarde)",
-        "url": "https://open.spotify.com/album/4kWZOpPZKxqZyG59mCY85F"
-      },
-      "artists": [
-        {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
-        }
-      ],
-      "duration_ms": 188376,
-      "name": "demasiado poco - demasiado tarde",
-      "url": "https://open.spotify.com/track/37u4ifh3hi3I9KpReEyL4S"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1139,34 +1139,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "beat relajado para estudiar",
-        "url": "https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx"
+        "name": "demasiado poco (demasiado tarde)",
+        "url": "https://open.spotify.com/album/4kWZOpPZKxqZyG59mCY85F"
       },
       "artists": [
         {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
         }
       ],
-      "duration_ms": 250160,
-      "name": "beat relajado para estudiar",
-      "url": "https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Lo que escrib\u00ed mientras no estabas :)",
-        "url": "https://open.spotify.com/album/4oJqkH55g9SByDb6H8vwZc"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Rubio",
-          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
-        }
-      ],
-      "duration_ms": 152256,
-      "name": "5 letras, 2 palabras",
-      "url": "https://open.spotify.com/track/4s3nqWkbqSisNpdrAPIwn3"
+      "duration_ms": 188376,
+      "name": "demasiado poco - demasiado tarde",
+      "url": "https://open.spotify.com/track/37u4ifh3hi3I9KpReEyL4S"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1183,6 +1167,22 @@
       "duration_ms": 191671,
       "name": "Pastelitos De Guayaba",
       "url": "https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Lo que escrib\u00ed mientras no estabas :)",
+        "url": "https://open.spotify.com/album/4oJqkH55g9SByDb6H8vwZc"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "duration_ms": 152256,
+      "name": "5 letras, 2 palabras",
+      "url": "https://open.spotify.com/track/4s3nqWkbqSisNpdrAPIwn3"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Justrylove (Chill&Go Remix)",
-        "url": "https://open.spotify.com/album/6YK11Ru4UJLSEMjdfpopbD"
-      },
-      "artists": [
-        {
-          "name": "Plano",
-          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
-        },
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 192105,
-      "name": "Justrylove (Chill&Go Remix)",
-      "url": "https://open.spotify.com/track/3rWccLg6nMDF851IqYmdf5"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "NICA",
         "url": "https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 212877,
       "name": "Amiga M\u00eda",
       "url": "https://open.spotify.com/track/2nDsjbGVU7aUGNuoAXCIlc"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Justrylove (Chill&Go Remix)",
+        "url": "https://open.spotify.com/album/6YK11Ru4UJLSEMjdfpopbD"
+      },
+      "artists": [
+        {
+          "name": "Plano",
+          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+        },
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 192105,
+      "name": "Justrylove (Chill&Go Remix)",
+      "url": "https://open.spotify.com/track/3rWccLg6nMDF851IqYmdf5"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Cardenal Cisneros",
-        "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 252973,
-      "name": "Cardenal Cisneros",
-      "url": "https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "fluye",
         "url": "https://open.spotify.com/album/3mJAwpV1KDVspcAijqtxLb"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 225230,
       "name": "lily",
       "url": "https://open.spotify.com/track/4hR01wP1VSBPgWKfSwBFoV"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Cardenal Cisneros",
+        "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 252973,
+      "name": "Cardenal Cisneros",
+      "url": "https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Conf\u00eden En M\u00ed",
-        "url": "https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy"
+        "name": "Luna Nueva",
+        "url": "https://open.spotify.com/album/2a3UaDCE1QsdZQJQpZhORL"
       },
       "artists": [
         {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+          "name": "Lim\u00f3n Blue",
+          "url": "https://open.spotify.com/artist/0YeHlqFonWybi5ErjP8wV0"
         }
       ],
-      "duration_ms": 108586,
-      "name": "No Eres T\u00fa, Soy Yo",
-      "url": "https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1"
+      "duration_ms": 223540,
+      "name": "Luna Nueva",
+      "url": "https://open.spotify.com/track/0SvxXdM7sXZkG2Kf4eolcO"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Luna Nueva",
-        "url": "https://open.spotify.com/album/2a3UaDCE1QsdZQJQpZhORL"
+        "name": "Conf\u00eden En M\u00ed",
+        "url": "https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy"
       },
       "artists": [
         {
-          "name": "Lim\u00f3n Blue",
-          "url": "https://open.spotify.com/artist/0YeHlqFonWybi5ErjP8wV0"
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
         }
       ],
-      "duration_ms": 223540,
-      "name": "Luna Nueva",
-      "url": "https://open.spotify.com/track/0SvxXdM7sXZkG2Kf4eolcO"
+      "duration_ms": 108586,
+      "name": "No Eres T\u00fa, Soy Yo",
+      "url": "https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1"
     },
     {
       "added_at": "2024-10-25 04:00:00",

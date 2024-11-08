@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Souldia",
-  "num_followers": 42459,
+  "num_followers": 42463,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -87,62 +87,18 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Guardia",
-        "url": "https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa"
+        "name": "CHROME",
+        "url": "https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX"
       },
       "artists": [
         {
-          "name": "Lartiste",
-          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
-        },
-        {
-          "name": "Maes",
-          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Guardia",
-      "url": "https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/67f3PjH1D4jG9wNHaVi7vv"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        },
-        {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
-        }
-      ],
-      "duration_ms": 261021,
-      "name": "911",
-      "url": "https://open.spotify.com/track/567I1pGlfAQUfHTMHbH6qj"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Tous les chemins",
-        "url": "https://open.spotify.com/album/1cZ3zNwKCvXzfJ0aGPeF0s"
-      },
-      "artists": [
-        {
-          "name": "Olivier Dion",
-          "url": "https://open.spotify.com/artist/0PruFnhaNaqZRPJO1s73Em"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "Tous les chemins",
-      "url": "https://open.spotify.com/track/4dPum4SYu0tDUJ8A4KhDWF"
+      "duration_ms": 155066,
+      "name": "CHROME",
+      "url": "https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -163,6 +119,42 @@
       "duration_ms": 216261,
       "name": "POP (feat. La Mano 1.9)",
       "url": "https://open.spotify.com/track/23fxyoCF4qEXS5RSZ8xWPq"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Tous les chemins",
+        "url": "https://open.spotify.com/album/1cZ3zNwKCvXzfJ0aGPeF0s"
+      },
+      "artists": [
+        {
+          "name": "Olivier Dion",
+          "url": "https://open.spotify.com/artist/0PruFnhaNaqZRPJO1s73Em"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "Tous les chemins",
+      "url": "https://open.spotify.com/track/4dPum4SYu0tDUJ8A4KhDWF"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Guardia",
+        "url": "https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa"
+      },
+      "artists": [
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        },
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Guardia",
+      "url": "https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -219,6 +211,30 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/67f3PjH1D4jG9wNHaVi7vv"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "duration_ms": 261021,
+      "name": "911",
+      "url": "https://open.spotify.com/track/567I1pGlfAQUfHTMHbH6qj"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "TOKA",
         "url": "https://open.spotify.com/album/0HlEoKZA4pKYoae4zRWu7g"
       },
@@ -239,18 +255,18 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "CHROME",
-        "url": "https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX"
+        "name": "Stigmates",
+        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
       },
       "artists": [
         {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
         }
       ],
-      "duration_ms": 155066,
-      "name": "CHROME",
-      "url": "https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg"
+      "duration_ms": 293746,
+      "name": "Stigmates",
+      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -267,22 +283,6 @@
       "duration_ms": 229939,
       "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
       "url": "https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Stigmates",
-        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 293746,
-      "name": "Stigmates",
-      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Bazar",
+        "url": "https://open.spotify.com/album/1N9W4DaURi0lQYOM7DpsDW"
+      },
+      "artists": [
+        {
+          "name": "Hatik",
+          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
+        }
+      ],
+      "duration_ms": 166322,
+      "name": "Bazar",
+      "url": "https://open.spotify.com/track/4khrqV7xYJWCk0sesxhtwt"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "'Ndrangheta",
         "url": "https://open.spotify.com/album/4kw0UnPmDjw1m1kFhhmDWF"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 161079,
       "name": "'Ndrangheta",
       "url": "https://open.spotify.com/track/1oVh1vm3jJVugrY0hTHkFO"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Bazar",
-        "url": "https://open.spotify.com/album/1N9W4DaURi0lQYOM7DpsDW"
-      },
-      "artists": [
-        {
-          "name": "Hatik",
-          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
-        }
-      ],
-      "duration_ms": 166322,
-      "name": "Bazar",
-      "url": "https://open.spotify.com/track/4khrqV7xYJWCk0sesxhtwt"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Je t'ai cherch\u00e9",
-        "url": "https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O"
-      },
-      "artists": [
-        {
-          "name": "Lara Fabian",
-          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
-        }
-      ],
-      "duration_ms": 216159,
-      "name": "Je t'ai cherch\u00e9",
-      "url": "https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "soleil",
         "url": "https://open.spotify.com/album/2Qekmf7UNnDE83P1waFV9x"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Je t'ai cherch\u00e9",
+        "url": "https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O"
+      },
+      "artists": [
+        {
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+        }
+      ],
+      "duration_ms": 216159,
+      "name": "Je t'ai cherch\u00e9",
+      "url": "https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "La v\u00e9rit\u00e9",
         "url": "https://open.spotify.com/album/7e8nS0AlDriC8MoE3ybRj9"
       },
@@ -815,26 +815,6 @@
       "duration_ms": 140583,
       "name": "La v\u00e9rit\u00e9",
       "url": "https://open.spotify.com/track/5vbWxSxdmhXpAtgw44ykAP"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "On s'\u00e9crira",
-        "url": "https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs"
-      },
-      "artists": [
-        {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
-        },
-        {
-          "name": "Lo\u00efc Nottet",
-          "url": "https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu"
-        }
-      ],
-      "duration_ms": 172080,
-      "name": "On s'\u00e9crira",
-      "url": "https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -855,6 +835,26 @@
       "duration_ms": 194311,
       "name": "NO LIMIT",
       "url": "https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "On s'\u00e9crira",
+        "url": "https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        },
+        {
+          "name": "Lo\u00efc Nottet",
+          "url": "https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu"
+        }
+      ],
+      "duration_ms": 172080,
+      "name": "On s'\u00e9crira",
+      "url": "https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD"
     },
     {
       "added_at": "2024-11-01 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36793,
+  "num_followers": 36792,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-11-05 15:37:50",
       "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K"
+      },
+      "artists": [
+        {
+          "name": "MAREA",
+          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
+        }
+      ],
+      "duration_ms": 167701,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u"
+    },
+    {
+      "added_at": "2024-11-05 15:37:50",
+      "album": {
         "name": "For The Night",
         "url": "https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 157440,
       "name": "For The Night",
       "url": "https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR"
-    },
-    {
-      "added_at": "2024-11-05 15:37:50",
-      "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K"
-      },
-      "artists": [
-        {
-          "name": "MAREA",
-          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
-        }
-      ],
-      "duration_ms": 167701,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u"
     },
     {
       "added_at": "2024-11-05 15:37:50",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-11-05 15:37:50",
       "album": {
+        "name": "i always remember all of my dreams",
+        "url": "https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 171800,
+      "name": "that life",
+      "url": "https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk"
+    },
+    {
+      "added_at": "2024-11-05 15:37:50",
+      "album": {
         "name": "Heaven or Hell",
         "url": "https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 215300,
       "name": "Heal Me",
       "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
-    },
-    {
-      "added_at": "2024-11-05 15:37:50",
-      "album": {
-        "name": "i always remember all of my dreams",
-        "url": "https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "that life",
-      "url": "https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk"
     },
     {
       "added_at": "2024-11-05 15:37:50",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-11-05 15:37:50",
       "album": {
-        "name": "Where Were You",
-        "url": "https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG"
+        "name": "Trade Hearts",
+        "url": "https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28"
       },
       "artists": [
         {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
         }
       ],
-      "duration_ms": 162836,
-      "name": "Where Were You",
-      "url": "https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ"
+      "duration_ms": 174786,
+      "name": "Trade Hearts",
+      "url": "https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT"
     },
     {
       "added_at": "2024-11-05 15:37:50",
@@ -875,34 +875,18 @@
     {
       "added_at": "2024-11-05 15:37:50",
       "album": {
-        "name": "Trade Hearts",
-        "url": "https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28"
+        "name": "Where Were You",
+        "url": "https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG"
       },
       "artists": [
         {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
         }
       ],
-      "duration_ms": 174786,
-      "name": "Trade Hearts",
-      "url": "https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT"
-    },
-    {
-      "added_at": "2024-11-05 15:37:50",
-      "album": {
-        "name": "Julia",
-        "url": "https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk"
-      },
-      "artists": [
-        {
-          "name": "Andryy",
-          "url": "https://open.spotify.com/artist/7EOSMyuCedHppuXhVBsbEP"
-        }
-      ],
-      "duration_ms": 194379,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/6CTHHyCpJqqZiHQ8IdTKX3"
+      "duration_ms": 162836,
+      "name": "Where Were You",
+      "url": "https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ"
     },
     {
       "added_at": "2024-11-05 15:37:50",
@@ -919,6 +903,22 @@
       "duration_ms": 164089,
       "name": "Coastline",
       "url": "https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV"
+    },
+    {
+      "added_at": "2024-11-05 15:37:50",
+      "album": {
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk"
+      },
+      "artists": [
+        {
+          "name": "Andryy",
+          "url": "https://open.spotify.com/artist/7EOSMyuCedHppuXhVBsbEP"
+        }
+      ],
+      "duration_ms": 194379,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/6CTHHyCpJqqZiHQ8IdTKX3"
     },
     {
       "added_at": "2024-11-05 15:37:50",
@@ -955,18 +955,22 @@
     {
       "added_at": "2024-11-05 15:37:50",
       "album": {
-        "name": "MOVIE",
-        "url": "https://open.spotify.com/album/0KdfnlW2K5kkELz1nVgAsX"
+        "name": "Libertad",
+        "url": "https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw"
       },
       "artists": [
         {
-          "name": "James Gruntz",
-          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        },
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
         }
       ],
-      "duration_ms": 221427,
-      "name": "MOVIE",
-      "url": "https://open.spotify.com/track/0r8UouuzeMayDncGRbkEzw"
+      "duration_ms": 201875,
+      "name": "Just Like I Love You",
+      "url": "https://open.spotify.com/track/7z5EIeDKgPukdh3sve82xJ"
     },
     {
       "added_at": "2024-11-05 15:37:50",
@@ -987,6 +991,22 @@
     {
       "added_at": "2024-11-05 15:37:50",
       "album": {
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/0KdfnlW2K5kkELz1nVgAsX"
+      },
+      "artists": [
+        {
+          "name": "James Gruntz",
+          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
+        }
+      ],
+      "duration_ms": 221427,
+      "name": "MOVIE",
+      "url": "https://open.spotify.com/track/0r8UouuzeMayDncGRbkEzw"
+    },
+    {
+      "added_at": "2024-11-05 15:37:50",
+      "album": {
         "name": "Only One I Need",
         "url": "https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 146546,
       "name": "Only One I Need",
       "url": "https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q"
-    },
-    {
-      "added_at": "2024-11-05 15:37:50",
-      "album": {
-        "name": "Libertad",
-        "url": "https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw"
-      },
-      "artists": [
-        {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        },
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        }
-      ],
-      "duration_ms": 201875,
-      "name": "Just Like I Love You",
-      "url": "https://open.spotify.com/track/7z5EIeDKgPukdh3sve82xJ"
     },
     {
       "added_at": "2024-11-05 15:37:50",
@@ -1059,38 +1059,6 @@
     {
       "added_at": "2024-11-05 15:37:50",
       "album": {
-        "name": "Teary-Eyed",
-        "url": "https://open.spotify.com/album/0mIPQTtZphFbz2dghvqxa4"
-      },
-      "artists": [
-        {
-          "name": "DANA",
-          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
-        }
-      ],
-      "duration_ms": 158733,
-      "name": "Kale Juice",
-      "url": "https://open.spotify.com/track/7xJ0Lpz7f3LNWDpRyOzbzo"
-    },
-    {
-      "added_at": "2024-11-05 15:37:50",
-      "album": {
-        "name": "2560",
-        "url": "https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv"
-      },
-      "artists": [
-        {
-          "name": "James Gruntz",
-          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
-        }
-      ],
-      "duration_ms": 198586,
-      "name": "2560",
-      "url": "https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o"
-    },
-    {
-      "added_at": "2024-11-05 15:37:50",
-      "album": {
         "name": "Prosecco",
         "url": "https://open.spotify.com/album/4fDTqKqjw8HO5gTLdyU6ug"
       },
@@ -1123,18 +1091,18 @@
     {
       "added_at": "2024-11-05 15:37:50",
       "album": {
-        "name": "Beautiful Day",
-        "url": "https://open.spotify.com/album/7m3bKbUMuXUsACiThMLwHy"
+        "name": "Teary-Eyed",
+        "url": "https://open.spotify.com/album/0mIPQTtZphFbz2dghvqxa4"
       },
       "artists": [
         {
-          "name": "Gil Glaze",
-          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
         }
       ],
-      "duration_ms": 185759,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/24m4OLGaRuelACY0k1SbqP"
+      "duration_ms": 158733,
+      "name": "Kale Juice",
+      "url": "https://open.spotify.com/track/7xJ0Lpz7f3LNWDpRyOzbzo"
     },
     {
       "added_at": "2024-11-05 15:37:50",
@@ -1155,18 +1123,54 @@
     {
       "added_at": "2024-11-05 15:37:50",
       "album": {
-        "name": "Old Again",
-        "url": "https://open.spotify.com/album/4gI5q0KtsUXV8lNzSVeM5T"
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/7m3bKbUMuXUsACiThMLwHy"
       },
       "artists": [
         {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
         }
       ],
-      "duration_ms": 197458,
-      "name": "Old Again",
-      "url": "https://open.spotify.com/track/5rU1wFFx3mWFVm2UcTg2Y3"
+      "duration_ms": 185759,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/24m4OLGaRuelACY0k1SbqP"
+    },
+    {
+      "added_at": "2024-11-05 15:37:50",
+      "album": {
+        "name": "2560",
+        "url": "https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv"
+      },
+      "artists": [
+        {
+          "name": "James Gruntz",
+          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
+        }
+      ],
+      "duration_ms": 198586,
+      "name": "2560",
+      "url": "https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o"
+    },
+    {
+      "added_at": "2024-11-05 15:37:50",
+      "album": {
+        "name": "Neui Welt (feat. Adrian Stern)",
+        "url": "https://open.spotify.com/album/54VNWPvDVs5dRHalNJB0ki"
+      },
+      "artists": [
+        {
+          "name": "Dodo",
+          "url": "https://open.spotify.com/artist/5x0wy0trcqYLvwUG5PFmQL"
+        },
+        {
+          "name": "Adrian Stern",
+          "url": "https://open.spotify.com/artist/0xyuoDGMf5zdxyAttFCSpX"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "Neui Welt (feat. Adrian Stern)",
+      "url": "https://open.spotify.com/track/16q5oIhLu2pWxcAXen7p6D"
     }
   ],
   "unique_name": "Swiss Made",

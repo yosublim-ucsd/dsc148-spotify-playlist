@@ -8462,7 +8462,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 146742,
       "name": "Rollie",
       "url": "https://open.spotify.com/track/0saDGGBSayvyvRZzTNnFH5"
@@ -10122,6 +10122,28 @@
       "duration_ms": 146000,
       "name": "Udda Adda",
       "url": "https://open.spotify.com/track/5l73e044D6SL8IrgKtQzbn"
+    },
+    {
+      "album": {
+        "name": "Uddda Punjab",
+        "url": "https://open.spotify.com/album/399GRdy23FNh6LAxlgSmyz"
+      },
+      "artists": [
+        {
+          "name": "Gurlluv",
+          "url": "https://open.spotify.com/artist/2iMoPGUtShi83odOZ7Eirj"
+        },
+        {
+          "name": "Master Mind",
+          "url": "https://open.spotify.com/artist/2YeNjkqQUEPNtoEryZYbdz"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168929,
+      "name": "Uddda Punjab",
+      "url": "https://open.spotify.com/track/5i5JOVTr0il2Hki4ItgMMV"
     },
     {
       "album": {

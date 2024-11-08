@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 秦 基博 + 草野マサムネ \*👉 <a href="https://spice.eplus.jp/articles/333214?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,711 likes - 95 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,728 likes - 95 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 80 | [Schmerz](https://open.spotify.com/track/5xeD8ZfRdinMDzUfaw1T4B) | [\-真天地開闢集団\-ジグザグ](https://open.spotify.com/artist/6X80cxJKMsSqzFmwHX7QCu) | [Gran ∞ Grace](https://open.spotify.com/album/4T8vKqEfLe7aS914pjg7A3) | 3:01 |
 | 81 | [SOMETHINGOOD](https://open.spotify.com/track/2gGWGrNa2y9TjH27Qspm27) | [Tha Omedetaz](https://open.spotify.com/artist/3tYjCmnVPzQP8lzbZzJfzL) | [COLLECT10N](https://open.spotify.com/album/54YBKexdhRN4F2xrasi7wo) | 3:42 |
 | 82 | [RAISING UP THE HEAT](https://open.spotify.com/track/26Y3oT2V118Hu2PgABHBMT) | [TAKUMI](https://open.spotify.com/artist/4WoHWcWvbQSg7fW9zfHPys) | [RAISING UP THE HEAT](https://open.spotify.com/album/5GJWDsGWFxYW1ZWEyFONfL) | 2:44 |
-| 83 | [Math Burger](https://open.spotify.com/track/2A1YMcmnKEeMuXrN7abHMU) | [Panorama Panama Town](https://open.spotify.com/artist/7sfAmVy66Zdt9ykZwcg7hf) | [Math Burger](https://open.spotify.com/album/44YdhcTetlE6ezBMt2OdnN) | 2:53 |
+| 83 | [Math Burger](https://open.spotify.com/track/2A1YMcmnKEeMuXrN7abHMU) | [Panorama Panama Town](https://open.spotify.com/artist/7sfAmVy66Zdt9ykZwcg7hf) | [Math Burger](https://open.spotify.com/album/44YdhcTetlE6ezBMt2OdnN) | 2:51 |
 | 84 | [DIVE!!!](https://open.spotify.com/track/1pc34YhP1c2OYOzEG3eUEQ) | [skaskaskaclub](https://open.spotify.com/artist/4fYQktTqLvpdHtd8Ue87Fq) | [SKA! SKA! SKA!?](https://open.spotify.com/album/1SXRbcrIquZ3UNLsHP7rWA) | 2:43 |
 | 85 | [ラブリーベイビー](https://open.spotify.com/track/4vxdk93S9U0gfSLg1GYxQC) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [意地と光](https://open.spotify.com/album/5bGkOLzV6DxWEBYtnqAOLH) | 3:57 |
 | 86 | [いっちょくせんだいさくせん！](https://open.spotify.com/track/2yAsp11KiDEICip1O6vWl2) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [いっちょくせんだいさくせん！](https://open.spotify.com/album/5Vz0kIPdsGmka8L71ZLG7w) | 3:45 |

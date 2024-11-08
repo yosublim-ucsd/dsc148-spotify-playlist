@@ -211,6 +211,28 @@
     },
     {
       "album": {
+        "name": "Aqu\u00ed Tal Vez",
+        "url": "https://open.spotify.com/album/0j5aSXUhaGsSvdwQ4QwOVI"
+      },
+      "artists": [
+        {
+          "name": "EnSecreto",
+          "url": "https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju"
+        },
+        {
+          "name": "JeanPatrick",
+          "url": "https://open.spotify.com/artist/2LeoKJiUP0Sz8k2bH8IDbu"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196923,
+      "name": "Aqu\u00ed Tal Vez",
+      "url": "https://open.spotify.com/track/5FbGyCGFYVafzQyXK4fHDP"
+    },
+    {
+      "album": {
         "name": "Arde",
         "url": "https://open.spotify.com/album/24JvZOj09o2rTeLXDWR8mC"
       },
@@ -3912,6 +3934,28 @@
       "duration_ms": 216386,
       "name": "Semilla",
       "url": "https://open.spotify.com/track/5jIhasjpf5Wf9aiZncqq6N"
+    },
+    {
+      "album": {
+        "name": "Ser\u00e1",
+        "url": "https://open.spotify.com/album/2BRC5OXxwXbizJAzgi0XPb"
+      },
+      "artists": [
+        {
+          "name": "Bronko Yotte",
+          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
+        },
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136880,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/7c6WO7lBfDULc30v9BHwFy"
     },
     {
       "album": {

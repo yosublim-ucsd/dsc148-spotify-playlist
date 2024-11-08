@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 627388,
+  "num_followers": 627694,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Exotica",
-        "url": "https://open.spotify.com/album/1IeEUrtmzQGatMM6uIA1in"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 195704,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/1zsFr9rPcsMwRtqjDJJpnC"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 209208,
       "name": "Headlights (feat. Ilsey)",
       "url": "https://open.spotify.com/track/0tDC3KJPPu5eonGTtCURpq"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/1IeEUrtmzQGatMM6uIA1in"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "duration_ms": 195704,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/1zsFr9rPcsMwRtqjDJJpnC"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Karibu",
-        "url": "https://open.spotify.com/album/400Ymai2y2a12EvkEUEx7p"
-      },
-      "artists": [
-        {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Karibu",
-      "url": "https://open.spotify.com/track/38FWbKB13dMOGf2oJhSZ10"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Reality",
         "url": "https://open.spotify.com/album/7JhwZ7qr8knsl9iX1lidtx"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 159480,
       "name": "Reality",
       "url": "https://open.spotify.com/track/5Xu7nrKiVHslrdlNHRsSsP"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Karibu",
+        "url": "https://open.spotify.com/album/400Ymai2y2a12EvkEUEx7p"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Karibu",
+      "url": "https://open.spotify.com/track/38FWbKB13dMOGf2oJhSZ10"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Oceans Away",
+        "url": "https://open.spotify.com/album/4JXvWkSdccqwwRJBVvF4Oq"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 193981,
+      "name": "Oceans Away",
+      "url": "https://open.spotify.com/track/4NJpJ17Dgm5r4OYExFbxLk"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Skin: The Remixes",
         "url": "https://open.spotify.com/album/0zHb7F613s95pFWQhgXQ9w"
       },
@@ -2067,22 +2083,6 @@
       "duration_ms": 267200,
       "name": "Say It - Illenium Remix",
       "url": "https://open.spotify.com/track/0vxudxUod8FTiwE6dYohiH"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Oceans Away",
-        "url": "https://open.spotify.com/album/4JXvWkSdccqwwRJBVvF4Oq"
-      },
-      "artists": [
-        {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        }
-      ],
-      "duration_ms": 193981,
-      "name": "Oceans Away",
-      "url": "https://open.spotify.com/track/4NJpJ17Dgm5r4OYExFbxLk"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Better Love",
-        "url": "https://open.spotify.com/album/0delJu1UUzdBfufg94lbME"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        }
-      ],
-      "duration_ms": 138080,
-      "name": "Better Love",
-      "url": "https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "There's Another Life 4 U / So Long",
         "url": "https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 213987,
       "name": "There's Another Life 4 U",
       "url": "https://open.spotify.com/track/4LiZi2fbEIxcC9tZUtu0WW"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Better Love",
+        "url": "https://open.spotify.com/album/0delJu1UUzdBfufg94lbME"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "duration_ms": 138080,
+      "name": "Better Love",
+      "url": "https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -2399,6 +2399,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "What I Might Do",
+        "url": "https://open.spotify.com/album/3VtlqArHkrgbtwi16lC5eC"
+      },
+      "artists": [
+        {
+          "name": "Ben Pearce",
+          "url": "https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz"
+        }
+      ],
+      "duration_ms": 195746,
+      "name": "What I Might Do - Radio Edit",
+      "url": "https://open.spotify.com/track/0kHGBjQbl2BLScC28AIDLz"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Buscando Money",
         "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
       },
@@ -2415,22 +2431,6 @@
       "duration_ms": 150000,
       "name": "Buscando Money",
       "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "What I Might Do",
-        "url": "https://open.spotify.com/album/3VtlqArHkrgbtwi16lC5eC"
-      },
-      "artists": [
-        {
-          "name": "Ben Pearce",
-          "url": "https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz"
-        }
-      ],
-      "duration_ms": 195746,
-      "name": "What I Might Do - Radio Edit",
-      "url": "https://open.spotify.com/track/0kHGBjQbl2BLScC28AIDLz"
     },
     {
       "added_at": "2024-09-06 04:00:00",

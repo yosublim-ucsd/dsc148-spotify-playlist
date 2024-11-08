@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 224008,
+  "num_followers": 224013,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZylgAAAAAADTsCIOe9rbHJTHjEbQY7C+",
+  "snapshot_id": "ZyqxgAAAAAB6D5tin7V06a3t1ljVB/gc",
   "tracks": [
     {
       "added_at": null,
@@ -1059,22 +1059,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fan of A Fan The Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
+        "name": "Spooky",
+        "url": "https://open.spotify.com/album/6Vr1Oka5UO0OoUaI1uS9mP"
       },
       "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
         {
           "name": "Tyga",
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 213400,
-      "name": "Girl You Loud",
-      "url": "https://open.spotify.com/track/6dRVOzSxLqRdqUjc9mctGg"
+      "duration_ms": 138166,
+      "name": "Spooky",
+      "url": "https://open.spotify.com/track/2A84lw9cQnuW1BD4EWIjrs"
     }
   ],
   "unique_name": "This Is Tyga",

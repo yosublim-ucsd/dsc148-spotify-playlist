@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-626 songs - 1 day 7 hr 42 min
+627 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [numbers](https://open.spotify.com/track/4qF8OCdowrImJ8To54Xfzo) | [Meggie York](https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ) | [numbers](https://open.spotify.com/album/04MxkL5HrdLkF7SXqtxW2D) | 2:35 | 2023-03-10 | 2023-08-10 |
 | [Nunca](https://open.spotify.com/track/39tVEd3FP8xQix5eOEsnZT) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Maria\-Lea](https://open.spotify.com/artist/3JJ77d8rkL5KfvNNOjp3zg) | [Nunca](https://open.spotify.com/album/5wWjtihZAD8ckCkEhJHgYa) | 2:31 | 2023-12-13 | 2024-04-17 |
 | [Oblivion](https://open.spotify.com/track/6bN5PBFSID6w7Uhmachnda) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0) | [Oblivion](https://open.spotify.com/album/3OIFSAU72optxkAdxjyoUF) | 3:50 | 2023-08-08 | 2024-01-13 |
+| [Obsession](https://open.spotify.com/track/5uyPa82qavxzj8sC7qc3tA) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Obsession](https://open.spotify.com/album/0Sr7BLnV9KealMqokmrn8Z) | 3:24 | 2024-11-07 |  |
 | [OFFLINE](https://open.spotify.com/track/1OJCShDuK5Nt65EvtzOKER) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [eerie](https://open.spotify.com/artist/34Ms8SDF1EGvcSULOKjgaV) | [OFFLINE](https://open.spotify.com/album/35HuahdvG1p9pFHllhSAAX) | 2:39 | 2024-07-11 |  |
 | [Oh My Gawd](https://open.spotify.com/track/3wBFnFG8GTTdY6VzMyJ1wQ) | [Crushed Candy](https://open.spotify.com/artist/14eHJcsWsxWq4UjaXBvmJ1) | [Oh My Gawd](https://open.spotify.com/album/3VRnwIygZQl33g9i4C2L5Q) | 2:04 | 2024-02-06 | 2024-09-29 |
 | [Old School](https://open.spotify.com/track/2H1M1zD08kZI5GuG4smljN) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Old School](https://open.spotify.com/album/5TZ5biaTPYvsVqw1VPsQQ5) | 2:44 | 2022-07-08 | 2023-04-28 |

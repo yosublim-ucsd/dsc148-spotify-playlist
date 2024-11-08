@@ -4,7 +4,7 @@
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-73 songs - 3 hr 41 min
+75 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,10 +36,12 @@
 | [Awakening 963Hz](https://open.spotify.com/track/3esXbDq3DkYOrguFP0TXxd) | [Ancient Practicer](https://open.spotify.com/artist/7iA6wah9iVlbJ1xxk9RVA7) | [Awakening 963Hz](https://open.spotify.com/album/69JaKptJXvQ0n2HIKohN20) | 2:23 | 2023-11-30 |  |
 | [Awakenings 963 Hz](https://open.spotify.com/track/5P6uUeAbSHo0R9bK70EkTF) | [Hertz\-Hunters](https://open.spotify.com/artist/2W9CWHtfJa5eJn2QTvK6KX) | [Awakenings 936 & 432 Hz](https://open.spotify.com/album/3YhHDGqFGh26adfwhwmjTT) | 3:26 | 2023-07-13 |  |
 | [B \(Crown Chakra\)](https://open.spotify.com/track/02ileubP6RE16EKbkS4Lxk) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO) | [Singing Bowls \(Zen Tones for Meditation, Acupuncture, Reiki, Qi\-Gong, Sound Therapy and Metaphysical Healers\)](https://open.spotify.com/album/3nUjK5dYNgtQxol98A9HMU) | 1:00 | 2023-07-13 | 2023-12-01 |
+| [Blue Sky \- 963 Hz](https://open.spotify.com/track/4CwkaRpzuBA0Vdq9x3cU6r) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Blue Sky \- 963 Hz](https://open.spotify.com/album/1TVerLmogv9w6kM1VhwaeE) | 2:06 | 2024-11-07 |  |
 | [Chakra Healing](https://open.spotify.com/track/0uMK8rvIDTz9B1wakrMdkd) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Chakra Healing](https://open.spotify.com/album/2E53QAT0NpsO0QTzh1zwg9) | 4:13 | 2023-07-13 |  |
 | [Chakra Healing Bowl \(Sound Bath\)](https://open.spotify.com/track/0xbn3eRyGE0CWzYgl2kNOG) | [EXOPIRS](https://open.spotify.com/artist/2Q0Qqbi8FdkM0oBsOQaqyE) | [Meditation Sounds](https://open.spotify.com/album/3oMUxmMSX0gza3sPwhsU20) | 3:04 | 2023-07-13 | 2023-12-01 |
 | [Clear Thoughts 963 Hz](https://open.spotify.com/track/6U6bqFochoIv5csr5r98Gk) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Clear Thoughts 963 Hz](https://open.spotify.com/album/4N2Sj7ptvj0cuKxaarrFXk) | 2:30 | 2023-07-13 |  |
 | [Cloudland Meditation 963 Hz](https://open.spotify.com/track/1voYfiVkjfnlSZkL5F5cN7) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Cloudland Meditation 963 Hz](https://open.spotify.com/album/4HWGEX0udBWkhxZqGVkvLJ) | 3:23 | 2024-05-11 |  |
+| [Connectivity \- 963Hz](https://open.spotify.com/track/2907ru75CCt8KynAgTrEo5) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Connectivity \- 963Hz](https://open.spotify.com/album/3lHT5azF1DYRpQFc7MlyAE) | 2:33 | 2024-11-07 |  |
 | [Crown](https://open.spotify.com/track/710CYEvGVvt42z3PBd7OU8) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:00 | 2023-07-13 |  |
 | [Crown Chakra](https://open.spotify.com/track/7e4VVEtuJaR31tAihmuASY) | [J.S\. Epperson](https://open.spotify.com/artist/6TszRl42IkrELc7p9a611Y) | [Splendor \(432hz Chakra Meditations\)](https://open.spotify.com/album/5zq3f6Cdg9rDBXnx6WwvsH) | 9:00 | 2023-07-13 | 2023-12-01 |
 | [Crown Chakra \- Asian Flute for Centering](https://open.spotify.com/track/0BK6O7XWuSGQTZPe2nJ4EW) | [Massage Tribe](https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C) | [Chakra Healing \- Massage & Meditation: Tibetan Singing Bowls & Native Flute](https://open.spotify.com/album/7FWWljVBhFUQsc9pF8nkNa) | 5:12 | 2023-07-13 | 2023-12-01 |

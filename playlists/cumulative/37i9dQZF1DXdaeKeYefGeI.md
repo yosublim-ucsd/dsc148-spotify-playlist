@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Ernst Jansz
 
-185 songs - 11 hr 23 min
+186 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [De wedstrijd](https://open.spotify.com/track/5Dxa2mLRNttIlADdbUjY1e) | [Bram Vermeulen](https://open.spotify.com/artist/4ymKPNzHwzhCvJbOGWLviV) | [Voltooid Verleden Tijd](https://open.spotify.com/album/7qYL5WgJIzwEYCZszBG5vO) | 5:01 | 2023-05-15 |  |
 | [De Weg](https://open.spotify.com/track/3UY1sWsqEYx7fgRBU0ItF7) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [De Weg](https://open.spotify.com/album/7n9NfMSnYi59u7vGSelWAn) | 3:19 | 2023-02-10 |  |
 | [De Wind Draait](https://open.spotify.com/track/0tkGmIB8BZpoy68YuguCXi) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Beste Zangers 2024 \(Tangarine\)](https://open.spotify.com/album/4yvQHgjHWtaIOwSFRcxb0S) | 3:45 | 2024-10-03 |  |
-| [Die ene die](https://open.spotify.com/track/1i7VVvxvIrpdfmwj7nhByz) | [Ernst Jansz](https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92) | [Die ene die](https://open.spotify.com/album/5O238Lz2YRykCrTiSol9ki) | 3:28 | 2024-10-10 |  |
+| [Die ene die](https://open.spotify.com/track/1i7VVvxvIrpdfmwj7nhByz) | [Ernst Jansz](https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92) | [Die ene die](https://open.spotify.com/album/5O238Lz2YRykCrTiSol9ki) | 3:28 | 2024-10-10 | 2024-11-08 |
 | [Door De Wind](https://open.spotify.com/track/58trym7xUwRuXnBY7hKqC9) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Beste Zangers Seizoen 2020 \(Miss Montreal\)](https://open.spotify.com/album/51TTjYKKpHX2zlaRejnpaS) | 2:50 | 2024-04-18 |  |
 | [Door De Wind](https://open.spotify.com/track/3h7NZT1CATbn4GqUs51vwf) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2020 \(Miss Montreal\)](https://open.spotify.com/album/6g8ZS309YWXN7pUzfBQYhB) | 2:50 | 2023-02-10 | 2024-04-19 |
 | [Dorp Van Hop En Van Mout](https://open.spotify.com/track/0LIjzIgfv2K3zanAiJgNKc) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Dorp Van Hop En Van Mout](https://open.spotify.com/album/4ZlSQQ2ZKjcN5tQ3sU1pDm) | 4:52 | 2023-10-12 | 2023-12-14 |
@@ -133,6 +133,7 @@
 | [Niemand In De Stad](https://open.spotify.com/track/3dE95e0gGFeoPPRt4njApK) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Het Beste Van](https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc) | 4:51 | 2023-02-10 | 2023-12-14 |
 | [Niet Of Nooit Geweest](https://open.spotify.com/track/4439gDsZasiXC4mGpw6yJc) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Naar Huis](https://open.spotify.com/album/3FN2HuiYuwTvIueH6LOmEg) | 4:02 | 2023-02-10 | 2023-04-07 |
 | [Nooit meer van God los](https://open.spotify.com/track/7wJsXhYmhctZfCYqV4ape3) | [Hans De Booij](https://open.spotify.com/artist/7cdRThov7spzODFHbygauO), [Jacco Wynia](https://open.spotify.com/artist/2eECDzEtWx8eIi22B4rCAn) | [Nooit meer van God los](https://open.spotify.com/album/3jKnaMHuS5aXneVwSnLarK) | 3:06 | 2023-04-06 | 2024-05-10 |
+| [Nu jij dan bent geboren](https://open.spotify.com/track/441HNWL3Vau3QAL9XHMeiw) | [Ernst Jansz](https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92) | [Een liefdeslied](https://open.spotify.com/album/5O1U8qlqnJ1jyK4guAmsOn) | 4:11 | 2024-11-07 |  |
 | [Oceaan](https://open.spotify.com/track/1YwR7Y6AmiaWEXFweKnTbj) | [Psychrex](https://open.spotify.com/artist/63xJDEUip5qjI1iCVmtkOZ) | [Oceaan](https://open.spotify.com/album/0wIJiV022gnasuXF4vWT2r) | 2:42 | 2023-02-10 | 2023-03-18 |
 | [Oceaan](https://open.spotify.com/track/14rrJ4fhTTcFPgmCCtBoku) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Oceaan](https://open.spotify.com/album/60F6MFfL8sCz9R21HCZ6Ac) | 2:42 | 2023-12-05 | 2024-03-30 |
 | [Oceaan](https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8) | 2:44 | 2023-02-10 |  |

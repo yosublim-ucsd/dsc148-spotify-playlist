@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Queendom, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,175 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,182 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 45 | [Kaun Ho](https://open.spotify.com/track/00kA4f3pensu5znAfN0hd8) | [Siddhant Bansal](https://open.spotify.com/artist/4VWM5RfsxuBRP09z1YtFmk) | [Kaun Ho](https://open.spotify.com/album/5zz4irFNwzqxb1io0AFYKD) | 3:11 |
 | 46 | [Messed Up](https://open.spotify.com/track/5URt6LUqHs92fwk7m17o1c) | [Priyadeep Kaur](https://open.spotify.com/artist/5hsHj3drBCzBK4ywzby7id) | [Messed Up](https://open.spotify.com/album/3kzJKaHT05DhYpiMYYxdCS) | 3:26 |
 | 47 | [Like A Kite](https://open.spotify.com/track/6yzPnNQ0wsjd27i2DEwU73) | [Neon Leaf](https://open.spotify.com/artist/5ed1rQXWEFXTWfCCFll8sf) | [Like A Kite](https://open.spotify.com/album/4WbIViCW889RAdziEmF5L7) | 3:22 |
-| 48 | [Dil Reh Gaya Banke Tera](https://open.spotify.com/track/1iWiMEHO78omjd9riA77UB) | [Aditya Jain](https://open.spotify.com/artist/1dpSiOzlRAcjA6f9pYmLnv) | [Dil Reh Gaya Banke Tera](https://open.spotify.com/album/47ZU27tN6I7yGHRMNKb1yW) | 3:17 |
+| 48 | [Dil Reh Gaya Banke Tera](https://open.spotify.com/track/1iWiMEHO78omjd9riA77UB) | [Aditya Jain](https://open.spotify.com/artist/1dpSiOzlRAcjA6f9pYmLnv), [Uddipan Sharma](https://open.spotify.com/artist/0NFh0I6PVc02IebwluGscm) | [Dil Reh Gaya Banke Tera](https://open.spotify.com/album/47ZU27tN6I7yGHRMNKb1yW) | 3:17 |
 | 49 | [Bikhre](https://open.spotify.com/track/5yFDWWi3ANY6FLUnXm0WU5) | [Shubhangi Dave](https://open.spotify.com/artist/4SHODWsXbqsZWWevkP8LIW), [Tanay Sharma](https://open.spotify.com/artist/7xLjZhXq5l1gcnx8BtlLyl) | [Bikhre](https://open.spotify.com/album/2jjlSKtXFcGVlUkoEBxjtB) | 3:57 |
 | 50 | [Lootera](https://open.spotify.com/track/6XGWNoMntm1ZBYAowyp22O) | [Yashashree Venkatesh](https://open.spotify.com/artist/6vm6Dz0pOPUo7tmTFHQPWu) | [Lootera](https://open.spotify.com/album/463RTsHt7Ns0p0ej65inAW) | 2:53 |
 | 51 | [Saiyan](https://open.spotify.com/track/3XTHsBseNmEUVVHETYyWY8) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Saiyan](https://open.spotify.com/album/3arOJlCtc0IVX4opOV7Fu1) | 3:18 |

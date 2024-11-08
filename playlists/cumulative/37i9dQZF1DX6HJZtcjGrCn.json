@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: MARO, NASAYA",
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto:  Samuel \u00daria",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -598,6 +598,32 @@
       "duration_ms": 213413,
       "name": "Dark Vacay",
       "url": "https://open.spotify.com/track/0vs7mPhFEivytZiyzxVp8r"
+    },
+    {
+      "album": {
+        "name": "De Marginal",
+        "url": "https://open.spotify.com/album/55izj5A0vkIhr465e5OlQA"
+      },
+      "artists": [
+        {
+          "name": "Pedro da Linha",
+          "url": "https://open.spotify.com/artist/4vRdcYRuZQC84SzNnxSNLh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Mc Junior Pk",
+          "url": "https://open.spotify.com/artist/4WRkJpqyrKEdwhrFlCrI4A"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "De Marginal",
+      "url": "https://open.spotify.com/track/31CIsXuLfGdTs58g8Exbpi"
     },
     {
       "album": {
@@ -1202,7 +1228,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 209500,
       "name": "if that's what you want",
       "url": "https://open.spotify.com/track/3Ppboz022LJKYAfcmbDH6o"
@@ -1336,7 +1362,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 148677,
       "name": "Keep Me Coming Back",
       "url": "https://open.spotify.com/track/5oRkaRe10zy58ealrU8rlE"
@@ -1799,6 +1825,28 @@
     },
     {
       "album": {
+        "name": "Ritmo da Procura",
+        "url": "https://open.spotify.com/album/554A8QAqM83b3eCluFg2vc"
+      },
+      "artists": [
+        {
+          "name": "CAIO",
+          "url": "https://open.spotify.com/artist/7L9u5BLeFDSbRy6w2cz4KE"
+        },
+        {
+          "name": "A Sul",
+          "url": "https://open.spotify.com/artist/4NvLQBWEqobucggCo6zIEC"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256980,
+      "name": "N\u00e3o Me Dou a Ningu\u00e9m (feat. A Sul)",
+      "url": "https://open.spotify.com/track/0n6JKQ4C4sVNbqyY4OpQTU"
+    },
+    {
+      "album": {
         "name": "n\u00e3o mere\u00e7o \u2727",
         "url": "https://open.spotify.com/album/4iKa1lewB9APc3LmOZlgVQ"
       },
@@ -1970,6 +2018,24 @@
       "duration_ms": 279671,
       "name": "Primavera",
       "url": "https://open.spotify.com/track/38a6BwqDanayW8iISyM4a3"
+    },
+    {
+      "album": {
+        "name": "Quem me acende a voz",
+        "url": "https://open.spotify.com/album/0N6A7vdzCKatAlzFSVRd4P"
+      },
+      "artists": [
+        {
+          "name": "Samuel \u00daria",
+          "url": "https://open.spotify.com/artist/5RRpftRxDNxlmo5lSn5UCg"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289465,
+      "name": "Quem me acende a voz",
+      "url": "https://open.spotify.com/track/7tdDdu7A8wyhOkhQ9IWCeY"
     },
     {
       "album": {
@@ -2240,7 +2306,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 220148,
       "name": "Starburned and Unkissed",
       "url": "https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf"

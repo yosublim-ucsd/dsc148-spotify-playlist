@@ -1,6 +1,6 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1065629,
+  "num_followers": 1065608,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Effection",
+        "url": "https://open.spotify.com/album/7DRW2mILmVTbyitwdNBdzU"
+      },
+      "artists": [
+        {
+          "name": "Mihali",
+          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
+        }
+      ],
+      "duration_ms": 209250,
+      "name": "Digital Heaven",
+      "url": "https://open.spotify.com/track/5V7ge7ltQ3LTUXNNcRVWqw"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/2SVH3FUWDU8BzlNn2Q6UEr"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 193361,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/5MqWp5KtqxXV601aXTbwFi"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Effection",
-        "url": "https://open.spotify.com/album/7DRW2mILmVTbyitwdNBdzU"
-      },
-      "artists": [
-        {
-          "name": "Mihali",
-          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
-        }
-      ],
-      "duration_ms": 209250,
-      "name": "Digital Heaven",
-      "url": "https://open.spotify.com/track/5V7ge7ltQ3LTUXNNcRVWqw"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Inner Love Energy",
+        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 219598,
+      "name": "I'm Rich",
+      "url": "https://open.spotify.com/track/4qkRoNFCVMST5cj2f6BG8b"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Everyday People (Remix with B-Real & G. Love)",
         "url": "https://open.spotify.com/album/5yvXdYoFdXhZjHwl24QmCz"
       },
@@ -1363,30 +1379,6 @@
       "duration_ms": 225080,
       "name": "Everyday People (Remix with B-Real & G.Love)",
       "url": "https://open.spotify.com/track/6pReUhCfnH5qxdjsG6vlig"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Sunshine State of Mind (with Shwayze & sammy rash)",
-        "url": "https://open.spotify.com/album/2cOB7dxImpX61OMq5jNrs4"
-      },
-      "artists": [
-        {
-          "name": "SUM SUN",
-          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
-        },
-        {
-          "name": "Shwayze",
-          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
-        },
-        {
-          "name": "sammy rash",
-          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
-        }
-      ],
-      "duration_ms": 125880,
-      "name": "Sunshine State of Mind (with Shwayze & sammy rash)",
-      "url": "https://open.spotify.com/track/0aUAIqpOHwdUvf6jLvjCjl"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1451,18 +1443,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Inner Love Energy",
-        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
+        "name": "Sunshine State of Mind (with Shwayze & sammy rash)",
+        "url": "https://open.spotify.com/album/2cOB7dxImpX61OMq5jNrs4"
       },
       "artists": [
         {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+          "name": "SUM SUN",
+          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
+        },
+        {
+          "name": "Shwayze",
+          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
+        },
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
         }
       ],
-      "duration_ms": 219598,
-      "name": "I'm Rich",
-      "url": "https://open.spotify.com/track/4qkRoNFCVMST5cj2f6BG8b"
+      "duration_ms": 125880,
+      "name": "Sunshine State of Mind (with Shwayze & sammy rash)",
+      "url": "https://open.spotify.com/track/0aUAIqpOHwdUvf6jLvjCjl"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Island Time",
-        "url": "https://open.spotify.com/album/6ezqqvurD2ZP7axmZQnfUh"
-      },
-      "artists": [
-        {
-          "name": "Bumpin Uglies",
-          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "Island Time",
-      "url": "https://open.spotify.com/track/7EIHl1xmO7UEtTEPczPj8i"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Too Late (with Jared Watson of Dirty Heads)",
         "url": "https://open.spotify.com/album/66wLNcY6lSL4kuvrWr5CIn"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 157084,
       "name": "Too Late (with Jared Watson of Dirty Heads)",
       "url": "https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Island Time",
+        "url": "https://open.spotify.com/album/6ezqqvurD2ZP7axmZQnfUh"
+      },
+      "artists": [
+        {
+          "name": "Bumpin Uglies",
+          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "Island Time",
+      "url": "https://open.spotify.com/track/7EIHl1xmO7UEtTEPczPj8i"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Ancient Blood",
-        "url": "https://open.spotify.com/album/6AbCyd00axppv60k7IlfLr"
-      },
-      "artists": [
-        {
-          "name": "Tribal Seeds",
-          "url": "https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02"
-        },
-        {
-          "name": "Romain Virgo",
-          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
-        }
-      ],
-      "duration_ms": 283764,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/0bG01cwZDA3A5PKm2kaGwo"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Oregon (with phoffman of Greensky Bluegrass)",
         "url": "https://open.spotify.com/album/3MQpFKPveaV9kHgCFkPwwh"
       },
@@ -1923,6 +1903,26 @@
       "duration_ms": 194386,
       "name": "Catch My Wave",
       "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Ancient Blood",
+        "url": "https://open.spotify.com/album/6AbCyd00axppv60k7IlfLr"
+      },
+      "artists": [
+        {
+          "name": "Tribal Seeds",
+          "url": "https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02"
+        },
+        {
+          "name": "Romain Virgo",
+          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
+        }
+      ],
+      "duration_ms": 283764,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/0bG01cwZDA3A5PKm2kaGwo"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Pathways",
+        "url": "https://open.spotify.com/album/42UOYP0oeF3Bb0DwSy1K4N"
+      },
+      "artists": [
+        {
+          "name": "Arise Roots",
+          "url": "https://open.spotify.com/artist/2yPVS2x96IoUdO7t68VUjH"
+        }
+      ],
+      "duration_ms": 304192,
+      "name": "If You Let Me",
+      "url": "https://open.spotify.com/track/7FoGBm7WGKpmuL74MB080m"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Tangerine Skies",
         "url": "https://open.spotify.com/album/6KuW6taPmYHqiunrzfTqtj"
       },
@@ -2023,38 +2039,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Pathways",
-        "url": "https://open.spotify.com/album/42UOYP0oeF3Bb0DwSy1K4N"
-      },
-      "artists": [
-        {
-          "name": "Arise Roots",
-          "url": "https://open.spotify.com/artist/2yPVS2x96IoUdO7t68VUjH"
-        }
-      ],
-      "duration_ms": 304192,
-      "name": "If You Let Me",
-      "url": "https://open.spotify.com/track/7FoGBm7WGKpmuL74MB080m"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Some Say the Ocean (Reggae Remix)",
-        "url": "https://open.spotify.com/album/6TotsVd1L88A9NYkWjfFju"
-      },
-      "artists": [
-        {
-          "name": "The Hip Abduction",
-          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
-        }
-      ],
-      "duration_ms": 235294,
-      "name": "Some Say the Ocean - Reggae Remix",
-      "url": "https://open.spotify.com/track/3oesGsJj1WksLRLhoLVZnh"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Falling Down (with Nick Hexum of 311)",
         "url": "https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 199971,
       "name": "Falling Down (with Nick Hexum of 311)",
       "url": "https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Some Say the Ocean (Reggae Remix)",
+        "url": "https://open.spotify.com/album/6TotsVd1L88A9NYkWjfFju"
+      },
+      "artists": [
+        {
+          "name": "The Hip Abduction",
+          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+        }
+      ],
+      "duration_ms": 235294,
+      "name": "Some Say the Ocean - Reggae Remix",
+      "url": "https://open.spotify.com/track/3oesGsJj1WksLRLhoLVZnh"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2135,6 +2135,34 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)",
+        "url": "https://open.spotify.com/album/71E4rQgy2LBt3dkGU9hOsr"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "Matisyahu",
+          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
+        },
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        },
+        {
+          "name": "Bumpin Uglies",
+          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
+        }
+      ],
+      "duration_ms": 239720,
+      "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)",
+      "url": "https://open.spotify.com/track/1uvhSFCX6bQrbLIWhQsWiQ"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Best Of / 20th Century Masters",
         "url": "https://open.spotify.com/album/1HkG5JC2RNtrBl4Zq97qgA"
       },
@@ -2187,34 +2215,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)",
-        "url": "https://open.spotify.com/album/71E4rQgy2LBt3dkGU9hOsr"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "Matisyahu",
-          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
-        },
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        },
-        {
-          "name": "Bumpin Uglies",
-          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
-        }
-      ],
-      "duration_ms": 239720,
-      "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)",
-      "url": "https://open.spotify.com/track/1uvhSFCX6bQrbLIWhQsWiQ"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "More Than Love",
         "url": "https://open.spotify.com/album/7nNNLTwL1f8V2abRrHMZi0"
       },
@@ -2247,6 +2247,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Way Too High for This",
+        "url": "https://open.spotify.com/album/2HIRmyasZR788WZoG0q3Mk"
+      },
+      "artists": [
+        {
+          "name": "Kash'd Out",
+          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
+        }
+      ],
+      "duration_ms": 227149,
+      "name": "Way Too High for This",
+      "url": "https://open.spotify.com/track/4vAubtm8X6m87tvfvIYrz2"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Sun and the Moon (with Collie Buddz)",
         "url": "https://open.spotify.com/album/600mLwSU7CJ5gSqK11Xzpb"
       },
@@ -2263,22 +2279,6 @@
       "duration_ms": 212994,
       "name": "Sun and the Moon (with Collie Buddz)",
       "url": "https://open.spotify.com/track/0RGfnMQ6yrUJymY6EMJ3tC"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Way Too High for This",
-        "url": "https://open.spotify.com/album/2HIRmyasZR788WZoG0q3Mk"
-      },
-      "artists": [
-        {
-          "name": "Kash'd Out",
-          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
-        }
-      ],
-      "duration_ms": 227149,
-      "name": "Way Too High for This",
-      "url": "https://open.spotify.com/track/4vAubtm8X6m87tvfvIYrz2"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2451,26 +2451,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "MEANT TO BE.",
-        "url": "https://open.spotify.com/album/1z1gZm1jnGL881Iyq3ZF3g"
-      },
-      "artists": [
-        {
-          "name": "aurorawave",
-          "url": "https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS"
-        },
-        {
-          "name": "Nathan Aurora",
-          "url": "https://open.spotify.com/artist/6aAxZpCPuID3U1dLdobyns"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "MEANT TO BE.",
-      "url": "https://open.spotify.com/track/6mwMUq6D3Tg7vEC4z6PFi7"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Lockdown (feat. Matisyahu)",
         "url": "https://open.spotify.com/album/2NwQSN5aI6HKFcJqnHP68u"
       },
@@ -2487,6 +2467,26 @@
       "duration_ms": 216086,
       "name": "Lockdown (feat. Matisyahu)",
       "url": "https://open.spotify.com/track/1g8KwMEiDTnOUBSvNPIM3W"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "MEANT TO BE.",
+        "url": "https://open.spotify.com/album/1z1gZm1jnGL881Iyq3ZF3g"
+      },
+      "artists": [
+        {
+          "name": "aurorawave",
+          "url": "https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS"
+        },
+        {
+          "name": "Nathan Aurora",
+          "url": "https://open.spotify.com/artist/6aAxZpCPuID3U1dLdobyns"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "MEANT TO BE.",
+      "url": "https://open.spotify.com/track/6mwMUq6D3Tg7vEC4z6PFi7"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2547,6 +2547,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Wash Away",
+        "url": "https://open.spotify.com/album/3RHj5lALLKsGYbaJzNKRVr"
+      },
+      "artists": [
+        {
+          "name": "Iya Terra",
+          "url": "https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Wash Away",
+      "url": "https://open.spotify.com/track/4qs58GiVlQmPOOU9ICB0Re"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Set In Stone (with Jared Watson of Dirty Heads)",
         "url": "https://open.spotify.com/album/70oH7Gb83EbhoXycxZTcZy"
       },
@@ -2563,22 +2579,6 @@
       "duration_ms": 192224,
       "name": "Set In Stone (with Jared Watson of Dirty Heads)",
       "url": "https://open.spotify.com/track/3rB4xoMmxuNjaVfC9hU6La"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Wash Away",
-        "url": "https://open.spotify.com/album/3RHj5lALLKsGYbaJzNKRVr"
-      },
-      "artists": [
-        {
-          "name": "Iya Terra",
-          "url": "https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Wash Away",
-      "url": "https://open.spotify.com/track/4qs58GiVlQmPOOU9ICB0Re"
     },
     {
       "added_at": "2024-07-26 04:00:00",

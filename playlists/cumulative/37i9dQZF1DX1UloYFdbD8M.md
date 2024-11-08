@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Masala Coffee
 
-241 songs - 16 hr 7 min
+242 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Chaaya Makkaani](https://open.spotify.com/track/7uRnNmG9t6vFGv2gdpDPEu) | [Sudeep Palanad](https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3) | [Chaaya Makkaani](https://open.spotify.com/album/3zm44UwafhPVma414Wp4cI) | 3:26 | 2023-09-09 | 2024-05-25 |
 | [Chayapattu](https://open.spotify.com/track/4d8u6nDK0hRliTXQ8lDKdt) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/3KPax7QTCyyEFDeJWuvHXr) | 2:29 | 2023-10-06 | 2024-04-19 |
 | [Chayapattu](https://open.spotify.com/track/4y7DF2YwXJPcYpX9mFl8pW) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/1Q7ieGfKYonq3H7f6DzDnn) | 2:29 | 2022-06-23 | 2024-07-13 |
-| [Chekele](https://open.spotify.com/track/0qQbAdaUAXz3niHgqKL6Xj) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 5:01 | 2022-11-21 |  |
+| [Chekele](https://open.spotify.com/track/0qQbAdaUAXz3niHgqKL6Xj) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 5:01 | 2022-11-21 | 2024-11-08 |
 | [Chekele](https://open.spotify.com/track/0hVxx4yyDgx6kkhXEpLqeT) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Archana Mohan Iyer](https://open.spotify.com/artist/28aw8AhOzmnkmx07DqMkFX) | [Chekele](https://open.spotify.com/album/7Ma2OjPf1ZUR2cAsEVYT18) | 3:27 | 2022-07-28 | 2023-07-28 |
 | [Chekuthan](https://open.spotify.com/track/5Zoe8tHOVTMOzeapdpQeYL) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan](https://open.spotify.com/album/0HH6caLXMV6xudGoXkFn9q) | 2:48 | 2022-12-22 | 2024-06-08 |
 | [Chekuthan \(Reprise\)](https://open.spotify.com/track/6N0Z9weSdoXUzL0wbqQD4h) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan \(Reprise\)](https://open.spotify.com/album/6Qz3dfZLUwwyvzd6JHxUPa) | 1:40 | 2022-09-06 | 2023-07-28 |
@@ -173,6 +173,7 @@
 | [Oru Mazhayude](https://open.spotify.com/track/6S5djlITiwCZK2kGU0FrJh) | [Kavya Ajit](https://open.spotify.com/artist/50ydDju7QfqeZrLfjlJMQ3), [Zail](https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R) | [Oru Mazhayude](https://open.spotify.com/album/6vit2xHQjwGBYo5wIUG4R8) | 3:00 | 2024-05-07 |  |
 | [Pa Pe Po...](https://open.spotify.com/track/3SBRVu9lB1QE1ji8BuPNtn) | [Amrutam Gamay](https://open.spotify.com/artist/4MtxFkOd1X7pmg07ngQTc5), [Amritha Suressh](https://open.spotify.com/artist/0gWXs0seQiEHCZJiH07xfk), [Abhirami Suresh](https://open.spotify.com/artist/6sPuCo5n7PaYPjd2S3m2K5) | [Pa Pe Po…](https://open.spotify.com/album/2A74441osOofLBpnQucu2F) | 4:38 | 2023-11-17 | 2024-02-19 |
 | [Paarvai](https://open.spotify.com/track/2N9dBikRpIheV21JWCbgmN) | [DeXterDuke](https://open.spotify.com/artist/7pgCk3NAxxOTwBPm2dmZOa), [Christopher](https://open.spotify.com/artist/0GRIRWJz1BV0WuL92LnCJQ), [Mahenth](https://open.spotify.com/artist/5YXgranKlBWMHBN5EG9F6Z) | [Paarvai](https://open.spotify.com/album/0y3yvEPxCUYQYCuLnGBOxr) | 3:28 | 2024-06-28 |  |
+| [Paattu](https://open.spotify.com/track/77sckVjf0h9oNyrGi7jIT7) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa), [Meenakshi Krishna](https://open.spotify.com/artist/5RfM3LYItqRdk1yAcdFfou) | [Paattu](https://open.spotify.com/album/45lcm2jQOdd0XNubzRPtaj) | 2:48 | 2024-11-07 |  |
 | [Padayatra \- Live](https://open.spotify.com/track/2PDaNC5MT6HZYE52HYHyjo) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Padayatra \(Live\)](https://open.spotify.com/album/2i97iGps3MYG1kG87i3be1) | 4:50 | 2022-06-23 |  |
 | [Palavidham](https://open.spotify.com/track/0I9fnx3ubOqy1T4IvLf4He) | [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Palavidham](https://open.spotify.com/album/7uVQSl9yYgyy7ax92Zp8lf) | 3:04 | 2023-09-05 | 2024-07-16 |
 | [Pande](https://open.spotify.com/track/4YRVb6Ppv2zTN9obOzmDSZ) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Pande](https://open.spotify.com/album/7ymtCchQnro2Bc4c1v2TDc) | 3:13 | 2024-05-20 |  |

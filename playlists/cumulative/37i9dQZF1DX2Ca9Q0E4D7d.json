@@ -1471,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Mind Games (Meditation Mixes)",
+        "url": "https://open.spotify.com/album/6dRXxW5ZpUy4ntfBwZCTsR"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335850,
+      "name": "Spirit - Mind Games Meditation Mix / Binaural \u223fBeta Waves\u223f 15Hz",
+      "url": "https://open.spotify.com/track/7iFvqFqk2Q8ebH7HTchvzG"
+    },
+    {
+      "album": {
         "name": "Surrounded Passage (Delta Binaural)",
         "url": "https://open.spotify.com/album/54uV4LPslzmKDj50ylCNYl"
       },
@@ -1576,6 +1594,42 @@
       "duration_ms": 211200,
       "name": "Treetop Sway (Delta Binaural)",
       "url": "https://open.spotify.com/track/0YaHVqzBDVho8dAiEikwng"
+    },
+    {
+      "album": {
+        "name": "Trekking On Beta 53-77hz",
+        "url": "https://open.spotify.com/album/52uBHyg8MW7fNm7QNDKtpU"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "Trekking On Beta 53-77hz",
+      "url": "https://open.spotify.com/track/4ey6ShaA9JKhHNib2I0diW"
+    },
+    {
+      "album": {
+        "name": "Window Seat Alpha 50-60hz",
+        "url": "https://open.spotify.com/album/3ENxexlVLVHHYSamHt2ktT"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Window Seat Alpha 50-60hz",
+      "url": "https://open.spotify.com/track/6pXnt3PwcY5hJw7OqS3oqh"
     },
     {
       "album": {

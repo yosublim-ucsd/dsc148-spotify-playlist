@@ -2,9 +2,9 @@
 
 ### [Rock Out.](https://open.spotify.com/playlist/37i9dQZF1DX7VfcxcuiL8Z)
 
-> The best in new rock\. Cover: King Gizzard & The Lizard Wizard
+> The best in new rock\. Cover: South Summit
 
-195 songs - 11 hr 11 min
+199 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [arghHhh!](https://open.spotify.com/track/5OC8qeRYNbU03Qnthifu0n) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [arghHhh!](https://open.spotify.com/album/6Dj3CKv0eUqTF2JmUa3gBH) | 4:13 | 2024-10-24 |  |
 | [Barracuda](https://open.spotify.com/track/4x9bjONffQde0GHInlLItA) | [Devilskin](https://open.spotify.com/artist/3TIlROeJjCAhax6c000Pcd) | [Barracuda](https://open.spotify.com/album/7AKDiJ63UNXqrtIEaLfvX2) | 4:05 | 2024-04-09 | 2024-08-31 |
 | [Base Camp](https://open.spotify.com/track/2Dtl1PPjYLqySfkGBJKS0I) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Base Camp](https://open.spotify.com/album/1loJf0FyJdDjEFJOXogibf) | 3:25 | 2024-04-09 | 2024-09-13 |
-| [Best Bits](https://open.spotify.com/track/57O7ES7W7nREsC78LWq5ah) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Best Bits](https://open.spotify.com/album/1xAopNlyW4Q4Cr59b5owFT) | 4:03 | 2024-06-13 |  |
+| [Best Bits](https://open.spotify.com/track/57O7ES7W7nREsC78LWq5ah) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Best Bits](https://open.spotify.com/album/1xAopNlyW4Q4Cr59b5owFT) | 4:03 | 2024-06-13 | 2024-11-08 |
 | [Best Of Me](https://open.spotify.com/track/4Gpzgpj57YgCe9uUnwRwz4) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Best Of Me](https://open.spotify.com/album/2Zc3sdoMNkKC2O3Vlu6geL) | 3:16 | 2024-04-09 | 2024-07-05 |
 | [Big Dreams](https://open.spotify.com/track/0lInhiFmT2Dk9RlJItxzIG) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Big Dreams](https://open.spotify.com/album/7oHWgJ63008TX5ezUmGQKL) | 3:11 | 2024-09-26 |  |
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-04-25 | 2024-10-11 |
@@ -32,10 +32,11 @@
 | [Boyfeel](https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Boyfeel](https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp) | 2:29 | 2024-06-06 | 2024-08-02 |
 | [Boyfriend](https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Boyfriend](https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx) | 3:57 | 2024-07-11 | 2024-09-20 |
 | [Break Away](https://open.spotify.com/track/5Xkpr3gOB0WzVOa8xBGqeF) | [The Saints](https://open.spotify.com/artist/6OWPd5ByKaNSFAZ3TCe5AO) | [Break Away](https://open.spotify.com/album/1htNgwThQp0jBpv1YBtIu2) | 3:50 | 2024-07-04 | 2024-08-16 |
+| [Brother](https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Brother](https://open.spotify.com/album/2u7rEzuOyVV1QOPFxxFqnA) | 2:56 | 2024-11-07 |  |
 | [Cat 5 \(Cyclone\)](https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Cat 5 \(Cyclone\)](https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8) | 3:42 | 2024-08-30 |  |
 | [Cheapskate](https://open.spotify.com/track/3ydtco4AwW0uPKi3GFpnGQ) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [Cheapskate](https://open.spotify.com/album/4J3fxlyKmCqkgK6C9jwJkG) | 3:11 | 2024-06-06 | 2024-08-23 |
 | [Check Mate](https://open.spotify.com/track/4lMstSPBDmunCswnizQ5b1) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Check Mate](https://open.spotify.com/album/5Sf5kDdfzSweeoTVjL9dNc) | 3:16 | 2024-05-16 | 2024-10-04 |
-| [Chewing Gum](https://open.spotify.com/track/1rJ19XvEgTpqwfOUdtJiSg) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Chewing Gum](https://open.spotify.com/album/3iTZBjVml1b3KzqzGa1Chg) | 3:20 | 2024-08-22 |  |
+| [Chewing Gum](https://open.spotify.com/track/1rJ19XvEgTpqwfOUdtJiSg) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Chewing Gum](https://open.spotify.com/album/3iTZBjVml1b3KzqzGa1Chg) | 3:20 | 2024-08-22 | 2024-11-08 |
 | [Chicken](https://open.spotify.com/track/0nEVjbu58y0cghChyOoxW8) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Chicken](https://open.spotify.com/album/2MKGBJYKuJFWgEg3IWGYqD) | 4:22 | 2024-07-25 | 2024-10-25 |
 | [Cigarettes & Alcohol \- Sawmills Outtake](https://open.spotify.com/track/4DKcLZMapJwbOtLLz3Obcw) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(30th Anniversary\)](https://open.spotify.com/album/4J0amttxitKO3C2qCab3YA) | 5:06 | 2024-08-30 |  |
 | [Close Call](https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Close Call](https://open.spotify.com/album/2TL6nCxuLh7aW6bVUtKr50) | 2:43 | 2024-06-13 | 2024-08-23 |
@@ -56,6 +57,7 @@
 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2024-04-09 | 2024-07-12 |
 | [Enough for you](https://open.spotify.com/track/7CYPzawmBUJUN3tDGhQh1I) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Enough for you](https://open.spotify.com/album/2Bwu2eMLYU42jisflVhIvJ) | 3:05 | 2024-04-09 | 2024-07-05 |
 | [Everything's Here And Nothing's Lost](https://open.spotify.com/track/73Dz3M1a3bWmwosBBB08xD) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Forest Is The Path](https://open.spotify.com/album/7cbi6YeBaCjEdyzMdtwG45) | 4:06 | 2024-09-12 | 2024-11-01 |
+| [Exceptional](https://open.spotify.com/track/5HCwsAQT7hnBdIefIettuq) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Exceptional](https://open.spotify.com/album/0ds94I7AsIIE5UzYzKiNtz) | 3:13 | 2024-11-07 |  |
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-04-09 |  |
 | [Feedback](https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Feedback](https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP) | 2:32 | 2024-05-30 | 2024-10-11 |
 | [feminine adornments](https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 4:13 | 2024-09-12 |  |
@@ -157,6 +159,7 @@
 | [Solar Eyes](https://open.spotify.com/track/2kPS4cxktbqt6cBpAyiU4a) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [Solar Eyes](https://open.spotify.com/album/0cjOgDOFdsFg28tJPOO3vn) | 3:33 | 2024-04-09 | 2024-09-20 |
 | [Something Good](https://open.spotify.com/track/1VDZnlKsZX8Ufekz9BQDCo) | [The Superjesus](https://open.spotify.com/artist/7o9kdTx6RmO12iAVVsNehd) | [Something Good](https://open.spotify.com/album/5huMS2fO8b4GpvCBAMX7co) | 3:29 | 2024-09-05 |  |
 | [Song Of The Lake](https://open.spotify.com/track/7kN3xKqRtMQEnhxCK5d5Ih) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Wild God](https://open.spotify.com/album/0TRr4JGEPJ4eAb5QKRaunf) | 3:36 | 2024-08-30 | 2024-09-27 |
+| [Southerly](https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [For The Dreams](https://open.spotify.com/album/408SgNp6BOa0lUetUrnkT1) | 3:45 | 2024-11-07 |  |
 | [Sow](https://open.spotify.com/track/7yL6dFWL7mIdyIVE2lZZwX) | [Bukowski](https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR) | [Sow](https://open.spotify.com/album/4ZQ3fVCBqwPtoFDsA3EAlu) | 2:52 | 2024-07-25 | 2024-10-18 |
 | [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 | 2024-10-17 |  |
 | [Spiraling](https://open.spotify.com/track/4tpCyzL8x2avZAlywYVpIE) | [Liam Finn](https://open.spotify.com/artist/76x0C9paLCrLEiGSVVcC1m) | [Spiraling](https://open.spotify.com/album/0gId1JNOOK6JZqPOM4KVdP) | 2:42 | 2024-06-20 | 2024-08-09 |
@@ -173,7 +176,7 @@
 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 | 2024-05-30 | 2024-08-09 |
 | [The Beginning Of The End \(feat\. DMA'S\)](https://open.spotify.com/track/2H39sC1tPnvxNCFamU3m2N) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [The Beginning Of The End \(feat\. DMA'S\)](https://open.spotify.com/album/6Zx7KmsMOLDheCjXZAYaSE) | 3:41 | 2024-10-24 |  |
 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-23 | 2024-10-11 |
-| [The Deluge](https://open.spotify.com/track/3x2pPg6d0aftxc955ko6fy) | [Fanning Dempsey National Park](https://open.spotify.com/artist/1kfatEbCd4ZdRMeCxklGjA) | [The Deluge](https://open.spotify.com/album/2Gnmhd9RjDjlFEkioy0azw) | 4:15 | 2024-06-27 |  |
+| [The Deluge](https://open.spotify.com/track/3x2pPg6d0aftxc955ko6fy) | [Fanning Dempsey National Park](https://open.spotify.com/artist/1kfatEbCd4ZdRMeCxklGjA) | [The Deluge](https://open.spotify.com/album/2Gnmhd9RjDjlFEkioy0azw) | 4:15 | 2024-06-27 | 2024-11-08 |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-05 |  |
 | [the first time](https://open.spotify.com/track/5yTWtC6Hrb40M5yWrtdyNN) | [Eskimo Joe](https://open.spotify.com/artist/3yW6jTzGjHUUkLvLkjLOVn) | [the first time](https://open.spotify.com/album/76Nth0BGpoCypOPzUGSYD0) | 3:16 | 2024-04-09 | 2024-07-27 |
 | [The Howl](https://open.spotify.com/track/60YfbpgNX4izlsq8CbPpr6) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Gravity Stairs](https://open.spotify.com/album/1Fy7fMGY3g1lGy8Wzg0bua) | 3:26 | 2024-05-30 | 2024-08-23 |
@@ -193,11 +196,12 @@
 | [Wake Me Up When September Ends \- Demo](https://open.spotify.com/track/5rqoSVrje10lIhdlX6W58b) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(20th Anniversary \- Becoming Who We Are\)](https://open.spotify.com/album/4kebtpWNmc8CLgOm7bFvGx) | 4:59 | 2024-09-05 |  |
 | [We Made It Look Easy](https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Forever](https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW) | 3:15 | 2024-06-06 | 2024-08-02 |
 | [Weaponz](https://open.spotify.com/track/00pmqiJxIvnorE7dDR8Hnr) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Weaponz](https://open.spotify.com/album/3DRQt80MAHsSJC2vraQVaX) | 2:29 | 2024-04-09 | 2024-07-27 |
+| [What Do You Want Me To Be](https://open.spotify.com/track/4xlJuoRCEH8hSDaPa1eoxw) | [Bukowski](https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR) | [What Do You Want Me To Be](https://open.spotify.com/album/4tLhz3AEweejJo8C3MPVC0) | 3:05 | 2024-11-07 |  |
 | [What You've Lost](https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [What You've Lost](https://open.spotify.com/album/3dV5yackcguFHvAc3cl2P8) | 2:51 | 2024-06-27 |  |
 | [Wildflowers](https://open.spotify.com/track/6KAk8ufRJc4ZqGRkIRfCM5) | [Jim Nothing](https://open.spotify.com/artist/4eb7qCBJliHYY0oYgFFdYR) | [Wildflowers](https://open.spotify.com/album/2aPcmHmXm8VOirMVurtynw) | 2:52 | 2024-10-03 |  |
 | [Wish You Were Here](https://open.spotify.com/track/3HogHsEJ32SRjGghQo5XIH) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View XXIII](https://open.spotify.com/album/7klngx9L0dt47tEgiNFY0Z) | 3:32 | 2024-05-09 |  |
 | [Wreck & Ruin](https://open.spotify.com/track/5HFUDvGysoyCcbPTG4UbYv) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Rebuild Repeat](https://open.spotify.com/album/57C0DIbkSWXRJMUx5xHTox) | 2:25 | 2024-06-13 | 2024-10-11 |
-| [Wreckage](https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Wreckage](https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN) | 5:00 | 2024-04-18 |  |
+| [Wreckage](https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Wreckage](https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN) | 5:00 | 2024-04-18 | 2024-11-08 |
 | [YOU DON'T KNOW WHAT YOU'VE GOT](https://open.spotify.com/track/5umZSkiNqkwj4WA8Ftsw8N) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/00txDYFrU4LjWqwKE8iQJA) | 3:18 | 2024-04-09 | 2024-07-27 |
 | [You Hear Yes](https://open.spotify.com/track/72KK2zfWDMXDwHk2WEUUCv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [You Hear Yes](https://open.spotify.com/album/3ZuW9XxhtJDniEiR9nLKYI) | 2:43 | 2024-08-08 | 2024-09-27 |
 | [You're So Impatient](https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [You're So Impatient](https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X) | 2:08 | 2024-06-06 | 2024-09-20 |

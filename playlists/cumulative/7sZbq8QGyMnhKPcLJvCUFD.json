@@ -8215,6 +8215,24 @@
     },
     {
       "album": {
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/0Sr7BLnV9KealMqokmrn8Z"
+      },
+      "artists": [
+        {
+          "name": "More Plastic",
+          "url": "https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204085,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/5uyPa82qavxzj8sC7qc3tA"
+    },
+    {
+      "album": {
         "name": "OFFLINE",
         "url": "https://open.spotify.com/album/35HuahdvG1p9pFHllhSAAX"
       },

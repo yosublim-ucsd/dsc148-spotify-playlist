@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238426,
+      "name": "Como Dejo De Quererte",
+      "url": "https://open.spotify.com/track/4kWSjThlxWBli7PzGQJ3EQ"
+    },
+    {
+      "album": {
         "name": "Amor Enfermo",
         "url": "https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo"
       },
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 159397,
       "name": "Solo Que Lo Dudes",
       "url": "https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx"

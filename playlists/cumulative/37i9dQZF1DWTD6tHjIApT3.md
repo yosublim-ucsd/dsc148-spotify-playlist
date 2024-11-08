@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: LANA
 
-2,706 songs - 7 day 5 hr 32 min
+2,707 songs - 7 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1769,7 +1769,7 @@
 | [アイコトバ](https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [アイコトバ](https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4) | 4:44 | 2023-10-26 | 2024-02-07 |
 | [アイノロイ](https://open.spotify.com/track/1cUFamnBZnwMLI0TzXBHBZ) | [Hitomi Yaida](https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn) | [アイノロイ](https://open.spotify.com/album/701NLR0kvbmE6fkt88ZhUI) | 3:38 | 2023-10-19 | 2023-10-25 |
 | [アイモライモ](https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [アイモライモ](https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC) | 4:15 | 2024-11-05 |  |
-| [アイワナ](https://open.spotify.com/track/1KsxzZxW14vwC3j8s68kUS) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [アイワナ](https://open.spotify.com/album/3JHCc7hNg1hHCcIQsF1xzM) | 3:50 | 2024-05-21 |  |
+| [アイワナ](https://open.spotify.com/track/1KsxzZxW14vwC3j8s68kUS) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [アイワナ](https://open.spotify.com/album/3JHCc7hNg1hHCcIQsF1xzM) | 3:50 | 2024-05-21 | 2024-11-08 |
 | [アイヲ](https://open.spotify.com/track/6Gk4InYH6J6GrbCEgeB0Kv) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [アイヲ](https://open.spotify.com/album/1XIM2dgjBgPQcpZF05I2Pd) | 3:31 | 2022-05-29 | 2022-07-01 |
 | [アネモネ](https://open.spotify.com/track/6z3WpQBGKDkqOB0MIpRORG) | [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg), [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li) | [アネモネ](https://open.spotify.com/album/6biUQ9nGerWCMSkoal2qCK) | 3:17 | 2023-08-29 | 2023-09-06 |
 | [アメリカンチェリー](https://open.spotify.com/track/6jvn8JTPKB8zUEkI7a1WIl) | [kiwano](https://open.spotify.com/artist/2gWOEyfr0ms1TzCQmIQ2IS) | [アメリカンチェリー](https://open.spotify.com/album/5dI8SHVmfGLoDUeSrQoYNe) | 5:37 | 2024-05-28 | 2024-06-05 |
@@ -2594,6 +2594,7 @@
 | [若者のすべて](https://open.spotify.com/track/0bolEYwnvGkCjy38QACpBt) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [若者のすべて](https://open.spotify.com/album/2pS9ATc0f1xRthcOaTVXvb) | 5:01 | 2024-06-25 |  |
 | [英雄譚](https://open.spotify.com/track/2mtF2CUfKH6mxXgJd3lhw1) | [Nanase Aikawa](https://open.spotify.com/artist/2RNdF99wgP5ikh7fIJ0DIk) | [SPARKLE](https://open.spotify.com/album/0UBRZNP8S5VzkevlWP3ol8) | 3:24 | 2024-11-05 |  |
 | [茜色の約束](https://open.spotify.com/track/188xZfCBPMT2ZOAHLf8rTC) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [茜色の約束](https://open.spotify.com/album/647EA5ELt0wI3DKXE58Tvq) | 5:00 | 2024-02-13 | 2024-02-15 |
+| [草々不一](https://open.spotify.com/track/4OLNvriCyOCDt0DLM0u9CZ) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [草々不一](https://open.spotify.com/album/5j2oeI2nHU04LSJtPAVGIp) | 3:11 | 2024-11-05 |  |
 | [華奢な心](https://open.spotify.com/track/4I2zu5SjESe8F8AyZLtOVC) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [華奢な心](https://open.spotify.com/album/2MCrgO6b1EiTlkNY76i4Mw) | 4:21 | 2023-11-28 | 2024-01-31 |
 | [落堕](https://open.spotify.com/track/0f09d8OYeeLgKQZGsv5vKf) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [落堕](https://open.spotify.com/album/4YNGfFzshQ3LxQ9NUJmD6i) | 4:30 | 2024-08-06 | 2024-09-04 |
 | [蒲公英](https://open.spotify.com/track/05qgaAIIEFSkrrvxqb5np2) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [蒲公英](https://open.spotify.com/album/1kp6AjG2lydwf5OjfbxENs) | 3:11 | 2023-01-17 | 2023-08-31 |

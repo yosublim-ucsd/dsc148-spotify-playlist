@@ -1109,6 +1109,28 @@
     },
     {
       "album": {
+        "name": "Beginning EP",
+        "url": "https://open.spotify.com/album/1dxogKeICt9bHr4z4EivFa"
+      },
+      "artists": [
+        {
+          "name": "Shanki Austine",
+          "url": "https://open.spotify.com/artist/6itwRcitEN1S39bvzrWsNM"
+        },
+        {
+          "name": "Bee Muziki",
+          "url": "https://open.spotify.com/artist/5bUi75yAVr0SuEFhtmm69j"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202758,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/0qKSG9DU0TLp8Sy77N0BFU"
+    },
+    {
+      "album": {
         "name": "Colours",
         "url": "https://open.spotify.com/album/3clJXsKbeadJqCZoURhp5R"
       },
@@ -2000,7 +2022,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 196039,
       "name": "Maisha",
       "url": "https://open.spotify.com/track/5ZkpQo8ETp8Vei3eiv3oM7"
@@ -2022,6 +2044,24 @@
       "duration_ms": 222000,
       "name": "Malaika",
       "url": "https://open.spotify.com/track/5J4SDAQfgnAE90ErS4dO4u"
+    },
+    {
+      "album": {
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/14E0umxMJDrXssbQ1z7pNE"
+      },
+      "artists": [
+        {
+          "name": "Watendawili",
+          "url": "https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228138,
+      "name": "Maovu",
+      "url": "https://open.spotify.com/track/5aBy7xqkQ7UzSXe9jLNmD3"
     },
     {
       "album": {
@@ -3312,7 +3352,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 208235,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0"

@@ -498,7 +498,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 245439,
       "name": "Cover Me",
       "url": "https://open.spotify.com/track/2ZjpGRPvDfnUvFjtMJenxQ"
@@ -2046,6 +2046,32 @@
       "duration_ms": 252865,
       "name": "Searching",
       "url": "https://open.spotify.com/track/6A6rSOYp5xAgyNELLBwdWH"
+    },
+    {
+      "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/1ueVnJDIlqnxBz7nuEmajE"
+      },
+      "artists": [
+        {
+          "name": "Nelo",
+          "url": "https://open.spotify.com/artist/7Lz869ya6LEy270Tk9gXoJ"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Bigdrfresh",
+          "url": "https://open.spotify.com/artist/5hAHpdQcXXkNctF7AOvB4s"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241057,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/487P3mgPm49m8NNbxPX1je"
     },
     {
       "album": {

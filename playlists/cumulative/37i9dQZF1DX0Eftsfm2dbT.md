@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: KM, LEX
 
-1,197 songs - 2 day 13 hr 23 min
+1,198 songs - 2 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [1 2 3](https://open.spotify.com/track/1dZXLgKghGnIyGHMuoZczP) | [hyunis1000](https://open.spotify.com/artist/5kg1VfX43k7uJ1mLHXmkRF), [ratiff](https://open.spotify.com/artist/7bSQ26qnH9EHvCdB7ekW14) | [stepping rhyme boi/精神的故郷](https://open.spotify.com/album/60UdoEO5SaDx1MnbRcHaJj) | 2:18 | 2024-09-03 | 2024-09-18 |
 | [11:45 秋](https://open.spotify.com/track/3ff4ztmQjci7NWH5iJaoQD) | [BLAISE](https://open.spotify.com/artist/3qNQdzi0cdAEz9p64r41Xb), [YDIZZY](https://open.spotify.com/artist/7IhH3sGwKqQCdtYylRSewz) | [Jab Step](https://open.spotify.com/album/7LZ29IR8V8GoKHYcs9LX8J) | 4:19 | 2024-04-24 | 2024-05-10 |
 | [128 Bars](https://open.spotify.com/track/2hkOHWM4vSn29S4Pp6SlhL) | [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO), [NOTYPE 9](https://open.spotify.com/artist/4hj5UsmCq95ZkDfzXUx2ol) | [128 Bars](https://open.spotify.com/album/5wKICxJUmd47XwX5PGc81w) | 4:18 | 2023-11-07 | 2024-02-14 |
+| [143 \(feat\. MuKuRo & 13ELL\)](https://open.spotify.com/track/3lArJXJ4aEBQGX9XSpIC3E) | [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [MuKuRo](https://open.spotify.com/artist/7tTAJHjW4myAy5ivdgwhJc), [13ELL](https://open.spotify.com/artist/5QVAFVj5ujNUpjurU1wW9s) | [143 \(feat\. MuKuRo & 13ELL\)](https://open.spotify.com/album/5XF1GMZTcvLWf9hnxTY81A) | 2:26 | 2024-11-07 |  |
 | [180](https://open.spotify.com/track/0UWUBGIvqn4sD479lvLhDx) | [CreativeDrugStore](https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn) | [180](https://open.spotify.com/album/6L0WrUO7vJaQowiMSNqu8C) | 3:05 | 2023-12-06 | 2023-12-13 |
 | [180](https://open.spotify.com/track/5xP7qZWK23N78R1ssYKdZ7) | [CreativeDrugStore](https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn) | [180](https://open.spotify.com/album/63BT3kAHpgwL3BEgCAMNyb) | 3:05 | 2023-12-06 | 2023-12-07 |
 | [1997](https://open.spotify.com/track/6ZHRNjoMCSSJgqcAXGMdmR) | [Gypsey Well](https://open.spotify.com/artist/21rWxXkAd3jEw6299Rkv2V) | [1997](https://open.spotify.com/album/6ucrPncsZJ9bxIaix659N8) | 2:19 | 2023-09-26 | 2023-09-28 |
@@ -557,7 +558,7 @@
 | [LOST](https://open.spotify.com/track/5MrrNvVq60nBJnviC9jwm9) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [LOST](https://open.spotify.com/album/6F9jIN1BNGmOq1VCgYSpCK) | 3:18 | 2024-06-04 | 2024-06-12 |
 | [Lost](https://open.spotify.com/track/2LZK3VhByCHhb4HHlcvGJ5) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [ViryKnot](https://open.spotify.com/artist/0OmLGcDtPXUT2MnAtMtykp) | [Lost](https://open.spotify.com/album/7uq7RO0u3zAzj95GZXArJx) | 2:49 | 2023-09-28 | 2023-09-30 |
 | [Lost](https://open.spotify.com/track/4XrbQ2Njf0632aZUo40zlt) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [ViryKnot](https://open.spotify.com/artist/0OmLGcDtPXUT2MnAtMtykp) | [Lost](https://open.spotify.com/album/52dhsJijukp9GsKx5JuY7d) | 2:49 | 2023-09-28 | 2023-11-22 |
-| [Lost 2 \(Ftheworld\)](https://open.spotify.com/track/0nMSghvAiQBa0vqn47cCb4) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Lost 2 \(Ftheworld\)](https://open.spotify.com/album/6bQqFXw6Ht2qfnSV99rEFv) | 3:46 | 2024-10-02 |  |
+| [Lost 2 \(Ftheworld\)](https://open.spotify.com/track/0nMSghvAiQBa0vqn47cCb4) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Lost 2 \(Ftheworld\)](https://open.spotify.com/album/6bQqFXw6Ht2qfnSV99rEFv) | 3:46 | 2024-10-02 | 2024-11-08 |
 | [Lost Forever](https://open.spotify.com/track/3HSRdeQwMBXNP5dxN28qHJ) | [山田ギャル神宮](https://open.spotify.com/artist/0Vxzbf42RZnV5TUq3JeOIs), [KUROMAKU](https://open.spotify.com/artist/6C2U2QtF4rll9QqZJKKb2c), [ATSUKI](https://open.spotify.com/artist/7Iv21VB4xGG5UsWdCw2A57) | [Lost Forever](https://open.spotify.com/album/4aG2JYD32odGmvE2BfGCDs) | 2:54 | 2024-09-10 | 2024-09-20 |
 | [LOST MY SOUL \- Remix](https://open.spotify.com/track/6R1mv75QH1xUJtCRqEp5M4) | [dj honda](https://open.spotify.com/artist/7mrvU3OShTgthJV80o2day), [Silent Killa Joint](https://open.spotify.com/artist/1nNfL1cMyGVkyODtqf90wI) | [h beats tape](https://open.spotify.com/album/37mRaZ5keEgzkJhxH09QRr) | 2:25 | 2024-01-09 | 2024-02-28 |
 | [Lotus](https://open.spotify.com/track/7hlnOBb3lNrBMfScz1rPFR) | [B.I.G\. JOHN](https://open.spotify.com/artist/4SVn9Ac8FQ52jXaxWK9cEX) | [VARIOUS TAPE](https://open.spotify.com/album/6scau8PfKZuX284je50V3O) | 3:27 | 2024-10-17 | 2024-10-23 |

@@ -1,6 +1,6 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Alejandro Sanz en portada.",
-  "num_followers": 73042,
+  "num_followers": 73088,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
@@ -871,8 +871,8 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Tofu",
-        "url": "https://open.spotify.com/album/4fbMnFRM48zpSJeSiCRn0n"
+        "name": "Wacha Checa",
+        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 164866,
-      "name": "Popango",
-      "url": "https://open.spotify.com/track/79bZNuOM8V5W8n2DaTpUXf"
+      "duration_ms": 217693,
+      "name": "Wacha Checa",
+      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
+        "name": "Diosa",
+        "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
         "name": "Juego De Feria",
         "url": "https://open.spotify.com/album/4mFw8K0Ts3T6yQourMWESD"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 157146,
       "name": "Juego De Feria",
       "url": "https://open.spotify.com/track/5tVNRjHFayBzyOPSpUniDF"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
-        "name": "Diosa",
-        "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1027,8 +1027,8 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Wacha Checa",
-        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
+        "name": "Tofu",
+        "url": "https://open.spotify.com/album/4fbMnFRM48zpSJeSiCRn0n"
       },
       "artists": [
         {
@@ -1036,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 217693,
-      "name": "Wacha Checa",
-      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
+      "duration_ms": 164866,
+      "name": "Popango",
+      "url": "https://open.spotify.com/track/79bZNuOM8V5W8n2DaTpUXf"
     },
     {
       "added_at": "2024-10-25 06:00:00",

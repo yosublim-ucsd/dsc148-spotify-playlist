@@ -33578,7 +33578,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 230933,
       "name": "\u30a2\u30a4\u30ef\u30ca",
       "url": "https://open.spotify.com/track/1KsxzZxW14vwC3j8s68kUS"
@@ -49046,6 +49046,24 @@
       "duration_ms": 300840,
       "name": "\u831c\u8272\u306e\u7d04\u675f",
       "url": "https://open.spotify.com/track/188xZfCBPMT2ZOAHLf8rTC"
+    },
+    {
+      "album": {
+        "name": "\u8349\u3005\u4e0d\u4e00",
+        "url": "https://open.spotify.com/album/5j2oeI2nHU04LSJtPAVGIp"
+      },
+      "artists": [
+        {
+          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191658,
+      "name": "\u8349\u3005\u4e0d\u4e00",
+      "url": "https://open.spotify.com/track/4OLNvriCyOCDt0DLM0u9CZ"
     },
     {
       "album": {

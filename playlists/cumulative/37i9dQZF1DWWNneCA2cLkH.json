@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "These are the eclectic sounds of now. Cover: Jack J",
+  "description": "These are the eclectic sounds of now. Cover: BADBADNOTGOOD",
   "name": "Alt Here",
   "tracks": [
     {
@@ -410,7 +410,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 188711,
       "name": "Babe",
       "url": "https://open.spotify.com/track/4DbsTW4h2gjwdpC9W9iID4"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 233885,
       "name": "beltane",
       "url": "https://open.spotify.com/track/5L4tNblwhlJJXKbx0yw63s"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 173453,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq"
@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "Why is the Colour of the Sky?",
+        "url": "https://open.spotify.com/album/37d0LQSj5xUzWRSnS4ryQq"
+      },
+      "artists": [
+        {
+          "name": "Bananagun",
+          "url": "https://open.spotify.com/artist/2bgMCMbcjoMXemFtGbPPeh"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Brave Child of a New World",
+      "url": "https://open.spotify.com/track/5dPxd1QfTwYWwwJCQPVAnY"
+    },
+    {
+      "album": {
         "name": "The Dream of Delphi",
         "url": "https://open.spotify.com/album/4Z3IO9jsrSAxdTluJGZerG"
       },
@@ -890,6 +908,28 @@
       "duration_ms": 183978,
       "name": "Casino",
       "url": "https://open.spotify.com/track/1XjLh9k8todOmzc62myULu"
+    },
+    {
+      "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223443,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
     },
     {
       "album": {
@@ -1200,7 +1240,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 191210,
       "name": "C\u2019est la Vie",
       "url": "https://open.spotify.com/track/7kmUijEiFSjtH3mYFRwczE"
@@ -1568,7 +1608,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 307500,
       "name": "Emerge (For Sarah)",
       "url": "https://open.spotify.com/track/5Xo4uNxFINswfad0bMQHrt"
@@ -1658,7 +1698,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 160320,
       "name": "feel like home",
       "url": "https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85"
@@ -1932,7 +1972,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 199258,
       "name": "God's A Different Sword",
       "url": "https://open.spotify.com/track/0Yfjj5pPl87buJkfMawmW0"
@@ -2152,7 +2192,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 120664,
       "name": "hey you",
       "url": "https://open.spotify.com/track/3uoTwlGvPcz04gj12gqt8V"
@@ -2254,6 +2294,24 @@
       "duration_ms": 266236,
       "name": "I am your house",
       "url": "https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5"
+    },
+    {
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
     },
     {
       "album": {
@@ -2578,7 +2636,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 154240,
       "name": "I\u2019ll Go Anywhere",
       "url": "https://open.spotify.com/track/2K4XkJgiPjUGtnwSIM6xxi"
@@ -3120,7 +3178,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 296023,
       "name": "Machine Learning",
       "url": "https://open.spotify.com/track/0fMnUppaYSBbbXcEH9V9wa"
@@ -3567,6 +3625,24 @@
     },
     {
       "album": {
+        "name": "Nobody's Perfect",
+        "url": "https://open.spotify.com/album/3I9FpnzIRxnktCGwDdKeZK"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160754,
+      "name": "Nobody's Perfect",
+      "url": "https://open.spotify.com/track/53SirzTK2fEruERQoZ8egL"
+    },
+    {
+      "album": {
         "name": "Not Today",
         "url": "https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN"
       },
@@ -3676,6 +3752,24 @@
       "duration_ms": 180720,
       "name": "Old Life",
       "url": "https://open.spotify.com/track/1BCWmRqByLwKXQkf28aqWf"
+    },
+    {
+      "album": {
+        "name": "Mr Loverman (Original Score)",
+        "url": "https://open.spotify.com/album/6ieeIRvzRwhsxJL2aThKv4"
+      },
+      "artists": [
+        {
+          "name": "Speakers Corner Quartet",
+          "url": "https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82500,
+      "name": "Oldie But A Goldie",
+      "url": "https://open.spotify.com/track/4Qb72SJ0SwaAURpI0rvvWJ"
     },
     {
       "album": {
@@ -3917,6 +4011,28 @@
     },
     {
       "album": {
+        "name": "Poeira Cosmica",
+        "url": "https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253482,
+      "name": "Poeira Cosmica",
+      "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
+    },
+    {
+      "album": {
         "name": "Nostalgia Death Act 1",
         "url": "https://open.spotify.com/album/0acxAAviwwXk9mHYTmljnw"
       },
@@ -3976,6 +4092,24 @@
       "duration_ms": 202795,
       "name": "Primadonna",
       "url": "https://open.spotify.com/track/07HQ1tqZdtZ6vEYGRA4Zg1"
+    },
+    {
+      "album": {
+        "name": "Punish",
+        "url": "https://open.spotify.com/album/1xeGbgjpB3uXZ7oZGpc1zm"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407710,
+      "name": "Punish",
+      "url": "https://open.spotify.com/track/2Iy2Qj5kTsmXAndBnOWdy4"
     },
     {
       "album": {
@@ -4060,6 +4194,24 @@
       "duration_ms": 207333,
       "name": "Rebel Soul",
       "url": "https://open.spotify.com/track/2FZAqlzZzp0xMsBKgGrSVH"
+    },
+    {
+      "album": {
+        "name": "rising",
+        "url": "https://open.spotify.com/album/6JySDRwEKdDUx2BXVvGYst"
+      },
+      "artists": [
+        {
+          "name": "faery",
+          "url": "https://open.spotify.com/artist/7uzaNaDY7uPjwR2mTKf41a"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269554,
+      "name": "ritual",
+      "url": "https://open.spotify.com/track/5dQF9qparegOfUOBW6NX69"
     },
     {
       "album": {
@@ -4226,7 +4378,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 286170,
       "name": "Seven Day Weekend",
       "url": "https://open.spotify.com/track/3jV0Kbqz4Y5J8lzMnXZTVf"
@@ -4771,6 +4923,24 @@
     },
     {
       "album": {
+        "name": "Get The Message",
+        "url": "https://open.spotify.com/album/2lBblu7sNDW7voZtOL9GAd"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165160,
+      "name": "Sweeter Than",
+      "url": "https://open.spotify.com/track/1cWS52bKcX1YPqosye28Hf"
+    },
+    {
+      "album": {
         "name": "Take a Picture",
         "url": "https://open.spotify.com/album/0JaA6nhSd5leI35STbvcwv"
       },
@@ -4829,6 +4999,24 @@
     },
     {
       "album": {
+        "name": "Tallulah",
+        "url": "https://open.spotify.com/album/0zVJBPrJMcuD9DuJtFyCLt"
+      },
+      "artists": [
+        {
+          "name": "Offthewally",
+          "url": "https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233404,
+      "name": "Tallulah",
+      "url": "https://open.spotify.com/track/4VTjwGmtr5rkubx3i4gLG6"
+    },
+    {
+      "album": {
         "name": "Tanto Arriba Como Abajo",
         "url": "https://open.spotify.com/album/22TgvKvFVQQ5S7zZ3dURQV"
       },
@@ -4840,7 +5028,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 221550,
       "name": "Tanto Arriba Como Abajo",
       "url": "https://open.spotify.com/track/3Sj6IETNYExfVJQXQTfeOj"
@@ -5490,6 +5678,24 @@
       "duration_ms": 179571,
       "name": "Unwounded",
       "url": "https://open.spotify.com/track/618iOTJUU6Axv2S2NbUX8n"
+    },
+    {
+      "album": {
+        "name": "urmybiggestfear",
+        "url": "https://open.spotify.com/album/54yn2HKSW9hyFu0yRPeKUi"
+      },
+      "artists": [
+        {
+          "name": "awfultune",
+          "url": "https://open.spotify.com/artist/1vkWdqcabQ1swciXipkLBj"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156018,
+      "name": "urmybiggestfear",
+      "url": "https://open.spotify.com/track/3B3sILdxwfmStSRAGUTEPO"
     },
     {
       "album": {

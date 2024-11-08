@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Aahatien",
+        "url": "https://open.spotify.com/album/2B2ctyT0LkheNR31bJQ4u9"
+      },
+      "artists": [
+        {
+          "name": "Ishan Thakur",
+          "url": "https://open.spotify.com/artist/5LyL2JxB3tk1cHmmpEGz56"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223727,
+      "name": "Aahatien",
+      "url": "https://open.spotify.com/track/1bK62cy1tyNFuq7DRLFUwe"
+    },
+    {
+      "album": {
         "name": "Sapne",
         "url": "https://open.spotify.com/album/2Lw9o65L8txLwH8Tg4jvWy"
       },
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 233875,
       "name": "Chaukhat (Acoustic)",
       "url": "https://open.spotify.com/track/5ieB78xk3KoBcNda4L1nSr"

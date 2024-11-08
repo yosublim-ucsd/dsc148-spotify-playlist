@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: LA MILAGROSA.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Mediapunta.",
   "name": "Rock 2024",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 199797,
       "name": "6 AM",
       "url": "https://open.spotify.com/track/2O9IemDWvMSVmBnhjX3zxe"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 191617,
       "name": "Al Amanecer",
       "url": "https://open.spotify.com/track/5FMnqUbLGqWi0Y12MCVYSN"
@@ -334,6 +334,24 @@
       "duration_ms": 206577,
       "name": "Apuntando a tu sien",
       "url": "https://open.spotify.com/track/54f5xQWeTgoZ9T28xS3no1"
+    },
+    {
+      "album": {
+        "name": "L\u00e1grimas y Milagros",
+        "url": "https://open.spotify.com/album/40P4jN9htifGsIMHjxmPWp"
+      },
+      "artists": [
+        {
+          "name": "Battosai",
+          "url": "https://open.spotify.com/artist/0IuuB4NgA0AT19Mxrifl7N"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147599,
+      "name": "Arde",
+      "url": "https://open.spotify.com/track/2gmRNw19tkeNn784Hlxvgp"
     },
     {
       "album": {
@@ -710,10 +728,28 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 183104,
       "name": "Cruz y Sed",
       "url": "https://open.spotify.com/track/6pXDM2hIRST00HzhiZ92UD"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Mediapunta",
+        "url": "https://open.spotify.com/album/79NKwxLkELvPJ0GB3uX8mZ"
+      },
+      "artists": [
+        {
+          "name": "Mediapunta",
+          "url": "https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141664,
+      "name": "C\u00fac\u00fa",
+      "url": "https://open.spotify.com/track/3b3E5M5gouQX1ttI6XBNsD"
     },
     {
       "album": {
@@ -1668,7 +1704,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 126504,
       "name": "La Persiana",
       "url": "https://open.spotify.com/track/5aOMpTOHYx1omSlIATG1XO"
@@ -1895,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "Mandarinas",
+        "url": "https://open.spotify.com/album/6QcTcblqw9WX83uF7Y1GRX"
+      },
+      "artists": [
+        {
+          "name": "Pinpilinpussies",
+          "url": "https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190183,
+      "name": "Mandarinas",
+      "url": "https://open.spotify.com/track/2lLnBNnbxcJCZ6oUxsKSIs"
+    },
+    {
+      "album": {
         "name": "Martes 13",
         "url": "https://open.spotify.com/album/7cBxE1Jmy4Xb6YdWze1plb"
       },
@@ -1932,7 +1986,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 188307,
       "name": "Mata mi amor",
       "url": "https://open.spotify.com/track/6mAJvyu5wT53O6dZNh8h29"
@@ -2492,7 +2546,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 182012,
       "name": "Paga y Se\u00f1al",
       "url": "https://open.spotify.com/track/1v9VKI3Xikbei4lyaqzSGA"
@@ -2586,6 +2640,24 @@
       "duration_ms": 329408,
       "name": "Patr\u00f3n de las causas imposibles",
       "url": "https://open.spotify.com/track/6opK17p2ZFqidUkLqlsCl4"
+    },
+    {
+      "album": {
+        "name": "Pelo De Foca",
+        "url": "https://open.spotify.com/album/1x3ua8H7j6q4lQMf5porQw"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212798,
+      "name": "Pelo De Foca",
+      "url": "https://open.spotify.com/track/3TnX1o4P2mCyM0to89CXkY"
     },
     {
       "album": {

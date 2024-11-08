@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-507 songs - 1 day 0 hr 12 min
+508 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,7 +393,7 @@
 | [Responsible](https://open.spotify.com/track/50PVqUQXKUG5CvtJUowAfl) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX) | [Responsible](https://open.spotify.com/album/5eMbobEyAhvmwvJsK3k8qu) | 2:58 | 2024-08-14 |  |
 | [Rhyme Ain’t Done](https://open.spotify.com/track/49aQ9RbGCOEu8oxkYr8Ous) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Bajwa](https://open.spotify.com/artist/235cIEn6QoaIkUtO2lLQzA) | [The Finest](https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy) | 3:01 | 2024-08-05 |  |
 | [Richie Rich](https://open.spotify.com/track/5OxAMzahUJ6vfpKe1sMSO4) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ), [Straight Bank](https://open.spotify.com/artist/6MmvoeQxFPr8VWERxYdE5f) | [In Your Thoughts](https://open.spotify.com/album/6YAIfEP5AwiMV7pFt6gVGg) | 3:02 | 2024-08-23 | 2024-09-29 |
-| [Rollie](https://open.spotify.com/track/0saDGGBSayvyvRZzTNnFH5) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [BREAKING THROUGH](https://open.spotify.com/album/3HJg9Q7qns6Ww8ucPlX2pM) | 2:26 | 2024-07-19 |  |
+| [Rollie](https://open.spotify.com/track/0saDGGBSayvyvRZzTNnFH5) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [BREAKING THROUGH](https://open.spotify.com/album/3HJg9Q7qns6Ww8ucPlX2pM) | 2:26 | 2024-07-19 | 2024-11-08 |
 | [Roots](https://open.spotify.com/track/3myb1xBazckdFGmSMuLofI) | [Pav](https://open.spotify.com/artist/1K8PZIahWBLEL9VWRuWSXW) | [Roots](https://open.spotify.com/album/2NChdk6UBRJfiCuanoEU92) | 2:09 | 2023-08-25 | 2023-10-05 |
 | [Royal](https://open.spotify.com/track/1ef21vkRkY1XdkhBHiHcLo) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0), [Lafz](https://open.spotify.com/artist/3AFsfA31wg6nLvZwSKFszq) | [Beyond Belief](https://open.spotify.com/album/7oF59pfaoiCd29K5UzT0K4) | 2:34 | 2023-09-11 | 2023-10-20 |
 | [Rubicon](https://open.spotify.com/track/3xsUWTwx4m4cYgpueIPOWi) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Rubicon](https://open.spotify.com/album/78eM6G2sL4H255Zq1UslaJ) | 4:11 | 2023-08-10 |  |
@@ -470,6 +470,7 @@
 | [Tu Te Sharaab](https://open.spotify.com/track/1DdAnzhSw7HT4xMNDrGMcV) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Jordan Sandhu Hits](https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq) | 3:15 | 2023-05-26 | 2024-04-19 |
 | [Tu Te Sharab](https://open.spotify.com/track/5aVuu233cUXaz2899s8fT9) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Tu Te Sharab](https://open.spotify.com/album/0rNIfWLgk9zDDTny87rS48) | 3:15 | 2024-04-19 | 2024-09-06 |
 | [Udda Adda](https://open.spotify.com/track/5l73e044D6SL8IrgKtQzbn) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Udda Adda](https://open.spotify.com/album/5rY6xAOZ9b4hg9HtOY5FPK) | 2:26 | 2024-06-28 | 2024-07-09 |
+| [Uddda Punjab](https://open.spotify.com/track/5i5JOVTr0il2Hki4ItgMMV) | [Gurlluv](https://open.spotify.com/artist/2iMoPGUtShi83odOZ7Eirj), [Master Mind](https://open.spotify.com/artist/2YeNjkqQUEPNtoEryZYbdz) | [Uddda Punjab](https://open.spotify.com/album/399GRdy23FNh6LAxlgSmyz) | 2:48 | 2024-11-07 |  |
 | [Unanswerable](https://open.spotify.com/track/0nestoDLiYS47RsEiET5fC) | [Prabh Bains](https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Unanswerable](https://open.spotify.com/album/3liOTxNCO9JIZnVB50hFUV) | 2:54 | 2024-01-02 | 2024-01-18 |
 | [Unexpected](https://open.spotify.com/track/1sbwUh5TnxyIug3zfbGwhJ) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Billa Balero](https://open.spotify.com/artist/43wdO0MiAJylEiH6aoUh7f), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Unexpected](https://open.spotify.com/album/0KN5XdHYFCLoBqUu7DS4w2) | 2:59 | 2023-06-30 | 2023-11-16 |
 | [Unskippable](https://open.spotify.com/track/6D0UutN2BbNaVP1RXHeRe5) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Balkar](https://open.spotify.com/artist/6zNY19Sp24dlHukMG0CC3k), [RAFAL](https://open.spotify.com/artist/3kjboz3TWSwnvvLdXSOX9z) | [Unskippable](https://open.spotify.com/album/0zjBmT5JsW3W317YFGEuJR) | 2:21 | 2024-04-26 |  |

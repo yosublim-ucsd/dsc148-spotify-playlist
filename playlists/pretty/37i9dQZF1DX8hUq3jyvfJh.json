@@ -1,6 +1,6 @@
 {
   "description": "Escute T\u00e1ssia Reis e mais mulheres no volume m\u00e1ximo! Co-curadoria com  <a href=\"spotify:artist:0kc1BjcLHaXhZVzCp0HeAl\">T\u00e1ssia Reis</a>",
-  "num_followers": 187052,
+  "num_followers": 187056,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-11-06 20:37:39",
       "album": {
+        "name": "TR\u00d3PICO 96",
+        "url": "https://open.spotify.com/album/7HVwretLZVvhXb2gApReVS"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "duration_ms": 156618,
+      "name": "PRIMAVERA NA SELVA",
+      "url": "https://open.spotify.com/track/2uutN6hM3ZuZOvu7OoowRo"
+    },
+    {
+      "added_at": "2024-11-06 20:37:39",
+      "album": {
         "name": "N\u00e3o \u00e9 S\u00f3 Isso",
         "url": "https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 189716,
       "name": "Perfeito \u00c9 o Mar",
       "url": "https://open.spotify.com/track/6KLaWP1J5jjCHYCdVaLm7R"
-    },
-    {
-      "added_at": "2024-11-06 20:37:39",
-      "album": {
-        "name": "TR\u00d3PICO 96",
-        "url": "https://open.spotify.com/album/7HVwretLZVvhXb2gApReVS"
-      },
-      "artists": [
-        {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
-        }
-      ],
-      "duration_ms": 156618,
-      "name": "PRIMAVERA NA SELVA",
-      "url": "https://open.spotify.com/track/2uutN6hM3ZuZOvu7OoowRo"
     },
     {
       "added_at": "2024-11-06 20:37:39",

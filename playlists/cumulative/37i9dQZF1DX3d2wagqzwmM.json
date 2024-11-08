@@ -488,7 +488,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 164404,
       "name": "Aria",
       "url": "https://open.spotify.com/track/48FWcTAUppLh7yPkkkKtJK"
@@ -9642,6 +9642,32 @@
       "duration_ms": 368840,
       "name": "The Feeling - 2022 Remaster",
       "url": "https://open.spotify.com/track/4ZhVRSxT1JP0SWp4VF0EL9"
+    },
+    {
+      "album": {
+        "name": "Vinyl Only (Live at Tomorrowland)",
+        "url": "https://open.spotify.com/album/3rezHr9oHODeCApPiqRiN6"
+      },
+      "artists": [
+        {
+          "name": "Cherrymoon Trax",
+          "url": "https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh"
+        },
+        {
+          "name": "Yves Deruyter",
+          "url": "https://open.spotify.com/artist/0jKR1DdWGSZB2hYgJq82qt"
+        },
+        {
+          "name": "BY\u00d8RN",
+          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188078,
+      "name": "The House Of House - Yves Deruyter & BY\u00d8RN Remix - Live At Tomorrowland",
+      "url": "https://open.spotify.com/track/6pvcrKHVbcTZGio7XWMiPG"
     },
     {
       "album": {

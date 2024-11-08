@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-741 songs - 1 day 7 hr 35 min
+743 songs - 1 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Bastiments](https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Núria](https://open.spotify.com/album/35xNbujDkw7WI2064N4L53) | 2:56 | 2023-02-24 | 2023-04-22 |
 | [Beautiful symbol](https://open.spotify.com/track/0Sc485nvujwCllSECRF2sT) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Beautiful symbol](https://open.spotify.com/album/0Kd5h9Eqr1B0RclDkHK8UJ) | 2:19 | 2023-04-21 |  |
 | [Beber](https://open.spotify.com/track/6zdOx3LZzFC2N8sktS9Q9d) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Beber](https://open.spotify.com/album/3cY2rn8DBLUH2JCI4w15km) | 4:13 | 2022-07-15 | 2023-04-22 |
-| [Before The Tide](https://open.spotify.com/track/2EA0USkLuQoDCZhOl73g25) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Before The Tide](https://open.spotify.com/album/7bHzqhTmGGfDNvYHEFQQGi) | 2:37 | 2023-04-21 |  |
+| [Before The Tide](https://open.spotify.com/track/2EA0USkLuQoDCZhOl73g25) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Before The Tide](https://open.spotify.com/album/7bHzqhTmGGfDNvYHEFQQGi) | 2:37 | 2023-04-21 | 2024-11-08 |
 | [Before We Go](https://open.spotify.com/track/1I6l7jb9XihT5gUtXx9xA5) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 2:49 | 2024-02-02 |  |
 | [Before You go](https://open.spotify.com/track/3m4gh0NRsAwzyGjPoL2o3s) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Before You Go](https://open.spotify.com/album/3PdwBttSdtSzCa9hktsYxf) | 2:52 | 2023-03-10 | 2023-04-22 |
 | [Believer](https://open.spotify.com/track/3mA4fggOpZDCXfJ9cRZ4Gu) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Believer](https://open.spotify.com/album/3MxRSWPr4OfBtPGUgImiUq) | 2:11 | 2023-04-21 | 2023-10-31 |
@@ -169,7 +169,7 @@
 | [Dedicatoria](https://open.spotify.com/track/4kSgfg7Onjho66CRdBNIEV) | [Enrique Granados](https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT), [Laurine Phélut](https://open.spotify.com/artist/2oK2RQBv4xshG5I2K1YsXh) | [Dedicatoria](https://open.spotify.com/album/14UWqXiWi3thrZOh1oUEIO) | 2:03 | 2023-04-21 | 2023-05-13 |
 | [Deep End](https://open.spotify.com/track/3NHWhbuTDRO5y5lWjkZOLE) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Deep End](https://open.spotify.com/album/1LvDcTZgsmxYBuuyKFt8ba) | 2:23 | 2023-04-21 | 2023-06-09 |
 | [Deep Rivers](https://open.spotify.com/track/68DrdlEmRZrV7XSrGxg4Fc) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Deep Rivers](https://open.spotify.com/album/7pEzbIpYdVpDxBUhDkcZQu) | 2:16 | 2023-04-21 | 2024-04-20 |
-| [Deep Waters](https://open.spotify.com/track/2OhWtf18hW60rqXpCxhCLL) | [Nathaniel Hugh](https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP) | [Deep Waters](https://open.spotify.com/album/2jFYCbPkXAN8JrOG93kXmt) | 2:19 | 2023-08-10 |  |
+| [Deep Waters](https://open.spotify.com/track/2OhWtf18hW60rqXpCxhCLL) | [Nathaniel Hugh](https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP) | [Deep Waters](https://open.spotify.com/album/2jFYCbPkXAN8JrOG93kXmt) | 2:19 | 2023-08-10 | 2024-11-08 |
 | [Demelza](https://open.spotify.com/track/4ENWUdGVKTUKpwLVcW7wCW) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Demelza](https://open.spotify.com/album/3I4jdlp5h4GbDV5OOletTP) | 3:25 | 2023-03-10 | 2024-07-19 |
 | [Depois do adeus](https://open.spotify.com/track/3UW7pLXAXwvGc6cMnnYd0e) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [The Longest Night](https://open.spotify.com/album/4LiHFIquwspZcQoqIfrTgi) | 2:51 | 2022-07-15 | 2023-04-22 |
 | [der Elch](https://open.spotify.com/track/4O13E1iUnn7rHagANfr69q) | [Diane Edison](https://open.spotify.com/artist/1zBXAlRbmBsKxR6q9Xwph9) | [colored ocean](https://open.spotify.com/album/698szoxtS7pr3ur5Km4CaX) | 3:25 | 2022-07-15 | 2023-02-25 |
@@ -257,6 +257,7 @@
 | [Fragments of Euphoria](https://open.spotify.com/track/5OD8nTv8JgpKgoynKK0uKX) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Fragments of Euphoria](https://open.spotify.com/album/45y293r9gbGgELK6bXWJWu) | 2:02 | 2024-04-19 |  |
 | [Frelsien](https://open.spotify.com/track/3FyCPb0sXgPpBnsvIosqAZ) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Frelsien](https://open.spotify.com/album/2xX3upugD201f0C2N2AsPr) | 2:10 | 2023-06-02 |  |
 | [Frozen Caipirinha](https://open.spotify.com/track/0rl1WFFKnRVG0tDlrB2vJU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Frozen Caipirinha](https://open.spotify.com/album/3OXLuVmNEUvts49jtiSqw4) | 3:11 | 2022-07-15 | 2023-04-22 |
+| [Full Of Life](https://open.spotify.com/track/3J27JxJCR0M6KgacpLfVAC) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Full Of Life](https://open.spotify.com/album/2TNQtjdGUSaiq5FIA2ZL1p) | 2:23 | 2024-11-06 |  |
 | [Fáilte](https://open.spotify.com/track/7g4jqCEvQZGdRKemCNdOxm) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Fáilte](https://open.spotify.com/album/1Whcn3o7IpIoJtQXEBq6TZ) | 1:44 | 2023-02-24 | 2023-04-22 |
 | [Galtymore](https://open.spotify.com/track/4NkVCOn4HmV6EvxIpAjInt) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Galtymore](https://open.spotify.com/album/52jTyKeU3kMpaUYrOyHaW2) | 1:57 | 2023-04-21 | 2023-08-26 |
 | [Gambrels of the Sky](https://open.spotify.com/track/6AYKnVV6OEgnOreURn48Kt) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Gambrels of the Sky](https://open.spotify.com/album/4UwgahnCyZDBe2L0jJLGGR) | 2:09 | 2023-04-21 |  |
@@ -599,6 +600,7 @@
 | [Somerset Plains](https://open.spotify.com/track/4luPpryRb3YBh7EJVasSEa) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Somerset Plains](https://open.spotify.com/album/1XjHghFs6aOY6jZ7t0Dm2q) | 2:52 | 2024-10-09 |  |
 | [Something For You](https://open.spotify.com/track/6oqZPFJ1LM1hokfEdUBPxp) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Something For You](https://open.spotify.com/album/2RZsThQXub83Rxjrxo0qvd) | 2:49 | 2024-04-05 |  |
 | [Soneto](https://open.spotify.com/track/44hRQCCOLtV5OnghKRFjqa) | [Jonny Wells](https://open.spotify.com/artist/3y9st5kQGA5SegPTroNQwK) | [Belgian Park](https://open.spotify.com/album/7ji31sf4p8xRHMoPA7o6mH) | 2:49 | 2022-07-15 | 2023-04-22 |
+| [Song for M](https://open.spotify.com/track/4rJHvUKN1s4Pqg3LuBdodv) | [Leo Ek](https://open.spotify.com/artist/0X9FoBNRpQYrWqcDPVBtRm) | [Song for M](https://open.spotify.com/album/23duHRgcP6eXViGpdDC1RZ) | 1:59 | 2024-11-06 |  |
 | [Song for Solomon](https://open.spotify.com/track/65ecJZz4yOi2J0zvnHWCCL) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Song for Solomon](https://open.spotify.com/album/1HGnVzzqfxxIKARTUW1LBb) | 1:53 | 2023-04-21 | 2023-08-26 |
 | [Sonidos De La Tarde](https://open.spotify.com/track/3qNkQ9TgNVvHKwc55SFUYf) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [Sonidos De La Tarde](https://open.spotify.com/album/0piCaKv5lgsUxhGI0wgK37) | 1:49 | 2022-10-07 | 2023-04-22 |
 | [Sorrento](https://open.spotify.com/track/2tK0zbhhHsbQIjHSk6XmaF) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Sorrento](https://open.spotify.com/album/4h28TS4QXiLmaPEzON7Jrr) | 2:19 | 2023-08-17 |  |

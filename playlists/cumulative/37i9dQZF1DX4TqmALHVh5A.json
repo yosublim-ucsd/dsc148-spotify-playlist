@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Zaho de Sagazan",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : La Femme",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 201000,
       "name": "ALED",
       "url": "https://open.spotify.com/track/41hl3QWKVaFZMZTNZhrARK"
@@ -150,6 +150,24 @@
       "duration_ms": 365866,
       "name": "Aloha Baby",
       "url": "https://open.spotify.com/track/6U3pRWlzTqWbjBjBHfIvEI"
+    },
+    {
+      "album": {
+        "name": "ami imaginaire",
+        "url": "https://open.spotify.com/album/0B7SOPumsN7vzJ7Ygo8Zet"
+      },
+      "artists": [
+        {
+          "name": "billie",
+          "url": "https://open.spotify.com/artist/5OlAhdgR13gu6r0MZU8eKj"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211866,
+      "name": "ami imaginaire",
+      "url": "https://open.spotify.com/track/0DuA2KLpfMq2TLgtHJ0g2b"
     },
     {
       "album": {
@@ -405,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/3U4bXvoOv10wXlVoC6mgOp"
+      },
+      "artists": [
+        {
+          "name": "Sad Madona",
+          "url": "https://open.spotify.com/artist/4EvpdSBOFHv6LKFEJwr3hU"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223750,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/4hPTbO8F3zfsXPZdXIsqMv"
+    },
+    {
+      "album": {
         "name": "Boule \u00e0 facettes",
         "url": "https://open.spotify.com/album/57PMenm8EzPiBoKgCNxRwr"
       },
@@ -553,6 +589,24 @@
     },
     {
       "album": {
+        "name": "CAVALE! CAVALE!",
+        "url": "https://open.spotify.com/album/68AEssE8c18RfEo7e8XTMZ"
+      },
+      "artists": [
+        {
+          "name": "TH\u00c9A",
+          "url": "https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149840,
+      "name": "CAVALE! CAVALE!",
+      "url": "https://open.spotify.com/track/0ZQLRkRyn3300WyapdPoWT"
+    },
+    {
+      "album": {
         "name": "Une Nouvelle Chance",
         "url": "https://open.spotify.com/album/2y0CqT7wxeJ4xXGEt9OpEl"
       },
@@ -618,7 +672,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 178933,
       "name": "Champion",
       "url": "https://open.spotify.com/track/6vVR1PuILHNXSHTyPCmFRA"
@@ -870,7 +924,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 129875,
       "name": "DANS SES YEUX",
       "url": "https://open.spotify.com/track/20SeuXMY4OisUyQSFcCdL8"
@@ -928,6 +982,24 @@
       "duration_ms": 286874,
       "name": "DEEP HOLES",
       "url": "https://open.spotify.com/track/6OL3oeNSREzPpS0x0oCAM4"
+    },
+    {
+      "album": {
+        "name": "Traction",
+        "url": "https://open.spotify.com/album/7LiCC0Nft1rvcw5EBuhPFz"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9l\u00e9pagaille",
+          "url": "https://open.spotify.com/artist/7xSQWmtIrYPK9Nw49pkrZ8"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193981,
+      "name": "Docteur",
+      "url": "https://open.spotify.com/track/5K39u8ZMvdLM0ca37Cig8S"
     },
     {
       "album": {
@@ -1126,7 +1198,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 208810,
       "name": "EREX",
       "url": "https://open.spotify.com/track/1feBH7mhbbUMNdNWkQSBmb"
@@ -1454,6 +1526,24 @@
       "duration_ms": 227336,
       "name": "In extremis",
       "url": "https://open.spotify.com/track/5c7xsAj83FaUHDzBNNE434"
+    },
+    {
+      "album": {
+        "name": "IN MY BLOOD",
+        "url": "https://open.spotify.com/album/5WiqMfeUMH6CR2T610whau"
+      },
+      "artists": [
+        {
+          "name": "Aime Simone",
+          "url": "https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179045,
+      "name": "IN MY BLOOD",
+      "url": "https://open.spotify.com/track/5Yo9Lvx0WDRky1sBiyF8tF"
     },
     {
       "album": {
@@ -2167,6 +2257,24 @@
     },
     {
       "album": {
+        "name": "Mascu Ferme Ta Gueule",
+        "url": "https://open.spotify.com/album/535KV48kRNmaoGMyIEk1Hj"
+      },
+      "artists": [
+        {
+          "name": "Droges",
+          "url": "https://open.spotify.com/artist/5SDTx48ndpoXdLVYixXAHd"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188826,
+      "name": "Mascu Ferme Ta Gueule",
+      "url": "https://open.spotify.com/track/5QQlYQJuk65q8zD82KPTBN"
+    },
+    {
+      "album": {
         "name": "Mauvais Gar\u00e7on",
         "url": "https://open.spotify.com/album/2xRuAm8VKXSMpbAjlqkCbW"
       },
@@ -2402,7 +2510,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 250849,
       "name": "N.I.O. (New Information Order)",
       "url": "https://open.spotify.com/track/6jnFRht548xiPuQFznKips"
@@ -2882,7 +2990,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 239711,
       "name": "Rebellion",
       "url": "https://open.spotify.com/track/6bDKIEnUYni24jV6ZR4ipt"
@@ -3446,7 +3554,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 174000,
       "name": "TAKING MY DISTANCE",
       "url": "https://open.spotify.com/track/4OSnWq7hDostU8EhYlkyVL"
@@ -3522,6 +3630,24 @@
       "duration_ms": 213200,
       "name": "The Mouse Song",
       "url": "https://open.spotify.com/track/4tAegyavCCwyqEOetfu7fx"
+    },
+    {
+      "album": {
+        "name": "Punkless",
+        "url": "https://open.spotify.com/album/045y7HcEE6xToS1dnocLwO"
+      },
+      "artists": [
+        {
+          "name": "SINK DEEPER",
+          "url": "https://open.spotify.com/artist/0JLgh8bfKTsEfukxZ2fxPO"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172871,
+      "name": "The Other",
+      "url": "https://open.spotify.com/track/215kPtqkq300QtsdcRVKeB"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.",
-  "num_followers": 31343,
+  "num_followers": 31341,
   "original_name": "Hot Girl Workout | Pilates, Gym, HIIT, Run Club \ud83c\udf51",
   "owner": {
     "name": "Filtr Australia\t",
     "url": "https://open.spotify.com/user/sonymusicaustralia"
   },
-  "snapshot_id": "AAANh7IaRHedhw8RR+MhDQnPEo9L9dtv",
+  "snapshot_id": "AAANi1vmteqaIPf9zXe7ur00ZaOfe3vW",
   "tracks": [
     {
       "added_at": "2024-10-24 22:19:22",
@@ -191,6 +191,26 @@
       "duration_ms": 252676,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/1bloKdHHnhiIDCGDfI2ugN"
+    },
+    {
+      "added_at": "2024-11-08 01:01:46",
+      "album": {
+        "name": "Save Me Now",
+        "url": "https://open.spotify.com/album/5lsflY35KZizwmo0ZNXVug"
+      },
+      "artists": [
+        {
+          "name": "Roger Sanchez",
+          "url": "https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 164296,
+      "name": "Save Me Now",
+      "url": "https://open.spotify.com/track/17cQgt5GjDN2lqCrArNbYM"
     },
     {
       "added_at": "2024-10-24 22:19:22",
@@ -975,26 +995,6 @@
       "duration_ms": 197164,
       "name": "Eat Your Man (with Nelly Furtado)",
       "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
-    },
-    {
-      "added_at": "2024-10-24 22:19:22",
-      "album": {
-        "name": "She's In The Club (feat. Asal)",
-        "url": "https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Asal",
-          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
-        }
-      ],
-      "duration_ms": 188011,
-      "name": "She's In The Club (feat. Asal)",
-      "url": "https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r"
     }
   ],
   "unique_name": "Hot Girl Workout | Pilates, Gym, HIIT, Run Club \ud83c\udf51",

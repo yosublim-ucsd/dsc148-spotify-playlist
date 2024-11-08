@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdU6D36RN4M1.md) - [plain]
 
 > y no llore, nomás acuérdese 🍺✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 45 likes - 86 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 284 likes - 86 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-356 songs - 1 day 10 hr 30 min
+357 songs - 1 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Em Meio Ao Vendaval \(Ao Vivo\)](https://open.spotify.com/track/6ZxiEkmFOQGA5xrLiV3yTS) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Em Meio Ao Vendaval \(Ao Vivo\)](https://open.spotify.com/album/3iALD5FS2raKNCjouli13t) | 5:01 | 2023-09-01 | 2024-09-14 |
 | [Em Teus Braços](https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ) | [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2), [Dunamis Music](https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce) | [Fornalha Laura Souguellis](https://open.spotify.com/album/6wc5LOhw4vZGwkaJPQqdwW) | 12:15 | 2022-09-09 |  |
 | [Enche\-me \- Ao Vivo](https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Enche\-me \(Ao Vivo\)](https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk) | 7:30 | 2022-09-09 |  |
+| [Escape / Nunca Pare de Lutar](https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9) | [Jadson Moreno](https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23) | [Escape / Nunca Pare de Lutar](https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q) | 9:25 | 2024-11-07 |  |
 | [Escolho Deus](https://open.spotify.com/track/4DlUWz3HnEoQrwKN0fFfwO) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Saudade, Vol\. 2](https://open.spotify.com/album/2Zg8Q0hCbXr56S86f1C918) | 4:01 | 2022-10-28 |  |
 | [Esperança \- Ao Vivo](https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Esperança \(Ao Vivo\)](https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO) | 5:19 | 2022-09-09 | 2023-07-08 |
 | [Espírito Santo](https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 4:19 | 2022-11-04 |  |
@@ -286,7 +287,7 @@
 | [Santo dos Santos](https://open.spotify.com/track/1uHkF8uTBRLQMir5CxLDSQ) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF), [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Santo dos Santos](https://open.spotify.com/album/7hYkP03ILQ9LiVRkr98Ojk) | 4:38 | 2024-08-09 |  |
 | [Santo Espírito \(Enche a Casa\)](https://open.spotify.com/track/4owZeLc2PPX2eHOmGbPn2Q) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Santo Espírito \(Enche a Casa\)](https://open.spotify.com/album/5Osmnx51FVj8qHfr1ff9jM) | 6:10 | 2024-09-06 |  |
 | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \- Ao Vivo](https://open.spotify.com/track/06I10BV3eKbBeWMELGddHT) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Graça \(Ao Vivo\)](https://open.spotify.com/album/0Gdv1W2qUBvyGokxjDmK71) | 8:33 | 2023-07-07 | 2023-10-21 |
-| [Santo Pra Sempre](https://open.spotify.com/track/6qiOuHLcWrcBHAGnKUmCok) | [Ministério Atitude](https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4) | [Santo Pra Sempre](https://open.spotify.com/album/7xFirCgHOzweWZaggIIgzj) | 5:09 | 2024-09-06 |  |
+| [Santo Pra Sempre](https://open.spotify.com/track/6qiOuHLcWrcBHAGnKUmCok) | [Ministério Atitude](https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4) | [Santo Pra Sempre](https://open.spotify.com/album/7xFirCgHOzweWZaggIIgzj) | 5:09 | 2024-09-06 | 2024-11-08 |
 | [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/track/5c6o5yQdZ8jRCxboHK5SAq) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/album/23thq9ElD6i6CoXulKrPSb) | 5:17 | 2024-07-05 | 2024-10-17 |
 | [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y) | 5:12 | 2023-02-18 | 2023-09-02 |
 | [Santo pra Sempre \- Ao Vivo](https://open.spotify.com/track/2jCAyhO8rDrechp8ekD9TT) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [In Concert \(Ao Vivo\)](https://open.spotify.com/album/27qwBuiWJptuALWu9zCFt5) | 8:07 | 2023-09-15 | 2023-11-30 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Carlos Ares.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Casero.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 136946,
       "name": "Adi\u00f3s",
       "url": "https://open.spotify.com/track/2a5xxtnfyDsKBLosKJSaw2"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 202413,
       "name": "Ajedrez",
       "url": "https://open.spotify.com/track/2nMK2nFgxfTJdjyZPw8O04"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 186086,
       "name": "Arena x mis Venas",
       "url": "https://open.spotify.com/track/71XarJNXdqnpCPdCkBWkqB"
@@ -512,6 +512,42 @@
       "duration_ms": 221959,
       "name": "Buckingham",
       "url": "https://open.spotify.com/track/3tnZP7bdapECC5IZT8bwtR"
+    },
+    {
+      "album": {
+        "name": "Pensando en Alto",
+        "url": "https://open.spotify.com/album/5Mtb8ayemEBnd92OcueROa"
+      },
+      "artists": [
+        {
+          "name": "Lemot",
+          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152548,
+      "name": "Buscando Mitades",
+      "url": "https://open.spotify.com/track/6hdEvBSGqMsoHGk9PZXahB"
+    },
+    {
+      "album": {
+        "name": "estoy exagerando???",
+        "url": "https://open.spotify.com/album/3xZu3Cr9aWpxjzON9D7WEK"
+      },
+      "artists": [
+        {
+          "name": "Casero",
+          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155145,
+      "name": "Cada superficie",
+      "url": "https://open.spotify.com/track/7LPVrmVk7D2GoXf8lRmWh1"
     },
     {
       "album": {
@@ -724,7 +760,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 117891,
       "name": "COMO YO",
       "url": "https://open.spotify.com/track/506T6zVDUSlZ0d4pIMhMGJ"
@@ -854,6 +890,28 @@
       "duration_ms": 192516,
       "name": "Cre\u00ed que era eterno",
       "url": "https://open.spotify.com/track/0Tg0GZmGnB7nozNRy8OMxX"
+    },
+    {
+      "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/0fb9EJam0LRXtnKfxGndYL"
+      },
+      "artists": [
+        {
+          "name": "Celia Becks",
+          "url": "https://open.spotify.com/artist/50WyUnAV5BUImbldUlW5e1"
+        },
+        {
+          "name": "Chica Sobresalto",
+          "url": "https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202478,
+      "name": "Crisis",
+      "url": "https://open.spotify.com/track/7AXbYamdqfw14MQZGeYlDM"
     },
     {
       "album": {
@@ -1746,7 +1804,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 249192,
       "name": "Grana\u00edco",
       "url": "https://open.spotify.com/track/0WEid1VuBFoCgrxPDjK3P5"
@@ -1902,7 +1960,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 187000,
       "name": "Imparables",
       "url": "https://open.spotify.com/track/1lpXBntIB3GILpelgl7hWn"
@@ -2296,7 +2354,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 190875,
       "name": "Lo Que Hay Dentro de M\u00ed",
       "url": "https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB"
@@ -2792,7 +2850,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 251533,
       "name": "MonteViso",
       "url": "https://open.spotify.com/track/4BHIEJeMunK0SyugD0UxjE"
@@ -3028,6 +3086,24 @@
       "duration_ms": 147789,
       "name": "No Te Voy a Besar",
       "url": "https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ"
+    },
+    {
+      "album": {
+        "name": "Elige Tu Propia Aventura",
+        "url": "https://open.spotify.com/album/1sa5uIkm6strFBumSGcV1X"
+      },
+      "artists": [
+        {
+          "name": "Carolina Durante",
+          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150170,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/3oag6xsH3APi2oHU8hVp8E"
     },
     {
       "album": {
@@ -3328,7 +3404,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 183200,
       "name": "Plastificar",
       "url": "https://open.spotify.com/track/2CCRJ9I82UJb3LokB5Ewc2"
@@ -3552,7 +3628,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 235565,
       "name": "relevante",
       "url": "https://open.spotify.com/track/5MsdSGMDYL4vPzoesYcOYt"
@@ -3826,7 +3902,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 159419,
       "name": "TECHNO RICO",
       "url": "https://open.spotify.com/track/6eY5RjZpG6tKQ70rGU8uNq"
@@ -3902,7 +3978,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 164130,
       "name": "Tiemblo",
       "url": "https://open.spotify.com/track/5H8Fn7NsXgnl6dE1xDfLIH"

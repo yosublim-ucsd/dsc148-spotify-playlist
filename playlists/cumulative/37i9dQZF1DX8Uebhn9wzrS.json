@@ -3637,6 +3637,24 @@
     },
     {
       "album": {
+        "name": "Beyond the garden",
+        "url": "https://open.spotify.com/album/0u3sYI2WBuiNRZUA0xlpNh"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Boy",
+          "url": "https://open.spotify.com/artist/4WMeBMNmAV2fcw5UYjBqho"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163320,
+      "name": "Beyond the garden",
+      "url": "https://open.spotify.com/track/2qpqbfuEx0umWCplWvt8Ym"
+    },
+    {
+      "album": {
         "name": "Beyond the Oak Trees",
         "url": "https://open.spotify.com/album/2MesGtIqZHcMkMo40ogNph"
       },
@@ -18848,7 +18866,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 158117,
       "name": "Lemon Gardens",
       "url": "https://open.spotify.com/track/3VChI6nBTxw1Jk7f5QRoGU"
@@ -34092,7 +34110,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 164166,
       "name": "sunset",
       "url": "https://open.spotify.com/track/1hYG93eKWeFzJlIZTOAVX9"
@@ -38590,6 +38608,24 @@
       "duration_ms": 171428,
       "name": "Waves coming",
       "url": "https://open.spotify.com/track/2J6oZ9gQYE9kl3RJoRuhfn"
+    },
+    {
+      "album": {
+        "name": "Waves of Affection",
+        "url": "https://open.spotify.com/album/4Aial9QGHocPz3n1IJtCjA"
+      },
+      "artists": [
+        {
+          "name": "MC",
+          "url": "https://open.spotify.com/artist/0DyoPw1p8N3GheQzvjt7x5"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153442,
+      "name": "Waves of Affection",
+      "url": "https://open.spotify.com/track/3CbR0A70vykSvo892Q8GFM"
     },
     {
       "album": {

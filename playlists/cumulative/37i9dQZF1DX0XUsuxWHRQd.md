@@ -4,7 +4,7 @@
 
 > New music from Lil Uzi Vert, Tyler, The Creator, Future and Travis Scott.
 
-2,211 songs - 4 day 18 hr 33 min
+2,212 songs - 4 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1796,6 +1796,7 @@
 | [Still Remember \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/4s0AWdpGS0Bc3kVgNBp2kk) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Still Remember \(feat\. Pooh Shiesty\)](https://open.spotify.com/album/6XSJBqlAz6Eepb60WqmGpH) | 4:02 | 2020-06-19 | 2020-06-29 |
 | [STILL SMOKE](https://open.spotify.com/track/0GCYJbjsnC8FyW0kUJHhS5) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [STILL SMOKE](https://open.spotify.com/album/27868bzSX6OAJbs83hhkf4) | 2:55 | 2021-02-12 | 2021-02-13 |
 | [Still That Way \(feat\. Bongo ByTheWay\)](https://open.spotify.com/track/3KSfYydFjoi6TjH2lyIhI9) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Bongo ByTheWay](https://open.spotify.com/artist/52XVQUBiGoiv1E3bQZ3KHd) | [Still That Way \(feat\. Bongo ByTheWay\)](https://open.spotify.com/album/5xE4vlYZaS40sxlgFfwzmx) | 3:16 | 2023-11-17 | 2023-12-02 |
+| [Still Tippin' \(feat\. Slim Thug and Paul Wall\)](https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la) | [Mike Jones](https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [Who Is Mike Jones?](https://open.spotify.com/album/1YU3MPIMY9rZOE899khVj2) | 4:31 | 2024-11-07 |  |
 | [Still Trappin' \(with King Von\)](https://open.spotify.com/track/43BlKpJcSrC9AsJ3F1DKg9) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [The Voice](https://open.spotify.com/album/12TuxCWI6BzfSXaZMKMrPn) | 2:52 | 2020-12-24 | 2021-05-12 |
 | [Stone Rolling](https://open.spotify.com/track/4ur8qEgQgCCZaD1Jf4XRMF) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Stone Rolling](https://open.spotify.com/album/7al2qlrlND8C2sA1UGaYDF) | 3:00 | 2022-07-29 | 2022-08-13 |
 | [Stop Breathing](https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Stop Breathing](https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe) | 1:50 | 2022-09-30 | 2022-12-31 |

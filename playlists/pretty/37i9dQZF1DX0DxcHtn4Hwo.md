@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 
 > Soothing instrumental music for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,294 likes - 355 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,382 likes - 355 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 | 67 | [Naptime](https://open.spotify.com/track/60GTvX6b3SZKJtwtZgJxkF) | [H\. Jacoby](https://open.spotify.com/artist/77xevCV69NGtqxTEZxHNd1) | [Naptime](https://open.spotify.com/album/2a185FuH6GVSKEbgiEdUd7) | 1:45 |
 | 68 | [Baby Bear’s Ballad](https://open.spotify.com/track/5wwecYMNWdNcRwoIkZcsLX) | [Madeline Lavender](https://open.spotify.com/artist/1NHyRzNtgtp43tHBx9jFhx) | [Baby Bear’s Ballad](https://open.spotify.com/album/2rgq50I7ge7K6PQRlTn70w) | 2:28 |
 | 69 | [Door\-Peak Moodlight](https://open.spotify.com/track/0hCGHQxMlw8qpGJoy4hnUg) | [Freddie Leland](https://open.spotify.com/artist/1ZcNkiNnCczkWXc5C6Ukxx) | [Door\-Peak Moodlight](https://open.spotify.com/album/0sk5VPIbey7aXl7GlK8qKa) | 2:10 |
-| 70 | [The Cutest Thing](https://open.spotify.com/track/4SzxS3LeYScmZWkhK4cdaN) | [Alva Klarström](https://open.spotify.com/artist/4st9pHP2wqPPpjXoRZ6S7t) | [The Cutest Thing](https://open.spotify.com/album/0fd8HQoP67omrbgJ3mURlO) | 2:17 |
+| 70 | [The Cutest Thing](https://open.spotify.com/track/4SzxS3LeYScmZWkhK4cdaN) | [Alva Klarström](https://open.spotify.com/artist/50id9oYraGr4qm3XfTKMfO) | [The Cutest Thing](https://open.spotify.com/album/0fd8HQoP67omrbgJ3mURlO) | 2:17 |
 | 71 | [Dreaming of Stars](https://open.spotify.com/track/2YcqPWSjshDT6arcCEZyG4) | [Finn Montgomery](https://open.spotify.com/artist/7eRI0gvdQnmHbga9AflrwP) | [Dreaming of Stars](https://open.spotify.com/album/1BpMnMimaTRpHyfUdmSLYs) | 2:06 |
 | 72 | [Sleepy Clouds](https://open.spotify.com/track/7fMrzJgBQSprNEV7iFI68u) | [Petra Mogensen](https://open.spotify.com/artist/6aNZ6GQv8yP3HFmpXtGY5r) | [Sleepy Clouds](https://open.spotify.com/album/0iSkJupalfCNNeLEMjW1P2) | 1:11 |
 | 73 | [Heart Of Gold](https://open.spotify.com/track/0MDpvtbdWeLZPw1kpynlry) | [Sandra Forster](https://open.spotify.com/artist/3TLHL40IaEycdPNoxTqK3a) | [Heart Of Gold](https://open.spotify.com/album/3f0yAEneJ07D1pFz0KEBLe) | 1:59 |

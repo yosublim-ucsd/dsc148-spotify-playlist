@@ -4,7 +4,7 @@
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-119 songs - 7 hr 58 min
+120 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Bother You](https://open.spotify.com/track/1fHW8dbdd4gnIKEFcKjHqw) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Terry Da Rapman](https://open.spotify.com/artist/2c3cCZQWFnwXnnZRhlvK5I) | [AWAY & BEYOND PLUS](https://open.spotify.com/album/2jlFfIJGPB0NQb3Q040sLa) | 4:16 | 2021-12-28 | 2023-02-13 |
 | [Bother You \(feat\. Terry Da Rapman\)](https://open.spotify.com/track/6YI8BQfLb1QdlTjB4lduCK) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Terry Da Rapman](https://open.spotify.com/artist/2c3cCZQWFnwXnnZRhlvK5I) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 4:16 | 2024-04-19 | 2024-10-01 |
 | [Coded Tinz](https://open.spotify.com/track/2vrMrplf0UBqixxCA7hJpU) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Chief Obi](https://open.spotify.com/artist/4eXIbW9SDhsAowo6FJXiLr) | [Afro Hip Hop, Vol\. 7](https://open.spotify.com/album/6aAw8fSxxxvba2BTSCoXNp) | 4:11 | 2021-12-29 | 2022-09-26 |
-| [Cover Me](https://open.spotify.com/track/2ZjpGRPvDfnUvFjtMJenxQ) | [Cobhams Asuquo](https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [The Kabal](https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ) | [Cover Me](https://open.spotify.com/album/32qvTAkxUFBQcipXv9dpkU) | 4:05 | 2023-11-10 |  |
+| [Cover Me](https://open.spotify.com/track/2ZjpGRPvDfnUvFjtMJenxQ) | [Cobhams Asuquo](https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [The Kabal](https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ) | [Cover Me](https://open.spotify.com/album/32qvTAkxUFBQcipXv9dpkU) | 4:05 | 2023-11-10 | 2024-11-08 |
 | [Dance Go \(Eau De Vie\)](https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 3:48 | 2021-12-28 |  |
 | [Dance in the Rain](https://open.spotify.com/track/3bhQHT4YYeQugPW643l8JX) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 3:38 | 2024-03-25 |  |
 | [Dance in the Rain](https://open.spotify.com/track/71nvD9S3qUai7oeccEL9ZM) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/1rEIwfjq7qKaUgrpK3pxSX) | 3:38 | 2021-12-28 | 2024-03-26 |
@@ -104,6 +104,7 @@
 | [Right Here \- Remastered Version](https://open.spotify.com/track/6uDx4p5FwDZesqipK8inqo) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 4:46 | 2022-03-29 | 2022-11-17 |
 | [Rise Up](https://open.spotify.com/track/52vFTpJ6BRTSMI9K9IwI4f) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Rise Up](https://open.spotify.com/album/1Q2opiQfdZIP9DvBZNryG7) | 5:04 | 2021-12-28 | 2024-05-05 |
 | [Searching](https://open.spotify.com/track/6A6rSOYp5xAgyNELLBwdWH) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Bongos Ikwue](https://open.spotify.com/artist/4JSDqRrKYBFBjxS31YfWYK) | [Searching](https://open.spotify.com/album/34w5UK4AMarI8UU8G09ZOD) | 4:12 | 2021-12-28 | 2022-08-08 |
+| [Searching](https://open.spotify.com/track/487P3mgPm49m8NNbxPX1je) | [Nelo](https://open.spotify.com/artist/7Lz869ya6LEy270Tk9gXoJ), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Bigdrfresh](https://open.spotify.com/artist/5hAHpdQcXXkNctF7AOvB4s) | [Searching](https://open.spotify.com/album/1ueVnJDIlqnxBz7nuEmajE) | 4:01 | 2024-11-08 |  |
 | [See God](https://open.spotify.com/track/4DvDxCnUIPR1JYjtVTrNVF) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [See God](https://open.spotify.com/album/6UUXAJrPGRLChc48c1jzLW) | 2:45 | 2024-09-14 | 2024-10-29 |
 | [See God](https://open.spotify.com/track/4tCeALAdETzi8VXAgn4nun) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Realness Over Hype](https://open.spotify.com/album/5Lr8uyHyEVzyHj4yTUF6JW) | 2:45 | 2024-03-30 |  |
 | [See Me So](https://open.spotify.com/track/0RdXMS28fH63l6Is3eHZXM) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:40 | 2021-12-28 |  |

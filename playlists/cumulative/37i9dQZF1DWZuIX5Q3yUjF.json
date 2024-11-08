@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: YOF",
+  "description": "Il meglio dell'R&B italiano. Cover: Martino",
   "name": "anima R&B",
   "tracks": [
     {
@@ -1027,6 +1027,40 @@
     },
     {
       "album": {
+        "name": "BASTA SESSION N\u00b05 (feat. Mecna, Rare\u015f, fenoaltea, Goedi)",
+        "url": "https://open.spotify.com/album/3sQ64U9PsBozOLzeBpma83"
+      },
+      "artists": [
+        {
+          "name": "BASTA",
+          "url": "https://open.spotify.com/artist/33Tsn820ALXaapDADshYiU"
+        },
+        {
+          "name": "Goedi",
+          "url": "https://open.spotify.com/artist/7bZowks3ghYkw5ywye26j9"
+        },
+        {
+          "name": "fenoaltea",
+          "url": "https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L"
+        },
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        },
+        {
+          "name": "Rare\u0219",
+          "url": "https://open.spotify.com/artist/1Bma7GS3Si9l7IZEc3S5L8"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207403,
+      "name": "BASTA SESSION N\u00b05 (feat. Mecna, Rare\u015f, fenoaltea, Goedi)",
+      "url": "https://open.spotify.com/track/6MSh1Q7ljD3bTtLv5mTns9"
+    },
+    {
+      "album": {
         "name": "Beb\u00e8",
         "url": "https://open.spotify.com/album/3hsKJOALwgmIJ4pbA5UxrK"
       },
@@ -1816,6 +1850,24 @@
       "duration_ms": 151414,
       "name": "CENTRALE ELETTRICA (feat. Not Good)",
       "url": "https://open.spotify.com/track/3jBe7yZjYmWF2Vuvh8ByhE"
+    },
+    {
+      "album": {
+        "name": "Centro",
+        "url": "https://open.spotify.com/album/6jgHRBpnm76df5jvQ6YFho"
+      },
+      "artists": [
+        {
+          "name": "panetto",
+          "url": "https://open.spotify.com/artist/3FEI4Afdz6Q5ujtld5hEnx"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159416,
+      "name": "Centro",
+      "url": "https://open.spotify.com/track/2jciLE43anyMuQ4KLrD2ln"
     },
     {
       "album": {
@@ -7917,6 +7969,24 @@
     },
     {
       "album": {
+        "name": "NON SEI SOLA",
+        "url": "https://open.spotify.com/album/2W2lFQ7KniQczWaCR15g5k"
+      },
+      "artists": [
+        {
+          "name": "Kay",
+          "url": "https://open.spotify.com/artist/3Z9p6RyeV3BQbBEtKSvcnk"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155918,
+      "name": "NON SEI SOLA",
+      "url": "https://open.spotify.com/track/470koiwdbXdlYlQeiGwlwY"
+    },
+    {
+      "album": {
         "name": "non siamo crazy in love",
         "url": "https://open.spotify.com/album/4w9xShJXyN7CWh1ShpkUFN"
       },
@@ -8928,6 +8998,24 @@
       "duration_ms": 183674,
       "name": "Pesca Noche",
       "url": "https://open.spotify.com/track/4K8CrCx25sTLfexADXFboz"
+    },
+    {
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/5h2LRZJExyO3ocA30p9PeG"
+      },
+      "artists": [
+        {
+          "name": "T\u00c4RA",
+          "url": "https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173628,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/0AvKnMD5KaL2NVGwL93N12"
     },
     {
       "album": {
@@ -10633,6 +10721,28 @@
     },
     {
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/3tpPd7rCJRUSpBWLX2OwBJ"
+      },
+      "artists": [
+        {
+          "name": "Alice Popolo",
+          "url": "https://open.spotify.com/artist/0l58OresOxHWt0SK423Upm"
+        },
+        {
+          "name": "Gransta MSV",
+          "url": "https://open.spotify.com/artist/47TJtqEyW7NkvzWaoNWixW"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227647,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/7AREqM5cjewY0rO4DyJ4JC"
+    },
+    {
+      "album": {
         "name": "Si potesse tornare",
         "url": "https://open.spotify.com/album/6dtLixuAy2xCAIotIjfiut"
       },
@@ -10742,6 +10852,24 @@
       "duration_ms": 230400,
       "name": "Sogni lucidi",
       "url": "https://open.spotify.com/track/3eEXsbKITTX3rxS6xan1nH"
+    },
+    {
+      "album": {
+        "name": "SOLA",
+        "url": "https://open.spotify.com/album/4jhHcDXdPjGrda06o64jOg"
+      },
+      "artists": [
+        {
+          "name": "Gojardi",
+          "url": "https://open.spotify.com/artist/2BK1KTuteomgkZ5ta3crjk"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160534,
+      "name": "SOLA",
+      "url": "https://open.spotify.com/track/3jPYg5QCXu9gXeSSMvHXjQ"
     },
     {
       "album": {
@@ -11287,6 +11415,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/3Yamej6rdIc4iEh5DU1tqX"
+      },
+      "artists": [
+        {
+          "name": "Naima Adams",
+          "url": "https://open.spotify.com/artist/0uj0S7PeKD9mVamrqi6cRc"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231243,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/00rV7NRdXgyBNPJTLgcuou"
+    },
+    {
+      "album": {
         "name": "Stella",
         "url": "https://open.spotify.com/album/63BDzPeYCCc9YaBULH4Kfo"
       },
@@ -11390,6 +11536,24 @@
       "duration_ms": 140739,
       "name": "Stupida Martina",
       "url": "https://open.spotify.com/track/6Ut5ILQVSB8scoQo6Dzg2O"
+    },
+    {
+      "album": {
+        "name": "STYLISH",
+        "url": "https://open.spotify.com/album/1jYygMEgvgOC6ssXdi1M5B"
+      },
+      "artists": [
+        {
+          "name": "BENNA",
+          "url": "https://open.spotify.com/artist/3Bbppi5cEGJnyhl6aYyUA1"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "STYLISH",
+      "url": "https://open.spotify.com/track/7Jm08pyyaIGe3JQKzLWrom"
     },
     {
       "album": {

@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "Goodbye Horses",
+        "url": "https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "3.5",
+      "url": "https://open.spotify.com/track/6YvCWIlMBJgQEm6i0POVbZ"
+    },
+    {
+      "album": {
         "name": "30 Minut",
         "url": "https://open.spotify.com/album/3SQg2JBLUH9WoWaRM1nYs7"
       },
@@ -12528,7 +12546,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 104418,
       "name": "Embrace It",
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
@@ -17024,7 +17042,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 216521,
       "name": "Gyere Kisl\u00e1ny",
       "url": "https://open.spotify.com/track/4ZXIRnU7kU6HCxjIUEVgoH"
@@ -17282,7 +17300,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 182375,
       "name": "Halloween Theme",
       "url": "https://open.spotify.com/track/6Z36wt7oo6xm2uGN00PnTq"
@@ -20260,7 +20278,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 238866,
       "name": "I'm Gonna Miss You",
       "url": "https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj"
@@ -23330,7 +23348,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 157408,
       "name": "Krisz x Jaki-Prikezsia",
       "url": "https://open.spotify.com/track/2rIK6WWOpGJY2uqXd0ejIa"
@@ -23904,6 +23922,24 @@
       "duration_ms": 170476,
       "name": "LATINO",
       "url": "https://open.spotify.com/track/5rdOl5O0auRq0m6FBUGcNQ"
+    },
+    {
+      "album": {
+        "name": "Latitude",
+        "url": "https://open.spotify.com/album/1Bqp3SN1vFRQsDJE73mK3K"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195466,
+      "name": "Latitude",
+      "url": "https://open.spotify.com/track/031wCW0a0oFjzp4Emiq3tr"
     },
     {
       "album": {
@@ -25384,7 +25420,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 173168,
       "name": "Love Potions",
       "url": "https://open.spotify.com/track/4yMMsS5QaEcsHZkKwdEyLv"
@@ -25410,6 +25446,32 @@
       "duration_ms": 173168,
       "name": "Love Potions",
       "url": "https://open.spotify.com/track/6ZK4VMxfEYLPqpSvX2l4iY"
+    },
+    {
+      "album": {
+        "name": "Love Potions",
+        "url": "https://open.spotify.com/album/2iAM0eE9CINH8G4giS2YkM"
+      },
+      "artists": [
+        {
+          "name": "thinandbruised",
+          "url": "https://open.spotify.com/artist/6OTLmV3yeeheL1DJZqdyqz"
+        },
+        {
+          "name": "tiffisrevenge",
+          "url": "https://open.spotify.com/artist/5HpA1HESIHkTyScqRefr8V"
+        },
+        {
+          "name": "BJLHDD",
+          "url": "https://open.spotify.com/artist/0lFYD25EACYkq3TTTSlfM3"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173199,
+      "name": "Love Potions",
+      "url": "https://open.spotify.com/track/4lssDNonCHgo3oUTHBlnQE"
     },
     {
       "album": {
@@ -32347,6 +32409,24 @@
     },
     {
       "album": {
+        "name": "NOW IT'S GONE",
+        "url": "https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143184,
+      "name": "NOW IT'S GONE",
+      "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
+    },
+    {
+      "album": {
         "name": "FLOWDEMORT",
         "url": "https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK"
       },
@@ -38542,7 +38622,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 203621,
       "name": "Safety Net",
       "url": "https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp"
@@ -48650,7 +48730,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 110110,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60"

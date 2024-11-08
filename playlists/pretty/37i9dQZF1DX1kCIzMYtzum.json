@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \ud83d\udc97 with Martin Garrix",
-  "num_followers": 267293,
+  "num_followers": 267589,
   "original_name": "EDM 2024",
   "owner": {
     "name": "Spotify",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2024-11-06 17:18:23",
       "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Jordan Rys",
-          "url": "https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI"
-        }
-      ],
-      "duration_ms": 143117,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp"
-    },
-    {
-      "added_at": "2024-11-06 17:18:23",
-      "album": {
         "name": "Don't Kill My Vibe",
         "url": "https://open.spotify.com/album/648IV7Co3PFq74vL5nimRr"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 173333,
       "name": "Don't Kill My Vibe",
       "url": "https://open.spotify.com/track/4QF4IfN0TqvJ00V7qHkLRw"
+    },
+    {
+      "added_at": "2024-11-06 17:18:23",
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Jordan Rys",
+          "url": "https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI"
+        }
+      ],
+      "duration_ms": 143117,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp"
     },
     {
       "added_at": "2024-11-06 17:18:23",

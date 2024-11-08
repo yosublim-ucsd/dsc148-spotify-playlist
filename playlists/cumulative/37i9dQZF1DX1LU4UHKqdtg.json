@@ -10608,7 +10608,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 187746,
       "name": "LAST PARADE",
       "url": "https://open.spotify.com/track/5g161vgVSZ2dhzczfNJcyx"
@@ -16895,6 +16895,24 @@
     },
     {
       "album": {
+        "name": "The 5th Mini Album 'VOYAGE'",
+        "url": "https://open.spotify.com/album/7xqdkXDwZiVOkdZZlKxjEL"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194533,
+      "name": "Shhh!",
+      "url": "https://open.spotify.com/track/3L87s9RtB0V6MmcBNLY7N6"
+    },
+    {
+      "album": {
         "name": "Shock",
         "url": "https://open.spotify.com/album/0W7ItdW3WDC6bFpM1MigWa"
       },
@@ -19839,6 +19857,24 @@
     },
     {
       "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/0nqC5SAcOnxL5v78tDSXCJ"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186026,
+      "name": "The Story",
+      "url": "https://open.spotify.com/track/1RgojDREKMLTMyhhD66LWj"
+    },
+    {
+      "album": {
         "name": "Restart",
         "url": "https://open.spotify.com/album/3lZxrczzvuxPrbJYf8Sdyo"
       },
@@ -20702,7 +20738,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 196347,
       "name": "UNO - YONAKA ver.",
       "url": "https://open.spotify.com/track/5PhyMZfcddYmadaJjTRPgh"

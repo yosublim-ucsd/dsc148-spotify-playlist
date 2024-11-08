@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "En Casa de Nuevo",
+        "url": "https://open.spotify.com/album/2rJtYri3ZApxr7CvKBsBja"
+      },
+      "artists": [
+        {
+          "name": "NomadsPlace",
+          "url": "https://open.spotify.com/artist/29LPAexrNbALMSFdg58wvu"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195380,
+      "name": "Cuidad De Esperanza",
+      "url": "https://open.spotify.com/track/1DaftASYoGjPZeBqLN6c7C"
+    },
+    {
+      "album": {
         "name": "Tariq",
         "url": "https://open.spotify.com/album/1UZbvM45s6cZ0eeu3nLmk2"
       },

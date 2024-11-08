@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: Jessica Baio
 
-6,718 songs - 13 day 22 hr 43 min
+6,719 songs - 13 day 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5724,6 +5724,7 @@
 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2024-06-07 | 2024-06-22 |
 | [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-09-13 | 2024-09-21 |
 | [Talk to Me](https://open.spotify.com/track/530vUvxZC1tb5TaI2WbkZP) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [Talk to Me](https://open.spotify.com/album/1glhki2A8QNVWONJVjPvjX) | 2:42 | 2023-03-17 | 2023-03-25 |
+| [talk to me](https://open.spotify.com/track/4m1Qw2bLggqiXjasXVp28N) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [talk to me](https://open.spotify.com/album/1IVucKXEFoi7YTwrBNBA9b) | 2:40 | 2024-10-25 |  |
 | [talk to myself](https://open.spotify.com/track/2EiRvwHGprZKv9pyRJ2suh) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [talk to myself](https://open.spotify.com/album/7CMa2HAU3Lb9Cvg8VYuOvy) | 2:34 | 2023-09-15 | 2023-09-23 |
 | [Talk to You](https://open.spotify.com/track/6nBeIPYpvl8XYnLarrpFqb) | [Carter Ryan](https://open.spotify.com/artist/2hg54ZO1N0bQXbTlLKWSnc) | [Talk to You](https://open.spotify.com/album/0vOzCiEnmb6tFYeDCPfHDb) | 3:02 | 2024-03-15 | 2024-04-06 |
 | [Talk Too Much](https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Talk Too Much](https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw) | 3:16 | 2023-07-14 | 2023-07-29 |

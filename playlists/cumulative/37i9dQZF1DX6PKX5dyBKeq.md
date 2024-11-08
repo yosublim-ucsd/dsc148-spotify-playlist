@@ -2,9 +2,9 @@
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Central Cee
+> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Mazza\_l20
 
-1,971 songs - 4 day 2 hr 59 min
+1,972 songs - 4 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,7 @@
 | [Busy](https://open.spotify.com/track/1uX8TkVO7QxSoleWuAV8qg) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Busy](https://open.spotify.com/album/493CafGxRu4siJcEN04Yg2) | 2:26 | 2022-07-29 | 2022-11-19 |
 | [By Chance \(feat\. 21 Savage\)](https://open.spotify.com/track/5bcb7UnSeKIfGNeNmxOG2L) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Zero Tolerance](https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk) | 3:22 | 2023-08-17 | 2023-11-24 |
 | [C'est La Vie](https://open.spotify.com/track/6MXTjM7YiZUnd2FjPG8Q4h) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [C'est La Vie](https://open.spotify.com/album/6wsIo3vFHDlJx3yvUIUOSj) | 2:45 | 2023-12-08 | 2024-02-16 |
-| [C'est La Vie](https://open.spotify.com/track/5UfufsI1vNcV9viRpv458i) | [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV), [Scratch](https://open.spotify.com/artist/7JuLFHTyaw44qAiNCNNcRe) | [C'est La Vie](https://open.spotify.com/album/1MhTPZVTvSM80ZUtgBthXk) | 3:02 | 2024-07-25 |  |
+| [C'est La Vie](https://open.spotify.com/track/5UfufsI1vNcV9viRpv458i) | [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV), [Scratch](https://open.spotify.com/artist/7JuLFHTyaw44qAiNCNNcRe) | [C'est La Vie](https://open.spotify.com/album/1MhTPZVTvSM80ZUtgBthXk) | 3:02 | 2024-07-25 | 2024-11-08 |
 | [C'EST LA VIE \(Lip Filler\)](https://open.spotify.com/track/1DZWlEkkYFWrswBQzGkaQ6) | [Z1NO](https://open.spotify.com/artist/4bfQkUZTG4S8I7sP8UlXvU) | [C'EST LA VIE \(Lip Filler\)](https://open.spotify.com/album/2qI0RA6npmX2rv8NSqF5G6) | 3:36 | 2024-03-09 | 2024-06-01 |
 | [Cadabra Freestyle](https://open.spotify.com/track/1qVt76phmjTyjZVMaaLGMn) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Cadabra Freestyle](https://open.spotify.com/album/6JVGBnNV8H4YIrVSS0DRH1) | 4:15 | 2020-07-03 | 2020-09-26 |
 | [Cadabra Freestyle 2](https://open.spotify.com/track/3LSapsjQarL26Kp2LPdkAv) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Cadabra Freestyle 2](https://open.spotify.com/album/29iPGS14ukP88GWV2InAP3) | 3:43 | 2022-06-02 | 2022-07-02 |
@@ -657,7 +657,7 @@
 | [Flick Of The Wrist](https://open.spotify.com/track/4suhVGmBYYOn4tTAMk2pzV) | [OFB](https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS) | [Drill Commandments](https://open.spotify.com/album/0Q5HwLuSwXFcvi1i6yBQnz) | 3:46 | 2021-03-19 | 2021-06-05 |
 | [Flip A Switch.](https://open.spotify.com/track/252ZECHopILLs10pMfE76N) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:21 | 2023-02-03 | 2023-07-07 |
 | [Flooded](https://open.spotify.com/track/05NU5kXXLRZFTu0kPh9NPG) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [DNA](https://open.spotify.com/album/3uzHRsdKQeAsINaS2RISBF) | 3:17 | 2020-11-03 | 2021-02-20 |
-| [Flow Switcher](https://open.spotify.com/track/2F4Vt9kHvZSFjuYud2Z29w) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Flow Switcher](https://open.spotify.com/album/0gQwzc86UP03BtfBviKHE5) | 2:28 | 2024-06-27 |  |
+| [Flow Switcher](https://open.spotify.com/track/2F4Vt9kHvZSFjuYud2Z29w) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Flow Switcher](https://open.spotify.com/album/0gQwzc86UP03BtfBviKHE5) | 2:28 | 2024-06-27 | 2024-11-08 |
 | [Flowers](https://open.spotify.com/track/0SXxFX9wHTTVruKSHgeSBm) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT) | [Flowers](https://open.spotify.com/album/32PuI3WusluWwPvQWhMFuE) | 3:45 | 2020-10-10 | 2020-11-13 |
 | [Flowers and the Snow](https://open.spotify.com/track/02L35AUJSHvIOeKERcWUdj) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Independence Day](https://open.spotify.com/album/1Y2B5OLTzCI1EyfyiACUcK) | 3:18 | 2021-08-06 | 2022-01-08 |
 | [Fly Away](https://open.spotify.com/track/56ZGYeUDWInAKE7QviU7UY) | [MKAY](https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej) | [Fly Away](https://open.spotify.com/album/5qaqn9pc9b7x8OvhPmrpXW) | 2:44 | 2023-03-10 | 2023-04-15 |
@@ -1296,6 +1296,7 @@
 | [Opor](https://open.spotify.com/track/5IbkgcnOfeGZRmMlLJLIZT) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Opor](https://open.spotify.com/album/4GJpNtx6sFVsGlH6kE6L1n) | 3:48 | 2020-08-21 | 2020-10-02 |
 | [Opps](https://open.spotify.com/track/5LoSPKfZTIz7AC7WC1jgOx) | [Aystar](https://open.spotify.com/artist/4HpnjNnqIjwItltmZJliMy) | [Opps](https://open.spotify.com/album/16zIfhRVsguz0rLnb7vqIN) | 2:33 | 2020-09-05 | 2020-09-18 |
 | [Ops](https://open.spotify.com/track/1Um0ouKAafZVarvHbVKgFZ) | [Scorcher](https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [The Drama](https://open.spotify.com/album/4NtAJs2anuTTQztS6wc8xB) | 3:12 | 2021-12-07 | 2022-01-21 |
+| [Osbatt](https://open.spotify.com/track/2LogzWD6BFBnj3avJpjcnh) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Osbatt](https://open.spotify.com/album/7cDDTqMfZorUbKIouPTm0w) | 4:03 | 2024-11-08 |  |
 | [OT](https://open.spotify.com/track/72Ygf54e183dVuRD3fu2as) | [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [OT](https://open.spotify.com/album/7bB808PXQ5X33QEqPiyEXL) | 2:15 | 2021-12-03 | 2022-03-09 |
 | [Ou Ou Ou](https://open.spotify.com/track/0AHJCoJKXlVIFL0CZU1e2n) | [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Killy](https://open.spotify.com/album/4CBOwAJQ2iaRiNSX6vxSp7) | 2:56 | 2023-03-08 | 2023-03-09 |
 | [Our 25th Birthday](https://open.spotify.com/track/00ZQQArUJReFfsMnl8dIgd) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 5:07 | 2023-06-08 | 2023-07-21 |

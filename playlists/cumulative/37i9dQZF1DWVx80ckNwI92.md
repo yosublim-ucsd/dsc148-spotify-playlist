@@ -2,9 +2,9 @@
 
 ### [ALTER\-native](https://open.spotify.com/playlist/37i9dQZF1DWVx80ckNwI92)
 
-> The future of African Indie and Alternative\. Cover: <a href="https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN?si=8wRD\_qXXT5WK9Gm5L5JXTA">Mpho Sebina</a>
+> The future of African Indie and Alternative\. Cover: <a href="https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF?si=nu\_zLsLWS\_KYIPBw6JH0Dg">Jabulile Majola</a>
 
-156 songs - 8 hr 2 min
+158 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [FINSTA](https://open.spotify.com/track/7v4mEXJ0C2LHI1W9abbzfx) | [Shoka Sunflower](https://open.spotify.com/artist/0DcH0gejGYEsy8bcxdlWii) | [ECOSYSTEM\_01](https://open.spotify.com/album/11vteDfC4Jsj89ZrAuWjgs) | 1:31 | 2023-04-20 | 2023-06-27 |
 | [Flatline](https://open.spotify.com/track/3ub3AsPkOLkLDQenm2pRTq) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid), [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ), [Angel Abaya](https://open.spotify.com/artist/5LJFmizHbr1z46HUEl1F13) | [Flatline](https://open.spotify.com/album/7CobVIN7qQCt8sR8pVuCM4) | 3:27 | 2023-09-21 | 2024-07-19 |
 | [Flowers](https://open.spotify.com/track/2KFbxmVIFmT586l1i0DgdT) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Flowers](https://open.spotify.com/album/2c0CnSrHNgM7nk4mI7i1Iv) | 2:57 | 2023-05-11 | 2024-07-19 |
-| [Galatea](https://open.spotify.com/track/6DpzJLvpEoQ8JHYBT7UFqO) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/5knaY5eUPXeY51TN6lyUIG) | 3:46 | 2023-03-30 |  |
+| [Galatea](https://open.spotify.com/track/6DpzJLvpEoQ8JHYBT7UFqO) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/5knaY5eUPXeY51TN6lyUIG) | 3:46 | 2023-03-30 | 2024-11-08 |
 | [GO WITH GUT](https://open.spotify.com/track/7mRFGJZ5TUuNbOALh3tDwV) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [GO WITH GUT](https://open.spotify.com/album/01Xj382BlVU0Jlcd46b4ra) | 3:20 | 2023-09-21 |  |
 | [Goddess](https://open.spotify.com/track/0HfF5OJzi9b2wOkRefDCzr) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [Goddess](https://open.spotify.com/album/4l3Pg8zLXgDcAy9Wg6KSFM) | 3:30 | 2024-02-15 |  |
 | [Heartbeat](https://open.spotify.com/track/2CgftIycIHQ1fp5QGUD3NM) | [Kileza](https://open.spotify.com/artist/12ypK1yfRvOPCvB8qpCIAg) | [Heartbeat](https://open.spotify.com/album/2MLMkg33gAHRjwHDRvw2Cn) | 3:06 | 2023-03-31 | 2023-04-28 |
@@ -124,7 +124,7 @@
 | [radio silence](https://open.spotify.com/track/3WhmrxCpab3VwyjDwWDhd2) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [what's different\. // radio silence.](https://open.spotify.com/album/5XBSkHZDG6Jo1D8ylFZdad) | 2:10 | 2023-12-14 | 2024-04-19 |
 | [radio silence.](https://open.spotify.com/track/71v4C5FtIcJqs2soLAJ6dO) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [what's different\. // radio silence.](https://open.spotify.com/album/56qcks4i9fQqwdrga7QCDR) | 2:10 | 2023-06-08 | 2024-04-26 |
 | [Sanguine \- Pastel Remix](https://open.spotify.com/track/45DcpHNu6MLivmNaalRIZo) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Sanguine \(Pastel Remix\)](https://open.spotify.com/album/0DggHQp8mTvxxLBKy7pANP) | 3:09 | 2023-03-30 | 2023-05-12 |
-| [Sapio\-Medula](https://open.spotify.com/track/4O5EL0Ih7QTWDfU51XUGvB) | [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ) | [Sapio\-Medula](https://open.spotify.com/album/5UqlwxwUB2lyCuFWBRqryI) | 2:52 | 2023-03-30 |  |
+| [Sapio\-Medula](https://open.spotify.com/track/4O5EL0Ih7QTWDfU51XUGvB) | [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ) | [Sapio\-Medula](https://open.spotify.com/album/5UqlwxwUB2lyCuFWBRqryI) | 2:52 | 2023-03-30 | 2024-11-08 |
 | [Sauti Ya Mama](https://open.spotify.com/track/5KNyOkHMhD5ggdC9EYog3M) | [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [Bruce Rooke](https://open.spotify.com/artist/3lOsr3FQbUN9gsckrlALjP), [Marlene Bett](https://open.spotify.com/artist/5JTUHLasjXvikbEIELwzr6) | [Planting Seeds](https://open.spotify.com/album/2JQP7mytuHqdtIdC5rIM6b) | 3:41 | 2023-05-05 | 2023-07-08 |
 | [Sekunjalo](https://open.spotify.com/track/3TFnmlvfoM2szN5AfIVyvt) | [Digital Sangoma](https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN) | [Sekunjalo](https://open.spotify.com/album/0zHCIfkUe24snVC8PhsX3F) | 5:50 | 2024-01-25 |  |
 | [Show Me](https://open.spotify.com/track/7MQaJreOuHNGsMFcvvCEey) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Show Me](https://open.spotify.com/album/40bEi3XNEzNJe7oiLoHM4R) | 2:29 | 2024-04-25 | 2024-07-19 |
@@ -133,6 +133,7 @@
 | [Simple Things \(feat\. Theo Croker\)](https://open.spotify.com/track/12aouEbQ2CAzBg7yc4IYVf) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [MotherFather](https://open.spotify.com/album/6G76PblQXf5i8JB7mC0mv3) | 3:17 | 2023-03-30 | 2023-06-09 |
 | [Smash The Computers](https://open.spotify.com/track/5vRerfvD5eMWzD9ygjBZzu) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [Smash The Computers](https://open.spotify.com/album/5upwMKglEiIriJOGvPFpMU) | 2:35 | 2024-10-11 |  |
 | [Special](https://open.spotify.com/track/7I6XUPmFLP99J5LxTJDmcQ) | [Gabriela Diamond](https://open.spotify.com/artist/0L7Ck6i3Zr1UBztHOYQRoo) | [Special](https://open.spotify.com/album/56DtRfqO1chs9KwEJHuWSm) | 2:43 | 2023-07-07 | 2024-07-19 |
+| [Spheres](https://open.spotify.com/track/7bYXCCtVFwaiRyoUP1uD3n) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Outeniqua](https://open.spotify.com/artist/3wKzi1cig0h6Vmxw0PJsml) | [Spheres](https://open.spotify.com/album/2I8Mjgw47gc9gBWLZQcOly) | 3:50 | 2024-11-07 |  |
 | [Take Me Home \(One Take\)](https://open.spotify.com/track/0ihhrhAPOVGNhyaSlSFgVz) | [True nESS](https://open.spotify.com/artist/7b7SUjtDrf6ym930Pmi3jh) | [Take Me Home \(One Take\)](https://open.spotify.com/album/00JQKIr7LCVu0bI0uVr2pY) | 2:21 | 2023-03-30 | 2023-04-07 |
 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 | 2023-04-20 | 2024-10-12 |
 | [Te Sexy](https://open.spotify.com/track/7EsvvQB8OuT95DOodwgo4I) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Te Sexy](https://open.spotify.com/album/71xdfwNNDvqJ9gso3bS5zP) | 2:56 | 2023-05-05 | 2023-07-08 |
@@ -153,6 +154,7 @@
 | [Too Late To Party](https://open.spotify.com/track/3yrdfryHbFnwQuGrNAZQIr) | [KwesiSoul](https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr), [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Too Late To Party](https://open.spotify.com/album/5DMDU4qd94FEgJlpKr7rZs) | 3:04 | 2023-06-30 | 2023-10-14 |
 | [Try](https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Try](https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8) | 3:44 | 2023-03-30 | 2024-06-21 |
 | [Uber](https://open.spotify.com/track/2F9I0GeAKSJLS50LUlnFVd) | [Zwonaka](https://open.spotify.com/artist/5oD2IgsstX9I592DVC5gQi) | [Sightseeing](https://open.spotify.com/album/1Ba3fPgZiNn2r1kkxs0Rje) | 3:47 | 2023-03-30 | 2023-05-19 |
+| [uBhubesi](https://open.spotify.com/track/5lMPmfeVPO8JBrVZN3qERJ) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [uBhubesi](https://open.spotify.com/album/0RhEwNHQ4TI1iZnKLeNrjf) | 3:37 | 2024-11-07 |  |
 | [Vanity](https://open.spotify.com/track/4CiNVnqNQX05t0e4IWwVO1) | [Kade Spear](https://open.spotify.com/artist/6yyrDjt9pJEIWsIamkw60i) | [Vanity](https://open.spotify.com/album/1svaG1pydrkav2LDzMiFzb) | 2:47 | 2023-04-06 | 2023-04-28 |
 | [vibe again](https://open.spotify.com/track/7FMAEHQZVoNetHntq0Rfbv) | [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [vibe again](https://open.spotify.com/album/0UMQ4LF9e8BhSGXqOhSZ5x) | 3:24 | 2023-05-18 | 2023-06-27 |
 | [Virgin Denim](https://open.spotify.com/track/69g0enFvUbtdKi5e84frgc) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Virgin Denim](https://open.spotify.com/album/3ET9072AROvw8sqz1Ar2uS) | 3:10 | 2024-10-11 |  |

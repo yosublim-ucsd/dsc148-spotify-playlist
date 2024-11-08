@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > Ascultă  la volum maxim vocile feminine din România într\-un playlist realizat împreună cu Alexandra Stan
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,850 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,856 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 | 42 | [Te strig](https://open.spotify.com/track/5JmvuBgj4ODK4pLH7NQVlb) | [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Ioana Ignat \(Deluxe Version\)](https://open.spotify.com/album/1RyvcQhHL8M6fzVbUTD6Ra) | 3:23 |
 | 43 | [Scena vieții](https://open.spotify.com/track/76NVHK5VDIAyzqoQ5PlHRk) | [Cleopatra Stratan](https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG), [Pavel Stratan](https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF) | [Scena vieții](https://open.spotify.com/album/1XV1IN3uTrgbYY0BwibwiH) | 2:51 |
 | 44 | [Ai greșit](https://open.spotify.com/track/0wORaL1EhDo4Quewj9LSua) | [Andreea Banica](https://open.spotify.com/artist/1MRQV5l5n4ax84U6CQljVq), [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2) | [Ai greșit](https://open.spotify.com/album/5zGlVaN0cYPsj21qCndxxg) | 3:05 |
-| 45 | [Burning Love \- Roton 3.0 Sessions](https://open.spotify.com/track/5CVsCx9UvrOblhZv2LVHbm) | [Bianca Tilici](https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD) | [Burning Love \(Roton 3.0 Sessions\)](https://open.spotify.com/album/7ER3S7FN1mKpX3sLIHW8gv) | 2:26 |
-| 46 | [99% ANGEL](https://open.spotify.com/track/5fZlbHpe7bOU0MG2DHM0tB) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [99% ANGEL](https://open.spotify.com/album/2zWbHOqxYYHBZLcujr9fGY) | 2:51 |
-| 47 | [Nu ma cauta](https://open.spotify.com/track/38rqPCaMbpKFr7mrGPj3Sn) | [Serena](https://open.spotify.com/artist/3TnHUGTOpN3yuYw59iGMSd) | [Nu ma cauta](https://open.spotify.com/album/4Q29o4xFD6XnHDRijOG9rc) | 2:41 |
-| 48 | [Hanorac](https://open.spotify.com/track/47DlUxcVui51KXcIpKJtLt) | [Aria Moon](https://open.spotify.com/artist/4cE6cMg8gPOmoFNO8yYRbj) | [Hanorac](https://open.spotify.com/album/5AWeuk3lQwxl85qn56QkHw) | 2:34 |
-| 49 | [Fii tu](https://open.spotify.com/track/1ayrlFSnYpRA4Qwsxwd496) | [Mara Trefas](https://open.spotify.com/artist/0mRH9oO5trSJOhXFYFwHKT) | [Fii tu](https://open.spotify.com/album/2bjQVSBxXxPtcvANTzYwm5) | 2:32 |
+| 45 | [In Romania](https://open.spotify.com/track/7aIO2KrOoCYYEIlSA1vE0d) | [Eligarf](https://open.spotify.com/artist/1fSjxCfL4aaUoQ9ATRLtAq) | [In Romania](https://open.spotify.com/album/44LByVLnWvFj7AUNRwU1cE) | 2:38 |
+| 46 | [Burning Love \- Roton 3.0 Sessions](https://open.spotify.com/track/5CVsCx9UvrOblhZv2LVHbm) | [Bianca Tilici](https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD) | [Burning Love \(Roton 3.0 Sessions\)](https://open.spotify.com/album/7ER3S7FN1mKpX3sLIHW8gv) | 2:26 |
+| 47 | [99% ANGEL](https://open.spotify.com/track/5fZlbHpe7bOU0MG2DHM0tB) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [99% ANGEL](https://open.spotify.com/album/2zWbHOqxYYHBZLcujr9fGY) | 2:51 |
+| 48 | [Nu ma cauta](https://open.spotify.com/track/38rqPCaMbpKFr7mrGPj3Sn) | [Serena](https://open.spotify.com/artist/3TnHUGTOpN3yuYw59iGMSd) | [Nu ma cauta](https://open.spotify.com/album/4Q29o4xFD6XnHDRijOG9rc) | 2:41 |
+| 49 | [Hanorac](https://open.spotify.com/track/47DlUxcVui51KXcIpKJtLt) | [Aria Moon](https://open.spotify.com/artist/4cE6cMg8gPOmoFNO8yYRbj) | [Hanorac](https://open.spotify.com/album/5AWeuk3lQwxl85qn56QkHw) | 2:34 |
+| 50 | [Fii tu](https://open.spotify.com/track/1ayrlFSnYpRA4Qwsxwd496) | [Mara Trefas](https://open.spotify.com/artist/0mRH9oO5trSJOhXFYFwHKT) | [Fii tu](https://open.spotify.com/album/2bjQVSBxXxPtcvANTzYwm5) | 2:32 |
 
 Snapshot ID: `ZyqVYAAAAAAx6i0m7S1vJz7pKPwGOqoZ`

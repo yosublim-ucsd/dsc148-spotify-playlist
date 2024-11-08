@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว อัปเดตทุกสัปดาห์\. ศิลปิน: PP Krit
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว อัปเดตทุกสัปดาห์\. ศิลปิน: PROXIE
 
-597 songs - 1 day 11 hr 27 min
+599 songs - 1 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Calling you](https://open.spotify.com/track/1KhFybufpQCSAf8FmUsMt2) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Calling you](https://open.spotify.com/album/4A694nZvddyi49tWXPDikN) | 2:01 | 2023-08-04 | 2023-08-19 |
 | [CATCH THE NIGHT](https://open.spotify.com/track/0KWD90TVkrA0kyKW9MewrZ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [CATCH THE NIGHT](https://open.spotify.com/album/0tdfeZTire8YkmYCBOTOJn) | 3:08 | 2023-03-09 | 2023-03-25 |
 | [Chemistry](https://open.spotify.com/track/1wcdlx2wRHr9v2dROco63B) | [THE7](https://open.spotify.com/artist/76P1bgqm0Ign9ZDfSjBSbc) | [Chemistry](https://open.spotify.com/album/56zGZcFnTyn8Vjxn4nY5Vm) | 3:28 | 2023-05-11 | 2023-05-20 |
-| [CHOP CHOP](https://open.spotify.com/track/6MddYU6NXdECFYsShs6q5L) | [VIIS \(วิส\)](https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au) | [CHOP CHOP \- Single](https://open.spotify.com/album/1Kfkj5kbTspOsC7iaBAK3o) | 3:18 | 2024-10-31 |  |
+| [CHOP CHOP](https://open.spotify.com/track/6MddYU6NXdECFYsShs6q5L) | [VIIS \(วิส\)](https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au) | [CHOP CHOP \- Single](https://open.spotify.com/album/1Kfkj5kbTspOsC7iaBAK3o) | 3:18 | 2024-10-31 | 2024-11-08 |
 | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/track/6M8nx5vDof89UySjbL8KPM) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/album/5cG51iqdsWcuZ5BGmEumN5) | 2:58 | 2022-09-02 | 2022-09-16 |
 | [Closer \(Clothes Off\)](https://open.spotify.com/track/23siAc5fhlQ0CnWeXDTdI2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Closer \(Clothes Off\)](https://open.spotify.com/album/6GBRwdee7lE4S0OLAwary7) | 3:15 | 2023-05-02 | 2023-05-11 |
 | [Complicated](https://open.spotify.com/track/127yslRWWqtCGIYlkb9es2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Complicated](https://open.spotify.com/album/1X4ePQhsh9fOOz3944bxuR) | 3:01 | 2022-09-08 | 2022-09-16 |
@@ -68,6 +68,7 @@
 | [Goodnite](https://open.spotify.com/track/0WIsTmkaxJT8bKYOO1b5od) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Goodnite](https://open.spotify.com/album/6cUos9As4HRkaeiRmmuHLH) | 2:24 | 2024-08-22 | 2024-09-13 |
 | [Heartbeat](https://open.spotify.com/track/3GmTi7ToFhnHLDKNo92lIr) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Heartbeat](https://open.spotify.com/album/0ZWAzqTKLDjSRyubKzYOTs) | 3:05 | 2022-10-07 | 2022-10-27 |
 | [HEARTCASE](https://open.spotify.com/track/6BAiUeSqRDDDIz8X3V5haW) | [MINDY](https://open.spotify.com/artist/2a7WiIiQJcunh4cSWmp0Gi) | [HEARTCASE](https://open.spotify.com/album/0hY7fcr5136UIaQGzuoULv) | 3:55 | 2024-06-13 | 2024-06-21 |
+| [heartstopper](https://open.spotify.com/track/5cnNLM3xWUXqVLXtvH8ZQa) | [MABELZ PiXXiE](https://open.spotify.com/artist/3gMPZzKt31MexVHDc5SuU5) | [heartstopper](https://open.spotify.com/album/2ry2AJIjzcmrH0o2qMynKL) | 3:14 | 2024-11-07 |  |
 | [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/track/45Byir0bemNjJFxHLx8Lir) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/album/5839gv3g8G9jrqgtG6E3hE) | 3:09 | 2023-04-27 | 2023-05-12 |
 | [HOT & COLD \(ร้อนๆ หนาวๆ\)](https://open.spotify.com/track/32VqVoLwv5FASA9Ih00IY9) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [HOT & COLD \(ร้อนๆ หนาวๆ\)](https://open.spotify.com/album/5w0HUap5EkEsRvE00XwUvB) | 3:31 | 2022-11-11 | 2022-11-18 |
 | [hot2hot](https://open.spotify.com/track/3eUgJRHtoCxg9T0wV49gKo) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [hot2hot](https://open.spotify.com/album/6qjuFWN9s0z4gho6PWQXQH) | 4:13 | 2024-02-22 |  |
@@ -163,7 +164,7 @@
 | [WITH YOU](https://open.spotify.com/track/78iVXsaiRJuSkVE8kOXYV5) | [GULF KANAWUT](https://open.spotify.com/artist/232CbSfw9pgI0oz4c5UKZ2), [LAZYLOXY](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [WITH YOU](https://open.spotify.com/album/4X5Wd999DQrVtVKbf2HFDh) | 4:02 | 2024-09-05 | 2024-09-20 |
 | [WIZ YOU \(อยากมองเธอให้ใกล้กว่านี้\)](https://open.spotify.com/track/43YPcXdj8jlE3aRSD7sZNN) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [WIZ YOU \(อยากมองเธอให้ใกล้กว่านี้\)](https://open.spotify.com/album/1aIKEteG74pCnOWUGWmnIl) | 1:24 | 2024-02-22 | 2024-03-08 |
 | [Yellow Leaf](https://open.spotify.com/track/2umfwjHoIPrth4vs1fEQv4) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Space Shuttle No.8](https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y) | 3:34 | 2024-02-09 | 2024-03-02 |
-| [YES MAN](https://open.spotify.com/track/5imQCK9oeRB665CGgar7f8) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [YES MAN](https://open.spotify.com/album/4EHQhdZSqQEY6eZ3uUZdlK) | 3:24 | 2024-10-17 |  |
+| [YES MAN](https://open.spotify.com/track/5imQCK9oeRB665CGgar7f8) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [YES MAN](https://open.spotify.com/album/4EHQhdZSqQEY6eZ3uUZdlK) | 3:24 | 2024-10-17 | 2024-11-08 |
 | [YOBO](https://open.spotify.com/track/7KdROwz8Wl1zzoFIhDNdvu) | [TYTAN](https://open.spotify.com/artist/5fTJwRSBleAeLkLivVLDZ4) | [YOBO](https://open.spotify.com/album/3Za23TsoTrgMIdgiRBQjwf) | 3:22 | 2024-06-27 | 2024-07-12 |
 | [ZiGZaG](https://open.spotify.com/track/2yE00Onz1GMJZ4h5lYs2u0) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [ZiGZaG](https://open.spotify.com/album/68EaJMPDCWqT0huDBBAT7k) | 2:34 | 2023-11-09 | 2023-11-25 |
 | [กดใจไว้หน่อย \(Double Tap\)](https://open.spotify.com/track/4Y7ht4X11mjnoXrp5r8O2w) | [Slow Sundae](https://open.spotify.com/artist/4jA3LPzvGQcPImWTjpDlma) | [กดใจไว้หน่อย \(Double Tap\)](https://open.spotify.com/album/39fOwDsBKcA9dbXLOLX8m6) | 3:12 | 2024-02-22 | 2024-03-02 |
@@ -304,6 +305,7 @@
 | [ทราบแล้วเปลี่ยน \- attention please](https://open.spotify.com/track/7MxhdBolnOFvWu4WMURsX5) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ทราบแล้วเปลี่ยน \(attention please\)](https://open.spotify.com/album/7r8dBkF7ABMLXIFQEuVbk2) | 3:55 | 2022-05-26 | 2023-09-16 |
 | [ทักครับ](https://open.spotify.com/track/70DE8f3cq3auql4JMrF0Qg) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [ทักครับ](https://open.spotify.com/album/5JQ7Bn6uJX2Ed94W8gvvJK) | 3:11 | 2022-05-26 | 2024-03-02 |
 | [ทำไมไม่รู้ \(what do i do\)](https://open.spotify.com/track/5w7l2QyX9C6oBk3JUnlkQt) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [ทำไมไม่รู้ \(what do i do\)](https://open.spotify.com/album/5J8ovIBR7COZoUhKF6qXhM) | 4:01 | 2023-05-26 | 2023-06-02 |
+| [ที่รักครับ \(Only One\) \(From"กี่หมื่นฟ้า Your Sky Series"\)](https://open.spotify.com/track/5G0tELpYH9o07zcZfMv1fR) | [Atlas](https://open.spotify.com/artist/41sSAsIQKBF0VE8RjT5Kbj) | [ที่รักครับ \(Only One\) \(From"กี่หมื่นฟ้า Your Sky Series"\)](https://open.spotify.com/album/3SHIK3XoVswlslYKw4Qn83) | 3:02 | 2024-11-07 |  |
 | [ที่รักที่รัก \- Original soundtrack from "นิ่งเฮียก็หาว่าซื่อ" cutie pie series](https://open.spotify.com/track/4TGH3Lwelh2K2pzrESLSFj) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [Zee Pruk](https://open.spotify.com/artist/57i3NWWeEZc5dtW2eqoYan) | [ที่รักที่รัก \(Original soundtrack from "นิ่งเฮียก็หาว่าซื่อ" cutie pie series\)](https://open.spotify.com/album/3jtC1t9oitElqgXhqdaKo9) | 3:19 | 2022-06-16 | 2022-07-08 |
 | [ที่เดิม](https://open.spotify.com/track/4KZRjuldIGTS7AQUPbUvbs) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [PUN](https://open.spotify.com/album/2sehVZg3Q9QqyLNg06ULYG) | 3:56 | 2024-09-19 |  |
 | [ที่ไม่รัก \(Unnoticed\)](https://open.spotify.com/track/1af2PmV5gQRWELZmVrjNMQ) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ที่ไม่รัก \(Unnoticed\)](https://open.spotify.com/album/4NFDAt3VZrqAVgAR8SpltV) | 4:26 | 2022-12-01 | 2024-08-30 |

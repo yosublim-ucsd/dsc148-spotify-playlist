@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Ernst Jansz
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,073 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,088 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,17 +24,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 14 | [Het Is Genoeg](https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Vrijplaats](https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq) | 3:53 |
 | 15 | [Dan ben jij weer hier \(feat\. Red Limo Quartet\)](https://open.spotify.com/track/6ec3NKQLnV7LcV319qvHan) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV), [Red Limo Quartet](https://open.spotify.com/artist/2rdJcBg2tEvmo0lVpYDizQ) | [Dan ben jij weer hier \(feat\. Red Limo Quartet\)](https://open.spotify.com/album/2ROH24w8CUD7bAUQ66nRSK) | 4:40 |
 | 16 | [Vanmorgen Vloog Ze Nog](https://open.spotify.com/track/2WZBD5MI3pVaKIweuZj5pc) | [Robert Long](https://open.spotify.com/artist/4e345XgeCOfD96TnOVhH7f), [Martine Bijl](https://open.spotify.com/artist/5ayboLANPe5lXssiZopVb8), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0), [Robert Paul](https://open.spotify.com/artist/0esNt1hWsO271oogWw8c2o) | [Tsjechov \- De Musical Van Dimitri Frenkel Frank En Robert Lo](https://open.spotify.com/album/5bsv5G1wExKRiRGcu2emUl) | 5:06 |
-| 17 | [Te Veel, Te Vaak](https://open.spotify.com/track/21akKWbeYAd1HPzMUGMvMg) | [Liesbeth List](https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If) | [100 Mooiste Liedjes van Ramses en Liesbeth](https://open.spotify.com/album/0Yj16bjpuUz4sLggLn8XFR) | 3:42 |
-| 18 | [Wanneer](https://open.spotify.com/track/1cJ5aNJYaGZ9YHfoNacbYi) | [Yentl en de Boer](https://open.spotify.com/artist/5wMKGwFrXxoqKjTfrKOglE) | [Wanneer](https://open.spotify.com/album/2afs03ALxfQetAhXkZeiDu) | 4:01 |
-| 19 | [De Wind Draait](https://open.spotify.com/track/0tkGmIB8BZpoy68YuguCXi) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Beste Zangers 2024 \(Tangarine\)](https://open.spotify.com/album/4yvQHgjHWtaIOwSFRcxb0S) | 3:45 |
-| 20 | [Mooie Dag](https://open.spotify.com/track/0tWU6puNvcL3xTgWQxZ0DP) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Blauwe Ruis](https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK) | 4:38 |
-| 21 | [Bitter](https://open.spotify.com/track/1R6YYVLcMXzYMCLA5asQrr) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW), [Smaakspoken](https://open.spotify.com/artist/5ZC2hO1v7hxu6ptX9wV7CU) | [Bitter](https://open.spotify.com/album/6T8r241pu8DrTznRH4hGAW) | 2:57 |
-| 22 | [Als De Dag Van Toen](https://open.spotify.com/track/6HFGuidrK5g7QpMrBdJaBt) | [Reinhard Mey](https://open.spotify.com/artist/119CgQj02xyMpOobWjdb3C) | [! Ich Kann](https://open.spotify.com/album/28WDaaO5SVwnUJ727nZ62Q) | 5:15 |
-| 23 | [IK ZEG HET TE WEINIG](https://open.spotify.com/track/0CGpjldNJedaNmhW5neQPZ) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [IK ZEG HET TE WEINIG](https://open.spotify.com/album/5Ukd8XCbHko4DH8p4pnm0V) | 2:45 |
-| 24 | [Het Dorp](https://open.spotify.com/track/3q0a21nZ31rOAk5p3UQaRG) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Sonneveld](https://open.spotify.com/album/4Ae7E7xkTrdTqKvX7RJk7S) | 3:14 |
-| 25 | [Het ga je goed](https://open.spotify.com/track/7eNl8fVg2fEr8dUAb9YEtC) | [Joke Buis](https://open.spotify.com/artist/4p2STGqpYLlPaNgxQHtVK8) | [Hoe ik je zie](https://open.spotify.com/album/4XHpzC0jir8nTtWgu5rWUZ) | 3:43 |
-| 26 | [Papa](https://open.spotify.com/track/6NP6BCW2M2I4vdcnXMAvjl) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Is Dit Nu Later](https://open.spotify.com/album/40pPse6bXBsVtjk8JJmovD) | 3:13 |
-| 27 | [Die ene die](https://open.spotify.com/track/1i7VVvxvIrpdfmwj7nhByz) | [Ernst Jansz](https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92) | [Die ene die](https://open.spotify.com/album/5O238Lz2YRykCrTiSol9ki) | 3:28 |
+| 17 | [Nu jij dan bent geboren](https://open.spotify.com/track/441HNWL3Vau3QAL9XHMeiw) | [Ernst Jansz](https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92) | [Een liefdeslied](https://open.spotify.com/album/5O1U8qlqnJ1jyK4guAmsOn) | 4:11 |
+| 18 | [Te Veel, Te Vaak](https://open.spotify.com/track/21akKWbeYAd1HPzMUGMvMg) | [Liesbeth List](https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If) | [100 Mooiste Liedjes van Ramses en Liesbeth](https://open.spotify.com/album/0Yj16bjpuUz4sLggLn8XFR) | 3:42 |
+| 19 | [Wanneer](https://open.spotify.com/track/1cJ5aNJYaGZ9YHfoNacbYi) | [Yentl en de Boer](https://open.spotify.com/artist/5wMKGwFrXxoqKjTfrKOglE) | [Wanneer](https://open.spotify.com/album/2afs03ALxfQetAhXkZeiDu) | 4:01 |
+| 20 | [De Wind Draait](https://open.spotify.com/track/0tkGmIB8BZpoy68YuguCXi) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Beste Zangers 2024 \(Tangarine\)](https://open.spotify.com/album/4yvQHgjHWtaIOwSFRcxb0S) | 3:45 |
+| 21 | [Mooie Dag](https://open.spotify.com/track/0tWU6puNvcL3xTgWQxZ0DP) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Blauwe Ruis](https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK) | 4:38 |
+| 22 | [Bitter](https://open.spotify.com/track/1R6YYVLcMXzYMCLA5asQrr) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW), [Smaakspoken](https://open.spotify.com/artist/5ZC2hO1v7hxu6ptX9wV7CU) | [Bitter](https://open.spotify.com/album/6T8r241pu8DrTznRH4hGAW) | 2:57 |
+| 23 | [Als De Dag Van Toen](https://open.spotify.com/track/6HFGuidrK5g7QpMrBdJaBt) | [Reinhard Mey](https://open.spotify.com/artist/119CgQj02xyMpOobWjdb3C) | [! Ich Kann](https://open.spotify.com/album/28WDaaO5SVwnUJ727nZ62Q) | 5:15 |
+| 24 | [IK ZEG HET TE WEINIG](https://open.spotify.com/track/0CGpjldNJedaNmhW5neQPZ) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [IK ZEG HET TE WEINIG](https://open.spotify.com/album/5Ukd8XCbHko4DH8p4pnm0V) | 2:45 |
+| 25 | [Het Dorp](https://open.spotify.com/track/3q0a21nZ31rOAk5p3UQaRG) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Sonneveld](https://open.spotify.com/album/4Ae7E7xkTrdTqKvX7RJk7S) | 3:14 |
+| 26 | [Het ga je goed](https://open.spotify.com/track/7eNl8fVg2fEr8dUAb9YEtC) | [Joke Buis](https://open.spotify.com/artist/4p2STGqpYLlPaNgxQHtVK8) | [Hoe ik je zie](https://open.spotify.com/album/4XHpzC0jir8nTtWgu5rWUZ) | 3:43 |
+| 27 | [Papa](https://open.spotify.com/track/6NP6BCW2M2I4vdcnXMAvjl) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Is Dit Nu Later](https://open.spotify.com/album/40pPse6bXBsVtjk8JJmovD) | 3:13 |
 | 28 | [Avond](https://open.spotify.com/track/3n3F07lHLyRKwqg4q64eYA) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Een Nieuwe Herfst](https://open.spotify.com/album/7mNHpXdX6h4MegWwcejYbg) | 4:34 |
 | 29 | [Ken Je Mij \- Live From De Rode Hoed, Amsterdam, Netherlands / 2008](https://open.spotify.com/track/3oGJr5fuofoNfO5CrrbLB6) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Ken Je Mij](https://open.spotify.com/album/2wyfmgzMM1RSBgQVUsvJKS) | 5:41 |
 | 30 | [Mag Ik Dan Bij Jou \( Single Version \)](https://open.spotify.com/track/0iYDkElqY6uu0aw8CzOttm) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Mag Ik Dan Bij Jou \( Single Version \)](https://open.spotify.com/album/64JUrdAAT1Dr57kgqB89KK) | 3:23 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 69 | [Geen Kind Meer](https://open.spotify.com/track/4ZMBna8ky5JR1gocyYCiML) | [Karin Bloemen](https://open.spotify.com/artist/7CKdAdmSeZxUgSZqugSkKx) | [Kameleon](https://open.spotify.com/album/7bEv36tsd3IBSvP4TJRDpA) | 4:23 |
 | 70 | [Kronenburg Park](https://open.spotify.com/track/5l0mUA4hwewx7cj8KzBGGE) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Foto Van Een Mooie Dag](https://open.spotify.com/album/69JWMizDVll3nRlU7YIEEF) | 4:03 |
 
-Snapshot ID: `ZxrDYAAAAABg8XwQl6OdcJkMJblDaVDY`
+Snapshot ID: `Zy1GcAAAAABr53EhV1Q43BRCMuQyE2wW`

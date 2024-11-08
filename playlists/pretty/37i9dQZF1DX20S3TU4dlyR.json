@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dancing Mood",
-  "num_followers": 62745,
+  "num_followers": 62746,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -1175,22 +1175,18 @@
     {
       "added_at": "2024-10-24 20:23:45",
       "album": {
-        "name": "La Naturaleza",
-        "url": "https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE"
+        "name": "Todo Es As\u00ed",
+        "url": "https://open.spotify.com/album/3BzrCi7FL52ULRUI154X6K"
       },
       "artists": [
         {
-          "name": "Planta & Canta",
-          "url": "https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0"
-        },
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+          "name": "DOMA",
+          "url": "https://open.spotify.com/artist/4aD9Ax5YSotHSD60pph8yU"
         }
       ],
-      "duration_ms": 254058,
-      "name": "La Naturaleza",
-      "url": "https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY"
+      "duration_ms": 230132,
+      "name": "Todo Es As\u00ed",
+      "url": "https://open.spotify.com/track/0KXw3dbbDFx75viq9HtMT4"
     },
     {
       "added_at": "2024-10-24 20:23:45",
@@ -1243,18 +1239,22 @@
     {
       "added_at": "2024-10-24 20:23:45",
       "album": {
-        "name": "Todo Es As\u00ed",
-        "url": "https://open.spotify.com/album/3BzrCi7FL52ULRUI154X6K"
+        "name": "La Naturaleza",
+        "url": "https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE"
       },
       "artists": [
         {
-          "name": "DOMA",
-          "url": "https://open.spotify.com/artist/4aD9Ax5YSotHSD60pph8yU"
+          "name": "Planta & Canta",
+          "url": "https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0"
+        },
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 230132,
-      "name": "Todo Es As\u00ed",
-      "url": "https://open.spotify.com/track/0KXw3dbbDFx75viq9HtMT4"
+      "duration_ms": 254058,
+      "name": "La Naturaleza",
+      "url": "https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY"
     },
     {
       "added_at": "2024-10-24 20:23:45",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-10-24 20:23:45",
       "album": {
-        "name": "Bebamos de las Copas Lindas",
-        "url": "https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        }
-      ],
-      "duration_ms": 207300,
-      "name": "Bebamos de las Copas Lindas",
-      "url": "https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy"
-    },
-    {
-      "added_at": "2024-10-24 20:23:45",
-      "album": {
         "name": "Ruta",
         "url": "https://open.spotify.com/album/6KFXfBh3diyG1luKZyVpji"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 225586,
       "name": "Ruta",
       "url": "https://open.spotify.com/track/0zskgFCZkUPqWsQ3ThZXyR"
+    },
+    {
+      "added_at": "2024-10-24 20:23:45",
+      "album": {
+        "name": "Bebamos de las Copas Lindas",
+        "url": "https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        }
+      ],
+      "duration_ms": 207300,
+      "name": "Bebamos de las Copas Lindas",
+      "url": "https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy"
     },
     {
       "added_at": "2024-10-24 20:23:45",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-10-24 20:23:45",
       "album": {
-        "name": "Desinformation",
-        "url": "https://open.spotify.com/album/1K0WhObVbaoWr0JP4qzv5J"
-      },
-      "artists": [
-        {
-          "name": "Dancing Mood",
-          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
-        }
-      ],
-      "duration_ms": 245750,
-      "name": "Desinformation",
-      "url": "https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp"
-    },
-    {
-      "added_at": "2024-10-24 20:23:45",
-      "album": {
         "name": "Momento Tiempo",
         "url": "https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 259373,
       "name": "De Tanto Caminar",
       "url": "https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae"
+    },
+    {
+      "added_at": "2024-10-24 20:23:45",
+      "album": {
+        "name": "Desinformation",
+        "url": "https://open.spotify.com/album/1K0WhObVbaoWr0JP4qzv5J"
+      },
+      "artists": [
+        {
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+        }
+      ],
+      "duration_ms": 245750,
+      "name": "Desinformation",
+      "url": "https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp"
     },
     {
       "added_at": "2024-10-24 20:23:45",

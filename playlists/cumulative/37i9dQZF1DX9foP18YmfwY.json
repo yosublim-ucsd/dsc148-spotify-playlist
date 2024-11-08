@@ -340,7 +340,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 500916,
       "name": "Ave Maria - Ao Vivo",
       "url": "https://open.spotify.com/track/4bMqX5EEFLUIhCjTemTyQv"
@@ -588,7 +588,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 299159,
       "name": "Casa",
       "url": "https://open.spotify.com/track/52UwxcBnQeWh4HeMngkuVs"
@@ -994,6 +994,28 @@
       "duration_ms": 249940,
       "name": "Deus V\u00ea",
       "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
+    },
+    {
+      "album": {
+        "name": "Devo\u00e7\u00e3o aos Sacr\u00e1rios",
+        "url": "https://open.spotify.com/album/7LH2IgKH8QTM1gC0W5s33R"
+      },
+      "artists": [
+        {
+          "name": "Denise Gomes",
+          "url": "https://open.spotify.com/artist/2Ewk5pCDZi4eOJrn0lZsM4"
+        },
+        {
+          "name": "Katholika",
+          "url": "https://open.spotify.com/artist/3f91v9pYkW8iCGX5iWmhV1"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304831,
+      "name": "Devo\u00e7\u00e3o aos Sacr\u00e1rios",
+      "url": "https://open.spotify.com/track/5qoERqso53EV4dCfulbpnc"
     },
     {
       "album": {
@@ -2382,7 +2404,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 235416,
       "name": "M\u00e3e do C\u00e9u Morena",
       "url": "https://open.spotify.com/track/1A7QfPZK5UuL5VdRuznRyQ"
@@ -2618,7 +2640,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 341818,
       "name": "N\u00e3o H\u00e1 Deus Maior - Ao Vivo",
       "url": "https://open.spotify.com/track/05P0v8aNAZxLImFQU6MVuq"
@@ -3764,6 +3786,24 @@
       "duration_ms": 287562,
       "name": "Yeshua (feat. Eliana Ribeiro)",
       "url": "https://open.spotify.com/track/2K3QKrBAZBdRdABzOmQ1TL"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Lindo Ser Cat\u00f3lico",
+        "url": "https://open.spotify.com/album/6f1ihJju82fMhC14jjfM1Y"
+      },
+      "artists": [
+        {
+          "name": "William Sanfona",
+          "url": "https://open.spotify.com/artist/0XzDr5yWnSIug4qnZ54QGH"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159155,
+      "name": "\u00c9 Lindo Ser Cat\u00f3lico",
+      "url": "https://open.spotify.com/track/3SfjEP1A8HF7oXpH61K6Re"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9foP18YmfwY"

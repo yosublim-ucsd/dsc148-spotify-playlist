@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Alvaro Diaz y NATHY PELUSO en portada.",
-  "num_followers": 256001,
+  "num_followers": 256040,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-10-29 18:58:38",
       "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
+    },
+    {
+      "added_at": "2024-10-29 18:58:38",
+      "album": {
         "name": "1 OF 1",
         "url": "https://open.spotify.com/album/6nrflCSqW4aAy4ZZ1PGp7I"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 170000,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0VaOGXNtoYUf1vAXM0X9ST"
-    },
-    {
-      "added_at": "2024-10-29 18:58:38",
-      "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 193480,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
     },
     {
       "added_at": "2024-10-29 18:58:38",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-10-29 18:58:38",
       "album": {
-        "name": "LA PRIMERA VEZ",
-        "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "NTG",
-          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "LA PRIMERA VEZ",
-      "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
-    },
-    {
-      "added_at": "2024-10-29 18:58:38",
-      "album": {
         "name": "EN EL GHETTO #3 (Par de cosas)",
         "url": "https://open.spotify.com/album/125WpnuPZ1Ito6zRhQT0ji"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 215000,
       "name": "EN EL GHETTO #3 (Par de cosas)",
       "url": "https://open.spotify.com/track/1sMZcWb0Ve9OYw4srIC4z3"
+    },
+    {
+      "added_at": "2024-10-29 18:58:38",
+      "album": {
+        "name": "LA PRIMERA VEZ",
+        "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "LA PRIMERA VEZ",
+      "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
     },
     {
       "added_at": "2024-10-29 18:58:38",
@@ -935,26 +935,6 @@
     {
       "added_at": "2024-10-29 18:58:38",
       "album": {
-        "name": "POR TI",
-        "url": "https://open.spotify.com/album/0M47gcDDiE1RX0nMTsaGLH"
-      },
-      "artists": [
-        {
-          "name": "Vgomez",
-          "url": "https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4"
-        },
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        }
-      ],
-      "duration_ms": 184242,
-      "name": "POR TI",
-      "url": "https://open.spotify.com/track/5QpfbG5nGJ5qAOQGbEvDmi"
-    },
-    {
-      "added_at": "2024-10-29 18:58:38",
-      "album": {
         "name": "Labios de Vainilla",
         "url": "https://open.spotify.com/album/46VuvNSBHEzy3fbIIAapKl"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 186500,
       "name": "Parece un Sue\u00f1o",
       "url": "https://open.spotify.com/track/1DXAuCkxL3hdcLjBkvUxgN"
+    },
+    {
+      "added_at": "2024-10-29 18:58:38",
+      "album": {
+        "name": "POR TI",
+        "url": "https://open.spotify.com/album/0M47gcDDiE1RX0nMTsaGLH"
+      },
+      "artists": [
+        {
+          "name": "Vgomez",
+          "url": "https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "duration_ms": 184242,
+      "name": "POR TI",
+      "url": "https://open.spotify.com/track/5QpfbG5nGJ5qAOQGbEvDmi"
     },
     {
       "added_at": "2024-10-29 18:58:38",
@@ -1107,30 +1107,6 @@
     {
       "added_at": "2024-10-29 18:58:38",
       "album": {
-        "name": "Dime Si Tu",
-        "url": "https://open.spotify.com/album/2LkuDGwEPEfOlrU5cmBt43"
-      },
-      "artists": [
-        {
-          "name": "Jey F",
-          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "Fullbrand Music",
-          "url": "https://open.spotify.com/artist/3MIE1H4JzyKU3QHvpAHbfe"
-        }
-      ],
-      "duration_ms": 196823,
-      "name": "Dime Si Tu",
-      "url": "https://open.spotify.com/track/2hiEWGnFqLCJoZvXU9Ozmr"
-    },
-    {
-      "added_at": "2024-10-29 18:58:38",
-      "album": {
         "name": "Siguiendo Tu Voz",
         "url": "https://open.spotify.com/album/3aMx835NabvoX55u65N42y"
       },
@@ -1151,6 +1127,30 @@
       "duration_ms": 190685,
       "name": "Siguiendo Tu Voz",
       "url": "https://open.spotify.com/track/2hPtSn5rWBtXUygMF1ibio"
+    },
+    {
+      "added_at": "2024-10-29 18:58:38",
+      "album": {
+        "name": "Dime Si Tu",
+        "url": "https://open.spotify.com/album/2LkuDGwEPEfOlrU5cmBt43"
+      },
+      "artists": [
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Fullbrand Music",
+          "url": "https://open.spotify.com/artist/3MIE1H4JzyKU3QHvpAHbfe"
+        }
+      ],
+      "duration_ms": 196823,
+      "name": "Dime Si Tu",
+      "url": "https://open.spotify.com/track/2hiEWGnFqLCJoZvXU9Ozmr"
     },
     {
       "added_at": "2024-10-29 18:58:38",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-10-29 18:58:38",
       "album": {
+        "name": "1UNAMORSUPREMO",
+        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        }
+      ],
+      "duration_ms": 240680,
+      "name": "SUFICIENTEPUNTOWAV",
+      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
+    },
+    {
+      "added_at": "2024-10-29 18:58:38",
+      "album": {
         "name": "Trufas",
         "url": "https://open.spotify.com/album/56hMOKXiLHdMflideKYIRq"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 149999,
       "name": "Tinta de Tu Piel",
       "url": "https://open.spotify.com/track/3D0WYRsBpOZG4ScrthWnY1"
-    },
-    {
-      "added_at": "2024-10-29 18:58:38",
-      "album": {
-        "name": "1UNAMORSUPREMO",
-        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
-      },
-      "artists": [
-        {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
-        }
-      ],
-      "duration_ms": 240680,
-      "name": "SUFICIENTEPUNTOWAV",
-      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
     },
     {
       "added_at": "2024-10-29 18:58:38",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-10-29 18:58:38",
       "album": {
-        "name": "No digas nada",
-        "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 222545,
-      "name": "No digas nada",
-      "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
-    },
-    {
-      "added_at": "2024-10-29 18:58:38",
-      "album": {
         "name": "SIN PERDER, NUNK CUENTA",
         "url": "https://open.spotify.com/album/50LHRqNoAFdauzswqXWajX"
       },
@@ -1791,22 +1775,18 @@
     {
       "added_at": "2024-10-29 18:58:38",
       "album": {
-        "name": "Karate",
-        "url": "https://open.spotify.com/album/7q05oAGrO2xj815xVU1laZ"
+        "name": "No digas nada",
+        "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
       },
       "artists": [
         {
-          "name": "Kat Dahlia",
-          "url": "https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE"
-        },
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Karate",
-      "url": "https://open.spotify.com/track/2iE6y2ddWB7glVVZRb59Qn"
+      "duration_ms": 222545,
+      "name": "No digas nada",
+      "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
     },
     {
       "added_at": "2024-10-29 18:58:38",
@@ -1823,6 +1803,26 @@
       "duration_ms": 228803,
       "name": "Masaryk",
       "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
+    },
+    {
+      "added_at": "2024-10-29 18:58:38",
+      "album": {
+        "name": "Karate",
+        "url": "https://open.spotify.com/album/7q05oAGrO2xj815xVU1laZ"
+      },
+      "artists": [
+        {
+          "name": "Kat Dahlia",
+          "url": "https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE"
+        },
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Karate",
+      "url": "https://open.spotify.com/track/2iE6y2ddWB7glVVZRb59Qn"
     },
     {
       "added_at": "2024-10-29 18:58:38",

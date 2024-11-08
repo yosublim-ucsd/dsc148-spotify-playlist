@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Provinz, $OHO BANI",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: JEREMIAS",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -752,7 +752,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 144385,
       "name": "Ach Du Liebe Zeit",
       "url": "https://open.spotify.com/track/6Knu3Uggcb1nTDPkKiXFaM"
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 181562,
       "name": "aufwachen",
       "url": "https://open.spotify.com/track/5Fyot7NVMcBOEi5vrd3BTp"
@@ -2512,7 +2512,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 130409,
       "name": "BYE X3 (MIT JEREMIAS)",
       "url": "https://open.spotify.com/track/0ULpry2sJKjbSzabrh0yL3"
@@ -2786,7 +2786,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 218845,
       "name": "Da wo ich bin",
       "url": "https://open.spotify.com/track/2b0xpAXTDVmuT62dMpd06A"
@@ -3639,6 +3639,24 @@
     },
     {
       "album": {
+        "name": "du bist so gut zu mir_demo",
+        "url": "https://open.spotify.com/album/4gBrGZN1CNQdLcCFikE55p"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174117,
+      "name": "du bist so gut zu mir_demo",
+      "url": "https://open.spotify.com/track/60mCqWeO8RYbRnbkQzHKdN"
+    },
+    {
+      "album": {
         "name": "Du fehlst mir nicht",
         "url": "https://open.spotify.com/album/506n9WJjn11a2SykIjt4Qk"
       },
@@ -3910,7 +3928,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 150018,
       "name": "Echt",
       "url": "https://open.spotify.com/track/1SOIIqQiQU7xaHaDP1WS6O"
@@ -4798,6 +4816,24 @@
       "duration_ms": 146964,
       "name": "Farbverlauf",
       "url": "https://open.spotify.com/track/0mSTVa3P2tv6zGRK2J63wI"
+    },
+    {
+      "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/3Abw9UTsnzAEEf3nC87Lvx"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164585,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/1v1cijv1qjMJ5o9OvMWACS"
     },
     {
       "album": {
@@ -6172,7 +6208,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 145945,
       "name": "Hals \u00fcber Kopf",
       "url": "https://open.spotify.com/track/4NAQNy7Eh3pE5dCazU5wLy"
@@ -7192,7 +7228,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 137391,
       "name": "Interesse",
       "url": "https://open.spotify.com/track/43nq2udT4T8dWEEhHcY3xZ"
@@ -7468,6 +7504,24 @@
       "duration_ms": 193012,
       "name": "Joel",
       "url": "https://open.spotify.com/track/7A2MVRdwPy1PKiF5euhNK6"
+    },
+    {
+      "album": {
+        "name": "Juli",
+        "url": "https://open.spotify.com/album/3kem28oOtlQWOshkKt4AvR"
+      },
+      "artists": [
+        {
+          "name": "fyne",
+          "url": "https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189840,
+      "name": "Juli",
+      "url": "https://open.spotify.com/track/0pjLRl4IKL4Yk7qsH3kiXY"
     },
     {
       "album": {
@@ -8031,6 +8085,24 @@
     },
     {
       "album": {
+        "name": "Kippen",
+        "url": "https://open.spotify.com/album/0OgTLSzX75m4jENpfVTrnV"
+      },
+      "artists": [
+        {
+          "name": "Tigermilch",
+          "url": "https://open.spotify.com/artist/5cFzpoYJedkZeGFUp9pExN"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217699,
+      "name": "Kippen",
+      "url": "https://open.spotify.com/track/1az2EVNCFdaWGv1JkgMjon"
+    },
+    {
+      "album": {
         "name": "Manic Pixie Dream Boy, Vol. 2 (Deluxe)",
         "url": "https://open.spotify.com/album/5JSOwrVEdgJUJ38hTXznHL"
       },
@@ -8050,6 +8122,24 @@
       "duration_ms": 147034,
       "name": "Klar kann ich woanders traurig sein",
       "url": "https://open.spotify.com/track/1lB9Tb8ILD85CnxpwqrIbA"
+    },
+    {
+      "album": {
+        "name": "Klebeband",
+        "url": "https://open.spotify.com/album/0qCHezO2pxTOQNvKYONvhr"
+      },
+      "artists": [
+        {
+          "name": "Fynn Kliemann",
+          "url": "https://open.spotify.com/artist/2YIxQoGvBukvoC1CbJ7opS"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144476,
+      "name": "Klebeband",
+      "url": "https://open.spotify.com/track/3gEVtnKEfvj4mIbJE997qG"
     },
     {
       "album": {
@@ -8934,7 +9024,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 141600,
       "name": "Liebesbriefe",
       "url": "https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1"
@@ -9530,7 +9620,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 192463,
       "name": "Mein Hass tritt dir die Haust\u00fcr ein",
       "url": "https://open.spotify.com/track/7lQdJEWeNuZO8mlUUCfPMj"
@@ -9588,7 +9678,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 135414,
       "name": "Mein Sohn",
       "url": "https://open.spotify.com/track/0Oe3epFkZF8KPHJa6DD52c"
@@ -9997,6 +10087,24 @@
     },
     {
       "album": {
+        "name": "Mut",
+        "url": "https://open.spotify.com/album/03nloAfECeE0rh6fZ2sfzX"
+      },
+      "artists": [
+        {
+          "name": "Marlo Grosshardt",
+          "url": "https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203072,
+      "name": "Mut",
+      "url": "https://open.spotify.com/track/3E8JzRBWGMeulXtCbxChBB"
+    },
+    {
+      "album": {
         "name": "M\u00e4nner",
         "url": "https://open.spotify.com/album/0MOVco79zILYTrD4cDaU8f"
       },
@@ -10038,6 +10146,28 @@
       "duration_ms": 195346,
       "name": "M\u00e4nner - #40Bochum",
       "url": "https://open.spotify.com/track/5hq6chya9UwpWWJA4zQF8v"
+    },
+    {
+      "album": {
+        "name": "Es k\u00f6nnte sch\u00f6n sein",
+        "url": "https://open.spotify.com/album/6eExqcc4tn2gNDbKqvIDTd"
+      },
+      "artists": [
+        {
+          "name": "Paul Weber",
+          "url": "https://open.spotify.com/artist/5Awy5kGk6lVTb5XSSNPRcB"
+        },
+        {
+          "name": "Felix Herbst",
+          "url": "https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206277,
+      "name": "M\u00fcdes Herz",
+      "url": "https://open.spotify.com/track/6Ozi2ap2IUpAv8UQzlnh0Y"
     },
     {
       "album": {
@@ -12047,6 +12177,24 @@
     },
     {
       "album": {
+        "name": "Sag mir was ich nicht wei\u00df",
+        "url": "https://open.spotify.com/album/51M0w9KedzR3r9OtdMSgg3"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166406,
+      "name": "Sag mir was ich nicht wei\u00df",
+      "url": "https://open.spotify.com/track/2YgHhD3Tuifloa4ju1N0g2"
+    },
+    {
+      "album": {
         "name": "sag was",
         "url": "https://open.spotify.com/album/2biK8sXdAObBs6oRqNpTEs"
       },
@@ -12106,6 +12254,24 @@
       "duration_ms": 189293,
       "name": "Scheissegal",
       "url": "https://open.spotify.com/track/4nyRfJ4OtNlLWCtp3l9SAz"
+    },
+    {
+      "album": {
+        "name": "Schei\u00df auf dich",
+        "url": "https://open.spotify.com/album/10xgLYilDkI6vjoOVqNbdv"
+      },
+      "artists": [
+        {
+          "name": "Rowli",
+          "url": "https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136587,
+      "name": "Schei\u00df auf dich",
+      "url": "https://open.spotify.com/track/5j2zBTSOX4ujO3iEHCfrne"
     },
     {
       "album": {
@@ -13434,7 +13600,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 244023,
       "name": "Stabil",
       "url": "https://open.spotify.com/track/6Ifx1tcIsAUV7Qqqu2pULB"
@@ -13528,6 +13694,24 @@
       "duration_ms": 178680,
       "name": "Starkes Drehbuch, Schwacher Cast",
       "url": "https://open.spotify.com/track/2Nc77noACeK87lVoevdUgq"
+    },
+    {
+      "album": {
+        "name": "Statist",
+        "url": "https://open.spotify.com/album/56Y9LwFL7aITHFuNNMHf7d"
+      },
+      "artists": [
+        {
+          "name": "Heavent",
+          "url": "https://open.spotify.com/artist/6Phe79G3G9eEADucEW70NV"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220947,
+      "name": "Statist",
+      "url": "https://open.spotify.com/track/5b2J0cXy2t2x5m6DjB4owc"
     },
     {
       "album": {
@@ -15468,6 +15652,28 @@
       "duration_ms": 200495,
       "name": "Weniger Allein",
       "url": "https://open.spotify.com/track/3HuQvPFNb8e8pYITgwFPQ7"
+    },
+    {
+      "album": {
+        "name": "Weniger am Meer",
+        "url": "https://open.spotify.com/album/7c9PsnfJNxmM7PYZC4EsR1"
+      },
+      "artists": [
+        {
+          "name": "Yunus",
+          "url": "https://open.spotify.com/artist/3SrCAswHaxL87fCepyuN0U"
+        },
+        {
+          "name": "LIN",
+          "url": "https://open.spotify.com/artist/1VHbH2LPSBfQ2qmJUM3BtV"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133750,
+      "name": "Weniger am Meer",
+      "url": "https://open.spotify.com/track/5IQMCyGdG4eJjEk2shPsL8"
     },
     {
       "album": {

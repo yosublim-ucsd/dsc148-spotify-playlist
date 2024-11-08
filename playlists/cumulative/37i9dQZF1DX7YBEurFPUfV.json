@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 205721,
       "name": "Nesta3ref",
       "url": "https://open.spotify.com/track/0dIYvl9pLL5lhmTXOWkz5Q"
@@ -1322,6 +1322,24 @@
       "duration_ms": 193333,
       "name": "Nouveau Riche",
       "url": "https://open.spotify.com/track/2VcyehrwqaIcLx1Urq7HFs"
+    },
+    {
+      "album": {
+        "name": "Hybrid",
+        "url": "https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe"
+      },
+      "artists": [
+        {
+          "name": "A.L.A",
+          "url": "https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173114,
+      "name": "Nsit Noum",
+      "url": "https://open.spotify.com/track/6a7mYd9Iud4JIAwUvRQtSC"
     },
     {
       "album": {

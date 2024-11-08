@@ -1204,12 +1204,12 @@
       },
       "artists": [
         {
-          "name": "Jeruson",
-          "url": "https://open.spotify.com/artist/08z8cYk0E56BpT6vSS04ss"
-        },
-        {
           "name": "$carce",
           "url": "https://open.spotify.com/artist/71LOuajUcL1fBqE6rA1nTc"
+        },
+        {
+          "name": "Jeruson",
+          "url": "https://open.spotify.com/artist/08z8cYk0E56BpT6vSS04ss"
         }
       ],
       "date_added": "2024-10-24",

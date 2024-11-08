@@ -1,128 +1,608 @@
 {
   "description": "Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix. ",
-  "num_followers": 239095,
+  "num_followers": 239453,
   "original_name": "Outer Banks Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxAl4QAAAAAvdsa4Yj0VtIo1r4MtEqmV",
+  "snapshot_id": "ZyxJUAAAAAAgZLhH3fVgf7T4EC9RlzRD",
   "tracks": [
     {
-      "added_at": "2024-10-16 20:45:21",
+      "added_at": "2024-11-07 05:00:00",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+        "name": "Haywire",
+        "url": "https://open.spotify.com/album/3cdrsdA0foZPxiqhwkm4RA"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Duff Thompson",
+          "url": "https://open.spotify.com/artist/7plKpA9qc63luCHs3aEjfQ"
         }
       ],
-      "duration_ms": 209482,
-      "name": "Back On 74",
-      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+      "duration_ms": 191600,
+      "name": "Haywire",
+      "url": "https://open.spotify.com/track/4bompYh7n8EV1SdZxcPobl"
     },
     {
-      "added_at": "2024-10-16 20:45:21",
+      "added_at": "2024-11-07 05:00:00",
       "album": {
-        "name": "GOOD TIMES / PROBLEMZ",
-        "url": "https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te"
+        "name": "Studio One Presents Jennifer Lara",
+        "url": "https://open.spotify.com/album/3QE9DNEj6FFXEHfmhrdnon"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Jennifer Lara",
+          "url": "https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4"
         }
       ],
-      "duration_ms": 181312,
-      "name": "GOOD TIMES",
-      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
+      "duration_ms": 147946,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/4Wtu4VaVR2CVkqI62OBhpj"
     },
     {
-      "added_at": "2024-10-16 20:45:21",
+      "added_at": "2024-11-07 05:00:00",
       "album": {
-        "name": "TGIF",
-        "url": "https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D"
+        "name": "Undress",
+        "url": "https://open.spotify.com/album/7qh3EpJMyROoO11k5zoKYW"
       },
       "artists": [
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "The Felice Brothers",
+          "url": "https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1"
         }
       ],
-      "duration_ms": 164571,
-      "name": "TGIF",
-      "url": "https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ"
+      "duration_ms": 130427,
+      "name": "Nail It on the First Try",
+      "url": "https://open.spotify.com/track/1H7GOLyQ9uV1keAuvEWAdJ"
     },
     {
-      "added_at": "2024-10-16 20:45:21",
+      "added_at": "2024-11-07 05:00:00",
       "album": {
-        "name": "Big Ideas",
-        "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
+        "name": "Outer Banks: Season 4 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4GUsqgkNYIx9UA9yxTB3L6"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Fil Eisler",
+          "url": "https://open.spotify.com/artist/5129CrVkHTSigIoqGiseqj"
         }
       ],
-      "duration_ms": 243952,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/46clCWv55EyW1ZlOl796It"
+      "duration_ms": 395724,
+      "name": "Pogues Theme (Light Tunnel 2024)",
+      "url": "https://open.spotify.com/track/4ueJvrOxNdtKjUENM9Z1M6"
     },
     {
-      "added_at": "2024-10-16 20:45:21",
+      "added_at": "2024-11-07 05:00:00",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+        "name": "Inna Heights",
+        "url": "https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "duration_ms": 238266,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/2ZW0A9cFELkFsCT5UkWjkG"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Truly She Is None Other (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1O6R1PeriYZhyxnJJS2IBf"
+      },
+      "artists": [
+        {
+          "name": "Holly Golightly",
+          "url": "https://open.spotify.com/artist/3giOet7O2pgPUYOujF4ifa"
+        }
+      ],
+      "duration_ms": 213960,
+      "name": "There's an End",
+      "url": "https://open.spotify.com/track/6aPKiZJx7P03nDXglk3wNR"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "A Song For Paul",
+        "url": "https://open.spotify.com/album/0w6knr7boQarN35qErXXeu"
+      },
+      "artists": [
+        {
+          "name": "Ghost Funk Orchestra",
+          "url": "https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Walk Like a Motherfucker",
+      "url": "https://open.spotify.com/track/7n95VDdVQgVOg4U80TlSTI"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "The Flying Burrito Brothers",
+        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
+      },
+      "artists": [
+        {
+          "name": "The Flying Burrito Brothers",
+          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
+        }
+      ],
+      "duration_ms": 298893,
+      "name": "Just Can't Be",
+      "url": "https://open.spotify.com/track/0Ov9Hh2ygoGCkwTXMRYRcp"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 221450,
+      "name": "Starburster",
+      "url": "https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Paranoid (Remaster)",
+        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 474359,
+      "name": "War Pigs / Luke's Wall - 2012 - Remaster",
+      "url": "https://open.spotify.com/track/2rd9ETlulTbz6BYZcdvIE1"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "The River Strumming",
+        "url": "https://open.spotify.com/album/361NxXQxQDS9j8YVwKBtt7"
+      },
+      "artists": [
+        {
+          "name": "Cotton Jones",
+          "url": "https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc"
+        }
+      ],
+      "duration_ms": 193266,
+      "name": "Chewing Gum (Concrete Tooth Mix)",
+      "url": "https://open.spotify.com/track/4x8mA60FJozAgYa1PiW0r6"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Tearing At The Seams",
+        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
         },
         {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
         }
       ],
-      "duration_ms": 169472,
-      "name": "I've Been In Love",
-      "url": "https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo"
+      "duration_ms": 184760,
+      "name": "Babe I Know",
+      "url": "https://open.spotify.com/track/5q15dlrrKO1ubSZAciVQgl"
     },
     {
-      "added_at": "2024-10-16 20:45:21",
+      "added_at": "2024-11-07 05:00:00",
       "album": {
-        "name": "Big Ideas",
-        "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
+        "name": "Foaming",
+        "url": "https://open.spotify.com/album/3Hwz49I44rdxZfJ07yZD4d"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Day We Ran",
+          "url": "https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS"
         }
       ],
-      "duration_ms": 185753,
-      "name": "Pitiful",
-      "url": "https://open.spotify.com/track/0p56A0wGIlQm0oKWeed6cm"
+      "duration_ms": 193906,
+      "name": "Foaming",
+      "url": "https://open.spotify.com/track/0HeEz3p1yVoAIOjAULJzrD"
     },
     {
-      "added_at": "2024-10-16 20:45:21",
+      "added_at": "2024-11-07 05:00:00",
       "album": {
-        "name": "Yeah Glo!",
-        "url": "https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa"
+        "name": "House Of The Rising Sun",
+        "url": "https://open.spotify.com/album/6llXYroElqYdyOtjL0sN5A"
       },
       "artists": [
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "Eric Burdon",
+          "url": "https://open.spotify.com/artist/3miNucraVWk4hdVsIxn7id"
         }
       ],
-      "duration_ms": 142702,
-      "name": "Yeah Glo!",
-      "url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI"
+      "duration_ms": 262746,
+      "name": "House Of The Rising Sun",
+      "url": "https://open.spotify.com/track/7jxkQrDhztYf7z1D8LRI0I"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "My Fun",
+        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 162291,
+      "name": "My Fun",
+      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Dance Now",
+        "url": "https://open.spotify.com/album/1KLhPXH6kqwzKYHgU2KpOY"
+      },
+      "artists": [
+        {
+          "name": "Girl and Girl",
+          "url": "https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn"
+        }
+      ],
+      "duration_ms": 290662,
+      "name": "Dance Now",
+      "url": "https://open.spotify.com/track/1LReLcAXOIo745DgUNrcvg"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Scoundrels",
+        "url": "https://open.spotify.com/album/3k9gSnZg9wmFoNdnizoOF5"
+      },
+      "artists": [
+        {
+          "name": "Scoundrels",
+          "url": "https://open.spotify.com/artist/4gk4lhkLjXnM1P7DT0TSuj"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "Gulf Of Mexico",
+      "url": "https://open.spotify.com/track/5fsdwfy87XC8ib8MTDW1pR"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Heroes to Zeros",
+        "url": "https://open.spotify.com/album/2VdMOAL684solHzw1XqBnI"
+      },
+      "artists": [
+        {
+          "name": "The Beta Band",
+          "url": "https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa"
+        }
+      ],
+      "duration_ms": 246106,
+      "name": "Out-Side",
+      "url": "https://open.spotify.com/track/02ZbFADUWks6sfXxUGEuc7"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Gilberto Gil (1971)",
+        "url": "https://open.spotify.com/album/1LVzlGs0jvhVJR8QReHZu0"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 317760,
+      "name": "Can't Find My Way Home",
+      "url": "https://open.spotify.com/track/79yHFFrvxBkUL8O8ieGlbR"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Outer Banks: Season 4 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4GUsqgkNYIx9UA9yxTB3L6"
+      },
+      "artists": [
+        {
+          "name": "Fil Eisler",
+          "url": "https://open.spotify.com/artist/5129CrVkHTSigIoqGiseqj"
+        }
+      ],
+      "duration_ms": 125915,
+      "name": "JJ and Kiara's Theme",
+      "url": "https://open.spotify.com/track/70lTMY51W8gVcvFiOyIM4L"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Face To Face",
+        "url": "https://open.spotify.com/album/4CYcZR7MJLcnnZ7YPD3tIf"
+      },
+      "artists": [
+        {
+          "name": "Vusi Mahlasela",
+          "url": "https://open.spotify.com/artist/7tUdxVCUWjTPf3Ic90eWDJ"
+        },
+        {
+          "name": "Norman Zulu",
+          "url": "https://open.spotify.com/artist/4ZIWWgPfIm5LZ62nugiR9p"
+        },
+        {
+          "name": "Jive Connection",
+          "url": "https://open.spotify.com/artist/3XkxlBu5QdJN8igOujunS2"
+        }
+      ],
+      "duration_ms": 414093,
+      "name": "Themba Lami",
+      "url": "https://open.spotify.com/track/1348m9LxADoC0T6dGUny1i"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Z",
+        "url": "https://open.spotify.com/album/1UgdV58y1OX2oiTBbTFvlh"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 219066,
+      "name": "Gideon",
+      "url": "https://open.spotify.com/track/4gNhWF7BcTzNJwcSTdZ6NI"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Partners",
+        "url": "https://open.spotify.com/album/0lk5ry1X1JyhNlq0G3NyVK"
+      },
+      "artists": [
+        {
+          "name": "Flaco Jimenez",
+          "url": "https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M"
+        },
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 207533,
+      "name": "Carmelita (feat. Dwight Yoakam)",
+      "url": "https://open.spotify.com/track/2qz7LTS6bc3R3QcdhslXzA"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Strung Out In Heaven",
+        "url": "https://open.spotify.com/album/7seUcTqq2JR2u4XycWiD7f"
+      },
+      "artists": [
+        {
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+        }
+      ],
+      "duration_ms": 178640,
+      "name": "Going To Hell",
+      "url": "https://open.spotify.com/track/28THPAxBITHE2JY4CVC9cG"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Disappearing",
+        "url": "https://open.spotify.com/album/7o0DWyGeK7DUHIbM613ffK"
+      },
+      "artists": [
+        {
+          "name": "Greg Humphreys",
+          "url": "https://open.spotify.com/artist/2P4ndh6Wwh55HNBsOHxoWA"
+        }
+      ],
+      "duration_ms": 375124,
+      "name": "Fall Into The Sea",
+      "url": "https://open.spotify.com/track/3Wko8eaWeZgkqLfHVV7eKC"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Ethio Meditations / Drama Al Dente",
+        "url": "https://open.spotify.com/album/3aJ6WC88KrPsCyP4xfIRQq"
+      },
+      "artists": [
+        {
+          "name": "JJ Whitefield",
+          "url": "https://open.spotify.com/artist/1YkLBP9z7ymGS5FXHMEl5S"
+        }
+      ],
+      "duration_ms": 177189,
+      "name": "Asir",
+      "url": "https://open.spotify.com/track/6rDf9djD9gQYv5x4dZmvoO"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Emmaar (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 273439,
+      "name": "Koud Edhaz Emin",
+      "url": "https://open.spotify.com/track/7al5LLeAcn5XglTiwhGLLV"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Cool Chic",
+        "url": "https://open.spotify.com/album/1eyXr9HArH5ClRxef70mu9"
+      },
+      "artists": [
+        {
+          "name": "Would Cha3b",
+          "url": "https://open.spotify.com/artist/2O12d0dv4PeDqH18SvcTUB"
+        }
+      ],
+      "duration_ms": 236440,
+      "name": "Booghttate",
+      "url": "https://open.spotify.com/track/0UfgqXIWtHYw2TjLWOWdDt"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Jedba: Spiritual Music from Morocco",
+        "url": "https://open.spotify.com/album/6CXcWfMXXiCDyM8HWcawtX"
+      },
+      "artists": [
+        {
+          "name": "Nour Eddine Fatty",
+          "url": "https://open.spotify.com/artist/4p89G1QhmMO8sVCOE6ceFx"
+        },
+        {
+          "name": "Abdelaziz Inouiti",
+          "url": "https://open.spotify.com/artist/0m8H8UdsHFUzeyZdNG03NP"
+        }
+      ],
+      "duration_ms": 654026,
+      "name": "Jedba",
+      "url": "https://open.spotify.com/track/6nSaLFlA8uiAdujLMfHDjg"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Outer Banks: Season 4 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4GUsqgkNYIx9UA9yxTB3L6"
+      },
+      "artists": [
+        {
+          "name": "Fil Eisler",
+          "url": "https://open.spotify.com/artist/5129CrVkHTSigIoqGiseqj"
+        }
+      ],
+      "duration_ms": 131774,
+      "name": "We've Got To Hurry!",
+      "url": "https://open.spotify.com/track/5vuWiStLFCSj6AXMHsSUCr"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Amassakoul",
+        "url": "https://open.spotify.com/album/0HtXxCOzxI722dtwJ7ukyv"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 234253,
+      "name": "Aldhechen Manin",
+      "url": "https://open.spotify.com/track/0Ae4wnZfFCidTH7qpXYfPz"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Dance to the Full Moon",
+        "url": "https://open.spotify.com/album/7HSZULj9bBrOvFlVEJjlWN"
+      },
+      "artists": [
+        {
+          "name": "Invisible System",
+          "url": "https://open.spotify.com/artist/6fIPkQOFMfe9CGZ6BfRoiE"
+        }
+      ],
+      "duration_ms": 365133,
+      "name": "Ebah",
+      "url": "https://open.spotify.com/track/49mDpACUMi8Lg4G8N73SEd"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Awnafin",
+        "url": "https://open.spotify.com/album/4UiaB9Lj5s0jcboWPrjCXf"
+      },
+      "artists": [
+        {
+          "name": "Tamikrest",
+          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
+        }
+      ],
+      "duration_ms": 246520,
+      "name": "Awnafin",
+      "url": "https://open.spotify.com/track/5mAzjRb1YvHokbQLucHXbk"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Swaken",
+        "url": "https://open.spotify.com/album/3WqcGIWIiR6O4SByIGstmy"
+      },
+      "artists": [
+        {
+          "name": "Bab L' Bluz",
+          "url": "https://open.spotify.com/artist/07J09Vf9YReIIaFtarQshi"
+        }
+      ],
+      "duration_ms": 260280,
+      "name": "AmmA",
+      "url": "https://open.spotify.com/track/08HhQPNXTMrSt5jsUFG8sn"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Aman Iman: Water Is Life",
+        "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Tamatant Tilay",
+      "url": "https://open.spotify.com/track/2vvtJt1hsoxL8LeVX0KiY9"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Directions To See A Ghost",
+        "url": "https://open.spotify.com/album/7mUYlXQOAtFHNU8eIC0QzN"
+      },
+      "artists": [
+        {
+          "name": "The Black Angels",
+          "url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
+        }
+      ],
+      "duration_ms": 285466,
+      "name": "Science Killer",
+      "url": "https://open.spotify.com/track/7qUIvhQPDqyRz4aQqG18Hf"
     },
     {
       "added_at": "2024-10-10 07:00:00",
@@ -331,6 +811,22 @@
       "duration_ms": 191216,
       "name": "Slow Learner",
       "url": "https://open.spotify.com/track/79W8lW8xyYayXfi8TTbtoD"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Outer Banks: Season 4 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4GUsqgkNYIx9UA9yxTB3L6"
+      },
+      "artists": [
+        {
+          "name": "Fil Eisler",
+          "url": "https://open.spotify.com/artist/5129CrVkHTSigIoqGiseqj"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "The First Thing Of Funk",
+      "url": "https://open.spotify.com/track/4jyJyEQE1HPsms02NAlLPn"
     },
     {
       "added_at": "2024-10-10 07:00:00",
@@ -987,6 +1483,122 @@
       "duration_ms": 232960,
       "name": "See No Evil",
       "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
+    },
+    {
+      "added_at": "2024-10-16 20:45:21",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "added_at": "2024-10-16 20:45:21",
+      "album": {
+        "name": "GOOD TIMES / PROBLEMZ",
+        "url": "https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 181312,
+      "name": "GOOD TIMES",
+      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
+    },
+    {
+      "added_at": "2024-10-16 20:45:21",
+      "album": {
+        "name": "TGIF",
+        "url": "https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "TGIF",
+      "url": "https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ"
+    },
+    {
+      "added_at": "2024-10-16 20:45:21",
+      "album": {
+        "name": "Big Ideas",
+        "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 243952,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/46clCWv55EyW1ZlOl796It"
+    },
+    {
+      "added_at": "2024-10-16 20:45:21",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 169472,
+      "name": "I've Been In Love",
+      "url": "https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo"
+    },
+    {
+      "added_at": "2024-10-16 20:45:21",
+      "album": {
+        "name": "Big Ideas",
+        "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 185753,
+      "name": "Pitiful",
+      "url": "https://open.spotify.com/track/0p56A0wGIlQm0oKWeed6cm"
+    },
+    {
+      "added_at": "2024-10-16 20:45:21",
+      "album": {
+        "name": "Yeah Glo!",
+        "url": "https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 142702,
+      "name": "Yeah Glo!",
+      "url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI"
     },
     {
       "added_at": "2023-03-01 19:38:36",

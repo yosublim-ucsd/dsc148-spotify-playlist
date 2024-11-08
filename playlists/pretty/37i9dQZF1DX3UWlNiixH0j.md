@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: TOSH
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,283 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,287 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,16 +46,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 36 | [近頃](https://open.spotify.com/track/7FBNfAjU02PvZHjpNGEgPI) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [近頃](https://open.spotify.com/album/5u6n1FhTOnppyabXA4Vq5V) | 3:54 |
 | 37 | [Eclipse](https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng) | 3:37 |
 | 38 | [Unlucky!!](https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Unlucky!!](https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV) | 3:35 |
-| 39 | [you left the story of my life](https://open.spotify.com/track/1IOzjkapv2XcXl4KuuL7ho) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [you left the story of my life](https://open.spotify.com/album/6sjj56JBEsHR0qGKdQe4Ic) | 2:53 |
-| 40 | [Alone in the Sky](https://open.spotify.com/track/14x0Y9WmUG3C82BxJhnR2n) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Alone in the Sky](https://open.spotify.com/album/1rZZaAycfdqKMcbKuwI5Pg) | 4:29 |
+| 39 | [Alone in the Sky](https://open.spotify.com/track/14x0Y9WmUG3C82BxJhnR2n) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Alone in the Sky](https://open.spotify.com/album/1rZZaAycfdqKMcbKuwI5Pg) | 4:29 |
+| 40 | [you left the story of my life](https://open.spotify.com/track/1IOzjkapv2XcXl4KuuL7ho) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [you left the story of my life](https://open.spotify.com/album/6sjj56JBEsHR0qGKdQe4Ic) | 2:53 |
 | 41 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 |
 | 42 | [声を聞かせて](https://open.spotify.com/track/0ZJmMINFDqxtS5QhZzMjWh) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [Correspondances](https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z) | 2:28 |
 | 43 | [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 |
 | 44 | [差し色](https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [差し色](https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W) | 3:03 |
-| 45 | [ふたりの映画](https://open.spotify.com/track/0pcf8NBtfYsNYiGI4jonYf) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [ふたりの映画](https://open.spotify.com/album/2yRaD5QzVFRFXu3XRj5wII) | 3:27 |
-| 46 | [Dangomushi](https://open.spotify.com/track/3W8pwBzT8ZqYbW45X7lotM) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dangomushi](https://open.spotify.com/album/0FKaTqPn6qJYboQTcER1zk) | 3:19 |
-| 47 | [渚で会いましょう](https://open.spotify.com/track/07y4uMenyskCjDuxfdXuGB) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [渚で会いましょう](https://open.spotify.com/album/1tR10RiFgLv50ZWl6EjF4T) | 5:19 |
-| 48 | [Forest \- feat\. ACE COOL](https://open.spotify.com/track/3rCTQ2WHlmIFLcUTimksTH) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [Forest \(feat\. ACE COOL\)](https://open.spotify.com/album/23qxN8jxIdoYRQrFnclqn5) | 3:03 |
+| 45 | [Dangomushi](https://open.spotify.com/track/3W8pwBzT8ZqYbW45X7lotM) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dangomushi](https://open.spotify.com/album/0FKaTqPn6qJYboQTcER1zk) | 3:19 |
+| 46 | [Forest \- feat\. ACE COOL](https://open.spotify.com/track/3rCTQ2WHlmIFLcUTimksTH) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [Forest \(feat\. ACE COOL\)](https://open.spotify.com/album/23qxN8jxIdoYRQrFnclqn5) | 3:03 |
+| 47 | [ふたりの映画](https://open.spotify.com/track/0pcf8NBtfYsNYiGI4jonYf) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [ふたりの映画](https://open.spotify.com/album/2yRaD5QzVFRFXu3XRj5wII) | 3:27 |
+| 48 | [渚で会いましょう](https://open.spotify.com/track/07y4uMenyskCjDuxfdXuGB) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [渚で会いましょう](https://open.spotify.com/album/1tR10RiFgLv50ZWl6EjF4T) | 5:19 |
 | 49 | [Thirsty](https://open.spotify.com/track/3RuXVFUyACarEYmHBimSkr) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Thirsty](https://open.spotify.com/album/1bAuFD7N2XwXvYCOgmgVr3) | 2:44 |
 | 50 | [OKACHIMACHI FRIDAY NIGHT](https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [OKACHIMACHI FRIDAY NIGHT](https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y) | 3:18 |
 | 51 | [Make a Move](https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Make a Move](https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7) | 2:37 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 57 | [Sick!!!](https://open.spotify.com/track/7FSlB8echKJVC9yjf9caGK) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Sick!!!](https://open.spotify.com/album/0MMBAMCR1kJEtSZr9z6D6d) | 4:04 |
 | 58 | [Garden of Remembrance](https://open.spotify.com/track/1z2BwXcCg7udJjekN3JuMh) | [Lovely Summer Chan](https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips) | [「Garden of Remembrance」劇中曲](https://open.spotify.com/album/5EWWd1nPJMu0XtKvpNSwkz) | 7:16 |
 | 59 | [SUKIYAKI](https://open.spotify.com/track/1Ps2Yky3EWKGuB48xK0xti) | [DONGROSSO](https://open.spotify.com/artist/7nRjb0R3RLVlbwHq3f5gTA), [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v), [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb) | [SUKIYAKI](https://open.spotify.com/album/02CLGJbTjSEvYeqa9SIUz0) | 2:29 |
-| 60 | [Sorrow \(feat\. Mandark\)](https://open.spotify.com/track/0ZCcrOzh8CnhkQY0PpcKzT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [Sorrow \(feat\. Mandark\)](https://open.spotify.com/album/4g4MowiT8Au4qUYZABRcyQ) | 3:12 |
-| 61 | [夏よ](https://open.spotify.com/track/7IFsYuLbVwgnz0567conyw) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [夏よ](https://open.spotify.com/album/5Z2I4wSUZqzPinSUZWP5ph) | 4:59 |
+| 60 | [夏よ](https://open.spotify.com/track/7IFsYuLbVwgnz0567conyw) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [夏よ](https://open.spotify.com/album/5Z2I4wSUZqzPinSUZWP5ph) | 4:59 |
+| 61 | [Sorrow \(feat\. Mandark\)](https://open.spotify.com/track/0ZCcrOzh8CnhkQY0PpcKzT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [Sorrow \(feat\. Mandark\)](https://open.spotify.com/album/4g4MowiT8Au4qUYZABRcyQ) | 3:12 |
 | 62 | [カーテンコール](https://open.spotify.com/track/59IYIoki3Z4UEVBuegE0ZN) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [カーテンコール](https://open.spotify.com/album/7MuNNuwO7FnpHzYJeuom7W) | 2:54 |
 | 63 | [Shock!!中毒](https://open.spotify.com/track/1g584j4sEZq6LhAfUC40WD) | [Geloomy](https://open.spotify.com/artist/21NKv3DBcDuDjOCxipK7KK) | [Saladbowl](https://open.spotify.com/album/2Pakq7Nsj44ldFvvCvalLt) | 3:29 |
 | 64 | [地下鉄の揺れるリズムで](https://open.spotify.com/track/3yFvHFqIWNFhJNcQw3C3Lx) | [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [村上基](https://open.spotify.com/artist/4EKTa0k3mRu5mJT5HcRRVu) | [地下鉄の揺れるリズムで](https://open.spotify.com/album/4QG8QxpqHUBXucaDMWxPy9) | 3:39 |

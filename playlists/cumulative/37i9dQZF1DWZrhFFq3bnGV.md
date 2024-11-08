@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Littlefingers
 
-210 songs - 14 hr 55 min
+212 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,12 +38,14 @@
 | [bitterlove](https://open.spotify.com/track/74OLXYsvpfmSgPCMMi898K) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [bitterlove](https://open.spotify.com/album/5pSxeG2bdlj3MYdBVRBexK) | 3:36 | 2022-09-02 | 2023-07-14 |
 | [Blue](https://open.spotify.com/track/2wQezSDg7fDhAxNr09E00Y) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Blue](https://open.spotify.com/album/7rh3PfTK0nrnjzyamfGvjU) | 6:46 | 2023-09-29 | 2023-11-08 |
 | [Blue](https://open.spotify.com/track/3e2cdlozr0ZKut6dWOer3q) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Continuance](https://open.spotify.com/album/0PFFqNI88PG7QKGYWvjwXQ) | 6:46 | 2023-11-03 | 2024-01-26 |
+| [Books Of Life](https://open.spotify.com/track/2QwTLcdMlccj1uapY7yn1i) | [Tarasinta](https://open.spotify.com/artist/4Cz3KvYnvRJhCwloD3t1TL) | [Books Of Life](https://open.spotify.com/album/6A9exPt2uTUaXcdHcav4YG) | 3:46 | 2024-11-07 |  |
 | [Can Good Things Last Forever?](https://open.spotify.com/track/6MWw5eGSjfkNLmGTmMqTPn) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU), [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [Can Good Things Last Forever?](https://open.spotify.com/album/73536AVZgGnJQOCrfgCuve) | 5:22 | 2023-03-03 |  |
 | [Catch The Love](https://open.spotify.com/track/44ZyBSW5vgy83SN7BGBPIn) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Decade](https://open.spotify.com/album/5TZ6xnIlYgusgGbPwFhRQX) | 3:49 | 2024-08-15 |  |
 | [Changes](https://open.spotify.com/track/69sr0eULGJPlIMphhtNNk6) | [Juhan Ongbrian](https://open.spotify.com/artist/7mEJxWdf21g1dRVwNDaLq8), [Shane Sato](https://open.spotify.com/artist/7A4XdB4WDsaYZzOySUSwhj) | [Changes](https://open.spotify.com/album/6K4SQ1N5cqEZmoy8beycUc) | 2:31 | 2023-05-05 | 2023-11-04 |
 | [Chega de Saudade](https://open.spotify.com/track/2WQI1voN9wyAqtpDwUxoIC) | [Rubina](https://open.spotify.com/artist/0CP7W95OO1zFAXieVsBwPN) | [Chega de Saudade](https://open.spotify.com/album/0ss6hyjblBNVw8Hmwrtt77) | 4:23 | 2024-04-18 |  |
 | [Chega de Saudade](https://open.spotify.com/track/2eNQgIisOJLKnGSfZjUgPB) | [Rubina](https://open.spotify.com/artist/0CP7W95OO1zFAXieVsBwPN) | [Modinha](https://open.spotify.com/album/6AdW9SB1FDBv5mxA35VAZn) | 4:23 | 2023-03-03 | 2024-04-19 |
 | [Christy](https://open.spotify.com/track/0M3l9QtKkL4QJpJUmXxEGc) | [January Christy](https://open.spotify.com/artist/6r6dOSjeTf5AjwywbRqSIX) | [Unreleased Tracks from 1985](https://open.spotify.com/album/26rn9d3WodFSvOVSsd8N8S) | 3:27 | 2022-09-02 | 2024-08-27 |
+| [Chroma](https://open.spotify.com/track/4zdmipUN8H3sTvS304HGLP) | [Andre Dinuth](https://open.spotify.com/artist/3n0drwInUQS6Heg7kGKIXP) | [Chroma](https://open.spotify.com/album/0CMeBic02tygImc4JupoEl) | 4:21 | 2024-11-07 |  |
 | [Cinta Dalam Diam](https://open.spotify.com/track/76npF4CedfcIz0p6YN8UAY) | [Andezzz](https://open.spotify.com/artist/2fbpowgwOj5DqZt6IZHzWd), [Nadine Emmanuella](https://open.spotify.com/artist/02nmmf0lZ42hJgaZpNo6oW) | [Cinta Dalam Diam](https://open.spotify.com/album/6JfU4yHFF4vl4L8JymLvOp) | 5:25 | 2022-09-02 |  |
 | [Cocoa Butter](https://open.spotify.com/track/4guIRGkMQBGNBWFA3SjDah) | [Neida](https://open.spotify.com/artist/6pXFLqoZMjMxHMwrNuueoW), [Greybox](https://open.spotify.com/artist/7dQtKW1F0fbXa3q5cPXF3f) | [Cocoa Butter](https://open.spotify.com/album/06BgAdvlGyBptrJeigmZMS) | 3:31 | 2023-03-03 | 2023-08-25 |
 | [Cruisin n' groovin](https://open.spotify.com/track/5ZBEkuN7XOOnQIPlFsEIpo) | [Devian Zikri](https://open.spotify.com/artist/0BBhYg5ZPpxxz3DC2zLCvM) | [Now & Forever](https://open.spotify.com/album/5G5r3l1yvNUUDrtuakapdQ) | 4:36 | 2023-06-15 | 2024-02-23 |

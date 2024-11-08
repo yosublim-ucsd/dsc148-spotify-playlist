@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Gregory Porter",
+  "description": "The best jazz new releases. Cover: Jon Batiste",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -1586,7 +1586,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 208552,
       "name": "Brightlight",
       "url": "https://open.spotify.com/track/6bbrT0pWJJXgyDnQQN0064"
@@ -1771,6 +1771,28 @@
     },
     {
       "album": {
+        "name": "Cantilene",
+        "url": "https://open.spotify.com/album/5BbspRKU7On60p8OU6lCsT"
+      },
+      "artists": [
+        {
+          "name": "Marion Rampal",
+          "url": "https://open.spotify.com/artist/3i8F40UKXQY3JmCIwbuCQD"
+        },
+        {
+          "name": "Na\u00efssam Jalal",
+          "url": "https://open.spotify.com/artist/4Md8IAcfkCRrHL6KF41GYk"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206466,
+      "name": "Cantilene",
+      "url": "https://open.spotify.com/track/1G1MA35h8ijuol0nLnUqxE"
+    },
+    {
+      "album": {
         "name": "Capacity to Love",
         "url": "https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK"
       },
@@ -1914,6 +1936,28 @@
       "duration_ms": 235920,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/3wSkiU2kjlunkqm2PcZZLa"
+    },
+    {
+      "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223443,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
     },
     {
       "album": {
@@ -2072,6 +2116,36 @@
       "duration_ms": 360093,
       "name": "Chic O'Clock",
       "url": "https://open.spotify.com/track/5823hf55oABckejkndnNXR"
+    },
+    {
+      "album": {
+        "name": "Childhood",
+        "url": "https://open.spotify.com/album/0QnCdCgh8FaP0V3RKBYkre"
+      },
+      "artists": [
+        {
+          "name": "Rhoda Scott",
+          "url": "https://open.spotify.com/artist/7bALAz7fry73sw8SgpdZhl"
+        },
+        {
+          "name": "Sophie Alour",
+          "url": "https://open.spotify.com/artist/0a0itmMDe3aXvoIGirdUHT"
+        },
+        {
+          "name": "Lisa Cat-Berro",
+          "url": "https://open.spotify.com/artist/6iaBypg8M8oxSEOWOvrrmm"
+        },
+        {
+          "name": "Julie Saury",
+          "url": "https://open.spotify.com/artist/7Ie5grAtdOBPylHOxPgPSt"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413742,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/6VevLCbLoayn1QtBILFKJ5"
     },
     {
       "album": {
@@ -2363,6 +2437,28 @@
     },
     {
       "album": {
+        "name": "Ellington",
+        "url": "https://open.spotify.com/album/7AcRbjaU9T4nyFPTmGaEV0"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        },
+        {
+          "name": "NDR Bigband",
+          "url": "https://open.spotify.com/artist/2JgSc66Kcvl1pko9jI5K91"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264813,
+      "name": "Come Sunday",
+      "url": "https://open.spotify.com/track/1Yj7Qo4nXew3s7qYCcJykG"
+    },
+    {
+      "album": {
         "name": "Comes Love",
         "url": "https://open.spotify.com/album/4bTV5R6pKEHPRu6JQnHejU"
       },
@@ -2602,6 +2698,24 @@
       "duration_ms": 208155,
       "name": "Courage",
       "url": "https://open.spotify.com/track/2i6pMDJd8lcKpD6gOOnEsl"
+    },
+    {
+      "album": {
+        "name": "Cry Me a River",
+        "url": "https://open.spotify.com/album/0iAbWSvIOkKR7O0DHjhhp4"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Cry Me a River",
+      "url": "https://open.spotify.com/track/1SNsZq2WQh2N4Qkagm3L01"
     },
     {
       "album": {
@@ -2874,7 +2988,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 281200,
       "name": "Delusions",
       "url": "https://open.spotify.com/track/3Oa2mEs79hevoyO8z2taA3"
@@ -3679,6 +3793,40 @@
     },
     {
       "album": {
+        "name": "Fascinating Rhythm(s) - The Music of George Gershwin",
+        "url": "https://open.spotify.com/album/3XKdTVy1lKqgtnuXxpUWD3"
+      },
+      "artists": [
+        {
+          "name": "The Amazing Keystone Big Band",
+          "url": "https://open.spotify.com/artist/6OdDyngYkD04qqTs5aGFGd"
+        },
+        {
+          "name": "Neima Naouri",
+          "url": "https://open.spotify.com/artist/095M1FCv5gVM7CIBm9NMak"
+        },
+        {
+          "name": "Fred Nardin",
+          "url": "https://open.spotify.com/artist/1tcpuJCw1ozAVXnwYh5wqz"
+        },
+        {
+          "name": "Thibaut Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/6lvE4L1UPAMALZ4l4yBPjd"
+        },
+        {
+          "name": "Romain Sarron",
+          "url": "https://open.spotify.com/artist/4IfDAzmwDdUUOqXg3kypof"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439360,
+      "name": "Fascinating Rhythm",
+      "url": "https://open.spotify.com/track/0xtMVAeGMOnyuSbGALdEmp"
+    },
+    {
+      "album": {
         "name": "Feel Like Making Love",
         "url": "https://open.spotify.com/album/3Ywtb8G1uRLWRSNBZSFia2"
       },
@@ -3882,7 +4030,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 291000,
       "name": "Fitzcarraldo",
       "url": "https://open.spotify.com/track/6l6abRNWxxpDHHZZQjR8H6"
@@ -4404,7 +4552,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 220599,
       "name": "Gates to the Land of Wonders",
       "url": "https://open.spotify.com/track/7tFWJoE326MkctMlRHHzvT"
@@ -4636,6 +4784,28 @@
       "duration_ms": 169500,
       "name": "Great Wind - Radio Edit",
       "url": "https://open.spotify.com/track/7k620TJe42bIg16RE51EZ4"
+    },
+    {
+      "album": {
+        "name": "GREEN LIGHT",
+        "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
+      },
+      "artists": [
+        {
+          "name": "Moses Yoofee Trio",
+          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "GREEN LIGHT",
+      "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
     },
     {
       "album": {
@@ -6126,7 +6296,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 232293,
       "name": "Joueurs de Blues",
       "url": "https://open.spotify.com/track/0EQ1qbMWNqHKx65xI7SK0a"
@@ -6340,7 +6510,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 171106,
       "name": "Kickin' Your Ass",
       "url": "https://open.spotify.com/track/1qJcz6jKktqsLMZNuertZf"
@@ -6358,7 +6528,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 229506,
       "name": "Kids Are",
       "url": "https://open.spotify.com/track/1rnVGF6k4bZG6svG4DwpSf"
@@ -7171,6 +7341,24 @@
     },
     {
       "album": {
+        "name": "Suppose It Is Butter",
+        "url": "https://open.spotify.com/album/7dqdPkW3LyElXKTO2qUdLQ"
+      },
+      "artists": [
+        {
+          "name": "Julien Da\u00efan",
+          "url": "https://open.spotify.com/artist/1sbU4PhV0rilFBoBUcGMqa"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388973,
+      "name": "Lunar Glow in the Lagoon",
+      "url": "https://open.spotify.com/track/31spGWzzc3AQIq7jRgxIMv"
+    },
+    {
+      "album": {
         "name": "Luned\u00ec Cinema",
         "url": "https://open.spotify.com/album/7FppMFSh52y4EsaPE5oI5c"
       },
@@ -7896,7 +8084,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 197200,
       "name": "Morning Song",
       "url": "https://open.spotify.com/track/2I7NgypzBFRj5tIa2Q4YTu"
@@ -8140,6 +8328,28 @@
       "duration_ms": 250399,
       "name": "Never Doubt",
       "url": "https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy"
+    },
+    {
+      "album": {
+        "name": "Above the Laws",
+        "url": "https://open.spotify.com/album/2QxsIMxHb7w5VxBGAx4R6e"
+      },
+      "artists": [
+        {
+          "name": "Ludivine Issambourg",
+          "url": "https://open.spotify.com/artist/7nuphNSch4dZshJyLgNixV"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "New Morning",
+      "url": "https://open.spotify.com/track/1h4P6Xs2XI0oq4pDDxo9t4"
     },
     {
       "album": {
@@ -9300,7 +9510,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 494840,
       "name": "Plage Du Troc",
       "url": "https://open.spotify.com/track/3FyCAzvAF415wP8wQO0bbd"
@@ -9348,6 +9558,28 @@
       "duration_ms": 288986,
       "name": "Plus Fort Que Nous",
       "url": "https://open.spotify.com/track/2nhWlpHs20wCiti78c52dI"
+    },
+    {
+      "album": {
+        "name": "Poeira Cosmica",
+        "url": "https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253482,
+      "name": "Poeira Cosmica",
+      "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
     },
     {
       "album": {
@@ -9974,7 +10206,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 186280,
       "name": "Selma Ya Salama",
       "url": "https://open.spotify.com/track/4gNOOYD7qMtHFn3G4mFNHn"
@@ -10576,7 +10808,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 351226,
       "name": "Sports",
       "url": "https://open.spotify.com/track/3rm5SyIyyYMkDsQwKLTGtx"
@@ -10616,6 +10848,40 @@
       "duration_ms": 290000,
       "name": "Stings",
       "url": "https://open.spotify.com/track/7zdBfReMVQKgxO5Pa5O3Hf"
+    },
+    {
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/2RSTkYMSBXeHi5v7kTO0Qp"
+      },
+      "artists": [
+        {
+          "name": "Back to Jazz",
+          "url": "https://open.spotify.com/artist/52ytDbkHDPdFU2gHCVZnzN"
+        },
+        {
+          "name": "Arnaud Defrenne",
+          "url": "https://open.spotify.com/artist/0IjM9kIHnjysfcG10cyNOz"
+        },
+        {
+          "name": "Bruno Katarzynski",
+          "url": "https://open.spotify.com/artist/51hB57HOcldxi6XPlHRG1w"
+        },
+        {
+          "name": "Gilles Grapin",
+          "url": "https://open.spotify.com/artist/5qFJemIweqU4fOtzeDZTQJ"
+        },
+        {
+          "name": "Jean-Michel Desmarest",
+          "url": "https://open.spotify.com/artist/7nd0QPJHDth6tGEH0qzdfd"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340000,
+      "name": "Stolen Moments",
+      "url": "https://open.spotify.com/track/6e9SSnFQp1eWL4qFoifadM"
     },
     {
       "album": {
@@ -10796,7 +11062,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 411013,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/1dUeRLYl72p4G3pfE4c8Qc"
@@ -10968,6 +11234,24 @@
       "duration_ms": 189542,
       "name": "Taboo",
       "url": "https://open.spotify.com/track/00DVBKks7yF8Mii6DSiO9g"
+    },
+    {
+      "album": {
+        "name": "Take a Swing at the Moon",
+        "url": "https://open.spotify.com/album/392qm56rxCG07cPz6ckeuu"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220240,
+      "name": "Take a Swing at the Moon",
+      "url": "https://open.spotify.com/track/2PSF8wNtas91APVz6ZrksM"
     },
     {
       "album": {
@@ -11534,6 +11818,32 @@
       "duration_ms": 388160,
       "name": "The Otter Creek Incident",
       "url": "https://open.spotify.com/track/58EpbedY26g7KtHrA9krbe"
+    },
+    {
+      "album": {
+        "name": "Surprise !",
+        "url": "https://open.spotify.com/album/1j4xK9XyXJkh7tQtkRwbHT"
+      },
+      "artists": [
+        {
+          "name": "Airelle Besson",
+          "url": "https://open.spotify.com/artist/7wmRujhwjUN04pL50mZuQT"
+        },
+        {
+          "name": "Jonas Burgwinkel",
+          "url": "https://open.spotify.com/artist/3IYogdLlTqqqaOmEEXl0QR"
+        },
+        {
+          "name": "Sebastian Sternal",
+          "url": "https://open.spotify.com/artist/3uYaI9pblcTHZCV5zSoNzK"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236174,
+      "name": "The painter and the boxer",
+      "url": "https://open.spotify.com/track/7xWDF3iSo1zrY4Poci5TRt"
     },
     {
       "album": {
@@ -12798,7 +13108,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 192156,
       "name": "We Are The Millennials",
       "url": "https://open.spotify.com/track/0dxhXG1wmLHp59Z0gLmabC"

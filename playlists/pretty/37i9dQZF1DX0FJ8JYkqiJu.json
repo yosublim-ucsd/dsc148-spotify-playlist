@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 394179,
+  "num_followers": 394214,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -743,26 +743,6 @@
     {
       "added_at": "2024-10-10 13:01:00",
       "album": {
-        "name": "A Different Path",
-        "url": "https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL"
-      },
-      "artists": [
-        {
-          "name": "Bellestar",
-          "url": "https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn"
-        },
-        {
-          "name": "Trippynova",
-          "url": "https://open.spotify.com/artist/1mbO0ARKWlNgjaMUYpPqmx"
-        }
-      ],
-      "duration_ms": 135600,
-      "name": "A Different Path",
-      "url": "https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38"
-    },
-    {
-      "added_at": "2024-10-10 13:01:00",
-      "album": {
         "name": "What a Wonderful World (Krister Remix)",
         "url": "https://open.spotify.com/album/7K9B42KWbEt2pR4CFHt2DW"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 95023,
       "name": "What a Wonderful World - Krister Remix",
       "url": "https://open.spotify.com/track/7bHGlhtwAMSuaMyXn2GqII"
+    },
+    {
+      "added_at": "2024-10-10 13:01:00",
+      "album": {
+        "name": "A Different Path",
+        "url": "https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL"
+      },
+      "artists": [
+        {
+          "name": "Bellestar",
+          "url": "https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn"
+        },
+        {
+          "name": "Trippynova",
+          "url": "https://open.spotify.com/artist/1mbO0ARKWlNgjaMUYpPqmx"
+        }
+      ],
+      "duration_ms": 135600,
+      "name": "A Different Path",
+      "url": "https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38"
     },
     {
       "added_at": "2024-10-10 13:01:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-10-10 13:01:00",
       "album": {
+        "name": "Kerbside Poetry",
+        "url": "https://open.spotify.com/album/6xklTnSYtgOoQSnKd1IkJL"
+      },
+      "artists": [
+        {
+          "name": "Asha Lin",
+          "url": "https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H"
+        }
+      ],
+      "duration_ms": 192035,
+      "name": "Kerbside Poetry",
+      "url": "https://open.spotify.com/track/3TZGETLafJxMADpUqVIYSv"
+    },
+    {
+      "added_at": "2024-10-10 13:01:00",
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/7CGAMG5LYr2l7VrJE4WY8f"
       },
@@ -1303,42 +1319,22 @@
     {
       "added_at": "2024-10-10 13:01:00",
       "album": {
-        "name": "Kerbside Poetry",
-        "url": "https://open.spotify.com/album/6xklTnSYtgOoQSnKd1IkJL"
+        "name": "Above the Salt",
+        "url": "https://open.spotify.com/album/7tHZf9HwjVlQjQ7JkAXWNE"
       },
       "artists": [
         {
-          "name": "Asha Lin",
-          "url": "https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H"
-        }
-      ],
-      "duration_ms": 192035,
-      "name": "Kerbside Poetry",
-      "url": "https://open.spotify.com/track/3TZGETLafJxMADpUqVIYSv"
-    },
-    {
-      "added_at": "2024-10-10 13:01:00",
-      "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+          "name": "Portair",
+          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
         },
         {
-          "name": "Pop Goes Ambient",
-          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
-        },
-        {
-          "name": "Amelia Magdalena",
-          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
         }
       ],
-      "duration_ms": 187788,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S"
+      "duration_ms": 226690,
+      "name": "Above the Salt",
+      "url": "https://open.spotify.com/track/6UuUbGvNaGsNjCYOuyw18Y"
     }
   ],
   "unique_name": "Just Chill",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Waze entra na zona. ",
+  "description": "Monsta entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 169180,
       "name": "+ Sexy",
       "url": "https://open.spotify.com/track/3NiMRKeDFvEOz9F8rWxt79"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 276302,
       "name": "100 Barras",
       "url": "https://open.spotify.com/track/0lru3rDH9ysYZLl2opHrv0"
@@ -3081,6 +3081,24 @@
     },
     {
       "album": {
+        "name": "Carta de Alforria",
+        "url": "https://open.spotify.com/album/4Ez4z45AAG56Ms3tu305pL"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191604,
+      "name": "Como 1 Rei",
+      "url": "https://open.spotify.com/track/4PARMoAgm4LG2X8pfJNoxI"
+    },
+    {
+      "album": {
         "name": "SAY GOODNIGHT TO THE BAD GUYS",
         "url": "https://open.spotify.com/album/3iNvV3UvpZnhVWuoNgrKzT"
       },
@@ -3310,6 +3328,36 @@
       "duration_ms": 137067,
       "name": "Correria",
       "url": "https://open.spotify.com/track/1WtxmzuEmFhoiIaUl5mlvA"
+    },
+    {
+      "album": {
+        "name": "CORRETO",
+        "url": "https://open.spotify.com/album/5N3KA2uzwfT2mISqSJJozH"
+      },
+      "artists": [
+        {
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        },
+        {
+          "name": "Joint One",
+          "url": "https://open.spotify.com/artist/5W4i9lwHlsuhSL6Mw4KvCQ"
+        },
+        {
+          "name": "Yung Juse",
+          "url": "https://open.spotify.com/artist/7HelyGdEBoc25C7inwIXVJ"
+        },
+        {
+          "name": "Chaylan",
+          "url": "https://open.spotify.com/artist/4eoWvEa1Lac4l4HzPSBre8"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180869,
+      "name": "CORRETO",
+      "url": "https://open.spotify.com/track/1YK4ZIYTzJce3e2jjCKBE4"
     },
     {
       "album": {
@@ -5669,6 +5717,24 @@
     },
     {
       "album": {
+        "name": "Hipop\u00f3tamo",
+        "url": "https://open.spotify.com/album/3FJUBwpL8OclFZla9FG980"
+      },
+      "artists": [
+        {
+          "name": "Guga",
+          "url": "https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167591,
+      "name": "HipHop\u00f3timo",
+      "url": "https://open.spotify.com/track/57phNdx5dH8NsMWiX3vo3h"
+    },
+    {
+      "album": {
         "name": "Hoje Eu N\u00e3o",
         "url": "https://open.spotify.com/album/5YWQi6MWWx3B8fZLvUMtj4"
       },
@@ -7471,6 +7537,28 @@
     },
     {
       "album": {
+        "name": "Melodia",
+        "url": "https://open.spotify.com/album/2RZXeyPA9S4ePRYwDvID1P"
+      },
+      "artists": [
+        {
+          "name": "Vado M\u00e1s Ki \u00c1s",
+          "url": "https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175586,
+      "name": "Melodia",
+      "url": "https://open.spotify.com/track/5HSYsk35AOOmLqE5rYcMFx"
+    },
+    {
+      "album": {
         "name": "Mensagem",
         "url": "https://open.spotify.com/album/31NvTWLmlVBfnrwu1OzV1H"
       },
@@ -7679,6 +7767,24 @@
     },
     {
       "album": {
+        "name": "MISSA A METADE",
+        "url": "https://open.spotify.com/album/6AEItJ41BirJxtmrgtydTc"
+      },
+      "artists": [
+        {
+          "name": "Monsta",
+          "url": "https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192111,
+      "name": "MISSA A METADE",
+      "url": "https://open.spotify.com/track/77cZgSYlpLPCoDtL3IuY9Q"
+    },
+    {
+      "album": {
         "name": "Mo Money Mo Problems",
         "url": "https://open.spotify.com/album/6oRVzgSnlpjjbP6mix56ap"
       },
@@ -7828,7 +7934,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 111496,
       "name": "MOSTRAR A CARA",
       "url": "https://open.spotify.com/track/1xXGLzDlaytAeu1lbScfbY"
@@ -10449,6 +10555,32 @@
     },
     {
       "album": {
+        "name": "RELAXA",
+        "url": "https://open.spotify.com/album/4fDyU5IrsGJZxAaLhvmnlE"
+      },
+      "artists": [
+        {
+          "name": "Dbraz",
+          "url": "https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl"
+        },
+        {
+          "name": "Simba.",
+          "url": "https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v"
+        },
+        {
+          "name": "ROCHA.SNJ",
+          "url": "https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137281,
+      "name": "RELAXA",
+      "url": "https://open.spotify.com/track/5wPuF0QUifqX6Yz3UZqXhf"
+    },
+    {
+      "album": {
         "name": "REMORSOS",
         "url": "https://open.spotify.com/album/7vZNDgdTEG5YVUV8n0b4FZ"
       },
@@ -10460,7 +10592,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 179269,
       "name": "REMORSOS",
       "url": "https://open.spotify.com/track/4ekjMdP0ZoVQp7aDnhTElh"
@@ -10972,7 +11104,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 136798,
       "name": "Sei Bem Que Tens Saudades",
       "url": "https://open.spotify.com/track/2ZvW1VHTRzLHfekEqTXw4q"
@@ -12134,7 +12266,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 191000,
       "name": "TIJOLOS",
       "url": "https://open.spotify.com/track/4QJsCsURMmjXIYXxDHC1pW"
@@ -12624,6 +12756,32 @@
       "duration_ms": 236814,
       "name": "underwater",
       "url": "https://open.spotify.com/track/4vfHRcjchtEjRLspB4HUpc"
+    },
+    {
+      "album": {
+        "name": "BLUE BOYS",
+        "url": "https://open.spotify.com/album/3gFMbYBzX2oqxW07I9Npwr"
+      },
+      "artists": [
+        {
+          "name": "BDK",
+          "url": "https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj"
+        },
+        {
+          "name": "B1",
+          "url": "https://open.spotify.com/artist/5v1vIsZCUl7WPhVzhsyquv"
+        },
+        {
+          "name": "TZ",
+          "url": "https://open.spotify.com/artist/4FSTFFs2KTbXZN0MzvV1Ef"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197112,
+      "name": "Undeu",
+      "url": "https://open.spotify.com/track/1Ydix7bIZSDHc7oefzmDw4"
     },
     {
       "album": {

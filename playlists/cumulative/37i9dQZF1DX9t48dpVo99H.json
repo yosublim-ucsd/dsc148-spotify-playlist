@@ -477,6 +477,42 @@
     },
     {
       "album": {
+        "name": "741 Hz Detox",
+        "url": "https://open.spotify.com/album/3XvuwtMjebQGFL7KL97RPd"
+      },
+      "artists": [
+        {
+          "name": "Zephyrical",
+          "url": "https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171991,
+      "name": "741 Hz Detox",
+      "url": "https://open.spotify.com/track/60i0X2xmPVXLwanR9Fj79y"
+    },
+    {
+      "album": {
+        "name": "741 Hz Expressive Currents",
+        "url": "https://open.spotify.com/album/4aHbYcpEdOGipglEJ70pr4"
+      },
+      "artists": [
+        {
+          "name": "Wolves Club",
+          "url": "https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154149,
+      "name": "741 Hz Expressive Currents",
+      "url": "https://open.spotify.com/track/3BlokUFLQCWY0p6xV8bFGW"
+    },
+    {
+      "album": {
         "name": "Gentle Breathing",
         "url": "https://open.spotify.com/album/2zpiPiyUUfFfWN6OdXeL2W"
       },

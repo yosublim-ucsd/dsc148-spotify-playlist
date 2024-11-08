@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Rimar
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Tarasinta
 
-206 songs - 12 hr 7 min
+210 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bloom](https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Bloom](https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5) | 3:53 | 2024-06-27 | 2024-10-11 |
 | [Blue Moon](https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Blue Moon](https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5) | 3:46 | 2024-06-27 |  |
 | [BOMBAE](https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [BOMBAE](https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282) | 2:26 | 2024-08-09 |  |
+| [Books Of Life](https://open.spotify.com/track/2QwTLcdMlccj1uapY7yn1i) | [Tarasinta](https://open.spotify.com/artist/4Cz3KvYnvRJhCwloD3t1TL) | [Books Of Life](https://open.spotify.com/album/6A9exPt2uTUaXcdHcav4YG) | 3:46 | 2024-11-07 |  |
 | [Boy](https://open.spotify.com/track/0ZTmXwcJHScpFKYvpn1GxY) | [FARUZ](https://open.spotify.com/artist/46eConcY4MjCgE1vZSZkiO) | [Boy](https://open.spotify.com/album/5C94LDJzlNnEyViDX8GQiQ) | 3:44 | 2024-08-29 |  |
 | [bruxism or, why i'm afraid of earthquakes](https://open.spotify.com/track/4UDkUxRu5l9BsMXeBPfF9I) | [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC) | [bruxism or, why i'm afraid of earthquakes](https://open.spotify.com/album/2nKwkUjMCoqNyhUhK4PPCX) | 4:54 | 2024-07-25 | 2024-09-27 |
 | [Burning Room](https://open.spotify.com/track/5bHhl4whMW8AiKojst05Z8) | [Gabriella Ekaputri](https://open.spotify.com/artist/73lAkOBolLeP9ZBirROJui) | [Burning Room](https://open.spotify.com/album/3p7A55YRoa176Cc3MhBNpG) | 3:17 | 2024-08-29 |  |
@@ -101,6 +102,7 @@
 | [I Will](https://open.spotify.com/track/2QZUzL17JAxao5dFkZuqte) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [I Will](https://open.spotify.com/album/2tsNcReLshp2lOODqJmYje) | 3:10 | 2024-06-27 | 2024-08-02 |
 | [I'm Old Fashioned](https://open.spotify.com/track/4mC42wzxxH9BlU3xwe3XOR) | [Vanessa Shavonne](https://open.spotify.com/artist/4ITvgKI1DUW1wDPkWEycP9) | [I'm Old Fashioned](https://open.spotify.com/album/6fjZYH9jfnOWfeZaT0kK6N) | 3:15 | 2024-06-27 | 2024-08-10 |
 | [Idea of You](https://open.spotify.com/track/4zfbfAmuxAD4Eevm1Kr7tN) | [Rimar](https://open.spotify.com/artist/5P8zPeJpGvHclaIk8nKoGx) | [Idea of You](https://open.spotify.com/album/5PIXEonnpeD2zCG81NDXJn) | 2:39 | 2024-10-31 |  |
+| [If You Let Me \(Cinta Tak Seindah Drama Korea Original Motion Picture Soundtrack\)](https://open.spotify.com/track/1K2t17fCXJVxFleVhJ6t83) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q), [Dea Panendra](https://open.spotify.com/artist/3kv4PpsOBcljrFU6KIQCmN) | [If You Let Me \(Cinta Tak Seindah Drama Korea Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Ez23Xkb9bwDJ2TvswbQii) | 3:59 | 2024-11-07 |  |
 | [In A Month Or So](https://open.spotify.com/track/301TKfBwT7rYA0v8C5t3vF) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [In A Month Or So](https://open.spotify.com/album/4xHYIwF3oF2p9d3GBEvWAl) | 3:39 | 2024-06-27 |  |
 | [into you](https://open.spotify.com/track/2WLrBGcIPLt15oD5U5ZrqK) | [Casté](https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5), [Popsickle](https://open.spotify.com/artist/3cR3YTiVngJTX0z7zXFeid) | [into you](https://open.spotify.com/album/3kAOFoLBAE5F6z5rRhPddF) | 3:06 | 2024-06-27 | 2024-10-11 |
 | [Isn't It Romantic?](https://open.spotify.com/track/1x5Xlm3uF84c6brdgeBxoH) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Duo MobySade](https://open.spotify.com/artist/7cOjhMwF2kd9ngOO3aA9EU) | [Isn't It Romantic?](https://open.spotify.com/album/7j03BBCzOQrBVJxmuIlxva) | 4:34 | 2024-06-27 | 2024-10-11 |
@@ -111,6 +113,7 @@
 | [Lean on a Friend](https://open.spotify.com/track/02ilB5DYOmrAauOgORODcY) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Lean on a Friend](https://open.spotify.com/album/3AySg2p6QXJFkUV8xbKjRP) | 3:27 | 2024-07-23 | 2024-09-27 |
 | [let me go](https://open.spotify.com/track/6TWugtzLkUTWnyiHhGmj6n) | [RAJASINAGA](https://open.spotify.com/artist/4EMAvLGauV6azMgm7j6KQe) | [let me go](https://open.spotify.com/album/2y6uzhjzlP2N0er9tlbltS) | 3:50 | 2024-06-27 | 2024-08-10 |
 | [Let The Phone Ring](https://open.spotify.com/track/1JOtfDuLy9613DhIPbaaWh) | [NSG](https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl), [SAILORMONEY](https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj), [Popsickle](https://open.spotify.com/artist/3cR3YTiVngJTX0z7zXFeid) | [Let The Phone Ring](https://open.spotify.com/album/4kffsYGyx1SBgOqDQ5iK7i) | 3:36 | 2024-10-31 |  |
+| [Life Of The Party](https://open.spotify.com/track/6XPibXdca5CWY3Zz6iNSi2) | [Reisha](https://open.spotify.com/artist/3hqQKsWWWTfJq3JamRl5C9) | [Life Of The Party](https://open.spotify.com/album/1rOcdVbjMEfs5DBSVaBcQb) | 3:20 | 2024-11-07 |  |
 | [Little Time For Love](https://open.spotify.com/track/3MlLMBQxcbhAToQvMYiRoB) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Roadtrip](https://open.spotify.com/album/6udjCLHRuFO5Yjxy2pBlky) | 4:16 | 2024-06-27 |  |
 | [Lonely](https://open.spotify.com/track/1nObNY1feWrzzcYVKk6t6f) | [Emma Elliott](https://open.spotify.com/artist/40XszRQeZirel3YEpF2SNp) | [Lonely](https://open.spotify.com/album/1Xq51yHsriV391W3wGTohd) | 3:41 | 2024-06-27 | 2024-07-27 |
 | [Lord](https://open.spotify.com/track/5fQgdQVocpLazUUuGi6rIN) | [Stereocase](https://open.spotify.com/artist/1H8zzYCYxryALUVj91EYgs) | [Lord](https://open.spotify.com/album/35Agdm0pdanvTKfdUYRJXM) | 3:41 | 2024-06-27 | 2024-09-06 |
@@ -187,6 +190,7 @@
 | [take me home](https://open.spotify.com/track/03CfNgeIsd5pKYidGk2pm3) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [take me home](https://open.spotify.com/album/1jsjYXxocWl0MyMvpCJ19k) | 4:36 | 2024-06-27 |  |
 | [TAKE YOU HOME](https://open.spotify.com/track/3AB0SaVOyeL7d0EoBHVFMo) | [KATHMANDU](https://open.spotify.com/artist/4kxdAg0Ja8nOfjf54kqnHi) | [GOLDEN AGE](https://open.spotify.com/album/6t3KgJK2GFnbVgNIk9vwat) | 4:22 | 2024-09-26 |  |
 | [Teenage Years](https://open.spotify.com/track/4Ft96mSN2Yy3BWwZ9mgcSX) | [Low Pink](https://open.spotify.com/artist/1AyxemOyWnS1s8siDQG6EH) | [Teenage Years](https://open.spotify.com/album/4wwDH2rLj9iB2eUltgzrUY) | 4:10 | 2024-07-11 | 2024-10-11 |
+| [Tell Me \(feat\. ikkubaru\)](https://open.spotify.com/track/0CADqD68QbiDuGkIGBusP4) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Tell Me \(feat\. ikkubaru\)](https://open.spotify.com/album/1GXu9yIAipEhNmkJNU0tzq) | 3:20 | 2024-11-07 |  |
 | [The Bigfoot Trademark Logo](https://open.spotify.com/track/1KSIC277cn81q0Kr4ylv7E) | [Bedchamber](https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0) | [The Bigfoot Trademark Logo](https://open.spotify.com/album/2Th9GgqSdUCJFBgv5pI6Dn) | 2:52 | 2024-09-26 |  |
 | [The Girl That I Used To Be](https://open.spotify.com/track/1YuiSjDArp53gCzIOOYTLK) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [The Girl That I Used To Be](https://open.spotify.com/album/4tNsUBJJ9sI3BW24tKS332) | 3:11 | 2024-06-27 | 2024-08-30 |
 | [The Thought of Loving You](https://open.spotify.com/track/00MMUtIfZ5B5tXMLVNpdxs) | [Rifki Soeria](https://open.spotify.com/artist/7q7HlgYoLu79LeU09QnsHT) | [The Thought of Loving You](https://open.spotify.com/album/2rMeBN1SnUjK3G9vv9aZtf) | 3:17 | 2024-09-05 |  |

@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: The Big Hash
+> The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/3pi8AlHZo5bq0mFi3wZDW8?si=TgeWgTQnQeGABCgE3L9RXg">TRON PYRE</a>
 
-396 songs - 20 hr 54 min
+398 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Imimangaliso](https://open.spotify.com/track/1M7j3BdQiqzK30LehjOFDN) | [Lia Butler](https://open.spotify.com/artist/5OKv9ZYvL5vY2slfYqRYYG) | [Imimangaliso](https://open.spotify.com/album/2i1gn2wnib8HBe6J701ZgN) | 2:51 | 2024-10-03 |  |
 | [Impatient](https://open.spotify.com/track/2LnADQWYzH6LWSsylwpmFE) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Impatient](https://open.spotify.com/album/5ztwKgM43IMhm0Qnl3MI28) | 2:49 | 2024-04-25 | 2024-09-03 |
 | [In The Moment](https://open.spotify.com/track/2cyVJ0iYwUuBGIOiOtxCAU) | [Phiwo](https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp) | [Things We Feel](https://open.spotify.com/album/1OSJjMs1WGeQYj9syquxGO) | 3:44 | 2023-11-30 | 2023-12-20 |
+| [INDEBTED](https://open.spotify.com/track/77P6STAPed6qLUCc3hQgRY) | [TRON PYRE](https://open.spotify.com/artist/3pi8AlHZo5bq0mFi3wZDW8) | [IN HERMÈS](https://open.spotify.com/album/5kEBFfWrn4aYZ85U3EhEuV) | 3:54 | 2024-11-07 |  |
 | [Infinity](https://open.spotify.com/track/1Ss0B3AuWkqqpdz8bLU9mn) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Infinity](https://open.spotify.com/album/2ho4rd64wGodDKv3nKojlU) | 2:39 | 2023-10-12 | 2024-03-15 |
 | [Infrared](https://open.spotify.com/track/3xxi5TsXAXbUolqCVzJZnz) | [VtheVowel](https://open.spotify.com/artist/1Bas48Gj8Q0nKgrx4Dm25X), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu) | [Infrared](https://open.spotify.com/album/0ZyahY5BHdxVILmfEULG9O) | 3:35 | 2024-04-12 | 2024-06-14 |
 | [INSIDE YOUR HEAD](https://open.spotify.com/track/3D9MGLPOC3PnfoXBM5OLrQ) | [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq) | [WAVES: Vol\. 1](https://open.spotify.com/album/408oJGEwEhyIXOInWdRTcn) | 3:45 | 2024-10-11 |  |
@@ -197,6 +198,7 @@
 | [Let Me](https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [CLOSER](https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW) | 3:48 | 2024-04-25 | 2024-09-03 |
 | [Lets Get Away](https://open.spotify.com/track/0Hlv5uMHBia2JJ64X7THhL) | [Magana](https://open.spotify.com/artist/6CDDLh64XGNFrOG90xeO31) | [Lets Get Away](https://open.spotify.com/album/6WSbwrHIQmr6FOInnFMXEi) | 3:45 | 2024-01-12 | 2024-03-29 |
 | [Limbo](https://open.spotify.com/track/0S9JTiTJwZwkHI0VyoDeGn) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Limbo](https://open.spotify.com/album/3MQzzTzLhhGqPRJTyMCgqj) | 3:03 | 2024-10-11 |  |
+| [Little Things](https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 2:52 | 2024-11-07 |  |
 | [LOCATION](https://open.spotify.com/track/5kgeRCTZk6TpdYKcwiqQL8) | [RGRSNW](https://open.spotify.com/artist/0iXnQiDftxiAJTqoeJ2noD) | [RESET](https://open.spotify.com/album/1BvmIZHYOmntr3eBrLwuQ4) | 3:24 | 2024-05-03 | 2024-07-27 |
 | [lon3ly](https://open.spotify.com/track/1qIZ86h51bpBHpg6eFTDkf) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [By Any Minz](https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP) | 2:44 | 2024-10-03 |  |
 | [Lonely? \(Come Along\)](https://open.spotify.com/track/4Uo9L4l5evGRj8GB3Sddos) | [Th&o.](https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT) | [Lonely? \(Come Along\)](https://open.spotify.com/album/1LsqoJNFx5lsQF9JdMayxA) | 3:44 | 2024-07-18 | 2024-09-03 |
@@ -393,7 +395,7 @@
 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2024-02-22 | 2024-05-10 |
 | [When He's Not There \(feat\. Lucky Daye\)](https://open.spotify.com/track/0uYBQGchK3LIkNpxnrA6k7) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [While We Wait 2](https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA) | 4:28 | 2024-09-11 |  |
 | [When You're Around](https://open.spotify.com/track/32RZgcuKaGBZeSZFCjqekc) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz), [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [When You're Around](https://open.spotify.com/album/3RIGb42y1erPlKLH1qcSec) | 3:17 | 2024-09-11 |  |
-| [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/track/6am2YNS3MTz3SbWkBUY234) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/album/0oqzFS1ec6worWKBAzgolc) | 2:57 | 2023-11-16 |  |
+| [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/track/6am2YNS3MTz3SbWkBUY234) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/album/0oqzFS1ec6worWKBAzgolc) | 2:57 | 2023-11-16 | 2024-11-08 |
 | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR) | 2:42 | 2023-10-26 | 2024-03-22 |
 | [With Me](https://open.spotify.com/track/08YCkJHWMhxjqBMaUzRtcj) | [Asaiowé](https://open.spotify.com/artist/6S2sQGQVsc7BzhaRzCrN4W) | [With Me](https://open.spotify.com/album/1S8424izWJM7maB0nQfSQm) | 3:08 | 2024-10-11 |  |
 | [Wonder](https://open.spotify.com/track/0L4hMz440iOVrQ516sFBza) | [Zādok](https://open.spotify.com/artist/72wC9dzKpqHCdw8fQwYpea), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Wonder](https://open.spotify.com/album/0R8zJtlrG8gyZtPQHiAEpY) | 3:48 | 2023-10-12 | 2024-01-26 |

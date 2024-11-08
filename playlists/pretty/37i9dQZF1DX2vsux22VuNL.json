@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Delacruz",
-  "num_followers": 292571,
+  "num_followers": 292627,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,30 @@
     {
       "added_at": "2024-11-01 03:00:00",
       "album": {
+        "name": "Carta Branca",
+        "url": "https://open.spotify.com/album/0Zu9p2cVWWhqbGspECnalU"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "duration_ms": 221653,
+      "name": "Carta Branca",
+      "url": "https://open.spotify.com/track/1ZpU1yLyBqrc45HOSFK9C1"
+    },
+    {
+      "added_at": "2024-11-01 03:00:00",
+      "album": {
         "name": "Aten\u00e7\u00e3o!",
         "url": "https://open.spotify.com/album/5336HasldqLfPAwj2Pp8Et"
       },
@@ -555,30 +579,6 @@
       "duration_ms": 215000,
       "name": "Aten\u00e7\u00e3o!",
       "url": "https://open.spotify.com/track/4b6MEmZBgjEqevMEiIO0BI"
-    },
-    {
-      "added_at": "2024-11-01 03:00:00",
-      "album": {
-        "name": "Carta Branca",
-        "url": "https://open.spotify.com/album/0Zu9p2cVWWhqbGspECnalU"
-      },
-      "artists": [
-        {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 221653,
-      "name": "Carta Branca",
-      "url": "https://open.spotify.com/track/1ZpU1yLyBqrc45HOSFK9C1"
     },
     {
       "added_at": "2024-11-01 03:00:00",
@@ -659,26 +659,6 @@
     {
       "added_at": "2024-11-01 03:00:00",
       "album": {
-        "name": "Praia do Rosa",
-        "url": "https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 155553,
-      "name": "Praia do Rosa",
-      "url": "https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84"
-    },
-    {
-      "added_at": "2024-11-01 03:00:00",
-      "album": {
         "name": "V\u00eanus",
         "url": "https://open.spotify.com/album/0V0K2bL6y67Pil8VIY7sNE"
       },
@@ -699,38 +679,22 @@
     {
       "added_at": "2024-11-01 03:00:00",
       "album": {
-        "name": "Cairo",
-        "url": "https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti"
+        "name": "Praia do Rosa",
+        "url": "https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT"
       },
       "artists": [
         {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
         },
         {
-          "name": "Bernardo Massot",
-          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
         }
       ],
-      "duration_ms": 205672,
-      "name": "Cairo",
-      "url": "https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam"
-    },
-    {
-      "added_at": "2024-11-01 03:00:00",
-      "album": {
-        "name": "Dias de Luta Dias de Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Dias de Luta Dias de Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
+      "duration_ms": 155553,
+      "name": "Praia do Rosa",
+      "url": "https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84"
     },
     {
       "added_at": "2024-11-01 03:00:00",
@@ -755,6 +719,42 @@
     {
       "added_at": "2024-11-01 03:00:00",
       "album": {
+        "name": "Dias de Luta Dias de Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Dias de Luta Dias de Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
+    },
+    {
+      "added_at": "2024-11-01 03:00:00",
+      "album": {
+        "name": "Cairo",
+        "url": "https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Bernardo Massot",
+          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
+        }
+      ],
+      "duration_ms": 205672,
+      "name": "Cairo",
+      "url": "https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam"
+    },
+    {
+      "added_at": "2024-11-01 03:00:00",
+      "album": {
         "name": "Ref\u00e9m",
         "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
       },
@@ -771,26 +771,6 @@
       "duration_ms": 180000,
       "name": "Ref\u00e9m",
       "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
-    },
-    {
-      "added_at": "2024-11-01 03:00:00",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
-      },
-      "artists": [
-        {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
-        },
-        {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
     },
     {
       "added_at": "2024-11-01 03:00:00",
@@ -819,22 +799,22 @@
     {
       "added_at": "2024-11-01 03:00:00",
       "album": {
-        "name": "Por Isso Me Liga",
-        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
       },
       "artists": [
         {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
         },
         {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
         }
       ],
-      "duration_ms": 219168,
-      "name": "Por Isso Me Liga",
-      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
+      "duration_ms": 174315,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
     },
     {
       "added_at": "2024-11-01 03:00:00",
@@ -855,6 +835,26 @@
       "duration_ms": 161706,
       "name": "Recome\u00e7o",
       "url": "https://open.spotify.com/track/4n0Gle6yQqSdDZPeJZzef7"
+    },
+    {
+      "added_at": "2024-11-01 03:00:00",
+      "album": {
+        "name": "Por Isso Me Liga",
+        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 219168,
+      "name": "Por Isso Me Liga",
+      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
     },
     {
       "added_at": "2024-11-01 03:00:00",
@@ -919,42 +919,26 @@
     {
       "added_at": "2024-11-01 03:00:00",
       "album": {
-        "name": "CARAMELO E FLOR DE SAL",
-        "url": "https://open.spotify.com/album/7kpBjBmSgDgXHfTETqdGAM"
+        "name": "Luz Acesa",
+        "url": "https://open.spotify.com/album/1MVOG9MC3OaC4Mli2NPsQX"
       },
       "artists": [
         {
-          "name": "Quorum",
-          "url": "https://open.spotify.com/artist/5IbIAPtskjoaXAu2PrbngH"
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
         },
         {
-          "name": "Flav",
-          "url": "https://open.spotify.com/artist/6xGwyLGDSwopnsGl5pgODv"
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
         },
         {
-          "name": "Sofia Gayoso",
-          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
-        },
-        {
-          "name": "Nobuga",
-          "url": "https://open.spotify.com/artist/48jCwYdJZIWe4S9zcgCxpB"
-        },
-        {
-          "name": "PMM",
-          "url": "https://open.spotify.com/artist/3eWxQW2OossK1uJMMb927J"
-        },
-        {
-          "name": "Gustavvo",
-          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
-        },
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/0mjNj79KqkAtsLFWAj2HfB"
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         }
       ],
-      "duration_ms": 200315,
-      "name": "CARAMELO E FLOR DE SAL",
-      "url": "https://open.spotify.com/track/4FvDANIP9vupaAm6URKwC5"
+      "duration_ms": 138139,
+      "name": "Luz Acesa",
+      "url": "https://open.spotify.com/track/2GNXsFAXEdPDxHxN4NSDSE"
     },
     {
       "added_at": "2024-11-01 03:00:00",
@@ -1003,26 +987,42 @@
     {
       "added_at": "2024-11-01 03:00:00",
       "album": {
-        "name": "Luz Acesa",
-        "url": "https://open.spotify.com/album/1MVOG9MC3OaC4Mli2NPsQX"
+        "name": "CARAMELO E FLOR DE SAL",
+        "url": "https://open.spotify.com/album/7kpBjBmSgDgXHfTETqdGAM"
       },
       "artists": [
         {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+          "name": "Quorum",
+          "url": "https://open.spotify.com/artist/5IbIAPtskjoaXAu2PrbngH"
         },
         {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+          "name": "Flav",
+          "url": "https://open.spotify.com/artist/6xGwyLGDSwopnsGl5pgODv"
         },
         {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+          "name": "Sofia Gayoso",
+          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
+        },
+        {
+          "name": "Nobuga",
+          "url": "https://open.spotify.com/artist/48jCwYdJZIWe4S9zcgCxpB"
+        },
+        {
+          "name": "PMM",
+          "url": "https://open.spotify.com/artist/3eWxQW2OossK1uJMMb927J"
+        },
+        {
+          "name": "Gustavvo",
+          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
+        },
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/0mjNj79KqkAtsLFWAj2HfB"
         }
       ],
-      "duration_ms": 138139,
-      "name": "Luz Acesa",
-      "url": "https://open.spotify.com/track/2GNXsFAXEdPDxHxN4NSDSE"
+      "duration_ms": 200315,
+      "name": "CARAMELO E FLOR DE SAL",
+      "url": "https://open.spotify.com/track/4FvDANIP9vupaAm6URKwC5"
     },
     {
       "added_at": "2024-11-01 03:00:00",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2024-11-01 03:00:00",
       "album": {
-        "name": "Aquelas Coisas",
-        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        },
-        {
-          "name": "Menestrel",
-          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Aquelas Coisas",
-      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
-    },
-    {
-      "added_at": "2024-11-01 03:00:00",
-      "album": {
         "name": "ele diz que me ama s2",
         "url": "https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 162985,
       "name": "Qual \u00c9",
       "url": "https://open.spotify.com/track/6CHhx9h0q9aJZAD4hNfhgf"
+    },
+    {
+      "added_at": "2024-11-01 03:00:00",
+      "album": {
+        "name": "Aquelas Coisas",
+        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        },
+        {
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Aquelas Coisas",
+      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
     },
     {
       "added_at": "2024-11-01 03:00:00",
@@ -1595,22 +1595,26 @@
     {
       "added_at": "2024-11-01 03:00:00",
       "album": {
-        "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
-        "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
+        "name": "Essa Daqui Voc\u00ea Sabe Que \u00c9 pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/5HbjLnESfjN6sui1F6E7rO"
       },
       "artists": [
         {
-          "name": "Rafael Mike",
-          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
+          "name": "EXQUE\u00c7A TUDO PAPAI",
+          "url": "https://open.spotify.com/artist/5jNs5i0CPbgCqc2ns08z3D"
         },
         {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+          "name": "Nith",
+          "url": "https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
         }
       ],
-      "duration_ms": 161632,
-      "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
-      "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
+      "duration_ms": 193728,
+      "name": "Essa Daqui Voc\u00ea Sabe Que \u00c9 pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/0mORJWR6L3RSefYVBke8Zs"
     },
     {
       "added_at": "2024-11-01 03:00:00",
@@ -1667,30 +1671,6 @@
     {
       "added_at": "2024-11-01 03:00:00",
       "album": {
-        "name": "Essa Daqui Voc\u00ea Sabe Que \u00c9 pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/5HbjLnESfjN6sui1F6E7rO"
-      },
-      "artists": [
-        {
-          "name": "EXQUE\u00c7A TUDO PAPAI",
-          "url": "https://open.spotify.com/artist/5jNs5i0CPbgCqc2ns08z3D"
-        },
-        {
-          "name": "Nith",
-          "url": "https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 193728,
-      "name": "Essa Daqui Voc\u00ea Sabe Que \u00c9 pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/0mORJWR6L3RSefYVBke8Zs"
-    },
-    {
-      "added_at": "2024-11-01 03:00:00",
-      "album": {
         "name": "Risco de se Apaixonar",
         "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 141130,
       "name": "Risco de se Apaixonar",
       "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
+    },
+    {
+      "added_at": "2024-11-01 03:00:00",
+      "album": {
+        "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+        "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
+      },
+      "artists": [
+        {
+          "name": "Rafael Mike",
+          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
+        },
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+      "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
     },
     {
       "added_at": "2024-11-01 03:00:00",

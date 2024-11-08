@@ -2,9 +2,9 @@
 
 ### [Suomirock tänään](https://open.spotify.com/playlist/37i9dQZF1DWSTzzP5k4u3n)
 
-> Tällä listalla parasta tuoretta suomirockia\. Kannessa Viikate.
+> Tällä listalla parasta tuoretta suomirockia\. Kannessa Irina.
 
-206 songs - 12 hr 8 min
+207 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Elossa Vielä](https://open.spotify.com/track/656tNmVsfmM9TcLms3Msxn) | [Archie Cruz](https://open.spotify.com/artist/1Ltz58a2iP9G2cOpBmaCpJ) | [Elossa Vielä](https://open.spotify.com/album/3ljk65mDN3sUuBZKYKusPH) | 4:06 | 2024-07-26 |  |
 | [Elämää suurempaa](https://open.spotify.com/track/216Peu655FignUFbqU9DEr) | [Jyri Antero](https://open.spotify.com/artist/0f5xWZxZGS19Riq8XAU1Kq) | [Elämää suurempaa](https://open.spotify.com/album/52aDs6f80zAWiuegRLhlXm) | 3:39 | 2024-10-11 |  |
 | [Elät Vaan](https://open.spotify.com/track/2tQk2A6XDXKlhxw5cT2jYe) | [Remix](https://open.spotify.com/artist/60rrONrFQipKsTXYazdmQO), [Karoliina Kallio](https://open.spotify.com/artist/0PMSbS727MWOXbiEcSjSLm) | [Elät Vaan](https://open.spotify.com/album/4zTGHW1H5IxyUSYGcRmj6W) | 3:40 | 2024-07-02 | 2024-09-20 |
-| [En tahtoisi kuulla susta enää mitään](https://open.spotify.com/track/1ZEr5GFTzG9ebCGJFSdBSn) | [Matka maailman ympäri](https://open.spotify.com/artist/3DdU0nh26vLYFEaEVDjvdG) | [En tahtoisi kuulla susta enää mitään](https://open.spotify.com/album/3gJpmsgY4ZRbBzXDmKI0YN) | 3:27 | 2024-10-03 |  |
+| [En tahtoisi kuulla susta enää mitään](https://open.spotify.com/track/1ZEr5GFTzG9ebCGJFSdBSn) | [Matka maailman ympäri](https://open.spotify.com/artist/3DdU0nh26vLYFEaEVDjvdG) | [En tahtoisi kuulla susta enää mitään](https://open.spotify.com/album/3gJpmsgY4ZRbBzXDmKI0YN) | 3:27 | 2024-10-03 | 2024-11-08 |
 | [Epävarmuuden Vankila](https://open.spotify.com/track/04c6LKFI7nhvibijWHldeN) | [Monotonia](https://open.spotify.com/artist/2kvXNdmRbVNYPa42vlPG8N) | [Epävarmuuden Vankila](https://open.spotify.com/album/5R67rTcDI1I9DLqgPfNrjw) | 3:05 | 2024-07-02 |  |
 | [Fuck the system jne.](https://open.spotify.com/track/6Tg9S5JF3sL0CyVagebrsK) | [Riekko Salama](https://open.spotify.com/artist/2h2iwWOgXz3wArEh3StkJx) | [Fuck the system jne.](https://open.spotify.com/album/7DIuJBEAoyP21pMMXXf8hx) | 3:24 | 2024-10-24 |  |
 | [Haamukirjoitus](https://open.spotify.com/track/2VsChldNUjT45aH8Ag4jWi) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Haamukirjoitus](https://open.spotify.com/album/7mmTem3c0cqFyED5zerjhk) | 3:10 | 2024-09-19 | 2024-10-25 |
@@ -209,6 +209,7 @@
 | [Viimeiseen iltaan](https://open.spotify.com/track/6EQEjhlQW7rd2NWs1hoJa1) | [Aino & Hajonneet](https://open.spotify.com/artist/1sRsNqY5RY8NvNtM0E8Aa6) | [Viimeiseen iltaan](https://open.spotify.com/album/2W895ZuuOiGR8n4slZetbU) | 3:00 | 2024-07-02 | 2024-08-09 |
 | [VMP](https://open.spotify.com/track/7wJtQbk3jiwzMmMYzmNahI) | [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [VMP](https://open.spotify.com/album/4KYBQzyfGj65Q73OylcCY5) | 2:42 | 2024-07-18 |  |
 | [Voi kun riittäis pieni taivas](https://open.spotify.com/track/2EBCiPiw41o3Uqpg5mFhW2) | [Jouko Hohko & Jukka Orman Taivaallinen Sotajoukko](https://open.spotify.com/artist/19OiCuwqMDp0jA137MgDAA), [Jouko Hohko](https://open.spotify.com/artist/29xqY32T9vZdhrN2n2KU3f), [Jukka Orma](https://open.spotify.com/artist/30tgJpLphPAwrwbasvd7on) | [Voi kun riittäis pieni taivas](https://open.spotify.com/album/3v6atwO9AP6eNdLGd5WocU) | 3:47 | 2024-09-12 | 2024-10-18 |
+| [Voittajan ainesta](https://open.spotify.com/track/4lvwtpLCJdsVfHlQpY26J0) | [Bad Sauna](https://open.spotify.com/artist/2ZG33QoV5Nd96TA4RwEsZT) | [Voittajan ainesta](https://open.spotify.com/album/0UwaVJ62RKrRPlrVWeMGhx) | 4:32 | 2024-11-07 |  |
 | [Wrecking Ball](https://open.spotify.com/track/0N3ufYCnqo8lwAH3iWoIPT) | [Tom Tikka & The Missing Hubcaps](https://open.spotify.com/artist/1ShdRWWqSaSp57Gz82WiO8), [Lappe](https://open.spotify.com/artist/4pCyo7rC8AfxXHdftmpHg3), [Nicklas](https://open.spotify.com/artist/0M41YC4xNPWYCrPCDKoZfF) | [Wrecking Ball](https://open.spotify.com/album/3qOEq7waBcfcXNRIFNnann) | 2:47 | 2024-07-02 | 2024-07-12 |
 | [Yhdet liikaa](https://open.spotify.com/track/4GWh5r8RgOMtwWpGlmQT4x) | [ILO](https://open.spotify.com/artist/29PSvcmaFVFfpfv12p1nud) | [Yhdet liikaa](https://open.spotify.com/album/6xDS4ftSPTKy0qxjWm5Vfc) | 3:35 | 2024-09-26 |  |
 | [Yllä Helsingin on tillin\-tallin\-kuu](https://open.spotify.com/track/3Pm0wrSXJWwoDDNCZs81VS) | [Jouko Mäki\-Lohiluoma](https://open.spotify.com/artist/2NxoPESl7U2fsHcwx1dOYu) | [Yllä Helsingin on tillin\-tallin\-kuu](https://open.spotify.com/album/4X0cTwztscWrlOg4SSgDpe) | 2:40 | 2024-09-26 | 2024-11-01 |

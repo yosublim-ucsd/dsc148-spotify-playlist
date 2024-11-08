@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: "<a href=https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O?si=dekuLd7nQJupL6f6WNgyLw>Sbu Noah</a>
 
-83 songs - 8 hr 44 min
+84 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,5 +91,6 @@
 | [Yibanathi](https://open.spotify.com/track/4rPSpeKJekm5pJNabHi0MK) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Yibanathi](https://open.spotify.com/album/76un37X1FHebVoU6wUzTcm) | 5:07 | 2024-10-04 |  |
 | [Ziphozenkosi](https://open.spotify.com/track/0XpH0PNvDUVEFInp6Zedww) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Ziphozenkosi](https://open.spotify.com/album/1O0aJv1WopBAygnHrl4bti) | 4:52 | 2024-10-11 |  |
 | [Zundikhaphe \(Reprise\) \- Live](https://open.spotify.com/track/630wpqEFhX2z0UIHpYX1KN) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [A David Kind of Psalm \(Live\)](https://open.spotify.com/album/0UFsdWxo8Kr73S5dQwzxVl) | 6:30 | 2024-10-04 |  |
+| [Zwi Do Luga](https://open.spotify.com/track/6nCXu41LlH6tjvpCFvldyq) | [Mulaudzi Tee Jay](https://open.spotify.com/artist/1mkwME0SzmeqoIaKLRnkSy), [J\-Smash](https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD), [Dindie Cess](https://open.spotify.com/artist/0Rj5fvasKuiB33gEsJCBIm) | [Zwi Do Luga](https://open.spotify.com/album/72kRwx5i00gdYG4Mq33YbL) | 4:45 | 2024-11-08 |  |
 
 \*This playlist was first scraped on 2024-10-11. Prior content cannot be recovered.

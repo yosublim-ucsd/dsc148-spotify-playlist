@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-354 songs - 18 hr 38 min
+355 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Whip\-It](https://open.spotify.com/track/3gIk2QR7SdWfOcrNBItrYA) | [1UP](https://open.spotify.com/artist/7IbckQDhWF6ppQmWT5kCF7) | [Whip\-It](https://open.spotify.com/album/5ZSPQPfFMu0s3mpTL1sKpI) | 4:31 | 2023-12-13 |  |
 | [Why](https://open.spotify.com/track/32i4H0NOOpFeDYk2MtDUJd) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Waking at Dawn](https://open.spotify.com/album/5rvBOTHohJZk2aQHPJi6eU) | 4:22 | 2023-12-13 |  |
 | [With You](https://open.spotify.com/track/3aJkV6DUTSCqOwVwaBDG9B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 3:15 | 2023-12-13 |  |
+| [Without You](https://open.spotify.com/track/6lw6iNTAl9dNRAtIlGy75r) | [Quavo Huncho](https://open.spotify.com/artist/1r1sH8nuvdrpzN61sad1hs) | [Without You](https://open.spotify.com/album/1MHd0KqJm5bJlcl2p9Lpww) | 4:10 | 2024-11-07 |  |
 | [WITHOUT YOU \(Freestyle\)](https://open.spotify.com/track/0XP9h6syOoOHHU2pam3Keo) | [DJ Max Star](https://open.spotify.com/artist/3oTDO2HdnIHS42f8E6KIFJ) | [WITHOUT YOU \(Freestyle\)](https://open.spotify.com/album/4dvvo1D2OeEyOyuVrN69Yx) | 4:10 | 2023-12-13 | 2024-09-06 |
 | [Woke Up](https://open.spotify.com/track/61qCOFYVc2N2No5F8EWrOC) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Nobody Safe](https://open.spotify.com/album/1w3bK9CG80xsuDPlrz5EV7) | 2:44 | 2023-12-13 |  |
 | [Wokstar](https://open.spotify.com/track/50TQ7LHaimRwCKX7PZj7QJ) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 1:29 | 2023-12-13 |  |

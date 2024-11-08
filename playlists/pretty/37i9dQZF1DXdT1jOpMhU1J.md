@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT1jOpMhU1J.md) - [plain]
 
 > Canções de ninar para o seu bebê ter um sono profundo
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,616 likes - 288 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,619 likes - 288 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT1jOpMhU1J.md) - [plain]
 | 62 | [Billy Boy](https://open.spotify.com/track/4rRDfcy1GEBT4hbafPkNFQ) | [Jordan Mitchell\-Haines](https://open.spotify.com/artist/5xyZwXBV8D9F63Kiocws8R) | [Billy Boy](https://open.spotify.com/album/1VVe1690y0gKZpbdqndcnQ) | 1:52 |
 | 63 | [The Ever So Elegant Elephant](https://open.spotify.com/track/59c9VlNMSG1rZM6FolL1Zm) | [Leo Button](https://open.spotify.com/artist/2OFHAfDosm7QmMH9DtQKFt) | [The Ever So Elegant Elephant](https://open.spotify.com/album/4upvwQ7R9DzYCXXmzx5Pgn) | 1:19 |
 | 64 | [Angel Eyes](https://open.spotify.com/track/1pYhOdETtHjHywmp2jNCaS) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Angel Eyes](https://open.spotify.com/album/331hkGDQV35WdnLQCHvwnt) | 1:19 |
-| 65 | [The Cutest Thing](https://open.spotify.com/track/4SzxS3LeYScmZWkhK4cdaN) | [Alva Klarström](https://open.spotify.com/artist/4st9pHP2wqPPpjXoRZ6S7t) | [The Cutest Thing](https://open.spotify.com/album/0fd8HQoP67omrbgJ3mURlO) | 2:17 |
+| 65 | [The Cutest Thing](https://open.spotify.com/track/4SzxS3LeYScmZWkhK4cdaN) | [Alva Klarström](https://open.spotify.com/artist/50id9oYraGr4qm3XfTKMfO) | [The Cutest Thing](https://open.spotify.com/album/0fd8HQoP67omrbgJ3mURlO) | 2:17 |
 | 66 | [Forever And Ever](https://open.spotify.com/track/6kegD00kMojbCnvI3CnPJJ) | [Maria Mangasson](https://open.spotify.com/artist/3Da8Sq3XlYqKsjuXfzImiJ) | [Forever And Ever](https://open.spotify.com/album/5dp9mbwacgNKu9GIe2Py1T) | 1:44 |
 | 67 | [Sharky's Toothbrush](https://open.spotify.com/track/69kYnUzPX39WrqgKejQIaD) | [Danielle Rogard](https://open.spotify.com/artist/7oH6mUa9mfdEz5EbouH8uu) | [Sharky's Toothbrush](https://open.spotify.com/album/5T42GEONHpXZO02VkBfSS9) | 2:09 |
 | 68 | [All Of Your Friends](https://open.spotify.com/track/2pmYurg3NrwqdCBm4s33Gu) | [Gil Sunniver](https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM) | [All Of Your Friends](https://open.spotify.com/album/1gKNUNR60Vhe7SQnYNC9EU) | 1:56 |

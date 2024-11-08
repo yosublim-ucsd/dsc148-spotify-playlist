@@ -1,6 +1,6 @@
 {
   "description": "Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.",
-  "num_followers": 101856,
+  "num_followers": 101865,
   "original_name": "Balkanista Circus",
   "owner": {
     "name": "Spotify",
@@ -95,26 +95,6 @@
     {
       "added_at": "2023-07-07 06:00:00",
       "album": {
-        "name": "Shantology // The Bucovina Club Years",
-        "url": "https://open.spotify.com/album/3pHFRveyl26dcZd4F3sX6b"
-      },
-      "artists": [
-        {
-          "name": "Shantel",
-          "url": "https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA"
-        },
-        {
-          "name": "Mahala Rai Banda",
-          "url": "https://open.spotify.com/artist/5eFcEnUv0A83EIHKVrXzg4"
-        }
-      ],
-      "duration_ms": 258813,
-      "name": "Mahalageasca - Shantel DUB",
-      "url": "https://open.spotify.com/track/1rhlWjJHCgxCWetBwQyiKH"
-    },
-    {
-      "added_at": "2023-07-07 06:00:00",
-      "album": {
         "name": "Mamita Santa",
         "url": "https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 239400,
       "name": "Mamita Santa",
       "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
+    },
+    {
+      "added_at": "2023-07-07 06:00:00",
+      "album": {
+        "name": "Shantology // The Bucovina Club Years",
+        "url": "https://open.spotify.com/album/3pHFRveyl26dcZd4F3sX6b"
+      },
+      "artists": [
+        {
+          "name": "Shantel",
+          "url": "https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA"
+        },
+        {
+          "name": "Mahala Rai Banda",
+          "url": "https://open.spotify.com/artist/5eFcEnUv0A83EIHKVrXzg4"
+        }
+      ],
+      "duration_ms": 258813,
+      "name": "Mahalageasca - Shantel DUB",
+      "url": "https://open.spotify.com/track/1rhlWjJHCgxCWetBwQyiKH"
     },
     {
       "added_at": "2024-09-09 15:08:42",

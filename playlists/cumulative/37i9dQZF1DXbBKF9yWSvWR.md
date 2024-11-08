@@ -4,7 +4,7 @@
 
 > All new music with an Indie twist\. Cover: la loye
 
-173 songs - 9 hr 59 min
+174 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Clams Casino](https://open.spotify.com/track/552CHpr378s87EoEt92aYv) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [My Light, My Destroyer](https://open.spotify.com/album/5Px8e7X2ohQr0Tf3a73oLJ) | 3:26 | 2024-07-26 | 2024-10-24 |
 | [Closing Time \(feat\. Cape Sleep\)](https://open.spotify.com/track/7rKMKQJEibx6CID2EJ8gtk) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE), [Cape Sleep](https://open.spotify.com/artist/59p3YuZWUKjBcwSpeAB9x4) | [Closing Time \(feat\. Cape Sleep\)](https://open.spotify.com/album/0pzHtPZa5bwWLBeTqDLoxm) | 3:04 | 2024-10-23 |  |
 | [confused](https://open.spotify.com/track/5mVD6EqHjznlT9vjOQV2bA) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [confused](https://open.spotify.com/album/3BBLwN3zv6PHbJiSTosUog) | 3:25 | 2024-08-30 |  |
+| [Daddy's Selling Wine In A Burning House](https://open.spotify.com/track/6jWsP2neKDqX4YWNK46njD) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/album/7zqjNLbmzTee6fzqCTg4K1) | 4:24 | 2024-11-07 |  |
 | [Dancing in the Dirt](https://open.spotify.com/track/6SzIWDgalsxa2IIJ24C6Ik) | [Galine](https://open.spotify.com/artist/1DFbUtrAHgEHrZOnptv03D) | [Dancing in the Dirt](https://open.spotify.com/album/4nxLC4lq2pNY1wDx2Nztgk) | 3:15 | 2024-06-24 | 2024-09-06 |
 | [Deep Pockets](https://open.spotify.com/track/3BEm7hQH2B7gnz8Utcu2L2) | [Pitou](https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va), [LUWTEN](https://open.spotify.com/artist/4cm8GrJ4fx7P2h9shNhUia), [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Deep Pockets](https://open.spotify.com/album/6XSDmUnYftSODl4jmx4NZ1) | 3:04 | 2024-10-03 |  |
 | [Dive \(feat\. Pitou\)](https://open.spotify.com/track/6jPG58CblDA29dE38FWMUb) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO), [Pitou](https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va) | [Synergy](https://open.spotify.com/album/77nBglD9sGkrHzLY7od26x) | 4:00 | 2024-09-13 |  |
@@ -161,7 +162,7 @@
 | [Tested Waters](https://open.spotify.com/track/7o6Recoy903QEdEyiJ4v2H) | [Loupe](https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o) | [Tested Waters](https://open.spotify.com/album/6idrwqlyEYykX81SeNtsvd) | 3:38 | 2024-06-24 | 2024-07-16 |
 | [Thank You](https://open.spotify.com/track/2RUHd81HLVFhRZmd4uMQ74) | [Dutch Mustard](https://open.spotify.com/artist/6QGi06qu6deTJRLZO2YrlP) | [Thank You](https://open.spotify.com/album/6CoQtvdPD6gEQVD4pgd098) | 2:50 | 2024-10-23 |  |
 | [The Antidote](https://open.spotify.com/track/35NzTGWNRrfzrCASih3lNt) | [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ), [Noon Garden](https://open.spotify.com/artist/3d9ub2Fp7guk9yviKzD8Kc) | [The Antidote](https://open.spotify.com/album/5OFyN36YpQGNKx2Z4hcfHm) | 5:02 | 2024-07-09 | 2024-10-24 |
-| [The Fool](https://open.spotify.com/track/6ptRV1NYFp7DThMILxq8K5) | [Niko](https://open.spotify.com/artist/6GMXTHNc34bj2rFo35e2T2) | [The Fool](https://open.spotify.com/album/2XennZwBPmPaaQFLCOgJel) | 2:24 | 2024-08-30 |  |
+| [The Fool](https://open.spotify.com/track/6ptRV1NYFp7DThMILxq8K5) | [Niko](https://open.spotify.com/artist/6GMXTHNc34bj2rFo35e2T2) | [The Fool](https://open.spotify.com/album/2XennZwBPmPaaQFLCOgJel) | 2:24 | 2024-08-30 | 2024-11-08 |
 | [The Go Down](https://open.spotify.com/track/4r1IIs9keKHVRO7KSlnxCh) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [The Go Down](https://open.spotify.com/album/439ekKZJmgH7sWLk6Ze4JH) | 2:10 | 2024-06-24 | 2024-08-02 |
 | [The Kitchen](https://open.spotify.com/track/3TxntUv4LHjiI14opPtDxv) | [Bex](https://open.spotify.com/artist/36oeUK8c28Osce2qzpOHmi) | [The Kitchen](https://open.spotify.com/album/1kwc8B8ugCKe0GLGuCSF9k) | 3:27 | 2024-06-24 | 2024-07-10 |
 | [The Ride Home](https://open.spotify.com/track/5SGlJZH10ztCskNdXORhbu) | [Cloud Cafe](https://open.spotify.com/artist/6ZLN3zJF1GLVaSNk7tU3MY) | [Gift Horse](https://open.spotify.com/album/0IzNKyesKN0lCIO2e8kUDa) | 2:00 | 2024-11-06 |  |

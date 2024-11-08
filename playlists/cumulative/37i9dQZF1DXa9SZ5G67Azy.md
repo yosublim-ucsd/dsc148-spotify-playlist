@@ -4,7 +4,7 @@
 
 > Un poco de esto, un poco de lo otro.
 
-104 songs - 6 hr 4 min
+105 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Hombres y Mujeres](https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Hombres y Mujeres](https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI) | 2:28 | 2023-11-29 |  |
 | [I SEE U LATER](https://open.spotify.com/track/4wEnEUyAyluBTAskEb96YU) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [I SEE U LATER](https://open.spotify.com/album/7qhmOz5dZGhmcRfB0izeNl) | 3:25 | 2024-01-18 |  |
 | [Jordan \(Tech House\)](https://open.spotify.com/track/2DA4eJlbSddsqVoxuattBV) | [Gabi Mujica](https://open.spotify.com/artist/6JdsOBqypQzdYEYO8mtlDL) | [Jordan \(Tech House\)](https://open.spotify.com/album/6HawJ3fyYbpoTAu7XBWFPl) | 4:05 | 2023-11-29 |  |
+| [L\-GANTE \| Omar Algo Anda Mal \#420](https://open.spotify.com/track/0XDn5IOOw9GvXw5tHLYWWm) | [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-GANTE \| Omar Algo Anda Mal \#420](https://open.spotify.com/album/4SVxODcH5nxSOpgvwFy8oe) | 2:58 | 2024-11-08 |  |
 | [La Bebe \- David Guetta Remix](https://open.spotify.com/track/2OOmObvtYKotf1WwcqRwe4) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [La Bebe \(David Guetta Remix\)](https://open.spotify.com/album/1BFVfHT9ScguUQTXT4ef63) | 2:38 | 2023-11-29 |  |
 | [LA FALDA \- Tiësto Remix](https://open.spotify.com/track/3mnH4IGAoxIh5sRY8N8NS0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [LA FALDA \(Tiësto Remix\)](https://open.spotify.com/album/6nkUCUZ4vT2z074AjCbr2s) | 2:54 | 2024-04-05 |  |
 | [La Jeepeta \(Techengue\)](https://open.spotify.com/track/05yLR6qCaXZPPBjUvV7Ake) | [Delirio Mix](https://open.spotify.com/artist/7fiUtSeEYMX5lZZkKoiX77), [FRVNKK](https://open.spotify.com/artist/73ZUVJpRyRACS9qUSGVpWC) | [La Jeepeta \(Techengue\)](https://open.spotify.com/album/6CohdpmWnvdZX8Hu7jDyxY) | 3:58 | 2023-11-29 |  |

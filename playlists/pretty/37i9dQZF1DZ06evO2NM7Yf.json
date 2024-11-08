@@ -1,12 +1,12 @@
 {
   "description": "This is Meg Smith. The essential tracks, all in one playlist.",
-  "num_followers": 333,
+  "num_followers": 334,
   "original_name": "This Is Meg Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZylgAAAAAAAa9+gw8P9KVn6iHWgZrYeq",
+  "snapshot_id": "ZyqxgAAAAAAPVend3vl9nftaYxgZAHOA",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nosebleeds: Encore",
-        "url": "https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ"
+        "name": "cupids on cocaine",
+        "url": "https://open.spotify.com/album/4XdcZz88Its2ktA7lbRabC"
       },
       "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        },
         {
           "name": "Meg Smith",
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 164213,
-      "name": "Sideways (feat. Meg Smith)",
-      "url": "https://open.spotify.com/track/5XnHGjcnDMw0KWe4lJzqSD"
+      "duration_ms": 148357,
+      "name": "cupids on cocaine",
+      "url": "https://open.spotify.com/track/11RsKyyMsurzmtjBD3a5G1"
     },
     {
       "added_at": null,
@@ -95,18 +91,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "cupids on cocaine",
-        "url": "https://open.spotify.com/album/4XdcZz88Its2ktA7lbRabC"
+        "name": "Nosebleeds: Encore",
+        "url": "https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ"
       },
       "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        },
         {
           "name": "Meg Smith",
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 148357,
-      "name": "cupids on cocaine",
-      "url": "https://open.spotify.com/track/11RsKyyMsurzmtjBD3a5G1"
+      "duration_ms": 164213,
+      "name": "Sideways (feat. Meg Smith)",
+      "url": "https://open.spotify.com/track/5XnHGjcnDMw0KWe4lJzqSD"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Because of Me",
-      "url": "https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu"
+      "duration_ms": 164933,
+      "name": "American in Paris",
+      "url": "https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 164933,
-      "name": "American in Paris",
-      "url": "https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj"
+      "duration_ms": 182500,
+      "name": "Because of Me",
+      "url": "https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu"
     },
     {
       "added_at": null,

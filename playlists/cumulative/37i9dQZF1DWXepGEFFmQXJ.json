@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Ella Langley",
+  "description": "The cream of today's Country crop. Cover: Rachael Fahim",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -326,7 +326,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 220813,
       "name": "A Love Like Springsteen",
       "url": "https://open.spotify.com/track/69SpIDFJ8Qfg2KrXEStlBt"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 210950,
       "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
@@ -658,6 +658,24 @@
       "duration_ms": 207430,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/1LiMVKhl8eQNhhNTBRowb1"
+    },
+    {
+      "album": {
+        "name": "All the Small Things",
+        "url": "https://open.spotify.com/album/0nGBaopA0BHPtyTitsv2Gu"
+      },
+      "artists": [
+        {
+          "name": "Tyler Rich",
+          "url": "https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199933,
+      "name": "All the Small Things",
+      "url": "https://open.spotify.com/track/5QF6dBZYF4zDmpDeM8qbZ4"
     },
     {
       "album": {
@@ -2335,6 +2353,28 @@
     },
     {
       "album": {
+        "name": "Chevrolet You Down",
+        "url": "https://open.spotify.com/album/4cBn8OYdcqjF6LJGIIZ8l3"
+      },
+      "artists": [
+        {
+          "name": "Alex Mather",
+          "url": "https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw"
+        },
+        {
+          "name": "Mary Kutter",
+          "url": "https://open.spotify.com/artist/0rTX0ieS2m0gUGLlLe4kQP"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130369,
+      "name": "Chevrolet You Down",
+      "url": "https://open.spotify.com/track/1bEF4ojUgK7iI3TZtcXLID"
+    },
+    {
+      "album": {
         "name": "Any Less Anymore",
         "url": "https://open.spotify.com/album/7kzmnHQbgOfSfAl5oYw0w5"
       },
@@ -3416,7 +3456,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 192693,
       "name": "Devil You Know",
       "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
@@ -4748,7 +4788,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 227400,
       "name": "GO HOME W U (WITH LAINEY WILSON)",
       "url": "https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ"
@@ -5987,6 +6027,24 @@
     },
     {
       "album": {
+        "name": "Hold On Let's Go",
+        "url": "https://open.spotify.com/album/1OEksdiHRLOewzl5RyIFVP"
+      },
+      "artists": [
+        {
+          "name": "Jimbo Stokes",
+          "url": "https://open.spotify.com/artist/1kjIdNzI0AIDHaaqfbEzdK"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192186,
+      "name": "Hold On Let's Go",
+      "url": "https://open.spotify.com/track/1paHM8IB4jGARAXc7EtqXc"
+    },
+    {
+      "album": {
         "name": "Standing Room Only",
         "url": "https://open.spotify.com/album/7JXjtz0F7VWwAboPCoyg14"
       },
@@ -6106,7 +6164,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 195029,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/52BzAP9o0G7daDBlXrNiIh"
@@ -6326,7 +6384,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 195428,
       "name": "I Do (feat. Maddie & Tae)",
       "url": "https://open.spotify.com/track/5hmPSqHHEE6mHZofGHj6Pb"
@@ -8321,6 +8379,24 @@
     },
     {
       "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
+    },
+    {
+      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/6EoqlNlbld5ks0Vy6eDYNz"
       },
@@ -9363,6 +9439,24 @@
     },
     {
       "album": {
+        "name": "One of Them Cowboys",
+        "url": "https://open.spotify.com/album/58HLxJT1naYyCshiSzKVuZ"
+      },
+      "artists": [
+        {
+          "name": "Denvah",
+          "url": "https://open.spotify.com/artist/2ckdBF07SaseDtYbUzDeNq"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "One Of Them Cowboys",
+      "url": "https://open.spotify.com/track/5WdeuXGQ4y9HqA2i6Ww8xz"
+    },
+    {
+      "album": {
         "name": "One Of Them Nights",
         "url": "https://open.spotify.com/album/3BbMi5ff2Tj4OhRGrgk5Ue"
       },
@@ -9544,7 +9638,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 165023,
       "name": "Outskirts",
       "url": "https://open.spotify.com/track/3jxDHZLkYpxC0IlfpimedP"
@@ -10188,7 +10282,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 158634,
       "name": "Relapse",
       "url": "https://open.spotify.com/track/4cfJwDxcinpg5gYUZ4qysj"
@@ -11797,6 +11891,24 @@
     },
     {
       "album": {
+        "name": "Speak of the Devil",
+        "url": "https://open.spotify.com/album/4VTnyRVr3yeXExvd09l6ve"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152268,
+      "name": "Speak of the Devil",
+      "url": "https://open.spotify.com/track/188E5GIQ8Mlp3teHdf9xTJ"
+    },
+    {
+      "album": {
         "name": "Spin Me Around",
         "url": "https://open.spotify.com/album/5MIy6bDypXVV3G9OIFH1VK"
       },
@@ -13120,6 +13232,24 @@
       "duration_ms": 191626,
       "name": "This Town's Been Too Good To Us",
       "url": "https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l"
+    },
+    {
+      "album": {
+        "name": "This World's A Giant",
+        "url": "https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216160,
+      "name": "This World's A Giant",
+      "url": "https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8"
     },
     {
       "album": {

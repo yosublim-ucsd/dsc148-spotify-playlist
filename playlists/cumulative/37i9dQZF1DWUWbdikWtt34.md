@@ -4,7 +4,7 @@
 
 > Dendang Dangdut teratas\. Cover: Jirayut
 
-205 songs - 16 hr 8 min
+206 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Sembuhkan Luka](https://open.spotify.com/track/6Ab00lWVCOskvKQMwdHnda) | [Owan](https://open.spotify.com/artist/6giTizAzwDJX3wOqcRfwTH) | [Sembuhkan Luka](https://open.spotify.com/album/5v3NSApUPB4AnzL4CbBxW5) | 6:23 | 2024-05-17 |  |
 | [Sensi](https://open.spotify.com/track/0HTW3ym6XTwe3gyi3Y6F4g) | [Fania Putri](https://open.spotify.com/artist/7kciVBb9QDsMO8PqYGhuim) | [Sensi](https://open.spotify.com/album/4K5ZDNFUTp05z1Hj60tYEz) | 4:32 | 2023-06-09 | 2023-09-15 |
 | [Separuh Jiwaku Pergi](https://open.spotify.com/track/6xqmdksyKLPvfs28Qe7z8x) | [Ucie Sucita](https://open.spotify.com/artist/03qsCoduQN1ffTfhVCijJp) | [Separuh Jiwaku Pergi](https://open.spotify.com/album/2cR3YXcrCOlFIpr35f1Ho1) | 3:24 | 2024-01-18 |  |
+| [Sesayang Ini Kau Tipu Jua](https://open.spotify.com/track/4LhVuScLN4XUoZQ1oxFrI6) | [Cantika Davinca](https://open.spotify.com/artist/0bjubqi4GobeZDopJU6vjN) | [Sesayang Ini Kau Tipu Jua](https://open.spotify.com/album/4kBRsbSrzCgJMt1j7FDy2x) | 5:11 | 2024-11-07 |  |
 | [Setia Jujur dan Taqwa \- Live At Ska Reggae](https://open.spotify.com/track/6lt4nbkCe2AAHVtbKLnlVC) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Setia Jujur dan Taqwa \(Live At Ska Reggae\)](https://open.spotify.com/album/7HbO1YQSuPQphc7DynEwVo) | 4:41 | 2024-03-22 | 2024-07-19 |
 | [Setia Selamanya](https://open.spotify.com/track/28Bo7TZyfgXwyI94AovY74) | [Nayunda](https://open.spotify.com/artist/14d9MMITs2VsO16pEVEe6M) | [Setia Selamanya](https://open.spotify.com/album/68xo70xpsg2AgbucwNpjrL) | 4:02 | 2024-02-22 |  |
 | [Siang Malam Rindu](https://open.spotify.com/track/4QWa2dAN3aKBWvvkEJghCD) | [Fildan](https://open.spotify.com/artist/6uOceknzOyjcK3UdX3SIzl) | [Siang Malam Rindu](https://open.spotify.com/album/4kDFIPaPUAbDaDWaObbQjT) | 4:13 | 2024-02-22 | 2024-09-27 |

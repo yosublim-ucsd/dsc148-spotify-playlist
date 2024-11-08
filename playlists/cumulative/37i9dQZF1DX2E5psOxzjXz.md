@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Taha G
 
-308 songs - 17 hr 25 min
+310 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Faryaad](https://open.spotify.com/track/1nWZOrc3xYIybxhSyDO6ga) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [Faryaad](https://open.spotify.com/album/5qgIy9CK7C2dxyk8Flnn3Z) | 4:45 | 2021-12-06 | 2023-02-13 |
 | [Filhaal](https://open.spotify.com/track/0PNU96DGl5PRswbstQgbtv) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [Filhaal](https://open.spotify.com/album/7ClbtfOcCG9bzO30ZTRgI2) | 4:15 | 2021-12-06 |  |
 | [Fitoor](https://open.spotify.com/track/59JAyLDknHxl9PPWwdXFqM) | [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0), [Mujju](https://open.spotify.com/artist/2SfEGrMv3AQ7D6WhY62BIm) | [Fitoor](https://open.spotify.com/album/5tutMtSpFgrJeVy7wlJM92) | 3:25 | 2021-12-06 | 2022-01-29 |
+| [Fiza](https://open.spotify.com/track/6rq5mLyAIrPCWsjnRqDbFE) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw), [PDNY](https://open.spotify.com/artist/2nggEHrLwzTQfv5gliPZQd) | [Fiza](https://open.spotify.com/album/4Fx7HZinHEJuW9HWEsPONG) | 2:28 | 2024-11-07 |  |
 | [Friday](https://open.spotify.com/track/7FLjLYJQPggPCgqcuQl2Ao) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Friday](https://open.spotify.com/album/1CmVkSA2F3ypX2iidGsa8g) | 2:59 | 2023-07-14 | 2024-04-13 |
 | [Fursat](https://open.spotify.com/track/4ZaFMecsbjz8oaSa7pldfr) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Nautanki](https://open.spotify.com/album/4cWRqa8lbidF3vyUdX4H9D) | 3:09 | 2023-01-10 | 2024-09-10 |
 | [Gawara](https://open.spotify.com/track/30SraUQbTd11TDrzkgeK4z) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Gawara](https://open.spotify.com/album/7cEtQI6vTHbXbrRNWDKqdd) | 3:05 | 2022-11-02 |  |
@@ -303,6 +304,7 @@
 | [What a Man](https://open.spotify.com/track/5ChrWAc3mGRrRcKP3wBIPz) | [Niomí](https://open.spotify.com/artist/16rklq8X2KwUNb7D51VvhQ) | [What a Man](https://open.spotify.com/album/7kh5DqndbncrTfaoIeBmdk) | 4:22 | 2021-12-06 | 2022-03-05 |
 | [Wife You](https://open.spotify.com/track/5A7uVk7orEzrR9NA8ppFus) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 4:16 | 2023-09-08 |  |
 | [Wishes](https://open.spotify.com/track/5rpCUsEfBLIumvrxrahnKF) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 3:38 | 2023-09-15 |  |
+| [Wishful](https://open.spotify.com/track/2e7DgiuK7mCDvYHTmMZilD) | [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Shajjar Hussain](https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv), [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy) | [Lost Path](https://open.spotify.com/album/67clB5WzzIq1DOydWKGVIX) | 2:24 | 2024-11-07 |  |
 | [Yaadein](https://open.spotify.com/track/3i6kareUgfpj9RSOnaXlYm) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp) | [1 2 3 4 5](https://open.spotify.com/album/41NSZy9hW6WWrHYpIqyH0a) | 2:43 | 2024-08-16 |  |
 | [Yaqeen](https://open.spotify.com/track/4hgBwvVJqdCDxgULc926qf) | [Poor Rich Boy](https://open.spotify.com/artist/2DtZwsXs6iF0xOAF17ziBP) | [Yaqeen](https://open.spotify.com/album/3r5cMfjMehfJPCVRdrlwmt) | 3:54 | 2021-12-06 | 2022-06-17 |
 | [YDKILY](https://open.spotify.com/track/3XLC0P0oFgpuK7cDyjbcnB) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [YDKILY](https://open.spotify.com/album/7fmcLyA0BuslOWU3LOa26T) | 3:16 | 2023-09-15 | 2023-11-03 |

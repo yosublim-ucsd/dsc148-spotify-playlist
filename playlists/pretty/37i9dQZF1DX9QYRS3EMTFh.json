@@ -1,15 +1,267 @@
 {
-  "description": "Les hits dancehall du moment. Photo : Maureen x Blaiz Fayah",
-  "num_followers": 160469,
+  "description": "Les hits dancehall du moment. Photo : Kybba",
+  "num_followers": 160519,
   "original_name": "Dancehall Station",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrDYAAAAADlckzNjPFKcVF0IN5u1Egz",
+  "snapshot_id": "Zy1GcAAAAAAOtGzJzl5FNRyC8PDTb1zs",
   "tracks": [
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Badman Party",
+        "url": "https://open.spotify.com/album/4XCePJwzv9wGnj5SqfBmLs"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Sukuward",
+          "url": "https://open.spotify.com/artist/0HTe090uRvK2wjx8rdIOl3"
+        }
+      ],
+      "duration_ms": 111690,
+      "name": "Badman Party",
+      "url": "https://open.spotify.com/track/4fhi1faidAMJkWkVLjq7iK"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Phase II",
+        "url": "https://open.spotify.com/album/0tkCeSJBM9WJ2v8HEZhfcs"
+      },
+      "artists": [
+        {
+          "name": "P.L.L",
+          "url": "https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Shattiment",
+      "url": "https://open.spotify.com/track/27tI3hQIcNGu4QwMs7RBkF"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "GOD BLESS (Ah la vie qu'on m\u00e8ne)",
+        "url": "https://open.spotify.com/album/1vdIgsdzh1EO8bmhJ2zA17"
+      },
+      "artists": [
+        {
+          "name": "Krys",
+          "url": "https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D"
+        },
+        {
+          "name": "YSN",
+          "url": "https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "GOD BLESS - Ah la vie qu'on m\u00e8ne",
+      "url": "https://open.spotify.com/track/4QDtddeOG5EiPAplk8wG4N"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "OU JA KONET",
+        "url": "https://open.spotify.com/album/4AjOa9YsfCcMnO56bxRkiB"
+      },
+      "artists": [
+        {
+          "name": "Attachingboy",
+          "url": "https://open.spotify.com/artist/6tB8V9mp5QW1yla5SVorpL"
+        },
+        {
+          "name": "Lord Crazy",
+          "url": "https://open.spotify.com/artist/0MgaOeBE3j0qhcsD0Tevvf"
+        }
+      ],
+      "duration_ms": 143067,
+      "name": "OU JA KONET",
+      "url": "https://open.spotify.com/track/6O3eOdQzK0doZZxcJ5fjhc"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Esmeralda",
+        "url": "https://open.spotify.com/album/5FOrO5dMMmMSvBuTLS2WRF"
+      },
+      "artists": [
+        {
+          "name": "Says'z",
+          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
+        },
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        }
+      ],
+      "duration_ms": 114407,
+      "name": "Esmeralda",
+      "url": "https://open.spotify.com/track/6ConL2W4eA29qy66IPAm0U"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "SO COMAN",
+        "url": "https://open.spotify.com/album/6IsaPEPJsZ4qXbOmdTkq0F"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "duration_ms": 137849,
+      "name": "SO COMAN",
+      "url": "https://open.spotify.com/track/6W0iLz8aOKUzObanCzJj2U"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Minimum",
+        "url": "https://open.spotify.com/album/3cgzvN00LkYhzufUpDjIA6"
+      },
+      "artists": [
+        {
+          "name": "Dj Leska",
+          "url": "https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX"
+        },
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        }
+      ],
+      "duration_ms": 150071,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/57Z4G1fZ5GDEbmhrQFQWRA"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Jet Ski",
+        "url": "https://open.spotify.com/album/0EoE85vAFJhMghCxeUjjKe"
+      },
+      "artists": [
+        {
+          "name": "DJ Tutuss",
+          "url": "https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv"
+        },
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        }
+      ],
+      "duration_ms": 122951,
+      "name": "Jet Ski",
+      "url": "https://open.spotify.com/track/6K54j58zLdDgbWGtT4CINU"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "LA PLI SI TOL (Shatta Remix)",
+        "url": "https://open.spotify.com/album/3rpPwBBQmWsTsVIBQDJZGV"
+      },
+      "artists": [
+        {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "LA PLI SI TOL - Shatta Remix",
+      "url": "https://open.spotify.com/track/2IVDn8kDkwfWliwB3PYZb4"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Vieux cl\u00e9bard",
+        "url": "https://open.spotify.com/album/0zBnTN1UNpWxNyVJVLpcZ8"
+      },
+      "artists": [
+        {
+          "name": "TKD",
+          "url": "https://open.spotify.com/artist/0MzR7uO3295wLWGYILYKLV"
+        },
+        {
+          "name": "Natoxie",
+          "url": "https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5"
+        }
+      ],
+      "duration_ms": 187670,
+      "name": "Vieux cl\u00e9bard",
+      "url": "https://open.spotify.com/track/4gIMsglbc74V6os6lsRap6"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Mondialit\u00e9",
+        "url": "https://open.spotify.com/album/2oQdkHrSfTF8E6kzeeSagi"
+      },
+      "artists": [
+        {
+          "name": "P.L.L",
+          "url": "https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf"
+        }
+      ],
+      "duration_ms": 129373,
+      "name": "Mondialit\u00e9",
+      "url": "https://open.spotify.com/track/70e5eDplRVp58E4ide0nIV"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Friday",
+        "url": "https://open.spotify.com/album/1Kuj8UG83VKYtLPcuE7Ylr"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "duration_ms": 131071,
+      "name": "Friday",
+      "url": "https://open.spotify.com/track/44uSkhcewItyroMzNr6rFF"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "\u00e7a pique am remix",
+        "url": "https://open.spotify.com/album/5hflrePJ5QQGpjWHAOHDmp"
+      },
+      "artists": [
+        {
+          "name": "Afro Moombattack",
+          "url": "https://open.spotify.com/artist/0buRzy2mdvzIN356nhsnsO"
+        },
+        {
+          "name": "T-Jy",
+          "url": "https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta"
+        },
+        {
+          "name": "ASH",
+          "url": "https://open.spotify.com/artist/4RxOcYere2aEs5vqCYxexW"
+        },
+        {
+          "name": "Jimmy Gassel",
+          "url": "https://open.spotify.com/artist/31ghW0UwJ7HhkRb7TQaKuT"
+        }
+      ],
+      "duration_ms": 177612,
+      "name": "\u00e7a pique am remix",
+      "url": "https://open.spotify.com/track/0pOeeaiSFtB9zcGNggv5Ax"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
       "album": {
         "name": "Money Pull Up",
         "url": "https://open.spotify.com/album/6OntrtGTUwdWI0aH3Codpn"
@@ -33,46 +285,30 @@
       "url": "https://open.spotify.com/track/0nDfHusx7VcKDBno4QYfkg"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Phase II",
-        "url": "https://open.spotify.com/album/0tkCeSJBM9WJ2v8HEZhfcs"
+        "name": "Bonjouw madam",
+        "url": "https://open.spotify.com/album/6iysVkqm1e5n6vECUfyUcH"
       },
       "artists": [
         {
-          "name": "P.L.L",
-          "url": "https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Shattiment",
-      "url": "https://open.spotify.com/track/27tI3hQIcNGu4QwMs7RBkF"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "OU JA KONET",
-        "url": "https://open.spotify.com/album/4AjOa9YsfCcMnO56bxRkiB"
-      },
-      "artists": [
-        {
-          "name": "Attachingboy",
-          "url": "https://open.spotify.com/artist/6tB8V9mp5QW1yla5SVorpL"
+          "name": "Naamix",
+          "url": "https://open.spotify.com/artist/0mpw52i7RGRiSk9Ubh7oeG"
         },
         {
-          "name": "Lord Crazy",
-          "url": "https://open.spotify.com/artist/0MgaOeBE3j0qhcsD0Tevvf"
+          "name": "DJ Digital",
+          "url": "https://open.spotify.com/artist/66aQVAZJUg9c4ZNOQaxjvN"
         }
       ],
-      "duration_ms": 143067,
-      "name": "OU JA KONET",
-      "url": "https://open.spotify.com/track/6O3eOdQzK0doZZxcJ5fjhc"
+      "duration_ms": 93057,
+      "name": "Bonjouw madam",
+      "url": "https://open.spotify.com/track/07EhYk8xZW6gcwiBCYoQa1"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Jet Ski",
-        "url": "https://open.spotify.com/album/0EoE85vAFJhMghCxeUjjKe"
+        "name": "MIKATUSS",
+        "url": "https://open.spotify.com/album/4wiic4l4CDpnvaIBBpnbUb"
       },
       "artists": [
         {
@@ -80,16 +316,96 @@
           "url": "https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv"
         },
         {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+        },
+        {
           "name": "Meryl",
           "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
         }
       ],
-      "duration_ms": 122951,
-      "name": "Jet Ski",
-      "url": "https://open.spotify.com/track/6K54j58zLdDgbWGtT4CINU"
+      "duration_ms": 136082,
+      "name": "BADMIND",
+      "url": "https://open.spotify.com/track/7CYXnqlTdg1HDLN3hO5LM8"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Yo Bunny",
+        "url": "https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2"
+      },
+      "artists": [
+        {
+          "name": "prodbycpkshawn",
+          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
+        },
+        {
+          "name": "Ugly Andz.",
+          "url": "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
+        }
+      ],
+      "duration_ms": 110471,
+      "name": "Yo Bunny",
+      "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "En Balade",
+        "url": "https://open.spotify.com/album/6zt3ldUNs5rNg5LEm3glCd"
+      },
+      "artists": [
+        {
+          "name": "Kima",
+          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
+        },
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "duration_ms": 211760,
+      "name": "En Balade",
+      "url": "https://open.spotify.com/track/4B4RGlB0MZvMEC5I6NIHZ1"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Dating Szn",
+        "url": "https://open.spotify.com/album/0POPtgxngG9xYy2ogbHqVK"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 175698,
+      "name": "Dating Szn",
+      "url": "https://open.spotify.com/track/36VdMAYdbvsPDxq9w4fehv"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Monte \u00e0 bord",
+        "url": "https://open.spotify.com/album/317J7ZmNjRzvlcEVclpC5K"
+      },
+      "artists": [
+        {
+          "name": "Lazuli",
+          "url": "https://open.spotify.com/artist/5KGjhTaGG0FvcOtQRAvoCE"
+        },
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        }
+      ],
+      "duration_ms": 153506,
+      "name": "Monte \u00e0 bord",
+      "url": "https://open.spotify.com/track/4lhntjwptLAURpNV871ECl"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
       "album": {
         "name": "Don Dada",
         "url": "https://open.spotify.com/album/2dMrWdh4gdZ04DirCduOTy"
@@ -105,79 +421,7 @@
       "url": "https://open.spotify.com/track/6NyolyYpZ6eOhXdsUeIOkw"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "GOD BLESS (Ah la vie qu'on m\u00e8ne)",
-        "url": "https://open.spotify.com/album/1vdIgsdzh1EO8bmhJ2zA17"
-      },
-      "artists": [
-        {
-          "name": "Krys",
-          "url": "https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D"
-        },
-        {
-          "name": "YSN",
-          "url": "https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q"
-        }
-      ],
-      "duration_ms": 164745,
-      "name": "GOD BLESS - Ah la vie qu'on m\u00e8ne",
-      "url": "https://open.spotify.com/track/4QDtddeOG5EiPAplk8wG4N"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "SO COMAN",
-        "url": "https://open.spotify.com/album/6IsaPEPJsZ4qXbOmdTkq0F"
-      },
-      "artists": [
-        {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
-        }
-      ],
-      "duration_ms": 137849,
-      "name": "SO COMAN",
-      "url": "https://open.spotify.com/track/6W0iLz8aOKUzObanCzJj2U"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "MAYA",
-        "url": "https://open.spotify.com/album/5H7hZGLsJhRUcGk2TGSZIb"
-      },
-      "artists": [
-        {
-          "name": "P.L.L",
-          "url": "https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf"
-        }
-      ],
-      "duration_ms": 134857,
-      "name": "MAYA",
-      "url": "https://open.spotify.com/track/6cqJJDfbciv7LUVB384DHw"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Minimum",
-        "url": "https://open.spotify.com/album/3cgzvN00LkYhzufUpDjIA6"
-      },
-      "artists": [
-        {
-          "name": "Dj Leska",
-          "url": "https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX"
-        },
-        {
-          "name": "Blaiz Fayah",
-          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
-        }
-      ],
-      "duration_ms": 150071,
-      "name": "Minimum",
-      "url": "https://open.spotify.com/track/57Z4G1fZ5GDEbmhrQFQWRA"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-07 23:00:00",
       "album": {
         "name": "Caviar I",
         "url": "https://open.spotify.com/album/31Ok9rXTNEPcdt1SsbQgLh"
@@ -217,119 +461,27 @@
       "url": "https://open.spotify.com/track/54AVydEuJjKSsE0VPUmQWq"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Esmeralda",
-        "url": "https://open.spotify.com/album/5FOrO5dMMmMSvBuTLS2WRF"
+        "name": "MI MAS LA (Karata)",
+        "url": "https://open.spotify.com/album/18S8x5HKpnLVE2muRlMPvM"
       },
       "artists": [
         {
-          "name": "Says'z",
-          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
+          "name": "Riddla",
+          "url": "https://open.spotify.com/artist/5rU6NmQJvybdDzbmtKYvYw"
         },
         {
-          "name": "Bamby",
-          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+          "name": "Mas Ka Kl\u00e9",
+          "url": "https://open.spotify.com/artist/6D0khW9GeCCJ1VBU4tlRbo"
         }
       ],
-      "duration_ms": 114407,
-      "name": "Esmeralda",
-      "url": "https://open.spotify.com/track/6ConL2W4eA29qy66IPAm0U"
+      "duration_ms": 133875,
+      "name": "MI MAS LA - Karata",
+      "url": "https://open.spotify.com/track/31xmZLEMq7hSGqaoelv9jJ"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Vieux cl\u00e9bard",
-        "url": "https://open.spotify.com/album/0zBnTN1UNpWxNyVJVLpcZ8"
-      },
-      "artists": [
-        {
-          "name": "TKD",
-          "url": "https://open.spotify.com/artist/0MzR7uO3295wLWGYILYKLV"
-        },
-        {
-          "name": "Natoxie",
-          "url": "https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5"
-        }
-      ],
-      "duration_ms": 187670,
-      "name": "Vieux cl\u00e9bard",
-      "url": "https://open.spotify.com/track/4gIMsglbc74V6os6lsRap6"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "En Balade",
-        "url": "https://open.spotify.com/album/6zt3ldUNs5rNg5LEm3glCd"
-      },
-      "artists": [
-        {
-          "name": "Kima",
-          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
-        },
-        {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
-        }
-      ],
-      "duration_ms": 211760,
-      "name": "En Balade",
-      "url": "https://open.spotify.com/track/4B4RGlB0MZvMEC5I6NIHZ1"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "LA PLI SI TOL (Shatta Remix)",
-        "url": "https://open.spotify.com/album/3rpPwBBQmWsTsVIBQDJZGV"
-      },
-      "artists": [
-        {
-          "name": "Mikado",
-          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "LA PLI SI TOL - Shatta Remix",
-      "url": "https://open.spotify.com/track/2IVDn8kDkwfWliwB3PYZb4"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Mondialit\u00e9",
-        "url": "https://open.spotify.com/album/2oQdkHrSfTF8E6kzeeSagi"
-      },
-      "artists": [
-        {
-          "name": "P.L.L",
-          "url": "https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf"
-        }
-      ],
-      "duration_ms": 129373,
-      "name": "Mondialit\u00e9",
-      "url": "https://open.spotify.com/track/70e5eDplRVp58E4ide0nIV"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Yo Bunny",
-        "url": "https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2"
-      },
-      "artists": [
-        {
-          "name": "prodbycpkshawn",
-          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
-        },
-        {
-          "name": "Ugly Andz.",
-          "url": "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
-        }
-      ],
-      "duration_ms": 110471,
-      "name": "Yo Bunny",
-      "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-07 23:00:00",
       "album": {
         "name": "Hmm (feat. Popcaan)",
         "url": "https://open.spotify.com/album/4srn3PA7GARSVBnOZ9lM1c"
@@ -349,23 +501,7 @@
       "url": "https://open.spotify.com/track/6NlCxCDyNBtjwXw2sa9gkU"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Dating Szn",
-        "url": "https://open.spotify.com/album/0POPtgxngG9xYy2ogbHqVK"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 175698,
-      "name": "Dating Szn",
-      "url": "https://open.spotify.com/track/36VdMAYdbvsPDxq9w4fehv"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-07 23:00:00",
       "album": {
         "name": "Full Plastique",
         "url": "https://open.spotify.com/album/6oiOkRNRABM02BwSvERdXx"
@@ -389,179 +525,7 @@
       "url": "https://open.spotify.com/track/0iwBzyOvJUTcxkEdiTVmAs"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "MIKATUSS",
-        "url": "https://open.spotify.com/album/4wiic4l4CDpnvaIBBpnbUb"
-      },
-      "artists": [
-        {
-          "name": "DJ Tutuss",
-          "url": "https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv"
-        },
-        {
-          "name": "Mikado",
-          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
-        },
-        {
-          "name": "Meryl",
-          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
-        }
-      ],
-      "duration_ms": 136082,
-      "name": "BADMIND",
-      "url": "https://open.spotify.com/track/7CYXnqlTdg1HDLN3hO5LM8"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "No Follow",
-        "url": "https://open.spotify.com/album/0iWLZTpHioac1sUdC5ySQB"
-      },
-      "artists": [
-        {
-          "name": "Kalibwoy",
-          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
-        },
-        {
-          "name": "Red Rat",
-          "url": "https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh"
-        },
-        {
-          "name": "Puri",
-          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
-        }
-      ],
-      "duration_ms": 171197,
-      "name": "No Follow",
-      "url": "https://open.spotify.com/track/6u7kaJxH3ZcSuaautLweli"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "FEELING",
-        "url": "https://open.spotify.com/album/3xEKgdbD7hpeKa35uvjtJ8"
-      },
-      "artists": [
-        {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
-        }
-      ],
-      "duration_ms": 102276,
-      "name": "FEELING",
-      "url": "https://open.spotify.com/track/4ER1c7cbu2CUfcAcNk3ZIz"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Monte \u00e0 bord",
-        "url": "https://open.spotify.com/album/317J7ZmNjRzvlcEVclpC5K"
-      },
-      "artists": [
-        {
-          "name": "Lazuli",
-          "url": "https://open.spotify.com/artist/5KGjhTaGG0FvcOtQRAvoCE"
-        },
-        {
-          "name": "Jahyanai",
-          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
-        }
-      ],
-      "duration_ms": 153506,
-      "name": "Monte \u00e0 bord",
-      "url": "https://open.spotify.com/track/4lhntjwptLAURpNV871ECl"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "\u00e7a pique am remix",
-        "url": "https://open.spotify.com/album/5hflrePJ5QQGpjWHAOHDmp"
-      },
-      "artists": [
-        {
-          "name": "Afro Moombattack",
-          "url": "https://open.spotify.com/artist/0buRzy2mdvzIN356nhsnsO"
-        },
-        {
-          "name": "T-Jy",
-          "url": "https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta"
-        },
-        {
-          "name": "ASH",
-          "url": "https://open.spotify.com/artist/4RxOcYere2aEs5vqCYxexW"
-        },
-        {
-          "name": "Jimmy Gassel",
-          "url": "https://open.spotify.com/artist/31ghW0UwJ7HhkRb7TQaKuT"
-        }
-      ],
-      "duration_ms": 177612,
-      "name": "\u00e7a pique am remix",
-      "url": "https://open.spotify.com/track/0pOeeaiSFtB9zcGNggv5Ax"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "MI MAS LA (Karata)",
-        "url": "https://open.spotify.com/album/18S8x5HKpnLVE2muRlMPvM"
-      },
-      "artists": [
-        {
-          "name": "Riddla",
-          "url": "https://open.spotify.com/artist/5rU6NmQJvybdDzbmtKYvYw"
-        },
-        {
-          "name": "Mas Ka Kl\u00e9",
-          "url": "https://open.spotify.com/artist/6D0khW9GeCCJ1VBU4tlRbo"
-        }
-      ],
-      "duration_ms": 133875,
-      "name": "MI MAS LA - Karata",
-      "url": "https://open.spotify.com/track/31xmZLEMq7hSGqaoelv9jJ"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Coco L\u00e9tan Zabrico",
-        "url": "https://open.spotify.com/album/1fNdxmKpbqaq0IqDjJbYmQ"
-      },
-      "artists": [
-        {
-          "name": "T-Jy",
-          "url": "https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta"
-        }
-      ],
-      "duration_ms": 100645,
-      "name": "Coco L\u00e9tan Zabrico",
-      "url": "https://open.spotify.com/track/5HKdXF1Z3x4lyeRZ2krXbK"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Mon BB est f\u00e2ch\u00e9",
-        "url": "https://open.spotify.com/album/40M1EoGKKxkGtBuV9MwhYU"
-      },
-      "artists": [
-        {
-          "name": "DJ Tutuss",
-          "url": "https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv"
-        },
-        {
-          "name": "Meryl",
-          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
-        },
-        {
-          "name": "Le J\u00e8m'ss",
-          "url": "https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp"
-        }
-      ],
-      "duration_ms": 117600,
-      "name": "Mon BB est f\u00e2ch\u00e9",
-      "url": "https://open.spotify.com/track/6QAGhkjWPHdZCkYVIgwwIr"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-07 23:00:00",
       "album": {
         "name": "Hit & Run (feat. Masicka & Di Genius)",
         "url": "https://open.spotify.com/album/3vbNkltSdpHgFNwC9QB2dl"
@@ -585,27 +549,7 @@
       "url": "https://open.spotify.com/track/7hgY5a1FNiChuxoSZDyaMs"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "CODE 97, Vol. 1",
-        "url": "https://open.spotify.com/album/5F7gMyMowj4xlt1cYvAJEf"
-      },
-      "artists": [
-        {
-          "name": "Dj Quick",
-          "url": "https://open.spotify.com/artist/4tjoob53d4b26AjGJ49kuF"
-        },
-        {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Code 97",
-      "url": "https://open.spotify.com/track/756ErmT4AiOj7uQjFna3r6"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-07 23:00:00",
       "album": {
         "name": "Fi Fun",
         "url": "https://open.spotify.com/album/5NIa1wSj7qTAZeU6ykRNRi"
@@ -625,7 +569,207 @@
       "url": "https://open.spotify.com/track/6G6ClWuc24KdwsMEKJAwOO"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Mon BB est f\u00e2ch\u00e9",
+        "url": "https://open.spotify.com/album/40M1EoGKKxkGtBuV9MwhYU"
+      },
+      "artists": [
+        {
+          "name": "DJ Tutuss",
+          "url": "https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv"
+        },
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "Le J\u00e8m'ss",
+          "url": "https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp"
+        }
+      ],
+      "duration_ms": 117600,
+      "name": "Mon BB est f\u00e2ch\u00e9",
+      "url": "https://open.spotify.com/track/6QAGhkjWPHdZCkYVIgwwIr"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "TIGALING",
+        "url": "https://open.spotify.com/album/5WvFSW1k8cMdlwuvD2GHRB"
+      },
+      "artists": [
+        {
+          "name": "TMatt",
+          "url": "https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ"
+        },
+        {
+          "name": "Tidem",
+          "url": "https://open.spotify.com/artist/2E86rOTzsbqRPOD6ejctKt"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "TIGALING",
+      "url": "https://open.spotify.com/track/2DTMb1ILWRWkv5BLVPo95P"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "FEELING",
+        "url": "https://open.spotify.com/album/3xEKgdbD7hpeKa35uvjtJ8"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "duration_ms": 102276,
+      "name": "FEELING",
+      "url": "https://open.spotify.com/track/4ER1c7cbu2CUfcAcNk3ZIz"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Whippin",
+        "url": "https://open.spotify.com/album/0bMNXPD81ovzEyjdY54kv0"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Ayewai",
+          "url": "https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3"
+        }
+      ],
+      "duration_ms": 157935,
+      "name": "Whippin",
+      "url": "https://open.spotify.com/track/73jr3utBPfn5ro0m4v2YQV"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Coco L\u00e9tan Zabrico",
+        "url": "https://open.spotify.com/album/1fNdxmKpbqaq0IqDjJbYmQ"
+      },
+      "artists": [
+        {
+          "name": "T-Jy",
+          "url": "https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta"
+        }
+      ],
+      "duration_ms": 100645,
+      "name": "Coco L\u00e9tan Zabrico",
+      "url": "https://open.spotify.com/track/5HKdXF1Z3x4lyeRZ2krXbK"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Pepper",
+        "url": "https://open.spotify.com/album/3ER9n0Pq3mhv2q60sLwKNc"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        }
+      ],
+      "duration_ms": 178923,
+      "name": "Pepper",
+      "url": "https://open.spotify.com/track/4nWR7LePb1UtsVqwXBJBa8"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Qualit\u00e9",
+        "url": "https://open.spotify.com/album/54ULitNuD0GROfYUTMLiWy"
+      },
+      "artists": [
+        {
+          "name": "X-Man",
+          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
+        },
+        {
+          "name": "Dj Nov",
+          "url": "https://open.spotify.com/artist/6frHZVRnz46yN6GUrmQ9VQ"
+        }
+      ],
+      "duration_ms": 136462,
+      "name": "Qualit\u00e9",
+      "url": "https://open.spotify.com/track/7r8dcIJooLJbDtr38makB2"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "BONBON",
+        "url": "https://open.spotify.com/album/5lF0CGYmGGL40hseludKyo"
+      },
+      "artists": [
+        {
+          "name": "TMatt",
+          "url": "https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ"
+        },
+        {
+          "name": "DJ PHIL",
+          "url": "https://open.spotify.com/artist/2Yc5AMLoJadf2uqow6ex9G"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "BONBON",
+      "url": "https://open.spotify.com/track/1RYyZOfxHdNRP8iddTFsr4"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "TOC",
+        "url": "https://open.spotify.com/album/53oHWB3oUVwKxojvgnY3aQ"
+      },
+      "artists": [
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        },
+        {
+          "name": "JYEUHAIR",
+          "url": "https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn"
+        }
+      ],
+      "duration_ms": 135226,
+      "name": "TOC",
+      "url": "https://open.spotify.com/track/6yyEHGjIktiSHIr3lXX3pn"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "No Follow",
+        "url": "https://open.spotify.com/album/0iWLZTpHioac1sUdC5ySQB"
+      },
+      "artists": [
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "Red Rat",
+          "url": "https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh"
+        },
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+        }
+      ],
+      "duration_ms": 171197,
+      "name": "No Follow",
+      "url": "https://open.spotify.com/track/6u7kaJxH3ZcSuaautLweli"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
       "album": {
         "name": "C Carr\u00e9",
         "url": "https://open.spotify.com/album/2rnldmO2YRl8aB0Kxtkd8H"
@@ -649,47 +793,7 @@
       "url": "https://open.spotify.com/track/1iLEeAsDP8zDExqOweU09v"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Whippin",
-        "url": "https://open.spotify.com/album/0bMNXPD81ovzEyjdY54kv0"
-      },
-      "artists": [
-        {
-          "name": "DJ Kawest",
-          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
-        },
-        {
-          "name": "Ayewai",
-          "url": "https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3"
-        }
-      ],
-      "duration_ms": 157935,
-      "name": "Whippin",
-      "url": "https://open.spotify.com/track/73jr3utBPfn5ro0m4v2YQV"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "TIGALING",
-        "url": "https://open.spotify.com/album/5WvFSW1k8cMdlwuvD2GHRB"
-      },
-      "artists": [
-        {
-          "name": "TMatt",
-          "url": "https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ"
-        },
-        {
-          "name": "Tidem",
-          "url": "https://open.spotify.com/artist/2E86rOTzsbqRPOD6ejctKt"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "TIGALING",
-      "url": "https://open.spotify.com/track/2DTMb1ILWRWkv5BLVPo95P"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-07 23:00:00",
       "album": {
         "name": "Favourite Girl",
         "url": "https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh"
@@ -709,47 +813,7 @@
       "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Qualit\u00e9",
-        "url": "https://open.spotify.com/album/54ULitNuD0GROfYUTMLiWy"
-      },
-      "artists": [
-        {
-          "name": "X-Man",
-          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
-        },
-        {
-          "name": "Dj Nov",
-          "url": "https://open.spotify.com/artist/6frHZVRnz46yN6GUrmQ9VQ"
-        }
-      ],
-      "duration_ms": 136462,
-      "name": "Qualit\u00e9",
-      "url": "https://open.spotify.com/track/7r8dcIJooLJbDtr38makB2"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Pepper",
-        "url": "https://open.spotify.com/album/3ER9n0Pq3mhv2q60sLwKNc"
-      },
-      "artists": [
-        {
-          "name": "DJ Kawest",
-          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
-        },
-        {
-          "name": "Jahyanai",
-          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
-        }
-      ],
-      "duration_ms": 178923,
-      "name": "Pepper",
-      "url": "https://open.spotify.com/track/4nWR7LePb1UtsVqwXBJBa8"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-07 23:00:00",
       "album": {
         "name": "Oui",
         "url": "https://open.spotify.com/album/0snaCpAQ7X3YNb3xWn124y"
@@ -763,66 +827,6 @@
       "duration_ms": 131632,
       "name": "Oui",
       "url": "https://open.spotify.com/track/7bAXEW1nHBSGgKgpnxozwB"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Sit Down",
-        "url": "https://open.spotify.com/album/6eTV0xMECRpjVsuDQMe9VN"
-      },
-      "artists": [
-        {
-          "name": "Lahrel",
-          "url": "https://open.spotify.com/artist/6QLId1xjDwBhWpk9TLfvZ5"
-        },
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        }
-      ],
-      "duration_ms": 158359,
-      "name": "Sit Down",
-      "url": "https://open.spotify.com/track/2yoSCIiSDgHGj71QRa2bjV"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "BONBON",
-        "url": "https://open.spotify.com/album/5lF0CGYmGGL40hseludKyo"
-      },
-      "artists": [
-        {
-          "name": "TMatt",
-          "url": "https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ"
-        },
-        {
-          "name": "DJ PHIL",
-          "url": "https://open.spotify.com/artist/2Yc5AMLoJadf2uqow6ex9G"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "BONBON",
-      "url": "https://open.spotify.com/track/1RYyZOfxHdNRP8iddTFsr4"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "TOC",
-        "url": "https://open.spotify.com/album/53oHWB3oUVwKxojvgnY3aQ"
-      },
-      "artists": [
-        {
-          "name": "Maureen",
-          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
-        },
-        {
-          "name": "JYEUHAIR",
-          "url": "https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn"
-        }
-      ],
-      "duration_ms": 135226,
-      "name": "TOC",
-      "url": "https://open.spotify.com/track/6yyEHGjIktiSHIr3lXX3pn"
     }
   ],
   "unique_name": "Dancehall Station",

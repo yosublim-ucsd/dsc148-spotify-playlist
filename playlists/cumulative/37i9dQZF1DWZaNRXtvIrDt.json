@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. Cover: Skeleten",
+  "description": "A new world of alternative electronic music. Cover: Champion, Four Tet, Skrillex, Naisha",
   "name": "Portal",
   "tracks": [
     {
@@ -918,6 +918,24 @@
       "duration_ms": 177397,
       "name": "Always Wondered (with harvest)",
       "url": "https://open.spotify.com/track/0VUUkYPWuZ7uYzKFLQRxhz"
+    },
+    {
+      "album": {
+        "name": "Strawberry Hotel",
+        "url": "https://open.spotify.com/album/3Z15B9bbxGXA6QJAa6kJMR"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342000,
+      "name": "and the colour red",
+      "url": "https://open.spotify.com/track/6ceDsKgry3EYs6DeDpASBU"
     },
     {
       "album": {
@@ -2039,6 +2057,24 @@
     },
     {
       "album": {
+        "name": "Blue Light",
+        "url": "https://open.spotify.com/album/4N721gRUUOQBwfAaPoJlt7"
+      },
+      "artists": [
+        {
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236434,
+      "name": "Blue Light",
+      "url": "https://open.spotify.com/track/72ikMuRcLGZZxzNOJTRNha"
+    },
+    {
+      "album": {
         "name": "Blue Lights",
         "url": "https://open.spotify.com/album/1ZsDpgACrpIQ2w4qctiPF7"
       },
@@ -2300,6 +2336,24 @@
       "duration_ms": 154666,
       "name": "BREAK IT DOWN (ON THE BASSLINE)",
       "url": "https://open.spotify.com/track/1poGDt4f2MB2q9m1lsBwAB"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/0ssw8apRnRhrY2TW3lyUtu"
+      },
+      "artists": [
+        {
+          "name": "ST\u00dcM",
+          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208001,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/5j90IWDNHSJpCzPpzB58pz"
     },
     {
       "album": {
@@ -4788,7 +4842,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 257928,
       "name": "Face Melter",
       "url": "https://open.spotify.com/track/2IL6jnAhMa6VaTKX5QIJmG"
@@ -5689,6 +5743,32 @@
     },
     {
       "album": {
+        "name": "FWU (Remixes)",
+        "url": "https://open.spotify.com/album/7hHkw8xeYoh6w5XDblCGKF"
+      },
+      "artists": [
+        {
+          "name": "Djanaba",
+          "url": "https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr"
+        },
+        {
+          "name": "CHISEKO",
+          "url": "https://open.spotify.com/artist/5Z7R9YTOZFv7zC9Ns1gPMS"
+        },
+        {
+          "name": "YO! MAFIA",
+          "url": "https://open.spotify.com/artist/0RGy0B9hZBjDyn2pbDtvyW"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177514,
+      "name": "FWU - YO! MAFIA Remix",
+      "url": "https://open.spotify.com/track/0b47cBMnQIZNzd9v53SuOC"
+    },
+    {
+      "album": {
         "name": "G2G",
         "url": "https://open.spotify.com/album/0ftIe4p25KC3ucBr5TPgJV"
       },
@@ -6106,7 +6186,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 237401,
       "name": "Guard",
       "url": "https://open.spotify.com/track/5yRmVMYalxdqNj5ef2EEkm"
@@ -6182,7 +6262,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 212927,
       "name": "Half Alive",
       "url": "https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe"
@@ -9277,6 +9357,24 @@
     },
     {
       "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/2yi5KKO07WqvhfXTzA3itG"
+      },
+      "artists": [
+        {
+          "name": "Hotham",
+          "url": "https://open.spotify.com/artist/3ygKK0BEUFKnjfhjzIMNSx"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215409,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/5Xzbul8gOmnFaXOGkboLwW"
+    },
+    {
+      "album": {
         "name": "MRI",
         "url": "https://open.spotify.com/album/4YaftMvjXjOBE4aQe0sGel"
       },
@@ -9690,7 +9788,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 358608,
       "name": "No Chance Where I Come From - Garden City Movement Remix",
       "url": "https://open.spotify.com/track/4XJUoUAxNlP7a2eO3h5RaS"
@@ -10951,6 +11049,24 @@
     },
     {
       "album": {
+        "name": "THE ALLEYS MIX SERIES 012 (DJ Mix)",
+        "url": "https://open.spotify.com/album/5REYTJ0Q2AAvyjBmFNwwl1"
+      },
+      "artists": [
+        {
+          "name": "Montw",
+          "url": "https://open.spotify.com/artist/3Fb5v6sdSj7ctBH6fyYgpL"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413658,
+      "name": "Radiant - Mixed",
+      "url": "https://open.spotify.com/track/6ylG0n9HatmW8nNCHyt8Xj"
+    },
+    {
+      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1"
       },
@@ -11240,6 +11356,24 @@
       "duration_ms": 380548,
       "name": "Residential Advisor",
       "url": "https://open.spotify.com/track/5HIodb5frj7GelmmE134cI"
+    },
+    {
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/5o3lrb6NCyEJT65AnSmV3N"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210194,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/6wzMevey2rDXo0e1POZ67m"
     },
     {
       "album": {
@@ -12827,6 +12961,24 @@
     },
     {
       "album": {
+        "name": "Sthlm In My <3",
+        "url": "https://open.spotify.com/album/4GHkgOqbKjs7YqQ8qADO23"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206865,
+      "name": "Sthlm In My <3",
+      "url": "https://open.spotify.com/track/7HrlxmJTE4B3HGFxPcUy2M"
+    },
+    {
+      "album": {
         "name": "Stick Em Up",
         "url": "https://open.spotify.com/album/6aTNwya65cwJGXDkPUyFtc"
       },
@@ -13445,6 +13597,36 @@
     },
     {
       "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Naisha",
+          "url": "https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232984,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
+    },
+    {
+      "album": {
         "name": "Tanzanite",
         "url": "https://open.spotify.com/album/0IIQTttDme6VWdHbpNHLh2"
       },
@@ -13656,6 +13838,24 @@
       "duration_ms": 326232,
       "name": "Territory Day",
       "url": "https://open.spotify.com/track/2dCiAgUGQFIYrTElfh2kyS"
+    },
+    {
+      "album": {
+        "name": "The Beat",
+        "url": "https://open.spotify.com/album/3pQPr1qVBJtnW7yyHTrgOY"
+      },
+      "artists": [
+        {
+          "name": "William Kiss",
+          "url": "https://open.spotify.com/artist/2AI2RMWWeOAhkMhrQgxyNx"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355419,
+      "name": "The Beat",
+      "url": "https://open.spotify.com/track/0XWsx1rTJqE6VG7pqr6CNf"
     },
     {
       "album": {
@@ -14656,7 +14856,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 208334,
       "name": "Waited All Night",
       "url": "https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb"
@@ -15560,6 +15760,24 @@
       "duration_ms": 342463,
       "name": "Zwarte Pad",
       "url": "https://open.spotify.com/track/03YyIDJad7Pdk0IGczwzwJ"
+    },
+    {
+      "album": {
+        "name": "~T8_8T~",
+        "url": "https://open.spotify.com/album/0QUPAu1mU7NSRxRLBbSQa3"
+      },
+      "artists": [
+        {
+          "name": "Cousin",
+          "url": "https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398722,
+      "name": "~T8_8T~",
+      "url": "https://open.spotify.com/track/4xdwPqtFwYgZw2XGKz77uZ"
     },
     {
       "album": {

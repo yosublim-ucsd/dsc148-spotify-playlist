@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Rangga Jones",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: Jordan Rakei, STUTS",
   "name": "mood.",
   "tracks": [
     {
@@ -894,7 +894,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 97250,
       "name": "APRIL'S COLD FEET",
       "url": "https://open.spotify.com/track/6xyZpoycyhytaa361QBvCp"
@@ -2580,6 +2580,28 @@
       "duration_ms": 230795,
       "name": "Caught Up",
       "url": "https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ"
+    },
+    {
+      "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223443,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
     },
     {
       "album": {
@@ -4968,7 +4990,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 212442,
       "name": "FAVORITE",
       "url": "https://open.spotify.com/track/60yQbWJmWcawlhxalDuLkE"
@@ -5502,7 +5524,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 222670,
       "name": "Fool's Gold",
       "url": "https://open.spotify.com/track/7xbHORJDZ9hGaaJHBVnOhe"
@@ -6140,7 +6162,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 240000,
       "name": "GOLDTEETH",
       "url": "https://open.spotify.com/track/6jZRXmqM2TqQVjMFaFoeaS"
@@ -8548,7 +8570,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 156282,
       "name": "Joint 4 U",
       "url": "https://open.spotify.com/track/3o0Zse7jMU11E8d7cWoi6w"
@@ -9659,6 +9681,32 @@
     },
     {
       "album": {
+        "name": "love you more",
+        "url": "https://open.spotify.com/album/6xd4NcJWAoxQnpWwjfeT1b"
+      },
+      "artists": [
+        {
+          "name": "Kee'ahn",
+          "url": "https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL"
+        },
+        {
+          "name": "Jake Amy",
+          "url": "https://open.spotify.com/artist/0l3S7lX3Tx1oHawkWZv4Gz"
+        },
+        {
+          "name": "Anthony Liddell",
+          "url": "https://open.spotify.com/artist/5EROmQprkIlm8uVLWjo3Ql"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139019,
+      "name": "love you more",
+      "url": "https://open.spotify.com/track/6lGyKdsX8VQpWIe6Bf3iaa"
+    },
+    {
+      "album": {
         "name": "lover boy",
         "url": "https://open.spotify.com/album/5gd0orG7lr0NceVcjgUxh9"
       },
@@ -10031,6 +10079,24 @@
     },
     {
       "album": {
+        "name": "Makeup Sex",
+        "url": "https://open.spotify.com/album/69Of4FT2cUGxJXTe8hZmsp"
+      },
+      "artists": [
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164961,
+      "name": "Makeup Sex",
+      "url": "https://open.spotify.com/track/6F4s7LAs3jZKo2Rn7TpIhf"
+    },
+    {
+      "album": {
         "name": "Time & Pace",
         "url": "https://open.spotify.com/album/023N0ahL3qb90oQw29uhLQ"
       },
@@ -10068,6 +10134,24 @@
       "duration_ms": 161986,
       "name": "maraschino",
       "url": "https://open.spotify.com/track/5DSB71uDcChPUK9EjFHWvZ"
+    },
+    {
+      "album": {
+        "name": "Marilag",
+        "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157692,
+      "name": "Marilag",
+      "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
     },
     {
       "album": {
@@ -10444,6 +10528,28 @@
       "duration_ms": 216875,
       "name": "Mind Your Space",
       "url": "https://open.spotify.com/track/4Iao21dcXMdiUhg0bZupeI"
+    },
+    {
+      "album": {
+        "name": "Mindset",
+        "url": "https://open.spotify.com/album/1jyQeLQXGX3RI1WRMKUhMR"
+      },
+      "artists": [
+        {
+          "name": "Haven",
+          "url": "https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F"
+        },
+        {
+          "name": "WILD",
+          "url": "https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190285,
+      "name": "Mindset",
+      "url": "https://open.spotify.com/track/5XJm3lWxrPPYI6NrjYik5G"
     },
     {
       "album": {
@@ -11076,7 +11182,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 174000,
       "name": "Nirvana Blues",
       "url": "https://open.spotify.com/track/7Kg4EWw7TSiXAczXDQfhSn"
@@ -11218,7 +11324,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 116550,
       "name": "No One Else",
       "url": "https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG"
@@ -11840,7 +11946,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 206052,
       "name": "OTNW",
       "url": "https://open.spotify.com/track/0GxBWLwTRnpM6HUTu6Kde0"
@@ -13358,7 +13464,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 168093,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3urRYZm3Xws15GeNNoqs7y"
@@ -14715,6 +14821,24 @@
     },
     {
       "album": {
+        "name": "Feel The Same Way",
+        "url": "https://open.spotify.com/album/3n3G62uIEVtmBLob5YcxFK"
+      },
+      "artists": [
+        {
+          "name": "Olympia",
+          "url": "https://open.spotify.com/artist/25EmaRTU27MwKGwEieeBqV"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195625,
+      "name": "Soul 2 Soul",
+      "url": "https://open.spotify.com/track/6G8cmxMFlWM3bUUE4R3aoY"
+    },
+    {
+      "album": {
         "name": "Sound of Smoke",
         "url": "https://open.spotify.com/album/25IaHNxGHV3bc3620r634Q"
       },
@@ -15657,6 +15781,28 @@
     },
     {
       "album": {
+        "name": "Sweet Nothings (Chapter 2)",
+        "url": "https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        },
+        {
+          "name": "Jay R",
+          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159250,
+      "name": "sweet nothings",
+      "url": "https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip"
+    },
+    {
+      "album": {
         "name": "NOICE",
         "url": "https://open.spotify.com/album/5iSkQWeQWVlnUUkUfjfZQ7"
       },
@@ -15748,6 +15894,24 @@
       "duration_ms": 238306,
       "name": "Talk 2 Me Nice",
       "url": "https://open.spotify.com/track/729F2Yqzq0h67aCpFzZBeY"
+    },
+    {
+      "album": {
+        "name": "talk to me",
+        "url": "https://open.spotify.com/album/1IVucKXEFoi7YTwrBNBA9b"
+      },
+      "artists": [
+        {
+          "name": "starfall",
+          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160629,
+      "name": "talk to me",
+      "url": "https://open.spotify.com/track/4m1Qw2bLggqiXjasXVp28N"
     },
     {
       "album": {
@@ -16344,6 +16508,24 @@
       "duration_ms": 236202,
       "name": "THE RAIN",
       "url": "https://open.spotify.com/track/2A0FKNwmhilh0eYdN9eZp4"
+    },
+    {
+      "album": {
+        "name": "Push&Pull",
+        "url": "https://open.spotify.com/album/0WzcMeriAjLqUAMGdT0YGH"
+      },
+      "artists": [
+        {
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163308,
+      "name": "The Test",
+      "url": "https://open.spotify.com/track/1HcWAYTGv931OOK0aUIcAv"
     },
     {
       "album": {
@@ -17130,7 +17312,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 173000,
       "name": "twin flames",
       "url": "https://open.spotify.com/track/0Ik9LPqXs0DYConyjqvEFR"
@@ -17526,7 +17708,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 182400,
       "name": "Vibin'",
       "url": "https://open.spotify.com/track/1JNyTBzuW5boU3PltBjTzp"

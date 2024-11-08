@@ -4,7 +4,7 @@
 
 > Öll bestu lögin í augnablikinu!
 
-93 songs - 4 hr 52 min
+96 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-13 |  |
 | [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 | 2024-06-21 | 2024-07-27 |
 | [KOSS Á ÞIG \(Áramótaskaup 2023\)](https://open.spotify.com/track/4swi74n7WyfQUFxVTIXnmB) | [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4), [Þormóður](https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv) | [KOSS Á ÞIG \(Áramótaskaup 2023\)](https://open.spotify.com/album/04ilaNnJNBvla2NbiVZEB2) | 2:31 | 2024-06-21 | 2024-07-27 |
+| [Leika Með Mig](https://open.spotify.com/track/6Mom66l7hvEsax3kRWQ2yu) | [Luigi](https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN), [Ingi Bauer](https://open.spotify.com/artist/4ynaUZA4BVF6d2XaNuflVz) | [Alltaf Sami Lui](https://open.spotify.com/album/4DSyJMDy6Dxzxvkrxu8WGD) | 2:49 | 2024-11-08 |  |
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-06-21 | 2024-08-30 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-21 |  |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-06-21 | 2024-10-11 |
@@ -80,8 +81,10 @@
 | [So Long, London](https://open.spotify.com/track/0mWVScJbxO3tbXuiZOxYZE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/3f6e4wXxxi4ahqWsSU7OpT) | 4:22 | 2024-06-21 | 2024-09-06 |
 | [Sorry memmig](https://open.spotify.com/track/2kJLPJS9wWpoJgK7nvHhk5) | [PATR!K](https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2) | [PBT 2.0](https://open.spotify.com/album/3Mrz2JSDKfvEwDCyI0xLLe) | 2:43 | 2024-06-21 | 2024-10-22 |
 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 | 2024-09-20 |  |
+| [St\. Chroma \(feat\. Daniel Caesar\)](https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 3:17 | 2024-11-08 |  |
 | [Stars Will Align](https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Stars Will Align](https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj) | 3:54 | 2024-09-27 |  |
 | [STJÖRNUSTÆLAR](https://open.spotify.com/track/6bY9SWpW1GyCcZS64ttPae) | [PATR!K](https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2) | [STJÖRNUSTÆLAR](https://open.spotify.com/album/3CN59Yc8MiER2JnboAPOqF) | 2:44 | 2024-10-04 |  |
+| [Svartklæddir](https://open.spotify.com/track/7uimUbWqPGvuwzelOsBSAD) | [Floni](https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7) | [Floni 3](https://open.spotify.com/album/6nmYHhJKPNm5KjhBI7bBL5) | 3:09 | 2024-11-08 |  |
 | [Sympathy is a knife featuring ariana grande](https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:34 | 2024-10-11 |  |
 | [Sólinni](https://open.spotify.com/track/6096fQMsntByvgFdpnvQ2e) | [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU), [Aron Can](https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW) | [Sólinni](https://open.spotify.com/album/23Y4b5qrZNx3GmtT5osZd1) | 3:06 | 2024-06-21 |  |
 | [Tala minn skít](https://open.spotify.com/track/08gGODSrgb09P0yyl9Hx7B) | [Saint Pete](https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd), [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4) | [Græni Pakkinn](https://open.spotify.com/album/1NMZaN57GOuC3pGSSwOOQg) | 5:23 | 2024-08-16 |  |

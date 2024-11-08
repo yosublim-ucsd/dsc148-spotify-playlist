@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 231250,
       "name": "Burning",
       "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
@@ -178,10 +178,28 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 234480,
       "name": "Burning - English ver.",
       "url": "https://open.spotify.com/track/6d4gP8ZGP9eHnexHj4Fqhb"
+    },
+    {
+      "album": {
+        "name": "Pink",
+        "url": "https://open.spotify.com/album/2LUEQdAWtMbGwzlUm4STTz"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/11XXERdBUPHGsCBbpyaMwz"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266345,
+      "name": "Butterfly Effect",
+      "url": "https://open.spotify.com/track/0sps5YsUzFCDFxpADH02Cw"
     },
     {
       "album": {
@@ -886,7 +904,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 227268,
       "name": "Imagination and Creation",
       "url": "https://open.spotify.com/track/4W8OK7sBpV2VIUUsQmh45L"
@@ -940,7 +958,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 286000,
       "name": "It's Got Me Again",
       "url": "https://open.spotify.com/track/48uNFXgtrVUIRBfhnbo37P"
@@ -1030,7 +1048,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 65203,
       "name": "Just.",
       "url": "https://open.spotify.com/track/3Yaajfj3UQmyjzqwKm8uge"
@@ -1092,7 +1110,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 194250,
       "name": "Kota Lelah",
       "url": "https://open.spotify.com/track/4N4nalAYeIlr70eSbJDKvs"
@@ -1254,7 +1272,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 316106,
       "name": "Maybe Somewhere",
       "url": "https://open.spotify.com/track/1MMQVrSaKBllpbepX3zCho"
@@ -1528,6 +1546,24 @@
       "duration_ms": 228500,
       "name": "Nothing Shaped Hearts",
       "url": "https://open.spotify.com/track/4wEgu6sCB96TB1SSUNTFkh"
+    },
+    {
+      "album": {
+        "name": "Catflap",
+        "url": "https://open.spotify.com/album/5BdtL5nKzSEgRrdXqOFTqa"
+      },
+      "artists": [
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Ocean Song",
+      "url": "https://open.spotify.com/track/5BdN7AYSSSsAZvob5jA1wZ"
     },
     {
       "album": {
@@ -2010,7 +2046,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 276077,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/6vo7lsIDO64i9a4wgh5TbC"

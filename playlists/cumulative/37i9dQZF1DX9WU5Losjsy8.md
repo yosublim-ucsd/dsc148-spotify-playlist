@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9WU5Losjsy8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9WU5Losjsy8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9WU5Losjsy8)
 
-### [Wiesn Party 2024](https://open.spotify.com/playlist/37i9dQZF1DX9WU5Losjsy8)
+### [Après Ski Party 2024](https://open.spotify.com/playlist/37i9dQZF1DX9WU5Losjsy8)
 
-> Ein Prosit der Gemütlichkeit
+> Von Ischgl bis Obertauern\. Après\-Ski ist nur einmal im Jahr!
 
-152 songs - 7 hr 43 min
+154 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,8 @@
 | [Auf zum Après Ski](https://open.spotify.com/track/0VZwMxEWzsB1cwuZmBOdUj) | [Der Partycrasher](https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf) | [Auf zum Après Ski](https://open.spotify.com/album/477vKzPQAO1fCKl7k1TPto) | 2:57 | 2024-02-15 | 2024-03-28 |
 | [Auf zum Ballermann](https://open.spotify.com/track/0rezO1PbE9WhVJhhkX8YOA) | [Der Partycrasher](https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf) | [Auf zum Ballermann](https://open.spotify.com/album/2NP14eC2JTyCjnprDgNHxR) | 2:58 | 2024-04-30 |  |
 | [Auffe aufn Berg](https://open.spotify.com/track/4jNkEyCYTfCavAOHgtBsCz) | [Jägermeister DJ Alex](https://open.spotify.com/artist/1Ob4fbwSOaJu4rbx79jJMk), [Matty Valentino](https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h) | [Auffe aufn Berg](https://open.spotify.com/album/1MsuuxBavwmlg23A2KapAr) | 3:51 | 2024-02-08 | 2024-03-28 |
+| [Bayern](https://open.spotify.com/track/3oAr0vS5s6nBzxxwBkwknF) | [Haindling](https://open.spotify.com/artist/3oHgkMmch5iJdxxcdejYI5) | [Zwischenlandung](https://open.spotify.com/album/344ZdjOsSbIcDsHpg0Hqkz) | 3:13 | 2024-11-07 |  |
+| [Bella Napoli](https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Mille Grazie](https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD) | 3:55 | 2024-11-07 |  |
 | [BIER](https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA) | [Drunken Masters](https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q), [Maxim K.I.Z](https://open.spotify.com/artist/4ol4AQkp02j1FQuQ4uGH1k), [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [BIER](https://open.spotify.com/album/2SDMGLfkqgDiysROV2CfhC) | 2:09 | 2023-07-14 |  |
 | [BIERBAUCH🍺](https://open.spotify.com/track/58AhzC7faLBXUFyu9XQQwo) | [Andi schiebt anders](https://open.spotify.com/artist/0Q0sIZyJbKnxvo5Vt7SsqC) | [BIERBAUCH🍺](https://open.spotify.com/album/5xjoCoZ8l3Bot75FwbGwEO) | 2:06 | 2024-04-24 | 2024-07-24 |
 | [Bierkapitän](https://open.spotify.com/track/2Z4KnwY4Br79ApyyKjbOHv) | [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD) | [Bierkapitän](https://open.spotify.com/album/03XXTzsrfTq1Ia0MpNUZUC) | 3:30 | 2023-08-28 | 2024-04-04 |
@@ -37,7 +39,7 @@
 | [Bumsbar](https://open.spotify.com/track/4Q0B9Rb7PK8tbmQBWB7KDN) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ), [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [Nummer Eins](https://open.spotify.com/album/4LsbC8kqRWTfexA75JsX6J) | 2:30 | 2023-12-19 | 2024-04-19 |
 | [Bumsbar](https://open.spotify.com/track/62NrIrsxxNXJVvtRivWYjM) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ), [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [Bumsbar](https://open.spotify.com/album/5scHLxNmarpll2bsmIP9ny) | 2:30 | 2023-07-14 | 2023-12-08 |
 | [Can You English Please](https://open.spotify.com/track/3WzhNUlB14b15XLDm2dQHi) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Mitten in die Scheibe](https://open.spotify.com/album/0CrQz7CcWSBMlgJGDHcQdS) | 2:47 | 2023-07-14 | 2024-04-19 |
-| [Ciao 3 Tage Blau](https://open.spotify.com/track/3AZ24YPWIpb82PaduK1FZS) | [David Dichter](https://open.spotify.com/artist/74h8vjazetNDShaoBT7Oxj), [Inki Nici](https://open.spotify.com/artist/6XImI4RFNKNPL82h8eRTxP), [Dj Aaron](https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ) | [Ciao 3 Tage Blau](https://open.spotify.com/album/0UspjAHvU9oPeNgoyGK5gw) | 3:08 | 2023-07-14 |  |
+| [Ciao 3 Tage Blau](https://open.spotify.com/track/3AZ24YPWIpb82PaduK1FZS) | [David Dichter](https://open.spotify.com/artist/74h8vjazetNDShaoBT7Oxj), [Inki Nici](https://open.spotify.com/artist/6XImI4RFNKNPL82h8eRTxP), [Dj Aaron](https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ) | [Ciao 3 Tage Blau](https://open.spotify.com/album/0UspjAHvU9oPeNgoyGK5gw) | 3:08 | 2023-07-14 | 2024-11-08 |
 | [Dann leg ich Schlager auf](https://open.spotify.com/track/21YH3LX7O0uayHWOmDGPbL) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q), [Tim Toupet](https://open.spotify.com/artist/6bt8AKXF0E1m0IoI0o5I4N) | [Dann leg ich Schlager auf](https://open.spotify.com/album/3Hod9KyrcwiuI6SWzspYAg) | 2:51 | 2024-10-18 |  |
 | [Das geht ab \- Wir feiern die ganze Nacht](https://open.spotify.com/track/0TvcLuXOCVXQZwspgXPOZb) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu) | [Atzen Musik Vol.1, 2 & 3](https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh) | 3:29 | 2023-07-14 |  |
 | [Delfin](https://open.spotify.com/track/4jAHH8WkHiJQP9JlW2PlEi) | [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Delfin](https://open.spotify.com/album/1mJVITyXpxZqITt9O5iS5i) | 2:55 | 2023-07-14 | 2024-01-19 |
@@ -145,7 +147,7 @@
 | [Senorita](https://open.spotify.com/track/5OHOykHs3Ct2pgbqod8uMD) | [Kay One](https://open.spotify.com/artist/6VjbeCqoayiHYnefrisskv), [Pietro Lombardi](https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0) | [Senorita](https://open.spotify.com/album/7sC0Co4ka745oGeBfB3Bhk) | 3:58 | 2023-08-28 | 2024-08-12 |
 | [Skandal!](https://open.spotify.com/track/0fd2RUyWXauYxN8Vu3UnLo) | [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai), [Almklausi](https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK), [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD) | [Skandal!](https://open.spotify.com/album/2fFV1SfNw2nAO0ANVWQQYc) | 2:52 | 2024-04-24 | 2024-06-18 |
 | [So viel gemeinsam](https://open.spotify.com/track/3iyH9HYxpRskunFjMF8F7O) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [So viel gemeinsam](https://open.spotify.com/album/6YiV531P44nWmCr2E6PvPl) | 2:16 | 2023-07-14 | 2023-08-04 |
-| [Sorry](https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc) | [Sorry](https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u) | 2:24 | 2023-07-14 |  |
+| [Sorry](https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc) | [Sorry](https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u) | 2:24 | 2023-07-14 | 2024-11-08 |
 | [Strobo Pop](https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu), [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Party Chaos](https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS) | 3:14 | 2023-07-14 |  |
 | [Sweet Caroline \- Party Remix](https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Sweet Caroline \(Party Remix\)](https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93) | 3:26 | 2024-02-08 |  |
 | [VAMOS](https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF) | [VAMOS](https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO) | 2:29 | 2023-07-14 |  |

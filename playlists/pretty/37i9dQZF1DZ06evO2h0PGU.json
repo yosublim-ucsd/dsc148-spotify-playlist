@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 46999,
+  "num_followers": 47021,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZylgAAAAAAAjEGKKR1CQghhl/r/19PEp",
+  "snapshot_id": "ZyqxgAAAAAAMozf3G2SbYs0bBE7rjJhu",
   "tracks": [
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
+        "name": "Mosquito (Deluxe)",
+        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 313386,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3L8hWvsXThAM7PMuxjrpK1"
+      "duration_ms": 288546,
+      "name": "Despair",
+      "url": "https://open.spotify.com/track/79zhandwZPrlTWemEpIgxy"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mosquito (Deluxe)",
-        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 288546,
-      "name": "Despair",
-      "url": "https://open.spotify.com/track/79zhandwZPrlTWemEpIgxy"
+      "duration_ms": 313386,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3L8hWvsXThAM7PMuxjrpK1"
     },
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Blitz! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
+        "name": "IS IS",
+        "url": "https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 302160,
-      "name": "Skeletons",
-      "url": "https://open.spotify.com/track/4QDlcd4wAmmXXtKryfTxnO"
+      "duration_ms": 232933,
+      "name": "Down Boy",
+      "url": "https://open.spotify.com/track/3rJKyc4VZJtIVXHoNnZA4d"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "IS IS",
-        "url": "https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi"
+        "name": "It's Blitz! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 232933,
-      "name": "Down Boy",
-      "url": "https://open.spotify.com/track/3rJKyc4VZJtIVXHoNnZA4d"
+      "duration_ms": 302160,
+      "name": "Skeletons",
+      "url": "https://open.spotify.com/track/4QDlcd4wAmmXXtKryfTxnO"
     },
     {
       "added_at": null,

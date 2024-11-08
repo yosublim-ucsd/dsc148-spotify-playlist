@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Lowland Brothers",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Shaka Ponk",
   "name": "Volume France",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 302000,
       "name": "19",
       "url": "https://open.spotify.com/track/4lB101ERakGrODXAN1nubF"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 248880,
       "name": "Beauty and the Beat",
       "url": "https://open.spotify.com/track/22mWSz9nouFgzGrwdzCJvy"
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 316462,
       "name": "Corrosion",
       "url": "https://open.spotify.com/track/726OXe032q4HQ6r0sGQAsl"
@@ -1378,6 +1378,24 @@
       "duration_ms": 179982,
       "name": "Fake Generation",
       "url": "https://open.spotify.com/track/7spNRbmZcrrfmQ8ou1KmP9"
+    },
+    {
+      "album": {
+        "name": "Smoke & Mirrors",
+        "url": "https://open.spotify.com/album/0ljEwyBRhGnXmTrXlE1ROQ"
+      },
+      "artists": [
+        {
+          "name": "Bryan's Magic Tears",
+          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196253,
+      "name": "Fancy Cars",
+      "url": "https://open.spotify.com/track/2bIt3tsHidO0oEKNLl8BNk"
     },
     {
       "album": {
@@ -1742,6 +1760,24 @@
       "duration_ms": 257609,
       "name": "Hear Me Out",
       "url": "https://open.spotify.com/track/1Sh0phQGheIJBeEiNrdYjD"
+    },
+    {
+      "album": {
+        "name": "Shaka Ponk (Deluxe)",
+        "url": "https://open.spotify.com/album/1tlbZTls0X4MBXkfGM8Bj5"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127026,
+      "name": "Hell of a Sad Song",
+      "url": "https://open.spotify.com/track/3uMVMt2XteMBI2sgnEi1G8"
     },
     {
       "album": {
@@ -2390,7 +2426,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 217386,
       "name": "Le chant des cygnes - Single Version",
       "url": "https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo"
@@ -2610,6 +2646,24 @@
       "duration_ms": 199573,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/2fqmP6cuTPi6gqPZo5Grxn"
+    },
+    {
+      "album": {
+        "name": "Mains",
+        "url": "https://open.spotify.com/album/6O7z99w0dD9KS0rH4zDAqN"
+      },
+      "artists": [
+        {
+          "name": "Opinion",
+          "url": "https://open.spotify.com/artist/3K0sSzYbcJdN3FXAtjTXpm"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285799,
+      "name": "Mains",
+      "url": "https://open.spotify.com/track/2JLbQdTmeC6hre4GJO8LCt"
     },
     {
       "album": {
@@ -3157,6 +3211,24 @@
     },
     {
       "album": {
+        "name": "Painful Attraction",
+        "url": "https://open.spotify.com/album/43Eq97wg7bmKBwOWGxuzqf"
+      },
+      "artists": [
+        {
+          "name": "SUN",
+          "url": "https://open.spotify.com/artist/5EjzvshGaeIYnjdttJF6ZQ"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180280,
+      "name": "Painful Attraction",
+      "url": "https://open.spotify.com/track/2tS9FNOOTAFWxRbTzG6ngp"
+    },
+    {
+      "album": {
         "name": "Party Time",
         "url": "https://open.spotify.com/album/1nwvMYKPLiFwaDpT18Qm1q"
       },
@@ -3168,7 +3240,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 222931,
       "name": "Party Time",
       "url": "https://open.spotify.com/track/6yTVEdPeuypPkREZCOF9RJ"
@@ -3445,6 +3517,24 @@
     },
     {
       "album": {
+        "name": "Rival in the stadium",
+        "url": "https://open.spotify.com/album/7KL7RcebDGEH7F7IUv8mvf"
+      },
+      "artists": [
+        {
+          "name": "Uncut",
+          "url": "https://open.spotify.com/artist/1VnwZ4jMNVIsOnR2X5VwYs"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235279,
+      "name": "Rival in the stadium",
+      "url": "https://open.spotify.com/track/5hCiwFcVHx9LIge3QpFVIL"
+    },
+    {
+      "album": {
         "name": "Rosie",
         "url": "https://open.spotify.com/album/6vthyj2qxtKwzuTSZZWJWD"
       },
@@ -3514,7 +3604,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 197837,
       "name": "Sail Away",
       "url": "https://open.spotify.com/track/1zBKzHhW0JDglXhGuI0Yzh"
@@ -4202,6 +4292,46 @@
       "duration_ms": 139106,
       "name": "Superman",
       "url": "https://open.spotify.com/track/7qR4KI5JAf8n48wStSizic"
+    },
+    {
+      "album": {
+        "name": "Surviving Life",
+        "url": "https://open.spotify.com/album/1mUUamOnFE775Ktq1Vq9Dg"
+      },
+      "artists": [
+        {
+          "name": "FENCES \\\\\\\\",
+          "url": "https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241333,
+      "name": "Surviving Life",
+      "url": "https://open.spotify.com/track/7CiZdeYSyTQNk54gpbnVNz"
+    },
+    {
+      "album": {
+        "name": "Take Me Away When You Go",
+        "url": "https://open.spotify.com/album/3IfN5VTg8odtiMsdKWjAA4"
+      },
+      "artists": [
+        {
+          "name": "Basement Gary",
+          "url": "https://open.spotify.com/artist/7zse5STLZ5qD4mJEUU4tX5"
+        },
+        {
+          "name": "Elm Tree Circle",
+          "url": "https://open.spotify.com/artist/0exWPi1dCLZq8QlHCLTZh4"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144211,
+      "name": "Take Me Away When You Go",
+      "url": "https://open.spotify.com/track/37bXnEg4XoBeRPHBJJS6uS"
     },
     {
       "album": {
@@ -4966,7 +5096,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 205960,
       "name": "We Want Some Rock'n'Roll",
       "url": "https://open.spotify.com/track/6G6JwN19YV5NEeLovloTY5"

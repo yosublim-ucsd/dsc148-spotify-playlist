@@ -4,7 +4,7 @@
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-210 songs - 10 hr 35 min
+211 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Hood Famous](https://open.spotify.com/track/5iVYMQKl3OZi0ULxeKAkho) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Relentless](https://open.spotify.com/album/5RUFZa2yj47Co6rMWEJzwQ) | 2:56 | 2023-04-23 | 2024-03-28 |
 | [Howdy Hommies](https://open.spotify.com/track/5KZv0p9MQ2QGuSZeoPOnbe) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [Sensational](https://open.spotify.com/album/7BbuSjeZmKAaXYt22Av57u) | 2:22 | 2024-10-10 |  |
 | [Hukam](https://open.spotify.com/track/3CslTKRGmBGgEsCUnCfn67) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Hukam](https://open.spotify.com/album/1ljKOIBhak9Howa3dSDsGF) | 3:50 | 2023-03-18 | 2023-09-05 |
-| [I Know A Guy](https://open.spotify.com/track/1DFFzCDrgZRkRL4noqE6xd) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [RAK](https://open.spotify.com/artist/5fRjKFvGLlv4XCjkgWuPoT), [LXSH](https://open.spotify.com/artist/4xoF0p9MrhB4Qxh9sIwPaz) | [I Know A Guy](https://open.spotify.com/album/0GyPi7lYfWvD1SJwkjdRhc) | 4:31 | 2024-10-11 |  |
+| [I Know A Guy](https://open.spotify.com/track/1DFFzCDrgZRkRL4noqE6xd) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [RAK](https://open.spotify.com/artist/5fRjKFvGLlv4XCjkgWuPoT), [LXSH](https://open.spotify.com/artist/4xoF0p9MrhB4Qxh9sIwPaz) | [I Know A Guy](https://open.spotify.com/album/0GyPi7lYfWvD1SJwkjdRhc) | 4:31 | 2024-10-11 | 2024-11-08 |
 | [IDGAF \(feat\. Morrisson\)](https://open.spotify.com/track/7F5O2pMgNNjONTbdqQx9b3) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 2:56 | 2023-03-18 | 2023-04-24 |
 | [Image](https://open.spotify.com/track/5ezh8EaOW7Bfim0rtmpHKi) | [Teji Jassar](https://open.spotify.com/artist/3R3djRbqthCXs2LWCSSqmz), [TRIBE](https://open.spotify.com/artist/3GAJRXC59K8LIgPdTRxMjb), [Raaj The Rapper](https://open.spotify.com/artist/1o0aXVRVDpojoKrAUtp7Mo) | [Image](https://open.spotify.com/album/1tgfFrbFbbI7DuCfN1hWnY) | 3:19 | 2024-04-02 | 2024-07-19 |
 | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/track/1fOK4kKr4lCqQDV4rhLVvq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/4HhEO2x0yF6vdqvhHBrRMp) | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/album/3MtObjRseu7Tr6QIf6ud0d) | 2:58 | 2023-03-18 | 2024-03-05 |
@@ -143,6 +143,7 @@
 | [No Chance](https://open.spotify.com/track/0LIf9t9IkJmAqg3V7RmxFk) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [No Chance](https://open.spotify.com/album/09orbd2fmuhCVtN3CgNuts) | 2:15 | 2024-04-05 | 2024-08-31 |
 | [No Competition](https://open.spotify.com/track/1TRgZ55GFCKSbrTb62rmra) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [No Competition](https://open.spotify.com/album/68t62rh4vZdIErvhqQG4kq) | 3:25 | 2023-03-18 | 2023-04-24 |
 | [No Doubt](https://open.spotify.com/track/7CujCYXw1ZpeQWFlCtOxZb) | [AAB](https://open.spotify.com/artist/4o9CfyV6130rmK2V4TjMhP) | [No Doubt](https://open.spotify.com/album/3YZdTntXbeL8J3BczHkVso) | 2:04 | 2024-08-26 | 2024-09-07 |
+| [No Idea](https://open.spotify.com/track/3BPvdcvsczva4nGlIOgj40) | [Star Shah](https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E) | [No Idea](https://open.spotify.com/album/1iVNFwFko3LRHRnP78O0on) | 2:52 | 2024-11-07 |  |
 | [No Love](https://open.spotify.com/track/1ejy8AVI7k1SAlWeeKaZ60) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n), [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL) | [No Love](https://open.spotify.com/album/07SG5x4D5BLlrPcg0xBSZf) | 2:49 | 2024-01-05 | 2024-01-11 |
 | [No Love](https://open.spotify.com/track/6A2ZwOsMeomTIVhLvfXngC) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [jesp](https://open.spotify.com/artist/4A6FNKLHprsYDzim1SQAOJ), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n) | [No Love](https://open.spotify.com/album/6qrdcQLLTx6zzvtNpGkPru) | 2:49 | 2024-01-05 | 2024-01-24 |
 | [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2023-03-18 | 2024-03-29 |

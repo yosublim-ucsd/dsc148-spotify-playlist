@@ -1,12 +1,12 @@
 {
   "description": "This is Phoenix. The essential tracks, all in one playlist.",
-  "num_followers": 94729,
+  "num_followers": 94737,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZylgAAAAAADKgZWFX1qsERi3FKRpSCZX",
+  "snapshot_id": "ZyqxgAAAAAAhkmx/p2lZ4hciv87rpREt",
   "tracks": [
     {
       "added_at": null,
@@ -35,22 +35,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 266600,
-      "name": "If I Ever Feel Better",
-      "url": "https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 193106,
       "name": "1901",
       "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 266600,
+      "name": "If I Ever Feel Better",
+      "url": "https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V"
     },
     {
       "added_at": null,
@@ -103,22 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 197973,
-      "name": "Too Young",
-      "url": "https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 241640,
       "name": "Lisztomania",
       "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 197973,
+      "name": "Too Young",
+      "url": "https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB"
     },
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "Lasso",
+      "url": "https://open.spotify.com/track/29ceu4GvNpnHSfLeBL4O7W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Artefact (feat. Le\u00f3n Larregui)",
         "url": "https://open.spotify.com/album/1xknqSH8BF4brwlQlDjk0L"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 201586,
       "name": "Artefact (feat. Le\u00f3n Larregui)",
       "url": "https://open.spotify.com/track/2XvRfxK4qTbX9ZOloiomxv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 167840,
-      "name": "Lasso",
-      "url": "https://open.spotify.com/track/29ceu4GvNpnHSfLeBL4O7W"
     },
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "Entertainment",
+      "url": "https://open.spotify.com/track/1fyVtrPPWQ6vWnchDoJc7o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "Entertainment",
-      "url": "https://open.spotify.com/track/1fyVtrPPWQ6vWnchDoJc7o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alphabetical",
         "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
       },
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 185106,
-      "name": "Armistice",
-      "url": "https://open.spotify.com/track/0x1pUJuOfNh7nStPF1V0AK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bankrupt!",
         "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 228133,
       "name": "Trying To Be Cool",
       "url": "https://open.spotify.com/track/3adprsGoZuParw5pyhhLCc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 185106,
+      "name": "Armistice",
+      "url": "https://open.spotify.com/track/0x1pUJuOfNh7nStPF1V0AK"
     },
     {
       "added_at": null,
@@ -415,8 +415,24 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 247373,
+      "name": "J-Boy",
+      "url": "https://open.spotify.com/track/4Bu0XuiecALTHX3YWHOLml"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+        "url": "https://open.spotify.com/album/7g4qoHjkYvfFkXJEZCjtc1"
       },
       "artists": [
         {
@@ -426,7 +442,7 @@
       ],
       "duration_ms": 204106,
       "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/17O70WmNwEAhQGlGlZUzZp"
+      "url": "https://open.spotify.com/track/6Z8I9zzJb5WCAJkz6qBo7k"
     },
     {
       "added_at": null,
@@ -443,22 +459,6 @@
       "duration_ms": 301373,
       "name": "North",
       "url": "https://open.spotify.com/track/0k2TN25JrgWAFG5LRQMFD7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ti Amo",
-        "url": "https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 247373,
-      "name": "J-Boy",
-      "url": "https://open.spotify.com/track/4Bu0XuiecALTHX3YWHOLml"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Never Been Like That (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 196813,
-      "name": "Rally",
-      "url": "https://open.spotify.com/track/2n21r18BendiM8hynbe7XJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alphabetical",
         "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 213800,
       "name": "(You Can't Blame It On) Anybody",
       "url": "https://open.spotify.com/track/1kVa8X5Ifr6XVmn8XvC1iu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 196813,
+      "name": "Rally",
+      "url": "https://open.spotify.com/track/2n21r18BendiM8hynbe7XJ"
     },
     {
       "added_at": null,
@@ -543,38 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "Summer Days",
-      "url": "https://open.spotify.com/track/1g50RH5iSvlFwhHsRRNP9D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Never Been Like That (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 176186,
-      "name": "Lost and Found",
-      "url": "https://open.spotify.com/track/48vZNUF25E0Q35skL9QoZP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ti Amo",
         "url": "https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy"
       },
@@ -587,22 +555,6 @@
       "duration_ms": 205920,
       "name": "Ti Amo",
       "url": "https://open.spotify.com/track/5yE87rHl2tLsQqPM2igT4S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alpha Zulu",
-        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 302026,
-      "name": "Identical",
-      "url": "https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD"
     },
     {
       "added_at": null,
@@ -623,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
       },
       "artists": [
         {
@@ -632,15 +584,15 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 244813,
-      "name": "Chloroform",
-      "url": "https://open.spotify.com/track/55Gk9YGlpv5Tmloubm4jI6"
+      "duration_ms": 176186,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/48vZNUF25E0Q35skL9QoZP"
     },
     {
       "added_at": null,
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
       },
       "artists": [
         {
@@ -648,9 +600,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 300533,
-      "name": "Honeymoon",
-      "url": "https://open.spotify.com/track/5dtTD2LIqWk1GsB8y0zDur"
+      "duration_ms": 302026,
+      "name": "Identical",
+      "url": "https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD"
     },
     {
       "added_at": null,
@@ -671,6 +623,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "Summer Days",
+      "url": "https://open.spotify.com/track/1g50RH5iSvlFwhHsRRNP9D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 244813,
+      "name": "Chloroform",
+      "url": "https://open.spotify.com/track/0LucKGxWYkj2d0SHdx2WBh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heatwave",
         "url": "https://open.spotify.com/album/2fts6dbm4Wbd37s3YQSzXH"
       },
@@ -683,6 +667,38 @@
       "duration_ms": 259560,
       "name": "Heatwave",
       "url": "https://open.spotify.com/track/2W1ehC1GNSvUlWCKE5FSI5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 243733,
+      "name": "Fior di Latte",
+      "url": "https://open.spotify.com/track/1NJJObY1QxJhs5Xphq837L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 300533,
+      "name": "Honeymoon",
+      "url": "https://open.spotify.com/track/5dtTD2LIqWk1GsB8y0zDur"
     },
     {
       "added_at": null,
@@ -740,15 +756,15 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 235773,
-      "name": "Goodbye Soleil",
-      "url": "https://open.spotify.com/track/1E5pUyfGJI8oTrUeHuN05P"
+      "duration_ms": 232680,
+      "name": "Tuttifrutti",
+      "url": "https://open.spotify.com/track/387304JRC4rHBwlVcbny0m"
     },
     {
       "added_at": null,
       "album": {
         "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
+        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
       },
       "artists": [
         {
@@ -758,7 +774,7 @@
       ],
       "duration_ms": 202173,
       "name": "Drakkar Noir",
-      "url": "https://open.spotify.com/track/0ggkwqbg3SgEGz4XcEVYJq"
+      "url": "https://open.spotify.com/track/6CdWtrWlB3ejs39G69CBjq"
     },
     {
       "added_at": null,
@@ -788,15 +804,15 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 243733,
-      "name": "Fior di Latte",
-      "url": "https://open.spotify.com/track/1NJJObY1QxJhs5Xphq837L"
+      "duration_ms": 235773,
+      "name": "Goodbye Soleil",
+      "url": "https://open.spotify.com/track/1E5pUyfGJI8oTrUeHuN05P"
     },
     {
       "added_at": null,
       "album": {
         "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
+        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
       },
       "artists": [
         {
@@ -806,29 +822,13 @@
       ],
       "duration_ms": 223173,
       "name": "S.O.S In Bel Air",
-      "url": "https://open.spotify.com/track/0xk4qhVCcETeg8rh4nvE5h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ti Amo",
-        "url": "https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 232680,
-      "name": "Tuttifrutti",
-      "url": "https://open.spotify.com/track/387304JRC4rHBwlVcbny0m"
+      "url": "https://open.spotify.com/track/6V5z0wPN6HRK56Q17pgOzL"
     },
     {
       "added_at": null,
       "album": {
         "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
+        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
       },
       "artists": [
         {
@@ -838,7 +838,7 @@
       ],
       "duration_ms": 293226,
       "name": "Bourgeois",
-      "url": "https://open.spotify.com/track/77p0SZ7bEyMlsKMS6cv43z"
+      "url": "https://open.spotify.com/track/394RDQPrHMS7EFSODaVn62"
     }
   ],
   "unique_name": "This Is Phoenix",

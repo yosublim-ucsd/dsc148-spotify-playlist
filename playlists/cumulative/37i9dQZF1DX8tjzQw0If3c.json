@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Unearthing trailblazers. Cover: Axel Brizzy, LAYYI",
+  "description": "Unearthing trailblazers. Cover: Haven",
   "name": "RADAR SG & MY",
   "tracks": [
     {
@@ -980,6 +980,28 @@
       "duration_ms": 147200,
       "name": "MAJOR",
       "url": "https://open.spotify.com/track/1SIwlryejNmakfYwW3hTTl"
+    },
+    {
+      "album": {
+        "name": "Mindset",
+        "url": "https://open.spotify.com/album/1jyQeLQXGX3RI1WRMKUhMR"
+      },
+      "artists": [
+        {
+          "name": "Haven",
+          "url": "https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F"
+        },
+        {
+          "name": "WILD",
+          "url": "https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190285,
+      "name": "Mindset",
+      "url": "https://open.spotify.com/track/5XJm3lWxrPPYI6NrjYik5G"
     },
     {
       "album": {

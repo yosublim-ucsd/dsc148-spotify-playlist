@@ -1,13 +1,53 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER:  Alok &amp; Firebeats",
-  "num_followers": 32542,
+  "num_followers": 32544,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAArhcY8ZR1vXsPN23A7OUx/qFnBlcpb",
+  "snapshot_id": "AAArjzVdHUzG7Kvxot5HALt9LaMd1Hzo",
   "tracks": [
+    {
+      "added_at": "2024-11-07 10:16:47",
+      "album": {
+        "name": "1975",
+        "url": "https://open.spotify.com/album/29YyKDIeHCC9STNlRlJIb0"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        }
+      ],
+      "duration_ms": 144571,
+      "name": "1975",
+      "url": "https://open.spotify.com/track/6yWIOzRdXKHzVBOVQDsfyW"
+    },
+    {
+      "added_at": "2024-11-07 10:16:47",
+      "album": {
+        "name": "Tantalizing",
+        "url": "https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Soaky Siren",
+          "url": "https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "Tantalizing",
+      "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"
+    },
     {
       "added_at": "2024-10-31 11:36:15",
       "album": {
@@ -77,6 +117,142 @@
       "url": "https://open.spotify.com/track/1dlrW5uLrr1h7PpGA2bduV"
     },
     {
+      "added_at": "2024-10-24 11:32:26",
+      "album": {
+        "name": "Still Into You",
+        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Still Into You",
+      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
+    },
+    {
+      "added_at": "2024-11-07 10:16:47",
+      "album": {
+        "name": "Famous",
+        "url": "https://open.spotify.com/album/2I0uwgE0jhsxSO5PBlxFrW"
+      },
+      "artists": [
+        {
+          "name": "Oomloud",
+          "url": "https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P"
+        },
+        {
+          "name": "Thando",
+          "url": "https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX"
+        },
+        {
+          "name": "JusSke",
+          "url": "https://open.spotify.com/artist/5izfHinGlwLVd87Lp9wOzu"
+        }
+      ],
+      "duration_ms": 171071,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/5YeGkY9mBzAjoueyTRoYnf"
+    },
+    {
+      "added_at": "2024-11-07 10:16:47",
+      "album": {
+        "name": "Kench",
+        "url": "https://open.spotify.com/album/1ROQb64ctG2N45KG3W6StH"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "duration_ms": 169523,
+      "name": "Kench",
+      "url": "https://open.spotify.com/track/5sOdcxMAWtSU0KgWtKkSjY"
+    },
+    {
+      "added_at": "2024-11-07 10:16:47",
+      "album": {
+        "name": "Samir's Theme",
+        "url": "https://open.spotify.com/album/6WIAnmhPhEvjmcvHeeIP85"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
+        },
+        {
+          "name": "Charlie Ray",
+          "url": "https://open.spotify.com/artist/5E0lRlMBtVgbEo3gsn8UuF"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Samir's Theme",
+      "url": "https://open.spotify.com/track/3wI9OGpl6thK28PZcUgleu"
+    },
+    {
+      "added_at": "2024-11-07 10:16:47",
+      "album": {
+        "name": "Sound of da Police (with DES3ETT)",
+        "url": "https://open.spotify.com/album/19tOFbOwSqZkQONwDtxss9"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "DES3ETT",
+          "url": "https://open.spotify.com/artist/2tBbq6Y0ejbtc8tNWtaMyN"
+        }
+      ],
+      "duration_ms": 127200,
+      "name": "Sound of da Police (with DES3ETT)",
+      "url": "https://open.spotify.com/track/3g3kOgJyakUFt8FClE2EbQ"
+    },
+    {
+      "added_at": "2024-11-07 10:16:47",
+      "album": {
+        "name": "Fade Till Sunrise, Pt. II (B Jones Remix)",
+        "url": "https://open.spotify.com/album/5TSRzJov3OQKoLmsdmETty"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        },
+        {
+          "name": "B Jones",
+          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
+        }
+      ],
+      "duration_ms": 197909,
+      "name": "Fade Till Sunrise, Pt. II (B Jones Remix)",
+      "url": "https://open.spotify.com/track/6jKBuPpVjzVIsdTIFchjN1"
+    },
+    {
       "added_at": "2024-10-31 11:36:15",
       "album": {
         "name": "Now We Are Free",
@@ -103,26 +279,6 @@
       "duration_ms": 200000,
       "name": "Now We Are Free",
       "url": "https://open.spotify.com/track/0spV7kRavzOYJYKzOf8zSl"
-    },
-    {
-      "added_at": "2024-10-24 11:32:26",
-      "album": {
-        "name": "Still Into You",
-        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Still Into You",
-      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
     },
     {
       "added_at": "2024-10-31 11:36:15",
@@ -213,6 +369,26 @@
       "url": "https://open.spotify.com/track/0KEQ6X89UPO4wUFjLoIERl"
     },
     {
+      "added_at": "2024-11-07 12:53:56",
+      "album": {
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/787Fe2sF7ApgAtMfu7O30C"
+      },
+      "artists": [
+        {
+          "name": "Benji (UK)",
+          "url": "https://open.spotify.com/artist/2rktaPoxmpCqSnjH8sG9Dq"
+        },
+        {
+          "name": "Julio Ade",
+          "url": "https://open.spotify.com/artist/0aBK6w9ueJgetANKMYQvrd"
+        }
+      ],
+      "duration_ms": 217821,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/2VGn8OmbvdSarXJV0PBauj"
+    },
+    {
       "added_at": "2024-10-24 11:32:26",
       "album": {
         "name": "Higher State Of Consciousness",
@@ -235,6 +411,22 @@
     {
       "added_at": "2024-10-24 11:32:26",
       "album": {
+        "name": "If Only We Could",
+        "url": "https://open.spotify.com/album/5S131VhHVJQqETjvfbdk1F"
+      },
+      "artists": [
+        {
+          "name": "Sam AVSTIN",
+          "url": "https://open.spotify.com/artist/1LxUh0VA1qCSC0eBoQliyf"
+        }
+      ],
+      "duration_ms": 169019,
+      "name": "If Only We Could",
+      "url": "https://open.spotify.com/track/0aZJYGU8mWiLVOsLFsq44o"
+    },
+    {
+      "added_at": "2024-10-24 11:32:26",
+      "album": {
         "name": "Don't Go",
         "url": "https://open.spotify.com/album/2VNVxJujnV5BMlGNR4E3mZ"
       },
@@ -251,298 +443,6 @@
       "duration_ms": 141479,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/7ewh7KBEKWY0zufqwpuTWf"
-    },
-    {
-      "added_at": "2024-10-24 11:32:26",
-      "album": {
-        "name": "Transgender",
-        "url": "https://open.spotify.com/album/46muHUrkAVYiExmNO11XhI"
-      },
-      "artists": [
-        {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
-        },
-        {
-          "name": "Police In Paris",
-          "url": "https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2"
-        },
-        {
-          "name": "Staarz",
-          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
-        }
-      ],
-      "duration_ms": 176516,
-      "name": "Transgender",
-      "url": "https://open.spotify.com/track/2pgfgEF6CWsrPFF8HB6Xra"
-    },
-    {
-      "added_at": "2024-10-24 11:32:26",
-      "album": {
-        "name": "why so scared to fall?",
-        "url": "https://open.spotify.com/album/0Gncp9mnaippJnlLFKkXOO"
-      },
-      "artists": [
-        {
-          "name": "Martin Trevy",
-          "url": "https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "why so scared to fall?",
-      "url": "https://open.spotify.com/track/6rc2jbPZNIsJsrJ4eLBFmT"
-    },
-    {
-      "added_at": "2024-10-24 11:32:26",
-      "album": {
-        "name": "Fade Till Sunrise, Pt. II",
-        "url": "https://open.spotify.com/album/0gqRGw4p2zrFsau8fASai1"
-      },
-      "artists": [
-        {
-          "name": "Kryder",
-          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
-        }
-      ],
-      "duration_ms": 173362,
-      "name": "Fade Till Sunrise, Pt. II",
-      "url": "https://open.spotify.com/track/4OetBYftRQNNjy3coOYxS0"
-    },
-    {
-      "added_at": "2024-10-24 11:32:26",
-      "album": {
-        "name": "The Big Fake",
-        "url": "https://open.spotify.com/album/0Svzzm1IUI9RjzP5a08ikg"
-      },
-      "artists": [
-        {
-          "name": "MANIBA",
-          "url": "https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx"
-        },
-        {
-          "name": "Lizzy Wang",
-          "url": "https://open.spotify.com/artist/5bqSaq38eVpgUktEQLcPNp"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "The Big Fake",
-      "url": "https://open.spotify.com/track/10BpmIujqYT8HvsnNzrstN"
-    },
-    {
-      "added_at": "2024-10-24 11:32:26",
-      "album": {
-        "name": "When It Runs Out (feat. Felix Samuel)",
-        "url": "https://open.spotify.com/album/4mvaF4ugSd44nVs4SLsTZs"
-      },
-      "artists": [
-        {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
-        },
-        {
-          "name": "Maduk",
-          "url": "https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL"
-        },
-        {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "When It Runs Out (feat. Felix Samuel)",
-      "url": "https://open.spotify.com/track/4MZCttWZHqjmIefkrUiA0t"
-    },
-    {
-      "added_at": "2024-10-24 11:32:26",
-      "album": {
-        "name": "Chasing Ghosts",
-        "url": "https://open.spotify.com/album/6KxYxYpOZA4xtBEZsaLORx"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        }
-      ],
-      "duration_ms": 127714,
-      "name": "Chasing Ghosts",
-      "url": "https://open.spotify.com/track/5kMxyfaw9KDCyqaU0Z7QUj"
-    },
-    {
-      "added_at": "2024-10-24 11:32:26",
-      "album": {
-        "name": "Germany & Techno (feat. Krys Tha Sis)",
-        "url": "https://open.spotify.com/album/6sU8MVFcuQwitiDPKGFmwT"
-      },
-      "artists": [
-        {
-          "name": "Mondello'G",
-          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
-        },
-        {
-          "name": "Fabian Farell",
-          "url": "https://open.spotify.com/artist/4IOhVReVZmK8yRqFgcxDvY"
-        },
-        {
-          "name": "Derb",
-          "url": "https://open.spotify.com/artist/3mPVA7KPcWK2iKju5lLFc8"
-        },
-        {
-          "name": "Krys Tha Sis",
-          "url": "https://open.spotify.com/artist/4FnvX9uPMfR9upQ4ByiBuO"
-        }
-      ],
-      "duration_ms": 140689,
-      "name": "Germany & Techno (feat. Krys Tha Sis)",
-      "url": "https://open.spotify.com/track/7b5Eu8Mp5uB4MPjT3Kh3WF"
-    },
-    {
-      "added_at": "2024-10-24 11:32:26",
-      "album": {
-        "name": "Kolkata (Techno Version)",
-        "url": "https://open.spotify.com/album/421QWBCNHDoQTqDk41JYfj"
-      },
-      "artists": [
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        },
-        {
-          "name": "JDG",
-          "url": "https://open.spotify.com/artist/7oqJesfsNfHYYN6bEKR6UP"
-        },
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Kolkata (Techno Version)",
-      "url": "https://open.spotify.com/track/3Bk4ZohpjYTuJXbxFRSyPg"
-    },
-    {
-      "added_at": "2024-10-24 11:32:26",
-      "album": {
-        "name": "Let It Rain",
-        "url": "https://open.spotify.com/album/1OeAgQpEOIyuE5ghCasm9H"
-      },
-      "artists": [
-        {
-          "name": "Luke Miller",
-          "url": "https://open.spotify.com/artist/3wr4TiFX6aXHWDrsXbwMQD"
-        },
-        {
-          "name": "OFFDATA",
-          "url": "https://open.spotify.com/artist/2Gy19A1Xs1NuIHND1dCh7p"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Let It Rain",
-      "url": "https://open.spotify.com/track/5NMfwSnH5QarfMKiCl10GO"
-    },
-    {
-      "added_at": "2024-10-24 11:32:26",
-      "album": {
-        "name": "Taste Of Summer",
-        "url": "https://open.spotify.com/album/0NCqqYXAgNdHtFoPGrIDAl"
-      },
-      "artists": [
-        {
-          "name": "Calum Kieran",
-          "url": "https://open.spotify.com/artist/2rbfvpGH3D4WogHpndteUF"
-        }
-      ],
-      "duration_ms": 186478,
-      "name": "Taste Of Summer",
-      "url": "https://open.spotify.com/track/3566cOSTCoQmPNTn9LbX6J"
-    },
-    {
-      "added_at": "2024-10-24 11:32:26",
-      "album": {
-        "name": "Somebody That I Used To Know",
-        "url": "https://open.spotify.com/album/0NRKmZUelQc3JcEO3ll7E1"
-      },
-      "artists": [
-        {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
-        },
-        {
-          "name": "SP3CTRUM",
-          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
-        },
-        {
-          "name": "Kickbait",
-          "url": "https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE"
-        }
-      ],
-      "duration_ms": 119129,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/7l00IN1o5wQvd2GfWMbAYg"
-    },
-    {
-      "added_at": "2024-10-24 11:32:26",
-      "album": {
-        "name": "Quit That Love (feat. Glacier Baby)",
-        "url": "https://open.spotify.com/album/3N3T4X1IZ4625VZ6GgAH76"
-      },
-      "artists": [
-        {
-          "name": "Mollie Collins",
-          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
-        },
-        {
-          "name": "Glacier Baby",
-          "url": "https://open.spotify.com/artist/3UcsmXGGJfwT7F8VgWF7ES"
-        }
-      ],
-      "duration_ms": 124900,
-      "name": "Quit That Love (feat. Glacier Baby)",
-      "url": "https://open.spotify.com/track/5GRqG2vmcHMdqe65cpqy1y"
-    },
-    {
-      "added_at": "2024-10-24 11:32:26",
-      "album": {
-        "name": "Born To Love Ya",
-        "url": "https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Born To Love Ya",
-      "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
-    },
-    {
-      "added_at": "2024-10-24 11:32:26",
-      "album": {
-        "name": "If Only We Could",
-        "url": "https://open.spotify.com/album/5S131VhHVJQqETjvfbdk1F"
-      },
-      "artists": [
-        {
-          "name": "Sam AVSTIN",
-          "url": "https://open.spotify.com/artist/1LxUh0VA1qCSC0eBoQliyf"
-        }
-      ],
-      "duration_ms": 169019,
-      "name": "If Only We Could",
-      "url": "https://open.spotify.com/track/0aZJYGU8mWiLVOsLFsq44o"
     }
   ],
   "unique_name": "New Dance Music Friday",

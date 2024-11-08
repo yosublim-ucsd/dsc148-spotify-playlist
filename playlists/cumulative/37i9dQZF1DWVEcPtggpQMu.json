@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z?si=C5hdbArwQo6N6_73sDNjtg\">K.O</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/0w2p769eAX32IMb6u5v1eP?si=fOL1gQL5SqCK9OBbh_O3sw\">HENNYBELIT</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -4610,7 +4610,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 187317,
       "name": "Emzini Wezinsizwa (feat. Dando)",
       "url": "https://open.spotify.com/track/3x4WItLeZCoZYwftp806S9"
@@ -9316,7 +9316,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 197167,
       "name": "Long Life",
       "url": "https://open.spotify.com/track/3WDmVEJaryu8LHeCQTGV0x"
@@ -10791,6 +10791,24 @@
     },
     {
       "album": {
+        "name": "Mastandiverse II",
+        "url": "https://open.spotify.com/album/37D5b46WJS0Uvv8NeibAD1"
+      },
+      "artists": [
+        {
+          "name": "HENNYBELIT",
+          "url": "https://open.spotify.com/artist/0w2p769eAX32IMb6u5v1eP"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164852,
+      "name": "Ndize",
+      "url": "https://open.spotify.com/track/2D5h0UEnLFBYlXipCoXGHf"
+    },
+    {
+      "album": {
         "name": "Universal Souljaz",
         "url": "https://open.spotify.com/album/16DQunq4itF4igF53MaraZ"
       },
@@ -10934,7 +10952,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 121834,
       "name": "ngisebhishi",
       "url": "https://open.spotify.com/track/0VC17bHNBtsoMd0krLHnJf"
@@ -18228,6 +18246,24 @@
       "duration_ms": 181643,
       "name": "Where I Stand",
       "url": "https://open.spotify.com/track/5BsEwUJhosUVW0OtzSvkGW"
+    },
+    {
+      "album": {
+        "name": "Where's My Confidence?",
+        "url": "https://open.spotify.com/album/21VvdY7Is1ADpmESf6Ab0I"
+      },
+      "artists": [
+        {
+          "name": "Alex Sono",
+          "url": "https://open.spotify.com/artist/4xZjA1LMCD7jTw3ttM6gaj"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Where's My Confidence?",
+      "url": "https://open.spotify.com/track/58NToThQzeNZP4Slx0HoOY"
     },
     {
       "album": {

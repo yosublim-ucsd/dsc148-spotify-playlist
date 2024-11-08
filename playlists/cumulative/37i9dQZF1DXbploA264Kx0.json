@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Howard Lee (\u674e\u6d69\u744b)",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Kowen Ko (\u67ef\u667a\u68e0)",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -421,6 +421,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Girl",
+        "url": "https://open.spotify.com/album/4k3B8N8nrfcssWsDOl3bA7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy KUAN",
+          "url": "https://open.spotify.com/artist/0RvW6NX5Txwg455rTgalox"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165454,
+      "name": "Beautiful Girl",
+      "url": "https://open.spotify.com/track/01IOeW1Synu58ngfmXbEGh"
+    },
+    {
+      "album": {
         "name": "Beef Noodle Soup",
         "url": "https://open.spotify.com/album/1grhE7u0LPFXq23eRaU8dT"
       },
@@ -616,7 +634,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 177000,
       "name": "Call Ken",
       "url": "https://open.spotify.com/track/0vnCEZnPVUyXZHt8gaDqct"
@@ -1653,6 +1671,24 @@
     },
     {
       "album": {
+        "name": "I Can't Feel",
+        "url": "https://open.spotify.com/album/1mhSBrO628Rxi5hoLbl9sJ"
+      },
+      "artists": [
+        {
+          "name": "Everydaze",
+          "url": "https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206457,
+      "name": "I Can't Feel",
+      "url": "https://open.spotify.com/track/3767V9CBkByt1ZTVDCtle9"
+    },
+    {
+      "album": {
         "name": "I Could",
         "url": "https://open.spotify.com/album/4i4FIbpSC1ms15o6HtDf8C"
       },
@@ -2392,6 +2428,24 @@
       "duration_ms": 221177,
       "name": "music",
       "url": "https://open.spotify.com/track/1my6WsRdwWkB8rNRL9U0wi"
+    },
+    {
+      "album": {
+        "name": "My Nova",
+        "url": "https://open.spotify.com/album/1hodUKU2mT3eqTaHvgdCzW"
+      },
+      "artists": [
+        {
+          "name": "\u67ef\u667a\u68e0",
+          "url": "https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269693,
+      "name": "My Nova",
+      "url": "https://open.spotify.com/track/1fFWrnl1bQo21CCLWlbSxF"
     },
     {
       "album": {
@@ -3884,7 +3938,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 244250,
       "name": "Tiramisu (feat. BRADD)",
       "url": "https://open.spotify.com/track/6r3WwbBueAgeJfBTUERMpS"
@@ -4196,7 +4250,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 143736,
       "name": "Won\u2019t Let You Go - \u300a\u827e\u5609\u98df\u5802\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/0MirQIYKUjUVvI0oK0Qwfw"

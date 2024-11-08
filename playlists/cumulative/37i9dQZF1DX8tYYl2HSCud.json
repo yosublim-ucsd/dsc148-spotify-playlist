@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Mirage of Dreams",
+        "url": "https://open.spotify.com/album/3yKFdsvS3nOKCcLv4wRupq"
+      },
+      "artists": [
+        {
+          "name": "Felix Lancaster",
+          "url": "https://open.spotify.com/artist/3pxSaNpvYaHJFLQt2PSJA4"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187654,
+      "name": "A Mirage of Dreams",
+      "url": "https://open.spotify.com/track/292efoDUXa95umxcSEJLks"
+    },
+    {
+      "album": {
         "name": "Anew",
         "url": "https://open.spotify.com/album/6gTK7SLCG5JAxFLKvghEiu"
       },
@@ -707,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Clearing the Sky",
+        "url": "https://open.spotify.com/album/52xq0AGgtQdbpbZs6Au2eF"
+      },
+      "artists": [
+        {
+          "name": "Morgondimma",
+          "url": "https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179628,
+      "name": "Clearing the Sky",
+      "url": "https://open.spotify.com/track/0ZUK6H840sAcIxsP6fyDrk"
+    },
+    {
+      "album": {
         "name": "Tranquilidad",
         "url": "https://open.spotify.com/album/06JP68CfOlaRpwdAoSpTXG"
       },
@@ -938,6 +974,24 @@
       "duration_ms": 161267,
       "name": "Cosmo 432 Hz",
       "url": "https://open.spotify.com/track/2RqvDYMAafIs8WjvGBzBTu"
+    },
+    {
+      "album": {
+        "name": "Credo",
+        "url": "https://open.spotify.com/album/21nFzF1q7AOOrAUhiJEWkv"
+      },
+      "artists": [
+        {
+          "name": "Mystisse",
+          "url": "https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Credo",
+      "url": "https://open.spotify.com/track/5k4Y1IIQgdzl4MM3maevgh"
     },
     {
       "album": {
@@ -2176,7 +2230,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 183000,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/2s9cI7nUKIzMjzVvRvGZH3"
@@ -2630,6 +2684,24 @@
       "duration_ms": 179294,
       "name": "Melancholy",
       "url": "https://open.spotify.com/track/569aPavFjL3WvPwZepX67d"
+    },
+    {
+      "album": {
+        "name": "Meridian",
+        "url": "https://open.spotify.com/album/4YCk6dTtIkZE37NC4Ugi3q"
+      },
+      "artists": [
+        {
+          "name": "Sand Rae",
+          "url": "https://open.spotify.com/artist/01AXMlLHjZDPlbVBPnXb8h"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Meridian",
+      "url": "https://open.spotify.com/track/6PaUgrtaPnQedfPufQhchF"
     },
     {
       "album": {
@@ -3875,6 +3947,24 @@
     },
     {
       "album": {
+        "name": "Slumberism",
+        "url": "https://open.spotify.com/album/1czUeCsPgac17RpwBagdUq"
+      },
+      "artists": [
+        {
+          "name": "Erastox",
+          "url": "https://open.spotify.com/artist/3zPEKgYbraip77EsVefCbd"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191239,
+      "name": "Slumberism",
+      "url": "https://open.spotify.com/track/7pnr5tNNmB7EibF2ClbJ3M"
+    },
+    {
+      "album": {
         "name": "Soft Ardour",
         "url": "https://open.spotify.com/album/0BTuhivz5n6te5nMjtMENN"
       },
@@ -4246,7 +4336,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 204303,
       "name": "Sun Bells",
       "url": "https://open.spotify.com/track/1f5BNfpT1tP7LpD9zri8wD"

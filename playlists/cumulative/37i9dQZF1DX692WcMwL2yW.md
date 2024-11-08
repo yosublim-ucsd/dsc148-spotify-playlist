@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-370 songs - 17 hr 3 min
+374 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Apocalypse](https://open.spotify.com/track/5u0XFEuy08KLJIxawYnkjo) | [BlackFrost](https://open.spotify.com/artist/1Wmkb9aWIvUb2h7q6MSHzI) | [Awakening](https://open.spotify.com/album/44i8vDWmQGXQwoK33zeXTS) | 2:03 | 2021-04-26\* | 2021-09-10 |
 | [Arian](https://open.spotify.com/track/0qOKwBICWzPtScjJjuLLkv) | [Electro Ponzu](https://open.spotify.com/artist/7p1sA3P2zp1rIrkr9DNxfz) | [Arian](https://open.spotify.com/album/32w458f4xQdJZp3rjLsFnR) | 1:52 | 2021-09-10 | 2024-02-14 |
 | [Ascend](https://open.spotify.com/track/0Gybm8PWOmYTQG4Bjqxh0f) | [DayoffSounds](https://open.spotify.com/artist/50Dn3JAzqpZVKtcykEz8NE) | [Instrumental Gems, Vol\. 1](https://open.spotify.com/album/0dvyfEiOU5Wks9vPjEQhfb) | 2:33 | 2021-07-09 | 2021-10-14 |
+| [Ask Somebody](https://open.spotify.com/track/5fsd2pgZipjq2RqCIiqljd) | [Testomoron](https://open.spotify.com/artist/70j04I0wpjJTeI5U9EjZFQ) | [Ask Somebody](https://open.spotify.com/album/4JstE1rhJBLvVo8jfmzjIo) | 2:34 | 2024-11-07 |  |
 | [Assembly](https://open.spotify.com/track/5mgflX71JVHpVomQoQGhnG) | [BamJam](https://open.spotify.com/artist/3CWbOX4o8QeOTB28g9nnf2) | [Assembly](https://open.spotify.com/album/76h4O2dQCZYyWEzSuzh2bv) | 2:41 | 2024-03-26 |  |
 | [Astro Beat](https://open.spotify.com/track/4U6d6txn9S3BV6MrFefQuI) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [Astro Beat](https://open.spotify.com/album/2NY3CbNis1x7g34As1kKqc) | 3:41 | 2021-07-09 | 2021-08-26 |
 | [Ataraxis](https://open.spotify.com/track/0CWViXbXU67Xto3hbeHcPI) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Ascension](https://open.spotify.com/album/0G43axY2mZJzvnM7gHI0yq) | 3:16 | 2021-07-09 |  |
@@ -35,10 +36,11 @@
 | [Back the Line](https://open.spotify.com/track/6VmLAZAbbDoqPAm8OHFbPs) | [IZY REALLY](https://open.spotify.com/artist/2QpnXxnib6tVD5Vy4Hlvar) | [Power](https://open.spotify.com/album/0ygj6ZCtEMvOHL2835FW3k) | 2:54 | 2022-07-08 |  |
 | [Banished](https://open.spotify.com/track/311GcJHZOdJVGDl1r9LOaO) | [Geppilef](https://open.spotify.com/artist/3YGNGXTZlAgFX71OG2UyZp) | [Banished](https://open.spotify.com/album/1FNudNBnGVzvgcpIS8Fqli) | 2:36 | 2024-02-13 |  |
 | [Basquè](https://open.spotify.com/track/6zhvPJuZKVjzv4fQelqvo0) | [Gold Birds](https://open.spotify.com/artist/5MisRKjFSK7o3bab0rojcs) | [Afterglow](https://open.spotify.com/album/0Q4O3GicWbNcxOQakY5Glc) | 3:43 | 2021-07-09 |  |
+| [Be Kind To Yourself](https://open.spotify.com/track/0OF4LmsOwbrPsWHiC0vPh8) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Be Kind To Yourself](https://open.spotify.com/album/0mr0AFvjTiJCml6k5KWQwI) | 2:34 | 2024-11-07 |  |
 | [Big Bounce](https://open.spotify.com/track/46J9LlrB4irAkEMPfEKPeY) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Move Ya Body](https://open.spotify.com/album/61L9RCKpU8NJkrqidv3Fj9) | 2:46 | 2021-06-04 |  |
 | [Blackstar](https://open.spotify.com/track/6djXsgxuBxkhZ304F6f9m6) | [Zoot Lix](https://open.spotify.com/artist/1hLSwZoc1fc7nbd87G36La) | [Blackstar](https://open.spotify.com/album/77nkWEQ9KlbYGdsAx0TGng) | 3:17 | 2021-07-09 | 2022-05-14 |
 | [Blink](https://open.spotify.com/track/6LzhfdIgfWDq5Y39ucEnOJ) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [Blink](https://open.spotify.com/album/19F9vrQLCZJj7yp7hw2LAy) | 3:03 | 2021-04-26\* | 2022-07-22 |
-| [Body Bounce](https://open.spotify.com/track/775dZ1zz41wnrxOQGg0zq8) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Body Bounce](https://open.spotify.com/album/2MlYoEfgZnUqJKyssAawA4) | 2:23 | 2022-05-20 |  |
+| [Body Bounce](https://open.spotify.com/track/775dZ1zz41wnrxOQGg0zq8) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Body Bounce](https://open.spotify.com/album/2MlYoEfgZnUqJKyssAawA4) | 2:23 | 2022-05-20 | 2024-11-08 |
 | [Bootes](https://open.spotify.com/track/2TJyvCtn156DBQdRzFnJQ8) | [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi) | [Ophiuchus](https://open.spotify.com/album/6DPf7zkNcApNZjcJVz2o7H) | 3:05 | 2021-04-26\* | 2022-05-14 |
 | [Brand New Eyes](https://open.spotify.com/track/3yx4s6obPco65jEydJYerj) | [Charley Hewits](https://open.spotify.com/artist/5OoQPrcf3KU2VKXC7zXR2o) | [Brand New Eyes](https://open.spotify.com/album/6o05bYAYVgbHoGQk5paRVg) | 2:42 | 2021-04-26\* | 2022-09-03 |
 | [Bring on the Blessings](https://open.spotify.com/track/1n31FkTycUv7n7o6kIejeP) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Rooster Visions](https://open.spotify.com/album/3YXmddyswirnkpXfOdtAYG) | 3:08 | 2021-07-09 | 2021-08-26 |
@@ -239,6 +241,7 @@
 | [paint](https://open.spotify.com/track/28p37blBJxXtnAtl9ndjC0) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [tile & error](https://open.spotify.com/album/1kMqljBJ3CMhls6972lJ8H) | 2:32 | 2021-04-26\* | 2022-05-27 |
 | [Peace Police](https://open.spotify.com/track/2qHaXryEN56zBsYEG4j5Sj) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Peace Police](https://open.spotify.com/album/5UcnhXhnPxol0KORBDsW6L) | 2:16 | 2021-11-10 |  |
 | [Peaceful End](https://open.spotify.com/track/2BsiCSZgCSNJbghOyUrJ5F) | [I Mps I](https://open.spotify.com/artist/0i44Z70SJWehRFJQJOAm36) | [Mps Ii](https://open.spotify.com/album/2ITKfOcwympjJyTPV5AnJ7) | 2:12 | 2021-04-26\* | 2021-06-18 |
+| [Pebblez](https://open.spotify.com/track/1dUlChgWM50ZWBMPvT8tiH) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [Pebblez](https://open.spotify.com/album/6Cntc2dQtoYrdDFkfEmuvF) | 2:42 | 2024-11-07 |  |
 | [Peep](https://open.spotify.com/track/79S0qKFlhMvRgV2gTgyrUi) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Peep](https://open.spotify.com/album/1H1BSktT6OnfBx8Alr3CKR) | 1:37 | 2023-01-20 | 2024-02-14 |
 | [Peer Pressure](https://open.spotify.com/track/30PDbNjIAYsxmh5z0gdJUN) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Peer Pressure](https://open.spotify.com/album/6FGjZ4GxmrGCr89TRLwk19) | 3:24 | 2022-11-25 |  |
 | [Perfect Dream](https://open.spotify.com/track/3xwOHHCCN6fR3xDW8rJmnk) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Perfect Dream](https://open.spotify.com/album/1SIsocvfPaZSbfDFGmgoLe) | 2:19 | 2022-12-09 |  |
@@ -278,6 +281,7 @@
 | [Saturn](https://open.spotify.com/track/36x1ZTVotGKal7CrouiqBl) | [Pink Oak](https://open.spotify.com/artist/18P0Pm5wkx4lfHBG0UnUrO) | [Origi](https://open.spotify.com/album/3z8uJOtd7lN9lQFH5R6TZ8) | 3:55 | 2022-02-18 |  |
 | [Sauce Packets](https://open.spotify.com/track/6Dfual7Y3pGjqcD8RE1h5V) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Cyclos Era](https://open.spotify.com/album/23A8EOYmC9yiQbQFFMENNk) | 3:04 | 2023-01-20 |  |
 | [Savages](https://open.spotify.com/track/2A9zsaUmd2lBr9P9TWVvKI) | [Deekay\_Bangerz](https://open.spotify.com/artist/0NPXCzl79WpQpkhdz5Wl4O), [El Nino Diablo](https://open.spotify.com/artist/0H2VHRUkTJRaLWbbucSfjK) | [Dungeon Noise](https://open.spotify.com/album/79ogyayn4MJNI1p6QND3DB) | 3:12 | 2021-05-07 | 2021-06-18 |
+| [Saviour](https://open.spotify.com/track/20NCtoZtPys4GPgJCuKP1W) | [Sobbel Sosch](https://open.spotify.com/artist/32E7sOawaXS4fuVyr15Jok) | [Saviour](https://open.spotify.com/album/50Sy3NTB8meMunLEdluyBK) | 2:26 | 2024-11-07 |  |
 | [Second Serve](https://open.spotify.com/track/5qpHFAokVgtjtQ4CawpQPR) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Match Point](https://open.spotify.com/album/2u35klcXYCqEw3EduiZ3ha) | 2:19 | 2023-01-20 |  |
 | [Self\-Inflicted](https://open.spotify.com/track/3nJ92wlW6KH8RgL33OZr6M) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Self\-Inflicted](https://open.spotify.com/album/1JHlKsLpOd4HJNUiPttN8Q) | 3:33 | 2021-04-26\* | 2022-05-27 |
 | [Sensory](https://open.spotify.com/track/70foYW4a0fEYwy60SwEYUj) | [DARKCITY](https://open.spotify.com/artist/5E5kMELbzQ56qBssHVWlsy), [root](https://open.spotify.com/artist/1k27JeD1SDSojaZok0SoPO), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [Sensory](https://open.spotify.com/album/5XGspEqpsGTTSnryJ9D1HB) | 4:19 | 2022-05-27 | 2022-07-15 |
@@ -374,7 +378,7 @@
 | [Wonderland](https://open.spotify.com/track/7IpMCQSwhwQOjb8cHr7ViV) | [Djsneverendingstory](https://open.spotify.com/artist/5H53Vq7VfrqjdEMX3mx5Xp) | [Wonderland](https://open.spotify.com/album/3dL5EuR6gRlgWhmMbWId0i) | 4:03 | 2021-04-26\* | 2022-09-09 |
 | [Worth It](https://open.spotify.com/track/79s7lALWj5I5LS2v37APK3) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Worth It](https://open.spotify.com/album/7rix5AYPgRpy0AD9EfUT9x) | 2:46 | 2022-05-20 |  |
 | [Write Off](https://open.spotify.com/track/621MnT5Wi73X0Gp2lmwZ0M) | [Charles Hewits](https://open.spotify.com/artist/2ZvZcOt4Ybj9aTI4FZ1amd) | [Write Off](https://open.spotify.com/album/3pgXKSIeRbS7RLbeLnubHd) | 2:44 | 2021-11-10 |  |
-| [Yes Man](https://open.spotify.com/track/00QiT6wUZrnCkgUvP9xgh9) | [Kripto](https://open.spotify.com/artist/0VdlvJNWbvKfguCf7tdgop) | [Yes Man](https://open.spotify.com/album/3oEE9nG6uW2Jfqobx3iZq9) | 2:10 | 2022-05-27 |  |
+| [Yes Man](https://open.spotify.com/track/00QiT6wUZrnCkgUvP9xgh9) | [Kripto](https://open.spotify.com/artist/0VdlvJNWbvKfguCf7tdgop) | [Yes Man](https://open.spotify.com/album/3oEE9nG6uW2Jfqobx3iZq9) | 2:10 | 2022-05-27 | 2024-11-08 |
 | [Yoko](https://open.spotify.com/track/2idiYkZiNtzFm8hwsY7lfT) | [Neon Lighthouse](https://open.spotify.com/artist/3EwvgZOFqqGPO7Xfgw4wcg) | [Brandy & Apple Juice](https://open.spotify.com/album/42YfWVfh7I3fuUvvlQGN99) | 3:20 | 2021-11-10 |  |
 | [Zoey Badass](https://open.spotify.com/track/7shCeTkY9mACp3Vdp0H14V) | [ormus](https://open.spotify.com/artist/2pESQKhDJ2ajViMHjehRmG) | [Zoey Badass](https://open.spotify.com/album/3VPsTbmUYkoizmoeYIc5fz) | 3:01 | 2023-03-13 |  |
 | [ᴅ ʀ ᴇ ᴀ ᴍ ᴡ ᴏ ʀ ʟ ᴅ \- slowed](https://open.spotify.com/track/1U7FKRbwfn2nORdoZ8mSBt) | [CRSHR](https://open.spotify.com/artist/1zL2uwpnfFZh3tacDP3d3O) | [ᴅ ʀ ᴇ ᴀ ᴍ ᴡ ᴏ ʀ ʟ ᴅ \(slowed\)](https://open.spotify.com/album/0QchjADdH00FWuvCDK5VWa) | 4:20 | 2021-04-26\* | 2022-04-22 |

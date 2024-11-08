@@ -2,7 +2,7 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: ROSÉ,<br/>Bruno Mars
+> The best tracks from the world of music\. Cover: Sherman Zhuo
 
 308 songs - 16 hr 27 min
 

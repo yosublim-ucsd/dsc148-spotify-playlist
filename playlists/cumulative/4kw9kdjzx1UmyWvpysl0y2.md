@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-855 songs - 2 day 0 hr 40 min
+856 songs - 2 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Encounter](https://open.spotify.com/track/7Ddm5bTLA3nLATCx1LtHd0) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Encounter](https://open.spotify.com/album/257jBmJSZWVkr2p0XB5kli) | 5:11 | 2023-10-06 | 2024-01-20 |
 | [Endgame](https://open.spotify.com/track/2ktvOZzqcK7Am5q3Ibu4po) | [Rebel Scum](https://open.spotify.com/artist/59aaYbMLU4xeqKrwJSY4tE), [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og) | [Endgame](https://open.spotify.com/album/4JFF5XdqFNPL9sg7uAQMTD) | 3:46 | 2023-10-25 | 2024-02-08 |
 | [Endless \(Best of Me\)](https://open.spotify.com/track/1UyiFox8VnAAFRweBDKhy0) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Endless \(Best of Me\)](https://open.spotify.com/album/72LIl7Rlti55JL63E6UsmY) | 3:40 | 2022-11-04 | 2023-01-28 |
+| [Endless In Between](https://open.spotify.com/track/63nPbxic2qf5nA4yicN4pg) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Jonathan Mendelsohn](https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm) | [Endless In Between](https://open.spotify.com/album/7KZR8pFGa3dyCCK0bJkwK8) | 3:46 | 2024-11-07 |  |
 | [ENEMY](https://open.spotify.com/track/57PGa6g4Ym4XeyNWWdE6Ig) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [dabl](https://open.spotify.com/artist/5fk3KGv5y9AzvEZJG4yZW9) | [ENEMY](https://open.spotify.com/album/7EL4y1SIpzIMabjzaGBPxV) | 3:16 | 2024-01-11 | 2024-04-03 |
 | [Equinox](https://open.spotify.com/track/3i2kegGxj12kAXephAgZ8C) | [TOMB](https://open.spotify.com/artist/2PH8zrd38yO1SphvnINyvw) | [Equinox](https://open.spotify.com/album/33WUMBvwFNU514XzG7vqbz) | 3:20 | 2023-10-18 | 2024-02-02 |
 | [Erase Me](https://open.spotify.com/track/7lbKB1ULWaABpHWWJuaLu8) | [Gravas](https://open.spotify.com/artist/2ucDELeg7gohUzo8kJ9Hj3), [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [FRANK ZUMMO](https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz), [Tea Timerz](https://open.spotify.com/artist/6FvBSQRYwIMdxwvMyMyQbf), [CRaymak](https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm) | [Erase Me](https://open.spotify.com/album/69KvZgBpQLnQJTmWT6C90D) | 5:15 | 2023-08-28 | 2023-12-14 |
@@ -326,7 +327,7 @@
 | [Haunt You](https://open.spotify.com/track/3gYigEsIAyHuRCBm4LZ4mt) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Haunt You](https://open.spotify.com/album/7kbbAUEAQZ1ToFY70O13cJ) | 2:42 | 2023-04-25 | 2023-07-22 |
 | [haunted](https://open.spotify.com/track/7rMhXwRXJc2C6oLYzkdt2J) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [lucid](https://open.spotify.com/album/19rvrdBIeSrbvQG8wSiyRM) | 2:59 | 2023-11-28 | 2024-03-12 |
 | [haunted](https://open.spotify.com/track/5mUu3ORxehXOXQwqrLwBTt) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Kazukii](https://open.spotify.com/artist/5d07MpiIaNmmEMTq79KAga) | [haunted](https://open.spotify.com/album/3Vb9NYVMJFam1G2IFTqUYO) | 2:14 | 2023-09-18 | 2024-01-11 |
-| [Have It All](https://open.spotify.com/track/6hR4plghLBRSbXEf2wNvsX) | [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [Have It All](https://open.spotify.com/album/2YEjMz4R5PEz69Qc5b2LtY) | 2:56 | 2024-08-16 |  |
+| [Have It All](https://open.spotify.com/track/6hR4plghLBRSbXEf2wNvsX) | [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [Have It All](https://open.spotify.com/album/2YEjMz4R5PEz69Qc5b2LtY) | 2:56 | 2024-08-16 | 2024-11-08 |
 | [Haze](https://open.spotify.com/track/4VjALfCVxHTUB1Te6FEWUY) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Haze](https://open.spotify.com/album/4UF3ppHDuxCNrupmlGx9gZ) | 4:36 | 2022-09-28 | 2022-12-01 |
 | [HEADCASE](https://open.spotify.com/track/5WOZJnZXHTB02ZavH48bMH) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [HEADCASE](https://open.spotify.com/album/4QFtZ8a8SjNrk2uCY1TP0Z) | 2:02 | 2023-11-20 | 2024-03-02 |
 | [Heal](https://open.spotify.com/track/2nGEfupnQbdQyxFjHrx0SM) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Heal](https://open.spotify.com/album/2ZFsWsRhG8XFk4Srgq5qI1) | 4:14 | 2023-08-28 | 2023-12-14 |

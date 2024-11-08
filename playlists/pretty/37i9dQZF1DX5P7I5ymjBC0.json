@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul.  Cover- Mikey McCleary, Sushant Divgikar, Parth Parekh & Khan Brothers",
-  "num_followers": 71436,
+  "num_followers": 71452,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,18 @@
     {
       "added_at": "2024-10-24 10:07:37",
       "album": {
-        "name": "Coke Studio: Season 9",
-        "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
+        "name": "Chanakya",
+        "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
       },
       "artists": [
         {
-          "name": "Momina Mustehsan",
-          "url": "https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV"
-        },
-        {
-          "name": "Asim Azhar",
-          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
         }
       ],
-      "duration_ms": 425000,
-      "name": "Tera Woh Pyar (Nawazishein Karam)",
-      "url": "https://open.spotify.com/track/2RV4QunRX0CTs2JR1uUbMj"
+      "duration_ms": 163071,
+      "name": "Chanakya",
+      "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
     },
     {
       "added_at": "2024-10-24 10:07:37",
@@ -215,18 +211,22 @@
     {
       "added_at": "2024-10-24 10:07:37",
       "album": {
-        "name": "Chanakya",
-        "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
+        "name": "Coke Studio: Season 9",
+        "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
       },
       "artists": [
         {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+          "name": "Momina Mustehsan",
+          "url": "https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV"
+        },
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
         }
       ],
-      "duration_ms": 163071,
-      "name": "Chanakya",
-      "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
+      "duration_ms": 425000,
+      "name": "Tera Woh Pyar (Nawazishein Karam)",
+      "url": "https://open.spotify.com/track/2RV4QunRX0CTs2JR1uUbMj"
     },
     {
       "added_at": "2024-10-24 10:07:37",
@@ -283,6 +283,30 @@
       "duration_ms": 397414,
       "name": "Ronus Theme",
       "url": "https://open.spotify.com/track/5HApx7rw1Bc6Ui0cWbrC5U"
+    },
+    {
+      "added_at": "2024-10-24 10:07:37",
+      "album": {
+        "name": "Kautilya (The Echo Project)",
+        "url": "https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        },
+        {
+          "name": "Naveen Kumar",
+          "url": "https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR"
+        },
+        {
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+        }
+      ],
+      "duration_ms": 191063,
+      "name": "Kautilya (The Echo Project)",
+      "url": "https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X"
     },
     {
       "added_at": "2024-10-24 10:07:37",
@@ -375,30 +399,6 @@
     {
       "added_at": "2024-10-24 10:07:37",
       "album": {
-        "name": "Kautilya (The Echo Project)",
-        "url": "https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE"
-      },
-      "artists": [
-        {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
-        },
-        {
-          "name": "Naveen Kumar",
-          "url": "https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR"
-        },
-        {
-          "name": "Anuradha Pal",
-          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
-        }
-      ],
-      "duration_ms": 191063,
-      "name": "Kautilya (The Echo Project)",
-      "url": "https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X"
-    },
-    {
-      "added_at": "2024-10-24 10:07:37",
-      "album": {
         "name": "Mitho Laage (The Dewarists, Season 5)",
         "url": "https://open.spotify.com/album/5f9rbgON0HgEoFlrNUiaJp"
       },
@@ -487,6 +487,26 @@
     {
       "added_at": "2024-10-24 10:07:37",
       "album": {
+        "name": "Text me when you reach",
+        "url": "https://open.spotify.com/album/4gJ2rVT40KEpJQb6yMJv2o"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        },
+        {
+          "name": "Raj",
+          "url": "https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF"
+        }
+      ],
+      "duration_ms": 91325,
+      "name": "Text me when you reach",
+      "url": "https://open.spotify.com/track/4vAlFacTwAaeBJhij4jOZR"
+    },
+    {
+      "added_at": "2024-10-24 10:07:37",
+      "album": {
         "name": "Coke Studio Season 7",
         "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
       },
@@ -523,46 +543,6 @@
     {
       "added_at": "2024-10-24 10:07:37",
       "album": {
-        "name": "Ae Dil Kisi Ki Yaad Mein (Coke Studio Season 8)",
-        "url": "https://open.spotify.com/album/41JZAZycEJOq01horKNToM"
-      },
-      "artists": [
-        {
-          "name": "Sara Haider",
-          "url": "https://open.spotify.com/artist/6wbQXgl1sCmZncfcmdctDB"
-        },
-        {
-          "name": "Ali Zafar",
-          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
-        }
-      ],
-      "duration_ms": 355561,
-      "name": "Ae Dil Kisi Ki Yaad Mein - Coke Studio Season 8",
-      "url": "https://open.spotify.com/track/1eyFwhnhUhLgJSHpxkOQ4q"
-    },
-    {
-      "added_at": "2024-10-24 10:07:37",
-      "album": {
-        "name": "Text me when you reach",
-        "url": "https://open.spotify.com/album/4gJ2rVT40KEpJQb6yMJv2o"
-      },
-      "artists": [
-        {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
-        },
-        {
-          "name": "Raj",
-          "url": "https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF"
-        }
-      ],
-      "duration_ms": 91325,
-      "name": "Text me when you reach",
-      "url": "https://open.spotify.com/track/4vAlFacTwAaeBJhij4jOZR"
-    },
-    {
-      "added_at": "2024-10-24 10:07:37",
-      "album": {
         "name": "Umran Langiyaan (Coke Studio Season 8)",
         "url": "https://open.spotify.com/album/4ibe0e62SlJoOu1HFLxEVr"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 482625,
       "name": "Umran Langiyaan - Coke Studio Season 8",
       "url": "https://open.spotify.com/track/13ku97oiMKs8x01FIj2067"
+    },
+    {
+      "added_at": "2024-10-24 10:07:37",
+      "album": {
+        "name": "Ae Dil Kisi Ki Yaad Mein (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/41JZAZycEJOq01horKNToM"
+      },
+      "artists": [
+        {
+          "name": "Sara Haider",
+          "url": "https://open.spotify.com/artist/6wbQXgl1sCmZncfcmdctDB"
+        },
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "duration_ms": 355561,
+      "name": "Ae Dil Kisi Ki Yaad Mein - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/1eyFwhnhUhLgJSHpxkOQ4q"
     },
     {
       "added_at": "2024-10-24 10:07:37",

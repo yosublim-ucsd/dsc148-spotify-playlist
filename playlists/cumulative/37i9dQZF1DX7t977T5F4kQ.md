@@ -4,7 +4,7 @@
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Stonebwoy
 
-435 songs - 22 hr 46 min
+436 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Don't Shout](https://open.spotify.com/track/7F9SLE2RyEJzT8fo0wOvXO) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Don't Shout](https://open.spotify.com/album/63VnNwKfyWmgoaOTTc5LX3) | 3:25 | 2022-11-04 | 2023-02-24 |
 | [Donow](https://open.spotify.com/track/1OXaXiUjsIigLkTpqSGz8G) | [Article Wan](https://open.spotify.com/artist/3Bw3Syt7xdB3gQc4IoFaLn), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [Donow](https://open.spotify.com/album/5SvcnC7O2oHbzIdBj76aGu) | 3:20 | 2023-06-16 | 2023-07-29 |
 | [Down Flat](https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Down Flat](https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV) | 2:52 | 2022-11-04 | 2023-11-03 |
+| [Down I'm A Rebel](https://open.spotify.com/track/0s14yljOWxYfG0Xz3iTaP9) | [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Down I'm A Rebel](https://open.spotify.com/album/6dlBvqgsPhcvxgmRoA0fSl) | 3:04 | 2024-11-07 |  |
 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 | 2022-11-04 | 2024-02-23 |
 | [Effiakuma Broken Heart](https://open.spotify.com/track/3ebcYH7mX3q6muQUBiWhNT) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Effiakuma Broken Heart](https://open.spotify.com/album/4lpN5pNVf6HDWpIrBFd3aC) | 3:09 | 2024-04-19 |  |
 | [Efie Nsem \- Kwahu](https://open.spotify.com/track/5Dx57lE6nNVjLBmO8Iny1I) | [Epixode](https://open.spotify.com/artist/4W5GvdMaNMlr78lbnaW2P3), [Krus Band](https://open.spotify.com/artist/59a1QKnIJfRtaa4GAfNvQT) | [Efie Nsem \(Kwahu\)](https://open.spotify.com/album/26wvRavO5UoCMqk5IoKMvD) | 3:11 | 2024-04-05 | 2024-04-19 |
@@ -432,7 +433,7 @@
 | [YEDIN](https://open.spotify.com/track/6rdL3EDLxPR4Tq8WJIJ5xC) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [YEDIN](https://open.spotify.com/album/31qXzB7kKOSW6ItiKDN8YA) | 3:10 | 2024-07-19 |  |
 | [Yellow](https://open.spotify.com/track/7Iro07haSFYU2yVx149Tcu) | [KOFI BRUCE](https://open.spotify.com/artist/3C96ARfG9uaoD9AiE86jzt) | [Yellow](https://open.spotify.com/album/74wxWN3gRi3kU8GrCvkO9F) | 2:54 | 2023-04-20 | 2023-05-05 |
 | [Yeni Abre](https://open.spotify.com/track/5PR0Mk6xqpMoKh8D9GXbeQ) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Yeni Abre](https://open.spotify.com/album/1C9Xf13fBpa09nVuwlxaWW) | 4:18 | 2023-04-27 | 2023-05-13 |
-| [Yenkodi](https://open.spotify.com/track/0XKat5BEYlRO50jFuiDDDD) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Yenkodi](https://open.spotify.com/album/3408leJj81HjP4B8LxdmKY) | 3:00 | 2024-10-25 |  |
+| [Yenkodi](https://open.spotify.com/track/0XKat5BEYlRO50jFuiDDDD) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Yenkodi](https://open.spotify.com/album/3408leJj81HjP4B8LxdmKY) | 3:00 | 2024-10-25 | 2024-11-08 |
 | [Yesterday](https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:23 | 2022-11-04 | 2023-11-24 |
 | [Yewo Nyame](https://open.spotify.com/track/4lzhsMF2TUWC2EOcjcJOPi) | [Nana Acheampong](https://open.spotify.com/artist/4cXlKyzDbtIT2IXX4zcHN1), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Yewo Nyame](https://open.spotify.com/album/6jLXI6n0xkgCQ6OTDCozWr) | 4:00 | 2024-04-26 | 2024-06-01 |
 | [You Dey Feel The Vibe \(Live\)](https://open.spotify.com/track/1HYFDVX21R4LYMqjKjYXyN) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN), [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [Chale Wote](https://open.spotify.com/album/7zvcSaiNoN8JnTvLCuaB6H) | 5:03 | 2023-06-22 | 2023-08-04 |

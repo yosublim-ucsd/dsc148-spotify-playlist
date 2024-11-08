@@ -1891,6 +1891,28 @@
     },
     {
       "album": {
+        "name": "Fiza",
+        "url": "https://open.spotify.com/album/4Fx7HZinHEJuW9HWEsPONG"
+      },
+      "artists": [
+        {
+          "name": "HYDR",
+          "url": "https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw"
+        },
+        {
+          "name": "PDNY",
+          "url": "https://open.spotify.com/artist/2nggEHrLwzTQfv5gliPZQd"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Fiza",
+      "url": "https://open.spotify.com/track/6rq5mLyAIrPCWsjnRqDbFE"
+    },
+    {
+      "album": {
         "name": "Friday",
         "url": "https://open.spotify.com/album/1CmVkSA2F3ypX2iidGsa8g"
       },
@@ -6172,6 +6194,32 @@
       "duration_ms": 218400,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/5rpCUsEfBLIumvrxrahnKF"
+    },
+    {
+      "album": {
+        "name": "Lost Path",
+        "url": "https://open.spotify.com/album/67clB5WzzIq1DOydWKGVIX"
+      },
+      "artists": [
+        {
+          "name": "Ali Raza",
+          "url": "https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC"
+        },
+        {
+          "name": "Shajjar Hussain",
+          "url": "https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv"
+        },
+        {
+          "name": "Ali & Shjr",
+          "url": "https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144001,
+      "name": "Wishful",
+      "url": "https://open.spotify.com/track/2e7DgiuK7mCDvYHTmMZilD"
     },
     {
       "album": {

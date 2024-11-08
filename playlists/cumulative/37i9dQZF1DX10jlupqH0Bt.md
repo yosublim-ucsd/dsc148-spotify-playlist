@@ -4,7 +4,7 @@
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-86 songs - 4 hr 3 min
+87 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [852 Hz Prismatic Pathways](https://open.spotify.com/track/1QL3c88UYwTWKVsxsw2k0l) | [Superiors](https://open.spotify.com/artist/0wP28uWYOdpcMbUgOotRS4) | [852 Hz Prismatic Pathways](https://open.spotify.com/album/5CzZUkRV4KBju9hH5HQcL5) | 2:42 | 2023-11-30 |  |
 | [852 Hz Quantum Healing](https://open.spotify.com/track/6baWSwcYW5FHWClLyU9qfH) | [Magnapinna](https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4) | [852 Hz Quantum Healing](https://open.spotify.com/album/52iSwVNPIJN7sMOJ82xfcT) | 3:11 | 2024-05-11 |  |
 | [852 Hz Reconnection](https://open.spotify.com/track/58zKGcuLXoHbDHQVy4sci5) | [Sigmund Clyde](https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F) | [852 Hz Reconnection](https://open.spotify.com/album/1Vg5ZoxB8INXLiEbMaQh1S) | 2:23 | 2024-06-11 |  |
+| [852 Hz Regeneration](https://open.spotify.com/track/0JtEglAAtgmEN7UMTZDBED) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [852 Hz Regeneration](https://open.spotify.com/album/2WnlkqIZ9HNb3GmFRrDDbf) | 3:01 | 2024-11-07 |  |
 | [852 Hz Release](https://open.spotify.com/track/7hL171cw6hPhXsHdXWRiyC) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Release \(Solfeggio Frequencies\)](https://open.spotify.com/album/0TrfvDeHiLuaCQcse8GVjf) | 2:22 | 2023-08-07 |  |
 | [852 Hz Solfeggio Frequency](https://open.spotify.com/track/1BlShSC3ve29Ot3wFSrnVF) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [852 Hz Solfeggio Frequency](https://open.spotify.com/album/6YXl3OaEfbc3QwjBhrHVaI) | 2:29 | 2023-03-10 | 2023-12-07 |
 | [852 Hz Soothe Anxiety](https://open.spotify.com/track/1l3mTHxVzws34jKfWmXH0M) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [852 Hz Soothe Anxiety](https://open.spotify.com/album/5pfGTMLg9ot9u4HlUyiniK) | 2:29 | 2023-03-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Man/Woman/Chainsaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,484 likes - 107 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,520 likes - 107 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

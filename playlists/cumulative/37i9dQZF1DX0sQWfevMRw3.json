@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "DET G\u00c5R UPP O NER!!",
+  "description": "JAG SKULLE D\u00d6 F\u00d6R DIG!!",
   "name": "30 km/h",
   "tracks": [
     {
@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 171519,
       "name": "BARA TA MIG",
       "url": "https://open.spotify.com/track/0hCsQLQ2AUjU1VfXgqfsZK"
@@ -3634,7 +3634,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 145714,
       "name": "DANSAR MED N\u00c5N ANNAN",
       "url": "https://open.spotify.com/track/1S4121LwgZXMi99EIDhBLU"
@@ -4250,7 +4250,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 112063,
       "name": "Do Wah Diddy Diddy",
       "url": "https://open.spotify.com/track/31FCjDzPxVgG9fxkq9kIIA"
@@ -5301,6 +5301,28 @@
     },
     {
       "album": {
+        "name": "D\u00d6",
+        "url": "https://open.spotify.com/album/2nkEqixxTmd9E7umk0OUwG"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155694,
+      "name": "D\u00d6",
+      "url": "https://open.spotify.com/track/6xQhvjACkxeuaRIH25UizF"
+    },
+    {
+      "album": {
         "name": "D\u00f6dade festen",
         "url": "https://open.spotify.com/album/1Gf6R1Pkj8StrSJJVarrZT"
       },
@@ -5342,6 +5364,32 @@
       "duration_ms": 124830,
       "name": "E (Ventex)",
       "url": "https://open.spotify.com/track/0nZPJ83AFwWPNSMrS2Jr5J"
+    },
+    {
+      "album": {
+        "name": "E.P.A (EPIC PHAT ASS)",
+        "url": "https://open.spotify.com/album/7vzgC6UdYkNB1H67sebwPK"
+      },
+      "artists": [
+        {
+          "name": "Sevzen X Caal",
+          "url": "https://open.spotify.com/artist/4VdryM6mhgN4lN4FyYVrak"
+        },
+        {
+          "name": "NORTHMAN",
+          "url": "https://open.spotify.com/artist/5kt8j80J42mVsbDqAluBBk"
+        },
+        {
+          "name": "2CAL",
+          "url": "https://open.spotify.com/artist/1fPbNYaMRfAqCedbCdvFbT"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153427,
+      "name": "E.P.A (EPIC PHAT ASS)",
+      "url": "https://open.spotify.com/track/5yepeupwkCuKBoSgg6GLIM"
     },
     {
       "album": {
@@ -6168,7 +6216,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 171704,
       "name": "EY\u00b4BRO",
       "url": "https://open.spotify.com/track/61W632n3aTmLzNcO3BbkbU"
@@ -7826,7 +7874,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 141360,
       "name": "FULLA",
       "url": "https://open.spotify.com/track/2elQQCpDbMJZyFntQB8jFM"
@@ -8016,7 +8064,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 144732,
       "name": "Funny Bunny",
       "url": "https://open.spotify.com/track/17dij4IVZTlTOC0eHpBgOG"
@@ -9884,6 +9932,32 @@
       "duration_ms": 100000,
       "name": "HEJ TOMTEGUBBAR",
       "url": "https://open.spotify.com/track/3c0besSUqbItxZ9oWchwC2"
+    },
+    {
+      "album": {
+        "name": "HEJSAN HOPPSAN",
+        "url": "https://open.spotify.com/album/2vhz8FpzSlZaIJhGEgCZx4"
+      },
+      "artists": [
+        {
+          "name": "FESTEN",
+          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
+        },
+        {
+          "name": "JulleMeck",
+          "url": "https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32"
+        },
+        {
+          "name": "SNORUNGEN",
+          "url": "https://open.spotify.com/artist/4gjekSffN5ZROTdwWg4oDn"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123857,
+      "name": "HEJSAN HOPPSAN",
+      "url": "https://open.spotify.com/track/1rZPdTKzDl6y2UeEboezRm"
     },
     {
       "album": {
@@ -12516,7 +12590,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 140353,
       "name": "KAOS",
       "url": "https://open.spotify.com/track/6Bkp5yMtYhN0qSSUP0pmxk"
@@ -13142,7 +13216,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 150501,
       "name": "K\u00f6r Ba' K\u00f6r",
       "url": "https://open.spotify.com/track/6Mxe947VeRmLuH6L1GBb9i"
@@ -13346,7 +13420,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 131412,
       "name": "LANDET RUNT",
       "url": "https://open.spotify.com/track/0iS1wFoFeZapLpdTgfHvXG"
@@ -15936,7 +16010,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 174750,
       "name": "N\u00c4R VI TV\u00c5 BLIR EN",
       "url": "https://open.spotify.com/track/3ltrPjhN9HFbA3c1hKIF1E"
@@ -16130,7 +16204,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 158896,
       "name": "Om du var min",
       "url": "https://open.spotify.com/track/520OGfBzjjGqVLO52KPvvC"
@@ -16496,6 +16570,28 @@
       "duration_ms": 173709,
       "name": "Paradise - Topic Remix",
       "url": "https://open.spotify.com/track/4PZW5GQCtmdHAocDXLdU4j"
+    },
+    {
+      "album": {
+        "name": "PARTNER IN CRIME",
+        "url": "https://open.spotify.com/album/2qWgv0VYF67K7rlpoByRv7"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        },
+        {
+          "name": "Woodie",
+          "url": "https://open.spotify.com/artist/0qrmko0TC9xE41TtCejiTx"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149560,
+      "name": "PARTNER IN CRIME",
+      "url": "https://open.spotify.com/track/2J6Uy8vlBhgr3NPrM52P5m"
     },
     {
       "album": {
@@ -18803,6 +18899,28 @@
     },
     {
       "album": {
+        "name": "RULLAR IN",
+        "url": "https://open.spotify.com/album/7yRoqftvXd4La1cd7HIqb3"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "Jonte Borg",
+          "url": "https://open.spotify.com/artist/4qrNp0nO6WwQWGIeTSblvA"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136216,
+      "name": "RULLAR IN",
+      "url": "https://open.spotify.com/track/0ktEsvvcUdZoupi1EUS9KL"
+    },
+    {
+      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/2jGilBxBmfAiXeMqypCpH6"
       },
@@ -20586,7 +20704,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 149499,
       "name": "Soffa fr\u00e5n IKEA",
       "url": "https://open.spotify.com/track/31hIfKm7C5TroLqa2Lubap"
@@ -22075,6 +22193,32 @@
     },
     {
       "album": {
+        "name": "SVENSKA MODELLEN",
+        "url": "https://open.spotify.com/album/3p8W2Ai8PWudT43PlZwjAr"
+      },
+      "artists": [
+        {
+          "name": "BR0D3R",
+          "url": "https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow"
+        },
+        {
+          "name": "Akin Jensen",
+          "url": "https://open.spotify.com/artist/07wIp9CHYFGgNTlm0XmdvX"
+        },
+        {
+          "name": "MOTST\u00c5NDET",
+          "url": "https://open.spotify.com/artist/24cX24UEMEKK1d8gfaSvh4"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120685,
+      "name": "SVENSKA MODELLEN",
+      "url": "https://open.spotify.com/track/6UBPIa6mQRtEPAwAUOzPwK"
+    },
+    {
+      "album": {
         "name": "Svensson Style",
         "url": "https://open.spotify.com/album/4NVtqn3qcDplxVC7DTEvUM"
       },
@@ -22542,6 +22686,24 @@
       "duration_ms": 135232,
       "name": "Ta mig till Dalarna",
       "url": "https://open.spotify.com/track/6Yw67maLVGfCBNAwGUAC3r"
+    },
+    {
+      "album": {
+        "name": "TACKA VET JA TURBODIESEL",
+        "url": "https://open.spotify.com/album/4YdjplSWknlQrYC2DF3oRX"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "TACKA VET JA TURBODIESEL",
+      "url": "https://open.spotify.com/track/53uQQAp0IryPtMpLj03TaO"
     },
     {
       "album": {
@@ -23130,6 +23292,28 @@
       "duration_ms": 147187,
       "name": "Tio Glas Tequila",
       "url": "https://open.spotify.com/track/2Y8pfuI8RhR1D5apJnskwG"
+    },
+    {
+      "album": {
+        "name": "Tio Glas Tequila (Dunk Remix)",
+        "url": "https://open.spotify.com/album/7r1tYoKWDYU7dyFUuWs0Eu"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        },
+        {
+          "name": "Dunk",
+          "url": "https://open.spotify.com/artist/4UZTdOARB7GGhqWQXSbDYO"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114374,
+      "name": "Tio Glas Tequila - Dunk Remix",
+      "url": "https://open.spotify.com/track/6yiRIPgXJWB8px80bWaSyW"
     },
     {
       "album": {
@@ -24952,7 +25136,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 142017,
       "name": "Vill du ligga med mig?",
       "url": "https://open.spotify.com/track/540Daxp4wDamokVFvU6qa2"
@@ -25066,7 +25250,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 117980,
       "name": "VIVA LA GUNILLA - MADNEZZ SPED UP REMIX",
       "url": "https://open.spotify.com/track/1lFbLg9oKO5F0XZ9zWqKJl"
@@ -25836,6 +26020,28 @@
       "duration_ms": 160031,
       "name": "WUNDERBAUMDOFT",
       "url": "https://open.spotify.com/track/4lgQSoT2zldiM0mSaD93i5"
+    },
+    {
+      "album": {
+        "name": "xINGEN VANLIG TJEJx",
+        "url": "https://open.spotify.com/album/0r6ytLz1V4bmIf8uxOnQAg"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "Vindr\u00f3s",
+          "url": "https://open.spotify.com/artist/7Li3iBTpdvdVzXalcOZDe5"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148037,
+      "name": "xINGEN VANLIG TJEJx",
+      "url": "https://open.spotify.com/track/4scwxMjLyqqxRylWgotXHA"
     },
     {
       "album": {

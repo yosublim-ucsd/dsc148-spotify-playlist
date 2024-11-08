@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Best of hip-hop tracks from South Asia. Cover:  Karan Aujla",
+  "description": "Best of DHH. Cover:  Karan Aujla",
   "name": "Desi Hip Hop",
   "tracks": [
     {
@@ -520,7 +520,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 271698,
       "name": "Agency",
       "url": "https://open.spotify.com/track/5ZCHWdMgsdoo78m9prkhOR"
@@ -1909,6 +1909,28 @@
     },
     {
       "album": {
+        "name": "Worth The Wait",
+        "url": "https://open.spotify.com/album/0exmK0iMT8apkRqNHMJSy5"
+      },
+      "artists": [
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157868,
+      "name": "Death Wish",
+      "url": "https://open.spotify.com/track/3UxpWx6vH0qx9iTyy8m80I"
+    },
+    {
+      "album": {
         "name": "Dhandho",
         "url": "https://open.spotify.com/album/2hxpQXOmHz7G9R4Au6cpZG"
       },
@@ -3210,7 +3232,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 116046,
       "name": "Introduction",
       "url": "https://open.spotify.com/track/62NkzAFZKNOe6arO1lSFm0"
@@ -3915,6 +3937,28 @@
     },
     {
       "album": {
+        "name": "Lajawab 2",
+        "url": "https://open.spotify.com/album/0Ixa9LHCt8CDIwr612ivLE"
+      },
+      "artists": [
+        {
+          "name": "Taimour Baig",
+          "url": "https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi"
+        },
+        {
+          "name": "Raffey Anwar",
+          "url": "https://open.spotify.com/artist/7rEwKApsZMo8cXVxAndmvD"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247222,
+      "name": "Lajawab 2",
+      "url": "https://open.spotify.com/track/4hW05EpAOeARUFI7pLwpRx"
+    },
+    {
+      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/2hDCaT5LQPPTH6ASCqwZFB"
       },
@@ -4096,7 +4140,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 181682,
       "name": "Living In The City",
       "url": "https://open.spotify.com/track/6f9Fi68sUYdZyG47tYzBVV"
@@ -4991,6 +5035,50 @@
     },
     {
       "album": {
+        "name": "No Need",
+        "url": "https://open.spotify.com/album/70I8PM8TxctVAZWKQ5jtuA"
+      },
+      "artists": [
+        {
+          "name": "aleemrk",
+          "url": "https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "No Need",
+      "url": "https://open.spotify.com/track/4RFJxn4303SGvL3A5AlaJO"
+    },
+    {
+      "album": {
+        "name": "No Other Place",
+        "url": "https://open.spotify.com/album/3XeDCITy8mOpFzCgixAO9a"
+      },
+      "artists": [
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190877,
+      "name": "No Other Place",
+      "url": "https://open.spotify.com/track/1GwcxZZvnshqiDqeD7EP8D"
+    },
+    {
+      "album": {
         "name": "No Reason",
         "url": "https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY"
       },
@@ -5657,6 +5745,32 @@
     },
     {
       "album": {
+        "name": "Raabta",
+        "url": "https://open.spotify.com/album/6BS9aJwclV875I7g858AhH"
+      },
+      "artists": [
+        {
+          "name": "Jokhay",
+          "url": "https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Hashim Nawaz",
+          "url": "https://open.spotify.com/artist/2zurwnLzcPvY8n3jJEse5E"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285529,
+      "name": "Raabta",
+      "url": "https://open.spotify.com/track/6mLglxgctAaoOwMC5QaCB0"
+    },
+    {
+      "album": {
         "name": "HARD DRIVE Vol. 1",
         "url": "https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv"
       },
@@ -6297,6 +6411,28 @@
     },
     {
       "album": {
+        "name": "ghosts, and goodbyes",
+        "url": "https://open.spotify.com/album/13HPCeCDTiQP4oljsHNygo"
+      },
+      "artists": [
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228705,
+      "name": "smile",
+      "url": "https://open.spotify.com/track/7yHoWylfxxYpOYkeWT0IqD"
+    },
+    {
+      "album": {
         "name": "Snake",
         "url": "https://open.spotify.com/album/6We7h51iTPzUEF03P8RVNd"
       },
@@ -6842,6 +6978,28 @@
       "duration_ms": 198805,
       "name": "Tu Te Kehndi C",
       "url": "https://open.spotify.com/track/77qPjPg8XG5lGXGR3EWCo3"
+    },
+    {
+      "album": {
+        "name": "Unsure",
+        "url": "https://open.spotify.com/album/3je0rSVbred7JMg2LVh4jT"
+      },
+      "artists": [
+        {
+          "name": "Umer Anjum",
+          "url": "https://open.spotify.com/artist/1mpkZnWbtXXPB5QitvCnMV"
+        },
+        {
+          "name": "Z4NE",
+          "url": "https://open.spotify.com/artist/2td2YE8f304mP6oNBip6dZ"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216493,
+      "name": "Unsure",
+      "url": "https://open.spotify.com/track/1tsSrHpdlziakBHylF6Bda"
     },
     {
       "album": {

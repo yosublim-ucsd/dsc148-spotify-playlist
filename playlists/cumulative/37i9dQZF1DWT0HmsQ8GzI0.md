@@ -68,7 +68,7 @@
 | [hovászöktél?](https://open.spotify.com/track/3Dp1DSaQEVU9HP7nZM2Ne3) | [STAiR](https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai) | [hovászöktél?](https://open.spotify.com/album/6ozRjx8jd0Iddux3HxqWhL) | 2:12 | 2024-06-28 |  |
 | [Hullócsillag](https://open.spotify.com/track/4DGAgKKi6DBuztTTbnHE63) | [B\. Nagy Réka](https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1), [Beretka Ádám](https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6) | [Hullócsillag](https://open.spotify.com/album/6PdCoLIgZmQCImlOuCsvfI) | 3:18 | 2024-06-28 |  |
 | [Huszonegy](https://open.spotify.com/track/17DqocwisbHAZuB30WMRh3) | [Beretka Ádám](https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6) | [Huszonegy](https://open.spotify.com/album/3KzRo4vfpoVuYcnnb3xVp6) | 2:50 | 2024-07-26 | 2024-09-21 |
-| [HÁTSÓÜLÉS](https://open.spotify.com/track/1XlaUIqhhlQEawbmXRBwoH) | [Hűvös](https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA) | [HÁTSÓÜLÉS](https://open.spotify.com/album/4rGgQ1ls5uTQkPw378BK3W) | 3:35 | 2024-06-28 | 2024-10-05 |
+| [HÁTSÓÜLÉS](https://open.spotify.com/track/1XlaUIqhhlQEawbmXRBwoH) | [Hűvös](https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA) | [HÁTSÓÜLÉS](https://open.spotify.com/album/4rGgQ1ls5uTQkPw378BK3W) | 3:35 | 2024-06-28 |  |
 | [Héjanász](https://open.spotify.com/track/1s1xGPOO6GbNoTTX4ih0bt) | [Aurevoir.](https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw) | [Héjanász](https://open.spotify.com/album/3BxGAiRcjuzbGPR5jdgbxr) | 3:08 | 2024-06-28 |  |
 | [I'M OK](https://open.spotify.com/track/5AEg3Mzvi2R1ub0gC1fFkh) | [PRIBELSZKI](https://open.spotify.com/artist/6ZHMYSQiWKGHPgme6nAzTW) | [I'M OK](https://open.spotify.com/album/2bkmcYbQ2qxT8HBQQOVYpE) | 2:39 | 2024-07-04 | 2024-08-03 |
 | [Jövő nyáron](https://open.spotify.com/track/7CTnQCxHEQetArx4SPc4nT) | [MOVA](https://open.spotify.com/artist/5pRuMhSXgVlVZoLgplJGlx), [DOÓR](https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o) | [Jövő nyáron](https://open.spotify.com/album/5tKN9PO1ZgZUHWsIQctOCR) | 2:32 | 2024-06-28 | 2024-08-30 |
@@ -157,6 +157,6 @@
 | [Zenekar \- 5 főre](https://open.spotify.com/track/5MKvuUgVdEmRAXKKrtLWxy) | [Csaknekedkislány](https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ) | [Zenekar \(5 főre\)](https://open.spotify.com/album/2R5j3oqN0v404WTG8w4toT) | 3:17 | 2024-06-28 |  |
 | [Átlátszó](https://open.spotify.com/track/4r6LhrgmdHilfBaGaAvE5q) | [Czeglady](https://open.spotify.com/artist/6uTpA5i7V2IfR8FOOZiLWm) | [Átlátszó](https://open.spotify.com/album/0E6ul4uHmLw29Hvi8cKcHJ) | 3:41 | 2024-09-05 | 2024-09-21 |
 | [Élni Akarok](https://open.spotify.com/track/3Z0PtCN7BTKA7IAknTyObV) | [Brenka](https://open.spotify.com/artist/4MmwQpDMe7vE4E0q4Va7PW) | [Élni Akarok](https://open.spotify.com/album/5yc9NEMfOlQ6hLWn5iEgO0) | 2:54 | 2024-06-28 | 2024-07-27 |
-| [Én velem](https://open.spotify.com/track/5Zvi5IKLByksDaExqIQxi0) | [TELEHOLD](https://open.spotify.com/artist/1NJkIQiWmJJFtrNFuMNrQ1) | [Éjszakai](https://open.spotify.com/album/4ZRJI3QVp81F4KP20SsITO) | 3:30 | 2024-10-04 |  |
+| [Én velem](https://open.spotify.com/track/5Zvi5IKLByksDaExqIQxi0) | [TELEHOLD](https://open.spotify.com/artist/1NJkIQiWmJJFtrNFuMNrQ1) | [Éjszakai](https://open.spotify.com/album/4ZRJI3QVp81F4KP20SsITO) | 3:30 | 2024-10-04 | 2024-11-08 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

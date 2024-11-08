@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Maureen x Blaiz Fayah",
+  "description": "Les hits dancehall du moment. Photo : Kybba",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -639,6 +639,32 @@
     },
     {
       "album": {
+        "name": "Badman Party",
+        "url": "https://open.spotify.com/album/4XCePJwzv9wGnj5SqfBmLs"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Sukuward",
+          "url": "https://open.spotify.com/artist/0HTe090uRvK2wjx8rdIOl3"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111690,
+      "name": "Badman Party",
+      "url": "https://open.spotify.com/track/4fhi1faidAMJkWkVLjq7iK"
+    },
+    {
+      "album": {
         "name": "MIKATUSS",
         "url": "https://open.spotify.com/album/4wiic4l4CDpnvaIBBpnbUb"
       },
@@ -1220,6 +1246,28 @@
       "duration_ms": 168394,
       "name": "Bong Bing",
       "url": "https://open.spotify.com/track/2Nk5EgP9wXa3bpTU8V4i5t"
+    },
+    {
+      "album": {
+        "name": "Bonjouw madam",
+        "url": "https://open.spotify.com/album/6iysVkqm1e5n6vECUfyUcH"
+      },
+      "artists": [
+        {
+          "name": "Naamix",
+          "url": "https://open.spotify.com/artist/0mpw52i7RGRiSk9Ubh7oeG"
+        },
+        {
+          "name": "DJ Digital",
+          "url": "https://open.spotify.com/artist/66aQVAZJUg9c4ZNOQaxjvN"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93057,
+      "name": "Bonjouw madam",
+      "url": "https://open.spotify.com/track/07EhYk8xZW6gcwiBCYoQa1"
     },
     {
       "album": {
@@ -1988,7 +2036,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 168333,
       "name": "Code 97",
       "url": "https://open.spotify.com/track/756ErmT4AiOj7uQjFna3r6"
@@ -3106,6 +3154,24 @@
       "duration_ms": 193170,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4Lv6Jh52ZV2T7Zfr9KMsul"
+    },
+    {
+      "album": {
+        "name": "Friday",
+        "url": "https://open.spotify.com/album/1Kuj8UG83VKYtLPcuE7Ylr"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131071,
+      "name": "Friday",
+      "url": "https://open.spotify.com/track/44uSkhcewItyroMzNr6rFF"
     },
     {
       "album": {
@@ -5234,7 +5300,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 134857,
       "name": "MAYA",
       "url": "https://open.spotify.com/track/6cqJJDfbciv7LUVB384DHw"
@@ -7954,7 +8020,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 158359,
       "name": "Sit Down",
       "url": "https://open.spotify.com/track/2yoSCIiSDgHGj71QRa2bjV"

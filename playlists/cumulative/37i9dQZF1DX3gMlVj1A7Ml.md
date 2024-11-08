@@ -4,7 +4,7 @@
 
 > Ascultă  la volum maxim vocile feminine din România într\-un playlist realizat împreună cu Alexandra Stan
 
-145 songs - 6 hr 51 min
+146 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Idee de iubire](https://open.spotify.com/track/73pTwDVMPgzxe7lPjvmeev) | [Alessiah](https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw) | [Idee de iubire](https://open.spotify.com/album/4QsHdzZjOPqGccVQTjptPQ) | 2:57 | 2024-09-03 | 2024-10-03 |
 | [Ileană, Ileană](https://open.spotify.com/track/7JOpjhwH4T8vobkhwygmMw) | [Eneli](https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe) | [Ileană, Ileană](https://open.spotify.com/album/5W3DHL9XELsn944IcTvtzK) | 2:14 | 2024-11-05 |  |
 | [Imuni la bine](https://open.spotify.com/track/5rCM81EFhyptgNSVC0CMwF) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk), [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb) | [Imuni la bine](https://open.spotify.com/album/4OlJvzv0mpqqV3JbaSIlxk) | 2:39 | 2024-06-04 | 2024-07-03 |
+| [In Romania](https://open.spotify.com/track/7aIO2KrOoCYYEIlSA1vE0d) | [Eligarf](https://open.spotify.com/artist/1fSjxCfL4aaUoQ9ATRLtAq) | [In Romania](https://open.spotify.com/album/44LByVLnWvFj7AUNRwU1cE) | 2:38 | 2024-11-05 |  |
 | [Industry Plant](https://open.spotify.com/track/1924pMXd4mgINZFpx7dMz2) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Industry Plant](https://open.spotify.com/album/30GzP0Sof2eLSK476b4nN6) | 2:24 | 2024-06-04 | 2024-08-07 |
 | [INTERSTELAR](https://open.spotify.com/track/1rC08i64aW1FyWpOsqVr4q) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [INTERSTELAR](https://open.spotify.com/album/6SIVlUkMCTjaCN2rDzFn4R) | 2:55 | 2024-11-05 |  |
 | [Iubirea mea e cu tupeu](https://open.spotify.com/track/6GntlpK8FxVDVFIWDm1ii1) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Iubirea mea e cu tupeu](https://open.spotify.com/album/3xwNG7a4a7nr6Y0EJfyjCn) | 2:40 | 2024-06-04 | 2024-08-07 |

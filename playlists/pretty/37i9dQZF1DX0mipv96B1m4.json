@@ -1,6 +1,6 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1317,
+  "num_followers": 1322,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
@@ -463,26 +463,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Pull Up On Mi Bumpa",
-        "url": "https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc"
-      },
-      "artists": [
-        {
-          "name": "Cindy Sanyu",
-          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
-        },
-        {
-          "name": "Mungo's Hi Fi",
-          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
-        }
-      ],
-      "duration_ms": 227896,
-      "name": "Pull Up On Mi Bumpa",
-      "url": "https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Hot Like Dat",
         "url": "https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 166736,
       "name": "Hot Like Dat",
       "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Pull Up On Mi Bumpa",
+        "url": "https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc"
+      },
+      "artists": [
+        {
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
+        },
+        {
+          "name": "Mungo's Hi Fi",
+          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
+        }
+      ],
+      "duration_ms": 227896,
+      "name": "Pull Up On Mi Bumpa",
+      "url": "https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Doctor",
+        "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        }
+      ],
+      "duration_ms": 193859,
+      "name": "Doctor",
+      "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Getting Better",
         "url": "https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 245363,
       "name": "Getting Better",
       "url": "https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Doctor",
-        "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
-      },
-      "artists": [
-        {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
-        }
-      ],
-      "duration_ms": 193859,
-      "name": "Doctor",
-      "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Randomly",
-        "url": "https://open.spotify.com/album/3riIOAhXg6Zo3GNze6M08e"
-      },
-      "artists": [
-        {
-          "name": "Beenie Gunter",
-          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "Randomly",
-      "url": "https://open.spotify.com/track/1Fv38gwrECsHY2LyNwsnl1"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Bakuwe",
         "url": "https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 186000,
       "name": "Bakuwe",
       "url": "https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Randomly",
+        "url": "https://open.spotify.com/album/3riIOAhXg6Zo3GNze6M08e"
+      },
+      "artists": [
+        {
+          "name": "Beenie Gunter",
+          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
+        }
+      ],
+      "duration_ms": 163846,
+      "name": "Randomly",
+      "url": "https://open.spotify.com/track/1Fv38gwrECsHY2LyNwsnl1"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -955,18 +955,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Oli Wamanyi",
-        "url": "https://open.spotify.com/album/2mDRR9bvkyJ1hvh3PLdSo0"
+        "name": "Bway",
+        "url": "https://open.spotify.com/album/2oyPRzbOFDVKeyfab6xyhL"
       },
       "artists": [
         {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+          "name": "Quin Smile Music",
+          "url": "https://open.spotify.com/artist/1InILV09fJQzl6DLz72Dao"
+        },
+        {
+          "name": "DJ Shiru",
+          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Oli Wamanyi",
-      "url": "https://open.spotify.com/track/5rRlxoSTCymLQpR1Ry8Auw"
+      "duration_ms": 158458,
+      "name": "Bway",
+      "url": "https://open.spotify.com/track/6uxpaa14GscoCL8kY8X81j"
     }
   ],
   "unique_name": "Kidandali Parte",

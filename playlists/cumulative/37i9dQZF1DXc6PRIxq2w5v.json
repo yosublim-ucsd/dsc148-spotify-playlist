@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 126000,
       "name": "3 da Manh\u00e3",
       "url": "https://open.spotify.com/track/3WO1XTzR27BtLuy8fTtmsw"
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 209395,
       "name": "Casa Sem a Gra\u00e7a",
       "url": "https://open.spotify.com/track/3xOMVx3JeUEgbxlVdKMBm0"
@@ -5797,6 +5797,28 @@
     },
     {
       "album": {
+        "name": "DU NADA - Parte 1",
+        "url": "https://open.spotify.com/album/6iaxiSkVYxkN9m3Nn89cjS"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        },
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210169,
+      "name": "Nunca Mais (Cita\u00e7\u00e3o: Al\u00e9m Do Rio Azul)",
+      "url": "https://open.spotify.com/track/1p5MFpBj915iJMAo0gaJds"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Julgueis?",
         "url": "https://open.spotify.com/album/21rwhMiJ99bEaA27i4iHGH"
       },
@@ -9230,6 +9252,28 @@
       "duration_ms": 154390,
       "name": "Vazio",
       "url": "https://open.spotify.com/track/1m6fkCIQwEMKHbG0l8MWl2"
+    },
+    {
+      "album": {
+        "name": "Venha Me Curar",
+        "url": "https://open.spotify.com/album/4A5DjAfPBX0D7jasUOcUO5"
+      },
+      "artists": [
+        {
+          "name": "ALAHAC",
+          "url": "https://open.spotify.com/artist/1oPfb394XrTFAaiXdAvJbz"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119917,
+      "name": "Venha Me Curar",
+      "url": "https://open.spotify.com/track/5YwozH8wdIisk3FuXiM2C7"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Smash Into Pieces",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Chiefland",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 162805,
       "name": "ALL IN MY HEAD",
       "url": "https://open.spotify.com/track/7EapAReosYwfwAZbFYJysV"
@@ -426,7 +426,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 223992,
       "name": "American Horse (feat. John Cooper of Skillet and Ayron Jones)",
       "url": "https://open.spotify.com/track/30Qr90fqL0EvHCqc0pJz7H"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 175000,
       "name": "Angry Cry",
       "url": "https://open.spotify.com/track/3ge4mUDuQFneD2ykjguj3D"
@@ -702,6 +702,28 @@
       "duration_ms": 228260,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/4b3f0U8gOfJKyxB8cYdCiw"
+    },
+    {
+      "album": {
+        "name": "Ballerina",
+        "url": "https://open.spotify.com/album/3AxzoUigdPzyJeABdeki41"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        },
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Ballerina (with The Word Alive)",
+      "url": "https://open.spotify.com/track/6I3bYyPJGUxqiKp4pIv4SC"
     },
     {
       "album": {
@@ -1681,6 +1703,24 @@
     },
     {
       "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/6jNaKHEccIUHK0zYde2gyn"
+      },
+      "artists": [
+        {
+          "name": "H-Blockx",
+          "url": "https://open.spotify.com/artist/1V3Nl0Y3EZwqP38KHws6vB"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198681,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/4LpahbtUGyMaysuVSzi7y7"
+    },
+    {
+      "album": {
         "name": "Feedback",
         "url": "https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP"
       },
@@ -1696,6 +1736,24 @@
       "duration_ms": 152963,
       "name": "Feedback",
       "url": "https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH"
+    },
+    {
+      "album": {
+        "name": "Last Legends",
+        "url": "https://open.spotify.com/album/6v2mSLE5CO0qXmxdIEAnLq"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Fighting For",
+      "url": "https://open.spotify.com/track/6K7PFQKztExvMosbnlpOQD"
     },
     {
       "album": {
@@ -1718,6 +1776,24 @@
       "duration_ms": 173831,
       "name": "Flame",
       "url": "https://open.spotify.com/track/3wKrTUsTyHA0BPzoyOe1kO"
+    },
+    {
+      "album": {
+        "name": "Forever Cold",
+        "url": "https://open.spotify.com/album/4WmIS78V0gBBoYpKvXSZtc"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283714,
+      "name": "Forever Cold",
+      "url": "https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY"
     },
     {
       "album": {
@@ -1946,6 +2022,24 @@
       "duration_ms": 168280,
       "name": "GOSSIP (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
+    },
+    {
+      "album": {
+        "name": "Sentiment Valley",
+        "url": "https://open.spotify.com/album/3wcZGDA4GuhywW609ZaSrR"
+      },
+      "artists": [
+        {
+          "name": "Chiefland",
+          "url": "https://open.spotify.com/artist/0u85oIp6ihTxfPkGuECDiW"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186795,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/5cPZPo5MArJShiaAaL9TGN"
     },
     {
       "album": {
@@ -2588,7 +2682,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 192000,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/3iWSfaHoiphVIBMIwJHzpJ"
@@ -2732,7 +2826,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 213049,
       "name": "Lion Rumpus",
       "url": "https://open.spotify.com/track/2les6HNKPpydYUgWfkl7aA"
@@ -2902,6 +2996,32 @@
       "duration_ms": 214053,
       "name": "Make It All Right",
       "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
+    },
+    {
+      "album": {
+        "name": "Make Me Feel Alright",
+        "url": "https://open.spotify.com/album/4ngSbRrhcWDXpD9ou6KAvM"
+      },
+      "artists": [
+        {
+          "name": "Lost in Hollywood",
+          "url": "https://open.spotify.com/artist/7r7mwbmR3LZeRdOOklCfWP"
+        },
+        {
+          "name": "SETY\u00d8URSAILS",
+          "url": "https://open.spotify.com/artist/01AynfThIqLCNevTuPSoYk"
+        },
+        {
+          "name": "Jules Mitch",
+          "url": "https://open.spotify.com/artist/4HY3x6qkNiRgsiBcpfrDrU"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203200,
+      "name": "Make Me Feel Alright",
+      "url": "https://open.spotify.com/track/5MutMUzBiao3LC3JYJQTmR"
     },
     {
       "album": {
@@ -3340,7 +3460,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 183000,
       "name": "ONE NATION",
       "url": "https://open.spotify.com/track/7oZn1w8pspTBu7Bps6WRfj"
@@ -3517,6 +3637,24 @@
     },
     {
       "album": {
+        "name": "Pitch Black",
+        "url": "https://open.spotify.com/album/4VxwwXBy1q2a7JJwDz4EqS"
+      },
+      "artists": [
+        {
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265188,
+      "name": "Pitch Black",
+      "url": "https://open.spotify.com/track/667WclCD8TE4oLsoWkRoNy"
+    },
+    {
+      "album": {
         "name": "As Above, So Below",
         "url": "https://open.spotify.com/album/3zvOwqqjuGh8CZYhx2hgaJ"
       },
@@ -3690,7 +3828,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 223565,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1Fu20YZ9zjaqyrGczvY8g6"
@@ -3820,6 +3958,28 @@
       "duration_ms": 192734,
       "name": "S!CK",
       "url": "https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB"
+    },
+    {
+      "album": {
+        "name": "Self Sabotage (feat. Down And Out)",
+        "url": "https://open.spotify.com/album/0JPXhtGlodWjU3H47VxT2K"
+      },
+      "artists": [
+        {
+          "name": "Comastatic",
+          "url": "https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF"
+        },
+        {
+          "name": "Down And Out",
+          "url": "https://open.spotify.com/artist/7EfK0VXLHjPEysgWDnAyYH"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167611,
+      "name": "Self Sabotage (feat. Down And Out)",
+      "url": "https://open.spotify.com/track/3jhoLy0PX091ZnsIE0cQCL"
     },
     {
       "album": {
@@ -4145,6 +4305,24 @@
     },
     {
       "album": {
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/3ao2YSxNYME3q7hbQgW8Yi"
+      },
+      "artists": [
+        {
+          "name": "The Peacocks",
+          "url": "https://open.spotify.com/artist/1TbYupFfyThVOE79skyzxo"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170155,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/7m9GOg7ImIQ0CxuwhLaKb4"
+    },
+    {
+      "album": {
         "name": "sTraNgeRs",
         "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
       },
@@ -4243,6 +4421,28 @@
     },
     {
       "album": {
+        "name": "Take Me Away When You Go",
+        "url": "https://open.spotify.com/album/3IfN5VTg8odtiMsdKWjAA4"
+      },
+      "artists": [
+        {
+          "name": "Basement Gary",
+          "url": "https://open.spotify.com/artist/7zse5STLZ5qD4mJEUU4tX5"
+        },
+        {
+          "name": "Elm Tree Circle",
+          "url": "https://open.spotify.com/artist/0exWPi1dCLZq8QlHCLTZh4"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144211,
+      "name": "Take Me Away When You Go",
+      "url": "https://open.spotify.com/track/37bXnEg4XoBeRPHBJJS6uS"
+    },
+    {
+      "album": {
         "name": "ONE MORE TIME... PART-2",
         "url": "https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX"
       },
@@ -4326,7 +4526,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 225019,
       "name": "THE DEVIL I KNOW",
       "url": "https://open.spotify.com/track/6HUoEDzOcsT6d8mbY8CsJw"
@@ -4416,7 +4616,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 179786,
       "name": "THE RECKONING",
       "url": "https://open.spotify.com/track/5w3sr7Zq8ad9b8l47n5F9Y"

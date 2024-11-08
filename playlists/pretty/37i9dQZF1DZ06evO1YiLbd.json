@@ -1,12 +1,12 @@
 {
-  "description": "This is Yuki Hayashi. The essential tracks, all in one playlist.",
-  "num_followers": 7567,
-  "original_name": "This Is Yuki Hayashi",
+  "description": "This is \u6797\u3086\u3046\u304d. The essential tracks, all in one playlist.",
+  "num_followers": 7565,
+  "original_name": "This Is \u6797\u3086\u3046\u304d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZylgAAAAAAC9rGVizyS5/O+qk25gHTMW",
+  "snapshot_id": "ZyqxgAAAAABAuMCF4kDeFcMeEvBi6QeV",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Hero Academia: Season 7 (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4byfDUJb8WNsQuCnz2elG1"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Armored All Might",
-      "url": "https://open.spotify.com/track/7nuX3Xc3rs0g83RucMBPU8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
         "url": "https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 160000,
       "name": "\u6094\u3057\u3055",
       "url": "https://open.spotify.com/track/6ZIQnW2s2v6w3iHG8ELt7B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Hero Academia: Season 7 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4byfDUJb8WNsQuCnz2elG1"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Armored All Might",
+      "url": "https://open.spotify.com/track/7nuX3Xc3rs0g83RucMBPU8"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 224573,
-      "name": "\u4e09\u4f4d\u4e00\u4f53",
-      "url": "https://open.spotify.com/track/029gE0tJnnOfGNoV0d4I5C"
+      "duration_ms": 120160,
+      "name": "\u71b1(\u3072\u3060\u308a)\u306f\u7d76\u5bfe\u4f7f\u308f\u306d\u3048",
+      "url": "https://open.spotify.com/track/4SAnyLkFJUhq3YPdELqv0j"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 120160,
-      "name": "\u71b1(\u3072\u3060\u308a)\u306f\u7d76\u5bfe\u4f7f\u308f\u306d\u3048",
-      "url": "https://open.spotify.com/track/4SAnyLkFJUhq3YPdELqv0j"
+      "duration_ms": 224573,
+      "name": "\u4e09\u4f4d\u4e00\u4f53",
+      "url": "https://open.spotify.com/track/029gE0tJnnOfGNoV0d4I5C"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 132866,
-      "name": "\u30aa\u30fc\u30eb\uff65\u30d5\u30a9\u30fc\uff65\u30ef\u30f3",
-      "url": "https://open.spotify.com/track/0fW6pNl1nIgPWaUaCnn4LZ"
+      "duration_ms": 229093,
+      "name": "My Hero Is Our Hero",
+      "url": "https://open.spotify.com/track/2yheZqd9dNuvawJM1lkeAU"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 229093,
-      "name": "My Hero Is Our Hero",
-      "url": "https://open.spotify.com/track/2yheZqd9dNuvawJM1lkeAU"
+      "duration_ms": 78680,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/0DllV6dwG26PTq513ZzUqY"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Hero Academia: World Heroes' Mission (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25LhTa5jwYofUu9qMLrijW"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 113100,
-      "name": "Go Straight!",
-      "url": "https://open.spotify.com/track/6FB9Fhfjx5NJETCcCyzRgb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Hero Academia: Season 7 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/4byfDUJb8WNsQuCnz2elG1"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Hero Academia: World Heroes' Mission (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25LhTa5jwYofUu9qMLrijW"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 113100,
+      "name": "Go Straight!",
+      "url": "https://open.spotify.com/track/6FB9Fhfjx5NJETCcCyzRgb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
       },
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 78680,
-      "name": "Trinity",
-      "url": "https://open.spotify.com/track/0DllV6dwG26PTq513ZzUqY"
+      "duration_ms": 132866,
+      "name": "\u30aa\u30fc\u30eb\uff65\u30d5\u30a9\u30fc\uff65\u30ef\u30f3",
+      "url": "https://open.spotify.com/track/0fW6pNl1nIgPWaUaCnn4LZ"
     },
     {
       "added_at": null,
@@ -723,6 +723,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/4UJcmdbSQERAwTNIL0JxF4"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "PSYCHIC FEVER from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb"
+        }
+      ],
+      "duration_ms": 101866,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/7o7eNpioa3v4pPszRgZvqg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
         "url": "https://open.spotify.com/album/54yg1VofNhuje44hH5ySea"
       },
@@ -735,22 +755,6 @@
       "duration_ms": 201053,
       "name": "\u8d85\u901f\u653b",
       "url": "https://open.spotify.com/track/3QuURNtWiAAAa6dLPLLyx5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u6756\u3068\u5263\u306e\u30a6\u30a3\u30b9\u30c8\u30ea\u30a2\u300f\u97f3\u697d\u6284\u9332 \u5176\u306e\u4f0d",
-        "url": "https://open.spotify.com/album/6wYtwFjaLtHUFKpNdB79R0"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 157413,
-      "name": "Reminiscence",
-      "url": "https://open.spotify.com/track/639mQVVEjmHXAGNSrnBGG5"
     },
     {
       "added_at": null,
@@ -787,28 +791,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/4UJcmdbSQERAwTNIL0JxF4"
+        "name": "Death Parade Original Soundtrack",
+        "url": "https://open.spotify.com/album/22MVfh0OuAn8dv8nWn438G"
       },
       "artists": [
         {
           "name": "Yuki Hayashi",
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        },
-        {
-          "name": "PSYCHIC FEVER from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb"
         }
       ],
-      "duration_ms": 101866,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/7o7eNpioa3v4pPszRgZvqg"
+      "duration_ms": 280760,
+      "name": "moonlit night",
+      "url": "https://open.spotify.com/track/6ebH5PH2IzMkAx2aLoh1dJ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300d 2nd \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR"
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6756\u3068\u5263\u306e\u30a6\u30a3\u30b9\u30c8\u30ea\u30a2\u300f\u97f3\u697d\u6284\u9332 \u5176\u306e\u4f0d",
+        "url": "https://open.spotify.com/album/6wYtwFjaLtHUFKpNdB79R0"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 125240,
-      "name": "\u7206\u6bba\u738b!!",
-      "url": "https://open.spotify.com/track/3zTlEfMGB9sQyyqDQMdlHn"
+      "duration_ms": 157413,
+      "name": "Reminiscence",
+      "url": "https://open.spotify.com/track/639mQVVEjmHXAGNSrnBGG5"
     },
     {
       "added_at": null,
@@ -837,6 +837,6 @@
       "url": "https://open.spotify.com/track/0IjxL2zeHbUCdiXXMzBH7j"
     }
   ],
-  "unique_name": "This Is Yuki Hayashi",
+  "unique_name": "This Is \u6797\u3086\u3046\u304d",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YiLbd"
 }

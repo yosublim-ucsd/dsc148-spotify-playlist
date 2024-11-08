@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La nuova scena indie italiana! Cover: Alek",
+  "description": "La nuova scena indie italiana! Cover: Mazzariello",
   "name": "Scuola Indie",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 196658,
       "name": "))) CORRO FORTE",
       "url": "https://open.spotify.com/track/0NFj78UCztzCiGaOFavTgm"
+    },
+    {
+      "album": {
+        "name": "206",
+        "url": "https://open.spotify.com/album/44Nf83ckLxc0wdzTNliqLB"
+      },
+      "artists": [
+        {
+          "name": "Prim",
+          "url": "https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170323,
+      "name": "206",
+      "url": "https://open.spotify.com/track/72buB4COoPHYRa82kC9Juo"
     },
     {
       "album": {
@@ -118,7 +136,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 195222,
       "name": "Acqua e sapone (feat. Ugo Crepa)",
       "url": "https://open.spotify.com/track/7ACKNN1Mt9nVS8Gc8lE7eY"
@@ -190,10 +208,28 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 133109,
       "name": "Alta Marea",
       "url": "https://open.spotify.com/track/4iYNr3EOixzqAmFfFdvOMC"
+    },
+    {
+      "album": {
+        "name": "AMARSI PER LAVORO",
+        "url": "https://open.spotify.com/album/39u0x66QsKKz6vTA470oux"
+      },
+      "artists": [
+        {
+          "name": "Mazzariello",
+          "url": "https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181532,
+      "name": "AMARSI PER LAVORO",
+      "url": "https://open.spotify.com/track/0wfKG2QPt5dtkRYmSAW8MC"
     },
     {
       "album": {
@@ -478,7 +514,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 164444,
       "name": "Canterino",
       "url": "https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn"
@@ -940,7 +976,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 165818,
       "name": "Estate Inverno",
       "url": "https://open.spotify.com/track/4Vv6gdijmH1LPOI24IRyWe"
@@ -1200,7 +1236,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 161501,
       "name": "GARAGE MARE",
       "url": "https://open.spotify.com/track/4TU0PgLtOxkSKv1wytyu5N"
@@ -1503,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "lecosepeggiori",
+        "url": "https://open.spotify.com/album/3wVgX9wPLbK8AcHJBCYLkn"
+      },
+      "artists": [
+        {
+          "name": "Avanzi",
+          "url": "https://open.spotify.com/artist/6NK8YVU9oLmjQ9VpM3cM8J"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170911,
+      "name": "lecosepeggiori",
+      "url": "https://open.spotify.com/track/1qd3JHPKqsOZRAJic55MTI"
+    },
+    {
+      "album": {
         "name": "Limiti",
         "url": "https://open.spotify.com/album/5pGbmoyMzgvrIShigS5i8W"
       },
@@ -1572,7 +1626,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 205758,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT"
@@ -2363,6 +2417,24 @@
     },
     {
       "album": {
+        "name": "PELLE DI PEPERONE",
+        "url": "https://open.spotify.com/album/2kMfyf9mYG2wwUCW7feI1a"
+      },
+      "artists": [
+        {
+          "name": "Gobbi",
+          "url": "https://open.spotify.com/artist/5ujn0tcd0uOU44C5CDhbPd"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "PELLE DI PEPERONE",
+      "url": "https://open.spotify.com/track/5xr2xhM30YbV4pFnQ2URCa"
+    },
+    {
+      "album": {
         "name": "Pennette alla vodka",
         "url": "https://open.spotify.com/album/61Qk1gg5rV9RVlZ797Ry1s"
       },
@@ -2844,6 +2916,24 @@
       "duration_ms": 202500,
       "name": "Se crolla il mondo poi ti salvo io",
       "url": "https://open.spotify.com/track/0mqC0ZUnfyzfN6IN3PtNE4"
+    },
+    {
+      "album": {
+        "name": "se io morissi per stanotte?",
+        "url": "https://open.spotify.com/album/6GAZFkm6RH8LYPEMQ14MUf"
+      },
+      "artists": [
+        {
+          "name": "Dae",
+          "url": "https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161310,
+      "name": "se io morissi per stanotte?",
+      "url": "https://open.spotify.com/track/1IehxLziYrNEF9QUxa6b5o"
     },
     {
       "album": {
@@ -3564,6 +3654,24 @@
       "duration_ms": 181848,
       "name": "vita lenta",
       "url": "https://open.spotify.com/track/0aahD9Yf5nH1Y0jUhCgNdC"
+    },
+    {
+      "album": {
+        "name": "Vivere",
+        "url": "https://open.spotify.com/album/3ammkuVx5QoqEiAqohDhNV"
+      },
+      "artists": [
+        {
+          "name": "marzo",
+          "url": "https://open.spotify.com/artist/20LOUqAbkWCYwND5CarWCR"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "Vivere",
+      "url": "https://open.spotify.com/track/0qqjeJRAuC7EwXxqgHaQuB"
     },
     {
       "album": {

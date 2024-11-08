@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 110446,
+  "num_followers": 110448,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
+        "name": "och i ach",
+        "url": "https://open.spotify.com/album/2MNCHzcw3C3wpo81uWeOxF"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "duration_ms": 181382,
+      "name": "och i ach",
+      "url": "https://open.spotify.com/track/1MsoH4Fz8O9PKbTW5SkXbJ"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 203689,
       "name": "Up All Night (with The Lumineers & Noah Kahan)",
       "url": "https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "och i ach",
-        "url": "https://open.spotify.com/album/2MNCHzcw3C3wpo81uWeOxF"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        }
-      ],
-      "duration_ms": 181382,
-      "name": "och i ach",
-      "url": "https://open.spotify.com/track/1MsoH4Fz8O9PKbTW5SkXbJ"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
+        "name": "Nie musisz si\u0119 ba\u0107",
+        "url": "https://open.spotify.com/album/0MHl2tY6jrbEbssuR7nxdM"
+      },
+      "artists": [
+        {
+          "name": "Oskar Cyms",
+          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
+        }
+      ],
+      "duration_ms": 145555,
+      "name": "Nie musisz si\u0119 ba\u0107",
+      "url": "https://open.spotify.com/track/09fqIgOZRn3ZbwbQB2r2u2"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
         "name": "Falling Back",
         "url": "https://open.spotify.com/album/40rKWr7rMApkEp7D52Z8mX"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 189560,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/13JBJbh4d6rx98CjJcROpl"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Nie musisz si\u0119 ba\u0107",
-        "url": "https://open.spotify.com/album/0MHl2tY6jrbEbssuR7nxdM"
-      },
-      "artists": [
-        {
-          "name": "Oskar Cyms",
-          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
-        }
-      ],
-      "duration_ms": 145555,
-      "name": "Nie musisz si\u0119 ba\u0107",
-      "url": "https://open.spotify.com/track/09fqIgOZRn3ZbwbQB2r2u2"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Kaprysy",
-        "url": "https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Nimbostratus",
-      "url": "https://open.spotify.com/track/1aSxqyObq0lfd8P4rHIESF"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "Cyrk",
         "url": "https://open.spotify.com/album/3LnfdUm50X2HVIUadHJ6Nf"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 186581,
       "name": "Cyrk",
       "url": "https://open.spotify.com/track/1e8Lx51hxlh88uaA3IumUR"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Kaprysy",
+        "url": "https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Nimbostratus",
+      "url": "https://open.spotify.com/track/1aSxqyObq0lfd8P4rHIESF"
     }
   ],
   "unique_name": "... ale najpierw kawa",

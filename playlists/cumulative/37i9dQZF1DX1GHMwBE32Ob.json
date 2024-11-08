@@ -624,7 +624,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 182068,
       "name": "Aye Nlo",
       "url": "https://open.spotify.com/track/6ptL7UTcJtxJIZInDdzAtO"
@@ -894,7 +894,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 192471,
       "name": "Billionaire",
       "url": "https://open.spotify.com/track/3y2ZMeoLoyPIMPd2fNoR1u"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 161765,
       "name": "Born to Win",
       "url": "https://open.spotify.com/track/4qEm3JiU5GkeWKtnL5FmxG"
@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 236068,
       "name": "Cash App",
       "url": "https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr"
@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 166844,
       "name": "Collect - Afrobeat",
       "url": "https://open.spotify.com/track/4wNUpUL8niDXZX8FHeKs2a"
@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 209968,
       "name": "Different Size (feat. Victony)",
       "url": "https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat"
@@ -2481,6 +2481,28 @@
     },
     {
       "album": {
+        "name": "HAUSAPIANO (Remix)",
+        "url": "https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ"
+      },
+      "artists": [
+        {
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
+        },
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137844,
+      "name": "HAUSAPIANO - Remix",
+      "url": "https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp"
+    },
+    {
+      "album": {
         "name": "HBP",
         "url": "https://open.spotify.com/album/5SOS13paz0WPPdIf9CL0Y8"
       },
@@ -3039,6 +3061,24 @@
     },
     {
       "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/6mGPEzv6LoeyV9u2hiyty4"
+      },
+      "artists": [
+        {
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160824,
+      "name": "JUNGLE",
+      "url": "https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9"
+    },
+    {
+      "album": {
         "name": "Kelegbe",
         "url": "https://open.spotify.com/album/5kUKkIrrkJ43rhmDkEP3UW"
       },
@@ -3288,7 +3328,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 145910,
       "name": "La Pio Pio",
       "url": "https://open.spotify.com/track/6nK5Zt2RI6xqEaU8CgMojZ"
@@ -3336,7 +3376,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 169822,
       "name": "Let There Be Light",
       "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
@@ -4520,7 +4560,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 180512,
       "name": "Partey",
       "url": "https://open.spotify.com/track/4eDZ5jfKINvJmIMcDdKxyh"
@@ -4698,7 +4738,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 161462,
       "name": "Puff & Pass",
       "url": "https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U"
@@ -4814,7 +4854,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 166596,
       "name": "Reality",
       "url": "https://open.spotify.com/track/1o8Rj6XbX1rvrUP0R6deYQ"
@@ -4902,7 +4942,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 403392,
       "name": "Sabali",
       "url": "https://open.spotify.com/track/4j7nohR8s3Q8XjDrC5hQZ0"
@@ -5612,7 +5652,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 154689,
       "name": "Trending",
       "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
@@ -6130,7 +6170,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 148953,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/6ZhqlOBOzMDNhM2IZD5X4H"

@@ -4493,6 +4493,24 @@
     },
     {
       "album": {
+        "name": "Mi Mundo Contigo",
+        "url": "https://open.spotify.com/album/6bnmMmEMdCWXFfBwY5EYQV"
+      },
+      "artists": [
+        {
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221545,
+      "name": "Mi Mundo Contigo",
+      "url": "https://open.spotify.com/track/2XBLzXdu1Q8ALB7fPFhqxy"
+    },
+    {
+      "album": {
         "name": "MINIMI",
         "url": "https://open.spotify.com/album/3T2NudFA3qcifGwgzWkQHY"
       },
@@ -5080,6 +5098,24 @@
       "duration_ms": 149265,
       "name": "PARIENTON",
       "url": "https://open.spotify.com/track/1EpNEqoFxHZk5U3StFC1H9"
+    },
+    {
+      "album": {
+        "name": "Perfecta Eres",
+        "url": "https://open.spotify.com/album/0W9IHzB3npupPNA9NtYjb5"
+      },
+      "artists": [
+        {
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196977,
+      "name": "Perfecta Eres",
+      "url": "https://open.spotify.com/track/4aE6HwoNS2EHvMYOjxVtwt"
     },
     {
       "album": {

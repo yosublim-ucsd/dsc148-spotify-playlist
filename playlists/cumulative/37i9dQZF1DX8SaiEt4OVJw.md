@@ -4,7 +4,7 @@
 
 > Champion Sound\. Winners' Anthems
 
-707 songs - 1 day 20 hr 6 min
+708 songs - 1 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 | 2024-07-31 |  |
 | [At Night](https://open.spotify.com/track/1xrSV0FyGg77IuJGYF3siH) | [Shakedown](https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1) | [At Night](https://open.spotify.com/album/0eKeyft1nKRfypeFNuaqY9) | 6:41 | 2023-12-04 | 2024-01-13 |
 | [Atele](https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Atele](https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1) | 2:46 | 2022-11-28 | 2022-11-30 |
+| [Awuke](https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Awuke](https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL) | 2:52 | 2024-11-07 |  |
 | [Awukhuzeki](https://open.spotify.com/track/4J1H4EuucGhhYfcPpYCBRr) | [DJ Stokie](https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI), [Omit ST](https://open.spotify.com/artist/7MxpcTTd4OWKT6cLrsYknl), [Sobzeen](https://open.spotify.com/artist/15NUCBzkuF0VbkybGMUTPw), [Zee\_nhle](https://open.spotify.com/artist/2zCe5zvuLDUr9BfD4NMDQc) | [My Journey Continues](https://open.spotify.com/album/6w8xkQa7VVqWynKA1jfpVI) | 8:12 | 2024-02-07 | 2024-02-10 |
 | [Azonto](https://open.spotify.com/track/1TeIFb2AIbExCZjInMxGha) | [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ), [Tiffany Owusu](https://open.spotify.com/artist/37hnVT1tp5qMyIwgbmLsvO) | [T.I.N.A.](https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1) | 3:52 | 2022-11-28 | 2022-11-30 |
 | [Azonto Fiesta](https://open.spotify.com/track/3CgFXfyJOYBhc3aoekeUxt) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Appietus](https://open.spotify.com/artist/3aupsfQC9Iy7j3uSEnTqoN), [Kesse](https://open.spotify.com/artist/4ZhIFuuxUkdBSeiVVWxVzi) | [Azonto Fiesta](https://open.spotify.com/album/1mg4MsqiBfumobQ1BcPJfh) | 4:23 | 2022-11-28 | 2022-11-30 |
@@ -84,7 +85,7 @@
 | [BARKER HAINES](https://open.spotify.com/track/3VsKpmCGU3yLqn4SSnzSzt) | [Wordz](https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd), [MAGLERA DOE BOY](https://open.spotify.com/artist/50gnXpyd5RQPPbyilQLVKB), [MOCHEN](https://open.spotify.com/artist/2W342X5Hkpzt1JdUQhdZPo) | [PEOPLE FORGET TO BE PEOPLE](https://open.spotify.com/album/7Ahv4tX3pcBtuPP6kH6A6V) | 4:06 | 2024-02-03 | 2024-02-07 |
 | [Basquiat](https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:14 | 2023-07-28 | 2023-09-08 |
 | [Beat It](https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:18 | 2023-12-05 | 2024-01-13 |
-| [Belly](https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Belly](https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo) | 2:56 | 2024-09-06 |  |
+| [Belly](https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Belly](https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo) | 2:56 | 2024-09-06 | 2024-11-08 |
 | [BENIN BOYS](https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [BENIN BOYS](https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT) | 2:49 | 2024-07-31 | 2024-09-07 |
 | [Big Energy](https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Big Energy](https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk) | 3:05 | 2024-02-02 | 2024-02-04 |
 | [Big Pimpin'](https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [Vol\. 3..\. Life And Times Of S\. Carter](https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ) | 4:43 | 2023-11-18 | 2023-12-05 |

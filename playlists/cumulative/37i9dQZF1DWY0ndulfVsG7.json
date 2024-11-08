@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Wali",
+  "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Ana Rafalli",
   "name": "Berjiran",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 328000,
       "name": "Aku Cinta Padamu",
       "url": "https://open.spotify.com/track/7IsErGQbe4jnjBKLd2uGoq"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 268000,
       "name": "Bang Jago",
       "url": "https://open.spotify.com/track/2oyxSximk9gWhQJ94k1Slh"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 210598,
       "name": "Diam Diam Jatuh Cinta",
       "url": "https://open.spotify.com/track/2dTuI3gIUrxuLp7D1lGszE"
@@ -928,6 +928,42 @@
       "duration_ms": 234546,
       "name": "Karena Kamu",
       "url": "https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD"
+    },
+    {
+      "album": {
+        "name": "Kasmaran",
+        "url": "https://open.spotify.com/album/0JCLBNTCR1M1e8zSTxE0S5"
+      },
+      "artists": [
+        {
+          "name": "Geisha",
+          "url": "https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261562,
+      "name": "Kasmaran",
+      "url": "https://open.spotify.com/track/5MkEW02j6Lu7uMxaieHxVZ"
+    },
+    {
+      "album": {
+        "name": "Kau OK?",
+        "url": "https://open.spotify.com/album/0cPz8OZvpVDeQ41nhPeJBc"
+      },
+      "artists": [
+        {
+          "name": "Ana Raffali",
+          "url": "https://open.spotify.com/artist/0iIljLl6TqIxwed5kAjF9p"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256272,
+      "name": "Kau OK?",
+      "url": "https://open.spotify.com/track/2TPURz2VZ3TBmVN7NcdqeZ"
     },
     {
       "album": {
@@ -1386,6 +1422,24 @@
       "duration_ms": 235253,
       "name": "Perempuanku",
       "url": "https://open.spotify.com/track/7LPM7izo6bPUrvnI9EJ4em"
+    },
+    {
+      "album": {
+        "name": "Rahasia Hati (New Version)",
+        "url": "https://open.spotify.com/album/2irA4FZKAdkCn7y6iceOhx"
+      },
+      "artists": [
+        {
+          "name": "Nidji",
+          "url": "https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259599,
+      "name": "Rahasia Hati (New Version)",
+      "url": "https://open.spotify.com/track/5ljoPIZmzmXVoTdF7ebfwE"
     },
     {
       "album": {
@@ -1949,6 +2003,32 @@
     },
     {
       "album": {
+        "name": "Udang Di Balik Batu (Remix)",
+        "url": "https://open.spotify.com/album/0OB6LsXt27FqUwxpahG00Z"
+      },
+      "artists": [
+        {
+          "name": "Ungu",
+          "url": "https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5"
+        },
+        {
+          "name": "Lesti",
+          "url": "https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB"
+        },
+        {
+          "name": "Nassar",
+          "url": "https://open.spotify.com/artist/5fg1QXm82SjLgF5Ltlze3w"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266823,
+      "name": "Udang Di Balik Batu (Remix)",
+      "url": "https://open.spotify.com/track/71rVtd8AhDehICyzfOc9U9"
+    },
+    {
+      "album": {
         "name": "1st (Special Edition)",
         "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
       },
@@ -1996,7 +2076,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 199138,
       "name": "Yang Terdalam",
       "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"

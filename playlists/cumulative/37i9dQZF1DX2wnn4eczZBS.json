@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "indie & indiepop in het Nederlands. Cover: Wende",
+  "description": "indie & indiepop in het Nederlands. Cover: S10",
   "name": "indiepuntnl",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 189666,
       "name": "Alles Begint Bij Vandaag",
       "url": "https://open.spotify.com/track/1KE9JCyD0KNMpLT60MLUyN"
@@ -176,6 +176,24 @@
       "duration_ms": 224830,
       "name": "Bevrijd Me",
       "url": "https://open.spotify.com/track/0gahCzF8XX2DqQKJzQQWgR"
+    },
+    {
+      "album": {
+        "name": "Blijven",
+        "url": "https://open.spotify.com/album/6K1aa83670KggQuqWy1Mrn"
+      },
+      "artists": [
+        {
+          "name": "monokimono",
+          "url": "https://open.spotify.com/artist/4DXrrpP0iZv5KlcnZvYawZ"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153665,
+      "name": "Blijven",
+      "url": "https://open.spotify.com/track/3iKkOyOmhhavRA3v4Rzy7O"
     },
     {
       "album": {
@@ -395,6 +413,24 @@
     },
     {
       "album": {
+        "name": "lucas",
+        "url": "https://open.spotify.com/album/7FsUGGBTX3ODgZhNgZnUqj"
+      },
+      "artists": [
+        {
+          "name": "Lucas de Gier",
+          "url": "https://open.spotify.com/artist/0IEv7VW29Y0gKhh3gmELOt"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236036,
+      "name": "Geef me een Teken",
+      "url": "https://open.spotify.com/track/1sMC7VDr7zRbNvYVTdLyGA"
+    },
+    {
+      "album": {
         "name": "puntpuntpunt",
         "url": "https://open.spotify.com/album/3m9qDzog8BUub1BLDqs9xM"
       },
@@ -557,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Het Outro",
+        "url": "https://open.spotify.com/album/2ERyEdzLAJEyia7NzuHImY"
+      },
+      "artists": [
+        {
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200223,
+      "name": "Het Outro",
+      "url": "https://open.spotify.com/track/6bk3p646tz37ZqL0k3gDfe"
+    },
+    {
+      "album": {
         "name": "Hotel de Goudfazanten",
         "url": "https://open.spotify.com/album/5c3FvmDVsg3K2dNpWZGS6X"
       },
@@ -626,6 +680,24 @@
       "duration_ms": 152000,
       "name": "IJs",
       "url": "https://open.spotify.com/track/1DMQuGNhRsqyw2YF2WPzC6"
+    },
+    {
+      "album": {
+        "name": "IK GELOOF HET NIET",
+        "url": "https://open.spotify.com/album/20gE1bwQ29W2vxSs6rHeC2"
+      },
+      "artists": [
+        {
+          "name": "Massi",
+          "url": "https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164004,
+      "name": "IK GELOOF HET NIET",
+      "url": "https://open.spotify.com/track/3zYMY5Bgtm0GSxhSv0ri9n"
     },
     {
       "album": {
@@ -1135,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Mijn Haren Ruiken Naar Vuur",
+        "url": "https://open.spotify.com/album/2Ew3FsEM2r6TrGiKeXQUaq"
+      },
+      "artists": [
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162694,
+      "name": "Mijn Haren Ruiken Naar Vuur",
+      "url": "https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f"
+    },
+    {
+      "album": {
         "name": "Mijn Naam Is Niemand",
         "url": "https://open.spotify.com/album/7h0ye8wK1DjHi1KeDhC7sw"
       },
@@ -1512,6 +1602,24 @@
       "duration_ms": 184024,
       "name": "Spijt",
       "url": "https://open.spotify.com/track/4Ny674v1zFuFdrRU01hh5I"
+    },
+    {
+      "album": {
+        "name": "Starstruck (Celebrity)",
+        "url": "https://open.spotify.com/album/4yHOJauSMEwuUbbIPABuHa"
+      },
+      "artists": [
+        {
+          "name": "NONCHELANGE",
+          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231676,
+      "name": "Starstruck (Celebrity)",
+      "url": "https://open.spotify.com/track/2Jj4TrXWBA6f4B3CuS5tmx"
     },
     {
       "album": {

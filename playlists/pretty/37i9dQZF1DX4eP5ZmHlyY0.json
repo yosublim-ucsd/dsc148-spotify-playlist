@@ -411,22 +411,6 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "\u9752\u5d50 (Aoarashi)",
-        "url": "https://open.spotify.com/album/4CKknn9azZeOb6sO1PmPJS"
-      },
-      "artists": [
-        {
-          "name": "&TEAM",
-          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
-        }
-      ],
-      "duration_ms": 175230,
-      "name": "\u9752\u5d50 (Aoarashi)",
-      "url": "https://open.spotify.com/track/0AOSmgHSkg9jH73jGy2QNG"
-    },
-    {
-      "added_at": "2024-11-05 15:00:00",
-      "album": {
         "name": "WMDA(Where My Drums At)",
         "url": "https://open.spotify.com/album/4xO4KJtY0omMRln1R7AjCE"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 200386,
       "name": "WMDA(Where My Drums At)",
       "url": "https://open.spotify.com/track/6hCA90pz9C51RIAYym2TUU"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
+        "name": "\u9752\u5d50 (Aoarashi)",
+        "url": "https://open.spotify.com/album/4CKknn9azZeOb6sO1PmPJS"
+      },
+      "artists": [
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "duration_ms": 175230,
+      "name": "\u9752\u5d50 (Aoarashi)",
+      "url": "https://open.spotify.com/track/0AOSmgHSkg9jH73jGy2QNG"
     },
     {
       "added_at": "2024-11-05 15:00:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
+        "name": "MEME",
+        "url": "https://open.spotify.com/album/5sHhkERPTJ5KrM8oMSWCmk"
+      },
+      "artists": [
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "duration_ms": 141934,
+      "name": "MEME",
+      "url": "https://open.spotify.com/track/0OqaPC4BqWWv3vY8BM1NaT"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
         "name": "Royal",
         "url": "https://open.spotify.com/album/1YKSS88CPp87pKphKTZMTd"
       },
@@ -531,18 +547,18 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "MEME",
-        "url": "https://open.spotify.com/album/5sHhkERPTJ5KrM8oMSWCmk"
+        "name": "Re:ERA",
+        "url": "https://open.spotify.com/album/4Dsd6boYRsiex8m6hFYaLj"
       },
       "artists": [
         {
-          "name": "&TEAM",
-          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+          "name": "King & Prince",
+          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
         }
       ],
-      "duration_ms": 141934,
-      "name": "MEME",
-      "url": "https://open.spotify.com/track/0OqaPC4BqWWv3vY8BM1NaT"
+      "duration_ms": 242320,
+      "name": "\u30dc\u30fc\u30a4\u30df\u30fc\u30c4\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/76KprgosMWIsGJ7FcRhiLC"
     },
     {
       "added_at": "2024-11-05 15:00:00",
@@ -559,22 +575,6 @@
       "duration_ms": 299606,
       "name": "DEAR MY LOVER",
       "url": "https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS"
-    },
-    {
-      "added_at": "2024-11-05 15:00:00",
-      "album": {
-        "name": "Re:ERA",
-        "url": "https://open.spotify.com/album/4Dsd6boYRsiex8m6hFYaLj"
-      },
-      "artists": [
-        {
-          "name": "King & Prince",
-          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
-        }
-      ],
-      "duration_ms": 242320,
-      "name": "\u30dc\u30fc\u30a4\u30df\u30fc\u30c4\u30ac\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/76KprgosMWIsGJ7FcRhiLC"
     },
     {
       "added_at": "2024-11-05 15:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "\u4e94\u6708\u96e8 (Samidare)",
-        "url": "https://open.spotify.com/album/2I0nlM24jBs20fWzSwUfLE"
-      },
-      "artists": [
-        {
-          "name": "&TEAM",
-          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
-        }
-      ],
-      "duration_ms": 191253,
-      "name": "\u4e94\u6708\u96e8 (Samidare)",
-      "url": "https://open.spotify.com/track/7tXjyOod2TlM9g447E8NUn"
-    },
-    {
-      "added_at": "2024-11-05 15:00:00",
-      "album": {
         "name": "Seaside Story",
         "url": "https://open.spotify.com/album/1tcQGv1r3PTF9H7igHDwWt"
       },
@@ -719,18 +703,34 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "Believe in You",
-        "url": "https://open.spotify.com/album/2TF8O4dj2PjVi7ANQp5ACH"
+        "name": "\u4e94\u6708\u96e8 (Samidare)",
+        "url": "https://open.spotify.com/album/2I0nlM24jBs20fWzSwUfLE"
       },
       "artists": [
         {
-          "name": "JO1",
-          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
         }
       ],
-      "duration_ms": 256999,
-      "name": "Believe in You",
-      "url": "https://open.spotify.com/track/3Hk8BKGT8dvK0ytIEtW58I"
+      "duration_ms": 191253,
+      "name": "\u4e94\u6708\u96e8 (Samidare)",
+      "url": "https://open.spotify.com/track/7tXjyOod2TlM9g447E8NUn"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
+        "name": "moooove!!",
+        "url": "https://open.spotify.com/album/4ZtNpsrNTSnoeTTP7AyHbx"
+      },
+      "artists": [
+        {
+          "name": "King & Prince",
+          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
+        }
+      ],
+      "duration_ms": 180506,
+      "name": "moooove!!",
+      "url": "https://open.spotify.com/track/36ZL5cyG69Y8asuzxGQZpX"
     },
     {
       "added_at": "2024-11-05 15:00:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "moooove!!",
-        "url": "https://open.spotify.com/album/4ZtNpsrNTSnoeTTP7AyHbx"
+        "name": "Believe in You",
+        "url": "https://open.spotify.com/album/2TF8O4dj2PjVi7ANQp5ACH"
       },
       "artists": [
         {
-          "name": "King & Prince",
-          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
         }
       ],
-      "duration_ms": 180506,
-      "name": "moooove!!",
-      "url": "https://open.spotify.com/track/36ZL5cyG69Y8asuzxGQZpX"
+      "duration_ms": 256999,
+      "name": "Believe in You",
+      "url": "https://open.spotify.com/track/3Hk8BKGT8dvK0ytIEtW58I"
     },
     {
       "added_at": "2024-11-05 15:00:00",
@@ -787,18 +787,34 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "\u7121\u8cac\u4efb\u3067\u3048\u3048\u3058\u3083\u306a\u3044\u304bLOVE",
-        "url": "https://open.spotify.com/album/7uhQhoDa2Q9uQxEeESSXIw"
+        "name": "MAZQUERADE",
+        "url": "https://open.spotify.com/album/1rwSEeDbyudoygEKXojajs"
       },
       "artists": [
         {
-          "name": "KAMIGATA BOYZ",
-          "url": "https://open.spotify.com/artist/5TjFUvRq3BNyDsCgLWvxKF"
+          "name": "MAZZEL",
+          "url": "https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42"
         }
       ],
-      "duration_ms": 233726,
-      "name": "\u7121\u8cac\u4efb\u3067\u3048\u3048\u3058\u3083\u306a\u3044\u304bLOVE",
-      "url": "https://open.spotify.com/track/3HVa5vaMiHGib4ztB7sCLR"
+      "duration_ms": 202400,
+      "name": "MAZQUERADE",
+      "url": "https://open.spotify.com/track/5NiAImG5YlGEbMcNffJo94"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
+        "name": "Got Boost\uff1f (\u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30f4\u300f\u4e3b\u984c\u6b4c)",
+        "url": "https://open.spotify.com/album/1TYeL46j0ro3Tl3IFgxIrW"
+      },
+      "artists": [
+        {
+          "name": "FANTASTICS from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS"
+        }
+      ],
+      "duration_ms": 192200,
+      "name": "Got Boost\uff1f",
+      "url": "https://open.spotify.com/track/2IO82CijAxfwxLhOnDajhD"
     },
     {
       "added_at": "2024-11-05 15:00:00",
@@ -819,50 +835,34 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "\u541b\u306b\u30ab\u30a8\u30eb (Maybe)",
-        "url": "https://open.spotify.com/album/4Pd1n23po7hNDDpYpco5gr"
+        "name": "\u7121\u8cac\u4efb\u3067\u3048\u3048\u3058\u3083\u306a\u3044\u304bLOVE",
+        "url": "https://open.spotify.com/album/7uhQhoDa2Q9uQxEeESSXIw"
       },
       "artists": [
         {
-          "name": "&TEAM",
-          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+          "name": "KAMIGATA BOYZ",
+          "url": "https://open.spotify.com/artist/5TjFUvRq3BNyDsCgLWvxKF"
         }
       ],
-      "duration_ms": 190453,
-      "name": "\u541b\u306b\u30ab\u30a8\u30eb (Maybe)",
-      "url": "https://open.spotify.com/track/1z4Ruz3ecnINTOQJpi8qMk"
+      "duration_ms": 233726,
+      "name": "\u7121\u8cac\u4efb\u3067\u3048\u3048\u3058\u3083\u306a\u3044\u304bLOVE",
+      "url": "https://open.spotify.com/track/3HVa5vaMiHGib4ztB7sCLR"
     },
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "halfmoon",
-        "url": "https://open.spotify.com/album/76xz9bp3cZxNEgJfV1u4zF"
+        "name": "Mainstream",
+        "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
       },
       "artists": [
         {
-          "name": "King & Prince",
-          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
         }
       ],
-      "duration_ms": 255760,
-      "name": "halfmoon",
-      "url": "https://open.spotify.com/track/35a21TsJpAibvzwzTUHCi5"
-    },
-    {
-      "added_at": "2024-11-05 15:00:00",
-      "album": {
-        "name": "Got Boost\uff1f (\u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30f4\u300f\u4e3b\u984c\u6b4c)",
-        "url": "https://open.spotify.com/album/1TYeL46j0ro3Tl3IFgxIrW"
-      },
-      "artists": [
-        {
-          "name": "FANTASTICS from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "Got Boost\uff1f",
-      "url": "https://open.spotify.com/track/2IO82CijAxfwxLhOnDajhD"
+      "duration_ms": 207053,
+      "name": "Mainstream",
+      "url": "https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA"
     }
   ],
   "unique_name": "Boys Group Japan",

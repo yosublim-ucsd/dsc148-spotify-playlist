@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Khuphuka lapho\u2026 seku-late! Cover:  <a href=\"https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX?si=oHlDJ-gNSvq4Yus0y5Y1xw\">Mthandeni SK</a>, <a href=\"https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9?si=OuiHZEflRHyDpEE2I59TlA\">MaWhoo</a>",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover:  <a href=\"https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg?si=nt023_xYTE6MHXXszrOssA\">Sminofu</a>",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -252,6 +252,28 @@
       "duration_ms": 202879,
       "name": "Amalobolo",
       "url": "https://open.spotify.com/track/2UwQgjV9wgZxHJmdsTGbDH"
+    },
+    {
+      "album": {
+        "name": "Amathambo Kagogo",
+        "url": "https://open.spotify.com/album/5PyObQsvE3RD87LD6N4C35"
+      },
+      "artists": [
+        {
+          "name": "Imithente",
+          "url": "https://open.spotify.com/artist/3JqfmUV2PM8u6ifw2TWPJ9"
+        },
+        {
+          "name": "Ama NND International",
+          "url": "https://open.spotify.com/artist/0l3s3VEBPEh1fURBzXgjPV"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299908,
+      "name": "Amathambo Kagogo",
+      "url": "https://open.spotify.com/track/3yCMDYGNMwtQtBmeny6aPL"
     },
     {
       "album": {
@@ -1429,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "Alingeni",
+        "url": "https://open.spotify.com/album/2NCLT1NSdnD5BlKYZT0ije"
+      },
+      "artists": [
+        {
+          "name": "Ntencane",
+          "url": "https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268840,
+      "name": "Imizi Yobaba",
+      "url": "https://open.spotify.com/track/7AAZlyNmveOi5BRPbxFApQ"
+    },
+    {
+      "album": {
         "name": "Angiseyona Itype Yakho",
         "url": "https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ"
       },
@@ -1614,6 +1654,24 @@
       "duration_ms": 252263,
       "name": "Intencane",
       "url": "https://open.spotify.com/track/0BYurynEYtSmwyuAMX07KR"
+    },
+    {
+      "album": {
+        "name": "Inyoka Endala",
+        "url": "https://open.spotify.com/album/2M1zuqGr01bzTg0GJGwN0v"
+      },
+      "artists": [
+        {
+          "name": "Falabo",
+          "url": "https://open.spotify.com/artist/1tlK89N9NdqIWVXRSyClAw"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255313,
+      "name": "Inyoka Endala",
+      "url": "https://open.spotify.com/track/1xASR9koYP3vxECKR4OmGB"
     },
     {
       "album": {
@@ -2970,6 +3028,24 @@
       "duration_ms": 208927,
       "name": "Rihanna",
       "url": "https://open.spotify.com/track/1NNlKxW8tuGfbKsFJqk1SV"
+    },
+    {
+      "album": {
+        "name": "Rush Hour",
+        "url": "https://open.spotify.com/album/2mIgt4Y26nVZB7S4RQJ3ma"
+      },
+      "artists": [
+        {
+          "name": "Sminofu",
+          "url": "https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271305,
+      "name": "Rush Hour",
+      "url": "https://open.spotify.com/track/1AXW0WnNUceegJHGl3HWlJ"
     },
     {
       "album": {

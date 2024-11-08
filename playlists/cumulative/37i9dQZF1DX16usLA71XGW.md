@@ -2,9 +2,9 @@
 
 ### [Malkia](https://open.spotify.com/playlist/37i9dQZF1DX16usLA71XGW)
 
-> East Africa queens in their music bag\. Cover: Sérah Phenom
+> East Africa queens in their music bag\. Cover: Maua Sama
 
-152 songs - 8 hr 4 min
+153 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Fire](https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE/HATE Pt\. 2](https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG) | 3:12 | 2024-09-27 |  |
 | [Fire](https://open.spotify.com/track/1LFM0KBmoe13qfMQZucsPk) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Fire](https://open.spotify.com/album/77exuH6Dzo7RMFxtFxNLhQ) | 3:37 | 2022-07-18 | 2024-08-16 |
 | [For Sheezy](https://open.spotify.com/track/4Kr0xtd8gpJPrSuQaQ9LSL) | [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [For Sheezy](https://open.spotify.com/album/3ZbA4aFb3okLLV3BIAeexK) | 3:30 | 2022-07-18 | 2022-08-20 |
-| [Full Package](https://open.spotify.com/track/5Hi8Eq36XjCppUkruLgWm5) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv) | [Full Package](https://open.spotify.com/album/4eN2lQZMgHdcmjuaIY2uB6) | 2:26 | 2024-07-04 |  |
+| [Full Package](https://open.spotify.com/track/5Hi8Eq36XjCppUkruLgWm5) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv) | [Full Package](https://open.spotify.com/album/4eN2lQZMgHdcmjuaIY2uB6) | 2:26 | 2024-07-04 | 2024-11-08 |
 | [Galaxy](https://open.spotify.com/track/5ajyC8vUNQj1bDJqMIyjC4) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Lisa Oduor\-Noah](https://open.spotify.com/album/01OpRABjuFQgRtj4DdT55m) | 3:24 | 2022-07-18 | 2022-09-23 |
 | [Go](https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Go](https://open.spotify.com/album/0YT2PJ2AbXqRbz4Oj3ew0Z) | 2:59 | 2023-01-27 | 2024-03-08 |
 | [Go Keisha](https://open.spotify.com/track/4gCMyd5vONpDt48LJdG7pO) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR) | [Go Keisha](https://open.spotify.com/album/6fIHQ3ORBuT2Avw7saxLPL) | 1:36 | 2022-07-18 | 2022-09-09 |
@@ -58,6 +58,7 @@
 | [Jooli](https://open.spotify.com/track/2WZqtIHlTeusn6WHLx0aqN) | [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [Malaika Jooli](https://open.spotify.com/album/4wlEyqYYUzfW23fbmmuq5r) | 3:06 | 2022-07-18 | 2023-07-01 |
 | [KIKI](https://open.spotify.com/track/5HCMRyG7oBgUIFRmfjbREI) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6) | [KIKI](https://open.spotify.com/album/35mBssVYgCOrIZRPkDEcpw) | 2:49 | 2022-07-18 | 2023-01-17 |
 | [Kikole](https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Kikole](https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl) | 3:29 | 2022-07-18 | 2023-02-04 |
+| [Kiss Me](https://open.spotify.com/track/0LeiaF8Dudetg0XUznifzA) | [Maua Sama](https://open.spotify.com/artist/2jM3NRd23SZt26mIjTEKrE) | [Kiss Me](https://open.spotify.com/album/2iOaaDNIrrCzMvjQcGs0LE) | 3:33 | 2024-11-07 |  |
 | [Kwakwaru](https://open.spotify.com/track/5jmyQzE9SSxsdXUAkl8QPo) | [Haitham Kim](https://open.spotify.com/artist/750ujPfB38qROElCTru0vL) | [Kwakwaru](https://open.spotify.com/album/4aFwUhySigXFE0QgYJHAHw) | 3:15 | 2023-10-19 | 2024-04-19 |
 | [La La](https://open.spotify.com/track/7506rdh9Ay8HeCI7ow04EZ) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [La La](https://open.spotify.com/album/3NgCYoF4td4Fj0pfpYweBg) | 2:54 | 2022-07-18 | 2023-07-01 |
 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-07-29 | 2024-01-30 |

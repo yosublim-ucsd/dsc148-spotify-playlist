@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: Flor de Rap & Ana Tijoux.
 
-217 songs - 12 hr 26 min
+219 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Amor de Rapper](https://open.spotify.com/track/2fVWpipkpZI5Zgpke12llF) | [Gran Rah](https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ), [Negro Sambo](https://open.spotify.com/artist/44D02T0aBZrnN7GKfB3VUk) | [Amor de Rapper](https://open.spotify.com/album/1BYbc7WeVIRr0SUCuxb7tW) | 3:31 | 2022-01-06 |  |
 | [Amor por los Textos](https://open.spotify.com/track/4yOaISnqGLg23DCcKACit2) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Falsalarma](https://open.spotify.com/artist/5vHV7UQFBAZzW0gNb3TaZr), [Guille Scherping](https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq), [DJ Rune](https://open.spotify.com/artist/7DCqRohWWetdxLeLe3Dwmr) | [Amor por los Textos](https://open.spotify.com/album/27obZ45657IggM1O5x3vdw) | 3:35 | 2022-01-06 |  |
 | [Amor Por Los Textos](https://open.spotify.com/track/5U3tgtfJSkx99KPsVDN4wP) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Guille Scherping](https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq), [Falsalarma](https://open.spotify.com/artist/5vHV7UQFBAZzW0gNb3TaZr), [DJ Rune](https://open.spotify.com/artist/7DCqRohWWetdxLeLe3Dwmr) | [Hip Hope](https://open.spotify.com/album/4keg6ZuJj3Lbp9OWtpd2ld) | 3:37 | 2022-07-15 | 2024-04-19 |
+| [Aquí Tal Vez](https://open.spotify.com/track/5FbGyCGFYVafzQyXK4fHDP) | [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju), [JeanPatrick](https://open.spotify.com/artist/2LeoKJiUP0Sz8k2bH8IDbu) | [Aquí Tal Vez](https://open.spotify.com/album/0j5aSXUhaGsSvdwQ4QwOVI) | 3:16 | 2024-11-08 |  |
 | [Arde](https://open.spotify.com/track/7r4YZXOYoMYYaV57gC5hvG) | [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu) | [Arde](https://open.spotify.com/album/24JvZOj09o2rTeLXDWR8mC) | 2:47 | 2022-01-06 | 2022-05-24 |
 | [Artista](https://open.spotify.com/track/2aangGJ2zpCkqwufkqJK0O) | [Bubaseta](https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik) | [Gianni The Sniper](https://open.spotify.com/album/6qCuFADs3BI96jIWbtMhH7) | 1:34 | 2022-01-06 |  |
 | [Aunque No Valga Nada](https://open.spotify.com/track/3tntsQI2S7aIW0W26isOJu) | [Droow](https://open.spotify.com/artist/54U7OiU7yC2eB4Ij71sqlW) | [Aunque No Valga Nada](https://open.spotify.com/album/29EwbjVepYy8dcxUHHDBIF) | 3:50 | 2022-01-06 | 2023-11-11 |
@@ -177,6 +178,7 @@
 | [Saquen Bocina](https://open.spotify.com/track/5PZI5MywcDZQHLjutY8AiJ) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [Brayan Booz](https://open.spotify.com/artist/6c4FK057PXYFZR8mBFgnCD) | [Saquen Bocina](https://open.spotify.com/album/46ap86XytlP1lDMFwMeRNN) | 3:15 | 2022-07-15 | 2024-04-19 |
 | [Se Armo El Kilombo](https://open.spotify.com/track/2knPIRlPOjKwGgtqic9Khp) | [Omega El CTM](https://open.spotify.com/artist/0tXcalxqLUWMRZVfj1xtkP), [Estrellas del Porno](https://open.spotify.com/artist/71Wh74AX7GvBUWVf7qJUux), [Dj Akrylik](https://open.spotify.com/artist/4DpQwUtMbnw1jVj8Luu32p) | [Se Armo El Kilombo](https://open.spotify.com/album/593EzuccSrfI8AU57QSW6s) | 3:48 | 2022-01-06 | 2024-03-30 |
 | [Semilla](https://open.spotify.com/track/5jIhasjpf5Wf9aiZncqq6N) | [Tiro De Gracia](https://open.spotify.com/artist/3yIbPI61iAhMptDnfnyScb) | [Semilla](https://open.spotify.com/album/4QqjRVnG1fOYR4UhI9i4Gl) | 3:36 | 2022-01-06 | 2023-05-27 |
+| [Será](https://open.spotify.com/track/7c6WO7lBfDULc30v9BHwFy) | [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Será](https://open.spotify.com/album/2BRC5OXxwXbizJAzgi0XPb) | 2:16 | 2024-11-08 |  |
 | [Sexy](https://open.spotify.com/track/0w7gzat7AEj3xGjoQCfrkW) | [Gran Rah](https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ), [Negro Sambo](https://open.spotify.com/artist/44D02T0aBZrnN7GKfB3VUk) | [Sexy](https://open.spotify.com/album/58slgS3KlNBeOWAr7iEPrs) | 4:22 | 2022-01-06 |  |
 | [Sexy \- Remix](https://open.spotify.com/track/50B6OT1umN4KL8OmMbLeWe) | [Gran Rah](https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ), [Negro Sambo](https://open.spotify.com/artist/44D02T0aBZrnN7GKfB3VUk), [Shamanes Crew](https://open.spotify.com/artist/6J9Vq69rGl3fJftWDT8jaK) | [Sexy \(Remix\)](https://open.spotify.com/album/4xrkMnRR2GeIhJBlcPe8Qf) | 4:43 | 2022-01-06 |  |
 | [Siempre en el Top](https://open.spotify.com/track/29mZZeTYhU0iqYLI9DMxxR) | [Lenwa Dura](https://open.spotify.com/artist/6mV5lAVMELv6TOmkSzxjfG), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [DJ Acres](https://open.spotify.com/artist/6RhHQP5MQPD3waU29h43gZ) | [Siempre en el Top](https://open.spotify.com/album/7qh1PlTSFCNdoWStOejbNa) | 3:54 | 2022-01-06 | 2024-03-30 |

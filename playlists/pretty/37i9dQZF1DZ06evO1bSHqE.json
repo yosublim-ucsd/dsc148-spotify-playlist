@@ -1,12 +1,12 @@
 {
   "description": "This is Britney Spears. The essential tracks, all in one playlist.",
-  "num_followers": 881203,
+  "num_followers": 881312,
   "original_name": "This Is Britney Spears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZylgAAAAAABXK2v0wgR6rbdro4idcecV",
+  "snapshot_id": "ZyqxgAAAAADnfa5Bc5q1U7VoZe9rb7c7",
   "tracks": [
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Glory (Deluxe)",
+        "url": "https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 141853,
+      "name": "Coupure \u00c9lectrique",
+      "url": "https://open.spotify.com/track/31gKPszUkidbiMtgnGzcsi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ooh La La (from \"The Smurfs 2\")",
         "url": "https://open.spotify.com/album/7qMTrZjF1sh0rujrgczf8P"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 257493,
       "name": "Ooh La La (from \"The Smurfs 2\")",
       "url": "https://open.spotify.com/track/7bpvfjoneSQvW0tbtVm1Jk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oops!... I Did It Again",
-        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "What U See (Is What U Get)",
-      "url": "https://open.spotify.com/track/41cQPDvsP9vBCigVqQjnqg"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oops!... I Did It Again",
+        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "What U See (Is What U Get)",
+      "url": "https://open.spotify.com/track/41cQPDvsP9vBCigVqQjnqg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MIND YOUR BUSINESS",
         "url": "https://open.spotify.com/album/3ecBg8wGhu2TrZxFmEFA7h"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 195692,
       "name": "MIND YOUR BUSINESS",
       "url": "https://open.spotify.com/track/6SihMpwoVMy75GwvBXFxJ4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Glory (Deluxe)",
-        "url": "https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 141853,
-      "name": "Coupure \u00c9lectrique",
-      "url": "https://open.spotify.com/track/31gKPszUkidbiMtgnGzcsi"
     },
     {
       "added_at": null,

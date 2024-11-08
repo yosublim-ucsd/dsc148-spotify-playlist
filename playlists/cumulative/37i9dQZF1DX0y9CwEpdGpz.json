@@ -1351,6 +1351,28 @@
     },
     {
       "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/5WxSTwYAOqCSqaWOathmaG"
+      },
+      "artists": [
+        {
+          "name": "SHOW MUSICAL DREAM HIGH DANCE FAMILY",
+          "url": "https://open.spotify.com/artist/49bc2nIyF35ZKqaiT0uTdm"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248373,
+      "name": "Someday (feat. IU)",
+      "url": "https://open.spotify.com/track/0K79WiYkAabto3KqL42NZO"
+    },
+    {
+      "album": {
         "name": "SoulMate (feat. IU)",
         "url": "https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo"
       },

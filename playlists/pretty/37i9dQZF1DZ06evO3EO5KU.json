@@ -1,12 +1,12 @@
 {
   "description": "This is Los Plebes del Rancho de Ariel Camacho. The essential tracks, all in one playlist.",
-  "num_followers": 157341,
+  "num_followers": 157361,
   "original_name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZylgAAAAAABBZ4r8dcPQpFnedfHqpzyH",
+  "snapshot_id": "ZyqxgAAAAADuXy+UWspI7mYmOvWS5GEb",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Doble R (En Vivo)",
-        "url": "https://open.spotify.com/album/2xSF4vFFb451WNRx92gN03"
+        "name": "Entre Cuerdas y Recuerdos (En Vivo)",
+        "url": "https://open.spotify.com/album/0PRUW6gyaSHBNAep6I4EQV"
       },
       "artists": [
         {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
         }
       ],
-      "duration_ms": 144871,
-      "name": "El Doble R - En Vivo",
-      "url": "https://open.spotify.com/track/3XqmCoHQEVrA1yuzUNssJ3"
+      "duration_ms": 209565,
+      "name": "Yo Ya Sabia Pa' Donde Iba - En Vivo",
+      "url": "https://open.spotify.com/track/7fbN1oIzqmdNmotd0GhpPv"
     },
     {
       "added_at": null,
@@ -599,6 +595,26 @@
       "duration_ms": 201174,
       "name": "En Un D\u00eda Como Hoy",
       "url": "https://open.spotify.com/track/47iMaBA9XSFD6SUqhzzOOy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Doble R (En Vivo)",
+        "url": "https://open.spotify.com/album/2xSF4vFFb451WNRx92gN03"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 144871,
+      "name": "El Doble R - En Vivo",
+      "url": "https://open.spotify.com/track/3XqmCoHQEVrA1yuzUNssJ3"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
       "duration_ms": 216877,
       "name": "El Karma - En Vivo",
       "url": "https://open.spotify.com/track/7oujcLedO67EJM5VwZxAL2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entre Cuerdas y Recuerdos (En Vivo)",
-        "url": "https://open.spotify.com/album/0PRUW6gyaSHBNAep6I4EQV"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 209565,
-      "name": "Yo Ya Sabia Pa' Donde Iba - En Vivo",
-      "url": "https://open.spotify.com/track/7fbN1oIzqmdNmotd0GhpPv"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa (En Vivo)",
+        "url": "https://open.spotify.com/album/0FLKfCwVfCW9GKHBlrPm0s"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 169214,
+      "name": "El Mencho - En Vivo",
+      "url": "https://open.spotify.com/track/2Za9V65HXmc5QD3IVhe0lR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "11 + 11",
         "url": "https://open.spotify.com/album/7kaAUf0ZpoG6tAMAHLgz21"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 196375,
       "name": "11 + 11",
       "url": "https://open.spotify.com/track/2YwUKXOwzoVhgSDZ5XzCjU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa (En Vivo)",
-        "url": "https://open.spotify.com/album/0FLKfCwVfCW9GKHBlrPm0s"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 169214,
-      "name": "El Mencho - En Vivo",
-      "url": "https://open.spotify.com/track/2Za9V65HXmc5QD3IVhe0lR"
     },
     {
       "added_at": null,
@@ -871,22 +871,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jugar a Los Besos",
-        "url": "https://open.spotify.com/album/2jSFLjVvDjXvWAaSlWj5lw"
+        "name": "Los Versos De Muel",
+        "url": "https://open.spotify.com/album/5xM2wgz9pBT3E9ohuJOY8a"
       },
       "artists": [
         {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+          "name": "Darey de la Sierra",
+          "url": "https://open.spotify.com/artist/6ip6Hhqm3kIcVAMzbkT3YU"
         },
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 168850,
-      "name": "Jugar a Los Besos",
-      "url": "https://open.spotify.com/track/4USVL7tlqkVyMWa2DVFqSz"
+      "duration_ms": 205209,
+      "name": "Los Versos De Muel",
+      "url": "https://open.spotify.com/track/3YWOZ51Fvvz96VrrZfomJ2"
     },
     {
       "added_at": null,
@@ -907,18 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
+        "name": "Jugar a Los Besos",
+        "url": "https://open.spotify.com/album/2jSFLjVvDjXvWAaSlWj5lw"
       },
       "artists": [
         {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 154713,
-      "name": "Tres Besitos",
-      "url": "https://open.spotify.com/track/2UADsvbZjZWQpzFfch78FI"
+      "duration_ms": 168850,
+      "name": "Jugar a Los Besos",
+      "url": "https://open.spotify.com/track/4USVL7tlqkVyMWa2DVFqSz"
     }
   ],
   "unique_name": "This Is Los Plebes del Rancho de Ariel Camacho",

@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom of pop.",
-  "num_followers": 6982,
+  "num_followers": 6985,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Everytime We Touch",
-        "url": "https://open.spotify.com/album/5mPA3SoZTILtVck7uCX4wy"
-      },
-      "artists": [
-        {
-          "name": "Klara Hammarstr\u00f6m",
-          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
-        }
-      ],
-      "duration_ms": 141428,
-      "name": "Everytime We Touch",
-      "url": "https://open.spotify.com/track/69tyRQYLN4gy9sR2xr4FQA"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Wait A Little Longer",
         "url": "https://open.spotify.com/album/3V7mjfuYQKZK13uH9rjPxv"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 208664,
       "name": "Wait A Little Longer",
       "url": "https://open.spotify.com/track/2WSRSvjNO8wLxvFWQkeUhS"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Everytime We Touch",
+        "url": "https://open.spotify.com/album/5mPA3SoZTILtVck7uCX4wy"
+      },
+      "artists": [
+        {
+          "name": "Klara Hammarstr\u00f6m",
+          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "Everytime We Touch",
+      "url": "https://open.spotify.com/track/69tyRQYLN4gy9sR2xr4FQA"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Rhythm Of My Show",
-        "url": "https://open.spotify.com/album/0kZuNbILNMuGH45keYqiYE"
-      },
-      "artists": [
-        {
-          "name": "Tone Sekelius",
-          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
-        }
-      ],
-      "duration_ms": 165981,
-      "name": "Rhythm Of My Show",
-      "url": "https://open.spotify.com/track/48NRejAH4xS4PNTl3465O5"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/3p3saMidKHm879P3SC0znA"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Hungover (Head In A Can)",
-        "url": "https://open.spotify.com/album/5QwgmdXMl8OHc4S7CwzWRB"
+        "name": "Rhythm Of My Show",
+        "url": "https://open.spotify.com/album/0kZuNbILNMuGH45keYqiYE"
       },
       "artists": [
         {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
         }
       ],
-      "duration_ms": 224077,
-      "name": "Hungover (Head In A Can)",
-      "url": "https://open.spotify.com/track/6cOisxrHjB34qn81ZOfwhQ"
+      "duration_ms": 165981,
+      "name": "Rhythm Of My Show",
+      "url": "https://open.spotify.com/track/48NRejAH4xS4PNTl3465O5"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -631,6 +615,22 @@
       "duration_ms": 228065,
       "name": "It Takes a Fool to Remain Sane - Spotify Singles",
       "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Hungover (Head In A Can)",
+        "url": "https://open.spotify.com/album/5QwgmdXMl8OHc4S7CwzWRB"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 224077,
+      "name": "Hungover (Head In A Can)",
+      "url": "https://open.spotify.com/track/6cOisxrHjB34qn81ZOfwhQ"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "All My Life (Where Have You Been)",
-        "url": "https://open.spotify.com/album/1IynmYnMto0IfvYfvuWTeU"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria",
-          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
-        }
-      ],
-      "duration_ms": 172306,
-      "name": "All My Life (Where Have You Been)",
-      "url": "https://open.spotify.com/track/5zZr5MeTBHHyyOjGHo0TKo"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "And Then Came You",
         "url": "https://open.spotify.com/album/4hq1E3eP2GWZ7kdddv7MDS"
       },
@@ -711,38 +695,6 @@
       "duration_ms": 195909,
       "name": "And Then Came You",
       "url": "https://open.spotify.com/track/2CuPyOrXSVSxFCpW0TjzdI"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Habits (Stay High) [Stripped in France]",
-        "url": "https://open.spotify.com/album/1jskQCfh9IXZjEfZRq5H1q"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 224620,
-      "name": "Habits (Stay High) [Stripped in France]",
-      "url": "https://open.spotify.com/track/5XJ1lUHJJdOTj0PGUXZMOf"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Ambrosia",
-        "url": "https://open.spotify.com/album/6RucaVwbVouUrU5uBAzFe8"
-      },
-      "artists": [
-        {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-        }
-      ],
-      "duration_ms": 135066,
-      "name": "deathrow bby",
-      "url": "https://open.spotify.com/track/4HkHmWX6tSbyMIybuForxR"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -763,18 +715,34 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Expiration Date_demo_V2.wav",
-        "url": "https://open.spotify.com/album/4DDoW84tuNRze3XKDNxoGK"
+        "name": "All My Life (Where Have You Been)",
+        "url": "https://open.spotify.com/album/1IynmYnMto0IfvYfvuWTeU"
       },
       "artists": [
         {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "Wiktoria",
+          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
         }
       ],
-      "duration_ms": 162853,
-      "name": "Expiration Date_demo_V2.wav",
-      "url": "https://open.spotify.com/track/0v0Gekm6VUYI924GpUYJdL"
+      "duration_ms": 172306,
+      "name": "All My Life (Where Have You Been)",
+      "url": "https://open.spotify.com/track/5zZr5MeTBHHyyOjGHo0TKo"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Habits (Stay High) [Stripped in France]",
+        "url": "https://open.spotify.com/album/1jskQCfh9IXZjEfZRq5H1q"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 224620,
+      "name": "Habits (Stay High) [Stripped in France]",
+      "url": "https://open.spotify.com/track/5XJ1lUHJJdOTj0PGUXZMOf"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -791,6 +759,38 @@
       "duration_ms": 253693,
       "name": "I Don\u2019t Know Love",
       "url": "https://open.spotify.com/track/2p5peGFsiSfp155oGdEdqZ"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Expiration Date_demo_V2.wav",
+        "url": "https://open.spotify.com/album/4DDoW84tuNRze3XKDNxoGK"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 162853,
+      "name": "Expiration Date_demo_V2.wav",
+      "url": "https://open.spotify.com/track/0v0Gekm6VUYI924GpUYJdL"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Ambrosia",
+        "url": "https://open.spotify.com/album/6RucaVwbVouUrU5uBAzFe8"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "duration_ms": 135066,
+      "name": "deathrow bby",
+      "url": "https://open.spotify.com/track/4HkHmWX6tSbyMIybuForxR"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "SMOKE",
-        "url": "https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6"
-      },
-      "artists": [
-        {
-          "name": "Sval",
-          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
-        }
-      ],
-      "duration_ms": 204222,
-      "name": "SMOKE",
-      "url": "https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Same Again (For Love)",
         "url": "https://open.spotify.com/album/2wgTwcm3eDWKgCkr33nTnR"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 199969,
       "name": "Same Again (For Love)",
       "url": "https://open.spotify.com/track/5gbVnjdHLilM1rCoXMiaKT"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "SMOKE",
+        "url": "https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6"
+      },
+      "artists": [
+        {
+          "name": "Sval",
+          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
+        }
+      ],
+      "duration_ms": 204222,
+      "name": "SMOKE",
+      "url": "https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "WEIGHTLESS",
-        "url": "https://open.spotify.com/album/1MnKLg1XKMlUyApNXUNds9"
-      },
-      "artists": [
-        {
-          "name": "Sval",
-          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
-        }
-      ],
-      "duration_ms": 173097,
-      "name": "WEIGHTLESS",
-      "url": "https://open.spotify.com/track/6U4BhYoFspk242X3dicNcj"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Roses N Guns",
         "url": "https://open.spotify.com/album/62ECLLY1SK5EGvZ90GeIGx"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "WEIGHTLESS",
+        "url": "https://open.spotify.com/album/1MnKLg1XKMlUyApNXUNds9"
+      },
+      "artists": [
+        {
+          "name": "Sval",
+          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
+        }
+      ],
+      "duration_ms": 173097,
+      "name": "WEIGHTLESS",
+      "url": "https://open.spotify.com/track/6U4BhYoFspk242X3dicNcj"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Fall In Love",
         "url": "https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 143081,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Bloody Mind",
+        "url": "https://open.spotify.com/album/3Oo7uuwStA88miudT3MInp"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+        }
+      ],
+      "duration_ms": 259097,
+      "name": "Bloody Mind",
+      "url": "https://open.spotify.com/track/2nJFBUSQgTeLekXCkBzmDn"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Bloody Mind",
-        "url": "https://open.spotify.com/album/3Oo7uuwStA88miudT3MInp"
-      },
-      "artists": [
-        {
-          "name": "Cornelia Jakobs",
-          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
-        }
-      ],
-      "duration_ms": 259097,
-      "name": "Bloody Mind",
-      "url": "https://open.spotify.com/track/2nJFBUSQgTeLekXCkBzmDn"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "maserati",
         "url": "https://open.spotify.com/album/0J45WL6UeysdDlHpHjuQp5"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Effort",
-        "url": "https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl"
-      },
-      "artists": [
-        {
-          "name": "SVEA",
-          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
-        }
-      ],
-      "duration_ms": 151947,
-      "name": "Effort",
-      "url": "https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Sweet Night",
         "url": "https://open.spotify.com/album/6QLBGQ4KS63WbtUbeNive8"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 238506,
       "name": "Sweet Night",
       "url": "https://open.spotify.com/track/7tyrBwLtspTksCyt8SDaXe"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Effort",
+        "url": "https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl"
+      },
+      "artists": [
+        {
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+        }
+      ],
+      "duration_ms": 151947,
+      "name": "Effort",
+      "url": "https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/6IP8zOjAoDYlWN8DeynRWL"
-      },
-      "artists": [
-        {
-          "name": "Kiana",
-          "url": "https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/6mXCbiHcFrosLRz2Lnypsx"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "glued to the floor",
         "url": "https://open.spotify.com/album/0kA1PVu4d8eMmN0kc7EL9o"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 138953,
       "name": "glued to the floor",
       "url": "https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/6IP8zOjAoDYlWN8DeynRWL"
+      },
+      "artists": [
+        {
+          "name": "Kiana",
+          "url": "https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/6mXCbiHcFrosLRz2Lnypsx"
     },
     {
       "added_at": "2024-02-08 23:00:00",

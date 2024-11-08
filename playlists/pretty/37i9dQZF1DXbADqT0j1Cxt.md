@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbADqT0j1Cxt.md) - [plain]
 
 > Lull your little ones with piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,163 likes - 337 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,154 likes - 337 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbADqT0j1Cxt.md) - [plain]
 | 85 | [Wonderland](https://open.spotify.com/track/1ld8m1HHXHopfkQ8MxL1LN) | [Nerseh Soul](https://open.spotify.com/artist/3F1T3ei9hUjYpSTdNjfQYI) | [Wonderland](https://open.spotify.com/album/57WLtjKQMWOstSPfGypXrE) | 2:23 |
 | 86 | [I'll Keep You Safe](https://open.spotify.com/track/0cIhHdNpNzYTcAQGWD7ReJ) | [Mylène Longet](https://open.spotify.com/artist/04hDeBzE5iAfVUqJDHobCQ) | [I'll Keep You Safe](https://open.spotify.com/album/59pEC7fdfo18q7vdJJZhba) | 1:52 |
 | 87 | [Three Blind Mice](https://open.spotify.com/track/55LGhGlkIKM9fJoDRLu6nZ) | [Moonlit Nursery Rhymes](https://open.spotify.com/artist/0v8Az5u8Eoo16MDoj5P9WS) | [Three Blind Mice](https://open.spotify.com/album/2MgkgfbWZ8V7t8BzwS5IOx) | 2:54 |
-| 88 | [The Cutest Thing](https://open.spotify.com/track/4SzxS3LeYScmZWkhK4cdaN) | [Alva Klarström](https://open.spotify.com/artist/4st9pHP2wqPPpjXoRZ6S7t) | [The Cutest Thing](https://open.spotify.com/album/0fd8HQoP67omrbgJ3mURlO) | 2:17 |
+| 88 | [The Cutest Thing](https://open.spotify.com/track/4SzxS3LeYScmZWkhK4cdaN) | [Alva Klarström](https://open.spotify.com/artist/50id9oYraGr4qm3XfTKMfO) | [The Cutest Thing](https://open.spotify.com/album/0fd8HQoP67omrbgJ3mURlO) | 2:17 |
 | 89 | [One, Two, Buckle My Shoe](https://open.spotify.com/track/0o0wWE9iN0MoZuGFSXWXI0) | [Laurel Hoh](https://open.spotify.com/artist/08SzjkwPk23BWqKL6LMHMj) | [One, Two, Buckle My Shoe](https://open.spotify.com/album/3L1cnzLzXlEXuyySao79Eb) | 2:16 |
 | 90 | [Chaleur](https://open.spotify.com/track/4le1ArFsfqh1aQBJWjCJyX) | [Line Tromse](https://open.spotify.com/artist/6Jo2zwheonzrtoiXhTUTcI) | [Chaleur](https://open.spotify.com/album/1L3ZLiLYLbVmDcLDMMZiJx) | 2:44 |
 | 91 | [Forever And Ever](https://open.spotify.com/track/6kegD00kMojbCnvI3CnPJJ) | [Maria Mangasson](https://open.spotify.com/artist/3Da8Sq3XlYqKsjuXfzImiJ) | [Forever And Ever](https://open.spotify.com/album/5dp9mbwacgNKu9GIe2Py1T) | 1:44 |

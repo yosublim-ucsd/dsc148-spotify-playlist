@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-12",
-  "description": "Suomen suurin ja paras rock-soittolista \u2620\ufe0f Kannessa Metallica.",
+  "description": "Suomen suurin ja paras rock-soittolista \u2620\ufe0f Kannessa AC/DC.",
   "name": "VOLUME SUOMI",
   "tracks": [
     {
@@ -46,6 +46,24 @@
       "duration_ms": 184215,
       "name": "AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer)",
       "url": "https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26"
+    },
+    {
+      "album": {
+        "name": "Avenged Sevenfold",
+        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352426,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n"
     },
     {
       "album": {
@@ -283,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Century Child",
+        "url": "https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372560,
+      "name": "Bless The Child",
+      "url": "https://open.spotify.com/track/6Z2MwbeouGY1vsLiJfviti"
+    },
+    {
+      "album": {
         "name": "BLOODMOON",
         "url": "https://open.spotify.com/album/53M96kkpf7dLDnAetZ8iss"
       },
@@ -330,7 +366,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 235893,
       "name": "Bring Me To Life",
       "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"
@@ -378,6 +414,24 @@
       "duration_ms": 302866,
       "name": "Cannibal (feat. Anders Frid\u00e9n of In Flames)",
       "url": "https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1"
+    },
+    {
+      "album": {
+        "name": "Teenage Rebel",
+        "url": "https://open.spotify.com/album/1cEmI2FaInMk5EMQu95RGn"
+      },
+      "artists": [
+        {
+          "name": "Nestor",
+          "url": "https://open.spotify.com/artist/0aO5KX4PsGlEqDM8rsH0ld"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296131,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/7wksA9YtIiCcDH80n1ZmNk"
     },
     {
       "album": {
@@ -572,7 +626,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 196067,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/4rwcM7vIyNXIPP3gNE7Q0Q"
@@ -594,7 +648,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 157031,
       "name": "El\u00e4m\u00e4lt\u00e4 kaiken saat I",
       "url": "https://open.spotify.com/track/1MkJwuI3ppInquv44QnBSd"
@@ -655,6 +709,24 @@
     },
     {
       "album": {
+        "name": "The Unforgiving",
+        "url": "https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263973,
+      "name": "Faster",
+      "url": "https://open.spotify.com/track/4XBtYPGMAYJkuJu2w4pmYl"
+    },
+    {
+      "album": {
         "name": "Fear of the Dark (2015 Remaster)",
         "url": "https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO"
       },
@@ -702,7 +774,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 325378,
       "name": "Frankenstein's Wife",
       "url": "https://open.spotify.com/track/268MELe1R45Gqhz8RYkxuU"
@@ -724,6 +796,24 @@
       "duration_ms": 248640,
       "name": "From An Empire To A Fall",
       "url": "https://open.spotify.com/track/3OVOD34O2bzQGDabjnJvFQ"
+    },
+    {
+      "album": {
+        "name": "From Hell With Love",
+        "url": "https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr"
+      },
+      "artists": [
+        {
+          "name": "Beast In Black",
+          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235295,
+      "name": "From Hell With Love",
+      "url": "https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS"
     },
     {
       "album": {
@@ -1302,7 +1392,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 170445,
       "name": "Over Each Other",
       "url": "https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe"
@@ -1338,7 +1428,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 309306,
       "name": "Pahempi toistaan",
       "url": "https://open.spotify.com/track/5373WQjhIPPJ8XGTCZLDfJ"
@@ -1392,7 +1482,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 269665,
       "name": "Power Of The Beast",
       "url": "https://open.spotify.com/track/3HtHib9t0FmC9sl1gsFobY"
@@ -1464,7 +1554,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 217386,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/70MjKbBCKgSq3D0DqQ7jnr"
@@ -1579,6 +1669,24 @@
     },
     {
       "album": {
+        "name": "The Ultimate Sin",
+        "url": "https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256293,
+      "name": "Shot in the Dark",
+      "url": "https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd"
+    },
+    {
+      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/4jI2TKGEjUjjnLjlpGYie6"
       },
@@ -1608,7 +1716,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 168282,
       "name": "slay ur enemies",
       "url": "https://open.spotify.com/track/7aGGAZBZgdSRt49j7m38Zk"
@@ -1688,6 +1796,24 @@
       "duration_ms": 249109,
       "name": "Speed of Darkness",
       "url": "https://open.spotify.com/track/1AMyBmX7JwpBldnMbBcPUR"
+    },
+    {
+      "album": {
+        "name": "Meliora (Redux)",
+        "url": "https://open.spotify.com/album/5HZKJCYNwSyMSo0oylwCHu"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238200,
+      "name": "Square Hammer",
+      "url": "https://open.spotify.com/track/4AbGkIVQC5wLDPOFjdEjDu"
     },
     {
       "album": {
@@ -1799,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "Evanescence",
+        "url": "https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222346,
+      "name": "The Change",
+      "url": "https://open.spotify.com/track/03cH7hozNkNX8qWi8xbkUA"
+    },
+    {
+      "album": {
         "name": "The Day Of...",
         "url": "https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1"
       },
@@ -1835,6 +1979,24 @@
     },
     {
       "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223199,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL"
+    },
+    {
+      "album": {
         "name": "The Future Is A Foreign Land",
         "url": "https://open.spotify.com/album/7i0eEhO3kQr5mEej98ewcd"
       },
@@ -1846,7 +2008,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 225224,
       "name": "The Future Is A Foreign Land",
       "url": "https://open.spotify.com/track/4GfwvLVfaisWMpNIECZ6Dl"
@@ -1925,6 +2087,24 @@
     },
     {
       "album": {
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292880,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+    },
+    {
+      "album": {
         "name": "Neon Inferno",
         "url": "https://open.spotify.com/album/75k7eiWA8rEGhmViParevn"
       },
@@ -1940,6 +2120,24 @@
       "duration_ms": 213028,
       "name": "Tokyo Love",
       "url": "https://open.spotify.com/track/3RgaZ9OAFzH3w58KKfIHoa"
+    },
+    {
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304840,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
     },
     {
       "album": {
@@ -1976,6 +2174,24 @@
       "duration_ms": 230080,
       "name": "Vanha Mies",
       "url": "https://open.spotify.com/track/7HdduaMNFQ9CAbM7v36w1z"
+    },
+    {
+      "album": {
+        "name": "Heinola 10",
+        "url": "https://open.spotify.com/album/2m52QGNLyXHPOFNe92S33E"
+      },
+      "artists": [
+        {
+          "name": "Apulanta",
+          "url": "https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234973,
+      "name": "Viivakoodit",
+      "url": "https://open.spotify.com/track/2Q5CaAXCk9vL8F6CPgrlYN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: eill
 
-1,241 songs - 3 day 1 hr 19 min
+1,242 songs - 3 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [How's The Weather?](https://open.spotify.com/track/2fDYeWXk5CZa5fDu55TXVR) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7), [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8), [Modesty Beats](https://open.spotify.com/artist/13FbrmsM0RLfPPbiqh7iCQ) | [How's The Weather?](https://open.spotify.com/album/61DqjqYnKIVtoKmw8rujY4) | 3:47 | 2023-06-06 | 2023-07-05 |
 | [hug](https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [hug](https://open.spotify.com/album/0boGoIknbk1cBA76Icgov7) | 3:49 | 2024-03-05 | 2024-04-03 |
 | [Huh? \- feat\. MaRI](https://open.spotify.com/track/4y2DV7E7KlVFgvtDrVurZL) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi) | [19](https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm) | 2:16 | 2023-09-05 | 2023-11-08 |
-| [Hush My Heart](https://open.spotify.com/track/4LkZFI0EJoJ2s08M4otbXY) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Hush My Heart](https://open.spotify.com/album/0QOBaWXv5duVX0QXdmTHDI) | 2:56 | 2024-10-15 |  |
+| [Hush My Heart](https://open.spotify.com/track/4LkZFI0EJoJ2s08M4otbXY) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Hush My Heart](https://open.spotify.com/album/0QOBaWXv5duVX0QXdmTHDI) | 2:56 | 2024-10-15 | 2024-11-08 |
 | [I am not maternal](https://open.spotify.com/track/51aTV71knVrYu9b5r5w8XV) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 2:04 | 2024-01-09 |  |
 | [i care](https://open.spotify.com/track/0IBP1gSpcGwj5ohApd2gqa) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [i care](https://open.spotify.com/album/31CPw73XmVhdQJzjkZrNMD) | 4:24 | 2022-05-04 | 2022-06-01 |
 | [I checked your cellphone](https://open.spotify.com/track/5qzkYYg7WmIj9yJVIglD7n) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 1:32 | 2024-01-09 | 2024-02-07 |
@@ -381,6 +381,7 @@
 | [Kakurembo](https://open.spotify.com/track/3vAOwkClLD0cwNrQ5i5dDg) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 3:04 | 2024-02-06 | 2024-03-06 |
 | [Kanashikunaiyo](https://open.spotify.com/track/1QBET5TgEioubUhDwWf3XY) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [Kanashikunaiyo](https://open.spotify.com/album/0QuZsgf6q7Q9ZcnYjlagig) | 3:48 | 2024-01-09 | 2024-02-07 |
 | [Keep on \(it's my way\)](https://open.spotify.com/track/3IGU5gXb2uPWGdjF5MslxB) | [COMA\-CHI](https://open.spotify.com/artist/1EGbVC1fE68gQaPrYEyr99), [Uyama Hiroto](https://open.spotify.com/artist/6AE5XsUcbWE2XrQccVVJyd), [Substantial](https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw) | [Keep on \(it's my way\)](https://open.spotify.com/album/3YvGSgehItYkYro1k6DhIN) | 3:09 | 2023-05-02 | 2023-06-07 |
+| [Keep On Moving Up](https://open.spotify.com/track/0eO5J4bjVgjSLDB579BlkE) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Keep On Moving Up](https://open.spotify.com/album/5Wbi8QUhBMmpwUbEjnN7KX) | 3:05 | 2024-11-07 |  |
 | [Keeps Beating](https://open.spotify.com/track/5dGenSjQSfL9KwXhL3D18M) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Just Living](https://open.spotify.com/album/6jWIqqH1FJKuDbtq8cCWIC) | 3:49 | 2023-04-04 | 2023-05-03 |
 | [Ki\-Iro](https://open.spotify.com/track/4C249tzdyQFW9W0o6lIYUl) | [TENTENKO](https://open.spotify.com/artist/0Z0T5Cm2d7m8L0qCTzI6yD) | [An Antworten EP](https://open.spotify.com/album/5xJQeowjdaLP0GKJdRUjaO) | 8:39 | 2022-01-04 | 2024-03-06 |
 | [Kids2](https://open.spotify.com/track/2qhZegXSHn7So0uNlhZF8O) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [THE PLANET TIVA part.2](https://open.spotify.com/album/6fsspfvEBmx5RUKsfTRsAf) | 3:03 | 2022-03-07 | 2023-04-05 |

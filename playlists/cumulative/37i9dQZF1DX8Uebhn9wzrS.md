@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,132 songs - 3 day 9 hr 17 min
+2,134 songs - 3 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Between Heaven & Earth](https://open.spotify.com/track/23f5WsFvlIAgs4zlHwzuuU) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [seeyouthere](https://open.spotify.com/artist/3aspJpj1ZByvp1P16mFeRC) | [Between Heaven & Earth](https://open.spotify.com/album/3Lllkp5uaQxdF41sPrFp3v) | 1:53 | 2023-03-24 | 2024-02-09 |
 | [Between The Lines](https://open.spotify.com/track/0xu4nHvp3S4wVFc685Z9EY) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Between The Lines](https://open.spotify.com/album/6cG45DQCdR1QBumoTWSkDf) | 2:02 | 2022-04-15 | 2023-08-18 |
 | [Between Us](https://open.spotify.com/track/72lYcj9LoUDPFsihKhiAJj) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [Between Us](https://open.spotify.com/album/0TYGgGv6ROhujXzLe9GyXt) | 2:17 | 2022-04-15 | 2022-12-03 |
+| [Beyond the garden](https://open.spotify.com/track/2qpqbfuEx0umWCplWvt8Ym) | [Dizzy Boy](https://open.spotify.com/artist/4WMeBMNmAV2fcw5UYjBqho) | [Beyond the garden](https://open.spotify.com/album/0u3sYI2WBuiNRZUA0xlpNh) | 2:43 | 2024-10-25 |  |
 | [Beyond the Oak Trees](https://open.spotify.com/track/7lKqJYhKWmuxtHHSiGg9un) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Beyond the Oak Trees](https://open.spotify.com/album/2MesGtIqZHcMkMo40ogNph) | 2:53 | 2022-04-15 | 2022-07-22 |
 | [big buddha](https://open.spotify.com/track/3ctgxH0ZpE50qscnZYBY1H) | [Max Hayward](https://open.spotify.com/artist/7BYvlfn9FHd6YH5eTY93zP) | [big buddha](https://open.spotify.com/album/7o1tcY2UDb2b8ZxHQnSRN5) | 2:28 | 2024-01-05 |  |
 | [Bird Eye](https://open.spotify.com/track/0Ag2FDxOVElHuBYn0BDYjQ) | [LzmD](https://open.spotify.com/artist/6yUTk9DYrsGPhR8s181E53) | [Bird Eye](https://open.spotify.com/album/6bEUQXrP8KJCMtM7Xz8QaE) | 2:27 | 2022-11-18 | 2024-10-05 |
@@ -1004,7 +1005,7 @@
 | [Leaves Fallin'](https://open.spotify.com/track/5UcQZ8I3N17Yx8SkeHMcUG) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Leaves Fallin'](https://open.spotify.com/album/4F4jx6ZzR1SJ7Hl9BcZg4M) | 2:18 | 2024-10-04 |  |
 | [Left](https://open.spotify.com/track/47LZD8vMgs9oknUS3L1GaJ) | [Master Haratt](https://open.spotify.com/artist/4xXJGTAfTfLq9HqksgZHBT) | [Left](https://open.spotify.com/album/0nMupNelvEmA9NKbit7vct) | 2:28 | 2022-04-15 | 2022-07-15 |
 | [Lemme Just Sunbleach \(All Day All Night\)](https://open.spotify.com/track/3r92YrLWSVmwbCpyl0saJ1) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Lemme Just Sunbleach \(All Day All Night\)](https://open.spotify.com/album/1d6qrcmACFopMLcBqBhe5A) | 3:03 | 2022-12-16 |  |
-| [Lemon Gardens](https://open.spotify.com/track/3VChI6nBTxw1Jk7f5QRoGU) | [rosetta's stone](https://open.spotify.com/artist/31WQZQf2EfYbbw1RpIU5GZ) | [Lemon Gardens](https://open.spotify.com/album/3L6NZBTSSTtmy1fsiMc3Wg) | 2:38 | 2023-07-13 |  |
+| [Lemon Gardens](https://open.spotify.com/track/3VChI6nBTxw1Jk7f5QRoGU) | [rosetta's stone](https://open.spotify.com/artist/31WQZQf2EfYbbw1RpIU5GZ) | [Lemon Gardens](https://open.spotify.com/album/3L6NZBTSSTtmy1fsiMc3Wg) | 2:38 | 2023-07-13 | 2024-11-08 |
 | [lemonade](https://open.spotify.com/track/7ugbUqIuXfg3UVxbIsK3Vd) | [Jungle Hit](https://open.spotify.com/artist/6zMsK4j9ppsNd4hry9P1bd) | [lemonade](https://open.spotify.com/album/17uTT5xBuHUU4WvCmKOtvr) | 2:10 | 2022-04-15 | 2022-10-14 |
 | [Lemonade Waves](https://open.spotify.com/track/6ovbhJchg5kGdayDjhUV60) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Lemonade Waves](https://open.spotify.com/album/4MiCj4Rn6yw3HLdpeXbVrX) | 2:49 | 2022-06-10 | 2023-03-25 |
 | [Lens Flare](https://open.spotify.com/track/3BPDxsdq20JHIsDPpZJzbO) | [gCoope](https://open.spotify.com/artist/0VyTdP8A5VGuLAxSzJHind), [Lxpse](https://open.spotify.com/artist/031Vp2J0KxdRPynrvxlx6r) | [Lens Flare](https://open.spotify.com/album/5ahcWCFCydgEdSgrOPuCbQ) | 1:54 | 2022-08-05 | 2022-08-12 |
@@ -1814,7 +1815,7 @@
 | [Sunrays](https://open.spotify.com/track/0uJWwpRKgHFmFDIyXQtsji) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Sunrays](https://open.spotify.com/album/30sK54lSHYBcB95sRJn0QF) | 2:30 | 2022-11-18 | 2023-02-07 |
 | [Sunrise](https://open.spotify.com/track/7Kg3YSa4bilbvyFRSWScG0) | [Clipsheet](https://open.spotify.com/artist/2aGZ09xbqrkGKqDLMFl9r2) | [Sunrise](https://open.spotify.com/album/2MYdmyaARWA73eRLaD0PWi) | 1:43 | 2022-11-25 | 2023-09-16 |
 | [sunset](https://open.spotify.com/track/5NO2HocQGechq8BaHmvbIa) | [Aran Brôg](https://open.spotify.com/artist/7ba3vzhS4RU7esRdjexxwA) | [sunset](https://open.spotify.com/album/6hBdzlZdJVZZmDyT1fHMnT) | 2:20 | 2022-11-25 | 2023-02-07 |
-| [sunset](https://open.spotify.com/track/1hYG93eKWeFzJlIZTOAVX9) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [sunset](https://open.spotify.com/album/0wCBbw4ksyMQ5TwzfmY85u) | 2:44 | 2023-09-08 |  |
+| [sunset](https://open.spotify.com/track/1hYG93eKWeFzJlIZTOAVX9) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [sunset](https://open.spotify.com/album/0wCBbw4ksyMQ5TwzfmY85u) | 2:44 | 2023-09-08 | 2024-11-08 |
 | [Sunset](https://open.spotify.com/track/25E3oiuIVUsjow8jWW7GAf) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Coastal](https://open.spotify.com/album/5Vl92yFBmLGcr5bJ8p2vQ6) | 2:33 | 2022-10-07 | 2023-01-13 |
 | [Sunset](https://open.spotify.com/track/5cm5OwzLP6SAjPYYeMb4BC) | [Lex Raycon](https://open.spotify.com/artist/0cfVRTHY5eC42VtxflRZEE) | [Sunset](https://open.spotify.com/album/45eoyxwz9YuUgyBOKpURCh) | 2:25 | 2022-04-15 | 2022-08-12 |
 | [Sunset](https://open.spotify.com/track/1aswhgX6xYksPefv9z1phm) | [Lotus Beats](https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI), [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Sunset](https://open.spotify.com/album/3TWhBNWnXwJ8wJpH0vOyTM) | 2:34 | 2024-04-26 |  |
@@ -2052,6 +2053,7 @@
 | [watercolour](https://open.spotify.com/track/0x0XaXiKrUFoCTnrDFXgdt) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [watercolour](https://open.spotify.com/album/184U6PqwZz0xIejtcsr5Nd) | 2:00 | 2023-12-15 |  |
 | [waves](https://open.spotify.com/track/75lbe3dkMnMlOk2NiXhD7b) | [Coastlinez](https://open.spotify.com/artist/1JDqWVMetMtVAFvSH1ahzj) | [waves](https://open.spotify.com/album/1N5uO19ere7Y3cbG41LHCk) | 3:02 | 2022-12-09 |  |
 | [Waves coming](https://open.spotify.com/track/2J6oZ9gQYE9kl3RJoRuhfn) | [Pete LaCroix](https://open.spotify.com/artist/02oVnpIPcBnM3aLWynbqpo) | [Waves coming](https://open.spotify.com/album/5r2aAYQwavuOhjlfvqqAFs) | 2:51 | 2022-04-15 | 2022-10-08 |
+| [Waves of Affection](https://open.spotify.com/track/3CbR0A70vykSvo892Q8GFM) | [MC](https://open.spotify.com/artist/0DyoPw1p8N3GheQzvjt7x5) | [Waves of Affection](https://open.spotify.com/album/4Aial9QGHocPz3n1IJtCjA) | 2:33 | 2024-10-25 |  |
 | [Wavez](https://open.spotify.com/track/02geXr3q6b3JlRC8lXG9Ze) | [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj) | [Wavez](https://open.spotify.com/album/5i4VhNSsE6IaQrDbBGm0aR) | 2:41 | 2022-07-29 | 2022-08-12 |
 | [Wavy Dreams](https://open.spotify.com/track/4Vwrn6AZD1UMWjcPyZCQzv) | [AN!A](https://open.spotify.com/artist/7Lj9HhAnrKS6ZyGwPUyEJU), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Wavy Dreams](https://open.spotify.com/album/5q5u0G46pE0AuwJ2TPMUUN) | 2:14 | 2022-11-11 | 2023-01-20 |
 | [Way Out West](https://open.spotify.com/track/7by3EYWRMYrD9eqVTbgHT8) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Way Out West](https://open.spotify.com/album/1auWWPfWz3QP5BMVHDV0Ne) | 2:27 | 2023-07-13 |  |

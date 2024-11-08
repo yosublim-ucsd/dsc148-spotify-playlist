@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 432558,
+  "num_followers": 432561,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZylgAAAAAABbLfeIXWtfvDfB9I0+ufkq",
+  "snapshot_id": "ZyqxgAAAAAAGKYfpgrXVBhuCQKc5kSfE",
   "tracks": [
     {
       "added_at": null,
@@ -955,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peek A Boo",
-        "url": "https://open.spotify.com/album/4lPh818nqtqiPwqOGEGA1b"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 247612,
-      "name": "Peek A Boo",
-      "url": "https://open.spotify.com/track/1iTWoKAdilGEmit6xhQZje"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MigoThuggin",
         "url": "https://open.spotify.com/album/4Rj8KShBw1IrBW3A7wsEmi"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 271483,
       "name": "No Way",
       "url": "https://open.spotify.com/track/7sJd82Bq8y7oHl2rbzmijx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peek A Boo",
+        "url": "https://open.spotify.com/album/4lPh818nqtqiPwqOGEGA1b"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 247612,
+      "name": "Peek A Boo",
+      "url": "https://open.spotify.com/track/1iTWoKAdilGEmit6xhQZje"
     }
   ],
   "unique_name": "This Is Migos",

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-766 songs - 2 day 3 hr 31 min
+767 songs - 2 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [GET OFF UR PHONE](https://open.spotify.com/track/4Y0dZtNmCOjaj5FaU3RQaY) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp), [Isa Reyes](https://open.spotify.com/artist/4TByvCGrRIFKUl3rMQKQa1) | [HEATWAVE](https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26) | 3:16 | 2024-06-11 | 2024-06-12 |
 | [Get Old Forever](https://open.spotify.com/track/4jCOQPjIYVMmT06kDWoJoj) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [We Cool?](https://open.spotify.com/album/50bg2f6DaWI3gmsMzZ30mV) | 3:19 | 2023-01-03 | 2024-03-27 |
 | [Getting Older](https://open.spotify.com/track/4HOryCnbme0zBnF8LWij3f) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:04 | 2023-01-15 | 2023-06-27 |
-| [Ghost Rider \(2019 \- Remaster\)](https://open.spotify.com/track/0sTMWWSms4Mt6vy33rdqgv) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/46kw5FsFdJhNRL8wfHM9Bp) | 2:33 | 2024-01-08 |  |
+| [Ghost Rider \(2019 \- Remaster\)](https://open.spotify.com/track/0sTMWWSms4Mt6vy33rdqgv) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/46kw5FsFdJhNRL8wfHM9Bp) | 2:33 | 2024-01-08 | 2024-11-08 |
 | [Giant Steps \- 2020 Remaster](https://open.spotify.com/track/69KzcVxzsz1KvLzaxMMobe) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(2020 Remaster\)](https://open.spotify.com/album/6NkgPYCMAzttRIKDpuJrFp) | 4:47 | 2022-04-21 |  |
 | [Girl U Want](https://open.spotify.com/track/7aLqagsvH0UhwElKSR8rAj) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:57 | 2024-03-24 |  |
 | [Girls & Boys \- 2012 Remaster](https://open.spotify.com/track/5OS6hw3tFeWUiT3NPQyUM8) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife](https://open.spotify.com/album/0YS25Dr3hMtMFlVTfuvzl4) | 4:51 | 2024-01-08 |  |
@@ -496,7 +496,8 @@
 | [Peace To All Freaks](https://open.spotify.com/track/1gSk8vyR6ExYlSqIhEzpSO) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [UR FUN](https://open.spotify.com/album/0PvImlnEVBSPGeaCQhjkZH) | 4:44 | 2023-06-28 | 2023-07-04 |
 | [Penitentiary Philosophy](https://open.spotify.com/track/4Nngx0azfbJibdS5oT3dG8) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 6:09 | 2023-04-12 |  |
 | [People of the Sun](https://open.spotify.com/track/3QjQp2bfAvLTCSi8Zhzqis) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 2:30 | 2022-11-24 |  |
-| [Perth](https://open.spotify.com/track/5sYAPWzsEk8pd1OFhcQ67T) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 4:22 | 2022-03-30 |  |
+| [Perth](https://open.spotify.com/track/5sYAPWzsEk8pd1OFhcQ67T) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 4:22 | 2022-03-30 | 2024-11-08 |
+| [Phoenix](https://open.spotify.com/track/59NeiWt9ngaQQ9556Qy6vR) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Birdie](https://open.spotify.com/album/7BOqKE9agoJs91LXKd1pNy) | 4:35 | 2024-11-07 |  |
 | [Pig](https://open.spotify.com/track/0ANh6qtHQwgemPpaylC5Ae) | [TTNG](https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0) | [Animals](https://open.spotify.com/album/6gl4ylXxmNMpOxBImNe9n3) | 3:48 | 2023-03-06 |  |
 | [Pin It Down](https://open.spotify.com/track/4G0cKJupBY79cAoYDihZwI) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:06 | 2023-12-25 | 2024-03-28 |
 | [pink diamond](https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:04 | 2023-02-24 | 2023-12-14 |

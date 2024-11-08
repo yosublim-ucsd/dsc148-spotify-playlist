@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 
 > Relaxing piano works by Chopin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,014 likes - 42 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,053 likes - 42 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 | 6 | [Waltz No\. 19 in A minor, Op\. posth.](https://open.spotify.com/track/71MpmxCJ1TW05c7Fvv1SfI) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Peter Jablonski](https://open.spotify.com/artist/0mCOV3Lihl1xpkHv1ZY89E) | [Chopin: Waltzes, etc.](https://open.spotify.com/album/41S7roh2KH78FqcrAvlv2U) | 2:12 |
 | 7 | [Prélude in E minor, Op\. 28, No\. 4](https://open.spotify.com/track/1aMUmQmSBpmMVpyY804ksh) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Janusz Olejniczak](https://open.spotify.com/artist/0MeUJOSv5a75mNQzh266Ay) | [The Pianist \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2GFVUnvZBGjE29iZzwbhZT) | 2:26 |
 | 8 | [Nocturne in C\-sharp minor, B\. 49](https://open.spotify.com/track/0bcGY7mfG10QfeaDbz97hC) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Brigitte Engerer](https://open.spotify.com/artist/0WBFyyZxQ5CeA31cKSmhU2) | [Chopin: Complete Nocturnes](https://open.spotify.com/album/2EJIGjaVFq9PKinjyA9yOn) | 3:59 |
-| 9 | [Preludes, Op\. 28: No\. 15, Sostenuto](https://open.spotify.com/track/5xXjqFnvQbxZglR1sGm0Yc) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Chopin: Préludes](https://open.spotify.com/album/49NR4iAFLGGtOpmGKEMtpK) | 5:39 |
+| 9 | [No\. 15, Sostenuto](https://open.spotify.com/track/5xXjqFnvQbxZglR1sGm0Yc) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Chopin: Préludes](https://open.spotify.com/album/49NR4iAFLGGtOpmGKEMtpK) | 5:39 |
 | 10 | [24 Preludes, Op\. 28: No\. 13 in F\-Sharp Major\. Lento](https://open.spotify.com/track/4tFuBmZ0ZA8aYXY4FVK3AN) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Joanna Brzezinska](https://open.spotify.com/artist/6nYpQVHLUdklz2eQLOPTbh) | [Poetic Chopin](https://open.spotify.com/album/6fiapO8BqQus8sXGKUo8PF) | 3:58 |
 | 11 | [Chopin: Nocturne No\. 4 in F Major, Op\. 15 No\. 1](https://open.spotify.com/track/5tx6c2YLbXJsldPeb1BQR8) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Elisabeth Leonskaja](https://open.spotify.com/artist/3i67VvAwUlOKZa3fc75zs8) | [Chopin: Nocturnes \[Complete\]](https://open.spotify.com/album/3Ja7LrUEADfJfYE6nzPfNb) | 5:10 |
 | 12 | [Chopin: 24 Preludes, Op\. 28: No\. 15 in D\-Flat Major "Raindrop"](https://open.spotify.com/track/4q8f3Ls32PcXE8Ks4V1ufx) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Nikolai Lugansky](https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud) | [Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes](https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v) | 5:48 |

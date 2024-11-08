@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Nice Life ",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Mr. Carly",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 217853,
       "name": "A Nossa Vez",
       "url": "https://open.spotify.com/track/5o9k5OSBM4sAY2bMekl8a8"
@@ -2064,6 +2064,28 @@
       "duration_ms": 279024,
       "name": "Deusa do Amor",
       "url": "https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT"
+    },
+    {
+      "album": {
+        "name": "Dexam",
+        "url": "https://open.spotify.com/album/3jXftZfTpysjPdn0OiWAQB"
+      },
+      "artists": [
+        {
+          "name": "Trakinuz",
+          "url": "https://open.spotify.com/artist/0LOsSno4aZOU55xOJjLDfV"
+        },
+        {
+          "name": "Loony Johnson",
+          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216711,
+      "name": "Dexam",
+      "url": "https://open.spotify.com/track/51t6FcKr0vjARDYHxDEu5a"
     },
     {
       "album": {
@@ -4203,6 +4225,24 @@
     },
     {
       "album": {
+        "name": "Voyage (Part III)",
+        "url": "https://open.spotify.com/album/2YxiYrbic25u1RdERSPmoa"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210503,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/76lnq6raCPupukROLdLmwG"
+    },
+    {
+      "album": {
         "name": "Maz um Bez",
         "url": "https://open.spotify.com/album/2txbkYlDryHQ8EXwwD35It"
       },
@@ -4958,7 +4998,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 226626,
       "name": "Nha Rainha (feat. Dino D'Santiago)",
       "url": "https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX"
@@ -6820,7 +6860,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 192702,
       "name": "Sentimento",
       "url": "https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy"
@@ -8072,6 +8112,24 @@
       "duration_ms": 206290,
       "name": "Tudo por Amor",
       "url": "https://open.spotify.com/track/7LtfpklIMpsU0tWw0EbIOl"
+    },
+    {
+      "album": {
+        "name": "TXUTXUKA",
+        "url": "https://open.spotify.com/album/2piLhhUlxXUEwowhCvD8Zb"
+      },
+      "artists": [
+        {
+          "name": "Mr. Carly",
+          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193875,
+      "name": "TXUTXUKA",
+      "url": "https://open.spotify.com/track/6gpSM3YN1SQhulm8gzSna3"
     },
     {
       "album": {

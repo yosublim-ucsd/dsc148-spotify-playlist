@@ -4,7 +4,7 @@
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-260 songs - 13 hr 9 min
+261 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Does It Seem](https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN) | [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V) | [One Of A Kind](https://open.spotify.com/album/51qnbLBwQgEtihtp0xEUkP) | 3:48 | 2024-05-03 | 2024-06-14 |
 | [Don't Stop](https://open.spotify.com/track/73Aj6vBOimEVHMMm67YmcU) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Don't Stop](https://open.spotify.com/album/2LeGGDt1Nn31jdCThW1SKW) | 2:50 | 2023-06-26 | 2023-07-14 |
 | [Don't Touch](https://open.spotify.com/track/2csjKdfu4sncJWlgGRBjPm) | [Actimax](https://open.spotify.com/artist/4R9Bm1J23wbXOK3oxpjKau), [1997](https://open.spotify.com/artist/6MSe5IjGtnDLfKyAuofPo2), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Don't Touch](https://open.spotify.com/album/6ixv1LSLXYYmTE1jtVm4uo) | 3:05 | 2023-12-11 | 2024-01-14 |
+| [Don't Touch](https://open.spotify.com/track/0o0gyBmKHpzibd45c4KmGR) | [HeyDoc!](https://open.spotify.com/artist/5EwW7fH1tpfaLhv54OgneB) | [Don't Touch](https://open.spotify.com/album/6CkdzZUFSS7TuhgbT1koT9) | 3:08 | 2024-11-07 |  |
 | [Donut & Coffee](https://open.spotify.com/track/1i3wHxfhU7JoywfMLtv8MB) | [Rezone](https://open.spotify.com/artist/0q8sqjhlYCJjlcCADGTPiP) | [Donut & Coffee](https://open.spotify.com/album/4QnwrLG7LragraFk5h4Jum) | 2:14 | 2024-08-02 | 2024-11-06 |
 | [DOPE](https://open.spotify.com/track/5UJ2NszmeYJFbk1XwG2fGl) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB) | [DOPE](https://open.spotify.com/album/5GFSnlNi3pWKrCeC63fHJU) | 3:04 | 2024-04-26 | 2024-06-14 |
 | [Drop It](https://open.spotify.com/track/74rowk6lkrVhf006AwHhih) | [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V) | [Drop It](https://open.spotify.com/album/0cBrb3fBPk1SVRLz6Y3Zom) | 2:33 | 2023-09-20 | 2024-02-16 |

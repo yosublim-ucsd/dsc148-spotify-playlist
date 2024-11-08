@@ -4,7 +4,7 @@
 
 > Ethel Cain returns
 
-3,066 songs - 6 day 22 hr 4 min
+3,067 songs - 6 day 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1642,7 +1642,7 @@
 | [Love90](https://open.spotify.com/track/6UKPGUV7Qt7PfDR1H3lRN7) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Going Nowhere](https://open.spotify.com/album/12HvrNdCXhtfIS48tDG9cf) | 2:58 | 2024-10-25 |  |
 | [Lovegod](https://open.spotify.com/track/2hKnW3SMsVWhXoSYLXn01G) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Lovegod](https://open.spotify.com/album/2KEC2u2Q3nhAeXeZb6Ptq7) | 3:08 | 2023-05-12 | 2024-02-23 |
 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 | 2022-04-08 | 2022-06-18 |
-| [Lover's Spit](https://open.spotify.com/track/3Cl35xMXJUEhpPaYBeNUQR) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 6:22 | 2024-10-04 |  |
+| [Lover's Spit](https://open.spotify.com/track/3Cl35xMXJUEhpPaYBeNUQR) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 6:22 | 2024-10-04 | 2024-11-08 |
 | [Loverboy](https://open.spotify.com/track/1FWoak0OgTq1jrYfRKfXsj) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Helios](https://open.spotify.com/album/34XppM4qBBkVv7eDZEei1N) | 3:44 | 2021-08-18 | 2021-11-13 |
 | [Lovers \- Jim\-E Stack Remix](https://open.spotify.com/track/0pDzACzX33WjIBr8eu9B7l) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Lovers \(Jim\-E Stack Remix\)](https://open.spotify.com/album/1iEtnOwrcCSzenB5PuFeQe) | 3:39 | 2019-07-30\* | 2019-08-15 |
 | [Lovesong](https://open.spotify.com/track/06T3xyN0Gx1U4FyifkwLsk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lovesong](https://open.spotify.com/album/6grV1LAfe5fUZ04vSexZtb) | 4:05 | 2022-05-27 | 2022-07-08 |
@@ -2248,7 +2248,7 @@
 | [scared of everything](https://open.spotify.com/track/3AwY1dhmbVHMxugjNGhbmZ) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [scared of everything](https://open.spotify.com/album/6qf1Qjmib5fOTb18Ju6uA9) | 3:14 | 2021-10-16 | 2022-01-08 |
 | [scorton's creek \- re\-imagined by filous](https://open.spotify.com/track/5uSwYU4V1hFDZYEHF87RmK) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [scorton's creek \(re\-imagined by filous\)](https://open.spotify.com/album/72Hk7UBB0gMymYlRre61aC) | 2:59 | 2020-06-13 | 2021-07-31 |
 | [Scott Street](https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 5:05 | 2021-01-15 | 2021-01-27 |
-| [Scott Street](https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 5:05 | 2024-11-05 |  |
+| [Scott Street](https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 5:05 | 2024-11-05 | 2024-11-08 |
 | [SCRAMBLED](https://open.spotify.com/track/42uy5NuT0jGny3Ozp2DrxK) | [Havelock](https://open.spotify.com/artist/3AIAml2wCQUDhWt0BffVbA) | [SCRAMBLED](https://open.spotify.com/album/7qSI5uSBvlVNrBEwOwqhtP) | 4:37 | 2019-12-07 | 2020-04-20 |
 | [Sea Sick](https://open.spotify.com/track/3jLHo30ucbkYY9P7v8leKh) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Sea Sick](https://open.spotify.com/album/2rW8WOaJP6R7rIFFaJEhoZ) | 2:10 | 2019-10-22 | 2020-09-15 |
 | [Seaforth](https://open.spotify.com/track/25Ke6GfR72hvkQAt6fjM7j) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Seaforth](https://open.spotify.com/album/3QFf8WI1qvJJCcmnfMyuQx) | 4:05 | 2023-04-14 | 2023-05-06 |
@@ -2314,6 +2314,7 @@
 | [Shining](https://open.spotify.com/track/2eGEIhx0owrAgHCyYR0QUr) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [Shining](https://open.spotify.com/album/2M6qfeYL6f0qB2FClklOat) | 2:26 | 2023-05-23 | 2023-08-16 |
 | [Shirtless](https://open.spotify.com/track/7jNNwkzkd9Y6mvfeP2lF8q) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Shirtless](https://open.spotify.com/album/1plqx9gj6tlhdEiuDfKCHM) | 3:26 | 2020-09-22 | 2020-11-11 |
 | [Shit Show](https://open.spotify.com/track/0t9X8kIUL4QqoWq6HM5o2G) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Shit Show](https://open.spotify.com/album/67Z2Ig6ut4g6d0MhxTKjfp) | 3:20 | 2021-12-01 | 2022-02-12 |
+| [Shitty Heaven](https://open.spotify.com/track/6XLyiEUFbJ5fgAkZ1lPtCU) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Shitty Heaven](https://open.spotify.com/album/3I4haXWxlYtANgufBvziuN) | 2:51 | 2024-11-07 |  |
 | [Shitty People](https://open.spotify.com/track/4gmWwnGA117kHmmzczUwlz) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Shitty People](https://open.spotify.com/album/40xU8o3w2Zw17JiTIZ3q2s) | 2:41 | 2022-06-24 | 2022-08-19 |
 | [Shotgun \- Magdalena Bay Remix](https://open.spotify.com/track/5m4EJmInvHQJ1wvPx2Qs36) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Shotgun \(Magdalena Bay Remix\)](https://open.spotify.com/album/1ADuxT0WV9GAkcEdtNJxCB) | 3:59 | 2022-08-18 | 2022-10-13 |
 | [Shove](https://open.spotify.com/track/3zY86yn3L9l2OvDaVju6iP) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [Shove](https://open.spotify.com/album/1Zn4cAAjfE9ymJ6PYA34Jb) | 2:39 | 2023-09-15 | 2023-11-11 |
@@ -2470,7 +2471,7 @@
 | [sports](https://open.spotify.com/track/4xp4OChbf94rpxwPe9qA5R) | [Elah Hale](https://open.spotify.com/artist/0EDEUACmghvLBhxLnMpyeU) | [sports](https://open.spotify.com/album/6bxnyq3skEwaXzcauU7FUs) | 3:00 | 2020-09-25 | 2020-10-13 |
 | [SPORTS CAR](https://open.spotify.com/track/6WYZ4NWTQzzT5fLnL88yJ0) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [SPORTS CAR](https://open.spotify.com/album/3qsYtGNKLYJrBslFEQVOgO) | 3:06 | 2021-08-14 | 2021-11-13 |
 | [squares](https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [squares / y 13](https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6) | 4:27 | 2022-01-14 | 2022-04-09 |
-| [Stained Glass Window](https://open.spotify.com/track/1Iy1dBd5qO65eTnsZ2oqLV) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Stained Glass Window](https://open.spotify.com/album/5zbENpmH6iINqbaiADr8Gx) | 4:27 | 2024-04-05 |  |
+| [Stained Glass Window](https://open.spotify.com/track/1Iy1dBd5qO65eTnsZ2oqLV) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Stained Glass Window](https://open.spotify.com/album/5zbENpmH6iINqbaiADr8Gx) | 4:27 | 2024-04-05 | 2024-11-08 |
 | [Stains](https://open.spotify.com/track/7yCZNi9rvhRUkuvN7kqYsr) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Stains](https://open.spotify.com/album/5NXk9SSME4rxNK809ODU1e) | 2:53 | 2023-08-18 | 2023-10-03 |
 | [Standing Still](https://open.spotify.com/track/6a0e5Fb8cwz8pklTJOFGju) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [This Way](https://open.spotify.com/album/3ij42TJGaDLltR6VlCMUOa) | 4:30 | 2024-01-03 | 2024-01-11 |
 | [Star of the Show](https://open.spotify.com/track/2XLSbmaMw6ytIVdW45X8yc) | [Nitefire](https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl) | [Star of the Show](https://open.spotify.com/album/1gyqe8tfMkeTDmtR8PTlHd) | 4:16 | 2022-05-12 | 2022-07-30 |
@@ -2807,7 +2808,7 @@
 | [Tunnel Vision](https://open.spotify.com/track/3LlQyxWlsx8y4rZtkETUjl) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 5:05 | 2024-08-23 | 2024-08-29 |
 | [Turn Red](https://open.spotify.com/track/0rayVRqTtVHVkFiYdI8QW2) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [I'm Green](https://open.spotify.com/album/1upKvbsQau0k852Ol079dD) | 3:56 | 2023-10-13 | 2024-02-22 |
 | [Turnham Green](https://open.spotify.com/track/2zzbA5a4ZTzjYEbr4X0zOW) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Turnham Green](https://open.spotify.com/album/20u6ns1ue1dRrjc0cl4U8N) | 3:45 | 2022-08-05 | 2022-08-25 |
-| [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-21 | 2022-11-17 |
+| [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-21 |  |
 | [Twenties](https://open.spotify.com/track/3BeQzzSxNb7lzN1pJwXXDf) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Twenties](https://open.spotify.com/album/4PMJ1YwlsWRJYCxr1S8LX9) | 4:15 | 2020-05-14 | 2020-05-28 |
 | [Two Fishes](https://open.spotify.com/track/7qMMw7ngQEtW4Cam5GASW3) | [Benja](https://open.spotify.com/artist/36Bs5vvvt4AfdIvApt1Rid), [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [Two Fishes](https://open.spotify.com/album/2PfujAW7ZEEg9T9Ug2xMmK) | 3:23 | 2024-06-21 | 2024-09-13 |
 | [Two Moons](https://open.spotify.com/track/5GxUKIEkMXXZo1Tif0IzfC) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Fever Dreams](https://open.spotify.com/album/0NzheutoSuzfMlENTnHTQl) | 3:44 | 2021-06-09 | 2021-08-14 |

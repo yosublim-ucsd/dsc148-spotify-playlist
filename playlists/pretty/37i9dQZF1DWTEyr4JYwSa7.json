@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
-  "num_followers": 58235,
+  "num_followers": 58241,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
@@ -247,18 +247,18 @@
     {
       "added_at": "2024-10-25 22:14:31",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
         }
       ],
-      "duration_ms": 206639,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R"
+      "duration_ms": 151933,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
     },
     {
       "added_at": "2024-10-25 22:14:31",
@@ -279,18 +279,18 @@
     {
       "added_at": "2024-10-25 22:14:31",
       "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
       },
       "artists": [
         {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 151933,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
+      "duration_ms": 206639,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R"
     },
     {
       "added_at": "2024-10-25 22:14:31",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2024-10-25 22:14:31",
       "album": {
-        "name": "Les Plus Beaux Noels Du Monde",
-        "url": "https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW"
+        "name": "No\u00ebl s'invite chez moi",
+        "url": "https://open.spotify.com/album/1UM1dsc6uEq1shAjueNg7A"
       },
       "artists": [
         {
-          "name": "Nana Mouskouri",
-          "url": "https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod"
+          "name": "Marjolaine Morasse",
+          "url": "https://open.spotify.com/artist/5DjFqqAgxFV47vjrnGaiLW"
         }
       ],
-      "duration_ms": 169640,
-      "name": "Petit gar\u00e7on",
-      "url": "https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t"
+      "duration_ms": 195504,
+      "name": "No\u00ebl s'invite chez moi",
+      "url": "https://open.spotify.com/track/73BqI9Ip6zXD23w2scAJ7T"
     },
     {
       "added_at": "2024-10-25 22:14:31",
@@ -1459,6 +1459,42 @@
       "duration_ms": 182026,
       "name": "No\u00ebl au camp",
       "url": "https://open.spotify.com/track/4zyf5yczO1tfFoURy1ztMe"
+    },
+    {
+      "added_at": "2024-10-25 22:14:31",
+      "album": {
+        "name": "Les Plus Beaux Noels Du Monde",
+        "url": "https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW"
+      },
+      "artists": [
+        {
+          "name": "Nana Mouskouri",
+          "url": "https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "Petit gar\u00e7on",
+      "url": "https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t"
+    },
+    {
+      "added_at": "2024-10-25 22:14:31",
+      "album": {
+        "name": "Six heures d'avion nous s\u00e9parent",
+        "url": "https://open.spotify.com/album/5kaSmROH3Z58yHVfBjE95u"
+      },
+      "artists": [
+        {
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 168400,
+      "name": "Six heures d'avion nous s\u00e9parent",
+      "url": "https://open.spotify.com/track/5ZsUTZKuiU8dcZOBnUwDcp"
     },
     {
       "added_at": "2024-10-25 22:14:31",
@@ -1483,42 +1519,6 @@
       "duration_ms": 177480,
       "name": "White Christmas - 1947 Version",
       "url": "https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW"
-    },
-    {
-      "added_at": "2024-10-25 22:14:31",
-      "album": {
-        "name": "No\u00ebl s'invite chez moi",
-        "url": "https://open.spotify.com/album/1UM1dsc6uEq1shAjueNg7A"
-      },
-      "artists": [
-        {
-          "name": "Marjolaine Morasse",
-          "url": "https://open.spotify.com/artist/5DjFqqAgxFV47vjrnGaiLW"
-        }
-      ],
-      "duration_ms": 195504,
-      "name": "No\u00ebl s'invite chez moi",
-      "url": "https://open.spotify.com/track/73BqI9Ip6zXD23w2scAJ7T"
-    },
-    {
-      "added_at": "2024-10-25 22:14:31",
-      "album": {
-        "name": "Six heures d'avion nous s\u00e9parent",
-        "url": "https://open.spotify.com/album/5kaSmROH3Z58yHVfBjE95u"
-      },
-      "artists": [
-        {
-          "name": "MIKA",
-          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
-        },
-        {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-        }
-      ],
-      "duration_ms": 168400,
-      "name": "Six heures d'avion nous s\u00e9parent",
-      "url": "https://open.spotify.com/track/5ZsUTZKuiU8dcZOBnUwDcp"
     },
     {
       "added_at": "2024-10-25 22:14:31",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2024-10-25 22:14:31",
       "album": {
-        "name": "Encore (Bonus Album)",
-        "url": "https://open.spotify.com/album/5c5JnPyf5XJtCiyQeHJKGj"
+        "name": "No\u00ebl Des Anges",
+        "url": "https://open.spotify.com/album/5l6INRksl8l9Pi3HUcWuJh"
       },
       "artists": [
         {
-          "name": "Brigitte",
-          "url": "https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk"
+          "name": "Laurence Jalbert",
+          "url": "https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l"
         }
       ],
-      "duration_ms": 146426,
-      "name": "No\u00ebl blanc",
-      "url": "https://open.spotify.com/track/0Ic4nb89C5IH81E6KecKpW"
+      "duration_ms": 177773,
+      "name": "\u00c7a Berger",
+      "url": "https://open.spotify.com/track/2P3wmWVzs9qVkGcIkL94Dn"
     },
     {
       "added_at": "2024-10-25 22:14:31",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-10-25 22:14:31",
       "album": {
+        "name": "Encore (Bonus Album)",
+        "url": "https://open.spotify.com/album/5c5JnPyf5XJtCiyQeHJKGj"
+      },
+      "artists": [
+        {
+          "name": "Brigitte",
+          "url": "https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk"
+        }
+      ],
+      "duration_ms": 146426,
+      "name": "No\u00ebl blanc",
+      "url": "https://open.spotify.com/track/0Ic4nb89C5IH81E6KecKpW"
+    },
+    {
+      "added_at": "2024-10-25 22:14:31",
+      "album": {
         "name": "Have Yourself a Merry Little Christmas",
         "url": "https://open.spotify.com/album/3IHAcppXJFjkNRyz3XngKB"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 214044,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/2hDMG2AP8qOOEzkV01wiNS"
-    },
-    {
-      "added_at": "2024-10-25 22:14:31",
-      "album": {
-        "name": "No\u00ebl Des Anges",
-        "url": "https://open.spotify.com/album/5l6INRksl8l9Pi3HUcWuJh"
-      },
-      "artists": [
-        {
-          "name": "Laurence Jalbert",
-          "url": "https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "\u00c7a Berger",
-      "url": "https://open.spotify.com/track/2P3wmWVzs9qVkGcIkL94Dn"
     },
     {
       "added_at": "2024-10-25 22:14:31",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-10-25 22:14:31",
       "album": {
-        "name": "The Essential Eartha Kitt",
-        "url": "https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ"
-      },
-      "artists": [
-        {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb"
-    },
-    {
-      "added_at": "2024-10-25 22:14:31",
-      "album": {
         "name": "Please Come Home For Christmas",
         "url": "https://open.spotify.com/album/12uSasNKEymdQOcsxGiWBr"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 179160,
       "name": "Please Come Home For Christmas",
       "url": "https://open.spotify.com/track/4sXg2Nd58C4pQp9reilr2R"
+    },
+    {
+      "added_at": "2024-10-25 22:14:31",
+      "album": {
+        "name": "Chansons hivernales",
+        "url": "https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "L'oiseau rare",
+      "url": "https://open.spotify.com/track/20p1ws0S4EYOSZ06RnM8sU"
     }
   ],
   "unique_name": "No\u00ebl, No\u00ebl, No\u00ebl",

@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Denny Caknan
 
-408 songs - 1 day 9 hr 53 min
+411 songs - 1 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Gusti, Matur Nuwun \- From "Sekawan Limo"](https://open.spotify.com/track/5XzyLKl7lwmuBXNJLJMyB0) | [Bayu Skak](https://open.spotify.com/artist/0jq1309CGlj9Do3jtNOTCq) | [Gusti, Matur Nuwun \(From "Sekawan Limo"\)](https://open.spotify.com/album/5yvvb7IJERbQsVrbX4tp4L) | 3:18 | 2024-07-02 |  |
 | [HTS](https://open.spotify.com/track/6qDtRm3pWLFKFW02FoDHVt) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [HTS](https://open.spotify.com/album/3cIn9ze7231HGFB6AD72cU) | 4:15 | 2024-06-13 |  |
 | [HTS \- Accoustic Version](https://open.spotify.com/track/5bKaP8jqatMSdho2W0H7M2) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [HTS \(Accoustic Version\)](https://open.spotify.com/album/7qXDs9zjNnuWRAc3WVHiAm) | 3:44 | 2024-08-29 |  |
+| [Hurung Tekan Sayang](https://open.spotify.com/track/3VfCXmd02ADAH97q2OatUh) | [Northsle](https://open.spotify.com/artist/5keTs7V0jh7RqCfl1RqXJi), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Hurung Tekan Sayang](https://open.spotify.com/album/2kH1eyF8bqz8q0nHnplWov) | 6:36 | 2024-11-07 |  |
 | [Iki Uripku](https://open.spotify.com/track/23JmcEcmC0SzppD6Qm63nM) | [Bayu Skak](https://open.spotify.com/artist/0jq1309CGlj9Do3jtNOTCq) | [Iki Uripku](https://open.spotify.com/album/2CssuqpQHqtx1fhUbGjwyp) | 3:54 | 2022-07-21 | 2023-07-14 |
 | [Indonesia Bakoh](https://open.spotify.com/track/1Gbz0PYGw30YO4rRqbudgV) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Indonesia Bakoh](https://open.spotify.com/album/0f3jGasuwJGNatcgeDPRZd) | 5:40 | 2022-08-18 | 2023-02-10 |
 | [Infone Masseehh Ninu Ninu Ninu](https://open.spotify.com/track/13ST1j3gzTiDPAgnLiJHZT) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Infone Masseehh Ninu Ninu Ninu](https://open.spotify.com/album/2KefeoP3xev9BYBtpzE8Ay) | 4:38 | 2023-03-06 | 2024-04-05 |
@@ -181,6 +182,7 @@
 | [Lestari](https://open.spotify.com/track/366rUE2UP4FKDA9D5h9uuv) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Lestari](https://open.spotify.com/album/6SUrSfTw8mThtc9WjeDmqv) | 5:24 | 2024-10-11 |  |
 | [Lestari](https://open.spotify.com/track/2LgpMo9GCSXo95KtUpMQ7C) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Lestari](https://open.spotify.com/album/3FMH1kNsf24utY6UIv4KEY) | 5:43 | 2024-07-05 |  |
 | [LESTARI](https://open.spotify.com/track/64IJVgigFpLz4ofPk8DVc0) | [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [LESTARI](https://open.spotify.com/album/7c1wv3yXdOce3AhHfn6R3H) | 4:52 | 2024-05-16 |  |
+| [Lewung](https://open.spotify.com/track/3G9p9hvHgKsWpA8WvWm9hC) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Lewung](https://open.spotify.com/album/7CKolTfNRvDQ95EBLHLVXT) | 7:34 | 2024-11-07 |  |
 | [Lilakno Lungaku](https://open.spotify.com/track/6bleTipsKDs3CH6TA1W1bh) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/2xkJB4SULWjjsqOLeq7dsD) | 5:09 | 2023-08-11 | 2024-05-17 |
 | [Lilakno Lungaku](https://open.spotify.com/track/6knc0ByasDCvGNlQPHYUFX) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/50hlFnDrEYiYp0lOReAxgb) | 5:35 | 2022-07-28 | 2023-08-11 |
 | [Lilakno Lungaku](https://open.spotify.com/track/6eQL36g0j3GlofcGauLJH7) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/1sf4AWv0GiLGTzRrfAhgDA) | 5:35 | 2022-05-26 | 2022-07-29 |
@@ -281,6 +283,7 @@
 | [Pengangguran Yo Lumayan \- Keroncong](https://open.spotify.com/track/77XmujDpcFtBeBMXzqNjls) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Pengangguran Yo Lumayan \(Keroncong\)](https://open.spotify.com/album/0twUn01gTREHP0tPtX2bnA) | 4:16 | 2023-07-13 | 2023-09-16 |
 | [Penging](https://open.spotify.com/track/38HIwPovZSYkqwnyISHnXh) | [James AP](https://open.spotify.com/artist/62nZapVtmkig653PBkIsq5), [Rizal Today](https://open.spotify.com/artist/5TGSy8BWOvTO2FumpNw5V3) | [Penging](https://open.spotify.com/album/7LXMwVDuyCTpwwupqKqkDF) | 4:30 | 2024-01-25 | 2024-05-03 |
 | [Pengkuh](https://open.spotify.com/track/3KRoL1WLq83x1tXAA1t5Yc) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Pengkuh](https://open.spotify.com/album/2k7WneU9s2cWns7mU8EJeF) | 4:03 | 2024-05-24 | 2024-10-11 |
+| [Penipu Alus](https://open.spotify.com/track/0RVSJkjr28qzTOiMKm1Tpl) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Penipu Alus](https://open.spotify.com/album/2qazzEfyMWloYmF5TsQupw) | 5:47 | 2024-11-07 |  |
 | [Penting Yakin \- From "Cidro Asmoro"](https://open.spotify.com/track/1wbgdqJbPE5s4Lbhytnx5R) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Penting Yakin \(From "Cidro Asmoro"\)](https://open.spotify.com/album/4IleNOgGPg2x5B7ObHtpzt) | 4:38 | 2022-05-26 | 2023-01-27 |
 | [Pingal](https://open.spotify.com/track/7oT80u93j4B5HSs2GBpT2S) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Pingal](https://open.spotify.com/album/28TKreEgcsm0NaP8eT7CHK) | 5:04 | 2022-05-26 |  |
 | [Pingal](https://open.spotify.com/track/0EdbwWWEBu587R9DsURQS0) | [Tasya Rosmala](https://open.spotify.com/artist/6YsSuDPoCeH1CghPPISWDP) | [Pingal](https://open.spotify.com/album/4J36TrflDx5KLvyi4OmHdF) | 5:05 | 2022-05-26 | 2022-08-19 |

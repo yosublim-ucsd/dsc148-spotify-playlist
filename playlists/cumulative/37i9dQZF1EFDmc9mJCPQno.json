@@ -997,6 +997,32 @@
     },
     {
       "album": {
+        "name": "Liar Liar",
+        "url": "https://open.spotify.com/album/1agXa7XELNvFG4M0tbjqka"
+      },
+      "artists": [
+        {
+          "name": "FDVM",
+          "url": "https://open.spotify.com/artist/6J0Y4CoGMKL5RyeozHnVKl"
+        },
+        {
+          "name": "CARSTN",
+          "url": "https://open.spotify.com/artist/3Wb1mXnd1hXkGwys5m54YC"
+        },
+        {
+          "name": "IVANA",
+          "url": "https://open.spotify.com/artist/7pn6Syh1RaJDbprpLFz58N"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151967,
+      "name": "Liar Liar",
+      "url": "https://open.spotify.com/track/5P1LOgPT9DmVzWFyg8gtHR"
+    },
+    {
+      "album": {
         "name": "lie to myself",
         "url": "https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs"
       },

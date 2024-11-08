@@ -4,7 +4,7 @@
 
 > \*vibing in desi\*
 
-198 songs - 11 hr 19 min
+199 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Aao Phir Se](https://open.spotify.com/track/1wgC0hW1abXgmgoASyieVw) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Aao Phir Se](https://open.spotify.com/album/05zQVq7VECKbmpyyBBXhPj) | 2:50 | 2023-01-23 | 2023-10-04 |
 | [Aao Phir Se](https://open.spotify.com/track/7Bu6dexQvuVz5LRuzjLYOX) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Aao Phir Se](https://open.spotify.com/album/2HRLg9LdgbjvWCnw6OOJRh) | 2:50 | 2022-05-27 | 2023-05-17 |
 | [Abhi Mujh Mein Kahin \- Lofi Flip](https://open.spotify.com/track/7DCdo3lhnp7IB5SJiN8iiR) | [Lo\-fi 2307](https://open.spotify.com/artist/0XwRLGLUJawnAEFC5PhpVK), [Harshal Rajput](https://open.spotify.com/artist/5zoUMrQEbTPTnFKgO8Xd6a), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Abhi Mujh Mein Kahin \(Lofi Flip\)](https://open.spotify.com/album/12vNktjvwGUwMWiUPz4cqI) | 3:17 | 2024-01-12 |  |
+| [Afreen Afreen \- Chillout Mix](https://open.spotify.com/track/3JGZmr9lA9RlkLpVBRytbc) | [Harshal Rajput](https://open.spotify.com/artist/5zoUMrQEbTPTnFKgO8Xd6a), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Afreen Afreen \- Chillout Mix](https://open.spotify.com/album/7yd19buyX1hHoL2elpoOYu) | 2:54 | 2024-11-07 |  |
 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 | 2022-08-29 | 2022-12-01 |
 | [Always into you](https://open.spotify.com/track/38x25A2YUR1ihIpQrb93R1) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP), [Raffey Anwar](https://open.spotify.com/artist/7rEwKApsZMo8cXVxAndmvD) | [Always into you](https://open.spotify.com/album/511xSyTlzoewwQ3VA1G4Ap) | 3:24 | 2023-05-26 |  |
 | [Andhere Mein](https://open.spotify.com/track/134oyq7shwFhszVjvhN8XY) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [Andhere Mein](https://open.spotify.com/album/2HtdxEULBFqcHLKGTnMjZJ) | 3:54 | 2022-05-27 | 2023-01-24 |

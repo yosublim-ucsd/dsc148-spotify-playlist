@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The future hits of today. \nCover: Magixx",
+  "description": "The future hits of today. \nCover: Fido ",
   "name": "Bubblin'",
   "tracks": [
     {
@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Be There",
+        "url": "https://open.spotify.com/album/0loewuIMEtSl5gKPzQmfpM"
+      },
+      "artists": [
+        {
+          "name": "EMO Grae",
+          "url": "https://open.spotify.com/artist/706g3hauVcGV8Ops9uNzMv"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155964,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/1myC5VRVJokN0kD2tzCh0g"
+    },
+    {
+      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/5pXjnVsehL8FfS9v452hR2"
       },
@@ -736,10 +754,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 193586,
       "name": "Cold War (with FAVE)",
       "url": "https://open.spotify.com/track/3wZx58DkyBoPIQ8UaAdt3g"
+    },
+    {
+      "album": {
+        "name": "Dutty Love",
+        "url": "https://open.spotify.com/album/175r8elKWemcX0GM1CbOQy"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156779,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/140cW0PtrfiVaOrIUlZ5Dq"
     },
     {
       "album": {
@@ -1306,7 +1342,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 134187,
       "name": "Fire on Me",
       "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
@@ -1735,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "Candor",
+        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
+      },
+      "artists": [
+        {
+          "name": "Monaky",
+          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138826,
+      "name": "Hi Grade",
+      "url": "https://open.spotify.com/track/5C7Pu84ay7TUD24G0y7JJc"
+    },
+    {
+      "album": {
         "name": "Hiii!",
         "url": "https://open.spotify.com/album/1r2Rkl20WHAT1jjxmacZ4Q"
       },
@@ -1826,6 +1880,28 @@
       "duration_ms": 152999,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/4WVEG9eW2FnxHvnaRAdFwa"
+    },
+    {
+      "album": {
+        "name": "Informate (FYI)",
+        "url": "https://open.spotify.com/album/0eddBpoJ9TV5Efg85aBhXQ"
+      },
+      "artists": [
+        {
+          "name": "The Therapist",
+          "url": "https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2"
+        },
+        {
+          "name": "Magicsticks",
+          "url": "https://open.spotify.com/artist/1IMS1L1ZXuNhPN9HtOdtbz"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168421,
+      "name": "Informate (FYI)",
+      "url": "https://open.spotify.com/track/1O4QnFa5ykCLcOfebOlGUY"
     },
     {
       "album": {
@@ -2092,7 +2168,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 118973,
       "name": "Ko Possible",
       "url": "https://open.spotify.com/track/6LZrYVJpaTUGmnxUiWSqcd"
@@ -2168,7 +2244,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 154000,
       "name": "LAST WEEK",
       "url": "https://open.spotify.com/track/4Qag5L7G1QEDSza9ygRntZ"
@@ -2655,6 +2731,24 @@
     },
     {
       "album": {
+        "name": "Mr Lover",
+        "url": "https://open.spotify.com/album/3EwlDCtp5B6A5SVtaemftK"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136266,
+      "name": "Mr Lover",
+      "url": "https://open.spotify.com/track/3eFcKC5LPq4jgyPa9xh4ak"
+    },
+    {
+      "album": {
         "name": "My Dealer",
         "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
       },
@@ -2692,7 +2786,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 156448,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/0U8tAKDSunJl0Vo64GcqlW"
@@ -3317,6 +3411,32 @@
     },
     {
       "album": {
+        "name": "IN\u00d3",
+        "url": "https://open.spotify.com/album/5dKIhVTuAY4nhSDXroKMbw"
+      },
+      "artists": [
+        {
+          "name": "Yimeeka",
+          "url": "https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK"
+        },
+        {
+          "name": "Black Culture",
+          "url": "https://open.spotify.com/artist/2331I1TOUrGnlIbG8Vs1gp"
+        },
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198873,
+      "name": "ronju",
+      "url": "https://open.spotify.com/track/26LNp0rYhFNLNh1I2fpaEA"
+    },
+    {
+      "album": {
         "name": "Sabali",
         "url": "https://open.spotify.com/album/4booSk06CGweIlV8M9mvvn"
       },
@@ -3655,6 +3775,24 @@
     },
     {
       "album": {
+        "name": "Time Traveler",
+        "url": "https://open.spotify.com/album/6BS5k06GKg6rsxbkYiVGhS"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166974,
+      "name": "Time Traveler",
+      "url": "https://open.spotify.com/track/2cv0OdZIThSfcPiMsDDQTk"
+    },
+    {
+      "album": {
         "name": "Timing",
         "url": "https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8"
       },
@@ -3806,7 +3944,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 176000,
       "name": "Trabaye",
       "url": "https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o"
@@ -3898,6 +4036,32 @@
       "duration_ms": 239865,
       "name": "Uptown Disco",
       "url": "https://open.spotify.com/track/7vdGiPrjK0gJBoZE8UhDMJ"
+    },
+    {
+      "album": {
+        "name": "Vex For U (feat. Fireboy DML & Ayo Maff)",
+        "url": "https://open.spotify.com/album/6yhDNq8JsOA3fd8xW4JgPB"
+      },
+      "artists": [
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185739,
+      "name": "Vex For U (feat. Fireboy DML & Ayo Maff)",
+      "url": "https://open.spotify.com/track/6wN5G9LhuljafQRHzb4K6s"
     },
     {
       "album": {
@@ -4164,7 +4328,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 172288,
       "name": "WWGD [What We Gon Do]",
       "url": "https://open.spotify.com/track/50sDl1FArutfd4VUt4T4ln"
@@ -4358,7 +4522,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 167717,
       "name": "Your Loss",
       "url": "https://open.spotify.com/track/0ohCXfOYVw5om6ZK26LGXd"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2yOabnExwqn16MmeIYkOc7?si=P\-fAZFDLTX\-cyP2SDhtesA">Pushkin RSA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,132 likes - 60 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,880 likes - 60 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 57 | [Ngifa Nawe](https://open.spotify.com/track/25em98e6uqAT1356DvrbQx) | [Mfr Souls](https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Bassie](https://open.spotify.com/artist/1ELUrmWBlXkqVabjVincQ6), [T\-Man SA](https://open.spotify.com/artist/39YR6OMtIBgQxdZREgTii1), [Shane907](https://open.spotify.com/artist/2JrN19KmNsyT3BWdEEbFeX) | [Ngifa Nawe](https://open.spotify.com/album/49rUrXjTh2CQ0Ki4dfWSPg) | 6:42 |
 | 58 | [Cishe Nga Posta](https://open.spotify.com/track/32BO8PBNFVDWh2Fwzs4izZ) | [ShaunMusiq & Ftears](https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd), [Myztro](https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS) | [Cishe Nga Posta](https://open.spotify.com/album/0aSWwyOt1FNJhNTBn8ja77) | 5:45 |
 | 59 | [Shawara \(feat\. Exclusive Baddies & Sly\)](https://open.spotify.com/track/4ObkC5ynTjoqdNvBYnUjso) | [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Tsitso](https://open.spotify.com/artist/4MZhnfnkOfPS0orwLqyP2L), [Exclusive Baddies](https://open.spotify.com/artist/1JjD4bRpOPspuwhYrg7GfU), [Sly](https://open.spotify.com/artist/3vg62RNNbcEtTGVRHzIBdi) | [Shawara \(feat\. Exclusive Baddies & Sly\)](https://open.spotify.com/album/6LheuBb3UxPfyQyt3y7j9L) | 5:07 |
-| 60 | [Tshika Ti Small Boys](https://open.spotify.com/track/4NbCOa10LTKAz4ZaJAAYa8) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Optimist Music ZA](https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV) | [Tshika Ti Small Boys](https://open.spotify.com/album/4uZMlYNkTUKoeHNsQ3bIyQ) | 4:42 |
+| 60 | [Tshika Ti Small Boys](https://open.spotify.com/track/4NbCOa10LTKAz4ZaJAAYa8) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Optimist Music ZA](https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV) | [Tshika Ti Small Boys](https://open.spotify.com/album/4uZMlYNkTUKoeHNsQ3bIyQ) | 4:50 |
 
 Snapshot ID: `ZyQL8AAAAACXhQFyU0/UaJFKedSvfvzM`

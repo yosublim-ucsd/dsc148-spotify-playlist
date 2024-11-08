@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! The Martinez Brothers & PAWSA at Drumsheds ",
+  "description": "The biggest house bangers popping off in the UK, let's go! Gorgon City at Drumsheds ",
   "name": "UK House Music",
   "tracks": [
     {
@@ -618,7 +618,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 178132,
       "name": "All That You Need (feat. Caroline Byrne)",
       "url": "https://open.spotify.com/track/5Bux5dq6CHM7pJLlrx8R3f"
@@ -2368,6 +2368,28 @@
       "duration_ms": 206129,
       "name": "Burning Night",
       "url": "https://open.spotify.com/track/0ergVwNCItQRhfkjje6N35"
+    },
+    {
+      "album": {
+        "name": "Bus Stop Please",
+        "url": "https://open.spotify.com/album/06HEvSJ6i3ML7nXAiTVt94"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215300,
+      "name": "Bus Stop Please",
+      "url": "https://open.spotify.com/track/69qwWu8dQwaTABh5B9r8xn"
     },
     {
       "album": {
@@ -4286,7 +4308,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 243970,
       "name": "Don't You Want My Lovin'",
       "url": "https://open.spotify.com/track/0vLM3ziYI7BnG5xiYngV0a"
@@ -4682,7 +4704,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 279875,
       "name": "Energy - Ewan McVicar '05 Remix",
       "url": "https://open.spotify.com/track/3f6u2nwY2wgW8yq9Ith9P0"
@@ -4990,7 +5012,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 327888,
       "name": "Fall Of Rome",
       "url": "https://open.spotify.com/track/7mnB4psy9kv8FQDstlMYYZ"
@@ -5831,6 +5853,24 @@
     },
     {
       "album": {
+        "name": "FREAK IN THE SHEETS",
+        "url": "https://open.spotify.com/album/3PMAjP3YdPhzk30gWIVEWi"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "FREAK IN THE SHEETS",
+      "url": "https://open.spotify.com/track/2cpE8zEt3tqGEb7wN49mAU"
+    },
+    {
+      "album": {
         "name": "Freak Mode",
         "url": "https://open.spotify.com/album/55CSMCHCUjT6iBcipBn0Wi"
       },
@@ -6096,7 +6136,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 182325,
       "name": "Get Stupid",
       "url": "https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8"
@@ -8032,7 +8072,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 127500,
       "name": "In The Streets",
       "url": "https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5"
@@ -9009,6 +9049,24 @@
     },
     {
       "album": {
+        "name": "Let The Bassline",
+        "url": "https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249478,
+      "name": "Let The Bassline",
+      "url": "https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0"
+    },
+    {
+      "album": {
         "name": "Let You Down",
         "url": "https://open.spotify.com/album/4YTV42oc8Jaty0URAVUFmw"
       },
@@ -9200,7 +9258,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 133234,
       "name": "Lift You Up",
       "url": "https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v"
@@ -10348,7 +10406,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 156498,
       "name": "Mind Still (feat. blythe)",
       "url": "https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v"
@@ -11424,7 +11482,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 208711,
       "name": "Notification",
       "url": "https://open.spotify.com/track/0Pk8q3WpNLy5yaIkcjVQMW"
@@ -12932,7 +12990,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 188307,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1Rndhv6jSNOtPMddRd0AGT"
@@ -13260,7 +13318,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 184615,
       "name": "Release The Drums",
       "url": "https://open.spotify.com/track/3qnUiu1MiQJLvZ8ZiaNGsa"
@@ -13952,7 +14010,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 189921,
       "name": "Say Yeah",
       "url": "https://open.spotify.com/track/4b4ZjULhiyx7xmMlNhmRld"
@@ -14948,7 +15006,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 176535,
       "name": "Speak To My Soul",
       "url": "https://open.spotify.com/track/3FMHCwfDrI4FQQsmk696mJ"

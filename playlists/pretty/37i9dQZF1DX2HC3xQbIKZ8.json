@@ -1,13 +1,65 @@
 {
   "description": "Reggae, roots and dub. Relax, you're on island time.",
-  "num_followers": 120371,
+  "num_followers": 120401,
   "original_name": "Island Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9JJQAAAAArYxciNsD9MnmSwo1gSv8O",
+  "snapshot_id": "Zy0OMAAAAACQec/bZt/hnMu2PUPRZVBA",
   "tracks": [
+    {
+      "added_at": "2024-11-07 19:00:00",
+      "album": {
+        "name": "Love Is Like a Mountain",
+        "url": "https://open.spotify.com/album/4Mzbs04oxXt9NUuEesvkwu"
+      },
+      "artists": [
+        {
+          "name": "Mista Savona",
+          "url": "https://open.spotify.com/artist/4Y6SrIz24cWZIWuG28CVgz"
+        },
+        {
+          "name": "Ancient Warrior",
+          "url": "https://open.spotify.com/artist/5V42r8r6tXy5e9Eapzv3tv"
+        }
+      ],
+      "duration_ms": 245800,
+      "name": "Love Is Like a Mountain",
+      "url": "https://open.spotify.com/track/0VCTTmZnIxgp0xTNNyXKht"
+    },
+    {
+      "added_at": "2024-11-07 19:00:00",
+      "album": {
+        "name": "Slo Mo",
+        "url": "https://open.spotify.com/album/6E7lYZDv7THQckJhCAdu2j"
+      },
+      "artists": [
+        {
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+        }
+      ],
+      "duration_ms": 494760,
+      "name": "Slo Mo",
+      "url": "https://open.spotify.com/track/5ipBnCFuWh1SM6T4SBDNzF"
+    },
+    {
+      "added_at": "2024-11-07 19:00:00",
+      "album": {
+        "name": "Pele Moni",
+        "url": "https://open.spotify.com/album/5ZbzbBco8fvdBzVsnJFP5l"
+      },
+      "artists": [
+        {
+          "name": "JKING",
+          "url": "https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp"
+        }
+      ],
+      "duration_ms": 168947,
+      "name": "Pele Moni",
+      "url": "https://open.spotify.com/track/1EfCoeCGjl6ZAcHcV4tPZo"
+    },
     {
       "added_at": "2024-10-04 01:47:17",
       "album": {
@@ -87,6 +139,22 @@
       "duration_ms": 219120,
       "name": "Greatest Expectations Dub",
       "url": "https://open.spotify.com/track/0qg2xiQNtcFPOaRg6smGdY"
+    },
+    {
+      "added_at": "2024-11-07 19:00:00",
+      "album": {
+        "name": "PEPA",
+        "url": "https://open.spotify.com/album/2Q25fXJdpRdbpfz1JQkTkR"
+      },
+      "artists": [
+        {
+          "name": "Swiss",
+          "url": "https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "GET TO KNOW YOU",
+      "url": "https://open.spotify.com/track/0nB9j5yU8xlBsUsczOSXUI"
     },
     {
       "added_at": "2024-10-04 01:47:17",
@@ -657,7 +725,7 @@
         },
         {
           "name": "K'Nova",
-          "url": "https://open.spotify.com/artist/1kEbRBz6RigIAppRV2FokM"
+          "url": "https://open.spotify.com/artist/4Iq1i8VkcMqx2DC5KwTaC2"
         }
       ],
       "duration_ms": 162900,
@@ -849,7 +917,7 @@
         },
         {
           "name": "K'Nova",
-          "url": "https://open.spotify.com/artist/1kEbRBz6RigIAppRV2FokM"
+          "url": "https://open.spotify.com/artist/4Iq1i8VkcMqx2DC5KwTaC2"
         },
         {
           "name": "Sefos.Beats",
@@ -1691,318 +1759,6 @@
       "duration_ms": 290160,
       "name": "Why Oh Why",
       "url": "https://open.spotify.com/track/2Jzb0W1Hl83lPMnRu0ehXR"
-    },
-    {
-      "added_at": "2024-10-04 01:47:17",
-      "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/3PwAjplFCnsId7Wvpedwz7"
-      },
-      "artists": [
-        {
-          "name": "Mikey Mayz",
-          "url": "https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy"
-        },
-        {
-          "name": "Hamo Dell",
-          "url": "https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2"
-        }
-      ],
-      "duration_ms": 203183,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/5WSegr1BhiYzJBOBTwc93i"
-    },
-    {
-      "added_at": "2024-10-04 01:47:17",
-      "album": {
-        "name": "Lucky Man",
-        "url": "https://open.spotify.com/album/3t4ZMKrNUIwsuLoe46XBqh"
-      },
-      "artists": [
-        {
-          "name": "Swiss",
-          "url": "https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy"
-        },
-        {
-          "name": "Etana",
-          "url": "https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm"
-        }
-      ],
-      "duration_ms": 230466,
-      "name": "If Tomorrow Never Comes",
-      "url": "https://open.spotify.com/track/22ZZBq0OsmYAaKv7seN9Gz"
-    },
-    {
-      "added_at": "2024-10-04 01:47:17",
-      "album": {
-        "name": "The Dream (feat. Fiji, Troy Kingi)",
-        "url": "https://open.spotify.com/album/4N6jIz4cCHG9nx2oyJ21u3"
-      },
-      "artists": [
-        {
-          "name": "Three Houses Down",
-          "url": "https://open.spotify.com/artist/0qWNlZpLfAYDbEVEHAAllv"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        },
-        {
-          "name": "Troy Kingi",
-          "url": "https://open.spotify.com/artist/5B3LZw3NTEg074irKeEAom"
-        }
-      ],
-      "duration_ms": 293966,
-      "name": "The Dream (feat. Fiji, Troy Kingi)",
-      "url": "https://open.spotify.com/track/74kk1a03zfu0tdnJdHXTug"
-    },
-    {
-      "added_at": "2024-10-04 01:47:17",
-      "album": {
-        "name": "Road Trip",
-        "url": "https://open.spotify.com/album/6mbJNoKiwm5OP4M8s4jJYl"
-      },
-      "artists": [
-        {
-          "name": "Sons of Zion",
-          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
-        }
-      ],
-      "duration_ms": 189267,
-      "name": "Road Trip",
-      "url": "https://open.spotify.com/track/7eC3ll1MUIMrZxYREU7uc0"
-    },
-    {
-      "added_at": "2024-10-04 01:47:17",
-      "album": {
-        "name": "Skank To This",
-        "url": "https://open.spotify.com/album/6sD53zTnNZqbU2UW0YraHd"
-      },
-      "artists": [
-        {
-          "name": "Teina Mamaori",
-          "url": "https://open.spotify.com/artist/5p0JHW1CkPxEqkbcz59rrp"
-        }
-      ],
-      "duration_ms": 265750,
-      "name": "Skank To This",
-      "url": "https://open.spotify.com/track/3JKhhU70cLTlAQrYg7INdB"
-    },
-    {
-      "added_at": "2024-10-04 01:47:17",
-      "album": {
-        "name": "SAY SO",
-        "url": "https://open.spotify.com/album/2ubAzZ3vBkwV6NFNW7aTNB"
-      },
-      "artists": [
-        {
-          "name": "Swiss111111111111",
-          "url": "https://open.spotify.com/artist/4DWsPympquHv8xC4V9RJGR"
-        },
-        {
-          "name": "EDY",
-          "url": "https://open.spotify.com/artist/23fD2AM3mNVBRhCteyxgdQ"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "SAY SO",
-      "url": "https://open.spotify.com/track/6Tx6mQ1bHraVxgDrROE5Z4"
-    },
-    {
-      "added_at": "2024-10-04 01:47:17",
-      "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/1jxklgoM9TGZ2OEGs4QfJ0"
-      },
-      "artists": [
-        {
-          "name": "Victor J Sefo",
-          "url": "https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9"
-        },
-        {
-          "name": "Txmmy",
-          "url": "https://open.spotify.com/artist/5grusMtV0pDYCTusPLrWM2"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/2ATqj9ozmDT7qFXyU12L9w"
-    },
-    {
-      "added_at": "2024-10-04 01:47:17",
-      "album": {
-        "name": "Inventing Myself",
-        "url": "https://open.spotify.com/album/5K1eExMLoobEA6MtZP6XKL"
-      },
-      "artists": [
-        {
-          "name": "Stan Walker",
-          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "Take It Easy",
-      "url": "https://open.spotify.com/track/23jHR6RPxvK2w8XHQwrOJb"
-    },
-    {
-      "added_at": "2024-10-04 01:47:17",
-      "album": {
-        "name": "Cool it down",
-        "url": "https://open.spotify.com/album/43zWmYbRkvYr7Izv3XURNV"
-      },
-      "artists": [
-        {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
-        }
-      ],
-      "duration_ms": 268457,
-      "name": "Cool it down",
-      "url": "https://open.spotify.com/track/7M6mvvrD10qyRzAEdpSATu"
-    },
-    {
-      "added_at": "2024-10-04 01:47:17",
-      "album": {
-        "name": "Can't Nobody",
-        "url": "https://open.spotify.com/album/6kdm1c4vj08zb1ue9WaSAU"
-      },
-      "artists": [
-        {
-          "name": "Tomorrow People",
-          "url": "https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY"
-        }
-      ],
-      "duration_ms": 153001,
-      "name": "Can't Nobody",
-      "url": "https://open.spotify.com/track/2nQaC5Ft965EMVwMgSyRNi"
-    },
-    {
-      "added_at": "2024-10-04 01:47:17",
-      "album": {
-        "name": "Tuakiritanga",
-        "url": "https://open.spotify.com/album/1kJQmi7Ot3SMEavjZ6vPIB"
-      },
-      "artists": [
-        {
-          "name": "Origin Roots Aotearoa O.R.A",
-          "url": "https://open.spotify.com/artist/4WykzeICsk5yiLrLUXjikI"
-        }
-      ],
-      "duration_ms": 266750,
-      "name": "Tuakiritanga",
-      "url": "https://open.spotify.com/track/01jFFWR9o5nQbytklHWrJD"
-    },
-    {
-      "added_at": "2024-10-04 01:47:17",
-      "album": {
-        "name": "L.A.B III",
-        "url": "https://open.spotify.com/album/5FkhVnR6DLz7ARqioHUwpc"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 252680,
-      "name": "In the Air",
-      "url": "https://open.spotify.com/track/5v7h5vQgCJKZT5vB3I9s3o"
-    },
-    {
-      "added_at": "2024-10-04 01:47:17",
-      "album": {
-        "name": "Summertime in Aotearoa",
-        "url": "https://open.spotify.com/album/4S3lE2h37snPZ3ERMIKGF8"
-      },
-      "artists": [
-        {
-          "name": "Corrella",
-          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
-        }
-      ],
-      "duration_ms": 237122,
-      "name": "Summertime in Aotearoa",
-      "url": "https://open.spotify.com/track/0of1ijyiq9iGJWXoijoIod"
-    },
-    {
-      "added_at": "2024-10-04 01:47:17",
-      "album": {
-        "name": "Universal Love",
-        "url": "https://open.spotify.com/album/1dJg7WGsTZrAbWo4vh5PFh"
-      },
-      "artists": [
-        {
-          "name": "Sons of Zion",
-          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
-        },
-        {
-          "name": "Pieter T",
-          "url": "https://open.spotify.com/artist/5Sr3QRGJOKL3r5NzKAbdX3"
-        },
-        {
-          "name": "Jah Maoli",
-          "url": "https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw"
-        }
-      ],
-      "duration_ms": 251800,
-      "name": "Be My Lady (feat. Pieter Tuhoro & Jah Maoli)",
-      "url": "https://open.spotify.com/track/2lmCr96Mhghs0KUVABx4RP"
-    },
-    {
-      "added_at": "2024-10-04 01:47:17",
-      "album": {
-        "name": "My Guy",
-        "url": "https://open.spotify.com/album/7vNkxEWGt4gA6eYnAmbUqv"
-      },
-      "artists": [
-        {
-          "name": "Tomorrow People",
-          "url": "https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY"
-        },
-        {
-          "name": "Wayno",
-          "url": "https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW"
-        }
-      ],
-      "duration_ms": 231787,
-      "name": "My Guy",
-      "url": "https://open.spotify.com/track/3l1AjvzYObjfx0sSTHuMWJ"
-    },
-    {
-      "added_at": "2024-10-04 01:47:17",
-      "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/7gL5nwGBxLpqwtUQSQtVzx"
-      },
-      "artists": [
-        {
-          "name": "NLC",
-          "url": "https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf"
-        }
-      ],
-      "duration_ms": 204885,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/68HBUpt1FVAmQD49hWJqnM"
-    },
-    {
-      "added_at": "2024-10-04 01:47:17",
-      "album": {
-        "name": "Cali Roots Riddim 2021",
-        "url": "https://open.spotify.com/album/47ngDCKILaUidvXeest7sz"
-      },
-      "artists": [
-        {
-          "name": "Fia",
-          "url": "https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 142328,
-      "name": "Be Better",
-      "url": "https://open.spotify.com/track/0PcUzCpDtur5KiTqKYyfyj"
     }
   ],
   "unique_name": "Island Time",

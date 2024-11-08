@@ -10838,7 +10838,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 137571,
       "name": "Beam Me Up",
       "url": "https://open.spotify.com/track/4u6Ei0dLyo7AQtYZKtiWxH"
@@ -62679,6 +62679,24 @@
     },
     {
       "album": {
+        "name": "koko",
+        "url": "https://open.spotify.com/album/1MQbP92gnFWG4CSgyEiZXZ"
+      },
+      "artists": [
+        {
+          "name": "teylors",
+          "url": "https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "koko",
+      "url": "https://open.spotify.com/track/2M07oWoOgrpaojZ6dulp3Y"
+    },
+    {
+      "album": {
         "name": "Nion Nihon Nights",
         "url": "https://open.spotify.com/album/3tEM18bpFRbhyFnMEkKsuH"
       },
@@ -101974,7 +101992,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 149647,
       "name": "Seagull Blues",
       "url": "https://open.spotify.com/track/4NKXXADxxBYbhDfOcFrNnv"
@@ -102076,6 +102094,28 @@
       "duration_ms": 124333,
       "name": "SeasonFinale",
       "url": "https://open.spotify.com/track/6FGTbQJnH027zYeF1SbSTr"
+    },
+    {
+      "album": {
+        "name": "seasons",
+        "url": "https://open.spotify.com/album/1R1jVV9kxrImLBWyhOjlXX"
+      },
+      "artists": [
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        },
+        {
+          "name": "Dryden",
+          "url": "https://open.spotify.com/artist/49THH4OZsjvk5CNT714qwq"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129729,
+      "name": "seasons",
+      "url": "https://open.spotify.com/track/0YWgwHqQsS3qMiTZIDPKGN"
     },
     {
       "album": {

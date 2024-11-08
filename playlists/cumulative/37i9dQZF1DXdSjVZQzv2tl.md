@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Murilo Huff, Ana Castela
+> O melhor do sertanejo em uma só playlist! Foto: Maiara & Maraísa
 
 263 songs - 12 hr 23 min
 

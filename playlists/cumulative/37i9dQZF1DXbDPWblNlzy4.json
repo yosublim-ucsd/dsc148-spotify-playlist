@@ -390,7 +390,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 245650,
       "name": "Amiga Date Cuenta",
       "url": "https://open.spotify.com/track/7CB1gQT9cCWJXqOuxenbNx"
@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Aprender A Vivir",
+        "url": "https://open.spotify.com/album/1x8JGQfjGG1LLPEFgyP0IL"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170293,
+      "name": "Aprender A Vivir",
+      "url": "https://open.spotify.com/track/0ZZ2xsV9H75VQfJ195heKz"
+    },
+    {
+      "album": {
         "name": "alpha",
         "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
       },
@@ -586,7 +604,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 156532,
       "name": "Ataque de Ansiedad (Arial 5)",
       "url": "https://open.spotify.com/track/3bLkpcMFfeZ4uaNFlVyC18"
@@ -4301,6 +4319,28 @@
     },
     {
       "album": {
+        "name": "Mi Vida Entera",
+        "url": "https://open.spotify.com/album/5ea2R2UdvuSVcKFV1FebRT"
+      },
+      "artists": [
+        {
+          "name": "Adriana Lucia",
+          "url": "https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o"
+        },
+        {
+          "name": "Martina La Peligrosa",
+          "url": "https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188308,
+      "name": "Mi Vida Entera",
+      "url": "https://open.spotify.com/track/1PRCYHQcp0wdgMeStXhdva"
+    },
+    {
+      "album": {
         "name": "Miami",
         "url": "https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2"
       },
@@ -5766,7 +5806,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 150559,
       "name": "Que Vuelva",
       "url": "https://open.spotify.com/track/4rcpIZPn98q2yRwvTFZsuG"
@@ -7398,6 +7438,28 @@
       "duration_ms": 214800,
       "name": "XQ Sigues Pasando :(",
       "url": "https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE"
+    },
+    {
+      "album": {
+        "name": "YA NO SIENTO FR\u00cdO",
+        "url": "https://open.spotify.com/album/4LgbiGTzIzcXq8Lz8yajqs"
+      },
+      "artists": [
+        {
+          "name": "Natalia Natalia",
+          "url": "https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ"
+        },
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199736,
+      "name": "YA NO SIENTO FR\u00cdO",
+      "url": "https://open.spotify.com/track/1GxmUYppuasIUYvwoTRulN"
     },
     {
       "album": {

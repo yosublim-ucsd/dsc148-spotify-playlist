@@ -1,6 +1,6 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 640809,
+  "num_followers": 640907,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Solitaire",
-        "url": "https://open.spotify.com/album/7BIDbqxwFJ9v30pxGqnToR"
-      },
-      "artists": [
-        {
-          "name": "Calming Lesmo",
-          "url": "https://open.spotify.com/artist/5acenmixbZVmxdHn0Je47D"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Solitaire",
-      "url": "https://open.spotify.com/track/1dpmYcSMBDCr2EPUxMTdyA"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Prana",
         "url": "https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 157724,
       "name": "Ocean Breath",
       "url": "https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Solitaire",
+        "url": "https://open.spotify.com/album/7BIDbqxwFJ9v30pxGqnToR"
+      },
+      "artists": [
+        {
+          "name": "Calming Lesmo",
+          "url": "https://open.spotify.com/artist/5acenmixbZVmxdHn0Je47D"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Solitaire",
+      "url": "https://open.spotify.com/track/1dpmYcSMBDCr2EPUxMTdyA"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Armon\u00eda Serena",
-        "url": "https://open.spotify.com/album/1S06SLy0ZHrSrbHFsPsNBD"
-      },
-      "artists": [
-        {
-          "name": "Abril Iluso",
-          "url": "https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd"
-        }
-      ],
-      "duration_ms": 158823,
-      "name": "Armon\u00eda Serena",
-      "url": "https://open.spotify.com/track/3y0MUwXHh9qdDGsNPQ7msQ"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Even Silence",
         "url": "https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 175713,
       "name": "A brand new day",
       "url": "https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Armon\u00eda Serena",
+        "url": "https://open.spotify.com/album/1S06SLy0ZHrSrbHFsPsNBD"
+      },
+      "artists": [
+        {
+          "name": "Abril Iluso",
+          "url": "https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd"
+        }
+      ],
+      "duration_ms": 158823,
+      "name": "Armon\u00eda Serena",
+      "url": "https://open.spotify.com/track/3y0MUwXHh9qdDGsNPQ7msQ"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Ich W\u00fcnsche",
-        "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
-      },
-      "artists": [
-        {
-          "name": "Nils Schreiber",
-          "url": "https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl"
-        }
-      ],
-      "duration_ms": 179727,
-      "name": "Unendlich",
-      "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "You're Filled With Courage",
         "url": "https://open.spotify.com/album/3lkh1bioKa9l6mBFgqm2Y2"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 157200,
       "name": "You're Filled With Courage",
       "url": "https://open.spotify.com/track/1yXCViJlRh40uDDaA3xOl0"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Ich W\u00fcnsche",
+        "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
+      },
+      "artists": [
+        {
+          "name": "Nils Schreiber",
+          "url": "https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl"
+        }
+      ],
+      "duration_ms": 179727,
+      "name": "Unendlich",
+      "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Sweven",
-        "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
-      },
-      "artists": [
-        {
-          "name": "Andy Kamman",
-          "url": "https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Sweven",
-      "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Drifting Together",
         "url": "https://open.spotify.com/album/4Fm2uRfIEx9fIjdVjsUOzu"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 193269,
       "name": "Drifting Together",
       "url": "https://open.spotify.com/track/1nhmqBkGh4FDraowHKxRNA"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Sweven",
+        "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
+      },
+      "artists": [
+        {
+          "name": "Andy Kamman",
+          "url": "https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Sweven",
+      "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "String Of Light",
-        "url": "https://open.spotify.com/album/5o9d8NHM20XsL6JMtLdrhR"
+        "name": "Prevision",
+        "url": "https://open.spotify.com/album/7xkou16CqQKZCHamqP2idQ"
       },
       "artists": [
         {
-          "name": "Blissful Dreams",
-          "url": "https://open.spotify.com/artist/4lPwfvbWNPN2FNrLuijbcC"
+          "name": "Sadie Hume",
+          "url": "https://open.spotify.com/artist/7E6gWrogjZbxjYpmSjAa1C"
         }
       ],
-      "duration_ms": 169411,
-      "name": "Immersion",
-      "url": "https://open.spotify.com/track/3OSnZ592Due23ZwYwWOqyT"
+      "duration_ms": 146785,
+      "name": "Prevision",
+      "url": "https://open.spotify.com/track/4TVExjDdlGMDnGxyTpOISo"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -943,34 +943,18 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Prevision",
-        "url": "https://open.spotify.com/album/7xkou16CqQKZCHamqP2idQ"
+        "name": "String Of Light",
+        "url": "https://open.spotify.com/album/5o9d8NHM20XsL6JMtLdrhR"
       },
       "artists": [
         {
-          "name": "Sadie Hume",
-          "url": "https://open.spotify.com/artist/7E6gWrogjZbxjYpmSjAa1C"
+          "name": "Blissful Dreams",
+          "url": "https://open.spotify.com/artist/4lPwfvbWNPN2FNrLuijbcC"
         }
       ],
-      "duration_ms": 146785,
-      "name": "Prevision",
-      "url": "https://open.spotify.com/track/4TVExjDdlGMDnGxyTpOISo"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
-        "name": "Teegarden C",
-        "url": "https://open.spotify.com/album/4Ymu2WPYJNzRafMvyH5tlR"
-      },
-      "artists": [
-        {
-          "name": "By Lotus",
-          "url": "https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8"
-        }
-      ],
-      "duration_ms": 248896,
-      "name": "Standing Wave",
-      "url": "https://open.spotify.com/track/70zZuuFtxFTS5MAGP6DPs1"
+      "duration_ms": 169411,
+      "name": "Immersion",
+      "url": "https://open.spotify.com/track/3OSnZ592Due23ZwYwWOqyT"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -987,6 +971,22 @@
       "duration_ms": 172373,
       "name": "Sketches",
       "url": "https://open.spotify.com/track/5ytbuBtoL3hHrhyuS6ATww"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Teegarden C",
+        "url": "https://open.spotify.com/album/4Ymu2WPYJNzRafMvyH5tlR"
+      },
+      "artists": [
+        {
+          "name": "By Lotus",
+          "url": "https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8"
+        }
+      ],
+      "duration_ms": 248896,
+      "name": "Standing Wave",
+      "url": "https://open.spotify.com/track/70zZuuFtxFTS5MAGP6DPs1"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Surface",
-        "url": "https://open.spotify.com/album/15TlhBkBFqzJzIUBxv0CH6"
+        "name": "Theta Sleep",
+        "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
       },
       "artists": [
         {
-          "name": "Lerone Gios",
-          "url": "https://open.spotify.com/artist/6AOSLIwArJ09daRcBXYE52"
+          "name": "Zonyoh",
+          "url": "https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx"
         }
       ],
-      "duration_ms": 126774,
-      "name": "Surface",
-      "url": "https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK"
+      "duration_ms": 166000,
+      "name": "Clear-Headed",
+      "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Theta Sleep",
-        "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
+        "name": "Surface",
+        "url": "https://open.spotify.com/album/15TlhBkBFqzJzIUBxv0CH6"
       },
       "artists": [
         {
-          "name": "Zonyoh",
-          "url": "https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx"
+          "name": "Lerone Gios",
+          "url": "https://open.spotify.com/artist/6AOSLIwArJ09daRcBXYE52"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Clear-Headed",
-      "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
+      "duration_ms": 126774,
+      "name": "Surface",
+      "url": "https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Descanso",
-        "url": "https://open.spotify.com/album/6wf1iHlQVWpkNvmA9t3H9u"
+        "name": "Open Sky",
+        "url": "https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD"
       },
       "artists": [
         {
-          "name": "Santiago Penitente",
-          "url": "https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9"
+          "name": "Drift Far Away",
+          "url": "https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2"
         }
       ],
-      "duration_ms": 174857,
-      "name": "Descanso",
-      "url": "https://open.spotify.com/track/5kI3nJuVik4PYmVGBQ3lq3"
+      "duration_ms": 267756,
+      "name": "Meditations",
+      "url": "https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Open Sky",
-        "url": "https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD"
+        "name": "Descanso",
+        "url": "https://open.spotify.com/album/6wf1iHlQVWpkNvmA9t3H9u"
       },
       "artists": [
         {
-          "name": "Drift Far Away",
-          "url": "https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2"
+          "name": "Santiago Penitente",
+          "url": "https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9"
         }
       ],
-      "duration_ms": 267756,
-      "name": "Meditations",
-      "url": "https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE"
+      "duration_ms": 174857,
+      "name": "Descanso",
+      "url": "https://open.spotify.com/track/5kI3nJuVik4PYmVGBQ3lq3"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Lustrous",
-        "url": "https://open.spotify.com/album/1G6Xs1b0DXim2OmfamJTAh"
-      },
-      "artists": [
-        {
-          "name": "Celyn Awstin",
-          "url": "https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk"
-        }
-      ],
-      "duration_ms": 181610,
-      "name": "Lustrous",
-      "url": "https://open.spotify.com/track/76fvWeCGNWOpvnRxwaB0rw"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Open Eyes",
         "url": "https://open.spotify.com/album/7p8eObCrVEaGjXAuf8zZW8"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 212028,
       "name": "Open Eyes",
       "url": "https://open.spotify.com/track/7qOSXapFeF6dMXYZn6r7Jm"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Lustrous",
+        "url": "https://open.spotify.com/album/1G6Xs1b0DXim2OmfamJTAh"
+      },
+      "artists": [
+        {
+          "name": "Celyn Awstin",
+          "url": "https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk"
+        }
+      ],
+      "duration_ms": 181610,
+      "name": "Lustrous",
+      "url": "https://open.spotify.com/track/76fvWeCGNWOpvnRxwaB0rw"
     },
     {
       "added_at": "2024-09-19 15:00:11",

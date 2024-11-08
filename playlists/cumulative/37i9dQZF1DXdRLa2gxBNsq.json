@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: La Polla Records.",
+  "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN.",
   "name": "Punk Espa\u00f1ol",
   "tracks": [
+    {
+      "album": {
+        "name": "15 Gramos",
+        "url": "https://open.spotify.com/album/7uA3Pl5TCUKiCpTaO6ZYXG"
+      },
+      "artists": [
+        {
+          "name": "Manolo Kabezabolo",
+          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149999,
+      "name": "15 Gramos",
+      "url": "https://open.spotify.com/track/158fs2nrDmdCVoxEIjT8pq"
+    },
     {
       "album": {
         "name": "Kontratiempos",
@@ -118,6 +136,24 @@
       "duration_ms": 238987,
       "name": "Ahora Me Importa una Mierda",
       "url": "https://open.spotify.com/track/6xbnB16jmcQP6lWbYbn2rA"
+    },
+    {
+      "album": {
+        "name": "Ahora soy un punkarra",
+        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
+      },
+      "artists": [
+        {
+          "name": "Desklate",
+          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144944,
+      "name": "Ahora soy un punkarra",
+      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
     },
     {
       "album": {
@@ -262,6 +298,24 @@
       "duration_ms": 260127,
       "name": "Antifascismo",
       "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
+    },
+    {
+      "album": {
+        "name": "ANTIFASCISTA",
+        "url": "https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv"
+      },
+      "artists": [
+        {
+          "name": "Demenzia Sozial",
+          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273052,
+      "name": "ANTIFASCISTA",
+      "url": "https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3"
     },
     {
       "album": {
@@ -627,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Corre, Escapa",
+        "url": "https://open.spotify.com/album/0kZpl5AB8bgJePAlpZH1br"
+      },
+      "artists": [
+        {
+          "name": "Belial",
+          "url": "https://open.spotify.com/artist/2SDf1CeFMHEop1lzdpvS28"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180257,
+      "name": "Corre, Escapa",
+      "url": "https://open.spotify.com/track/23qJwmWJysiJYky8U5zpaS"
+    },
+    {
+      "album": {
         "name": "Criatura",
         "url": "https://open.spotify.com/album/3G4CgHJv566we7b2M16lSq"
       },
@@ -866,7 +938,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 112720,
       "name": "Don Vito y la Revuelta en el Frenop\u00e1tico",
       "url": "https://open.spotify.com/track/4EBFU2ujZgudwRUsi588jo"
@@ -1561,6 +1633,24 @@
     },
     {
       "album": {
+        "name": "Habitamos el vertedero",
+        "url": "https://open.spotify.com/album/1SQkzdMFNhbRdCCIw6PMv3"
+      },
+      "artists": [
+        {
+          "name": "El Destello",
+          "url": "https://open.spotify.com/artist/5wD750GwDjY6P7zAYKKSof"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125769,
+      "name": "Habitamos el vertedero",
+      "url": "https://open.spotify.com/track/3KGHL7QRZxHuc478F9mBCO"
+    },
+    {
+      "album": {
         "name": "He Visto",
         "url": "https://open.spotify.com/album/6BU8iwhJ0JlRPXQUEwhHCZ"
       },
@@ -2084,7 +2174,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 220943,
       "name": "Lola",
       "url": "https://open.spotify.com/track/1KWMzs6oRaLkQRVv1KbRbZ"
@@ -2394,7 +2484,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 89999,
       "name": "Nino Gramo",
       "url": "https://open.spotify.com/track/4ZBYc1udmmLy6INoqUyIcf"
@@ -2622,7 +2712,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 186493,
       "name": "Nos Enga\u00f1an - original",
       "url": "https://open.spotify.com/track/0WFeE2O8RI03RheJ4PPbDr"
@@ -2648,6 +2738,24 @@
       "duration_ms": 305993,
       "name": "Nuestra guerra",
       "url": "https://open.spotify.com/track/5a15KPWIoPM6yTDGmfbVtX"
+    },
+    {
+      "album": {
+        "name": "A cuchillo",
+        "url": "https://open.spotify.com/album/0I0MU6bbaZ6xvgtsEgXOz2"
+      },
+      "artists": [
+        {
+          "name": "Beta M\u00e1ximo",
+          "url": "https://open.spotify.com/artist/365RFaJ5rIVgB8JkNSLN0M"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105946,
+      "name": "Nueva libertad",
+      "url": "https://open.spotify.com/track/3UtJ8omZiJbHynoIbi4mQE"
     },
     {
       "album": {
@@ -2810,6 +2918,24 @@
       "duration_ms": 195600,
       "name": "Piedra Contra Tijera",
       "url": "https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty"
+    },
+    {
+      "album": {
+        "name": "Placer Al Fin",
+        "url": "https://open.spotify.com/album/2HZDQ1vcqxpsTDtNsLlK3W"
+      },
+      "artists": [
+        {
+          "name": "Vinodium",
+          "url": "https://open.spotify.com/artist/6yYXEgfDFIsxKXyoKm828Q"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162609,
+      "name": "Placer Al fin",
+      "url": "https://open.spotify.com/track/7pKs0NK6zlPICc2BPyqteC"
     },
     {
       "album": {
@@ -3406,7 +3532,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 236290,
       "name": "Tras la Pausa",
       "url": "https://open.spotify.com/track/4uLzJmsGBtsghpacfsH9gU"
@@ -3478,7 +3604,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 212785,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/4nUVcqvsg0jq4Z0KEfttXw"
@@ -3496,7 +3622,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 153530,
       "name": "Viajemos",
       "url": "https://open.spotify.com/track/5znyKIKjrJBGcZfF5TkOjH"
@@ -3594,10 +3720,28 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 242320,
       "name": "Y sigo en pie",
       "url": "https://open.spotify.com/track/1mHavFRruSCwupKzTVGoys"
+    },
+    {
+      "album": {
+        "name": "zona s\u00edsmica",
+        "url": "https://open.spotify.com/album/1s5hgE6H2ExqroWNwsZzUt"
+      },
+      "artists": [
+        {
+          "name": "El Antisocial",
+          "url": "https://open.spotify.com/artist/1RRRS2yTvy6xkOxuK37Hb5"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158824,
+      "name": "zona s\u00edsmica",
+      "url": "https://open.spotify.com/track/0DI5XP7DSwdPRFWKpazJgJ"
     },
     {
       "album": {

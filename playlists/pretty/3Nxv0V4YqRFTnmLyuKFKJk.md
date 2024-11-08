@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Nxv0V4YqRFTnmLyuKFKJk.md) - [plain]
 
 > CURATED BY MASON RAMSEY\-\- these are his  country essentials!  Keep checking back to see who will curate next! This is the best of country!
 
-[Topsify](https://open.spotify.com/user/topsify) - 60,229 likes - 66 songs - 3 hr 41 min
+[Topsify](https://open.spotify.com/user/topsify) - 60,227 likes - 66 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

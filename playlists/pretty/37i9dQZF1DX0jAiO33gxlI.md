@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Sotam
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,823 likes - 86 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,815 likes - 86 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 11 | [Bico Green](https://open.spotify.com/track/4eHueiE7MUXbbpzGgO2ILw) | [NORTRAGAMUS](https://open.spotify.com/artist/33ug2i6014guMI4zR9iwmc), [Tudubom](https://open.spotify.com/artist/0BFpUyhufpi7ztBUfa8bBV), [Kayuá](https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH) | [Bico Green](https://open.spotify.com/album/1IkJyBuaDERvO6KxG4irws) | 2:24 |
 | 12 | [Aumenta o Nível \(Papatracks\#17\)](https://open.spotify.com/track/0HhueRdFqZKM8oYPoDJIbm) | [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Aumenta o Nível \(Papatracks\#17\)](https://open.spotify.com/album/7JBMeSCDAKqi7TRGgTa8C3) | 1:47 |
 | 13 | [DR](https://open.spotify.com/track/67JOAnFpH9GVN70Ysz7vPv) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt), [Avila Beatz](https://open.spotify.com/artist/7xUdVOv7jgGkwdfMlvxaRf) | [DR](https://open.spotify.com/album/0S6FxoEOTW11jkFXk37jbG) | 2:10 |
-| 14 | [Chapado Eu Tô](https://open.spotify.com/track/2Ou4l2UHIWE6gHlFfRgRVc) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS) | [Chapado Eu Tô](https://open.spotify.com/album/4N6xa304mVnFrpgigdD9Pk) | 5:24 |
+| 14 | [Chapado Eu Tô](https://open.spotify.com/track/2Ou4l2UHIWE6gHlFfRgRVc) | [NOG](https://open.spotify.com/artist/0aSDtsRDy0TaLiFvVkAnYZ) | [Chapado Eu Tô](https://open.spotify.com/album/4N6xa304mVnFrpgigdD9Pk) | 5:24 |
 | 15 | [Chapado Eu Tô](https://open.spotify.com/track/2BA7E1TCS48tgPl9qHR3EX) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T), [SARTØR](https://open.spotify.com/artist/5eYrkPg5M0I9uZQXbhTho4) | [Chapado Eu Tô](https://open.spotify.com/album/3hxjGMfrEVhICoRZ4fCbTG) | 5:03 |
 | 16 | [Aulas e Aulas](https://open.spotify.com/track/5gkVKCDN2ZYaYt38DAKVgA) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Duckjay](https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0) | [Aulas e Aulas](https://open.spotify.com/album/0O3KM43uWl5fq0NsT2n8Gk) | 2:36 |
 | 17 | [Triunfo](https://open.spotify.com/track/6o2vSzDL1xt53MHdn6myKi) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Duckjay](https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0) | [Triunfo](https://open.spotify.com/album/68Xs3A7WORdqOBiEHa6hKn) | 2:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,261 likes - 140 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,263 likes - 140 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 95 | [Moving](https://open.spotify.com/track/4glv58uGCB00meKyazwNY3) | [Sogare](https://open.spotify.com/artist/3fDk9Pvz5G6ns3pPK3r3YS) | [Moving](https://open.spotify.com/album/5ajERpamkpitbq8WyhOZ04) | 2:26 |
 | 96 | [Slow Motion](https://open.spotify.com/track/1yF0XbMuzmLAAtuEyoVih1) | [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [Slow Motion](https://open.spotify.com/album/5umT0GEd8kM2xBoEs7U3g5) | 4:28 |
 | 97 | [どうでもいいことばっか](https://open.spotify.com/track/3F6ohbn4sZpG7dJkl3CYrl) | [suimu:](https://open.spotify.com/artist/3FLRHIlvau9mLVlOXs7FWb) | [Episode:Tokyo](https://open.spotify.com/album/2Ey1oRyBagLOF73imqIqgR) | 2:37 |
-| 98 | [tovari](https://open.spotify.com/track/3Mth8RCFX08HYnTwMGeAec) | [Awasetsu Mona](https://open.spotify.com/artist/7D1mUNJjWB9W9ANilpOwz3), [Albert Connor](https://open.spotify.com/artist/2bWdyBaxZadHoDuczRqNvX), [Gold Digga](https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI) | [tovari](https://open.spotify.com/album/73hrvwPkQmCMCnh1TQABrK) | 2:36 |
+| 98 | [tovari](https://open.spotify.com/track/3Mth8RCFX08HYnTwMGeAec) | [Awasetsu Mona](https://open.spotify.com/artist/7D1mUNJjWB9W9ANilpOwz3), [Albert Connor](https://open.spotify.com/artist/6fTbznllQRT5HmxfZdiRlc), [Gold Digga](https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI) | [tovari](https://open.spotify.com/album/73hrvwPkQmCMCnh1TQABrK) | 2:36 |
 | 99 | [FENRIR](https://open.spotify.com/track/2UMnb4xMx1ve9DEkKISPNN) | [AssToro](https://open.spotify.com/artist/1XVnuN1WPe1VMw78MuYeic) | [grotesquegrandmother](https://open.spotify.com/album/341l2DAL8VO5XExqpMqHy8) | 1:12 |
 | 100 | [unicode \- tlmv digital band mix](https://open.spotify.com/track/3TJZDHFXUOsAK7wiqWGzc3) | [Telematic Visions](https://open.spotify.com/artist/1XrPQiMA2GWz8uPO7i9qZ5), [iga](https://open.spotify.com/artist/5dlsi7B4NhBpK4rXQjxWVR) | [unicode \(tlmv digital band mix\)](https://open.spotify.com/album/2Hkqmqoq1WfYraHCgrfeB2) | 3:27 |
 | 101 | [Beetle Flip](https://open.spotify.com/track/13meet4Rq6a1SMcHYdCjsa) | [KBSNK](https://open.spotify.com/artist/4BnAvxhZ0QKTALIGv828R2), [ISLTR](https://open.spotify.com/artist/79xUV4cJhPVjkfn9mm1ZuR) | [Beetle Flip](https://open.spotify.com/album/6TJUCDg7uWhGbKhkPtnFtr) | 3:41 |

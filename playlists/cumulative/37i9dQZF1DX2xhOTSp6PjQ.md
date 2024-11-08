@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX?si=oHlDJ\-gNSvq4Yus0y5Y1xw">Mthandeni SK</a>, <a href="https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9?si=OuiHZEflRHyDpEE2I59TlA">MaWhoo</a>
+> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg?si=nt023\_xYTE6MHXXszrOssA">Sminofu</a>
 
-212 songs - 16 hr 57 min
+216 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Amakhehla](https://open.spotify.com/track/3BkskmADgoWdiGHiaEz6uc) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Udumakahle](https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq), [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv), [Vernotile](https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 4:30 | 2023-02-02 | 2023-08-29 |
 | [AMAKHOSI](https://open.spotify.com/track/3tYrdDOFWmraXH0Cy5nKCj) | [AMA 4X4](https://open.spotify.com/artist/2sebMV9azRytnuBggHH5Tn) | [AMAKHOSI](https://open.spotify.com/album/6vmXJddQXH6kVVdU3zVjlF) | 6:28 | 2023-06-15 | 2023-08-04 |
 | [Amalobolo](https://open.spotify.com/track/2UwQgjV9wgZxHJmdsTGbDH) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v) | [Ekhayakomama](https://open.spotify.com/album/2Bv75VXnuvVE9TbeNxUFuy) | 3:22 | 2023-01-30 | 2023-02-03 |
+| [Amathambo Kagogo](https://open.spotify.com/track/3yCMDYGNMwtQtBmeny6aPL) | [Imithente](https://open.spotify.com/artist/3JqfmUV2PM8u6ifw2TWPJ9), [Ama NND International](https://open.spotify.com/artist/0l3s3VEBPEh1fURBzXgjPV) | [Amathambo Kagogo](https://open.spotify.com/album/5PyObQsvE3RD87LD6N4C35) | 4:59 | 2024-11-07 |  |
 | [Angijoli Mina](https://open.spotify.com/track/7cj6FNKos5MUkSMe5380wB) | [Smirnoff](https://open.spotify.com/artist/19OHDg21bLlU29eYyUahlz) | [Angitholi Lutho](https://open.spotify.com/album/5WOtZn2TNODSH5C4d5HDkt) | 3:58 | 2023-01-30 | 2023-05-26 |
 | [Angilazi Icala](https://open.spotify.com/track/1SgLVnJlhycOrTQHWbeBKa) | [Thokozani Langa](https://open.spotify.com/artist/30nsu2oxgyCzzty1TIJW6S) | [Sthanda Ifamily](https://open.spotify.com/album/5XtEpbp6vPy9a1RvpNTsb8) | 5:43 | 2018-09-25 | 2023-03-10 |
 | [Angilazi Icala](https://open.spotify.com/track/257aC7bUs7LZ4wd86fOX5L) | [Thokozani Langa](https://open.spotify.com/artist/3OzpSgLEiIAVGjVRU03o99) | [Sthanda Ifamily](https://open.spotify.com/album/5QRfA7vN6sgEwKqNMmdhmf) | 5:43 | 2018-09-25 | 2022-07-29 |
@@ -80,6 +81,7 @@
 | [Imikhuba](https://open.spotify.com/track/4SlVGHwa8dQDr8hAa8ZiDf) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [The Ultimate Collection: Phuzekhemisi](https://open.spotify.com/album/4abzxM3Cy35Dg5Mmjwg8ud) | 4:11 | 2018-09-25 | 2022-11-13 |
 | [Imikhuba](https://open.spotify.com/track/5DWe8RsOB3zQ8nGT870FwD) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Bayede Zulu](https://open.spotify.com/album/1CYUKc8tPKmyRAVxOMLbWd) | 4:11 | 2018-09-25 | 2022-07-29 |
 | [Imikhuba](https://open.spotify.com/track/5z4GRjPgqAm9ZtPjcaqZPi) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Bayede Zulu](https://open.spotify.com/album/4uFTqak3z6hgboKo0aNwcr) | 4:11 | 2018-09-25 | 2023-02-01 |
+| [Imizi Yobaba](https://open.spotify.com/track/7AAZlyNmveOi5BRPbxFApQ) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV) | [Alingeni](https://open.spotify.com/album/2NCLT1NSdnD5BlKYZT0ije) | 4:28 | 2024-11-07 |  |
 | [Impi Yomndeni](https://open.spotify.com/track/7ag6ASRzcuWXamzvNEXQzL) | [Bobo Mfana Wepiki](https://open.spotify.com/artist/6kcl74RDRgeHTx1Dj07NQt) | [Angiseyona Itype Yakho](https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ) | 6:03 | 2018-09-25 | 2023-05-12 |
 | [Ingezo Emahostela \(feat\. Sgwebo Sentambo\)](https://open.spotify.com/track/05kQlUT2mMwkvjRX8bkzba) | [Bobo Mfana Wepiki](https://open.spotify.com/artist/6kcl74RDRgeHTx1Dj07NQt), [Sgwebo Sentambo](https://open.spotify.com/artist/5p55hGi2rq290OvBwMpLps) | [Angiseyona Itype Yakho](https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ) | 4:55 | 2018-09-25 | 2023-02-01 |
 | [Inhlinini Yoxolo](https://open.spotify.com/track/3ZhOsB846LguxIkDASb6Rb) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inhlinini Yoxolo \(Pt\. 2\)](https://open.spotify.com/album/25HvxLDw1saTfEoFQ6Rfxj) | 9:00 | 2019-01-06 | 2023-03-25 |
@@ -90,6 +92,7 @@
 | [Inja Nodogo](https://open.spotify.com/track/7CiL2zVTGVrJYT7tcVk0dl) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inja Nogodo](https://open.spotify.com/album/1i1JkpUl5vILSSLKwsVHAO) | 4:15 | 2023-01-30 |  |
 | [Inkomo Yomqoyiso](https://open.spotify.com/track/0duUpsKlfu6RNHWH5q0diF) | [Ichwane Lebhaca](https://open.spotify.com/artist/6dUPVcKOAhdgjkmgDwy6uh) | [Amagupta](https://open.spotify.com/album/4faFI6JoeU4nCK89d8Ul0b) | 4:56 | 2020-08-28 | 2023-03-10 |
 | [Intencane](https://open.spotify.com/track/0BYurynEYtSmwyuAMX07KR) | [Menzi](https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ) | [Intencane](https://open.spotify.com/album/7doGg6TOO86pTXiyploISV) | 4:12 | 2022-09-01 | 2023-02-03 |
+| [Inyoka Endala](https://open.spotify.com/track/1xASR9koYP3vxECKR4OmGB) | [Falabo](https://open.spotify.com/artist/1tlK89N9NdqIWVXRSyClAw) | [Inyoka Endala](https://open.spotify.com/album/2M1zuqGr01bzTg0GJGwN0v) | 4:15 | 2024-11-07 |  |
 | [Inzondo](https://open.spotify.com/track/3jmv4dhLatPanmC4lX7JaE) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [The Best Of Traditional South African Music](https://open.spotify.com/album/5r48JyMk448sZ5OGopjfcx) | 3:23 | 2018-09-25 | 2023-03-25 |
 | [Inzondo](https://open.spotify.com/track/66grkST08OIuorHMGsGwR6) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Isidina Sikamahlalela](https://open.spotify.com/album/7M3Zi8eUaeFxhC5JzGMfRX) | 3:25 | 2022-09-01 | 2023-02-01 |
 | [Iphutha](https://open.spotify.com/track/3knGCYxFc2KracN0y36aN9) | [Umdumazi](https://open.spotify.com/artist/1FaD9YX3OovAhntq4aV1DC) | [Iphutha](https://open.spotify.com/album/2dANv8PXfSJmiiHJtdXPKJ) | 4:55 | 2023-09-22 | 2024-08-30 |
@@ -158,6 +161,7 @@
 | [Phakathi Komhlane nembeleko](https://open.spotify.com/track/5tcWJFn9w9BDUWXssZ5Q1A) | [Udumakahle](https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq) | [Phakathi Komhlane Nembeleko](https://open.spotify.com/album/3LJ39cJZE7hPwG2j6RXc5s) | 4:18 | 2021-10-12 | 2023-04-30 |
 | [Please Call Me \(feat\. Oliver Mtukudzi & DJ Tira\)](https://open.spotify.com/track/5uaLKLMsJmVyqDQuOEBDTI) | [Shabalala Rhythm](https://open.spotify.com/artist/4yqgRp5LrmRXgSKpAqTBdl), [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Please Call Me](https://open.spotify.com/album/45Cf5K35YTli0s93d5NkNt) | 4:57 | 2018-09-25 | 2023-02-17 |
 | [Rihanna](https://open.spotify.com/track/1NNlKxW8tuGfbKsFJqk1SV) | [uZondi](https://open.spotify.com/artist/7v8F0d0XcsoPFgCzde2dQN) | [Ngingohlakaniphile](https://open.spotify.com/album/33plsgLlHgsrBHsquHeirK) | 3:28 | 2024-05-16 |  |
+| [Rush Hour](https://open.spotify.com/track/1AXW0WnNUceegJHGl3HWlJ) | [Sminofu](https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg) | [Rush Hour](https://open.spotify.com/album/2mIgt4Y26nVZB7S4RQJ3ma) | 4:31 | 2024-11-07 |  |
 | [S'kushaya Isdakwa](https://open.spotify.com/track/2PJ6NP1np4QGGJpnl6MGwx) | [Imithente](https://open.spotify.com/artist/3JqfmUV2PM8u6ifw2TWPJ9) | [S'kushaya Isdakwa](https://open.spotify.com/album/3W662ml4nC71f2QUTMKeLy) | 4:03 | 2023-02-23 | 2024-01-19 |
 | [Sakhala Kamnandi](https://open.spotify.com/track/10FGIW76glXqbxi6gSOxwJ) | [Umgqumeni](https://open.spotify.com/artist/4nMTRK9u7Zt9lKCPnF06zB) | [I Magic](https://open.spotify.com/album/4DR2LkB4JWkcT5ZBaqRgSN) | 4:19 | 2019-05-13 | 2023-06-16 |
 | [Sanibonani](https://open.spotify.com/track/4IMZR7DMOMAYHlAifv682g) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu) | [Phendula](https://open.spotify.com/album/6d89ixAm9v3UfQGAWyeFb2) | 4:21 | 2023-01-30 | 2023-06-16 |

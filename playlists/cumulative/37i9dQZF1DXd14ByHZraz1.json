@@ -64,7 +64,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 185196,
       "name": "Activated",
       "url": "https://open.spotify.com/track/1Ns2Ucfg64nvKFLZ7KtY9h"
@@ -2719,6 +2719,24 @@
     },
     {
       "album": {
+        "name": "Maradona",
+        "url": "https://open.spotify.com/album/0NnNlrpnAopMAd4SySSg6x"
+      },
+      "artists": [
+        {
+          "name": "Watzgood",
+          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193033,
+      "name": "Maradona",
+      "url": "https://open.spotify.com/track/02CDik7aZFqov5naPitg6x"
+    },
+    {
+      "album": {
         "name": "Mia Pembe (Mojjo Remix)",
         "url": "https://open.spotify.com/album/6Z7gdgNRG6swQcWqBFx3R4"
       },
@@ -2756,7 +2774,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 161664,
       "name": "Michael Jordan",
       "url": "https://open.spotify.com/track/32WxH1Qka15MbHI81jBv3R"
@@ -4404,6 +4422,32 @@
       "duration_ms": 161904,
       "name": "Vale la Pena",
       "url": "https://open.spotify.com/track/1BEgJDSmeQKAgMNrN1TOU7"
+    },
+    {
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/4AsPHpiOavaG0a4X8wk85E"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166124,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/1B02CC2kZAgs6yPgQH5qpk"
     },
     {
       "album": {

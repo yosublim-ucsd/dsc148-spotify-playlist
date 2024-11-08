@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 168000,
       "name": "Chti Chi",
       "url": "https://open.spotify.com/track/4Mz16BkxyJRTdGVx2lXzU1"
@@ -2646,7 +2646,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 179538,
       "name": "KIKI",
       "url": "https://open.spotify.com/track/3n58EssjWguXRIQucF12cZ"
@@ -3954,7 +3954,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 244660,
       "name": "OU TT",
       "url": "https://open.spotify.com/track/7AWvPNgwHdkVypwKao03Zh"
@@ -4882,6 +4882,24 @@
       "duration_ms": 145294,
       "name": "Sparta",
       "url": "https://open.spotify.com/track/3JrQYOR2x3TL9IyqHxjNCB"
+    },
+    {
+      "album": {
+        "name": "S\u0113nsus",
+        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
+      },
+      "artists": [
+        {
+          "name": "Madd",
+          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149453,
+      "name": "SRTTT",
+      "url": "https://open.spotify.com/track/1l21XzNeseGYg5fNhzTJWE"
     },
     {
       "album": {
@@ -5917,6 +5935,32 @@
     },
     {
       "album": {
+        "name": "S\u0113nsus",
+        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
+      },
+      "artists": [
+        {
+          "name": "Madd",
+          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
+        },
+        {
+          "name": "Xcep",
+          "url": "https://open.spotify.com/artist/0eLoiWLwWeaHGNkYke5G1k"
+        },
+        {
+          "name": "Smallx",
+          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234853,
+      "name": "YinYang (feat. XCEP & Smallx)",
+      "url": "https://open.spotify.com/track/1b89rPpatX8ocTRgh78izN"
+    },
+    {
+      "album": {
         "name": "2x1",
         "url": "https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp"
       },
@@ -5946,7 +5990,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 200599,
       "name": "Zahri",
       "url": "https://open.spotify.com/track/7epBNl7bl4Gi5UwA5tdmyN"

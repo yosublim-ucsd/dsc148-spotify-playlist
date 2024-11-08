@@ -2489,6 +2489,24 @@
     },
     {
       "album": {
+        "name": "Binaural Sanctum",
+        "url": "https://open.spotify.com/album/1eRg62b7o0arrTfW1FR7Ox"
+      },
+      "artists": [
+        {
+          "name": "La Moci\u00f3n",
+          "url": "https://open.spotify.com/artist/5UQaOILr6zsKIuJ7OTLFrU"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157527,
+      "name": "Sanctum Delta 2 Hz",
+      "url": "https://open.spotify.com/track/2rP6KP4IG396xNX6tjGIfU"
+    },
+    {
+      "album": {
         "name": "Silent Words",
         "url": "https://open.spotify.com/album/12jobwwmDUtE73NkF9SFnC"
       },

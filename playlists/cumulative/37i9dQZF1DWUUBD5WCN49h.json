@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Azekel",
+  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Fazil",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -2024,7 +2024,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 146568,
       "name": "Beauty Queen",
       "url": "https://open.spotify.com/track/33HV68hkWe57iZ4KrMEkuC"
@@ -4068,7 +4068,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 143200,
       "name": "CRYBABY",
       "url": "https://open.spotify.com/track/5QQjJDCm7zlNZ4DwzHRzHv"
@@ -6124,7 +6124,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 206400,
       "name": "Flex On You (feat. Cheque)",
       "url": "https://open.spotify.com/track/0LMQJJCdz5YO74cL3J9zG0"
@@ -6306,6 +6306,24 @@
       "duration_ms": 186801,
       "name": "For My Head",
       "url": "https://open.spotify.com/track/7hF9y9BUOSxgW8Vafd4YYu"
+    },
+    {
+      "album": {
+        "name": "For my mind/lifetime",
+        "url": "https://open.spotify.com/album/2YSYfOtRrJgbc0tDh6xQ16"
+      },
+      "artists": [
+        {
+          "name": "Nexxa",
+          "url": "https://open.spotify.com/artist/2q86VGQF1vKXNlBisN81R3"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173406,
+      "name": "For my mind",
+      "url": "https://open.spotify.com/track/5lpob4WXFl0USYpY5wRne0"
     },
     {
       "album": {
@@ -6846,7 +6864,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 135544,
       "name": "Ghana Lve Affair",
       "url": "https://open.spotify.com/track/7wgZPc1iHKXMrYn4KBnFhi"
@@ -10405,6 +10423,28 @@
     },
     {
       "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/3l3ZbjQCe01SZKSwi1eRB7"
+      },
+      "artists": [
+        {
+          "name": "Dayan Dww",
+          "url": "https://open.spotify.com/artist/7tso6CumywuoEX7c2ZBHUW"
+        },
+        {
+          "name": "Ajesings",
+          "url": "https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174080,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/6dYa2veuV3Kam5Ihxl5Oyj"
+    },
+    {
+      "album": {
         "name": "Catch Up! // Lights",
         "url": "https://open.spotify.com/album/0nf3qQAlrY59xIDSV4ug7f"
       },
@@ -10504,6 +10544,24 @@
       "duration_ms": 134060,
       "name": "Liquor",
       "url": "https://open.spotify.com/track/4h7xiPmYCYdr2E84R3ohI7"
+    },
+    {
+      "album": {
+        "name": "Liquor In A Teacup",
+        "url": "https://open.spotify.com/album/6aRRV6ClHhPuE1hSPOnq4e"
+      },
+      "artists": [
+        {
+          "name": "Haeven",
+          "url": "https://open.spotify.com/artist/5JTZ0MKURW6cUUT2y18w5H"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180903,
+      "name": "Liquor In A Teacup",
+      "url": "https://open.spotify.com/track/6vv0cPKPfW3g2X5pXVRqva"
     },
     {
       "album": {
@@ -11302,7 +11360,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 205714,
       "name": "MAGIC",
       "url": "https://open.spotify.com/track/21or1rQGFVsayDaTWuAOiJ"
@@ -13233,6 +13291,28 @@
     },
     {
       "album": {
+        "name": "Morning Glory",
+        "url": "https://open.spotify.com/album/32gRbloKLzcW1CVJbXql8e"
+      },
+      "artists": [
+        {
+          "name": "Narah",
+          "url": "https://open.spotify.com/artist/0hcG5f9K9mREVnVMV3yCZh"
+        },
+        {
+          "name": "Seyyoh",
+          "url": "https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/0L2WB5mMXqMwKRG4cIkvU4"
+    },
+    {
+      "album": {
         "name": "No Wam",
         "url": "https://open.spotify.com/album/1r7kH9IJZp5u7r4LlWIjIo"
       },
@@ -14301,6 +14381,24 @@
     },
     {
       "album": {
+        "name": "Fazil",
+        "url": "https://open.spotify.com/album/7mY9TkeeWTfoUncKY8mrnS"
+      },
+      "artists": [
+        {
+          "name": "Fazil",
+          "url": "https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182794,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/5QpNm20lOdkgbDZjRc5Qi0"
+    },
+    {
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
       },
@@ -15246,7 +15344,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 186174,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/0MGwGJTDAf6FDS98lIxcy6"
@@ -15788,6 +15886,24 @@
       "duration_ms": 175238,
       "name": "Raining Days",
       "url": "https://open.spotify.com/track/2OEqxjLclsU82ns7taKg6F"
+    },
+    {
+      "album": {
+        "name": "Rappel",
+        "url": "https://open.spotify.com/album/5lo9NrxVfWLQLcQ9D8WAaX"
+      },
+      "artists": [
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147906,
+      "name": "Rappel",
+      "url": "https://open.spotify.com/track/7CjR90qslGmLW5dsnaKZay"
     },
     {
       "album": {
@@ -17202,7 +17318,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 169631,
       "name": "SICK AND TIRED",
       "url": "https://open.spotify.com/track/2FDtc1HGTwPX3Wy5Mq3AMM"
@@ -18211,6 +18327,24 @@
     },
     {
       "album": {
+        "name": "Summer/Morning Sun",
+        "url": "https://open.spotify.com/album/5DV1abTVfH4Ud1AFAPI7C4"
+      },
+      "artists": [
+        {
+          "name": "Rigo Kamp",
+          "url": "https://open.spotify.com/artist/0n0e9TWjXHyTN3G1zU6Y6i"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222167,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/3PPqIW224FnGVkETbcrZU2"
+    },
+    {
+      "album": {
         "name": "SUMMER 22 (NOSTALGIA)",
         "url": "https://open.spotify.com/album/15vQ0sZRIzq8S5ZLplzMMk"
       },
@@ -18582,7 +18716,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 228000,
       "name": "Synergy",
       "url": "https://open.spotify.com/track/3IF2V60aYb7vkeb0ZpjZOB"
@@ -19378,7 +19512,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 199686,
       "name": "Time & Space",
       "url": "https://open.spotify.com/track/1xmLl23KESbXHI9yCnentg"
@@ -19436,6 +19570,24 @@
       "duration_ms": 224855,
       "name": "Time Heals",
       "url": "https://open.spotify.com/track/3X3xMPof9266qz7NvMnEXp"
+    },
+    {
+      "album": {
+        "name": "Time Traveler",
+        "url": "https://open.spotify.com/album/6BS5k06GKg6rsxbkYiVGhS"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166974,
+      "name": "Time Traveler",
+      "url": "https://open.spotify.com/track/2cv0OdZIThSfcPiMsDDQTk"
     },
     {
       "album": {
@@ -19614,6 +19766,24 @@
       "duration_ms": 206400,
       "name": "Too Early",
       "url": "https://open.spotify.com/track/4qZ8vQpRFqS15RGdE8skco"
+    },
+    {
+      "album": {
+        "name": "Something About A Rose",
+        "url": "https://open.spotify.com/album/0zt1UU6Dk47u4lDpoHp9XV"
+      },
+      "artists": [
+        {
+          "name": "Anabel Rose",
+          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144705,
+      "name": "Too Friendly",
+      "url": "https://open.spotify.com/track/4BQr3DTMqO8rpC4NtLPQTm"
     },
     {
       "album": {
@@ -20390,6 +20560,24 @@
       "duration_ms": 171958,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6pRgAsctBATjTrSQWm7vTD"
+    },
+    {
+      "album": {
+        "name": "Waist",
+        "url": "https://open.spotify.com/album/5lQ8B4KrlV3uo6zvWX4Tbd"
+      },
+      "artists": [
+        {
+          "name": "2Slik",
+          "url": "https://open.spotify.com/artist/1SiEqKiBPjnYO9UoSWiyAo"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161143,
+      "name": "Waist",
+      "url": "https://open.spotify.com/track/4EZtqWVz7YEPlFgiKYWvMh"
     },
     {
       "album": {
@@ -21338,7 +21526,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 152941,
       "name": "Yawa",
       "url": "https://open.spotify.com/track/09Uvq8WFNANz4JaOfttkhA"

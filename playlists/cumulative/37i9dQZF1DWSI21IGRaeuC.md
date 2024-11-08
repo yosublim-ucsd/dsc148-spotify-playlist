@@ -2,7 +2,7 @@
 
 ### [Minimal Tech](https://open.spotify.com/playlist/37i9dQZF1DWSI21IGRaeuC)
 
-> Dive into the deep & minimal end of the tech house spectrum 🕊️🕊️ with Michael Bibi
+> the deep & minimal side of tech house ⛏️⛏️  with Michael Bibi
 
 417 songs - 1 day 9 hr 38 min
 

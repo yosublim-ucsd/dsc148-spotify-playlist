@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZylgAAAAAABvp0A2FW4aVnqt6P5OX9e8",
+  "snapshot_id": "ZyqxgAAAAADcZRi4zgtexQXn1qSGVJhy",
   "tracks": [
     {
       "added_at": null,
@@ -811,22 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2Issr9syuEqaUOfFRFXBms"
+        "name": "M\u00fasica e Palavra (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1526KV4Bw2ehCYTuP6YZe4"
       },
       "artists": [
         {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
         },
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 571013,
-      "name": "Vem - Ao Vivo",
-      "url": "https://open.spotify.com/track/5IW9WRaLxJblCkVXhC1vye"
+      "duration_ms": 267960,
+      "name": "Meu Universo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1z1VXBSMZzbQF4pvJwDjga"
     },
     {
       "added_at": null,
@@ -847,22 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00fasica e Palavra (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1526KV4Bw2ehCYTuP6YZe4"
+        "name": "Vem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2Issr9syuEqaUOfFRFXBms"
       },
       "artists": [
         {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        },
-        {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 267960,
-      "name": "Meu Universo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1z1VXBSMZzbQF4pvJwDjga"
+      "duration_ms": 571013,
+      "name": "Vem - Ao Vivo",
+      "url": "https://open.spotify.com/track/5IW9WRaLxJblCkVXhC1vye"
     },
     {
       "added_at": null,
@@ -1003,6 +1003,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reino de Justi\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 438280,
+      "name": "O Senhor \u00c9 Bom - Ao Vivo",
+      "url": "https://open.spotify.com/track/0aNKEcvYScNukxQzjohWLE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Que Tua Gl\u00f3ria Fez Comigo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5J0V7iimGhQGcBWIXV6t7w"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 538285,
       "name": "O Que Tua Gl\u00f3ria Fez Comigo - Ao Vivo",
       "url": "https://open.spotify.com/track/1eZ6MiWjHmwbbcGpAetCiO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reino de Justi\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 438280,
-      "name": "O Senhor \u00c9 Bom - Ao Vivo",
-      "url": "https://open.spotify.com/track/0aNKEcvYScNukxQzjohWLE"
     },
     {
       "added_at": null,

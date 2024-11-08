@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : RORI",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Eddy de Pretto",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -801,6 +801,28 @@
     },
     {
       "album": {
+        "name": "Comme des loups (feat. Zaoui)",
+        "url": "https://open.spotify.com/album/7JS49BrlvgRrcCXPEPeICC"
+      },
+      "artists": [
+        {
+          "name": "Vernis Rouge",
+          "url": "https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC"
+        },
+        {
+          "name": "Zaoui",
+          "url": "https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202280,
+      "name": "Comme des loups (feat. Zaoui)",
+      "url": "https://open.spotify.com/track/4M5GHCgdNcIk4I2tdXhLia"
+    },
+    {
+      "album": {
         "name": "J'vais bien",
         "url": "https://open.spotify.com/album/1zOhEkxGnRvaESmUxpcucl"
       },
@@ -1144,6 +1166,24 @@
       "duration_ms": 150996,
       "name": "Diff\u00e9rent",
       "url": "https://open.spotify.com/track/0rsQzwBrn9RrjEyjfNVvbb"
+    },
+    {
+      "album": {
+        "name": "donne tout",
+        "url": "https://open.spotify.com/album/548QpYIvopTwh1GAPk1mkr"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lie",
+          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197533,
+      "name": "donne tout",
+      "url": "https://open.spotify.com/track/7B1NgYR5wQd8qpUies3Qit"
     },
     {
       "album": {
@@ -1692,7 +1732,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 156386,
       "name": "j'ai tout rang\u00e9...",
       "url": "https://open.spotify.com/track/1uAxGjL6zMQrG3WH4kZqBd"
@@ -2332,7 +2372,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 187000,
       "name": "Les Armes",
       "url": "https://open.spotify.com/track/2WEexWKjumCknzB41qU2UV"
@@ -3079,6 +3119,24 @@
     },
     {
       "album": {
+        "name": "CRASH C\u0152UR+",
+        "url": "https://open.spotify.com/album/4E3heRLsWhWQwDDMwoo617"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179080,
+      "name": "petite musique",
+      "url": "https://open.spotify.com/track/4qVY03Ook13G2yisPjYawd"
+    },
+    {
+      "album": {
         "name": "Les Extraordinaires Histoires d'Amour de St Graal",
         "url": "https://open.spotify.com/album/62JxbuSVRrQQy2MeqJNuXh"
       },
@@ -3708,7 +3766,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-08",
       "duration_ms": 190416,
       "name": "Soleil - Rouge",
       "url": "https://open.spotify.com/track/2RAxX7vRZweXfEss35YTya"

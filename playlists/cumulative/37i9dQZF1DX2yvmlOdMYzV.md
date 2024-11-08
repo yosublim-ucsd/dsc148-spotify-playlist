@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-841 songs - 1 day 21 hr 48 min
+842 songs - 1 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [controllin](https://open.spotify.com/track/1Tmbe21KTdlEZcTXYPU7M3) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [FRANCIS](https://open.spotify.com/album/4tIEFaeXJpNVw53d4AJwBs) | 4:44 | 2024-06-07 | 2024-10-20 |
 | [Could It Be Love](https://open.spotify.com/track/4SGuRDKb78T5tJMGhGPdR9) | [IAMNOBODI](https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg), [Hugh Augustine](https://open.spotify.com/artist/48ehq0jR23nak2ZDDU6uff), [Todd Zack Jr.](https://open.spotify.com/artist/2bt82NyaCILDtSoTHlwdMl) | [Could It Be Love](https://open.spotify.com/album/0Q0IYSjbhb4jRLuBgcDMsI) | 2:58 | 2024-07-19 |  |
 | [Courtyard](https://open.spotify.com/track/3GjXjfE5YTaq8ygpUmmSKM) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Moflo](https://open.spotify.com/artist/3l4DNYCciNLDKnkKO2u8wP) | [Courtyard](https://open.spotify.com/album/3KY0BkUDoFCfDQaawL7CFF) | 3:45 | 2023-11-19 | 2024-04-27 |
-| [crush](https://open.spotify.com/track/6aHp4EdjW0hoUOC61wXRAm) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [don't text me back](https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c) | 3:17 | 2024-09-28 |  |
+| [crush](https://open.spotify.com/track/6aHp4EdjW0hoUOC61wXRAm) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [don't text me back](https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c) | 3:17 | 2024-09-28 | 2024-11-08 |
 | [Cup Full](https://open.spotify.com/track/4dIiJbA32UIWpkwfRdd8qI) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Cup Full](https://open.spotify.com/album/569L4WCdLzyfdEtFCuLZxk) | 2:23 | 2023-08-11 | 2023-09-20 |
 | [curly](https://open.spotify.com/track/1Qvwp3DULKe2pJ3Nlqqf6j) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [curly](https://open.spotify.com/album/6U0XrlPoviGhADoNJ9WlMU) | 4:38 | 2021-12-15 | 2022-07-29 |
 | [CYCLOPS](https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [C BOTH SIDES](https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc) | 2:09 | 2022-10-14 | 2023-10-21 |
@@ -352,6 +352,7 @@
 | [IJS](https://open.spotify.com/track/165JdCb1wEYmP5WfOXfBfa) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [IJS](https://open.spotify.com/album/5YkPkHK7iETIRUQh4NAeaI) | 3:47 | 2024-02-02 | 2024-07-20 |
 | [ILIKEU](https://open.spotify.com/track/0e2De20YDshejQNatfivQx) | [Silas Short](https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ) | [ILIKEU](https://open.spotify.com/album/5l4P7UoxB6WCF8Sbx29Y82) | 3:37 | 2024-08-02 | 2024-10-31 |
 | [IMMORTAL](https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq) | [Ricki Monique](https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr), [yourbeautifulruin](https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag) | [IMMORTAL](https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI) | 3:05 | 2022-02-11 | 2022-04-08 |
+| [Imperfect Me](https://open.spotify.com/track/2C5M5oQOLjaTiBAInYxEty) | [INDIA BLUE](https://open.spotify.com/artist/5M91kIFBO3vwGoHceiMugI) | [Imperfect Me](https://open.spotify.com/album/4Du59lDEB6pAv7B89QNtx4) | 3:54 | 2024-10-26 |  |
 | [IMY](https://open.spotify.com/track/3rc73DSLZDbJoa371fK6P4) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [FOR THE BOY IN ME](https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3) | 2:56 | 2024-09-28 |  |
 | [In Limbo](https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM), [Ironsides](https://open.spotify.com/artist/4nzySyLtM3nYbLWVB8gy0U) | [In Limbo](https://open.spotify.com/album/4VsRC2WqckvyyMSKu4ulYu) | 3:15 | 2024-04-05 |  |
 | [In Search of Balance](https://open.spotify.com/track/7jC7FwxsaNkQC8pO358NuY) | [Reginald Omas Mamode IV](https://open.spotify.com/artist/7fwMK3Ri8BjvsBajiUt8dS) | [Where We Going?](https://open.spotify.com/album/4huFOBTh7Q7nY6KuAJSL3V) | 3:08 | 2021-12-15 | 2022-04-21 |

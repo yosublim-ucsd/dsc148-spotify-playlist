@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 139502,
+  "num_followers": 139519,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa"
+      },
+      "artists": [
+        {
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+        }
+      ],
+      "duration_ms": 268573,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
         "name": "Alone Again (feat. PEPTALK)",
         "url": "https://open.spotify.com/album/3vwhUwx3bSeAZoX3XhBoHt"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 195522,
       "name": "Alone Again (feat. PEPTALK)",
       "url": "https://open.spotify.com/track/5dc3M8IGZLZX6nk8AjtO7k"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "Miles Away",
-        "url": "https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa"
-      },
-      "artists": [
-        {
-          "name": "The Kite String Tangle",
-          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
-        }
-      ],
-      "duration_ms": 268573,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -1045,20 +1045,20 @@
       "url": "https://open.spotify.com/track/0Fa39rh1TcvQlt3pLlxn7e"
     },
     {
-      "added_at": "2024-08-22 23:00:00",
+      "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Oh No",
-        "url": "https://open.spotify.com/album/28fJN4ijKdA0em3kiLaLCt"
+        "name": "Suzuka",
+        "url": "https://open.spotify.com/album/6QkC4UxbD1OqEpWcqzqR98"
       },
       "artists": [
         {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
         }
       ],
-      "duration_ms": 169668,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/4UOtElYfnpY2CxsTnWhrOA"
+      "duration_ms": 236919,
+      "name": "Suzuka",
+      "url": "https://open.spotify.com/track/4F6v6KqM19TVQFBm1V0Pz1"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Suzuka",
-        "url": "https://open.spotify.com/album/6QkC4UxbD1OqEpWcqzqR98"
-      },
-      "artists": [
-        {
-          "name": "Sam Alfred",
-          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
-        }
-      ],
-      "duration_ms": 236919,
-      "name": "Suzuka",
-      "url": "https://open.spotify.com/track/4F6v6KqM19TVQFBm1V0Pz1"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "Find Me",
         "url": "https://open.spotify.com/album/1VzwAk5MmGIgWoMIVmoq3z"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 224186,
       "name": "Find Me",
       "url": "https://open.spotify.com/track/63mP5zqdcYXjikeAQCNjco"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/28fJN4ijKdA0em3kiLaLCt"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 169668,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/4UOtElYfnpY2CxsTnWhrOA"
     },
     {
       "added_at": "2024-02-01 13:01:25",

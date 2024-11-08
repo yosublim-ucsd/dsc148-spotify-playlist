@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,929 likes - 60 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,926 likes - 60 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 53 | [Mandume](https://open.spotify.com/track/7JEFQNPdF5yUePOuTAG5fs) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Amiri](https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p), [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97), [Muzzike](https://open.spotify.com/artist/2XTtA7Pvl5vucL3oFXlMyT), [Raphão Alaafin](https://open.spotify.com/artist/1OKFuXrEWahihhc9VZ0iSy) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 8:15 |
 | 54 | [Umaextrapunkprumextrafunk](https://open.spotify.com/track/469zFH0iu9p9MtGAkuJG27) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:48 |
 | 55 | [Flo Jo](https://open.spotify.com/track/6RhaUcDOtoYg8xz8SM4wSy) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Rouff](https://open.spotify.com/album/3WCqEEZX2B01fJh6MUQxvQ) | 3:54 |
-| 56 | [Se Escute](https://open.spotify.com/track/6dRhcpld5vzJ21gMAY7aZg) | [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [Sem Cortesia \(Vagando na Babilônia / Em Busca de Canaã\)](https://open.spotify.com/album/3Qme8XNg5l1q3sbvXueqsK) | 2:45 |
-| 57 | [Eu Tiro É Onda \- Remix](https://open.spotify.com/track/7rY8HdRaxTUcJIP5ZV3Y5A) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Eu Tiro É Onda \(Remix\)](https://open.spotify.com/album/46mzP0WCiw6q1zbd31AWoa) | 2:54 |
+| 56 | [Eu Tiro É Onda \- Remix](https://open.spotify.com/track/7rY8HdRaxTUcJIP5ZV3Y5A) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Eu Tiro É Onda \(Remix\)](https://open.spotify.com/album/46mzP0WCiw6q1zbd31AWoa) | 2:54 |
+| 57 | [Se Escute](https://open.spotify.com/track/6dRhcpld5vzJ21gMAY7aZg) | [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [Sem Cortesia \(Vagando na Babilônia / Em Busca de Canaã\)](https://open.spotify.com/album/3Qme8XNg5l1q3sbvXueqsK) | 2:45 |
 | 58 | [Lágrimas do Palhaço](https://open.spotify.com/track/78qdx0sVnBYTGAKqnLHxcp) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | ["...Entre..."](https://open.spotify.com/album/4BXTL3vb3tzS05aLTRiosX) | 3:54 |
 | 59 | [Pesadelos de Quem Não Dorme Há Dias](https://open.spotify.com/track/3ws0OrDABrjY2yl1D8kCg4) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Lorens DTPK](https://open.spotify.com/artist/5VSZKWpZnee82aqu3QQhrV) | [Azul Piscina](https://open.spotify.com/album/3cKqztFXTxCESGT7lmATPS) | 2:26 |
 | 60 | [Rolo Compressor](https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 3:11 |

@@ -4,7 +4,7 @@
 
 > Todos tus éxitos favoritos de Disney\. Moana 2, Encanto, Frozen y mucho más!
 
-138 songs - 7 hr 0 min
+139 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Bajo el mar](https://open.spotify.com/track/1CK7FnJxNSZrQhEPLVVa2N) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Michael Cruz](https://open.spotify.com/artist/2AGl0dUCflM3mAfFcJVq5d) | [La Sirenita \(Banda Sonora Original en Español\)](https://open.spotify.com/album/64at2CIfC4MgtN5u0HNkVw) | 3:12 | 2023-12-06 |  |
 | [Bajo el mar](https://open.spotify.com/track/0NiIRfsKSAnlj5veylXT2Z) | [Lester Ciarreta Hernandez](https://open.spotify.com/artist/1qAIRcGT6oNYMEdD4rVoVa), [Cast \- The Little Mermaid](https://open.spotify.com/artist/433fI3xZoJp1D1dizEkJ3R) | [La Sirenita \(Banda Sonora Original en Español\)](https://open.spotify.com/album/2fRrKgbvod0kb4eRDknk3M) | 3:04 | 2023-09-15 | 2024-05-01 |
 | [Beauty and the Beast](https://open.spotify.com/track/5mRNFh0zp9qY1kDpecN9ot) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [La Bella y La Bestia \(Banda Sonora Original en Español\)](https://open.spotify.com/album/1grUQut8vgoI1fdRq6vVjq) | 3:47 | 2023-09-15 |  |
+| [Beyond \(End Credit Version\) \- From "Moana 2"](https://open.spotify.com/track/3fzqWttckvSJS7KPGPiWAg) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Beyond \(End Credit Version\) \[From "Moana 2"\]](https://open.spotify.com/album/6uCyNThgUieE9elUSd4SuP) | 3:16 | 2024-11-07 |  |
 | [Bibbidi\-Bobbidi\-Boo \(The Magic Song\)](https://open.spotify.com/track/0tZqXCvOx44WKqcgEZtIRl) | [Helena Bonham Carter](https://open.spotify.com/artist/7gX22Ua3mEH2KXTCpIfoOP) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 1:22 | 2023-09-15 | 2024-05-01 |
 | [Brillo](https://open.spotify.com/track/4RnN3TNgEKObmmrBbbTw9w) | [Dan Osorio](https://open.spotify.com/artist/0bQBooej9K9x0aJL6HM2QK) | [Moana: un mar de aventuras \(Sonora Original en Español\)](https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX) | 3:06 | 2024-04-30 |  |
 | [Bésala](https://open.spotify.com/track/1BKNatU4cpHxUAfET1Q9Ln) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Howard Ashman](https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN), [Michael Cruz](https://open.spotify.com/artist/2AGl0dUCflM3mAfFcJVq5d) | [La Sirenita \(Banda Sonora Original en Español\)](https://open.spotify.com/album/64at2CIfC4MgtN5u0HNkVw) | 2:41 | 2024-04-30 |  |
